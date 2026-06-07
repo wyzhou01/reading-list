@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 07 Jun 2026 22:41:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 22:44:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -96,6 +96,17 @@
       <itunes:duration>00:13:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260608/episode-20260608-1e2076.mp3" length="12783789" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《以日为鉴：衰退时代生存指南》 · 第 3 集 · 通缩螺旋：物价、工资、信念的三重坠落</title>
+      <description>本集拆解日本通缩三十年：物价不涨听着像好事，为什么成了噩梦？核心是工资、消费、物价的自我强化闭环——年轻人不再加薪跳槽，企业靠终身雇用锁住员工但天花板更低，极简消费崛起，社会心态从奋斗转向维持。</description>
+      <pubDate>Sun, 07 Jun 2026 22:39:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260608-episode-20260608-f363c9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本集拆解日本通缩三十年：物价不涨听着像好事，为什么成了噩梦？核心是工资、消费、物价的自我强化闭环——年轻人不再加薪跳槽，企业靠终身雇用锁住员工但天花板更低，极简消费崛起，社会心态从奋斗转向维持。</itunes:summary>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260608/episode-20260608-f363c9.mp3" length="11971629" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
