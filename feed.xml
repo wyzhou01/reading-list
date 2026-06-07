@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 07 Jun 2026 04:27:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 22:36:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -52,6 +52,17 @@
       <itunes:duration>00:16:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://wyzhou01.github.io/reading-list/episodes/episode-20260607-a45cf2.mp3" length="15785133" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《贫穷的本质：我们为什么摆脱不了贫穷（修订版）》 · 第 1 集 · 穷人真的懒吗？重新理解贫穷</title>
+      <description>第一集从&apos;穷人是不是懒&apos;这个日常偏见切入，介绍班纳吉与迪弗洛两位诺奖得主的十五年田野调查，以及他们用随机对照实验重新研究贫困的方法论革命，为后续讨论健康、教育、创业等具体陷阱奠定认知基础。</description>
+      <pubDate>Sun, 07 Jun 2026 22:32:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260608-episode-20260608-acd3c2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>第一集从&apos;穷人是不是懒&apos;这个日常偏见切入，介绍班纳吉与迪弗洛两位诺奖得主的十五年田野调查，以及他们用随机对照实验重新研究贫困的方法论革命，为后续讨论健康、教育、创业等具体陷阱奠定认知基础。</itunes:summary>
+      <itunes:duration>00:11:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260608/episode-20260608-acd3c2.mp3" length="11518125" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
