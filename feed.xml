@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 07 Jun 2026 22:36:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 22:39:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -63,6 +63,17 @@
       <itunes:duration>00:11:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260608/episode-20260608-acd3c2.mp3" length="11518125" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《以日为鉴：衰退时代生存指南》 · 第 1 集 · 日本病：一场没有跌停的崩盘</title>
+      <description>本期拆解日本失去的二十年：一九九零年资产泡沫破裂后，日经指数腰斩、地价神话破灭，但GDP从未归零。核心解释辜朝明的资产负债表衰退理论：私人部门不再借钱，企业目标从扩张转向还债，并与二零零八年美国金融危机做对比，揭示为何日本式衰退比崩盘更可怕。</description>
+      <pubDate>Sun, 07 Jun 2026 22:32:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260608-episode-20260608-cd61ab</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期拆解日本失去的二十年：一九九零年资产泡沫破裂后，日经指数腰斩、地价神话破灭，但GDP从未归零。核心解释辜朝明的资产负债表衰退理论：私人部门不再借钱，企业目标从扩张转向还债，并与二零零八年美国金融危机做对比，揭示为何日本式衰退比崩盘更可怕。</itunes:summary>
+      <itunes:duration>00:16:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260608/episode-20260608-cd61ab.mp3" length="15779757" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
