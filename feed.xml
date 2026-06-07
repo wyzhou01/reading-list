@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 07 Jun 2026 22:39:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 22:40:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -74,6 +74,17 @@
       <itunes:duration>00:16:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260608/episode-20260608-cd61ab.mp3" length="15779757" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《贫穷的本质：我们为什么摆脱不了贫穷（修订版）》 · 第 2 集 · 吃饱和健康之间，隔着什么？</title>
+      <description>本集聚焦第三、第四章，拆解穷人在健康决策上踩中的隐形陷阱：从隐性饥饿、缺铁缺碘，到疫苗犹豫、医疗信任崩坏、假药与抗生素滥用，再到健康保险为何在穷国失灵。穷人不治小病，不是因为不在乎，而是眼前的生存压力盖过了未来的健康赌注。</description>
+      <pubDate>Sun, 07 Jun 2026 22:36:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260608-episode-20260608-11ea68</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本集聚焦第三、第四章，拆解穷人在健康决策上踩中的隐形陷阱：从隐性饥饿、缺铁缺碘，到疫苗犹豫、医疗信任崩坏、假药与抗生素滥用，再到健康保险为何在穷国失灵。穷人不治小病，不是因为不在乎，而是眼前的生存压力盖过了未来的健康赌注。</itunes:summary>
+      <itunes:duration>00:13:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260608/episode-20260608-11ea68.mp3" length="12651309" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
