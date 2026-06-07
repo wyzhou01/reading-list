@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 06 Jun 2026 17:48:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 03:27:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31,6 +31,16 @@
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260606/episode-20260606-dcbe6c.mp3" length="17148333" type="audio/mpeg"/>
     </item>
+    <item>
+      <title>好好读书 · 《以日为鉴：衰退时代生存指南》 · 第 1 集 · 泡沫破裂：日本如何用一代人换一场保就业</title>
+      <description>本集拆解日本泡沫破裂后如何用十年时间把失业率压在百分之五以下，剖析企业改革、雇佣改革、债务豁免三大手段背后的代价：僵尸企业、银行破产潮、错过半导体与互联网革命，以及就业冰河期中一代大学生被牺牲的命运。</description>
+      <pubDate>Sun, 07 Jun 2026 03:21:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260607-episode-20260607-ebdd2d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本集拆解日本泡沫破裂后如何用十年时间把失业率压在百分之五以下，剖析企业改革、雇佣改革、债务豁免三大手段背后的代价：僵尸企业、银行破产潮、错过半导体与互联网革命，以及就业冰河期中一代大学生被牺牲的命运。</itunes:summary>
+      <itunes:duration>00:24:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260607/episode-20260607-ebdd2d.mp3" length="23996205" type="audio/mpeg"/>
+    </item>
   </channel>
 </rss>
-
