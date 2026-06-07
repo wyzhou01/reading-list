@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "description": "Books pool metadata, managed by TM",
+  "books": {
+    "以日为鉴：衰退时代生存指南": {
+      "archive_dir": "archive/2026-06-07-以日为鉴：衰退时代生存指南",
+      "status": "drafted",
+      "episodes_planned": 6,
+      "episodes_done": 1,
+      "processed_at": "2026-06-07"
+    },
+    "贫穷的本质：我们为什么摆脱不了贫穷（修订版）": {
+      "archive_dir": "archive/2026-06-07-贫穷的本质：我们为什么摆脱不了贫穷（修订版）",
+      "status": "drafted",
+      "episodes_planned": 7,
+      "episodes_done": 1,
+      "processed_at": "2026-06-07"
+    }
+  },
+  "last_scan": "2026-06-07T04:27:24.140890+00:00"
+}
