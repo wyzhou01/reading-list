@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 08 Jun 2026 00:59:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 01:03:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -140,6 +140,17 @@
       <itunes:duration>00:13:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260608/episode-20260608-edc197.mp3" length="12806445" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《以日为鉴：衰退时代生存指南》 · 第 7 集 · 镜鉴中国：我们会不会成为下一个日本</title>
+      <description>本集聚焦中国与日本的镜鉴对照：梳理地产、人口、地方债、青年失业四项相似曲线，盘点数字化、产业升级、资本账户三项关键差异，评估政府政策工具箱的剩余空间，并提炼给普通人的三条底线思维——保现金流、留可迁移能力、不赌单一国运。</description>
+      <pubDate>Mon, 08 Jun 2026 00:59:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260608-episode-20260608-bd9200</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本集聚焦中国与日本的镜鉴对照：梳理地产、人口、地方债、青年失业四项相似曲线，盘点数字化、产业升级、资本账户三项关键差异，评估政府政策工具箱的剩余空间，并提炼给普通人的三条底线思维——保现金流、留可迁移能力、不赌单一国运。</itunes:summary>
+      <itunes:duration>00:15:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260608/episode-20260608-bd9200.mp3" length="15070893" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
