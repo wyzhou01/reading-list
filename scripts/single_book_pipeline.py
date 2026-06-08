@@ -976,6 +976,28 @@ def main():
             for f in items:
                 print(f"  📖 {f.name}")
         return
+    if cmd == "pool":
+        # 2026-06-08: 1 条命令看完 — 已处理 / 未处理 / 候选下一步
+        processed = list_processed_books()
+        unprocessed = list_unprocessed_books()
+        total_books = (len(processed) + len(unprocessed))
+        print(f"📚 好好读书 书池状态\n")
+        print(f"✅ 已处理 ({len(processed)} / {total_books}):")
+        if processed:
+            for i, (bs, info) in enumerate(processed, 1):
+                name = info.get('book_name', bs)
+                dur = info.get('duration_sec', 0)
+                print(f"  {i}. 《{name}》 ({dur//60} 分钟)")
+        else:
+            print("  (空)")
+        print(f"\n⏳ 未处理 ({len(unprocessed)} / {total_books}):")
+        if unprocessed:
+            for i, f in enumerate(unprocessed, 1):
+                print(f"  {i}. {f.name}")
+            print(f"\n💡 下一本: 跟我说『跑 《{unprocessed[0].stem}》』 即可")
+        else:
+            print("  (全处理完了 🎉)")
+        return
 
     # 下面要 book_safe
     if len(sys.argv) < 3:
