@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 08 Jun 2026 18:07:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 18:12:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -85,6 +85,17 @@
       <itunes:duration>00:28:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260609/episode-20260609-eb0ff7.mp3" length="27742125" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《金钱心理学：财富、人性和幸福的永恒真相》 · 完整版 · 金钱心理学：财富、人性和幸福的永恒真相 · 完整讲读</title>
+      <description>《金钱心理学》用二十个反直觉的洞察，揭示了一个朴素的真相：决定财富的从来不是智商，而是行为习惯，是那些关于贪婪、恐惧、耐心的软技能。书中没有选股秘籍，没有宏观预测，只有门卫罗纳德·里德用一生诠释的复利奇迹，和哈佛精英理查德·福斯肯破产的真实故事。财富的本质，不是你能买到什么，而是你不必再做什么；真正的富有，是低调到让人察觉不到。本书适合每一个想守住钱袋子、又不想被金融术语劝退的普通人。</description>
+      <pubDate>Mon, 08 Jun 2026 18:03:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260609-episode-20260609-d57a8e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《金钱心理学》用二十个反直觉的洞察，揭示了一个朴素的真相：决定财富的从来不是智商，而是行为习惯，是那些关于贪婪、恐惧、耐心的软技能。书中没有选股秘籍，没有宏观预测，只有门卫罗纳德·里德用一生诠释的复利奇迹，和哈佛精英理查德·福斯肯破产的真实故事。财富的本质，不是你能买到什么，而是你不必再做什么；真正的富有，是低调到让人察觉不到。本书适合每一个想守住钱袋子、又不想被金融术语劝退的普通人。</itunes:summary>
+      <itunes:duration>00:41:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260609/episode-20260609-d57a8e.mp3" length="40195245" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
