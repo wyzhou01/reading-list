@@ -4,3 +4,11 @@
 __pycache__/
 *.pyc
 archive/
+
+# 2026-06-08: 草稿 / 临时文件不入 git
+scripts/_proposed/
+scripts/_bootstrap_v2_from_disk.py
+scripts/_DEPRECATED_*
+logs/
+state/
+workspace/
