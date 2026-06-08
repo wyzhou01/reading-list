@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 08 Jun 2026 00:55:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 00:59:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -129,6 +129,17 @@
       <itunes:duration>00:18:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260608/episode-20260608-e161ab.mp3" length="17593389" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《以日为鉴：衰退时代生存指南》 · 第 6 集 · 现金为王是陷阱？衰退期的资产配置</title>
+      <description>本集拆解日本衰退期家庭资产配置：现金为王为何在通缩+零利率环境成为陷阱，存款利率跑不赢资产缩水；东京核心区不动产如何扛住三十年下跌；日元贬值周期下日本个人资金如何加速出海；以及作者给出的终极答案——最值钱的不是某项资产，而是可迁移的技能与全球现金流。</description>
+      <pubDate>Mon, 08 Jun 2026 00:55:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260608-episode-20260608-edc197</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本集拆解日本衰退期家庭资产配置：现金为王为何在通缩+零利率环境成为陷阱，存款利率跑不赢资产缩水；东京核心区不动产如何扛住三十年下跌；日元贬值周期下日本个人资金如何加速出海；以及作者给出的终极答案——最值钱的不是某项资产，而是可迁移的技能与全球现金流。</itunes:summary>
+      <itunes:duration>00:13:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260608/episode-20260608-edc197.mp3" length="12806445" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
