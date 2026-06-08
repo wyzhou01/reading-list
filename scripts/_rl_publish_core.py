@@ -350,7 +350,7 @@ def add_episode(args):
         "next_episode_teaser": getattr(args, "next_teaser", ""),
     }
 
-    # 读旧 RSS，prepend 新 episode（同 title 则覆盖，保留其它期）
+    # 读旧 RSS，prepend 新 episode（同 title 或同 audio_url 则覆盖，保留其它期）
     existing, _ = list_existing_episodes()
     from email.utils import parsedate_to_datetime
     new_ts = parsedate_to_datetime(ep["pub_date_rfc822"])
@@ -358,21 +358,22 @@ def add_episode(args):
     replaced = False
     deduped = []
     for e in existing:
-        if e["title"] == ep["title"]:
+        # 2026-06-08: 强化去重 — 同 title 或同 audio_url 视为重复
+        if e["title"] == ep["title"] or e.get("audio_url", "") == ep.get("audio_url", ""):
             try:
                 e_ts = parsedate_to_datetime(e["pub_date_rfc822"])
             except Exception:
                 e_ts = datetime.min.replace(tzinfo=timezone.utc)
             if e_ts >= new_ts:
                 # 仓库里已有更新的同 title episode，跳过本次发布
-                print(f"   ↻ 跳过：仓库已有更新的同 title episode（{e['pub_date_rfc822']}）")
+                print(f"   ↻ 跳过：仓库已有同 title 或同 URL 的 episode（{e['pub_date_rfc822']}）")
                 ep = None
                 deduped.append(e)
                 replaced = True
                 break
             else:
                 # 旧的比新早，用新 ep 替换（不 append 旧的）
-                print(f"   ↻ 替换旧同 title episode（{e['pub_date_rfc822']} → {ep['pub_date_rfc822']}）")
+                print(f"   ↻ 替换旧同 title/URL episode（{e['pub_date_rfc822']} → {ep['pub_date_rfc822']}）")
                 replaced = True
                 # 不 append 旧的，新的下面 prepend
         else:
