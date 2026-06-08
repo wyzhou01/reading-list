@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 08 Jun 2026 17:04:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 18:07:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -74,6 +74,17 @@
       <itunes:duration>00:30:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260609/episode-20260609-9d830a.mp3" length="29202477" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《追寻生命的意义》 · 完整版 · 追寻生命的意义 - （奥)弗兰克尔 · 完整讲读</title>
+      <description>《追寻生命的意义》是维也纳精神科医生维克多·弗兰克尔从奥斯维辛生还后写下的证词与学说。他亲历父母、兄长、妻子相继死于牢营，自己仅余一具瘦骨与一份藏在背袋里被讥为&quot;狗屎&quot;的学术手稿。书中以近乎白描的笔法，记录集中营里的饥饿、羞辱、死亡与求生本能；并由此发展出意义治疗法，提出&quot;求意义的意志&quot;&quot;存在的空虚&quot;&quot;自我超越&quot;等核心概念。他主张：人在任何境遇下，都拥有选择态度的终极自由；苦难不是惩罚，而是发现生命意义的机会；爱可以穿透死亡。本书销量逾千万册，被美国国会图书馆列为&quot;美国十大有影响力图书&quot;，至今仍为无数在意义真空里打转的现代人，点着一盏灯。</description>
+      <pubDate>Mon, 08 Jun 2026 17:59:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260609-episode-20260609-eb0ff7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《追寻生命的意义》是维也纳精神科医生维克多·弗兰克尔从奥斯维辛生还后写下的证词与学说。他亲历父母、兄长、妻子相继死于牢营，自己仅余一具瘦骨与一份藏在背袋里被讥为&quot;狗屎&quot;的学术手稿。书中以近乎白描的笔法，记录集中营里的饥饿、羞辱、死亡与求生本能；并由此发展出意义治疗法，提出&quot;求意义的意志&quot;&quot;存在的空虚&quot;&quot;自我超越&quot;等核心概念。他主张：人在任何境遇下，都拥有选择态度的终极自由；苦难不是惩罚，而是发现生命意义的机会；爱可以穿透死亡。本书销量逾千万册，被美国国会图书馆列为&quot;美国十大有影响力图书&quot;，至今仍为无数在意义真空里打转的现代人，点着一盏灯。</itunes:summary>
+      <itunes:duration>00:28:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260609/episode-20260609-eb0ff7.mp3" length="27742125" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
