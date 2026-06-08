@@ -7,151 +7,19 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 08 Jun 2026 06:47:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 07:29:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
     <itunes:owner>
       <itunes:name>好好读书组</itunes:name>
-      <itunes:email>noreply@wyzhou01.github.io</itunes:email>
+      <itunes:email>zlyzwy@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Arts">
       <itunes:category text="Books"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/reading-list/cover.jpg"/>
-    <item>
-      <title>好好读书 · 《以日为鉴》 · 第 1 集 · 泡沫破裂：日本如何用一代大学生换就业稳定</title>
-      <description>本集拆解《以日为鉴》前言与第一篇前两章：日本泡沫破裂后如何用企业改革与雇佣改革将失业率压在百分之五以下，代价是僵尸企业泛滥、银行体系崩塌、错失半导体与互联网革命，最终由一代大学生承担就业冰河期的全部成本。</description>
-      <pubDate>Sat, 06 Jun 2026 07:07:32 +0000</pubDate>
-      <guid isPermaLink="false">reading-list-ep1-20260606</guid>
-      <itunes:author>好好读书组</itunes:author>
-      <itunes:summary>本集拆解《以日为鉴》前言与第一篇前两章：日本泡沫破裂后如何用企业改革与雇佣改革将失业率压在百分之五以下，代价是僵尸企业泛滥、银行体系崩塌、错失半导体与互联网革命，最终由一代大学生承担就业冰河期的全部成本。</itunes:summary>
-      <itunes:duration>00:17:51</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260606/episode-20260606-dcbe6c.mp3" length="17148333" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>好好读书 · 《以日为鉴：衰退时代生存指南》 · 第 1 集 · 泡沫破裂：日本如何用一代人换一场保就业</title>
-      <description>本集拆解日本泡沫破裂后如何用十年时间把失业率压在百分之五以下，剖析企业改革、雇佣改革、债务豁免三大手段背后的代价：僵尸企业、银行破产潮、错过半导体与互联网革命，以及就业冰河期中一代大学生被牺牲的命运。</description>
-      <pubDate>Sun, 07 Jun 2026 03:21:16 +0000</pubDate>
-      <guid isPermaLink="false">reading-list-vv20260607-episode-20260607-ebdd2d</guid>
-      <itunes:author>好好读书组</itunes:author>
-      <itunes:summary>本集拆解日本泡沫破裂后如何用十年时间把失业率压在百分之五以下，剖析企业改革、雇佣改革、债务豁免三大手段背后的代价：僵尸企业、银行破产潮、错过半导体与互联网革命，以及就业冰河期中一代大学生被牺牲的命运。</itunes:summary>
-      <itunes:duration>00:24:59</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://wyzhou01.github.io/reading-list/episodes/episode-20260607-ebdd2d.mp3" length="23996205" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>好好读书 · 《贫穷的本质：我们为什么摆脱不了贫穷（修订版）》 · 第 1 集 · 每天99美分：重新理解贫穷</title>
-      <description>本集从八亿六千五百万人每天靠九十九美分生活这个具体数字切入，介绍作者班纳吉与迪弗洛十五年田野调查的来龙去脉，梳理萨克斯与伊斯特利关于援助的多年论战，并引出本书的核心方法论：用随机对照实验回答具体的小问题，替代无法验证的宏大叙事。</description>
-      <pubDate>Sun, 07 Jun 2026 04:23:31 +0000</pubDate>
-      <guid isPermaLink="false">reading-list-vv20260607-episode-20260607-a45cf2</guid>
-      <itunes:author>好好读书组</itunes:author>
-      <itunes:summary>本集从八亿六千五百万人每天靠九十九美分生活这个具体数字切入，介绍作者班纳吉与迪弗洛十五年田野调查的来龙去脉，梳理萨克斯与伊斯特利关于援助的多年论战，并引出本书的核心方法论：用随机对照实验回答具体的小问题，替代无法验证的宏大叙事。</itunes:summary>
-      <itunes:duration>00:16:26</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://wyzhou01.github.io/reading-list/episodes/episode-20260607-a45cf2.mp3" length="15785133" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>好好读书 · 《贫穷的本质：我们为什么摆脱不了贫穷（修订版）》 · 第 1 集 · 穷人真的懒吗？重新理解贫穷</title>
-      <description>第一集从&apos;穷人是不是懒&apos;这个日常偏见切入，介绍班纳吉与迪弗洛两位诺奖得主的十五年田野调查，以及他们用随机对照实验重新研究贫困的方法论革命，为后续讨论健康、教育、创业等具体陷阱奠定认知基础。</description>
-      <pubDate>Sun, 07 Jun 2026 22:32:59 +0000</pubDate>
-      <guid isPermaLink="false">reading-list-vv20260608-episode-20260608-acd3c2</guid>
-      <itunes:author>好好读书组</itunes:author>
-      <itunes:summary>第一集从&apos;穷人是不是懒&apos;这个日常偏见切入，介绍班纳吉与迪弗洛两位诺奖得主的十五年田野调查，以及他们用随机对照实验重新研究贫困的方法论革命，为后续讨论健康、教育、创业等具体陷阱奠定认知基础。</itunes:summary>
-      <itunes:duration>00:11:59</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260608/episode-20260608-acd3c2.mp3" length="11518125" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>好好读书 · 《以日为鉴：衰退时代生存指南》 · 第 1 集 · 日本病：一场没有跌停的崩盘</title>
-      <description>本期拆解日本失去的二十年：一九九零年资产泡沫破裂后，日经指数腰斩、地价神话破灭，但GDP从未归零。核心解释辜朝明的资产负债表衰退理论：私人部门不再借钱，企业目标从扩张转向还债，并与二零零八年美国金融危机做对比，揭示为何日本式衰退比崩盘更可怕。</description>
-      <pubDate>Sun, 07 Jun 2026 22:32:58 +0000</pubDate>
-      <guid isPermaLink="false">reading-list-vv20260608-episode-20260608-cd61ab</guid>
-      <itunes:author>好好读书组</itunes:author>
-      <itunes:summary>本期拆解日本失去的二十年：一九九零年资产泡沫破裂后，日经指数腰斩、地价神话破灭，但GDP从未归零。核心解释辜朝明的资产负债表衰退理论：私人部门不再借钱，企业目标从扩张转向还债，并与二零零八年美国金融危机做对比，揭示为何日本式衰退比崩盘更可怕。</itunes:summary>
-      <itunes:duration>00:16:26</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260608/episode-20260608-cd61ab.mp3" length="15779757" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>好好读书 · 《贫穷的本质：我们为什么摆脱不了贫穷（修订版）》 · 第 2 集 · 吃饱和健康之间，隔着什么？</title>
-      <description>本集聚焦第三、第四章，拆解穷人在健康决策上踩中的隐形陷阱：从隐性饥饿、缺铁缺碘，到疫苗犹豫、医疗信任崩坏、假药与抗生素滥用，再到健康保险为何在穷国失灵。穷人不治小病，不是因为不在乎，而是眼前的生存压力盖过了未来的健康赌注。</description>
-      <pubDate>Sun, 07 Jun 2026 22:36:22 +0000</pubDate>
-      <guid isPermaLink="false">reading-list-vv20260608-episode-20260608-11ea68</guid>
-      <itunes:author>好好读书组</itunes:author>
-      <itunes:summary>本集聚焦第三、第四章，拆解穷人在健康决策上踩中的隐形陷阱：从隐性饥饿、缺铁缺碘，到疫苗犹豫、医疗信任崩坏、假药与抗生素滥用，再到健康保险为何在穷国失灵。穷人不治小病，不是因为不在乎，而是眼前的生存压力盖过了未来的健康赌注。</itunes:summary>
-      <itunes:duration>00:13:10</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260608/episode-20260608-11ea68.mp3" length="12651309" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>好好读书 · 《以日为鉴：衰退时代生存指南》 · 第 2 集 · 资产负债表衰退：当还债成为国民信仰</title>
-      <description>本集拆解资产负债表衰退：当资产价格暴跌，私人部门的目标从扩张转向还债，货币政策传导彻底失灵，凯恩斯之所以在日本失效，根本原因是面对偿债问题而非信心问题。</description>
-      <pubDate>Sun, 07 Jun 2026 22:34:40 +0000</pubDate>
-      <guid isPermaLink="false">reading-list-vv20260608-episode-20260608-1e2076</guid>
-      <itunes:author>好好读书组</itunes:author>
-      <itunes:summary>本集拆解资产负债表衰退：当资产价格暴跌，私人部门的目标从扩张转向还债，货币政策传导彻底失灵，凯恩斯之所以在日本失效，根本原因是面对偿债问题而非信心问题。</itunes:summary>
-      <itunes:duration>00:13:18</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260608/episode-20260608-1e2076.mp3" length="12783789" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>好好读书 · 《以日为鉴：衰退时代生存指南》 · 第 3 集 · 通缩螺旋：物价、工资、信念的三重坠落</title>
-      <description>本集拆解日本通缩三十年：物价不涨听着像好事，为什么成了噩梦？核心是工资、消费、物价的自我强化闭环——年轻人不再加薪跳槽，企业靠终身雇用锁住员工但天花板更低，极简消费崛起，社会心态从奋斗转向维持。</description>
-      <pubDate>Sun, 07 Jun 2026 22:39:39 +0000</pubDate>
-      <guid isPermaLink="false">reading-list-vv20260608-episode-20260608-f363c9</guid>
-      <itunes:author>好好读书组</itunes:author>
-      <itunes:summary>本集拆解日本通缩三十年：物价不涨听着像好事，为什么成了噩梦？核心是工资、消费、物价的自我强化闭环——年轻人不再加薪跳槽，企业靠终身雇用锁住员工但天花板更低，极简消费崛起，社会心态从奋斗转向维持。</itunes:summary>
-      <itunes:duration>00:00:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260608/episode-20260608-f363c9.mp3" length="11971629" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>好好读书 · 《以日为鉴：衰退时代生存指南》 · 第 4 集 · 人口悬崖：当接力赛最后一个选手停下</title>
-      <description>本集拆解日本人口悬崖：少子老龄化如何从社会现象变成经济底层参数。总和生育率三十年跌去四成，劳动力拐点先于消费拐点、再先于 G D P 拐点。第七第八章合在一起，回答一个核心问题：一个国家的人口曲线，能预测它的经济命运吗？</description>
-      <pubDate>Sun, 07 Jun 2026 22:44:34 +0000</pubDate>
-      <guid isPermaLink="false">reading-list-vv20260608-episode-20260608-9b7827</guid>
-      <itunes:author>好好读书组</itunes:author>
-      <itunes:summary>本集拆解日本人口悬崖：少子老龄化如何从社会现象变成经济底层参数。总和生育率三十年跌去四成，劳动力拐点先于消费拐点、再先于 G D P 拐点。第七第八章合在一起，回答一个核心问题：一个国家的人口曲线，能预测它的经济命运吗？</itunes:summary>
-      <itunes:duration>00:00:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260608/episode-20260608-9b7827.mp3" length="14122413" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>好好读书 · 《以日为鉴：衰退时代生存指南》 · 第 5 集 · 僵尸企业与失去的产业：日本制造的迷思</title>
-      <description>本集拆解日本僵尸企业经济学与产业空心化：广场协议后日元升值、泡沫破裂、银行续命，三者如何共同养出占企业总数两成的僵尸群体，挤压信贷与工资，扼杀新进入者。同期丰田等企业被迫出海，国内产业链空洞。最后回到那个被反复追问的问题：日本真的失去创新了吗？</description>
-      <pubDate>Mon, 08 Jun 2026 00:51:31 +0000</pubDate>
-      <guid isPermaLink="false">reading-list-vv20260608-episode-20260608-e161ab</guid>
-      <itunes:author>好好读书组</itunes:author>
-      <itunes:summary>本集拆解日本僵尸企业经济学与产业空心化：广场协议后日元升值、泡沫破裂、银行续命，三者如何共同养出占企业总数两成的僵尸群体，挤压信贷与工资，扼杀新进入者。同期丰田等企业被迫出海，国内产业链空洞。最后回到那个被反复追问的问题：日本真的失去创新了吗？</itunes:summary>
-      <itunes:duration>00:18:19</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260608/episode-20260608-e161ab.mp3" length="17593389" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>好好读书 · 《以日为鉴：衰退时代生存指南》 · 第 6 集 · 现金为王是陷阱？衰退期的资产配置</title>
-      <description>本集拆解日本衰退期家庭资产配置：现金为王为何在通缩+零利率环境成为陷阱，存款利率跑不赢资产缩水；东京核心区不动产如何扛住三十年下跌；日元贬值周期下日本个人资金如何加速出海；以及作者给出的终极答案——最值钱的不是某项资产，而是可迁移的技能与全球现金流。</description>
-      <pubDate>Mon, 08 Jun 2026 00:55:52 +0000</pubDate>
-      <guid isPermaLink="false">reading-list-vv20260608-episode-20260608-edc197</guid>
-      <itunes:author>好好读书组</itunes:author>
-      <itunes:summary>本集拆解日本衰退期家庭资产配置：现金为王为何在通缩+零利率环境成为陷阱，存款利率跑不赢资产缩水；东京核心区不动产如何扛住三十年下跌；日元贬值周期下日本个人资金如何加速出海；以及作者给出的终极答案——最值钱的不是某项资产，而是可迁移的技能与全球现金流。</itunes:summary>
-      <itunes:duration>00:13:20</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260608/episode-20260608-edc197.mp3" length="12806445" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>好好读书 · 《以日为鉴：衰退时代生存指南》 · 第 7 集 · 镜鉴中国：我们会不会成为下一个日本</title>
-      <description>本集聚焦中国与日本的镜鉴对照：梳理地产、人口、地方债、青年失业四项相似曲线，盘点数字化、产业升级、资本账户三项关键差异，评估政府政策工具箱的剩余空间，并提炼给普通人的三条底线思维——保现金流、留可迁移能力、不赌单一国运。</description>
-      <pubDate>Mon, 08 Jun 2026 00:59:19 +0000</pubDate>
-      <guid isPermaLink="false">reading-list-vv20260608-episode-20260608-bd9200</guid>
-      <itunes:author>好好读书组</itunes:author>
-      <itunes:summary>本集聚焦中国与日本的镜鉴对照：梳理地产、人口、地方债、青年失业四项相似曲线，盘点数字化、产业升级、资本账户三项关键差异，评估政府政策工具箱的剩余空间，并提炼给普通人的三条底线思维——保现金流、留可迁移能力、不赌单一国运。</itunes:summary>
-      <itunes:duration>00:15:41</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260608/episode-20260608-bd9200.mp3" length="15070893" type="audio/mpeg"/>
-    </item>
     <item>
       <title>好好读书 · 《贫穷的本质：我们为什么摆脱不了贫穷（修订版）》 · 完整版 · 贫穷的本质：我们为什么摆脱不了贫穷（修订版） · 完整讲读</title>
       <description>《贫穷的本质》通过十五年的实地调研与随机对照实验，揭示了穷人面临的真实困境：不是宏大的悲剧，而是一连串小额风险、信息匮乏与心理压力的具体决策难题。两位作者深入健康、教育、生育、金融、创业、政府六大维度，展示了贫困如何被具体机制固化，也证明了精准干预可以让穷人的人生真正转向。贫穷不是命运的标签，而是一套可以被研究、被理解、被干预的经济决策。这本书颠覆了对贫困的道德化想象，为发展经济学开启了一个以证据为基础、以人为本的新范式。</description>
@@ -163,7 +31,7 @@
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260608/episode-20260608-a20947.mp3" length="27228333" type="audio/mpeg"/>
     </item>
-    <item>
+  <item>
       <title>好好读书 · 《以日为鉴：衰退时代生存指南》 · 完整版 · 以日为鉴衰退时代生存指南_(分析师Boden)_ · 完整讲读</title>
       <description>《以日为鉴》是独立研究者分析师波顿撰写的东亚宏观经济读物，以日本失去的二十年为镜，从失业潮、就业冰河期、考公热、医疗崩坏与全民出海五个维度，剖析泡沫破裂后不同职业与年龄群体的真实命运。书中提出六个核心洞察：资产负债表衰退的传导机制、人口塌方对利率与消费的压制、通缩思维陷阱下现金为王为何危险、个人与政府的反脆弱策略，以及东亚镜鉴中哪些日本教训不可避免、哪些可以主动避免。对于正在面对类似周期处境的中国读者，本书既是人生参考书，也是职业错题本。</description>
       <pubDate>Mon, 08 Jun 2026 06:36:34 +0000</pubDate>
