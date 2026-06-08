@@ -127,14 +127,26 @@ def step_structure(book_safe):
         raise FileNotFoundError(f"先跑 extract: {text_file}")
     out = ws / "book_structure.json"
     if out.exists():
+        # 2026-06-08 20:15: 即使文件存在也补上 output_mode (防止旧文件无字段)
+        try:
+            d = json.loads(out.read_text(encoding="utf-8"))
+            if "output_mode" not in d:
+                d["output_mode"] = "single_book"
+                out.write_text(json.dumps(d, ensure_ascii=False, indent=2), encoding="utf-8")
+                print(f"  ↺ 已补上 output_mode = single_book (老文件)")
+        except Exception:
+            pass
         print(f"⏭️  structure 已存在: {out}, 跳过")
         return str(out)
-    data = generate.run_phase1(str(text_file))
+    generate.run_phase1(str(text_file))  # 内部写盘
     # 2026-06-08 17:50: 默认 mode = single_book (一书一集, 用户确认)
-    if "output_mode" not in data:
-        data["output_mode"] = "single_book"
-        print(f"  ↺ book_structure.output_mode = single_book (默认)")
-    out.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+    # 2026-06-08 20:15: run_phase1 已写, 这里读后加 output_mode 重写
+    if out.exists():
+        d = json.loads(out.read_text(encoding="utf-8"))
+        if "output_mode" not in d:
+            d["output_mode"] = "single_book"
+            out.write_text(json.dumps(d, ensure_ascii=False, indent=2), encoding="utf-8")
+            print(f"  ↺ book_structure.output_mode = single_book (默认)")
     print(f"💾 structure: {out}")
     return str(out)
 

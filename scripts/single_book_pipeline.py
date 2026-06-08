@@ -1005,6 +1005,41 @@ def main():
         sys.exit(1)
     book_safe = sys.argv[2]
 
+    # 2026-06-08 20:10: 重跑检查 (阿迈明确要求)
+    # 跑前检查是否已处理, 如有则警告 + 确认
+    if cmd in ("run", "regenerate-text", "tts", "publish"):
+        processed = list_processed_books()
+        for bs, info in processed:
+            if book_safe == bs or book_safe == info.get("book_name", ""):
+                ts = info.get("processed_at", "?")
+                dur = info.get("duration_sec", 0)
+                print(f"\n⚠️  【重跑警告】")
+                print(f"   《{info.get('book_name', bs)}》 已在 {ts} 处理过 ({dur//60} 分钟)")
+                print(f"   状态: ✅ 已处理")
+                print(f"   下一本未处理推荐: {list_unprocessed_books()[0].stem if list_unprocessed_books() else '(全处理完了)'}")
+                print(f"\n   如果你要重跑 (如: 改 M3 prompt / 换 TTS 音色 / 上次出错):")
+                print(f"   加 --force 参数重跑")
+                if "--force" not in sys.argv:
+                    sys.exit(0)
+                else:
+                    print(f"   ⚠️  --force 已加, 确认重跑")
+                    break
+        else:
+            # 2026-06-08 20:15: 未处理的书 — auto run extract + structure 前 2 步
+            # 避免 run_full 报 "book_structure.json 不存在"
+            if cmd == "run":
+                ws = WORKSPACE / book_safe
+                extracted = ws / "extracted.txt"
+                struct = ws / "book_structure.json"
+                if not extracted.exists():
+                    print(f"📋 书未提取, 先跑 extract...")
+                    import pipeline as _pl
+                    _pl.step_extract(book_safe)
+                if not struct.exists():
+                    print(f"📋 book_structure 未生成, 先跑 structure...")
+                    import pipeline as _pl
+                    _pl.step_structure(book_safe)
+
     if cmd == "run":
         run_full(book_safe)
     elif cmd == "regenerate-text":
