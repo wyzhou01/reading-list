@@ -12,3 +12,4 @@ scripts/_DEPRECATED_*
 logs/
 state/
 workspace/
+processed_books.json
