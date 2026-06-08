@@ -7,13 +7,13 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 08 Jun 2026 01:03:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 03:02:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
     <itunes:owner>
       <itunes:name>好好读书组</itunes:name>
-      <itunes:email>zlyzwy@gmail.com</itunes:email>
+      <itunes:email>noreply@wyzhou01.github.io</itunes:email>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Arts">
@@ -151,6 +151,17 @@
       <itunes:duration>00:15:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260608/episode-20260608-bd9200.mp3" length="15070893" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《贫穷的本质：我们为什么摆脱不了贫穷（修订版）》 · 完整版 · 贫穷的本质：我们为什么摆脱不了贫穷（修订版） · 完整讲读</title>
+      <description>《贫穷的本质》通过十五年的实地调研与随机对照实验，揭示了穷人面临的真实困境：不是宏大的悲剧，而是一连串小额风险、信息匮乏与心理压力的具体决策难题。两位作者深入健康、教育、生育、金融、创业、政府六大维度，展示了贫困如何被具体机制固化，也证明了精准干预可以让穷人的人生真正转向。贫穷不是命运的标签，而是一套可以被研究、被理解、被干预的经济决策。这本书颠覆了对贫困的道德化想象，为发展经济学开启了一个以证据为基础、以人为本的新范式。</description>
+      <pubDate>Mon, 08 Jun 2026 02:43:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260608-episode-20260608-a20947</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《贫穷的本质》通过十五年的实地调研与随机对照实验，揭示了穷人面临的真实困境：不是宏大的悲剧，而是一连串小额风险、信息匮乏与心理压力的具体决策难题。两位作者深入健康、教育、生育、金融、创业、政府六大维度，展示了贫困如何被具体机制固化，也证明了精准干预可以让穷人的人生真正转向。贫穷不是命运的标签，而是一套可以被研究、被理解、被干预的经济决策。这本书颠覆了对贫困的道德化想象，为发展经济学开启了一个以证据为基础、以人为本的新范式。</itunes:summary>
+      <itunes:duration>00:28:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260608/episode-20260608-a20947.mp3" length="27228333" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
