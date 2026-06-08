@@ -522,6 +522,8 @@ def run_single_publish(book_safe, mp3_path, book_name, duration_sec):
             os.environ["GITHUB_PODCAST_REPO"] = _orig_repo
         else:
             os.environ.pop("GITHUB_PODCAST_REPO", None)
+    # 2026-06-08: 记录已处理书到 processed_books.json (别依赖 catalog 过期)
+    _record_processed_book(book_safe, book_name, duration_sec)
     print(f"✅ 已发布到 GitHub Release (v{time.strftime('%Y%m%d')})")
 
 
@@ -583,6 +585,58 @@ def run_full(book_safe):
 
 
 # ============ Path-aware 包装函数 (避免与分集版冲突) ============
+PROCESSED_BOOKS_FILE = REPO / "processed_books.json"
+
+
+def _record_processed_book(book_safe, book_name, duration_sec):
+    """2026-06-08: 记录已处理书到 processed_books.json (书池进度)
+
+    别依赖 catalog.json (过期, 还是 6/7 集分集数据).
+    """
+    PROCESSED_BOOKS_FILE.parent.mkdir(parents=True, exist_ok=True)
+    if PROCESSED_BOOKS_FILE.exists():
+        data = json.loads(PROCESSED_BOOKS_FILE.read_text(encoding="utf-8"))
+    else:
+        data = {"version": "1.0", "books": {}}
+    data["books"][book_safe] = {
+        "book_name": book_name,
+        "duration_sec": duration_sec,
+        "processed_at": now_iso(),
+        "mode": "single_book",
+    }
+    data["last_updated"] = now_iso()
+    PROCESSED_BOOKS_FILE.write_text(
+        json.dumps(data, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+
+
+def list_processed_books():
+    """2026-06-08: 列出已处理书 (用户/阿迈问"哪些书跑过"时调用)
+    返回 [(book_safe, book_info), ...] 按 processed_at 倒序
+    """
+    if not PROCESSED_BOOKS_FILE.exists():
+        return []
+    data = json.loads(PROCESSED_BOOKS_FILE.read_text(encoding="utf-8"))
+    items = list(data.get("books", {}).items())
+    items.sort(key=lambda kv: kv[1].get("processed_at", ""), reverse=True)
+    return items
+
+
+def list_unprocessed_books():
+    """列出 books/ 下还未处理的书 (不含已处理的)
+    2026-06-08: 以后加新书时, 先看这里选下一本
+    """
+    if not BOOKS.exists():
+        return []
+    processed = set()
+    if PROCESSED_BOOKS_FILE.exists():
+        d = json.loads(PROCESSED_BOOKS_FILE.read_text(encoding="utf-8"))
+        processed = set(d.get("books", {}).keys())
+    all_books = [f for f in BOOKS.iterdir() if f.is_file() and f.name != ".gitkeep"]
+    return [f for f in all_books if f.stem.replace(" ", "_") not in processed]
+
+
 def _run_single_phase2_to_paths(extracted_txt, out_json_path, out_txt_path):
     """M3 拆 3 段 → 写到指定路径"""
     f = Path(extracted_txt)
@@ -892,11 +946,41 @@ def _run_single_episode_meta_to_path(book_safe, mp3_path, book_name, duration_se
 
 # ============ CLI ============
 def main():
-    if len(sys.argv) < 3:
-        print("用法: single_book_pipeline.py <cmd> <book_safe> [arg]")
-        print("  cmd: run | regenerate-text | tts | publish")
+    if len(sys.argv) < 2:
+        print("用法: single_book_pipeline.py <cmd> [book_safe] [arg]")
+        print("  cmd: run | regenerate-text | tts | publish | list-processed | list-unprocessed")
         sys.exit(1)
     cmd = sys.argv[1]
+
+    # 不需要 book_safe 的子命令
+    if cmd == "list-processed":
+        items = list_processed_books()
+        if not items:
+            print("还没有书跑过 (processed_books.json 不存在或为空)")
+        else:
+            print(f"📚 已处理书池 ({len(items)} 本):\n")
+            for bs, info in items:
+                ts = info.get('processed_at', '?')
+                name = info.get('book_name', bs)
+                dur = info.get('duration_sec', 0)
+                print(f"  ✅ {name}")
+                print(f"     safe: {bs}")
+                print(f"     {ts} | {dur//60} 分钟")
+        return
+    if cmd == "list-unprocessed":
+        items = list_unprocessed_books()
+        if not items:
+            print("books/ 下所有书都已处理 (或 books/ 空)")
+        else:
+            print(f"📚 未处理书池 ({len(items)} 本):\n")
+            for f in items:
+                print(f"  📖 {f.name}")
+        return
+
+    # 下面要 book_safe
+    if len(sys.argv) < 3:
+        print(f"❌ cmd {cmd} 需要 book_safe 参数")
+        sys.exit(1)
     book_safe = sys.argv[2]
 
     if cmd == "run":
