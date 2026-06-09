@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 09 Jun 2026 00:17:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 01:05:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -107,6 +107,17 @@
       <itunes:duration>00:22:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260609/episode-20260609-6ed651.mp3" length="21928365" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《鴻：三代中國女人的故事》 · 完整版 · 鴻：三代中國女人的故事_(紀念版) · 完整讲读</title>
+      <description>《鴻：三代中國女人的故事》是張戎寫給世界的家族史。她用姥姥、母親和自己三代女人的眼睛，記錄下纏腳的磨石、軍閥的槍炮、日本人的刺刀、土改的批鬥、反右的帽子、大躍進的飢荒、文革的瘋狂。一九八八年母親在倫敦錄下六十個小時的家族往事，促成這本一九九一年震動全球的禁書也擋不住的暢銷作品。書的真正主角不是哪一場運動，而是家庭本身——它怎樣在政治風暴裡被撕碎，又怎樣在廢墟裡一針一線把自己縫回去。</description>
+      <pubDate>Tue, 09 Jun 2026 00:53:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260609-episode-20260609-14389d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《鴻：三代中國女人的故事》是張戎寫給世界的家族史。她用姥姥、母親和自己三代女人的眼睛，記錄下纏腳的磨石、軍閥的槍炮、日本人的刺刀、土改的批鬥、反右的帽子、大躍進的飢荒、文革的瘋狂。一九八八年母親在倫敦錄下六十個小時的家族往事，促成這本一九九一年震動全球的禁書也擋不住的暢銷作品。書的真正主角不是哪一場運動，而是家庭本身——它怎樣在政治風暴裡被撕碎，又怎樣在廢墟裡一針一線把自己縫回去。</itunes:summary>
+      <itunes:duration>00:28:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260609/episode-20260609-14389d.mp3" length="27529389" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
