@@ -1,19 +1,20 @@
 #!/usr/bin/env python3
 """
-daily_pick.py — 每日 00:15 自动选 1 本未处理书 + 跑通 publish
+daily_pick.py — 每日 00:15 自动选 N 本未处理书 + 跑通 publish
 ================================================================
 
 流程 (一文件搞定):
   1. scan_books()    — 扫 books/, 三层去重 (L1 文件名 / L2 内容标识 / L3 SHA-256)
-  2. pick_book()     — 从未处理池随机选 1 本 (A 方案纯随机), 跳过失败 2 次的
-  3. run_one()       — 调 single_book_pipeline.py run, 失败重试 1 次
-  4. report_tg()     — 推 TG (成功/失败/池空/选不出)
+  2. pick_books()    — 从未处理池随机选 N 本 (A 方案纯随机), 跳过失败 2 次的
+  3. run_one()       — 调 single_book_pipeline.py run, 失败重试 1 次 (N 本串行)
+  4. report_tg()     — 推 TG (成功/失败/池空/选不出, 汇总 1 条)
 
 状态文件 (不入 git):
   - processed_books.json     — 已有, 记录已成功
   - .seen_books.json         — 新增, 记录所有看过 (L2/L3 标识 + 失败次数 + 跳过原因)
 
 调度: cron ebook-daily-pick 00:15 Asia/Shanghai
+  --count N: 一次跑 N 本 (默认 1, B 方案 2)
 """
 import argparse
 import typing
@@ -182,8 +183,12 @@ def record_seen(book_safe: str, l2: str, l3: str, result: str, reason: str = "")
 
 
 # ==================== 1. scan_books ====================
-def scan_books() -> list:
-    """返回未处理候选 list[{path, book_safe, l2, l3}]"""
+def scan_books(include_l2=True) -> list:
+    """返回未处理候选 list[{path, book_safe, l2, l3}]
+
+    include_l2=False 跳过 L2 计算 (快: 608 本 ~1s vs ~5min)
+    用于 dry-run 或不需严格 dedup 的场景
+    """
     if not BOOKS.exists():
         return []
     seen = load_seen()
@@ -212,14 +217,17 @@ def scan_books() -> list:
         if bs in seen_l1:
             continue
 
-        # L2 标识
-        l2 = l2_signature(f)
-        if l2.startswith("EMPTY:"):
-            print(f"  ⚠️  {f.name}: L2 提取失败, 跳过此书 (文件可能损坏)")
-            continue
-        if l2 in seen_l2:
-            print(f"  ⏭️  {f.name}: L2 命中 ({l2}), 内容已处理过, 跳过")
-            continue
+        # L2 标识 (可跳过)
+        if include_l2:
+            l2 = l2_signature(f)
+            if l2.startswith("EMPTY:"):
+                print(f"  ⚠️  {f.name}: L2 提取失败, 跳过此书 (文件可能损坏)")
+                continue
+            if l2 in seen_l2:
+                print(f"  ⏭️  {f.name}: L2 命中 ({l2}), 内容已处理过, 跳过")
+                continue
+        else:
+            l2 = ""  # 不计算
 
         # L3 sha
         l3 = l3_sha256(f)
@@ -330,6 +338,8 @@ def main():
     p = argparse.ArgumentParser()
     p.add_argument("--dry-run", action="store_true", help="只 scan + pick, 不跑")
     p.add_argument("--seed", type=str, default=None, help="指定 book_safe (调试用, 跳过随机)")
+    p.add_argument("--count", type=int, default=2, help="一次跑几本 (默认 2, B 方案)")
+    p.add_argument("--no-l2", action="store_true", help="跳过 L2 dedup (dry-run 加速, 生产别用)")
     args = p.parse_args()
 
     now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -337,7 +347,7 @@ def main():
 
     # 1. scan
     print("\n[1/4] 扫 books/ + 三层去重 ...")
-    candidates = scan_books()
+    candidates = scan_books(include_l2=not args.no_l2)
     if not candidates:
         msg = (
             f"⏸️  好好读书 · 每日自动生产\n"
@@ -352,16 +362,34 @@ def main():
     for c in candidates:
         print(f"    - {c['path'].name}  (l2={c['l2']})")
 
-    # 2. pick
-    print("\n[2/4] 选 1 本 (纯随机, 排除失败 2+ 次) ...")
+    # 2. pick N 本
+    print(f"\n[2/4] 选 {args.count} 本 (纯随机, 排除失败 2+ 次) ...")
     if args.seed:
         book = next((c for c in candidates if c["book_safe"] == args.seed), None)
         if not book:
             print(f"  ❌  seed '{args.seed}' 不在候选里")
             return 1
+        picked = [book]
     else:
-        book = pick_book(candidates)
-    if not book:
+        picked = []
+        # 复用 pick_book 逻辑, 选 N 本
+        seen = load_seen()
+        pool = []
+        for c in candidates:
+            bs = c["book_safe"]
+            if bs in seen["books"]:
+                entry = seen["books"][bs]
+                if entry.get("failed_count", 0) >= 2:
+                    print(f"  ⏭️  {c['path'].name}: 失败 {entry['failed_count']} 次, 永久跳过")
+                    continue
+            pool.append(c)
+        if not pool:
+            picked = []
+        else:
+            random.shuffle(pool)  # 打乱后取前 N
+            picked = pool[:args.count]
+
+    if not picked:
         msg = (
             f"⏸️  好好读书 · 每日自动生产\n"
             f"{now} BJT\n"
@@ -371,47 +399,66 @@ def main():
         print(msg)
         report_tg(msg)
         return 0
-    print(f"  选中: {book['path'].name}")
+
+    for i, book in enumerate(picked, 1):
+        print(f"  {i}/{len(picked)} 选中: {book['path'].name}")
 
     if args.dry_run:
         print("\n[3/4] dry-run, 跳过 run_one")
         print("\n[4/4] dry-run, 跳过 report_tg")
         return 0
 
-    # 3. run
-    print(f"\n[3/4] 跑 single_book_pipeline.py run {book['book_safe']} ...")
-    success, reason = run_one(book)
-    record_seen(book["book_safe"], book["l2"], book["l3"],
-                "success" if success else "failed", reason)
+    # 3. run N 本串行
+    results = []  # [(book, success, reason)]
+    for i, book in enumerate(picked, 1):
+        print(f"\n[3/4] ({i}/{len(picked)}) 跑 single_book_pipeline.py run {book['book_safe']} ...")
+        success, reason = run_one(book)
+        record_seen(book["book_safe"], book["l2"], book["l3"],
+                    "success" if success else "failed", reason)
+        results.append((book, success, reason))
 
-    # 4. report
-    print("\n[4/4] TG 报告 ...")
-    if success:
-        # 找最新 archive 算时长
-        archive_dir = REPO / "archive"
-        msg = (
-            f"✅ 好好读书 · 每日自动生产\n"
-            f"{now} BJT\n"
-            f"《{book['path'].stem}》 跑通!\n"
-            f"详细见 feed.xml: https://wyzhou01.github.io/reading-list/feed.xml\n"
-            f"  (log: logs/daily_pick/{datetime.now().strftime('%Y%m%d')}/{book['book_safe']}.log)"
-        )
+    # 4. report 汇总
+    print("\n[4/4] TG 报告 (汇总) ...")
+    succ = [r for r in results if r[1]]
+    fail = [r for r in results if not r[1]]
+    now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    log_dir = REPO / "logs" / "daily_pick" / datetime.now().strftime("%Y%m%d")
+
+    if len(succ) == len(results):
+        # 全成功
+        lines = [f"✅ 好好读书 · 每日自动生产 ({len(succ)}/{len(results)})"]
+        lines.append(f"{now} BJT")
+        for book, _, _ in succ:
+            lines.append(f"  ✅ 《{book['path'].stem}》")
+        lines.append(f"详细见 feed.xml: https://wyzhou01.github.io/reading-list/feed.xml")
+        lines.append(f"  (log: {log_dir}/)")
+        msg = "\n".join(lines)
+    elif len(fail) == len(results):
+        # 全失败
+        lines = [f"❌ 好好读书 · 每日自动生产 ({len(fail)}/{len(results)} 全失败)"]
+        lines.append(f"{now} BJT")
+        for book, _, reason in fail:
+            seen = load_seen()
+            fc = seen["books"].get(book["book_safe"], {}).get("failed_count", 1)
+            next_action = "永久跳过" if fc >= 2 else f"明日重试 ({fc}/2)"
+            lines.append(f"  ❌ 《{book['path'].stem}》  ({next_action})")
+            lines.append(f"    原因: {reason}")
+        lines.append(f"  (log: {log_dir}/)")
+        msg = "\n".join(lines)
     else:
-        # 失败: 报告 + 重试预测
-        seen = load_seen()
-        fc = seen["books"].get(book["book_safe"], {}).get("failed_count", 1)
-        next_action = (
-            "永久跳过, 明日会尝试池中其他书" if fc >= 2
-            else f"明日 00:15 自动重试 (失败 {fc}/2 次)"
-        )
-        msg = (
-            f"❌ 好好读书 · 每日自动生产\n"
-            f"{now} BJT\n"
-            f"《{book['path'].stem}》 失败 ({fc}/2 次)\n"
-            f"原因: {reason}\n"
-            f"后续: {next_action}\n"
-            f"如需手动干预: 查看上面 log 路径 + 编辑 .seen_books.json"
-        )
+        # 部分成功部分失败
+        lines = [f"⚠️ 好好读书 · 每日自动生产 ({len(succ)}✅ / {len(fail)}❌)"]
+        lines.append(f"{now} BJT")
+        for book, _, _ in succ:
+            lines.append(f"  ✅ 《{book['path'].stem}》")
+        for book, _, reason in fail:
+            seen = load_seen()
+            fc = seen["books"].get(book["book_safe"], {}).get("failed_count", 1)
+            next_action = "永久跳过" if fc >= 2 else f"明日重试 ({fc}/2)"
+            lines.append(f"  ❌ 《{book['path'].stem}》  ({next_action})")
+            lines.append(f"    原因: {reason}")
+        lines.append(f"  (log: {log_dir}/)")
+        msg = "\n".join(lines)
     print(msg)
     report_tg(msg)
     return 0 if success else 1
