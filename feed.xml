@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 09 Jun 2026 01:05:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 01:09:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -118,6 +118,17 @@
       <itunes:duration>00:28:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260609/episode-20260609-14389d.mp3" length="27529389" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《美国大萧条》 · 完整版 · 美国大萧条（默里·罗斯巴德） · 完整讲读</title>
+      <description>本期节目用一百分钟系统拆解罗斯巴德一九六三年初版、米塞斯研究所再版的经典《美国大萧条》。我们以奥地利学派的商业周期理论为主线，重建美联储在二十年代如何通过信用扩张制造虚假繁荣，胡佛与罗斯福两届政府又如何通过工资刚性、关税、复兴金融公司、国家复兴管理局、公共工程管理局、社会保障法等层层干预，把一场本可在一九三一年前后完成的衰退生生拖成了四年大萧条。在此基础上，我们进一步剖析凯恩斯主义“总需求—总供给—一般价格水平”这一总量框架在分析起点上的根本缺陷，并把这套工具延伸到对二零零八年大衰退与随后十余年缓慢复苏的重新解读。整期节目的核心结论是：萧条不是市场经济的失败，而是干预主义政策把本该完成的出清一再推迟后的代价。</description>
+      <pubDate>Tue, 09 Jun 2026 01:02:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260609-episode-20260609-834393</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期节目用一百分钟系统拆解罗斯巴德一九六三年初版、米塞斯研究所再版的经典《美国大萧条》。我们以奥地利学派的商业周期理论为主线，重建美联储在二十年代如何通过信用扩张制造虚假繁荣，胡佛与罗斯福两届政府又如何通过工资刚性、关税、复兴金融公司、国家复兴管理局、公共工程管理局、社会保障法等层层干预，把一场本可在一九三一年前后完成的衰退生生拖成了四年大萧条。在此基础上，我们进一步剖析凯恩斯主义“总需求—总供给—一般价格水平”这一总量框架在分析起点上的根本缺陷，并把这套工具延伸到对二零零八年大衰退与随后十余年缓慢复苏的重新解读。整期节目的核心结论是：萧条不是市场经济的失败，而是干预主义政策把本该完成的出清一再推迟后的代价。</itunes:summary>
+      <itunes:duration>00:34:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260609/episode-20260609-834393.mp3" length="32856621" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
