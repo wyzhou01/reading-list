@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 09 Jun 2026 01:14:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 02:02:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -140,6 +140,17 @@
       <itunes:duration>00:45:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260609/episode-20260609-5d6c2e.mp3" length="43394349" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《近距离看美国1-历史深处的忧虑》 · 完整版 · 近距离看美国1-历史深处的忧虑 · 完整讲读</title>
+      <description>《历史深处的忧虑》是林达以书信体写成的近距离观察美国宪政之作。一九九一年到一九九七年，作者夫妇以普通新移民身份在美国南方小镇打工谋生，用一封封写给国内朋友的信，把三权分立、言论自由、新闻监督、持枪权、隐私权这些抽象词，还原成便利店、快餐店、投币洗衣铺里正在发生的具体事件。书中既讲宪法如何运行，也讲华裔小社会与主流规则之间的微妙错位；既写新闻自由的代价，也写每个具体的人为这种自由付的账单。这本书在出版后二十多年里持续重印，是中文世界里最朴素、也最耐读的&quot;看美国&quot;入门读物。</description>
+      <pubDate>Tue, 09 Jun 2026 01:53:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260609-episode-20260609-da53f4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《历史深处的忧虑》是林达以书信体写成的近距离观察美国宪政之作。一九九一年到一九九七年，作者夫妇以普通新移民身份在美国南方小镇打工谋生，用一封封写给国内朋友的信，把三权分立、言论自由、新闻监督、持枪权、隐私权这些抽象词，还原成便利店、快餐店、投币洗衣铺里正在发生的具体事件。书中既讲宪法如何运行，也讲华裔小社会与主流规则之间的微妙错位；既写新闻自由的代价，也写每个具体的人为这种自由付的账单。这本书在出版后二十多年里持续重印，是中文世界里最朴素、也最耐读的&quot;看美国&quot;入门读物。</itunes:summary>
+      <itunes:duration>00:35:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260609/episode-20260609-da53f4.mp3" length="34267821" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
