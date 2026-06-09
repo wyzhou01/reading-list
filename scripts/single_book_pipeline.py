@@ -81,9 +81,30 @@ def find_book_file(book_safe):
 
 
 def get_archive_dir(book_safe, book_name):
-    """最新 archive 目录 (按日期前缀排序)"""
+    """最新 archive 目录 (按日期前缀排序)
+    2026-06-09 修: book_safe 里含 (作者) 后缀, archive_dir 可能被创建成不同名字
+    优先复用已存在的同名目录 (按书名 core 前缀匹配)
+    """
     today = datetime.now().strftime("%Y-%m-%d")
     safe_name = book_name.replace(" ", "_").replace("/", "_")[:80]
+    import re as _re
+    # 取 book_safe 的核心: 去掉 (作者) 后缀
+    core = _re.sub(r"[(_（][^)]*[)）]$", "", book_safe)
+    # 优先: 寻找以 book_safe 前缀 + (/) 开头的目录 (单词 core)
+    matches = []
+    for d in ARCHIVE.iterdir():
+        if not d.is_dir(): continue
+        m = _re.match(r"^\d{4}-\d{2}-\d{2}-(.+)$", d.name)
+        if not m: continue
+        dir_core = m.group(1)
+        if not core: continue
+        # 包含关系: dir_core 是 core 的前缀 (或相等)
+        if dir_core == core or core.startswith(dir_core) or dir_core.startswith(core):
+            matches.append(d)
+    if matches:
+        # 选最新的
+        return sorted(matches, reverse=True)[0]
+    # 默认按 safe_name 创建
     arc = ARCHIVE / f"{today}-{safe_name}"
     arc.mkdir(parents=True, exist_ok=True)
     return arc
@@ -284,13 +305,21 @@ themes_mid 末尾 (用作衔接): "...{mid_tail}..."
     out_json.write_text(json.dumps(full_data, ensure_ascii=False, indent=2), encoding="utf-8")
 
     # 拼接纯文本
+    # 2026-06-09 修: M3 有时把 themes_mid/themes_tail 返成 list (拆成 3 个子项)
+    # 段 1/3 看到 themes_mid 应该是 string, 这里容错调为 list
+    def _sec(d, key):
+        v = d.get(key, "")
+        if isinstance(v, list):
+            return "\n\n".join(str(x) for x in v)
+        return str(v) if v else ""
+
     full_text = "\n\n".join([
-        all_sections.get("opening", "").strip(),
-        all_sections.get("book_bg", "").strip(),
-        all_sections.get("themes_mid", "").strip(),
-        all_sections.get("themes_tail", "").strip(),
-        all_sections.get("commentary", "").strip(),
-        all_sections.get("closing", "").strip(),
+        _sec(all_sections, "opening").strip(),
+        _sec(all_sections, "book_bg").strip(),
+        _sec(all_sections, "themes_mid").strip(),
+        _sec(all_sections, "themes_tail").strip(),
+        _sec(all_sections, "commentary").strip(),
+        _sec(all_sections, "closing").strip(),
     ])
 
     # 复用 generate.tts_friendly_preprocess (年份拆位 + 百分数)
@@ -450,10 +479,16 @@ def run_single_book_cover(book_safe):
 def run_single_episode_meta(book_safe, mp3_path, book_name, duration_sec):
     """单书一集版 meta.json, 与分集版 schema 一致但 episode_no=1 + 输出模式标记.
     2026-06-08: 优先 episode_single.json, 退回 episode_1.json.
+    2026-06-09 修: ep_dir 从 mp3_path 父目录推断 (single/), 避免读不到已有 meta
     """
     ws = WORKSPACE / book_safe
     arc = get_archive_dir(book_safe, book_name)
-    ep_dir = arc / "episodes" / "01"
+    # 2026-06-09: ep_dir 优先从 mp3_path 父目录推断 (single/), 退回 01 (老分集)
+    mp3_parent = Path(mp3_path).parent
+    if mp3_parent.name == "single":
+        ep_dir = mp3_parent
+    else:
+        ep_dir = arc / "episodes" / "01"
     meta_file = ep_dir / "meta.json"
     if meta_file.exists():
         print(f"⏭️  meta_1 (一书一集) 已存在, 跳过")
@@ -588,6 +623,15 @@ def run_full(book_safe):
 PROCESSED_BOOKS_FILE = REPO / "processed_books.json"
 
 
+def _book_key(s: str) -> str:
+    """2026-06-09 修: book_safe / book_name / filename.stem 都用此函数归一化做 key
+    之前 _record 用原文, list_unprocessed_books 用 .replace(' ','_') 不一致 → 误判未处理
+    """
+    if not s:
+        return ""
+    return s.replace(" ", "_").replace("/", "_").replace("\\", "_")
+
+
 def _record_processed_book(book_safe, book_name, duration_sec):
     """2026-06-08: 记录已处理书到 processed_books.json (书池进度)
 
@@ -598,11 +642,14 @@ def _record_processed_book(book_safe, book_name, duration_sec):
         data = json.loads(PROCESSED_BOOKS_FILE.read_text(encoding="utf-8"))
     else:
         data = {"version": "1.0", "books": {}}
-    data["books"][book_safe] = {
+    # 2026-06-09 修: 用 _book_key 归一化, 跟 list_unprocessed_books 对齐
+    key = _book_key(book_safe)
+    data["books"][key] = {
         "book_name": book_name,
         "duration_sec": duration_sec,
         "processed_at": now_iso(),
         "mode": "single_book",
+        "_orig_key": book_safe,
     }
     data["last_updated"] = now_iso()
     PROCESSED_BOOKS_FILE.write_text(
@@ -632,9 +679,11 @@ def list_unprocessed_books():
     processed = set()
     if PROCESSED_BOOKS_FILE.exists():
         d = json.loads(PROCESSED_BOOKS_FILE.read_text(encoding="utf-8"))
-        processed = set(d.get("books", {}).keys())
+        # 2026-06-09 修: 兼容旧 key (无 _orig_key 归一化) — 同时把旧 key 也归一化纳入集合
+        for raw_key in d.get("books", {}).keys():
+            processed.add(_book_key(raw_key))
     all_books = [f for f in BOOKS.iterdir() if f.is_file() and f.name != ".gitkeep"]
-    return [f for f in all_books if f.stem.replace(" ", "_") not in processed]
+    return [f for f in all_books if _book_key(f.stem) not in processed]
 
 
 def _run_single_phase2_to_paths(extracted_txt, out_json_path, out_txt_path):
@@ -698,7 +747,7 @@ def _run_single_phase2_to_paths(extracted_txt, out_json_path, out_txt_path):
 【只输出 JSON】"""
 
     print(f"📝 段 1/3: opening + book_bg...", flush=True)
-    head_raw = generate.call_minimax(head_prompt, model="MiniMax-M3", max_tokens=16000)
+    head_raw = generate.call_minimax(head_prompt, model="MiniMax-M3", max_tokens=32000)
     head_data = generate.extract_json(head_raw)
     sections_1 = head_data.get("sections", {})
 
@@ -740,7 +789,7 @@ book_bg: {sections_1.get('book_bg', '')}
 ```"""
 
     print(f"📝 段 2/3: themes_mid (3 个核心洞察)...", flush=True)
-    mid_raw = generate.call_minimax(mid_prompt, model="MiniMax-M3", max_tokens=16000)
+    mid_raw = generate.call_minimax(mid_prompt, model="MiniMax-M3", max_tokens=32000)
     mid_data = generate.extract_json(mid_raw)
     sections_2 = mid_data.get("sections", {})
 
@@ -785,7 +834,7 @@ themes_mid 末尾 (用作衔接): "...{mid_tail}..."
 ```"""
 
     print(f"📝 段 3/3: themes_tail + commentary + closing...", flush=True)
-    tail_raw = generate.call_minimax(tail_prompt, model="MiniMax-M3", max_tokens=16000)
+    tail_raw = generate.call_minimax(tail_prompt, model="MiniMax-M3", max_tokens=32000)
     tail_data = generate.extract_json(tail_raw)
     sections_3 = tail_data.get("sections", {})
 
@@ -803,13 +852,20 @@ themes_mid 末尾 (用作衔接): "...{mid_tail}..."
     }
     Path(out_json_path).write_text(json.dumps(full_data, ensure_ascii=False, indent=2), encoding="utf-8")
 
+    # 2026-06-09 修: M3 有时把 themes_mid/themes_tail 返成 list
+    def _sec(d, key):
+        v = d.get(key, "")
+        if isinstance(v, list):
+            return "\n\n".join(str(x) for x in v)
+        return str(v) if v else ""
+
     full_text = "\n\n".join([
-        all_sections.get("opening", "").strip(),
-        all_sections.get("book_bg", "").strip(),
-        all_sections.get("themes_mid", "").strip(),
-        all_sections.get("themes_tail", "").strip(),
-        all_sections.get("commentary", "").strip(),
-        all_sections.get("closing", "").strip(),
+        _sec(all_sections, "opening").strip(),
+        _sec(all_sections, "book_bg").strip(),
+        _sec(all_sections, "themes_mid").strip(),
+        _sec(all_sections, "themes_tail").strip(),
+        _sec(all_sections, "commentary").strip(),
+        _sec(all_sections, "closing").strip(),
     ])
     full_text = generate.tts_friendly_preprocess(full_text)
     Path(out_txt_path).write_text(full_text, encoding="utf-8")
@@ -1010,7 +1066,8 @@ def main():
     if cmd in ("run", "regenerate-text", "tts", "publish"):
         processed = list_processed_books()
         for bs, info in processed:
-            if book_safe == bs or book_safe == info.get("book_name", ""):
+            # 2026-06-09 修: 统一用 _book_key 比较, 兼容 _orig_key 旧记录
+            if _book_key(book_safe) == _book_key(bs) or book_safe == info.get("book_name", ""):
                 ts = info.get("processed_at", "?")
                 dur = info.get("duration_sec", 0)
                 print(f"\n⚠️  【重跑警告】")
@@ -1051,9 +1108,9 @@ def main():
     elif cmd == "tts":
         run_single_tts(book_safe)
     elif cmd == "publish":
-        # 用现有 episode_1 + mp3
+        # 2026-06-09 修: 一书一集 publish 走 single/ 路径, 不是 01/ (分集版)
         arc = get_archive_dir(book_safe, book_safe)
-        ep_dir = arc / "episodes" / "01"
+        ep_dir = arc / "episodes" / "single"
         mp3_path = ep_dir / "episode-final.mp3"
         if not mp3_path.exists():
             print(f"❌ {mp3_path} 不存在, 先跑 tts")
