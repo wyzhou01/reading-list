@@ -14,3 +14,7 @@ state/
 workspace/
 processed_books.json
 .seen_books.json
+
+# books/ 是 symlink → ~/Desktop/openclaw/books (2026-06-09 改)
+books
+books/*
