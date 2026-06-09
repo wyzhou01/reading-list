@@ -13,3 +13,4 @@ logs/
 state/
 workspace/
 processed_books.json
+.seen_books.json
