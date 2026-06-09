@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 08 Jun 2026 18:12:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 00:17:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -96,6 +96,17 @@
       <itunes:duration>00:41:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260609/episode-20260609-d57a8e.mp3" length="40195245" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《激荡三十年：中国企业 1978-2008》 · 完整版 · 激荡三十年__中国企业1978-2008.纪念版.套装上下册(中信十年畅销经典) · 完整讲读</title>
+      <description>《激荡三十年》以编年体叙事，记录了中国从1978年改革开放到2008年北京奥运会，三十年间企业和企业家的命运沉浮。作者吴晓波通过大量一手访谈和史料，呈现了计划经济松动后草根创业的草莽时代、1992年后市场化加速带来的财富浪潮、入世后中国制造融入全球供应链的辉煌与代价，以及资本市场的兴起与博弈。全书回答了一个核心问题：在一个国家主导的变革中，民营力量、国有资本和跨国企业三方如何博弈，又如何共同塑造了今天的中国公司。这段历史至今仍在影响中国经济政策的走向和企业家精神的内涵。</description>
+      <pubDate>Tue, 09 Jun 2026 00:11:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260609-episode-20260609-6ed651</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《激荡三十年》以编年体叙事，记录了中国从1978年改革开放到2008年北京奥运会，三十年间企业和企业家的命运沉浮。作者吴晓波通过大量一手访谈和史料，呈现了计划经济松动后草根创业的草莽时代、1992年后市场化加速带来的财富浪潮、入世后中国制造融入全球供应链的辉煌与代价，以及资本市场的兴起与博弈。全书回答了一个核心问题：在一个国家主导的变革中，民营力量、国有资本和跨国企业三方如何博弈，又如何共同塑造了今天的中国公司。这段历史至今仍在影响中国经济政策的走向和企业家精神的内涵。</itunes:summary>
+      <itunes:duration>00:22:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260609/episode-20260609-6ed651.mp3" length="21928365" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
