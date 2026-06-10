@@ -73,9 +73,12 @@ def now_iso():
 def find_book_file(book_safe):
     if not BOOKS.exists():
         return None
+    # 2026-06-10 修: 支持全角空格 (U+3000) → 半角下划线, 跟 daily_pick 选书用 _book_key 保持一致
+    book_safe_normalized = book_safe.replace(" ", "_").replace("\u3000", "_")
     for f in BOOKS.iterdir():
         if f.is_file() and f.name != ".gitkeep":
-            if f.stem.replace(" ", "_") == book_safe or f.stem == book_safe:
+            stem_normalized = f.stem.replace(" ", "_").replace("\u3000", "_")
+            if stem_normalized == book_safe_normalized or stem_normalized == book_safe:
                 return f
     return None
 
@@ -90,6 +93,11 @@ def get_archive_dir(book_safe, book_name):
     import re as _re
     # 取 book_safe 的核心: 去掉 (作者) 后缀
     core = _re.sub(r"[(_（][^)]*[)）]$", "", book_safe)
+    # 2026-06-10 修: M3 book_structure 可能加全角：号 (渴望生活:梵高传), core 跟 dir_core 字符不一致
+    # 兼容: 纯子串包含关系 (渴望生活 包含 梵高传 = book_safe core 匹配 dir_core)
+    # 处理：: : \uFF1A (全角冒号) 跟 : (半角冒号) 归一化
+    import unicodedata
+    core_normalized = unicodedata.normalize("NFKC", core).replace("\uFF1A", ":").replace(" ", "").replace(":", "").replace("·", "")
     # 优先: 寻找以 book_safe 前缀 + (/) 开头的目录 (单词 core)
     matches = []
     for d in ARCHIVE.iterdir():
@@ -98,8 +106,9 @@ def get_archive_dir(book_safe, book_name):
         if not m: continue
         dir_core = m.group(1)
         if not core: continue
-        # 包含关系: dir_core 是 core 的前缀 (或相等)
-        if dir_core == core or core.startswith(dir_core) or dir_core.startswith(core):
+        dir_core_normalized = unicodedata.normalize("NFKC", dir_core).replace("\uFF1A", ":").replace(" ", "").replace(":", "").replace("·", "")
+        # 兼容: 纯子串包含 (去掉所有间隔符后)
+        if core_normalized in dir_core_normalized or dir_core_normalized in core_normalized:
             matches.append(d)
     if matches:
         # 选最新的
