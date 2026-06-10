@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 10 Jun 2026 03:29:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 13:25:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -173,6 +173,17 @@
       <itunes:duration>00:27:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://wyzhou01.github.io/reading-list/public/episodes/v20260610/episode-20260610-8d4dbe.mp3" length="25928109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《渴望生活：梵高传》 · 完整版 · 渴望生活梵高传 · 完整讲读</title>
+      <description>《渴望生活：梵高传》是欧文·斯通写给一个被世界拒之门外的理想主义者的情书。一个二十七岁一事无成、被整个家族视为废物的荷兰年轻人，在试遍商人、牧师、传教士、店员、学子五条世俗正路全部碰壁之后，靠着弟弟提奥的资助与相信，终于拿起了画笔。他用生命最后的十一年画出了两千多幅杰作，燃烧自己照亮了整个艺术史。这本书讲的从来不只是梵高，它讲的是每一个困在世俗里、却拒绝让心里那团火熄灭的人。</description>
+      <pubDate>Wed, 10 Jun 2026 13:02:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260610-episode-20260610-2560ab</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《渴望生活：梵高传》是欧文·斯通写给一个被世界拒之门外的理想主义者的情书。一个二十七岁一事无成、被整个家族视为废物的荷兰年轻人，在试遍商人、牧师、传教士、店员、学子五条世俗正路全部碰壁之后，靠着弟弟提奥的资助与相信，终于拿起了画笔。他用生命最后的十一年画出了两千多幅杰作，燃烧自己照亮了整个艺术史。这本书讲的从来不只是梵高，它讲的是每一个困在世俗里、却拒绝让心里那团火熄灭的人。</itunes:summary>
+      <itunes:duration>00:38:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260610/episode-20260610-2560ab.mp3" length="37219245" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
