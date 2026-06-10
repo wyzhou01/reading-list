@@ -135,9 +135,11 @@ def tts_friendly_preprocess(text):
 
 
 def _repair_unbalanced_quotes_in_json(raw):
-    """2026-06-09 修: M3 中文场景会在字符串里输出未转义半角双引号, 导致 JSON 截断。
-    策略: 用 json.JSONDecoder.raw_decode 增量解析, 遇到第一个错误停下, 记录 err.pos;
-    然后在 err.pos 位置那个 `"` 看作伪 quote 转中文引号 (开闭交替), 重复直到成功。
+    """2026-06-10 v7 修: M3 中文场景会在字符串里输出未转义半角双引号, 导致 JSON 截断。
+    v1-v6 都各有 bug (改坏合法引号 / 只修 1 对 / 等等)。
+    v7 策略: 用 raw_decode 增量解析, 遇到错误时, 错误点 p 之前那个 `"` 就是 parser
+    误当 string 结束的内部引号 — 直接把它改成中文左引号 `“`, 让 parser 继续读。
+    简单, 不需要判断上下文, 因为 p - 1 在 parser 视角下一定是 string 误结束的位置。
     """
     import json
     decoder = json.JSONDecoder()
@@ -150,55 +152,12 @@ def _repair_unbalanced_quotes_in_json(raw):
             p = e.pos
             if p is None or p >= len(cur):
                 return cur
-            # err 在 p 处, 找 p 之后下一个未转义 " 看是不是 string 误结束
-            # 实际: 上一段 string 在 p-X 处的 " 被误当结束符, 后面 p 处 期望 , 但拿到 string content
-            # 简单策略: 从 p 往左找最近的 unescaped " (这个 " 才是问题源)
-            i = p
-            # 找 p 之前最近的 unescaped "
-            j = p
-            while j > 0:
-                if cur[j] == '\\':
-                    j -= 1
-                    continue
-                if cur[j] == '"':
-                    break
-                j -= 1
-            if j <= 0:
+            # p 是 parser 期望分隔符但拿到 string content 的位置, p-1 一定是误结束的 "
+            j = p - 1
+            if j < 0 or cur[j] != '"':
                 return cur
-            # 这个 cur[j] 可能是 string 开始或 结束, 判断上下文
-            prev = cur[j-1] if j > 0 else ''
-            # 找 j 之后下一个 unescaped " (string 真正结束)
-            k = j + 1
-            while k < len(cur):
-                if cur[k] == '\\':
-                    k += 1
-                    continue
-                if cur[k] == '"':
-                    next_c = cur[k+1] if k+1 < len(cur) else ''
-                    if next_c in ',]}\n :':
-                        break
-                k += 1
-            if k >= len(cur):
-                return cur
-            # 转换: 把 j+1 到 k-1 之间所有 unescaped " 转中文引号 (交替)
-            mid = cur[j+1:k]
-            # mid 里可能有 \" 不要动
-            new_mid_chars = []
-            quote_count = 0
-            ii = 0
-            while ii < len(mid):
-                if mid[ii] == '\\' and ii + 1 < len(mid):
-                    new_mid_chars.append(mid[ii])
-                    new_mid_chars.append(mid[ii+1])
-                    ii += 2
-                    continue
-                if mid[ii] == '"':
-                    quote_count += 1
-                    new_mid_chars.append('“' if quote_count % 2 == 1 else '”')
-                else:
-                    new_mid_chars.append(mid[ii])
-                ii += 1
-            cur = cur[:j+1] + ''.join(new_mid_chars) + cur[k:]
+            # 转 j 这个 " 为 “ (中文左引号), parser 会继续读后面直到真正 string 结束
+            cur = cur[:j] + '“' + cur[j+1:]
     return cur
 
 
