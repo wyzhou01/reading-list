@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 09 Jun 2026 02:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 02:23:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -151,6 +151,17 @@
       <itunes:duration>00:35:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260609/episode-20260609-da53f4.mp3" length="34267821" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《姥姥语录》 · 完整版 · 姥姥语录——倪萍 · 完整讲读</title>
+      <description>《姥姥语录》是央视主持人倪萍写给山东荣成小脚姥姥刘鸿卿的回忆录。姥姥一辈子不识字，却用最朴素的大白话道出了吃亏是福、给予是幸福、爱越分越多的人生哲学。书中收录了姥姥面对生死、苦难、家庭的种种智慧，以及倪萍与姥姥长达五十年的深情告别。这不是一本名人传记，而是一部家家都有的那位老太太留给我们的生命课本。</description>
+      <pubDate>Tue, 09 Jun 2026 22:48:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260610-episode-20260610-4429c4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《姥姥语录》是央视主持人倪萍写给山东荣成小脚姥姥刘鸿卿的回忆录。姥姥一辈子不识字，却用最朴素的大白话道出了吃亏是福、给予是幸福、爱越分越多的人生哲学。书中收录了姥姥面对生死、苦难、家庭的种种智慧，以及倪萍与姥姥长达五十年的深情告别。这不是一本名人传记，而是一部家家都有的那位老太太留给我们的生命课本。</itunes:summary>
+      <itunes:duration>00:28:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260610/episode-20260610-4429c4.mp3" length="27779373" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
