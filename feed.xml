@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 10 Jun 2026 13:38:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 13:51:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -195,6 +195,17 @@
       <itunes:duration>00:23:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260610/episode-20260610-7cbc01.mp3" length="22624173" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《蝲蛄吟唱的地方》 · 完整版 · 蝲蛄吟唱的地方 · 完整讲读</title>
+      <description>《蝲蛄吟唱的地方》是美国作家迪莉娅·欧文斯的长篇小说处女作，讲述了一个被家人抛弃的湿地女孩基娅在北卡罗来纳海岸独自成长、最终成为杰出博物学家的故事。小说融合悬疑、爱情与自然书写，探讨了孤独、女性觉醒、社会偏见等主题，曾连续一百多周登上《纽约时报》排行榜，全球销量超一千八百万册。</description>
+      <pubDate>Wed, 10 Jun 2026 13:50:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260610-episode-20260610-3908f8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《蝲蛄吟唱的地方》是美国作家迪莉娅·欧文斯的长篇小说处女作，讲述了一个被家人抛弃的湿地女孩基娅在北卡罗来纳海岸独自成长、最终成为杰出博物学家的故事。小说融合悬疑、爱情与自然书写，探讨了孤独、女性觉醒、社会偏见等主题，曾连续一百多周登上《纽约时报》排行榜，全球销量超一千八百万册。</itunes:summary>
+      <itunes:duration>00:30:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260610/episode-20260610-3908f8.mp3" length="29161773" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
