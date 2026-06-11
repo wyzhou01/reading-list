@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 11 Jun 2026 04:14:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 04:15:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -503,6 +503,17 @@
       <itunes:duration>00:32:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-62c80d.mp3" length="31250733" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《将死未死的青》 · 完整版 · 将死未死的青 · 完整讲读</title>
+      <description>《将死未死的青》是日本作家乙一二零零一年出版的长篇小说，简体中文版二零二零年由南海出版公司推出。故事讲述胆小内向的五年级男孩正雄，遇上年轻热情的新班主任羽田老师后，从被忽视一步步走向被针对、被孤立的过程。在现实里求告无门的正雄，脑海里慢慢浮现出另一个浑身青紫、遍体鳞伤的少年“青“，替他说出那些说不出口的恐惧。乙一以极其克制的笔触，剖开了童年创伤在个体身上“将死未死“的真相，也剖开了集体无意识中那种不加恶意的、加害者永远不会像受害者那样意识到事情严重性的结构性暴力。</description>
+      <pubDate>Thu, 11 Jun 2026 04:15:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-d91788</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《将死未死的青》是日本作家乙一二零零一年出版的长篇小说，简体中文版二零二零年由南海出版公司推出。故事讲述胆小内向的五年级男孩正雄，遇上年轻热情的新班主任羽田老师后，从被忽视一步步走向被针对、被孤立的过程。在现实里求告无门的正雄，脑海里慢慢浮现出另一个浑身青紫、遍体鳞伤的少年“青“，替他说出那些说不出口的恐惧。乙一以极其克制的笔触，剖开了童年创伤在个体身上“将死未死“的真相，也剖开了集体无意识中那种不加恶意的、加害者永远不会像受害者那样意识到事情严重性的结构性暴力。</itunes:summary>
+      <itunes:duration>00:29:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-d91788.mp3" length="28118061" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
