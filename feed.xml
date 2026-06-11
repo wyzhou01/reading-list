@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 11 Jun 2026 03:38:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 03:38:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -360,6 +360,17 @@
       <itunes:duration>00:26:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-cf3039.mp3" length="25085997" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我与地坛》 · 完整版 · 我与地坛 · 完整讲读</title>
+      <description>史铁生在二十一岁那年忽然双腿瘫痪，此后他在北京地坛公园的废弃古园里独自度过了十五年。《我与地坛》不是一本成功学，而是一位被命运击倒的作家，用十五年时间回答&quot;怎样活&quot;这个问题的全过程。全书围绕地坛这座庇护所、母亲沉默的爱、差别的命运真相、写作作为活命的动作、观看痛苦的自由姿态、以及对死亡的坦然接受六块拼图展开。它不提供答案，只提供一种在最深的黑暗里，仍然认真活下去的态度。</description>
+      <pubDate>Thu, 11 Jun 2026 03:38:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-c9e104</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>史铁生在二十一岁那年忽然双腿瘫痪，此后他在北京地坛公园的废弃古园里独自度过了十五年。《我与地坛》不是一本成功学，而是一位被命运击倒的作家，用十五年时间回答&quot;怎样活&quot;这个问题的全过程。全书围绕地坛这座庇护所、母亲沉默的爱、差别的命运真相、写作作为活命的动作、观看痛苦的自由姿态、以及对死亡的坦然接受六块拼图展开。它不提供答案，只提供一种在最深的黑暗里，仍然认真活下去的态度。</itunes:summary>
+      <itunes:duration>00:33:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-c9e104.mp3" length="32542893" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
