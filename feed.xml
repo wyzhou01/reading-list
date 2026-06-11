@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 11 Jun 2026 00:06:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 00:07:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -239,6 +239,17 @@
       <itunes:duration>00:23:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-762816.mp3" length="22276269" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《法理学：法律哲学与法律方法》 · 完整版 · 法理学法律哲学与方法 · 完整讲读</title>
+      <description>《法理学：法律哲学与法律方法》是美国法学家博登海默的经典教科书，系统梳理了自古希腊至二十世纪西方法律思想的演变，从柏拉图、亚里士多德经中世纪神学、古典自然法、德国唯心主义、历史法学、分析实证主义、社会学法学一路走到新康德主义与新自然法，并深入讨论法律的性质、秩序与正义的辩证、法律渊源与司法推理方法。博登海默持一种温和的综合法理学立场，主张在历史、哲学、社会学与分析的多重视野中理解法律，既不盲信自然法也不盲从实证主义，强调法律乃是秩序与正义的综合体。</description>
+      <pubDate>Wed, 10 Jun 2026 16:31:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-f0292d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《法理学：法律哲学与法律方法》是美国法学家博登海默的经典教科书，系统梳理了自古希腊至二十世纪西方法律思想的演变，从柏拉图、亚里士多德经中世纪神学、古典自然法、德国唯心主义、历史法学、分析实证主义、社会学法学一路走到新康德主义与新自然法，并深入讨论法律的性质、秩序与正义的辩证、法律渊源与司法推理方法。博登海默持一种温和的综合法理学立场，主张在历史、哲学、社会学与分析的多重视野中理解法律，既不盲信自然法也不盲从实证主义，强调法律乃是秩序与正义的综合体。</itunes:summary>
+      <itunes:duration>00:30:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-f0292d.mp3" length="29223597" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
