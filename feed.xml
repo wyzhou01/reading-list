@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 11 Jun 2026 03:36:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 03:38:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -349,6 +349,17 @@
       <itunes:duration>00:25:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-1fb4b9.mp3" length="24933165" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《孩子你慢慢来》 · 完整版 · 孩子你慢慢来 · 完整讲读</title>
+      <description>《孩子你慢慢来》是龙应台一九八五年到一九八八年间写下的二十三篇散文，记录两个儿子从牙牙学语到八岁第一次触碰对错边界的成长瞬间。她写五岁孩子在花铺前打蝴蝶结，写两岁的华安第一次发清楚ㄅㄜ这个音，写八岁的华安在朋友偷糖后第一次理解什么叫共犯。书里没有催逼，只有凝视；没有母职高调，只有素面相对的日常。这本华人世界最经典的亲子散文，温柔地提醒每一个在催促与等待之间摇摆的成年人——慢，是一种抵抗，也是一种爱。</description>
+      <pubDate>Thu, 11 Jun 2026 03:37:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-cf3039</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《孩子你慢慢来》是龙应台一九八五年到一九八八年间写下的二十三篇散文，记录两个儿子从牙牙学语到八岁第一次触碰对错边界的成长瞬间。她写五岁孩子在花铺前打蝴蝶结，写两岁的华安第一次发清楚ㄅㄜ这个音，写八岁的华安在朋友偷糖后第一次理解什么叫共犯。书里没有催逼，只有凝视；没有母职高调，只有素面相对的日常。这本华人世界最经典的亲子散文，温柔地提醒每一个在催促与等待之间摇摆的成年人——慢，是一种抵抗，也是一种爱。</itunes:summary>
+      <itunes:duration>00:26:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-cf3039.mp3" length="25085997" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
