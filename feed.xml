@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 11 Jun 2026 04:09:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 04:11:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -481,6 +481,17 @@
       <itunes:duration>00:40:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-4a053b.mp3" length="38961069" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中国历代政治得失》 · 完整版 · 古代史-钱穆：中国历代政治得失 · 完整讲读</title>
+      <description>《中国历代政治得失》是钱穆先生一九五二年的五次讲演合集。他以汉、唐、宋、明、清五朝为样本，从政府组织、考试监察、财税赋役、兵役国防四个维度，纵观两千余年中国政治制度的因革演变。全书破除&quot;秦以后即专制黑暗&quot;的笼统标签，提出&quot;历史意见&quot;与&quot;时代意见&quot;的分野，强调制度必须与人事相配合，并反思近代全盘西化的深层困境。钱穆先生用最克制的笔法，把中国政治里皇权与相权、中央与地方、读书人与田间人之间的张力，讲成了一面让人少一分武断、多一分清醒的镜子。</description>
+      <pubDate>Thu, 11 Jun 2026 04:10:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-5aeaae</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《中国历代政治得失》是钱穆先生一九五二年的五次讲演合集。他以汉、唐、宋、明、清五朝为样本，从政府组织、考试监察、财税赋役、兵役国防四个维度，纵观两千余年中国政治制度的因革演变。全书破除&quot;秦以后即专制黑暗&quot;的笼统标签，提出&quot;历史意见&quot;与&quot;时代意见&quot;的分野，强调制度必须与人事相配合，并反思近代全盘西化的深层困境。钱穆先生用最克制的笔法，把中国政治里皇权与相权、中央与地方、读书人与田间人之间的张力，讲成了一面让人少一分武断、多一分清醒的镜子。</itunes:summary>
+      <itunes:duration>00:20:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-5aeaae.mp3" length="20108205" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
