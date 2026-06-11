@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 11 Jun 2026 00:07:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 00:53:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -250,6 +250,17 @@
       <itunes:duration>00:30:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-f0292d.mp3" length="29223597" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《余华作品全集（套装共13册）》 · 完整版 · 余华作品全集(套装共13册) · 完整讲读</title>
+      <description>这期《好好读书》一口气读完《余华作品全集》十三个分册，从一九八七年的《十八岁出门远行》到二〇〇七年的麦田经典版序言。余华用三十年时间，把中国乡土的血泪、荒诞时代的变形、童年记忆的回望，写进了《活着》《许三观卖血记》《兄弟》《在细雨中呼喊》四部代表作里。他写的不是英雄，是一个叫福贵的老人如何把身边每一个亲人送走之后，还愿意笑着把日子过下去。他写的不是苦难，是苦难打不垮的那种韧性。这套书不是用来重温经典的，是用来在你撑不下去的那个晚上，告诉你&quot;没关系，你还能继续&quot;的。</description>
+      <pubDate>Thu, 11 Jun 2026 00:53:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-84dae6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>这期《好好读书》一口气读完《余华作品全集》十三个分册，从一九八七年的《十八岁出门远行》到二〇〇七年的麦田经典版序言。余华用三十年时间，把中国乡土的血泪、荒诞时代的变形、童年记忆的回望，写进了《活着》《许三观卖血记》《兄弟》《在细雨中呼喊》四部代表作里。他写的不是英雄，是一个叫福贵的老人如何把身边每一个亲人送走之后，还愿意笑着把日子过下去。他写的不是苦难，是苦难打不垮的那种韧性。这套书不是用来重温经典的，是用来在你撑不下去的那个晚上，告诉你&quot;没关系，你还能继续&quot;的。</itunes:summary>
+      <itunes:duration>00:39:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-84dae6.mp3" length="37465389" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
