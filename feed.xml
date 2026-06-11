@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 11 Jun 2026 04:00:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 04:01:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -448,6 +448,17 @@
       <itunes:duration>00:31:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-8623e4.mp3" length="30290349" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《温柔的夜》 · 完整版 · 温柔的夜 · 完整讲读</title>
+      <description>《温柔的夜》是三毛一九七九年的散文集。她用一年的时间，把加纳利岛和撒哈拉边缘的零碎人情——一个穿水红衬衫的流浪汉、一个摆地摊的日本青年、一个好吃懒做的女佣、一群在沙漠里围着营火过夜的朋友——一篇一篇写下来。她示范了一种活法：对万物保持兴趣，对陌生人舍得掏真心，对物质保持独立。她的文字看似写远方，其实写的是——一个人，怎么在世界面前，保持自己的心跳。</description>
+      <pubDate>Thu, 11 Jun 2026 04:01:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-695871</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《温柔的夜》是三毛一九七九年的散文集。她用一年的时间，把加纳利岛和撒哈拉边缘的零碎人情——一个穿水红衬衫的流浪汉、一个摆地摊的日本青年、一个好吃懒做的女佣、一群在沙漠里围着营火过夜的朋友——一篇一篇写下来。她示范了一种活法：对万物保持兴趣，对陌生人舍得掏真心，对物质保持独立。她的文字看似写远方，其实写的是——一个人，怎么在世界面前，保持自己的心跳。</itunes:summary>
+      <itunes:duration>00:26:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-695871.mp3" length="25551405" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
