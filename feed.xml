@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 11 Jun 2026 07:29:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 07:34:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -569,6 +569,17 @@
       <itunes:duration>00:26:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-655137.mp3" length="25633197" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《花猫三丫上房了》 · 完整版 · 花猫三丫上房了 · 完整讲读</title>
+      <description>《花猫三丫上房了》是叶广芩写给孩子的北京童年散文体小说。七八岁的丫丫生活在东城一条胡同的大院里，从刘婶家抱回一只小黄猫取名三丫，由此开始了一段养猫、上房、与伙伴嬉闹的日子。书里有大芳的小自私、苏惠的嘴甜、小四儿捡煤核儿的身影、老七画案上的宣纸、爸爸给猫开的猫道、刘婶的糊塌子、派出所老黑戴的伊丽莎白圈。没有手机平板的几十年，一个孩子在具体的喂养、具体的麻烦、具体的街坊里，一点点长出担当、界限与亲情。</description>
+      <pubDate>Thu, 11 Jun 2026 03:39:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-18bbfa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《花猫三丫上房了》是叶广芩写给孩子的北京童年散文体小说。七八岁的丫丫生活在东城一条胡同的大院里，从刘婶家抱回一只小黄猫取名三丫，由此开始了一段养猫、上房、与伙伴嬉闹的日子。书里有大芳的小自私、苏惠的嘴甜、小四儿捡煤核儿的身影、老七画案上的宣纸、爸爸给猫开的猫道、刘婶的糊塌子、派出所老黑戴的伊丽莎白圈。没有手机平板的几十年，一个孩子在具体的喂养、具体的麻烦、具体的街坊里，一点点长出担当、界限与亲情。</itunes:summary>
+      <itunes:duration>00:32:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-18bbfa.mp3" length="31592109" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
