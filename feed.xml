@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 11 Jun 2026 04:11:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 04:14:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -492,6 +492,17 @@
       <itunes:duration>00:20:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-5aeaae.mp3" length="20108205" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《人间草木》 · 完整版 · 人间草木 · 完整讲读</title>
+      <description>《人间草木》是汪曾祺跨越四十年写就的散文集，写草木、虫鱼、饮食、旧雨与故园。他用最清淡笃定的笔触，把一棵树、一碗汤、一位故人的侧影，一个一个地托住。在一个喧嚣浮躁的时代，这本书提醒我们：人间值得，恰恰是因为人间多细小。一棵草慢慢站起来，一声&quot;卖杨梅&quot;的吆喝，一块蜂窝状的冻豆腐——它们不需要被赋予意义，它们本身就是意义。</description>
+      <pubDate>Thu, 11 Jun 2026 04:13:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-62c80d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《人间草木》是汪曾祺跨越四十年写就的散文集，写草木、虫鱼、饮食、旧雨与故园。他用最清淡笃定的笔触，把一棵树、一碗汤、一位故人的侧影，一个一个地托住。在一个喧嚣浮躁的时代，这本书提醒我们：人间值得，恰恰是因为人间多细小。一棵草慢慢站起来，一声&quot;卖杨梅&quot;的吆喝，一块蜂窝状的冻豆腐——它们不需要被赋予意义，它们本身就是意义。</itunes:summary>
+      <itunes:duration>00:32:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-62c80d.mp3" length="31250733" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
