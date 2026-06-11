@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 11 Jun 2026 07:34:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 07:59:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -558,6 +558,17 @@
       <itunes:duration>00:32:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-18bbfa.mp3" length="31592109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《正见：佛陀的证悟》 · 完整版 · 正见 · 完整讲读</title>
+      <description>《正见》是一本写给现代人的佛法入门书。藏传佛教导师宗萨蒋扬钦哲仁波切用最直白的语言，把佛陀两千五百年前证悟的四个核心见地——四法印，讲给没有任何佛教背景的普通读者。第一法印&quot;一切和合事物皆无常&quot;，告诉我们世界一直在变，执着于不变就是痛苦的根源；第二法印&quot;一切情绪皆苦&quot;，拆解情绪不是感受而是概念绑架后的产物；第三法印&quot;一切事物皆无我&quot;，揭示那个执着不变的自我本身只是大脑编出来的故事；第四法印&quot;涅槃超越概念&quot;，指出真正的自由不是死后去某个地方，而是看穿这三层幻觉后本来就在的宁静。这本书不讲禅坐、不讲仪式、不推销宗派，它只做一件事：把佛陀最核心的见地，从仪式的外衣里剥出来，摆在你面前。</description>
+      <pubDate>Thu, 11 Jun 2026 02:17:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-e6be4a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《正见》是一本写给现代人的佛法入门书。藏传佛教导师宗萨蒋扬钦哲仁波切用最直白的语言，把佛陀两千五百年前证悟的四个核心见地——四法印，讲给没有任何佛教背景的普通读者。第一法印&quot;一切和合事物皆无常&quot;，告诉我们世界一直在变，执着于不变就是痛苦的根源；第二法印&quot;一切情绪皆苦&quot;，拆解情绪不是感受而是概念绑架后的产物；第三法印&quot;一切事物皆无我&quot;，揭示那个执着不变的自我本身只是大脑编出来的故事；第四法印&quot;涅槃超越概念&quot;，指出真正的自由不是死后去某个地方，而是看穿这三层幻觉后本来就在的宁静。这本书不讲禅坐、不讲仪式、不推销宗派，它只做一件事：把佛陀最核心的见地，从仪式的外衣里剥出来，摆在你面前。</itunes:summary>
+      <itunes:duration>00:34:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-e6be4a.mp3" length="32800173" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
