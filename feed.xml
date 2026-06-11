@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 11 Jun 2026 01:05:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 02:13:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -272,6 +272,17 @@
       <itunes:duration>00:34:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-15efe0.mp3" length="32969517" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《沉香屑·第一炉香》 · 完整版 · 沉香屑第一炉香纸上电影 · 完整讲读</title>
+      <description>一九四三年的香港，十八岁的上海女孩葛薇龙投奔姑母梁太太，原想读完高中，却在姑母的半山豪宅里被一步步改造为社交场上的交际花。她明知自己被当作商品贩卖，却爱上了浪子乔琪乔，最终嫁入豪门，沦为替姑母和丈夫弄钱弄人的工具。小说最后，薇龙在湾仔的庙会上，看见一个十三四岁的女孩被英国水手搂着，她平静地说——她们是不得已，我是自愿的。张爱玲以一支燃尽的沉香屑，写尽了一个殖民地女孩清醒沉沦的一生，也照见了所有在欲望中自我欺骗的人。</description>
+      <pubDate>Thu, 11 Jun 2026 02:12:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-3c0547</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九四三年的香港，十八岁的上海女孩葛薇龙投奔姑母梁太太，原想读完高中，却在姑母的半山豪宅里被一步步改造为社交场上的交际花。她明知自己被当作商品贩卖，却爱上了浪子乔琪乔，最终嫁入豪门，沦为替姑母和丈夫弄钱弄人的工具。小说最后，薇龙在湾仔的庙会上，看见一个十三四岁的女孩被英国水手搂着，她平静地说——她们是不得已，我是自愿的。张爱玲以一支燃尽的沉香屑，写尽了一个殖民地女孩清醒沉沦的一生，也照见了所有在欲望中自我欺骗的人。</itunes:summary>
+      <itunes:duration>00:26:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-3c0547.mp3" length="25686573" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
