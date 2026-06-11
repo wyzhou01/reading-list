@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 11 Jun 2026 07:21:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 07:29:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -558,6 +558,17 @@
       <itunes:duration>00:24:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-e2735f.mp3" length="23686701" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《万物有灵且美》 · 完整版 · 万物有灵且美 · 完整讲读</title>
+      <description>《万物有灵且美》是英国乡间兽医吉米·哈利在上世纪三十年代约克郡山谷行医的真实记录。一九七零年出版后，这本没有惊天情节、没有文学光环的小书，靠寒夜出诊的狼狈、农夫的幽默、母羊迎接新生命时那声低低的呜咽，打动了全球上千万人。它写的不只是给动物看病的日常，而是平凡日子里的尊严，是泥泞土地上长出来的诗意，是每一个被“伟大”偏见忽略、却撑起整个人生的瞬间。合上书你会想起：自己有多久没抬头看过月亮，又有多久没给身边的人留过一张柴火椅子。</description>
+      <pubDate>Thu, 11 Jun 2026 07:28:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-655137</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《万物有灵且美》是英国乡间兽医吉米·哈利在上世纪三十年代约克郡山谷行医的真实记录。一九七零年出版后，这本没有惊天情节、没有文学光环的小书，靠寒夜出诊的狼狈、农夫的幽默、母羊迎接新生命时那声低低的呜咽，打动了全球上千万人。它写的不只是给动物看病的日常，而是平凡日子里的尊严，是泥泞土地上长出来的诗意，是每一个被“伟大”偏见忽略、却撑起整个人生的瞬间。合上书你会想起：自己有多久没抬头看过月亮，又有多久没给身边的人留过一张柴火椅子。</itunes:summary>
+      <itunes:duration>00:26:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-655137.mp3" length="25633197" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
