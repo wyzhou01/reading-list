@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 11 Jun 2026 02:17:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 02:27:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -316,6 +316,17 @@
       <itunes:duration>00:34:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-12b81d.mp3" length="32795181" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《棋王》 · 完整版 · 棋王 · 完整讲读</title>
+      <description>《棋王》是阿城一九八四年的中篇，写知青王一生在物质极度匮乏的年代里，把全部精神托付给象棋的故事。吃饭是生存的底线，下棋是精神的超越，母亲留下的棋子和一句&quot;你能在棋里找到妈&quot;是灵魂的托付。结尾的九局连环车轮大战，让他从一个瘦小黑魂，变成了让全场&quot;脸热&quot;的王。这本书写的不是苦难，是一个人在什么都没了的时候，靠什么证明自己还活着。三十多年过去，它还在被反复重印——因为那个问题没有过时。</description>
+      <pubDate>Thu, 11 Jun 2026 02:26:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-98cd20</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《棋王》是阿城一九八四年的中篇，写知青王一生在物质极度匮乏的年代里，把全部精神托付给象棋的故事。吃饭是生存的底线，下棋是精神的超越，母亲留下的棋子和一句&quot;你能在棋里找到妈&quot;是灵魂的托付。结尾的九局连环车轮大战，让他从一个瘦小黑魂，变成了让全场&quot;脸热&quot;的王。这本书写的不是苦难，是一个人在什么都没了的时候，靠什么证明自己还活着。三十多年过去，它还在被反复重印——因为那个问题没有过时。</itunes:summary>
+      <itunes:duration>00:37:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-98cd20.mp3" length="35974701" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
