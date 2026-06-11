@@ -81,38 +81,82 @@ def gh_headers():
     }
 
 
-def gh_get(path):
-    """GET GitHub API"""
+def _curl_get(path, headers=None, retries=3, base_wait=2, timeout=30):
+    """2026-06-10: 用 curl 代替 urllib GET. 原因: mihomo TUN + urllib SSL EOF."""
+    import subprocess as _sp
     from urllib.parse import quote
+    import time as _t
     url = API_BASE + quote(path, safe="/")
-    req = request.Request(url, headers=gh_headers())
+    args = ["curl", "-sS", "--max-time", str(timeout), url]
+    for k, v in (headers or {}).items():
+        args += ["-H", f"{k}: {v}"]
+    last_err = None
+    for attempt in range(retries + 1):
+        try:
+            proc = _sp.run(args, capture_output=True, text=True, timeout=timeout + 30)
+            if proc.returncode != 0:
+                raise RuntimeError(f"curl rc={proc.returncode}: {proc.stderr[:200]}")
+            return json.loads(proc.stdout)
+        except Exception as e:
+            last_err = e
+            if attempt < retries:
+                wait = base_wait * (2 ** attempt)
+                print(f"  ⚠️ curl GET attempt {attempt+1} failed: {str(e)[:80]} (重试 {wait}s)", file=sys.stderr, flush=True)
+                _t.sleep(wait)
+            else:
+                raise last_err
+
+
+def _curl_put(path, body_dict, headers=None, retries=3, base_wait=2, timeout=60):
+    """2026-06-10: 用 curl 代替 urllib PUT. 原因: mihomo TUN + urllib SSL EOF."""
+    import subprocess as _sp
+    from urllib.parse import quote
+    import time as _t
+    url = API_BASE + f"/repos/{os.environ['GITHUB_PODCAST_USER']}/{os.environ['GITHUB_PODCAST_REPO']}/contents/{quote(path, safe='/')}"
+    args = ["curl", "-sS", "--max-time", str(timeout), "-X", "PUT", url]
+    for k, v in (headers or {}).items():
+        args += ["-H", f"{k}: {v}"]
+    args += ["-d", json.dumps(body_dict)]
+    last_err = None
+    for attempt in range(retries + 1):
+        try:
+            proc = _sp.run(args, capture_output=True, text=True, timeout=timeout + 30)
+            if proc.returncode != 0:
+                raise RuntimeError(f"curl PUT rc={proc.returncode}: {proc.stderr[:200]}")
+            return json.loads(proc.stdout)
+        except Exception as e:
+            last_err = e
+            if attempt < retries:
+                wait = base_wait * (2 ** attempt)
+                print(f"  ⚠️ curl PUT attempt {attempt+1} failed: {str(e)[:80]} (重试 {wait}s)", file=sys.stderr, flush=True)
+                _t.sleep(wait)
+            else:
+                raise last_err
+
+
+def gh_get(path):
+    """GET GitHub API (2026-06-10 改: 走 curl 避免 SSL EOF)"""
     try:
-        with request.urlopen(req, timeout=30) as r:
-            return json.loads(r.read())
-    except error.HTTPError as e:
-        if e.code == 404:
+        return _curl_get(path, headers=gh_headers(), retries=3)
+    except Exception as e:
+        # 404 = 不存在, 返回 None. 其他错误重抛.
+        if "404" in str(e) or "HTTP 404" in str(e):
             return None
         raise
 
 
 def gh_put_file(path, content_bytes, message, sha=None):
-    """PUT file via Contents API (create or update)"""
-    from urllib.parse import quote
-    url = API_BASE + f"/repos/{os.environ['GITHUB_PODCAST_USER']}/{os.environ['GITHUB_PODCAST_REPO']}/contents/{quote(path, safe='/')}"
+    """PUT file via Contents API (2026-06-10 改: 走 curl)"""
     body = {
         "message": message,
         "content": base64.b64encode(content_bytes).decode("ascii"),
     }
     if sha:
         body["sha"] = sha
-    req = request.Request(
-        url,
-        data=json.dumps(body).encode(),
-        headers={**gh_headers(), "Content-Type": "application/json"},
-        method="PUT",
+    return _curl_put(
+        path, body, headers={**gh_headers(), "Content-Type": "application/json"},
+        retries=3,
     )
-    with request.urlopen(req, timeout=60) as r:
-        return json.loads(r.read())
 
 
 def get_file_sha(path):

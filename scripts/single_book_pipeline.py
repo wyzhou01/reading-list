@@ -100,15 +100,25 @@ def get_archive_dir(book_safe, book_name):
     core_normalized = unicodedata.normalize("NFKC", core).replace("\uFF1A", ":").replace(" ", "").replace(":", "").replace("·", "")
     # 优先: 寻找以 book_safe 前缀 + (/) 开头的目录 (单词 core)
     matches = []
+    # 2026-06-11 修: 06-11 凌晨法理学 跑过, archive dir 是 "2026-06-11-法理学：法律哲学与法律方法"
+    # daily_pick 命名 (book_safe) 是 "法理学法律哲学与方法" (冒号被空格替换+ normalize 后), core 跟 dir_core_normalized 子串不匹配
+    # 加 book_name normalize 兜底: book_name = "法理学：法律哲学与法律方法" 跟 dir_core 一致
+    book_name_normalized = unicodedata.normalize("NFKC", book_name).replace("\uFF1A", ":").replace(" ", "").replace(":", "").replace("·", "")
     for d in ARCHIVE.iterdir():
         if not d.is_dir(): continue
         m = _re.match(r"^\d{4}-\d{2}-\d{2}-(.+)$", d.name)
         if not m: continue
         dir_core = m.group(1)
-        if not core: continue
+        if not core and not book_name: continue
         dir_core_normalized = unicodedata.normalize("NFKC", dir_core).replace("\uFF1A", ":").replace(" ", "").replace(":", "").replace("·", "")
         # 兼容: 纯子串包含 (去掉所有间隔符后)
-        if core_normalized in dir_core_normalized or dir_core_normalized in core_normalized:
+        matched = False
+        if core and (core_normalized in dir_core_normalized or dir_core_normalized in core_normalized):
+            matched = True
+        # 2026-06-11 加: book_name normalize 精确匹配 (兜底 book_safe normalize 失配)
+        if not matched and book_name_normalized and book_name_normalized == dir_core_normalized:
+            matched = True
+        if matched:
             matches.append(d)
     if matches:
         # 选最新的
@@ -1118,14 +1128,18 @@ def main():
         run_single_tts(book_safe)
     elif cmd == "publish":
         # 2026-06-09 修: 一书一集 publish 走 single/ 路径, 不是 01/ (分集版)
-        arc = get_archive_dir(book_safe, book_safe)
+        # 2026-06-11 修: 先读 book_structure 拿 book_title, 再用 get_archive_dir(book_safe, book_name)
+        # 原因: 法理学 06-11 archive dir 是 "法理学：法律哲学与法律方法" (有全角：号),
+        #       book_safe "法理学法律哲学与方法" normalize 后跟 dir_core normalize 后子串不匹配,
+        #       book_name (=book_title="法理学：法律哲学与法律方法") normalize 后跟 dir_core normalize 后精确匹配
+        struct = json.loads((WORKSPACE / book_safe / "book_structure.json").read_text(encoding="utf-8"))
+        book_name = struct.get("book_title", book_safe)
+        arc = get_archive_dir(book_safe, book_name)
         ep_dir = arc / "episodes" / "single"
         mp3_path = ep_dir / "episode-final.mp3"
         if not mp3_path.exists():
             print(f"❌ {mp3_path} 不存在, 先跑 tts")
             sys.exit(1)
-        struct = json.loads((WORKSPACE / book_safe / "book_structure.json").read_text(encoding="utf-8"))
-        book_name = struct.get("book_title", book_safe)
         # 算 duration
         duration_sec = 0
         try:
