@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 11 Jun 2026 02:15:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 02:15:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -294,6 +294,17 @@
       <itunes:duration>00:26:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-840a34.mp3" length="25817133" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《金锁记》 · 完整版 · 金锁记 · 完整讲读</title>
+      <description>《金锁记》是张爱玲一九四三年的代表作，被誉为“中国从古以来最伟大的中篇小说”。麻油店出身的曹七巧嫁入姜家豪门，做了残疾二爷的少奶奶。三十年的压抑与扭曲，让她从受害者变成了施害者，亲手毁掉了儿子长白与女儿长安的幸福。小说以冷峻的笔触，写出了金钱对人性的异化、情欲压抑后的代际伤害，以及旧中国女性在宗法制度下的悲剧命运。读完这本书你会明白：苍凉，才是人生的底色；而有些枷锁，只有先认出来，才有可能卸下。</description>
+      <pubDate>Thu, 11 Jun 2026 02:15:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-e68e40</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《金锁记》是张爱玲一九四三年的代表作，被誉为“中国从古以来最伟大的中篇小说”。麻油店出身的曹七巧嫁入姜家豪门，做了残疾二爷的少奶奶。三十年的压抑与扭曲，让她从受害者变成了施害者，亲手毁掉了儿子长白与女儿长安的幸福。小说以冷峻的笔触，写出了金钱对人性的异化、情欲压抑后的代际伤害，以及旧中国女性在宗法制度下的悲剧命运。读完这本书你会明白：苍凉，才是人生的底色；而有些枷锁，只有先认出来，才有可能卸下。</itunes:summary>
+      <itunes:duration>00:27:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-e68e40.mp3" length="26815533" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
