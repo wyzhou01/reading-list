@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 11 Jun 2026 00:53:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 01:05:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -261,6 +261,17 @@
       <itunes:duration>00:39:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-84dae6.mp3" length="37465389" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《海风中失落的血色馈赠》 · 完整版 · 海风中失落的血色馈赠 · 完整讲读</title>
+      <description>《海风中失落的血色馈赠》是加拿大作家麦克劳尔的短篇集，写的是加拿大新斯科舍省布雷顿角岛上矿工、渔民、农夫的故事。父亲在窗口把老马卖掉，手握成拳头不说话；母亲在厨房算着孩子的口粮和一口薄板棺材的价钱；祖父在厨房用口琴吹出最后几首盖尔语歌谣，下一辈的孙子已经听不懂风的语言；一个不适合当渔夫的男人继承家业，被海浪撕碎在礁石之间。麦克劳尔用克制、干净、像海边石头一样被风浪打磨过的文字，写出了沉默的爱、被海风塑形的命运、活进日常的死亡，以及一个传统在一个孩子耳朵里一根弦一根弦断掉的过程。这本书是给所有用身体代替语言的人的最后一点声音。</description>
+      <pubDate>Thu, 11 Jun 2026 01:05:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-15efe0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《海风中失落的血色馈赠》是加拿大作家麦克劳尔的短篇集，写的是加拿大新斯科舍省布雷顿角岛上矿工、渔民、农夫的故事。父亲在窗口把老马卖掉，手握成拳头不说话；母亲在厨房算着孩子的口粮和一口薄板棺材的价钱；祖父在厨房用口琴吹出最后几首盖尔语歌谣，下一辈的孙子已经听不懂风的语言；一个不适合当渔夫的男人继承家业，被海浪撕碎在礁石之间。麦克劳尔用克制、干净、像海边石头一样被风浪打磨过的文字，写出了沉默的爱、被海风塑形的命运、活进日常的死亡，以及一个传统在一个孩子耳朵里一根弦一根弦断掉的过程。这本书是给所有用身体代替语言的人的最后一点声音。</itunes:summary>
+      <itunes:duration>00:34:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-15efe0.mp3" length="32969517" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
