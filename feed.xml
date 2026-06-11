@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 11 Jun 2026 04:01:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 04:04:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -459,6 +459,17 @@
       <itunes:duration>00:26:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-695871.mp3" length="25551405" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《小径分岔的花园》 · 完整版 · 小径分岔的花园 · 完整讲读</title>
+      <description>博尔赫斯同名短篇集收录七篇玄思小说。叙述者在一本盗版百科全书中偶然发现虚构国度乌克巴尔，进而窥见由秘密社团集体发明的完整世界“特隆“；随后各篇以镜子、迷宫、彩票、图书馆、环形废墟等意象为入口，反复追问同一组命题：真实与虚构的边界、时间是否分岔、无限能否被一本书穷尽。压轴篇以一战间谍余准拜访汉学家艾伯特为主线，借彭㝡遗作《小径分岔的花园》提出“时间是分叉的网“这一核心隐喻，将整部集子拧成一座关于时间、迷宫与文学本身的存在主义迷宫。</description>
+      <pubDate>Thu, 11 Jun 2026 04:04:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-6aa952</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>博尔赫斯同名短篇集收录七篇玄思小说。叙述者在一本盗版百科全书中偶然发现虚构国度乌克巴尔，进而窥见由秘密社团集体发明的完整世界“特隆“；随后各篇以镜子、迷宫、彩票、图书馆、环形废墟等意象为入口，反复追问同一组命题：真实与虚构的边界、时间是否分岔、无限能否被一本书穷尽。压轴篇以一战间谍余准拜访汉学家艾伯特为主线，借彭㝡遗作《小径分岔的花园》提出“时间是分叉的网“这一核心隐喻，将整部集子拧成一座关于时间、迷宫与文学本身的存在主义迷宫。</itunes:summary>
+      <itunes:duration>00:34:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-6aa952.mp3" length="33002541" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
