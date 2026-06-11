@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 11 Jun 2026 00:06:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 00:06:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -228,6 +228,17 @@
       <itunes:duration>00:34:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-548088.mp3" length="32752557" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《天官赐福》 · 完整版 · 天官赐福作者墨香铜臭完结后记 · 完整讲读</title>
+      <description>《天官赐福》是墨香铜臭继《魔道祖师》之后的第三部长篇网络小说，讲述仙乐太子谢怜三度飞升、两度被贬，最终在跌至人生最低谷后，依然选择&quot;拯救苍生&quot;的群像故事。表面上是一部仙侠冒险长卷，骨子里讲的是理想主义者在被全世界嘲笑、遗弃之后，如何重新站起来——以及在那个过程中，&quot;被看见&quot;比&quot;被拯救&quot;更重要这一核心命题。本书最动人的告白来自花城对谢怜的那句&quot;我看过你最糟糕的样子，可那又怎样呢，你就是我的梦想啊&quot;——它既是一个角色对另一个角色的回应，也是一个创作者对自己作品、以及对所有曾经跌落过的读者的回应。</description>
+      <pubDate>Wed, 10 Jun 2026 12:57:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-762816</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《天官赐福》是墨香铜臭继《魔道祖师》之后的第三部长篇网络小说，讲述仙乐太子谢怜三度飞升、两度被贬，最终在跌至人生最低谷后，依然选择&quot;拯救苍生&quot;的群像故事。表面上是一部仙侠冒险长卷，骨子里讲的是理想主义者在被全世界嘲笑、遗弃之后，如何重新站起来——以及在那个过程中，&quot;被看见&quot;比&quot;被拯救&quot;更重要这一核心命题。本书最动人的告白来自花城对谢怜的那句&quot;我看过你最糟糕的样子，可那又怎样呢，你就是我的梦想啊&quot;——它既是一个角色对另一个角色的回应，也是一个创作者对自己作品、以及对所有曾经跌落过的读者的回应。</itunes:summary>
+      <itunes:duration>00:23:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-762816.mp3" length="22276269" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
