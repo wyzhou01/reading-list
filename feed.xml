@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 11 Jun 2026 04:04:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 04:09:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -470,6 +470,17 @@
       <itunes:duration>00:34:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-6aa952.mp3" length="33002541" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《哭泣的骆驼》 · 完整版 · 三毛全集04哭泣的骆驼 · 完整讲读</title>
+      <description>《哭泣的骆驼》是三毛在撒哈拉婚后生活的中后期散文合集，写于西属撒哈拉民族独立战争的风暴之中。她没有站在任何政治立场上去评判这场战争，她只写战争中的人——被收走灵魂的撒哈拉威土著、被游击队炸死的沙巴军曹、在沙漠里壮烈赴死的巴西里与沙伊达、被当成牲口一样卖掉的哑奴。她也写自己——一个从台湾书香门第走出来的女儿，如何在远方的炮火与爱里，慢慢学会替弱者守住最后一点体面，学会把婚姻过成两个人把彼此活进对方骨头里的漫长日常，学会用半生去偿还一笔永远还不清的父母恩情。这是一本关于「看见」的书，也是一本关于「承担」的书——看见他人之后，自己该怎么办。七十多年过去，今天再读它，依然会被那些陌生而滚烫的命运击中。因为它讲的，从来不只是沙漠的故事，而是每一个普通人在苦难里如何守住尊严的故事。</description>
+      <pubDate>Thu, 11 Jun 2026 04:08:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-4a053b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《哭泣的骆驼》是三毛在撒哈拉婚后生活的中后期散文合集，写于西属撒哈拉民族独立战争的风暴之中。她没有站在任何政治立场上去评判这场战争，她只写战争中的人——被收走灵魂的撒哈拉威土著、被游击队炸死的沙巴军曹、在沙漠里壮烈赴死的巴西里与沙伊达、被当成牲口一样卖掉的哑奴。她也写自己——一个从台湾书香门第走出来的女儿，如何在远方的炮火与爱里，慢慢学会替弱者守住最后一点体面，学会把婚姻过成两个人把彼此活进对方骨头里的漫长日常，学会用半生去偿还一笔永远还不清的父母恩情。这是一本关于「看见」的书，也是一本关于「承担」的书——看见他人之后，自己该怎么办。七十多年过去，今天再读它，依然会被那些陌生而滚烫的命运击中。因为它讲的，从来不只是沙漠的故事，而是每一个普通人在苦难里如何守住尊严的故事。</itunes:summary>
+      <itunes:duration>00:40:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-4a053b.mp3" length="38961069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
