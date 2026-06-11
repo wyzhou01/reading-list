@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 10 Jun 2026 13:51:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 00:05:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -206,6 +206,17 @@
       <itunes:duration>00:30:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260610/episode-20260610-3908f8.mp3" length="29161773" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《掌中之物》 · 完整版 · 掌中之物 · 完整讲读</title>
+      <description>《掌中之物》是鲜橙创作的都市虐恋代表作。普通女教师何妍深夜独自驾车遭遇三名在逃通缉犯，身陷绝境时冷静反抗，刺死歹徒、撞飞同伙侥幸逃脱。四年后她嫁给梁远泽，过上平静生活，却发现当年那个叫&apos;节哥&apos;的凶徒改名换姓、换了一张脸，以&apos;傅慎行&apos;的身份重新出现在她身边，由此展开一场跨越数年的极致人性博弈。书名&apos;掌中之物&apos;，既指施暴者对受害者的控制欲，也暗喻爱与恨之间那条被反复撕裂的边界。这不是一部甜文，是一部写给所有受过伤、却依然选择不变成伤害者的人的书。</description>
+      <pubDate>Tue, 09 Jun 2026 16:38:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-cf7420</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《掌中之物》是鲜橙创作的都市虐恋代表作。普通女教师何妍深夜独自驾车遭遇三名在逃通缉犯，身陷绝境时冷静反抗，刺死歹徒、撞飞同伙侥幸逃脱。四年后她嫁给梁远泽，过上平静生活，却发现当年那个叫&apos;节哥&apos;的凶徒改名换姓、换了一张脸，以&apos;傅慎行&apos;的身份重新出现在她身边，由此展开一场跨越数年的极致人性博弈。书名&apos;掌中之物&apos;，既指施暴者对受害者的控制欲，也暗喻爱与恨之间那条被反复撕裂的边界。这不是一部甜文，是一部写给所有受过伤、却依然选择不变成伤害者的人的书。</itunes:summary>
+      <itunes:duration>00:27:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-cf7420.mp3" length="26638893" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
