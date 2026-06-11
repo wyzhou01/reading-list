@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 11 Jun 2026 00:05:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 00:06:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -217,6 +217,17 @@
       <itunes:duration>00:27:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-cf7420.mp3" length="26638893" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《怦然心动》 · 完整版 · 怦然心动 · 完整讲读</title>
+      <description>《怦然心动》是美国作家文德琳·范·德拉安南的处女作，讲述七岁的朱莉因为一双蓝眼睛对刚搬来的男孩布莱斯怦然心动，从此追随他整整五年。然而在一棵无花果树、几颗鸡蛋、一顿晚餐之后，她第一次停下来，认真&apos;看见&apos;了这个她爱了很久的人究竟是谁。书中那句贯穿始终的金句——&apos;整体大于部分之和&apos;——既是一个小女孩的成长哲学，也是写给所有成年人的提醒：愿你这一生，既能被一个人真正看见，也能成为那个真正看见别人的人。</description>
+      <pubDate>Wed, 10 Jun 2026 16:46:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-548088</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《怦然心动》是美国作家文德琳·范·德拉安南的处女作，讲述七岁的朱莉因为一双蓝眼睛对刚搬来的男孩布莱斯怦然心动，从此追随他整整五年。然而在一棵无花果树、几颗鸡蛋、一顿晚餐之后，她第一次停下来，认真&apos;看见&apos;了这个她爱了很久的人究竟是谁。书中那句贯穿始终的金句——&apos;整体大于部分之和&apos;——既是一个小女孩的成长哲学，也是写给所有成年人的提醒：愿你这一生，既能被一个人真正看见，也能成为那个真正看见别人的人。</itunes:summary>
+      <itunes:duration>00:34:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-548088.mp3" length="32752557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
