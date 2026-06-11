@@ -1,552 +1,563 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>好好读书</title>
-    <ns0:subtitle>AI 讲书 + 评论，一本书讲透</ns0:subtitle>
+    <itunes:subtitle>AI 讲书 + 评论，一本书讲透</itunes:subtitle>
     <link>https://wyzhou01.github.io/reading-list/</link>
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 11 Jun 2026 08:07:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 16:31:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
-    <ns0:author>好好读书组</ns0:author>
-    <ns0:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</ns0:summary>
-    <ns0:owner>
-      <ns0:name>好好读书组</ns0:name>
-      <ns0:email>zlyzwy@gmail.com</ns0:email>
-    </ns0:owner>
-    <ns0:explicit>false</ns0:explicit>
-    <ns0:category text="Arts">
-      <ns0:category text="Books" />
-    </ns0:category>
-    <ns0:image href="https://wyzhou01.github.io/reading-list/cover.jpg" />
+    <itunes:author>好好读书组</itunes:author>
+    <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
+    <itunes:owner>
+      <itunes:name>好好读书组</itunes:name>
+      <itunes:email>zlyzwy@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Arts">
+      <itunes:category text="Books"/>
+    </itunes:category>
+    <itunes:image href="https://wyzhou01.github.io/reading-list/cover.jpg"/>
     <item>
       <title>好好读书 · 《万物有灵且美》 · 完整版 · 万物有灵且美 · 完整讲读</title>
       <description>《万物有灵且美》是英国乡间兽医吉米·哈利在上世纪三十年代约克郡山谷行医的真实记录。一九七零年出版后，这本没有惊天情节、没有文学光环的小书，靠寒夜出诊的狼狈、农夫的幽默、母羊迎接新生命时那声低低的呜咽，打动了全球上千万人。它写的不只是给动物看病的日常，而是平凡日子里的尊严，是泥泞土地上长出来的诗意，是每一个被“伟大”偏见忽略、却撑起整个人生的瞬间。合上书你会想起：自己有多久没抬头看过月亮，又有多久没给身边的人留过一张柴火椅子。</description>
       <pubDate>Thu, 11 Jun 2026 07:28:59 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-655137</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《万物有灵且美》是英国乡间兽医吉米·哈利在上世纪三十年代约克郡山谷行医的真实记录。一九七零年出版后，这本没有惊天情节、没有文学光环的小书，靠寒夜出诊的狼狈、农夫的幽默、母羊迎接新生命时那声低低的呜咽，打动了全球上千万人。它写的不只是给动物看病的日常，而是平凡日子里的尊严，是泥泞土地上长出来的诗意，是每一个被“伟大”偏见忽略、却撑起整个人生的瞬间。合上书你会想起：自己有多久没抬头看过月亮，又有多久没给身边的人留过一张柴火椅子。</ns0:summary>
-      <ns0:duration>00:26:41</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-655137.mp3" length="25633197" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《万物有灵且美》是英国乡间兽医吉米·哈利在上世纪三十年代约克郡山谷行医的真实记录。一九七零年出版后，这本没有惊天情节、没有文学光环的小书，靠寒夜出诊的狼狈、农夫的幽默、母羊迎接新生命时那声低低的呜咽，打动了全球上千万人。它写的不只是给动物看病的日常，而是平凡日子里的尊严，是泥泞土地上长出来的诗意，是每一个被“伟大”偏见忽略、却撑起整个人生的瞬间。合上书你会想起：自己有多久没抬头看过月亮，又有多久没给身边的人留过一张柴火椅子。</itunes:summary>
+      <itunes:duration>00:26:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-655137.mp3" length="25633197" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《雷雨》 · 完整版 · 雷雨 · 完整讲读</title>
-      <description>曹禺二十三岁时写下的《雷雨》，讲的是旧中国一个封建大家庭在一天之内彻底崩塌的故事。周朴园三十年前抛弃丫鬟侍萍，三十年后，他的长子周萍爱上了侍萍带在身边的女儿四凤，亲妹妹与亲哥哥相恋；他的次子周冲为救四凤触电身亡；他的太太蘩漪被十八年的包办婚姻逼疯；侍萍再次踏入周公馆，发现当年推她下河的人正是眼前的"老爷"。曹禺用八小时的戏，写透了三十年的因果，写透了一个吃人秩序的腐烂。他告诉我们：秘密藏得越久，雷就下得越猛；有些压抑不爆发，就会一代一代往下传。这部八十多年前的作品，至今仍能击中每一个在家庭和社会的夹缝中挣扎的现代人。</description>
+      <description>曹禺二十三岁时写下的《雷雨》，讲的是旧中国一个封建大家庭在一天之内彻底崩塌的故事。周朴园三十年前抛弃丫鬟侍萍，三十年后，他的长子周萍爱上了侍萍带在身边的女儿四凤，亲妹妹与亲哥哥相恋；他的次子周冲为救四凤触电身亡；他的太太蘩漪被十八年的包办婚姻逼疯；侍萍再次踏入周公馆，发现当年推她下河的人正是眼前的&quot;老爷&quot;。曹禺用八小时的戏，写透了三十年的因果，写透了一个吃人秩序的腐烂。他告诉我们：秘密藏得越久，雷就下得越猛；有些压抑不爆发，就会一代一代往下传。这部八十多年前的作品，至今仍能击中每一个在家庭和社会的夹缝中挣扎的现代人。</description>
       <pubDate>Thu, 11 Jun 2026 04:40:04 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-421aac</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>曹禺二十三岁时写下的《雷雨》，讲的是旧中国一个封建大家庭在一天之内彻底崩塌的故事。周朴园三十年前抛弃丫鬟侍萍，三十年后，他的长子周萍爱上了侍萍带在身边的女儿四凤，亲妹妹与亲哥哥相恋；他的次子周冲为救四凤触电身亡；他的太太蘩漪被十八年的包办婚姻逼疯；侍萍再次踏入周公馆，发现当年推她下河的人正是眼前的"老爷"。曹禺用八小时的戏，写透了三十年的因果，写透了一个吃人秩序的腐烂。他告诉我们：秘密藏得越久，雷就下得越猛；有些压抑不爆发，就会一代一代往下传。这部八十多年前的作品，至今仍能击中每一个在家庭和社会的夹缝中挣扎的现代人。</ns0:summary>
-      <ns0:duration>00:23:02</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-421aac.mp3" length="22127661" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>曹禺二十三岁时写下的《雷雨》，讲的是旧中国一个封建大家庭在一天之内彻底崩塌的故事。周朴园三十年前抛弃丫鬟侍萍，三十年后，他的长子周萍爱上了侍萍带在身边的女儿四凤，亲妹妹与亲哥哥相恋；他的次子周冲为救四凤触电身亡；他的太太蘩漪被十八年的包办婚姻逼疯；侍萍再次踏入周公馆，发现当年推她下河的人正是眼前的&quot;老爷&quot;。曹禺用八小时的戏，写透了三十年的因果，写透了一个吃人秩序的腐烂。他告诉我们：秘密藏得越久，雷就下得越猛；有些压抑不爆发，就会一代一代往下传。这部八十多年前的作品，至今仍能击中每一个在家庭和社会的夹缝中挣扎的现代人。</itunes:summary>
+      <itunes:duration>00:23:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-421aac.mp3" length="22127661" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《步履不停》 · 完整版 · 步履不停 · 完整讲读</title>
       <description>《步履不停》是日本导演是枝裕和于2007年写就的私小说。故事只写了某年九月一个普通周末，四十岁的男主带着再婚妻子与继子，回到久里滨的老家，看望年过七十的父母。这一天里没有大事发生，只有闲聊、拌嘴、沉默，和一些看似无关紧要的琐碎——但正是在这些琐碎里，藏着人生最重的东西。书里那句“人生总是有那么一点来不及”，戳中了无数人。本书不仅写“来不及”，更写“来得及的部分”——男主后来有了女儿，每年带一家人去看得到海的墓地，会在墓碑上浇一勺水，会指着蝴蝶说“这是活过冬天的”。这本轻到一天能读完、重到读完后会忍不住给家里打电话的小说，是一封没寄出去的家书，是每个人都会经历的“子欲养而亲不待”的遗憾，也是关于代际沉默、关于爱与笨拙、关于如何与家人和解的温柔提醒。</description>
       <pubDate>Thu, 11 Jun 2026 04:29:12 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-2f58b2</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《步履不停》是日本导演是枝裕和于2007年写就的私小说。故事只写了某年九月一个普通周末，四十岁的男主带着再婚妻子与继子，回到久里滨的老家，看望年过七十的父母。这一天里没有大事发生，只有闲聊、拌嘴、沉默，和一些看似无关紧要的琐碎——但正是在这些琐碎里，藏着人生最重的东西。书里那句“人生总是有那么一点来不及”，戳中了无数人。本书不仅写“来不及”，更写“来得及的部分”——男主后来有了女儿，每年带一家人去看得到海的墓地，会在墓碑上浇一勺水，会指着蝴蝶说“这是活过冬天的”。这本轻到一天能读完、重到读完后会忍不住给家里打电话的小说，是一封没寄出去的家书，是每个人都会经历的“子欲养而亲不待”的遗憾，也是关于代际沉默、关于爱与笨拙、关于如何与家人和解的温柔提醒。</ns0:summary>
-      <ns0:duration>00:29:34</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-2f58b2.mp3" length="28388397" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《步履不停》是日本导演是枝裕和于2007年写就的私小说。故事只写了某年九月一个普通周末，四十岁的男主带着再婚妻子与继子，回到久里滨的老家，看望年过七十的父母。这一天里没有大事发生，只有闲聊、拌嘴、沉默，和一些看似无关紧要的琐碎——但正是在这些琐碎里，藏着人生最重的东西。书里那句“人生总是有那么一点来不及”，戳中了无数人。本书不仅写“来不及”，更写“来得及的部分”——男主后来有了女儿，每年带一家人去看得到海的墓地，会在墓碑上浇一勺水，会指着蝴蝶说“这是活过冬天的”。这本轻到一天能读完、重到读完后会忍不住给家里打电话的小说，是一封没寄出去的家书，是每个人都会经历的“子欲养而亲不待”的遗憾，也是关于代际沉默、关于爱与笨拙、关于如何与家人和解的温柔提醒。</itunes:summary>
+      <itunes:duration>00:29:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-2f58b2.mp3" length="28388397" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《洞穴奇案》 · 完整版 · 洞穴奇案 · 完整讲读</title>
       <description>《洞穴奇案》是法理学经典之作，由富勒于一九四九年首创、萨伯于一九九八年续写，以十四份虚构的最高法院判决书，探讨一桩极端情境下的杀人食人案件。五名探险者受困山洞后约定掷骰选出一人杀害分食，获救后四人被诉谋杀。十四个法哲学立场，同一桩案件，截然相反的判决，撕开了法律与道德、形式正义与实质正义的永恒张力。本书无关猎奇，只关乎人类在混沌中艰难求索的理性边界。</description>
       <pubDate>Thu, 11 Jun 2026 04:16:16 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-f20b0e</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《洞穴奇案》是法理学经典之作，由富勒于一九四九年首创、萨伯于一九九八年续写，以十四份虚构的最高法院判决书，探讨一桩极端情境下的杀人食人案件。五名探险者受困山洞后约定掷骰选出一人杀害分食，获救后四人被诉谋杀。十四个法哲学立场，同一桩案件，截然相反的判决，撕开了法律与道德、形式正义与实质正义的永恒张力。本书无关猎奇，只关乎人类在混沌中艰难求索的理性边界。</ns0:summary>
-      <ns0:duration>00:33:25</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-f20b0e.mp3" length="32085933" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《洞穴奇案》是法理学经典之作，由富勒于一九四九年首创、萨伯于一九九八年续写，以十四份虚构的最高法院判决书，探讨一桩极端情境下的杀人食人案件。五名探险者受困山洞后约定掷骰选出一人杀害分食，获救后四人被诉谋杀。十四个法哲学立场，同一桩案件，截然相反的判决，撕开了法律与道德、形式正义与实质正义的永恒张力。本书无关猎奇，只关乎人类在混沌中艰难求索的理性边界。</itunes:summary>
+      <itunes:duration>00:33:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-f20b0e.mp3" length="32085933" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《将死未死的青》 · 完整版 · 将死未死的青 · 完整讲读</title>
       <description>《将死未死的青》是日本作家乙一二零零一年出版的长篇小说，简体中文版二零二零年由南海出版公司推出。故事讲述胆小内向的五年级男孩正雄，遇上年轻热情的新班主任羽田老师后，从被忽视一步步走向被针对、被孤立的过程。在现实里求告无门的正雄，脑海里慢慢浮现出另一个浑身青紫、遍体鳞伤的少年“青“，替他说出那些说不出口的恐惧。乙一以极其克制的笔触，剖开了童年创伤在个体身上“将死未死“的真相，也剖开了集体无意识中那种不加恶意的、加害者永远不会像受害者那样意识到事情严重性的结构性暴力。</description>
       <pubDate>Thu, 11 Jun 2026 04:15:51 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-d91788</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《将死未死的青》是日本作家乙一二零零一年出版的长篇小说，简体中文版二零二零年由南海出版公司推出。故事讲述胆小内向的五年级男孩正雄，遇上年轻热情的新班主任羽田老师后，从被忽视一步步走向被针对、被孤立的过程。在现实里求告无门的正雄，脑海里慢慢浮现出另一个浑身青紫、遍体鳞伤的少年“青“，替他说出那些说不出口的恐惧。乙一以极其克制的笔触，剖开了童年创伤在个体身上“将死未死“的真相，也剖开了集体无意识中那种不加恶意的、加害者永远不会像受害者那样意识到事情严重性的结构性暴力。</ns0:summary>
-      <ns0:duration>00:29:17</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-d91788.mp3" length="28118061" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《将死未死的青》是日本作家乙一二零零一年出版的长篇小说，简体中文版二零二零年由南海出版公司推出。故事讲述胆小内向的五年级男孩正雄，遇上年轻热情的新班主任羽田老师后，从被忽视一步步走向被针对、被孤立的过程。在现实里求告无门的正雄，脑海里慢慢浮现出另一个浑身青紫、遍体鳞伤的少年“青“，替他说出那些说不出口的恐惧。乙一以极其克制的笔触，剖开了童年创伤在个体身上“将死未死“的真相，也剖开了集体无意识中那种不加恶意的、加害者永远不会像受害者那样意识到事情严重性的结构性暴力。</itunes:summary>
+      <itunes:duration>00:29:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-d91788.mp3" length="28118061" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《人间草木》 · 完整版 · 人间草木 · 完整讲读</title>
-      <description>《人间草木》是汪曾祺跨越四十年写就的散文集，写草木、虫鱼、饮食、旧雨与故园。他用最清淡笃定的笔触，把一棵树、一碗汤、一位故人的侧影，一个一个地托住。在一个喧嚣浮躁的时代，这本书提醒我们：人间值得，恰恰是因为人间多细小。一棵草慢慢站起来，一声"卖杨梅"的吆喝，一块蜂窝状的冻豆腐——它们不需要被赋予意义，它们本身就是意义。</description>
+      <description>《人间草木》是汪曾祺跨越四十年写就的散文集，写草木、虫鱼、饮食、旧雨与故园。他用最清淡笃定的笔触，把一棵树、一碗汤、一位故人的侧影，一个一个地托住。在一个喧嚣浮躁的时代，这本书提醒我们：人间值得，恰恰是因为人间多细小。一棵草慢慢站起来，一声&quot;卖杨梅&quot;的吆喝，一块蜂窝状的冻豆腐——它们不需要被赋予意义，它们本身就是意义。</description>
       <pubDate>Thu, 11 Jun 2026 04:13:56 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-62c80d</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《人间草木》是汪曾祺跨越四十年写就的散文集，写草木、虫鱼、饮食、旧雨与故园。他用最清淡笃定的笔触，把一棵树、一碗汤、一位故人的侧影，一个一个地托住。在一个喧嚣浮躁的时代，这本书提醒我们：人间值得，恰恰是因为人间多细小。一棵草慢慢站起来，一声"卖杨梅"的吆喝，一块蜂窝状的冻豆腐——它们不需要被赋予意义，它们本身就是意义。</ns0:summary>
-      <ns0:duration>00:32:33</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-62c80d.mp3" length="31250733" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《人间草木》是汪曾祺跨越四十年写就的散文集，写草木、虫鱼、饮食、旧雨与故园。他用最清淡笃定的笔触，把一棵树、一碗汤、一位故人的侧影，一个一个地托住。在一个喧嚣浮躁的时代，这本书提醒我们：人间值得，恰恰是因为人间多细小。一棵草慢慢站起来，一声&quot;卖杨梅&quot;的吆喝，一块蜂窝状的冻豆腐——它们不需要被赋予意义，它们本身就是意义。</itunes:summary>
+      <itunes:duration>00:32:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-62c80d.mp3" length="31250733" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《中国历代政治得失》 · 完整版 · 古代史-钱穆：中国历代政治得失 · 完整讲读</title>
-      <description>《中国历代政治得失》是钱穆先生一九五二年的五次讲演合集。他以汉、唐、宋、明、清五朝为样本，从政府组织、考试监察、财税赋役、兵役国防四个维度，纵观两千余年中国政治制度的因革演变。全书破除"秦以后即专制黑暗"的笼统标签，提出"历史意见"与"时代意见"的分野，强调制度必须与人事相配合，并反思近代全盘西化的深层困境。钱穆先生用最克制的笔法，把中国政治里皇权与相权、中央与地方、读书人与田间人之间的张力，讲成了一面让人少一分武断、多一分清醒的镜子。</description>
+      <description>《中国历代政治得失》是钱穆先生一九五二年的五次讲演合集。他以汉、唐、宋、明、清五朝为样本，从政府组织、考试监察、财税赋役、兵役国防四个维度，纵观两千余年中国政治制度的因革演变。全书破除&quot;秦以后即专制黑暗&quot;的笼统标签，提出&quot;历史意见&quot;与&quot;时代意见&quot;的分野，强调制度必须与人事相配合，并反思近代全盘西化的深层困境。钱穆先生用最克制的笔法，把中国政治里皇权与相权、中央与地方、读书人与田间人之间的张力，讲成了一面让人少一分武断、多一分清醒的镜子。</description>
       <pubDate>Thu, 11 Jun 2026 04:10:56 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-5aeaae</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《中国历代政治得失》是钱穆先生一九五二年的五次讲演合集。他以汉、唐、宋、明、清五朝为样本，从政府组织、考试监察、财税赋役、兵役国防四个维度，纵观两千余年中国政治制度的因革演变。全书破除"秦以后即专制黑暗"的笼统标签，提出"历史意见"与"时代意见"的分野，强调制度必须与人事相配合，并反思近代全盘西化的深层困境。钱穆先生用最克制的笔法，把中国政治里皇权与相权、中央与地方、读书人与田间人之间的张力，讲成了一面让人少一分武断、多一分清醒的镜子。</ns0:summary>
-      <ns0:duration>00:20:56</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-5aeaae.mp3" length="20108205" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《中国历代政治得失》是钱穆先生一九五二年的五次讲演合集。他以汉、唐、宋、明、清五朝为样本，从政府组织、考试监察、财税赋役、兵役国防四个维度，纵观两千余年中国政治制度的因革演变。全书破除&quot;秦以后即专制黑暗&quot;的笼统标签，提出&quot;历史意见&quot;与&quot;时代意见&quot;的分野，强调制度必须与人事相配合，并反思近代全盘西化的深层困境。钱穆先生用最克制的笔法，把中国政治里皇权与相权、中央与地方、读书人与田间人之间的张力，讲成了一面让人少一分武断、多一分清醒的镜子。</itunes:summary>
+      <itunes:duration>00:20:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-5aeaae.mp3" length="20108205" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《哭泣的骆驼》 · 完整版 · 三毛全集04哭泣的骆驼 · 完整讲读</title>
       <description>《哭泣的骆驼》是三毛在撒哈拉婚后生活的中后期散文合集，写于西属撒哈拉民族独立战争的风暴之中。她没有站在任何政治立场上去评判这场战争，她只写战争中的人——被收走灵魂的撒哈拉威土著、被游击队炸死的沙巴军曹、在沙漠里壮烈赴死的巴西里与沙伊达、被当成牲口一样卖掉的哑奴。她也写自己——一个从台湾书香门第走出来的女儿，如何在远方的炮火与爱里，慢慢学会替弱者守住最后一点体面，学会把婚姻过成两个人把彼此活进对方骨头里的漫长日常，学会用半生去偿还一笔永远还不清的父母恩情。这是一本关于「看见」的书，也是一本关于「承担」的书——看见他人之后，自己该怎么办。七十多年过去，今天再读它，依然会被那些陌生而滚烫的命运击中。因为它讲的，从来不只是沙漠的故事，而是每一个普通人在苦难里如何守住尊严的故事。</description>
       <pubDate>Thu, 11 Jun 2026 04:08:51 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-4a053b</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《哭泣的骆驼》是三毛在撒哈拉婚后生活的中后期散文合集，写于西属撒哈拉民族独立战争的风暴之中。她没有站在任何政治立场上去评判这场战争，她只写战争中的人——被收走灵魂的撒哈拉威土著、被游击队炸死的沙巴军曹、在沙漠里壮烈赴死的巴西里与沙伊达、被当成牲口一样卖掉的哑奴。她也写自己——一个从台湾书香门第走出来的女儿，如何在远方的炮火与爱里，慢慢学会替弱者守住最后一点体面，学会把婚姻过成两个人把彼此活进对方骨头里的漫长日常，学会用半生去偿还一笔永远还不清的父母恩情。这是一本关于「看见」的书，也是一本关于「承担」的书——看见他人之后，自己该怎么办。七十多年过去，今天再读它，依然会被那些陌生而滚烫的命运击中。因为它讲的，从来不只是沙漠的故事，而是每一个普通人在苦难里如何守住尊严的故事。</ns0:summary>
-      <ns0:duration>00:40:34</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-4a053b.mp3" length="38961069" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《哭泣的骆驼》是三毛在撒哈拉婚后生活的中后期散文合集，写于西属撒哈拉民族独立战争的风暴之中。她没有站在任何政治立场上去评判这场战争，她只写战争中的人——被收走灵魂的撒哈拉威土著、被游击队炸死的沙巴军曹、在沙漠里壮烈赴死的巴西里与沙伊达、被当成牲口一样卖掉的哑奴。她也写自己——一个从台湾书香门第走出来的女儿，如何在远方的炮火与爱里，慢慢学会替弱者守住最后一点体面，学会把婚姻过成两个人把彼此活进对方骨头里的漫长日常，学会用半生去偿还一笔永远还不清的父母恩情。这是一本关于「看见」的书，也是一本关于「承担」的书——看见他人之后，自己该怎么办。七十多年过去，今天再读它，依然会被那些陌生而滚烫的命运击中。因为它讲的，从来不只是沙漠的故事，而是每一个普通人在苦难里如何守住尊严的故事。</itunes:summary>
+      <itunes:duration>00:40:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-4a053b.mp3" length="38961069" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《小径分岔的花园》 · 完整版 · 小径分岔的花园 · 完整讲读</title>
       <description>博尔赫斯同名短篇集收录七篇玄思小说。叙述者在一本盗版百科全书中偶然发现虚构国度乌克巴尔，进而窥见由秘密社团集体发明的完整世界“特隆“；随后各篇以镜子、迷宫、彩票、图书馆、环形废墟等意象为入口，反复追问同一组命题：真实与虚构的边界、时间是否分岔、无限能否被一本书穷尽。压轴篇以一战间谍余准拜访汉学家艾伯特为主线，借彭㝡遗作《小径分岔的花园》提出“时间是分叉的网“这一核心隐喻，将整部集子拧成一座关于时间、迷宫与文学本身的存在主义迷宫。</description>
       <pubDate>Thu, 11 Jun 2026 04:04:21 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-6aa952</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>博尔赫斯同名短篇集收录七篇玄思小说。叙述者在一本盗版百科全书中偶然发现虚构国度乌克巴尔，进而窥见由秘密社团集体发明的完整世界“特隆“；随后各篇以镜子、迷宫、彩票、图书馆、环形废墟等意象为入口，反复追问同一组命题：真实与虚构的边界、时间是否分岔、无限能否被一本书穷尽。压轴篇以一战间谍余准拜访汉学家艾伯特为主线，借彭㝡遗作《小径分岔的花园》提出“时间是分叉的网“这一核心隐喻，将整部集子拧成一座关于时间、迷宫与文学本身的存在主义迷宫。</ns0:summary>
-      <ns0:duration>00:34:22</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-6aa952.mp3" length="33002541" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>博尔赫斯同名短篇集收录七篇玄思小说。叙述者在一本盗版百科全书中偶然发现虚构国度乌克巴尔，进而窥见由秘密社团集体发明的完整世界“特隆“；随后各篇以镜子、迷宫、彩票、图书馆、环形废墟等意象为入口，反复追问同一组命题：真实与虚构的边界、时间是否分岔、无限能否被一本书穷尽。压轴篇以一战间谍余准拜访汉学家艾伯特为主线，借彭㝡遗作《小径分岔的花园》提出“时间是分叉的网“这一核心隐喻，将整部集子拧成一座关于时间、迷宫与文学本身的存在主义迷宫。</itunes:summary>
+      <itunes:duration>00:34:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-6aa952.mp3" length="33002541" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《温柔的夜》 · 完整版 · 温柔的夜 · 完整讲读</title>
       <description>《温柔的夜》是三毛一九七九年的散文集。她用一年的时间，把加纳利岛和撒哈拉边缘的零碎人情——一个穿水红衬衫的流浪汉、一个摆地摊的日本青年、一个好吃懒做的女佣、一群在沙漠里围着营火过夜的朋友——一篇一篇写下来。她示范了一种活法：对万物保持兴趣，对陌生人舍得掏真心，对物质保持独立。她的文字看似写远方，其实写的是——一个人，怎么在世界面前，保持自己的心跳。</description>
       <pubDate>Thu, 11 Jun 2026 04:01:09 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-695871</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《温柔的夜》是三毛一九七九年的散文集。她用一年的时间，把加纳利岛和撒哈拉边缘的零碎人情——一个穿水红衬衫的流浪汉、一个摆地摊的日本青年、一个好吃懒做的女佣、一群在沙漠里围着营火过夜的朋友——一篇一篇写下来。她示范了一种活法：对万物保持兴趣，对陌生人舍得掏真心，对物质保持独立。她的文字看似写远方，其实写的是——一个人，怎么在世界面前，保持自己的心跳。</ns0:summary>
-      <ns0:duration>00:26:36</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-695871.mp3" length="25551405" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《温柔的夜》是三毛一九七九年的散文集。她用一年的时间，把加纳利岛和撒哈拉边缘的零碎人情——一个穿水红衬衫的流浪汉、一个摆地摊的日本青年、一个好吃懒做的女佣、一群在沙漠里围着营火过夜的朋友——一篇一篇写下来。她示范了一种活法：对万物保持兴趣，对陌生人舍得掏真心，对物质保持独立。她的文字看似写远方，其实写的是——一个人，怎么在世界面前，保持自己的心跳。</itunes:summary>
+      <itunes:duration>00:26:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-695871.mp3" length="25551405" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《非暴力沟通》 · 完整版 · 非暴力沟通 · 完整讲读</title>
       <description>《非暴力沟通》是马歇尔·卢森堡博士结合甘地非暴力思想与心理学研究提出的沟通模式。它指出日常生活中隐蔽的语言暴力——道德评判、比较、强人所难——是蒙蔽爱、引发冲突的根源，并给出四个核心要素：观察、感受、需要、请求。这套方法既适用于表达自己，也适用于倾听他人，并延伸到爱自己、化解愤怒、表达感激等深层议题。它适用于亲密关系、家庭、职场乃至国际冲突斡旋，其精髓不在话术，而在面对自己与他人时，由内而外的态度——让爱融入生活，让语言从墙变回窗。</description>
       <pubDate>Thu, 11 Jun 2026 04:00:51 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-8623e4</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《非暴力沟通》是马歇尔·卢森堡博士结合甘地非暴力思想与心理学研究提出的沟通模式。它指出日常生活中隐蔽的语言暴力——道德评判、比较、强人所难——是蒙蔽爱、引发冲突的根源，并给出四个核心要素：观察、感受、需要、请求。这套方法既适用于表达自己，也适用于倾听他人，并延伸到爱自己、化解愤怒、表达感激等深层议题。它适用于亲密关系、家庭、职场乃至国际冲突斡旋，其精髓不在话术，而在面对自己与他人时，由内而外的态度——让爱融入生活，让语言从墙变回窗。</ns0:summary>
-      <ns0:duration>00:31:33</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-8623e4.mp3" length="30290349" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《非暴力沟通》是马歇尔·卢森堡博士结合甘地非暴力思想与心理学研究提出的沟通模式。它指出日常生活中隐蔽的语言暴力——道德评判、比较、强人所难——是蒙蔽爱、引发冲突的根源，并给出四个核心要素：观察、感受、需要、请求。这套方法既适用于表达自己，也适用于倾听他人，并延伸到爱自己、化解愤怒、表达感激等深层议题。它适用于亲密关系、家庭、职场乃至国际冲突斡旋，其精髓不在话术，而在面对自己与他人时，由内而外的态度——让爱融入生活，让语言从墙变回窗。</itunes:summary>
+      <itunes:duration>00:31:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-8623e4.mp3" length="30290349" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《相亲中毒》 · 完整版 · 相亲中毒 · 完整讲读</title>
       <description>《相亲中毒》是日本作家山下美月的黑色幽默短篇集，五个故事独立成章又彼此呼应，把相亲这台精密机器拆开给你看：三十九岁的沙织被相亲市场反复定价后，遇到了一个完美到可疑的男人，她用理性给自己列了可疑清单，却在稀缺感中亲手把它撕掉；其他故事里，有人雇人替自己相亲弄假成真，有人把代理相亲做成连环收割聘礼的家族骗局。书里没有居高临下的批判，只有相亲现场被摊开后赤裸裸的人性——表象与真实的错位、亲情与自我认知的拉扯、被年龄与焦虑驱动的判断力失守。这本书最锋利的地方在于它揭示：相亲本身不是问题，被焦虑、产业化、年龄歧视喂养之后的相亲，才是把人异化的源头。</description>
       <pubDate>Thu, 11 Jun 2026 04:00:22 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-e034fe</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《相亲中毒》是日本作家山下美月的黑色幽默短篇集，五个故事独立成章又彼此呼应，把相亲这台精密机器拆开给你看：三十九岁的沙织被相亲市场反复定价后，遇到了一个完美到可疑的男人，她用理性给自己列了可疑清单，却在稀缺感中亲手把它撕掉；其他故事里，有人雇人替自己相亲弄假成真，有人把代理相亲做成连环收割聘礼的家族骗局。书里没有居高临下的批判，只有相亲现场被摊开后赤裸裸的人性——表象与真实的错位、亲情与自我认知的拉扯、被年龄与焦虑驱动的判断力失守。这本书最锋利的地方在于它揭示：相亲本身不是问题，被焦虑、产业化、年龄歧视喂养之后的相亲，才是把人异化的源头。</ns0:summary>
-      <ns0:duration>00:27:26</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-e034fe.mp3" length="26346285" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《相亲中毒》是日本作家山下美月的黑色幽默短篇集，五个故事独立成章又彼此呼应，把相亲这台精密机器拆开给你看：三十九岁的沙织被相亲市场反复定价后，遇到了一个完美到可疑的男人，她用理性给自己列了可疑清单，却在稀缺感中亲手把它撕掉；其他故事里，有人雇人替自己相亲弄假成真，有人把代理相亲做成连环收割聘礼的家族骗局。书里没有居高临下的批判，只有相亲现场被摊开后赤裸裸的人性——表象与真实的错位、亲情与自我认知的拉扯、被年龄与焦虑驱动的判断力失守。这本书最锋利的地方在于它揭示：相亲本身不是问题，被焦虑、产业化、年龄歧视喂养之后的相亲，才是把人异化的源头。</itunes:summary>
+      <itunes:duration>00:27:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-e034fe.mp3" length="26346285" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《冬牧场》 · 完整版 · 冬牧场 - 李娟 · 完整讲读</title>
       <description>《冬牧场》是李娟写于 2010-2011 年那个冬天的非虚构作品。她跟随哈萨克牧民居麻一家深入古尔班通古特沙漠，在地窝子里住了三个多月。全书以三天转场、羊粪燃料、地窝子日日夜夜为线索，写出了牧民在零下四十度里熬冬天的艰辛与尊严，写出了人与羊、骆驼、猫相依为命的温柔，也写出了随着定居工程推进、这种游牧生活方式正在远去的寂静告别。这不是一本猎奇的书，而是一个年轻作家替一个正在消失的文明，留下的一份「体温尚存」的证词。</description>
       <pubDate>Thu, 11 Jun 2026 03:56:35 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-a84bd0</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《冬牧场》是李娟写于 2010-2011 年那个冬天的非虚构作品。她跟随哈萨克牧民居麻一家深入古尔班通古特沙漠，在地窝子里住了三个多月。全书以三天转场、羊粪燃料、地窝子日日夜夜为线索，写出了牧民在零下四十度里熬冬天的艰辛与尊严，写出了人与羊、骆驼、猫相依为命的温柔，也写出了随着定居工程推进、这种游牧生活方式正在远去的寂静告别。这不是一本猎奇的书，而是一个年轻作家替一个正在消失的文明，留下的一份「体温尚存」的证词。</ns0:summary>
-      <ns0:duration>00:35:34</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-a84bd0.mp3" length="34153389" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《冬牧场》是李娟写于 2010-2011 年那个冬天的非虚构作品。她跟随哈萨克牧民居麻一家深入古尔班通古特沙漠，在地窝子里住了三个多月。全书以三天转场、羊粪燃料、地窝子日日夜夜为线索，写出了牧民在零下四十度里熬冬天的艰辛与尊严，写出了人与羊、骆驼、猫相依为命的温柔，也写出了随着定居工程推进、这种游牧生活方式正在远去的寂静告别。这不是一本猎奇的书，而是一个年轻作家替一个正在消失的文明，留下的一份「体温尚存」的证词。</itunes:summary>
+      <itunes:duration>00:35:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-a84bd0.mp3" length="34153389" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《土狗老黑闯祸了》 · 完整版 · 土狗老黑闯祸了 · 完整讲读</title>
-      <description>《土狗老黑闯祸了》是叶广芩"耗子丫丫的故事"系列第三部，写老北京胡同里一只土狗与女孩丫丫的童年陪伴。老黑从坟地跟回家，陪着丫丫一家上坟、蒸懒龙、看茄子、斗耗子，却因家里新添婴儿不得不送回乡下东坝河老李家。书里揉进了吃食、风物、礼俗与生死，让孩子在故事里馋一遍、哭一遍、长大一遍。</description>
+      <description>《土狗老黑闯祸了》是叶广芩&quot;耗子丫丫的故事&quot;系列第三部，写老北京胡同里一只土狗与女孩丫丫的童年陪伴。老黑从坟地跟回家，陪着丫丫一家上坟、蒸懒龙、看茄子、斗耗子，却因家里新添婴儿不得不送回乡下东坝河老李家。书里揉进了吃食、风物、礼俗与生死，让孩子在故事里馋一遍、哭一遍、长大一遍。</description>
       <pubDate>Thu, 11 Jun 2026 03:51:43 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-34d7e0</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《土狗老黑闯祸了》是叶广芩"耗子丫丫的故事"系列第三部，写老北京胡同里一只土狗与女孩丫丫的童年陪伴。老黑从坟地跟回家，陪着丫丫一家上坟、蒸懒龙、看茄子、斗耗子，却因家里新添婴儿不得不送回乡下东坝河老李家。书里揉进了吃食、风物、礼俗与生死，让孩子在故事里馋一遍、哭一遍、长大一遍。</ns0:summary>
-      <ns0:duration>00:27:52</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-34d7e0.mp3" length="26761773" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《土狗老黑闯祸了》是叶广芩&quot;耗子丫丫的故事&quot;系列第三部，写老北京胡同里一只土狗与女孩丫丫的童年陪伴。老黑从坟地跟回家，陪着丫丫一家上坟、蒸懒龙、看茄子、斗耗子，却因家里新添婴儿不得不送回乡下东坝河老李家。书里揉进了吃食、风物、礼俗与生死，让孩子在故事里馋一遍、哭一遍、长大一遍。</itunes:summary>
+      <itunes:duration>00:27:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-34d7e0.mp3" length="26761773" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《道德经译注》 · 完整版 · 道德经译注 · 完整讲读</title>
       <description>《道德经》是老子思想的集中体现，全书八十一章，分《道经》与《德经》，构建了以“道”为核心的完整哲学体系。它提出“道”是宇宙运行的底层规则，万物“反者道之动”，对立面相互转化；主张“无为而治”，反对妄为与过度干预；推崇柔弱不争、以退为进的处世智慧；描绘了“小国寡民”的理想社会图景。最终落在“为而不争”的人生准则上。这本五千言的小书，是中国第一部系统性的哲学著作，深刻影响了庄子、禅宗、魏晋玄学、宋明理学，也远播西方，启发了海德格尔、托尔斯泰等思想家。在内卷与焦虑的时代，它提供了另一种活法：顺应规律，谦下不争，少妄为，多顺势。</description>
       <pubDate>Thu, 11 Jun 2026 03:51:29 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-910643</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《道德经》是老子思想的集中体现，全书八十一章，分《道经》与《德经》，构建了以“道”为核心的完整哲学体系。它提出“道”是宇宙运行的底层规则，万物“反者道之动”，对立面相互转化；主张“无为而治”，反对妄为与过度干预；推崇柔弱不争、以退为进的处世智慧；描绘了“小国寡民”的理想社会图景。最终落在“为而不争”的人生准则上。这本五千言的小书，是中国第一部系统性的哲学著作，深刻影响了庄子、禅宗、魏晋玄学、宋明理学，也远播西方，启发了海德格尔、托尔斯泰等思想家。在内卷与焦虑的时代，它提供了另一种活法：顺应规律，谦下不争，少妄为，多顺势。</ns0:summary>
-      <ns0:duration>00:28:02</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-910643.mp3" length="26922285" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《道德经》是老子思想的集中体现，全书八十一章，分《道经》与《德经》，构建了以“道”为核心的完整哲学体系。它提出“道”是宇宙运行的底层规则，万物“反者道之动”，对立面相互转化；主张“无为而治”，反对妄为与过度干预；推崇柔弱不争、以退为进的处世智慧；描绘了“小国寡民”的理想社会图景。最终落在“为而不争”的人生准则上。这本五千言的小书，是中国第一部系统性的哲学著作，深刻影响了庄子、禅宗、魏晋玄学、宋明理学，也远播西方，启发了海德格尔、托尔斯泰等思想家。在内卷与焦虑的时代，它提供了另一种活法：顺应规律，谦下不争，少妄为，多顺势。</itunes:summary>
+      <itunes:duration>00:28:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-910643.mp3" length="26922285" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《带上她的眼睛》 · 完整版 · 带上她的眼睛 · 完整讲读</title>
       <description>《带上她的眼睛》是刘慈欣一九九九年的短篇科幻。小说讲述一位宇航员度假时佩戴地心飞船“落日六号“领航员的传感眼镜，替困在地心的女孩最后看一眼地球表面的草原。女孩对每一朵花、每一阵风、每一缕月光都倾注全部情感，用名字与记忆为自己建造一座可随身携带的精神家园。飞船失事被困地心后，她在五千度高温与一千六百吨压力中，靠这些美的碎片度过余生。这部极轻、极短的科幻，藏着关于麻木、孤独与诗意的最重一问——我们这个物质极大丰富的时代，是不是反而失去了看见一朵花的能力。</description>
       <pubDate>Thu, 11 Jun 2026 03:50:49 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-f320b0</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《带上她的眼睛》是刘慈欣一九九九年的短篇科幻。小说讲述一位宇航员度假时佩戴地心飞船“落日六号“领航员的传感眼镜，替困在地心的女孩最后看一眼地球表面的草原。女孩对每一朵花、每一阵风、每一缕月光都倾注全部情感，用名字与记忆为自己建造一座可随身携带的精神家园。飞船失事被困地心后，她在五千度高温与一千六百吨压力中，靠这些美的碎片度过余生。这部极轻、极短的科幻，藏着关于麻木、孤独与诗意的最重一问——我们这个物质极大丰富的时代，是不是反而失去了看见一朵花的能力。</ns0:summary>
-      <ns0:duration>00:29:05</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-f320b0.mp3" length="27929517" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《带上她的眼睛》是刘慈欣一九九九年的短篇科幻。小说讲述一位宇航员度假时佩戴地心飞船“落日六号“领航员的传感眼镜，替困在地心的女孩最后看一眼地球表面的草原。女孩对每一朵花、每一阵风、每一缕月光都倾注全部情感，用名字与记忆为自己建造一座可随身携带的精神家园。飞船失事被困地心后，她在五千度高温与一千六百吨压力中，靠这些美的碎片度过余生。这部极轻、极短的科幻，藏着关于麻木、孤独与诗意的最重一问——我们这个物质极大丰富的时代，是不是反而失去了看见一朵花的能力。</itunes:summary>
+      <itunes:duration>00:29:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-f320b0.mp3" length="27929517" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《花猫三丫上房了》 · 完整版 · 花猫三丫上房了 · 完整讲读</title>
       <description>《花猫三丫上房了》是叶广芩写给孩子的北京童年散文体小说。七八岁的丫丫生活在东城一条胡同的大院里，从刘婶家抱回一只小黄猫取名三丫，由此开始了一段养猫、上房、与伙伴嬉闹的日子。书里有大芳的小自私、苏惠的嘴甜、小四儿捡煤核儿的身影、老七画案上的宣纸、爸爸给猫开的猫道、刘婶的糊塌子、派出所老黑戴的伊丽莎白圈。没有手机平板的几十年，一个孩子在具体的喂养、具体的麻烦、具体的街坊里，一点点长出担当、界限与亲情。</description>
       <pubDate>Thu, 11 Jun 2026 03:39:49 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-18bbfa</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《花猫三丫上房了》是叶广芩写给孩子的北京童年散文体小说。七八岁的丫丫生活在东城一条胡同的大院里，从刘婶家抱回一只小黄猫取名三丫，由此开始了一段养猫、上房、与伙伴嬉闹的日子。书里有大芳的小自私、苏惠的嘴甜、小四儿捡煤核儿的身影、老七画案上的宣纸、爸爸给猫开的猫道、刘婶的糊塌子、派出所老黑戴的伊丽莎白圈。没有手机平板的几十年，一个孩子在具体的喂养、具体的麻烦、具体的街坊里，一点点长出担当、界限与亲情。</ns0:summary>
-      <ns0:duration>00:32:54</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-18bbfa.mp3" length="31592109" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《花猫三丫上房了》是叶广芩写给孩子的北京童年散文体小说。七八岁的丫丫生活在东城一条胡同的大院里，从刘婶家抱回一只小黄猫取名三丫，由此开始了一段养猫、上房、与伙伴嬉闹的日子。书里有大芳的小自私、苏惠的嘴甜、小四儿捡煤核儿的身影、老七画案上的宣纸、爸爸给猫开的猫道、刘婶的糊塌子、派出所老黑戴的伊丽莎白圈。没有手机平板的几十年，一个孩子在具体的喂养、具体的麻烦、具体的街坊里，一点点长出担当、界限与亲情。</itunes:summary>
+      <itunes:duration>00:32:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-18bbfa.mp3" length="31592109" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《我与地坛》 · 完整版 · 我与地坛 · 完整讲读</title>
-      <description>史铁生在二十一岁那年忽然双腿瘫痪，此后他在北京地坛公园的废弃古园里独自度过了十五年。《我与地坛》不是一本成功学，而是一位被命运击倒的作家，用十五年时间回答"怎样活"这个问题的全过程。全书围绕地坛这座庇护所、母亲沉默的爱、差别的命运真相、写作作为活命的动作、观看痛苦的自由姿态、以及对死亡的坦然接受六块拼图展开。它不提供答案，只提供一种在最深的黑暗里，仍然认真活下去的态度。</description>
+      <description>史铁生在二十一岁那年忽然双腿瘫痪，此后他在北京地坛公园的废弃古园里独自度过了十五年。《我与地坛》不是一本成功学，而是一位被命运击倒的作家，用十五年时间回答&quot;怎样活&quot;这个问题的全过程。全书围绕地坛这座庇护所、母亲沉默的爱、差别的命运真相、写作作为活命的动作、观看痛苦的自由姿态、以及对死亡的坦然接受六块拼图展开。它不提供答案，只提供一种在最深的黑暗里，仍然认真活下去的态度。</description>
       <pubDate>Thu, 11 Jun 2026 03:38:12 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-c9e104</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>史铁生在二十一岁那年忽然双腿瘫痪，此后他在北京地坛公园的废弃古园里独自度过了十五年。《我与地坛》不是一本成功学，而是一位被命运击倒的作家，用十五年时间回答"怎样活"这个问题的全过程。全书围绕地坛这座庇护所、母亲沉默的爱、差别的命运真相、写作作为活命的动作、观看痛苦的自由姿态、以及对死亡的坦然接受六块拼图展开。它不提供答案，只提供一种在最深的黑暗里，仍然认真活下去的态度。</ns0:summary>
-      <ns0:duration>00:33:53</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-c9e104.mp3" length="32542893" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>史铁生在二十一岁那年忽然双腿瘫痪，此后他在北京地坛公园的废弃古园里独自度过了十五年。《我与地坛》不是一本成功学，而是一位被命运击倒的作家，用十五年时间回答&quot;怎样活&quot;这个问题的全过程。全书围绕地坛这座庇护所、母亲沉默的爱、差别的命运真相、写作作为活命的动作、观看痛苦的自由姿态、以及对死亡的坦然接受六块拼图展开。它不提供答案，只提供一种在最深的黑暗里，仍然认真活下去的态度。</itunes:summary>
+      <itunes:duration>00:33:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-c9e104.mp3" length="32542893" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《孩子你慢慢来》 · 完整版 · 孩子你慢慢来 · 完整讲读</title>
       <description>《孩子你慢慢来》是龙应台一九八五年到一九八八年间写下的二十三篇散文，记录两个儿子从牙牙学语到八岁第一次触碰对错边界的成长瞬间。她写五岁孩子在花铺前打蝴蝶结，写两岁的华安第一次发清楚ㄅㄜ这个音，写八岁的华安在朋友偷糖后第一次理解什么叫共犯。书里没有催逼，只有凝视；没有母职高调，只有素面相对的日常。这本华人世界最经典的亲子散文，温柔地提醒每一个在催促与等待之间摇摆的成年人——慢，是一种抵抗，也是一种爱。</description>
       <pubDate>Thu, 11 Jun 2026 03:37:50 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-cf3039</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《孩子你慢慢来》是龙应台一九八五年到一九八八年间写下的二十三篇散文，记录两个儿子从牙牙学语到八岁第一次触碰对错边界的成长瞬间。她写五岁孩子在花铺前打蝴蝶结，写两岁的华安第一次发清楚ㄅㄜ这个音，写八岁的华安在朋友偷糖后第一次理解什么叫共犯。书里没有催逼，只有凝视；没有母职高调，只有素面相对的日常。这本华人世界最经典的亲子散文，温柔地提醒每一个在催促与等待之间摇摆的成年人——慢，是一种抵抗，也是一种爱。</ns0:summary>
-      <ns0:duration>00:26:07</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-cf3039.mp3" length="25085997" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《孩子你慢慢来》是龙应台一九八五年到一九八八年间写下的二十三篇散文，记录两个儿子从牙牙学语到八岁第一次触碰对错边界的成长瞬间。她写五岁孩子在花铺前打蝴蝶结，写两岁的华安第一次发清楚ㄅㄜ这个音，写八岁的华安在朋友偷糖后第一次理解什么叫共犯。书里没有催逼，只有凝视；没有母职高调，只有素面相对的日常。这本华人世界最经典的亲子散文，温柔地提醒每一个在催促与等待之间摇摆的成年人——慢，是一种抵抗，也是一种爱。</itunes:summary>
+      <itunes:duration>00:26:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-cf3039.mp3" length="25085997" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《倦怠社会》 · 完整版 · 倦怠社会 · 完整讲读</title>
       <description>《倦怠社会》是德国哲学家韩炳哲的代表作，它诊断了二十一世纪一种全新的精神病理：疾病不再由病毒引发，而由神经元主导。二十世纪是免疫学的时代，敌我分明，规训社会的否定性禁令保护着主体；二十一世纪则是功绩社会的时代，他者消失了，敌人变成了我们自己。从“你应当”到“你能够”，否定性的戒律被肯定性的口号取代，人从被统治者变成自我剥削者，施虐者与受害者合而为一。抑郁症、过劳、注意力缺陷障碍，这些不是软弱的证明，而是一种过量肯定性引发的神经梗阻。治愈之道不在于更多的刺激和效率，而在于恢复被现代性驱逐的神圣时间：深度无聊、观看、节日。这本只有七万字的短书，篇幅精炼却如手术刀般锋利，适合每一个在加速中感到窒息的现代人。</description>
       <pubDate>Thu, 11 Jun 2026 03:36:15 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-1fb4b9</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《倦怠社会》是德国哲学家韩炳哲的代表作，它诊断了二十一世纪一种全新的精神病理：疾病不再由病毒引发，而由神经元主导。二十世纪是免疫学的时代，敌我分明，规训社会的否定性禁令保护着主体；二十一世纪则是功绩社会的时代，他者消失了，敌人变成了我们自己。从“你应当”到“你能够”，否定性的戒律被肯定性的口号取代，人从被统治者变成自我剥削者，施虐者与受害者合而为一。抑郁症、过劳、注意力缺陷障碍，这些不是软弱的证明，而是一种过量肯定性引发的神经梗阻。治愈之道不在于更多的刺激和效率，而在于恢复被现代性驱逐的神圣时间：深度无聊、观看、节日。这本只有七万字的短书，篇幅精炼却如手术刀般锋利，适合每一个在加速中感到窒息的现代人。</ns0:summary>
-      <ns0:duration>00:25:58</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-1fb4b9.mp3" length="24933165" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《倦怠社会》是德国哲学家韩炳哲的代表作，它诊断了二十一世纪一种全新的精神病理：疾病不再由病毒引发，而由神经元主导。二十世纪是免疫学的时代，敌我分明，规训社会的否定性禁令保护着主体；二十一世纪则是功绩社会的时代，他者消失了，敌人变成了我们自己。从“你应当”到“你能够”，否定性的戒律被肯定性的口号取代，人从被统治者变成自我剥削者，施虐者与受害者合而为一。抑郁症、过劳、注意力缺陷障碍，这些不是软弱的证明，而是一种过量肯定性引发的神经梗阻。治愈之道不在于更多的刺激和效率，而在于恢复被现代性驱逐的神圣时间：深度无聊、观看、节日。这本只有七万字的短书，篇幅精炼却如手术刀般锋利，适合每一个在加速中感到窒息的现代人。</itunes:summary>
+      <itunes:duration>00:25:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-1fb4b9.mp3" length="24933165" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《牧羊少年奇幻之旅》 · 完整版 · 牧羊少年奇幻之旅 · 完整讲读</title>
       <description>《牧羊少年奇幻之旅》是巴西作家保罗·柯艾略写的一本关于天命与自我探寻的寓言小说，讲述西班牙牧羊少年圣狄雅各在重复的梦境指引下，放弃羊群与心爱之人，跨越沙漠前往埃及金字塔寻找宝藏，最终领悟宝藏其实埋在自己家乡后院的故事。全书以苏菲神秘主义为底色，融合炼金术隐喻与现代人的精神迷茫，提出天命、恐惧、此刻、爱、宇宙之心等核心概念，揭示阻碍人实现梦想的从来不是困难，而是恐惧本身，真正的答案不是走完那条路，而是每走一步答案都在脚下生长。本书连续多年位居全球畅销榜，是二十世纪最重要的现代寓言之一。</description>
       <pubDate>Thu, 11 Jun 2026 03:34:47 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-0261d7</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《牧羊少年奇幻之旅》是巴西作家保罗·柯艾略写的一本关于天命与自我探寻的寓言小说，讲述西班牙牧羊少年圣狄雅各在重复的梦境指引下，放弃羊群与心爱之人，跨越沙漠前往埃及金字塔寻找宝藏，最终领悟宝藏其实埋在自己家乡后院的故事。全书以苏菲神秘主义为底色，融合炼金术隐喻与现代人的精神迷茫，提出天命、恐惧、此刻、爱、宇宙之心等核心概念，揭示阻碍人实现梦想的从来不是困难，而是恐惧本身，真正的答案不是走完那条路，而是每走一步答案都在脚下生长。本书连续多年位居全球畅销榜，是二十世纪最重要的现代寓言之一。</ns0:summary>
-      <ns0:duration>00:33:00</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-0261d7.mp3" length="31692717" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《牧羊少年奇幻之旅》是巴西作家保罗·柯艾略写的一本关于天命与自我探寻的寓言小说，讲述西班牙牧羊少年圣狄雅各在重复的梦境指引下，放弃羊群与心爱之人，跨越沙漠前往埃及金字塔寻找宝藏，最终领悟宝藏其实埋在自己家乡后院的故事。全书以苏菲神秘主义为底色，融合炼金术隐喻与现代人的精神迷茫，提出天命、恐惧、此刻、爱、宇宙之心等核心概念，揭示阻碍人实现梦想的从来不是困难，而是恐惧本身，真正的答案不是走完那条路，而是每走一步答案都在脚下生长。本书连续多年位居全球畅销榜，是二十世纪最重要的现代寓言之一。</itunes:summary>
+      <itunes:duration>00:33:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-0261d7.mp3" length="31692717" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《棋王》 · 完整版 · 棋王 · 完整讲读</title>
-      <description>《棋王》是阿城一九八四年的中篇，写知青王一生在物质极度匮乏的年代里，把全部精神托付给象棋的故事。吃饭是生存的底线，下棋是精神的超越，母亲留下的棋子和一句"你能在棋里找到妈"是灵魂的托付。结尾的九局连环车轮大战，让他从一个瘦小黑魂，变成了让全场"脸热"的王。这本书写的不是苦难，是一个人在什么都没了的时候，靠什么证明自己还活着。三十多年过去，它还在被反复重印——因为那个问题没有过时。</description>
+      <description>《棋王》是阿城一九八四年的中篇，写知青王一生在物质极度匮乏的年代里，把全部精神托付给象棋的故事。吃饭是生存的底线，下棋是精神的超越，母亲留下的棋子和一句&quot;你能在棋里找到妈&quot;是灵魂的托付。结尾的九局连环车轮大战，让他从一个瘦小黑魂，变成了让全场&quot;脸热&quot;的王。这本书写的不是苦难，是一个人在什么都没了的时候，靠什么证明自己还活着。三十多年过去，它还在被反复重印——因为那个问题没有过时。</description>
       <pubDate>Thu, 11 Jun 2026 02:26:38 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-98cd20</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《棋王》是阿城一九八四年的中篇，写知青王一生在物质极度匮乏的年代里，把全部精神托付给象棋的故事。吃饭是生存的底线，下棋是精神的超越，母亲留下的棋子和一句"你能在棋里找到妈"是灵魂的托付。结尾的九局连环车轮大战，让他从一个瘦小黑魂，变成了让全场"脸热"的王。这本书写的不是苦难，是一个人在什么都没了的时候，靠什么证明自己还活着。三十多年过去，它还在被反复重印——因为那个问题没有过时。</ns0:summary>
-      <ns0:duration>00:37:28</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-98cd20.mp3" length="35974701" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《棋王》是阿城一九八四年的中篇，写知青王一生在物质极度匮乏的年代里，把全部精神托付给象棋的故事。吃饭是生存的底线，下棋是精神的超越，母亲留下的棋子和一句&quot;你能在棋里找到妈&quot;是灵魂的托付。结尾的九局连环车轮大战，让他从一个瘦小黑魂，变成了让全场&quot;脸热&quot;的王。这本书写的不是苦难，是一个人在什么都没了的时候，靠什么证明自己还活着。三十多年过去，它还在被反复重印——因为那个问题没有过时。</itunes:summary>
+      <itunes:duration>00:37:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-98cd20.mp3" length="35974701" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《正见：佛陀的证悟》 · 完整版 · 正见 · 完整讲读</title>
-      <description>《正见》是一本写给现代人的佛法入门书。藏传佛教导师宗萨蒋扬钦哲仁波切用最直白的语言，把佛陀两千五百年前证悟的四个核心见地——四法印，讲给没有任何佛教背景的普通读者。第一法印"一切和合事物皆无常"，告诉我们世界一直在变，执着于不变就是痛苦的根源；第二法印"一切情绪皆苦"，拆解情绪不是感受而是概念绑架后的产物；第三法印"一切事物皆无我"，揭示那个执着不变的自我本身只是大脑编出来的故事；第四法印"涅槃超越概念"，指出真正的自由不是死后去某个地方，而是看穿这三层幻觉后本来就在的宁静。这本书不讲禅坐、不讲仪式、不推销宗派，它只做一件事：把佛陀最核心的见地，从仪式的外衣里剥出来，摆在你面前。</description>
+      <description>《正见》是一本写给现代人的佛法入门书。藏传佛教导师宗萨蒋扬钦哲仁波切用最直白的语言，把佛陀两千五百年前证悟的四个核心见地——四法印，讲给没有任何佛教背景的普通读者。第一法印&quot;一切和合事物皆无常&quot;，告诉我们世界一直在变，执着于不变就是痛苦的根源；第二法印&quot;一切情绪皆苦&quot;，拆解情绪不是感受而是概念绑架后的产物；第三法印&quot;一切事物皆无我&quot;，揭示那个执着不变的自我本身只是大脑编出来的故事；第四法印&quot;涅槃超越概念&quot;，指出真正的自由不是死后去某个地方，而是看穿这三层幻觉后本来就在的宁静。这本书不讲禅坐、不讲仪式、不推销宗派，它只做一件事：把佛陀最核心的见地，从仪式的外衣里剥出来，摆在你面前。</description>
       <pubDate>Thu, 11 Jun 2026 02:17:15 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-e6be4a</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《正见》是一本写给现代人的佛法入门书。藏传佛教导师宗萨蒋扬钦哲仁波切用最直白的语言，把佛陀两千五百年前证悟的四个核心见地——四法印，讲给没有任何佛教背景的普通读者。第一法印"一切和合事物皆无常"，告诉我们世界一直在变，执着于不变就是痛苦的根源；第二法印"一切情绪皆苦"，拆解情绪不是感受而是概念绑架后的产物；第三法印"一切事物皆无我"，揭示那个执着不变的自我本身只是大脑编出来的故事；第四法印"涅槃超越概念"，指出真正的自由不是死后去某个地方，而是看穿这三层幻觉后本来就在的宁静。这本书不讲禅坐、不讲仪式、不推销宗派，它只做一件事：把佛陀最核心的见地，从仪式的外衣里剥出来，摆在你面前。</ns0:summary>
-      <ns0:duration>00:34:09</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-e6be4a.mp3" length="32800173" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《正见》是一本写给现代人的佛法入门书。藏传佛教导师宗萨蒋扬钦哲仁波切用最直白的语言，把佛陀两千五百年前证悟的四个核心见地——四法印，讲给没有任何佛教背景的普通读者。第一法印&quot;一切和合事物皆无常&quot;，告诉我们世界一直在变，执着于不变就是痛苦的根源；第二法印&quot;一切情绪皆苦&quot;，拆解情绪不是感受而是概念绑架后的产物；第三法印&quot;一切事物皆无我&quot;，揭示那个执着不变的自我本身只是大脑编出来的故事；第四法印&quot;涅槃超越概念&quot;，指出真正的自由不是死后去某个地方，而是看穿这三层幻觉后本来就在的宁静。这本书不讲禅坐、不讲仪式、不推销宗派，它只做一件事：把佛陀最核心的见地，从仪式的外衣里剥出来，摆在你面前。</itunes:summary>
+      <itunes:duration>00:34:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-e6be4a.mp3" length="32800173" type="audio/mpeg"/>
     </item>
-  <item>
+    <item>
       <title>好好读书 · 《金锁记》 · 完整版 · 金锁记 · 完整讲读</title>
       <description>《金锁记》是张爱玲一九四三年的代表作，被誉为“中国从古以来最伟大的中篇小说”。麻油店出身的曹七巧嫁入姜家豪门，做了残疾二爷的少奶奶。三十年的压抑与扭曲，让她从受害者变成了施害者，亲手毁掉了儿子长白与女儿长安的幸福。小说以冷峻的笔触，写出了金钱对人性的异化、情欲压抑后的代际伤害，以及旧中国女性在宗法制度下的悲剧命运。读完这本书你会明白：苍凉，才是人生的底色；而有些枷锁，只有先认出来，才有可能卸下。</description>
       <pubDate>Thu, 11 Jun 2026 02:15:13 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-e68e40</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《金锁记》是张爱玲一九四三年的代表作，被誉为“中国从古以来最伟大的中篇小说”。麻油店出身的曹七巧嫁入姜家豪门，做了残疾二爷的少奶奶。三十年的压抑与扭曲，让她从受害者变成了施害者，亲手毁掉了儿子长白与女儿长安的幸福。小说以冷峻的笔触，写出了金钱对人性的异化、情欲压抑后的代际伤害，以及旧中国女性在宗法制度下的悲剧命运。读完这本书你会明白：苍凉，才是人生的底色；而有些枷锁，只有先认出来，才有可能卸下。</ns0:summary>
-      <ns0:duration>00:27:55</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-e68e40.mp3" length="26815533" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《金锁记》是张爱玲一九四三年的代表作，被誉为“中国从古以来最伟大的中篇小说”。麻油店出身的曹七巧嫁入姜家豪门，做了残疾二爷的少奶奶。三十年的压抑与扭曲，让她从受害者变成了施害者，亲手毁掉了儿子长白与女儿长安的幸福。小说以冷峻的笔触，写出了金钱对人性的异化、情欲压抑后的代际伤害，以及旧中国女性在宗法制度下的悲剧命运。读完这本书你会明白：苍凉，才是人生的底色；而有些枷锁，只有先认出来，才有可能卸下。</itunes:summary>
+      <itunes:duration>00:27:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-e68e40.mp3" length="26815533" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《沉香屑·第一炉香》 · 完整版 · 沉香屑第一炉香纸上电影 · 完整讲读</title>
       <description>一九四三年的香港，十八岁的上海女孩葛薇龙投奔姑母梁太太，原想读完高中，却在姑母的半山豪宅里被一步步改造为社交场上的交际花。她明知自己被当作商品贩卖，却爱上了浪子乔琪乔，最终嫁入豪门，沦为替姑母和丈夫弄钱弄人的工具。小说最后，薇龙在湾仔的庙会上，看见一个十三四岁的女孩被英国水手搂着，她平静地说——她们是不得已，我是自愿的。张爱玲以一支燃尽的沉香屑，写尽了一个殖民地女孩清醒沉沦的一生，也照见了所有在欲望中自我欺骗的人。</description>
       <pubDate>Thu, 11 Jun 2026 02:12:47 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-3c0547</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>一九四三年的香港，十八岁的上海女孩葛薇龙投奔姑母梁太太，原想读完高中，却在姑母的半山豪宅里被一步步改造为社交场上的交际花。她明知自己被当作商品贩卖，却爱上了浪子乔琪乔，最终嫁入豪门，沦为替姑母和丈夫弄钱弄人的工具。小说最后，薇龙在湾仔的庙会上，看见一个十三四岁的女孩被英国水手搂着，她平静地说——她们是不得已，我是自愿的。张爱玲以一支燃尽的沉香屑，写尽了一个殖民地女孩清醒沉沦的一生，也照见了所有在欲望中自我欺骗的人。</ns0:summary>
-      <ns0:duration>00:26:45</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-3c0547.mp3" length="25686573" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九四三年的香港，十八岁的上海女孩葛薇龙投奔姑母梁太太，原想读完高中，却在姑母的半山豪宅里被一步步改造为社交场上的交际花。她明知自己被当作商品贩卖，却爱上了浪子乔琪乔，最终嫁入豪门，沦为替姑母和丈夫弄钱弄人的工具。小说最后，薇龙在湾仔的庙会上，看见一个十三四岁的女孩被英国水手搂着，她平静地说——她们是不得已，我是自愿的。张爱玲以一支燃尽的沉香屑，写尽了一个殖民地女孩清醒沉沦的一生，也照见了所有在欲望中自我欺骗的人。</itunes:summary>
+      <itunes:duration>00:26:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-3c0547.mp3" length="25686573" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《海风中失落的血色馈赠》 · 完整版 · 海风中失落的血色馈赠 · 完整讲读</title>
       <description>《海风中失落的血色馈赠》是加拿大作家麦克劳尔的短篇集，写的是加拿大新斯科舍省布雷顿角岛上矿工、渔民、农夫的故事。父亲在窗口把老马卖掉，手握成拳头不说话；母亲在厨房算着孩子的口粮和一口薄板棺材的价钱；祖父在厨房用口琴吹出最后几首盖尔语歌谣，下一辈的孙子已经听不懂风的语言；一个不适合当渔夫的男人继承家业，被海浪撕碎在礁石之间。麦克劳尔用克制、干净、像海边石头一样被风浪打磨过的文字，写出了沉默的爱、被海风塑形的命运、活进日常的死亡，以及一个传统在一个孩子耳朵里一根弦一根弦断掉的过程。这本书是给所有用身体代替语言的人的最后一点声音。</description>
       <pubDate>Thu, 11 Jun 2026 01:05:04 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-15efe0</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《海风中失落的血色馈赠》是加拿大作家麦克劳尔的短篇集，写的是加拿大新斯科舍省布雷顿角岛上矿工、渔民、农夫的故事。父亲在窗口把老马卖掉，手握成拳头不说话；母亲在厨房算着孩子的口粮和一口薄板棺材的价钱；祖父在厨房用口琴吹出最后几首盖尔语歌谣，下一辈的孙子已经听不懂风的语言；一个不适合当渔夫的男人继承家业，被海浪撕碎在礁石之间。麦克劳尔用克制、干净、像海边石头一样被风浪打磨过的文字，写出了沉默的爱、被海风塑形的命运、活进日常的死亡，以及一个传统在一个孩子耳朵里一根弦一根弦断掉的过程。这本书是给所有用身体代替语言的人的最后一点声音。</ns0:summary>
-      <ns0:duration>00:34:20</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-15efe0.mp3" length="32969517" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《海风中失落的血色馈赠》是加拿大作家麦克劳尔的短篇集，写的是加拿大新斯科舍省布雷顿角岛上矿工、渔民、农夫的故事。父亲在窗口把老马卖掉，手握成拳头不说话；母亲在厨房算着孩子的口粮和一口薄板棺材的价钱；祖父在厨房用口琴吹出最后几首盖尔语歌谣，下一辈的孙子已经听不懂风的语言；一个不适合当渔夫的男人继承家业，被海浪撕碎在礁石之间。麦克劳尔用克制、干净、像海边石头一样被风浪打磨过的文字，写出了沉默的爱、被海风塑形的命运、活进日常的死亡，以及一个传统在一个孩子耳朵里一根弦一根弦断掉的过程。这本书是给所有用身体代替语言的人的最后一点声音。</itunes:summary>
+      <itunes:duration>00:34:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-15efe0.mp3" length="32969517" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《余华作品全集（套装共13册）》 · 完整版 · 余华作品全集(套装共13册) · 完整讲读</title>
-      <description>这期《好好读书》一口气读完《余华作品全集》十三个分册，从一九八七年的《十八岁出门远行》到二〇〇七年的麦田经典版序言。余华用三十年时间，把中国乡土的血泪、荒诞时代的变形、童年记忆的回望，写进了《活着》《许三观卖血记》《兄弟》《在细雨中呼喊》四部代表作里。他写的不是英雄，是一个叫福贵的老人如何把身边每一个亲人送走之后，还愿意笑着把日子过下去。他写的不是苦难，是苦难打不垮的那种韧性。这套书不是用来重温经典的，是用来在你撑不下去的那个晚上，告诉你"没关系，你还能继续"的。</description>
+      <description>这期《好好读书》一口气读完《余华作品全集》十三个分册，从一九八七年的《十八岁出门远行》到二〇〇七年的麦田经典版序言。余华用三十年时间，把中国乡土的血泪、荒诞时代的变形、童年记忆的回望，写进了《活着》《许三观卖血记》《兄弟》《在细雨中呼喊》四部代表作里。他写的不是英雄，是一个叫福贵的老人如何把身边每一个亲人送走之后，还愿意笑着把日子过下去。他写的不是苦难，是苦难打不垮的那种韧性。这套书不是用来重温经典的，是用来在你撑不下去的那个晚上，告诉你&quot;没关系，你还能继续&quot;的。</description>
       <pubDate>Thu, 11 Jun 2026 00:53:33 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-84dae6</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>这期《好好读书》一口气读完《余华作品全集》十三个分册，从一九八七年的《十八岁出门远行》到二〇〇七年的麦田经典版序言。余华用三十年时间，把中国乡土的血泪、荒诞时代的变形、童年记忆的回望，写进了《活着》《许三观卖血记》《兄弟》《在细雨中呼喊》四部代表作里。他写的不是英雄，是一个叫福贵的老人如何把身边每一个亲人送走之后，还愿意笑着把日子过下去。他写的不是苦难，是苦难打不垮的那种韧性。这套书不是用来重温经典的，是用来在你撑不下去的那个晚上，告诉你"没关系，你还能继续"的。</ns0:summary>
-      <ns0:duration>00:39:01</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-84dae6.mp3" length="37465389" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>这期《好好读书》一口气读完《余华作品全集》十三个分册，从一九八七年的《十八岁出门远行》到二〇〇七年的麦田经典版序言。余华用三十年时间，把中国乡土的血泪、荒诞时代的变形、童年记忆的回望，写进了《活着》《许三观卖血记》《兄弟》《在细雨中呼喊》四部代表作里。他写的不是英雄，是一个叫福贵的老人如何把身边每一个亲人送走之后，还愿意笑着把日子过下去。他写的不是苦难，是苦难打不垮的那种韧性。这套书不是用来重温经典的，是用来在你撑不下去的那个晚上，告诉你&quot;没关系，你还能继续&quot;的。</itunes:summary>
+      <itunes:duration>00:39:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-84dae6.mp3" length="37465389" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《怦然心动》 · 完整版 · 怦然心动 · 完整讲读</title>
-      <description>《怦然心动》是美国作家文德琳·范·德拉安南的处女作，讲述七岁的朱莉因为一双蓝眼睛对刚搬来的男孩布莱斯怦然心动，从此追随他整整五年。然而在一棵无花果树、几颗鸡蛋、一顿晚餐之后，她第一次停下来，认真'看见'了这个她爱了很久的人究竟是谁。书中那句贯穿始终的金句——'整体大于部分之和'——既是一个小女孩的成长哲学，也是写给所有成年人的提醒：愿你这一生，既能被一个人真正看见，也能成为那个真正看见别人的人。</description>
+      <description>《怦然心动》是美国作家文德琳·范·德拉安南的处女作，讲述七岁的朱莉因为一双蓝眼睛对刚搬来的男孩布莱斯怦然心动，从此追随他整整五年。然而在一棵无花果树、几颗鸡蛋、一顿晚餐之后，她第一次停下来，认真&apos;看见&apos;了这个她爱了很久的人究竟是谁。书中那句贯穿始终的金句——&apos;整体大于部分之和&apos;——既是一个小女孩的成长哲学，也是写给所有成年人的提醒：愿你这一生，既能被一个人真正看见，也能成为那个真正看见别人的人。</description>
       <pubDate>Wed, 10 Jun 2026 16:46:13 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-548088</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《怦然心动》是美国作家文德琳·范·德拉安南的处女作，讲述七岁的朱莉因为一双蓝眼睛对刚搬来的男孩布莱斯怦然心动，从此追随他整整五年。然而在一棵无花果树、几颗鸡蛋、一顿晚餐之后，她第一次停下来，认真'看见'了这个她爱了很久的人究竟是谁。书中那句贯穿始终的金句——'整体大于部分之和'——既是一个小女孩的成长哲学，也是写给所有成年人的提醒：愿你这一生，既能被一个人真正看见，也能成为那个真正看见别人的人。</ns0:summary>
-      <ns0:duration>00:34:06</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-548088.mp3" length="32752557" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《怦然心动》是美国作家文德琳·范·德拉安南的处女作，讲述七岁的朱莉因为一双蓝眼睛对刚搬来的男孩布莱斯怦然心动，从此追随他整整五年。然而在一棵无花果树、几颗鸡蛋、一顿晚餐之后，她第一次停下来，认真&apos;看见&apos;了这个她爱了很久的人究竟是谁。书中那句贯穿始终的金句——&apos;整体大于部分之和&apos;——既是一个小女孩的成长哲学，也是写给所有成年人的提醒：愿你这一生，既能被一个人真正看见，也能成为那个真正看见别人的人。</itunes:summary>
+      <itunes:duration>00:34:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-548088.mp3" length="32752557" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《法理学：法律哲学与法律方法》 · 完整版 · 法理学法律哲学与方法 · 完整讲读</title>
       <description>《法理学：法律哲学与法律方法》是美国法学家博登海默的经典教科书，系统梳理了自古希腊至二十世纪西方法律思想的演变，从柏拉图、亚里士多德经中世纪神学、古典自然法、德国唯心主义、历史法学、分析实证主义、社会学法学一路走到新康德主义与新自然法，并深入讨论法律的性质、秩序与正义的辩证、法律渊源与司法推理方法。博登海默持一种温和的综合法理学立场，主张在历史、哲学、社会学与分析的多重视野中理解法律，既不盲信自然法也不盲从实证主义，强调法律乃是秩序与正义的综合体。</description>
       <pubDate>Wed, 10 Jun 2026 16:31:06 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-f0292d</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《法理学：法律哲学与法律方法》是美国法学家博登海默的经典教科书，系统梳理了自古希腊至二十世纪西方法律思想的演变，从柏拉图、亚里士多德经中世纪神学、古典自然法、德国唯心主义、历史法学、分析实证主义、社会学法学一路走到新康德主义与新自然法，并深入讨论法律的性质、秩序与正义的辩证、法律渊源与司法推理方法。博登海默持一种温和的综合法理学立场，主张在历史、哲学、社会学与分析的多重视野中理解法律，既不盲信自然法也不盲从实证主义，强调法律乃是秩序与正义的综合体。</ns0:summary>
-      <ns0:duration>00:30:26</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-f0292d.mp3" length="29223597" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《法理学：法律哲学与法律方法》是美国法学家博登海默的经典教科书，系统梳理了自古希腊至二十世纪西方法律思想的演变，从柏拉图、亚里士多德经中世纪神学、古典自然法、德国唯心主义、历史法学、分析实证主义、社会学法学一路走到新康德主义与新自然法，并深入讨论法律的性质、秩序与正义的辩证、法律渊源与司法推理方法。博登海默持一种温和的综合法理学立场，主张在历史、哲学、社会学与分析的多重视野中理解法律，既不盲信自然法也不盲从实证主义，强调法律乃是秩序与正义的综合体。</itunes:summary>
+      <itunes:duration>00:30:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-f0292d.mp3" length="29223597" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《蝲蛄吟唱的地方》 · 完整版 · 蝲蛄吟唱的地方 · 完整讲读</title>
       <description>《蝲蛄吟唱的地方》是美国作家迪莉娅·欧文斯的长篇小说处女作，讲述了一个被家人抛弃的湿地女孩基娅在北卡罗来纳海岸独自成长、最终成为杰出博物学家的故事。小说融合悬疑、爱情与自然书写，探讨了孤独、女性觉醒、社会偏见等主题，曾连续一百多周登上《纽约时报》排行榜，全球销量超一千八百万册。</description>
       <pubDate>Wed, 10 Jun 2026 13:50:39 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260610-episode-20260610-3908f8</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《蝲蛄吟唱的地方》是美国作家迪莉娅·欧文斯的长篇小说处女作，讲述了一个被家人抛弃的湿地女孩基娅在北卡罗来纳海岸独自成长、最终成为杰出博物学家的故事。小说融合悬疑、爱情与自然书写，探讨了孤独、女性觉醒、社会偏见等主题，曾连续一百多周登上《纽约时报》排行榜，全球销量超一千八百万册。</ns0:summary>
-      <ns0:duration>00:30:22</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260610/episode-20260610-3908f8.mp3" length="29161773" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《蝲蛄吟唱的地方》是美国作家迪莉娅·欧文斯的长篇小说处女作，讲述了一个被家人抛弃的湿地女孩基娅在北卡罗来纳海岸独自成长、最终成为杰出博物学家的故事。小说融合悬疑、爱情与自然书写，探讨了孤独、女性觉醒、社会偏见等主题，曾连续一百多周登上《纽约时报》排行榜，全球销量超一千八百万册。</itunes:summary>
+      <itunes:duration>00:30:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260610/episode-20260610-3908f8.mp3" length="29161773" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《史蒂夫·乔布斯传（修订版）》 · 完整版 · 史蒂夫·乔布斯传 （修订版） · 完整讲读</title>
       <description>《史蒂夫·乔布斯传（修订版）》由沃尔特·艾萨克森在乔布斯亲自邀请下写成，记录了这位改变六大产业的天才从领养、硅谷车库、印度禅修、苹果初创、被驱逐、NeXT与皮克斯低谷、到王者归来的完整历程。本期拆解六个核心洞察：人文与科技的交叉点、现实扭曲力场、产品即哲学、领养与东方修行如何铸成底层代码、皮克斯岁月教会他的耐心与放手、苹果二点零如何把个人偏执转化为公司制度，并给出今天就能用的自我剖析与产品复盘行动。</description>
       <pubDate>Wed, 10 Jun 2026 13:36:11 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260610-episode-20260610-7cbc01</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《史蒂夫·乔布斯传（修订版）》由沃尔特·艾萨克森在乔布斯亲自邀请下写成，记录了这位改变六大产业的天才从领养、硅谷车库、印度禅修、苹果初创、被驱逐、NeXT与皮克斯低谷、到王者归来的完整历程。本期拆解六个核心洞察：人文与科技的交叉点、现实扭曲力场、产品即哲学、领养与东方修行如何铸成底层代码、皮克斯岁月教会他的耐心与放手、苹果二点零如何把个人偏执转化为公司制度，并给出今天就能用的自我剖析与产品复盘行动。</ns0:summary>
-      <ns0:duration>00:23:33</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260610/episode-20260610-7cbc01.mp3" length="22624173" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《史蒂夫·乔布斯传（修订版）》由沃尔特·艾萨克森在乔布斯亲自邀请下写成，记录了这位改变六大产业的天才从领养、硅谷车库、印度禅修、苹果初创、被驱逐、NeXT与皮克斯低谷、到王者归来的完整历程。本期拆解六个核心洞察：人文与科技的交叉点、现实扭曲力场、产品即哲学、领养与东方修行如何铸成底层代码、皮克斯岁月教会他的耐心与放手、苹果二点零如何把个人偏执转化为公司制度，并给出今天就能用的自我剖析与产品复盘行动。</itunes:summary>
+      <itunes:duration>00:23:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260610/episode-20260610-7cbc01.mp3" length="22624173" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《渴望生活：梵高传》 · 完整版 · 渴望生活梵高传 · 完整讲读</title>
       <description>《渴望生活：梵高传》是欧文·斯通写给一个被世界拒之门外的理想主义者的情书。一个二十七岁一事无成、被整个家族视为废物的荷兰年轻人，在试遍商人、牧师、传教士、店员、学子五条世俗正路全部碰壁之后，靠着弟弟提奥的资助与相信，终于拿起了画笔。他用生命最后的十一年画出了两千多幅杰作，燃烧自己照亮了整个艺术史。这本书讲的从来不只是梵高，它讲的是每一个困在世俗里、却拒绝让心里那团火熄灭的人。</description>
       <pubDate>Wed, 10 Jun 2026 13:02:06 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260610-episode-20260610-2560ab</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《渴望生活：梵高传》是欧文·斯通写给一个被世界拒之门外的理想主义者的情书。一个二十七岁一事无成、被整个家族视为废物的荷兰年轻人，在试遍商人、牧师、传教士、店员、学子五条世俗正路全部碰壁之后，靠着弟弟提奥的资助与相信，终于拿起了画笔。他用生命最后的十一年画出了两千多幅杰作，燃烧自己照亮了整个艺术史。这本书讲的从来不只是梵高，它讲的是每一个困在世俗里、却拒绝让心里那团火熄灭的人。</ns0:summary>
-      <ns0:duration>00:38:46</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260610/episode-20260610-2560ab.mp3" length="37219245" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《渴望生活：梵高传》是欧文·斯通写给一个被世界拒之门外的理想主义者的情书。一个二十七岁一事无成、被整个家族视为废物的荷兰年轻人，在试遍商人、牧师、传教士、店员、学子五条世俗正路全部碰壁之后，靠着弟弟提奥的资助与相信，终于拿起了画笔。他用生命最后的十一年画出了两千多幅杰作，燃烧自己照亮了整个艺术史。这本书讲的从来不只是梵高，它讲的是每一个困在世俗里、却拒绝让心里那团火熄灭的人。</itunes:summary>
+      <itunes:duration>00:38:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260610/episode-20260610-2560ab.mp3" length="37219245" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《天官赐福》 · 完整版 · 天官赐福作者墨香铜臭完结后记 · 完整讲读</title>
-      <description>《天官赐福》是墨香铜臭继《魔道祖师》之后的第三部长篇网络小说，讲述仙乐太子谢怜三度飞升、两度被贬，最终在跌至人生最低谷后，依然选择"拯救苍生"的群像故事。表面上是一部仙侠冒险长卷，骨子里讲的是理想主义者在被全世界嘲笑、遗弃之后，如何重新站起来——以及在那个过程中，"被看见"比"被拯救"更重要这一核心命题。本书最动人的告白来自花城对谢怜的那句"我看过你最糟糕的样子，可那又怎样呢，你就是我的梦想啊"——它既是一个角色对另一个角色的回应，也是一个创作者对自己作品、以及对所有曾经跌落过的读者的回应。</description>
+      <description>《天官赐福》是墨香铜臭继《魔道祖师》之后的第三部长篇网络小说，讲述仙乐太子谢怜三度飞升、两度被贬，最终在跌至人生最低谷后，依然选择&quot;拯救苍生&quot;的群像故事。表面上是一部仙侠冒险长卷，骨子里讲的是理想主义者在被全世界嘲笑、遗弃之后，如何重新站起来——以及在那个过程中，&quot;被看见&quot;比&quot;被拯救&quot;更重要这一核心命题。本书最动人的告白来自花城对谢怜的那句&quot;我看过你最糟糕的样子，可那又怎样呢，你就是我的梦想啊&quot;——它既是一个角色对另一个角色的回应，也是一个创作者对自己作品、以及对所有曾经跌落过的读者的回应。</description>
       <pubDate>Wed, 10 Jun 2026 12:57:26 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-762816</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《天官赐福》是墨香铜臭继《魔道祖师》之后的第三部长篇网络小说，讲述仙乐太子谢怜三度飞升、两度被贬，最终在跌至人生最低谷后，依然选择"拯救苍生"的群像故事。表面上是一部仙侠冒险长卷，骨子里讲的是理想主义者在被全世界嘲笑、遗弃之后，如何重新站起来——以及在那个过程中，"被看见"比"被拯救"更重要这一核心命题。本书最动人的告白来自花城对谢怜的那句"我看过你最糟糕的样子，可那又怎样呢，你就是我的梦想啊"——它既是一个角色对另一个角色的回应，也是一个创作者对自己作品、以及对所有曾经跌落过的读者的回应。</ns0:summary>
-      <ns0:duration>00:23:12</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-762816.mp3" length="22276269" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《天官赐福》是墨香铜臭继《魔道祖师》之后的第三部长篇网络小说，讲述仙乐太子谢怜三度飞升、两度被贬，最终在跌至人生最低谷后，依然选择&quot;拯救苍生&quot;的群像故事。表面上是一部仙侠冒险长卷，骨子里讲的是理想主义者在被全世界嘲笑、遗弃之后，如何重新站起来——以及在那个过程中，&quot;被看见&quot;比&quot;被拯救&quot;更重要这一核心命题。本书最动人的告白来自花城对谢怜的那句&quot;我看过你最糟糕的样子，可那又怎样呢，你就是我的梦想啊&quot;——它既是一个角色对另一个角色的回应，也是一个创作者对自己作品、以及对所有曾经跌落过的读者的回应。</itunes:summary>
+      <itunes:duration>00:23:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-762816.mp3" length="22276269" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《七个疯子》 · 完整版 · 七个疯子马尔克斯博尔赫斯之先驱阿根廷版陀思妥耶夫斯基拉美现代小说之父罗伯特阿尔特代表作 · 完整讲读</title>
       <description>《七个疯子》是阿根廷作家罗伯特·阿尔特一九二九年出版的长篇小说，被视为拉美现代小说的先驱，深刻影响了马尔克斯与博尔赫斯。小说讲述了布宜诺斯艾利斯底层小职员埃尔多萨因，因偷窃公司六百比索零七分而濒临崩溃，在一群边缘人的裹挟下卷入一场荒诞的革命阴谋。全书以生猛的街头语言、层叠的梦境与谵妄独白，描绘了一群被羞辱、被践踏的灵魂，如何在最堕落的生活里寻找不可能存在的伟大与崇高，并精准预言了此后阿根廷反复动荡的政治现实。</description>
       <pubDate>Wed, 10 Jun 2026 02:33:09 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260610-episode-20260610-8d4dbe</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《七个疯子》是阿根廷作家罗伯特·阿尔特一九二九年出版的长篇小说，被视为拉美现代小说的先驱，深刻影响了马尔克斯与博尔赫斯。小说讲述了布宜诺斯艾利斯底层小职员埃尔多萨因，因偷窃公司六百比索零七分而濒临崩溃，在一群边缘人的裹挟下卷入一场荒诞的革命阴谋。全书以生猛的街头语言、层叠的梦境与谵妄独白，描绘了一群被羞辱、被践踏的灵魂，如何在最堕落的生活里寻找不可能存在的伟大与崇高，并精准预言了此后阿根廷反复动荡的政治现实。</ns0:summary>
-      <ns0:duration>00:27:00</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://wyzhou01.github.io/reading-list/public/episodes/v20260610/episode-20260610-8d4dbe.mp3" length="25928109" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《七个疯子》是阿根廷作家罗伯特·阿尔特一九二九年出版的长篇小说，被视为拉美现代小说的先驱，深刻影响了马尔克斯与博尔赫斯。小说讲述了布宜诺斯艾利斯底层小职员埃尔多萨因，因偷窃公司六百比索零七分而濒临崩溃，在一群边缘人的裹挟下卷入一场荒诞的革命阴谋。全书以生猛的街头语言、层叠的梦境与谵妄独白，描绘了一群被羞辱、被践踏的灵魂，如何在最堕落的生活里寻找不可能存在的伟大与崇高，并精准预言了此后阿根廷反复动荡的政治现实。</itunes:summary>
+      <itunes:duration>00:27:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://wyzhou01.github.io/reading-list/public/episodes/v20260610/episode-20260610-8d4dbe.mp3" length="25928109" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《姥姥语录》 · 完整版 · 姥姥语录——倪萍 · 完整讲读</title>
       <description>《姥姥语录》是央视主持人倪萍写给山东荣成小脚姥姥刘鸿卿的回忆录。姥姥一辈子不识字，却用最朴素的大白话道出了吃亏是福、给予是幸福、爱越分越多的人生哲学。书中收录了姥姥面对生死、苦难、家庭的种种智慧，以及倪萍与姥姥长达五十年的深情告别。这不是一本名人传记，而是一部家家都有的那位老太太留给我们的生命课本。</description>
       <pubDate>Tue, 09 Jun 2026 22:48:13 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260610-episode-20260610-4429c4</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《姥姥语录》是央视主持人倪萍写给山东荣成小脚姥姥刘鸿卿的回忆录。姥姥一辈子不识字，却用最朴素的大白话道出了吃亏是福、给予是幸福、爱越分越多的人生哲学。书中收录了姥姥面对生死、苦难、家庭的种种智慧，以及倪萍与姥姥长达五十年的深情告别。这不是一本名人传记，而是一部家家都有的那位老太太留给我们的生命课本。</ns0:summary>
-      <ns0:duration>00:28:56</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://wyzhou01.github.io/reading-list/public/episodes/v20260610/episode-20260610-4429c4.mp3" length="27779373" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《姥姥语录》是央视主持人倪萍写给山东荣成小脚姥姥刘鸿卿的回忆录。姥姥一辈子不识字，却用最朴素的大白话道出了吃亏是福、给予是幸福、爱越分越多的人生哲学。书中收录了姥姥面对生死、苦难、家庭的种种智慧，以及倪萍与姥姥长达五十年的深情告别。这不是一本名人传记，而是一部家家都有的那位老太太留给我们的生命课本。</itunes:summary>
+      <itunes:duration>00:28:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://wyzhou01.github.io/reading-list/public/episodes/v20260610/episode-20260610-4429c4.mp3" length="27779373" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《掌中之物》 · 完整版 · 掌中之物 · 完整讲读</title>
-      <description>《掌中之物》是鲜橙创作的都市虐恋代表作。普通女教师何妍深夜独自驾车遭遇三名在逃通缉犯，身陷绝境时冷静反抗，刺死歹徒、撞飞同伙侥幸逃脱。四年后她嫁给梁远泽，过上平静生活，却发现当年那个叫'节哥'的凶徒改名换姓、换了一张脸，以'傅慎行'的身份重新出现在她身边，由此展开一场跨越数年的极致人性博弈。书名'掌中之物'，既指施暴者对受害者的控制欲，也暗喻爱与恨之间那条被反复撕裂的边界。这不是一部甜文，是一部写给所有受过伤、却依然选择不变成伤害者的人的书。</description>
+      <description>《掌中之物》是鲜橙创作的都市虐恋代表作。普通女教师何妍深夜独自驾车遭遇三名在逃通缉犯，身陷绝境时冷静反抗，刺死歹徒、撞飞同伙侥幸逃脱。四年后她嫁给梁远泽，过上平静生活，却发现当年那个叫&apos;节哥&apos;的凶徒改名换姓、换了一张脸，以&apos;傅慎行&apos;的身份重新出现在她身边，由此展开一场跨越数年的极致人性博弈。书名&apos;掌中之物&apos;，既指施暴者对受害者的控制欲，也暗喻爱与恨之间那条被反复撕裂的边界。这不是一部甜文，是一部写给所有受过伤、却依然选择不变成伤害者的人的书。</description>
       <pubDate>Tue, 09 Jun 2026 16:38:35 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-cf7420</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《掌中之物》是鲜橙创作的都市虐恋代表作。普通女教师何妍深夜独自驾车遭遇三名在逃通缉犯，身陷绝境时冷静反抗，刺死歹徒、撞飞同伙侥幸逃脱。四年后她嫁给梁远泽，过上平静生活，却发现当年那个叫'节哥'的凶徒改名换姓、换了一张脸，以'傅慎行'的身份重新出现在她身边，由此展开一场跨越数年的极致人性博弈。书名'掌中之物'，既指施暴者对受害者的控制欲，也暗喻爱与恨之间那条被反复撕裂的边界。这不是一部甜文，是一部写给所有受过伤、却依然选择不变成伤害者的人的书。</ns0:summary>
-      <ns0:duration>00:27:44</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-cf7420.mp3" length="26638893" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《掌中之物》是鲜橙创作的都市虐恋代表作。普通女教师何妍深夜独自驾车遭遇三名在逃通缉犯，身陷绝境时冷静反抗，刺死歹徒、撞飞同伙侥幸逃脱。四年后她嫁给梁远泽，过上平静生活，却发现当年那个叫&apos;节哥&apos;的凶徒改名换姓、换了一张脸，以&apos;傅慎行&apos;的身份重新出现在她身边，由此展开一场跨越数年的极致人性博弈。书名&apos;掌中之物&apos;，既指施暴者对受害者的控制欲，也暗喻爱与恨之间那条被反复撕裂的边界。这不是一部甜文，是一部写给所有受过伤、却依然选择不变成伤害者的人的书。</itunes:summary>
+      <itunes:duration>00:27:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-cf7420.mp3" length="26638893" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《近距离看美国1-历史深处的忧虑》 · 完整版 · 近距离看美国1-历史深处的忧虑 · 完整讲读</title>
-      <description>《历史深处的忧虑》是林达以书信体写成的近距离观察美国宪政之作。一九九一年到一九九七年，作者夫妇以普通新移民身份在美国南方小镇打工谋生，用一封封写给国内朋友的信，把三权分立、言论自由、新闻监督、持枪权、隐私权这些抽象词，还原成便利店、快餐店、投币洗衣铺里正在发生的具体事件。书中既讲宪法如何运行，也讲华裔小社会与主流规则之间的微妙错位；既写新闻自由的代价，也写每个具体的人为这种自由付的账单。这本书在出版后二十多年里持续重印，是中文世界里最朴素、也最耐读的"看美国"入门读物。</description>
+      <description>《历史深处的忧虑》是林达以书信体写成的近距离观察美国宪政之作。一九九一年到一九九七年，作者夫妇以普通新移民身份在美国南方小镇打工谋生，用一封封写给国内朋友的信，把三权分立、言论自由、新闻监督、持枪权、隐私权这些抽象词，还原成便利店、快餐店、投币洗衣铺里正在发生的具体事件。书中既讲宪法如何运行，也讲华裔小社会与主流规则之间的微妙错位；既写新闻自由的代价，也写每个具体的人为这种自由付的账单。这本书在出版后二十多年里持续重印，是中文世界里最朴素、也最耐读的&quot;看美国&quot;入门读物。</description>
       <pubDate>Tue, 09 Jun 2026 01:53:02 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260609-episode-20260609-da53f4</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《历史深处的忧虑》是林达以书信体写成的近距离观察美国宪政之作。一九九一年到一九九七年，作者夫妇以普通新移民身份在美国南方小镇打工谋生，用一封封写给国内朋友的信，把三权分立、言论自由、新闻监督、持枪权、隐私权这些抽象词，还原成便利店、快餐店、投币洗衣铺里正在发生的具体事件。书中既讲宪法如何运行，也讲华裔小社会与主流规则之间的微妙错位；既写新闻自由的代价，也写每个具体的人为这种自由付的账单。这本书在出版后二十多年里持续重印，是中文世界里最朴素、也最耐读的"看美国"入门读物。</ns0:summary>
-      <ns0:duration>00:35:41</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260609/episode-20260609-da53f4.mp3" length="34267821" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《历史深处的忧虑》是林达以书信体写成的近距离观察美国宪政之作。一九九一年到一九九七年，作者夫妇以普通新移民身份在美国南方小镇打工谋生，用一封封写给国内朋友的信，把三权分立、言论自由、新闻监督、持枪权、隐私权这些抽象词，还原成便利店、快餐店、投币洗衣铺里正在发生的具体事件。书中既讲宪法如何运行，也讲华裔小社会与主流规则之间的微妙错位；既写新闻自由的代价，也写每个具体的人为这种自由付的账单。这本书在出版后二十多年里持续重印，是中文世界里最朴素、也最耐读的&quot;看美国&quot;入门读物。</itunes:summary>
+      <itunes:duration>00:35:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260609/episode-20260609-da53f4.mp3" length="34267821" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《美国大萧条》 · 完整版 · 美国大萧条（默里·罗斯巴德） · 完整讲读</title>
       <description>本期节目用一百分钟系统拆解罗斯巴德一九六三年初版、米塞斯研究所再版的经典《美国大萧条》。我们以奥地利学派的商业周期理论为主线，重建美联储在二十年代如何通过信用扩张制造虚假繁荣，胡佛与罗斯福两届政府又如何通过工资刚性、关税、复兴金融公司、国家复兴管理局、公共工程管理局、社会保障法等层层干预，把一场本可在一九三一年前后完成的衰退生生拖成了四年大萧条。在此基础上，我们进一步剖析凯恩斯主义“总需求—总供给—一般价格水平”这一总量框架在分析起点上的根本缺陷，并把这套工具延伸到对二零零八年大衰退与随后十余年缓慢复苏的重新解读。整期节目的核心结论是：萧条不是市场经济的失败，而是干预主义政策把本该完成的出清一再推迟后的代价。</description>
       <pubDate>Tue, 09 Jun 2026 01:02:17 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260609-episode-20260609-834393</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>本期节目用一百分钟系统拆解罗斯巴德一九六三年初版、米塞斯研究所再版的经典《美国大萧条》。我们以奥地利学派的商业周期理论为主线，重建美联储在二十年代如何通过信用扩张制造虚假繁荣，胡佛与罗斯福两届政府又如何通过工资刚性、关税、复兴金融公司、国家复兴管理局、公共工程管理局、社会保障法等层层干预，把一场本可在一九三一年前后完成的衰退生生拖成了四年大萧条。在此基础上，我们进一步剖析凯恩斯主义“总需求—总供给—一般价格水平”这一总量框架在分析起点上的根本缺陷，并把这套工具延伸到对二零零八年大衰退与随后十余年缓慢复苏的重新解读。整期节目的核心结论是：萧条不是市场经济的失败，而是干预主义政策把本该完成的出清一再推迟后的代价。</ns0:summary>
-      <ns0:duration>00:34:13</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260609/episode-20260609-834393.mp3" length="32856621" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期节目用一百分钟系统拆解罗斯巴德一九六三年初版、米塞斯研究所再版的经典《美国大萧条》。我们以奥地利学派的商业周期理论为主线，重建美联储在二十年代如何通过信用扩张制造虚假繁荣，胡佛与罗斯福两届政府又如何通过工资刚性、关税、复兴金融公司、国家复兴管理局、公共工程管理局、社会保障法等层层干预，把一场本可在一九三一年前后完成的衰退生生拖成了四年大萧条。在此基础上，我们进一步剖析凯恩斯主义“总需求—总供给—一般价格水平”这一总量框架在分析起点上的根本缺陷，并把这套工具延伸到对二零零八年大衰退与随后十余年缓慢复苏的重新解读。整期节目的核心结论是：萧条不是市场经济的失败，而是干预主义政策把本该完成的出清一再推迟后的代价。</itunes:summary>
+      <itunes:duration>00:34:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260609/episode-20260609-834393.mp3" length="32856621" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《鴻：三代中國女人的故事》 · 完整版 · 鴻：三代中國女人的故事_(紀念版) · 完整讲读</title>
       <description>《鴻：三代中國女人的故事》是張戎寫給世界的家族史。她用姥姥、母親和自己三代女人的眼睛，記錄下纏腳的磨石、軍閥的槍炮、日本人的刺刀、土改的批鬥、反右的帽子、大躍進的飢荒、文革的瘋狂。一九八八年母親在倫敦錄下六十個小時的家族往事，促成這本一九九一年震動全球的禁書也擋不住的暢銷作品。書的真正主角不是哪一場運動，而是家庭本身——它怎樣在政治風暴裡被撕碎，又怎樣在廢墟裡一針一線把自己縫回去。</description>
       <pubDate>Tue, 09 Jun 2026 00:53:15 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260609-episode-20260609-14389d</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《鴻：三代中國女人的故事》是張戎寫給世界的家族史。她用姥姥、母親和自己三代女人的眼睛，記錄下纏腳的磨石、軍閥的槍炮、日本人的刺刀、土改的批鬥、反右的帽子、大躍進的飢荒、文革的瘋狂。一九八八年母親在倫敦錄下六十個小時的家族往事，促成這本一九九一年震動全球的禁書也擋不住的暢銷作品。書的真正主角不是哪一場運動，而是家庭本身——它怎樣在政治風暴裡被撕碎，又怎樣在廢墟裡一針一線把自己縫回去。</ns0:summary>
-      <ns0:duration>00:28:40</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260609/episode-20260609-14389d.mp3" length="27529389" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《鴻：三代中國女人的故事》是張戎寫給世界的家族史。她用姥姥、母親和自己三代女人的眼睛，記錄下纏腳的磨石、軍閥的槍炮、日本人的刺刀、土改的批鬥、反右的帽子、大躍進的飢荒、文革的瘋狂。一九八八年母親在倫敦錄下六十個小時的家族往事，促成這本一九九一年震動全球的禁書也擋不住的暢銷作品。書的真正主角不是哪一場運動，而是家庭本身——它怎樣在政治風暴裡被撕碎，又怎樣在廢墟裡一針一線把自己縫回去。</itunes:summary>
+      <itunes:duration>00:28:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260609/episode-20260609-14389d.mp3" length="27529389" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《说谎者的扑克牌》 · 完整版 · 说谎者的扑克牌（迈克尔·刘易斯） · 完整讲读</title>
       <description>本书是迈克尔·刘易斯亲历所罗门兄弟公司交易厅的回忆录，出版于一九八九年。二十世纪八十年代，华尔街迎来债券市场的爆炸式增长，所罗门兄弟公司登顶巅峰，其交易厅聚集了世界上最聪明也最疯狂的交易员。刘易斯以二十八岁年轻人的视角，记录了这群二十多岁的年轻人如何在短短几年内赚到几百万甚至上千万美元，也记录了贪婪、谎言、操纵和公司政治如何把这家顶级投行拖向崩溃。书名源自交易厅里流行的一种赌博游戏，象征着风险、欺骗、胆量和人性之间的博弈。本书被誉为描写华尔街内部生态的经典之作，既是金融史，也是职场寓言，更是一面照见人性的镜子。它告诉我们，在一个被金钱重新定义的世界里，人怎样才能不失去自己。</description>
       <pubDate>Tue, 09 Jun 2026 00:52:47 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260609-episode-20260609-5d6c2e</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>本书是迈克尔·刘易斯亲历所罗门兄弟公司交易厅的回忆录，出版于一九八九年。二十世纪八十年代，华尔街迎来债券市场的爆炸式增长，所罗门兄弟公司登顶巅峰，其交易厅聚集了世界上最聪明也最疯狂的交易员。刘易斯以二十八岁年轻人的视角，记录了这群二十多岁的年轻人如何在短短几年内赚到几百万甚至上千万美元，也记录了贪婪、谎言、操纵和公司政治如何把这家顶级投行拖向崩溃。书名源自交易厅里流行的一种赌博游戏，象征着风险、欺骗、胆量和人性之间的博弈。本书被誉为描写华尔街内部生态的经典之作，既是金融史，也是职场寓言，更是一面照见人性的镜子。它告诉我们，在一个被金钱重新定义的世界里，人怎样才能不失去自己。</ns0:summary>
-      <ns0:duration>00:45:12</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260609/episode-20260609-5d6c2e.mp3" length="43394349" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是迈克尔·刘易斯亲历所罗门兄弟公司交易厅的回忆录，出版于一九八九年。二十世纪八十年代，华尔街迎来债券市场的爆炸式增长，所罗门兄弟公司登顶巅峰，其交易厅聚集了世界上最聪明也最疯狂的交易员。刘易斯以二十八岁年轻人的视角，记录了这群二十多岁的年轻人如何在短短几年内赚到几百万甚至上千万美元，也记录了贪婪、谎言、操纵和公司政治如何把这家顶级投行拖向崩溃。书名源自交易厅里流行的一种赌博游戏，象征着风险、欺骗、胆量和人性之间的博弈。本书被誉为描写华尔街内部生态的经典之作，既是金融史，也是职场寓言，更是一面照见人性的镜子。它告诉我们，在一个被金钱重新定义的世界里，人怎样才能不失去自己。</itunes:summary>
+      <itunes:duration>00:45:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260609/episode-20260609-5d6c2e.mp3" length="43394349" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《激荡三十年：中国企业 1978-2008》 · 完整版 · 激荡三十年__中国企业1978-2008.纪念版.套装上下册(中信十年畅销经典) · 完整讲读</title>
       <description>《激荡三十年》以编年体叙事，记录了中国从1978年改革开放到2008年北京奥运会，三十年间企业和企业家的命运沉浮。作者吴晓波通过大量一手访谈和史料，呈现了计划经济松动后草根创业的草莽时代、1992年后市场化加速带来的财富浪潮、入世后中国制造融入全球供应链的辉煌与代价，以及资本市场的兴起与博弈。全书回答了一个核心问题：在一个国家主导的变革中，民营力量、国有资本和跨国企业三方如何博弈，又如何共同塑造了今天的中国公司。这段历史至今仍在影响中国经济政策的走向和企业家精神的内涵。</description>
       <pubDate>Tue, 09 Jun 2026 00:11:28 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260609-episode-20260609-6ed651</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《激荡三十年》以编年体叙事，记录了中国从1978年改革开放到2008年北京奥运会，三十年间企业和企业家的命运沉浮。作者吴晓波通过大量一手访谈和史料，呈现了计划经济松动后草根创业的草莽时代、1992年后市场化加速带来的财富浪潮、入世后中国制造融入全球供应链的辉煌与代价，以及资本市场的兴起与博弈。全书回答了一个核心问题：在一个国家主导的变革中，民营力量、国有资本和跨国企业三方如何博弈，又如何共同塑造了今天的中国公司。这段历史至今仍在影响中国经济政策的走向和企业家精神的内涵。</ns0:summary>
-      <ns0:duration>00:22:50</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260609/episode-20260609-6ed651.mp3" length="21928365" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《激荡三十年》以编年体叙事，记录了中国从1978年改革开放到2008年北京奥运会，三十年间企业和企业家的命运沉浮。作者吴晓波通过大量一手访谈和史料，呈现了计划经济松动后草根创业的草莽时代、1992年后市场化加速带来的财富浪潮、入世后中国制造融入全球供应链的辉煌与代价，以及资本市场的兴起与博弈。全书回答了一个核心问题：在一个国家主导的变革中，民营力量、国有资本和跨国企业三方如何博弈，又如何共同塑造了今天的中国公司。这段历史至今仍在影响中国经济政策的走向和企业家精神的内涵。</itunes:summary>
+      <itunes:duration>00:22:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260609/episode-20260609-6ed651.mp3" length="21928365" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《金钱心理学：财富、人性和幸福的永恒真相》 · 完整版 · 金钱心理学：财富、人性和幸福的永恒真相 · 完整讲读</title>
       <description>《金钱心理学》用二十个反直觉的洞察，揭示了一个朴素的真相：决定财富的从来不是智商，而是行为习惯，是那些关于贪婪、恐惧、耐心的软技能。书中没有选股秘籍，没有宏观预测，只有门卫罗纳德·里德用一生诠释的复利奇迹，和哈佛精英理查德·福斯肯破产的真实故事。财富的本质，不是你能买到什么，而是你不必再做什么；真正的富有，是低调到让人察觉不到。本书适合每一个想守住钱袋子、又不想被金融术语劝退的普通人。</description>
       <pubDate>Mon, 08 Jun 2026 18:03:26 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260609-episode-20260609-d57a8e</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《金钱心理学》用二十个反直觉的洞察，揭示了一个朴素的真相：决定财富的从来不是智商，而是行为习惯，是那些关于贪婪、恐惧、耐心的软技能。书中没有选股秘籍，没有宏观预测，只有门卫罗纳德·里德用一生诠释的复利奇迹，和哈佛精英理查德·福斯肯破产的真实故事。财富的本质，不是你能买到什么，而是你不必再做什么；真正的富有，是低调到让人察觉不到。本书适合每一个想守住钱袋子、又不想被金融术语劝退的普通人。</ns0:summary>
-      <ns0:duration>00:41:52</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260609/episode-20260609-d57a8e.mp3" length="40195245" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《金钱心理学》用二十个反直觉的洞察，揭示了一个朴素的真相：决定财富的从来不是智商，而是行为习惯，是那些关于贪婪、恐惧、耐心的软技能。书中没有选股秘籍，没有宏观预测，只有门卫罗纳德·里德用一生诠释的复利奇迹，和哈佛精英理查德·福斯肯破产的真实故事。财富的本质，不是你能买到什么，而是你不必再做什么；真正的富有，是低调到让人察觉不到。本书适合每一个想守住钱袋子、又不想被金融术语劝退的普通人。</itunes:summary>
+      <itunes:duration>00:41:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260609/episode-20260609-d57a8e.mp3" length="40195245" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《追寻生命的意义》 · 完整版 · 追寻生命的意义 - （奥)弗兰克尔 · 完整讲读</title>
-      <description>《追寻生命的意义》是维也纳精神科医生维克多·弗兰克尔从奥斯维辛生还后写下的证词与学说。他亲历父母、兄长、妻子相继死于牢营，自己仅余一具瘦骨与一份藏在背袋里被讥为"狗屎"的学术手稿。书中以近乎白描的笔法，记录集中营里的饥饿、羞辱、死亡与求生本能；并由此发展出意义治疗法，提出"求意义的意志""存在的空虚""自我超越"等核心概念。他主张：人在任何境遇下，都拥有选择态度的终极自由；苦难不是惩罚，而是发现生命意义的机会；爱可以穿透死亡。本书销量逾千万册，被美国国会图书馆列为"美国十大有影响力图书"，至今仍为无数在意义真空里打转的现代人，点着一盏灯。</description>
+      <description>《追寻生命的意义》是维也纳精神科医生维克多·弗兰克尔从奥斯维辛生还后写下的证词与学说。他亲历父母、兄长、妻子相继死于牢营，自己仅余一具瘦骨与一份藏在背袋里被讥为&quot;狗屎&quot;的学术手稿。书中以近乎白描的笔法，记录集中营里的饥饿、羞辱、死亡与求生本能；并由此发展出意义治疗法，提出&quot;求意义的意志&quot;&quot;存在的空虚&quot;&quot;自我超越&quot;等核心概念。他主张：人在任何境遇下，都拥有选择态度的终极自由；苦难不是惩罚，而是发现生命意义的机会；爱可以穿透死亡。本书销量逾千万册，被美国国会图书馆列为&quot;美国十大有影响力图书&quot;，至今仍为无数在意义真空里打转的现代人，点着一盏灯。</description>
       <pubDate>Mon, 08 Jun 2026 17:59:34 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260609-episode-20260609-eb0ff7</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《追寻生命的意义》是维也纳精神科医生维克多·弗兰克尔从奥斯维辛生还后写下的证词与学说。他亲历父母、兄长、妻子相继死于牢营，自己仅余一具瘦骨与一份藏在背袋里被讥为"狗屎"的学术手稿。书中以近乎白描的笔法，记录集中营里的饥饿、羞辱、死亡与求生本能；并由此发展出意义治疗法，提出"求意义的意志""存在的空虚""自我超越"等核心概念。他主张：人在任何境遇下，都拥有选择态度的终极自由；苦难不是惩罚，而是发现生命意义的机会；爱可以穿透死亡。本书销量逾千万册，被美国国会图书馆列为"美国十大有影响力图书"，至今仍为无数在意义真空里打转的现代人，点着一盏灯。</ns0:summary>
-      <ns0:duration>00:28:53</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260609/episode-20260609-eb0ff7.mp3" length="27742125" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《追寻生命的意义》是维也纳精神科医生维克多·弗兰克尔从奥斯维辛生还后写下的证词与学说。他亲历父母、兄长、妻子相继死于牢营，自己仅余一具瘦骨与一份藏在背袋里被讥为&quot;狗屎&quot;的学术手稿。书中以近乎白描的笔法，记录集中营里的饥饿、羞辱、死亡与求生本能；并由此发展出意义治疗法，提出&quot;求意义的意志&quot;&quot;存在的空虚&quot;&quot;自我超越&quot;等核心概念。他主张：人在任何境遇下，都拥有选择态度的终极自由；苦难不是惩罚，而是发现生命意义的机会；爱可以穿透死亡。本书销量逾千万册，被美国国会图书馆列为&quot;美国十大有影响力图书&quot;，至今仍为无数在意义真空里打转的现代人，点着一盏灯。</itunes:summary>
+      <itunes:duration>00:28:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260609/episode-20260609-eb0ff7.mp3" length="27742125" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《金融的本质：伯南克四讲美联储》 · 完整版 · 金融的本质：伯南克四讲美联储 · 完整讲读</title>
       <description>《金融的本质：伯南克四讲美联储》是美联储前主席伯南克基于二零一二年乔治·华盛顿大学四次讲座整理而成。书中以亲历者视角，完整梳理了美联储从一九一三年成立到二零零八年金融危机的九十年历史，系统阐述了央行的两大使命——维持金融稳定与经济稳定，详细讲解了最后贷款人原则、货币政策工具从传统利率调控到量化宽松的演进，并结合大萧条、沃尔克反通胀、二零零八年金融海啸等关键事件，揭示了美联储如何在一次次危机中试错、进化与成长。这本书不仅是一部央行简史，更是理解现代金融体系运行规则的入门读物。</description>
       <pubDate>Mon, 08 Jun 2026 16:59:50 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260609-episode-20260609-9d830a</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《金融的本质：伯南克四讲美联储》是美联储前主席伯南克基于二零一二年乔治·华盛顿大学四次讲座整理而成。书中以亲历者视角，完整梳理了美联储从一九一三年成立到二零零八年金融危机的九十年历史，系统阐述了央行的两大使命——维持金融稳定与经济稳定，详细讲解了最后贷款人原则、货币政策工具从传统利率调控到量化宽松的演进，并结合大萧条、沃尔克反通胀、二零零八年金融海啸等关键事件，揭示了美联储如何在一次次危机中试错、进化与成长。这本书不仅是一部央行简史，更是理解现代金融体系运行规则的入门读物。</ns0:summary>
-      <ns0:duration>00:30:25</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260609/episode-20260609-9d830a.mp3" length="29202477" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《金融的本质：伯南克四讲美联储》是美联储前主席伯南克基于二零一二年乔治·华盛顿大学四次讲座整理而成。书中以亲历者视角，完整梳理了美联储从一九一三年成立到二零零八年金融危机的九十年历史，系统阐述了央行的两大使命——维持金融稳定与经济稳定，详细讲解了最后贷款人原则、货币政策工具从传统利率调控到量化宽松的演进，并结合大萧条、沃尔克反通胀、二零零八年金融海啸等关键事件，揭示了美联储如何在一次次危机中试错、进化与成长。这本书不仅是一部央行简史，更是理解现代金融体系运行规则的入门读物。</itunes:summary>
+      <itunes:duration>00:30:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260609/episode-20260609-9d830a.mp3" length="29202477" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《透过佛法看世界：给寻找答案的人》 · 完整版 · 透过佛法看世界：给寻找答案的人 （当今影响力的精神导师之一，希阿荣博堪布力作，献给寻找答案的人《透过佛法看世界》，一百八十个问题，解答你的人生困惑。透过佛法，与 · 完整讲读</title>
       <description>《透过佛法看世界》是当代藏传佛教精神导师希阿荣博堪布的代表作，以一百八十个问答的形式，把佛法核心智慧拆解为现代人最常遭遇的生活困惑。从无常、缘起到空性，从临终关怀到护生放生，再到依止善知识，本书搭建了一座桥——一头连着古老完整的佛法见修行体系，一头连着日常具体而微的人生难题。作者强调佛法不是知识，而是自我省思的开始；真正的修行不是被告知，而是亲自去看见、体悟、验证。当仓廪实之后，人们追问精神归宿的饥渴，这本书以温柔的慈悲和透彻的智慧给出了答案。</description>
       <pubDate>Mon, 08 Jun 2026 16:55:13 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260609-episode-20260609-23c265</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《透过佛法看世界》是当代藏传佛教精神导师希阿荣博堪布的代表作，以一百八十个问答的形式，把佛法核心智慧拆解为现代人最常遭遇的生活困惑。从无常、缘起到空性，从临终关怀到护生放生，再到依止善知识，本书搭建了一座桥——一头连着古老完整的佛法见修行体系，一头连着日常具体而微的人生难题。作者强调佛法不是知识，而是自我省思的开始；真正的修行不是被告知，而是亲自去看见、体悟、验证。当仓廪实之后，人们追问精神归宿的饥渴，这本书以温柔的慈悲和透彻的智慧给出了答案。</ns0:summary>
-      <ns0:duration>00:26:06</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260609/episode-20260609-23c265.mp3" length="25062189" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《透过佛法看世界》是当代藏传佛教精神导师希阿荣博堪布的代表作，以一百八十个问答的形式，把佛法核心智慧拆解为现代人最常遭遇的生活困惑。从无常、缘起到空性，从临终关怀到护生放生，再到依止善知识，本书搭建了一座桥——一头连着古老完整的佛法见修行体系，一头连着日常具体而微的人生难题。作者强调佛法不是知识，而是自我省思的开始；真正的修行不是被告知，而是亲自去看见、体悟、验证。当仓廪实之后，人们追问精神归宿的饥渴，这本书以温柔的慈悲和透彻的智慧给出了答案。</itunes:summary>
+      <itunes:duration>00:26:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260609/episode-20260609-23c265.mp3" length="25062189" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《金融市场与金融机构（原书第7版）》 · 完整版 · 金融市场与金融机构（原书第7版） · 完整讲读</title>
       <description>《金融市场与金融机构》第七版由美联储前理事米什金与资深银行家埃金斯合著，以二零零七至二零零九年全球金融危机为最大新增案例。全书系统拆解利率决定机制、中央银行货币政策、银行业务与风险管理、金融衍生品定价与对冲、以及金融监管逻辑，搭建出理解现代金融体系从市场、机构到危机应对的完整框架，是危机之后重写的一部兼具理论严谨与现场血色的金融学经典读本。</description>
       <pubDate>Mon, 08 Jun 2026 16:47:21 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260609-episode-20260609-a59490</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《金融市场与金融机构》第七版由美联储前理事米什金与资深银行家埃金斯合著，以二零零七至二零零九年全球金融危机为最大新增案例。全书系统拆解利率决定机制、中央银行货币政策、银行业务与风险管理、金融衍生品定价与对冲、以及金融监管逻辑，搭建出理解现代金融体系从市场、机构到危机应对的完整框架，是危机之后重写的一部兼具理论严谨与现场血色的金融学经典读本。</ns0:summary>
-      <ns0:duration>00:28:41</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260609/episode-20260609-a59490.mp3" length="27548589" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《金融市场与金融机构》第七版由美联储前理事米什金与资深银行家埃金斯合著，以二零零七至二零零九年全球金融危机为最大新增案例。全书系统拆解利率决定机制、中央银行货币政策、银行业务与风险管理、金融衍生品定价与对冲、以及金融监管逻辑，搭建出理解现代金融体系从市场、机构到危机应对的完整框架，是危机之后重写的一部兼具理论严谨与现场血色的金融学经典读本。</itunes:summary>
+      <itunes:duration>00:28:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260609/episode-20260609-a59490.mp3" length="27548589" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《以日为鉴：衰退时代生存指南》 · 完整版 · 以日为鉴衰退时代生存指南_(分析师Boden)_ · 完整讲读</title>
       <description>《以日为鉴》是独立研究者分析师波顿撰写的东亚宏观经济读物，以日本失去的二十年为镜，从失业潮、就业冰河期、考公热、医疗崩坏与全民出海五个维度，剖析泡沫破裂后不同职业与年龄群体的真实命运。书中提出六个核心洞察：资产负债表衰退的传导机制、人口塌方对利率与消费的压制、通缩思维陷阱下现金为王为何危险、个人与政府的反脆弱策略，以及东亚镜鉴中哪些日本教训不可避免、哪些可以主动避免。对于正在面对类似周期处境的中国读者，本书既是人生参考书，也是职业错题本。</description>
       <pubDate>Mon, 08 Jun 2026 08:10:34 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260608-episode-20260608-8179d1</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《以日为鉴》是独立研究者分析师波顿撰写的东亚宏观经济读物，以日本失去的二十年为镜，从失业潮、就业冰河期、考公热、医疗崩坏与全民出海五个维度，剖析泡沫破裂后不同职业与年龄群体的真实命运。书中提出六个核心洞察：资产负债表衰退的传导机制、人口塌方对利率与消费的压制、通缩思维陷阱下现金为王为何危险、个人与政府的反脆弱策略，以及东亚镜鉴中哪些日本教训不可避免、哪些可以主动避免。对于正在面对类似周期处境的中国读者，本书既是人生参考书，也是职业错题本。</ns0:summary>
-      <ns0:duration>00:43:25</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260608/episode-20260608-8179d1.mp3" length="41685933" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《以日为鉴》是独立研究者分析师波顿撰写的东亚宏观经济读物，以日本失去的二十年为镜，从失业潮、就业冰河期、考公热、医疗崩坏与全民出海五个维度，剖析泡沫破裂后不同职业与年龄群体的真实命运。书中提出六个核心洞察：资产负债表衰退的传导机制、人口塌方对利率与消费的压制、通缩思维陷阱下现金为王为何危险、个人与政府的反脆弱策略，以及东亚镜鉴中哪些日本教训不可避免、哪些可以主动避免。对于正在面对类似周期处境的中国读者，本书既是人生参考书，也是职业错题本。</itunes:summary>
+      <itunes:duration>00:43:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260608/episode-20260608-8179d1.mp3" length="41685933" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《贫穷的本质：我们为什么摆脱不了贫穷（修订版）》 · 完整版 · 贫穷的本质：我们为什么摆脱不了贫穷（修订版） · 完整讲读</title>
       <description>《贫穷的本质》通过十五年的实地调研与随机对照实验，揭示了穷人面临的真实困境：不是宏大的悲剧，而是一连串小额风险、信息匮乏与心理压力的具体决策难题。两位作者深入健康、教育、生育、金融、创业、政府六大维度，展示了贫困如何被具体机制固化，也证明了精准干预可以让穷人的人生真正转向。贫穷不是命运的标签，而是一套可以被研究、被理解、被干预的经济决策。这本书颠覆了对贫困的道德化想象，为发展经济学开启了一个以证据为基础、以人为本的新范式。</description>
       <pubDate>Mon, 08 Jun 2026 08:07:22 +0000</pubDate>
       <guid isPermaLink="false">reading-list-vv20260608-episode-20260608-b8fd52</guid>
-      <ns0:author>好好读书组</ns0:author>
-      <ns0:summary>《贫穷的本质》通过十五年的实地调研与随机对照实验，揭示了穷人面临的真实困境：不是宏大的悲剧，而是一连串小额风险、信息匮乏与心理压力的具体决策难题。两位作者深入健康、教育、生育、金融、创业、政府六大维度，展示了贫困如何被具体机制固化，也证明了精准干预可以让穷人的人生真正转向。贫穷不是命运的标签，而是一套可以被研究、被理解、被干预的经济决策。这本书颠覆了对贫困的道德化想象，为发展经济学开启了一个以证据为基础、以人为本的新范式。</ns0:summary>
-      <ns0:duration>00:28:00</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260608/episode-20260608-b8fd52.mp3" length="26881581" type="audio/mpeg" />
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《贫穷的本质》通过十五年的实地调研与随机对照实验，揭示了穷人面临的真实困境：不是宏大的悲剧，而是一连串小额风险、信息匮乏与心理压力的具体决策难题。两位作者深入健康、教育、生育、金融、创业、政府六大维度，展示了贫困如何被具体机制固化，也证明了精准干预可以让穷人的人生真正转向。贫穷不是命运的标签，而是一套可以被研究、被理解、被干预的经济决策。这本书颠覆了对贫困的道德化想象，为发展经济学开启了一个以证据为基础、以人为本的新范式。</itunes:summary>
+      <itunes:duration>00:28:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260608/episode-20260608-b8fd52.mp3" length="26881581" type="audio/mpeg"/>
     </item>
-    </channel>
+    <item>
+      <title>好好读书 · 《未来简史》 · 完整版 · 未来简史_-_[以色列]尤瓦尔·赫拉利 · 完整讲读</title>
+      <description>《未来简史》是尤瓦尔·赫拉利继《人类简史》之后的又一部思想巨作。作者提出，进入二十一世纪后，困扰人类几千年的饥荒、瘟疫、战争这三大敌人已被基本攻克，人类的新议题转向永生、幸福与成神。在生物科技与人工智能的加持下，智人正在从地球的征服者，滑向被自己造物取代的尴尬位置。算法正在接管决策权，数据主义正在取代人文主义成为新的宗教，少数人可能通过基因编辑与脑机接口升级为“神人“，而绝大多数人则可能沦为“无用的阶级“。这本书不提供答案，但它会逼每一个读者用全新的方式，思考“我是谁、我往哪里去“这两个古老的命题。</description>
+      <pubDate>Thu, 11 Jun 2026 16:30:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260612-episode-20260612-cc432d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《未来简史》是尤瓦尔·赫拉利继《人类简史》之后的又一部思想巨作。作者提出，进入二十一世纪后，困扰人类几千年的饥荒、瘟疫、战争这三大敌人已被基本攻克，人类的新议题转向永生、幸福与成神。在生物科技与人工智能的加持下，智人正在从地球的征服者，滑向被自己造物取代的尴尬位置。算法正在接管决策权，数据主义正在取代人文主义成为新的宗教，少数人可能通过基因编辑与脑机接口升级为“神人“，而绝大多数人则可能沦为“无用的阶级“。这本书不提供答案，但它会逼每一个读者用全新的方式，思考“我是谁、我往哪里去“这两个古老的命题。</itunes:summary>
+      <itunes:duration>00:25:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-cc432d.mp3" length="24258093" type="audio/mpeg"/>
+    </item>
+  </channel>
 </rss>
