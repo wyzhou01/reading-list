@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 11 Jun 2026 16:31:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 16:41:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -558,6 +558,17 @@
       <itunes:duration>00:25:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-cc432d.mp3" length="24258093" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《解忧杂货店》 · 完整版 · 解忧杂货店 · 完整讲读</title>
+      <description>《解忧杂货店》是东野圭吾二零一二年发表的温情长篇，没有凶案、没有侦探，却凭借一条穿越三十年的善意主线，击中无数读者的心。一九八零年代的日本，一间叫浪矢的杂货店只要收到深夜投入铁卷门的烦恼信，隔天清晨就会在牛奶箱里放一封回信。本书围绕四个写信求助的人展开——为奥运梦想与绝症男友两难的女孩月兔、在鱼店与音乐之间撕扯的少年克朗、面对父母潜逃不知何去何从的孩子浩介、想靠酒店工作翻身的迷茫女子汪汪。三十年后，三个躲避警察的小偷躲进这间废弃杂货店，意外接替浪矢爷爷，为三十年前的来信者写下了改变命运的回信。而浪矢爷爷在生命最后一夜，写给小偷敦也的那封白纸信，藏着本书最深的祝福：你的人生是一张白纸，你可以重新画，一切都掌握在你自己手上。这是一本写给每一个曾在深夜对着白纸发呆、觉得自己的人生已经写坏的人的书。</description>
+      <pubDate>Thu, 11 Jun 2026 16:41:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260612-episode-20260612-2675be</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《解忧杂货店》是东野圭吾二零一二年发表的温情长篇，没有凶案、没有侦探，却凭借一条穿越三十年的善意主线，击中无数读者的心。一九八零年代的日本，一间叫浪矢的杂货店只要收到深夜投入铁卷门的烦恼信，隔天清晨就会在牛奶箱里放一封回信。本书围绕四个写信求助的人展开——为奥运梦想与绝症男友两难的女孩月兔、在鱼店与音乐之间撕扯的少年克朗、面对父母潜逃不知何去何从的孩子浩介、想靠酒店工作翻身的迷茫女子汪汪。三十年后，三个躲避警察的小偷躲进这间废弃杂货店，意外接替浪矢爷爷，为三十年前的来信者写下了改变命运的回信。而浪矢爷爷在生命最后一夜，写给小偷敦也的那封白纸信，藏着本书最深的祝福：你的人生是一张白纸，你可以重新画，一切都掌握在你自己手上。这是一本写给每一个曾在深夜对着白纸发呆、觉得自己的人生已经写坏的人的书。</itunes:summary>
+      <itunes:duration>00:24:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-2675be.mp3" length="23373357" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
