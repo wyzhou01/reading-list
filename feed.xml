@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 11 Jun 2026 03:39:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 03:50:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -382,6 +382,17 @@
       <itunes:duration>00:33:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-f49864.mp3" length="32181165" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《带上她的眼睛》 · 完整版 · 带上她的眼睛 · 完整讲读</title>
+      <description>《带上她的眼睛》是刘慈欣一九九九年的短篇科幻。小说讲述一位宇航员度假时佩戴地心飞船“落日六号“领航员的传感眼镜，替困在地心的女孩最后看一眼地球表面的草原。女孩对每一朵花、每一阵风、每一缕月光都倾注全部情感，用名字与记忆为自己建造一座可随身携带的精神家园。飞船失事被困地心后，她在五千度高温与一千六百吨压力中，靠这些美的碎片度过余生。这部极轻、极短的科幻，藏着关于麻木、孤独与诗意的最重一问——我们这个物质极大丰富的时代，是不是反而失去了看见一朵花的能力。</description>
+      <pubDate>Thu, 11 Jun 2026 03:50:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-f320b0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《带上她的眼睛》是刘慈欣一九九九年的短篇科幻。小说讲述一位宇航员度假时佩戴地心飞船“落日六号“领航员的传感眼镜，替困在地心的女孩最后看一眼地球表面的草原。女孩对每一朵花、每一阵风、每一缕月光都倾注全部情感，用名字与记忆为自己建造一座可随身携带的精神家园。飞船失事被困地心后，她在五千度高温与一千六百吨压力中，靠这些美的碎片度过余生。这部极轻、极短的科幻，藏着关于麻木、孤独与诗意的最重一问——我们这个物质极大丰富的时代，是不是反而失去了看见一朵花的能力。</itunes:summary>
+      <itunes:duration>00:29:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-f320b0.mp3" length="27929517" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
