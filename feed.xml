@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 11 Jun 2026 03:35:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 03:36:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -338,6 +338,17 @@
       <itunes:duration>00:33:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-0261d7.mp3" length="31692717" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《倦怠社会》 · 完整版 · 倦怠社会 · 完整讲读</title>
+      <description>《倦怠社会》是德国哲学家韩炳哲的代表作，它诊断了二十一世纪一种全新的精神病理：疾病不再由病毒引发，而由神经元主导。二十世纪是免疫学的时代，敌我分明，规训社会的否定性禁令保护着主体；二十一世纪则是功绩社会的时代，他者消失了，敌人变成了我们自己。从“你应当”到“你能够”，否定性的戒律被肯定性的口号取代，人从被统治者变成自我剥削者，施虐者与受害者合而为一。抑郁症、过劳、注意力缺陷障碍，这些不是软弱的证明，而是一种过量肯定性引发的神经梗阻。治愈之道不在于更多的刺激和效率，而在于恢复被现代性驱逐的神圣时间：深度无聊、观看、节日。这本只有七万字的短书，篇幅精炼却如手术刀般锋利，适合每一个在加速中感到窒息的现代人。</description>
+      <pubDate>Thu, 11 Jun 2026 03:36:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-1fb4b9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《倦怠社会》是德国哲学家韩炳哲的代表作，它诊断了二十一世纪一种全新的精神病理：疾病不再由病毒引发，而由神经元主导。二十世纪是免疫学的时代，敌我分明，规训社会的否定性禁令保护着主体；二十一世纪则是功绩社会的时代，他者消失了，敌人变成了我们自己。从“你应当”到“你能够”，否定性的戒律被肯定性的口号取代，人从被统治者变成自我剥削者，施虐者与受害者合而为一。抑郁症、过劳、注意力缺陷障碍，这些不是软弱的证明，而是一种过量肯定性引发的神经梗阻。治愈之道不在于更多的刺激和效率，而在于恢复被现代性驱逐的神圣时间：深度无聊、观看、节日。这本只有七万字的短书，篇幅精炼却如手术刀般锋利，适合每一个在加速中感到窒息的现代人。</itunes:summary>
+      <itunes:duration>00:25:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-1fb4b9.mp3" length="24933165" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
