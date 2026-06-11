@@ -62,6 +62,20 @@ def add_episode(args):
             pass
     guid = f"reading-list-{slug}"
 
+    # 2026-06-11: 用规范化 book_name 做 dedup key (防止重跑产生新 sha6 出现重复条目)
+    import re
+    def _book_key(title):
+        m = re.search(r"《(.+?)》", title)
+        if m:
+            name = m.group(1)
+        else:
+            name = title
+        name = name.replace(" ", "_").replace("/", "_").replace("\\", "_")
+        return name
+    book_key = _book_key(args.title)
+    book_complete_suffix = "· 完整版 ·"
+    is_republish = book_complete_suffix in args.title  # 完整版重跑是“修复”，不是新书
+
     ep = {
         "title": args.title,
         "description": args.description or "",
@@ -76,7 +90,19 @@ def add_episode(args):
     if any(e["guid"] == ep["guid"] for e in existing):
         print(f"   ⚠️ guid 重复, 跳过: {ep['guid']}")
         return
-    existing.append(ep)
+    # 2026-06-11: 重跑同一本书时 sha6 变 → guid 变 → 上面检查不跳
+    # 补充检查: 同 book_key 且是完整版重跑 → 替换旧 entry
+    if is_republish and book_key:
+        for i, e in enumerate(existing):
+            if _book_key(e.get('title','')) == book_key and book_complete_suffix in e.get('title',''):
+                old_pub = e.get('pub_date_rfc822','')
+                print(f'   ↻ 重跑替换: {e["title"][:50]}... (旧 sha={e["audio_url"].split("-")[-1].replace(".mp3","")}, 新 sha={fname.split("-")[-1].replace(".mp3","")})')
+                existing[i] = ep
+                break
+        else:
+            existing.append(ep)
+    else:
+        existing.append(ep)
 
     print(f"📝 更新 feed.xml ({len(existing)} 期)")
     new_xml = build_rss_xml(existing)
