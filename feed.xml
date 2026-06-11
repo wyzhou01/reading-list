@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 11 Jun 2026 04:00:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 04:00:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -437,6 +437,17 @@
       <itunes:duration>00:27:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-e034fe.mp3" length="26346285" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《非暴力沟通》 · 完整版 · 非暴力沟通 · 完整讲读</title>
+      <description>《非暴力沟通》是马歇尔·卢森堡博士结合甘地非暴力思想与心理学研究提出的沟通模式。它指出日常生活中隐蔽的语言暴力——道德评判、比较、强人所难——是蒙蔽爱、引发冲突的根源，并给出四个核心要素：观察、感受、需要、请求。这套方法既适用于表达自己，也适用于倾听他人，并延伸到爱自己、化解愤怒、表达感激等深层议题。它适用于亲密关系、家庭、职场乃至国际冲突斡旋，其精髓不在话术，而在面对自己与他人时，由内而外的态度——让爱融入生活，让语言从墙变回窗。</description>
+      <pubDate>Thu, 11 Jun 2026 04:00:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-8623e4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《非暴力沟通》是马歇尔·卢森堡博士结合甘地非暴力思想与心理学研究提出的沟通模式。它指出日常生活中隐蔽的语言暴力——道德评判、比较、强人所难——是蒙蔽爱、引发冲突的根源，并给出四个核心要素：观察、感受、需要、请求。这套方法既适用于表达自己，也适用于倾听他人，并延伸到爱自己、化解愤怒、表达感激等深层议题。它适用于亲密关系、家庭、职场乃至国际冲突斡旋，其精髓不在话术，而在面对自己与他人时，由内而外的态度——让爱融入生活，让语言从墙变回窗。</itunes:summary>
+      <itunes:duration>00:31:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-8623e4.mp3" length="30290349" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
