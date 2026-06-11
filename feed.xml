@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 11 Jun 2026 03:51:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 03:51:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -404,6 +404,17 @@
       <itunes:duration>00:28:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-910643.mp3" length="26922285" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《土狗老黑闯祸了》 · 完整版 · 土狗老黑闯祸了 · 完整讲读</title>
+      <description>《土狗老黑闯祸了》是叶广芩&quot;耗子丫丫的故事&quot;系列第三部，写老北京胡同里一只土狗与女孩丫丫的童年陪伴。老黑从坟地跟回家，陪着丫丫一家上坟、蒸懒龙、看茄子、斗耗子，却因家里新添婴儿不得不送回乡下东坝河老李家。书里揉进了吃食、风物、礼俗与生死，让孩子在故事里馋一遍、哭一遍、长大一遍。</description>
+      <pubDate>Thu, 11 Jun 2026 03:51:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260611-episode-20260611-34d7e0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《土狗老黑闯祸了》是叶广芩&quot;耗子丫丫的故事&quot;系列第三部，写老北京胡同里一只土狗与女孩丫丫的童年陪伴。老黑从坟地跟回家，陪着丫丫一家上坟、蒸懒龙、看茄子、斗耗子，却因家里新添婴儿不得不送回乡下东坝河老李家。书里揉进了吃食、风物、礼俗与生死，让孩子在故事里馋一遍、哭一遍、长大一遍。</itunes:summary>
+      <itunes:duration>00:27:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260611/episode-20260611-34d7e0.mp3" length="26761773" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
