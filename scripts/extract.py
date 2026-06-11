@@ -32,19 +32,41 @@ def extract_pdf(path):
 
 
 def extract_epub(path):
-    """EPUB → text。用 ebooklib + BeautifulSoup"""
+    """EPUB → text。用 ebooklib + BeautifulSoup; fallback to zipfile if ebooklib fails."""
     from ebooklib import epub, ITEM_DOCUMENT
     from bs4 import BeautifulSoup
-    book = epub.read_epub(str(path))
-    texts = []
-    for item in book.get_items_of_type(ITEM_DOCUMENT):
-        soup = BeautifulSoup(item.get_content(), "lxml")
-        for s in soup(["script", "style"]):
-            s.decompose()
-        text = soup.get_text(separator="\n", strip=True)
-        if text:
-            texts.append(text)
-    return "\n".join(texts)
+    try:
+        book = epub.read_epub(str(path))
+        texts = []
+        for item in book.get_items_of_type(ITEM_DOCUMENT):
+            soup = BeautifulSoup(item.get_content(), "lxml")
+            for s in soup(["script", "style"]):
+                s.decompose()
+            text = soup.get_text(separator="\n", strip=True)
+            if text:
+                texts.append(text)
+        return "\n".join(texts)
+    except (AttributeError, Exception) as e:
+        # fallback: zipfile + BeautifulSoup (for corrupted-metadata EPUB like 雷雨)
+        import zipfile
+        html_files = []
+        with zipfile.ZipFile(str(path)) as z:
+            for name in z.namelist():
+                if name.endswith(('.html', '.htm', '.xhtml')):
+                    html_files.append(name)
+        texts = []
+        for name in sorted(html_files):
+            with zipfile.ZipFile(str(path)) as z:
+                content = z.read(name).decode('utf-8', errors='ignore')
+            soup = BeautifulSoup(content, "lxml")
+            for s in soup(["script", "style"]):
+                s.decompose()
+            text = soup.get_text(separator="\n", strip=True)
+            if text:
+                texts.append(text)
+        if not texts:
+            raise ValueError(f"EPUB fallback also produced no text for {path}") from e
+        return "\n".join(texts)
 
 
 def extract_txt(path):

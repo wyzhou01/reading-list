@@ -67,6 +67,22 @@ def smart_pause_after(text):
     return PAUSE_RULES["default"]
 
 
+def _is_unsafe_for_tts(text):
+    """edge-tts 拒收的短/标点段。
+
+    2026-06-11 审计发现: 1-2 字符的标点段 (如 "——", ">", "。", "  ")
+    触发 NoAudioReceived / 0 bytes,导致 2s 静音 fallback。
+    修复: 把这类段合并到上一段(无上一段则合并到下一段),并保留原停顿。
+    """
+    stripped = text.strip()
+    if len(stripped) < 3:
+        return True
+    # 全是标点/空白
+    if not re.search(r"[\u4e00-\u9fff]", stripped):
+        return True
+    return False
+
+
 def split_into_segments(text, max_chars=150):
     """把整集文本切成 segments (按段 + 句号, 每段 <= max_chars)
 
@@ -74,6 +90,7 @@ def split_into_segments(text, max_chars=150):
     - max_chars 80 -> 150, 减少"碎段感"
     - 段首/段末/句间停顿智能分级 (阿迈耳朵选 D 后)
     - 长段先按"\\n\\n"切, 再按"。！？；"切, 再按"，"切
+    - 2026-06-11: 合并 edge-tts 拒收的短/纯标点段到上一段
 
     输出: [{"text": str, "pause_ms": int}, ...]
     """
@@ -130,6 +147,19 @@ def split_into_segments(text, max_chars=150):
                                 seg["pause_ms"] = smart_pause_after(sub)
                                 segments.append(seg)
                                 is_first = False
+
+    # 后处理: 把短/纯标点段合并到上一段 (2026-06-11 修复)
+    cleaned = []
+    for seg in segments:
+        if _is_unsafe_for_tts(seg["text"]) and cleaned:
+            # 合并到上一段 (保留原停顿给合并后的段)
+            cleaned[-1]["text"] = cleaned[-1]["text"] + seg["text"]
+        elif _is_unsafe_for_tts(seg["text"]) and not cleaned:
+            # 第一段就不安全 (极端情况): 跳过, 让下一段保留
+            continue
+        else:
+            cleaned.append(seg)
+    segments = cleaned
 
     # 最后一段不需要段后停
     if segments:
