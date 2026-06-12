@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 12 Jun 2026 01:14:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 01:23:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -624,6 +624,17 @@
       <itunes:duration>00:27:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-02ebe2.mp3" length="26175789" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一个陌生女人的来信（茨威格小说集）》 · 完整版 · 一个陌生女人的来信 · 完整讲读</title>
+      <description>本书收录奥地利作家茨威格八部中短篇代表作。茨威格以刀锋般的心理描写著称，剖开人在极端处境下的隐秘褶皱：少年被突然拽入成人世界的灼烫瞬间，女人一生无声燃烧的单恋，旧书商在记忆废墟中守护的隐形收藏，象棋天才在囚禁中被自己的脑内棋局逼疯。全书反复追问同一个问题——当爱、秘密、执念、孤独塑造一个人时，它们究竟是在成就他，还是在毁灭他。读茨威格，是读一面照出我们自己都不愿承认的部分的镜子。</description>
+      <pubDate>Fri, 12 Jun 2026 01:23:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260612-episode-20260612-0213a3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书收录奥地利作家茨威格八部中短篇代表作。茨威格以刀锋般的心理描写著称，剖开人在极端处境下的隐秘褶皱：少年被突然拽入成人世界的灼烫瞬间，女人一生无声燃烧的单恋，旧书商在记忆废墟中守护的隐形收藏，象棋天才在囚禁中被自己的脑内棋局逼疯。全书反复追问同一个问题——当爱、秘密、执念、孤独塑造一个人时，它们究竟是在成就他，还是在毁灭他。读茨威格，是读一面照出我们自己都不愿承认的部分的镜子。</itunes:summary>
+      <itunes:duration>00:25:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-0213a3.mp3" length="24516525" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
