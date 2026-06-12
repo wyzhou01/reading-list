@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 12 Jun 2026 00:35:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 00:50:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -591,6 +591,17 @@
       <itunes:duration>00:30:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-039d3c.mp3" length="29009709" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一句顶一万句》 · 完整版 · 一句顶一万句 · 完整讲读</title>
+      <description>《一句顶一万句》是刘震云酝酿三年的巅峰之作，分&quot;出延津记&quot;与&quot;回延津记&quot;两部，跨越百年，写杨百顺与牛爱国两代人为找一句&quot;说得上话&quot;的话而漂泊的故事。书中戳破中国人数千年的精神孤独：父子、夫妻、朋友五伦之内，全是规矩的捆绑，唯独没有真心话的对接。所谓&quot;一句顶一万句&quot;，顶的不是字多字少，是&quot;说到了你心里&quot;。罗长礼的一声喊丧之所以被杨百顺崇拜一生，是因为他喊的不是音量，是把别人心里那点乱给顺了——不图你钱，不图你利，只图把事办漂亮。这本书让每个中国人照见自己：活了一辈子，通讯录里几百人，可真要找人说句话时，翻遍手机，找不到一个。不是没人，是没那个对得上的人。</description>
+      <pubDate>Fri, 12 Jun 2026 00:50:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260612-episode-20260612-965bd1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一句顶一万句》是刘震云酝酿三年的巅峰之作，分&quot;出延津记&quot;与&quot;回延津记&quot;两部，跨越百年，写杨百顺与牛爱国两代人为找一句&quot;说得上话&quot;的话而漂泊的故事。书中戳破中国人数千年的精神孤独：父子、夫妻、朋友五伦之内，全是规矩的捆绑，唯独没有真心话的对接。所谓&quot;一句顶一万句&quot;，顶的不是字多字少，是&quot;说到了你心里&quot;。罗长礼的一声喊丧之所以被杨百顺崇拜一生，是因为他喊的不是音量，是把别人心里那点乱给顺了——不图你钱，不图你利，只图把事办漂亮。这本书让每个中国人照见自己：活了一辈子，通讯录里几百人，可真要找人说句话时，翻遍手机，找不到一个。不是没人，是没那个对得上的人。</itunes:summary>
+      <itunes:duration>00:41:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-965bd1.mp3" length="39579309" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
