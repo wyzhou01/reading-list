@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 12 Jun 2026 04:34:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 04:50:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -800,6 +800,17 @@
       <itunes:duration>00:29:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-0e3b40.mp3" length="28133805" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一只特立独行的猪》 · 完整版 · 一只特立独行的猪 · 完整讲读</title>
+      <description>《一只特立独行的猪》是王小波身后由李银河重新选编的杂文自选集。李银河在序言里点出全书的核心：王小波是主流文学评价体系「无从置评」的异数，他的写作不为宣传、不为教化、不为提升谁的灵魂，只为「试着创造出一点美」。本书围绕六块拼图展开：特立独行是块什么料、写作是逆着熵增往山上走的减熵过程、文学是无中生有的美、做主流之外的异数、用理性的尺子辨真伪、把一生收束到「工作」与「心胸」上。读这本书，是学一种不迎合、不表演、还能把文章写得漂亮又聪明的活法。</description>
+      <pubDate>Fri, 12 Jun 2026 04:50:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260612-episode-20260612-f12247</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一只特立独行的猪》是王小波身后由李银河重新选编的杂文自选集。李银河在序言里点出全书的核心：王小波是主流文学评价体系「无从置评」的异数，他的写作不为宣传、不为教化、不为提升谁的灵魂，只为「试着创造出一点美」。本书围绕六块拼图展开：特立独行是块什么料、写作是逆着熵增往山上走的减熵过程、文学是无中生有的美、做主流之外的异数、用理性的尺子辨真伪、把一生收束到「工作」与「心胸」上。读这本书，是学一种不迎合、不表演、还能把文章写得漂亮又聪明的活法。</itunes:summary>
+      <itunes:duration>00:29:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-f12247.mp3" length="28395309" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
