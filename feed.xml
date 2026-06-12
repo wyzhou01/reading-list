@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 12 Jun 2026 02:13:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 02:33:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -668,6 +668,17 @@
       <itunes:duration>00:29:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-8d9300.mp3" length="28525485" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《世界上最神奇的24堂课》 · 完整版 · 世界上最神奇的24堂课 · 完整讲读</title>
+      <description>《世界上最神奇的二十四堂课》是美国成功学作家查尔斯·哈奈尔在一九一零年前后写就的经典。本书提出，财富、地位与成就的真正差异，不在体魄、不在家世，而在心智。创造力全在于内心，精神塑造并掌控着物质。书中系统阐述了精神力量的运作法则：思维通过专注与信念转化为现实，潜意识与意识协同运作塑造命运，冥想与静默可以开发精神能量，而施予越多、所得越多，则是宇宙的回馈法则。一个多世纪过去，这本书依然是打开内在世界的一把钥匙。</description>
+      <pubDate>Fri, 12 Jun 2026 02:32:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260612-episode-20260612-67d28e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《世界上最神奇的二十四堂课》是美国成功学作家查尔斯·哈奈尔在一九一零年前后写就的经典。本书提出，财富、地位与成就的真正差异，不在体魄、不在家世，而在心智。创造力全在于内心，精神塑造并掌控着物质。书中系统阐述了精神力量的运作法则：思维通过专注与信念转化为现实，潜意识与意识协同运作塑造命运，冥想与静默可以开发精神能量，而施予越多、所得越多，则是宇宙的回馈法则。一个多世纪过去，这本书依然是打开内在世界的一把钥匙。</itunes:summary>
+      <itunes:duration>00:45:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-67d28e.mp3" length="43722285" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
