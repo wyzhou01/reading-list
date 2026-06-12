@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 12 Jun 2026 03:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 03:17:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -712,6 +712,17 @@
       <itunes:duration>00:34:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-8bb2c7.mp3" length="32875437" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中国哲学简史》 · 完整版 · 中国哲学简史 · 完整讲读</title>
+      <description>冯友兰用不到三十万字讲完两千多年的中国思想史，从孔子、墨子、老庄、名家，到董仲舒、玄学、禅宗，再到宋明理学，最后指向中国哲学在现代世界的意义。贯穿全书的，是他对&quot;哲学的本质&quot;的界定：哲学不是增加知识，而是提高心灵的境界。中国哲学的精神，是把入世与出世统一起来，把自然、功利、道德、天地四种境界一层层向上推，最高处是圣人的境界——人与宇宙的合一。冯友兰认为，负的方法是中国哲学的特色，未来的世界将以哲学代替宗教，而中国哲学将为此贡献独特的智慧。</description>
+      <pubDate>Fri, 12 Jun 2026 03:16:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260612-episode-20260612-040aae</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>冯友兰用不到三十万字讲完两千多年的中国思想史，从孔子、墨子、老庄、名家，到董仲舒、玄学、禅宗，再到宋明理学，最后指向中国哲学在现代世界的意义。贯穿全书的，是他对&quot;哲学的本质&quot;的界定：哲学不是增加知识，而是提高心灵的境界。中国哲学的精神，是把入世与出世统一起来，把自然、功利、道德、天地四种境界一层层向上推，最高处是圣人的境界——人与宇宙的合一。冯友兰认为，负的方法是中国哲学的特色，未来的世界将以哲学代替宗教，而中国哲学将为此贡献独特的智慧。</itunes:summary>
+      <itunes:duration>00:27:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-040aae.mp3" length="26311341" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
