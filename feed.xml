@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 12 Jun 2026 05:32:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 05:45:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -855,6 +855,17 @@
       <itunes:duration>00:27:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-27236f.mp3" length="26018349" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《白鹿原》 · 完整版 · 白鹿原 · 完整讲读</title>
+      <description>《白鹿原》是陈忠实耗时六年写就的五十余万字长篇巨著，以清末到新中国成立这半个世纪为背景，以陕西关中白鹿原上白、鹿两大家族三代人的恩怨纠葛为主线，写出了中国乡村在土地革命、抗日战争、解放战争中被反复撕扯与重塑的剧烈变迁。这部荣获茅盾文学奖的作品，不仅是家族史，更是民族秘史——它通过白嘉轩的坚守、田小娥的悲剧、朱先生的智慧、白孝文的堕落、鹿子霖的疯癫、黑娃的迷途等群像，深入探讨了宗法礼教与个人欲望的撕扯、革命洪流中乡村知识分子的命运、革命与人性的复杂纠缠，以及土地与农民根性等永恒主题。今天读它，依然振聋发聩。</description>
+      <pubDate>Fri, 12 Jun 2026 05:45:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260612-episode-20260612-409fcf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《白鹿原》是陈忠实耗时六年写就的五十余万字长篇巨著，以清末到新中国成立这半个世纪为背景，以陕西关中白鹿原上白、鹿两大家族三代人的恩怨纠葛为主线，写出了中国乡村在土地革命、抗日战争、解放战争中被反复撕扯与重塑的剧烈变迁。这部荣获茅盾文学奖的作品，不仅是家族史，更是民族秘史——它通过白嘉轩的坚守、田小娥的悲剧、朱先生的智慧、白孝文的堕落、鹿子霖的疯癫、黑娃的迷途等群像，深入探讨了宗法礼教与个人欲望的撕扯、革命洪流中乡村知识分子的命运、革命与人性的复杂纠缠，以及土地与农民根性等永恒主题。今天读它，依然振聋发聩。</itunes:summary>
+      <itunes:duration>00:29:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-409fcf.mp3" length="27968685" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
