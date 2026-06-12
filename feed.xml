@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 12 Jun 2026 07:43:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 07:52:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -877,6 +877,17 @@
       <itunes:duration>00:33:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-96acc7.mp3" length="32031789" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《悲惨世界》 · 完整版 · 悲惨世界 · 完整讲读</title>
+      <description>《悲惨世界》是法国文豪维克多·雨果于一八六二年出版的鸿篇巨制。失业工人让·瓦尔让因偷一块面包被判十九年苦役，出狱后受米里埃尔主教感化，从此改名换姓行善，成为市长，却因黄色身份证被社会终生追杀。女人芳汀被工厂解雇，为养活寄养在外的女儿柯赛特，先后卖掉头发、牙齿，最后沦为娼妓而死。女孩柯赛特在泰纳迪埃家中受尽虐待，八岁便在寒冬中独自去森林打水。一八三二年六月，共和派青年在巴黎筑起街垒，与政府军对峙，老兵马伯夫、流浪儿加弗罗什相继牺牲。雨果借这部长篇小说叩问：当法律与良心冲突时，一个人究竟应该听谁的？</description>
+      <pubDate>Fri, 12 Jun 2026 07:52:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260612-episode-20260612-2a841b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《悲惨世界》是法国文豪维克多·雨果于一八六二年出版的鸿篇巨制。失业工人让·瓦尔让因偷一块面包被判十九年苦役，出狱后受米里埃尔主教感化，从此改名换姓行善，成为市长，却因黄色身份证被社会终生追杀。女人芳汀被工厂解雇，为养活寄养在外的女儿柯赛特，先后卖掉头发、牙齿，最后沦为娼妓而死。女孩柯赛特在泰纳迪埃家中受尽虐待，八岁便在寒冬中独自去森林打水。一八三二年六月，共和派青年在巴黎筑起街垒，与政府军对峙，老兵马伯夫、流浪儿加弗罗什相继牺牲。雨果借这部长篇小说叩问：当法律与良心冲突时，一个人究竟应该听谁的？</itunes:summary>
+      <itunes:duration>00:27:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-2a841b.mp3" length="26866989" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
