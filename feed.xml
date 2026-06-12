@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 12 Jun 2026 05:24:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 05:32:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -844,6 +844,17 @@
       <itunes:duration>00:28:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-3e887b.mp3" length="27323565" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《变形记》 · 完整版 · 变形记弗兰茨·卡夫卡 · 完整讲读</title>
+      <description>本期《好好读书》精讲卡夫卡的《变形记》与晚年三部短篇。一个勤恳的推销员格里高尔一夜之间变成甲虫，被家人从震惊、嫌弃一步步推向死亡；一个把饥饿当作艺术的绝食者，在铁笼里孤独地死去，纪念他的人群排在他死后才出现；一个女歌手约瑟芬在民族的掌声中越唱越孤独，最终被集体遗忘。卡夫卡用冷笔写下现代人最深的三种困境：身份的丧失、与群体的不可调和、艺术家与受众之间永恒的隔阂。一百年过去，格里高尔式的“上班打卡”依然每天发生，饥饿艺术家式的“被看”焦虑依然统治社交媒体，约瑟芬式的“以为被听就是被懂”依然困住每一个创作者。卡夫卡写的不是布拉格，是今天每一个普通人的处境。</description>
+      <pubDate>Fri, 12 Jun 2026 05:32:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260612-episode-20260612-27236f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期《好好读书》精讲卡夫卡的《变形记》与晚年三部短篇。一个勤恳的推销员格里高尔一夜之间变成甲虫，被家人从震惊、嫌弃一步步推向死亡；一个把饥饿当作艺术的绝食者，在铁笼里孤独地死去，纪念他的人群排在他死后才出现；一个女歌手约瑟芬在民族的掌声中越唱越孤独，最终被集体遗忘。卡夫卡用冷笔写下现代人最深的三种困境：身份的丧失、与群体的不可调和、艺术家与受众之间永恒的隔阂。一百年过去，格里高尔式的“上班打卡”依然每天发生，饥饿艺术家式的“被看”焦虑依然统治社交媒体，约瑟芬式的“以为被听就是被懂”依然困住每一个创作者。卡夫卡写的不是布拉格，是今天每一个普通人的处境。</itunes:summary>
+      <itunes:duration>00:27:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-27236f.mp3" length="26018349" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
