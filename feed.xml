@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 12 Jun 2026 16:48:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 16:57:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -921,6 +921,17 @@
       <itunes:duration>00:23:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260613/episode-20260613-3f3839.mp3" length="22527789" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《梦里花落知多少》 · 完整版 · 梦里花落知多少 · 完整讲读</title>
+      <description>《梦里花落知多少》是三毛在丈夫荷西意外溺亡后写下的悼亡笔记。一百二十七页里，她放弃了早期散文的轻盈，只留下克制与沉默：从墓园里的守夜、母亲的康乃馨，到加纳利群岛的洞穴之夜，再到台北新家的睡莲与窗帘。最后一章，她卖掉小楼、陪父母住进新家，把漂泊二十年的归处，定格在父亲用英文写的那句“过去的一切，都已过去了”。这本书不是浪漫传奇，而是一个普通东方女儿如何把丧痛活成日常的勇气。</description>
+      <pubDate>Fri, 12 Jun 2026 16:57:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260613-episode-20260613-a3c4c2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《梦里花落知多少》是三毛在丈夫荷西意外溺亡后写下的悼亡笔记。一百二十七页里，她放弃了早期散文的轻盈，只留下克制与沉默：从墓园里的守夜、母亲的康乃馨，到加纳利群岛的洞穴之夜，再到台北新家的睡莲与窗帘。最后一章，她卖掉小楼、陪父母住进新家，把漂泊二十年的归处，定格在父亲用英文写的那句“过去的一切，都已过去了”。这本书不是浪漫传奇，而是一个普通东方女儿如何把丧痛活成日常的勇气。</itunes:summary>
+      <itunes:duration>00:28:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260613/episode-20260613-a3c4c2.mp3" length="27027501" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
