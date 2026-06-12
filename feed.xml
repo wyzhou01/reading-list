@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 12 Jun 2026 00:27:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 00:35:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -580,6 +580,17 @@
       <itunes:duration>00:24:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-3bc582.mp3" length="23912109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一桩事先张扬的凶杀案》 · 完整版 · 一桩事先张扬的凶杀案 · 完整讲读</title>
+      <description>马尔克斯以一桩一九五一年真实发生的、被全镇人事先知晓却无人阻止的凶杀案为蓝本，用第一人称调查者视角走访二十七年后小镇上的每一个当事人，拼成一面记忆之镜。全书以冷峻克制的笔触拆解了荣誉的逻辑、集体的沉默、宿兆的错位、梦的预演、被边缘化的女性声音，以及真相在多重矛盾记忆中的不可还原。一桩事先张扬的凶杀案，最终的凶器不是那把刀，是整座小镇的沉默。这部不到十万字的中篇，至今仍在问我们：你愿意成为那个打破沉默的人吗？</description>
+      <pubDate>Fri, 12 Jun 2026 00:35:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260612-episode-20260612-039d3c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>马尔克斯以一桩一九五一年真实发生的、被全镇人事先知晓却无人阻止的凶杀案为蓝本，用第一人称调查者视角走访二十七年后小镇上的每一个当事人，拼成一面记忆之镜。全书以冷峻克制的笔触拆解了荣誉的逻辑、集体的沉默、宿兆的错位、梦的预演、被边缘化的女性声音，以及真相在多重矛盾记忆中的不可还原。一桩事先张扬的凶杀案，最终的凶器不是那把刀，是整座小镇的沉默。这部不到十万字的中篇，至今仍在问我们：你愿意成为那个打破沉默的人吗？</itunes:summary>
+      <itunes:duration>00:30:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-039d3c.mp3" length="29009709" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
