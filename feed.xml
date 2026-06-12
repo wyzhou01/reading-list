@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 12 Jun 2026 01:49:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 02:00:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -646,6 +646,17 @@
       <itunes:duration>00:45:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-027c0e.mp3" length="43626285" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《不能承受的生命之轻》 · 完整版 · 不能承受的生命之轻 · 完整讲读</title>
+      <description>《不能承受的生命之轻》是米兰·昆德拉一九八四年出版的长篇小说。一九六八年布拉格之春后，托马斯、特蕾莎、萨比娜、弗兰茨四个人的命运在历史洪流里彼此交织。昆德拉借一个外科医生的爱情故事，追问生命只能活一次的重量：灵与肉的分裂、责任与自由的撕扯、媚俗与真实的对抗、偶然与必然的边界。小说没有给出答案，却给每一个认真想过「我该如何生活」的人，留下一面无法回避的镜子。至今全球销量已突破千万册，是二十世纪最重要的小之一。</description>
+      <pubDate>Fri, 12 Jun 2026 02:00:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260612-episode-20260612-1650da</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《不能承受的生命之轻》是米兰·昆德拉一九八四年出版的长篇小说。一九六八年布拉格之春后，托马斯、特蕾莎、萨比娜、弗兰茨四个人的命运在历史洪流里彼此交织。昆德拉借一个外科医生的爱情故事，追问生命只能活一次的重量：灵与肉的分裂、责任与自由的撕扯、媚俗与真实的对抗、偶然与必然的边界。小说没有给出答案，却给每一个认真想过「我该如何生活」的人，留下一面无法回避的镜子。至今全球销量已突破千万册，是二十世纪最重要的小之一。</itunes:summary>
+      <itunes:duration>00:33:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-1650da.mp3" length="31945389" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
