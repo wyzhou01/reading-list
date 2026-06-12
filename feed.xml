@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 12 Jun 2026 05:45:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 07:43:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -866,6 +866,17 @@
       <itunes:duration>00:29:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-409fcf.mp3" length="27968685" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《巴黎圣母院》 · 完整版 · 巴黎圣母院 · 完整讲读</title>
+      <description>《巴黎圣母院》是法国浪漫主义文学旗手雨果的代表作，一八三一年出版。小说以十五世纪巴黎为背景，讲述了美丽善良的吉卜赛女郎爱斯美拉达在圣母院前跳舞，与丑陋的敲钟人卡西魔多、阴险的副主教弗罗洛、空虚的卫队长浮比斯之间错综复杂的爱恨情仇。副主教因求爱不成诬陷她为女巫，将她送上绞架；敲钟人拼死相救未果，最后抱着她的遗骨走入地窖长眠。雨果用一座哥特式大教堂，撑起了一部写尽美与丑、善与恶、命运与抗争的悲剧，以&quot;命运&quot;这个刻在墙上的希腊字，把四个人紧紧绞在一起，至今仍是理解人性与宗教压迫绕不开的浪漫主义经典。</description>
+      <pubDate>Fri, 12 Jun 2026 07:43:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260612-episode-20260612-96acc7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《巴黎圣母院》是法国浪漫主义文学旗手雨果的代表作，一八三一年出版。小说以十五世纪巴黎为背景，讲述了美丽善良的吉卜赛女郎爱斯美拉达在圣母院前跳舞，与丑陋的敲钟人卡西魔多、阴险的副主教弗罗洛、空虚的卫队长浮比斯之间错综复杂的爱恨情仇。副主教因求爱不成诬陷她为女巫，将她送上绞架；敲钟人拼死相救未果，最后抱着她的遗骨走入地窖长眠。雨果用一座哥特式大教堂，撑起了一部写尽美与丑、善与恶、命运与抗争的悲剧，以&quot;命运&quot;这个刻在墙上的希腊字，把四个人紧紧绞在一起，至今仍是理解人性与宗教压迫绕不开的浪漫主义经典。</itunes:summary>
+      <itunes:duration>00:33:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-96acc7.mp3" length="32031789" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
