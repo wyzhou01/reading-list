@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 11 Jun 2026 16:41:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 00:27:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -569,6 +569,17 @@
       <itunes:duration>00:24:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-2675be.mp3" length="23373357" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《上学记》 · 完整版 · 上学记 · 完整讲读</title>
+      <description>《上学记》是何兆武先生在九十高龄时口述的回忆录，记录了他从一九二一年到一九五零年的求学与人生经历。何先生亲历北洋时期的议会乱象、“一二?九”学生运动，并在西南联大度过战乱中的求学时光。本书以平实语言呈现了那一代知识分子的精神底色——对自由的珍视、对学问的热爱、对人的尊重。在没有大楼、只有茅草屋的联大校园里，何先生与同学们听大师讲课、在茶馆里讨论哲学，形成了兼容并包、独立思考的精神气质。这本书既是个人回忆，更是一整代人在动荡岁月中安放理想的精神档案。</description>
+      <pubDate>Fri, 12 Jun 2026 00:26:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260612-episode-20260612-3bc582</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《上学记》是何兆武先生在九十高龄时口述的回忆录，记录了他从一九二一年到一九五零年的求学与人生经历。何先生亲历北洋时期的议会乱象、“一二?九”学生运动，并在西南联大度过战乱中的求学时光。本书以平实语言呈现了那一代知识分子的精神底色——对自由的珍视、对学问的热爱、对人的尊重。在没有大楼、只有茅草屋的联大校园里，何先生与同学们听大师讲课、在茶馆里讨论哲学，形成了兼容并包、独立思考的精神气质。这本书既是个人回忆，更是一整代人在动荡岁月中安放理想的精神档案。</itunes:summary>
+      <itunes:duration>00:24:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-3bc582.mp3" length="23912109" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
