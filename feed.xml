@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 12 Jun 2026 00:57:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 01:14:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -613,6 +613,17 @@
       <itunes:duration>00:28:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-78a763.mp3" length="27301677" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一个人的村庄》 · 完整版 · 一个人的村庄 · 完整讲读</title>
+      <description>《一个人的村庄》是刘亮程的散文代表作，以新疆黄沙梁为背景，记录了一个即将消逝的村庄的日常生活。作者通过描写狗、驴、马、蚂蚁等微小生命，以及村庄中普通人的命运，展现了人与万物平等、生命尊严、闲散哲学等深刻主题。书中文字简练而有音乐感，节奏如田野的风声，将时间的流逝以感受为轴，帮助读者重新审视生活的意义。无论你是城里人还是乡间人，都能在这本书里找到共鸣——在狂奔的时代，别忘了脚下的泥土。</description>
+      <pubDate>Fri, 12 Jun 2026 01:14:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260612-episode-20260612-02ebe2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一个人的村庄》是刘亮程的散文代表作，以新疆黄沙梁为背景，记录了一个即将消逝的村庄的日常生活。作者通过描写狗、驴、马、蚂蚁等微小生命，以及村庄中普通人的命运，展现了人与万物平等、生命尊严、闲散哲学等深刻主题。书中文字简练而有音乐感，节奏如田野的风声，将时间的流逝以感受为轴，帮助读者重新审视生活的意义。无论你是城里人还是乡间人，都能在这本书里找到共鸣——在狂奔的时代，别忘了脚下的泥土。</itunes:summary>
+      <itunes:duration>00:27:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-02ebe2.mp3" length="26175789" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
