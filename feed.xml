@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 12 Jun 2026 05:05:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 05:14:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -822,6 +822,17 @@
       <itunes:duration>00:30:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-069494.mp3" length="29065773" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《红楼梦》 · 完整版 · 红楼梦 · 完整讲读</title>
+      <description>一档九十分钟音频节目，带你一口气读完中国古典小说的巅峰之作。我们从曹雪芹的家世与时代背景讲起，拆解贾史王薛四大家族由盛转衰的结构性力量；透过三块拼图，看家族崩塌的内在逻辑、繁华之下每个人被自己吃空的命运，以及曹雪芹藏在真假虚实之间的哲学追问；走进大观园，细看林黛玉、薛宝钗、王熙凤、史湘云等十二金钗各自的诗、情、命与归途；最后回到那个核心追问——情与命、家族与个人、繁华与崩塌。这部书批判封建贵族的腐朽、科举与婚姻制度的荒谬、孔孟之道与程朱理学的压抑，塑造了众多不朽的典型形象，代表了中国古典小说语言艺术的最高峰。无论你是第一次翻开，还是重读经典，这一讲，都会让你重新听见《红楼梦》。</description>
+      <pubDate>Fri, 12 Jun 2026 05:14:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260612-episode-20260612-1c18f3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一档九十分钟音频节目，带你一口气读完中国古典小说的巅峰之作。我们从曹雪芹的家世与时代背景讲起，拆解贾史王薛四大家族由盛转衰的结构性力量；透过三块拼图，看家族崩塌的内在逻辑、繁华之下每个人被自己吃空的命运，以及曹雪芹藏在真假虚实之间的哲学追问；走进大观园，细看林黛玉、薛宝钗、王熙凤、史湘云等十二金钗各自的诗、情、命与归途；最后回到那个核心追问——情与命、家族与个人、繁华与崩塌。这部书批判封建贵族的腐朽、科举与婚姻制度的荒谬、孔孟之道与程朱理学的压抑，塑造了众多不朽的典型形象，代表了中国古典小说语言艺术的最高峰。无论你是第一次翻开，还是重读经典，这一讲，都会让你重新听见《红楼梦》。</itunes:summary>
+      <itunes:duration>00:24:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-1c18f3.mp3" length="23642925" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
