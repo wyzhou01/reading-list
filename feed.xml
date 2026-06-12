@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 12 Jun 2026 01:23:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 01:49:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -635,6 +635,17 @@
       <itunes:duration>00:25:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-0213a3.mp3" length="24516525" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一九八四》 · 完整版 · 一九八四 · 完整讲读</title>
+      <description>《一九八四》是奥威尔写于一九四八年的政治寓言，描绘了大洋国在老大哥的极权统治下，一个普通人温斯顿如何在语言改造、真相改写与无处不在的电幕监控中挣扎。奥威尔借新话揭示语言如何被改造成牢笼，借双重思想揭示真相如何在内部被消灭，借温斯顿与裘莉亚的相爱与崩溃揭示爱为何在极权下脆弱又珍贵。书里那本空白日记、那首没被改写的童谣、那一句我终于爱老大哥了，是二十世纪留给人类最冷也最清醒的警钟。今天，这本书不再是历史预言，而是每一个握着手机的人，都需要重读的政治心理学。</description>
+      <pubDate>Fri, 12 Jun 2026 01:48:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260612-episode-20260612-027c0e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一九八四》是奥威尔写于一九四八年的政治寓言，描绘了大洋国在老大哥的极权统治下，一个普通人温斯顿如何在语言改造、真相改写与无处不在的电幕监控中挣扎。奥威尔借新话揭示语言如何被改造成牢笼，借双重思想揭示真相如何在内部被消灭，借温斯顿与裘莉亚的相爱与崩溃揭示爱为何在极权下脆弱又珍贵。书里那本空白日记、那首没被改写的童谣、那一句我终于爱老大哥了，是二十世纪留给人类最冷也最清醒的警钟。今天，这本书不再是历史预言，而是每一个握着手机的人，都需要重读的政治心理学。</itunes:summary>
+      <itunes:duration>00:45:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-027c0e.mp3" length="43626285" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
