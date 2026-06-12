@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 12 Jun 2026 00:50:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 00:57:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -602,6 +602,17 @@
       <itunes:duration>00:41:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-965bd1.mp3" length="39579309" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一日三秋》 · 完整版 · 一日三秋 · 完整讲读</title>
+      <description>《一日三秋》是刘震云二零二一年出版的力作，以延津县豫剧团画师六叔的画作为线索，串起几代延津人的命运。书名源于民间传说&quot;花二娘&quot;——一个等了三千年心上人的仙女，最后等到的不是人，是一个不能讲的笑话。小说用黑色幽默写出普通人的苦与乐：戏班子散了，《白蛇传》还在每个人嘴里；一个朋友没去赴一场婚礼，三十年的交情就这么断了；一个人死后，他的画被当烧纸烧了。刘震云写这本书，是替所有被生活挤压、却还用笑话撑着的普通人，留下那些被遗忘的情感和心事。一日三秋，不是思念，是瞬间——重要的瞬间，永不再来。</description>
+      <pubDate>Fri, 12 Jun 2026 00:56:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260612-episode-20260612-78a763</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一日三秋》是刘震云二零二一年出版的力作，以延津县豫剧团画师六叔的画作为线索，串起几代延津人的命运。书名源于民间传说&quot;花二娘&quot;——一个等了三千年心上人的仙女，最后等到的不是人，是一个不能讲的笑话。小说用黑色幽默写出普通人的苦与乐：戏班子散了，《白蛇传》还在每个人嘴里；一个朋友没去赴一场婚礼，三十年的交情就这么断了；一个人死后，他的画被当烧纸烧了。刘震云写这本书，是替所有被生活挤压、却还用笑话撑着的普通人，留下那些被遗忘的情感和心事。一日三秋，不是思念，是瞬间——重要的瞬间，永不再来。</itunes:summary>
+      <itunes:duration>00:28:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-78a763.mp3" length="27301677" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
