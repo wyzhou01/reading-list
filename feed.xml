@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 12 Jun 2026 02:33:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 02:41:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -679,6 +679,17 @@
       <itunes:duration>00:45:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-67d28e.mp3" length="43722285" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《万古江河》 · 完整版 · 万古江河 · 完整讲读</title>
+      <description>《万古江河》是历史学家许倬云先生的代表作，用公元纪年写出一部完全脱离王朝更迭的中国文化史。本书从史前考古讲起，揭示中国文化起源于黄河与长江两个源头的多元融合；随后讲述它如何从“中国”走向“东亚的中国”，主导了宋元明时期的亚洲贸易与文化网络；又讲述十六世纪以后如何被强行卷入全球体系，经历了五百年没顶之灾与重生；最后指向一个温暖而宏大的结论：万古江河，不只属于中国，也属于全人类。这本书提供了一面镜子，照出中国文化的真正骄傲——不在于它曾经多么辉煌，而在于它一直有容纳之量与消化之功。</description>
+      <pubDate>Fri, 12 Jun 2026 02:41:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260612-episode-20260612-33451d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《万古江河》是历史学家许倬云先生的代表作，用公元纪年写出一部完全脱离王朝更迭的中国文化史。本书从史前考古讲起，揭示中国文化起源于黄河与长江两个源头的多元融合；随后讲述它如何从“中国”走向“东亚的中国”，主导了宋元明时期的亚洲贸易与文化网络；又讲述十六世纪以后如何被强行卷入全球体系，经历了五百年没顶之灾与重生；最后指向一个温暖而宏大的结论：万古江河，不只属于中国，也属于全人类。这本书提供了一面镜子，照出中国文化的真正骄傲——不在于它曾经多么辉煌，而在于它一直有容纳之量与消化之功。</itunes:summary>
+      <itunes:duration>00:16:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-33451d.mp3" length="15520173" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
