@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 12 Jun 2026 02:41:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 02:56:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -690,6 +690,17 @@
       <itunes:duration>00:16:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-33451d.mp3" length="15520173" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《二手时间》 · 完整版 · 二手时间 · 完整讲读</title>
+      <description>《二手时间》是白俄罗斯作家阿列克谢耶维奇的纪实文学代表作，记录了苏联解体后二十年里数百位普通人的真实讲述。一九九一年红色帝国崩塌，两亿人从社会主义子民一夜变成资本主义陌生人。全书以复调式写法，让厨房里的对话、午夜的自白、怀旧与怨恨交织成一代人的精神肖像：他们失去的不仅是国家，更是一整套关于归属、意义与共同理想的答案。书中揭示了一个跨时代的真相——人需要意义，甚于需要自由；人需要归属，甚于需要真理。当旧世界崩溃、新世界尚未到来，最难的从来不是活下去，而是独自站立。</description>
+      <pubDate>Fri, 12 Jun 2026 02:55:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260612-episode-20260612-293abb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《二手时间》是白俄罗斯作家阿列克谢耶维奇的纪实文学代表作，记录了苏联解体后二十年里数百位普通人的真实讲述。一九九一年红色帝国崩塌，两亿人从社会主义子民一夜变成资本主义陌生人。全书以复调式写法，让厨房里的对话、午夜的自白、怀旧与怨恨交织成一代人的精神肖像：他们失去的不仅是国家，更是一整套关于归属、意义与共同理想的答案。书中揭示了一个跨时代的真相——人需要意义，甚于需要自由；人需要归属，甚于需要真理。当旧世界崩溃、新世界尚未到来，最难的从来不是活下去，而是独自站立。</itunes:summary>
+      <itunes:duration>00:31:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-293abb.mp3" length="30220461" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
