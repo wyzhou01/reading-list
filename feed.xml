@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 12 Jun 2026 03:17:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 03:28:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -723,6 +723,17 @@
       <itunes:duration>00:27:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-040aae.mp3" length="26311341" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《乔家的儿女》 · 完整版 · 乔家的儿女 · 完整讲读</title>
+      <description>《乔家的儿女》是作家末夕的长篇代表作，故事从一九七七年的南京城讲起。十二岁的乔一成在母亲生下弟弟七七、大出血去世后，被迫承担起照顾四个弟妹的责任。在一个不靠谱的父亲乔祖望的屋檐下，五个孩子相互拉扯着长大。三十年里，他们经历了爱情、婚姻、背叛与原谅，经历了时代变迁与邻里相助。最终，最小的弟弟乔七七把自己的肾捐给了病重的大哥乔一成。这本书写尽了中国式多子女家庭里被强加的成年、被跳过的中间孩子、不会爱的父亲，以及一餐一饭、一场病、一场难中相互亏欠又相互成全的亲情。</description>
+      <pubDate>Fri, 12 Jun 2026 03:27:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260612-episode-20260612-742329</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《乔家的儿女》是作家末夕的长篇代表作，故事从一九七七年的南京城讲起。十二岁的乔一成在母亲生下弟弟七七、大出血去世后，被迫承担起照顾四个弟妹的责任。在一个不靠谱的父亲乔祖望的屋檐下，五个孩子相互拉扯着长大。三十年里，他们经历了爱情、婚姻、背叛与原谅，经历了时代变迁与邻里相助。最终，最小的弟弟乔七七把自己的肾捐给了病重的大哥乔一成。这本书写尽了中国式多子女家庭里被强加的成年、被跳过的中间孩子、不会爱的父亲，以及一餐一饭、一场病、一场难中相互亏欠又相互成全的亲情。</itunes:summary>
+      <itunes:duration>00:31:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-742329.mp3" length="29770413" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
