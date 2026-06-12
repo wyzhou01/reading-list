@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 12 Jun 2026 16:46:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 16:48:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -910,6 +910,17 @@
       <itunes:duration>00:28:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260613/episode-20260613-de096d.mp3" length="27082797" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《灰犀牛：如何应对大概率危机》 · 完整版 · 灰犀牛：如何应对大概率危机 · 完整讲读</title>
+      <description>《灰犀牛》告诉我们,真正摧毁世界的,从来不是那些意料之外的黑天鹅,而是那些我们早就看见、却刻意忽视的灰犀牛。经济学家米歇尔·渥克用安然破产、欧债危机、卡特里娜飓风等案例,剖析了人类面对大概率危机时的五阶段反应:否认、得过且过、诊断、恐慌、行动,以及灾后重生。她指出,危机的根源不是信息不足,而是认知与人性的弱点:短视、误判与麻木,叠加形成致命的M3偏见。本书给出的破解之道,是建立敢于质疑、敢于行动的认知习惯,把危机转化为系统性变革的机遇。</description>
+      <pubDate>Fri, 12 Jun 2026 16:48:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260613-episode-20260613-3f3839</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《灰犀牛》告诉我们,真正摧毁世界的,从来不是那些意料之外的黑天鹅,而是那些我们早就看见、却刻意忽视的灰犀牛。经济学家米歇尔·渥克用安然破产、欧债危机、卡特里娜飓风等案例,剖析了人类面对大概率危机时的五阶段反应:否认、得过且过、诊断、恐慌、行动,以及灾后重生。她指出,危机的根源不是信息不足,而是认知与人性的弱点:短视、误判与麻木,叠加形成致命的M3偏见。本书给出的破解之道,是建立敢于质疑、敢于行动的认知习惯,把危机转化为系统性变革的机遇。</itunes:summary>
+      <itunes:duration>00:23:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260613/episode-20260613-3f3839.mp3" length="22527789" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
