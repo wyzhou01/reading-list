@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 12 Jun 2026 04:04:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 04:12:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -767,6 +767,17 @@
       <itunes:duration>00:28:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-53a5e7.mp3" length="26954541" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《人间失格》 · 完整版 · 人间失格 · 完整讲读</title>
+      <description>《人间失格》是日本作家太宰治的遗作,以自叙体讲述了主人公大庭叶藏——一个出身地主家庭、终其一生都在恐惧人类的青年,如何在&quot;伪善&quot;的面具下一步步自我放逐,最终走向毁灭的故事。小说借叶藏的懦弱,写出了一代日本青年在战败废墟中的精神崩塌,提出了&quot;不抵抗之罪&quot;与&quot;骄傲&quot;的悖论,是日本战后无赖派文学的巅峰之作。八十多年过去,这本薄薄的小书依然能让每一个&quot;在人群中感到孤独&quot;的读者脊背发凉。</description>
+      <pubDate>Fri, 12 Jun 2026 04:12:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260612-episode-20260612-90c144</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《人间失格》是日本作家太宰治的遗作,以自叙体讲述了主人公大庭叶藏——一个出身地主家庭、终其一生都在恐惧人类的青年,如何在&quot;伪善&quot;的面具下一步步自我放逐,最终走向毁灭的故事。小说借叶藏的懦弱,写出了一代日本青年在战败废墟中的精神崩塌,提出了&quot;不抵抗之罪&quot;与&quot;骄傲&quot;的悖论,是日本战后无赖派文学的巅峰之作。八十多年过去,这本薄薄的小书依然能让每一个&quot;在人群中感到孤独&quot;的读者脊背发凉。</itunes:summary>
+      <itunes:duration>00:28:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-90c144.mp3" length="27112365" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
