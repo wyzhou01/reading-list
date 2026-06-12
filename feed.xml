@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 12 Jun 2026 03:55:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 04:04:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -756,6 +756,17 @@
       <itunes:duration>00:29:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-7a9bb3.mp3" length="27937581" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《云边有个小卖部》 · 完整版 · 云边有个小卖部 · 完整讲读</title>
+      <description>《云边有个小卖部》是张嘉佳写于二零一七年、献给自己母亲的一部九万字长篇小说。小说讲述普通青年刘十三在城市被梦想反复辜负后，被七十三岁的外婆王莺莺用拖拉机拖回虚构的南方小镇云边镇，与身患重病的女孩程霜度过一段又暖又伤的时光。整本书围绕故乡、亲情、爱情与告别四个主题，用二十二个看似散淡的章节，最终拼出“好好告别“四个字。它写给所有在异乡漂泊、想念故人却来不及回去的人。</description>
+      <pubDate>Fri, 12 Jun 2026 04:04:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260612-episode-20260612-53a5e7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《云边有个小卖部》是张嘉佳写于二零一七年、献给自己母亲的一部九万字长篇小说。小说讲述普通青年刘十三在城市被梦想反复辜负后，被七十三岁的外婆王莺莺用拖拉机拖回虚构的南方小镇云边镇，与身患重病的女孩程霜度过一段又暖又伤的时光。整本书围绕故乡、亲情、爱情与告别四个主题，用二十二个看似散淡的章节，最终拼出“好好告别“四个字。它写给所有在异乡漂泊、想念故人却来不及回去的人。</itunes:summary>
+      <itunes:duration>00:28:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-53a5e7.mp3" length="26954541" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
