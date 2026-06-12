@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 12 Jun 2026 03:28:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 03:37:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -734,6 +734,17 @@
       <itunes:duration>00:31:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-742329.mp3" length="29770413" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《世界的凛冬》 · 完整版 · 世界的凛冬 · 完整讲读</title>
+      <description>《世界的凛冬》是英国作家肯·福莱特世纪三部曲的第二部，时间跨度从一九三三年希特勒上台到一九四九年冷战格局成形。小说以英、德、俄、美、波兰五大家族的年轻一代为主角，串起了国会纵火案、莫斯科大清洗、不列颠空战、珍珠港事件、斯大林格勒保卫战、诺曼底登陆、广岛原子弹、柏林墙危机等真实历史事件。它用近乎冷酷的笔法告诉读者：极权从餐桌上开始，谎言从撤稿中蔓延，清洗从指标里生长；战争不只是杀人的，更是杀身份的；冷战不是打出来的，是&quot;算&quot;出来的。肯·福莱特提醒我们：自由不是天生的，自由是争来的；和平不是等来的，和平是算出来的。而每一个普通人在大时代里做出的选择，加在一起，就是历史。</description>
+      <pubDate>Fri, 12 Jun 2026 03:36:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260612-episode-20260612-b85e70</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《世界的凛冬》是英国作家肯·福莱特世纪三部曲的第二部，时间跨度从一九三三年希特勒上台到一九四九年冷战格局成形。小说以英、德、俄、美、波兰五大家族的年轻一代为主角，串起了国会纵火案、莫斯科大清洗、不列颠空战、珍珠港事件、斯大林格勒保卫战、诺曼底登陆、广岛原子弹、柏林墙危机等真实历史事件。它用近乎冷酷的笔法告诉读者：极权从餐桌上开始，谎言从撤稿中蔓延，清洗从指标里生长；战争不只是杀人的，更是杀身份的；冷战不是打出来的，是&quot;算&quot;出来的。肯·福莱特提醒我们：自由不是天生的，自由是争来的；和平不是等来的，和平是算出来的。而每一个普通人在大时代里做出的选择，加在一起，就是历史。</itunes:summary>
+      <itunes:duration>00:33:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-b85e70.mp3" length="32388141" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
