@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 12 Jun 2026 02:56:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 03:10:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -701,6 +701,17 @@
       <itunes:duration>00:31:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-293abb.mp3" length="30220461" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《主角》 · 完整版 · 主角 · 完整讲读</title>
+      <description>《主角》是作家陈彦创作的长篇小说，讲述了秦岭深山放羊女娃易招弟（后改名易青娥、忆秦娥）用四十年光阴，从县剧团学员一步步成长为一代秦腔名伶的故事。她在几十号人争一个角色的剧团里熬出来，经历离婚、丧子、被诬告、几起几落，在秦腔最不景气的时候仍死守舞台。陈彦以几十年剧团生活为底子，把一个小人物的命运史诗与秦腔这门古老艺术的传承担当交融在一起，写出了一个底层女性在时代洪流中的挣扎、觉醒与宽恕。作品获第十届茅盾文学奖。</description>
+      <pubDate>Fri, 12 Jun 2026 03:09:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260612-episode-20260612-8bb2c7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《主角》是作家陈彦创作的长篇小说，讲述了秦岭深山放羊女娃易招弟（后改名易青娥、忆秦娥）用四十年光阴，从县剧团学员一步步成长为一代秦腔名伶的故事。她在几十号人争一个角色的剧团里熬出来，经历离婚、丧子、被诬告、几起几落，在秦腔最不景气的时候仍死守舞台。陈彦以几十年剧团生活为底子，把一个小人物的命运史诗与秦腔这门古老艺术的传承担当交融在一起，写出了一个底层女性在时代洪流中的挣扎、觉醒与宽恕。作品获第十届茅盾文学奖。</itunes:summary>
+      <itunes:duration>00:34:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-8bb2c7.mp3" length="32875437" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
