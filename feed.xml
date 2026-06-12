@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 12 Jun 2026 05:14:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 05:24:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -833,6 +833,17 @@
       <itunes:duration>00:24:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-1c18f3.mp3" length="23642925" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《万历十五年（经典版）》 · 完整版 · 万历十五年经典版 · 完整讲读</title>
+      <description>《万历十五年》是黄仁宇的代表作，用 1587 年这一年的横截面，串起万历皇帝、张居正、申时行、海瑞、戚继光、李贽六个走向失败的人，提出一个发人深省的判断：传统中国以道德代替法律，官僚体制僵化，缺乏数目字管理，因此无法顺利走向现代化。这六个人无一人是咎由自取，这种制度无一处是偶然形成；1587 年表面无事可记，实则是大崩溃的前夜。</description>
+      <pubDate>Fri, 12 Jun 2026 05:24:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260612-episode-20260612-3e887b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《万历十五年》是黄仁宇的代表作，用 1587 年这一年的横截面，串起万历皇帝、张居正、申时行、海瑞、戚继光、李贽六个走向失败的人，提出一个发人深省的判断：传统中国以道德代替法律，官僚体制僵化，缺乏数目字管理，因此无法顺利走向现代化。这六个人无一人是咎由自取，这种制度无一处是偶然形成；1587 年表面无事可记，实则是大崩溃的前夜。</itunes:summary>
+      <itunes:duration>00:28:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-3e887b.mp3" length="27323565" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
