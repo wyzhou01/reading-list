@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 12 Jun 2026 04:25:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 04:34:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -789,6 +789,17 @@
       <itunes:duration>00:25:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-69f8f9.mp3" length="24416301" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《傲慢与偏见》 · 完整版 · 傲慢与偏见（译文名著典藏） · 完整讲读</title>
+      <description>《傲慢与偏见》表面是一出爱情喜剧，骨子里却是关于婚姻经济学与社会阶层的清醒写照。简·奥斯丁用四段迥异的婚姻——夏绿蒂与柯林斯的纯粹交易、吉英与彬格莱的得体结合、丽迪雅与韦翰的冲动私奔、达西与伊丽莎白从傲慢与偏见到互相打磨的真正相爱——拆开了十八世纪末英国乡绅阶层的经济账与教养账。她让我们看见，所谓举世公认的真理其实只是班纳特太太的一厢情愿，真正举世公认的真理是没有财产的妇女需要嫁有财产的丈夫；她也让我们看见，教养决定一个人能否被某个阶层接纳，而教养本身又是可以被亲密关系与自我反省重塑的。奥斯丁不用悲愤、不用控诉，只用嘲讽，让人物在笑声里各自照见自己在经济关系中的愚钝。两百年过去，这本书依然值得重读，因为它逼着每一个读者回头照见自己身上的傲慢与偏见。</description>
+      <pubDate>Fri, 12 Jun 2026 04:33:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260612-episode-20260612-0e3b40</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《傲慢与偏见》表面是一出爱情喜剧，骨子里却是关于婚姻经济学与社会阶层的清醒写照。简·奥斯丁用四段迥异的婚姻——夏绿蒂与柯林斯的纯粹交易、吉英与彬格莱的得体结合、丽迪雅与韦翰的冲动私奔、达西与伊丽莎白从傲慢与偏见到互相打磨的真正相爱——拆开了十八世纪末英国乡绅阶层的经济账与教养账。她让我们看见，所谓举世公认的真理其实只是班纳特太太的一厢情愿，真正举世公认的真理是没有财产的妇女需要嫁有财产的丈夫；她也让我们看见，教养决定一个人能否被某个阶层接纳，而教养本身又是可以被亲密关系与自我反省重塑的。奥斯丁不用悲愤、不用控诉，只用嘲讽，让人物在笑声里各自照见自己在经济关系中的愚钝。两百年过去，这本书依然值得重读，因为它逼着每一个读者回头照见自己身上的傲慢与偏见。</itunes:summary>
+      <itunes:duration>00:29:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-0e3b40.mp3" length="28133805" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
