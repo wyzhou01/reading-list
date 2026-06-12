@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 12 Jun 2026 04:50:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 05:05:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -811,6 +811,17 @@
       <itunes:duration>00:29:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-f12247.mp3" length="28395309" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《复活》 · 完整版 · 复活 · 完整讲读</title>
+      <description>托尔斯泰晚年巨著《复活》，由一起冤案展开：贵族青年涅赫柳多夫当年诱姑母家婢女玛丝洛娃，致其沦落妓院，又在法庭上以陪审员身份重逢被诬告的她，从此踏上自我救赎与为她伸冤之路。小说以四十五万五千字的篇幅，把沙皇俄国的法庭、监狱、教会、土地制度、资本主义与流放生活一一撕开，最终让两个灵魂在苦难中各自复活——他从堕落到觉醒，她从被侮辱到敢于拒绝。一本写于十九世纪末、却至今仍能照见我们这个时代的批判现实主义杰作。</description>
+      <pubDate>Fri, 12 Jun 2026 05:04:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260612-episode-20260612-069494</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>托尔斯泰晚年巨著《复活》，由一起冤案展开：贵族青年涅赫柳多夫当年诱姑母家婢女玛丝洛娃，致其沦落妓院，又在法庭上以陪审员身份重逢被诬告的她，从此踏上自我救赎与为她伸冤之路。小说以四十五万五千字的篇幅，把沙皇俄国的法庭、监狱、教会、土地制度、资本主义与流放生活一一撕开，最终让两个灵魂在苦难中各自复活——他从堕落到觉醒，她从被侮辱到敢于拒绝。一本写于十九世纪末、却至今仍能照见我们这个时代的批判现实主义杰作。</itunes:summary>
+      <itunes:duration>00:30:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-069494.mp3" length="29065773" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
