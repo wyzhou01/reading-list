@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 12 Jun 2026 02:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 02:13:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -657,6 +657,17 @@
       <itunes:duration>00:33:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-1650da.mp3" length="31945389" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《不存在的骑士》 · 完整版 · 不存在的骑士 · 完整讲读</title>
+      <description>意大利作家卡尔维诺的哲思寓言《不存在的骑士》，写一个没有身体却纪律严明的空铠甲骑士阿季卢尔福，与混沌无意识的马夫古尔杜鲁形成对照。年轻人朗巴尔多为父从军、寻找存在的证明，女武士布拉达曼泰爱上那个不可能的人。卡尔维诺借中世纪骑士冒险，叩问现代人的困境：当个性被抹杀、自我沦为抽象功能，我们如何证明自己真正活过。这部轻盈又锋利的存在主义寓言，是理解“何为完整自我”的必读序曲。</description>
+      <pubDate>Fri, 12 Jun 2026 02:12:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260612-episode-20260612-8d9300</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>意大利作家卡尔维诺的哲思寓言《不存在的骑士》，写一个没有身体却纪律严明的空铠甲骑士阿季卢尔福，与混沌无意识的马夫古尔杜鲁形成对照。年轻人朗巴尔多为父从军、寻找存在的证明，女武士布拉达曼泰爱上那个不可能的人。卡尔维诺借中世纪骑士冒险，叩问现代人的困境：当个性被抹杀、自我沦为抽象功能，我们如何证明自己真正活过。这部轻盈又锋利的存在主义寓言，是理解“何为完整自我”的必读序曲。</itunes:summary>
+      <itunes:duration>00:29:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260612/episode-20260612-8d9300.mp3" length="28525485" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
