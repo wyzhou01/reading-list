@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 13 Jun 2026 02:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 02:03:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -987,6 +987,17 @@
       <itunes:duration>00:33:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260613/episode-20260613-8f6d7f.mp3" length="32032557" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《正念的奇迹》 · 完整版 · 正念的奇迹 · 完整讲读</title>
+      <description>《正念的奇迹》是一行禅师在越战最黑暗的时期，写给一群在战火中重建村庄的年轻社工的一封长信。它把佛陀两千五百年前的呼吸法门，翻译成洗碗、喝茶、走路的现代练习。书里没有抽象的哲学，只有十六个阶段的观呼吸、五蕴的缘起观，以及三十多个能在日常里立刻用起来的小练习。一行禅师用最温柔的方式提醒我们：所谓奇迹，不是头顶的光环，而是当你能在每一口呼吸里都清醒地活着——吃饭时吃饭，喝茶时喝茶——你就从白日梦中醒了过来。这本一百多页的小书，五十年来被翻译成三十多种语言，被医生、囚犯、母亲、艺术家放在床头。它不是要你逃离生活，而是要你终于真的进入生活。</description>
+      <pubDate>Sat, 13 Jun 2026 02:03:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260613-episode-20260613-0c1b71</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《正念的奇迹》是一行禅师在越战最黑暗的时期，写给一群在战火中重建村庄的年轻社工的一封长信。它把佛陀两千五百年前的呼吸法门，翻译成洗碗、喝茶、走路的现代练习。书里没有抽象的哲学，只有十六个阶段的观呼吸、五蕴的缘起观，以及三十多个能在日常里立刻用起来的小练习。一行禅师用最温柔的方式提醒我们：所谓奇迹，不是头顶的光环，而是当你能在每一口呼吸里都清醒地活着——吃饭时吃饭，喝茶时喝茶——你就从白日梦中醒了过来。这本一百多页的小书，五十年来被翻译成三十多种语言，被医生、囚犯、母亲、艺术家放在床头。它不是要你逃离生活，而是要你终于真的进入生活。</itunes:summary>
+      <itunes:duration>00:26:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260613/episode-20260613-0c1b71.mp3" length="25390125" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
