@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 13 Jun 2026 02:51:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 16:40:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1086,6 +1086,17 @@
       <itunes:duration>00:26:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260613/episode-20260613-67c869.mp3" length="25038765" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《激荡三十年：中国企业1978-2008（纪念版套装上下册）》 · 完整版 · 激荡三十年中国企业19782008纪念版套装上下册中信十年畅销经典吴晓波 · 完整讲读</title>
+      <description>《激荡三十年》是中国知名财经作家吴晓波撰写的一部记录一九七八年至二零零八年中国企业史的经典著作。全书以年度为线索，通过三十个年份、三十个故事，生动还原了柳传志、任正非、宗庆后等一代企业家从零起步、改变中国商业版图的激荡历程。书中深刻剖析了国营、民营、外资三股力量的此消彼长，揭示了改革开放四十年中国制造崛起的深层逻辑，也冷静追问了一个核心命题：为什么伟大的经济奇迹，没有催生伟大的公司？十年后再版，这本书依然是读懂中国商业基因、理解中美贸易格局、预见中国企业全球化未来的必读之作。</description>
+      <pubDate>Sat, 13 Jun 2026 16:39:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260614-episode-20260614-ae1805</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《激荡三十年》是中国知名财经作家吴晓波撰写的一部记录一九七八年至二零零八年中国企业史的经典著作。全书以年度为线索，通过三十个年份、三十个故事，生动还原了柳传志、任正非、宗庆后等一代企业家从零起步、改变中国商业版图的激荡历程。书中深刻剖析了国营、民营、外资三股力量的此消彼长，揭示了改革开放四十年中国制造崛起的深层逻辑，也冷静追问了一个核心命题：为什么伟大的经济奇迹，没有催生伟大的公司？十年后再版，这本书依然是读懂中国商业基因、理解中美贸易格局、预见中国企业全球化未来的必读之作。</itunes:summary>
+      <itunes:duration>00:45:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-ae1805.mp3" length="43426989" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
