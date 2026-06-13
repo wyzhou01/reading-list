@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 13 Jun 2026 01:44:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 01:44:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -943,6 +943,17 @@
       <itunes:duration>00:25:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260613/episode-20260613-57c5e3.mp3" length="24847149" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《自卑与超越》 · 完整版 · 自卑与超越 · 完整讲读</title>
+      <description>《自卑与超越》是阿德勒一九三二年的代表作，他跳出弗洛伊德的童年决定论，提出：人人都有自卑感，它不是病，而是成长的底色；真正的优越感不是凌驾于他人，而是你为这个世界贡献了多少。全书围绕职业、社会、性三大人生课题，从童年记忆、家庭排序、梦境、青春期一路写到爱情与婚姻，给出一套完整的&quot;个体心理学&quot;操作手册：自卑是燃料，童年是脚本，意义是方向。八十多年过去，这本小书依然是自我成长领域的经典——它不卖鸡汤，也不灌焦虑，只是平实地告诉你：自卑不可怕，可怕的是你用它关上了和世界连接的门。</description>
+      <pubDate>Sat, 13 Jun 2026 01:44:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260613-episode-20260613-e891d0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《自卑与超越》是阿德勒一九三二年的代表作，他跳出弗洛伊德的童年决定论，提出：人人都有自卑感，它不是病，而是成长的底色；真正的优越感不是凌驾于他人，而是你为这个世界贡献了多少。全书围绕职业、社会、性三大人生课题，从童年记忆、家庭排序、梦境、青春期一路写到爱情与婚姻，给出一套完整的&quot;个体心理学&quot;操作手册：自卑是燃料，童年是脚本，意义是方向。八十多年过去，这本小书依然是自我成长领域的经典——它不卖鸡汤，也不灌焦虑，只是平实地告诉你：自卑不可怕，可怕的是你用它关上了和世界连接的门。</itunes:summary>
+      <itunes:duration>00:25:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260613/episode-20260613-e891d0.mp3" length="24057645" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
