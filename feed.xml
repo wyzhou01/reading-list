@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 13 Jun 2026 01:55:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 02:00:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -976,6 +976,17 @@
       <itunes:duration>00:24:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260613/episode-20260613-008cb4.mp3" length="23582253" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《送你一颗子弹》 · 完整版 · 送你一颗子弹 · 完整讲读</title>
+      <description>送你一颗子弹，是刘瑜在二零零五年到二零零九年留学纽约期间写下的一百多篇生活随笔。在那些独居、读博、被“渊博的人”和“积极的人”反复碾压的日子里，她用冷峻又俏皮的笔触，审视自己，审视邻居，审视那些无处安放的焦虑。全书围绕五个主题展开：他人即地狱、自己作为他人、人生意义之不可知、爱情之不可能、社会之既不可知又不可能。她给出的不是答案，而是一种姿态——用感受弥补事件的稀薄，在一个没有掌声的舞台上，依然认真地旋转。这本书是国内青年知识分子的案头书，被誉为中国版的极简主义宣言。</description>
+      <pubDate>Sat, 13 Jun 2026 01:59:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260613-episode-20260613-8f6d7f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>送你一颗子弹，是刘瑜在二零零五年到二零零九年留学纽约期间写下的一百多篇生活随笔。在那些独居、读博、被“渊博的人”和“积极的人”反复碾压的日子里，她用冷峻又俏皮的笔触，审视自己，审视邻居，审视那些无处安放的焦虑。全书围绕五个主题展开：他人即地狱、自己作为他人、人生意义之不可知、爱情之不可能、社会之既不可知又不可能。她给出的不是答案，而是一种姿态——用感受弥补事件的稀薄，在一个没有掌声的舞台上，依然认真地旋转。这本书是国内青年知识分子的案头书，被誉为中国版的极简主义宣言。</itunes:summary>
+      <itunes:duration>00:33:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260613/episode-20260613-8f6d7f.mp3" length="32032557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
