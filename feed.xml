@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 13 Jun 2026 02:12:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 02:15:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1009,6 +1009,17 @@
       <itunes:duration>00:32:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260613/episode-20260613-48d894.mp3" length="31524525" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《天才在左，疯子在右》 · 完整版 · 天才在左，疯子在右 · 完整讲读</title>
+      <description>《天才在左，疯子在右》是高铭用四年时间走访上百位精神病人写下的非虚构作品。通过小说主角妄想症患者、连续坠楼噩梦的女人、十七岁四维虫子少年、橘子空间老人、果冻世界患者等鲜活个案，他把哲学、量子物理、心理学、宗教揉在一起，向我们习以为常的世界发问。本书最震撼的洞察是：真理属于人类，谬误属于时代——所谓的“疯子”，往往只是跑出了这个时代公认坐标系的清醒者。</description>
+      <pubDate>Sat, 13 Jun 2026 02:15:36 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260613-episode-20260613-6c2e87</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《天才在左，疯子在右》是高铭用四年时间走访上百位精神病人写下的非虚构作品。通过小说主角妄想症患者、连续坠楼噩梦的女人、十七岁四维虫子少年、橘子空间老人、果冻世界患者等鲜活个案，他把哲学、量子物理、心理学、宗教揉在一起，向我们习以为常的世界发问。本书最震撼的洞察是：真理属于人类，谬误属于时代——所谓的“疯子”，往往只是跑出了这个时代公认坐标系的清醒者。</itunes:summary>
+      <itunes:duration>00:29:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260613/episode-20260613-6c2e87.mp3" length="28618797" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
