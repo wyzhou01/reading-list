@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 13 Jun 2026 02:03:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 02:12:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -998,6 +998,17 @@
       <itunes:duration>00:26:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260613/episode-20260613-0c1b71.mp3" length="25390125" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《社会契约论》 · 完整版 · 社会契约论 · 完整讲读</title>
+      <description>《社会契约论》是卢梭于一七六二年写成的政治哲学奠基之作，核心主张是：合法的政治秩序必须建立在全体公民共同订立的契约之上，主权不可转让、不可分割、永远属于人民。本书从“自然状态”讲起，论证人类为求自存必须结合为共同体；界定“公意”是主权者全体成员的共同意志，永远以公共幸福为依归、永远正确但人民可能受欺骗；区分主权与政府——政府只是主权的代理人，人民的沉默不等于同意；并最终提出“公民宗教”作为政治体存续的隐秘支柱。书中关于主权有边界、法律必须普遍而非指名、公意与众意之别、财产权是契约之产物而非天然秩序的论断，是后世人民主权、共和主义、参与式民主与法治国家思想的共同源头。</description>
+      <pubDate>Sat, 13 Jun 2026 02:11:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260613-episode-20260613-48d894</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《社会契约论》是卢梭于一七六二年写成的政治哲学奠基之作，核心主张是：合法的政治秩序必须建立在全体公民共同订立的契约之上，主权不可转让、不可分割、永远属于人民。本书从“自然状态”讲起，论证人类为求自存必须结合为共同体；界定“公意”是主权者全体成员的共同意志，永远以公共幸福为依归、永远正确但人民可能受欺骗；区分主权与政府——政府只是主权的代理人，人民的沉默不等于同意；并最终提出“公民宗教”作为政治体存续的隐秘支柱。书中关于主权有边界、法律必须普遍而非指名、公意与众意之别、财产权是契约之产物而非天然秩序的论断，是后世人民主权、共和主义、参与式民主与法治国家思想的共同源头。</itunes:summary>
+      <itunes:duration>00:32:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260613/episode-20260613-48d894.mp3" length="31524525" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
