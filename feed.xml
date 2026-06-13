@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 13 Jun 2026 02:31:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 02:32:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1042,6 +1042,17 @@
       <itunes:duration>00:23:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260613/episode-20260613-55f365.mp3" length="22974765" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《长安客》 · 完整版 · 长安客 · 完整讲读</title>
+      <description>《长安客》是青年学者北溟鱼（徐婉）的一部唐代文史随笔，以安史之乱为分水岭，重构九位诗人在长安的真实命运。王维从“天之骄子”沦为俘虏，李白一生没能踏入仕途正轨，杜甫在长安等了十年等来的是小儿子饿死，柳宗元刘禹锡在永贞革新失败后被流放，李商隐在牛李党争里被两边抛弃，圆仁则以日本僧人的眼睛目睹唐朝最后的崩塌。全书不抒情、不戏说，只在史料缝隙里重新拼出那些被正史一笔带过的诗人跌宕的一生，回答了一个常被忽略的问题：为什么最伟大的唐代诗人们大多出现在日渐熄灭的朝代？读懂他们的遭遇，就是读懂大唐从巅峰跌落的真实轨迹。</description>
+      <pubDate>Sat, 13 Jun 2026 02:32:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260613-episode-20260613-3cc782</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《长安客》是青年学者北溟鱼（徐婉）的一部唐代文史随笔，以安史之乱为分水岭，重构九位诗人在长安的真实命运。王维从“天之骄子”沦为俘虏，李白一生没能踏入仕途正轨，杜甫在长安等了十年等来的是小儿子饿死，柳宗元刘禹锡在永贞革新失败后被流放，李商隐在牛李党争里被两边抛弃，圆仁则以日本僧人的眼睛目睹唐朝最后的崩塌。全书不抒情、不戏说，只在史料缝隙里重新拼出那些被正史一笔带过的诗人跌宕的一生，回答了一个常被忽略的问题：为什么最伟大的唐代诗人们大多出现在日渐熄灭的朝代？读懂他们的遭遇，就是读懂大唐从巅峰跌落的真实轨迹。</itunes:summary>
+      <itunes:duration>00:23:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260613/episode-20260613-3cc782.mp3" length="22623021" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
