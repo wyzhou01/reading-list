@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 13 Jun 2026 02:15:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 02:24:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1020,6 +1020,17 @@
       <itunes:duration>00:29:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260613/episode-20260613-6c2e87.mp3" length="28618797" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《人间词话》 · 完整版 · 人间词话 · 完整讲读</title>
+      <description>王国维《人间词话》六十四则，是中国古典美学的现代分水岭。本书以“境界”为核心标尺，串起“造境与写境”“有我与无我”的两块基石；以一“闹”一“弄”示范境界的标尺；以“三种境界”打通治学与人生；以李煜的“神秀”、李白的“气象”、李清照的“真”，重排词坛品第；以“真”“简”二字封顶中国美学的根本。它用西方现代美学之眼，悄悄完成了中国审美的一次现代转型：把词从“文以载道”的旧框架里拽出来，还原为一种独立的抒情文体。读懂《人间词话》，就是拿到一把重新丈量中国古典审美精神的尺。</description>
+      <pubDate>Sat, 13 Jun 2026 02:24:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260613-episode-20260613-ebc1fa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>王国维《人间词话》六十四则，是中国古典美学的现代分水岭。本书以“境界”为核心标尺，串起“造境与写境”“有我与无我”的两块基石；以一“闹”一“弄”示范境界的标尺；以“三种境界”打通治学与人生；以李煜的“神秀”、李白的“气象”、李清照的“真”，重排词坛品第；以“真”“简”二字封顶中国美学的根本。它用西方现代美学之眼，悄悄完成了中国审美的一次现代转型：把词从“文以载道”的旧框架里拽出来，还原为一种独立的抒情文体。读懂《人间词话》，就是拿到一把重新丈量中国古典审美精神的尺。</itunes:summary>
+      <itunes:duration>00:46:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260613/episode-20260613-ebc1fa.mp3" length="44712237" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
