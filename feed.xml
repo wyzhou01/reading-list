@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 13 Jun 2026 01:44:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 01:48:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -954,6 +954,17 @@
       <itunes:duration>00:25:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260613/episode-20260613-e891d0.mp3" length="24057645" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《被讨厌的勇气》 · 完整版 · 被讨厌的勇气 · 完整讲读</title>
+      <description>《被讨厌的勇气》以青年与哲人的对话，呈现阿德勒心理学的核心主张：你的不幸，不是谁造成的，而是你自己“选择“的。人不是被过去决定，而是被当下的目的牵引；一切烦恼源于人际关系，而解决之道是课题分离；自由不是谁都不在乎，而是拥有被讨厌的勇气；共同体感觉是人际关系的终极方向；人生不是通往某处的线，而是一连串的刹那。读完这本书，你会拿到五把钥匙：从过去的解释里走出来，从别人的期待里走出来，从比较的坐标里走出来，从害怕被讨厌的恐惧里走出来，从“以后再说“的拖延里走出来。愿你拥有被讨厌的勇气，也拥有归属的踏实。</description>
+      <pubDate>Sat, 13 Jun 2026 01:48:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260613-episode-20260613-829960</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《被讨厌的勇气》以青年与哲人的对话，呈现阿德勒心理学的核心主张：你的不幸，不是谁造成的，而是你自己“选择“的。人不是被过去决定，而是被当下的目的牵引；一切烦恼源于人际关系，而解决之道是课题分离；自由不是谁都不在乎，而是拥有被讨厌的勇气；共同体感觉是人际关系的终极方向；人生不是通往某处的线，而是一连串的刹那。读完这本书，你会拿到五把钥匙：从过去的解释里走出来，从别人的期待里走出来，从比较的坐标里走出来，从害怕被讨厌的恐惧里走出来，从“以后再说“的拖延里走出来。愿你拥有被讨厌的勇气，也拥有归属的踏实。</itunes:summary>
+      <itunes:duration>00:29:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260613/episode-20260613-829960.mp3" length="28245165" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
