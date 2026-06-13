@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 12 Jun 2026 16:57:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 01:44:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -932,6 +932,17 @@
       <itunes:duration>00:28:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260613/episode-20260613-a3c4c2.mp3" length="27027501" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《当下的力量（珍藏版）》 · 完整版 · 当下的力量（珍藏版）_-_（德国）埃克哈特•托利 · 完整讲读</title>
+      <description>《当下的力量》是德国心灵导师埃克哈特·托利的代表作，自一九九七年出版以来，长期占据《纽约时报》心灵类畅销榜首位，全球销量达数千万册。托利在书中指出，人类绝大多数痛苦的根源，并非外界发生的事件，而是大脑永不停歇的强迫性思维，它制造出一个虚假的&quot;小我&quot;，并喂养一个被称为&quot;痛苦之身&quot;的负面情绪能量场。全书的核心主张，是邀请读者从思维的认同中抽离出来，进入一种被称为&quot;临在&quot;的状态——一种对当下时刻全然有意识的觉察。托利通过&quot;本体&quot;、&quot;臣服&quot;、&quot;未显化状态&quot;等概念，层层揭示痛苦的机制，并提供具体的练习方法：从观察念头的升起，到感受内在身体，到在爱情关系中照见彼此的无意识。最终的落脚点十分朴素：你从未真正失去过什么，你只是忘记了，你一直拥有当下这一刻。</description>
+      <pubDate>Sat, 13 Jun 2026 01:44:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260613-episode-20260613-57c5e3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《当下的力量》是德国心灵导师埃克哈特·托利的代表作，自一九九七年出版以来，长期占据《纽约时报》心灵类畅销榜首位，全球销量达数千万册。托利在书中指出，人类绝大多数痛苦的根源，并非外界发生的事件，而是大脑永不停歇的强迫性思维，它制造出一个虚假的&quot;小我&quot;，并喂养一个被称为&quot;痛苦之身&quot;的负面情绪能量场。全书的核心主张，是邀请读者从思维的认同中抽离出来，进入一种被称为&quot;临在&quot;的状态——一种对当下时刻全然有意识的觉察。托利通过&quot;本体&quot;、&quot;臣服&quot;、&quot;未显化状态&quot;等概念，层层揭示痛苦的机制，并提供具体的练习方法：从观察念头的升起，到感受内在身体，到在爱情关系中照见彼此的无意识。最终的落脚点十分朴素：你从未真正失去过什么，你只是忘记了，你一直拥有当下这一刻。</itunes:summary>
+      <itunes:duration>00:25:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260613/episode-20260613-57c5e3.mp3" length="24847149" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
