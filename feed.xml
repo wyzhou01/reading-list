@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 13 Jun 2026 02:40:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 02:49:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1064,6 +1064,17 @@
       <itunes:duration>00:34:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260613/episode-20260613-6836b4.mp3" length="32833197" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《老人与海（译文名著精选）》 · 完整版 · 老人与海译文名著精选 · 完整讲读</title>
+      <description>《老人与海》是海明威一九五一年在古巴八周写就的中篇小说，也是他荣获一九五四年诺贝尔文学奖的代表作。小说讲述古巴老渔夫圣地亚哥连续八十四天一无所获后，独自出海钓上一条巨大马林鱼，经过三天搏斗将其杀死，却在归程中屡遭鲨鱼袭击，最终只带回一副鱼骨的故事。海明威以极简笔法在五万字内织入五层隐喻：英雄主义的赞歌、希腊古典悲剧的必然、基督受难的双重意象、作家创作论的自我反思，以及以狮子象征的对创作远见的永恒守护。“一个人可以被毁灭，但不能被打败”已成二十世纪文学最硬的宣言。一百年过去，这本薄薄的书依然是写给所有第八十五次出海者的尊严教科书。</description>
+      <pubDate>Sat, 13 Jun 2026 02:48:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260613-episode-20260613-f357b5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《老人与海》是海明威一九五一年在古巴八周写就的中篇小说，也是他荣获一九五四年诺贝尔文学奖的代表作。小说讲述古巴老渔夫圣地亚哥连续八十四天一无所获后，独自出海钓上一条巨大马林鱼，经过三天搏斗将其杀死，却在归程中屡遭鲨鱼袭击，最终只带回一副鱼骨的故事。海明威以极简笔法在五万字内织入五层隐喻：英雄主义的赞歌、希腊古典悲剧的必然、基督受难的双重意象、作家创作论的自我反思，以及以狮子象征的对创作远见的永恒守护。“一个人可以被毁灭，但不能被打败”已成二十世纪文学最硬的宣言。一百年过去，这本薄薄的书依然是写给所有第八十五次出海者的尊严教科书。</itunes:summary>
+      <itunes:duration>00:25:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260613/episode-20260613-f357b5.mp3" length="24854829" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
