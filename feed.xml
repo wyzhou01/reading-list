@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 13 Jun 2026 16:45:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 16:51:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1108,6 +1108,17 @@
       <itunes:duration>00:27:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-4d1a13.mp3" length="26779437" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一个叫欧维的男人决定去死》 · 完整版 · 一个叫欧维的男人决定去死 · 完整讲读</title>
+      <description>《一个叫欧维的男人决定去死》是瑞典作家弗雷德里克·巴克曼的代表作。五十九岁的欧维是个刻板、脾气古怪的退休工人，在妻子索雅去世、被公司劝退后决定自杀。然而一次次不请自来的邻居——一个怀孕的伊朗女人、一只会甩脸的猫、一个同性恋男孩——一次次打断他的计划，把他从死亡边缘拉回人间。小说用一个倔老头一次又一次被打断的自杀，写出了什么叫真正的爱与忠诚，什么叫“被需要”才是活着的理由。它让我们重新打量身边那些嘴硬心软的老人，也重新打量自己心里那扇关着的门。</description>
+      <pubDate>Sat, 13 Jun 2026 16:50:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260614-episode-20260614-8337ff</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一个叫欧维的男人决定去死》是瑞典作家弗雷德里克·巴克曼的代表作。五十九岁的欧维是个刻板、脾气古怪的退休工人，在妻子索雅去世、被公司劝退后决定自杀。然而一次次不请自来的邻居——一个怀孕的伊朗女人、一只会甩脸的猫、一个同性恋男孩——一次次打断他的计划，把他从死亡边缘拉回人间。小说用一个倔老头一次又一次被打断的自杀，写出了什么叫真正的爱与忠诚，什么叫“被需要”才是活着的理由。它让我们重新打量身边那些嘴硬心软的老人，也重新打量自己心里那扇关着的门。</itunes:summary>
+      <itunes:duration>00:30:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-8337ff.mp3" length="29423277" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
