@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 13 Jun 2026 01:48:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 01:55:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -965,6 +965,17 @@
       <itunes:duration>00:29:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260613/episode-20260613-829960.mp3" length="28245165" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我们仨》 · 完整版 · 我们仨 · 完整讲读</title>
+      <description>《我们仨》是杨绛在九十二岁高龄写下的家庭回忆录，记录她与丈夫钱锺书、女儿钱瑗六十多年相依为命的岁月。从牛津留学、巴黎游学，到归国任教、文革下放，再到三里河安居，一家人历经时代变迁，始终彼此懂得、彼此成全。一九九七年女儿钱瑗因病去世，一九九八年末钱锺书也相继离世，杨绛以“万里长梦”的笔法，用古驿道、客栈、船的意象，写出一家三口“失散”的过程。她不写血泪控诉，只写吃饭、散步、读书、拌嘴的日常，写“世间好物不坚牢，彩云易散琉璃脆”的无常。全书六个核心拼图：家是懂得，失散是驿道，归途是记忆，相濡是底色，客栈是觉悟，珍惜是彩云散前的凝望。这是一代知识分子留给后世的精神遗嘱，也是一本让人读完更想好好珍惜眼前人的“家庭之书”。</description>
+      <pubDate>Sat, 13 Jun 2026 01:54:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260613-episode-20260613-008cb4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我们仨》是杨绛在九十二岁高龄写下的家庭回忆录，记录她与丈夫钱锺书、女儿钱瑗六十多年相依为命的岁月。从牛津留学、巴黎游学，到归国任教、文革下放，再到三里河安居，一家人历经时代变迁，始终彼此懂得、彼此成全。一九九七年女儿钱瑗因病去世，一九九八年末钱锺书也相继离世，杨绛以“万里长梦”的笔法，用古驿道、客栈、船的意象，写出一家三口“失散”的过程。她不写血泪控诉，只写吃饭、散步、读书、拌嘴的日常，写“世间好物不坚牢，彩云易散琉璃脆”的无常。全书六个核心拼图：家是懂得，失散是驿道，归途是记忆，相濡是底色，客栈是觉悟，珍惜是彩云散前的凝望。这是一代知识分子留给后世的精神遗嘱，也是一本让人读完更想好好珍惜眼前人的“家庭之书”。</itunes:summary>
+      <itunes:duration>00:24:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260613/episode-20260613-008cb4.mp3" length="23582253" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
