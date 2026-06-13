@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 13 Jun 2026 16:51:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 16:59:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1119,6 +1119,17 @@
       <itunes:duration>00:30:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-8337ff.mp3" length="29423277" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《也许你该找个人聊聊》 · 完整版 · 也许你该找个人聊聊 · 完整讲读</title>
+      <description>《也许你该找个人聊聊》是洛杉矶心理咨询师洛莉·戈特利布的第一人称回忆录。书中她接待了傲慢的约翰、濒死的朱莉、追求完美的夏洛特、困在过去里的瑞塔，同时自己也因男友突然提出分手而崩溃，坐到另一位治疗师温德尔的沙发上。洛莉撕掉了&quot;治疗师是神&quot;的幻觉，承认自己也会脆弱、也会求救。书的核心答案：痛苦无法被消除，只能被承认；而讲述本身，就是改变的起点。承认痛苦，是起点；进入关系，是过程；认识自己，是过程；照见困局，是过程；承认治疗师也是凡人，是底线。</description>
+      <pubDate>Sat, 13 Jun 2026 16:58:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260614-episode-20260614-1d84c7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《也许你该找个人聊聊》是洛杉矶心理咨询师洛莉·戈特利布的第一人称回忆录。书中她接待了傲慢的约翰、濒死的朱莉、追求完美的夏洛特、困在过去里的瑞塔，同时自己也因男友突然提出分手而崩溃，坐到另一位治疗师温德尔的沙发上。洛莉撕掉了&quot;治疗师是神&quot;的幻觉，承认自己也会脆弱、也会求救。书的核心答案：痛苦无法被消除，只能被承认；而讲述本身，就是改变的起点。承认痛苦，是起点；进入关系，是过程；认识自己，是过程；照见困局，是过程；承认治疗师也是凡人，是底线。</itunes:summary>
+      <itunes:duration>00:28:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-1d84c7.mp3" length="27345069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
