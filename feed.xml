@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 13 Jun 2026 02:32:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 02:40:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1053,6 +1053,17 @@
       <itunes:duration>00:23:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260613/episode-20260613-3cc782.mp3" length="22623021" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《灿烂千阳》 · 完整版 · 灿烂千阳 · 完整讲读</title>
+      <description>《灿烂千阳》是卡勒德·胡赛尼继《追风筝的人》之后的第二部长篇小说,讲述两个阿富汗女性玛丽雅姆与莱拉,在三十年战乱、塔利班暴政与家暴的夹缝中,从互相敌视到生死相依的故事。小说以一首十七世纪的波斯诗为线索,把每一位被时代碾过的普通女性,比作埋在墙壁之后的一千个灿烂的太阳——她们没有胜利,只是被看见、被记住。</description>
+      <pubDate>Sat, 13 Jun 2026 02:39:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260613-episode-20260613-6836b4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《灿烂千阳》是卡勒德·胡赛尼继《追风筝的人》之后的第二部长篇小说,讲述两个阿富汗女性玛丽雅姆与莱拉,在三十年战乱、塔利班暴政与家暴的夹缝中,从互相敌视到生死相依的故事。小说以一首十七世纪的波斯诗为线索,把每一位被时代碾过的普通女性,比作埋在墙壁之后的一千个灿烂的太阳——她们没有胜利,只是被看见、被记住。</itunes:summary>
+      <itunes:duration>00:34:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260613/episode-20260613-6836b4.mp3" length="32833197" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
