@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 13 Jun 2026 02:49:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 02:51:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1075,6 +1075,17 @@
       <itunes:duration>00:25:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260613/episode-20260613-f357b5.mp3" length="24854829" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《嫌疑人X的献身》 · 完整版 · 嫌疑人X的献身 · 完整讲读</title>
+      <description>《嫌疑人X的献身》是东野圭吾的巅峰之作，讲述了数学天才石神哲哉为拯救暗恋对象花冈靖子母女，杀死一名无辜流浪汉、伪装成富樫慎二的尸体，并让靖子去自首的极致献身。物理天才汤川学识破真相后告知靖子，靖子无法接受&quot;用别人命换来的安宁&quot;，跪在看守所前崩溃忏悔。石神精心构筑的完美方程彻底崩塌，留下的不仅是一场悬案，更是一道关于爱、孤独与道德灰度的永恒难题——自以为是的拯救为何反而摧毁被拯救者？这个故事告诉我们：爱从来不是一个人的献身，而是两个人一起站在真相面前，握住彼此的手。</description>
+      <pubDate>Sat, 13 Jun 2026 02:50:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260613-episode-20260613-67c869</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《嫌疑人X的献身》是东野圭吾的巅峰之作，讲述了数学天才石神哲哉为拯救暗恋对象花冈靖子母女，杀死一名无辜流浪汉、伪装成富樫慎二的尸体，并让靖子去自首的极致献身。物理天才汤川学识破真相后告知靖子，靖子无法接受&quot;用别人命换来的安宁&quot;，跪在看守所前崩溃忏悔。石神精心构筑的完美方程彻底崩塌，留下的不仅是一场悬案，更是一道关于爱、孤独与道德灰度的永恒难题——自以为是的拯救为何反而摧毁被拯救者？这个故事告诉我们：爱从来不是一个人的献身，而是两个人一起站在真相面前，握住彼此的手。</itunes:summary>
+      <itunes:duration>00:26:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260613/episode-20260613-67c869.mp3" length="25038765" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
