@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 17:04:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 17:11:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1625,6 +1625,17 @@
       <itunes:duration>00:28:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-dea966.mp3" length="26916909" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《晚熟的人》 · 完整版 · 莫言-晚熟的人 · 完整讲读</title>
+      <description>《晚熟的人》是莫言获诺贝尔文学奖后首部结集作品，收录十二篇短篇与中篇小说。从《左镰》里那个用左手挥镰刀、右手被父亲剁掉的少年，到《火把与口哨》里替孩子烧狼窝的母亲，再到《红唇绿嘴》里卖假药给当年仇人的女人，莫言用最贴地的小故事，写出中国乡村过去半个世纪最深的病理——每一个受过伤的人，都在用自己的方式把伤口传给下一代。早熟的人忙着收割，晚熟的人忙着认罪，这是莫言给中国乡村开出的一张迟到药方。</description>
+      <pubDate>Sun, 14 Jun 2026 17:11:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-25b1a5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《晚熟的人》是莫言获诺贝尔文学奖后首部结集作品，收录十二篇短篇与中篇小说。从《左镰》里那个用左手挥镰刀、右手被父亲剁掉的少年，到《火把与口哨》里替孩子烧狼窝的母亲，再到《红唇绿嘴》里卖假药给当年仇人的女人，莫言用最贴地的小故事，写出中国乡村过去半个世纪最深的病理——每一个受过伤的人，都在用自己的方式把伤口传给下一代。早熟的人忙着收割，晚熟的人忙着认罪，这是莫言给中国乡村开出的一张迟到药方。</itunes:summary>
+      <itunes:duration>00:43:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-25b1a5.mp3" length="41699757" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
