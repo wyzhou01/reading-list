@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 17:11:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 17:12:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1636,6 +1636,17 @@
       <itunes:duration>00:43:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-25b1a5.mp3" length="41699757" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《长日将尽》 · 完整版 · 长日将尽 · 完整讲读</title>
+      <description>《长日将尽》是石黑一雄一九八九年布克奖获奖作品。小说借英国老管家史蒂文斯一九五六年夏六天的西行旅程，串起他三十年的回忆。史蒂文斯一生押注在“伟大管家”的职业尊严上，压抑亲情、错过爱人肯顿小姐，更服务于同情纳粹的达林顿勋爵，间接成了历史罪人的帮凶。石黑一雄以克制、怀旧的笔调，揭示现代人最深的困境：用忙碌回避爱，用专业回避判断，用服务回避自我。书名本身即是一记警钟：长日终有将尽时，押错注的人，连告别的力气都所剩无几。</description>
+      <pubDate>Sun, 14 Jun 2026 17:11:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-a7ee1f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《长日将尽》是石黑一雄一九八九年布克奖获奖作品。小说借英国老管家史蒂文斯一九五六年夏六天的西行旅程，串起他三十年的回忆。史蒂文斯一生押注在“伟大管家”的职业尊严上，压抑亲情、错过爱人肯顿小姐，更服务于同情纳粹的达林顿勋爵，间接成了历史罪人的帮凶。石黑一雄以克制、怀旧的笔调，揭示现代人最深的困境：用忙碌回避爱，用专业回避判断，用服务回避自我。书名本身即是一记警钟：长日终有将尽时，押错注的人，连告别的力气都所剩无几。</itunes:summary>
+      <itunes:duration>00:38:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-a7ee1f.mp3" length="37214637" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
