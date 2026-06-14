@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 15:53:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 15:57:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1350,6 +1350,17 @@
       <itunes:duration>00:25:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-e49316.mp3" length="24262701" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《可是你真的真的很可爱》 · 完整版 · 可是你真的真的很可爱 · 完整讲读</title>
+      <description>《可是你真的真的很可爱》是漫画作者相生栗子的早期作品集，用极简的四格与六格漫画，把加班、独居、考试、养猫、吃辣这些当代年轻人日常里“不好意思说出口“的小狼狈，一块一块递到你手里。她不教你成功，也不催你振作，只蹲下来陪你承认：你会摔跤、会委屈、会半夜躲在被子里偷偷哭——然后用极轻的语气告诉你，没关系，你已经很努力了，你真的很可爱。全书六块拼图：成长是和来不及告别的人挥手，孤独是学着用猫的冷淡保护自己又偷偷羡慕狗的忠诚，生活靠那些“不值一提的小小成就“撑下去，脆弱是被子结界里那个不必坚强的自己，误解是意识到每个人都有自己的坐标系，而最后一块——是允许自己在无数个“又“里，一点一点重新喜欢上自己。</description>
+      <pubDate>Sun, 14 Jun 2026 15:57:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260614-episode-20260614-75d953</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《可是你真的真的很可爱》是漫画作者相生栗子的早期作品集，用极简的四格与六格漫画，把加班、独居、考试、养猫、吃辣这些当代年轻人日常里“不好意思说出口“的小狼狈，一块一块递到你手里。她不教你成功，也不催你振作，只蹲下来陪你承认：你会摔跤、会委屈、会半夜躲在被子里偷偷哭——然后用极轻的语气告诉你，没关系，你已经很努力了，你真的很可爱。全书六块拼图：成长是和来不及告别的人挥手，孤独是学着用猫的冷淡保护自己又偷偷羡慕狗的忠诚，生活靠那些“不值一提的小小成就“撑下去，脆弱是被子结界里那个不必坚强的自己，误解是意识到每个人都有自己的坐标系，而最后一块——是允许自己在无数个“又“里，一点一点重新喜欢上自己。</itunes:summary>
+      <itunes:duration>00:24:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-75d953.mp3" length="23878317" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
