@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 04:50:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 04:51:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1229,6 +1229,17 @@
       <itunes:duration>00:26:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-6f1e42.mp3" length="25198125" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大秦帝国：全新插图珍藏版》 · 完整版 · 大秦帝国：全新插图珍藏版 · 完整讲读</title>
+      <description>《大秦帝国》是孙皓晖先生历时十六年写就的六卷本长篇历史小说，再现了从商鞅变法到秦帝国崩塌的五百多年历程。书中以法家精神为主线，讲述了秦从一个西北边陲的养马穷邦，如何通过变法锻造出战国最强的国家机器，又如何用郡县制、书同文、车同轨、行同伦这套组合拳，第一次把黄河两岸到长江之滨的土地整合成一个文明体。秦这个朝代只活了十五年，却给中国留下了统一的国家制度、统一的文字、统一的度量衡，以及至今仍在塑造我们思维方式的统一基因。这套书不仅是一段荡气回肠的历史故事，更是一次对中国文明正源的强势重估——它要回答的核心问题是：我们对秦的认知，是不是被两千年来的偏见严重扭曲了？</description>
+      <pubDate>Sun, 14 Jun 2026 04:51:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260614-episode-20260614-edab9b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大秦帝国》是孙皓晖先生历时十六年写就的六卷本长篇历史小说，再现了从商鞅变法到秦帝国崩塌的五百多年历程。书中以法家精神为主线，讲述了秦从一个西北边陲的养马穷邦，如何通过变法锻造出战国最强的国家机器，又如何用郡县制、书同文、车同轨、行同伦这套组合拳，第一次把黄河两岸到长江之滨的土地整合成一个文明体。秦这个朝代只活了十五年，却给中国留下了统一的国家制度、统一的文字、统一的度量衡，以及至今仍在塑造我们思维方式的统一基因。这套书不仅是一段荡气回肠的历史故事，更是一次对中国文明正源的强势重估——它要回答的核心问题是：我们对秦的认知，是不是被两千年来的偏见严重扭曲了？</itunes:summary>
+      <itunes:duration>00:31:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-edab9b.mp3" length="29794221" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
