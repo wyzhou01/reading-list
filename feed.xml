@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 02:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 02:50:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1152,6 +1152,17 @@
       <itunes:duration>00:24:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-c7e76c.mp3" length="23584173" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《福尔摩斯探案全集》 · 完整版 · 福尔摩斯探案全集 · 完整讲读</title>
+      <description>《福尔摩斯探案全集》是英国作家柯南·道尔于一八八六年至一九二七年创作的侦探小说合集，由九卷六十多个长短篇故事组成。本期节目以原著《血字的研究》《四签名》《巴斯克维尔的猎犬》《最后一案》等篇章为抓手，从方法论革命、时代手术刀、作家宿命、罪与罚的再分配、科学的限度、孤独的天才六个维度，重新拆解这位维多利亚时代的大侦探，戳破后世读者只把他当作“理性符号”的扁平化解读，呈现这位有温度的科学家如何把精度用在破案、把弹性用在断案，同时回顾他与莫里亚蒂同归于尽、又因读者抗议死而复生的文学史插曲，为现代读者留下两条今天就能用的小行动：先看自己决策里漏掉的因果，再帮朋友理清情绪背后看不见的那一半。</description>
+      <pubDate>Sun, 14 Jun 2026 02:50:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260614-episode-20260614-31dcd4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《福尔摩斯探案全集》是英国作家柯南·道尔于一八八六年至一九二七年创作的侦探小说合集，由九卷六十多个长短篇故事组成。本期节目以原著《血字的研究》《四签名》《巴斯克维尔的猎犬》《最后一案》等篇章为抓手，从方法论革命、时代手术刀、作家宿命、罪与罚的再分配、科学的限度、孤独的天才六个维度，重新拆解这位维多利亚时代的大侦探，戳破后世读者只把他当作“理性符号”的扁平化解读，呈现这位有温度的科学家如何把精度用在破案、把弹性用在断案，同时回顾他与莫里亚蒂同归于尽、又因读者抗议死而复生的文学史插曲，为现代读者留下两条今天就能用的小行动：先看自己决策里漏掉的因果，再帮朋友理清情绪背后看不见的那一半。</itunes:summary>
+      <itunes:duration>00:30:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-31dcd4.mp3" length="29334189" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
