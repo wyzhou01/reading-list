@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 05:03:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 05:06:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1284,6 +1284,17 @@
       <itunes:duration>00:25:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-37c9b0.mp3" length="24069165" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《叫魂：1768年中国妖术大恐慌》 · 完整版 · 叫魂：1768年中国妖术大恐慌（修订版） · 完整讲读</title>
+      <description>一七六八年的春天，浙江德清县一座石桥的开工，引发了一场席卷大清十二省的妖术大恐慌。孔飞力以“叫魂”案为切口，写透了盛世表象下的三重暗流：人口爆炸与物价飞涨制造了无数流离失所的底层人；皇权与官僚之间“专制权力”与“常规权力”的暗中角力，让每一次危机都成为政治博弈的舞台；而底层社会压抑已久的敌意与焦虑，则借妖术谣言完成了一次情绪总爆发。最终，乾隆帝用“悄悄收场、甩锅地方官”的方式，让这场大恐慌无声无息地终结。读懂《叫魂》，也就读懂了任何庞大帝国都可能面对的难题：当盛世叙事掩盖了底层苦难，一则荒诞的谣言就足以撕裂整个社会。</description>
+      <pubDate>Sun, 14 Jun 2026 05:06:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260614-episode-20260614-455724</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一七六八年的春天，浙江德清县一座石桥的开工，引发了一场席卷大清十二省的妖术大恐慌。孔飞力以“叫魂”案为切口，写透了盛世表象下的三重暗流：人口爆炸与物价飞涨制造了无数流离失所的底层人；皇权与官僚之间“专制权力”与“常规权力”的暗中角力，让每一次危机都成为政治博弈的舞台；而底层社会压抑已久的敌意与焦虑，则借妖术谣言完成了一次情绪总爆发。最终，乾隆帝用“悄悄收场、甩锅地方官”的方式，让这场大恐慌无声无息地终结。读懂《叫魂》，也就读懂了任何庞大帝国都可能面对的难题：当盛世叙事掩盖了底层苦难，一则荒诞的谣言就足以撕裂整个社会。</itunes:summary>
+      <itunes:duration>00:26:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-455724.mp3" length="25735725" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
