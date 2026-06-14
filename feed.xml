@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 17:12:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 17:13:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1647,6 +1647,17 @@
       <itunes:duration>00:38:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-a7ee1f.mp3" length="37214637" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《多情剑客无情剑》 · 完整版 · 多情剑客无情剑 · 完整讲读</title>
+      <description>《多情剑客无情剑》是古龙一九七零年代的巅峰代表作。一句病弱的探花郎李寻欢，怀揣小刀，雕刻亡人画像埋于雪中，重返江湖。他用极致深情成全朋友龙啸云，却反被恩将仇报；他与孤狼般的少年阿飞在风雪中相遇，结下生死之交；最后他遇到孙小红，学会了不再用&quot;牺牲&quot;来逃避被爱。全书以小李飞刀对决上官金虹的金钱帮为高潮，表面写江湖仇杀，内里写人性、孤独、友情与放下的永恒叩问。它告诉我们：最深情的人不必活成孤岛，最深的多情，是允许自己被救。</description>
+      <pubDate>Sun, 14 Jun 2026 17:13:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-2cf1ed</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《多情剑客无情剑》是古龙一九七零年代的巅峰代表作。一句病弱的探花郎李寻欢，怀揣小刀，雕刻亡人画像埋于雪中，重返江湖。他用极致深情成全朋友龙啸云，却反被恩将仇报；他与孤狼般的少年阿飞在风雪中相遇，结下生死之交；最后他遇到孙小红，学会了不再用&quot;牺牲&quot;来逃避被爱。全书以小李飞刀对决上官金虹的金钱帮为高潮，表面写江湖仇杀，内里写人性、孤独、友情与放下的永恒叩问。它告诉我们：最深情的人不必活成孤岛，最深的多情，是允许自己被救。</itunes:summary>
+      <itunes:duration>00:32:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-2cf1ed.mp3" length="31439277" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
