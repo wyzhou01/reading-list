@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 05:07:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 05:10:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1317,6 +1317,17 @@
       <itunes:duration>00:25:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-ac9a9b.mp3" length="24069165" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《艺术的故事》 · 完整版 · 艺术的故事 · 完整讲读</title>
+      <description>《艺术的故事》是二十世纪最伟大的艺术史家贡布里希写给普通读者的入门经典，七十多年来畅销不衰。它用讲故事的方式，把西方艺术几千年的历程串成一条连续的主线：从洞窟的野牛，到埃及的永恒法老，到希腊人发现人体之美，到文艺复兴发明透视法，到印象派追逐光与色，再到毕加索把公鸡画成漫画。贡布里希反复强调一个核心判断——没有抽象的&quot;艺术&quot;，只有具体的艺术家；艺术史不是一部进步史，而是一部不断反叛前一代的实验史，每一次创新都是对&quot;真实&quot;的重新定义。他也提醒读者，东西方传统走的是两条不同的路——西方把&quot;创新&quot;视为第一动力，中国把&quot;传承&quot;视为第一动力，两者都创造了伟大价值。这本书最深的企图，是改变我们看东西的方式，让我们面对任何一件作品，都能读出它背后的时代、权力、技术与选择。</description>
+      <pubDate>Sun, 14 Jun 2026 05:10:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260614-episode-20260614-b1238c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《艺术的故事》是二十世纪最伟大的艺术史家贡布里希写给普通读者的入门经典，七十多年来畅销不衰。它用讲故事的方式，把西方艺术几千年的历程串成一条连续的主线：从洞窟的野牛，到埃及的永恒法老，到希腊人发现人体之美，到文艺复兴发明透视法，到印象派追逐光与色，再到毕加索把公鸡画成漫画。贡布里希反复强调一个核心判断——没有抽象的&quot;艺术&quot;，只有具体的艺术家；艺术史不是一部进步史，而是一部不断反叛前一代的实验史，每一次创新都是对&quot;真实&quot;的重新定义。他也提醒读者，东西方传统走的是两条不同的路——西方把&quot;创新&quot;视为第一动力，中国把&quot;传承&quot;视为第一动力，两者都创造了伟大价值。这本书最深的企图，是改变我们看东西的方式，让我们面对任何一件作品，都能读出它背后的时代、权力、技术与选择。</itunes:summary>
+      <itunes:duration>00:41:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-b1238c.mp3" length="39570093" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
