@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 16:44:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 16:46:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1537,6 +1537,17 @@
       <itunes:duration>00:36:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-5f7e6b.mp3" length="35396013" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《太年轻》 · 完整版 · 太年轻读客文化出品岛上书店作者加泽文杰作全美联合推荐华盛顿邮报年度小说科克斯书评年度小说 · 完整讲读</title>
+      <description>《太年轻》是加·泽文继《岛上书店》之后的转型之作。全书借五个女性的视角，重述一桩发生在二〇〇一年的政治实习生丑闻。二十岁的犹太女孩阿维娃，因与已婚国会议员的婚外情被曝光，被全美媒体钉上耻辱柱，从此改名换姓，以“简·扬”的身份在缅因州小镇从头开始。她做过婚庆师、教普拉提的教练，也重新成为了母亲和女儿。本书的核心追问只有一个：女性的一次错误，是否真的需要用余生来偿还？泽文给出的回答温柔而坚定——你做过的事会跟着你，但定义你的，不是它们。</description>
+      <pubDate>Sun, 14 Jun 2026 16:45:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-59d9e8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《太年轻》是加·泽文继《岛上书店》之后的转型之作。全书借五个女性的视角，重述一桩发生在二〇〇一年的政治实习生丑闻。二十岁的犹太女孩阿维娃，因与已婚国会议员的婚外情被曝光，被全美媒体钉上耻辱柱，从此改名换姓，以“简·扬”的身份在缅因州小镇从头开始。她做过婚庆师、教普拉提的教练，也重新成为了母亲和女儿。本书的核心追问只有一个：女性的一次错误，是否真的需要用余生来偿还？泽文给出的回答温柔而坚定——你做过的事会跟着你，但定义你的，不是它们。</itunes:summary>
+      <itunes:duration>00:30:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-59d9e8.mp3" length="28990125" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
