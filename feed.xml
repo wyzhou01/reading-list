@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 16:31:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 16:32:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1482,6 +1482,17 @@
       <itunes:duration>00:30:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-33307e.mp3" length="29430957" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《死了七次的男人》 · 完整版 · 死了七次的男人 · 完整讲读</title>
+      <description>《死了七次的男人》是西泽保彦最着迷的一次设定实验：高中生大庭久太郎拥有时间循环体质，每年会有某一天重复九次却只有他一人记得。元旦家族聚会上外公被杀死，他必须在九次循环中凭记忆反复试错，最终在第九次让凶手认罪。表面是时间循环加本格推理，骨子里讲的是：记忆既是最锋利的武器，也是最容易被利用的弱点；大家族的人情账，才是命案真正的发动机。这本书在三十年前就替我们问过——如果重复是一种天赋，你拿它来破案，还是拿来逃避自己？</description>
+      <pubDate>Sun, 14 Jun 2026 16:32:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-421324</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《死了七次的男人》是西泽保彦最着迷的一次设定实验：高中生大庭久太郎拥有时间循环体质，每年会有某一天重复九次却只有他一人记得。元旦家族聚会上外公被杀死，他必须在九次循环中凭记忆反复试错，最终在第九次让凶手认罪。表面是时间循环加本格推理，骨子里讲的是：记忆既是最锋利的武器，也是最容易被利用的弱点；大家族的人情账，才是命案真正的发动机。这本书在三十年前就替我们问过——如果重复是一种天赋，你拿它来破案，还是拿来逃避自己？</itunes:summary>
+      <itunes:duration>00:26:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-421324.mp3" length="25204653" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
