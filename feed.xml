@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 04:51:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 04:52:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1240,6 +1240,17 @@
       <itunes:duration>00:31:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-edab9b.mp3" length="29794221" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《债务危机》 · 完整版 · 债务危机 · 完整讲读</title>
+      <description>桥水基金创始人瑞·达利欧以全球宏观投资者视角，构建典型债务大周期模型，研究过去100年间48个债务危机案例，重点剖析2007—2011年美国大衰退、1928—1937年美国通缩性萧条、1918—1924年德国魏玛恶性通胀三大标志性案例，揭示债务周期如何运作、泡沫如何膨胀破裂、去杠杆化如何展开，以及决策者应如何妥善管理。</description>
+      <pubDate>Sun, 14 Jun 2026 04:51:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260614-episode-20260614-e1ea7f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>桥水基金创始人瑞·达利欧以全球宏观投资者视角，构建典型债务大周期模型，研究过去100年间48个债务危机案例，重点剖析2007—2011年美国大衰退、1928—1937年美国通缩性萧条、1918—1924年德国魏玛恶性通胀三大标志性案例，揭示债务周期如何运作、泡沫如何膨胀破裂、去杠杆化如何展开，以及决策者应如何妥善管理。</itunes:summary>
+      <itunes:duration>00:27:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-e1ea7f.mp3" length="26716845" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
