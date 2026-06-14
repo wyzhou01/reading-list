@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 05:10:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 15:52:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1328,6 +1328,17 @@
       <itunes:duration>00:41:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-b1238c.mp3" length="39570093" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《艾青诗选》 · 完整版 · 艾青诗选语文新课标必读丛书语文新课标必读丛书最新版 · 完整讲读</title>
+      <description>《艾青诗选》收录中国现当代诗人艾青从一九三零年代到一九七九年间的代表性诗作，由人民文学出版社出版，是语文新课标必读丛书最新版。诗人原名蒋正涵，一九一零年生于浙江金华，曾留学法国学习绘画，一九三三年在狱中写下奠定其诗坛地位的大堰河——我的保姆。本书以土地与太阳为意象主线，串起抗战岁月、延安时期与复出后的哲思，呈现散文美的自由诗体探索——画家的眼睛、拒绝控诉的承担、对民族苦难的深沉承担，使其成为中国新诗从五四走向成熟的关键诗人。一九五七年被错划为右派流放二十年后，艾青在复出作品中写下光的赞歌等代表作，以更凝练的笔触完成了一次诗歌与人格的归来。本书是读懂中国现当代诗歌与民族精神的必读文本。</description>
+      <pubDate>Sun, 14 Jun 2026 15:51:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260614-episode-20260614-b537b5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《艾青诗选》收录中国现当代诗人艾青从一九三零年代到一九七九年间的代表性诗作，由人民文学出版社出版，是语文新课标必读丛书最新版。诗人原名蒋正涵，一九一零年生于浙江金华，曾留学法国学习绘画，一九三三年在狱中写下奠定其诗坛地位的大堰河——我的保姆。本书以土地与太阳为意象主线，串起抗战岁月、延安时期与复出后的哲思，呈现散文美的自由诗体探索——画家的眼睛、拒绝控诉的承担、对民族苦难的深沉承担，使其成为中国新诗从五四走向成熟的关键诗人。一九五七年被错划为右派流放二十年后，艾青在复出作品中写下光的赞歌等代表作，以更凝练的笔触完成了一次诗歌与人格的归来。本书是读懂中国现当代诗歌与民族精神的必读文本。</itunes:summary>
+      <itunes:duration>00:12:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-b537b5.mp3" length="11933613" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
