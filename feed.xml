@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 17:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 17:04:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1614,6 +1614,17 @@
       <itunes:duration>00:27:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-213dfa.mp3" length="26351277" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《狮子之家的点心日》 · 完整版 · 狮子之家的点心日 · 完整讲读</title>
+      <description>《狮子之家的点心日》是日本作家小川糸写给所有&quot;还活着&quot;的人的一封温柔长信。三十多岁的女主角海野雫,在被告知余生所剩无几之后,选择独自搭乘客船,前往濑户内海一座叫柠檬岛的小岛,住进一家叫狮子之家的临终安养院。在那里,她与玛丹娜、志麻奶奶、小舞、M 先生、六花小狗等形形色色的人相遇,在每一周日下午的茶会上,通过一道道精心制作的点心,打开了彼此尘封多年的记忆——关于父亲、关于母亲、关于爱、关于那个我们以为理所当然、实则脆弱得像玻璃一样的词:明天。这本书不教人如何面对死亡,而是教人如何在知道终点之后,依然具体地、认真地、不偷懒地,继续活着。</description>
+      <pubDate>Sun, 14 Jun 2026 17:04:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-dea966</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《狮子之家的点心日》是日本作家小川糸写给所有&quot;还活着&quot;的人的一封温柔长信。三十多岁的女主角海野雫,在被告知余生所剩无几之后,选择独自搭乘客船,前往濑户内海一座叫柠檬岛的小岛,住进一家叫狮子之家的临终安养院。在那里,她与玛丹娜、志麻奶奶、小舞、M 先生、六花小狗等形形色色的人相遇,在每一周日下午的茶会上,通过一道道精心制作的点心,打开了彼此尘封多年的记忆——关于父亲、关于母亲、关于爱、关于那个我们以为理所当然、实则脆弱得像玻璃一样的词:明天。这本书不教人如何面对死亡,而是教人如何在知道终点之后,依然具体地、认真地、不偷懒地,继续活着。</itunes:summary>
+      <itunes:duration>00:28:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-dea966.mp3" length="26916909" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
