@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 16:56:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 16:59:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1592,6 +1592,17 @@
       <itunes:duration>00:26:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-22fd84.mp3" length="25673901" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《佐贺的超级阿嬷》 · 完整版 · 佐贺的超级阿嬷 · 完整讲读</title>
+      <description>一九五八年，八岁的德永昭广被母亲从背后「推」上开往佐贺的火车，寄养到五十八岁的外婆家。屋顶塌了一半，饭菜全靠门前河里漂来的烂菜叶子，外婆腰间绑着磁铁走路赚外快，把贫穷过成了段子。她用「穷有两种，穷得消沉和穷得开朗，我们家是穷得开朗」重塑了孙子的金钱观；用「真正的体贴是让人觉察不到的」教会他爱的最高境界；用「时钟反着走，人也不要老回顾过去」治愈了所有回望的执念。八年后昭广离开佐贺那天，外婆背对着他洗锅，轻声说了三个字。这本被日本读者称为「读一百遍都不会厌倦」的小书，用最轻的语言，讲了最重的人生哲学：幸福不是金钱左右的，而是取决于你的心态。</description>
+      <pubDate>Sun, 14 Jun 2026 16:59:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-7cd905</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九五八年，八岁的德永昭广被母亲从背后「推」上开往佐贺的火车，寄养到五十八岁的外婆家。屋顶塌了一半，饭菜全靠门前河里漂来的烂菜叶子，外婆腰间绑着磁铁走路赚外快，把贫穷过成了段子。她用「穷有两种，穷得消沉和穷得开朗，我们家是穷得开朗」重塑了孙子的金钱观；用「真正的体贴是让人觉察不到的」教会他爱的最高境界；用「时钟反着走，人也不要老回顾过去」治愈了所有回望的执念。八年后昭广离开佐贺那天，外婆背对着他洗锅，轻声说了三个字。这本被日本读者称为「读一百遍都不会厌倦」的小书，用最轻的语言，讲了最重的人生哲学：幸福不是金钱左右的，而是取决于你的心态。</itunes:summary>
+      <itunes:duration>00:39:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-7cd905.mp3" length="37606701" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
