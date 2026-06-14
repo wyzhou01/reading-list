@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 16:14:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 16:20:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1427,6 +1427,17 @@
       <itunes:duration>00:36:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-70cd99.mp3" length="34583469" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《价值：我对投资的思考》 · 完整版 · [价值：我对投资的思考]高瓴资本张磊 · 完整讲读</title>
+      <description>《价值——我对投资的思考》是高瓴资本创始人张磊亲笔撰写的长期主义投资宣言。全书围绕“把时间和信念投入长期价值创造”这一核心, 系统讲述了价值投资的第一性原理、研究驱动方法、动态护城河、三个投资哲学、与伟大格局观者同行、价值投资者的自我修养, 以及高瓴在生命科学、消费转型、智能时代等产业中的实战框架。书中既复盘了张磊从驻马店到耶鲁、再到创立高瓴的二十年投资实践, 也回应了新冠疫情下对长期主义的重新确认。它不仅是国内首本由顶级机构创始人撰写的系统性投资著作, 更是一本关于人生选择、信念坚守、组织建设的长期主义指南。</description>
+      <pubDate>Sun, 14 Jun 2026 16:20:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-03c9a8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《价值——我对投资的思考》是高瓴资本创始人张磊亲笔撰写的长期主义投资宣言。全书围绕“把时间和信念投入长期价值创造”这一核心, 系统讲述了价值投资的第一性原理、研究驱动方法、动态护城河、三个投资哲学、与伟大格局观者同行、价值投资者的自我修养, 以及高瓴在生命科学、消费转型、智能时代等产业中的实战框架。书中既复盘了张磊从驻马店到耶鲁、再到创立高瓴的二十年投资实践, 也回应了新冠疫情下对长期主义的重新确认。它不仅是国内首本由顶级机构创始人撰写的系统性投资著作, 更是一本关于人生选择、信念坚守、组织建设的长期主义指南。</itunes:summary>
+      <itunes:duration>00:43:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-03c9a8.mp3" length="41693997" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
