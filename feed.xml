@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 16:55:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 16:56:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1581,6 +1581,17 @@
       <itunes:duration>00:27:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-dc475a.mp3" length="26372781" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《梵高手稿》 · 完整版 · 梵高手稿 · 完整讲读</title>
+      <description>《梵高手稿》由美国艺术史学者 H. 安娜·苏精选梵高近八百封信，与同时期画作一一对照编排。本书不仅是一本画家的书信集，更是一封写给世界的长信。读者从中看到一个被误读为&quot;疯子&quot;的画家真实而炽热的内心：他与弟弟提奥之间近十年的沉默深情，他对米勒、德拉克洛瓦等大师传统的继承与颠覆，他从矿区传教士到现代艺术先驱的自我寻找，以及他在色彩里燃烧生命、在信纸上倾尽灵魂的伟大一生。他生前只卖出过一幅画，却把全部的自己，毫无保留地烧在纸上——没有留下遗产，只留下一团火。</description>
+      <pubDate>Sun, 14 Jun 2026 16:55:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-22fd84</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《梵高手稿》由美国艺术史学者 H. 安娜·苏精选梵高近八百封信，与同时期画作一一对照编排。本书不仅是一本画家的书信集，更是一封写给世界的长信。读者从中看到一个被误读为&quot;疯子&quot;的画家真实而炽热的内心：他与弟弟提奥之间近十年的沉默深情，他对米勒、德拉克洛瓦等大师传统的继承与颠覆，他从矿区传教士到现代艺术先驱的自我寻找，以及他在色彩里燃烧生命、在信纸上倾尽灵魂的伟大一生。他生前只卖出过一幅画，却把全部的自己，毫无保留地烧在纸上——没有留下遗产，只留下一团火。</itunes:summary>
+      <itunes:duration>00:26:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-22fd84.mp3" length="25673901" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
