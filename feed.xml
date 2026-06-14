@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 02:11:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 02:20:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1141,6 +1141,17 @@
       <itunes:duration>00:23:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-19f5cf.mp3" length="22225965" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《酒吧圣经调酒师宝典》 · 完整版 · 酒吧圣经调酒师宝典 · 完整讲读</title>
+      <description>《酒吧圣经调酒师宝典》是一本写给调酒师与酒吧从业者的百科全书，涵盖烈酒与葡萄酒基础、经典鸡尾酒演变、吧台设备、菜单设计、库存控制、服务礼仪与酒吧文化。书中强调平衡与工艺细节，拆解调酒师作为味觉建筑师的专业性，并指出待客之道是从观察到节奏再到收尾的一整套系统。书中还梳理了经典鸡尾酒的历史脉络与不同地域的酒吧文化差异。书中的核心方法论是三七法则，百分之三十引流款制造氛围，百分之七十利润款养活整家店，浪漫要装在杯子里，专业藏在每一毫升里。</description>
+      <pubDate>Sun, 14 Jun 2026 02:19:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260614-episode-20260614-c7e76c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《酒吧圣经调酒师宝典》是一本写给调酒师与酒吧从业者的百科全书，涵盖烈酒与葡萄酒基础、经典鸡尾酒演变、吧台设备、菜单设计、库存控制、服务礼仪与酒吧文化。书中强调平衡与工艺细节，拆解调酒师作为味觉建筑师的专业性，并指出待客之道是从观察到节奏再到收尾的一整套系统。书中还梳理了经典鸡尾酒的历史脉络与不同地域的酒吧文化差异。书中的核心方法论是三七法则，百分之三十引流款制造氛围，百分之七十利润款养活整家店，浪漫要装在杯子里，专业藏在每一毫升里。</itunes:summary>
+      <itunes:duration>00:24:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-c7e76c.mp3" length="23584173" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
