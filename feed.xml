@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 05:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 05:03:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1273,6 +1273,17 @@
       <itunes:duration>00:21:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-50fc8b.mp3" length="21031725" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《摄影笔记》 · 完整版 · 摄影笔记 · 完整讲读</title>
+      <description>《摄影笔记》是宁思潇潇写给摄影初学者的一本入门书，全书围绕两句话展开：好照片有三个标准——主题明确、主体突出、画面简洁；摄影技术有四个维度——取景、曝光、虚实、构图。所有零散的参数、口诀、构图法都被重新安放在这四个维度里，而技术本身，又全部服务于那三个标准。作者把学摄影拆成三本书：相机说明书几小时读完，《摄影笔记》一天读完，第三本“人生“要读一生，因为决定一张照片的从来不是技术，而是你能不能发现那个值得拍的瞬间。书中从数码相机的传感器与镜头讲起，一路走到焦距与取景、影调与曝光、光线特性、虚实控制、构图法则，并在最终章把所有技术训练收拢成一套可以在按下快门的瞬间自动跑完的流程。这本书的价值，不在于教你某个参数怎么调，而在于帮你把碎片化的知识组装成一套可操作的拍摄思维，让“主题“成为每一次按下快门之前最先想清楚的事。</description>
+      <pubDate>Sun, 14 Jun 2026 05:03:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260614-episode-20260614-37c9b0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《摄影笔记》是宁思潇潇写给摄影初学者的一本入门书，全书围绕两句话展开：好照片有三个标准——主题明确、主体突出、画面简洁；摄影技术有四个维度——取景、曝光、虚实、构图。所有零散的参数、口诀、构图法都被重新安放在这四个维度里，而技术本身，又全部服务于那三个标准。作者把学摄影拆成三本书：相机说明书几小时读完，《摄影笔记》一天读完，第三本“人生“要读一生，因为决定一张照片的从来不是技术，而是你能不能发现那个值得拍的瞬间。书中从数码相机的传感器与镜头讲起，一路走到焦距与取景、影调与曝光、光线特性、虚实控制、构图法则，并在最终章把所有技术训练收拢成一套可以在按下快门的瞬间自动跑完的流程。这本书的价值，不在于教你某个参数怎么调，而在于帮你把碎片化的知识组装成一套可操作的拍摄思维，让“主题“成为每一次按下快门之前最先想清楚的事。</itunes:summary>
+      <itunes:duration>00:25:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-37c9b0.mp3" length="24069165" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
