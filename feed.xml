@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 16:59:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 17:02:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1603,6 +1603,17 @@
       <itunes:duration>00:39:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-7cd905.mp3" length="37606701" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《赎罪》 · 完整版 · 赎罪新版麦克尤恩作品 · 完整讲读</title>
+      <description>《赎罪》是英国作家伊恩·麦克尤恩于二零零一年出版的代表作。一九三五年的夏天，十三岁的布里奥妮因为无知与嫉妒，指认罗比强奸了表姐罗拉。罗比因此入狱，与他深爱的塞西莉娅天各一方。二战爆发后，罗比死在敦刻尔克大撤退后的败血症，塞西莉娅死在伦敦的闪电战中。一九九九年，七十七岁的布里奥妮已经是一位享有盛誉的作家，她在生命的最后时刻，写下了第六稿——在虚构里，让两个有情人活了下来，让他们共度余生。全书借一个虚构的小说家之口，抛出了核心追问：在一个没有上帝的世界里，当一个人握有改写他人命运的权力，她该如何赎罪？</description>
+      <pubDate>Sun, 14 Jun 2026 17:02:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-213dfa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《赎罪》是英国作家伊恩·麦克尤恩于二零零一年出版的代表作。一九三五年的夏天，十三岁的布里奥妮因为无知与嫉妒，指认罗比强奸了表姐罗拉。罗比因此入狱，与他深爱的塞西莉娅天各一方。二战爆发后，罗比死在敦刻尔克大撤退后的败血症，塞西莉娅死在伦敦的闪电战中。一九九九年，七十七岁的布里奥妮已经是一位享有盛誉的作家，她在生命的最后时刻，写下了第六稿——在虚构里，让两个有情人活了下来，让他们共度余生。全书借一个虚构的小说家之口，抛出了核心追问：在一个没有上帝的世界里，当一个人握有改写他人命运的权力，她该如何赎罪？</itunes:summary>
+      <itunes:duration>00:27:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-213dfa.mp3" length="26351277" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
