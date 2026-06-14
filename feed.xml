@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 16:43:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 16:44:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1526,6 +1526,17 @@
       <itunes:duration>00:29:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-8d551e.mp3" length="28340781" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《Redis设计与实现》 · 完整版 · Redis设计与实现 · 完整讲读</title>
+      <description>《Redis设计与实现》是黄健宏用十一个月时间注释 Redis 3.0 源码后写成的系统著作。它从 SDS、链表、字典、跳跃表、压缩列表等最底层数据结构讲起，再到 redisObject 对象系统、编码转换与对象共享，然后深入单机数据库的键空间、过期策略、RDB 与 AOF 持久化、事件驱动模型，最后拆解主从复制、Sentinel 故障转移、集群的哈希槽与节点 gossip 协议，以及发布订阅、事务、Lua 脚本、慢查询日志等独立模块。这本书不仅是中文第一本系统性讲解 Redis 源码的专著，更是一把打开 Redis 内部运作的钥匙，让读者从会调用命令的人，真正变成懂 Redis 的人。</description>
+      <pubDate>Sun, 14 Jun 2026 16:44:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-5f7e6b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《Redis设计与实现》是黄健宏用十一个月时间注释 Redis 3.0 源码后写成的系统著作。它从 SDS、链表、字典、跳跃表、压缩列表等最底层数据结构讲起，再到 redisObject 对象系统、编码转换与对象共享，然后深入单机数据库的键空间、过期策略、RDB 与 AOF 持久化、事件驱动模型，最后拆解主从复制、Sentinel 故障转移、集群的哈希槽与节点 gossip 协议，以及发布订阅、事务、Lua 脚本、慢查询日志等独立模块。这本书不仅是中文第一本系统性讲解 Redis 源码的专著，更是一把打开 Redis 内部运作的钥匙，让读者从会调用命令的人，真正变成懂 Redis 的人。</itunes:summary>
+      <itunes:duration>00:36:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-5f7e6b.mp3" length="35396013" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
