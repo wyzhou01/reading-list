@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 16:02:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 16:10:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1383,6 +1383,17 @@
       <itunes:duration>00:29:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-aeace7.mp3" length="27890733" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《原则》 · 完整版 · 原则v1_1 · 完整讲读</title>
+      <description>《原则》是全球最大对冲基金桥水创始人瑞·达利欧用五十年人生写就的决策圣经。全书围绕五条底层逻辑展开：痛苦加反思等于进步，把错误变成进化的燃料；独立思考与认知谦逊，知道自己不知道什么，比知道多少更重要；原则即算法，把决策标准写下来、系统化、迭代优化；极度透明与可信度加权，用结构化的群体智慧取代权威与投票；理解现实并与之合作，而非对抗，让个人进化与组织进化共用同一套逻辑。本期拆解达利欧的人生历程、生活原则、工作原则三大板块，听完你会带走一套今天就能写下来、用起来的决策系统。</description>
+      <pubDate>Sun, 14 Jun 2026 16:10:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-2b9653</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《原则》是全球最大对冲基金桥水创始人瑞·达利欧用五十年人生写就的决策圣经。全书围绕五条底层逻辑展开：痛苦加反思等于进步，把错误变成进化的燃料；独立思考与认知谦逊，知道自己不知道什么，比知道多少更重要；原则即算法，把决策标准写下来、系统化、迭代优化；极度透明与可信度加权，用结构化的群体智慧取代权威与投票；理解现实并与之合作，而非对抗，让个人进化与组织进化共用同一套逻辑。本期拆解达利欧的人生历程、生活原则、工作原则三大板块，听完你会带走一套今天就能写下来、用起来的决策系统。</itunes:summary>
+      <itunes:duration>00:23:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-2b9653.mp3" length="22515117" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
