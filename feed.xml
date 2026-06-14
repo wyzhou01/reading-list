@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 04:52:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 04:55:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1251,6 +1251,17 @@
       <itunes:duration>00:27:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-e1ea7f.mp3" length="26716845" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《最新版上下五千年》 · 完整版 · 最新版上下五千年 · 完整讲读</title>
+      <description>《最新版上下五千年》是林汉达、曹余章先生跨越近半个世纪打磨的中国通史启蒙读物，全书三百七十二个故事，从盘古开天地讲起，直到开国大典。本期节目用前六块拼图，复盘了中华文明的“出厂设置”：神话与考古并存的提问精神，神农尝百草的试错力量，涿鹿大战的融合基因，尧舜禅位的制度诞生，大禹治水的组织崛起，以及夏商周三代的王朝宿命。五千年的循环，读懂了过去，才能看懂现在；看懂了现在，才能选择未来。</description>
+      <pubDate>Sun, 14 Jun 2026 04:55:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260614-episode-20260614-db3115</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《最新版上下五千年》是林汉达、曹余章先生跨越近半个世纪打磨的中国通史启蒙读物，全书三百七十二个故事，从盘古开天地讲起，直到开国大典。本期节目用前六块拼图，复盘了中华文明的“出厂设置”：神话与考古并存的提问精神，神农尝百草的试错力量，涿鹿大战的融合基因，尧舜禅位的制度诞生，大禹治水的组织崛起，以及夏商周三代的王朝宿命。五千年的循环，读懂了过去，才能看懂现在；看懂了现在，才能选择未来。</itunes:summary>
+      <itunes:duration>00:27:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-db3115.mp3" length="26763693" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
