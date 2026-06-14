@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 02:50:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 04:37:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1163,6 +1163,17 @@
       <itunes:duration>00:30:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-31dcd4.mp3" length="29334189" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《富爸爸点石成金》 · 完整版 · 富爸爸全集 · 完整讲读</title>
+      <description>本期《好好读书》为你完整讲读罗伯特·清崎与唐纳德·特朗普合著的《富爸爸全集》。两位作者年过花甲，把几十年的成败得失，浓缩成一套金手指模型：坚毅让你不倒下，专注让你不漂移，品牌让你被看见，合作让你走得远，小事让你活得久。五根手指，单独拿出来都有用，但只有握成拳，才能点石成金。书中既有清崎从破产谷底爬起来、靠自费出版《富爸爸穷爸爸》逆袭的真实经历，也有特朗普在纽约房地产几起几落的实战复盘。它不是枯燥的创业学教材，也不是画大饼的成功学，而是两位实干家用亲身经历写就的创业启示录。今天读它，仍然不过时，因为就业的难题、财富的焦虑、金手指的稀缺，是每个时代共同的命题。</description>
+      <pubDate>Sun, 14 Jun 2026 04:37:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260614-episode-20260614-d9172b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期《好好读书》为你完整讲读罗伯特·清崎与唐纳德·特朗普合著的《富爸爸全集》。两位作者年过花甲，把几十年的成败得失，浓缩成一套金手指模型：坚毅让你不倒下，专注让你不漂移，品牌让你被看见，合作让你走得远，小事让你活得久。五根手指，单独拿出来都有用，但只有握成拳，才能点石成金。书中既有清崎从破产谷底爬起来、靠自费出版《富爸爸穷爸爸》逆袭的真实经历，也有特朗普在纽约房地产几起几落的实战复盘。它不是枯燥的创业学教材，也不是画大饼的成功学，而是两位实干家用亲身经历写就的创业启示录。今天读它，仍然不过时，因为就业的难题、财富的焦虑、金手指的稀缺，是每个时代共同的命题。</itunes:summary>
+      <itunes:duration>00:30:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-d9172b.mp3" length="29124909" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
