@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 16:27:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 16:29:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1449,6 +1449,17 @@
       <itunes:duration>00:25:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-39f1b1.mp3" length="24085293" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我的天才女友》 · 完整版 · 我的天才女友 · 完整讲读</title>
+      <description>《我的天才女友》是意大利作家埃莱娜·费兰特“那不勒斯四部曲”的第一部，讲述两位出生在贫民区的女孩莉拉与埃莱娜，从童年到成年的友谊、较量与共生。在暴力、贫穷与性别压迫交织的庶民世界里，莉拉天资过人却被迫辍学，埃莱娜靠读书一步步逃离；她们既彼此照亮又彼此消耗，用六十年的时间争夺一点点光亮与尊严。小说以六十六岁莉拉的彻底消失为引子，倒叙两个女孩从那不勒斯老城区出发的命运，是一部关于女性如何在被拒绝长大的世界里强行长大的史诗。</description>
+      <pubDate>Sun, 14 Jun 2026 16:29:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-9919e1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我的天才女友》是意大利作家埃莱娜·费兰特“那不勒斯四部曲”的第一部，讲述两位出生在贫民区的女孩莉拉与埃莱娜，从童年到成年的友谊、较量与共生。在暴力、贫穷与性别压迫交织的庶民世界里，莉拉天资过人却被迫辍学，埃莱娜靠读书一步步逃离；她们既彼此照亮又彼此消耗，用六十年的时间争夺一点点光亮与尊严。小说以六十六岁莉拉的彻底消失为引子，倒叙两个女孩从那不勒斯老城区出发的命运，是一部关于女性如何在被拒绝长大的世界里强行长大的史诗。</itunes:summary>
+      <itunes:duration>00:20:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-9919e1.mp3" length="19741869" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
