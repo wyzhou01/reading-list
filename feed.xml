@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 16:10:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 16:12:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1405,6 +1405,17 @@
       <itunes:duration>00:17:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-b2c97a.mp3" length="16616493" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《罗杰疑案》 · 完整版 · 罗杰疑案 · 完整讲读</title>
+      <description>《罗杰疑案》是阿加莎·克里斯蒂一九二六年出版的颠覆性推理小说。一位英国乡村医生以第一人称叙述寡妇自尽、富绅被刺两桩命案，并协助比利时侦探波洛破案。直到全书最后，读者才发现这位看似可靠的叙述者就是凶手本人。本书是叙述性诡计的巅峰之作，借一个会撒谎的叙述者揭示了时间表的不可篡改、小社区闲话网络的致命力量，以及人对自我叙述的本能美化。它不只是一桩杀人案的解谜，更是一份关于“我们如何在叙述中自我隐身又自我暴露“的人性样本。</description>
+      <pubDate>Sun, 14 Jun 2026 16:12:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-3ca650</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《罗杰疑案》是阿加莎·克里斯蒂一九二六年出版的颠覆性推理小说。一位英国乡村医生以第一人称叙述寡妇自尽、富绅被刺两桩命案，并协助比利时侦探波洛破案。直到全书最后，读者才发现这位看似可靠的叙述者就是凶手本人。本书是叙述性诡计的巅峰之作，借一个会撒谎的叙述者揭示了时间表的不可篡改、小社区闲话网络的致命力量，以及人对自我叙述的本能美化。它不只是一桩杀人案的解谜，更是一份关于“我们如何在叙述中自我隐身又自我暴露“的人性样本。</itunes:summary>
+      <itunes:duration>00:24:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-3ca650.mp3" length="23312301" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
