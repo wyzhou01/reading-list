@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 04:55:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 05:02:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1262,6 +1262,17 @@
       <itunes:duration>00:27:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-db3115.mp3" length="26763693" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《金庸作品全集（新修版）》 · 完整版 · 金庸作品全集新修版全36册金庸作品集 · 完整讲读</title>
+      <description>《金庸作品全集新修版全三十六册》收录金庸从一九五五年到一九七二年创作的十五部武侠小说，加上序跋与历史散文，是现代华语武侠文学的经典谱系。本书系以新修版为底本，记录了金庸三十年间从汉族正统观到多民族平等观的思想流变，也记录了一代华人知识分子在动荡中寻找自身位置的历程。从《书剑恩仇录》的反清复明到《鹿鼎记》的去正统化，金庸完成了一次对“侠”之精神的彻底解构；陈家洛、郭靖、萧峰、韦小宝这四个主角，串起了一个民族在二十世纪的心灵史。</description>
+      <pubDate>Sun, 14 Jun 2026 05:01:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260614-episode-20260614-50fc8b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《金庸作品全集新修版全三十六册》收录金庸从一九五五年到一九七二年创作的十五部武侠小说，加上序跋与历史散文，是现代华语武侠文学的经典谱系。本书系以新修版为底本，记录了金庸三十年间从汉族正统观到多民族平等观的思想流变，也记录了一代华人知识分子在动荡中寻找自身位置的历程。从《书剑恩仇录》的反清复明到《鹿鼎记》的去正统化，金庸完成了一次对“侠”之精神的彻底解构；陈家洛、郭靖、萧峰、韦小宝这四个主角，串起了一个民族在二十世纪的心灵史。</itunes:summary>
+      <itunes:duration>00:21:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-50fc8b.mp3" length="21031725" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
