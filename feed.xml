@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 04:38:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 04:44:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1185,6 +1185,17 @@
       <itunes:duration>00:28:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-fd014f.mp3" length="27618861" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《30天写小说》 · 完整版 · 30天写小说 · 完整讲读</title>
+      <description>《三十天写小说》是一本把写小说当作工程项目来管理的写作指南。它不教灵感，只教流程——用三十天日程表，把写小说拆解成可一步步执行的工序。本期拆解全书六大核心洞察：把写作当工程的底层观念、先有结局的构思原则、按场景拆解的执行方法、一场景一任务的内容边界、人物是压力下被推出来的写作观，以及初稿求存在、修改求打磨的分阶段论。配套两条今天就能上手的行动建议，帮助听友把“想写”真正变成“写完”。</description>
+      <pubDate>Sun, 14 Jun 2026 04:42:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260614-episode-20260614-824b5f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《三十天写小说》是一本把写小说当作工程项目来管理的写作指南。它不教灵感，只教流程——用三十天日程表，把写小说拆解成可一步步执行的工序。本期拆解全书六大核心洞察：把写作当工程的底层观念、先有结局的构思原则、按场景拆解的执行方法、一场景一任务的内容边界、人物是压力下被推出来的写作观，以及初稿求存在、修改求打磨的分阶段论。配套两条今天就能上手的行动建议，帮助听友把“想写”真正变成“写完”。</itunes:summary>
+      <itunes:duration>00:28:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-824b5f.mp3" length="26981037" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
