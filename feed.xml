@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 15:58:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 16:02:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1372,6 +1372,17 @@
       <itunes:duration>00:34:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-ce428b.mp3" length="32990253" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《正常人》 · 完整版 · 正常人 · 完整讲读</title>
+      <description>《正常人》是爱尔兰作家萨莉·鲁尼的代表作，讲述康奈尔与玛丽安从爱尔兰小镇中学到圣三一大学的十年情感历程。两人相爱却因阶级、羞耻与创伤无法公开彼此，在反复靠近与疏离中，最终学会用耐心与坦诚，接住对方的不完美。本书以极简对话揭示亲密关系中的权力不对等、精神创伤与自我重建，是一代年轻人面对爱情、阶层与身份认同的诚实写照。</description>
+      <pubDate>Sun, 14 Jun 2026 16:02:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-aeace7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《正常人》是爱尔兰作家萨莉·鲁尼的代表作，讲述康奈尔与玛丽安从爱尔兰小镇中学到圣三一大学的十年情感历程。两人相爱却因阶级、羞耻与创伤无法公开彼此，在反复靠近与疏离中，最终学会用耐心与坦诚，接住对方的不完美。本书以极简对话揭示亲密关系中的权力不对等、精神创伤与自我重建，是一代年轻人面对爱情、阶层与身份认同的诚实写照。</itunes:summary>
+      <itunes:duration>00:29:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-aeace7.mp3" length="27890733" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
