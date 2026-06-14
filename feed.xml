@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 16:46:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 16:52:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1548,6 +1548,17 @@
       <itunes:duration>00:30:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-59d9e8.mp3" length="28990125" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大外交》 · 完整版 · 大外交 · 完整讲读</title>
+      <description>基辛格的《大外交》以近四百年的国际关系史为线索，剖析均势政治与道德理想这两种传统如何塑造现代世界秩序。书中既回望维也纳体系的兴衰、威尔逊与罗斯福的对立，也直面冷战的终结与美国&quot;既不能退出也不能主宰&quot;的全新困境。最终基辛格提醒读者：理想主义不会消失，但必须与慎重评估现实相结合；没有现成的国际秩序，只有在一次次艰难的抉择中才能走出来的路。这本书是理解当下大国博弈、读懂美国外交灵魂的经典之作。</description>
+      <pubDate>Sun, 14 Jun 2026 16:52:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-e73d16</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>基辛格的《大外交》以近四百年的国际关系史为线索，剖析均势政治与道德理想这两种传统如何塑造现代世界秩序。书中既回望维也纳体系的兴衰、威尔逊与罗斯福的对立，也直面冷战的终结与美国&quot;既不能退出也不能主宰&quot;的全新困境。最终基辛格提醒读者：理想主义不会消失，但必须与慎重评估现实相结合；没有现成的国际秩序，只有在一次次艰难的抉择中才能走出来的路。这本书是理解当下大国博弈、读懂美国外交灵魂的经典之作。</itunes:summary>
+      <itunes:duration>00:29:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-e73d16.mp3" length="28449069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
