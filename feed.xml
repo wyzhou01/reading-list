@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 04:44:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 04:44:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1196,6 +1196,17 @@
       <itunes:duration>00:28:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-824b5f.mp3" length="26981037" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《看你一眼就会笑》 · 完整版 · 看你一眼就会笑 · 完整讲读</title>
+      <description>《看你一眼就会笑》是马来西亚漫画家丘汉林在二零二零年前后创作的短篇漫画集，主角是一只外表凶巴巴、内心却无比温柔的短尾鳄盖朵。一百多个两三分钟就能读完的小故事，反复示范着同一件事——不能以貌取人，小事也有重量，一句“我在“可以救一个人，允许自己哭出来也是勇敢。今天这本不厚的小书，装下的是成年人世界里最稀缺的东西：被看见、被陪伴、被允许不完美。读完之后，你会发现，盖朵不教你成功，不教你变强，它只是蹲在你旁边，轻轻说一句——大家辛苦了。</description>
+      <pubDate>Sun, 14 Jun 2026 04:44:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260614-episode-20260614-977af8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《看你一眼就会笑》是马来西亚漫画家丘汉林在二零二零年前后创作的短篇漫画集，主角是一只外表凶巴巴、内心却无比温柔的短尾鳄盖朵。一百多个两三分钟就能读完的小故事，反复示范着同一件事——不能以貌取人，小事也有重量，一句“我在“可以救一个人，允许自己哭出来也是勇敢。今天这本不厚的小书，装下的是成年人世界里最稀缺的东西：被看见、被陪伴、被允许不完美。读完之后，你会发现，盖朵不教你成功，不教你变强，它只是蹲在你旁边，轻轻说一句——大家辛苦了。</itunes:summary>
+      <itunes:duration>00:27:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-977af8.mp3" length="26506413" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
