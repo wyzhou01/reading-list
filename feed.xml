@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 16:52:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 16:54:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1559,6 +1559,17 @@
       <itunes:duration>00:29:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-e73d16.mp3" length="28449069" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大明王朝1566》 · 完整版 · 大明王朝1566 · 完整讲读</title>
+      <description>《大明王朝一千五百六十六》以嘉靖四十五年那场年度财政会议开场，透过嘉靖皇帝的无为而治、严嵩与清流的朝堂博弈、国库亏空下的财政困局，展现了中国传统政治的精密运行规则。全书核心在海瑞这一人物——这位不结党、不贪腐、不怕死的孤臣，以《直言天下第一事疏》震动朝野，在最黑暗的政治里守住了“道理比皇上大”的信念。刘和平写历史不写丰功伟绩，专写权力背后的运行逻辑与士大夫精神的存续。一部五百年后仍能照见人心的权力寓言，一曲孤臣绝响的千古绝唱。</description>
+      <pubDate>Sun, 14 Jun 2026 16:53:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-d6475b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大明王朝一千五百六十六》以嘉靖四十五年那场年度财政会议开场，透过嘉靖皇帝的无为而治、严嵩与清流的朝堂博弈、国库亏空下的财政困局，展现了中国传统政治的精密运行规则。全书核心在海瑞这一人物——这位不结党、不贪腐、不怕死的孤臣，以《直言天下第一事疏》震动朝野，在最黑暗的政治里守住了“道理比皇上大”的信念。刘和平写历史不写丰功伟绩，专写权力背后的运行逻辑与士大夫精神的存续。一部五百年后仍能照见人心的权力寓言，一曲孤臣绝响的千古绝唱。</itunes:summary>
+      <itunes:duration>00:27:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-d6475b.mp3" length="26177325" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
