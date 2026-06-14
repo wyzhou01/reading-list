@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 04:37:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 04:38:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1174,6 +1174,17 @@
       <itunes:duration>00:30:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-d9172b.mp3" length="29124909" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《图解易经（2012全新图解版）》 · 完整版 · 图解易经(2012全新图解版) · 完整讲读</title>
+      <description>《图解易经》是高永平先生撰写、江西科学技术出版社于二零一一年至二零一二年推出的《易经》通俗普及本，属于紫图图书“图解经典”系列。全书以三百幅手绘插图和一百多个表格，配合通俗语言、故事化解说和《断易天机》古图，系统讲解了《易经》的历史源流、易学人物传承、太极阴阳八卦五行等基础符号体系，以及六十四卦、三百八十四爻的卦辞爻辞解读与占筮预测的日常应用。本书在《易经》普及读物中的特色，是把这部不到五千字、门槛极高的群经之首，转化为普通人可以“现查现用”的易经字典，既呈现了象数与义理两大学派的思想演变，也回应了二十一世纪初中国国学热中普通读者亲近经典的需求。</description>
+      <pubDate>Sun, 14 Jun 2026 04:38:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260614-episode-20260614-fd014f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《图解易经》是高永平先生撰写、江西科学技术出版社于二零一一年至二零一二年推出的《易经》通俗普及本，属于紫图图书“图解经典”系列。全书以三百幅手绘插图和一百多个表格，配合通俗语言、故事化解说和《断易天机》古图，系统讲解了《易经》的历史源流、易学人物传承、太极阴阳八卦五行等基础符号体系，以及六十四卦、三百八十四爻的卦辞爻辞解读与占筮预测的日常应用。本书在《易经》普及读物中的特色，是把这部不到五千字、门槛极高的群经之首，转化为普通人可以“现查现用”的易经字典，既呈现了象数与义理两大学派的思想演变，也回应了二十一世纪初中国国学热中普通读者亲近经典的需求。</itunes:summary>
+      <itunes:duration>00:28:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-fd014f.mp3" length="27618861" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
