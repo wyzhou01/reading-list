@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 16:31:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 16:31:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1471,6 +1471,17 @@
       <itunes:duration>00:31:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-49425d.mp3" length="29774637" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《狂人日记：鲁迅小说全集》 · 完整版 · 狂人日记：鲁迅小说全集 · 完整讲读</title>
+      <description>本期《好好读书》用九十分钟讲完《狂人日记：鲁迅小说全集》，覆盖《呐喊》《彷徨》《故事新编》三部小说集的三十多篇作品。从狂人对吃人社会的控诉，到阿Q 的精神胜利法，到涓生子君的爱情悲剧，再到用神话新编解构古人，鲁迅用十七年的写作，回答一个问题：铁屋子里的人，到底怎么醒来？他没找到答案，但他没闭眼。读鲁迅，不是为了记住他，是为了不被这个时代睡过去。</description>
+      <pubDate>Sun, 14 Jun 2026 16:31:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-33307e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期《好好读书》用九十分钟讲完《狂人日记：鲁迅小说全集》，覆盖《呐喊》《彷徨》《故事新编》三部小说集的三十多篇作品。从狂人对吃人社会的控诉，到阿Q 的精神胜利法，到涓生子君的爱情悲剧，再到用神话新编解构古人，鲁迅用十七年的写作，回答一个问题：铁屋子里的人，到底怎么醒来？他没找到答案，但他没闭眼。读鲁迅，不是为了记住他，是为了不被这个时代睡过去。</itunes:summary>
+      <itunes:duration>00:30:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-33307e.mp3" length="29430957" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
