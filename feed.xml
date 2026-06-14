@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 13 Jun 2026 16:59:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 02:11:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1130,6 +1130,17 @@
       <itunes:duration>00:28:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-1d84c7.mp3" length="27345069" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《法度与人心：帝制时期人与制度的互动》 · 完整版 · 中信出版社2021年度好书 · 完整讲读</title>
+      <description>《法度与人心》以北宋至清代的政治史为切片, 回答一个核心问题, 帝制中国长达两千年, 皇帝、官僚与制度三者如何相互塑造、相互博弈, 又如何把一个个活生生的人, 压成某种固定的样子。作者赵冬梅是北大历史系教授, 她的笔法兼具学者的严谨与说书人的明白。全书最震动的部分, 是清代的文字狱与自我删窜, 朝廷没有挨家挨户查禁, 可怕的是尺度长进了读书人心里, 主动烧书、删诗、涂改字样, 宁波天一阁道光年间书目比嘉庆多出四百六十三种, 是被故意抹去的。书中提出的「君子」词义改写、「万民退隐」、「涟漪效应」三层分析, 让我们看见制度如何不靠刀剑、只靠无形的尺子, 完成对人心的彻底改造。这本书是理解中国人精神底色的一把钥匙, 至今仍有强烈回响。</description>
+      <pubDate>Sun, 14 Jun 2026 02:10:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260614-episode-20260614-19f5cf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《法度与人心》以北宋至清代的政治史为切片, 回答一个核心问题, 帝制中国长达两千年, 皇帝、官僚与制度三者如何相互塑造、相互博弈, 又如何把一个个活生生的人, 压成某种固定的样子。作者赵冬梅是北大历史系教授, 她的笔法兼具学者的严谨与说书人的明白。全书最震动的部分, 是清代的文字狱与自我删窜, 朝廷没有挨家挨户查禁, 可怕的是尺度长进了读书人心里, 主动烧书、删诗、涂改字样, 宁波天一阁道光年间书目比嘉庆多出四百六十三种, 是被故意抹去的。书中提出的「君子」词义改写、「万民退隐」、「涟漪效应」三层分析, 让我们看见制度如何不靠刀剑、只靠无形的尺子, 完成对人心的彻底改造。这本书是理解中国人精神底色的一把钥匙, 至今仍有强烈回响。</itunes:summary>
+      <itunes:duration>00:23:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-19f5cf.mp3" length="22225965" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
