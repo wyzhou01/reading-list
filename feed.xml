@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 16:38:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 16:40:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1504,6 +1504,17 @@
       <itunes:duration>00:24:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-324fb9.mp3" length="23107245" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《请画一下爱》 · 完整版 · 请画一下爱 · 完整讲读</title>
+      <description>《请画一下爱》是插画师舒然从几千份普通网友投稿中挑选画成的现象级畅销书。书中没有大道理，全是平凡人的普通心事：一个女孩在雪地里看到爷爷落满雪的身影，一个父亲在麻醉药效里哭着说我爱你，一只小狗用身体圈住被职场伤害的女孩。它用一幅幅画提醒我们，爱不在惊天动地的大事里，而在那些一闪即逝、却被身体记住的“被接住“的瞬间。本书最让人鼻酸的地方，不在于爱过，而在于来不及。所以它想说的最后一句话是：别等了，回去看一眼，趁它还在。</description>
+      <pubDate>Sun, 14 Jun 2026 16:40:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-a3d88a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《请画一下爱》是插画师舒然从几千份普通网友投稿中挑选画成的现象级畅销书。书中没有大道理，全是平凡人的普通心事：一个女孩在雪地里看到爷爷落满雪的身影，一个父亲在麻醉药效里哭着说我爱你，一只小狗用身体圈住被职场伤害的女孩。它用一幅幅画提醒我们，爱不在惊天动地的大事里，而在那些一闪即逝、却被身体记住的“被接住“的瞬间。本书最让人鼻酸的地方，不在于爱过，而在于来不及。所以它想说的最后一句话是：别等了，回去看一眼，趁它还在。</itunes:summary>
+      <itunes:duration>00:20:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-a3d88a.mp3" length="19853229" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
