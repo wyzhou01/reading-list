@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 15:52:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 15:53:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1339,6 +1339,17 @@
       <itunes:duration>00:12:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-b537b5.mp3" length="11933613" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《夏山学校》 · 完整版 · 夏山学校 · 完整讲读</title>
+      <description>本书记录了A.S.尼尔创办的夏山学校四十年的教育实验。这所英国学校摒弃一切管训与约束，让孩子完全自由地发展，相信人性本善，主张学校适应儿童而非儿童适应学校。书中通过大量真实案例，探讨自由与放纵的边界、儿童心理需求、奖惩制度、性教育、宗教道德等议题，旨在培养快乐、健康、独立的孩子，是现代自由教育的奠基之作。</description>
+      <pubDate>Sun, 14 Jun 2026 15:53:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260614-episode-20260614-e49316</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书记录了A.S.尼尔创办的夏山学校四十年的教育实验。这所英国学校摒弃一切管训与约束，让孩子完全自由地发展，相信人性本善，主张学校适应儿童而非儿童适应学校。书中通过大量真实案例，探讨自由与放纵的边界、儿童心理需求、奖惩制度、性教育、宗教道德等议题，旨在培养快乐、健康、独立的孩子，是现代自由教育的奠基之作。</itunes:summary>
+      <itunes:duration>00:25:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-e49316.mp3" length="24262701" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
