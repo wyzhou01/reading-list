@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 05:06:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 05:06:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1295,6 +1295,17 @@
       <itunes:duration>00:26:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-455724.mp3" length="25735725" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《三国演义·地图珍藏本》 · 完整版 · 三国演义·地图珍藏本 · 完整讲读</title>
+      <description>《三国演义·地图珍藏本》是把罗贯中笔下的一百二十回三国，配上二百一十余幅古今对照地图的特别版本。由当代地图研究者许盘清主持绘制，依据谭其骧《中国历史地图集》和顾祖禹《读史方舆纪要》绘制。本书核心价值：让读者看见三国故事的地理密码——三国鼎立的形成与瓦解，魏蜀吴三方经典战役（官渡、赤壁、夷陵）背后的地形逻辑，英雄悲剧与山河约束的关系，以及演义地名与现实地理的惊人对应。九十七年的三国史，本质上是一部山河如何选择胜利者的历史。</description>
+      <pubDate>Sun, 14 Jun 2026 04:54:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260614-episode-20260614-c3ff13</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《三国演义·地图珍藏本》是把罗贯中笔下的一百二十回三国，配上二百一十余幅古今对照地图的特别版本。由当代地图研究者许盘清主持绘制，依据谭其骧《中国历史地图集》和顾祖禹《读史方舆纪要》绘制。本书核心价值：让读者看见三国故事的地理密码——三国鼎立的形成与瓦解，魏蜀吴三方经典战役（官渡、赤壁、夷陵）背后的地形逻辑，英雄悲剧与山河约束的关系，以及演义地名与现实地理的惊人对应。九十七年的三国史，本质上是一部山河如何选择胜利者的历史。</itunes:summary>
+      <itunes:duration>00:32:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-c3ff13.mp3" length="30885549" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
