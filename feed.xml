@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 05:06:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 05:07:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1306,6 +1306,17 @@
       <itunes:duration>00:32:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-c3ff13.mp3" length="30885549" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《猫和狗的生活哲学》 · 完整版 · 猫和狗的生活哲学 · 完整讲读</title>
+      <description>《猫和狗的生活哲学》由简单心理团队创作，用一组组可爱的猫狗漫画，把当代年轻人藏在心底的情绪一一画了出来。全书围绕“躺平”“修复”“疗愈”“自由”四个主题，剖析了被动废、习得性无助、情感勒索、讨好型人格、高敏感体质等常见心理议题。核心只有一句话：接纳自己的不完美与平凡，勇敢做自己，在快节奏与内卷中重建自我边界与内心平和。这不是一本严肃的心理学教材，而是一本温柔、可爱的“心理自助漫画手册”，提醒每一个疲惫的成年人——你不必一直加油，丧一点也没关系。</description>
+      <pubDate>Sun, 14 Jun 2026 05:07:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260614-episode-20260614-ac9a9b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《猫和狗的生活哲学》由简单心理团队创作，用一组组可爱的猫狗漫画，把当代年轻人藏在心底的情绪一一画了出来。全书围绕“躺平”“修复”“疗愈”“自由”四个主题，剖析了被动废、习得性无助、情感勒索、讨好型人格、高敏感体质等常见心理议题。核心只有一句话：接纳自己的不完美与平凡，勇敢做自己，在快节奏与内卷中重建自我边界与内心平和。这不是一本严肃的心理学教材，而是一本温柔、可爱的“心理自助漫画手册”，提醒每一个疲惫的成年人——你不必一直加油，丧一点也没关系。</itunes:summary>
+      <itunes:duration>00:25:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-ac9a9b.mp3" length="24069165" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
