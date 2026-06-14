@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 15:57:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 15:58:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1361,6 +1361,17 @@
       <itunes:duration>00:24:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-75d953.mp3" length="23878317" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《财务自由之路》 · 完整版 · 财务自由之路 · 完整讲读</title>
+      <description>《财务自由之路》是博多·舍费尔的代表作，全球销量超一千万册。它把致富拆解为价值观对齐、七道思维分水岭、四条核心策略（储蓄、投资、增值收入、复利）以及财务保障、财务安全、财务自由的三步走体系。书中反复强调：财富不是天赋，而是每个人都可以习得的能力。最后一章跳出理财本身，探讨金钱与精神的双重富足，提醒读者财务自由不是终点，而是成为本来自我的起点。</description>
+      <pubDate>Sun, 14 Jun 2026 15:58:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260614-episode-20260614-ce428b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《财务自由之路》是博多·舍费尔的代表作，全球销量超一千万册。它把致富拆解为价值观对齐、七道思维分水岭、四条核心策略（储蓄、投资、增值收入、复利）以及财务保障、财务安全、财务自由的三步走体系。书中反复强调：财富不是天赋，而是每个人都可以习得的能力。最后一章跳出理财本身，探讨金钱与精神的双重富足，提醒读者财务自由不是终点，而是成为本来自我的起点。</itunes:summary>
+      <itunes:duration>00:34:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-ce428b.mp3" length="32990253" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
