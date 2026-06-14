@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 04:44:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 04:50:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1218,6 +1218,17 @@
       <itunes:duration>00:28:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-10d7e2.mp3" length="27510189" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《阿加莎·克里斯蒂作品集——以《无人生还》与《他们来到巴格达》为代表》 · 完整版 · 阿加莎·克里斯蒂作品集（套装共45册） · 完整讲读</title>
+      <description>本期节目用一整期的篇幅，拆解阿加莎·克里斯蒂四十五部代表作的核心密码。她用封闭空间剥离文明的缓冲，用童谣制造宿命的眩晕，用罪疚把人拽回到内心的幽暗处。从孤岛上的连环谋杀、东方快车上的惊天反转，到尼罗河上的爱恨情仇，再到战时谍战里的身份伪装——她笔下的每一桩罪案，最终都指向同一个问题：人为什么会犯罪？读懂克里斯蒂，就读懂了人性最不愿被人看见的那一面。</description>
+      <pubDate>Sun, 14 Jun 2026 04:50:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260614-episode-20260614-6f1e42</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期节目用一整期的篇幅，拆解阿加莎·克里斯蒂四十五部代表作的核心密码。她用封闭空间剥离文明的缓冲，用童谣制造宿命的眩晕，用罪疚把人拽回到内心的幽暗处。从孤岛上的连环谋杀、东方快车上的惊天反转，到尼罗河上的爱恨情仇，再到战时谍战里的身份伪装——她笔下的每一桩罪案，最终都指向同一个问题：人为什么会犯罪？读懂克里斯蒂，就读懂了人性最不愿被人看见的那一面。</itunes:summary>
+      <itunes:duration>00:26:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-6f1e42.mp3" length="25198125" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
