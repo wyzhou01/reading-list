@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 04:44:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 04:44:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1207,6 +1207,17 @@
       <itunes:duration>00:27:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-977af8.mp3" length="26506413" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一禅小和尚》 · 完整版 · 一禅小和尚 · 完整讲读</title>
+      <description>《一禅小和尚》是一本写给成年人的小童话。一禅用七岁孩童的口吻，把我们深夜偷偷哭过的委屈、报喜不报忧的懂事、和对被温柔以待的渴望，一块一块地拼回原形。全书四章——牵挂、守护、值得被爱、从不孤单——不讲成功，不催奋斗，只想告诉你：被世界亏待过的人，也值得被一束不刺眼的光接住。今晚，让一禅陪你，把心里的湿气和委屈，一点点晒干。</description>
+      <pubDate>Sun, 14 Jun 2026 04:44:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260614-episode-20260614-10d7e2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一禅小和尚》是一本写给成年人的小童话。一禅用七岁孩童的口吻，把我们深夜偷偷哭过的委屈、报喜不报忧的懂事、和对被温柔以待的渴望，一块一块地拼回原形。全书四章——牵挂、守护、值得被爱、从不孤单——不讲成功，不催奋斗，只想告诉你：被世界亏待过的人，也值得被一束不刺眼的光接住。今晚，让一禅陪你，把心里的湿气和委屈，一点点晒干。</itunes:summary>
+      <itunes:duration>00:28:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260614/episode-20260614-10d7e2.mp3" length="27510189" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
