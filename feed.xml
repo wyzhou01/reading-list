@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 16:40:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 16:43:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1515,6 +1515,17 @@
       <itunes:duration>00:20:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-a3d88a.mp3" length="19853229" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《边城》 · 完整版 · 边城沈从文集 · 完整讲读</title>
+      <description>《边城沈从文集》收录沈从文以湘西水边生活为背景的五部代表作。《边城》里少女翠翠在端午歌声中心有所属，却因种种沉默与误会，苦苦等待一个可能永不归来的爱人；《柏子》写水手与吊脚楼女人粗粝而真挚的私情；《萧萧》讲述童养媳被长工花狗引诱后生下私生子，命运却意外地“被留下”；《丈夫》中乡下丈夫进城探望沦为船妓的妻子，在屈辱中觉醒，带人回乡；《三三》刻画碾坊少女与城里养病少爷之间尚未萌芽便已凋谢的朦胧情愫。全书以清澈舒缓的笔触，描绘出即将消逝的湘西风物与人情之美，是对中国现代文明与乡土人性冲突最深情的挽歌。</description>
+      <pubDate>Sun, 14 Jun 2026 16:38:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-8d551e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《边城沈从文集》收录沈从文以湘西水边生活为背景的五部代表作。《边城》里少女翠翠在端午歌声中心有所属，却因种种沉默与误会，苦苦等待一个可能永不归来的爱人；《柏子》写水手与吊脚楼女人粗粝而真挚的私情；《萧萧》讲述童养媳被长工花狗引诱后生下私生子，命运却意外地“被留下”；《丈夫》中乡下丈夫进城探望沦为船妓的妻子，在屈辱中觉醒，带人回乡；《三三》刻画碾坊少女与城里养病少爷之间尚未萌芽便已凋谢的朦胧情愫。全书以清澈舒缓的笔触，描绘出即将消逝的湘西风物与人情之美，是对中国现代文明与乡土人性冲突最深情的挽歌。</itunes:summary>
+      <itunes:duration>00:29:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-8d551e.mp3" length="28340781" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
