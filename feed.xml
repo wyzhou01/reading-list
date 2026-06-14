@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 16:54:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 16:55:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1570,6 +1570,17 @@
       <itunes:duration>00:27:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-d6475b.mp3" length="26177325" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《蛤蟆先生去看心理医生》 · 完整版 · 蛤蟆先生去看心理医生 · 完整讲读</title>
+      <description>《蛤蟆先生去看心理医生》借《柳林风声》的角色，讲述了一只陷入抑郁的蛤蟆通过十次心理咨询走出阴霾的故事。书中提出了儿童、父母、成人三种自我状态，剖析了愤怒、愧疚、抑郁的来源，揭示了「我不好，你好」等四种人生坐标与「PLG」心理游戏，更告诉读者：真正能拯救自己的，从来不是别人，而是自己。原生家庭的印记可以被觉察，过去的人生脚本可以被改写，每个人都有能力重新选择自己的人生。</description>
+      <pubDate>Sun, 14 Jun 2026 16:55:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-dc475a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《蛤蟆先生去看心理医生》借《柳林风声》的角色，讲述了一只陷入抑郁的蛤蟆通过十次心理咨询走出阴霾的故事。书中提出了儿童、父母、成人三种自我状态，剖析了愤怒、愧疚、抑郁的来源，揭示了「我不好，你好」等四种人生坐标与「PLG」心理游戏，更告诉读者：真正能拯救自己的，从来不是别人，而是自己。原生家庭的印记可以被觉察，过去的人生脚本可以被改写，每个人都有能力重新选择自己的人生。</itunes:summary>
+      <itunes:duration>00:27:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-dc475a.mp3" length="26372781" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
