@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 17:13:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 17:14:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1658,6 +1658,17 @@
       <itunes:duration>00:32:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-2cf1ed.mp3" length="31439277" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《老子与道家》 · 完整版 · 老子与道家中国读本 · 完整讲读</title>
+      <description>《老子与道家》是上海师范大学教授李申先生写给普通读者的道家通识读物。全书以六块拼图式的脉络，从春秋时期老子的悲苦与柔弱，到庄子看透生死的豁达，再到汉初黄老之学的黄金时代，最后到独尊儒术后道家被神化、玄学化、养生化的命运，以及《阴符经》所代表的&quot;我命在我&quot;的刚健传统。一本书，带你走完道家两千年。读完之后你会发现：道家远不只是&quot;清静无为&quot;，它既给失败者以安慰，也给进取者以力量。中国人从来不只有一种活法，而道家把两种活法都讲透了。</description>
+      <pubDate>Sun, 14 Jun 2026 17:14:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-5fe886</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《老子与道家》是上海师范大学教授李申先生写给普通读者的道家通识读物。全书以六块拼图式的脉络，从春秋时期老子的悲苦与柔弱，到庄子看透生死的豁达，再到汉初黄老之学的黄金时代，最后到独尊儒术后道家被神化、玄学化、养生化的命运，以及《阴符经》所代表的&quot;我命在我&quot;的刚健传统。一本书，带你走完道家两千年。读完之后你会发现：道家远不只是&quot;清静无为&quot;，它既给失败者以安慰，也给进取者以力量。中国人从来不只有一种活法，而道家把两种活法都讲透了。</itunes:summary>
+      <itunes:duration>00:40:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-5fe886.mp3" length="39335085" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
