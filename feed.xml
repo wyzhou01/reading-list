@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 14 Jun 2026 17:14:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 00:20:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1669,6 +1669,17 @@
       <itunes:duration>00:40:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-5fe886.mp3" length="39335085" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《半小时漫画经济学：生活常识篇》 · 完整版 · 半小时漫画经济学：生活常识篇（漫画科普开创者二混子新作！全网粉丝 · 完整讲读</title>
+      <description>《半小时漫画经济学（生活常识篇）》是陈磊领衔的半小时漫画团队推出的经济学通识读物。书中用漫画与段子的形式，把货币起源、五险一金、养老金、医保、个税、买房、借贷、消费心理、传销等与日常生活紧密相关的经济学常识，拆解为普通人也能听懂的大白话。核心观点包括：货币源于信用而非物物交换、五险一金是时间机器、养老金是现收现付、税是公共服务的对价、房价里最大的是土地成本、消费心理学本质是认知 bug、传销是庞氏骗局的变体。本书不教你当专家，只帮你建立一套看得懂、用得上的常识框架，在被忽悠时多一分清醒，少踩一些坑。</description>
+      <pubDate>Mon, 15 Jun 2026 00:20:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-018126</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《半小时漫画经济学（生活常识篇）》是陈磊领衔的半小时漫画团队推出的经济学通识读物。书中用漫画与段子的形式，把货币起源、五险一金、养老金、医保、个税、买房、借贷、消费心理、传销等与日常生活紧密相关的经济学常识，拆解为普通人也能听懂的大白话。核心观点包括：货币源于信用而非物物交换、五险一金是时间机器、养老金是现收现付、税是公共服务的对价、房价里最大的是土地成本、消费心理学本质是认知 bug、传销是庞氏骗局的变体。本书不教你当专家，只帮你建立一套看得懂、用得上的常识框架，在被忽悠时多一分清醒，少踩一些坑。</itunes:summary>
+      <itunes:duration>00:20:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-018126.mp3" length="19875117" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
