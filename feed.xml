@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 05:20:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 05:22:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2065,6 +2065,17 @@
       <itunes:duration>00:22:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-5ab7b9.mp3" length="21736749" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《决战朝鲜》 · 完整版 · 决战朝鲜 · 完整讲读</title>
+      <description>《决战朝鲜》是军事作家李峰创作的一部全景式反映抗美援朝战争的非虚构作品。本书从一九四四年雅尔塔会议落笔，系统还原了一九五零年至一九五三年那场立国之战的完整历程：毛泽东力排众议作出出兵决策的魄力、彭德怀与麦克阿瑟在三八线两端的统帅较量、上甘岭四十三昼夜钢铁般的阵地坚守、清长大捷中志愿军的穿插围歼、炒面与雪背后的后勤困局与精神力量、米格十五与佩刀F八十六的天空对决，以及板门店谈判桌上另一场不见硝烟的战争。作者以翔实史料与饱满激情，写出了那一代中国人为民族尊严与国家生存而战的冲天豪气，揭示了抗美援朝如何终结了中国近代史上百十年的屈辱惯性，让一个古老民族重新屹立于世界东方。</description>
+      <pubDate>Mon, 15 Jun 2026 05:21:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-3d757c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《决战朝鲜》是军事作家李峰创作的一部全景式反映抗美援朝战争的非虚构作品。本书从一九四四年雅尔塔会议落笔，系统还原了一九五零年至一九五三年那场立国之战的完整历程：毛泽东力排众议作出出兵决策的魄力、彭德怀与麦克阿瑟在三八线两端的统帅较量、上甘岭四十三昼夜钢铁般的阵地坚守、清长大捷中志愿军的穿插围歼、炒面与雪背后的后勤困局与精神力量、米格十五与佩刀F八十六的天空对决，以及板门店谈判桌上另一场不见硝烟的战争。作者以翔实史料与饱满激情，写出了那一代中国人为民族尊严与国家生存而战的冲天豪气，揭示了抗美援朝如何终结了中国近代史上百十年的屈辱惯性，让一个古老民族重新屹立于世界东方。</itunes:summary>
+      <itunes:duration>00:34:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-3d757c.mp3" length="33153069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
