@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 13:28:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 13:42:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2582,6 +2582,17 @@
       <itunes:duration>00:28:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-716893.mp3" length="27247533" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《漫长的告别》 · 完整版 · 漫长的告别 · 完整讲读</title>
+      <description>《漫长的告别》是雷蒙德·钱德勒一九五三年的巅峰之作。落魄的白发酒鬼特里·伦诺克斯醉倒在劳斯莱斯车旁，私家侦探菲利普·马洛扶了他一把，由此卷入一桩亿万富翁家族谋杀案。马洛为守住对朋友的承诺，放弃作证、锒铛入狱，最后只身赴墨西哥找到了被整容改头换面的特里。钱德勒用冷硬派的笔法，写出了友谊的代价、阶级的腐败、真相对正义的胜利，也写出了一个硬汉如何在金钱、权势与良心之间，付出最不划算、却最对得起自己的代价。这是一本关于告别的书，也是一本关于如何在世界里守住自己的书。</description>
+      <pubDate>Mon, 15 Jun 2026 13:42:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-2ab2aa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《漫长的告别》是雷蒙德·钱德勒一九五三年的巅峰之作。落魄的白发酒鬼特里·伦诺克斯醉倒在劳斯莱斯车旁，私家侦探菲利普·马洛扶了他一把，由此卷入一桩亿万富翁家族谋杀案。马洛为守住对朋友的承诺，放弃作证、锒铛入狱，最后只身赴墨西哥找到了被整容改头换面的特里。钱德勒用冷硬派的笔法，写出了友谊的代价、阶级的腐败、真相对正义的胜利，也写出了一个硬汉如何在金钱、权势与良心之间，付出最不划算、却最对得起自己的代价。这是一本关于告别的书，也是一本关于如何在世界里守住自己的书。</itunes:summary>
+      <itunes:duration>00:24:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-2ab2aa.mp3" length="24000813" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
