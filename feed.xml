@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 00:55:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 00:57:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1812,6 +1812,17 @@
       <itunes:duration>00:29:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-f28236.mp3" length="28495149" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《极端之美》 · 完整版 · 极端之美 · 完整讲读</title>
+      <description>《极端之美》是余秋雨在二零一四年出版的文化随笔集，以书法、昆曲、普洱茶三项为“中国文化的命穴与胎记”，提出文化重心正从文本文化转向生态文化；强调文化极品需经独有、顶级、具体、共知、长续五项筛选，主张以磨墨、买票、煮水的方式直接进入，从感官确认抵达真正的懂。</description>
+      <pubDate>Mon, 15 Jun 2026 00:57:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-4564f6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《极端之美》是余秋雨在二零一四年出版的文化随笔集，以书法、昆曲、普洱茶三项为“中国文化的命穴与胎记”，提出文化重心正从文本文化转向生态文化；强调文化极品需经独有、顶级、具体、共知、长续五项筛选，主张以磨墨、买票、煮水的方式直接进入，从感官确认抵达真正的懂。</itunes:summary>
+      <itunes:duration>00:25:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-4564f6.mp3" length="24318765" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
