@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 00:58:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 00:59:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1834,6 +1834,17 @@
       <itunes:duration>00:31:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-e18137.mp3" length="30197805" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《搞懂金融的第一本书》 · 完整版 · 搞懂金融的第一本书 · 完整讲读</title>
+      <description>《搞懂金融的第一本书》用通俗幽默的语言，把普通人最关心的金融问题——货币起源、银行秘密、利率逻辑、汇率博弈、通胀真相、房价密码、美元霸权、人民币国际化、全球债务——一次性讲透。全书围绕一个核心展开：现代货币的本质是信用，而信用既是人类文明的伟大发明，也是当代一切焦虑的根源。从贝壳到数字货币，从金本位到信用纸币，本书带你穿透金融表象，理解这个时代的财富规则。</description>
+      <pubDate>Mon, 15 Jun 2026 00:58:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-23f42e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《搞懂金融的第一本书》用通俗幽默的语言，把普通人最关心的金融问题——货币起源、银行秘密、利率逻辑、汇率博弈、通胀真相、房价密码、美元霸权、人民币国际化、全球债务——一次性讲透。全书围绕一个核心展开：现代货币的本质是信用，而信用既是人类文明的伟大发明，也是当代一切焦虑的根源。从贝壳到数字货币，从金本位到信用纸币，本书带你穿透金融表象，理解这个时代的财富规则。</itunes:summary>
+      <itunes:duration>00:25:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-23f42e.mp3" length="24389037" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
