@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 06:12:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 06:15:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2252,6 +2252,17 @@
       <itunes:duration>00:31:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-22c074.mp3" length="29840685" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《帝国经济风暴：大清帝国最后70年》 · 完整版 · 帝国经济风暴：大清帝国最后70年 · 完整讲读</title>
+      <description>《帝国经济风暴：大清帝国最后七十年》是张昕冉博士撰写的一部晚清财政通俗史。它打破&quot;亡于外患&quot;的传统叙事，把鸦片战争、甲午战败、辛亥革命等大事件，统一在&quot;财政崩溃&quot;这条暗线下重新讲述：白银外流让帝国失血，&quot;永不加赋&quot;的祖制锁死了汲取能力，海关被外人把持、金融主权旁落、货币改革失败，新兴商人阶层崛起却无力回天，洋务与新政一次次精准地反噬帝国本身。这本书以通俗却严谨的笔法，揭示了一个曾占全球经济三分之一的大国，如何因财政基因的僵化，在七十年内一步步走向分崩离析。对每一个想从经济视角理解中国近代转型艰难的人，这本书都值得一读再读。</description>
+      <pubDate>Mon, 15 Jun 2026 06:15:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-ca00e4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《帝国经济风暴：大清帝国最后七十年》是张昕冉博士撰写的一部晚清财政通俗史。它打破&quot;亡于外患&quot;的传统叙事，把鸦片战争、甲午战败、辛亥革命等大事件，统一在&quot;财政崩溃&quot;这条暗线下重新讲述：白银外流让帝国失血，&quot;永不加赋&quot;的祖制锁死了汲取能力，海关被外人把持、金融主权旁落、货币改革失败，新兴商人阶层崛起却无力回天，洋务与新政一次次精准地反噬帝国本身。这本书以通俗却严谨的笔法，揭示了一个曾占全球经济三分之一的大国，如何因财政基因的僵化，在七十年内一步步走向分崩离析。对每一个想从经济视角理解中国近代转型艰难的人，这本书都值得一读再读。</itunes:summary>
+      <itunes:duration>00:29:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-ca00e4.mp3" length="28758573" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
