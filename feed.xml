@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 06:01:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 06:07:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2230,6 +2230,17 @@
       <itunes:duration>00:25:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-ec2266.mp3" length="24049581" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《球状闪电》 · 完整版 · 球状闪电 · 完整讲读</title>
+      <description>《球状闪电》是刘慈欣在《三体》之前写下的一部硬科幻长篇。一个十四岁生日雷雨夜目睹球状闪电夺走双亲的少年，把一生压进对这个幽蓝光球的执念。从大学实验室到戈壁滩的武器试验场，他与少女林云、物理学家丁仪一起，触碰了宏电子、概率云、观察者坍缩的边界，却发现大自然的尽头不是被征服，而是被尊重。当戈壁上升起一轮冰冷的蓝太阳，当那朵量子玫瑰被永远封进水晶花瓶，这本书用最硬的物理，讲述了最软的人生真相：执念的终点不是抵达，是放手。</description>
+      <pubDate>Mon, 15 Jun 2026 06:07:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-bce85f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《球状闪电》是刘慈欣在《三体》之前写下的一部硬科幻长篇。一个十四岁生日雷雨夜目睹球状闪电夺走双亲的少年，把一生压进对这个幽蓝光球的执念。从大学实验室到戈壁滩的武器试验场，他与少女林云、物理学家丁仪一起，触碰了宏电子、概率云、观察者坍缩的边界，却发现大自然的尽头不是被征服，而是被尊重。当戈壁上升起一轮冰冷的蓝太阳，当那朵量子玫瑰被永远封进水晶花瓶，这本书用最硬的物理，讲述了最软的人生真相：执念的终点不是抵达，是放手。</itunes:summary>
+      <itunes:duration>00:25:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-bce85f.mp3" length="24778413" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
