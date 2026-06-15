@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 00:20:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 00:23:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1680,6 +1680,17 @@
       <itunes:duration>00:20:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-018126.mp3" length="19875117" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《檀香刑》 · 完整版 · 檀香刑 · 完整讲读</title>
+      <description>《檀香刑》是莫言一九九六年动笔、二零零一年出版的长篇。故事发生在庚子年间的山东高密——德国人修铁路、扒祖坟，猫腔戏子孙丙怒打德国技师，竖旗造反，最终兵败被捕。朝廷派来刑部第一快刀赵甲，在高密对他施以檀香刑：两根檀香木从尾椎凿入脊背，撑起身体，让人在六天六夜里慢慢死去。全书以孙眉娘、赵甲、赵小甲、钱丁四个人的声口，写出刽子手、知县、戏子、屠夫一家在刑场前后的爱恨纠缠。莫言砍掉火车的魔幻，放大猫腔的声音，把小说写成了戏，完成了从魔幻现实主义向本土风格的“大踏步撤退”。一部写给耳朵、不写给眼睛的血肉之作。</description>
+      <pubDate>Mon, 15 Jun 2026 00:23:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-2974bb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《檀香刑》是莫言一九九六年动笔、二零零一年出版的长篇。故事发生在庚子年间的山东高密——德国人修铁路、扒祖坟，猫腔戏子孙丙怒打德国技师，竖旗造反，最终兵败被捕。朝廷派来刑部第一快刀赵甲，在高密对他施以檀香刑：两根檀香木从尾椎凿入脊背，撑起身体，让人在六天六夜里慢慢死去。全书以孙眉娘、赵甲、赵小甲、钱丁四个人的声口，写出刽子手、知县、戏子、屠夫一家在刑场前后的爱恨纠缠。莫言砍掉火车的魔幻，放大猫腔的声音，把小说写成了戏，完成了从魔幻现实主义向本土风格的“大踏步撤退”。一部写给耳朵、不写给眼睛的血肉之作。</itunes:summary>
+      <itunes:duration>00:30:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-2974bb.mp3" length="28821933" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
