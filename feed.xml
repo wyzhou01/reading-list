@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 06:28:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 06:28:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2296,6 +2296,17 @@
       <itunes:duration>00:33:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-456c7d.mp3" length="32006061" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《毛泽东传（第5册）》 · 完整版 · 《毛泽东传》第5册 · 完整讲读</title>
+      <description>《毛泽东传》第五册聚焦1958至1964年间中国共产党内的关键转折。本卷通过丰富的档案材料，系统梳理了纠左调查、庐山会议、大兴调查研究、七千人大会及中苏论战等重大事件。作者坚持史实为本，呈现了从人民公社纠错到庐山政治风暴，再到政策调整的完整脉络，揭示了党内政治生态的微妙变化。中苏论战章节重点分析了意识形态分歧背后的国家主权争夺。本书对理解当代中国政治逻辑、坚持独立自主、防范左倾冒进具有重要参考价值。</description>
+      <pubDate>Mon, 15 Jun 2026 06:28:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-1f25d7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《毛泽东传》第五册聚焦1958至1964年间中国共产党内的关键转折。本卷通过丰富的档案材料，系统梳理了纠左调查、庐山会议、大兴调查研究、七千人大会及中苏论战等重大事件。作者坚持史实为本，呈现了从人民公社纠错到庐山政治风暴，再到政策调整的完整脉络，揭示了党内政治生态的微妙变化。中苏论战章节重点分析了意识形态分歧背后的国家主权争夺。本书对理解当代中国政治逻辑、坚持独立自主、防范左倾冒进具有重要参考价值。</itunes:summary>
+      <itunes:duration>00:21:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-1f25d7.mp3" length="20934189" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
