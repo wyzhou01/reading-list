@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 12:16:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 12:26:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2450,6 +2450,17 @@
       <itunes:duration>00:21:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-9f299b.mp3" length="21105069" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《海子的诗》 · 完整版 · 海子的诗 · 完整讲读</title>
+      <description>《海子的诗》是当代最重要的诗人海子短暂十年创作的精华结集。本书按主题分为五卷，从亚洲铜到春天十个海子，记录了一个贫苦村庄少年如何成为中国诗歌最赤诚的声音。海子的诗用最质朴的语言——麦子、村庄、母亲、太阳——写出了最深的形而上追问。一九八九年三月，年仅二十五岁的海子在山海关卧轨离世，留下了那句震撼无数人的追问：你所说的曙光究竟是什么意思。三十六年过去，他的诗依然在每一个春天复活，陪伴每一个在黑夜里依然相信光的人。</description>
+      <pubDate>Mon, 15 Jun 2026 12:26:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-05bce3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《海子的诗》是当代最重要的诗人海子短暂十年创作的精华结集。本书按主题分为五卷，从亚洲铜到春天十个海子，记录了一个贫苦村庄少年如何成为中国诗歌最赤诚的声音。海子的诗用最质朴的语言——麦子、村庄、母亲、太阳——写出了最深的形而上追问。一九八九年三月，年仅二十五岁的海子在山海关卧轨离世，留下了那句震撼无数人的追问：你所说的曙光究竟是什么意思。三十六年过去，他的诗依然在每一个春天复活，陪伴每一个在黑夜里依然相信光的人。</itunes:summary>
+      <itunes:duration>00:26:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-05bce3.mp3" length="25801389" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
