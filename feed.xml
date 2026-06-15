@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 00:26:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 00:33:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1702,6 +1702,17 @@
       <itunes:duration>00:40:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-70603f.mp3" length="38714925" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《老舍经典读本》 · 完整版 · 茶馆 · 完整讲读</title>
+      <description>吴福辉编选的《老舍精选集》，以《茶馆》三幕话剧为骨，以《骆驼祥子》《我这一辈子》《月牙儿》《微神》《上任》《老字号》《断魂枪》《正红旗下》等长短篇小说为肉，配以散文卷中写北平、写母亲、写小动物、谈幽默的小品，构成一份走近老舍的简明经典读本。本期节目以《茶馆》为核心，串联老舍笔下整个老北京的魂：旧市民社会如何像泡烂的豆腐一样一天天塌下去，下层小人物在被碾碎时如何守住最后一丝尊严，北平口语如何被老舍锻造成二十世纪白话文学独有的&quot;环转如珠&quot;。通过六个核心洞察，拆解老舍如何用最地道的京味儿把最深的悲剧包在笑话里——笑着笑着，心里就凉了。</description>
+      <pubDate>Mon, 15 Jun 2026 00:32:46 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-8f604b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>吴福辉编选的《老舍精选集》，以《茶馆》三幕话剧为骨，以《骆驼祥子》《我这一辈子》《月牙儿》《微神》《上任》《老字号》《断魂枪》《正红旗下》等长短篇小说为肉，配以散文卷中写北平、写母亲、写小动物、谈幽默的小品，构成一份走近老舍的简明经典读本。本期节目以《茶馆》为核心，串联老舍笔下整个老北京的魂：旧市民社会如何像泡烂的豆腐一样一天天塌下去，下层小人物在被碾碎时如何守住最后一丝尊严，北平口语如何被老舍锻造成二十世纪白话文学独有的&quot;环转如珠&quot;。通过六个核心洞察，拆解老舍如何用最地道的京味儿把最深的悲剧包在笑话里——笑着笑着，心里就凉了。</itunes:summary>
+      <itunes:duration>00:28:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-8f604b.mp3" length="27770925" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
