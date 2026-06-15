@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 13:16:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 13:28:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2571,6 +2571,17 @@
       <itunes:duration>00:26:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-a874f2.mp3" length="25845165" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《古史六案》 · 完整版 · 古史六案 · 完整讲读</title>
+      <description>《古史六案》，李洁非著。本书挑出六个耳熟能详却疑点重重的经典历史案例——焚书坑儒与挟书律、失踪的皇帝、下西洋、王安石变法、盐铁会议、《老子》辨，逐案梳爬文献、辨析歧异、示范方法。作者不打算给出终极结论，而要示范一种面对“定论”的姿态：所谓尘埃落定，往往只是层层叙述叠加之后的产物；所谓耳熟能详，往往最经不起追问。这本书不是六段历史知识，而是一本教人如何在轻信成瘾的时代保持清醒、如何“读史须辨”的方法论手册。</description>
+      <pubDate>Mon, 15 Jun 2026 13:28:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-716893</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《古史六案》，李洁非著。本书挑出六个耳熟能详却疑点重重的经典历史案例——焚书坑儒与挟书律、失踪的皇帝、下西洋、王安石变法、盐铁会议、《老子》辨，逐案梳爬文献、辨析歧异、示范方法。作者不打算给出终极结论，而要示范一种面对“定论”的姿态：所谓尘埃落定，往往只是层层叙述叠加之后的产物；所谓耳熟能详，往往最经不起追问。这本书不是六段历史知识，而是一本教人如何在轻信成瘾的时代保持清醒、如何“读史须辨”的方法论手册。</itunes:summary>
+      <itunes:duration>00:28:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-716893.mp3" length="27247533" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
