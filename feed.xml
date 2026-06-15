@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 00:52:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 00:55:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1801,6 +1801,17 @@
       <itunes:duration>00:30:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-31dcd4.mp3" length="29334189" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《哈姆莱特（莎士比亚诗体插图珍藏本）》 · 完整版 · 哈姆莱特诗体插图珍藏本莎士比亚作品集 · 完整讲读</title>
+      <description>《哈姆莱特》是莎士比亚最负盛名的哲理悲剧，约写于 1600 年。本书以诗体插图珍藏本呈现，方平先生译本。故事讲述丹麦王子哈姆莱特在父王暴死、母后仓促改嫁仇人之后，从一个怀抱美好理想的青年知识分子，陷入对人性、爱情、生死的全面怀疑。他以“疯癫”为掩护，在装腔作势的叔父、深不可测的母后、纯洁却无辜的恋人奥菲丽雅之间周旋，最终在一次宫廷决斗中与敌人同归于尽。莎士比亚将北欧古老的复仇故事升华为拷问存在意义的性格悲剧，塑造了世界文学史上第一个不断思索着的现代灵魂——“活着，还是别活下去了”这一追问，自此成为人类精神史的永恒回响。</description>
+      <pubDate>Mon, 15 Jun 2026 00:55:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-f28236</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《哈姆莱特》是莎士比亚最负盛名的哲理悲剧，约写于 1600 年。本书以诗体插图珍藏本呈现，方平先生译本。故事讲述丹麦王子哈姆莱特在父王暴死、母后仓促改嫁仇人之后，从一个怀抱美好理想的青年知识分子，陷入对人性、爱情、生死的全面怀疑。他以“疯癫”为掩护，在装腔作势的叔父、深不可测的母后、纯洁却无辜的恋人奥菲丽雅之间周旋，最终在一次宫廷决斗中与敌人同归于尽。莎士比亚将北欧古老的复仇故事升华为拷问存在意义的性格悲剧，塑造了世界文学史上第一个不断思索着的现代灵魂——“活着，还是别活下去了”这一追问，自此成为人类精神史的永恒回响。</itunes:summary>
+      <itunes:duration>00:29:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-f28236.mp3" length="28495149" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
