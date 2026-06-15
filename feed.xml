@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 05:43:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 05:46:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2153,6 +2153,17 @@
       <itunes:duration>00:26:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-d04f9e.mp3" length="25159341" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《钢铁是怎样炼成的》 · 完整版 · 钢铁是怎样炼成的 · 完整讲读</title>
+      <description>《钢铁是怎样炼成的》是苏联作家奥斯特洛夫斯基一九三三年完成的长篇小说, 讲述贫苦少年保尔·柯察金从十二岁被神父赶出学校, 到在战场、工地、病床上三次把自己&quot;打碎又重塑&quot;的一生。保尔十六岁负伤, 二十出头瘫痪失明, 最终用十年口述完成这部作品。本书一九四二年由梅益在上海译出, 后在中国发行逾两千五百万册, 被几代中国青年视为&quot;人生路标&quot;。它最常被引用的那句话——&quot;人的一生应当怎样度过&quot;——并非口号, 而是一个把命都烧完了的人, 替活着的人写下的答案。</description>
+      <pubDate>Mon, 15 Jun 2026 05:46:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-02f015</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《钢铁是怎样炼成的》是苏联作家奥斯特洛夫斯基一九三三年完成的长篇小说, 讲述贫苦少年保尔·柯察金从十二岁被神父赶出学校, 到在战场、工地、病床上三次把自己&quot;打碎又重塑&quot;的一生。保尔十六岁负伤, 二十出头瘫痪失明, 最终用十年口述完成这部作品。本书一九四二年由梅益在上海译出, 后在中国发行逾两千五百万册, 被几代中国青年视为&quot;人生路标&quot;。它最常被引用的那句话——&quot;人的一生应当怎样度过&quot;——并非口号, 而是一个把命都烧完了的人, 替活着的人写下的答案。</itunes:summary>
+      <itunes:duration>00:28:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-02f015.mp3" length="27604269" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
