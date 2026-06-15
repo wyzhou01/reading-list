@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 12:38:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 12:41:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2494,6 +2494,17 @@
       <itunes:duration>00:26:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-a9693a.mp3" length="25796013" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《幽灵帝国拜占庭》 · 完整版 · 幽灵帝国拜占庭 · 完整讲读</title>
+      <description>《幽灵帝国拜占庭》是澳大利亚主持人理查德·菲德勒带着十四岁儿子乔伊走进伊斯坦布尔街巷的历史散文。他以父子旅行作为明线,把拜占庭千年史编织进圣索菲亚大教堂、狄奥多西墙、查士丁尼蓄水池的现场之间。他坦率地告诉读者:许多流传已久的故事可能从未发生,有些“神迹”不过是后人编造,有些传奇至今真假难辨。菲德勒借用“忒修斯之船”的隐喻,提出拜占庭不是罗马的尾声,而是另一艘修修补补却依然在航行的船——告别了神庙、拉丁语、托加长袍,却始终自称“罗马人”。这本书示范了一种健康的阅读历史的方式:既不全盘相信,也不轻易否定;既走进中世纪人的精神世界,也不放弃现代人的理性判断。</description>
+      <pubDate>Mon, 15 Jun 2026 12:40:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-557082</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《幽灵帝国拜占庭》是澳大利亚主持人理查德·菲德勒带着十四岁儿子乔伊走进伊斯坦布尔街巷的历史散文。他以父子旅行作为明线,把拜占庭千年史编织进圣索菲亚大教堂、狄奥多西墙、查士丁尼蓄水池的现场之间。他坦率地告诉读者:许多流传已久的故事可能从未发生,有些“神迹”不过是后人编造,有些传奇至今真假难辨。菲德勒借用“忒修斯之船”的隐喻,提出拜占庭不是罗马的尾声,而是另一艘修修补补却依然在航行的船——告别了神庙、拉丁语、托加长袍,却始终自称“罗马人”。这本书示范了一种健康的阅读历史的方式:既不全盘相信,也不轻易否定;既走进中世纪人的精神世界,也不放弃现代人的理性判断。</itunes:summary>
+      <itunes:duration>00:21:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-557082.mp3" length="20516781" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
