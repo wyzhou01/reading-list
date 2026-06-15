@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 00:34:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 00:35:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1746,6 +1746,17 @@
       <itunes:duration>00:24:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-e59498.mp3" length="23513517" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《毛泽东传（第1册）》 · 完整版 · 《毛泽东传》第1册 · 完整讲读</title>
+      <description>《毛泽东传》第一册全景勾勒毛泽东从一八九三年韶山出生，到一九三七年全面抗战爆发前夕的四十四年人生轨迹。少年时代形成的反抗性格、母亲文素勤的仁爱底色、父亲毛顺生的严苛与精明，构成了他最初的精神底色。从东山小学堂到湖南第一师范，从《新民丛报》到《湘江评论》，他从维新启蒙走向革命。五四运动后参与建党，投身工人运动，又迅速把目光转向农民，写出《中国社会各阶级的分析》《湖南农民运动考察报告》。秋收起义后，他率部上井冈山，开辟赣南闽西根据地，走出了一条农村包围城市的革命道路。一九二九年古田会议确立党指挥枪的原则，一九三〇年寻乌调查写下&quot;没有调查就没有发言权&quot;，一九三一年在瑞金当选中华苏维埃共和国主席。一九三五年的遵义会议，他重回决策核心；一九三七年在延安窑洞写下《实践论》《矛盾论》，为实事求是思想路线奠基。这是一本讲述理论如何与实际结合、失败如何转化为方法、个体命运如何汇入时代洪河的传记。</description>
+      <pubDate>Mon, 15 Jun 2026 00:35:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-1a7ad6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《毛泽东传》第一册全景勾勒毛泽东从一八九三年韶山出生，到一九三七年全面抗战爆发前夕的四十四年人生轨迹。少年时代形成的反抗性格、母亲文素勤的仁爱底色、父亲毛顺生的严苛与精明，构成了他最初的精神底色。从东山小学堂到湖南第一师范，从《新民丛报》到《湘江评论》，他从维新启蒙走向革命。五四运动后参与建党，投身工人运动，又迅速把目光转向农民，写出《中国社会各阶级的分析》《湖南农民运动考察报告》。秋收起义后，他率部上井冈山，开辟赣南闽西根据地，走出了一条农村包围城市的革命道路。一九二九年古田会议确立党指挥枪的原则，一九三〇年寻乌调查写下&quot;没有调查就没有发言权&quot;，一九三一年在瑞金当选中华苏维埃共和国主席。一九三五年的遵义会议，他重回决策核心；一九三七年在延安窑洞写下《实践论》《矛盾论》，为实事求是思想路线奠基。这是一本讲述理论如何与实际结合、失败如何转化为方法、个体命运如何汇入时代洪河的传记。</itunes:summary>
+      <itunes:duration>00:26:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-1a7ad6.mp3" length="25365549" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
