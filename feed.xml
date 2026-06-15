@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 12:02:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 12:11:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2428,6 +2428,17 @@
       <itunes:duration>00:36:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-33996e.mp3" length="34875693" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《西西弗神话》 · 完整版 · 西西弗神话 · 完整讲读</title>
+      <description>加缪在《西西弗神话》中提出一个根本问题：在一个没有上帝、没有永恒意义的世界里，人为什么还要活着？他的回答是：荒诞，来自人撞上世界时的&quot;嘎吱&quot;声；面对荒诞，既不该用&quot;希望&quot;去逃避，也不该用&quot;自杀&quot;去投降；人可以带着激情和清醒，把&quot;无意义&quot;活成日常。书里写了四种&quot;荒诞人&quot;——唐璜、演员、征服者、基里洛夫——以及&quot;创造就是活两遍&quot;的命题。最后，加缪用西西弗的故事收束：那个被诸神惩罚、永无止境推石上山的人，正是我们每一个人的镜像；看清荒诞，反抗下去，并想像他是幸福的——这，就是加缪眼中，&quot;没有意义&quot;的人生里，唯一的答案。</description>
+      <pubDate>Mon, 15 Jun 2026 12:09:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-f7098d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>加缪在《西西弗神话》中提出一个根本问题：在一个没有上帝、没有永恒意义的世界里，人为什么还要活着？他的回答是：荒诞，来自人撞上世界时的&quot;嘎吱&quot;声；面对荒诞，既不该用&quot;希望&quot;去逃避，也不该用&quot;自杀&quot;去投降；人可以带着激情和清醒，把&quot;无意义&quot;活成日常。书里写了四种&quot;荒诞人&quot;——唐璜、演员、征服者、基里洛夫——以及&quot;创造就是活两遍&quot;的命题。最后，加缪用西西弗的故事收束：那个被诸神惩罚、永无止境推石上山的人，正是我们每一个人的镜像；看清荒诞，反抗下去，并想像他是幸福的——这，就是加缪眼中，&quot;没有意义&quot;的人生里，唯一的答案。</itunes:summary>
+      <itunes:duration>00:30:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-f7098d.mp3" length="29141805" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
