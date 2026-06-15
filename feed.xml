@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 01:06:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 01:12:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1867,6 +1867,17 @@
       <itunes:duration>00:27:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-f5c1c9.mp3" length="26172333" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《百年孤独》 · 完整版 · 百年孤独根据马尔克斯指定版本翻译未做任何增删 · 完整讲读</title>
+      <description>《百年孤独》是哥伦比亚作家马尔克斯的代表作，被视为魔幻现实主义的巅峰。一座叫马孔多的沼泽小镇，七代人，上百个角色，在失眠瘟疫、三十二场内战、循环的命运与羊皮卷预言中走向毁灭。本文用六个核心拼图解读这部小说——失眠瘟疫讲失忆的绝望，奥雷里亚诺上校讲循环的虚无，乌尔苏拉、丽贝卡、阿玛兰妲讲女人的深渊——揭示孤独是布恩迪亚家族的基因烙印，是整个拉美被反复占领、反复革命、反复失忆的百年宿命。马尔克斯写的是一家的故事，其实是整个拉美一百年的故事，也是每一个现代人在重复中消耗、在孤独中老去的镜子。</description>
+      <pubDate>Mon, 15 Jun 2026 01:12:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-cf342f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《百年孤独》是哥伦比亚作家马尔克斯的代表作，被视为魔幻现实主义的巅峰。一座叫马孔多的沼泽小镇，七代人，上百个角色，在失眠瘟疫、三十二场内战、循环的命运与羊皮卷预言中走向毁灭。本文用六个核心拼图解读这部小说——失眠瘟疫讲失忆的绝望，奥雷里亚诺上校讲循环的虚无，乌尔苏拉、丽贝卡、阿玛兰妲讲女人的深渊——揭示孤独是布恩迪亚家族的基因烙印，是整个拉美被反复占领、反复革命、反复失忆的百年宿命。马尔克斯写的是一家的故事，其实是整个拉美一百年的故事，也是每一个现代人在重复中消耗、在孤独中老去的镜子。</itunes:summary>
+      <itunes:duration>00:33:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-cf342f.mp3" length="32252589" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
