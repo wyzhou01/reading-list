@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 05:42:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 05:43:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2142,6 +2142,17 @@
       <itunes:duration>00:30:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-64d1e2.mp3" length="28968237" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《人类的群星闪耀时》 · 完整版 · 人类的群星闪耀时 · 完整讲读</title>
+      <description>《人类的群星闪耀时》是茨威格写于1927到1940年间的一部历史特写集，用十四个戏剧性瞬间重构了个人意志与历史进程的交汇。巴尔沃亚躲在木箱里逃债却抢先看见太平洋、亨德尔在瘫痪边缘三周内复活《弥赛亚》、格鲁希因为一分钟的犹豫断送拿破仑的帝国、托尔斯泰在八十二岁逃离自己扮演了一生的角色、斯科特在南极输给阿蒙森却用死亡为后来者留下证据。茨威格不写历史全貌，只抓取最具张力的切片，把读者直接带到那个瞬间的中心。全书反复叩问同一个问题：当命运的大时代碾过个人，我们究竟是被裹挟的背景，还是能接住那一秒的人？这本书是历史特写这一文体的范本，也是每一个普通人在决定性瞬间的镜子。</description>
+      <pubDate>Mon, 15 Jun 2026 05:42:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-d04f9e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《人类的群星闪耀时》是茨威格写于1927到1940年间的一部历史特写集，用十四个戏剧性瞬间重构了个人意志与历史进程的交汇。巴尔沃亚躲在木箱里逃债却抢先看见太平洋、亨德尔在瘫痪边缘三周内复活《弥赛亚》、格鲁希因为一分钟的犹豫断送拿破仑的帝国、托尔斯泰在八十二岁逃离自己扮演了一生的角色、斯科特在南极输给阿蒙森却用死亡为后来者留下证据。茨威格不写历史全貌，只抓取最具张力的切片，把读者直接带到那个瞬间的中心。全书反复叩问同一个问题：当命运的大时代碾过个人，我们究竟是被裹挟的背景，还是能接住那一秒的人？这本书是历史特写这一文体的范本，也是每一个普通人在决定性瞬间的镜子。</itunes:summary>
+      <itunes:duration>00:26:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-d04f9e.mp3" length="25159341" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
