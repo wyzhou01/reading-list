@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 07:03:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 11:21:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2318,6 +2318,17 @@
       <itunes:duration>00:34:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-ad696a.mp3" length="33099693" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《凡人之心》 · 完整版 · 凡人之心 · 完整讲读</title>
+      <description>《凡人之心》是英国作家威廉·博伊德虚构的一部跨越六十年的私人日记，主角洛根·蒙斯图尔特从一九二三年的英国寄宿学校一路写到一九九一年的法国南部庄园。这部日记的核心追问是：人生究竟是连贯的成长，还是无数个互相对立、彼此挤压的瞬间？博伊德借洛根分裂的双语童年、破碎的爱情、战火中的觉醒和名利场里的迷失，呈现了一个拒绝粉饰自我的人如何在六十年里与自己的不同人格反复交战。这本书既是对二十世纪知识分子精神史的深情回顾，也是一面照向每个当代读者的冷峻镜子。</description>
+      <pubDate>Mon, 15 Jun 2026 11:21:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-7cc22c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《凡人之心》是英国作家威廉·博伊德虚构的一部跨越六十年的私人日记，主角洛根·蒙斯图尔特从一九二三年的英国寄宿学校一路写到一九九一年的法国南部庄园。这部日记的核心追问是：人生究竟是连贯的成长，还是无数个互相对立、彼此挤压的瞬间？博伊德借洛根分裂的双语童年、破碎的爱情、战火中的觉醒和名利场里的迷失，呈现了一个拒绝粉饰自我的人如何在六十年里与自己的不同人格反复交战。这本书既是对二十世纪知识分子精神史的深情回顾，也是一面照向每个当代读者的冷峻镜子。</itunes:summary>
+      <itunes:duration>00:31:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-7cc22c.mp3" length="30016557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
