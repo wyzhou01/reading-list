@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 11:41:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 11:46:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2384,6 +2384,17 @@
       <itunes:duration>00:29:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-995d2a.mp3" length="28656813" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《永恒的终结》 · 完整版 · 永恒的终结 · 完整讲读</title>
+      <description>《永恒的终结》是阿西莫夫在 1955 年写下的一本反乌托邦科幻经典。它讲述了一群&apos;永恒之人&apos;掌握时间旅行技术，自称替人类消除战争与灾难，却把文明锁死在安全的牢笼里。时空技师哈伦在一次任务中爱上来自隐藏世纪的女人诺依，最终和她一起在原始时代做出&apos;最小必要变革&apos;，亲手终结了永恒时空。整本书用一条跨越几十万年的因果链，首尾相连地回答了一个问题：当最聪明的人替所有人决定命运时，人类到底是更幸福了，还是被关进了一座看不见的牢笼？它告诉我们：技术乌托邦最大的危险，从来不是它会变坏，而是它会一直保持&apos;好&apos;，并用这种&apos;好&apos;，偷走你所有改变命运的机会。</description>
+      <pubDate>Mon, 15 Jun 2026 11:45:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-79b4bf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《永恒的终结》是阿西莫夫在 1955 年写下的一本反乌托邦科幻经典。它讲述了一群&apos;永恒之人&apos;掌握时间旅行技术，自称替人类消除战争与灾难，却把文明锁死在安全的牢笼里。时空技师哈伦在一次任务中爱上来自隐藏世纪的女人诺依，最终和她一起在原始时代做出&apos;最小必要变革&apos;，亲手终结了永恒时空。整本书用一条跨越几十万年的因果链，首尾相连地回答了一个问题：当最聪明的人替所有人决定命运时，人类到底是更幸福了，还是被关进了一座看不见的牢笼？它告诉我们：技术乌托邦最大的危险，从来不是它会变坏，而是它会一直保持&apos;好&apos;，并用这种&apos;好&apos;，偷走你所有改变命运的机会。</itunes:summary>
+      <itunes:duration>00:35:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-79b4bf.mp3" length="34414509" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
