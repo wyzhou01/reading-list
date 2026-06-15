@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 05:17:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 05:20:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2054,6 +2054,17 @@
       <itunes:duration>00:34:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-cd2ff9.mp3" length="32884269" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《项塔兰[全三册]》 · 完整版 · 项塔兰[全三册] · 完整讲读</title>
+      <description>《项塔兰》是澳大利亚作家格里高利·大卫·罗伯茨根据自身经历写成的一部半自传体小说。一个哲学系学生、瘾君子、革命分子，因持械抢劫被判二十年，逃狱后逃到孟买，在贫民窟开诊所、加入黑帮、参与阿富汗游击战、爱上不该爱的人。三十万字，写尽命运与自由意志的撕扯、爱与失去的痛苦、东西方文明的碰撞，以及一个越界者如何在最深的黑暗里，找到属于自己的光。本书被誉为二十一世纪初最具影响力的小说之一，核心是：镣铐加身的人，依然可以是自由的。</description>
+      <pubDate>Mon, 15 Jun 2026 05:20:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-5ab7b9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《项塔兰》是澳大利亚作家格里高利·大卫·罗伯茨根据自身经历写成的一部半自传体小说。一个哲学系学生、瘾君子、革命分子，因持械抢劫被判二十年，逃狱后逃到孟买，在贫民窟开诊所、加入黑帮、参与阿富汗游击战、爱上不该爱的人。三十万字，写尽命运与自由意志的撕扯、爱与失去的痛苦、东西方文明的碰撞，以及一个越界者如何在最深的黑暗里，找到属于自己的光。本书被誉为二十一世纪初最具影响力的小说之一，核心是：镣铐加身的人，依然可以是自由的。</itunes:summary>
+      <itunes:duration>00:22:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-5ab7b9.mp3" length="21736749" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
