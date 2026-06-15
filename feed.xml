@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 05:51:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 05:56:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2186,6 +2186,17 @@
       <itunes:duration>00:21:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-c562c4.mp3" length="20383533" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《远大前程》 · 完整版 · 远大前程译文名著精选 · 完整讲读</title>
+      <description>《远大前程》是狄更斯一八六一年的成熟之作。一个沼泽地长大的孤儿匹普，意外得到神秘资助进入伦敦上流社会，却在外衣、虚荣和阶级幻觉中逐渐迷失，直到资助真相大白、幻梦破灭。小说以匹普的第一人称视角，细腻刻画了环境如何悄悄改写一个人：虚荣如何把灵魂撕成两半，亲情、兄弟情与畸形恩情如何各自闪光，以及幻灭之后人能否重建自己。书中没有真正的反派，狄更斯批判的不是某个阶级，而是把人压得变形的结构本身。结尾那句&quot;夜雾渐渐消散&quot;，是这位维多利亚大师留给所有年轻人的温柔答案。</description>
+      <pubDate>Mon, 15 Jun 2026 05:56:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-8f50e4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《远大前程》是狄更斯一八六一年的成熟之作。一个沼泽地长大的孤儿匹普，意外得到神秘资助进入伦敦上流社会，却在外衣、虚荣和阶级幻觉中逐渐迷失，直到资助真相大白、幻梦破灭。小说以匹普的第一人称视角，细腻刻画了环境如何悄悄改写一个人：虚荣如何把灵魂撕成两半，亲情、兄弟情与畸形恩情如何各自闪光，以及幻灭之后人能否重建自己。书中没有真正的反派，狄更斯批判的不是某个阶级，而是把人压得变形的结构本身。结尾那句&quot;夜雾渐渐消散&quot;，是这位维多利亚大师留给所有年轻人的温柔答案。</itunes:summary>
+      <itunes:duration>00:25:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-8f50e4.mp3" length="24221613" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
