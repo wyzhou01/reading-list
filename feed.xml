@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 05:05:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 05:08:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2010,6 +2010,17 @@
       <itunes:duration>00:30:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-6f138c.mp3" length="29664429" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《资本论（全三卷）》 · 完整版 · 资本论13套装共3册 · 完整讲读</title>
+      <description>本期《好好读书》一次性讲完马克思的《资本论》三卷本。我们从商品的两因素和劳动的二重性出发，看清剩余价值如何被生产出来；走进第二卷的流通迷宫，看资本如何在不同部类之间循环周转，理解经济危机的底层密码；抵达第三卷，看利润、利息、地租如何在社会中分配，看信用与虚拟资本如何制造幻象，又如何以破裂告终。马克思揭示的，不是某个国家的特殊命运，而是资本主义作为一种生产方式的运动规律。一百五十年过去，工厂变成了平台，蒸汽机变成了算法，但劳动与剩余、积累与危机、利润与分配的底层逻辑，依然在运转。读《资本论》，不是信仰，也不是猎奇，而是获得一种穿透表象的视角，看清我们身处其中的世界。</description>
+      <pubDate>Mon, 15 Jun 2026 05:08:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-1492a9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期《好好读书》一次性讲完马克思的《资本论》三卷本。我们从商品的两因素和劳动的二重性出发，看清剩余价值如何被生产出来；走进第二卷的流通迷宫，看资本如何在不同部类之间循环周转，理解经济危机的底层密码；抵达第三卷，看利润、利息、地租如何在社会中分配，看信用与虚拟资本如何制造幻象，又如何以破裂告终。马克思揭示的，不是某个国家的特殊命运，而是资本主义作为一种生产方式的运动规律。一百五十年过去，工厂变成了平台，蒸汽机变成了算法，但劳动与剩余、积累与危机、利润与分配的底层逻辑，依然在运转。读《资本论》，不是信仰，也不是猎奇，而是获得一种穿透表象的视角，看清我们身处其中的世界。</itunes:summary>
+      <itunes:duration>00:21:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-1492a9.mp3" length="20844333" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
