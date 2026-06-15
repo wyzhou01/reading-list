@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 12:27:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 12:30:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2472,6 +2472,17 @@
       <itunes:duration>00:18:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-ecad0c.mp3" length="17973549" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《显微镜下的大明》 · 完整版 · 显微镜下的大明 · 完整讲读</title>
+      <description>《显微镜下的大明》是一部从基层视角重读明代历史的非虚构纪实。作者马伯庸以六个看似琐碎的明代故事为切片——徽州丝绢税案、婺源龙脉保卫战、杨干院庙产纠纷、大明黄册库兴衰、彭县小吏舞弊案、正统年间四条冤魂——揭示了一个被宏大叙事长期遮蔽的真相：制度的真正运作，不在金銮殿，而在县衙、粮仓、档案库与乡民的哭诉里。从一笔生绢税的十年拉锯，到一座档案库的轰然崩塌，书里没有帝王将相，只有一个个活生生的人，在僵化体制下的挣扎与算计。它用文学的笔法翻译学术成果，填补了史学与大众阅读之间的藩篱，也让我们在四百年后的今天，照见自己身边正在发生的故事。</description>
+      <pubDate>Mon, 15 Jun 2026 12:29:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-bf60fe</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《显微镜下的大明》是一部从基层视角重读明代历史的非虚构纪实。作者马伯庸以六个看似琐碎的明代故事为切片——徽州丝绢税案、婺源龙脉保卫战、杨干院庙产纠纷、大明黄册库兴衰、彭县小吏舞弊案、正统年间四条冤魂——揭示了一个被宏大叙事长期遮蔽的真相：制度的真正运作，不在金銮殿，而在县衙、粮仓、档案库与乡民的哭诉里。从一笔生绢税的十年拉锯，到一座档案库的轰然崩塌，书里没有帝王将相，只有一个个活生生的人，在僵化体制下的挣扎与算计。它用文学的笔法翻译学术成果，填补了史学与大众阅读之间的藩篱，也让我们在四百年后的今天，照见自己身边正在发生的故事。</itunes:summary>
+      <itunes:duration>00:34:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-bf60fe.mp3" length="32925741" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
