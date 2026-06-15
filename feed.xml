@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 11:21:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 11:25:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2329,6 +2329,17 @@
       <itunes:duration>00:24:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-5d2116.mp3" length="23515437" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《包法利夫人》 · 完整版 · 包法利夫人 · 完整讲读</title>
+      <description>《包法利夫人》是法国作家福楼拜于一八五六年发表的长篇小说。乡镇医生之妻爱玛，因沉迷浪漫小说、两次出轨、挥霍无度，最终债台高筑、服毒自尽。福楼拜以近乎冷酷的笔法，剖开浪漫幻想与平庸现实之间那道无法愈合的裂口，被誉为&apos;第一部现代小说&apos;，一百七十多年来持续震撼人心。</description>
+      <pubDate>Mon, 15 Jun 2026 11:25:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-794ad2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《包法利夫人》是法国作家福楼拜于一八五六年发表的长篇小说。乡镇医生之妻爱玛，因沉迷浪漫小说、两次出轨、挥霍无度，最终债台高筑、服毒自尽。福楼拜以近乎冷酷的笔法，剖开浪漫幻想与平庸现实之间那道无法愈合的裂口，被誉为&apos;第一部现代小说&apos;，一百七十多年来持续震撼人心。</itunes:summary>
+      <itunes:duration>00:26:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-794ad2.mp3" length="25858221" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
