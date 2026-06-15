@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 11:26:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 11:35:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2351,6 +2351,17 @@
       <itunes:duration>00:32:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-ad8d7c.mp3" length="31341357" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《人性的枷锁》 · 完整版 · 人性的枷锁 · 完整讲读</title>
+      <description>《人性的枷锁》是毛姆半自传体长篇，讲述跛足少年菲利普·凯里从九岁到三十岁，依次挣脱宗教、情欲、金钱、意义四道枷锁的精神成长史。书名取自斯宾诺莎《伦理学》，毛姆借一个普通人的三十年，诚实地写出“人生无意义“的真相，并给出自己的解药：承认无意义后主动编织属于自己的图案，以同情与宽恕穿越他人的苦难，最终选择最普通却最完美的人生。入选二十世纪百佳英文小说，是一代人面对存在虚无时的精神底稿。</description>
+      <pubDate>Mon, 15 Jun 2026 11:35:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-0ea211</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《人性的枷锁》是毛姆半自传体长篇，讲述跛足少年菲利普·凯里从九岁到三十岁，依次挣脱宗教、情欲、金钱、意义四道枷锁的精神成长史。书名取自斯宾诺莎《伦理学》，毛姆借一个普通人的三十年，诚实地写出“人生无意义“的真相，并给出自己的解药：承认无意义后主动编织属于自己的图案，以同情与宽恕穿越他人的苦难，最终选择最普通却最完美的人生。入选二十世纪百佳英文小说，是一代人面对存在虚无时的精神底稿。</itunes:summary>
+      <itunes:duration>00:29:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-0ea211.mp3" length="28095789" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
