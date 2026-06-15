@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 05:46:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 05:49:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2164,6 +2164,17 @@
       <itunes:duration>00:28:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-02f015.mp3" length="27604269" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《宋慈洗冤笔记（1-3册）》 · 完整版 · 宋慈洗冤笔记（独家首发｜1-3册） · 完整讲读</title>
+      <description>南宋开禧元年腊月二十九，岳飞遇害六十三周年忌日，太学二十岁的学子宋慈深夜潜入岳祠祭拜，却撞见司业何太骥悬尸火海、门窗反锁的密室惨案。少年宋慈凭借从父亲宋巩处习得的法医验尸之术，在权倾朝野的太师韩侂胄与草率昏聩的临安府司理韦应奎之间，层层剥茧、步步破局，接连破解岳祠案、丰乐楼密室案、沙丘村白骨坑案等桩桩奇案，并与同窗刘克庄、武学生辛铁柱、博士真德秀结成少年同盟，一路追查牵涉十余年、伏尸百千的惊天血案。上元节当天，宋慈率近百名学子当街拦驾请奏，请求皇帝授予查案之权，却在圣驾回宫之际突遭锦绣客舍掌柜祝学海当街指控&quot;宋慈杀人&quot;，全书于最高潮处戛然而止。</description>
+      <pubDate>Mon, 15 Jun 2026 05:49:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-0e0f4c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>南宋开禧元年腊月二十九，岳飞遇害六十三周年忌日，太学二十岁的学子宋慈深夜潜入岳祠祭拜，却撞见司业何太骥悬尸火海、门窗反锁的密室惨案。少年宋慈凭借从父亲宋巩处习得的法医验尸之术，在权倾朝野的太师韩侂胄与草率昏聩的临安府司理韦应奎之间，层层剥茧、步步破局，接连破解岳祠案、丰乐楼密室案、沙丘村白骨坑案等桩桩奇案，并与同窗刘克庄、武学生辛铁柱、博士真德秀结成少年同盟，一路追查牵涉十余年、伏尸百千的惊天血案。上元节当天，宋慈率近百名学子当街拦驾请奏，请求皇帝授予查案之权，却在圣驾回宫之际突遭锦绣客舍掌柜祝学海当街指控&quot;宋慈杀人&quot;，全书于最高潮处戛然而止。</itunes:summary>
+      <itunes:duration>00:32:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-0e0f4c.mp3" length="31296045" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
