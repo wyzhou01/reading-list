@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 05:22:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 05:23:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2076,6 +2076,17 @@
       <itunes:duration>00:34:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-3d757c.mp3" length="33153069" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《克莱因壶》 · 完整版 · 克莱因壶 · 完整讲读</title>
+      <description>《克莱因壶》是日本推理组合“冈岛二人”1991年出版的告别作，被公认为日本虚拟现实题材的开山之作。小说讲述落魄作家上杉彰彦受邀测试一款新型体感游戏，却逐渐分不清虚拟与现实，最终以开放式结局让读者、作者与角色一同困入无内外的克莱因瓶中。本书以手记体叙事、拓扑学隐喻和元小说结构，预言了技术与欲望如何联手，把人温柔地关进自己亲手砌成的牢笼。</description>
+      <pubDate>Mon, 15 Jun 2026 05:23:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-ffdd62</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《克莱因壶》是日本推理组合“冈岛二人”1991年出版的告别作，被公认为日本虚拟现实题材的开山之作。小说讲述落魄作家上杉彰彦受邀测试一款新型体感游戏，却逐渐分不清虚拟与现实，最终以开放式结局让读者、作者与角色一同困入无内外的克莱因瓶中。本书以手记体叙事、拓扑学隐喻和元小说结构，预言了技术与欲望如何联手，把人温柔地关进自己亲手砌成的牢笼。</itunes:summary>
+      <itunes:duration>00:31:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-ffdd62.mp3" length="30020397" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
