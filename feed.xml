@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 01:19:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 01:20:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1889,6 +1889,17 @@
       <itunes:duration>00:27:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-733c9f.mp3" length="26315949" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《金刚经说什么》 · 完整版 · 金刚经说什么_-_南怀瑾 · 完整讲读</title>
+      <description>《金刚经说什么》是南怀瑾先生一九八〇年在台北十方书院讲解《金刚经》的全程记录，依昭明太子三十二品分章逐品阐发。全书贯通实相、境界、文字、方便、眷属五般若，破除宗教名相的执着，揭示般若智慧与普通聪明的根本区别——般若不是聪明，是道体上自然生起的无师智。南怀瑾先生以佛陀吃饭、洗脚、敷座而坐的平常榜样为起点，反复印证“应无所住而生其心“的生活实相：佛法不离世间，穿衣吃饭皆是道，修行就是老老实实做人。全书核心直指《金刚经》三句要义——没有一个众生是佛度的，三心不可得，无法可得——道破众生自性自度的究竟本怀，是亲近《金刚经》最朴素、最有力的入门读本。</description>
+      <pubDate>Mon, 15 Jun 2026 01:20:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-2400b0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《金刚经说什么》是南怀瑾先生一九八〇年在台北十方书院讲解《金刚经》的全程记录，依昭明太子三十二品分章逐品阐发。全书贯通实相、境界、文字、方便、眷属五般若，破除宗教名相的执着，揭示般若智慧与普通聪明的根本区别——般若不是聪明，是道体上自然生起的无师智。南怀瑾先生以佛陀吃饭、洗脚、敷座而坐的平常榜样为起点，反复印证“应无所住而生其心“的生活实相：佛法不离世间，穿衣吃饭皆是道，修行就是老老实实做人。全书核心直指《金刚经》三句要义——没有一个众生是佛度的，三心不可得，无法可得——道破众生自性自度的究竟本怀，是亲近《金刚经》最朴素、最有力的入门读本。</itunes:summary>
+      <itunes:duration>00:22:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-2400b0.mp3" length="21455277" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
