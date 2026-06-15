@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 00:59:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 01:05:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1845,6 +1845,17 @@
       <itunes:duration>00:25:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-23f42e.mp3" length="24389037" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《生吞》 · 完整版 · 生吞 · 完整讲读</title>
+      <description>《生吞》是八零后东北作家郑执的长篇代表作,二零零三年东北小城的一场大雪里,少女黄姝被奸杀后弃尸鬼楼,警方将嫌疑锁定在她智力残障的哥哥秦天身上;十年后,当几乎一模一样的案件再次发生,当年知情却沉默的少年王頔、冯雪娇、高磊三人,才在夜色中爬回那条曾埋下交换日记的防空洞,面对自己亲口咽下的懦弱与背叛。全书以悬疑外壳包裹东北下岗潮的历史创伤,写透了权力、关系与沉默如何将一代普通人的命运生吞活剥。</description>
+      <pubDate>Mon, 15 Jun 2026 01:05:36 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-7d5dc6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《生吞》是八零后东北作家郑执的长篇代表作,二零零三年东北小城的一场大雪里,少女黄姝被奸杀后弃尸鬼楼,警方将嫌疑锁定在她智力残障的哥哥秦天身上;十年后,当几乎一模一样的案件再次发生,当年知情却沉默的少年王頔、冯雪娇、高磊三人,才在夜色中爬回那条曾埋下交换日记的防空洞,面对自己亲口咽下的懦弱与背叛。全书以悬疑外壳包裹东北下岗潮的历史创伤,写透了权力、关系与沉默如何将一代普通人的命运生吞活剥。</itunes:summary>
+      <itunes:duration>00:28:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-7d5dc6.mp3" length="27641901" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
