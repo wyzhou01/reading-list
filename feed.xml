@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 12:26:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 12:27:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2461,6 +2461,17 @@
       <itunes:duration>00:26:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-05bce3.mp3" length="25801389" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《经济解释（四卷本）》 · 完整版 · 经济解释四卷本 · 完整讲读</title>
+      <description>《经济解释》是张五常的学术巅峰之作，摒弃数学公式和图表，以简洁文字阐述经济学的核心使命：解释&quot;为什么&quot;。全书以需求定律为基石，深入探讨产权合约、交易费用、制度变迁等新制度经济学核心议题。张五常强调简单理论才能解释复杂世界，认为经济学应集中于解释世事而非堆砌模型。他从科学方法论出发，区分特殊理论与套套逻辑，提出&quot;可能被事实推翻&quot;的验证标准；分析产权结构与合约安排，揭示财富创造的隐形引擎；探讨制度变迁的逻辑，解释改革如何自下而上演化。这部作品不仅是新制度经济学的经典文献，更是普通人理解身边经济现象的钥匙，对中国改革实践具有深远参考价值。</description>
+      <pubDate>Mon, 15 Jun 2026 12:26:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-ecad0c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《经济解释》是张五常的学术巅峰之作，摒弃数学公式和图表，以简洁文字阐述经济学的核心使命：解释&quot;为什么&quot;。全书以需求定律为基石，深入探讨产权合约、交易费用、制度变迁等新制度经济学核心议题。张五常强调简单理论才能解释复杂世界，认为经济学应集中于解释世事而非堆砌模型。他从科学方法论出发，区分特殊理论与套套逻辑，提出&quot;可能被事实推翻&quot;的验证标准；分析产权结构与合约安排，揭示财富创造的隐形引擎；探讨制度变迁的逻辑，解释改革如何自下而上演化。这部作品不仅是新制度经济学的经典文献，更是普通人理解身边经济现象的钥匙，对中国改革实践具有深远参考价值。</itunes:summary>
+      <itunes:duration>00:18:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-ecad0c.mp3" length="17973549" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
