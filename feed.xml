@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 01:12:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 01:19:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1878,6 +1878,17 @@
       <itunes:duration>00:33:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-cf342f.mp3" length="32252589" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《世界尽头与冷酷仙境》 · 完整版 · 世界尽头与冷酷仙境 · 完整讲读</title>
+      <description>《世界尽头与冷酷仙境》是村上春树一九八五年首次尝试双线平行结构的长篇小说。它讲述了一个“计算士“在中老年与符号、密码、运算打交道的故事——他被卷入一场围绕头骨的隐秘战争，与胖秘书、图书馆女孩、独立组织周旋，同时他在意识深处还拥有一个由城墙、河流、独角兽、看门人构成的“世界尽头“小镇，他的影子在那里渐渐死去。当外部世界的截止日期逼近，“我“必须在两个世界之间做出选择：跟随影子逃出小镇、回到冷酷仙境继续被算法重写的命运，还是独自留下、守住一座由自己造出的精神寺院。村上用头骨、井、墙、独角兽、符号这些意象，搭出了一座关于意识、数据与归属的迷宫，提前三十年预言了人工智能时代人类的精神困境：你是要继续在符号系统里狂奔，还是选择留在一个你可以为之承担责任的世界里。这本书至今仍是村上结构最复杂、解读空间最大的一部作品，也是任何想认真谈论“意识与自我“的读者绕不开的经典。</description>
+      <pubDate>Mon, 15 Jun 2026 01:19:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-733c9f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《世界尽头与冷酷仙境》是村上春树一九八五年首次尝试双线平行结构的长篇小说。它讲述了一个“计算士“在中老年与符号、密码、运算打交道的故事——他被卷入一场围绕头骨的隐秘战争，与胖秘书、图书馆女孩、独立组织周旋，同时他在意识深处还拥有一个由城墙、河流、独角兽、看门人构成的“世界尽头“小镇，他的影子在那里渐渐死去。当外部世界的截止日期逼近，“我“必须在两个世界之间做出选择：跟随影子逃出小镇、回到冷酷仙境继续被算法重写的命运，还是独自留下、守住一座由自己造出的精神寺院。村上用头骨、井、墙、独角兽、符号这些意象，搭出了一座关于意识、数据与归属的迷宫，提前三十年预言了人工智能时代人类的精神困境：你是要继续在符号系统里狂奔，还是选择留在一个你可以为之承担责任的世界里。这本书至今仍是村上结构最复杂、解读空间最大的一部作品，也是任何想认真谈论“意识与自我“的读者绕不开的经典。</itunes:summary>
+      <itunes:duration>00:27:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-733c9f.mp3" length="26315949" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
