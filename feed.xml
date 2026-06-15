@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 01:05:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 01:06:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1856,6 +1856,17 @@
       <itunes:duration>00:28:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-7d5dc6.mp3" length="27641901" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《南货店》 · 完整版 · 南货店 · 完整讲读</title>
+      <description>《南货店》是张忌继《出家》之后的第二部长篇,以供销社体系还存在于南方县城的那段岁月为背景,通过十九岁少年陆秋林被分配到乡下南货店做伙计的视角,写出了一爿小店、四个师傅在粗粝日子里相互取暖又彼此亏欠的故事。书里没有英雄、没有传奇,只有紫檀算盘、象牙秤、杉木门板、松了盖子的饼干罐、煤油炉上的红枣银耳——以及一个个看似无足轻重、实则承载全部人情与尊严的具体动作。作者刻意强化改良过的方言叙事,既不隔断北方读者,也能让南方读者会心一笑。弋舟称这部小说是“为那些无名者立传”——它写的,其实是每一个在生活里用力撑着、却常常被忽略的普通人。</description>
+      <pubDate>Mon, 15 Jun 2026 01:06:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-a8f61a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《南货店》是张忌继《出家》之后的第二部长篇,以供销社体系还存在于南方县城的那段岁月为背景,通过十九岁少年陆秋林被分配到乡下南货店做伙计的视角,写出了一爿小店、四个师傅在粗粝日子里相互取暖又彼此亏欠的故事。书里没有英雄、没有传奇,只有紫檀算盘、象牙秤、杉木门板、松了盖子的饼干罐、煤油炉上的红枣银耳——以及一个个看似无足轻重、实则承载全部人情与尊严的具体动作。作者刻意强化改良过的方言叙事,既不隔断北方读者,也能让南方读者会心一笑。弋舟称这部小说是“为那些无名者立传”——它写的,其实是每一个在生活里用力撑着、却常常被忽略的普通人。</itunes:summary>
+      <itunes:duration>00:29:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-a8f61a.mp3" length="28581549" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
