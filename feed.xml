@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 00:33:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 00:33:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1713,6 +1713,17 @@
       <itunes:duration>00:28:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-8f604b.mp3" length="27770925" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《隐秘而伟大》 · 完整版 · 隐秘而伟大（上下册） · 完整讲读</title>
+      <description>《隐秘而伟大》是黄琛、蒲维合著的长篇小说，改编自同名电视剧。一九四六年，刚从东吴大学法学院毕业的顾耀东进入上海市警察局，怀揣“匡扶正义，保护百姓”的朴素信念，却跌入一个巨大而隐秘的漩涡——警察局被改造为搜捕地下党的工具，而地下警委的齿轮早已嵌进敌人机器内部。在刑警二处处长夏继成与地下交通员沈青禾的默默注视与保护下，这个连开枪都不会的新警察，用二十年时间，把一句被嘲笑的口号，活成了自己的脊梁。本书不只讲谍战的惊心动魄，更讲信仰如何在现实的泥里一节一节长出来，讲小人物在大时代下如何被碾过、又怎样长成脊梁。</description>
+      <pubDate>Mon, 15 Jun 2026 00:33:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-756c15</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《隐秘而伟大》是黄琛、蒲维合著的长篇小说，改编自同名电视剧。一九四六年，刚从东吴大学法学院毕业的顾耀东进入上海市警察局，怀揣“匡扶正义，保护百姓”的朴素信念，却跌入一个巨大而隐秘的漩涡——警察局被改造为搜捕地下党的工具，而地下警委的齿轮早已嵌进敌人机器内部。在刑警二处处长夏继成与地下交通员沈青禾的默默注视与保护下，这个连开枪都不会的新警察，用二十年时间，把一句被嘲笑的口号，活成了自己的脊梁。本书不只讲谍战的惊心动魄，更讲信仰如何在现实的泥里一节一节长出来，讲小人物在大时代下如何被碾过、又怎样长成脊梁。</itunes:summary>
+      <itunes:duration>00:27:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-756c15.mp3" length="26873517" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
