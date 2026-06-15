@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 11:25:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 11:26:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2340,6 +2340,17 @@
       <itunes:duration>00:26:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-794ad2.mp3" length="25858221" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《网络是怎样连接的》 · 完整版 · 网络是怎样连接的 · 完整讲读</title>
+      <description>《网络是怎样连接的》以一次完整的网页访问为线索，从浏览器、协议栈、网卡出发，途经集线器、交换机、路由器、接入网、运营商网络与互联网交换中心，最终抵达服务器端的防火墙、负载均衡器、缓存与 CDN，把互联网全链路的真实工作机制完整拆解。它用一条包的真实旅程，替代了传统教材按 OSI 分层的抽象讲解，让读者真正看见网络世界是如何转起来的。</description>
+      <pubDate>Mon, 15 Jun 2026 11:24:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-ad8d7c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《网络是怎样连接的》以一次完整的网页访问为线索，从浏览器、协议栈、网卡出发，途经集线器、交换机、路由器、接入网、运营商网络与互联网交换中心，最终抵达服务器端的防火墙、负载均衡器、缓存与 CDN，把互联网全链路的真实工作机制完整拆解。它用一条包的真实旅程，替代了传统教材按 OSI 分层的抽象讲解，让读者真正看见网络世界是如何转起来的。</itunes:summary>
+      <itunes:duration>00:32:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-ad8d7c.mp3" length="31341357" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
