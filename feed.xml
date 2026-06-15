@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 00:42:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 00:44:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1768,6 +1768,17 @@
       <itunes:duration>00:28:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-8e09ca.mp3" length="27011757" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《看懂世界格局的第一本书·大国博弈》 · 完整版 · 看懂世界格局的第一本书·大国博弈 · 完整讲读</title>
+      <description>《看懂世界格局的第一本书·大国博弈》是一本从地缘政治和经济史双重视角解读大国博弈底层逻辑的入门读物。作者王伟以抗日战争为切入点,系统梳理了中国南北二元结构的历史困局、明治维新与洋务运动的成败对比、东北亚地缘格局的形成,进而延伸至当代的南海争端、第一岛链、货币霸权与海陆并举战略。全书的核心论点在于:大国博弈的胜负,从来不是偶然,而是由地理、生产方式、社会结构、利益关系等深层因素共同决定的。中国复兴的关键,在于把握海陆并举的战略思维,在工业化与金融化的双重支撑下,实现真正意义上的民族复兴。</description>
+      <pubDate>Mon, 15 Jun 2026 00:44:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-a30cac</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《看懂世界格局的第一本书·大国博弈》是一本从地缘政治和经济史双重视角解读大国博弈底层逻辑的入门读物。作者王伟以抗日战争为切入点,系统梳理了中国南北二元结构的历史困局、明治维新与洋务运动的成败对比、东北亚地缘格局的形成,进而延伸至当代的南海争端、第一岛链、货币霸权与海陆并举战略。全书的核心论点在于:大国博弈的胜负,从来不是偶然,而是由地理、生产方式、社会结构、利益关系等深层因素共同决定的。中国复兴的关键,在于把握海陆并举的战略思维,在工业化与金融化的双重支撑下,实现真正意义上的民族复兴。</itunes:summary>
+      <itunes:duration>00:34:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-a30cac.mp3" length="33244077" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
