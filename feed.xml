@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 05:08:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 05:11:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2021,6 +2021,17 @@
       <itunes:duration>00:21:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-1492a9.mp3" length="20844333" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《动物庄园》 · 完整版 · 动物庄园 · 完整讲读</title>
+      <description>《动物庄园》是英国作家乔治·奥威尔写于一九四三年至一九四四年的一则政治寓言。农场动物在老麦哲猪的号召下发动革命，赶走人类主人，建立动物庄园，并在墙上刻下七戒。然而猪群逐渐篡夺权力，悄悄改写戒律、独占物资、屠杀异己，最忠诚的马鲍克瑟被卖给屠宰场，最聪明的驴本杰明始终沉默。故事结尾，猪学会了直立行走、穿衣喝酒、与人类庄园主同桌碰杯，墙上那句所有动物一律平等，被悄悄变成了所有动物一律平等，但有些动物比别的动物更平等。本书以文学语言揭示了革命的异化轨迹：任何平均主义社会，只要产生掌握分配权的统治集团，其最终结果必然背离其维护公平的基本诉求。一九九一年苏东剧变，几乎一一印证了这个预言。</description>
+      <pubDate>Mon, 15 Jun 2026 05:11:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-cf0a41</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《动物庄园》是英国作家乔治·奥威尔写于一九四三年至一九四四年的一则政治寓言。农场动物在老麦哲猪的号召下发动革命，赶走人类主人，建立动物庄园，并在墙上刻下七戒。然而猪群逐渐篡夺权力，悄悄改写戒律、独占物资、屠杀异己，最忠诚的马鲍克瑟被卖给屠宰场，最聪明的驴本杰明始终沉默。故事结尾，猪学会了直立行走、穿衣喝酒、与人类庄园主同桌碰杯，墙上那句所有动物一律平等，被悄悄变成了所有动物一律平等，但有些动物比别的动物更平等。本书以文学语言揭示了革命的异化轨迹：任何平均主义社会，只要产生掌握分配权的统治集团，其最终结果必然背离其维护公平的基本诉求。一九九一年苏东剧变，几乎一一印证了这个预言。</itunes:summary>
+      <itunes:duration>00:33:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-cf0a41.mp3" length="31878957" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
