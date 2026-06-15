@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 05:29:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 05:35:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2109,6 +2109,17 @@
       <itunes:duration>00:27:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-56d153.mp3" length="26227629" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《回话的艺术》 · 完整版 · 回话的艺术 · 完整讲读</title>
+      <description>《回话的艺术》是李文勇写给现代人的一本沟通手册，核心主张是：沟通的关键不在于&quot;说什么&quot;，而在于&quot;怎么回&quot;。全书围绕回话的意义、四大原则、回话前分析、回话前准备、回话技巧、特殊问题应对、非语言沟通、思维控制、书面回话等十个主题展开，把心理学、传播学的原理拆解成普通人可操作的回话动作。它提醒我们：在人人抢着表达的时代，会接住别人的人，才是真正被需要的人。</description>
+      <pubDate>Mon, 15 Jun 2026 05:34:36 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-9152a9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《回话的艺术》是李文勇写给现代人的一本沟通手册，核心主张是：沟通的关键不在于&quot;说什么&quot;，而在于&quot;怎么回&quot;。全书围绕回话的意义、四大原则、回话前分析、回话前准备、回话技巧、特殊问题应对、非语言沟通、思维控制、书面回话等十个主题展开，把心理学、传播学的原理拆解成普通人可操作的回话动作。它提醒我们：在人人抢着表达的时代，会接住别人的人，才是真正被需要的人。</itunes:summary>
+      <itunes:duration>00:33:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-9152a9.mp3" length="32633133" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
