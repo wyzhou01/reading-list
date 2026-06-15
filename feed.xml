@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 00:23:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 00:26:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1691,6 +1691,17 @@
       <itunes:duration>00:30:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-2974bb.mp3" length="28821933" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《浪潮之巅》 · 完整版 · 浪潮之巅 · 完整讲读</title>
+      <description>《浪潮之巅》是吴军博士写于二〇一一年的科技产业经典,系统梳理了一百多年来AT&amp;T、IBM、苹果、英特尔、微软、思科、雅虎、谷歌八家科技帝国的兴衰规律。书中提出六个核心洞察:技术革命是不连续的浪潮;IT产业有摩尔定律、安迪-比尔定理、反摩尔定理三条铁律;好的商业模式应该像印钞机一样越用越赚钱;公司的基因决定它能否跨越时代;风投与投行在幕后左右科技公司的命运;下一个谷歌大概率诞生在亚太。理解浪潮、看清规律,是一个人一生最重要的功课。</description>
+      <pubDate>Mon, 15 Jun 2026 00:26:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-70603f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《浪潮之巅》是吴军博士写于二〇一一年的科技产业经典,系统梳理了一百多年来AT&amp;T、IBM、苹果、英特尔、微软、思科、雅虎、谷歌八家科技帝国的兴衰规律。书中提出六个核心洞察:技术革命是不连续的浪潮;IT产业有摩尔定律、安迪-比尔定理、反摩尔定理三条铁律;好的商业模式应该像印钞机一样越用越赚钱;公司的基因决定它能否跨越时代;风投与投行在幕后左右科技公司的命运;下一个谷歌大概率诞生在亚太。理解浪潮、看清规律,是一个人一生最重要的功课。</itunes:summary>
+      <itunes:duration>00:40:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-70603f.mp3" length="38714925" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
