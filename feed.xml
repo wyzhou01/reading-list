@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 11:35:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 11:38:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2362,6 +2362,17 @@
       <itunes:duration>00:29:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-0ea211.mp3" length="28095789" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《论语全集》 · 完整版 · 论语全集 · 完整讲读</title>
+      <description>《论语全集》是儒家学派创始人孔子及其弟子言行的辑录，由唐品主编、天地出版社二零一七年出版。全书共二十篇、五百余则语录，核心围绕一个“仁“字展开，系统阐述了做人修养、做事分寸、为政底线、学习根本、安身立命五大主题。书中以杨伯峻《论语译注》为底本，逐章呈现原文、注释、译文、历代论引、评析五位一体的解读，引用朱熹、程颐、谢良佐等历代名家注解，评析部分结合当下现实生活。本书不仅是中国人的精神圣经，更是一套在快节奏时代安顿内心的实用人格修养方案，适合每一个想要活得明白的人。</description>
+      <pubDate>Mon, 15 Jun 2026 11:38:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-beecdf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《论语全集》是儒家学派创始人孔子及其弟子言行的辑录，由唐品主编、天地出版社二零一七年出版。全书共二十篇、五百余则语录，核心围绕一个“仁“字展开，系统阐述了做人修养、做事分寸、为政底线、学习根本、安身立命五大主题。书中以杨伯峻《论语译注》为底本，逐章呈现原文、注释、译文、历代论引、评析五位一体的解读，引用朱熹、程颐、谢良佐等历代名家注解，评析部分结合当下现实生活。本书不仅是中国人的精神圣经，更是一套在快节奏时代安顿内心的实用人格修养方案，适合每一个想要活得明白的人。</itunes:summary>
+      <itunes:duration>00:30:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-beecdf.mp3" length="29728941" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
