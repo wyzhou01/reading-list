@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 00:33:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 00:33:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1724,6 +1724,17 @@
       <itunes:duration>00:27:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-756c15.mp3" length="26873517" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《废都》 · 完整版 · 废都 · 完整讲读</title>
+      <description>《废都》是贾平凹一九九三年出版的长篇小说，以九十年代初的西京城为舞台，讲述著名作家庄之蝶在名利、情欲与官场纠葛中的沉沦。小说通过他与多位女性的感情、与官僚系统的冲突、与商业大潮的碰撞，写出了一整代知识分子在时代转弯处的精神溃败。一座古都的废弃，正是无数心灵废弃的缩影。</description>
+      <pubDate>Mon, 15 Jun 2026 00:33:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-63b044</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《废都》是贾平凹一九九三年出版的长篇小说，以九十年代初的西京城为舞台，讲述著名作家庄之蝶在名利、情欲与官场纠葛中的沉沦。小说通过他与多位女性的感情、与官僚系统的冲突、与商业大潮的碰撞，写出了一整代知识分子在时代转弯处的精神溃败。一座古都的废弃，正是无数心灵废弃的缩影。</itunes:summary>
+      <itunes:duration>00:27:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-63b044.mp3" length="26465325" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
