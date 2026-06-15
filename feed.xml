@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 05:27:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 05:29:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2098,6 +2098,17 @@
       <itunes:duration>00:36:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-d834b5.mp3" length="35089965" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大医·日出篇》 · 完整版 · 大医·日出篇——马伯庸 · 完整讲读</title>
+      <description>《大医·日出篇》是马伯庸耗时数年、翻遍红十字会档案与抗战救护记录写就的非虚构底色长篇，时间跨度从一九一三年延伸至一九五〇年。三个小医生方三响、孙希、姚英子在红会总医院里被时代反复锤打，从辛亥余烬一路走到新中国成立的曙光：一间戏院改建的保育讲习所，是近代公共卫生从民间走向国家的艰难第一步；一场关于收生婆要不要培训两个月的争吵，是医学严谨与现实妥协之间永恒的撕扯；而那些被史书略过的真实人物——徐根竹、陈仲信、王兆澄——用自己短暂的一生，撑起了我们今天称之为现代中国的地基。这不是一本让我们崇拜神医的书，而是一本让我们看见人、并且愿意自己也成为那种人的书。</description>
+      <pubDate>Mon, 15 Jun 2026 05:29:36 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-56d153</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大医·日出篇》是马伯庸耗时数年、翻遍红十字会档案与抗战救护记录写就的非虚构底色长篇，时间跨度从一九一三年延伸至一九五〇年。三个小医生方三响、孙希、姚英子在红会总医院里被时代反复锤打，从辛亥余烬一路走到新中国成立的曙光：一间戏院改建的保育讲习所，是近代公共卫生从民间走向国家的艰难第一步；一场关于收生婆要不要培训两个月的争吵，是医学严谨与现实妥协之间永恒的撕扯；而那些被史书略过的真实人物——徐根竹、陈仲信、王兆澄——用自己短暂的一生，撑起了我们今天称之为现代中国的地基。这不是一本让我们崇拜神医的书，而是一本让我们看见人、并且愿意自己也成为那种人的书。</itunes:summary>
+      <itunes:duration>00:27:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-56d153.mp3" length="26227629" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
