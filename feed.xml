@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 06:18:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 06:26:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2274,6 +2274,17 @@
       <itunes:duration>00:29:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-07c8c7.mp3" length="27977133" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《雕刻时光》 · 完整版 · 雕刻时光 · 完整讲读</title>
+      <description>塔可夫斯基的《雕刻时光》是一部电影艺术的精神宣言。他提出电影的本质是时间，导演的工作是雕刻时间的纹理；电影形象是思想与现实的有机统一；诗的逻辑比戏剧的逻辑更接近生活本质；艺术是人对抗物质化的精神防线。一九八六年作者离世，本书成为他留给电影的最后嘱托。</description>
+      <pubDate>Mon, 15 Jun 2026 06:26:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-4f14aa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>塔可夫斯基的《雕刻时光》是一部电影艺术的精神宣言。他提出电影的本质是时间，导演的工作是雕刻时间的纹理；电影形象是思想与现实的有机统一；诗的逻辑比戏剧的逻辑更接近生活本质；艺术是人对抗物质化的精神防线。一九八六年作者离世，本书成为他留给电影的最后嘱托。</itunes:summary>
+      <itunes:duration>00:30:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-4f14aa.mp3" length="29243565" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
