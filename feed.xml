@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 05:12:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 05:17:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2043,6 +2043,17 @@
       <itunes:duration>00:34:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-ed315a.mp3" length="33203757" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《请以你的名字呼唤我》 · 完整版 · 请以你的名字呼唤我 · 完整讲读</title>
+      <description>《请以你的名字呼唤我》是安德烈·艾席蒙关于一段意大利夏天初恋的长篇回忆。十七岁的埃利奥遇见借住在他家的二十四岁美国青年奥利弗，六周里他们试探、靠近、沉溺，最终在离别中把彼此活进身体里。艾席蒙用极致的感官语言，重写了初恋、欲望、记忆与失去的定义——爱情不是占有，而是在被一个人彻底改变之后，用余生与他共处。读这本书，就是重新经历一次夏日的心跳，并学会与回不去的夏天温柔共处。</description>
+      <pubDate>Mon, 15 Jun 2026 05:17:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-cd2ff9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《请以你的名字呼唤我》是安德烈·艾席蒙关于一段意大利夏天初恋的长篇回忆。十七岁的埃利奥遇见借住在他家的二十四岁美国青年奥利弗，六周里他们试探、靠近、沉溺，最终在离别中把彼此活进身体里。艾席蒙用极致的感官语言，重写了初恋、欲望、记忆与失去的定义——爱情不是占有，而是在被一个人彻底改变之后，用余生与他共处。读这本书，就是重新经历一次夏日的心跳，并学会与回不去的夏天温柔共处。</itunes:summary>
+      <itunes:duration>00:34:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-cd2ff9.mp3" length="32884269" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
