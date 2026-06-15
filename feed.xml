@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 12:41:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 12:47:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2505,6 +2505,17 @@
       <itunes:duration>00:21:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-557082.mp3" length="20516781" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《孽子》 · 完整版 · 子简体中文版 · 完整讲读</title>
+      <description>白先勇长篇《孽子》以一九七零年代台北新公园的男同性恋少年群落为题材，写出被家庭与社会放逐的“青春鸟”们如何在黑暗王国中自建家园、彼此取暖。全书以阿青被父亲逐出家门为起点，穿插吴敏剖腕、小玉换干爹、傅卫之死等情节，揭开这群孩子在公厕、莲花池与陌生旅社间的爱欲、孤独与代偿。白先勇不写悲悯，写的是合法世界的客厅比不合法的王国更冷；并指出创伤代代相传——父亲们用错误的方式爱孩子，孩子用错误的方式回应。三十年后，《孽子》从禁忌之作走入公视连续剧、国家戏剧院，成为华语文学中罕见的、为边缘群体留下精神坐标的经典。</description>
+      <pubDate>Mon, 15 Jun 2026 12:46:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-a115df</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>白先勇长篇《孽子》以一九七零年代台北新公园的男同性恋少年群落为题材，写出被家庭与社会放逐的“青春鸟”们如何在黑暗王国中自建家园、彼此取暖。全书以阿青被父亲逐出家门为起点，穿插吴敏剖腕、小玉换干爹、傅卫之死等情节，揭开这群孩子在公厕、莲花池与陌生旅社间的爱欲、孤独与代偿。白先勇不写悲悯，写的是合法世界的客厅比不合法的王国更冷；并指出创伤代代相传——父亲们用错误的方式爱孩子，孩子用错误的方式回应。三十年后，《孽子》从禁忌之作走入公视连续剧、国家戏剧院，成为华语文学中罕见的、为边缘群体留下精神坐标的经典。</itunes:summary>
+      <itunes:duration>00:31:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-a115df.mp3" length="30392109" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
