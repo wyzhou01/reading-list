@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 05:35:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 05:37:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2120,6 +2120,17 @@
       <itunes:duration>00:33:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-9152a9.mp3" length="32633133" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《四世同堂》 · 完整版 · 四世同堂 · 完整讲读</title>
+      <description>《四世同堂》是老舍先生写于一九四四年、出版于一九四六年至一九五七年的百万字长篇小说，以北平小羊圈胡同祁家四代人为核心，全景式展现一九三七年至一九四五年抗战八年北平沦陷期间普通市民的精神炼狱。小说塑造了冠晓荷、钱默吟、瑞宣、韵梅等极具代表性的人物群像，深刻揭示了&quot;忍辱偷生&quot;与&quot;以死抗争&quot;两种抵抗的代价，以及四世同堂传统家庭在战争中的瓦解与重生。一九五一年英文版《黄色风暴》在美国出版后获巨大声誉，中文完整版一九八三年在大陆出版，是中国现代文学史上唯一一部以百万字规模描写抗战中普通市民精神史的长篇巨著，今天读来，依然叩问每一个中国人在极端处境下的选择。</description>
+      <pubDate>Mon, 15 Jun 2026 05:35:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-3ef3f1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《四世同堂》是老舍先生写于一九四四年、出版于一九四六年至一九五七年的百万字长篇小说，以北平小羊圈胡同祁家四代人为核心，全景式展现一九三七年至一九四五年抗战八年北平沦陷期间普通市民的精神炼狱。小说塑造了冠晓荷、钱默吟、瑞宣、韵梅等极具代表性的人物群像，深刻揭示了&quot;忍辱偷生&quot;与&quot;以死抗争&quot;两种抵抗的代价，以及四世同堂传统家庭在战争中的瓦解与重生。一九五一年英文版《黄色风暴》在美国出版后获巨大声誉，中文完整版一九八三年在大陆出版，是中国现代文学史上唯一一部以百万字规模描写抗战中普通市民精神史的长篇巨著，今天读来，依然叩问每一个中国人在极端处境下的选择。</itunes:summary>
+      <itunes:duration>00:44:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-3ef3f1.mp3" length="42753069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
