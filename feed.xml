@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 12:30:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 12:38:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2483,6 +2483,17 @@
       <itunes:duration>00:34:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-bf60fe.mp3" length="32925741" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《打开一颗心》 · 完整版 · 打开一颗心 · 完整讲读</title>
+      <description>《打开一颗心》是英国顶级心脏外科医生斯蒂芬·韦斯塔比的手术室回忆录，记录了从二十世纪六十年代心脏外科起步到人工心脏时代的五十年技术跃迁。全书贯穿一万两千台手术的真实案例，从盲探到直视、从修补到移植再到机械替代，展现外科医生在不确定性中做出决断的职业人格，也直面失败、死亡与愧疚。韦斯塔比既是技术革命的亲历者，也是与体制博弈、为患者争一线生机的创新者。这本书不止是医学故事，更是对脆弱生命、人类勇气与医学边界的一次深情凝视。</description>
+      <pubDate>Mon, 15 Jun 2026 12:37:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-a9693a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《打开一颗心》是英国顶级心脏外科医生斯蒂芬·韦斯塔比的手术室回忆录，记录了从二十世纪六十年代心脏外科起步到人工心脏时代的五十年技术跃迁。全书贯穿一万两千台手术的真实案例，从盲探到直视、从修补到移植再到机械替代，展现外科医生在不确定性中做出决断的职业人格，也直面失败、死亡与愧疚。韦斯塔比既是技术革命的亲历者，也是与体制博弈、为患者争一线生机的创新者。这本书不止是医学故事，更是对脆弱生命、人类勇气与医学边界的一次深情凝视。</itunes:summary>
+      <itunes:duration>00:26:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-a9693a.mp3" length="25796013" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
