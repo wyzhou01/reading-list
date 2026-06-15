@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 11:46:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 11:53:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2395,6 +2395,17 @@
       <itunes:duration>00:35:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-79b4bf.mp3" length="34414509" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我的二本学生》 · 完整版 · 我的二本学生 · 完整讲读</title>
+      <description>《我的二本学生》是黄灯在广东一所普通二本院校任教十三年的教学札记。她以四千五百多名学生、两个班级为样本，记录了八零后、九零后这群最普通年轻人的真实命运：他们大多出身平凡，是村里第一个走出来的大学生，却在房价高企、就业内卷、学历贬值的时代里，承担着教育承诺与现实落差之间巨大的裂缝。书中以龙洞的城中村为切口，呈现了春艳、伟福、辛追、晓霖、冰冰、亚康等鲜活个体的生存肌理；并以三个“深漂二代”家庭为对照，揭示了“深漂一代”靠劳动闯出深圳、“深漂二代”却被迫在精致与稳定中退守的精神转向。这是一本关于阶层流动、家庭权重、教育回报、城市命运与年轻人精神退守的清醒之书，被许多高校老师视为“看见普通学生”的第一本书。</description>
+      <pubDate>Mon, 15 Jun 2026 11:52:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-6d794d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我的二本学生》是黄灯在广东一所普通二本院校任教十三年的教学札记。她以四千五百多名学生、两个班级为样本，记录了八零后、九零后这群最普通年轻人的真实命运：他们大多出身平凡，是村里第一个走出来的大学生，却在房价高企、就业内卷、学历贬值的时代里，承担着教育承诺与现实落差之间巨大的裂缝。书中以龙洞的城中村为切口，呈现了春艳、伟福、辛追、晓霖、冰冰、亚康等鲜活个体的生存肌理；并以三个“深漂二代”家庭为对照，揭示了“深漂一代”靠劳动闯出深圳、“深漂二代”却被迫在精致与稳定中退守的精神转向。这是一本关于阶层流动、家庭权重、教育回报、城市命运与年轻人精神退守的清醒之书，被许多高校老师视为“看见普通学生”的第一本书。</itunes:summary>
+      <itunes:duration>00:29:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-6d794d.mp3" length="28570797" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
