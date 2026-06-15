@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 12:47:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 12:55:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2516,6 +2516,17 @@
       <itunes:duration>00:31:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-a115df.mp3" length="30392109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《雨季不再来（三毛全集·01）》 · 完整版 · 雨季不再来三毛全集 · 完整讲读</title>
+      <description>《雨季不再来》是三毛在二十三岁那年，亲手整理自己十七岁到二十二岁之间所有文字而成的集子。本书收录了这位传奇女作家早期最青涩、最潮湿的习作，记录了一个叫「二毛」的女孩，从台北眷巷里的早恋萌动，到十六岁陷入抑郁、多次试图结束生命，再到十七岁远走西班牙、二十一岁在沙漠订婚、二十二岁在分手边缘写下家书的全过程。全书不讲大道理，只老老实实记录一个女孩如何跌倒、如何迷惘、如何在死亡与流浪之间学会自己爬起来。它是三毛一切故事开始的地方——那块用整整六年的雨季，替她后来的撒哈拉打下的、最坚实的基石。</description>
+      <pubDate>Mon, 15 Jun 2026 12:55:36 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-afa112</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《雨季不再来》是三毛在二十三岁那年，亲手整理自己十七岁到二十二岁之间所有文字而成的集子。本书收录了这位传奇女作家早期最青涩、最潮湿的习作，记录了一个叫「二毛」的女孩，从台北眷巷里的早恋萌动，到十六岁陷入抑郁、多次试图结束生命，再到十七岁远走西班牙、二十一岁在沙漠订婚、二十二岁在分手边缘写下家书的全过程。全书不讲大道理，只老老实实记录一个女孩如何跌倒、如何迷惘、如何在死亡与流浪之间学会自己爬起来。它是三毛一切故事开始的地方——那块用整整六年的雨季，替她后来的撒哈拉打下的、最坚实的基石。</itunes:summary>
+      <itunes:duration>00:26:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-afa112.mp3" length="25121325" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
