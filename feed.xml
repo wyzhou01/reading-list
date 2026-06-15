@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 01:20:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 01:21:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1900,6 +1900,17 @@
       <itunes:duration>00:22:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-2400b0.mp3" length="21455277" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《影响力》 · 完整版 · 影响力 · 完整讲读</title>
+      <description>《影响力》是西奥迪尼写的一本心理学经典。它揭示了六种藏在日常生活里的&quot;顺从武器&quot;：互惠、承诺和一致、社会认同、喜好、权威、稀缺。人类在面对复杂环境时，会本能地抄捷径、套范式、用触发特征做决定；商家、销售员、广告商正是利用这些捷径，让我们不知不觉就点了头。读懂这本书，不是为了操纵别人，而是为了看清那根看不见的线，在下次冲动下单、稀里糊涂答应之前，给自己留一个停顿的余地。</description>
+      <pubDate>Mon, 15 Jun 2026 01:20:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-3cc514</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《影响力》是西奥迪尼写的一本心理学经典。它揭示了六种藏在日常生活里的&quot;顺从武器&quot;：互惠、承诺和一致、社会认同、喜好、权威、稀缺。人类在面对复杂环境时，会本能地抄捷径、套范式、用触发特征做决定；商家、销售员、广告商正是利用这些捷径，让我们不知不觉就点了头。读懂这本书，不是为了操纵别人，而是为了看清那根看不见的线，在下次冲动下单、稀里糊涂答应之前，给自己留一个停顿的余地。</itunes:summary>
+      <itunes:duration>00:32:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-3cc514.mp3" length="31323693" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
