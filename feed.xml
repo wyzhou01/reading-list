@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 05:11:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 05:12:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2032,6 +2032,17 @@
       <itunes:duration>00:33:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-cf0a41.mp3" length="31878957" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《欢乐英雄》 · 完整版 · 欢乐英雄 · 完整讲读</title>
+      <description>《欢乐英雄》是古龙一九七一年写的一本&quot;穷武侠&quot;。四个穷得叮当响的江湖客——郭大路、王动、燕七、林太平——守着间破屋子叫&quot;富贵山庄&quot;，互相损，互相救，把苦日子过出了花。古龙用一种调侃又深情的笔调，戳破了&quot;金钱等于幸福&quot;的幻觉，告诉我们：真正的快乐从来不是钱买来的，是人活出来的；真正的英雄不是杀伐决断的大人物，是愿意为身边人扛事、挨饿、挨打还能笑出来的人。读完这本书，你会重新想一想，自己心里那个叫&quot;快乐&quot;的东西，到底值多少钱。</description>
+      <pubDate>Mon, 15 Jun 2026 05:12:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-ed315a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《欢乐英雄》是古龙一九七一年写的一本&quot;穷武侠&quot;。四个穷得叮当响的江湖客——郭大路、王动、燕七、林太平——守着间破屋子叫&quot;富贵山庄&quot;，互相损，互相救，把苦日子过出了花。古龙用一种调侃又深情的笔调，戳破了&quot;金钱等于幸福&quot;的幻觉，告诉我们：真正的快乐从来不是钱买来的，是人活出来的；真正的英雄不是杀伐决断的大人物，是愿意为身边人扛事、挨饿、挨打还能笑出来的人。读完这本书，你会重新想一想，自己心里那个叫&quot;快乐&quot;的东西，到底值多少钱。</itunes:summary>
+      <itunes:duration>00:34:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-ed315a.mp3" length="33203757" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
