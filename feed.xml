@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 01:28:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 01:30:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1944,6 +1944,17 @@
       <itunes:duration>00:29:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-cb0b82.mp3" length="28728237" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《康熙大帝》 · 完整版 · 康熙王朝全四卷全本 · 完整讲读</title>
+      <description>本期《好好读书》一口气读完二月河《康熙大帝》全四卷。从顺治十八年风雪夜的八岁少年玄烨讲起，到康熙六十一年畅春园里传位雍正收束。围绕&quot;少年天子的悬崖求生、忠臣到奸臣的权力坠落、帝王软肋的三重情关、盛世里的裂缝、容的智慧、身后名的孤独&quot;六块拼图，解读一个伟大帝王如何在刀光剑影中完成自我淬炼。</description>
+      <pubDate>Mon, 15 Jun 2026 01:29:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-ca3088</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期《好好读书》一口气读完二月河《康熙大帝》全四卷。从顺治十八年风雪夜的八岁少年玄烨讲起，到康熙六十一年畅春园里传位雍正收束。围绕&quot;少年天子的悬崖求生、忠臣到奸臣的权力坠落、帝王软肋的三重情关、盛世里的裂缝、容的智慧、身后名的孤独&quot;六块拼图，解读一个伟大帝王如何在刀光剑影中完成自我淬炼。</itunes:summary>
+      <itunes:duration>00:26:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-ca3088.mp3" length="25512237" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
