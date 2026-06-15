@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 01:27:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 01:28:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1933,6 +1933,17 @@
       <itunes:duration>00:19:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-e01bd8.mp3" length="18279981" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《斯通纳》 · 完整版 · 斯通纳 · 完整讲读</title>
+      <description>一个农家子弟威廉·斯通纳，19岁进入密苏里大学，从农学院转入文学，在一次英国文学课上被莎士比亚十四行诗击中，从此把学术当作毕生志业。他在一所平庸的大学里度过一生：娶了家境优渥却冷漠的妻子伊迪丝，养大了与他渐行渐远的女儿格蕾斯；与同事劳曼克斯的友谊成为他唯一的慰藉；与年轻女学生凯瑟琳的婚外情是他生命中最炽热的瞬间，却被无情掐灭。斯通纳一生没有升到副教授，死后被迅速遗忘，但他以一本中世纪文献手稿和无数在课堂上被点亮的瞬间，默默确认了自己的存在。这是一曲关于&apos;平庸人生如何拥有内在尊严&apos;的挽歌。</description>
+      <pubDate>Mon, 15 Jun 2026 01:28:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-cb0b82</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一个农家子弟威廉·斯通纳，19岁进入密苏里大学，从农学院转入文学，在一次英国文学课上被莎士比亚十四行诗击中，从此把学术当作毕生志业。他在一所平庸的大学里度过一生：娶了家境优渥却冷漠的妻子伊迪丝，养大了与他渐行渐远的女儿格蕾斯；与同事劳曼克斯的友谊成为他唯一的慰藉；与年轻女学生凯瑟琳的婚外情是他生命中最炽热的瞬间，却被无情掐灭。斯通纳一生没有升到副教授，死后被迅速遗忘，但他以一本中世纪文献手稿和无数在课堂上被点亮的瞬间，默默确认了自己的存在。这是一曲关于&apos;平庸人生如何拥有内在尊严&apos;的挽歌。</itunes:summary>
+      <itunes:duration>00:29:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-cb0b82.mp3" length="28728237" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
