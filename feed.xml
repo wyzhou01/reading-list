@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 00:57:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 00:58:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1823,6 +1823,17 @@
       <itunes:duration>00:25:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-4564f6.mp3" length="24318765" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《江南困局：晚明士大夫的危机时刻》 · 完整版 · 江南困局：晚明士大夫的危机时刻（唐元鹏） · 完整讲读</title>
+      <description>本书聚焦晚明万历至崇祯年间江南六起针对顶级缙绅家族的社会动荡事件。作者从社会微观视角揭示：在白银资本冲击、雇佣劳动兴起、奴仆阶层觉醒的多重作用下，看似牢不可破的士大夫特权秩序走向崩塌，状元、宰相、书画大家在官、绅、士、民、奴的生死缠斗中一步步走向覆灭。</description>
+      <pubDate>Mon, 15 Jun 2026 00:58:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-e18137</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书聚焦晚明万历至崇祯年间江南六起针对顶级缙绅家族的社会动荡事件。作者从社会微观视角揭示：在白银资本冲击、雇佣劳动兴起、奴仆阶层觉醒的多重作用下，看似牢不可破的士大夫特权秩序走向崩塌，状元、宰相、书画大家在官、绅、士、民、奴的生死缠斗中一步步走向覆灭。</itunes:summary>
+      <itunes:duration>00:31:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-e18137.mp3" length="30197805" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
