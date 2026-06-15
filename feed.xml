@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 05:37:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 05:42:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2131,6 +2131,17 @@
       <itunes:duration>00:44:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-3ef3f1.mp3" length="42753069" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《俗女养成记》 · 完整版 · 俗女养成记 · 完整讲读</title>
+      <description>《俗女养成记》是江鹅的回望之书，写一个台南中药房小孙女如何在长辈期盼、社会标准与自我拉扯中长大。冬至菜包里的半颗蟑螂蛋，拆掉了&quot;听话就能换坦途&quot;的童话；妈妈用力乖了一辈子，让她看见女人不必只有一种形状；S、A、J 三个同龄朋友，则映出所有已经达标却仍在喘气的女人。江鹅最终没有成为优秀好命的样板房女人，她给自己那株不会结果的酪梨，找到了土和盆。这是一本写给所有普通女人的和解之书——花半辈子活成普通人，理直气壮，也挺好的。</description>
+      <pubDate>Mon, 15 Jun 2026 05:41:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-64d1e2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《俗女养成记》是江鹅的回望之书，写一个台南中药房小孙女如何在长辈期盼、社会标准与自我拉扯中长大。冬至菜包里的半颗蟑螂蛋，拆掉了&quot;听话就能换坦途&quot;的童话；妈妈用力乖了一辈子，让她看见女人不必只有一种形状；S、A、J 三个同龄朋友，则映出所有已经达标却仍在喘气的女人。江鹅最终没有成为优秀好命的样板房女人，她给自己那株不会结果的酪梨，找到了土和盆。这是一本写给所有普通女人的和解之书——花半辈子活成普通人，理直气壮，也挺好的。</itunes:summary>
+      <itunes:duration>00:30:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-64d1e2.mp3" length="28968237" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
