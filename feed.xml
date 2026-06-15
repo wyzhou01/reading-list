@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 12:11:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 12:16:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2439,6 +2439,17 @@
       <itunes:duration>00:30:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-f7098d.mp3" length="29141805" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《那不勒斯四部曲》 · 完整版 · 那不勒斯四部曲 · 完整讲读</title>
+      <description>《那不勒斯四部曲》是意大利匿名作家费兰特写就的史诗巨著，讲述两个那不勒斯贫民区女孩莉拉与埃莱娜，从一九五零年代到二零一零年代、横跨六十余年的命运纠缠。她们互相追赶、互相嫉妒、互相成就又互相毁灭：一个成了畅销书作家，一个在六十六岁那年从世界彻底消失。全书以女性友谊的共生与撕裂为切口，直面贫穷、暴力、男权、婚姻与生育，写出底层女性想要“成为自己“所必须付出的、无法言说的血的代价，是过去一百年最诚实的女性成长小说之一。</description>
+      <pubDate>Mon, 15 Jun 2026 12:15:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-9f299b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《那不勒斯四部曲》是意大利匿名作家费兰特写就的史诗巨著，讲述两个那不勒斯贫民区女孩莉拉与埃莱娜，从一九五零年代到二零一零年代、横跨六十余年的命运纠缠。她们互相追赶、互相嫉妒、互相成就又互相毁灭：一个成了畅销书作家，一个在六十六岁那年从世界彻底消失。全书以女性友谊的共生与撕裂为切口，直面贫穷、暴力、男权、婚姻与生育，写出底层女性想要“成为自己“所必须付出的、无法言说的血的代价，是过去一百年最诚实的女性成长小说之一。</itunes:summary>
+      <itunes:duration>00:21:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-9f299b.mp3" length="21105069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
