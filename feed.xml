@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 13:11:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 13:16:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2560,6 +2560,17 @@
       <itunes:duration>00:29:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-9d1233.mp3" length="28554669" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《王小波时代四部曲（黄金时代·白银时代·青铜时代·黑铁时代）》 · 完整版 · 王小波时代四部曲系列王小波经典作品最值得收藏的版本黄金时代白银时代青铜时代黑铁时代套装共4册 · 完整讲读</title>
+      <description>本节目用一期讲完《王小波时代四部曲》。从云南插队的《黄金时代》,到规训知识分子的《白银时代》《青铜时代》,再到无处可逃的《黑铁时代》。我们聊王小波如何用最轻的语气写最深的荒诞,如何把性写成反叛,把未来写成更深的牢笼,把知识分子的悲剧写成自我阉割——以及,在被锤子落下之前,人为什么还要写、还要爱、还要记得。</description>
+      <pubDate>Mon, 15 Jun 2026 13:15:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-a874f2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本节目用一期讲完《王小波时代四部曲》。从云南插队的《黄金时代》,到规训知识分子的《白银时代》《青铜时代》,再到无处可逃的《黑铁时代》。我们聊王小波如何用最轻的语气写最深的荒诞,如何把性写成反叛,把未来写成更深的牢笼,把知识分子的悲剧写成自我阉割——以及,在被锤子落下之前,人为什么还要写、还要爱、还要记得。</itunes:summary>
+      <itunes:duration>00:26:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-a874f2.mp3" length="25845165" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
