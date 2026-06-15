@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 02:07:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 02:10:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1988,6 +1988,17 @@
       <itunes:duration>00:29:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-a8f61a.mp3" length="28581549" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《杀死玛丽苏》 · 完整版 · 杀死玛丽苏 · 完整讲读</title>
+      <description>《杀死玛丽苏》是日本作家乙一（及其四个笔名）于二零一六年推出的短篇合集，中文版二零一九年由北京联合出版公司引进。全书收录七个故事，围绕同一个母题展开：当完美的假面被撕掉，底下那个模糊的、陌生的、让人害怕的自己，究竟是谁？从一个吃药后用死去父亲墨水写日记的大学生，到一支揭穿全班人设的钢笔，再到一场用人体做成的乐器演奏会，这本书用七个让你后背发凉的故事，反复追问一个哲学问题——你身上所有别人贴的标签被撕掉之后，剩下的那个人，还是你吗？在社交媒体鼓励经营人设、算法帮我们制造完美自己的今天，这本书是一记冷静的提醒：所有精心维护的假面，都有被撕开的一天，而那天，才是认识自己的开始。</description>
+      <pubDate>Sun, 14 Jun 2026 16:31:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-28bf65</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《杀死玛丽苏》是日本作家乙一（及其四个笔名）于二零一六年推出的短篇合集，中文版二零一九年由北京联合出版公司引进。全书收录七个故事，围绕同一个母题展开：当完美的假面被撕掉，底下那个模糊的、陌生的、让人害怕的自己，究竟是谁？从一个吃药后用死去父亲墨水写日记的大学生，到一支揭穿全班人设的钢笔，再到一场用人体做成的乐器演奏会，这本书用七个让你后背发凉的故事，反复追问一个哲学问题——你身上所有别人贴的标签被撕掉之后，剩下的那个人，还是你吗？在社交媒体鼓励经营人设、算法帮我们制造完美自己的今天，这本书是一记冷静的提醒：所有精心维护的假面，都有被撕开的一天，而那天，才是认识自己的开始。</itunes:summary>
+      <itunes:duration>00:28:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-28bf65.mp3" length="26921517" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
