@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 13:07:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 13:11:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2549,6 +2549,17 @@
       <itunes:duration>00:35:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-ce2f2f.mp3" length="33964845" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大医·破晓篇》 · 完整版 · 大医·破晓篇 · 完整讲读</title>
+      <description>本期《好好读书》深度拆解马伯庸四十四万字巨著《大医·破晓篇》。一九零四年关东战场上，十三岁的方三响以猎户土法救下二十余条人命，自此立下苍生大医之志。一九一零年，他与上海千金姚英子、海外孤儿孙希齐聚上海华山医院，在不知血型、缺乏抗生素的战火时疫中，熬成中国第一代现代医生。本期分享三大核心洞察：苍生大医不是漂亮话，是用命熬出来的；医学现代化更是观念革命；普通人于民族至暗时刻能做的最朴素之事——把身边能救的人，一个一个救下来。</description>
+      <pubDate>Mon, 15 Jun 2026 13:10:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-9d1233</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期《好好读书》深度拆解马伯庸四十四万字巨著《大医·破晓篇》。一九零四年关东战场上，十三岁的方三响以猎户土法救下二十余条人命，自此立下苍生大医之志。一九一零年，他与上海千金姚英子、海外孤儿孙希齐聚上海华山医院，在不知血型、缺乏抗生素的战火时疫中，熬成中国第一代现代医生。本期分享三大核心洞察：苍生大医不是漂亮话，是用命熬出来的；医学现代化更是观念革命；普通人于民族至暗时刻能做的最朴素之事——把身边能救的人，一个一个救下来。</itunes:summary>
+      <itunes:duration>00:29:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-9d1233.mp3" length="28554669" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
