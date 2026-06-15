@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 05:23:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 05:27:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2087,6 +2087,17 @@
       <itunes:duration>00:31:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-ffdd62.mp3" length="30020397" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《自私的基因》 · 完整版 · 自私的基因 · 完整讲读</title>
+      <description>《自私的基因》是理查德·道金斯一九七六年的颠覆性著作，提出自然选择的真正单位不是物种、群体或个体，而是基因。书中用基因视角解释了动物的利他行为、亲代与子代的博弈、两性策略的演化，并首创“觅母”概念，将进化逻辑延伸到文化领域。四十年后，它依然是理解生命、欲望与人性的必读书。</description>
+      <pubDate>Mon, 15 Jun 2026 05:27:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-d834b5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《自私的基因》是理查德·道金斯一九七六年的颠覆性著作，提出自然选择的真正单位不是物种、群体或个体，而是基因。书中用基因视角解释了动物的利他行为、亲代与子代的博弈、两性策略的演化，并首创“觅母”概念，将进化逻辑延伸到文化领域。四十年后，它依然是理解生命、欲望与人性的必读书。</itunes:summary>
+      <itunes:duration>00:36:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-d834b5.mp3" length="35089965" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
