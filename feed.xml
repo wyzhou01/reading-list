@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 02:10:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 05:05:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1999,6 +1999,17 @@
       <itunes:duration>00:28:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-28bf65.mp3" length="26921517" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《次贷危机中的女人》 · 完整版 · 次贷危机中的女人 · 完整讲读</title>
+      <description>《次贷危机中的女人》记录了二零零七到二零一零年欧洲次贷危机中，法国财长拉加德如何在被总统府架空的处境下，从被嘲讽的“花瓶“蜕变为英国《金融时报》评出的欧元区最佳财长。本书还原了她斡旋于欧美政要之间的关键夜晚，包括二〇〇八年九月里尔街公馆里的一〇五亿欧元银行救援谈判，以及二〇一〇年五月九日挽救欧元的五千亿欧元救市计划。这本书既是一份珍贵的危机决策幕后档案，也是一面关于女性在男性主导权力场中如何把事情办成的镜子。</description>
+      <pubDate>Mon, 15 Jun 2026 05:05:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-6f138c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《次贷危机中的女人》记录了二零零七到二零一零年欧洲次贷危机中，法国财长拉加德如何在被总统府架空的处境下，从被嘲讽的“花瓶“蜕变为英国《金融时报》评出的欧元区最佳财长。本书还原了她斡旋于欧美政要之间的关键夜晚，包括二〇〇八年九月里尔街公馆里的一〇五亿欧元银行救援谈判，以及二〇一〇年五月九日挽救欧元的五千亿欧元救市计划。这本书既是一份珍贵的危机决策幕后档案，也是一面关于女性在男性主导权力场中如何把事情办成的镜子。</itunes:summary>
+      <itunes:duration>00:30:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-6f138c.mp3" length="29664429" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
