@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 12:55:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 13:04:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2527,6 +2527,17 @@
       <itunes:duration>00:26:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-afa112.mp3" length="25121325" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《飞行家》 · 完整版 · 飞行家 · 完整讲读</title>
+      <description>双雪涛的第二部小说集，收录九篇中短篇小说，延续其标志性的东北工业城市书写。九篇小说从跷跷板、光明堂到飞行家、北方化为乌有、白鸟、刺杀小说家、宽吻、终点，各自独立又彼此呼应，以冷峻克制的笔法写下岗工人、失败者、被时代碾过的小人物，以及那些关于飞翔、逃离与自我拯救的隐秘渴望。在双雪涛笔下，钢铁厂、吊车、工人新村是消逝的背景，而人如何在废墟中保持尊严、如何用想象力对抗荒凉，才是这些故事真正的内核。</description>
+      <pubDate>Mon, 15 Jun 2026 13:04:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-0e99b8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>双雪涛的第二部小说集，收录九篇中短篇小说，延续其标志性的东北工业城市书写。九篇小说从跷跷板、光明堂到飞行家、北方化为乌有、白鸟、刺杀小说家、宽吻、终点，各自独立又彼此呼应，以冷峻克制的笔法写下岗工人、失败者、被时代碾过的小人物，以及那些关于飞翔、逃离与自我拯救的隐秘渴望。在双雪涛笔下，钢铁厂、吊车、工人新村是消逝的背景，而人如何在废墟中保持尊严、如何用想象力对抗荒凉，才是这些故事真正的内核。</itunes:summary>
+      <itunes:duration>00:30:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-0e99b8.mp3" length="29702445" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
