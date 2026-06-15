@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 12:02:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 12:02:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2417,6 +2417,17 @@
       <itunes:duration>00:30:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-e1382f.mp3" length="29652141" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《债务和魔鬼：货币、信贷和全球金融体系重建》 · 完整版 · 债务和魔鬼：货币、信贷和全球金融体系重建（阿代尔·特纳） · 完整讲读</title>
+      <description>《债务和魔鬼》由英国金融服务局前主席阿代尔·特纳撰写，系统剖析了二〇〇八年金融危机的深层根源：私人银行体系无限制创造信贷的能力。特纳指出，百分之九十八的货币实际由商业银行通过放贷创造，债务与货币本为一体。这一机制催生资产泡沫、加剧贫富分化，并在泡沫破裂后引发漫长去杠杆。他用数据证明信贷主要流向已有资产而非新投资，戳破了传统货币政策只看通胀不看信贷的盲点。在政策建议上，特纳提出向债务征税、管理信贷总量，并在严格规则下考虑使用货币融资以打破债务积压困局。本书既是对主流经济学教条的犀利批判，也是一份重建全球金融体系的行动纲领，对当下中国和世界都极具警示意义。</description>
+      <pubDate>Mon, 15 Jun 2026 12:02:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-33996e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《债务和魔鬼》由英国金融服务局前主席阿代尔·特纳撰写，系统剖析了二〇〇八年金融危机的深层根源：私人银行体系无限制创造信贷的能力。特纳指出，百分之九十八的货币实际由商业银行通过放贷创造，债务与货币本为一体。这一机制催生资产泡沫、加剧贫富分化，并在泡沫破裂后引发漫长去杠杆。他用数据证明信贷主要流向已有资产而非新投资，戳破了传统货币政策只看通胀不看信贷的盲点。在政策建议上，特纳提出向债务征税、管理信贷总量，并在严格规则下考虑使用货币融资以打破债务积压困局。本书既是对主流经济学教条的犀利批判，也是一份重建全球金融体系的行动纲领，对当下中国和世界都极具警示意义。</itunes:summary>
+      <itunes:duration>00:36:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-33996e.mp3" length="34875693" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
