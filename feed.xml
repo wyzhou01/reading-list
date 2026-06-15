@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 05:59:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 06:01:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2219,6 +2219,17 @@
       <itunes:duration>00:24:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-1c18f3.mp3" length="23642925" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《论美国的民主》 · 完整版 · 论美国的民主全2册 · 完整讲读</title>
+      <description>《论美国的民主》是十九世纪法国贵族托克维尔对美国九个月游历的总结, 分上下两册。上册剖析联邦制、司法独立、出版自由、结社精神如何制衡多数暴政; 下册深入民情, 揭示身份平等如何重塑宗教、家庭、文学, 也催生个人主义与中央集权。全书最终落到一个沉甸甸的警告: 民主时代最危险的不是暴君, 而是让人主动放弃自由的&quot;温和专制&quot;。它至今仍是每个关心自由的人, 必读的一面镜子。</description>
+      <pubDate>Mon, 15 Jun 2026 06:01:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-ec2266</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《论美国的民主》是十九世纪法国贵族托克维尔对美国九个月游历的总结, 分上下两册。上册剖析联邦制、司法独立、出版自由、结社精神如何制衡多数暴政; 下册深入民情, 揭示身份平等如何重塑宗教、家庭、文学, 也催生个人主义与中央集权。全书最终落到一个沉甸甸的警告: 民主时代最危险的不是暴君, 而是让人主动放弃自由的&quot;温和专制&quot;。它至今仍是每个关心自由的人, 必读的一面镜子。</itunes:summary>
+      <itunes:duration>00:25:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-ec2266.mp3" length="24049581" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
