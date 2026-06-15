@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 05:49:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 05:51:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2175,6 +2175,17 @@
       <itunes:duration>00:32:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-0e0f4c.mp3" length="31296045" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我从未如此眷恋人间》 · 完整版 · 我从未如此眷恋人间 · 完整讲读</title>
+      <description>一本收录汪曾祺、史铁生、季羡林、林徽因、老舍、丰子恺等十余位中国现当代文学大家散文佳作的合集。书中没有空洞的励志，没有廉价的抒情，只有一代人在战争、瘫痪、流离、丧子之后，依然认真地吃饭、看花、写字、爱人。本书邀你从屏幕前抬起头，从窗子里走出来，把脚踩进今天的泥里——在一粥一饭中，重新学会眷恋人间。</description>
+      <pubDate>Mon, 15 Jun 2026 05:51:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-c562c4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一本收录汪曾祺、史铁生、季羡林、林徽因、老舍、丰子恺等十余位中国现当代文学大家散文佳作的合集。书中没有空洞的励志，没有廉价的抒情，只有一代人在战争、瘫痪、流离、丧子之后，依然认真地吃饭、看花、写字、爱人。本书邀你从屏幕前抬起头，从窗子里走出来，把脚踩进今天的泥里——在一粥一饭中，重新学会眷恋人间。</itunes:summary>
+      <itunes:duration>00:21:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-c562c4.mp3" length="20383533" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
