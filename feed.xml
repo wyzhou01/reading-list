@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 00:35:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 00:42:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -1757,6 +1757,17 @@
       <itunes:duration>00:26:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-1a7ad6.mp3" length="25365549" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《社会性动物》 · 完整版 · 社会性动物 · 完整讲读</title>
+      <description>《社会性动物》是社会心理学奠基人阿伦森的经典教科书。本期围绕六块核心拼图展开：从众如何让个体放弃自己的判断，认知失调如何驱动人为决定辩护，情绪与信任如何比数据更具说服力，情境如何把普通人推向攻击，偏见如何在没有接触的情况下自我生长，爱又如何让两个陌生人变成彼此的归宿。读完本书，你会明白：我们的思想、情感与行为，并不完全属于我们自己，社会环境在背后悄悄塑造着一切。理解这些机制，不是为了变得冷漠，而是为了在潮水涌来时，保留那一寸清醒的判断。</description>
+      <pubDate>Mon, 15 Jun 2026 00:42:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260615-episode-20260615-8e09ca</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《社会性动物》是社会心理学奠基人阿伦森的经典教科书。本期围绕六块核心拼图展开：从众如何让个体放弃自己的判断，认知失调如何驱动人为决定辩护，情绪与信任如何比数据更具说服力，情境如何把普通人推向攻击，偏见如何在没有接触的情况下自我生长，爱又如何让两个陌生人变成彼此的归宿。读完本书，你会明白：我们的思想、情感与行为，并不完全属于我们自己，社会环境在背后悄悄塑造着一切。理解这些机制，不是为了变得冷漠，而是为了在潮水涌来时，保留那一寸清醒的判断。</itunes:summary>
+      <itunes:duration>00:28:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-8e09ca.mp3" length="27011757" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
