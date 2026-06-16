@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 16 Jun 2026 08:41:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 12:39:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2802,6 +2802,17 @@
       <itunes:duration>00:25:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260616/episode-20260616-f47e58.mp3" length="24004269" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我是个算命先生》 · 完整版 · 我是个算命先生 · 完整讲读</title>
+      <description>《我是个算命先生》是江相派嫡系传人的第一手口述实录，揭秘中国近三百年隐秘江湖。江相派兴起于清初洪门，打着“反清复明“旗号算命行骗，至民国已演变为纯粹诈骗组织。书中详解“英耀“心理学、“扎飞“装神弄鬼术、“鲁班门“鬼手术，揭露如何把军统特务、土匪头子、深闺怨妇、青楼女子玩弄于股掌之间。一九四九年后江相派瓦解，传人在政府改造下由魔入佛，工人、教师、中医，完成了三百年的自我救赎。这不仅是一段隐秘江湖的揭秘，更是一面照见人性与时代的镜子。</description>
+      <pubDate>Tue, 16 Jun 2026 12:38:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260616-episode-20260616-e3eb83</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我是个算命先生》是江相派嫡系传人的第一手口述实录，揭秘中国近三百年隐秘江湖。江相派兴起于清初洪门，打着“反清复明“旗号算命行骗，至民国已演变为纯粹诈骗组织。书中详解“英耀“心理学、“扎飞“装神弄鬼术、“鲁班门“鬼手术，揭露如何把军统特务、土匪头子、深闺怨妇、青楼女子玩弄于股掌之间。一九四九年后江相派瓦解，传人在政府改造下由魔入佛，工人、教师、中医，完成了三百年的自我救赎。这不仅是一段隐秘江湖的揭秘，更是一面照见人性与时代的镜子。</itunes:summary>
+      <itunes:duration>00:31:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260616/episode-20260616-e3eb83.mp3" length="29836845" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
