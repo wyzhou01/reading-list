@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 16 Jun 2026 01:51:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 01:59:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2703,6 +2703,17 @@
       <itunes:duration>00:26:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260616/episode-20260616-b80292.mp3" length="25438125" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《穿越平行宇宙》 · 完整版 · 穿越平行宇宙_-_迈克斯·泰格马克 · 完整讲读</title>
+      <description>在这本书里，麻省理工学院教授迈克斯·泰格马克提出了一个大胆得近乎疯狂的想法：我们的宇宙，不仅仅是被数学所描述，宇宙本身就是数学。他带你穿越四层多重宇宙，从暴胀宇宙学到量子力学的多世界诠释，再到数学宇宙假说，重新审视时间、空间、物质与意识的本质。他用物理学家的严谨，写下了一句近乎诗意的结论：意识，是宇宙认识自己的方式。本书适合每一个曾在深夜仰望星空、怀疑过“实在”到底是什么的读者。</description>
+      <pubDate>Tue, 16 Jun 2026 01:59:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260616-episode-20260616-b58272</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>在这本书里，麻省理工学院教授迈克斯·泰格马克提出了一个大胆得近乎疯狂的想法：我们的宇宙，不仅仅是被数学所描述，宇宙本身就是数学。他带你穿越四层多重宇宙，从暴胀宇宙学到量子力学的多世界诠释，再到数学宇宙假说，重新审视时间、空间、物质与意识的本质。他用物理学家的严谨，写下了一句近乎诗意的结论：意识，是宇宙认识自己的方式。本书适合每一个曾在深夜仰望星空、怀疑过“实在”到底是什么的读者。</itunes:summary>
+      <itunes:duration>00:22:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260616/episode-20260616-b58272.mp3" length="21619629" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
