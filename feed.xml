@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 16 Jun 2026 01:07:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 01:19:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2659,6 +2659,17 @@
       <itunes:duration>00:28:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260616/episode-20260616-f0fa12.mp3" length="27366957" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《嗜血的皇冠》 · 完整版 · 嗜血的皇冠 · 完整讲读</title>
+      <description>《嗜血的皇冠》是曹三公子继《流血的仕途》之后又一部&quot;以心证史&quot;的历史小说,聚焦东汉开国皇帝刘秀从九岁丧父到六十三岁驾崩的完整一生。公元二十三年昆阳城下,二十九岁的刘秀以九千守军大破王莽四十二万大军,一夜成名;但等他班师回宛,等来的却是长兄刘縯被更始帝以鸿门宴方式诛杀的讣告。兄弟二人,一刚一忍,一死一生,成为本书最锋利的人生命题:命里注定你要当皇帝,努力还有没有意义?曹昇以近五十万字的笔力,在王莽篡汉的至暗时刻,在&quot;刘秀当为天子&quot;的谶语之下,告诉你:努力是把&quot;注定&quot;变成&quot;现实&quot;的那座桥。</description>
+      <pubDate>Tue, 16 Jun 2026 01:19:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260616-episode-20260616-84c497</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《嗜血的皇冠》是曹三公子继《流血的仕途》之后又一部&quot;以心证史&quot;的历史小说,聚焦东汉开国皇帝刘秀从九岁丧父到六十三岁驾崩的完整一生。公元二十三年昆阳城下,二十九岁的刘秀以九千守军大破王莽四十二万大军,一夜成名;但等他班师回宛,等来的却是长兄刘縯被更始帝以鸿门宴方式诛杀的讣告。兄弟二人,一刚一忍,一死一生,成为本书最锋利的人生命题:命里注定你要当皇帝,努力还有没有意义?曹昇以近五十万字的笔力,在王莽篡汉的至暗时刻,在&quot;刘秀当为天子&quot;的谶语之下,告诉你:努力是把&quot;注定&quot;变成&quot;现实&quot;的那座桥。</itunes:summary>
+      <itunes:duration>00:44:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260616/episode-20260616-84c497.mp3" length="43060269" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
