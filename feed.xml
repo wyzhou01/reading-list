@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 16 Jun 2026 08:02:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 08:33:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2780,6 +2780,17 @@
       <itunes:duration>00:31:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260616/episode-20260616-04c435.mp3" length="29824557" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《C++ Primer Plus（第6版）中文版》 · 完整版 · C++_Primer_Plus（第6版）中文版 · 完整讲读</title>
+      <description>《C++ Primer Plus》第六版中文版由Stephen Prata撰写，是C++十一标准定稿后推出的入门经典。全书十八章从C语言基础讲起，循序渐进覆盖面向对象、模板与STL、动态内存与智能指针、异常处理、C++十一新特性等核心主题。书中强调动手实践，每个概念配可运行示例，覆盖Windows、macOS、Linux三大平台。虽距英文版出版已十四年，但其构建的&quot;数据+内存+抽象+复用&quot;的思维框架至今仍是现代C++学习的最佳起点，特别适合零基础读者建立对系统级编程的直觉。</description>
+      <pubDate>Tue, 16 Jun 2026 08:26:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260616-episode-20260616-f5de90</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《C++ Primer Plus》第六版中文版由Stephen Prata撰写，是C++十一标准定稿后推出的入门经典。全书十八章从C语言基础讲起，循序渐进覆盖面向对象、模板与STL、动态内存与智能指针、异常处理、C++十一新特性等核心主题。书中强调动手实践，每个概念配可运行示例，覆盖Windows、macOS、Linux三大平台。虽距英文版出版已十四年，但其构建的&quot;数据+内存+抽象+复用&quot;的思维框架至今仍是现代C++学习的最佳起点，特别适合零基础读者建立对系统级编程的直觉。</itunes:summary>
+      <itunes:duration>00:23:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260616/episode-20260616-f5de90.mp3" length="22174125" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
