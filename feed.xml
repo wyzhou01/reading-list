@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 16 Jun 2026 01:43:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 01:51:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2692,6 +2692,17 @@
       <itunes:duration>00:24:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260616/episode-20260616-b71978.mp3" length="23587629" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《恶意》 · 完整版 · 恶意 · 完整讲读</title>
+      <description>《恶意》是东野圭吾的巅峰之作，讲述畅销书作家日高邦彦被杀，凶手野野口修很快落网却对动机语焉不详。刑警加贺恭一郎深入调查后发现，野野口真正目的不是隐瞒秘密，而是要彻底毁掉日高的人格与名誉。这份没有任何来由的恨，源自两人之间那道无法跨越的差距——日高的优秀本身，就是野野口最大的伤口。本书采用手记体叙事，通过精心伪造的笔记操纵所有人的判断，深刻揭示了偏见的传承、叙事的危险与人性深处的黑暗。</description>
+      <pubDate>Tue, 16 Jun 2026 01:51:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260616-episode-20260616-b80292</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《恶意》是东野圭吾的巅峰之作，讲述畅销书作家日高邦彦被杀，凶手野野口修很快落网却对动机语焉不详。刑警加贺恭一郎深入调查后发现，野野口真正目的不是隐瞒秘密，而是要彻底毁掉日高的人格与名誉。这份没有任何来由的恨，源自两人之间那道无法跨越的差距——日高的优秀本身，就是野野口最大的伤口。本书采用手记体叙事，通过精心伪造的笔记操纵所有人的判断，深刻揭示了偏见的传承、叙事的危险与人性深处的黑暗。</itunes:summary>
+      <itunes:duration>00:26:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260616/episode-20260616-b80292.mp3" length="25438125" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
