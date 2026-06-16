@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 16 Jun 2026 00:13:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 00:20:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2604,6 +2604,17 @@
       <itunes:duration>00:28:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260616/episode-20260616-243c22.mp3" length="27063213" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《最重要的事，只有一件》 · 完整版 · 最重要的事，只有一件 · 完整讲读</title>
+      <description>《最重要的事，只有一件》是一本关于极致聚焦的成长方法论。作者加里·凯勒用自己公司从濒临倒闭到年增百分之四十的亲身经历，揭示了一个反常识的真相：决定你成败的，不是你做了多少事，而是你是否找到了那件最重要的事。本书提出三大核心拼图——只做一件事、多米诺效应、关键产品关键人关键目标，并通过六个谎言、关键问题、三个承诺与四个小偷，给出了一套可落地的极简成功法则。它会帮你看清忙碌的幻觉，找到撬动人生的支点，让你从“想做更多”走向“做成一件”。</description>
+      <pubDate>Tue, 16 Jun 2026 00:20:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260616-episode-20260616-a17dd8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《最重要的事，只有一件》是一本关于极致聚焦的成长方法论。作者加里·凯勒用自己公司从濒临倒闭到年增百分之四十的亲身经历，揭示了一个反常识的真相：决定你成败的，不是你做了多少事，而是你是否找到了那件最重要的事。本书提出三大核心拼图——只做一件事、多米诺效应、关键产品关键人关键目标，并通过六个谎言、关键问题、三个承诺与四个小偷，给出了一套可落地的极简成功法则。它会帮你看清忙碌的幻觉，找到撬动人生的支点，让你从“想做更多”走向“做成一件”。</itunes:summary>
+      <itunes:duration>00:26:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260616/episode-20260616-a17dd8.mp3" length="25038765" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
