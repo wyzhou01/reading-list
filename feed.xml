@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 16 Jun 2026 12:39:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 21:20:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2813,6 +2813,17 @@
       <itunes:duration>00:31:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260616/episode-20260616-e3eb83.mp3" length="29836845" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《算法图解》 · 完整版 · 算法图解 · 完整讲读</title>
+      <description>《算法图解》不是写给算法专家的书，而是写给所有曾被算法书吓退过的人。作者阿迪蒂亚·巴尔加瓦用大量的手绘图、生活化的比喻与最小必要的代码，把程序员必懂的算法与数据结构讲明白：从二分查找与大O表示法，到数组链表、递归、分而治之、散列表、广度优先搜索、狄克斯特拉算法、贪婪算法、动态规划，再到K最近邻算法。这本书真正的礼物，不是某一类问题的解法，而是一双看见算法的眼睛——它教你用“它属于哪一类、它能不能被拆小、它有没有现成的容器可装”这组问题，重新面对任何复杂难题。在大模型与黑箱系统主导工程话语的今天，这种结构化、可复用的提问方式，比任何具体算法都更稀缺、也更值钱。一百分钟读完这本书，你带走的不是公式，而是一张可以随身携带的思维地图。</description>
+      <pubDate>Tue, 16 Jun 2026 21:20:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260617-episode-20260617-dbac0e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《算法图解》不是写给算法专家的书，而是写给所有曾被算法书吓退过的人。作者阿迪蒂亚·巴尔加瓦用大量的手绘图、生活化的比喻与最小必要的代码，把程序员必懂的算法与数据结构讲明白：从二分查找与大O表示法，到数组链表、递归、分而治之、散列表、广度优先搜索、狄克斯特拉算法、贪婪算法、动态规划，再到K最近邻算法。这本书真正的礼物，不是某一类问题的解法，而是一双看见算法的眼睛——它教你用“它属于哪一类、它能不能被拆小、它有没有现成的容器可装”这组问题，重新面对任何复杂难题。在大模型与黑箱系统主导工程话语的今天，这种结构化、可复用的提问方式，比任何具体算法都更稀缺、也更值钱。一百分钟读完这本书，你带走的不是公式，而是一张可以随身携带的思维地图。</itunes:summary>
+      <itunes:duration>00:27:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260617/episode-20260617-dbac0e.mp3" length="26118189" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
