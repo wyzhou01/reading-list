@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 16 Jun 2026 08:33:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 08:41:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2791,6 +2791,17 @@
       <itunes:duration>00:23:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260616/episode-20260616-f5de90.mp3" length="22174125" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《寂寞的游戏》 · 完整版 · 寂寞的游戏 · 完整讲读</title>
+      <description>台湾作家袁哲生的短篇小说集，以冷静克制的笔触书写成长中的寂寞、缺席与消失。少年在捉迷藏游戏中体会&apos;自我的不在&apos;，送行的火车上亲人间无言的疏离，父亲的轮廓在记忆里逐渐模糊，密封的罐子里藏着一张空白纸片。每一个故事都在追问：看不见的、被遗忘的、已经离开的，究竟去了哪里。</description>
+      <pubDate>Tue, 16 Jun 2026 08:41:46 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260616-episode-20260616-f47e58</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>台湾作家袁哲生的短篇小说集，以冷静克制的笔触书写成长中的寂寞、缺席与消失。少年在捉迷藏游戏中体会&apos;自我的不在&apos;，送行的火车上亲人间无言的疏离，父亲的轮廓在记忆里逐渐模糊，密封的罐子里藏着一张空白纸片。每一个故事都在追问：看不见的、被遗忘的、已经离开的，究竟去了哪里。</itunes:summary>
+      <itunes:duration>00:25:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260616/episode-20260616-f47e58.mp3" length="24004269" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
