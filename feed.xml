@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 16 Jun 2026 01:19:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 01:35:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2670,6 +2670,17 @@
       <itunes:duration>00:44:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260616/episode-20260616-84c497.mp3" length="43060269" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《断舍离》 · 完整版 · 断舍离 · 完整讲读</title>
+      <description>《断舍离》是日本杂物管理咨询师山下英子的奠基之作。她将瑜伽中的“断行、舍行、离行”哲学与日常整理结合，提出了一种以自我为轴心、以当下为时间轴的生活技术。书的核心观点是：断舍离的主角不是物品，而是自己；收纳术问“这件东西放哪里”，断舍离问“我和这件东西现在还有关系吗”。通过三分法、七五一总量限制、每次主义等具体方法，断舍离帮助人从“拥有”的执念中解放出来，夺回被物品占据的空间、能量和注意力。本书横扫日台畅销榜，影响林依晨、吉卜力工作室等，是极简生活的源头经典。</description>
+      <pubDate>Tue, 16 Jun 2026 01:35:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260616-episode-20260616-95557f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《断舍离》是日本杂物管理咨询师山下英子的奠基之作。她将瑜伽中的“断行、舍行、离行”哲学与日常整理结合，提出了一种以自我为轴心、以当下为时间轴的生活技术。书的核心观点是：断舍离的主角不是物品，而是自己；收纳术问“这件东西放哪里”，断舍离问“我和这件东西现在还有关系吗”。通过三分法、七五一总量限制、每次主义等具体方法，断舍离帮助人从“拥有”的执念中解放出来，夺回被物品占据的空间、能量和注意力。本书横扫日台畅销榜，影响林依晨、吉卜力工作室等，是极简生活的源头经典。</itunes:summary>
+      <itunes:duration>00:46:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260616/episode-20260616-95557f.mp3" length="44408109" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
