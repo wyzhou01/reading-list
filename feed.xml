@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 16 Jun 2026 02:11:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 02:27:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2725,6 +2725,17 @@
       <itunes:duration>00:30:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260616/episode-20260616-bc03f9.mp3" length="29410221" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《相信》 · 完整版 · 相信-蔡磊 · 完整讲读</title>
+      <description>《相信》是渐冻症患者、前京东副总裁蔡磊的自传，记录了他从确诊到全力推动科研突破的全过程。面对十万分之二的绝症，他选择把绝症变成&quot;最后一次创业&quot;，四年内搭建世界最大的渐冻症患者数据库，推动七十多条药物研发管线，动员上千人签署遗体捐献。这本书回答了一个问题：当命运把你按在地上时，你可以怎么反击？蔡磊的答案是：把自己从&quot;受害者&quot;变成&quot;解题者&quot;，从&quot;我&quot;变成&quot;我们&quot;，从&quot;有限&quot;变成&quot;无限&quot;。他用行动证明，哪怕救不活自己，也可以为后来者点燃火种。这是一本关于企业家精神、跨界协作和生命信念的书，写给每一个身处绝境、却仍想相信的人。</description>
+      <pubDate>Tue, 16 Jun 2026 02:27:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260616-episode-20260616-66d4f0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《相信》是渐冻症患者、前京东副总裁蔡磊的自传，记录了他从确诊到全力推动科研突破的全过程。面对十万分之二的绝症，他选择把绝症变成&quot;最后一次创业&quot;，四年内搭建世界最大的渐冻症患者数据库，推动七十多条药物研发管线，动员上千人签署遗体捐献。这本书回答了一个问题：当命运把你按在地上时，你可以怎么反击？蔡磊的答案是：把自己从&quot;受害者&quot;变成&quot;解题者&quot;，从&quot;我&quot;变成&quot;我们&quot;，从&quot;有限&quot;变成&quot;无限&quot;。他用行动证明，哪怕救不活自己，也可以为后来者点燃火种。这是一本关于企业家精神、跨界协作和生命信念的书，写给每一个身处绝境、却仍想相信的人。</itunes:summary>
+      <itunes:duration>00:27:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260616/episode-20260616-66d4f0.mp3" length="26243373" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
