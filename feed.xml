@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 16 Jun 2026 01:59:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 02:11:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2714,6 +2714,17 @@
       <itunes:duration>00:22:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260616/episode-20260616-b58272.mp3" length="21619629" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《好的孤独》 · 完整版 · 好的孤独 · 完整讲读</title>
+      <description>《好的孤独》是作家毕淑敏关于孤独的心理学散文集。她把孤独重新定义为「生命的礼物」——不是需要被消灭的敌人，而是成长留下的空地。全书从独处、亲密关系、父母老去、阅读与行走等多个维度，温柔地引导读者重新认识自己、修好关系、珍惜眼前人。这是一本不喊口号、不灌鸡汤的书，它只是静静地和你坐在一起，告诉你：孤独是常态，也是可以相处的朋友。在节奏越来越快、心越来越散的时代，它提供了一种更慢、更深的活法。</description>
+      <pubDate>Tue, 16 Jun 2026 02:11:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260616-episode-20260616-bc03f9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《好的孤独》是作家毕淑敏关于孤独的心理学散文集。她把孤独重新定义为「生命的礼物」——不是需要被消灭的敌人，而是成长留下的空地。全书从独处、亲密关系、父母老去、阅读与行走等多个维度，温柔地引导读者重新认识自己、修好关系、珍惜眼前人。这是一本不喊口号、不灌鸡汤的书，它只是静静地和你坐在一起，告诉你：孤独是常态，也是可以相处的朋友。在节奏越来越快、心越来越散的时代，它提供了一种更慢、更深的活法。</itunes:summary>
+      <itunes:duration>00:30:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260616/episode-20260616-bc03f9.mp3" length="29410221" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
