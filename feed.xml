@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 16 Jun 2026 03:03:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 08:02:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2769,6 +2769,17 @@
       <itunes:duration>00:25:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260616/episode-20260616-ad69f8.mp3" length="24879789" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《巨人的陨落》 · 完整版 · 巨人的陨落共3册 · 完整讲读</title>
+      <description>《巨人的陨落》是英国作家肯・福莱特世纪三部曲的第一部，以第一次世界大战为背景，讲述了英国、德国、俄国、美国、威尔士五个家族在帝国崩塌中的命运。菲茨赫伯特伯爵的妹妹茉黛与德国外交官沃尔特相爱却因战争成为敌国夫妻；威尔士矿工的女儿艾瑟尔从女仆成长为英国早期女性议员；俄国工人格雷戈里目睹沙皇退位与革命到来。肯・福莱特以小说的笔法还原了真实的历史细节，揭示了旧秩序如何被战争碾碎、女性与底层如何在废墟中崛起、民族主义如何将相爱的人变成敌人。一本横扫全球畅销榜的世纪史诗，告诉我们：巨人不是被外力推倒的，是被具体的痛、具体的反叛、具体的爱，一点点掏空的。</description>
+      <pubDate>Tue, 16 Jun 2026 07:34:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260616-episode-20260616-04c435</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《巨人的陨落》是英国作家肯・福莱特世纪三部曲的第一部，以第一次世界大战为背景，讲述了英国、德国、俄国、美国、威尔士五个家族在帝国崩塌中的命运。菲茨赫伯特伯爵的妹妹茉黛与德国外交官沃尔特相爱却因战争成为敌国夫妻；威尔士矿工的女儿艾瑟尔从女仆成长为英国早期女性议员；俄国工人格雷戈里目睹沙皇退位与革命到来。肯・福莱特以小说的笔法还原了真实的历史细节，揭示了旧秩序如何被战争碾碎、女性与底层如何在废墟中崛起、民族主义如何将相爱的人变成敌人。一本横扫全球畅销榜的世纪史诗，告诉我们：巨人不是被外力推倒的，是被具体的痛、具体的反叛、具体的爱，一点点掏空的。</itunes:summary>
+      <itunes:duration>00:31:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260616/episode-20260616-04c435.mp3" length="29824557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
