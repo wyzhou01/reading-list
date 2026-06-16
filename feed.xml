@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 16 Jun 2026 00:44:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 00:50:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2637,6 +2637,17 @@
       <itunes:duration>00:29:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260616/episode-20260616-e2846a.mp3" length="28757805" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《六级词汇词根+联想记忆法：乱序版》 · 完整版 · 六级词汇词根+联想记忆法：乱序版 · 完整讲读</title>
+      <description>本期深度解读新东方《六级词汇词根加联想记忆法：乱序版》。这本长销不衰的词汇书，以词根词缀为支点，以乱序编排抗遗忘，以真题语境促应用，把枯燥的背诵变成一场推理游戏。本期先讲清它的来历与编排逻辑，再拆解词根词缀的方法论，最后覆盖三十个单元的核心词条、近义词辨析、超纲词与熟词僻义。听完这一期，你收获的不仅是一份六级词汇清单，更是一套可以受用终身的英语记忆方法。</description>
+      <pubDate>Tue, 16 Jun 2026 00:50:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260616-episode-20260616-37b4d3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期深度解读新东方《六级词汇词根加联想记忆法：乱序版》。这本长销不衰的词汇书，以词根词缀为支点，以乱序编排抗遗忘，以真题语境促应用，把枯燥的背诵变成一场推理游戏。本期先讲清它的来历与编排逻辑，再拆解词根词缀的方法论，最后覆盖三十个单元的核心词条、近义词辨析、超纲词与熟词僻义。听完这一期，你收获的不仅是一份六级词汇清单，更是一套可以受用终身的英语记忆方法。</itunes:summary>
+      <itunes:duration>00:26:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260616/episode-20260616-37b4d3.mp3" length="25591725" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
