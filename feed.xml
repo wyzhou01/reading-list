@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 16 Jun 2026 00:32:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 00:44:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2626,6 +2626,17 @@
       <itunes:duration>00:23:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260616/episode-20260616-141a09.mp3" length="23011245" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《猫武士首部曲·力挽狂澜》 · 完整版 · 猫武士首部曲 · 完整讲读</title>
+      <description>《猫武士首部曲》是英国作家群艾琳·亨特的代表作，讲述宠物猫拉斯特跨过围栏进入雷族，从火爪、火心一路成长为火星，在血族入侵与族群内乱中践行&quot;火将拯救雷族&quot;预言的故事。这是一套把动物视角、古典伦理与预言哲学熔铸一炉的少年史诗，全球销量超八千万册。它用野猫的族群社会，回答了关于忠诚、背叛、勇气的代价与秩序的脆弱这四个永恒命题。</description>
+      <pubDate>Tue, 16 Jun 2026 00:44:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260616-episode-20260616-e2846a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《猫武士首部曲》是英国作家群艾琳·亨特的代表作，讲述宠物猫拉斯特跨过围栏进入雷族，从火爪、火心一路成长为火星，在血族入侵与族群内乱中践行&quot;火将拯救雷族&quot;预言的故事。这是一套把动物视角、古典伦理与预言哲学熔铸一炉的少年史诗，全球销量超八千万册。它用野猫的族群社会，回答了关于忠诚、背叛、勇气的代价与秩序的脆弱这四个永恒命题。</itunes:summary>
+      <itunes:duration>00:29:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260616/episode-20260616-e2846a.mp3" length="28757805" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
