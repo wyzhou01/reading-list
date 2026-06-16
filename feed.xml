@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 16 Jun 2026 00:20:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 00:29:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2615,6 +2615,17 @@
       <itunes:duration>00:26:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260616/episode-20260616-a17dd8.mp3" length="25038765" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《三体全集》 · 完整版 · 三体全集 · 完整讲读</title>
+      <description>《三体全集》是中国科幻作家刘慈欣创作的长篇科幻小说三部曲，由《三体》《黑暗森林》《死神永生》构成，讲述了人类文明与三体文明在宇宙尺度上的博弈与共生。小说以宏大的宇宙观重新审视人类文明，揭示了&quot;黑暗森林法则&quot;——宇宙是一座寂静的猎场，文明之间因猜疑链而相互毁灭。在这部史诗中，地球往事、红岸基地的信号发射、面壁者罗辑的破壁、程心的执剑抉择、二向箔的降维打击，共同构成了一幅跨越四百年的文明兴亡图景。刘慈欣用冷峻的笔触追问：在亿万年尺度的宇宙面前，科技、道德、爱与个体选择的真正分量是什么？</description>
+      <pubDate>Tue, 16 Jun 2026 00:29:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260616-episode-20260616-141a09</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《三体全集》是中国科幻作家刘慈欣创作的长篇科幻小说三部曲，由《三体》《黑暗森林》《死神永生》构成，讲述了人类文明与三体文明在宇宙尺度上的博弈与共生。小说以宏大的宇宙观重新审视人类文明，揭示了&quot;黑暗森林法则&quot;——宇宙是一座寂静的猎场，文明之间因猜疑链而相互毁灭。在这部史诗中，地球往事、红岸基地的信号发射、面壁者罗辑的破壁、程心的执剑抉择、二向箔的降维打击，共同构成了一幅跨越四百年的文明兴亡图景。刘慈欣用冷峻的笔触追问：在亿万年尺度的宇宙面前，科技、道德、爱与个体选择的真正分量是什么？</itunes:summary>
+      <itunes:duration>00:23:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260616/episode-20260616-141a09.mp3" length="23011245" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
