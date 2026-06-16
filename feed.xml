@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 15 Jun 2026 13:42:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 00:13:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2593,6 +2593,17 @@
       <itunes:duration>00:24:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260615/episode-20260615-2ab2aa.mp3" length="24000813" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《侯大利刑侦笔记》 · 完整版 · 侯大利刑侦笔记 · 完整讲读</title>
+      <description>《侯大利刑侦笔记》讲述青梅竹马杨帆在世安桥失踪后，少年侯大利放弃家族企业继承权、投身警界，用整整八年时间，从一个被叫醒的纨绔子弟成长为独当一面的刑警骨干，凭借 DNA 比对、痕迹检验、心理审讯等现代刑侦技术，层层剥开真相的故事。小说既是追凶叙事，也是中国基层刑侦技术从 2001 年到 2009 年迭代升级的侧写，更是对执念、程序正义、媒体伦理与正义代价的深度叩问。</description>
+      <pubDate>Tue, 16 Jun 2026 00:12:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260616-episode-20260616-243c22</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《侯大利刑侦笔记》讲述青梅竹马杨帆在世安桥失踪后，少年侯大利放弃家族企业继承权、投身警界，用整整八年时间，从一个被叫醒的纨绔子弟成长为独当一面的刑警骨干，凭借 DNA 比对、痕迹检验、心理审讯等现代刑侦技术，层层剥开真相的故事。小说既是追凶叙事，也是中国基层刑侦技术从 2001 年到 2009 年迭代升级的侧写，更是对执念、程序正义、媒体伦理与正义代价的深度叩问。</itunes:summary>
+      <itunes:duration>00:28:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260616/episode-20260616-243c22.mp3" length="27063213" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
