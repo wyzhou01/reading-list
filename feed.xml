@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 16 Jun 2026 02:41:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 02:54:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2747,6 +2747,17 @@
       <itunes:duration>00:32:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260616/episode-20260616-7b9972.mp3" length="31505709" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《银河帝国：基地七部曲》 · 完整版 · 银河帝国：基地七部曲 · 完整讲读</title>
+      <description>《银河帝国：基地七部曲》是科幻泰斗阿西莫夫用七十万字写下的人类文明寓言。心理史学家谢顿在银河帝国崩塌前夜，用数学模型推演出三万年黑暗，并试图用一千年、两个基地与一颗盖娅星，把命运拨动一点点。整套七部曲横跨预言与救赎、个体与群体、秩序与自由、孤独与共生，是二十世纪最具野心的科幻史诗，也是照进现实的一面多棱镜。</description>
+      <pubDate>Tue, 16 Jun 2026 02:54:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260616-episode-20260616-f439be</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《银河帝国：基地七部曲》是科幻泰斗阿西莫夫用七十万字写下的人类文明寓言。心理史学家谢顿在银河帝国崩塌前夜，用数学模型推演出三万年黑暗，并试图用一千年、两个基地与一颗盖娅星，把命运拨动一点点。整套七部曲横跨预言与救赎、个体与群体、秩序与自由、孤独与共生，是二十世纪最具野心的科幻史诗，也是照进现实的一面多棱镜。</itunes:summary>
+      <itunes:duration>00:28:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260616/episode-20260616-f439be.mp3" length="26959533" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
