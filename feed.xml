@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 16 Jun 2026 00:50:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 01:07:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2648,6 +2648,17 @@
       <itunes:duration>00:26:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260616/episode-20260616-37b4d3.mp3" length="25591725" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《九篇雪》 · 完整版 · 九篇雪 · 完整讲读</title>
+      <description>《九篇雪》是李娟的处女作，写于一九九八年至二〇〇一年间，记录了她二十一岁时在新疆阿勒泰的青春生活。书中以散文笔法写下了语言隔阂中的笑与暖、山野里的笨拙日常、挑水少女的孤独、哈萨克邻居叶尔肯听不懂汉语的喜剧、四岁小孩努尔楠用哈语换糖的可爱，以及母女三人在牧场上相依为命的真实片段。文字青涩却滚烫，藏着李娟对一个人长达十年的暗恋，藏着外婆瘫痪的那个冬天的难眠，也藏着她后来所有从容写作的源头。再读这本书，是回到一个年轻灵魂最初最笨拙、却最勇敢的袒露。</description>
+      <pubDate>Tue, 16 Jun 2026 01:07:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260616-episode-20260616-f0fa12</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《九篇雪》是李娟的处女作，写于一九九八年至二〇〇一年间，记录了她二十一岁时在新疆阿勒泰的青春生活。书中以散文笔法写下了语言隔阂中的笑与暖、山野里的笨拙日常、挑水少女的孤独、哈萨克邻居叶尔肯听不懂汉语的喜剧、四岁小孩努尔楠用哈语换糖的可爱，以及母女三人在牧场上相依为命的真实片段。文字青涩却滚烫，藏着李娟对一个人长达十年的暗恋，藏着外婆瘫痪的那个冬天的难眠，也藏着她后来所有从容写作的源头。再读这本书，是回到一个年轻灵魂最初最笨拙、却最勇敢的袒露。</itunes:summary>
+      <itunes:duration>00:28:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260616/episode-20260616-f0fa12.mp3" length="27366957" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
