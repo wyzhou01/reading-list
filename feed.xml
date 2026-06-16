@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 16 Jun 2026 21:20:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 21:28:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2824,6 +2824,17 @@
       <itunes:duration>00:27:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260617/episode-20260617-dbac0e.mp3" length="26118189" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《奇风岁月》 · 完整版 · 奇风岁月 · 完整讲读</title>
+      <description>《奇风岁月》是美国作家罗伯特·麦卡蒙一九九一年的代表作，也是一本写给所有曾经是孩子的人的书。一九六四年的亚拉巴马小镇奇风镇，十二岁的科里·麦克森一边骑着脚踏车送牛奶，一边在父亲和朋友的陪伴下学写作。可那一年，一桩神秘的谋杀案、两个恶人的闯入、和父亲那场撼动全家的重病，让这个男孩被迫走进了善与恶的边界、走进了死亡和童年的告别。麦卡蒙用一本近六百页的书告诉我们：所谓长大，不是变得更强，而是把曾经拥有过的那一点光，小心翼翼地保存下来，然后，在某个深夜，把它递给下一个还在窗边发呆的孩子。本书横跨类型小说与严肃文学，被美国中学教师用作文学教材二十年，被英国八十多岁的老读者和西雅图十三岁的小男孩同时热爱，登上了日本二十年最佳推理小说榜。这不是一个简单的悬疑故事，也不是一个单纯的怀旧童话，而是一个成年男人，蹲下来把双手搁在膝盖上，平视着十二岁的自己说：我把那年发生的一切，原原本本讲给你听。</description>
+      <pubDate>Tue, 16 Jun 2026 21:28:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260617-episode-20260617-3954a6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《奇风岁月》是美国作家罗伯特·麦卡蒙一九九一年的代表作，也是一本写给所有曾经是孩子的人的书。一九六四年的亚拉巴马小镇奇风镇，十二岁的科里·麦克森一边骑着脚踏车送牛奶，一边在父亲和朋友的陪伴下学写作。可那一年，一桩神秘的谋杀案、两个恶人的闯入、和父亲那场撼动全家的重病，让这个男孩被迫走进了善与恶的边界、走进了死亡和童年的告别。麦卡蒙用一本近六百页的书告诉我们：所谓长大，不是变得更强，而是把曾经拥有过的那一点光，小心翼翼地保存下来，然后，在某个深夜，把它递给下一个还在窗边发呆的孩子。本书横跨类型小说与严肃文学，被美国中学教师用作文学教材二十年，被英国八十多岁的老读者和西雅图十三岁的小男孩同时热爱，登上了日本二十年最佳推理小说榜。这不是一个简单的悬疑故事，也不是一个单纯的怀旧童话，而是一个成年男人，蹲下来把双手搁在膝盖上，平视着十二岁的自己说：我把那年发生的一切，原原本本讲给你听。</itunes:summary>
+      <itunes:duration>00:31:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260617/episode-20260617-3954a6.mp3" length="30543021" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
