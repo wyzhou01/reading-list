@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 17 Jun 2026 01:28:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 01:42:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2846,6 +2846,17 @@
       <itunes:duration>00:25:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260617/episode-20260617-ab9b50.mp3" length="24935085" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《献给阿尔吉侬的花束》 · 完整版 · 献给阿尔吉侬的花束 · 完整讲读</title>
+      <description>《献给阿尔吉侬的花束》是丹尼尔·凯斯写于二十世纪六十年代的科幻小说。成年人查理·高登，天生心智只有六十八岁孩子的水平，接受了脑部手术，智商从六十八飙到两百以上，又在短短几个月内滑回原点。全书用十七篇进步报告串成——从最初的错字连篇、近步抱告，到后期的流畅深刻，再到退化时的字迹散乱——读者几乎能听见一个灵魂在纸上苏醒，又在纸上熄灭。这本书追问三个问题：聪明真的等于幸福吗？当记忆和意识一点点消失，那个&quot;我&quot;还在不在？人最深处的渴望，到底是变聪明，还是被看见？凯斯的答案温柔而残忍——智识无法替代理解，天才无法替代被爱，而人最珍贵的，不是智商两百时写下的论文，而是智商六十八时，为一只死去的小白鼠献上的一朵花。</description>
+      <pubDate>Wed, 17 Jun 2026 01:42:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260617-episode-20260617-f9581f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《献给阿尔吉侬的花束》是丹尼尔·凯斯写于二十世纪六十年代的科幻小说。成年人查理·高登，天生心智只有六十八岁孩子的水平，接受了脑部手术，智商从六十八飙到两百以上，又在短短几个月内滑回原点。全书用十七篇进步报告串成——从最初的错字连篇、近步抱告，到后期的流畅深刻，再到退化时的字迹散乱——读者几乎能听见一个灵魂在纸上苏醒，又在纸上熄灭。这本书追问三个问题：聪明真的等于幸福吗？当记忆和意识一点点消失，那个&quot;我&quot;还在不在？人最深处的渴望，到底是变聪明，还是被看见？凯斯的答案温柔而残忍——智识无法替代理解，天才无法替代被爱，而人最珍贵的，不是智商两百时写下的论文，而是智商六十八时，为一只死去的小白鼠献上的一朵花。</itunes:summary>
+      <itunes:duration>00:32:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260617/episode-20260617-f9581f.mp3" length="31030317" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
