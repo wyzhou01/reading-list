@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 17 Jun 2026 02:20:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 02:37:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2890,6 +2890,17 @@
       <itunes:duration>00:29:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260617/episode-20260617-23c8a9.mp3" length="28690605" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《焦虑的人》 · 完整版 · 焦虑的人 · 完整讲读</title>
+      <description>《焦虑的人》是瑞典作家巴克曼写给每一个“假装一切都好”的成年人的温柔一书。一个失败的银行劫匪闯进一场公寓看房，劫持了八个人质，却在几小时后消失得无影无踪。可这场荒诞事件背后，藏着十年前一个站在桥栏杆上的男人、一对破裂的夫妻、一个被救下却毁掉全家的父亲，和一个永远活在十三岁那年的警察。巴克曼用一把“看起来像玩具的真枪”，撕开了中产阶级最体面的那层皮，告诉你：能撑过今天的人，都不是一个人在撑；崩溃不可耻，假装才累。</description>
+      <pubDate>Wed, 17 Jun 2026 02:37:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260617-episode-20260617-8d3d72</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《焦虑的人》是瑞典作家巴克曼写给每一个“假装一切都好”的成年人的温柔一书。一个失败的银行劫匪闯进一场公寓看房，劫持了八个人质，却在几小时后消失得无影无踪。可这场荒诞事件背后，藏着十年前一个站在桥栏杆上的男人、一对破裂的夫妻、一个被救下却毁掉全家的父亲，和一个永远活在十三岁那年的警察。巴克曼用一把“看起来像玩具的真枪”，撕开了中产阶级最体面的那层皮，告诉你：能撑过今天的人，都不是一个人在撑；崩溃不可耻，假装才累。</itunes:summary>
+      <itunes:duration>00:34:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260617/episode-20260617-8d3d72.mp3" length="32928045" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
