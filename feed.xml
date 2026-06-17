@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 17 Jun 2026 03:20:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 03:34:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2934,6 +2934,17 @@
       <itunes:duration>00:32:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260617/episode-20260617-398fa0.mp3" length="30725805" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《翦商》 · 完整版 · 翦商 · 完整讲读</title>
+      <description>《翦商》是一部揭示华夏文明起源真相的里程碑式作品。作者李硕以考古发现为依据，讲述了三千年前商朝末年人祭风俗的恐怖真相，并提出一个颠覆性论断：人祭的消亡并非自然退场，而是周武王灭商后，周公旦主动废除并系统抹除相关记忆的文明工程。这场变革塑造了此后三千年的中国文化底色——以人为本、敬鬼神而远之。本书横跨一千余年，从新石器时代末期讲到孔子，融合考古、甲骨文与传世文献，为我们照见一个被遗忘的华夏起源。</description>
+      <pubDate>Wed, 17 Jun 2026 03:34:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260617-episode-20260617-ebfecb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《翦商》是一部揭示华夏文明起源真相的里程碑式作品。作者李硕以考古发现为依据，讲述了三千年前商朝末年人祭风俗的恐怖真相，并提出一个颠覆性论断：人祭的消亡并非自然退场，而是周武王灭商后，周公旦主动废除并系统抹除相关记忆的文明工程。这场变革塑造了此后三千年的中国文化底色——以人为本、敬鬼神而远之。本书横跨一千余年，从新石器时代末期讲到孔子，融合考古、甲骨文与传世文献，为我们照见一个被遗忘的华夏起源。</itunes:summary>
+      <itunes:duration>00:28:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260617/episode-20260617-ebfecb.mp3" length="27793197" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
