@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 17 Jun 2026 03:34:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 16:42:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2945,6 +2945,17 @@
       <itunes:duration>00:28:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260617/episode-20260617-ebfecb.mp3" length="27793197" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《牡丹亭》 · 完整版 · 牡丹亭 · 完整讲读</title>
+      <description>明代剧作家汤显祖于公元一五九八年写下的传奇《牡丹亭》，讲述了大家闺秀杜丽娘游园惊梦、为情而亡，又死而复生与梦中书生柳梦梅终成眷属的故事。本书以&apos;情不知所起，一往而深&apos;为精神主线，借一个女人的生死奇缘，向&apos;存天理灭人欲&apos;的礼教秩序发出宣战。杜丽娘在后花园里的觉醒，是个体生命对压抑性秩序最柔韧也最有力的反抗；她的&apos;复活&apos;，靠的不是奇迹，而是&apos;至情&apos;本身的力量。汤显祖用四百年前的这部浪漫主义杰作告诉我们：人是天地的孩子，不是礼教的囚徒；情，是生命的根本，永远不可被压制。</description>
+      <pubDate>Wed, 17 Jun 2026 16:42:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260618-episode-20260618-6c14f4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>明代剧作家汤显祖于公元一五九八年写下的传奇《牡丹亭》，讲述了大家闺秀杜丽娘游园惊梦、为情而亡，又死而复生与梦中书生柳梦梅终成眷属的故事。本书以&apos;情不知所起，一往而深&apos;为精神主线，借一个女人的生死奇缘，向&apos;存天理灭人欲&apos;的礼教秩序发出宣战。杜丽娘在后花园里的觉醒，是个体生命对压抑性秩序最柔韧也最有力的反抗；她的&apos;复活&apos;，靠的不是奇迹，而是&apos;至情&apos;本身的力量。汤显祖用四百年前的这部浪漫主义杰作告诉我们：人是天地的孩子，不是礼教的囚徒；情，是生命的根本，永远不可被压制。</itunes:summary>
+      <itunes:duration>00:39:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-6c14f4.mp3" length="37597101" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
