@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 17 Jun 2026 23:51:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 23:56:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2978,6 +2978,17 @@
       <itunes:duration>00:32:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-c3ff13.mp3" length="30885549" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《存在与时间》 · 完整版 · 存在与时间 · 完整讲读</title>
+      <description>《存在与时间》是海德格尔一九二七年的代表作。它重新提出了一个被遗忘两千年的问题：存在本身是什么意思？海德格尔的回答是，必须从人这种特殊存在者入手。他把人叫作&quot;此在&quot;，此在有三个根本特征——在世界中存在、与他人共在、面向自己的死亡。此在总是沉沦在&quot;常人&quot;的统治中，活成别人期望的样子；而&quot;向死存在&quot;是一面镜子，能让人从沉沦中抽身，活成自己。这所有这一切的根据，是时间性。存在的意义不是静态的，是绽出的。这是二十世纪最伟大的哲学著作之一，它开启了存在主义、现象学、解释学的传统。今天读它，依然能照见我们每个人最真实的存在处境。</description>
+      <pubDate>Wed, 17 Jun 2026 23:56:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260618-episode-20260618-38b85e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《存在与时间》是海德格尔一九二七年的代表作。它重新提出了一个被遗忘两千年的问题：存在本身是什么意思？海德格尔的回答是，必须从人这种特殊存在者入手。他把人叫作&quot;此在&quot;，此在有三个根本特征——在世界中存在、与他人共在、面向自己的死亡。此在总是沉沦在&quot;常人&quot;的统治中，活成别人期望的样子；而&quot;向死存在&quot;是一面镜子，能让人从沉沦中抽身，活成自己。这所有这一切的根据，是时间性。存在的意义不是静态的，是绽出的。这是二十世纪最伟大的哲学著作之一，它开启了存在主义、现象学、解释学的传统。今天读它，依然能照见我们每个人最真实的存在处境。</itunes:summary>
+      <itunes:duration>00:31:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-38b85e.mp3" length="30623277" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
