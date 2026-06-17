@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 17 Jun 2026 03:09:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 03:20:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2923,6 +2923,17 @@
       <itunes:duration>00:36:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260617/episode-20260617-ec111f.mp3" length="35004333" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《上的惨案》 · 完整版 · 上的惨案 · 完整讲读</title>
+      <description>《尼罗河上的惨案》是阿加莎·克里斯蒂一九三七年出版的经典推理小说。女继承人林娜·黎吉薇在埃及度蜜月时遭枪杀，开场即揭示凶手是她疯狂的闺蜜贾克琳——一个为爱愿意毁灭一切的偏执女人。比利时侦探白罗抽丝剥茧，还原了这场由嫉妒、占有与极端爱情共同策划的悲剧。最终林娜、希蒙、贾克琳三人皆死，没有赢家。本书被视作白罗系列中最悲伤的一本，它不止是悬案，更是一面照出人性暗面的镜子，拷问每一个旁观者：你是在爱人，还是在消费人？</description>
+      <pubDate>Wed, 17 Jun 2026 03:20:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260617-episode-20260617-398fa0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《尼罗河上的惨案》是阿加莎·克里斯蒂一九三七年出版的经典推理小说。女继承人林娜·黎吉薇在埃及度蜜月时遭枪杀，开场即揭示凶手是她疯狂的闺蜜贾克琳——一个为爱愿意毁灭一切的偏执女人。比利时侦探白罗抽丝剥茧，还原了这场由嫉妒、占有与极端爱情共同策划的悲剧。最终林娜、希蒙、贾克琳三人皆死，没有赢家。本书被视作白罗系列中最悲伤的一本，它不止是悬案，更是一面照出人性暗面的镜子，拷问每一个旁观者：你是在爱人，还是在消费人？</itunes:summary>
+      <itunes:duration>00:32:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260617/episode-20260617-398fa0.mp3" length="30725805" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
