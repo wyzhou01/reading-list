@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 17 Jun 2026 02:06:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 02:20:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2879,6 +2879,17 @@
       <itunes:duration>00:25:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260617/episode-20260617-269246.mp3" length="24816429" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《斯坦福商业决策课》 · 完整版 · 斯坦福商业决策课 · 完整讲读</title>
+      <description>本期《好好读书》精讲《斯坦福商业决策课》。三位斯坦福决策分析学派专家提出，好决策不等于好结果，而好结果也不等于当初是好决策——真正能学的是决策本身的质量。他们把优质决策拆成六个要素：合适框架、创造性选项、相关可靠信息、清晰价值与权衡、充分论证、付诸行动。这套框架整合了三百年的决策理论精华和五十年的行为科学研究，核心洞见是：决策是一项可学、可练、可考核的技能，而不是天赋。书中还系统拆解了动机性、认知性、性格性三大类偏见，并提供了制衡机制。无论企业还是个人，掌握这套框架都能在不确定性中做出更冷静、更有逻辑、更可追溯的抉择。</description>
+      <pubDate>Wed, 17 Jun 2026 02:20:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260617-episode-20260617-23c8a9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期《好好读书》精讲《斯坦福商业决策课》。三位斯坦福决策分析学派专家提出，好决策不等于好结果，而好结果也不等于当初是好决策——真正能学的是决策本身的质量。他们把优质决策拆成六个要素：合适框架、创造性选项、相关可靠信息、清晰价值与权衡、充分论证、付诸行动。这套框架整合了三百年的决策理论精华和五十年的行为科学研究，核心洞见是：决策是一项可学、可练、可考核的技能，而不是天赋。书中还系统拆解了动机性、认知性、性格性三大类偏见，并提供了制衡机制。无论企业还是个人，掌握这套框架都能在不确定性中做出更冷静、更有逻辑、更可追溯的抉择。</itunes:summary>
+      <itunes:duration>00:29:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260617/episode-20260617-23c8a9.mp3" length="28690605" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
