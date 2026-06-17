@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 17 Jun 2026 16:42:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 16:52:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2956,6 +2956,17 @@
       <itunes:duration>00:39:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-6c14f4.mp3" length="37597101" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《沙之书》 · 完整版 · 沙之书 · 完整讲读</title>
+      <description>《沙之书》是博尔赫斯短篇小说的精选集，集中体现了他最核心的六大母题：无限、迷宫、镜像、遗忘、时间与身份的迷失。本书不是用情节打动读者，而是用思想本身震撼读者。博尔赫斯用极短的篇幅，把哲学命题变成了可以一口气读完的故事。一百年后重读他，我们会发现——他笔下那个没有尽头的沙之书，正是我们今天被算法与信息流所包围的生活本身。</description>
+      <pubDate>Wed, 17 Jun 2026 16:51:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260618-episode-20260618-5d1797</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《沙之书》是博尔赫斯短篇小说的精选集，集中体现了他最核心的六大母题：无限、迷宫、镜像、遗忘、时间与身份的迷失。本书不是用情节打动读者，而是用思想本身震撼读者。博尔赫斯用极短的篇幅，把哲学命题变成了可以一口气读完的故事。一百年后重读他，我们会发现——他笔下那个没有尽头的沙之书，正是我们今天被算法与信息流所包围的生活本身。</itunes:summary>
+      <itunes:duration>00:20:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-5d1797.mp3" length="20059053" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
