@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 16 Jun 2026 21:28:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 01:28:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2835,6 +2835,17 @@
       <itunes:duration>00:31:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260617/episode-20260617-3954a6.mp3" length="30543021" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《是我把你蠢哭了吗》 · 完整版 · 是我把你蠢哭了吗 · 完整讲读</title>
+      <description>《是我把你蠢哭了吗》是一本用幽默写就的神经科学科普，作者迪安·博内特既是研究者也是单口喜剧演员。书中提出一个核心观点：大脑并非神圣不可批评的完美器官，而是一块演化了几百万年、塞满过时软件和废弃文件的“旧硬盘“。它会改写记忆以让我们感觉更好，会为情绪披上理性的外衣，会在群体中放大从众与极化，也会用过去的恐惧绑架当下的我们。理解大脑的不完美，不是为了原谅它的bug，而是为了对自己和他人多一份宽容——毕竟，每一颗会犯错的脑子背后，都站着一个同样在努力生活的人。</description>
+      <pubDate>Wed, 17 Jun 2026 01:28:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260617-episode-20260617-ab9b50</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《是我把你蠢哭了吗》是一本用幽默写就的神经科学科普，作者迪安·博内特既是研究者也是单口喜剧演员。书中提出一个核心观点：大脑并非神圣不可批评的完美器官，而是一块演化了几百万年、塞满过时软件和废弃文件的“旧硬盘“。它会改写记忆以让我们感觉更好，会为情绪披上理性的外衣，会在群体中放大从众与极化，也会用过去的恐惧绑架当下的我们。理解大脑的不完美，不是为了原谅它的bug，而是为了对自己和他人多一份宽容——毕竟，每一颗会犯错的脑子背后，都站着一个同样在努力生活的人。</itunes:summary>
+      <itunes:duration>00:25:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260617/episode-20260617-ab9b50.mp3" length="24935085" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
