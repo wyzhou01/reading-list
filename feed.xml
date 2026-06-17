@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 17 Jun 2026 02:37:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 02:54:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2901,6 +2901,17 @@
       <itunes:duration>00:34:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260617/episode-20260617-8d3d72.mp3" length="32928045" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《杨绛传》 · 完整版 · 杨绛传 · 完整讲读</title>
+      <description>《杨绛传》由锦泠撰写，民主与建设出版社二零二二年出版，是目前少数完整覆盖杨绛一百零五年的中文传记。本书以时间为轴，从一九一一年杨绛出生写起，到二零一六年辞世，以细腻笔触还原一位知识女性的精神底色。全书共十章，从童年、少年、青年、中年到暮年，完整呈现她在辛亥革命、抗日战争、文化大革命等重大历史节点中的生命历程。杨绛既是作家、戏剧家、翻译家，也是钱锺书「最贤的妻，最才的女」。她历经丧女丧夫之痛，晚年仍笔耕不辍，九十六岁写下《走到人生边上》，一百零三岁完成《洗澡之后》。本书不拔高、不煽情，将杨绛还原成一个有温度的普通人，讲述她如何在乱世中跌跌撞撞长大，在困境中彼此相守，在暮年依然从容地写字、读书、过日子。读完这本书，你会明白：所谓从容，不是不经历苦难，而是把苦难活成了自己；所谓风骨，不是不向世界低头，而是低下头之后再直起腰来。她用一百零五年的光阴，给我们每一个普通人留下了最珍贵的一课——在最喧闹的世事里，守住自己内心的那一份安静。</description>
+      <pubDate>Wed, 17 Jun 2026 02:54:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260617-episode-20260617-83a9fe</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《杨绛传》由锦泠撰写，民主与建设出版社二零二二年出版，是目前少数完整覆盖杨绛一百零五年的中文传记。本书以时间为轴，从一九一一年杨绛出生写起，到二零一六年辞世，以细腻笔触还原一位知识女性的精神底色。全书共十章，从童年、少年、青年、中年到暮年，完整呈现她在辛亥革命、抗日战争、文化大革命等重大历史节点中的生命历程。杨绛既是作家、戏剧家、翻译家，也是钱锺书「最贤的妻，最才的女」。她历经丧女丧夫之痛，晚年仍笔耕不辍，九十六岁写下《走到人生边上》，一百零三岁完成《洗澡之后》。本书不拔高、不煽情，将杨绛还原成一个有温度的普通人，讲述她如何在乱世中跌跌撞撞长大，在困境中彼此相守，在暮年依然从容地写字、读书、过日子。读完这本书，你会明白：所谓从容，不是不经历苦难，而是把苦难活成了自己；所谓风骨，不是不向世界低头，而是低下头之后再直起腰来。她用一百零五年的光阴，给我们每一个普通人留下了最珍贵的一课——在最喧闹的世事里，守住自己内心的那一份安静。</itunes:summary>
+      <itunes:duration>00:36:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260617/episode-20260617-83a9fe.mp3" length="35385261" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
