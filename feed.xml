@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 17 Jun 2026 01:42:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 01:59:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2857,6 +2857,17 @@
       <itunes:duration>00:32:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260617/episode-20260617-f9581f.mp3" length="31030317" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《第一香》 · 完整版 · 第一香 · 完整讲读</title>
+      <description>颜歌《第一香》以民国北平南城为背景，写小饭馆“牛肉刘“里逃荒少年刘天禄与不识字的安徽少女吴翠喜相知相守的故事。两条线交织：一条是他们在乱世里开饭馆、熬酱汤、传手艺；一条是点翠匠人连翘与立云在金街银巷里追梦。一块“南城第一香“的老匾，藏了快一百年，从民国传到了二十一世纪没倒。这是一首写给所有漂在异乡的普通人的颂歌——讲家、讲手艺、讲哪怕天塌下来也要守着这口锅的倔强。</description>
+      <pubDate>Wed, 17 Jun 2026 01:58:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260617-episode-20260617-486bd7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>颜歌《第一香》以民国北平南城为背景，写小饭馆“牛肉刘“里逃荒少年刘天禄与不识字的安徽少女吴翠喜相知相守的故事。两条线交织：一条是他们在乱世里开饭馆、熬酱汤、传手艺；一条是点翠匠人连翘与立云在金街银巷里追梦。一块“南城第一香“的老匾，藏了快一百年，从民国传到了二十一世纪没倒。这是一首写给所有漂在异乡的普通人的颂歌——讲家、讲手艺、讲哪怕天塌下来也要守着这口锅的倔强。</itunes:summary>
+      <itunes:duration>00:33:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260617/episode-20260617-486bd7.mp3" length="31937709" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
