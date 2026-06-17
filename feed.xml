@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 17 Jun 2026 02:54:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 03:09:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2912,6 +2912,17 @@
       <itunes:duration>00:36:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260617/episode-20260617-83a9fe.mp3" length="35385261" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《自控力》 · 完整版 · 自控力 · 完整讲读</title>
+      <description>《自控力》是斯坦福大学心理学家凯利·麦格尼格尔基于其热门课程&apos;意志力科学&apos;写成的科普经典。书中指出，意志力不是性格特质，而是前额皮质的生理机能，会像肌肉一样疲劳、也能通过训练成长；压力、罪恶感、多巴胺奖励承诺和社会传染会暗中瓦解自控。麦格尼格尔结合神经科学、心理学与经济学最新研究，剖析拖延、成瘾、情绪化决策等常见陷阱，并给出冥想、运动、预先承诺、自我原谅等经过实证检验的策略。无论时代如何变迁，只要人脑的奖赏回路与压力反应不变，这本书的洞见就依然有效。</description>
+      <pubDate>Wed, 17 Jun 2026 03:09:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260617-episode-20260617-ec111f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《自控力》是斯坦福大学心理学家凯利·麦格尼格尔基于其热门课程&apos;意志力科学&apos;写成的科普经典。书中指出，意志力不是性格特质，而是前额皮质的生理机能，会像肌肉一样疲劳、也能通过训练成长；压力、罪恶感、多巴胺奖励承诺和社会传染会暗中瓦解自控。麦格尼格尔结合神经科学、心理学与经济学最新研究，剖析拖延、成瘾、情绪化决策等常见陷阱，并给出冥想、运动、预先承诺、自我原谅等经过实证检验的策略。无论时代如何变迁，只要人脑的奖赏回路与压力反应不变，这本书的洞见就依然有效。</itunes:summary>
+      <itunes:duration>00:36:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260617/episode-20260617-ec111f.mp3" length="35004333" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
