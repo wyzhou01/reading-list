@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 18 Jun 2026 01:24:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 01:26:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -904,12 +904,12 @@
       <title>好好读书 · 《人类简史：从动物到上帝》 · 完整版 · 人类简史：从动物到上帝（图文精编版） · 完整讲读</title>
       <description>《人类简史：从动物到上帝》是青年历史学家尤瓦尔·赫拉利写给全人类的一份清醒诊断书。他用三大革命——七万年前的认知革命、一万两千年前的农业革命、五百年前的科学革命——串起智人的整部故事。书里提出三个反直觉的判断：智人靠的不是肌肉而是讲故事，农业革命是小麦驯化了我们而非相反，而科学、帝国、资本三件套正在把人类推向神的境地，却也把幸福感和物种本身逼到悬崖边上。赫拉利没有给答案，只留一句弱弱的追问：我们究竟想要什么？读完这本书，你未必能回答它，但你会重新打量自己是谁、从哪来、又该往哪去。</description>
       <pubDate>Fri, 12 Jun 2026 16:45:52 +0000</pubDate>
-      <guid isPermaLink="false">reading-list-vv20260613-episode-20260613-de096d</guid>
+      <guid isPermaLink="false">reading-list-vv20260618-episode-20260618-de096d</guid>
       <itunes:author>好好读书组</itunes:author>
       <itunes:summary>《人类简史：从动物到上帝》是青年历史学家尤瓦尔·赫拉利写给全人类的一份清醒诊断书。他用三大革命——七万年前的认知革命、一万两千年前的农业革命、五百年前的科学革命——串起智人的整部故事。书里提出三个反直觉的判断：智人靠的不是肌肉而是讲故事，农业革命是小麦驯化了我们而非相反，而科学、帝国、资本三件套正在把人类推向神的境地，却也把幸福感和物种本身逼到悬崖边上。赫拉利没有给答案，只留一句弱弱的追问：我们究竟想要什么？读完这本书，你未必能回答它，但你会重新打量自己是谁、从哪来、又该往哪去。</itunes:summary>
       <itunes:duration>00:28:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260613/episode-20260613-de096d.mp3" length="27082797" type="audio/mpeg"/>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-de096d.mp3" length="27082797" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《灰犀牛：如何应对大概率危机》 · 完整版 · 灰犀牛：如何应对大概率危机 · 完整讲读</title>
