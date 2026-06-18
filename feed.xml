@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 18 Jun 2026 00:36:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 00:47:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3055,6 +3055,17 @@
       <itunes:duration>00:37:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-842439.mp3" length="36286893" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《环界》 · 完整版 · 环界 · 完整讲读</title>
+      <description>《环界》是日本作家铃木光司的代表作，又名《午夜凶铃》原著四卷本。故事从一盘来历不明的录像带讲起：凡看过的人，会在七天后以心脏麻痹的方式死亡，且临死前都会出现拼命想摘下头盔或撕扯头发的异常举动。记者浅川为破解诅咒，深入调查，发现录像带中的怨灵山村贞子其实是七十年前被推入枯井的超能力女性。贞子因父亲参与的超能力病毒实验而生，因被村民迫害而死，她的怨念通过录像带在陌生人之间传播。浅川与前高山龙司联手进入“环界“系统，却无法直接消灭贞子。最终，贞子在临死前生下一个孩子，孩子的父亲龙司为护住母子脑死亡，母亲礼子在产房玻璃上看见贞子的阴影，关键时刻，胎儿主动将阴影推回母体，打破了跨代诅咒的循环。全书借一个跨越三十年的因果轮回，拷问科技时代的恐惧异化、消费焦虑与代际责任。二十多年过去，它依然是人类面对未知时那份本能退缩与否认的最精准写照。</description>
+      <pubDate>Thu, 18 Jun 2026 00:47:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260618-episode-20260618-cad992</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《环界》是日本作家铃木光司的代表作，又名《午夜凶铃》原著四卷本。故事从一盘来历不明的录像带讲起：凡看过的人，会在七天后以心脏麻痹的方式死亡，且临死前都会出现拼命想摘下头盔或撕扯头发的异常举动。记者浅川为破解诅咒，深入调查，发现录像带中的怨灵山村贞子其实是七十年前被推入枯井的超能力女性。贞子因父亲参与的超能力病毒实验而生，因被村民迫害而死，她的怨念通过录像带在陌生人之间传播。浅川与前高山龙司联手进入“环界“系统，却无法直接消灭贞子。最终，贞子在临死前生下一个孩子，孩子的父亲龙司为护住母子脑死亡，母亲礼子在产房玻璃上看见贞子的阴影，关键时刻，胎儿主动将阴影推回母体，打破了跨代诅咒的循环。全书借一个跨越三十年的因果轮回，拷问科技时代的恐惧异化、消费焦虑与代际责任。二十多年过去，它依然是人类面对未知时那份本能退缩与否认的最精准写照。</itunes:summary>
+      <itunes:duration>00:31:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-cad992.mp3" length="30394797" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
