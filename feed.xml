@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 18 Jun 2026 07:34:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 07:38:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3279,14 +3279,14 @@
     </item>
     <item>
       <title>好好读书 · 《平凡的世界》 · 完整版 · 平凡的世界 · 完整讲读</title>
-      <description>《平凡的世界》是路遥用十三年写就的百万字长篇，以一九七五年到一九八五年的中国城乡为背景，讲述了孙少安、孙少平两兄弟在时代巨变中挣扎奋斗的故事。少安扎根土地，扛起一大家子的烂包光景；少平走出双水村，在矿井下用读书和劳动守住自己的尊严。路遥用最朴素的笔，写最苦的人，写他们在贫穷、爱情、死亡面前，如何不认输。这本书不提供奇迹，只提供一种在泥地里站直了活下去的力量。</description>
-      <pubDate>Thu, 18 Jun 2026 06:19:11 +0000</pubDate>
-      <guid isPermaLink="false">reading-list-vv20260618-episode-20260618-ab207b</guid>
+      <description>《平凡的世界》是路遥用六年生命写就的百万字长篇。一九七五年到一九八五年，孙少安与孙少平这对农民兄弟，一个在黄土地上烧砖扛起一个家，一个走出双水村下矿井又重返矿山。路遥以最朴素的笔，写出普通人在苦难中死守尊严与理想的模样，至今仍是无数人的深夜安神药。</description>
+      <pubDate>Thu, 18 Jun 2026 07:37:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260618-episode-20260618-506173</guid>
       <itunes:author>好好读书组</itunes:author>
-      <itunes:summary>《平凡的世界》是路遥用十三年写就的百万字长篇，以一九七五年到一九八五年的中国城乡为背景，讲述了孙少安、孙少平两兄弟在时代巨变中挣扎奋斗的故事。少安扎根土地，扛起一大家子的烂包光景；少平走出双水村，在矿井下用读书和劳动守住自己的尊严。路遥用最朴素的笔，写最苦的人，写他们在贫穷、爱情、死亡面前，如何不认输。这本书不提供奇迹，只提供一种在泥地里站直了活下去的力量。</itunes:summary>
-      <itunes:duration>00:29:18</itunes:duration>
+      <itunes:summary>《平凡的世界》是路遥用六年生命写就的百万字长篇。一九七五年到一九八五年，孙少安与孙少平这对农民兄弟，一个在黄土地上烧砖扛起一个家，一个走出双水村下矿井又重返矿山。路遥以最朴素的笔，写出普通人在苦难中死守尊严与理想的模样，至今仍是无数人的深夜安神药。</itunes:summary>
+      <itunes:duration>00:32:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-ab207b.mp3" length="28136877" type="audio/mpeg"/>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-506173.mp3" length="31665069" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《秋园》 · 完整版 · 秋园 · 完整讲读</title>
