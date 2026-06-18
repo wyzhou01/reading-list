@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 18 Jun 2026 02:16:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 02:17:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3187,6 +3187,29 @@
       <itunes:duration>00:24:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-2377c9.mp3" length="23631789" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《圣殿春秋》 · 完整版 · 圣殿春秋 · 完整讲读</title>
+      <description>一座石头,一块地,一群人,一百年。
+
+《圣殿春秋》是英国作家肯·福莱特耗时三年零三个月写就的史诗巨著。它以十二世纪英格兰为背景,讲述了一个名叫汤姆的石匠,为了心中修建哥特式大教堂的梦想,放弃安稳生活,带着妻儿流浪十年。同期,一群修士在乱世中守护着一块小小的修道院地,只为等来那一天,把教堂盖起来。一个被家破人亡的贵族女子,靠自己的双手在男权世界里活了下来。
+
+全书围绕王桥大教堂的修建,铺开了一幅中世纪群像画卷:匠人的执念、修士的坚守、权力的贪婪、女性的韧性,在这片土地上反复撕扯、又反复托举。
+
+它最终回答了一个问题:一件事要成,需要多少种力量同时在场?答案是——需要整整一代人的重量,才托得起一座石头教堂。</description>
+      <pubDate>Thu, 18 Jun 2026 02:17:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260618-episode-20260618-9dcf1b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一座石头,一块地,一群人,一百年。
+
+《圣殿春秋》是英国作家肯·福莱特耗时三年零三个月写就的史诗巨著。它以十二世纪英格兰为背景,讲述了一个名叫汤姆的石匠,为了心中修建哥特式大教堂的梦想,放弃安稳生活,带着妻儿流浪十年。同期,一群修士在乱世中守护着一块小小的修道院地,只为等来那一天,把教堂盖起来。一个被家破人亡的贵族女子,靠自己的双手在男权世界里活了下来。
+
+全书围绕王桥大教堂的修建,铺开了一幅中世纪群像画卷:匠人的执念、修士的坚守、权力的贪婪、女性的韧性,在这片土地上反复撕扯、又反复托举。
+
+它最终回答了一个问题:一件事要成,需要多少种力量同时在场?答案是——需要整整一代人的重量,才托得起一座石头教堂。</itunes:summary>
+      <itunes:duration>00:32:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-9dcf1b.mp3" length="31227693" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
