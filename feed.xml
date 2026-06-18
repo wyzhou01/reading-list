@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 18 Jun 2026 07:59:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 08:03:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3342,6 +3342,17 @@
       <itunes:duration>00:27:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-d636a5.mp3" length="26029869" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《查令十字街84号》 · 完整版 · 查令十字街84号 · 完整讲读</title>
+      <description>《查令十字街八四号》是美国穷作家海莲·汉芙与伦敦旧书店马克斯与科恩之间，自一九四九年至一九六九年长达二十年的书信集。从最初的索书单开始，海莲寄去火腿、鸡蛋、罐头，店员弗兰克与同事塞西莉、诺拉、梅甘、比尔等回以旧书与短笺。海莲一辈子攒不够两张去伦敦的船票，弗兰克一辈子没有等到她成行。一九六八年弗兰克病逝，次年海莲终于独自飞往查令十字街，书店已不在。一本没有情节的小书，写尽陌生人之间最素朴也最深沉的爱——所有东西都被即时送达的时代，耐心本身成了奢侈品，而这本书提醒我们：真正的情谊，从来不需要见面。</description>
+      <pubDate>Thu, 18 Jun 2026 08:02:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260618-episode-20260618-0f2f56</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《查令十字街八四号》是美国穷作家海莲·汉芙与伦敦旧书店马克斯与科恩之间，自一九四九年至一九六九年长达二十年的书信集。从最初的索书单开始，海莲寄去火腿、鸡蛋、罐头，店员弗兰克与同事塞西莉、诺拉、梅甘、比尔等回以旧书与短笺。海莲一辈子攒不够两张去伦敦的船票，弗兰克一辈子没有等到她成行。一九六八年弗兰克病逝，次年海莲终于独自飞往查令十字街，书店已不在。一本没有情节的小书，写尽陌生人之间最素朴也最深沉的爱——所有东西都被即时送达的时代，耐心本身成了奢侈品，而这本书提醒我们：真正的情谊，从来不需要见面。</itunes:summary>
+      <itunes:duration>00:30:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-0f2f56.mp3" length="28952877" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
