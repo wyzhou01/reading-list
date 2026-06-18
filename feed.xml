@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 18 Jun 2026 07:38:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 07:42:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3335,14 +3335,14 @@
     </item>
     <item>
       <title>好好读书 · 《香水》 · 完整版 · 香水个谋杀犯的故事 · 完整讲读</title>
-      <description>《香水》是德国作家聚斯金德一九八五年出版的代表作，讲述十八世纪巴黎一个没有自身气味的嗅觉天才格雷诺耶，为制造一瓶完美的香水、获得世界的承认，连续谋杀二十六个少女的悲剧。小说借气味这一最古老、最动物性的感官，探讨了天才与虚无、占有与毁灭、个体与社会绝对孤立等现代性命题。一九八五年出版后轰动德语文坛，被译为近四十种语言，全球发行逾一千二百万册，是二十世纪最奇特、最令人不安的文学经典之一。</description>
-      <pubDate>Thu, 18 Jun 2026 06:46:12 +0000</pubDate>
-      <guid isPermaLink="false">reading-list-vv20260618-episode-20260618-4b1219</guid>
+      <description>《香水》是德国作家聚斯金德一九八四年的代表作，讲述十八世纪巴黎一个没有体味的孤儿格雷诺耶凭借超凡嗅觉，先后杀害二十六名少女提炼香水，最终以一瓶征服全人类的气味自我毁灭的故事。小说以寓言形式探讨了天才与虚无、占有与毁灭、感官如何凌驾于理性之上的命题，是德国后现代主义文学的经典。</description>
+      <pubDate>Thu, 18 Jun 2026 07:41:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260618-episode-20260618-cfad92</guid>
       <itunes:author>好好读书组</itunes:author>
-      <itunes:summary>《香水》是德国作家聚斯金德一九八五年出版的代表作，讲述十八世纪巴黎一个没有自身气味的嗅觉天才格雷诺耶，为制造一瓶完美的香水、获得世界的承认，连续谋杀二十六个少女的悲剧。小说借气味这一最古老、最动物性的感官，探讨了天才与虚无、占有与毁灭、个体与社会绝对孤立等现代性命题。一九八五年出版后轰动德语文坛，被译为近四十种语言，全球发行逾一千二百万册，是二十世纪最奇特、最令人不安的文学经典之一。</itunes:summary>
-      <itunes:duration>00:37:35</itunes:duration>
+      <itunes:summary>《香水》是德国作家聚斯金德一九八四年的代表作，讲述十八世纪巴黎一个没有体味的孤儿格雷诺耶凭借超凡嗅觉，先后杀害二十六名少女提炼香水，最终以一瓶征服全人类的气味自我毁灭的故事。小说以寓言形式探讨了天才与虚无、占有与毁灭、感官如何凌驾于理性之上的命题，是德国后现代主义文学的经典。</itunes:summary>
+      <itunes:duration>00:32:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-4b1219.mp3" length="36095661" type="audio/mpeg"/>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-cfad92.mp3" length="31038765" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
