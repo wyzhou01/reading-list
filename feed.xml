@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 18 Jun 2026 00:31:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 00:36:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3044,6 +3044,17 @@
       <itunes:duration>00:26:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-78303c.mp3" length="24987693" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《罗生门》 · 完整版 · 罗生门 · 完整讲读</title>
+      <description>《罗生门》是芥川龙之介的短篇精选集，他以锋利的笔触剖开人性的自私与虚伪。《鼻子》揭示旁观者依赖他人不幸来垫高自身优越感的幽暗心理；《罗生门》与《竹林中》用多重供词颠覆真相，让每个人都在美化自私；《地狱变》叩问艺术至上与人伦的撕裂，良秀在女儿被烧死的火光中完成了毕生杰作；《河童》以寓言猛烈抨击资本主义的人吃人本质，并用疯人之口说出清醒者无法言说的真话；《侏儒的话》以冷峻格言道尽人生如疯子奥运会般的荒诞。芥川在三十五岁以自杀谢世，留给世人的不仅是精湛短篇，更是一面照见每个人如何对自己撒谎的镜子。</description>
+      <pubDate>Thu, 18 Jun 2026 00:36:36 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260618-episode-20260618-842439</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《罗生门》是芥川龙之介的短篇精选集，他以锋利的笔触剖开人性的自私与虚伪。《鼻子》揭示旁观者依赖他人不幸来垫高自身优越感的幽暗心理；《罗生门》与《竹林中》用多重供词颠覆真相，让每个人都在美化自私；《地狱变》叩问艺术至上与人伦的撕裂，良秀在女儿被烧死的火光中完成了毕生杰作；《河童》以寓言猛烈抨击资本主义的人吃人本质，并用疯人之口说出清醒者无法言说的真话；《侏儒的话》以冷峻格言道尽人生如疯子奥运会般的荒诞。芥川在三十五岁以自杀谢世，留给世人的不仅是精湛短篇，更是一面照见每个人如何对自己撒谎的镜子。</itunes:summary>
+      <itunes:duration>00:37:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-842439.mp3" length="36286893" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
