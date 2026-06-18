@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 17 Jun 2026 23:56:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 00:06:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -2989,6 +2989,17 @@
       <itunes:duration>00:31:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-38b85e.mp3" length="30623277" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《亲爱的安德烈》 · 完整版 · 亲爱的安德烈 · 完整讲读</title>
+      <description>《亲爱的安德烈》是龙应台与十八岁儿子安德烈历时三年的三十六封通信集。面对城乡差距、东西文化与代际身份的鸿沟，母子用平等的笔谈凿开了沉默。书中既有“认识一个人永远不嫌晚”的醒悟，也有对民族主义、阶层流动与独立宣言的诚实剖白。它提醒我们：爱不等于认识，而通信可以是重建连结的第一步。</description>
+      <pubDate>Thu, 18 Jun 2026 00:06:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260618-episode-20260618-4aad1f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《亲爱的安德烈》是龙应台与十八岁儿子安德烈历时三年的三十六封通信集。面对城乡差距、东西文化与代际身份的鸿沟，母子用平等的笔谈凿开了沉默。书中既有“认识一个人永远不嫌晚”的醒悟，也有对民族主义、阶层流动与独立宣言的诚实剖白。它提醒我们：爱不等于认识，而通信可以是重建连结的第一步。</itunes:summary>
+      <itunes:duration>00:33:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-4aad1f.mp3" length="31815981" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
