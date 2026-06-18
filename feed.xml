@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 18 Jun 2026 00:47:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 00:48:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3066,6 +3066,17 @@
       <itunes:duration>00:31:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-cad992.mp3" length="30394797" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《2001太空漫游》 · 完整版 · 2001太空漫游 · 完整讲读</title>
+      <description>《二零零一太空漫游》是科幻大师阿瑟·克拉克一九六八年的代表作。小说讲述一块神秘的黑色方碑，三百万年前在非洲启蒙了人类的祖先，又在人类登上月球后引导宇航员穿越土星轨道外的星门。鲍曼在星门中被重置为星孩，回到地球，炸毁了人类的核武库。克拉克用这部小说，把哲学思辨、宇宙尺度和人类中心主义的反思，注入了硬科幻的骨架。它被评为有史以来最伟大的科幻小说之一，影响了阿波罗登月计划。五十年过去，重读它依然能让我们在通勤的地铁上，抬头想一想：人类在宇宙中，究竟算什么。</description>
+      <pubDate>Thu, 18 Jun 2026 00:48:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260618-episode-20260618-4580ac</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《二零零一太空漫游》是科幻大师阿瑟·克拉克一九六八年的代表作。小说讲述一块神秘的黑色方碑，三百万年前在非洲启蒙了人类的祖先，又在人类登上月球后引导宇航员穿越土星轨道外的星门。鲍曼在星门中被重置为星孩，回到地球，炸毁了人类的核武库。克拉克用这部小说，把哲学思辨、宇宙尺度和人类中心主义的反思，注入了硬科幻的骨架。它被评为有史以来最伟大的科幻小说之一，影响了阿波罗登月计划。五十年过去，重读它依然能让我们在通勤的地铁上，抬头想一想：人类在宇宙中，究竟算什么。</itunes:summary>
+      <itunes:duration>00:31:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-4580ac.mp3" length="29761965" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
