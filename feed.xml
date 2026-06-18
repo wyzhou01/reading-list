@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 18 Jun 2026 08:27:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 08:35:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3353,6 +3353,17 @@
       <itunes:duration>00:30:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-0f2f56.mp3" length="28952877" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《杏仁》 · 完整版 · 杏仁 · 完整讲读</title>
+      <description>《杏仁》是韩国作家孙元平的获奖长篇小说，讲述了一个天生杏仁核偏小、无法感知情绪的少年允载，与一个在家庭暴力中长大的少年坤，彼此相遇、彼此命名的故事。允载的母亲用七年时间，把&quot;喜怒哀乐&quot;贴满了整面墙，只为让自己的孩子学会像普通人一样微笑。书里最动人的一幕，是那个从小就不会哭的少年，在二十岁这年，终于为母亲流下了眼泪。这是一个关于爱如何把人从怪物还原为人的故事，也是一份给所有&quot;格格不入&quot;的孩子，悄悄递过去的一张纸。</description>
+      <pubDate>Thu, 18 Jun 2026 08:35:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260618-episode-20260618-402c1a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《杏仁》是韩国作家孙元平的获奖长篇小说，讲述了一个天生杏仁核偏小、无法感知情绪的少年允载，与一个在家庭暴力中长大的少年坤，彼此相遇、彼此命名的故事。允载的母亲用七年时间，把&quot;喜怒哀乐&quot;贴满了整面墙，只为让自己的孩子学会像普通人一样微笑。书里最动人的一幕，是那个从小就不会哭的少年，在二十岁这年，终于为母亲流下了眼泪。这是一个关于爱如何把人从怪物还原为人的故事，也是一份给所有&quot;格格不入&quot;的孩子，悄悄递过去的一张纸。</itunes:summary>
+      <itunes:duration>00:25:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-402c1a.mp3" length="24886701" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
