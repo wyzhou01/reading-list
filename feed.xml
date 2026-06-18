@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 18 Jun 2026 08:39:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 08:48:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3364,6 +3364,17 @@
       <itunes:duration>00:25:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-402c1a.mp3" length="24886701" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《记一忘三二》 · 完整版 · 记一忘三二 · 完整讲读</title>
+      <description>《记一忘三二》是李娟的随笔集，书名取自古诗，意为真正刻骨铭心的事往往只剩情绪，精彩的生活反而藏在流水账里。书中没有宏大叙事，只有她与妈妈、邻居、动物、自己相处的日常：妈妈去台湾回来念叨了半年，信基督教信得稀里糊涂，全家为五亩大院扫雪累到怀疑人生，她自己耳石症发作躺在床上一圈一圈地转，转到一半与死去十年的外婆重逢。李娟的笔法不煽情不修饰，像个坐在你对面的人，有一搭没一搭地说话，说着说着忽然冒出一句特别准确的话。她从四五岁还说不清话的笨孩子，靠文字凿开了与世界的那堵玻璃墙。这本书不教你任何大道理，它只是把你拉进她的生活，让你在那些鸡毛蒜皮里，重新发现那些被自己忽略的小事——那杯凉了没人喝的茶，那只赖着不走的野猫，还有你妈在饭桌上说的、那些一点都不重要的废话。</description>
+      <pubDate>Thu, 18 Jun 2026 08:47:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260618-episode-20260618-52b0f5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《记一忘三二》是李娟的随笔集，书名取自古诗，意为真正刻骨铭心的事往往只剩情绪，精彩的生活反而藏在流水账里。书中没有宏大叙事，只有她与妈妈、邻居、动物、自己相处的日常：妈妈去台湾回来念叨了半年，信基督教信得稀里糊涂，全家为五亩大院扫雪累到怀疑人生，她自己耳石症发作躺在床上一圈一圈地转，转到一半与死去十年的外婆重逢。李娟的笔法不煽情不修饰，像个坐在你对面的人，有一搭没一搭地说话，说着说着忽然冒出一句特别准确的话。她从四五岁还说不清话的笨孩子，靠文字凿开了与世界的那堵玻璃墙。这本书不教你任何大道理，它只是把你拉进她的生活，让你在那些鸡毛蒜皮里，重新发现那些被自己忽略的小事——那杯凉了没人喝的茶，那只赖着不走的野猫，还有你妈在饭桌上说的、那些一点都不重要的废话。</itunes:summary>
+      <itunes:duration>00:27:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-52b0f5.mp3" length="26349357" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
