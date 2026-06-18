@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 18 Jun 2026 07:50:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 07:59:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3331,6 +3331,17 @@
       <itunes:duration>00:32:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-cfad92.mp3" length="31038765" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《到灯塔去》 · 完整版 · 到灯塔去 · 完整讲读</title>
+      <description>《到灯塔去》是英国意识流作家弗吉尼亚·伍尔夫的代表作。小说以苏格兰小岛为背景，分为&quot;窗&quot;、&quot;岁月流逝&quot;、&quot;灯塔&quot;三个乐章，讲述拉姆齐一家在战前的傍晚、十年间的生离死别、以及战后终于出海抵达灯塔的故事。伍尔夫以音乐化的结构、主观心理时间、雌雄同体的视角，回答了三个核心问题：爱能否穿越死亡、混乱中能否建立秩序、人与人能否彼此理解。这不仅是一部小说，更是一场关于精神之光如何长存的沉思。</description>
+      <pubDate>Thu, 18 Jun 2026 07:59:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260618-episode-20260618-d636a5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《到灯塔去》是英国意识流作家弗吉尼亚·伍尔夫的代表作。小说以苏格兰小岛为背景，分为&quot;窗&quot;、&quot;岁月流逝&quot;、&quot;灯塔&quot;三个乐章，讲述拉姆齐一家在战前的傍晚、十年间的生离死别、以及战后终于出海抵达灯塔的故事。伍尔夫以音乐化的结构、主观心理时间、雌雄同体的视角，回答了三个核心问题：爱能否穿越死亡、混乱中能否建立秩序、人与人能否彼此理解。这不仅是一部小说，更是一场关于精神之光如何长存的沉思。</itunes:summary>
+      <itunes:duration>00:27:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-d636a5.mp3" length="26029869" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
