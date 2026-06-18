@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 18 Jun 2026 00:30:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 00:31:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3033,6 +3033,17 @@
       <itunes:duration>00:27:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-b70e6a.mp3" length="26607789" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《佛陀传（一行大师）》 · 完整版 · 佛陀传（一行大师） · 完整讲读</title>
+      <description>《佛陀传》是一行禅师写给现代人的佛陀传记。它以牧童缚悉底的视角，把佛陀从神坛请回人间，呈现他作为一个人、一个父亲、一个行脚僧的八十年生命：从王宫出走、苦行六年、菩提树下开悟，到创立僧团、宣讲四圣谛与八正道，最后在两棵娑罗树下入灭。一行禅师没有把佛陀写成高高在上的圣者，而是写成一个会笑、会流泪、会老去、会疲倦的人间觉者。更重要的是，他用诗意的笔触，把无常、无我、缘起、正念、慈悲这些看似遥远的佛家概念，一一翻译成我们每天可以练习的事——专注呼吸、专注脚步、专注与家人相处的每一刻。这本书不只讲佛陀的故事，更是一份关于如何活在当下的邀请。</description>
+      <pubDate>Thu, 18 Jun 2026 00:31:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260618-episode-20260618-78303c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《佛陀传》是一行禅师写给现代人的佛陀传记。它以牧童缚悉底的视角，把佛陀从神坛请回人间，呈现他作为一个人、一个父亲、一个行脚僧的八十年生命：从王宫出走、苦行六年、菩提树下开悟，到创立僧团、宣讲四圣谛与八正道，最后在两棵娑罗树下入灭。一行禅师没有把佛陀写成高高在上的圣者，而是写成一个会笑、会流泪、会老去、会疲倦的人间觉者。更重要的是，他用诗意的笔触，把无常、无我、缘起、正念、慈悲这些看似遥远的佛家概念，一一翻译成我们每天可以练习的事——专注呼吸、专注脚步、专注与家人相处的每一刻。这本书不只讲佛陀的故事，更是一份关于如何活在当下的邀请。</itunes:summary>
+      <itunes:duration>00:26:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-78303c.mp3" length="24987693" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
