@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 18 Jun 2026 02:56:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 05:33:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3243,6 +3243,17 @@
       <itunes:duration>00:27:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-b78ad0.mp3" length="26496429" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《最好的告别：关于衰老与死亡，你必须知道的常识》 · 完整版 · 《最好的告别：关于衰老与死亡，你必须知道的常识》[美]葛文德【雨浪v1.1】 · 完整讲读</title>
+      <description>《最好的告别》是哈佛外科医生阿图·葛文德关于衰老与死亡的经典之作。书中通过大量真实故事，揭示现代医学如何把死亡医学化、疗养院如何把人“集体存放”，并提出三大解决方案：辅助生活让老人重新获得自主权、善终服务让临终病人少痛苦有尊严、解释型医患关系让病人参与自己的治疗决策。葛文德以自己的父亲为例，探讨了医患之间最难的谈话，呼吁每个人提前思考“最后一段路要怎么走”。这本书不沉重也不煽情，只真诚地告诉你：生命有终点，但尊严没有。</description>
+      <pubDate>Thu, 18 Jun 2026 05:32:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260618-episode-20260618-f8b2c0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《最好的告别》是哈佛外科医生阿图·葛文德关于衰老与死亡的经典之作。书中通过大量真实故事，揭示现代医学如何把死亡医学化、疗养院如何把人“集体存放”，并提出三大解决方案：辅助生活让老人重新获得自主权、善终服务让临终病人少痛苦有尊严、解释型医患关系让病人参与自己的治疗决策。葛文德以自己的父亲为例，探讨了医患之间最难的谈话，呼吁每个人提前思考“最后一段路要怎么走”。这本书不沉重也不煽情，只真诚地告诉你：生命有终点，但尊严没有。</itunes:summary>
+      <itunes:duration>00:26:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-f8b2c0.mp3" length="25293741" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
