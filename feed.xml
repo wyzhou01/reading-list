@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 18 Jun 2026 00:06:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 00:19:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3000,6 +3000,17 @@
       <itunes:duration>00:33:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-4aad1f.mp3" length="31815981" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《基督山伯爵》 · 完整版 · 基督山伯爵（多看弹注） · 完整讲读</title>
+      <description>十九岁的水手埃德蒙·当戴斯，正要升任船长、迎娶心爱的姑娘，却被当格拉尔、费尔南、卡德鲁斯和维尔福四人联手陷害，关进伊夫堡黑牢十四年。狱中他偶遇法里亚长老，得其真传，又获基督山岛巨额宝藏，化身基督山伯爵重返巴黎。十年间，他将三个仇人一一逼入绝境：费尔南身败名裂、自杀身亡，维尔福家破人亡、发疯痴狂，当格拉尔倾家荡产、一无所有。可复仇成功之日，他心里反倒空落落的。最终，他在马赛海边放手，让梅塞苔斯和莫雷尔的儿女各自远行，自己带上海黛，去寻找新的人生。大仲马借这部一百万字的巨著，告诉我们八个字：等待，希望。</description>
+      <pubDate>Thu, 18 Jun 2026 00:19:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260618-episode-20260618-8d1a84</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>十九岁的水手埃德蒙·当戴斯，正要升任船长、迎娶心爱的姑娘，却被当格拉尔、费尔南、卡德鲁斯和维尔福四人联手陷害，关进伊夫堡黑牢十四年。狱中他偶遇法里亚长老，得其真传，又获基督山岛巨额宝藏，化身基督山伯爵重返巴黎。十年间，他将三个仇人一一逼入绝境：费尔南身败名裂、自杀身亡，维尔福家破人亡、发疯痴狂，当格拉尔倾家荡产、一无所有。可复仇成功之日，他心里反倒空落落的。最终，他在马赛海边放手，让梅塞苔斯和莫雷尔的儿女各自远行，自己带上海黛，去寻找新的人生。大仲马借这部一百万字的巨著，告诉我们八个字：等待，希望。</itunes:summary>
+      <itunes:duration>00:40:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-8d1a84.mp3" length="39051693" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
