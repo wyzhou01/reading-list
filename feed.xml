@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 18 Jun 2026 02:48:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 02:55:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3221,6 +3221,17 @@
       <itunes:duration>00:37:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-b53c07.mp3" length="35901741" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《活着》 · 完整版 · 活着 · 完整讲读</title>
+      <description>余华一九九二年的《活着》，写地主少爷福贵嗜赌败家后，被内战、大跃进、文革推着走完了一生。他亲手送走了爹、娘、儿子有庆、女儿凤霞、妻子家珍、女婿二喜、外孙苦根，最后只剩他和一头也叫福贵的老牛，在田里慢慢耕地。这本被译成四十多种语言、总销量超两千万册的当代中国小说，用第一人称让福贵自己讲他自己的日子，写出了中国底层农民几十年的生与死。它不控诉，不励志，只写一个老人和他命运之间的友情——「人是为活着本身而活着的，而不是为了活着之外的任何事物所活着。」</description>
+      <pubDate>Thu, 18 Jun 2026 02:55:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260618-episode-20260618-979734</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>余华一九九二年的《活着》，写地主少爷福贵嗜赌败家后，被内战、大跃进、文革推着走完了一生。他亲手送走了爹、娘、儿子有庆、女儿凤霞、妻子家珍、女婿二喜、外孙苦根，最后只剩他和一头也叫福贵的老牛，在田里慢慢耕地。这本被译成四十多种语言、总销量超两千万册的当代中国小说，用第一人称让福贵自己讲他自己的日子，写出了中国底层农民几十年的生与死。它不控诉，不励志，只写一个老人和他命运之间的友情——「人是为活着本身而活着的，而不是为了活着之外的任何事物所活着。」</itunes:summary>
+      <itunes:duration>00:37:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-979734.mp3" length="36007341" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
