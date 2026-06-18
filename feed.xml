@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 18 Jun 2026 01:26:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 02:00:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3132,6 +3132,17 @@
       <itunes:duration>00:26:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-84fc03.mp3" length="25289517" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《亮剑》 · 完整版 · 亮剑 · 完整讲读</title>
+      <description>《亮剑》是都梁二零零零年出版的长篇军事小说,以抗日战争到解放战争为背景,讲述了李云龙从一个泥腿子团长,成长为一代名将,最终却在和平年代以悲剧收场的故事。全书三十多万字,塑造了李云龙、赵刚、楚云飞等一批有血有肉的人物,既写了战场上「狭路相逢勇者胜」的血性,也写了袍泽之间拿命换命的兄弟情,更写了英雄在和平年代被时代碾压的悲凉命运。小说不只讲打仗,更讲一个人怎么活、怎么扛、怎么死,那股面对命运不服输的&quot;亮剑精神&quot;,放到任何时代都依然闪闪发光。</description>
+      <pubDate>Thu, 18 Jun 2026 02:00:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260618-episode-20260618-a0bba7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《亮剑》是都梁二零零零年出版的长篇军事小说,以抗日战争到解放战争为背景,讲述了李云龙从一个泥腿子团长,成长为一代名将,最终却在和平年代以悲剧收场的故事。全书三十多万字,塑造了李云龙、赵刚、楚云飞等一批有血有肉的人物,既写了战场上「狭路相逢勇者胜」的血性,也写了袍泽之间拿命换命的兄弟情,更写了英雄在和平年代被时代碾压的悲凉命运。小说不只讲打仗,更讲一个人怎么活、怎么扛、怎么死,那股面对命运不服输的&quot;亮剑精神&quot;,放到任何时代都依然闪闪发光。</itunes:summary>
+      <itunes:duration>00:25:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-a0bba7.mp3" length="24763821" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
