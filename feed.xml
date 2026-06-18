@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 18 Jun 2026 02:55:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 02:56:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3232,6 +3232,17 @@
       <itunes:duration>00:37:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-979734.mp3" length="36007341" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《围城》 · 完整版 · 围城 · 完整讲读</title>
+      <description>《围城》是钱钟书一九四七年出版、唯一的一部长篇小说，被誉为“新《儒林外史》”。全书以留学归来的方鸿渐为主角，写他在文凭、爱情、婚姻、大学、时代与自我性格里反复碰壁的故事。钱钟书用极其渊博的学识、辛辣的讽刺和近乎游戏式的幽默，把抗战前后中国知识分子的虚伪、自欺与困顿，写成了一幅栩栩如生的世态图。表面看是婚恋故事，骨子里是对人性、对文化、对整个时代的冷峻观照。那句“城外的人想冲进去，城里的人想逃出来”，讲的从来不是哪一座城，而是人一生的处境。</description>
+      <pubDate>Thu, 18 Jun 2026 02:55:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260618-episode-20260618-b78ad0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《围城》是钱钟书一九四七年出版、唯一的一部长篇小说，被誉为“新《儒林外史》”。全书以留学归来的方鸿渐为主角，写他在文凭、爱情、婚姻、大学、时代与自我性格里反复碰壁的故事。钱钟书用极其渊博的学识、辛辣的讽刺和近乎游戏式的幽默，把抗战前后中国知识分子的虚伪、自欺与困顿，写成了一幅栩栩如生的世态图。表面看是婚恋故事，骨子里是对人性、对文化、对整个时代的冷峻观照。那句“城外的人想冲进去，城里的人想逃出来”，讲的从来不是哪一座城，而是人一生的处境。</itunes:summary>
+      <itunes:duration>00:27:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-b78ad0.mp3" length="26496429" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
