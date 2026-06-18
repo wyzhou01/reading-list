@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 18 Jun 2026 16:30:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 16:36:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3397,6 +3397,17 @@
       <itunes:duration>00:37:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-a01d5c.mp3" length="36040365" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《当呼吸化为空气》 · 完整版 · 当呼吸化为空气 · 完整讲读</title>
+      <description>本书是神经外科医生保罗·卡拉尼什在36岁被诊断出肺癌晚期后写下的生命自省。他曾以文学和医学为志业，追问&apos;是什么让人的生命有意义&apos;；确诊后，他从医生的位置滑向病床，从追问者变为被追问者。全书分两部分：前半回忆他从文学青年到神经外科住院医的求索，后半记录他作为癌症患者与妻子共同面对死亡、重建意义的过程。妻子露西的后记补完了他未竟的故事——一个关于&apos;如何好好活着、如何好好死去&apos;的答案。</description>
+      <pubDate>Thu, 18 Jun 2026 16:36:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-7dcc89</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是神经外科医生保罗·卡拉尼什在36岁被诊断出肺癌晚期后写下的生命自省。他曾以文学和医学为志业，追问&apos;是什么让人的生命有意义&apos;；确诊后，他从医生的位置滑向病床，从追问者变为被追问者。全书分两部分：前半回忆他从文学青年到神经外科住院医的求索，后半记录他作为癌症患者与妻子共同面对死亡、重建意义的过程。妻子露西的后记补完了他未竟的故事——一个关于&apos;如何好好活着、如何好好死去&apos;的答案。</itunes:summary>
+      <itunes:duration>00:13:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-7dcc89.mp3" length="12645549" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
