@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 18 Jun 2026 00:22:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 00:30:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3022,6 +3022,17 @@
       <itunes:duration>00:34:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-5f9265.mp3" length="32971053" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《普林斯顿微积分读本（修订版）》 · 完整版 · 普林斯顿微积分读本 · 完整讲读</title>
+      <description>《普林斯顿微积分读本》是普林斯顿数学教授阿德里安·班纳写给大一新生和自学者的微积分指南。全书三十章加两个附录, 覆盖一元微积分全部核心内容, 独创内心独白式讲解, 把解题时的每一步思考过程都写出来。班纳用函数图像、直觉化的极限、系统的求导法则、基本定理把导数与积分焊成一座桥, 再用换元法、分部积分、部分分式、三角换元攻克积分技巧, 用反常积分、级数判别法、泰勒级数处理无穷对象, 最后用参数方程、极坐标、体积弧长表面积和微分方程收尾。这本书在欧美畅销十余年, 是无数学生口中的救命书, 也是任何想真正学会微积分的人书架上最值得反复翻阅的那一本。</description>
+      <pubDate>Thu, 18 Jun 2026 00:30:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260618-episode-20260618-b70e6a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《普林斯顿微积分读本》是普林斯顿数学教授阿德里安·班纳写给大一新生和自学者的微积分指南。全书三十章加两个附录, 覆盖一元微积分全部核心内容, 独创内心独白式讲解, 把解题时的每一步思考过程都写出来。班纳用函数图像、直觉化的极限、系统的求导法则、基本定理把导数与积分焊成一座桥, 再用换元法、分部积分、部分分式、三角换元攻克积分技巧, 用反常积分、级数判别法、泰勒级数处理无穷对象, 最后用参数方程、极坐标、体积弧长表面积和微分方程收尾。这本书在欧美畅销十余年, 是无数学生口中的救命书, 也是任何想真正学会微积分的人书架上最值得反复翻阅的那一本。</itunes:summary>
+      <itunes:duration>00:27:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-b70e6a.mp3" length="26607789" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
