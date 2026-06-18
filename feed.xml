@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 18 Jun 2026 08:55:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 12:16:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3375,6 +3375,17 @@
       <itunes:duration>00:27:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-52b0f5.mp3" length="26349357" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《田园的忧郁》 · 完整版 · 田园的忧郁日本中篇经典日本叙景小说中划时期的作品 · 完整讲读</title>
+      <description>《田园的忧郁》是日本大正时期作家佐藤春夫一九一九年的中篇经典,讲述一位青年作家隐居东京近郊武藏野乡村后,陷入莫名的倦怠与神经衰弱,望着自己种下的蔷薇一天天枯萎,反复喃喃&apos;哦,蔷薇,你病了&apos;。同书收录的《阿绢兄妹》则把目光投向乡村底层女性阿琴,听她在雨夜讲述自己被亲哥哥贩卖、辗转寄人篱下的悲苦一生。一本是中产文人归隐幻灭的心理画卷,一本是底层女性无言苦难的命运悲歌。一百年后,当&apos;精神内耗&apos;与&apos;她经济&apos;同时成为热词,这两篇并置的小说依然像一面清醒的镜子——它逼我们看见,有些人的痛苦,被写成了诗;有些人的痛苦,从来不会被听见。而这本书,是想让我们在合上它之后,不再做那个&apos;听了故事就逃开&apos;的旁观者。</description>
+      <pubDate>Thu, 18 Jun 2026 12:16:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260618-episode-20260618-ec6ef7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《田园的忧郁》是日本大正时期作家佐藤春夫一九一九年的中篇经典,讲述一位青年作家隐居东京近郊武藏野乡村后,陷入莫名的倦怠与神经衰弱,望着自己种下的蔷薇一天天枯萎,反复喃喃&apos;哦,蔷薇,你病了&apos;。同书收录的《阿绢兄妹》则把目光投向乡村底层女性阿琴,听她在雨夜讲述自己被亲哥哥贩卖、辗转寄人篱下的悲苦一生。一本是中产文人归隐幻灭的心理画卷,一本是底层女性无言苦难的命运悲歌。一百年后,当&apos;精神内耗&apos;与&apos;她经济&apos;同时成为热词,这两篇并置的小说依然像一面清醒的镜子——它逼我们看见,有些人的痛苦,被写成了诗;有些人的痛苦,从来不会被听见。而这本书,是想让我们在合上它之后,不再做那个&apos;听了故事就逃开&apos;的旁观者。</itunes:summary>
+      <itunes:duration>00:32:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-ec6ef7.mp3" length="30926637" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
