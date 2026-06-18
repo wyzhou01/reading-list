@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 18 Jun 2026 00:48:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 00:50:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3077,6 +3077,17 @@
       <itunes:duration>00:31:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-4580ac.mp3" length="29761965" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《刀锋》 · 完整版 · 刀锋 · 完整讲读</title>
+      <description>《刀锋》是英国作家毛姆一九四四年写成的长篇小说，讲述了美国青年飞行员拉里在一次大战中失去挚友后，放弃学业、爱情与世俗生活，独自游历欧洲与印度，追问“人到底该怎么活”的故事。围绕拉里，小说刻画了一群旅居巴黎的美国人——贪图享乐的未婚妻伊莎贝儿、钻营上流社会的舅舅艾略特、忠厚老实的格雷、坠落毁灭的索菲、务求出路的苏姗——他们各自的人生选择，共同构成了对“出世与入世”这道古老命题的回应。据译者周煦良考证，拉里的原型极可能是哲学家维特根斯坦。毛姆既不劝人学拉里，也不贬低艾略特，他只把每一种活法的代价诚实地摆出来，让读者自己去看清，自己是谁。</description>
+      <pubDate>Thu, 18 Jun 2026 00:50:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260618-episode-20260618-575e96</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《刀锋》是英国作家毛姆一九四四年写成的长篇小说，讲述了美国青年飞行员拉里在一次大战中失去挚友后，放弃学业、爱情与世俗生活，独自游历欧洲与印度，追问“人到底该怎么活”的故事。围绕拉里，小说刻画了一群旅居巴黎的美国人——贪图享乐的未婚妻伊莎贝儿、钻营上流社会的舅舅艾略特、忠厚老实的格雷、坠落毁灭的索菲、务求出路的苏姗——他们各自的人生选择，共同构成了对“出世与入世”这道古老命题的回应。据译者周煦良考证，拉里的原型极可能是哲学家维特根斯坦。毛姆既不劝人学拉里，也不贬低艾略特，他只把每一种活法的代价诚实地摆出来，让读者自己去看清，自己是谁。</itunes:summary>
+      <itunes:duration>00:30:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-575e96.mp3" length="28871469" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
