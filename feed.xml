@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 18 Jun 2026 06:30:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 06:30:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3309,6 +3309,29 @@
       <itunes:duration>00:34:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-8c4c22.mp3" length="33496365" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《金阁寺》 · 完整版 · 金阁寺 · 完整讲读</title>
+      <description>《金阁寺》是三岛由纪夫一九五六年发表的长篇小说，改编自一九五〇年金阁寺真实纵火案。故事以口吃少年沟口为视角，讲述他从小被父亲灌输金阁之美，却在见到现实金阁后陷入幻象崩塌，最终在一九五〇年焚毁金阁的悲剧。
+
+全书核心命题是&apos;美达于极致便走向毁灭&apos;，三岛借沟口的口吃、自卑与权力意志，揭示一个&apos;不被世界接受&apos;的少年，如何把执念变成毁灭的力量。
+
+沟口心中的金阁，是父亲、照片、教科书共同喂给他的幻象，比现实更美、也更致命。他对金阁的执念，本质上是对&apos;我配不上美&apos;的恨，最终以烧毁的方式结束折磨。
+
+作品通过南泉斩猫、《临济录》等禅宗公案，呈现三岛&apos;以暴力为美学&apos;的极端哲学。结尾&apos;我想，我还是要活下去&apos;，是日本战后文学最冷的一句——烧了美的人，没死成，被罚继续活。</description>
+      <pubDate>Thu, 18 Jun 2026 06:30:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260618-episode-20260618-d4e902</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《金阁寺》是三岛由纪夫一九五六年发表的长篇小说，改编自一九五〇年金阁寺真实纵火案。故事以口吃少年沟口为视角，讲述他从小被父亲灌输金阁之美，却在见到现实金阁后陷入幻象崩塌，最终在一九五〇年焚毁金阁的悲剧。
+
+全书核心命题是&apos;美达于极致便走向毁灭&apos;，三岛借沟口的口吃、自卑与权力意志，揭示一个&apos;不被世界接受&apos;的少年，如何把执念变成毁灭的力量。
+
+沟口心中的金阁，是父亲、照片、教科书共同喂给他的幻象，比现实更美、也更致命。他对金阁的执念，本质上是对&apos;我配不上美&apos;的恨，最终以烧毁的方式结束折磨。
+
+作品通过南泉斩猫、《临济录》等禅宗公案，呈现三岛&apos;以暴力为美学&apos;的极端哲学。结尾&apos;我想，我还是要活下去&apos;，是日本战后文学最冷的一句——烧了美的人，没死成，被罚继续活。</itunes:summary>
+      <itunes:duration>00:31:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-d4e902.mp3" length="29894061" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
