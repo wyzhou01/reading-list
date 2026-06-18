@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 18 Jun 2026 02:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 02:04:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3143,6 +3143,17 @@
       <itunes:duration>00:25:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-a0bba7.mp3" length="24763821" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《乌合之众：大众心理研究》 · 完整版 · 乌合之众_大众心理研究(英汉双语修订版) · 完整讲读</title>
+      <description>一八九五年，法国人古斯塔夫·勒庞写下《乌合之众》，开创群体心理学。一百三十年后，这本书的预言依然精准：网暴、民.粹、饭.圈狂热、阴.谋.论，每一次群体事件都在重演书中规律。勒庞揭示，群体不是个体的简单相加，而是情绪与无意识碰撞出的新物种；它不靠逻辑思考，只靠情绪传染扩张；领袖用断言、重复、传染三招，就能操控亿万人。更深一层，他把群体心理学应用到民族与文明的兴衰：每个文明都靠一种共同理想诞生，又因理想褪色而衰亡。本书是开启“群体时代“文明发展的钥匙，也是一面让每一个普通人在喧.嚣.中.保.持.清.醒.的.镜子。</description>
+      <pubDate>Thu, 18 Jun 2026 02:04:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260618-episode-20260618-5d0cea</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一八九五年，法国人古斯塔夫·勒庞写下《乌合之众》，开创群体心理学。一百三十年后，这本书的预言依然精准：网暴、民.粹、饭.圈狂热、阴.谋.论，每一次群体事件都在重演书中规律。勒庞揭示，群体不是个体的简单相加，而是情绪与无意识碰撞出的新物种；它不靠逻辑思考，只靠情绪传染扩张；领袖用断言、重复、传染三招，就能操控亿万人。更深一层，他把群体心理学应用到民族与文明的兴衰：每个文明都靠一种共同理想诞生，又因理想褪色而衰亡。本书是开启“群体时代“文明发展的钥匙，也是一面让每一个普通人在喧.嚣.中.保.持.清.醒.的.镜子。</itunes:summary>
+      <itunes:duration>00:30:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-5d0cea.mp3" length="29203629" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
