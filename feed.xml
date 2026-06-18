@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 18 Jun 2026 02:04:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 02:08:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3154,6 +3154,17 @@
       <itunes:duration>00:30:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-5d0cea.mp3" length="29203629" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《曾国藩》 · 完整版 · 《曾国藩》-- · 完整讲读</title>
+      <description>《曾国藩》是唐浩明耗时八年写就的一百二十四万字长篇历史小说，借湖南省图书馆旧藏文稿，还原这位晚清名臣从七试秀才的湖南书生到平定太平天国的孤臣，再到推动洋务运动的改革者，最后在黑雨中走完一生的全过程。书里没有非黑即白的评判，只有一个人在操守与权术、担当与退缩、修身与齐家之间的反复撕扯。湘军怎么打赢的，洋务为什么失败，兄弟为何让他一生心累，临终四条家训又藏着什么真意——这本书给出的不是答案，是逼问。当理想撞上现实，当个人意志撞上历史洪流，万古之愁，究竟愁的是什么？这本书，会让你重新理解中国式奋斗的全部代价。</description>
+      <pubDate>Thu, 18 Jun 2026 02:08:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260618-episode-20260618-0734f2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《曾国藩》是唐浩明耗时八年写就的一百二十四万字长篇历史小说，借湖南省图书馆旧藏文稿，还原这位晚清名臣从七试秀才的湖南书生到平定太平天国的孤臣，再到推动洋务运动的改革者，最后在黑雨中走完一生的全过程。书里没有非黑即白的评判，只有一个人在操守与权术、担当与退缩、修身与齐家之间的反复撕扯。湘军怎么打赢的，洋务为什么失败，兄弟为何让他一生心累，临终四条家训又藏着什么真意——这本书给出的不是答案，是逼问。当理想撞上现实，当个人意志撞上历史洪流，万古之愁，究竟愁的是什么？这本书，会让你重新理解中国式奋斗的全部代价。</itunes:summary>
+      <itunes:duration>00:25:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-0734f2.mp3" length="24933933" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
