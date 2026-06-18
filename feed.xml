@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 18 Jun 2026 02:17:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 02:48:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3210,6 +3210,17 @@
       <itunes:duration>00:32:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-9dcf1b.mp3" length="31227693" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《苏菲的世界》 · 完整版 · 苏菲的世界 · 完整讲读</title>
+      <description>《苏菲的世界》讲一个十四岁女孩苏菲，在某个普通下午，从信箱里收到一封没有邮票的信，上面写着&apos;你是谁&apos;。从此她被一位神秘哲学家引导，从古希腊一路走到存在主义，从苏格拉底的法庭走到柏拉图的洞穴，从笛卡尔的怀疑走到康德的星空。读到最后你会发现：苏菲其实活在另一本书里，而这本书本身，是艾勃特送给女儿席德的十五岁生日礼物。当虚构和真实纠缠在一起，哲学就从课本走进了现实。贾德用这个结构告诉我们：人不能只靠面包过日子，还得追问&apos;我是谁&apos;、&apos;世界从何而来&apos;。两千六百年的西方哲学史，最后浓缩成一句话——我们也是星尘，所以值得问一问。</description>
+      <pubDate>Thu, 18 Jun 2026 02:48:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260618-episode-20260618-b53c07</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《苏菲的世界》讲一个十四岁女孩苏菲，在某个普通下午，从信箱里收到一封没有邮票的信，上面写着&apos;你是谁&apos;。从此她被一位神秘哲学家引导，从古希腊一路走到存在主义，从苏格拉底的法庭走到柏拉图的洞穴，从笛卡尔的怀疑走到康德的星空。读到最后你会发现：苏菲其实活在另一本书里，而这本书本身，是艾勃特送给女儿席德的十五岁生日礼物。当虚构和真实纠缠在一起，哲学就从课本走进了现实。贾德用这个结构告诉我们：人不能只靠面包过日子，还得追问&apos;我是谁&apos;、&apos;世界从何而来&apos;。两千六百年的西方哲学史，最后浓缩成一句话——我们也是星尘，所以值得问一问。</itunes:summary>
+      <itunes:duration>00:37:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-b53c07.mp3" length="35901741" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
