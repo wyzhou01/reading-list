@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 18 Jun 2026 01:11:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 01:22:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3110,6 +3110,17 @@
       <itunes:duration>00:33:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-049134.mp3" length="32252205" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《万水千山走遍》 · 完整版 · 万水千山走遍 · 完整讲读</title>
+      <description>《万水千山走遍》是三毛在一九八一年到一九八二年间,拖着病体独闯中南美洲的旅行散文。从墨西哥城到秘鲁高原,九十三天、一万两千公里,她写金字塔下的“搭哥”摊贩、洪都拉斯丹利镇赤脚编竹篮的老太太、哥斯达黎加胡迪卡贫民窟、厄瓜多尔银湖边独自坐了三天三夜的自己。这不是一本轻松的游记,而是一个女人在人生最疲惫的阶段,面对文明、阶级、衰老与孤独最诚实的凝视。她后来没能再去一次纳斯加,也没能坐上那架俯瞰地画的小飞机。本书在台湾连载后由皇冠出版社结集出版,是三毛晚期散文的代表作,也是中文旅行文学里少有的、把虚弱也写进去的作品。</description>
+      <pubDate>Thu, 18 Jun 2026 01:22:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260618-episode-20260618-d4a933</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《万水千山走遍》是三毛在一九八一年到一九八二年间,拖着病体独闯中南美洲的旅行散文。从墨西哥城到秘鲁高原,九十三天、一万两千公里,她写金字塔下的“搭哥”摊贩、洪都拉斯丹利镇赤脚编竹篮的老太太、哥斯达黎加胡迪卡贫民窟、厄瓜多尔银湖边独自坐了三天三夜的自己。这不是一本轻松的游记,而是一个女人在人生最疲惫的阶段,面对文明、阶级、衰老与孤独最诚实的凝视。她后来没能再去一次纳斯加,也没能坐上那架俯瞰地画的小飞机。本书在台湾连载后由皇冠出版社结集出版,是三毛晚期散文的代表作,也是中文旅行文学里少有的、把虚弱也写进去的作品。</itunes:summary>
+      <itunes:duration>00:31:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-d4a933.mp3" length="29784621" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
