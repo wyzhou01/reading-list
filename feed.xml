@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 18 Jun 2026 02:14:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 02:16:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3176,6 +3176,17 @@
       <itunes:duration>00:27:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-7fdd73.mp3" length="26329005" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《亲密关系：通往灵魂的桥梁》 · 完整版 · 亲密关系_通往灵魂的桥梁(新版) · 完整讲读</title>
+      <description>《亲密关系：通往灵魂的桥梁》是加拿大身心灵导师克里斯多福·孟以自己二十多年婚姻为实验写就的经典。作者将亲密关系划分为月晕、幻灭、内省、启示四个阶段，揭示伴侣其实是来照见你自己的镜子；痛苦并非关系出了问题，而是灵魂递来的成长机会。本书既给出识别偏差行为的方法，也提供“走过程”等实操工具，帮助读者在情绪的风暴里向内觉察、疗愈童年创伤、回归完整的自己。它告诉我们：你以为亲密关系是为了被爱，其实它是通往你自己灵魂的桥。</description>
+      <pubDate>Thu, 18 Jun 2026 02:15:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260618-episode-20260618-2377c9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《亲密关系：通往灵魂的桥梁》是加拿大身心灵导师克里斯多福·孟以自己二十多年婚姻为实验写就的经典。作者将亲密关系划分为月晕、幻灭、内省、启示四个阶段，揭示伴侣其实是来照见你自己的镜子；痛苦并非关系出了问题，而是灵魂递来的成长机会。本书既给出识别偏差行为的方法，也提供“走过程”等实操工具，帮助读者在情绪的风暴里向内觉察、疗愈童年创伤、回归完整的自己。它告诉我们：你以为亲密关系是为了被爱，其实它是通往你自己灵魂的桥。</itunes:summary>
+      <itunes:duration>00:24:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-2377c9.mp3" length="23631789" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
