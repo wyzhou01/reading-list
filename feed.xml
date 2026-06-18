@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 18 Jun 2026 00:19:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 00:22:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3011,6 +3011,17 @@
       <itunes:duration>00:40:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-8d1a84.mp3" length="39051693" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《从一到无穷大》 · 完整版 · 从一到无穷大科学中的事实和臆测 · 完整讲读</title>
+      <description>《从一到无穷大》是伽莫夫写于一九四六年的科普经典，用一本书把数学、物理、天文、生物熔成一炉。从一粒麦子翻六十四次棋盘讲起，一路走过大数、无穷、虚数、拓扑这些数学奇境；再钻进爱因斯坦的四维时空和相对论；接着一头扎进原子、基本粒子、基因的微观世界；最后抬起头，讲恒星的一生、宇宙的膨胀、一百四十亿年前的大爆炸。六十多年过去，这本书依然坚固，因为它教的不是结论，是一种把不同学科熔在一起的思考方式。读它，你会看到二十世纪科学的整幅地图，也会看到自己身体的每一个细胞，和头顶每一片星光，原来都是同一个“一”翻出来的。</description>
+      <pubDate>Thu, 18 Jun 2026 00:22:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260618-episode-20260618-5f9265</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《从一到无穷大》是伽莫夫写于一九四六年的科普经典，用一本书把数学、物理、天文、生物熔成一炉。从一粒麦子翻六十四次棋盘讲起，一路走过大数、无穷、虚数、拓扑这些数学奇境；再钻进爱因斯坦的四维时空和相对论；接着一头扎进原子、基本粒子、基因的微观世界；最后抬起头，讲恒星的一生、宇宙的膨胀、一百四十亿年前的大爆炸。六十多年过去，这本书依然坚固，因为它教的不是结论，是一种把不同学科熔在一起的思考方式。读它，你会看到二十世纪科学的整幅地图，也会看到自己身体的每一个细胞，和头顶每一片星光，原来都是同一个“一”翻出来的。</itunes:summary>
+      <itunes:duration>00:34:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260618/episode-20260618-5f9265.mp3" length="32971053" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
