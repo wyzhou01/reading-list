@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 10:51:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 10:58:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3804,6 +3804,17 @@
       <itunes:duration>00:25:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-0b71df.mp3" length="24876333" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《小镇喧嚣：一个乡镇政治运作的演绎与阐释》 · 完整版 · 小镇喧嚣：一个乡镇政治运作的演绎与阐释（吴毅） · 完整讲读</title>
+      <description>《小镇喧嚣》是吴毅教授用一年半时间，在中部小镇做深度田野调查写下的现场观察笔记。它以二零零三到二零零四年一个乡镇的迎检、收税、招商、土地纠纷、上访、征收为切片，揭示了压力型体制下基层政权的真实运作逻辑：正式权力与非正式权力技术如何交织使用，官民各自的行为悖论如何形成，乡镇政权如何在国家与农民之间扮演擂与媒的角色。这本书提出来的权力格局错置、官民行为悖论、非正式权力技术等概念，至今仍在回应我们看到的很多基层治理现象。</description>
+      <pubDate>Fri, 19 Jun 2026 10:58:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-6de956</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《小镇喧嚣》是吴毅教授用一年半时间，在中部小镇做深度田野调查写下的现场观察笔记。它以二零零三到二零零四年一个乡镇的迎检、收税、招商、土地纠纷、上访、征收为切片，揭示了压力型体制下基层政权的真实运作逻辑：正式权力与非正式权力技术如何交织使用，官民各自的行为悖论如何形成，乡镇政权如何在国家与农民之间扮演擂与媒的角色。这本书提出来的权力格局错置、官民行为悖论、非正式权力技术等概念，至今仍在回应我们看到的很多基层治理现象。</itunes:summary>
+      <itunes:duration>00:37:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-6de956.mp3" length="36223149" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
