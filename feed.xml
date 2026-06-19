@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 02:01:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 02:06:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3496,6 +3496,17 @@
       <itunes:duration>00:32:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-322420.mp3" length="31063725" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我的阿勒泰》 · 完整版 · 我的阿勒泰 · 完整讲读</title>
+      <description>《我的阿勒泰》是作家李娟的散文集，记下了一个汉族姑娘在新疆最北端、与游牧的哈萨克人为邻的成长记忆。本书按时间顺序分三部分：近年的生活博客、与《阿勒泰的角落》同源同期的少女记忆、以及早年旧作《九篇雪》中的部分摘录。文字朴素节制，写的是外婆的衰老与「暂时的欢乐」、从乌鲁木齐带回家的袖珍兔与没尾巴的小耗子、欠债抵来却养不起的马、小卖部里那些用颜色命名的香烟、戈壁滩上被风吹得龇牙咧嘴的摩托车长途、喀纳斯森林里那声终生只喊一声的轰然倒塌。整本书不讲奇观，只讲在贫乏中仍然兴致勃勃活着的劲头，讲城市漂泊与荒野归来之间的拉扯，讲人如何在辽阔与巨大面前学会节制、学会不拥有、学会对山野心存敬畏。这是一剂给拥挤城市里疲惫的人的安静解药。</description>
+      <pubDate>Fri, 19 Jun 2026 02:06:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-d41a91</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我的阿勒泰》是作家李娟的散文集，记下了一个汉族姑娘在新疆最北端、与游牧的哈萨克人为邻的成长记忆。本书按时间顺序分三部分：近年的生活博客、与《阿勒泰的角落》同源同期的少女记忆、以及早年旧作《九篇雪》中的部分摘录。文字朴素节制，写的是外婆的衰老与「暂时的欢乐」、从乌鲁木齐带回家的袖珍兔与没尾巴的小耗子、欠债抵来却养不起的马、小卖部里那些用颜色命名的香烟、戈壁滩上被风吹得龇牙咧嘴的摩托车长途、喀纳斯森林里那声终生只喊一声的轰然倒塌。整本书不讲奇观，只讲在贫乏中仍然兴致勃勃活着的劲头，讲城市漂泊与荒野归来之间的拉扯，讲人如何在辽阔与巨大面前学会节制、学会不拥有、学会对山野心存敬畏。这是一剂给拥挤城市里疲惫的人的安静解药。</itunes:summary>
+      <itunes:duration>00:43:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-d41a91.mp3" length="41390253" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
