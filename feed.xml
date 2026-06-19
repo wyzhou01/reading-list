@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 20:37:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 20:45:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5256,6 +5256,17 @@
       <itunes:duration>00:23:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-f7c27d.mp3" length="22095789" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《野火集》 · 完整版 · 野火集 · 完整讲读</title>
+      <description>《野火集》是龙应台一九八四到一九八五年间发表于《中国时报》人间副刊的杂文集，以《中国人，你为什么不生气》一文点燃整个台湾社会。全书以环境、交通、教育、文化、法制为线索，质问一代人的沉默与自私。她不要求读者做烈士，只请求每天做一件微不足道的小事——捡一片垃圾、扶一个瞎子过街、请邻座不要吸烟。出版二十一天再版七次，两个月内卖出十万本，被视为华语公共写作的里程碑。四十年过去，书里写的事仍在发生，每个时代都需要这一把野火。</description>
+      <pubDate>Fri, 19 Jun 2026 20:45:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-61e189</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《野火集》是龙应台一九八四到一九八五年间发表于《中国时报》人间副刊的杂文集，以《中国人，你为什么不生气》一文点燃整个台湾社会。全书以环境、交通、教育、文化、法制为线索，质问一代人的沉默与自私。她不要求读者做烈士，只请求每天做一件微不足道的小事——捡一片垃圾、扶一个瞎子过街、请邻座不要吸烟。出版二十一天再版七次，两个月内卖出十万本，被视为华语公共写作的里程碑。四十年过去，书里写的事仍在发生，每个时代都需要这一把野火。</itunes:summary>
+      <itunes:duration>00:31:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-61e189.mp3" length="30631725" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
