@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 15:40:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 15:41:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -228,6 +228,17 @@
       <itunes:duration>00:38:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-afe776.mp3" length="37320621" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《聋哑时代》 · 完整版 · 聋哑时代 · 完整讲读</title>
+      <description>《聋哑时代》是双雪涛的第一部长篇，半自传体，写一九九七年到二零零零年东北工业城市衰败下一群十三到十八岁少年的溃败青春。一零八中学对面的栅栏外，少年看着校园里跟当年自己一样表情的孩子，写下小说的第一行字。父亲临终前要一支烟没要到，三天后火化；初恋丹凤陈被老师羞辱后失踪；挚友刘一达流落精神病院；爱人艾小男从桥上坠落。全书六块拼图：让人失语的时代、让人开口的写作、让人不死的记忆、必须经过的死亡、写作本身的悖论、那个笨拙而坚硬的光明结尾。双雪涛用这本书还清了一代人拖了二十年的债——还父亲一支烟，还丹凤陈一个名字中间的字，还艾小男一条没走过的桥。这是写给那一整代人的迟到很久的信。</description>
+      <pubDate>Fri, 19 Jun 2026 15:40:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-d1b7d1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《聋哑时代》是双雪涛的第一部长篇，半自传体，写一九九七年到二零零零年东北工业城市衰败下一群十三到十八岁少年的溃败青春。一零八中学对面的栅栏外，少年看着校园里跟当年自己一样表情的孩子，写下小说的第一行字。父亲临终前要一支烟没要到，三天后火化；初恋丹凤陈被老师羞辱后失踪；挚友刘一达流落精神病院；爱人艾小男从桥上坠落。全书六块拼图：让人失语的时代、让人开口的写作、让人不死的记忆、必须经过的死亡、写作本身的悖论、那个笨拙而坚硬的光明结尾。双雪涛用这本书还清了一代人拖了二十年的债——还父亲一支烟，还丹凤陈一个名字中间的字，还艾小男一条没走过的桥。这是写给那一整代人的迟到很久的信。</itunes:summary>
+      <itunes:duration>00:33:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-d1b7d1.mp3" length="32551341" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
