@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 12:49:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 12:58:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3892,6 +3892,17 @@
       <itunes:duration>00:20:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-dd86cb.mp3" length="19671213" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《挪威的森林》 · 完整版 · 挪威的sen林 · 完整讲读</title>
+      <description>《挪威的森林》是村上春树写给所有&quot;活下来的人&quot;的一本书。三十七岁的渡边在飞机上听见甲壳虫乐队同名曲，被带回二十岁那年——挚友木月的死让他和直子一同失重，直子最终也走向了那片黑暗，唯有绿子那句&quot;喜欢你的皱纹&quot;，把他从井口拉了回来。这本书不讲怎么&quot;走出来&quot;，它只讲一件事：如何带着失去的东西，继续活下去。</description>
+      <pubDate>Fri, 19 Jun 2026 12:57:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-ae23e1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《挪威的森林》是村上春树写给所有&quot;活下来的人&quot;的一本书。三十七岁的渡边在飞机上听见甲壳虫乐队同名曲，被带回二十岁那年——挚友木月的死让他和直子一同失重，直子最终也走向了那片黑暗，唯有绿子那句&quot;喜欢你的皱纹&quot;，把他从井口拉了回来。这本书不讲怎么&quot;走出来&quot;，它只讲一件事：如何带着失去的东西，继续活下去。</itunes:summary>
+      <itunes:duration>00:27:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-ae23e1.mp3" length="26267949" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
