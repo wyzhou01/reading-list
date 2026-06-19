@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 13:27:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 13:35:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3936,6 +3936,17 @@
       <itunes:duration>00:30:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-3567f4.mp3" length="29609133" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《传习录》 · 完整版 · 传习录 · 完整讲读</title>
+      <description>《传习录》是明代心学宗师王阳明与门人弟子问答、书信的全集，集中体现了他三大核心命题：心即理——圣道不在外求，良知就在每个人当下这一颗能知是非、能辨善恶的心里；知行合一——真知必然能行，知而不行就是未知；致良知——这是心学彻悟的工夫，人人都具备判断是非的本能，只要肯在事上磨练、克除私欲，便能回归本心。本期一口气读完这本五百年前的对话集，把它最锋利的现场、最深的智慧，原原本本摊开给你听。</description>
+      <pubDate>Fri, 19 Jun 2026 13:34:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-f99d9b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《传习录》是明代心学宗师王阳明与门人弟子问答、书信的全集，集中体现了他三大核心命题：心即理——圣道不在外求，良知就在每个人当下这一颗能知是非、能辨善恶的心里；知行合一——真知必然能行，知而不行就是未知；致良知——这是心学彻悟的工夫，人人都具备判断是非的本能，只要肯在事上磨练、克除私欲，便能回归本心。本期一口气读完这本五百年前的对话集，把它最锋利的现场、最深的智慧，原原本本摊开给你听。</itunes:summary>
+      <itunes:duration>00:24:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-f99d9b.mp3" length="23866413" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
