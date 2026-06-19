@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 15:31:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 15:39:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -206,6 +206,17 @@
       <itunes:duration>00:32:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-5d42a2.mp3" length="31105581" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《生命册》 · 完整版 · 生命册_-_李佩甫_作家出版社 · 完整讲读</title>
+      <description>《生命册》是茅盾文学奖得主李佩甫沉淀三十年写就的长篇，以豫北无梁村走出的农村知识分子吴志鹏为线索，呈现其在城乡之间的挣扎、蜕变、迷失与精神还乡。小说以“平原”为一种人格，写出了几亿中国农民在城市化的洪流中既回不去故乡、又融不进城市的精神困境。三大主题层层推进：身份的三道锁（单位、户口、关系）困住每一个进城的人；欲望不是罪，罪的是欲望背后那个“配不上”的自己；一盆倒了八次手的“汗血石榴”，藏着落叶归根的死结。这是一代中国农村知识分子的精神流亡史，也是一份献给乡土中国的沉重心电图。</description>
+      <pubDate>Fri, 19 Jun 2026 15:38:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-50d4af</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《生命册》是茅盾文学奖得主李佩甫沉淀三十年写就的长篇，以豫北无梁村走出的农村知识分子吴志鹏为线索，呈现其在城乡之间的挣扎、蜕变、迷失与精神还乡。小说以“平原”为一种人格，写出了几亿中国农民在城市化的洪流中既回不去故乡、又融不进城市的精神困境。三大主题层层推进：身份的三道锁（单位、户口、关系）困住每一个进城的人；欲望不是罪，罪的是欲望背后那个“配不上”的自己；一盆倒了八次手的“汗血石榴”，藏着落叶归根的死结。这是一代中国农村知识分子的精神流亡史，也是一份献给乡土中国的沉重心电图。</itunes:summary>
+      <itunes:duration>00:38:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-50d4af.mp3" length="36871341" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
