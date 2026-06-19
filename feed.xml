@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 13:35:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 13:43:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3947,6 +3947,17 @@
       <itunes:duration>00:24:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-f99d9b.mp3" length="23866413" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《救猫咪：电影编剧宝典》 · 完整版 · 救猫咪 · 完整讲读</title>
+      <description>《救猫咪》是好莱坞编剧布莱克·斯奈德的实战派编剧指南,核心是用一套可以学会的方法,解决&quot;电影讲什么&quot;这个最基本也最致命的问题。全书围绕四件套展开:用一句话故事线抓住听众,区分十种商业片类型,塑造让观众喜欢的主角,再用十五个节拍表把剧本装进一张精确的时间表。斯奈德用二十年制片厂经验,告诉所有创作者:商业片不是灵感玄学,而是可以被设计、被施工、被反复打磨的工程。</description>
+      <pubDate>Fri, 19 Jun 2026 13:42:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-219f5e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《救猫咪》是好莱坞编剧布莱克·斯奈德的实战派编剧指南,核心是用一套可以学会的方法,解决&quot;电影讲什么&quot;这个最基本也最致命的问题。全书围绕四件套展开:用一句话故事线抓住听众,区分十种商业片类型,塑造让观众喜欢的主角,再用十五个节拍表把剧本装进一张精确的时间表。斯奈德用二十年制片厂经验,告诉所有创作者:商业片不是灵感玄学,而是可以被设计、被施工、被反复打磨的工程。</itunes:summary>
+      <itunes:duration>00:31:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-219f5e.mp3" length="30580653" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
