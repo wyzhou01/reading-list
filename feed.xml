@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 20:57:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 21:02:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5300,6 +5300,17 @@
       <itunes:duration>00:30:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-fbde0b.mp3" length="29097645" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《繁花》 · 完整版 · 繁花 · 完整讲读</title>
+      <description>本期《好好读书》一口气读完金宇澄的《繁花》。这部二零一三年由上海文艺出版社推出的代表作，用上海话对白一唱一和，不讲心理独白，写六十年代到九十年代三十年上海的弄堂、饭局、情爱与变迁。阿宝、沪生、小毛三兄弟的浮沉，梅瑞、汪小姐、李李这些女子的来去，陶陶的大闸蟹摊、至真园的圆台、苏州河畔的法国梧桐——一并在这部长篇里流过去。它拿下鲁迅文化奖长篇小说奖，二零一九年再凭王家卫改编剧集掀起热潮。听完全书，你会明白什么叫宁繁毋略、宁下毋高，也会听懂那个上帝不响的年代，上海人如何活过。</description>
+      <pubDate>Fri, 19 Jun 2026 21:02:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-de05ee</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期《好好读书》一口气读完金宇澄的《繁花》。这部二零一三年由上海文艺出版社推出的代表作，用上海话对白一唱一和，不讲心理独白，写六十年代到九十年代三十年上海的弄堂、饭局、情爱与变迁。阿宝、沪生、小毛三兄弟的浮沉，梅瑞、汪小姐、李李这些女子的来去，陶陶的大闸蟹摊、至真园的圆台、苏州河畔的法国梧桐——一并在这部长篇里流过去。它拿下鲁迅文化奖长篇小说奖，二零一九年再凭王家卫改编剧集掀起热潮。听完全书，你会明白什么叫宁繁毋略、宁下毋高，也会听懂那个上帝不响的年代，上海人如何活过。</itunes:summary>
+      <itunes:duration>00:23:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-de05ee.mp3" length="23016237" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
