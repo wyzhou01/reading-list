@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 19:14:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 19:20:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5091,6 +5091,17 @@
       <itunes:duration>00:27:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-60ec6b.mp3" length="26175405" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《动物凶猛》 · 完整版 · 动物凶猛 · 完整讲读</title>
+      <description>《动物凶猛》是王朔一九九一年出版的中篇小说集，收录了《动物凶猛》《顽主》《一点儿正经没有》《你不是一个俗人》四部作品。前者以七十年代北京大院少年的视角，写出了撬锁、斗殴与一段被反复篡改的初恋记忆；后三部则塑造了一群以贫嘴为武器的&quot;顽主&quot;青年，他们开公司替人解难、用京腔戏仿一切体制话语，在荒诞相声式的对白中消解了宏大叙事的最后一点尊严。这本书不仅是&quot;痞子文学&quot;与&quot;新京味文学&quot;的奠基之作，更是一代人精神转向的文学标本——它示范了当理想主义退潮、世俗化兴起时，中国都市青年如何用最漂亮也最锋利的语言，与意义达成一种既不信也不弃的复杂和解。</description>
+      <pubDate>Fri, 19 Jun 2026 19:20:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-cfd042</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《动物凶猛》是王朔一九九一年出版的中篇小说集，收录了《动物凶猛》《顽主》《一点儿正经没有》《你不是一个俗人》四部作品。前者以七十年代北京大院少年的视角，写出了撬锁、斗殴与一段被反复篡改的初恋记忆；后三部则塑造了一群以贫嘴为武器的&quot;顽主&quot;青年，他们开公司替人解难、用京腔戏仿一切体制话语，在荒诞相声式的对白中消解了宏大叙事的最后一点尊严。这本书不仅是&quot;痞子文学&quot;与&quot;新京味文学&quot;的奠基之作，更是一代人精神转向的文学标本——它示范了当理想主义退潮、世俗化兴起时，中国都市青年如何用最漂亮也最锋利的语言，与意义达成一种既不信也不弃的复杂和解。</itunes:summary>
+      <itunes:duration>00:34:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-cfd042.mp3" length="32713005" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
