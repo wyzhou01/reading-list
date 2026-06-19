@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 10:23:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 10:28:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3749,6 +3749,17 @@
       <itunes:duration>00:28:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-de096d.mp3" length="27082797" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《脂砚斋评石头记（上下册）》 · 完整版 · 脂砚斋评石头记（上下册） · 完整讲读</title>
+      <description>脂砚斋评石头记，是带朱红批语的石头记原貌，曹雪芹著、脂砚斋评。脂砚斋并非后世附会，而是与曹雪芹同时同步、共阅共评、亲见八十回后原稿的合作者。批语既点破作者匠心，又透露原稿伏笔与未竟结局，更记下&quot;书未成，芹为泪尽而逝&quot;的史实。闺阁女儿的才情与悲剧、封建贵族由盛而衰的百年幻梦、作者匠心与原稿骨架三条主线，在脂批中合为一体。读懂脂评本，才算读懂红楼梦原稿的真正骨架，也才读懂两位创作者跨越百年的血泪对话。</description>
+      <pubDate>Fri, 19 Jun 2026 10:28:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-8758cb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>脂砚斋评石头记，是带朱红批语的石头记原貌，曹雪芹著、脂砚斋评。脂砚斋并非后世附会，而是与曹雪芹同时同步、共阅共评、亲见八十回后原稿的合作者。批语既点破作者匠心，又透露原稿伏笔与未竟结局，更记下&quot;书未成，芹为泪尽而逝&quot;的史实。闺阁女儿的才情与悲剧、封建贵族由盛而衰的百年幻梦、作者匠心与原稿骨架三条主线，在脂批中合为一体。读懂脂评本，才算读懂红楼梦原稿的真正骨架，也才读懂两位创作者跨越百年的血泪对话。</itunes:summary>
+      <itunes:duration>00:19:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-8758cb.mp3" length="18751917" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
