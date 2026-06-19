@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 02:48:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 02:53:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3562,6 +3562,17 @@
       <itunes:duration>00:28:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-2410d2.mp3" length="27459501" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《亲密关系（第6版）》 · 完整版 · 亲密关系第6版社会心理学精品译丛 · 完整讲读</title>
+      <description>《亲密关系》第六版是美国社会心理学家罗兰·米勒的代表作，三十多年来被全球多所大学选做人际关系课程的指定教材。本书横跨社会心理学、演化心理学、发展心理学、传播学等多个学科，用严谨的实证研究拆解了爱情、婚姻、嫉妒、出轨、冲突、暴力与修复等亲密关系的方方面面。它不写情诗，也不贩卖鸡汤，它只做一件事：把通俗心理学里似是而非的结论，放在实证研究的天平上重新称一称。本期音频为你拆解全书六块拼图：人为什么需要爱、人为什么会爱、爱为什么会变化、男人和女人真的是两个物种吗、冲突和伤害发生后怎么办、关系破裂后还能修吗。无论你是正在追求心上人，还是正步入婚姻殿堂，或是亲密关系已经出现裂痕，这本书都能为你提供科学的参考答案。</description>
+      <pubDate>Fri, 19 Jun 2026 02:53:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-43ba76</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《亲密关系》第六版是美国社会心理学家罗兰·米勒的代表作，三十多年来被全球多所大学选做人际关系课程的指定教材。本书横跨社会心理学、演化心理学、发展心理学、传播学等多个学科，用严谨的实证研究拆解了爱情、婚姻、嫉妒、出轨、冲突、暴力与修复等亲密关系的方方面面。它不写情诗，也不贩卖鸡汤，它只做一件事：把通俗心理学里似是而非的结论，放在实证研究的天平上重新称一称。本期音频为你拆解全书六块拼图：人为什么需要爱、人为什么会爱、爱为什么会变化、男人和女人真的是两个物种吗、冲突和伤害发生后怎么办、关系破裂后还能修吗。无论你是正在追求心上人，还是正步入婚姻殿堂，或是亲密关系已经出现裂痕，这本书都能为你提供科学的参考答案。</itunes:summary>
+      <itunes:duration>00:27:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-43ba76.mp3" length="26690349" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
