@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 04:09:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 04:15:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3716,6 +3716,17 @@
       <itunes:duration>00:31:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-0f1b71.mp3" length="30581421" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《悖论简史：哲学与心灵的迷宫》 · 完整版 · 悖论简史 · 完整讲读</title>
+      <description>《悖论简史：哲学与心灵的迷宫》是美国哲学家罗伊·索伦森写给普通读者的一部悖论小史。作者把悖论比作「哲学的质数」，从公元前六世纪的阿那克西曼德出发，途经芝诺、苏格拉底、奥古斯丁、康德、罗素、维特根斯坦、蒯因等二十四位哲学家，重现理性主义与经验主义在每一道常识裂缝处的反复拉锯。索伦森认为，常识并非天衣无缝的整体，而像地壳一样充满断层；悖论就出现在这些断层之上。本书诙谐而深邃，既献给哲学爱好者，也献给所有愿意在论证被推向荒谬时，老老实实停在荒谬面前的人。</description>
+      <pubDate>Fri, 19 Jun 2026 04:14:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-e70c4b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《悖论简史：哲学与心灵的迷宫》是美国哲学家罗伊·索伦森写给普通读者的一部悖论小史。作者把悖论比作「哲学的质数」，从公元前六世纪的阿那克西曼德出发，途经芝诺、苏格拉底、奥古斯丁、康德、罗素、维特根斯坦、蒯因等二十四位哲学家，重现理性主义与经验主义在每一道常识裂缝处的反复拉锯。索伦森认为，常识并非天衣无缝的整体，而像地壳一样充满断层；悖论就出现在这些断层之上。本书诙谐而深邃，既献给哲学爱好者，也献给所有愿意在论证被推向荒谬时，老老实实停在荒谬面前的人。</itunes:summary>
+      <itunes:duration>00:30:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-e70c4b.mp3" length="29174061" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
