@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 13:56:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 14:06:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3969,6 +3969,17 @@
       <itunes:duration>00:33:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-76ca99.mp3" length="32085549" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《美国众神》 · 完整版 · 美国众神 · 完整讲读</title>
+      <description>尼尔·盖曼的《美国众神》讲述了一个刚出狱的男人影子被卷入古老神祇与现代崇拜之战的故事。从北欧奥丁、埃及阿努比斯到互联网、信用卡、媒体之神，盖曼用一场横跨美国的公路之旅，撕开了美国作为移民大熔炉的精神地理：当人们停止相信，神就会死去；而新的神，正在从我们的手机屏幕里诞生。影子在发现自己竟是北欧主神之子的身世之谜后，最终拒绝了神位，选择去冰岛做回一个普通人。横扫雨果、星云、斯托克三大奖项的暗黑奇幻经典，写给每一个在算法时代思考“我们究竟在信仰什么“的人。</description>
+      <pubDate>Fri, 19 Jun 2026 14:04:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-054ac1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>尼尔·盖曼的《美国众神》讲述了一个刚出狱的男人影子被卷入古老神祇与现代崇拜之战的故事。从北欧奥丁、埃及阿努比斯到互联网、信用卡、媒体之神，盖曼用一场横跨美国的公路之旅，撕开了美国作为移民大熔炉的精神地理：当人们停止相信，神就会死去；而新的神，正在从我们的手机屏幕里诞生。影子在发现自己竟是北欧主神之子的身世之谜后，最终拒绝了神位，选择去冰岛做回一个普通人。横扫雨果、星云、斯托克三大奖项的暗黑奇幻经典，写给每一个在算法时代思考“我们究竟在信仰什么“的人。</itunes:summary>
+      <itunes:duration>00:30:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-054ac1.mp3" length="28899885" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
