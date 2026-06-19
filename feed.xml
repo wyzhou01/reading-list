@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 15:12:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 15:12:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -118,6 +118,17 @@
       <itunes:duration>00:26:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-5f9548.mp3" length="25288365" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《反脆弱》 · 完整版 · 反脆弱 · 完整讲读</title>
+      <description>《反脆弱》是塔勒布&quot;不确定性四部曲&quot;的核心之作，提出一个全新概念：有些事物能从波动、随机与压力中获益，这种特性叫做反脆弱性。书中系统区分了脆弱、强韧与反脆弱三种存在形态，揭示了脆弱性可以衡量而风险无法计算的认知秘密，剖析了现代化通过压制波动性而系统性制造脆弱的悲剧。全书核心方法论是：放弃预测，采用可选择性、杠铃策略与否定法——通过&quot;赢了赚大、输了亏小&quot;的不对称结构保留选择权，通过&quot;先排除会害死自己的事&quot;做减法。塔勒布还在最后一部提出全书最锋利的洞察：代理问题——当有权力的决策者不为自己选择的后果买单时，他们就在用他人的脆弱换取自己的反脆弱。这本书不只是一部投资指南，更是一套在不确定时代生存与生长的反直觉哲学，启发每一个想要在混乱中获益的人重新审视自己与世界的关系。</description>
+      <pubDate>Fri, 19 Jun 2026 15:12:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-12bce9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《反脆弱》是塔勒布&quot;不确定性四部曲&quot;的核心之作，提出一个全新概念：有些事物能从波动、随机与压力中获益，这种特性叫做反脆弱性。书中系统区分了脆弱、强韧与反脆弱三种存在形态，揭示了脆弱性可以衡量而风险无法计算的认知秘密，剖析了现代化通过压制波动性而系统性制造脆弱的悲剧。全书核心方法论是：放弃预测，采用可选择性、杠铃策略与否定法——通过&quot;赢了赚大、输了亏小&quot;的不对称结构保留选择权，通过&quot;先排除会害死自己的事&quot;做减法。塔勒布还在最后一部提出全书最锋利的洞察：代理问题——当有权力的决策者不为自己选择的后果买单时，他们就在用他人的脆弱换取自己的反脆弱。这本书不只是一部投资指南，更是一套在不确定时代生存与生长的反直觉哲学，启发每一个想要在混乱中获益的人重新审视自己与世界的关系。</itunes:summary>
+      <itunes:duration>00:30:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-12bce9.mp3" length="29141805" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
