@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 18:48:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 18:49:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5014,6 +5014,17 @@
       <itunes:duration>00:24:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-44ad36.mp3" length="23516205" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中国经济大萧条还有多远》 · 完整版 · 中国经济大萧条还有多远（刘军洛） · 完整讲读</title>
+      <description>本书写于 2011 年风暴前夕，独立研究者刘军洛以中美博弈为大背景，提出一个反常识的判断：2008 年 10 月华尔街崩盘的真正引爆点不在美国次级债，而在中国农村的一斤猪肉——中国央行为了压住猪价而踩下货币紧缩刹车，引发全球美元套利交易逆转。他预言第三次世界性大萧条将在 2011 年四季度到 2012 年一季度的“轰轰烈烈的抗通胀“中爆发，并通过农业被外资入侵、奶粉产业链易主、煤油定价权旁落、互联网时代的智商分层等案例，系统拆解中国通胀的结构性根源与商人逐利文化对实体经济的掏空。书的下半部以“美元套利交易“为单一框架，重新审视黄金、白银、美元、房产等大类资产的命运，提醒读者：人类不是被通缩打垮的，是被抗通胀打垮的。</description>
+      <pubDate>Fri, 19 Jun 2026 16:30:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-c0b3d0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书写于 2011 年风暴前夕，独立研究者刘军洛以中美博弈为大背景，提出一个反常识的判断：2008 年 10 月华尔街崩盘的真正引爆点不在美国次级债，而在中国农村的一斤猪肉——中国央行为了压住猪价而踩下货币紧缩刹车，引发全球美元套利交易逆转。他预言第三次世界性大萧条将在 2011 年四季度到 2012 年一季度的“轰轰烈烈的抗通胀“中爆发，并通过农业被外资入侵、奶粉产业链易主、煤油定价权旁落、互联网时代的智商分层等案例，系统拆解中国通胀的结构性根源与商人逐利文化对实体经济的掏空。书的下半部以“美元套利交易“为单一框架，重新审视黄金、白银、美元、房产等大类资产的命运，提醒读者：人类不是被通缩打垮的，是被抗通胀打垮的。</itunes:summary>
+      <itunes:duration>00:26:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-c0b3d0.mp3" length="25368237" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
