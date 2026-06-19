@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 15:25:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 15:29:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -184,6 +184,17 @@
       <itunes:duration>00:29:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-5e7e1d.mp3" length="28331181" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《文明的冲突与世界秩序的重建》 · 完整版 · 文明的冲突与世界秩序的重建 · 完整讲读</title>
+      <description>本书是亨廷顿于一九九六年出版的代表作,核心论断是:冷战结束后,全球政治的主轴从意识形态转向文明,文化认同将取代政治制度,成为划分敌我、构建联盟、引发冲突的最深层标准。亨廷顿识别出七八个主要文明,论证西方文明的相对衰落与亚洲文明、伊斯兰文明的崛起,指出断层线战争最危险,并提出多文明共存的世界秩序构想。三十年来,九一一事件、中美博弈、俄乌冲突等现实,既验证又挑战了这部争议巨大的经典。</description>
+      <pubDate>Fri, 19 Jun 2026 15:29:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-b200d3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是亨廷顿于一九九六年出版的代表作,核心论断是:冷战结束后,全球政治的主轴从意识形态转向文明,文化认同将取代政治制度,成为划分敌我、构建联盟、引发冲突的最深层标准。亨廷顿识别出七八个主要文明,论证西方文明的相对衰落与亚洲文明、伊斯兰文明的崛起,指出断层线战争最危险,并提出多文明共存的世界秩序构想。三十年来,九一一事件、中美博弈、俄乌冲突等现实,既验证又挑战了这部争议巨大的经典。</itunes:summary>
+      <itunes:duration>00:30:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-b200d3.mp3" length="29525805" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
