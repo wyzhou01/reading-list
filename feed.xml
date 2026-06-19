@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 14:06:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 14:15:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3980,6 +3980,17 @@
       <itunes:duration>00:30:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-054ac1.mp3" length="28899885" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《猎魔人》 · 完整版 · 猎魔人 · 完整讲读</title>
+      <description>《猎魔人》是波兰作家安德烈·斯帕克沃斯基一九八六年起创作的奇幻系列，共七卷，讲述被魔法改造过的白发猎魔人杰洛特斩妖除魔、被命运卷入南北帝国对峙与非人种族反抗战争的故事。斯氏以东欧民间传说为骨、以冷硬派侦探小说为皮，托尔金神话传统为参照，塑造了一个坚守&quot;只信手中之剑&quot;的中立者形象。作品以多视点叙事、道德灰度与对歧视、命运、政治的隐喻，被视为对托尔金神话传统的反叛，也常与《冰与火之歌》并列。</description>
+      <pubDate>Fri, 19 Jun 2026 14:15:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-dd7ecc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《猎魔人》是波兰作家安德烈·斯帕克沃斯基一九八六年起创作的奇幻系列，共七卷，讲述被魔法改造过的白发猎魔人杰洛特斩妖除魔、被命运卷入南北帝国对峙与非人种族反抗战争的故事。斯氏以东欧民间传说为骨、以冷硬派侦探小说为皮，托尔金神话传统为参照，塑造了一个坚守&quot;只信手中之剑&quot;的中立者形象。作品以多视点叙事、道德灰度与对歧视、命运、政治的隐喻，被视为对托尔金神话传统的反叛，也常与《冰与火之歌》并列。</itunes:summary>
+      <itunes:duration>00:28:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-dd7ecc.mp3" length="26919597" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
