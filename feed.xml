@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 19:47:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 19:53:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5146,6 +5146,17 @@
       <itunes:duration>00:29:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-c2d033.mp3" length="28113837" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《乌克兰：硝烟中的雅努斯》 · 完整版 · 乌克兰：硝烟中的雅努斯（图文精编版） · 完整讲读</title>
+      <description>《乌克兰:硝烟中的雅努斯》是闻一写于二零一四年危机之后的一本书,核心是把俄乌冲突放回千年历史里去看。作者用十四个议题,从&apos;基辅罗斯&apos;的起源讲到&apos;罗斯&apos;概念的归属之争,从大俄罗斯沙文主义的帝国惯性讲到雅努斯式的地缘宿命,从克里米亚的黑海门户讲到&apos;新俄罗斯&apos;的帝国记忆。书的核心洞察是:二零一四年的危机不是偶发事件,而是一千年恩怨的最新一幕;理解这场冲突,需要看到六块拼图——历史解释权之争、帝国惯性之争、地缘宿命之争、黑海门户之争、帝国记忆之争、千年积重之争。这本书是中文世界理解俄乌关系深层逻辑的重要入门读物。</description>
+      <pubDate>Fri, 19 Jun 2026 19:53:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-f8c3c5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《乌克兰:硝烟中的雅努斯》是闻一写于二零一四年危机之后的一本书,核心是把俄乌冲突放回千年历史里去看。作者用十四个议题,从&apos;基辅罗斯&apos;的起源讲到&apos;罗斯&apos;概念的归属之争,从大俄罗斯沙文主义的帝国惯性讲到雅努斯式的地缘宿命,从克里米亚的黑海门户讲到&apos;新俄罗斯&apos;的帝国记忆。书的核心洞察是:二零一四年的危机不是偶发事件,而是一千年恩怨的最新一幕;理解这场冲突,需要看到六块拼图——历史解释权之争、帝国惯性之争、地缘宿命之争、黑海门户之争、帝国记忆之争、千年积重之争。这本书是中文世界理解俄乌关系深层逻辑的重要入门读物。</itunes:summary>
+      <itunes:duration>00:35:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-f8c3c5.mp3" length="34233261" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
