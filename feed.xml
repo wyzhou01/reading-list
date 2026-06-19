@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 03:32:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 03:43:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3661,6 +3661,17 @@
       <itunes:duration>00:31:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-92f00c.mp3" length="30638637" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《华尔街之狼》 · 完整版 · 华尔街之狼莱昂纳多迪卡普里奥主演同名电影珍藏版 · 完整讲读</title>
+      <description>《华尔街之狼》是乔丹·贝尔福特写于二零零七年的自传体回忆录，记录他从一九八七年入职华尔街到一九九八年被捕的完整经历。二十六岁创办斯特拉顿奥克蒙特公司，靠粉单股票和电话销售在三十一岁前敛财数亿美元；用可卡因、酒精和奢靡生活填满每一个工作日；最终因证券欺诈、洗钱等罪名被捕，服刑二十二个月。本书不只是一部华尔街骗子的疯狂史，更是一份关于人性如何在财富与欲望的喂养下被扭曲、又在最后关头如何被清算的认罪书。它告诉我们：欲望失控的代价，不是在最高峰时付出，而是在你最平静的那一刻清算。</description>
+      <pubDate>Fri, 19 Jun 2026 03:42:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-aae224</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《华尔街之狼》是乔丹·贝尔福特写于二零零七年的自传体回忆录，记录他从一九八七年入职华尔街到一九九八年被捕的完整经历。二十六岁创办斯特拉顿奥克蒙特公司，靠粉单股票和电话销售在三十一岁前敛财数亿美元；用可卡因、酒精和奢靡生活填满每一个工作日；最终因证券欺诈、洗钱等罪名被捕，服刑二十二个月。本书不只是一部华尔街骗子的疯狂史，更是一份关于人性如何在财富与欲望的喂养下被扭曲、又在最后关头如何被清算的认罪书。它告诉我们：欲望失控的代价，不是在最高峰时付出，而是在你最平静的那一刻清算。</itunes:summary>
+      <itunes:duration>00:47:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-aae224.mp3" length="45386157" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
