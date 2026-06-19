@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 19:20:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 19:26:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5102,6 +5102,17 @@
       <itunes:duration>00:34:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-cfd042.mp3" length="32713005" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《忍不住想打扰你》 · 完整版 · 忍不住想打扰你 · 完整讲读</title>
+      <description>《忍不住想打扰你》是插画师 bibi 园长“bibi 动物园”系列中的一本小书。她用最简单的小动物、最笨拙的对话、最朴素的画面，写出了我们这些嘴硬心软的人一直想说又不敢说的话。书里没有大道理，只有生日、冬眠、下雪、拥抱、晚安、想念，这些日常里最微小的牵绊。读完整本书你会发现，原来想念一个人不丢人，打扰一个人也不丢人，真正丢人的是，我们走到了最后，却连一句“我想你了”都没有说出口。bibi 园长用一本小书提醒我们：把那个重要的人，从清单的最后，挪到今天。小小的打扰，本身就是最温柔的靠近，也是我们这一生最该攒够的勇气。</description>
+      <pubDate>Fri, 19 Jun 2026 19:26:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-f0ef37</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《忍不住想打扰你》是插画师 bibi 园长“bibi 动物园”系列中的一本小书。她用最简单的小动物、最笨拙的对话、最朴素的画面，写出了我们这些嘴硬心软的人一直想说又不敢说的话。书里没有大道理，只有生日、冬眠、下雪、拥抱、晚安、想念，这些日常里最微小的牵绊。读完整本书你会发现，原来想念一个人不丢人，打扰一个人也不丢人，真正丢人的是，我们走到了最后，却连一句“我想你了”都没有说出口。bibi 园长用一本小书提醒我们：把那个重要的人，从清单的最后，挪到今天。小小的打扰，本身就是最温柔的靠近，也是我们这一生最该攒够的勇气。</itunes:summary>
+      <itunes:duration>00:26:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-f0ef37.mp3" length="25832877" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
