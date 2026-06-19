@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 03:21:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 03:26:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3639,6 +3639,17 @@
       <itunes:duration>00:28:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-a681df.mp3" length="27254829" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《第一行代码——Android（第2版）》 · 完整版 · 第一行代码Android第2版 · 完整讲读</title>
+      <description>《第一行代码——Android》第二版由郭霖撰写，基于 Android 七点零系统，是国内最畅销的 Android 入门书的全面重写版。全书十五章，系统覆盖四大组件、UI 与 Material Design、数据持久化、网络编程、多媒体、位置服务、碎片与多窗口等核心领域，最后以「酷欧天气」项目收束，并教你完成签名打包、上架 360 应用商店、接入广告变现的最后一公里。它不仅讲语法，更塑造一个 Android 工程师该有的完整工程视野，是无数开发者踏上移动开发之路的第一块踏脚石。</description>
+      <pubDate>Fri, 19 Jun 2026 03:26:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-42957e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《第一行代码——Android》第二版由郭霖撰写，基于 Android 七点零系统，是国内最畅销的 Android 入门书的全面重写版。全书十五章，系统覆盖四大组件、UI 与 Material Design、数据持久化、网络编程、多媒体、位置服务、碎片与多窗口等核心领域，最后以「酷欧天气」项目收束，并教你完成签名打包、上架 360 应用商店、接入广告变现的最后一公里。它不仅讲语法，更塑造一个 Android 工程师该有的完整工程视野，是无数开发者踏上移动开发之路的第一块踏脚石。</itunes:summary>
+      <itunes:duration>00:27:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-42957e.mp3" length="26284845" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
