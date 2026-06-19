@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 19:38:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 19:45:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5135,6 +5135,17 @@
       <itunes:duration>00:33:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-049134.mp3" length="32252205" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《斗罗大陆》 · 完整版 · 斗罗大陆 · 完整讲读</title>
+      <description>《斗罗大陆》是唐家三少二零零八年首发于起点中文网的现象级玄幻小说，讲述现代唐门外门弟子唐三跳崖后穿越至斗罗大陆，以婴儿之身重生，凭借前世唐门暗器绝学与双生武魂蓝银草、昊天锤，与小舞、戴沐白、奥斯卡等六人组成史莱克七怪，从无名学院一路杀向武魂殿巅峰，最终双神加身、平定大陆的故事。本期从武魂修炼体系、魂环魂骨设定、双生武魂的代价、小舞献祭的意义，以及全书作为中国网文走向成熟标志的历史地位六个维度，完成对这部千万册级作品的完整拆解。</description>
+      <pubDate>Fri, 19 Jun 2026 15:00:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-c2d033</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《斗罗大陆》是唐家三少二零零八年首发于起点中文网的现象级玄幻小说，讲述现代唐门外门弟子唐三跳崖后穿越至斗罗大陆，以婴儿之身重生，凭借前世唐门暗器绝学与双生武魂蓝银草、昊天锤，与小舞、戴沐白、奥斯卡等六人组成史莱克七怪，从无名学院一路杀向武魂殿巅峰，最终双神加身、平定大陆的故事。本期从武魂修炼体系、魂环魂骨设定、双生武魂的代价、小舞献祭的意义，以及全书作为中国网文走向成熟标志的历史地位六个维度，完成对这部千万册级作品的完整拆解。</itunes:summary>
+      <itunes:duration>00:29:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-c2d033.mp3" length="28113837" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
