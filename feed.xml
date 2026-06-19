@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 19:01:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 19:06:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5058,6 +5058,17 @@
       <itunes:duration>00:36:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-9feb5d.mp3" length="35470893" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《幸福的勇气》 · 完整版 · 幸福的勇气 · 完整讲读</title>
+      <description>《幸福的勇气》是&quot;勇气两部曲&quot;完结篇,讲述青年在践行阿德勒思想三年后再次拜访哲人的对话。围绕教育的目的是&quot;自立&quot;展开,提出既不批评也不表扬的平等尊重、否定竞争的协作原理、课题分离与无条件信赖,最终落脚于一个核心命题:爱是主动的决断而非被动的命运。本书告诉我们,幸福不在被爱里,而在你能主动去爱的能力里;真正的自由不是终点,而是开始真正去爱另一个人的起点。读懂它,也许能迈过从&quot;知道&quot;到&quot;做到&quot;的那道坎。</description>
+      <pubDate>Fri, 19 Jun 2026 19:06:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-ad949f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《幸福的勇气》是&quot;勇气两部曲&quot;完结篇,讲述青年在践行阿德勒思想三年后再次拜访哲人的对话。围绕教育的目的是&quot;自立&quot;展开,提出既不批评也不表扬的平等尊重、否定竞争的协作原理、课题分离与无条件信赖,最终落脚于一个核心命题:爱是主动的决断而非被动的命运。本书告诉我们,幸福不在被爱里,而在你能主动去爱的能力里;真正的自由不是终点,而是开始真正去爱另一个人的起点。读懂它,也许能迈过从&quot;知道&quot;到&quot;做到&quot;的那道坎。</itunes:summary>
+      <itunes:duration>00:28:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-ad949f.mp3" length="27394221" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
