@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 18:49:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 18:56:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5036,6 +5036,17 @@
       <itunes:duration>00:35:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-120f41.mp3" length="34205613" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《人生的智慧》 · 完整版 · 的智慧 · 完整讲读</title>
+      <description>德国哲学家叔本华的《人生的智慧》讨论的核心，其实只有一件事——人怎样才能尽量幸福地度过这一生。他把人所能拥有的东西分为三类：你本身是个什么样的人，你拥有多少身外之物，你在别人眼里是什么样子，并明确指出决定幸福的关键不在后两项，而在第一项。这本书不讲玄学，只用平实而透彻的语言，谈论健康、财富、名声、孤独、自我修炼等贴近每个普通人的功课。两百年后再读，它依然像一面镜子，照出我们许多拼命追逐却其实并不需要的东西。</description>
+      <pubDate>Fri, 19 Jun 2026 18:56:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-faab3b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>德国哲学家叔本华的《人生的智慧》讨论的核心，其实只有一件事——人怎样才能尽量幸福地度过这一生。他把人所能拥有的东西分为三类：你本身是个什么样的人，你拥有多少身外之物，你在别人眼里是什么样子，并明确指出决定幸福的关键不在后两项，而在第一项。这本书不讲玄学，只用平实而透彻的语言，谈论健康、财富、名声、孤独、自我修炼等贴近每个普通人的功课。两百年后再读，它依然像一面镜子，照出我们许多拼命追逐却其实并不需要的东西。</itunes:summary>
+      <itunes:duration>00:29:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-faab3b.mp3" length="28009389" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
