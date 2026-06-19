@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 02:58:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 03:03:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3584,6 +3584,17 @@
       <itunes:duration>00:35:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-c1f020.mp3" length="33736749" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《盗墓笔记》 · 完整版 · 盗墓笔记 · 完整讲读</title>
+      <description>《盗墓笔记》是南派三叔创作的盗墓探险悬疑小说，以战国帛书为引子，讲述杭州古董铺老板吴邪被卷入老九门世代守护的千年秘密。从七星鲁王宫、秦岭神树到海底天宫，吴邪、三叔、张起灵一行人在古墓与人心之间反复试探，最终揭开一个关于长生、家族与背叛的惊天真相。本书核心不在鬼神，而在于一群普通人在面对庞大未知时的选择——尤其是&apos;普通人&apos;吴邪，如何被命运一步步推成独当一面的男人。盗墓笔记与《鬼吹灯》并称中国盗墓探险类小说双璧，带动了整个网络文学的盗墓题材热潮，至今仍被反复重读与解读。</description>
+      <pubDate>Fri, 19 Jun 2026 03:02:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-b43a86</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《盗墓笔记》是南派三叔创作的盗墓探险悬疑小说，以战国帛书为引子，讲述杭州古董铺老板吴邪被卷入老九门世代守护的千年秘密。从七星鲁王宫、秦岭神树到海底天宫，吴邪、三叔、张起灵一行人在古墓与人心之间反复试探，最终揭开一个关于长生、家族与背叛的惊天真相。本书核心不在鬼神，而在于一群普通人在面对庞大未知时的选择——尤其是&apos;普通人&apos;吴邪，如何被命运一步步推成独当一面的男人。盗墓笔记与《鬼吹灯》并称中国盗墓探险类小说双璧，带动了整个网络文学的盗墓题材热潮，至今仍被反复重读与解读。</itunes:summary>
+      <itunes:duration>00:25:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-b43a86.mp3" length="24923181" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
