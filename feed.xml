@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 20:02:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 20:07:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5179,6 +5179,17 @@
       <itunes:duration>00:22:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-88f1fa.mp3" length="21443757" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《无人生还》 · 完整版 · 无生还 · 完整讲读</title>
+      <description>《无人生还》：一九三九年，阿加莎·克里斯蒂写下推理小说史上最著名的孤岛密室杀人案。十个人被神秘岛主邀请至士兵岛，童谣唱响后，十个瓷人偶一个接一个消失，死亡方式与歌词描述完全一致。当最后一个人死去，真相才浮出水面——凶手就藏在最不可能的位置。克里斯蒂借这本书追问：法律之外，私刑是否有合法性？当一个人自诩为正义的化身，他与刽子手有何分别？八十五年过去，这本书依然是同类小说的天花板，答案藏在每一个读者自己的心里。</description>
+      <pubDate>Fri, 19 Jun 2026 20:07:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-c8f5a2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《无人生还》：一九三九年，阿加莎·克里斯蒂写下推理小说史上最著名的孤岛密室杀人案。十个人被神秘岛主邀请至士兵岛，童谣唱响后，十个瓷人偶一个接一个消失，死亡方式与歌词描述完全一致。当最后一个人死去，真相才浮出水面——凶手就藏在最不可能的位置。克里斯蒂借这本书追问：法律之外，私刑是否有合法性？当一个人自诩为正义的化身，他与刽子手有何分别？八十五年过去，这本书依然是同类小说的天花板，答案藏在每一个读者自己的心里。</itunes:summary>
+      <itunes:duration>00:30:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-c8f5a2.mp3" length="29171373" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
