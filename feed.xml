@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 14:31:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 14:33:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -4024,6 +4024,17 @@
       <itunes:duration>00:24:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-8f0b5a.mp3" length="23275821" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《闹学记》 · 完整版 · 闹学记 · 完整讲读</title>
+      <description>《闹学记》是三毛一九八六年返台定居后写下的一部散文集，记录她告别流浪、落地台北之后的日子：逛夜市、买土气金戒、筹钱为父母换新屋、进补习班闹笑话、追看录放影机、与三教九流打成一片。书的序一由父亲陈嗣庆回忆三毛从小到大的离家闯荡，序二由母亲缪进兰抱怨女儿埋头写字成了“纸人”，一庄一谐勾勒家世与性格。本书是三毛从异域书写转向市井书写的转折之作，也是她对“生活本身”的一次回归。她用幽默消解人生况味，用重新当学生的姿态找回谦卑，用珍惜一分一秒的态度握紧余生——这三块拼图合在一起，就是三毛后半生的精神肖像。</description>
+      <pubDate>Fri, 19 Jun 2026 14:31:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-f868cc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《闹学记》是三毛一九八六年返台定居后写下的一部散文集，记录她告别流浪、落地台北之后的日子：逛夜市、买土气金戒、筹钱为父母换新屋、进补习班闹笑话、追看录放影机、与三教九流打成一片。书的序一由父亲陈嗣庆回忆三毛从小到大的离家闯荡，序二由母亲缪进兰抱怨女儿埋头写字成了“纸人”，一庄一谐勾勒家世与性格。本书是三毛从异域书写转向市井书写的转折之作，也是她对“生活本身”的一次回归。她用幽默消解人生况味，用重新当学生的姿态找回谦卑，用珍惜一分一秒的态度握紧余生——这三块拼图合在一起，就是三毛后半生的精神肖像。</itunes:summary>
+      <itunes:duration>00:35:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-f868cc.mp3" length="34223661" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
