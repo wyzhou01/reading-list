@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 01:37:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 01:41:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3441,6 +3441,17 @@
       <itunes:duration>00:27:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-9c1f39.mp3" length="26444589" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《遥远的救世主》 · 完整版 · 遥远的救世主 · 完整讲读</title>
+      <description>《遥远的救世主》是豆豆（二零零五）的代表作，借丁元英与芮小丹的魔幻之恋、王庙村扶贫、格律诗与乐圣的生死官司，抛出全书的硬核命题——文化属性决定命运，强势文化按天道办事，弱势文化等靠要；救世主不存在，能救自己的只有自己。从刘冰之死到芮小丹的从容，全书用二十年时间，回答了一个问题：你，准备好不再等救世主了吗？</description>
+      <pubDate>Fri, 19 Jun 2026 01:41:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-9d990c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《遥远的救世主》是豆豆（二零零五）的代表作，借丁元英与芮小丹的魔幻之恋、王庙村扶贫、格律诗与乐圣的生死官司，抛出全书的硬核命题——文化属性决定命运，强势文化按天道办事，弱势文化等靠要；救世主不存在，能救自己的只有自己。从刘冰之死到芮小丹的从容，全书用二十年时间，回答了一个问题：你，准备好不再等救世主了吗？</itunes:summary>
+      <itunes:duration>00:24:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-9d990c.mp3" length="23839149" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
