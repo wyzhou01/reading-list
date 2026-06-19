@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 18:49:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 18:49:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5025,6 +5025,17 @@
       <itunes:duration>00:26:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-c0b3d0.mp3" length="25368237" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《小偷家族》 · 完整版 · 小偷家族戛纳电影节金棕榈奖电影原著小说18万影评热泪推荐豆瓣评分8 · 完整讲读</title>
+      <description>《小偷家族》是日本导演是枝裕和的同名金棕榈奖电影原著小说，讲述一群没有血缘的人，靠超市偷窃凑在一起过冬的故事。柴田家挤在一栋被高楼包围的破旧平房里，成员全部是被原生家庭抛弃的人：靠打零工维生的父亲阿治、在洗衣房做临时工的母亲信代、靠养老金度日的奶奶初枝、靠出卖色相赚零花钱的妹妹亚纪、被阿治在偷窃时&quot;顺路&quot;捡回来的被家暴女孩有里，以及阿治和前妻所生的儿子祥太。这个家靠每周三去超市偷食物、偷日用品维持生计，靠谎言撑起&quot;一家人&quot;的表面和平。冬天的一个夜晚，他们撞见有里亲生父母在家暴女儿，决定把有里留下来，这一决定成为整个家庭崩塌的起点。当警察因为一桩意外介入调查时，所有不能见光的秘密都被掀开，每个成员都被迫回到自己&quot;原本的位置&quot;。是枝裕和用六章跨越四季的克制笔触，没有控诉贫穷，没有煽情，只用可乐饼、杯面、尿床、雪人这些最日常的细节，悄悄偷走了读者对&quot;家&quot;的标准答案——血缘、诚实、完整结局。当祥太坐上大巴、第一次叫出&quot;老爸&quot;而阿治追车未遂、在雪地里像个孩子一样哭出声的那一刻，这本书才真正完成了它的偷窃：你从此无法再用&quot;血缘&quot;两个字，轻易定义&quot;家人&quot;。</description>
+      <pubDate>Fri, 19 Jun 2026 16:40:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-120f41</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《小偷家族》是日本导演是枝裕和的同名金棕榈奖电影原著小说，讲述一群没有血缘的人，靠超市偷窃凑在一起过冬的故事。柴田家挤在一栋被高楼包围的破旧平房里，成员全部是被原生家庭抛弃的人：靠打零工维生的父亲阿治、在洗衣房做临时工的母亲信代、靠养老金度日的奶奶初枝、靠出卖色相赚零花钱的妹妹亚纪、被阿治在偷窃时&quot;顺路&quot;捡回来的被家暴女孩有里，以及阿治和前妻所生的儿子祥太。这个家靠每周三去超市偷食物、偷日用品维持生计，靠谎言撑起&quot;一家人&quot;的表面和平。冬天的一个夜晚，他们撞见有里亲生父母在家暴女儿，决定把有里留下来，这一决定成为整个家庭崩塌的起点。当警察因为一桩意外介入调查时，所有不能见光的秘密都被掀开，每个成员都被迫回到自己&quot;原本的位置&quot;。是枝裕和用六章跨越四季的克制笔触，没有控诉贫穷，没有煽情，只用可乐饼、杯面、尿床、雪人这些最日常的细节，悄悄偷走了读者对&quot;家&quot;的标准答案——血缘、诚实、完整结局。当祥太坐上大巴、第一次叫出&quot;老爸&quot;而阿治追车未遂、在雪地里像个孩子一样哭出声的那一刻，这本书才真正完成了它的偷窃：你从此无法再用&quot;血缘&quot;两个字，轻易定义&quot;家人&quot;。</itunes:summary>
+      <itunes:duration>00:35:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-120f41.mp3" length="34205613" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
