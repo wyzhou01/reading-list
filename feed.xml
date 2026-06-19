@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 15:24:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 15:25:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -162,6 +162,17 @@
       <itunes:duration>00:35:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-0a14e5.mp3" length="33695661" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《资治通鉴胡三省注版》 · 完整版 · 资治通鉴胡三省注版 · 完整讲读</title>
+      <description>《资治通鉴》是北宋司马光主编的编年体通史巨著，起周威烈王二十三年，终五代后周世宗显德六年，跨十六朝一千三百六十二年，凡二百九十四卷。胡三省宋元之际以三十年心力为之作注，校勘、训诂、考据、议论皆有独到之处，更借古讽今寄托亡国之痛。本书借三家分晋、智伯覆亡、豫让复仇等开篇故事，揭示司马光“礼法名分“的政治宪法，铺陈胡三省如何以注笔延续史笔之精神。一千三百年的兴亡，最终落在两代读书人的书桌上——读此书，不只为故事，更为照见自己所处的时代。</description>
+      <pubDate>Fri, 19 Jun 2026 15:25:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-1b029e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《资治通鉴》是北宋司马光主编的编年体通史巨著，起周威烈王二十三年，终五代后周世宗显德六年，跨十六朝一千三百六十二年，凡二百九十四卷。胡三省宋元之际以三十年心力为之作注，校勘、训诂、考据、议论皆有独到之处，更借古讽今寄托亡国之痛。本书借三家分晋、智伯覆亡、豫让复仇等开篇故事，揭示司马光“礼法名分“的政治宪法，铺陈胡三省如何以注笔延续史笔之精神。一千三百年的兴亡，最终落在两代读书人的书桌上——读此书，不只为故事，更为照见自己所处的时代。</itunes:summary>
+      <itunes:duration>00:30:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-1b029e.mp3" length="29063469" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
