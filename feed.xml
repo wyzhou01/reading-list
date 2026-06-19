@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 14:57:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 14:57:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -52,6 +52,17 @@
       <itunes:duration>00:34:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-1cc8da.mp3" length="32713005" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《刘慈欣作品集（套装46部）》 · 完整版 · 刘慈欣作品集（套装46部） · 完整讲读</title>
+      <description>刘慈欣作品集（套装四十六部）收录其一九九九年至二零一零年代全部主要作品。横跨三十七篇中短篇、一篇童话与八部长篇，其中以《三体》三部曲构建的宇宙社会学最为世人所知。本书以硬核物理学为骨，以对文明存亡的悲悯为魂，既写工程师的冷静，也写诗人的眼泪。在浩瀚而冷酷的宇宙中，刘慈欣从不写超级英雄，他写的救世主是乡村教师、是地心深处的姑娘、是握着生态球的程心——是那些对&quot;一个小小生命&quot;怀有敬畏的普通人。技术再强，强不过一片云；公式再美，美不过一滴露珠。这是一首写给&quot;渺小&quot;的赞美诗，也是一个电厂工程师用三十年写给宇宙的情书。</description>
+      <pubDate>Fri, 19 Jun 2026 14:57:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-3482f1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>刘慈欣作品集（套装四十六部）收录其一九九九年至二零一零年代全部主要作品。横跨三十七篇中短篇、一篇童话与八部长篇，其中以《三体》三部曲构建的宇宙社会学最为世人所知。本书以硬核物理学为骨，以对文明存亡的悲悯为魂，既写工程师的冷静，也写诗人的眼泪。在浩瀚而冷酷的宇宙中，刘慈欣从不写超级英雄，他写的救世主是乡村教师、是地心深处的姑娘、是握着生态球的程心——是那些对&quot;一个小小生命&quot;怀有敬畏的普通人。技术再强，强不过一片云；公式再美，美不过一滴露珠。这是一首写给&quot;渺小&quot;的赞美诗，也是一个电厂工程师用三十年写给宇宙的情书。</itunes:summary>
+      <itunes:duration>00:21:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-3482f1.mp3" length="20241837" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
