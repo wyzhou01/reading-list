@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 19:10:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 19:14:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5080,6 +5080,17 @@
       <itunes:duration>00:26:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-b90e7b.mp3" length="25132845" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《飘》 · 完整版 · 飘 · 完整讲读</title>
+      <description>《飘》写的不只是一个女人的爱恨情仇。它写的是美国南北战争前后，一个旧文明如何从云端跌入泥土，又如何在泥土里重新长出野火。斯嘉丽·奥哈拉从一个娇纵的塔拉庄园大小姐，被战争逼成了赤脚站红土的求生者。她精明、自私、敢拼、能算计，却也为此付出了最惨烈的代价——她最爱的人，一个接一个离她而去。米切尔的笔残酷又温柔，她没有美化斯嘉丽，也没有批判她；她写出了一个真实的人，也写出了一个被自己美化的时代，更写出了战争撕开所有伪装之后，人最赤裸的生存本能。一百六十年过去，斯嘉丽那句“明天又是新的一天”，依然能让每一个在废墟里站着的人，找到继续走下去的理由。</description>
+      <pubDate>Fri, 19 Jun 2026 19:14:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-60ec6b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《飘》写的不只是一个女人的爱恨情仇。它写的是美国南北战争前后，一个旧文明如何从云端跌入泥土，又如何在泥土里重新长出野火。斯嘉丽·奥哈拉从一个娇纵的塔拉庄园大小姐，被战争逼成了赤脚站红土的求生者。她精明、自私、敢拼、能算计，却也为此付出了最惨烈的代价——她最爱的人，一个接一个离她而去。米切尔的笔残酷又温柔，她没有美化斯嘉丽，也没有批判她；她写出了一个真实的人，也写出了一个被自己美化的时代，更写出了战争撕开所有伪装之后，人最赤裸的生存本能。一百六十年过去，斯嘉丽那句“明天又是新的一天”，依然能让每一个在废墟里站着的人，找到继续走下去的理由。</itunes:summary>
+      <itunes:duration>00:27:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-60ec6b.mp3" length="26175405" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
