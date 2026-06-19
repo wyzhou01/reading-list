@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 20:24:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 20:28:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5223,6 +5223,17 @@
       <itunes:duration>00:27:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-ab3061.mp3" length="26352813" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《消失的女儿》 · 完整版 · 消失的女儿阎连科韩少功李敬泽阿乙梁鸿诚挚推荐悬疑推理犯罪被摧毁或摧毁他人的命运直视我们与恶的距离 · 完整讲读</title>
+      <description>《消失的女儿》是青年作家郑小驴的长篇代表作，阎连科、韩少功、李敬泽、阿乙、梁鸿联袂推荐。一九九四年五月十五日，湘西白马林场护林员鲁德彪上山打了两只松鸡，回来时五岁的女儿黎黎失踪，连环画翻在&quot;黛玉葬花&quot;一页，桌上剩半瓶牛奶。十四年后的二零零八年雨夜，公务员苏俊雷家的阳台钢化玻璃被猎枪子弹击穿。小说以多重视角、悬疑推理的外壳，撕开九十年代中国偏远山区的暴力、欲望、孤独与代际创伤：一个被父爱扭曲的护林员、一个浪漫主义被砸碎的乡村摄影师、一个被整个村庄忽视的赤脚放牛娃、一个把陀思妥耶夫斯基锁进床头再没翻开过的乡村教师。它让我们正视那些不被看见的角落，正视善恶之间，可能只隔着一次沉默、一次走神、一次虚掩的门。</description>
+      <pubDate>Fri, 19 Jun 2026 20:28:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-b0d006</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《消失的女儿》是青年作家郑小驴的长篇代表作，阎连科、韩少功、李敬泽、阿乙、梁鸿联袂推荐。一九九四年五月十五日，湘西白马林场护林员鲁德彪上山打了两只松鸡，回来时五岁的女儿黎黎失踪，连环画翻在&quot;黛玉葬花&quot;一页，桌上剩半瓶牛奶。十四年后的二零零八年雨夜，公务员苏俊雷家的阳台钢化玻璃被猎枪子弹击穿。小说以多重视角、悬疑推理的外壳，撕开九十年代中国偏远山区的暴力、欲望、孤独与代际创伤：一个被父爱扭曲的护林员、一个浪漫主义被砸碎的乡村摄影师、一个被整个村庄忽视的赤脚放牛娃、一个把陀思妥耶夫斯基锁进床头再没翻开过的乡村教师。它让我们正视那些不被看见的角落，正视善恶之间，可能只隔着一次沉默、一次走神、一次虚掩的门。</itunes:summary>
+      <itunes:duration>00:28:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-b0d006.mp3" length="26939181" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
