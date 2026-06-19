@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 02:53:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 02:58:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3573,6 +3573,17 @@
       <itunes:duration>00:27:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-43ba76.mp3" length="26690349" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《鸽群中的猫》 · 完整版 · 鸽群中的猫午夜文库 · 完整讲读</title>
+      <description>《鸽群中的猫》是阿加莎·克里斯蒂晚年的代表作之一。波洛秘密潜入一所学费昂贵的英国女子名校——芳草地学校，调查接连发生的坠楼、谋杀与神秘死亡。学生来自世界各地，有英国望族千金，也有中东王室公主。表面平静的校园里，各怀心事的女教师、女学生与家长们构成了一幅精密的权力群像。当一颗价值七十五万英镑的宝石与中东王位的继承阴谋浮出水面，鸽子与猫的角色开始互换。克里斯蒂用她一贯的优雅笔触，把一所校园变成了人类欲望的微缩剧场，揭示了秩序的脆弱、身份的伪装，以及权力如何在阴影里真正运行。</description>
+      <pubDate>Fri, 19 Jun 2026 02:58:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-c1f020</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《鸽群中的猫》是阿加莎·克里斯蒂晚年的代表作之一。波洛秘密潜入一所学费昂贵的英国女子名校——芳草地学校，调查接连发生的坠楼、谋杀与神秘死亡。学生来自世界各地，有英国望族千金，也有中东王室公主。表面平静的校园里，各怀心事的女教师、女学生与家长们构成了一幅精密的权力群像。当一颗价值七十五万英镑的宝石与中东王位的继承阴谋浮出水面，鸽子与猫的角色开始互换。克里斯蒂用她一贯的优雅笔触，把一所校园变成了人类欲望的微缩剧场，揭示了秩序的脆弱、身份的伪装，以及权力如何在阴影里真正运行。</itunes:summary>
+      <itunes:duration>00:35:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-c1f020.mp3" length="33736749" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
