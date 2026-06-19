@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 03:43:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 03:52:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3672,6 +3672,17 @@
       <itunes:duration>00:47:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-aae224.mp3" length="45386157" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我也有一个梦想》 · 完整版 · 我也有一个梦想 · 完整讲读</title>
+      <description>《我也有一个梦想》是林达近距离看美国系列的第三部，以一九九二年洛杉矶暴乱为切口，回望美国两百年的种族史。从一六一九年首批黑奴上岸，到南北战争、林肯的解放宣言，再到马丁·路德·金的演讲和九十年代的平权法案之争，作者用写给中国朋友的书信体，把奴隶制、解放、民权运动、多元文化困境，像摆家常一样摊开。她不只讲黑白对抗，更讲阶级、族裔、地理、法律的层层叠压；不只讲美国一帆风顺的进步，更讲每一次修补都逼出新的反扑。这本书写于世纪之交，是一份送给二十一世纪的提醒：人人生而平等从来不是一个写完的句子，而是每一代人必须重新签订的契约，是一艘永远在风浪中修补、永远在远航的理念之船。</description>
+      <pubDate>Fri, 19 Jun 2026 03:51:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-9252e5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我也有一个梦想》是林达近距离看美国系列的第三部，以一九九二年洛杉矶暴乱为切口，回望美国两百年的种族史。从一六一九年首批黑奴上岸，到南北战争、林肯的解放宣言，再到马丁·路德·金的演讲和九十年代的平权法案之争，作者用写给中国朋友的书信体，把奴隶制、解放、民权运动、多元文化困境，像摆家常一样摊开。她不只讲黑白对抗，更讲阶级、族裔、地理、法律的层层叠压；不只讲美国一帆风顺的进步，更讲每一次修补都逼出新的反扑。这本书写于世纪之交，是一份送给二十一世纪的提醒：人人生而平等从来不是一个写完的句子，而是每一代人必须重新签订的契约，是一艘永远在风浪中修补、永远在远航的理念之船。</itunes:summary>
+      <itunes:duration>00:36:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-9252e5.mp3" length="34914861" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
