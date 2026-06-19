@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 20:28:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 20:33:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5234,6 +5234,17 @@
       <itunes:duration>00:28:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-b0d006.mp3" length="26939181" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《强风吹拂》 · 完整版 · 强风吹拂 · 完整讲读</title>
+      <description>《强风吹拂》是三浦紫苑写给所有普通人的一部成长寓言。十个住在破旧公寓的门外汉，被一句「你喜欢跑步吗」唤醒，从零开始训练，去挑战日本最残酷的大学生接力赛——箱根驿传。本书的核心不在竞技，而在三件事：一句提问如何点燃命运的火种，一项接力赛制如何重塑个人与集体的关系，一团相信如何支撑一群人跑完两百一十七公里。它写痛苦如何被炼成意义，写沉默的清濑灰二如何把未竟的梦托付给阿走，写跑步的终点最终是回到日常。如果你也曾在深夜里问过自己「我究竟为何而跑」，这本书会给你一个温柔的、可以照着活的回答。</description>
+      <pubDate>Fri, 19 Jun 2026 20:33:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-fe362d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《强风吹拂》是三浦紫苑写给所有普通人的一部成长寓言。十个住在破旧公寓的门外汉，被一句「你喜欢跑步吗」唤醒，从零开始训练，去挑战日本最残酷的大学生接力赛——箱根驿传。本书的核心不在竞技，而在三件事：一句提问如何点燃命运的火种，一项接力赛制如何重塑个人与集体的关系，一团相信如何支撑一群人跑完两百一十七公里。它写痛苦如何被炼成意义，写沉默的清濑灰二如何把未竟的梦托付给阿走，写跑步的终点最终是回到日常。如果你也曾在深夜里问过自己「我究竟为何而跑」，这本书会给你一个温柔的、可以照着活的回答。</itunes:summary>
+      <itunes:duration>00:35:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-fe362d.mp3" length="34389933" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
