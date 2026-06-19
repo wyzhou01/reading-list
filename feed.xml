@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 15:20:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 15:24:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -151,6 +151,17 @@
       <itunes:duration>00:26:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-7a4b1c.mp3" length="25822893" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《课本里的古诗词》 · 完整版 · 课本里的古诗词 · 完整讲读</title>
+      <description>北师大谢琰老师的《课本里的古诗词》直面“灯下黑”难题：越是熟悉的诗词越容易被视而不见，越是倒背如流的篇目越容易麻木。谢琰老师主张“大学标准+小学趣味”的解读方式，兼顾知识与审美，并坚持“随物赋形、量身定制”的讲法。《悯农》不是简单的爱粮教育，而是对不公制度的悲怆质问；《咏鹅》是教孩子观察事物的四个维度；《踏莎行》则示范了最普遍的情感如何被写成绝妙好词。这本书不仅是小学生学诗词的帮手，更是家长、教师重新理解古诗的入口。</description>
+      <pubDate>Fri, 19 Jun 2026 15:24:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-0a14e5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>北师大谢琰老师的《课本里的古诗词》直面“灯下黑”难题：越是熟悉的诗词越容易被视而不见，越是倒背如流的篇目越容易麻木。谢琰老师主张“大学标准+小学趣味”的解读方式，兼顾知识与审美，并坚持“随物赋形、量身定制”的讲法。《悯农》不是简单的爱粮教育，而是对不公制度的悲怆质问；《咏鹅》是教孩子观察事物的四个维度；《踏莎行》则示范了最普遍的情感如何被写成绝妙好词。这本书不仅是小学生学诗词的帮手，更是家长、教师重新理解古诗的入口。</itunes:summary>
+      <itunes:duration>00:35:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-0a14e5.mp3" length="33695661" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
