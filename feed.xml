@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 14:36:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 14:44:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -4046,6 +4046,17 @@
       <itunes:duration>00:41:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-ec645f.mp3" length="40289325" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《时间简史》 · 完整版 · 时间简史 · 完整讲读</title>
+      <description>《时间简史》是霍金写给普通人的宇宙学答卷：从亚里士多德的地心宇宙，到牛顿的无限星空，再到爱因斯坦的弯曲时空和海森伯的量子涨落，霍金一步步拆解人类宇宙观的演化。他抛出核心追问：宇宙有没有开端？时间有没有尽头？物理定律能否统一？最后给出自己的赌注——霍金辐射与无边界设想，赌一个自足、有限、没有第一推动的宇宙。这本书，既是物理学的科普经典，也是一位身患重病的科学家，对“我们从何而来“这一根本问题的回答。</description>
+      <pubDate>Fri, 19 Jun 2026 14:42:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-546ed1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《时间简史》是霍金写给普通人的宇宙学答卷：从亚里士多德的地心宇宙，到牛顿的无限星空，再到爱因斯坦的弯曲时空和海森伯的量子涨落，霍金一步步拆解人类宇宙观的演化。他抛出核心追问：宇宙有没有开端？时间有没有尽头？物理定律能否统一？最后给出自己的赌注——霍金辐射与无边界设想，赌一个自足、有限、没有第一推动的宇宙。这本书，既是物理学的科普经典，也是一位身患重病的科学家，对“我们从何而来“这一根本问题的回答。</itunes:summary>
+      <itunes:duration>00:33:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-546ed1.mp3" length="32386989" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
