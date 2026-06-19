@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 13:17:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 13:27:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3925,6 +3925,17 @@
       <itunes:duration>00:38:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-978806.mp3" length="37003437" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《红顶商人胡雪岩珍藏版大全集》 · 完整版 · 红顶商人胡雪岩珍藏版大全集 · 完整讲读</title>
+      <description>《红顶商人胡雪岩珍藏版大全集》是台湾历史小说家高阳的代表作，本书以晚清为背景，讲述了钱庄学徒胡雪岩从资助落魄书生王有龄起步，借官势开起阜康钱庄，结交漕帮、垄断湖丝、对抗洋商，一步步攀上二品红顶首富的巅峰，最终却在左宗棠与李鸿章的政治角力与工业资本主义的双重夹击下，走向家产抄没、凄凉离世的悲剧命运。本书不仅是胡雪岩个人的发财与破产史，更是整个传统手工业在工业革命浪潮面前注定失败的命运写照。高阳以跌宕起伏的笔法，揭示了官商之道的边界、信用即生意的伦理、以及一个旧式商人在新时代面前的挣扎与绝望。胡雪岩的失败不是因为他笨，而是因为他太重义、太守旧、太舍不得身后那些养蚕人家——他输给的，是整个历史的进程。</description>
+      <pubDate>Fri, 19 Jun 2026 13:27:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-3567f4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《红顶商人胡雪岩珍藏版大全集》是台湾历史小说家高阳的代表作，本书以晚清为背景，讲述了钱庄学徒胡雪岩从资助落魄书生王有龄起步，借官势开起阜康钱庄，结交漕帮、垄断湖丝、对抗洋商，一步步攀上二品红顶首富的巅峰，最终却在左宗棠与李鸿章的政治角力与工业资本主义的双重夹击下，走向家产抄没、凄凉离世的悲剧命运。本书不仅是胡雪岩个人的发财与破产史，更是整个传统手工业在工业革命浪潮面前注定失败的命运写照。高阳以跌宕起伏的笔法，揭示了官商之道的边界、信用即生意的伦理、以及一个旧式商人在新时代面前的挣扎与绝望。胡雪岩的失败不是因为他笨，而是因为他太重义、太守旧、太舍不得身后那些养蚕人家——他输给的，是整个历史的进程。</itunes:summary>
+      <itunes:duration>00:30:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-3567f4.mp3" length="29609133" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
