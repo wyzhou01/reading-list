@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 15:01:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 15:04:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -85,6 +85,17 @@
       <itunes:duration>00:28:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-3e887b.mp3" length="27323565" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《文学回忆录》 · 完整版 · 文学回忆录 · 完整讲读</title>
+      <description>《文学回忆录》是木心（一九二七—二零一）一九八九至一九九四在纽约为陈丹青等中国艺术家讲授世界文学史的课堂笔录。木心以郑振铎《文学大纲》为底本，却完全以作家眼光重述：史实大幅从简，断语纷披，中西文学互为镜像。梁文道序言指出，他平视世界巨擘，断语兀自燃烧，是汉语写作的“局外人”“别子”。陈丹青后记追述五年听课因缘，并写下木心在纽约散步时脱口而出的那句——不知原谅什么，诚觉世事尽可原谅。</description>
+      <pubDate>Fri, 19 Jun 2026 15:04:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-987185</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《文学回忆录》是木心（一九二七—二零一）一九八九至一九九四在纽约为陈丹青等中国艺术家讲授世界文学史的课堂笔录。木心以郑振铎《文学大纲》为底本，却完全以作家眼光重述：史实大幅从简，断语纷披，中西文学互为镜像。梁文道序言指出，他平视世界巨擘，断语兀自燃烧，是汉语写作的“局外人”“别子”。陈丹青后记追述五年听课因缘，并写下木心在纽约散步时脱口而出的那句——不知原谅什么，诚觉世事尽可原谅。</itunes:summary>
+      <itunes:duration>00:35:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-987185.mp3" length="33639213" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
