@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 03:16:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 03:21:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3628,6 +3628,17 @@
       <itunes:duration>00:30:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-00d890.mp3" length="29267373" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《第二性》 · 完整版 · 第二性 · 完整讲读</title>
+      <description>《第二性》是波伏瓦于一九四九年出版的女性主义经典。本书以“女人不是天生，而是被造就的”为核心命题，从生物学、精神分析、历史唯物主义、神话与文学四种视角，剖析女性如何被建构为男性的“他者”，并以“处境”“内在性”“超越性”等存在主义概念，描绘女人在童年、少女、婚姻、母性、社会与衰老阶段的真实处境。波伏瓦并未将母性、婚姻神圣化，而是揭示它们如何成为女性主体性失守的温柔陷阱。她给出的解放答案，具体而朴素：经济独立、对自己身体与人生的自主决定权，以及无数个“自己说了算”的微小选择。本书至今仍是理解性别、身份与自由的起点。</description>
+      <pubDate>Fri, 19 Jun 2026 03:21:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-a681df</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《第二性》是波伏瓦于一九四九年出版的女性主义经典。本书以“女人不是天生，而是被造就的”为核心命题，从生物学、精神分析、历史唯物主义、神话与文学四种视角，剖析女性如何被建构为男性的“他者”，并以“处境”“内在性”“超越性”等存在主义概念，描绘女人在童年、少女、婚姻、母性、社会与衰老阶段的真实处境。波伏瓦并未将母性、婚姻神圣化，而是揭示它们如何成为女性主体性失守的温柔陷阱。她给出的解放答案，具体而朴素：经济独立、对自己身体与人生的自主决定权，以及无数个“自己说了算”的微小选择。本书至今仍是理解性别、身份与自由的起点。</itunes:summary>
+      <itunes:duration>00:28:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-a681df.mp3" length="27254829" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
