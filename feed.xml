@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 14:27:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 14:31:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -4013,6 +4013,17 @@
       <itunes:duration>00:36:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-cfd0c8.mp3" length="34906029" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《南方与北方》 · 完整版 · 南方与北方 · 完整讲读</title>
+      <description>《南方与北方》是盖斯凯尔夫人于一八五五年出版的代表作。英格兰南部牧师女儿玛格丽特随父北上工业城市米尔顿，亲历棉纺厂劳资冲突与宪章运动，从偏见走向理解，最终与厂主桑顿结婚。本书以南北两种生活方式的碰撞为线索，写出了工业革命撕开一个国家肌理的过程，也写出了信仰、责任与爱如何在一个轰隆作响的新世界里重新落地。</description>
+      <pubDate>Fri, 19 Jun 2026 14:30:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-8f0b5a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《南方与北方》是盖斯凯尔夫人于一八五五年出版的代表作。英格兰南部牧师女儿玛格丽特随父北上工业城市米尔顿，亲历棉纺厂劳资冲突与宪章运动，从偏见走向理解，最终与厂主桑顿结婚。本书以南北两种生活方式的碰撞为线索，写出了工业革命撕开一个国家肌理的过程，也写出了信仰、责任与爱如何在一个轰隆作响的新世界里重新落地。</itunes:summary>
+      <itunes:duration>00:24:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-8f0b5a.mp3" length="23275821" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
