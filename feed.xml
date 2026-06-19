@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 14:15:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 14:18:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3991,6 +3991,17 @@
       <itunes:duration>00:28:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-dd7ecc.mp3" length="26919597" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《最寒冷的冬天Ⅲ——血战长津湖》 · 完整版 · 最寒冷的冬天Ⅲ——血战长津湖 · 完整讲读</title>
+      <description>《最寒冷的冬天三——血战长津湖》以二十八名志愿军老兵的真实口述，还原一九五零年冬长津湖战役的全貌。第九兵团身着薄棉服，在零下四十度的冰雪中与美军陆战一师殊死对决，付出冻亡数千、冻伤三万余人的惨烈代价。新兴里围歼北极熊团、下碣隅里血战、水门桥三次炸三次修——王牌对决的背后，是工业强国与农业国的天堑，是意志与钢铁的终极较量。本书既是对历史的严肃还原，也是对那代中国青年“为谁而战、为何而死”的深情致敬。</description>
+      <pubDate>Fri, 19 Jun 2026 14:17:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-c5042d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《最寒冷的冬天三——血战长津湖》以二十八名志愿军老兵的真实口述，还原一九五零年冬长津湖战役的全貌。第九兵团身着薄棉服，在零下四十度的冰雪中与美军陆战一师殊死对决，付出冻亡数千、冻伤三万余人的惨烈代价。新兴里围歼北极熊团、下碣隅里血战、水门桥三次炸三次修——王牌对决的背后，是工业强国与农业国的天堑，是意志与钢铁的终极较量。本书既是对历史的严肃还原，也是对那代中国青年“为谁而战、为何而死”的深情致敬。</itunes:summary>
+      <itunes:duration>00:32:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-c5042d.mp3" length="31388589" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
