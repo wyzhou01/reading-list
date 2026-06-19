@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 15:12:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 15:15:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -129,6 +129,17 @@
       <itunes:duration>00:30:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-12bce9.mp3" length="29141805" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《士兵突击》 · 完整版 · 士兵突击 · 完整讲读</title>
+      <description>《士兵突击》讲了一个叫许三多的农村孩子，怯懦、木讷、说话结巴，被父亲叫做龟儿子。他懵懵懂懂进了军营，从最偏远的管道维护班一路被锤炼到全军的精锐部队老A。这不是一本打仗的小说，是一个普通人如何在没有任何掌声的日子里，依然做对事的成长史。书中写了笨拙的诚实、孤独的意义、自己给自己修路的勇气，以及战友情谊如何塑造一个人、又如何在时代变革中被碾过。二十多年过去了，我们依然要回头读他，因为在一个越来越讲效率、越来越讲人设的时代，许三多那种近乎愚蠢的认真，反而成了最稀缺的品质。</description>
+      <pubDate>Fri, 19 Jun 2026 15:14:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-eec0fa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《士兵突击》讲了一个叫许三多的农村孩子，怯懦、木讷、说话结巴，被父亲叫做龟儿子。他懵懵懂懂进了军营，从最偏远的管道维护班一路被锤炼到全军的精锐部队老A。这不是一本打仗的小说，是一个普通人如何在没有任何掌声的日子里，依然做对事的成长史。书中写了笨拙的诚实、孤独的意义、自己给自己修路的勇气，以及战友情谊如何塑造一个人、又如何在时代变革中被碾过。二十多年过去了，我们依然要回头读他，因为在一个越来越讲效率、越来越讲人设的时代，许三多那种近乎愚蠢的认真，反而成了最稀缺的品质。</itunes:summary>
+      <itunes:duration>00:33:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-eec0fa.mp3" length="32526381" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
