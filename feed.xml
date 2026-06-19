@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 11:04:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 11:11:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3826,6 +3826,17 @@
       <itunes:duration>00:26:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-de1d87.mp3" length="25147053" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大染坊》 · 完整版 · 大染坊_-_陈杰 · 完整讲读</title>
+      <description>《大染坊》是陈杰写的一部讲述近代民族工业命运的长篇小说，主角陈六子原是清朝末年山东周村一个没爹没娘的叫花子，腊八夜冻昏在通和染坊门口被周掌柜救活，从学徒一路成长为一代印染业大亨。小说以商战谋略、师徒情义、江湖义气为经，以晚清至抗战前夕的时代巨变为纬，写出陈六子从忍偷熬赚第一桶金，到交心分钱聚一群人，再到与洋商官僚斗智斗勇的一生。书中最震撼的一笔是济南沦陷时他听到韩复榘不战而逃，吐血而倒——他所有的本事，都扛不住国家这个平台崩塌的重量。这是一曲写给个人奋斗的深情礼赞，也是一首写给近代民族工业的悠长挽歌。</description>
+      <pubDate>Fri, 19 Jun 2026 11:11:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-ed8ae4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大染坊》是陈杰写的一部讲述近代民族工业命运的长篇小说，主角陈六子原是清朝末年山东周村一个没爹没娘的叫花子，腊八夜冻昏在通和染坊门口被周掌柜救活，从学徒一路成长为一代印染业大亨。小说以商战谋略、师徒情义、江湖义气为经，以晚清至抗战前夕的时代巨变为纬，写出陈六子从忍偷熬赚第一桶金，到交心分钱聚一群人，再到与洋商官僚斗智斗勇的一生。书中最震撼的一笔是济南沦陷时他听到韩复榘不战而逃，吐血而倒——他所有的本事，都扛不住国家这个平台崩塌的重量。这是一曲写给个人奋斗的深情礼赞，也是一首写给近代民族工业的悠长挽歌。</itunes:summary>
+      <itunes:duration>00:31:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-ed8ae4.mp3" length="29846061" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
