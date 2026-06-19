@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 19:59:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 20:02:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5168,6 +5168,17 @@
       <itunes:duration>00:32:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-c86a29.mp3" length="31664685" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《她对此感到厌烦》 · 完整版 · 她对此感到厌烦—妚鹤 · 完整讲读</title>
+      <description>《她对此感到厌烦》是妚鹤创作的女性向反套路小说，讲述普通游戏玩家穿越进乙女游戏《女神录》，成为注定要死很多次的反派恶女莉莉丝·阿博特。在无数次死亡轮回后，她拒绝再做恋爱游戏的提线木偶，凭借对剧情的记忆和积累，联合辛西娅公主等女性同伴，试图推翻国王与教会的暴政。小说解构了乙女游戏的核心机制，让女主角成为打破叙事规则的反抗者，用极致的压迫反衬觉醒的重量，完成了一个女人从&quot;我要活下去&quot;到&quot;我们要一起活下去&quot;的蜕变，是当代中文网络文学中难得一见的、兼具娱乐性与思想深度的女性主义作品。</description>
+      <pubDate>Fri, 19 Jun 2026 20:02:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-88f1fa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《她对此感到厌烦》是妚鹤创作的女性向反套路小说，讲述普通游戏玩家穿越进乙女游戏《女神录》，成为注定要死很多次的反派恶女莉莉丝·阿博特。在无数次死亡轮回后，她拒绝再做恋爱游戏的提线木偶，凭借对剧情的记忆和积累，联合辛西娅公主等女性同伴，试图推翻国王与教会的暴政。小说解构了乙女游戏的核心机制，让女主角成为打破叙事规则的反抗者，用极致的压迫反衬觉醒的重量，完成了一个女人从&quot;我要活下去&quot;到&quot;我们要一起活下去&quot;的蜕变，是当代中文网络文学中难得一见的、兼具娱乐性与思想深度的女性主义作品。</itunes:summary>
+      <itunes:duration>00:22:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-88f1fa.mp3" length="21443757" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
