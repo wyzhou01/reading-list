@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 20:18:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 20:24:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5212,6 +5212,17 @@
       <itunes:duration>00:40:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-b5c1a0.mp3" length="38585133" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《刺杀骑士团长》 · 完整版 · 刺杀骑士团长 · 完整讲读</title>
+      <description>《刺杀骑士团长》是村上春树暌违七年推出的长篇力作，分上下两卷，二零一七年出版后一周销量突破五十万册。小说讲述三十六岁的肖像画家在婚姻破裂后独居岳父山间旧宅，无意间发现阁楼里一幅名为《刺杀骑士团长》的旧画，由此被卷入一系列现实与隐喻交织的事件。书中以一幅画作、一个理念、一口井为核心意象，层层展开对创伤、记忆与历史暴力的追问，并借由一九三八年南京悲剧的隐秘底色，探讨个体在历史中的位置与自我救赎的可能。村上以冷静克制的笔触，把非现实引入日常，让一个普通人在面对井底那个沉默的自我之后，重新拿起画笔，走回生活。</description>
+      <pubDate>Fri, 19 Jun 2026 20:24:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-ab3061</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《刺杀骑士团长》是村上春树暌违七年推出的长篇力作，分上下两卷，二零一七年出版后一周销量突破五十万册。小说讲述三十六岁的肖像画家在婚姻破裂后独居岳父山间旧宅，无意间发现阁楼里一幅名为《刺杀骑士团长》的旧画，由此被卷入一系列现实与隐喻交织的事件。书中以一幅画作、一个理念、一口井为核心意象，层层展开对创伤、记忆与历史暴力的追问，并借由一九三八年南京悲剧的隐秘底色，探讨个体在历史中的位置与自我救赎的可能。村上以冷静克制的笔触，把非现实引入日常，让一个普通人在面对井底那个沉默的自我之后，重新拿起画笔，走回生活。</itunes:summary>
+      <itunes:duration>00:27:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-ab3061.mp3" length="26352813" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
