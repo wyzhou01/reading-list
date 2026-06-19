@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 18:56:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 19:01:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5047,6 +5047,17 @@
       <itunes:duration>00:29:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-faab3b.mp3" length="28009389" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《爱的艺术》 · 完整版 · 爱的艺术 · 完整讲读</title>
+      <description>《爱的艺术》是二十世纪心理学家弗洛姆写于一九五六年的小书。他开门见山地说：爱不是一种只要投入身心就会自然降临的感情，而是一门需要学习、需要练习、也需要付出全部人格努力的艺术。现代人对爱普遍存在三重误解：把爱当成&apos;被爱&apos;，把爱当成&apos;对象选择&apos;，把&apos;堕入情网&apos;当成真爱。爱的本质是给予而非获取，是创造而非交换。人类因脱离自然而产生孤独与分离感，爱是对这种孤独的根本回应。成熟的爱不是融为一体，而是在保留自我完整性的前提下与他人合一。学会爱需要纪律、专注、耐心，以及克服自恋。博爱、母爱、性爱、自爱是爱的四种形态，其中博爱是其他爱的根基。这本书不大，却字字千钧；不提供速成技巧，只提供一种根本性的理解。</description>
+      <pubDate>Fri, 19 Jun 2026 19:01:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-9feb5d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《爱的艺术》是二十世纪心理学家弗洛姆写于一九五六年的小书。他开门见山地说：爱不是一种只要投入身心就会自然降临的感情，而是一门需要学习、需要练习、也需要付出全部人格努力的艺术。现代人对爱普遍存在三重误解：把爱当成&apos;被爱&apos;，把爱当成&apos;对象选择&apos;，把&apos;堕入情网&apos;当成真爱。爱的本质是给予而非获取，是创造而非交换。人类因脱离自然而产生孤独与分离感，爱是对这种孤独的根本回应。成熟的爱不是融为一体，而是在保留自我完整性的前提下与他人合一。学会爱需要纪律、专注、耐心，以及克服自恋。博爱、母爱、性爱、自爱是爱的四种形态，其中博爱是其他爱的根基。这本书不大，却字字千钧；不提供速成技巧，只提供一种根本性的理解。</itunes:summary>
+      <itunes:duration>00:36:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-9feb5d.mp3" length="35470893" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
