@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 02:43:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 02:48:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3551,6 +3551,17 @@
       <itunes:duration>00:28:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-910643.mp3" length="26922285" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《生命密码：你的第一本基因科普书》 · 完整版 · 生命密码：你的第一本基因科普书 · 完整讲读</title>
+      <description>《生命密码》是中国基因科技龙头华大基因首席执行官尹烨写的第一本基因科普书， 从音频节目《天方烨谈》五年精华整理而来。 全书用四十余篇文章， 回答了人类三个本原性问题， 我们从哪里来， 我们是谁， 我们往哪里去。 它用通俗的语言和精美的插图， 带你穿越三十四亿年生命演化史， 看基因如何塑造了熊猫的食谱、 花朵的颜色、 微生物与人体的共生关系， 也带你看见今天的基因检测、 干细胞、 合成生物学如何重塑医学与健康的边界。 这本书不仅是一份基因知识入门指南， 更是一封写给所有关心自身、 关心未来的普通人的邀请函， 邀请你用科学的眼睛重新认识自己， 用敬畏的心重新理解生命。</description>
+      <pubDate>Fri, 19 Jun 2026 02:48:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-2410d2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《生命密码》是中国基因科技龙头华大基因首席执行官尹烨写的第一本基因科普书， 从音频节目《天方烨谈》五年精华整理而来。 全书用四十余篇文章， 回答了人类三个本原性问题， 我们从哪里来， 我们是谁， 我们往哪里去。 它用通俗的语言和精美的插图， 带你穿越三十四亿年生命演化史， 看基因如何塑造了熊猫的食谱、 花朵的颜色、 微生物与人体的共生关系， 也带你看见今天的基因检测、 干细胞、 合成生物学如何重塑医学与健康的边界。 这本书不仅是一份基因知识入门指南， 更是一封写给所有关心自身、 关心未来的普通人的邀请函， 邀请你用科学的眼睛重新认识自己， 用敬畏的心重新理解生命。</itunes:summary>
+      <itunes:duration>00:28:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-2410d2.mp3" length="27459501" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
