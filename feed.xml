@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 14:44:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 14:47:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -4057,6 +4057,17 @@
       <itunes:duration>00:33:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-546ed1.mp3" length="32386989" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《新名字的故事》 · 完整版 · 新名字的故事 · 完整讲读</title>
+      <description>《新名字的故事》是那不勒斯四部曲第二部。一九六六年春天，莉拉嫁给肉食店老板斯特凡诺，婚礼当天撞见丈夫把自己亲手做的鞋送给了黑帮索拉拉兄弟，这场所有人都在喝彩的婚姻其实是一场安静的葬礼。与此同时，埃莱娜靠奖学金升入比萨大学，在伊斯基亚海边完成身体的觉醒，在加利亚尼老师家里接触左翼知识分子，嫁给古希腊文学教授的儿子彼得罗·艾罗塔。从表面看，一个留在了老城区，一个跃入了新阶层；但费兰特让两条路最终都通向同一个真相：女性之间的友谊是一面最亲也最狠的镜子，婚姻可以是社会规训的牢笼，而任何向上爬的代价，都必须先把自己腰斩一刀。本书真正在问的，是一个所有女人迟早要面对的问题：当所有现成的门都被锁死，你愿不愿意承认自己输了，再从废墟里重新长出一种没人见过的活法。</description>
+      <pubDate>Fri, 19 Jun 2026 14:43:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-29cb89</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《新名字的故事》是那不勒斯四部曲第二部。一九六六年春天，莉拉嫁给肉食店老板斯特凡诺，婚礼当天撞见丈夫把自己亲手做的鞋送给了黑帮索拉拉兄弟，这场所有人都在喝彩的婚姻其实是一场安静的葬礼。与此同时，埃莱娜靠奖学金升入比萨大学，在伊斯基亚海边完成身体的觉醒，在加利亚尼老师家里接触左翼知识分子，嫁给古希腊文学教授的儿子彼得罗·艾罗塔。从表面看，一个留在了老城区，一个跃入了新阶层；但费兰特让两条路最终都通向同一个真相：女性之间的友谊是一面最亲也最狠的镜子，婚姻可以是社会规训的牢笼，而任何向上爬的代价，都必须先把自己腰斩一刀。本书真正在问的，是一个所有女人迟早要面对的问题：当所有现成的门都被锁死，你愿不愿意承认自己输了，再从废墟里重新长出一种没人见过的活法。</itunes:summary>
+      <itunes:duration>00:25:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-29cb89.mp3" length="24092205" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
