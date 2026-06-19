@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 02:06:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 02:31:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3507,6 +3507,17 @@
       <itunes:duration>00:43:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-d41a91.mp3" length="41390253" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《尘埃落定》 · 完整版 · 尘埃落定 · 完整讲读</title>
+      <description>《尘埃落定》是藏族作家阿来写的一本小说，主角是麦其土司家的二少爷——一个被所有人认定的傻子。他十三岁那年从侍女卓玛身上第一次懂得了欲望，后来在土司家族的血腥争斗中预言了罂粟花战争的胜利、红色汉人的到来，甚至预言了自己的死亡。阿来用诗一样的语言，写了中国西南高原上最后一代土司的兴亡。傻子少爷既在故事里面，又好像站在故事外面，他看得见所有人的命运，却救不了自己。整本书的核心，是在一个宏大叙事即将结束的早晨，一个具体的人，怎么用看见代替改变。</description>
+      <pubDate>Fri, 19 Jun 2026 02:31:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-437503</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《尘埃落定》是藏族作家阿来写的一本小说，主角是麦其土司家的二少爷——一个被所有人认定的傻子。他十三岁那年从侍女卓玛身上第一次懂得了欲望，后来在土司家族的血腥争斗中预言了罂粟花战争的胜利、红色汉人的到来，甚至预言了自己的死亡。阿来用诗一样的语言，写了中国西南高原上最后一代土司的兴亡。傻子少爷既在故事里面，又好像站在故事外面，他看得见所有人的命运，却救不了自己。整本书的核心，是在一个宏大叙事即将结束的早晨，一个具体的人，怎么用看见代替改变。</itunes:summary>
+      <itunes:duration>00:27:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-437503.mp3" length="26663853" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
