@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 20:53:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 20:57:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5289,6 +5289,17 @@
       <itunes:duration>00:27:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-82cb49.mp3" length="26389677" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《寻路中国》 · 完整版 · 寻路中国 · 完整讲读</title>
+      <description>《寻路中国》是美国记者何伟用十年时间记录的中国剧变。他以三段路线——长城脚下的村庄、浙江南部的工业小镇、丽水新修的高速公路——拼出一幅从乡土中国向工业中国转身的完整图景。书里没有大词，只有开钮扣城的农民、卖裤子衬料起家的温州老板、在选举中落败的村支书候选人、用一次性打火机规划整栋厂房的叔侄。专业小镇靠&quot;低门槛、高模仿、高淘汰&quot;滚动生长，丽水从&quot;浙江的西藏&quot;被高速公路改写时间观念，魏子淇的失败让他的儿子在五年级就学会了拒绝班干部竞选。何伟用最克制的笔法，揭开了现代化这台抽奖机的底层逻辑：努力和被看见是两件事被分开卖。读这本书，是学一种诚实地看中国的方式，也是学一种诚实地看自己时代的方式。</description>
+      <pubDate>Fri, 19 Jun 2026 20:57:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-fbde0b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《寻路中国》是美国记者何伟用十年时间记录的中国剧变。他以三段路线——长城脚下的村庄、浙江南部的工业小镇、丽水新修的高速公路——拼出一幅从乡土中国向工业中国转身的完整图景。书里没有大词，只有开钮扣城的农民、卖裤子衬料起家的温州老板、在选举中落败的村支书候选人、用一次性打火机规划整栋厂房的叔侄。专业小镇靠&quot;低门槛、高模仿、高淘汰&quot;滚动生长，丽水从&quot;浙江的西藏&quot;被高速公路改写时间观念，魏子淇的失败让他的儿子在五年级就学会了拒绝班干部竞选。何伟用最克制的笔法，揭开了现代化这台抽奖机的底层逻辑：努力和被看见是两件事被分开卖。读这本书，是学一种诚实地看中国的方式，也是学一种诚实地看自己时代的方式。</itunes:summary>
+      <itunes:duration>00:30:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-fbde0b.mp3" length="29097645" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
