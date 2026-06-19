@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 15:25:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 15:25:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -173,6 +173,17 @@
       <itunes:duration>00:30:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-1b029e.mp3" length="29063469" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《人间告白》 · 完整版 · 人间告白 · 完整讲读</title>
+      <description>《人间告白》是八零后插画师小锦写给因癌症离世的丈夫小忽的真情之作。两人从十六岁相识相恋，婚后三年小忽被确诊癌症，在陪伴治疗的一年多时间里，小锦用最朴实的笔触记录下病房里的日常、没说出口的话、最后的心愿，以及那段从芦苇荡到爱琴海的爱情长卷。这本书不讲如何走出悲伤，而是讲如何在倒计时的沙漏里，泪中带笑地活出幸福模样；讲最深的爱如何连死亡都切不断；讲爱一个人最好的方式，是活成他希望你活成的样子。它写给所有正在爱着、正在失去、正在学会珍惜的人。</description>
+      <pubDate>Fri, 19 Jun 2026 14:43:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-5e7e1d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《人间告白》是八零后插画师小锦写给因癌症离世的丈夫小忽的真情之作。两人从十六岁相识相恋，婚后三年小忽被确诊癌症，在陪伴治疗的一年多时间里，小锦用最朴实的笔触记录下病房里的日常、没说出口的话、最后的心愿，以及那段从芦苇荡到爱琴海的爱情长卷。这本书不讲如何走出悲伤，而是讲如何在倒计时的沙漏里，泪中带笑地活出幸福模样；讲最深的爱如何连死亡都切不断；讲爱一个人最好的方式，是活成他希望你活成的样子。它写给所有正在爱着、正在失去、正在学会珍惜的人。</itunes:summary>
+      <itunes:duration>00:29:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-5e7e1d.mp3" length="28331181" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
