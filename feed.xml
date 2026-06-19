@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 03:52:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 03:55:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3683,6 +3683,17 @@
       <itunes:duration>00:36:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-9252e5.mp3" length="34914861" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《上瘾：让用户养成使用习惯的四大产品逻辑》 · 完整版 · 上瘾 · 完整讲读</title>
+      <description>《上瘾》提出了由触发、行动、多变的酬赏、投入四个阶段构成的上瘾模型，揭示Instagram、脸谱网、推特等爆款产品让人欲罢不能的底层逻辑。作者结合斯坦福行为科学研究与硅谷实战经验，不仅拆解习惯养成的心理学机制，也认真追问产品设计的道德边界。本书既是产品经理打造习惯养成型产品的实操框架，也帮助普通用户看清每一次拿起手机背后，是哪一环被精准设计。</description>
+      <pubDate>Fri, 19 Jun 2026 03:55:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-e4ab6d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《上瘾》提出了由触发、行动、多变的酬赏、投入四个阶段构成的上瘾模型，揭示Instagram、脸谱网、推特等爆款产品让人欲罢不能的底层逻辑。作者结合斯坦福行为科学研究与硅谷实战经验，不仅拆解习惯养成的心理学机制，也认真追问产品设计的道德边界。本书既是产品经理打造习惯养成型产品的实操框架，也帮助普通用户看清每一次拿起手机背后，是哪一环被精准设计。</itunes:summary>
+      <itunes:duration>00:25:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-e4ab6d.mp3" length="24419757" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
