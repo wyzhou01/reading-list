@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 20:49:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 20:53:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5278,6 +5278,17 @@
       <itunes:duration>00:25:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-221ff3.mp3" length="24286509" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《最后一个道士》 · 完整版 · 最后一个道士 · 完整讲读</title>
+      <description>《最后一个道士》是夏忆所著网络民俗悬疑小说，共七卷一百二十章，以第一人称回忆展开，讲述茅山最后一个传人查文斌从天煞孤星命格中挣扎、抗争、最终自我封印的一生。查文斌从浙西山村救人开始，历经水库小鬼、五口青铜棺、三足蟾、千年古墓、青城山唐门等大事件，救过无数人，却救不了自己和女儿。最后他选择给自己修一座钢板大坟，把天正道历代灵牌、法器、典籍全部带走或烧尽，趁兄弟昏睡独自消失，以魂飞魄散为代价，破天煞孤星局，护子孙后代。三足蟾三百六十五天在正午和子夜准时一声咕呱，是他留给活人的最后记号。超子、卓雄、河图、冷怡然在他消失后，年年守墓，从未离开。这是一本关于命与轮回、关于传承与断绝、关于兄弟情义与孤独守护的悲剧，也是一本关于向死而生的书。</description>
+      <pubDate>Fri, 19 Jun 2026 20:53:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-82cb49</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《最后一个道士》是夏忆所著网络民俗悬疑小说，共七卷一百二十章，以第一人称回忆展开，讲述茅山最后一个传人查文斌从天煞孤星命格中挣扎、抗争、最终自我封印的一生。查文斌从浙西山村救人开始，历经水库小鬼、五口青铜棺、三足蟾、千年古墓、青城山唐门等大事件，救过无数人，却救不了自己和女儿。最后他选择给自己修一座钢板大坟，把天正道历代灵牌、法器、典籍全部带走或烧尽，趁兄弟昏睡独自消失，以魂飞魄散为代价，破天煞孤星局，护子孙后代。三足蟾三百六十五天在正午和子夜准时一声咕呱，是他留给活人的最后记号。超子、卓雄、河图、冷怡然在他消失后，年年守墓，从未离开。这是一本关于命与轮回、关于传承与断绝、关于兄弟情义与孤独守护的悲剧，也是一本关于向死而生的书。</itunes:summary>
+      <itunes:duration>00:27:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-82cb49.mp3" length="26389677" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
