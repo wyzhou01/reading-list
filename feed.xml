@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 01:21:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 01:25:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3419,6 +3419,17 @@
       <itunes:duration>00:29:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-f5bb8f.mp3" length="28289325" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《生命的礼物：关于爱、死亡及存在的意义》 · 完整版 · 生命的礼物：关于爱、死亡及存在的意义_-欧文·亚隆 · 完整讲读</title>
+      <description>《生命的礼物》是存在主义心理学大师欧文·亚隆与妻子玛丽莲合著的临终告白。玛丽莲在八十七岁被确诊多发性骨髓瘤后，两人决定以交替书写的方式记录面对死亡的全过程。玛丽莲离世后，亚隆独自完成本书，记录他作为幸存者的深度哀伤与自我重建。本书直面中国人讳莫如深的生死议题，探讨了临终抉择、持久之爱与存在意义，告诉我们：直面死亡反而让生命更丰盈，哀伤不是软弱而是人类最深的情感证明。</description>
+      <pubDate>Fri, 19 Jun 2026 01:25:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-2b04b0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《生命的礼物》是存在主义心理学大师欧文·亚隆与妻子玛丽莲合著的临终告白。玛丽莲在八十七岁被确诊多发性骨髓瘤后，两人决定以交替书写的方式记录面对死亡的全过程。玛丽莲离世后，亚隆独自完成本书，记录他作为幸存者的深度哀伤与自我重建。本书直面中国人讳莫如深的生死议题，探讨了临终抉择、持久之爱与存在意义，告诉我们：直面死亡反而让生命更丰盈，哀伤不是软弱而是人类最深的情感证明。</itunes:summary>
+      <itunes:duration>00:28:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-2b04b0.mp3" length="27518637" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
