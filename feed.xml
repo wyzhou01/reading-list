@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 20:07:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 20:10:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5190,6 +5190,17 @@
       <itunes:duration>00:30:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-c8f5a2.mp3" length="29171373" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《如何阅读一本书》 · 完整版 · 如何阅读一本书 · 完整讲读</title>
+      <description>《如何阅读一本书》由莫提默·艾德勒与查尔斯·范多伦合著，是阅读方法论领域的经典之作。本书将阅读分为基础阅读、检视阅读、分析阅读、主题阅读四个递进层次，强调阅读是一种主动的心智活动，而非被动的信息接收。书中详细拆解了分析阅读的十五条规则，并针对实用型书、想象文学、历史、科学、哲学等不同读物给出差异化的阅读方法。核心主张是：不是所有的书都可以用同样的速度去读，读得太快或太慢都一无所获；读书的目的不仅是获取资讯，更是凭借自己的头脑，从超出自己理解力的书中获得真正的理解力。在信息过载的今天，这本书比以往任何时候都更值得一读。</description>
+      <pubDate>Fri, 19 Jun 2026 20:10:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-83a72c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《如何阅读一本书》由莫提默·艾德勒与查尔斯·范多伦合著，是阅读方法论领域的经典之作。本书将阅读分为基础阅读、检视阅读、分析阅读、主题阅读四个递进层次，强调阅读是一种主动的心智活动，而非被动的信息接收。书中详细拆解了分析阅读的十五条规则，并针对实用型书、想象文学、历史、科学、哲学等不同读物给出差异化的阅读方法。核心主张是：不是所有的书都可以用同样的速度去读，读得太快或太慢都一无所获；读书的目的不仅是获取资讯，更是凭借自己的头脑，从超出自己理解力的书中获得真正的理解力。在信息过载的今天，这本书比以往任何时候都更值得一读。</itunes:summary>
+      <itunes:duration>00:25:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-83a72c.mp3" length="24180525" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
