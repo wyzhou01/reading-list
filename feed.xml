@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 10:28:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 10:37:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3760,6 +3760,17 @@
       <itunes:duration>00:19:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-8758cb.mp3" length="18751917" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《美的历程》 · 完整版 · 美的历程 · 完整讲读</title>
+      <description>《美的历程》是李泽厚写于一九八一年的一部中国审美意识巡礼。本书以&quot;有意味的形式&quot;为核心,用十章篇幅,纵贯万年中华艺术,从远古龙飞凤舞的图腾、青铜饕餮的狞厉、先秦的理性精神,讲到楚汉的浪漫、魏晋的风度、盛唐的青春、宋元的山水意境、明清的市民文艺与《红楼梦》。李泽厚提出了著名的&quot;积淀说&quot;——他认为,审美不是孤立的形式,而是社会内容、理性观念、情感想象,在万年历史中逐层积淀到感性形式中的结果。今天重读这本风靡四十年的经典,我们看见的不只是一部中国艺术史,更是一部中华民族如何理解自己、如何安顿心灵的精神史。</description>
+      <pubDate>Fri, 19 Jun 2026 10:36:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-a03939</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《美的历程》是李泽厚写于一九八一年的一部中国审美意识巡礼。本书以&quot;有意味的形式&quot;为核心,用十章篇幅,纵贯万年中华艺术,从远古龙飞凤舞的图腾、青铜饕餮的狞厉、先秦的理性精神,讲到楚汉的浪漫、魏晋的风度、盛唐的青春、宋元的山水意境、明清的市民文艺与《红楼梦》。李泽厚提出了著名的&quot;积淀说&quot;——他认为,审美不是孤立的形式,而是社会内容、理性观念、情感想象,在万年历史中逐层积淀到感性形式中的结果。今天重读这本风靡四十年的经典,我们看见的不只是一部中国艺术史,更是一部中华民族如何理解自己、如何安顿心灵的精神史。</itunes:summary>
+      <itunes:duration>00:29:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-a03939.mp3" length="28780461" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
