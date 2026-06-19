@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 10:47:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 10:51:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3793,6 +3793,17 @@
       <itunes:duration>00:24:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-443725.mp3" length="23152941" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《海底两万里》 · 完整版 · 海底两万里经典译林 · 完整讲读</title>
+      <description>《海底两万里》是法国作家儒尔·凡尔纳一八六九年的经典科幻小说。一艘超越时代的神秘潜艇鹦鹉螺号，载着神秘船长尼摩与三位不情愿的乘客，在近十个月里航遍太平洋、印度洋、地中海与南北极，饱览海底奇观与人类未曾抵达的深渊。凡尔纳以一支没受过正规科学训练的笔，从辞书和报刊里拼出了核潜艇、电动船、声呐与潜水服的预言，一九五八年美国第一艘核潜艇即以鹦鹉螺号命名。本书不仅是少年的冒险之书，更是十九世纪人类对自身力量最深的一份忧虑：尼摩船长的复仇与孤独、科学家在深渊面前的叹息、以及人在工具面前的姿态，到今天依然没有过时。</description>
+      <pubDate>Fri, 19 Jun 2026 10:51:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-0b71df</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《海底两万里》是法国作家儒尔·凡尔纳一八六九年的经典科幻小说。一艘超越时代的神秘潜艇鹦鹉螺号，载着神秘船长尼摩与三位不情愿的乘客，在近十个月里航遍太平洋、印度洋、地中海与南北极，饱览海底奇观与人类未曾抵达的深渊。凡尔纳以一支没受过正规科学训练的笔，从辞书和报刊里拼出了核潜艇、电动船、声呐与潜水服的预言，一九五八年美国第一艘核潜艇即以鹦鹉螺号命名。本书不仅是少年的冒险之书，更是十九世纪人类对自身力量最深的一份忧虑：尼摩船长的复仇与孤独、科学家在深渊面前的叹息、以及人在工具面前的姿态，到今天依然没有过时。</itunes:summary>
+      <itunes:duration>00:25:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-0b71df.mp3" length="24876333" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
