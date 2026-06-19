@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 11:11:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 11:18:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3837,6 +3837,17 @@
       <itunes:duration>00:31:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-ed8ae4.mp3" length="29846061" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《学习高手》 · 完整版 · 学习高手 · 完整讲读</title>
+      <description>《学习高手》是李柘远将其从小学到哈佛二十年求学经验系统总结的一站式学习工具书。全书围绕“提高成绩、终身学习、学霸分享、深度成长、家长陪护”五大模块，拆解了一百多个可立刻上手的高效学习方法。核心内容涵盖：多感官记忆法、缩略词记忆法、联想记忆法、晨起睡前记忆法、故事串联记忆法；康奈尔五R笔记法、主题分类笔记法、移动与录音笔记法；预习—复习—作业—错题闭环学习法；速读、精读、写作、注意力、时间管理、自学等终身学习能力；以及英语学习、SMART原则、OKR工作法、哈佛课堂方法、世界名校路径和家庭教育秘诀。整本书强调“方法必须能用、好方法必须能用起来”，把抽象的学习理论转化为普通人可以立刻操作的实战工具。</description>
+      <pubDate>Fri, 19 Jun 2026 11:18:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-e5b674</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《学习高手》是李柘远将其从小学到哈佛二十年求学经验系统总结的一站式学习工具书。全书围绕“提高成绩、终身学习、学霸分享、深度成长、家长陪护”五大模块，拆解了一百多个可立刻上手的高效学习方法。核心内容涵盖：多感官记忆法、缩略词记忆法、联想记忆法、晨起睡前记忆法、故事串联记忆法；康奈尔五R笔记法、主题分类笔记法、移动与录音笔记法；预习—复习—作业—错题闭环学习法；速读、精读、写作、注意力、时间管理、自学等终身学习能力；以及英语学习、SMART原则、OKR工作法、哈佛课堂方法、世界名校路径和家庭教育秘诀。整本书强调“方法必须能用、好方法必须能用起来”，把抽象的学习理论转化为普通人可以立刻操作的实战工具。</itunes:summary>
+      <itunes:duration>00:31:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-e5b674.mp3" length="29968941" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
