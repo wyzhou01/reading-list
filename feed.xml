@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 01:56:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 02:01:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3485,6 +3485,17 @@
       <itunes:duration>00:28:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-74af53.mp3" length="27302445" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《弃长安》 · 完整版 · 弃长安 · 完整讲读</title>
+      <description>《弃长安》是张明扬写安史之乱的一本非虚构，它没有复述这场战争，而是把镜头对准八个关键人物——李林甫、杨国忠、安禄山、颜杲卿、哥舒翰、杨玉环、李亨、张巡——通过他们的命运切片，呈现一个伟大帝国如何在四十四年盛世之后骤然崩塌。全书最核心的洞察是：盛世不是被外敌击穿的，是被自己内部一根一根拔掉的钉子瓦解的；盛世不是金字塔，是一张网，网断了，最先掉下去的永远是离权力中心最远的人。书中用“熵增”的视角看秩序，用“群体心理崩溃”看权力结构，把这场发生在公元七五六年的大溃散，写成了一面可以照见任何时代、任何组织的镜子。</description>
+      <pubDate>Fri, 19 Jun 2026 02:01:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-322420</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《弃长安》是张明扬写安史之乱的一本非虚构，它没有复述这场战争，而是把镜头对准八个关键人物——李林甫、杨国忠、安禄山、颜杲卿、哥舒翰、杨玉环、李亨、张巡——通过他们的命运切片，呈现一个伟大帝国如何在四十四年盛世之后骤然崩塌。全书最核心的洞察是：盛世不是被外敌击穿的，是被自己内部一根一根拔掉的钉子瓦解的；盛世不是金字塔，是一张网，网断了，最先掉下去的永远是离权力中心最远的人。书中用“熵增”的视角看秩序，用“群体心理崩溃”看权力结构，把这场发生在公元七五六年的大溃散，写成了一面可以照见任何时代、任何组织的镜子。</itunes:summary>
+      <itunes:duration>00:32:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-322420.mp3" length="31063725" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
