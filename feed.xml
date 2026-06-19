@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 04:15:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 10:08:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3727,6 +3727,17 @@
       <itunes:duration>00:30:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-e70c4b.mp3" length="29174061" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《致我们单纯的小美好》 · 完整版 · 致我们单纯的小美好 · 完整讲读</title>
+      <description>《致我们单纯的小美好》是赵乾乾的代表作，讲述陈小希与江辰从青梅竹马、死缠烂打，到误会分手、多年重逢，再到携手一生的爱情故事。这本书最动人之处，是用轻快幽默的笔触写深情——江辰从不说“我爱你”，却把所有的爱藏进一颗酒窝、一句“救我”、一个“都不关我的事”里；陈小希用十六岁那年的笨拙和勇敢，死磕了一辈子，最终等来那个愿意陪她扛住所有“万一”的人。它写的不是童话般的命中注定，是成年人世界里，那份反复练习、从不松手的深情。</description>
+      <pubDate>Fri, 19 Jun 2026 10:08:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-14c2bf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《致我们单纯的小美好》是赵乾乾的代表作，讲述陈小希与江辰从青梅竹马、死缠烂打，到误会分手、多年重逢，再到携手一生的爱情故事。这本书最动人之处，是用轻快幽默的笔触写深情——江辰从不说“我爱你”，却把所有的爱藏进一颗酒窝、一句“救我”、一个“都不关我的事”里；陈小希用十六岁那年的笨拙和勇敢，死磕了一辈子，最终等来那个愿意陪她扛住所有“万一”的人。它写的不是童话般的命中注定，是成年人世界里，那份反复练习、从不松手的深情。</itunes:summary>
+      <itunes:duration>00:33:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-14c2bf.mp3" length="31788333" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
