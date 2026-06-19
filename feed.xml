@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 01:25:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 01:37:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3430,6 +3430,17 @@
       <itunes:duration>00:28:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-2b04b0.mp3" length="27518637" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《喜鹊谋杀案》 · 完整版 · 喜鹊谋杀案 · 完整讲读</title>
+      <description>《喜鹊谋杀案》是英国作家安东尼·霍洛维茨于二零一六年出版的元推理小说。编辑苏珊在审读侦探小说《喜鹊谋杀案》书稿时，发现关键章节失踪，原著作者艾伦·康维随后坠楼身亡，由此揭开英国出版业内幕与连环谋杀案。作品以&quot;书中书&quot;的嵌套结构，致敬并解构阿加莎·克里斯蒂黄金时代侦探小说，同时探讨虚构与现实的边界。它横扫欧美年度榜单，是推理迷必读的当代经典。</description>
+      <pubDate>Fri, 19 Jun 2026 01:36:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-9c1f39</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《喜鹊谋杀案》是英国作家安东尼·霍洛维茨于二零一六年出版的元推理小说。编辑苏珊在审读侦探小说《喜鹊谋杀案》书稿时，发现关键章节失踪，原著作者艾伦·康维随后坠楼身亡，由此揭开英国出版业内幕与连环谋杀案。作品以&quot;书中书&quot;的嵌套结构，致敬并解构阿加莎·克里斯蒂黄金时代侦探小说，同时探讨虚构与现实的边界。它横扫欧美年度榜单，是推理迷必读的当代经典。</itunes:summary>
+      <itunes:duration>00:27:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-9c1f39.mp3" length="26444589" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
