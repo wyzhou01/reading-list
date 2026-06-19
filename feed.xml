@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 03:07:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 03:11:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3606,6 +3606,17 @@
       <itunes:duration>00:22:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-367031.mp3" length="21668013" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《李诞脱口秀工作手册》 · 完整版 · 《李诞脱口秀工作手册》-- · 完整讲读</title>
+      <description>《李诞脱口秀工作手册》是脱口秀演员李诞写给行业内部的工作日志，也是中国第一代脱口秀职业人的经验总结。全书围绕“这是一份工作”展开，拆解了脱口秀从写逐字稿、读稿会、以赛代练，到表演、节奏、风格，再到商务销售、前采沟通的完整生产线。李诞用个人偏见式的笔法，把专业精神、实事求是、用发展的眼光看问题这些朴素的工作哲学，融进了具体岗位的具体动作里。读这本书，你读不到高深的创作理论，读到的是一个新兴行业从兴趣小组走向专业公司的全过程，是一群人怎样把笑变成一份真正的职业。对于所有内容行业的从业者来说，这是一份关于“如何把灵感变成产品”的工作心法，也是一份关于“如何把人生变成创作”的职业哲学。</description>
+      <pubDate>Fri, 19 Jun 2026 03:11:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-89fed6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《李诞脱口秀工作手册》是脱口秀演员李诞写给行业内部的工作日志，也是中国第一代脱口秀职业人的经验总结。全书围绕“这是一份工作”展开，拆解了脱口秀从写逐字稿、读稿会、以赛代练，到表演、节奏、风格，再到商务销售、前采沟通的完整生产线。李诞用个人偏见式的笔法，把专业精神、实事求是、用发展的眼光看问题这些朴素的工作哲学，融进了具体岗位的具体动作里。读这本书，你读不到高深的创作理论，读到的是一个新兴行业从兴趣小组走向专业公司的全过程，是一群人怎样把笑变成一份真正的职业。对于所有内容行业的从业者来说，这是一份关于“如何把灵感变成产品”的工作心法，也是一份关于“如何把人生变成创作”的职业哲学。</itunes:summary>
+      <itunes:duration>00:31:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-89fed6.mp3" length="30492717" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
