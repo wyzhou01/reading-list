@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 14:24:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 14:27:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -4004,15 +4004,15 @@
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-c5042d.mp3" length="31388589" type="audio/mpeg"/>
     </item>
     <item>
-      <title>好好读书 · 《晚清大变局：失序、冲突与衰亡》 · 完整版 · 晚清大变局：失序、冲突与衰亡（共五册）_(魏斐德) · 完整讲读</title>
-      <description>魏斐德《晚清大变局》挑战“西方冲击—中国反应”的传统叙事，提出十九世纪中叶以前中华帝国内部已孕育人口剧变、商业化、士绅阶层扩张等深层变迁。鸦片战争并非起点，只是踩在了已经酝酿三百年的火药桶上。从乡村的账本到朝廷的军机处，每一个环节都在悄悄松动。读懂清末的崩溃逻辑，就读懂了一半的当下。</description>
-      <pubDate>Fri, 19 Jun 2026 14:22:30 +0000</pubDate>
-      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-18fbcf</guid>
+      <title>好好读书 · 《褚时健传》 · 完整版 · 褚时健传 · 完整讲读</title>
+      <description>《褚时健传》是周桦写就的褚时健人生全记录。从一九二七年云南小山村到二零一五年褚橙挂满哀牢山，近九十年间，褚时健先后做过游击队员、糖厂厂长、玉溪卷烟厂厂长，又在六十八岁跌入谷底，女儿狱中离世，自己身陷囹圄。七十五岁他再度出发，在云南荒山上种橙子，用十余年时间打造出“褚橙”品牌。这本书的特别之处在于，它呈现的不是一段传奇，而是一个具体的人——一个尊重规律、认真做事、始终把腰杆挺得笔直的人；一个被马静芬陪伴六十年、被子女晚辈用各自方式接续精神的家族故事；一个关于时间、韧性、企业家尊严的朴素回答。在所有人都谈论转型与韧性的今天，褚时健的活法，依然是一种可学、可用、可走进去的回答。</description>
+      <pubDate>Fri, 19 Jun 2026 14:25:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-cfd0c8</guid>
       <itunes:author>好好读书组</itunes:author>
-      <itunes:summary>魏斐德《晚清大变局》挑战“西方冲击—中国反应”的传统叙事，提出十九世纪中叶以前中华帝国内部已孕育人口剧变、商业化、士绅阶层扩张等深层变迁。鸦片战争并非起点，只是踩在了已经酝酿三百年的火药桶上。从乡村的账本到朝廷的军机处，每一个环节都在悄悄松动。读懂清末的崩溃逻辑，就读懂了一半的当下。</itunes:summary>
-      <itunes:duration>00:31:42</itunes:duration>
+      <itunes:summary>《褚时健传》是周桦写就的褚时健人生全记录。从一九二七年云南小山村到二零一五年褚橙挂满哀牢山，近九十年间，褚时健先后做过游击队员、糖厂厂长、玉溪卷烟厂厂长，又在六十八岁跌入谷底，女儿狱中离世，自己身陷囹圄。七十五岁他再度出发，在云南荒山上种橙子，用十余年时间打造出“褚橙”品牌。这本书的特别之处在于，它呈现的不是一段传奇，而是一个具体的人——一个尊重规律、认真做事、始终把腰杆挺得笔直的人；一个被马静芬陪伴六十年、被子女晚辈用各自方式接续精神的家族故事；一个关于时间、韧性、企业家尊严的朴素回答。在所有人都谈论转型与韧性的今天，褚时健的活法，依然是一种可学、可用、可走进去的回答。</itunes:summary>
+      <itunes:duration>00:36:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-18fbcf.mp3" length="30440109" type="audio/mpeg"/>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-cfd0c8.mp3" length="34906029" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
