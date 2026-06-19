@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 19:06:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 19:10:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5069,6 +5069,17 @@
       <itunes:duration>00:28:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-ad949f.mp3" length="27394221" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《沉默的羔羊三部曲》 · 完整版 · 沉默的羔羊三部曲 · 完整讲读</title>
+      <description>《沉默的羔羊》三部曲是美国作家托马斯·哈里斯一九八一年至一九九九年间的代表作。它以连环杀手汉尼拔·莱克特与联邦调查局特工克拉丽丝·史达琳为核心，用三本书、三个夜晚、三场对决，串起一个寒门女孩的成长、一个食人魔王的越狱、一位高智商反派的流亡。哈里斯让作者隐身于文字之后，逼读者自己当侦探；他让凝视与操控互为镜像，让交易与审讯彼此渗透；他用莱克特那张穿白大褂的“专业人士“的脸，证明了高智商的恶比单纯的恶更冷更稳。三十多年来，这套书改写了连环杀手小说的写法，把“读心“和“心理画像“送进大众文化，让每一个翻开第一页的读者都得问自己：心底那道尖叫，什么时候才能停。</description>
+      <pubDate>Fri, 19 Jun 2026 19:10:36 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-b90e7b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《沉默的羔羊》三部曲是美国作家托马斯·哈里斯一九八一年至一九九九年间的代表作。它以连环杀手汉尼拔·莱克特与联邦调查局特工克拉丽丝·史达琳为核心，用三本书、三个夜晚、三场对决，串起一个寒门女孩的成长、一个食人魔王的越狱、一位高智商反派的流亡。哈里斯让作者隐身于文字之后，逼读者自己当侦探；他让凝视与操控互为镜像，让交易与审讯彼此渗透；他用莱克特那张穿白大褂的“专业人士“的脸，证明了高智商的恶比单纯的恶更冷更稳。三十多年来，这套书改写了连环杀手小说的写法，把“读心“和“心理画像“送进大众文化，让每一个翻开第一页的读者都得问自己：心底那道尖叫，什么时候才能停。</itunes:summary>
+      <itunes:duration>00:26:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-b90e7b.mp3" length="25132845" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
