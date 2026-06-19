@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 10:23:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 10:23:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3740,15 +3740,15 @@
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-14c2bf.mp3" length="31788333" type="audio/mpeg"/>
     </item>
     <item>
-      <title>好好读书 · 《失明症漫记》 · 完整版 · 失明症漫记 · 完整讲读</title>
-      <description>《失明症漫记》是葡萄牙作家萨拉马戈一九九五年写下的反乌托邦寓言：一场白色失明症突然在街头爆发，所有患者被武装押送进废弃精神病院集中隔离。在秩序崩塌、物资断绝的封闭空间里，文明的外衣迅速被撕掉，暴政、交易、背叛、剥削在几天之内野蛮生长；唯一保持视力的医生妻子，见证了善与恶如何在这片白色炼狱里艰难角力。萨拉马戈用没有问号、没有感叹号的长句，写出了一个让人不寒而栗的命题：真正可怕的失明，从来不是闭上眼，而是睁着眼却看不见。</description>
-      <pubDate>Fri, 19 Jun 2026 10:22:57 +0000</pubDate>
-      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-aac5fe</guid>
+      <title>好好读书 · 《人类简史》 · 完整版 · 人类简史：从动物到上帝（图文精编版） · 完整讲读</title>
+      <description>《人类简史：从动物到上帝》是青年历史学家尤瓦尔·赫拉利写给全人类的一份清醒诊断书。他用三大革命——七万年前的认知革命、一万两千年前的农业革命、五百年前的科学革命——串起智人的整部故事。书里提出三个反直觉的判断：智人靠的不是肌肉而是讲故事，农业革命是小麦驯化了我们而非相反，而科学、帝国、资本三件套正在把人类推向神的境地，却也把幸福感和物种本身逼到悬崖边上。赫拉利没有给答案，只留一句弱弱的追问：我们究竟想要什么？读完这本书，你未必能回答它，但你会重新打量自己是谁、从哪来、又该往哪去。</description>
+      <pubDate>Fri, 12 Jun 2026 16:45:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-de096d</guid>
       <itunes:author>好好读书组</itunes:author>
-      <itunes:summary>《失明症漫记》是葡萄牙作家萨拉马戈一九九五年写下的反乌托邦寓言：一场白色失明症突然在街头爆发，所有患者被武装押送进废弃精神病院集中隔离。在秩序崩塌、物资断绝的封闭空间里，文明的外衣迅速被撕掉，暴政、交易、背叛、剥削在几天之内野蛮生长；唯一保持视力的医生妻子，见证了善与恶如何在这片白色炼狱里艰难角力。萨拉马戈用没有问号、没有感叹号的长句，写出了一个让人不寒而栗的命题：真正可怕的失明，从来不是闭上眼，而是睁着眼却看不见。</itunes:summary>
-      <itunes:duration>00:30:13</itunes:duration>
+      <itunes:summary>《人类简史：从动物到上帝》是青年历史学家尤瓦尔·赫拉利写给全人类的一份清醒诊断书。他用三大革命——七万年前的认知革命、一万两千年前的农业革命、五百年前的科学革命——串起智人的整部故事。书里提出三个反直觉的判断：智人靠的不是肌肉而是讲故事，农业革命是小麦驯化了我们而非相反，而科学、帝国、资本三件套正在把人类推向神的境地，却也把幸福感和物种本身逼到悬崖边上。赫拉利没有给答案，只留一句弱弱的追问：我们究竟想要什么？读完这本书，你未必能回答它，但你会重新打量自己是谁、从哪来、又该往哪去。</itunes:summary>
+      <itunes:duration>00:28:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-aac5fe.mp3" length="29010477" type="audio/mpeg"/>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-de096d.mp3" length="27082797" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
