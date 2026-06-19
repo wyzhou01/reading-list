@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 18:48:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 18:48:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5003,6 +5003,17 @@
       <itunes:duration>00:46:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-22645f.mp3" length="44399661" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《爱你就像爱生命》 · 完整版 · 爱你就像爱生命 · 完整讲读</title>
+      <description>《爱你就像爱生命》是王小波与李银河跨越二十年的书信合集，从一九七八年初识到一九九七年王小波猝然离世。书中没有虚构，只有两个真实的人如何用最笨拙的汉语相爱：他写“你好哇，李银河”，她叫他“傻孩子”。在粗粝的年代里，他们用信守护精神自由，用爱抵抗庸俗；在他离去后，她用十年重读这些信件，把他的名字变成一代人辨认彼此的暗号。这本书不只关于爱情，更关于一个人如何用慢、用真、用持续一生的书写，抵抗时间、抵抗遗忘、抵抗死亡的残忍。</description>
+      <pubDate>Fri, 19 Jun 2026 16:22:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-44ad36</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《爱你就像爱生命》是王小波与李银河跨越二十年的书信合集，从一九七八年初识到一九九七年王小波猝然离世。书中没有虚构，只有两个真实的人如何用最笨拙的汉语相爱：他写“你好哇，李银河”，她叫他“傻孩子”。在粗粝的年代里，他们用信守护精神自由，用爱抵抗庸俗；在他离去后，她用十年重读这些信件，把他的名字变成一代人辨认彼此的暗号。这本书不只关于爱情，更关于一个人如何用慢、用真、用持续一生的书写，抵抗时间、抵抗遗忘、抵抗死亡的残忍。</itunes:summary>
+      <itunes:duration>00:24:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-44ad36.mp3" length="23516205" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
