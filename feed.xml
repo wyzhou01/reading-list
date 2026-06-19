@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 10:42:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 10:47:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3782,6 +3782,17 @@
       <itunes:duration>00:20:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-c14514.mp3" length="19261485" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《上帝掷骰子吗？：量子物理史话》 · 完整版 · 上帝掷骰子吗？ · 完整讲读</title>
+      <description>《上帝掷骰子吗？》是曹天元写就的一部量子物理史话，以波澜壮阔的笔法还原了波粒二象性、哥本哈根诠释、爱因斯坦与玻尔的世纪论战、EPR 佯谬、贝尔不等式等核心篇章。从一八八七年赫兹在卡尔斯鲁厄验证电磁波，到二十一世纪初量子纠缠被实验证实，本书以群像叙事的方式把晦涩的量子力学讲成了一段跨越三百年的传奇：它既是一部物理学革命史，也是一面映照人类如何面对确定性崩塌的镜子。这本书最珍贵之处在于，它没有只停留在公式的层面，而是把量子论对哲学、对认识论、对现代文明的冲击，一并交付给读者。</description>
+      <pubDate>Fri, 19 Jun 2026 10:46:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-443725</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《上帝掷骰子吗？》是曹天元写就的一部量子物理史话，以波澜壮阔的笔法还原了波粒二象性、哥本哈根诠释、爱因斯坦与玻尔的世纪论战、EPR 佯谬、贝尔不等式等核心篇章。从一八八七年赫兹在卡尔斯鲁厄验证电磁波，到二十一世纪初量子纠缠被实验证实，本书以群像叙事的方式把晦涩的量子力学讲成了一段跨越三百年的传奇：它既是一部物理学革命史，也是一面映照人类如何面对确定性崩塌的镜子。这本书最珍贵之处在于，它没有只停留在公式的层面，而是把量子论对哲学、对认识论、对现代文明的冲击，一并交付给读者。</itunes:summary>
+      <itunes:duration>00:24:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-443725.mp3" length="23152941" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
