@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 14:49:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 14:55:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30,6 +30,17 @@
       <itunes:duration>00:33:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-8515ab.mp3" length="32220333" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《生命中最简单又最困难的事》 · 完整版 · 生命中最简单又最困难的事（被《时代杂志》评为“对知识分子的最后演_-_大卫•福斯特•华莱士 · 完整讲读</title>
+      <description>《生命中最简单又最困难的事》是美国天才作家大卫·福斯特·华莱士二零零五年的毕业演讲整理。核心只有一件事：成年人真正的功课，是学会看见自己思维的默认设置——那种以自我为中心、不经审视就下判断的自动模式。从小鱼与水的故事，到阿拉斯加酒吧的信仰之争，再到堵车与超市的日常，他用最朴素的语言讲了一个最不朴素的真相：日复一日地保持自觉与警觉，是一生的事业，也是真正教育的意义所在。</description>
+      <pubDate>Fri, 19 Jun 2026 14:55:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-cfba90</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《生命中最简单又最困难的事》是美国天才作家大卫·福斯特·华莱士二零零五年的毕业演讲整理。核心只有一件事：成年人真正的功课，是学会看见自己思维的默认设置——那种以自我为中心、不经审视就下判断的自动模式。从小鱼与水的故事，到阿拉斯加酒吧的信仰之争，再到堵车与超市的日常，他用最朴素的语言讲了一个最不朴素的真相：日复一日地保持自觉与警觉，是一生的事业，也是真正教育的意义所在。</itunes:summary>
+      <itunes:duration>00:29:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-cfba90.mp3" length="28201005" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
