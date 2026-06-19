@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 12:35:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 12:43:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3870,6 +3870,17 @@
       <itunes:duration>00:27:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-9ed9f7.mp3" length="26710317" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《夏天、烟火和我的尸体》 · 完整版 · 夏天、烟火和我的尸体 · 完整讲读</title>
+      <description>《夏天、烟火和我的尸体》是日本作家乙一十六岁出道即震惊文坛的暗黑短篇集。同名篇以九岁女孩坠树身亡后的尸体视角，冷静凝视好友与哥哥藏尸灭迹的全过程；《优子》则讲述一个吃下颠茄果实的看护少女陷入谵妄，将人偶当成活人照料直至纵火。乙一用孩子日记般纯净的口吻讲述极残酷的故事，完成了一次对童年纯真的系统祛魅。</description>
+      <pubDate>Fri, 19 Jun 2026 12:43:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-40a241</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《夏天、烟火和我的尸体》是日本作家乙一十六岁出道即震惊文坛的暗黑短篇集。同名篇以九岁女孩坠树身亡后的尸体视角，冷静凝视好友与哥哥藏尸灭迹的全过程；《优子》则讲述一个吃下颠茄果实的看护少女陷入谵妄，将人偶当成活人照料直至纵火。乙一用孩子日记般纯净的口吻讲述极残酷的故事，完成了一次对童年纯真的系统祛魅。</itunes:summary>
+      <itunes:duration>00:33:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-40a241.mp3" length="31693101" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
