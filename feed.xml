@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 02:31:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 02:35:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3518,6 +3518,17 @@
       <itunes:duration>00:27:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-437503.mp3" length="26663853" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大江大河四部曲》 · 完整版 · 大江大河四部曲读客文化出品欢乐颂出品方正午阳光新剧大江大河原著小说王凯杨烁董子健主演豆瓣9.2高分 · 完整讲读</title>
+      <description>《大江大河》是阿耐创作的一部全景式反映改革开放三十年的长篇小说，时间跨度从一九七八年写到二零零八年。小说以宋运辉、雷东宝、杨巡、梁思申四位普通人的命运为线索，分别串起国企、农村、个体户、外资四条改革主线，还原了小岗村红手印、知青高考、国企改制、下岗潮、乡镇企业崛起、民营企业出海、入世等关键历史节点，被视为理解中国这三十年最厚重的文学作品之一。</description>
+      <pubDate>Fri, 19 Jun 2026 02:35:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-512913</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大江大河》是阿耐创作的一部全景式反映改革开放三十年的长篇小说，时间跨度从一九七八年写到二零零八年。小说以宋运辉、雷东宝、杨巡、梁思申四位普通人的命运为线索，分别串起国企、农村、个体户、外资四条改革主线，还原了小岗村红手印、知青高考、国企改制、下岗潮、乡镇企业崛起、民营企业出海、入世等关键历史节点，被视为理解中国这三十年最厚重的文学作品之一。</itunes:summary>
+      <itunes:duration>00:22:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-512913.mp3" length="21995181" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
