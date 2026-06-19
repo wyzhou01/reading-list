@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 03:55:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 04:01:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3694,6 +3694,17 @@
       <itunes:duration>00:25:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-e4ab6d.mp3" length="24419757" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《荆棘鸟》 · 完整版 · 荆棘鸟修订版经典译林 · 完整讲读</title>
+      <description>本期《好好读书》用三小时完整解读考琳・麦卡洛的《荆棘鸟》：从一九一五年梅吉四岁那年在金雀花丛中收到布娃娃艾格尼丝讲起，到一九六九年外孙女朱丝婷在梵蒂冈发出结婚电报为止，时间跨度超过半个世纪。克利里一家三代人，从新西兰迁居到澳大利亚广袤的德罗海达牧羊场，经历了玛丽・卡森的算计、帕迪的溺亡、戴恩的夭折，拉尔夫神父一辈子在上帝和梅吉之间二选一，最后把亲生儿子也送进了教会。三代女人——菲奥娜、梅吉、朱丝婷——活出了三种截然不同的命运：被时代困死、被自己困死、挣脱了荆棘鸟的咒语。这本书最深的金句不在荆棘鸟的传说里，而在朱丝婷那封电报里——她用十五年的等待和对自己清醒的认知，告诉所有的读者：最美好的东西，不一定要用深痛巨创来换取。</description>
+      <pubDate>Fri, 19 Jun 2026 04:00:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-208a22</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期《好好读书》用三小时完整解读考琳・麦卡洛的《荆棘鸟》：从一九一五年梅吉四岁那年在金雀花丛中收到布娃娃艾格尼丝讲起，到一九六九年外孙女朱丝婷在梵蒂冈发出结婚电报为止，时间跨度超过半个世纪。克利里一家三代人，从新西兰迁居到澳大利亚广袤的德罗海达牧羊场，经历了玛丽・卡森的算计、帕迪的溺亡、戴恩的夭折，拉尔夫神父一辈子在上帝和梅吉之间二选一，最后把亲生儿子也送进了教会。三代女人——菲奥娜、梅吉、朱丝婷——活出了三种截然不同的命运：被时代困死、被自己困死、挣脱了荆棘鸟的咒语。这本书最深的金句不在荆棘鸟的传说里，而在朱丝婷那封电报里——她用十五年的等待和对自己清醒的认知，告诉所有的读者：最美好的东西，不一定要用深痛巨创来换取。</itunes:summary>
+      <itunes:duration>00:34:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-208a22.mp3" length="32961453" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
