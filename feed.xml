@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 15:06:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 15:12:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -107,6 +107,17 @@
       <itunes:duration>00:26:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-9c5996.mp3" length="25451949" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《横渡孟加拉湾：自然的暴怒和移民的财富》 · 完整版 · 横渡孟加拉湾 · 完整讲读</title>
+      <description>哈佛历史教授阿姆瑞斯用跨越千年的眼光，重写孟加拉湾这部被遗忘的历史。从朱罗帝国到葡萄牙人到来，从十九世纪二千八百万契约劳工横渡海湾，到二十世纪民族国家边界画下、海湾“死亡“，再到今天气候危机与大国博弈让海湾重新成为战略前线。季风、移民、帝国、灾难——所有这一切构成了一部人类流动与海洋暴怒的史诗，也提醒我们：理解这片被国家叙事切碎的水域，就是理解我们这个相互依存又充满张力的世界。</description>
+      <pubDate>Fri, 19 Jun 2026 15:12:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-5f9548</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>哈佛历史教授阿姆瑞斯用跨越千年的眼光，重写孟加拉湾这部被遗忘的历史。从朱罗帝国到葡萄牙人到来，从十九世纪二千八百万契约劳工横渡海湾，到二十世纪民族国家边界画下、海湾“死亡“，再到今天气候危机与大国博弈让海湾重新成为战略前线。季风、移民、帝国、灾难——所有这一切构成了一部人类流动与海洋暴怒的史诗，也提醒我们：理解这片被国家叙事切碎的水域，就是理解我们这个相互依存又充满张力的世界。</itunes:summary>
+      <itunes:duration>00:26:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-5f9548.mp3" length="25288365" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
