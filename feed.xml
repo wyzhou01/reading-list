@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 20:45:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 20:49:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5267,6 +5267,17 @@
       <itunes:duration>00:31:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-61e189.mp3" length="30631725" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《囚徒的困境》 · 完整版 · 囚徒的困境（威廉·庞德斯通） · 完整讲读</title>
+      <description>《囚徒的困境》是威廉·庞德斯通写的一本横跨数学、冷战与计算机科学的科普巨作，以博弈论创始人约翰·冯·诺依曼的传奇人生为主线，讲述囚徒困境这一改变人类决策方式的数学思想，如何从一九二八年的一个数学证明，走进兰德公司的会议室、洛斯阿拉莫斯的实验室，最终摆上白宫的决策桌，左右了冷战核博弈与人类文明的走向。书中揭示了一个深刻的悖论：两个完全理性的对手，明明合作对双方最好，却常常走向互相毁灭；理性不等于智慧，聪明人也会走进自己挖好的陷阱。读懂囚徒困境，就是读懂我们这个时代最核心的生存智慧。</description>
+      <pubDate>Fri, 19 Jun 2026 20:48:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-221ff3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《囚徒的困境》是威廉·庞德斯通写的一本横跨数学、冷战与计算机科学的科普巨作，以博弈论创始人约翰·冯·诺依曼的传奇人生为主线，讲述囚徒困境这一改变人类决策方式的数学思想，如何从一九二八年的一个数学证明，走进兰德公司的会议室、洛斯阿拉莫斯的实验室，最终摆上白宫的决策桌，左右了冷战核博弈与人类文明的走向。书中揭示了一个深刻的悖论：两个完全理性的对手，明明合作对双方最好，却常常走向互相毁灭；理性不等于智慧，聪明人也会走进自己挖好的陷阱。读懂囚徒困境，就是读懂我们这个时代最核心的生存智慧。</itunes:summary>
+      <itunes:duration>00:25:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-221ff3.mp3" length="24286509" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
