@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 19:33:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 19:38:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5124,6 +5124,17 @@
       <itunes:duration>00:30:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-d4833e.mp3" length="29499309" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《人生由我》 · 完整版 · 人生海海 · 完整讲读</title>
+      <description>《人生海海》是麦家二零一八年完成、二零一九年定稿的乡土史诗，脱离谍战题材，回到江南双家村，用第一人称回忆视角，讲述一位传奇上校跌宕起伏的一生。上校当过木匠，做过特工，在战场上救过命，却因腹部的一行神秘字纹，被困在&quot;太监&quot;的骂名与命运的碾压中。战争、动荡、和平年代，爷爷、父亲、老保长、妻子等人被这个秘密裹挟，个个在时代里做出抉择。书名取自闽南话，形容人生像海一样宽广复杂、起落浮沉。麦家以克制而深情的笔触，写秘密的代价、命运的无常、爱与救赎的隐秘力量，以及那些在时代洪流中挣扎、坚守、最终被一棵树覆盖的人。</description>
+      <pubDate>Thu, 18 Jun 2026 01:03:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-049134</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《人生海海》是麦家二零一八年完成、二零一九年定稿的乡土史诗，脱离谍战题材，回到江南双家村，用第一人称回忆视角，讲述一位传奇上校跌宕起伏的一生。上校当过木匠，做过特工，在战场上救过命，却因腹部的一行神秘字纹，被困在&quot;太监&quot;的骂名与命运的碾压中。战争、动荡、和平年代，爷爷、父亲、老保长、妻子等人被这个秘密裹挟，个个在时代里做出抉择。书名取自闽南话，形容人生像海一样宽广复杂、起落浮沉。麦家以克制而深情的笔触，写秘密的代价、命运的无常、爱与救赎的隐秘力量，以及那些在时代洪流中挣扎、坚守、最终被一棵树覆盖的人。</itunes:summary>
+      <itunes:duration>00:33:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-049134.mp3" length="32252205" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
