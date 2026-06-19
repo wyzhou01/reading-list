@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 19:26:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 19:33:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5113,6 +5113,17 @@
       <itunes:duration>00:26:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-f0ef37.mp3" length="25832877" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《回归故里》 · 完整版 · 回归故里米歇尔福柯传作者迪迪埃埃里蓬切身之作初次引进讲述他如何成为一代著名知识分子的传奇故事 · 完整讲读</title>
+      <description>《回归故里》是法国学者迪迪埃·埃里蓬在父亲去世后写下的一部自省之作。他回到工人阶级的故乡，重新审视自己作为底层孩子的逃离、同性恋身份的解放、以及阶级跨越背后的羞耻与背叛。他发现，父亲的暴力与狭隘并非源于本性，而是被时代与阶级所塑造；他自己用性向的解放叙事，遮蔽了阶级逃离的真正动机。这本书戳穿了知识分子对自身阶级原罪的系统性回避，揭示了那些你以为已被擦除的出身印记，如何以身体的不适、抽离感与沉默的方式持续存在。它没有提供和解的承诺，只提供一种&quot;度量距离&quot;的诚实姿态。</description>
+      <pubDate>Fri, 19 Jun 2026 19:32:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-d4833e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《回归故里》是法国学者迪迪埃·埃里蓬在父亲去世后写下的一部自省之作。他回到工人阶级的故乡，重新审视自己作为底层孩子的逃离、同性恋身份的解放、以及阶级跨越背后的羞耻与背叛。他发现，父亲的暴力与狭隘并非源于本性，而是被时代与阶级所塑造；他自己用性向的解放叙事，遮蔽了阶级逃离的真正动机。这本书戳穿了知识分子对自身阶级原罪的系统性回避，揭示了那些你以为已被擦除的出身印记，如何以身体的不适、抽离感与沉默的方式持续存在。它没有提供和解的承诺，只提供一种&quot;度量距离&quot;的诚实姿态。</itunes:summary>
+      <itunes:duration>00:30:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-d4833e.mp3" length="29499309" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
