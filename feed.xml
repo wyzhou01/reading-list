@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 03:26:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 03:32:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3650,6 +3650,17 @@
       <itunes:duration>00:27:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-42957e.mp3" length="26284845" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《对赌：信息不足时如何做出高明决策》 · 完整版 · 对赌：信息不足时如何做出高明决策 · 完整讲读</title>
+      <description>《对赌：信息不足时如何做出高明决策》是前职业扑克冠军安妮·杜克写给所有人的决策书。杜克用二十年牌桌经验告诉我们：人生不是象棋，是扑克——你永远看不到全部底牌。书里给出六块核心拼图：把决策质量与结果分开，把信念翻译成概率，把运气从技能里切开，让团体比个人更聪明，让异议成为建设性力量，让心理时间旅行成为决策盟友。六年过去，世界比作者当年更不确定，这本书也因此比当年更值得读。它不教你每次都赢，它教你在永远不可能每次都赢的前提下，持续地、理性地、谦逊地做出更好的选择。</description>
+      <pubDate>Fri, 19 Jun 2026 03:32:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-92f00c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《对赌：信息不足时如何做出高明决策》是前职业扑克冠军安妮·杜克写给所有人的决策书。杜克用二十年牌桌经验告诉我们：人生不是象棋，是扑克——你永远看不到全部底牌。书里给出六块核心拼图：把决策质量与结果分开，把信念翻译成概率，把运气从技能里切开，让团体比个人更聪明，让异议成为建设性力量，让心理时间旅行成为决策盟友。六年过去，世界比作者当年更不确定，这本书也因此比当年更值得读。它不教你每次都赢，它教你在永远不可能每次都赢的前提下，持续地、理性地、谦逊地做出更好的选择。</itunes:summary>
+      <itunes:duration>00:31:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-92f00c.mp3" length="30638637" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
