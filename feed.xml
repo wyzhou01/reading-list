@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 04:01:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 04:09:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3705,6 +3705,17 @@
       <itunes:duration>00:34:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-208a22.mp3" length="32961453" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《墨菲定律：世界上最有趣最有用的定律》 · 完整版 · 墨菲定律：世界上最有趣最有用的定律 · 完整讲读</title>
+      <description>《墨菲定律：世界上最有趣最有用的定律》是一本面向普通读者的通俗心理学读物，由李原编著。它系统梳理了皮尔斯定理、晕轮效应、沉没成本、马蝇效应、首因效应、棘轮效应等近两百个影响行为与决策的经典规律，按人性、职场、决策、人际、消费等十多个主题分章呈现。全书用故事和案例的方式，把那些在暗中操控我们判断和选择的心理规律摆到台面上，帮你看清自己的思维盲区，从而在为人处世、职场打拼、情感经营和消费决策中，做出一个更清醒的选择。</description>
+      <pubDate>Fri, 19 Jun 2026 04:09:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-0f1b71</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《墨菲定律：世界上最有趣最有用的定律》是一本面向普通读者的通俗心理学读物，由李原编著。它系统梳理了皮尔斯定理、晕轮效应、沉没成本、马蝇效应、首因效应、棘轮效应等近两百个影响行为与决策的经典规律，按人性、职场、决策、人际、消费等十多个主题分章呈现。全书用故事和案例的方式，把那些在暗中操控我们判断和选择的心理规律摆到台面上，帮你看清自己的思维盲区，从而在为人处世、职场打拼、情感经营和消费决策中，做出一个更清醒的选择。</itunes:summary>
+      <itunes:duration>00:31:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-0f1b71.mp3" length="30581421" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
