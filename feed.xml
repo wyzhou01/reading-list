@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 15:15:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 15:20:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -140,6 +140,17 @@
       <itunes:duration>00:33:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-eec0fa.mp3" length="32526381" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《《实践论》《矛盾论》导读》 · 完整版 · 《实践论》《矛盾论》导读 · 完整讲读</title>
+      <description>本书是清华大学马克思主义学院学者撰写的《实践论》《矛盾论》导读。作者紧贴原文逻辑，把毛泽东的哲学创造放在马克思主义中国化的整体进程中考察，系统阐释了实践与认识的辩证关系、矛盾的普遍性与特殊性的统一、主要矛盾与次要矛盾的转化等核心命题，揭示了“两论”如何为中国共产党实事求是思想路线奠基，又如何一路延伸至改革开放和新时代。本书引入日本、英国、法国、美国等国外毛泽东学的研究成果，以国际学术视野反观中国哲学文本，是系统把握“两论”哲学内涵的标准读本之一，适合党政干部、青年学生及一切希望理解中国式现代化哲学根基的读者。</description>
+      <pubDate>Fri, 19 Jun 2026 15:19:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-7a4b1c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是清华大学马克思主义学院学者撰写的《实践论》《矛盾论》导读。作者紧贴原文逻辑，把毛泽东的哲学创造放在马克思主义中国化的整体进程中考察，系统阐释了实践与认识的辩证关系、矛盾的普遍性与特殊性的统一、主要矛盾与次要矛盾的转化等核心命题，揭示了“两论”如何为中国共产党实事求是思想路线奠基，又如何一路延伸至改革开放和新时代。本书引入日本、英国、法国、美国等国外毛泽东学的研究成果，以国际学术视野反观中国哲学文本，是系统把握“两论”哲学内涵的标准读本之一，适合党政干部、青年学生及一切希望理解中国式现代化哲学根基的读者。</itunes:summary>
+      <itunes:duration>00:26:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-7a4b1c.mp3" length="25822893" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
