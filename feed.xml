@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 19:53:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 19:59:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5157,6 +5157,17 @@
       <itunes:duration>00:35:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-f8c3c5.mp3" length="34233261" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《史记全译》 · 完整版 · 史记全译 · 完整讲读</title>
+      <description>《史记全译》是西汉司马迁撰写的中国第一部纪传体通史，全书一百三十篇、五十二万六千五百字，记载黄帝至汉武帝初期约三千年历史。本书由本纪、世家、列传、八书四体组成，开创了延续两千年的官方史书范式。司马迁因李陵之祸受宫刑，仍坚持完成此书，被誉为&quot;史家之绝唱，无韵之《离骚》&quot;，既是史学高峰，也是文学高峰。</description>
+      <pubDate>Fri, 19 Jun 2026 19:58:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-c86a29</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《史记全译》是西汉司马迁撰写的中国第一部纪传体通史，全书一百三十篇、五十二万六千五百字，记载黄帝至汉武帝初期约三千年历史。本书由本纪、世家、列传、八书四体组成，开创了延续两千年的官方史书范式。司马迁因李陵之祸受宫刑，仍坚持完成此书，被誉为&quot;史家之绝唱，无韵之《离骚》&quot;，既是史学高峰，也是文学高峰。</itunes:summary>
+      <itunes:duration>00:32:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-c86a29.mp3" length="31664685" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
