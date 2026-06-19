@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 01:50:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 01:56:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3474,6 +3474,17 @@
       <itunes:duration>00:26:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-3b820f.mp3" length="24967725" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《八百万种死法》 · 完整版 · 八百万种死法 · 完整讲读</title>
+      <description>《八百万种死法》是劳伦斯·布洛克一九八二年出版的硬汉派推理经典，马特·斯卡德系列的第八部。前警探、无照私家侦探、酗酒者斯卡德接下一单看似简单的委托：帮金发应召女金·达吉南脱离她的皮条客钱斯。钱很快花完，线索断在一家二十四小时应答服务里。斯卡德泡在阿姆斯特朗酒馆的黑咖啡、圣保罗教堂地下室的戒酒会、哈莱姆的爵士酒吧之间，一点点拼出这座城市最暗的底色。妓女在西街被开膛，应召女接连失踪，皮条客口风极紧，凶手却用同一把大砍刀反复作案。布洛克写的不是破案神剧，是一个人在八百万种孤独里如何撑住自己。当那杯琥珀色的波本威士忌终于被留在吧台上、当“我叫马特，我酒精成瘾“在地下室里被说出来，整本书最深的一课才落地：在一座把每个名字都压成“年约二十五岁“的城市里，承认自己是谁，反而是最有力的活法。</description>
+      <pubDate>Fri, 19 Jun 2026 01:55:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-74af53</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《八百万种死法》是劳伦斯·布洛克一九八二年出版的硬汉派推理经典，马特·斯卡德系列的第八部。前警探、无照私家侦探、酗酒者斯卡德接下一单看似简单的委托：帮金发应召女金·达吉南脱离她的皮条客钱斯。钱很快花完，线索断在一家二十四小时应答服务里。斯卡德泡在阿姆斯特朗酒馆的黑咖啡、圣保罗教堂地下室的戒酒会、哈莱姆的爵士酒吧之间，一点点拼出这座城市最暗的底色。妓女在西街被开膛，应召女接连失踪，皮条客口风极紧，凶手却用同一把大砍刀反复作案。布洛克写的不是破案神剧，是一个人在八百万种孤独里如何撑住自己。当那杯琥珀色的波本威士忌终于被留在吧台上、当“我叫马特，我酒精成瘾“在地下室里被说出来，整本书最深的一课才落地：在一座把每个名字都压成“年约二十五岁“的城市里，承认自己是谁，反而是最有力的活法。</itunes:summary>
+      <itunes:duration>00:28:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-74af53.mp3" length="27302445" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
