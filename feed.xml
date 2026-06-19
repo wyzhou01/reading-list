@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 12:29:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 12:35:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3859,6 +3859,17 @@
       <itunes:duration>00:19:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-e01bd8.mp3" length="18279981" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一生的财富：洛克菲勒写给儿子的38封信》 · 完整版 · 一生的财富：洛克菲勒写给儿子的38封信 · 完整讲读</title>
+      <description>《一生的财富：洛克菲勒写给儿子的三十八封信》收录了“石油大王”约翰·D·洛克菲勒于一八九七至一九零六年间写给独子小约翰的家书。本书以品格与自立为根基，围绕态度决定命运、运气可以策划、做目的主义者善用人才、充实心灵方能驾驭财富等五大核心洞察，把一代巨擘半生跌宕换来的处世与经商智慧，浓缩为写给每一个想认真活过的人的肺腑之言。</description>
+      <pubDate>Fri, 19 Jun 2026 12:35:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-9ed9f7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一生的财富：洛克菲勒写给儿子的三十八封信》收录了“石油大王”约翰·D·洛克菲勒于一八九七至一九零六年间写给独子小约翰的家书。本书以品格与自立为根基，围绕态度决定命运、运气可以策划、做目的主义者善用人才、充实心灵方能驾驭财富等五大核心洞察，把一代巨擘半生跌宕换来的处世与经商智慧，浓缩为写给每一个想认真活过的人的肺腑之言。</itunes:summary>
+      <itunes:duration>00:27:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-9ed9f7.mp3" length="26710317" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
