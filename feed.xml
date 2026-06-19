@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 18 Jun 2026 16:36:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 01:21:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3408,6 +3408,17 @@
       <itunes:duration>00:13:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-7dcc89.mp3" length="12645549" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《如父如子》 · 完整版 · 如父如子 · 完整讲读</title>
+      <description>《如父如子》是日本导演是枝裕和二零一三年发表的同名小说，讲述两个家庭因医院抱错孩子而被迫换子的故事。东京精英良多与市井平民雄大，在血缘与陪伴的撕扯中，重新学习“何为父亲“。是枝裕和用细腻笔触追问：父与子之间，究竟是基因还是时间在维系？最终给出他的答案——父亲不是血亲的称谓，是日复一日笨拙的“在场“，是那个愿意为了爱弯下腰来的人。</description>
+      <pubDate>Fri, 19 Jun 2026 01:20:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-f5bb8f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《如父如子》是日本导演是枝裕和二零一三年发表的同名小说，讲述两个家庭因医院抱错孩子而被迫换子的故事。东京精英良多与市井平民雄大，在血缘与陪伴的撕扯中，重新学习“何为父亲“。是枝裕和用细腻笔触追问：父与子之间，究竟是基因还是时间在维系？最终给出他的答案——父亲不是血亲的称谓，是日复一日笨拙的“在场“，是那个愿意为了爱弯下腰来的人。</itunes:summary>
+      <itunes:duration>00:29:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-f5bb8f.mp3" length="28289325" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
