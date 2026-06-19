@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 11:18:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 12:28:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3848,6 +3848,17 @@
       <itunes:duration>00:31:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-e5b674.mp3" length="29968941" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《朝花夕拾》 · 完整版 · 朝花夕拾 · 完整讲读</title>
+      <description>《朝花夕拾》是鲁迅一九二六到一九二七年间写下的十篇回忆散文，写于北京寓所、医院、厦门大学图书馆与广州白云楼之间。一九二八年结集时，他把原名《旧事重提》改为《朝花夕拾》——“带露折花，色香自然要好得多，但是我不能够“。这十篇散文从童年绍兴的百草园与三味书屋写起，写保姆长妈妈买来的绘图《山海经》，写《二十四孝图》里的童年反叛，写五猖会前一场毫无道理的背书，写父亲求医问药的困顿，写仙台藤野先生改过的讲义，也写辛亥前后的范爱农与无常。整本书的姿态不是怀旧控诉，而是一个中年作者在颠沛流离中，对童年与青年做的一次诚实的“自我考古“——他不美化自己，不神化他人，却在温情与讽刺的交织中，为一个已经远去的中国旧世界留下了最完整的侧写。</description>
+      <pubDate>Fri, 19 Jun 2026 12:28:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-c0a635</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《朝花夕拾》是鲁迅一九二六到一九二七年间写下的十篇回忆散文，写于北京寓所、医院、厦门大学图书馆与广州白云楼之间。一九二八年结集时，他把原名《旧事重提》改为《朝花夕拾》——“带露折花，色香自然要好得多，但是我不能够“。这十篇散文从童年绍兴的百草园与三味书屋写起，写保姆长妈妈买来的绘图《山海经》，写《二十四孝图》里的童年反叛，写五猖会前一场毫无道理的背书，写父亲求医问药的困顿，写仙台藤野先生改过的讲义，也写辛亥前后的范爱农与无常。整本书的姿态不是怀旧控诉，而是一个中年作者在颠沛流离中，对童年与青年做的一次诚实的“自我考古“——他不美化自己，不神化他人，却在温情与讽刺的交织中，为一个已经远去的中国旧世界留下了最完整的侧写。</itunes:summary>
+      <itunes:duration>00:31:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-c0a635.mp3" length="30149421" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
