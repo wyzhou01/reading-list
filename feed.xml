@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 10:08:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 10:23:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3738,6 +3738,17 @@
       <itunes:duration>00:33:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-14c2bf.mp3" length="31788333" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《失明症漫记》 · 完整版 · 失明症漫记 · 完整讲读</title>
+      <description>《失明症漫记》是葡萄牙作家萨拉马戈一九九五年写下的反乌托邦寓言：一场白色失明症突然在街头爆发，所有患者被武装押送进废弃精神病院集中隔离。在秩序崩塌、物资断绝的封闭空间里，文明的外衣迅速被撕掉，暴政、交易、背叛、剥削在几天之内野蛮生长；唯一保持视力的医生妻子，见证了善与恶如何在这片白色炼狱里艰难角力。萨拉马戈用没有问号、没有感叹号的长句，写出了一个让人不寒而栗的命题：真正可怕的失明，从来不是闭上眼，而是睁着眼却看不见。</description>
+      <pubDate>Fri, 19 Jun 2026 10:22:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-aac5fe</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《失明症漫记》是葡萄牙作家萨拉马戈一九九五年写下的反乌托邦寓言：一场白色失明症突然在街头爆发，所有患者被武装押送进废弃精神病院集中隔离。在秩序崩塌、物资断绝的封闭空间里，文明的外衣迅速被撕掉，暴政、交易、背叛、剥削在几天之内野蛮生长；唯一保持视力的医生妻子，见证了善与恶如何在这片白色炼狱里艰难角力。萨拉马戈用没有问号、没有感叹号的长句，写出了一个让人不寒而栗的命题：真正可怕的失明，从来不是闭上眼，而是睁着眼却看不见。</itunes:summary>
+      <itunes:duration>00:30:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-aac5fe.mp3" length="29010477" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
