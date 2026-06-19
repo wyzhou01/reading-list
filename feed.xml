@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 15:29:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 15:31:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -195,6 +195,17 @@
       <itunes:duration>00:30:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-b200d3.mp3" length="29525805" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《告白》 · 完整版 · 告白-凑佳苗 · 完整讲读</title>
+      <description>《告白》是日本作家凑佳苗的长篇推理处女作，改编自同名获奖短篇。中学女教师森口悠子的四岁女儿爱美在学校游泳池溺亡，警方认定是意外。森口却查明真凶是她班上的两个十三岁少年——被母亲溺爱的懦弱男生下村直树，与被母亲抛弃的天才少年渡边修哉。她未报警，而是在毕业前的最后一堂课向全班告白，并在二人牛奶中注入艾滋病人的血液，展开长达一年的心理复仇。六个章节，六个第一人称，以罗生门式结构层层揭开真相。小说直击未成年人犯罪低龄化与少年法失灵的日本社会痛点，质问：当法律保护不了受害者，以恶制恶的边界在哪里？每一个读者心里，都住着一个森口悠子。</description>
+      <pubDate>Fri, 19 Jun 2026 15:30:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-5d42a2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《告白》是日本作家凑佳苗的长篇推理处女作，改编自同名获奖短篇。中学女教师森口悠子的四岁女儿爱美在学校游泳池溺亡，警方认定是意外。森口却查明真凶是她班上的两个十三岁少年——被母亲溺爱的懦弱男生下村直树，与被母亲抛弃的天才少年渡边修哉。她未报警，而是在毕业前的最后一堂课向全班告白，并在二人牛奶中注入艾滋病人的血液，展开长达一年的心理复仇。六个章节，六个第一人称，以罗生门式结构层层揭开真相。小说直击未成年人犯罪低龄化与少年法失灵的日本社会痛点，质问：当法律保护不了受害者，以恶制恶的边界在哪里？每一个读者心里，都住着一个森口悠子。</itunes:summary>
+      <itunes:duration>00:32:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-5d42a2.mp3" length="31105581" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
