@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 01:41:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 01:45:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3452,6 +3452,17 @@
       <itunes:duration>00:24:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-9d990c.mp3" length="23839149" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《洛克菲勒留给儿子的38封信》 · 完整版 · 勒留给的38封信 · 完整讲读</title>
+      <description>本书是石油大王约翰·D·洛克菲勒写给儿子的38封家书，凝聚其一生的商业智慧与人生哲学。内容围绕信念塑造、品格修炼、财富创造、人际合作、竞争策略、领导力与责任担当六大主题，教导年轻人如何白手起家、如何在逆境中忍耐、如何用头脑与胆略创造财富、如何承担责任成为真正的大人物。</description>
+      <pubDate>Fri, 19 Jun 2026 01:45:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-ba08cf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是石油大王约翰·D·洛克菲勒写给儿子的38封家书，凝聚其一生的商业智慧与人生哲学。内容围绕信念塑造、品格修炼、财富创造、人际合作、竞争策略、领导力与责任担当六大主题，教导年轻人如何白手起家、如何在逆境中忍耐、如何用头脑与胆略创造财富、如何承担责任成为真正的大人物。</itunes:summary>
+      <itunes:duration>00:36:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-ba08cf.mp3" length="35510829" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
