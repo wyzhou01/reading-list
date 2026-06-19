@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 01:45:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 01:50:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3463,6 +3463,17 @@
       <itunes:duration>00:36:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-ba08cf.mp3" length="35510829" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《别闹了，费曼先生》 · 完整版 · 别闹了费曼先生 · 完整讲读</title>
+      <description>《别闹了费曼先生》是诺贝尔物理学奖得主费曼的回忆录，由同事拉夫·雷顿历时七年录音整理而成。本书不讲公式，只讲故事——从法洛克卫的小顽童时代，到普林斯顿的高材生岁月，到罗沙拉摩斯开保险箱的原子弹研制，到巴西打桑巴鼓、到拉斯维加斯研究赌徒、到挑战者号航天飞机调查听证会上用一杯冰水戳破 NASA 谎言。费曼用他一辈子证明：好奇心比头衔更值钱，诚实比诺贝尔更难得，童心比权威更值得守。这是一本没有公式的物理学家回忆录，也是一本关于如何保持独立、如何拒绝装腔、如何在国家和科学的重大时刻说出真话的小书。</description>
+      <pubDate>Fri, 19 Jun 2026 01:49:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-3b820f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《别闹了费曼先生》是诺贝尔物理学奖得主费曼的回忆录，由同事拉夫·雷顿历时七年录音整理而成。本书不讲公式，只讲故事——从法洛克卫的小顽童时代，到普林斯顿的高材生岁月，到罗沙拉摩斯开保险箱的原子弹研制，到巴西打桑巴鼓、到拉斯维加斯研究赌徒、到挑战者号航天飞机调查听证会上用一杯冰水戳破 NASA 谎言。费曼用他一辈子证明：好奇心比头衔更值钱，诚实比诺贝尔更难得，童心比权威更值得守。这是一本没有公式的物理学家回忆录，也是一本关于如何保持独立、如何拒绝装腔、如何在国家和科学的重大时刻说出真话的小书。</itunes:summary>
+      <itunes:duration>00:26:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-3b820f.mp3" length="24967725" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
