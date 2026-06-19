@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 14:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 14:57:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -41,6 +41,17 @@
       <itunes:duration>00:29:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-cfba90.mp3" length="28201005" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《小王子三部曲（套装全3册）》 · 完整版 · 小王子三部曲（套装全3册） · 完整讲读</title>
+      <description>《小王子三部曲》是圣-埃克苏佩里用飞行和写作完成的精神自传。《小王子》写本质、爱与驯养；《风沙星辰》写飞行员在撒哈拉、安第斯山求生的真实手记，讲述人在荒芜中如何对自己负责；《夜间飞行》写里维埃在黑夜中放飞机群的故事，讲述纪律与独自承担。三部作品，三种笔法，指向同一个追问：人，是怎么在荒芜里，守护住自己心里那点光。</description>
+      <pubDate>Fri, 19 Jun 2026 14:56:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-1cc8da</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《小王子三部曲》是圣-埃克苏佩里用飞行和写作完成的精神自传。《小王子》写本质、爱与驯养；《风沙星辰》写飞行员在撒哈拉、安第斯山求生的真实手记，讲述人在荒芜中如何对自己负责；《夜间飞行》写里维埃在黑夜中放飞机群的故事，讲述纪律与独自承担。三部作品，三种笔法，指向同一个追问：人，是怎么在荒芜里，守护住自己心里那点光。</itunes:summary>
+      <itunes:duration>00:34:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-1cc8da.mp3" length="32713005" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
