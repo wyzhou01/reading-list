@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 20:10:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 20:18:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5201,6 +5201,17 @@
       <itunes:duration>00:25:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-83a72c.mp3" length="24180525" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《海明威与骗子工厂》 · 完整版 · 海明威与骗子工厂 · 完整讲读</title>
+      <description>《海明威与骗子工厂》讲述了诺奖作家海明威在二战期间秘密组建反间谍小队“骗子工厂”，驾船在加勒比海追踪德国U型潜艇，却卷进美国联邦调查局、英国军情六处和战略情报局之间那场荒诞官僚内斗的真实故事。本书作者丹·西蒙斯既是老特工，也是小说家，他用冰山理论式的笔法，把被胡佛“遗失”的二十三柜联邦调查局秘密档案还原成一段“比真实更真实”的历史。书里既有肯尼迪的桃色事件、伊恩·弗莱明的间谍训练，也有纳粹内部的派系倾轧，更藏着海明威晚年对联邦调查局监视的恐惧——那份恐惧最终把他推向了1961年7月2日那个清晨的霰弹枪。这是一本关于文学、记忆与权力的小说，更是一份献给所有试图抹去真相的人的宣战书。</description>
+      <pubDate>Fri, 19 Jun 2026 20:18:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-b5c1a0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《海明威与骗子工厂》讲述了诺奖作家海明威在二战期间秘密组建反间谍小队“骗子工厂”，驾船在加勒比海追踪德国U型潜艇，却卷进美国联邦调查局、英国军情六处和战略情报局之间那场荒诞官僚内斗的真实故事。本书作者丹·西蒙斯既是老特工，也是小说家，他用冰山理论式的笔法，把被胡佛“遗失”的二十三柜联邦调查局秘密档案还原成一段“比真实更真实”的历史。书里既有肯尼迪的桃色事件、伊恩·弗莱明的间谍训练，也有纳粹内部的派系倾轧，更藏着海明威晚年对联邦调查局监视的恐惧——那份恐惧最终把他推向了1961年7月2日那个清晨的霰弹枪。这是一本关于文学、记忆与权力的小说，更是一份献给所有试图抹去真相的人的宣战书。</itunes:summary>
+      <itunes:duration>00:40:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-b5c1a0.mp3" length="38585133" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
