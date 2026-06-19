@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 02:35:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 02:40:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3529,6 +3529,17 @@
       <itunes:duration>00:22:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-512913.mp3" length="21995181" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《遇见未知的自己》 · 完整版 · 遇见未知的自己 · 完整讲读</title>
+      <description>《遇见未知的自己》是张德芬二零零七年出版的身心灵成长小说,借外企经理若菱在冬夜山间偶遇无名老人的故事,提出人生最终追求的只有五个字——爱、喜悦、和平。它们藏在同心圆最里层,需要从身体联结、情绪臣服、思想检视、身份觉察一路向内走,才能穿过被潜意识与人生模式包裹的小我,认出那个不被死亡带走的真我。这本书在华语世界畅销过百万,被无数都市白领视为灵性入门必读,却在二零一二年再版时转向更锋利的主张:所有的体系与方法都可能在喂养小我,真正的解脱,是直接走出观念,认出我们从来就是那架飞机之外、让一切得以发生的空间。</description>
+      <pubDate>Fri, 19 Jun 2026 02:40:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-b582cb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《遇见未知的自己》是张德芬二零零七年出版的身心灵成长小说,借外企经理若菱在冬夜山间偶遇无名老人的故事,提出人生最终追求的只有五个字——爱、喜悦、和平。它们藏在同心圆最里层,需要从身体联结、情绪臣服、思想检视、身份觉察一路向内走,才能穿过被潜意识与人生模式包裹的小我,认出那个不被死亡带走的真我。这本书在华语世界畅销过百万,被无数都市白领视为灵性入门必读,却在二零一二年再版时转向更锋利的主张:所有的体系与方法都可能在喂养小我,真正的解脱,是直接走出观念,认出我们从来就是那架飞机之外、让一切得以发生的空间。</itunes:summary>
+      <itunes:duration>00:22:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-b582cb.mp3" length="21196845" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
