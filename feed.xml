@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 15:04:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 15:06:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -96,6 +96,17 @@
       <itunes:duration>00:35:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-987185.mp3" length="33639213" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《呼兰河传全本未删节插图珍藏本1941年萧红定稿版作家榜推荐双桅船名家经典读本》 · 完整版 · 呼兰河传全本未删节插图珍藏本1941年萧红定稿版作家榜推荐双桅船名家经典读本 · 完整讲读</title>
+      <description>《呼兰河传》是萧红生命最后阶段写下的散文体回忆录。她用孩子般纯净的眼睛，回望故乡那座被严寒冻裂的东北小城，写愚昧的看客如何把十二岁的小团圆媳妇一缸一缸热水烫死，写穷伙计冯歪嘴子在众人押注他必败的注视下顽强地活下来，也写祖父的园子里蜻蜓飞、黄瓜开、祖父教她念诗的童年。她不评判，只看见，让读者自己在字里行间感到彻骨的寒冷，也感到生命本身不肯熄灭的温热。</description>
+      <pubDate>Fri, 19 Jun 2026 15:05:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-9c5996</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《呼兰河传》是萧红生命最后阶段写下的散文体回忆录。她用孩子般纯净的眼睛，回望故乡那座被严寒冻裂的东北小城，写愚昧的看客如何把十二岁的小团圆媳妇一缸一缸热水烫死，写穷伙计冯歪嘴子在众人押注他必败的注视下顽强地活下来，也写祖父的园子里蜻蜓飞、黄瓜开、祖父教她念诗的童年。她不评判，只看见，让读者自己在字里行间感到彻骨的寒冷，也感到生命本身不肯熄灭的温热。</itunes:summary>
+      <itunes:duration>00:26:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-9c5996.mp3" length="25451949" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
