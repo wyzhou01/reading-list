@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 10:58:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 11:04:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -3815,6 +3815,17 @@
       <itunes:duration>00:37:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-6de956.mp3" length="36223149" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《纳瓦尔宝典》 · 完整版 · 纳瓦尔宝典-埃里克·乔根森 · 完整讲读</title>
+      <description>《纳瓦尔宝典》是硅谷投资人纳瓦尔·拉维坎特的智慧合集，由埃里克·乔根森从其十余年推特、博客与访谈中整理而成。全书分财富篇与幸福篇两大部分。财富篇提出“专长+杠杆+判断力“的致富公式，主张把自己产品化，用无复制成本的代码与媒体作为新时代的杠杆，通过阅读数学、科学、哲学建立独立判断力。幸福篇则提出幸福是一种可习得的技能，源于活在当下、减少欲望、接受自我，不被嫉妒与外界评价绑架。全书贯穿一条主线：财富服务于自由，自由服务于幸福，三者的入口都是清醒的头脑与平静的内心。</description>
+      <pubDate>Fri, 19 Jun 2026 11:03:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260619-episode-20260619-de1d87</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《纳瓦尔宝典》是硅谷投资人纳瓦尔·拉维坎特的智慧合集，由埃里克·乔根森从其十余年推特、博客与访谈中整理而成。全书分财富篇与幸福篇两大部分。财富篇提出“专长+杠杆+判断力“的致富公式，主张把自己产品化，用无复制成本的代码与媒体作为新时代的杠杆，通过阅读数学、科学、哲学建立独立判断力。幸福篇则提出幸福是一种可习得的技能，源于活在当下、减少欲望、接受自我，不被嫉妒与外界评价绑架。全书贯穿一条主线：财富服务于自由，自由服务于幸福，三者的入口都是清醒的头脑与平静的内心。</itunes:summary>
+      <itunes:duration>00:26:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-de1d87.mp3" length="25147053" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
