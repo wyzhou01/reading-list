@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 20 Jun 2026 03:17:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 03:21:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5598,6 +5598,17 @@
       <itunes:duration>00:24:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-8edcdd.mp3" length="23061165" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《带壳的牡蛎是大人的心脏》 · 完整版 · 带壳的牡蛎是大人的心脏 · 完整讲读</title>
+      <description>《带壳的牡蛎是大人的心脏》是漫画家拟泥 nini 写给成年人的一本治愈绘本。她用柔软又扎心的画，把成年人藏在壳里的脆弱、爱与失去，一页一页画给读者看。书里讲了三件事：第一，硬撑不是长大，柔软才是；第二，父母那些不讲道理的唠叨背后，藏着一颗同样被生活伤过的心；第三，爱过失去过之后留下的那道纹路，是活过的证据。这本书不是心灵鸡汤，而是一面镜子，让每一个硬撑的大人，看到自己偷偷藏起来的那一面，然后愿意蹲下来，抱一抱心里那个哭累了的小孩。</description>
+      <pubDate>Sat, 20 Jun 2026 03:21:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-70d10a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《带壳的牡蛎是大人的心脏》是漫画家拟泥 nini 写给成年人的一本治愈绘本。她用柔软又扎心的画，把成年人藏在壳里的脆弱、爱与失去，一页一页画给读者看。书里讲了三件事：第一，硬撑不是长大，柔软才是；第二，父母那些不讲道理的唠叨背后，藏着一颗同样被生活伤过的心；第三，爱过失去过之后留下的那道纹路，是活过的证据。这本书不是心灵鸡汤，而是一面镜子，让每一个硬撑的大人，看到自己偷偷藏起来的那一面，然后愿意蹲下来，抱一抱心里那个哭累了的小孩。</itunes:summary>
+      <itunes:duration>00:18:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-70d10a.mp3" length="17883693" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
