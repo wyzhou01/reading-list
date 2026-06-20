@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 20 Jun 2026 03:32:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 03:37:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5631,6 +5631,17 @@
       <itunes:duration>00:28:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-90c144.mp3" length="27112365" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《菊与刀》 · 完整版 · 菊与刀 · 完整讲读</title>
+      <description>《菊与刀》是美国人类学家本尼迪克特在一九四四年受美国战时情报局委托、于无法赴日实地考察的条件下完成的文化研究杰作。她运用&quot;文化模式&quot;理论，借助日侨访谈、日文文献与日本电影，将日本文化的诸种矛盾——爱美与黩武、顺从与不驯、保守与善变——拆解为一套相互啮合的运作机制。本书系统比较了耻感文化与罪感文化的根本差异，剖析了&quot;恩&quot;与&quot;义理&quot;的双重义务体系，揭示了日本幼儿教养与成人行为之间惊人的断层，并指出明治维新并非一场断裂式革命，而是借&quot;王政复古&quot;之名重新激活古老的等级秩序。一九四六年出版后，本书的核心预判几乎全部被战局印证，被誉为现代日本学的开山之作，也成为跨文化比较绕不开的起点。本期为你精读这本书，拆解六个相互咬合的文化齿轮——耻感、恩义、断层、返祖、等级、人情——并追问：八十年后，这台机器哪些齿轮仍然在转，哪些齿轮已经松动。</description>
+      <pubDate>Sat, 20 Jun 2026 03:37:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-ad04d3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《菊与刀》是美国人类学家本尼迪克特在一九四四年受美国战时情报局委托、于无法赴日实地考察的条件下完成的文化研究杰作。她运用&quot;文化模式&quot;理论，借助日侨访谈、日文文献与日本电影，将日本文化的诸种矛盾——爱美与黩武、顺从与不驯、保守与善变——拆解为一套相互啮合的运作机制。本书系统比较了耻感文化与罪感文化的根本差异，剖析了&quot;恩&quot;与&quot;义理&quot;的双重义务体系，揭示了日本幼儿教养与成人行为之间惊人的断层，并指出明治维新并非一场断裂式革命，而是借&quot;王政复古&quot;之名重新激活古老的等级秩序。一九四六年出版后，本书的核心预判几乎全部被战局印证，被誉为现代日本学的开山之作，也成为跨文化比较绕不开的起点。本期为你精读这本书，拆解六个相互咬合的文化齿轮——耻感、恩义、断层、返祖、等级、人情——并追问：八十年后，这台机器哪些齿轮仍然在转，哪些齿轮已经松动。</itunes:summary>
+      <itunes:duration>00:31:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-ad04d3.mp3" length="30077613" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
