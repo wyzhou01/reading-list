@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 20 Jun 2026 01:19:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 01:24:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5322,6 +5322,17 @@
       <itunes:duration>00:27:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-f9d38a.mp3" length="26752557" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《你一生的故事》 · 完整版 · 你一生的故事 · 完整讲读</title>
+      <description>《你一生的故事》是华裔科幻作家特德·姜的短篇集，收录七个独立却彼此呼应的思想实验。七肢桶的非线性语言重塑时间感知与命运观；建造巴比伦塔的工人质疑人类触及神性的代价；发明新符号的天才在孤独中完成认知跃迁；用除以零构句的语言学家撞上逻辑的边界；七十二个字母召唤造物的秘术探讨命名的极限；走向超因果技术的人类在乌托邦里变成另一种神学；复明的盲人则在地狱里证明，爱可以不需要回报。整本书看似科幻，本质是七次关于人类认知边界的硬核练习：语言如何塑造思维，理性如何安放神性，苦难如何检验信仰。特德·姜用极少的字，逼读者重新审视那些被视为天经地义的前提。一本为愿意为一句话停下五分钟的人写的书。</description>
+      <pubDate>Sat, 20 Jun 2026 01:24:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-80cfc2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《你一生的故事》是华裔科幻作家特德·姜的短篇集，收录七个独立却彼此呼应的思想实验。七肢桶的非线性语言重塑时间感知与命运观；建造巴比伦塔的工人质疑人类触及神性的代价；发明新符号的天才在孤独中完成认知跃迁；用除以零构句的语言学家撞上逻辑的边界；七十二个字母召唤造物的秘术探讨命名的极限；走向超因果技术的人类在乌托邦里变成另一种神学；复明的盲人则在地狱里证明，爱可以不需要回报。整本书看似科幻，本质是七次关于人类认知边界的硬核练习：语言如何塑造思维，理性如何安放神性，苦难如何检验信仰。特德·姜用极少的字，逼读者重新审视那些被视为天经地义的前提。一本为愿意为一句话停下五分钟的人写的书。</itunes:summary>
+      <itunes:duration>00:32:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-80cfc2.mp3" length="31309485" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
