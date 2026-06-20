@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 20 Jun 2026 01:43:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 01:47:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5377,6 +5377,29 @@
       <itunes:duration>00:28:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-08951a.mp3" length="27492141" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《沧浪之水》 · 完整版 · 阎真-沧浪之水 · 完整讲读</title>
+      <description>《沧浪之水》是阎真写于二〇〇一年的长篇小说，主人公池大为是医学研究生，毕业后进入省卫生厅。父亲留给他的遗愿是&quot;做个好人&quot;，可他很快发现，良心在那个场子里寸步难行。他坚守了十年，十年里他被边缘化、被排挤、被当成笑话。
+
+最终他学会了权术，学会了弯腰，学会了在领导面前表演，他一路爬到了厅长的位置。可是他赢得了一切，也输掉了一生最宝贵的东西——那种一个人可以因为做正确的事而挺直腰板的底气。
+
+他在父亲坟前烧掉了那本承载着信念的《中国历代文化名人素描》，他承认自己是俗骨凡胎。
+
+这本书是中国当代官场小说里绕不开的名字，它不讲厚黑学，它讲的是一个人在背叛自己之后，要付怎样的代价。它抛出的问题是：当一个人被时代和处境逼到墙角，他有没有可能既不背叛自己，又不被现实碾碎？</description>
+      <pubDate>Sat, 20 Jun 2026 01:46:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-7f485f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《沧浪之水》是阎真写于二〇〇一年的长篇小说，主人公池大为是医学研究生，毕业后进入省卫生厅。父亲留给他的遗愿是&quot;做个好人&quot;，可他很快发现，良心在那个场子里寸步难行。他坚守了十年，十年里他被边缘化、被排挤、被当成笑话。
+
+最终他学会了权术，学会了弯腰，学会了在领导面前表演，他一路爬到了厅长的位置。可是他赢得了一切，也输掉了一生最宝贵的东西——那种一个人可以因为做正确的事而挺直腰板的底气。
+
+他在父亲坟前烧掉了那本承载着信念的《中国历代文化名人素描》，他承认自己是俗骨凡胎。
+
+这本书是中国当代官场小说里绕不开的名字，它不讲厚黑学，它讲的是一个人在背叛自己之后，要付怎样的代价。它抛出的问题是：当一个人被时代和处境逼到墙角，他有没有可能既不背叛自己，又不被现实碾碎？</itunes:summary>
+      <itunes:duration>00:27:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-7f485f.mp3" length="26572077" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
