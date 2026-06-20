@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 20 Jun 2026 01:58:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 02:03:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5422,6 +5422,17 @@
       <itunes:duration>00:30:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-fe5fcc.mp3" length="29644461" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《伯南克论大萧条：经济的衰退与复苏》 · 完整版 · 伯南克论大萧条：经济的衰退与复苏 · 完整讲读</title>
+      <description>本书汇集美联储前主席伯南克二十年研究大萧条的九篇核心论文，揭示这场全球性灾难的多重成因：货币紧缩是导火索，银行恐慌与信贷渠道崩塌是非货币放大器，金本位制把危机传遍全球，名义工资黏性则让复苏迟迟无法到来。伯南克的跨国比较方法证明，早脱离金本位的国家复苏明显更快，并为二零零八年央行果断出手、避免重蹈覆辙提供了学理基础。在通胀反复、银行风险积累的今天，重读这部经典，仍能为我们提供穿越经济周期的清醒坐标。</description>
+      <pubDate>Sat, 20 Jun 2026 02:02:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-3d49c2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书汇集美联储前主席伯南克二十年研究大萧条的九篇核心论文，揭示这场全球性灾难的多重成因：货币紧缩是导火索，银行恐慌与信贷渠道崩塌是非货币放大器，金本位制把危机传遍全球，名义工资黏性则让复苏迟迟无法到来。伯南克的跨国比较方法证明，早脱离金本位的国家复苏明显更快，并为二零零八年央行果断出手、避免重蹈覆辙提供了学理基础。在通胀反复、银行风险积累的今天，重读这部经典，仍能为我们提供穿越经济周期的清醒坐标。</itunes:summary>
+      <itunes:duration>00:36:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-3d49c2.mp3" length="35392173" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
