@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 20 Jun 2026 02:32:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 02:37:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5510,6 +5510,17 @@
       <itunes:duration>00:32:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-45f54c.mp3" length="31440813" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我与父辈》 · 完整版 · 我与父辈 · 完整讲读</title>
+      <description>《我与父辈》是作家阎连科唯一一本散文，写于他人生最难的几年——腰病与颈椎病同时发作、新书被所有出版社退回、老家领导在电话里对他说&quot;你是我们县最不受欢迎的人&quot;之后。他回到河南嵩县田湖村，用忏悔与赎罪的心情，写下父亲、大伯、四叔三位中国农民苦难而沉默的一生。书中最让人落泪的，是父亲临终时对他说的两句话——走时说&quot;走了就努力出息些&quot;，回时说&quot;回来了吃饭去吧&quot;。他用三十年才听懂这两句。也用这本书，把自己钉在&quot;逆子&quot;的耻辱柱上，向那片土地认罪。这本书是每一个从农村走向城市的人，都该读一次的亏欠之书。</description>
+      <pubDate>Sat, 20 Jun 2026 02:37:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-c9687b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我与父辈》是作家阎连科唯一一本散文，写于他人生最难的几年——腰病与颈椎病同时发作、新书被所有出版社退回、老家领导在电话里对他说&quot;你是我们县最不受欢迎的人&quot;之后。他回到河南嵩县田湖村，用忏悔与赎罪的心情，写下父亲、大伯、四叔三位中国农民苦难而沉默的一生。书中最让人落泪的，是父亲临终时对他说的两句话——走时说&quot;走了就努力出息些&quot;，回时说&quot;回来了吃饭去吧&quot;。他用三十年才听懂这两句。也用这本书，把自己钉在&quot;逆子&quot;的耻辱柱上，向那片土地认罪。这本书是每一个从农村走向城市的人，都该读一次的亏欠之书。</itunes:summary>
+      <itunes:duration>00:29:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-c9687b.mp3" length="28433709" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
