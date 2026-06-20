@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 20 Jun 2026 01:24:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 01:29:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5333,6 +5333,17 @@
       <itunes:duration>00:32:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-80cfc2.mp3" length="31309485" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大秦帝国：全新修订版》 · 完整版 · 大秦帝国：全新修订版 · 完整讲读</title>
+      <description>《大秦帝国》五百万字巨著，孙皓晖十六年心血，重述被误读两千年的秦帝国。读懂变法图强的制度力量、强势生存的精神底色、独立稳定的文明根基、阳谋政治的阳光气质、英雄风骨的本色灵魂、大一统的文明架构——六块拼图，拼出中华文明的源头真相。今天我们写方块字、说汉语、修长城、用度量衡、实行郡县制，全是秦帝国留下的遗产。一个被骂了两千年的暴君帝国，恰恰奠定了整个中华文明的根基。</description>
+      <pubDate>Sat, 20 Jun 2026 01:29:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-1841a5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大秦帝国》五百万字巨著，孙皓晖十六年心血，重述被误读两千年的秦帝国。读懂变法图强的制度力量、强势生存的精神底色、独立稳定的文明根基、阳谋政治的阳光气质、英雄风骨的本色灵魂、大一统的文明架构——六块拼图，拼出中华文明的源头真相。今天我们写方块字、说汉语、修长城、用度量衡、实行郡县制，全是秦帝国留下的遗产。一个被骂了两千年的暴君帝国，恰恰奠定了整个中华文明的根基。</itunes:summary>
+      <itunes:duration>00:34:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-1841a5.mp3" length="32804781" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
