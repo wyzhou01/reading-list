@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 20 Jun 2026 12:08:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 12:39:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -4992,6 +4992,17 @@
       <itunes:duration>35:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-c1f020.mp3" length="33736749" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《你当像鸟飞往你的山》 · 完整版 · 你当像鸟飞往你的山 · 完整讲读</title>
+      <description>《你当像鸟飞往你的山》是一部回忆录，作者塔拉·韦斯特弗十七岁前从未踏入教室，靠自学考入杨百翰大学，最终拿到剑桥大学历史学博士。本书不讲成功学，讲一个女孩如何从父亲的偏执、哥哥的暴力、母亲的沉默里，一层一层剥开自己，重新长出一层皮肤。记忆是讲出来的，家庭是另一种宗教，教育不是逃离而是看见，而看见的代价，是和养育你的人永远裂开一道缝。这本书告诉你：教育不保证胜利，只保证看见；没有标准答案，但你必须选。</description>
+      <pubDate>Sat, 20 Jun 2026 12:35:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-0cb074</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《你当像鸟飞往你的山》是一部回忆录，作者塔拉·韦斯特弗十七岁前从未踏入教室，靠自学考入杨百翰大学，最终拿到剑桥大学历史学博士。本书不讲成功学，讲一个女孩如何从父亲的偏执、哥哥的暴力、母亲的沉默里，一层一层剥开自己，重新长出一层皮肤。记忆是讲出来的，家庭是另一种宗教，教育不是逃离而是看见，而看见的代价，是和养育你的人永远裂开一道缝。这本书告诉你：教育不保证胜利，只保证看见；没有标准答案，但你必须选。</itunes:summary>
+      <itunes:duration>00:32:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-0cb074.mp3" length="31671981" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
