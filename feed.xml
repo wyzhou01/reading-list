@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 20 Jun 2026 03:08:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 03:13:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5576,6 +5576,17 @@
       <itunes:duration>00:24:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-2e7b71.mp3" length="23566509" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《法治的细节》 · 完整版 · 法治的细节 · 完整讲读</title>
+      <description>《法治的细节》是罗翔教授以电车难题、辛普森案、韩国 N 号房等真实案件为切口，写给普通人的法律思辨录。他不谈法条，只谈法理：在功利与道义的两难中，在实体正义与程序正义的张力中，在确定性追求与有限性承认之间，法治为何仍值得守护。罗翔借苏格拉底的否定性智慧提醒我们：人画不出完美的圆，但圆是客观存在的。承认无知，接受有限，矢志不渝——这既是法律的克制，也是一个普通人面对复杂世界时，最可敬的清醒。</description>
+      <pubDate>Sat, 20 Jun 2026 03:13:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-065532</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《法治的细节》是罗翔教授以电车难题、辛普森案、韩国 N 号房等真实案件为切口，写给普通人的法律思辨录。他不谈法条，只谈法理：在功利与道义的两难中，在实体正义与程序正义的张力中，在确定性追求与有限性承认之间，法治为何仍值得守护。罗翔借苏格拉底的否定性智慧提醒我们：人画不出完美的圆，但圆是客观存在的。承认无知，接受有限，矢志不渝——这既是法律的克制，也是一个普通人面对复杂世界时，最可敬的清醒。</itunes:summary>
+      <itunes:duration>00:20:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-065532.mp3" length="20091309" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
