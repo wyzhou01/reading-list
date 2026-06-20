@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 20 Jun 2026 02:48:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 02:55:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5543,6 +5543,17 @@
       <itunes:duration>00:27:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-e9b60f.mp3" length="25981485" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《洗脑术：怎样有逻辑地说服他人》 · 完整版 · 洗脑术怎样有逻辑的说服他人 · 完整讲读</title>
+      <description>《洗脑术：怎样有逻辑地说服他人》由自称服务于美国高端咨询领域的格兰德所著，二零一二年出版于华盛顿。全书从苏联心理学家巴甫洛夫的“动物条件反射“实验切入，划分出洗脑从强制驱使到信仰植入的七个层级，并融合心理学、神经生物学与传播学，拆解赢家建立可控秩序、引发大众情绪、制造无条件信任、构建个人崇拜与运用利益加减法的逻辑。书中提出赢家的六条基本法则，强调管理的本质是“输入信仰并让他们成为教徒“，并辅以蒙大拿州神父阿德里安、高盛投行专家戈瑞·金等真实案例，呈现“正面形象“、距离与神秘感、品牌印象、苹果式愿景等具体操控技术。本书在中国大陆长期占据心理学与销售类畅销榜，被视为一部关于心理操控的百科全书。读者在重读它时，需要的不是复制其方法，而是从中提取正向的说服能量，转化为清醒而有力的人际沟通、谈判与团队管理工具——看清那些温柔的陷阱，再让自己成为那台秩序的发动机。</description>
+      <pubDate>Sat, 20 Jun 2026 02:55:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-71a0d4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《洗脑术：怎样有逻辑地说服他人》由自称服务于美国高端咨询领域的格兰德所著，二零一二年出版于华盛顿。全书从苏联心理学家巴甫洛夫的“动物条件反射“实验切入，划分出洗脑从强制驱使到信仰植入的七个层级，并融合心理学、神经生物学与传播学，拆解赢家建立可控秩序、引发大众情绪、制造无条件信任、构建个人崇拜与运用利益加减法的逻辑。书中提出赢家的六条基本法则，强调管理的本质是“输入信仰并让他们成为教徒“，并辅以蒙大拿州神父阿德里安、高盛投行专家戈瑞·金等真实案例，呈现“正面形象“、距离与神秘感、品牌印象、苹果式愿景等具体操控技术。本书在中国大陆长期占据心理学与销售类畅销榜，被视为一部关于心理操控的百科全书。读者在重读它时，需要的不是复制其方法，而是从中提取正向的说服能量，转化为清醒而有力的人际沟通、谈判与团队管理工具——看清那些温柔的陷阱，再让自己成为那台秩序的发动机。</itunes:summary>
+      <itunes:duration>00:29:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-71a0d4.mp3" length="28424109" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
