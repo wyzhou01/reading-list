@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 20 Jun 2026 23:48:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 23:52:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30,6 +30,17 @@
       <itunes:duration>00:27:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260621/episode-20260621-bd4705.mp3" length="26523693" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《龙蛋》 · 完整版 · 龙蛋 · 完整讲读</title>
+      <description>《龙蛋》是罗伯特·福沃德一九八〇年的硬科幻经典：一颗流浪中子星穿越银河系，自身演化出以核化学为基础、生命节奏比人类快一百万倍的智慧种族奇拉；与此同时，这颗中子星五十万年前的辐射催生了地球上的人类文明。当人类科学家发现这颗脉冲星后，双方跨越物种尺度建立接触，奇拉用五毫米的身体在人类几十年里走完了千万年的科技之路。本书用真实的中子星物理学构建出一个可信的核生命世界，并把“领先者该不该教、教多少““被启蒙者如何保有尊严“这些伦理难题，按百万倍的时间压缩后重新摆上桌，是硬科幻的天花板之一。</description>
+      <pubDate>Sat, 20 Jun 2026 23:52:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260621-episode-20260621-1db1c9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《龙蛋》是罗伯特·福沃德一九八〇年的硬科幻经典：一颗流浪中子星穿越银河系，自身演化出以核化学为基础、生命节奏比人类快一百万倍的智慧种族奇拉；与此同时，这颗中子星五十万年前的辐射催生了地球上的人类文明。当人类科学家发现这颗脉冲星后，双方跨越物种尺度建立接触，奇拉用五毫米的身体在人类几十年里走完了千万年的科技之路。本书用真实的中子星物理学构建出一个可信的核生命世界，并把“领先者该不该教、教多少““被启蒙者如何保有尊严“这些伦理难题，按百万倍的时间压缩后重新摆上桌，是硬科幻的天花板之一。</itunes:summary>
+      <itunes:duration>00:28:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260621/episode-20260621-1db1c9.mp3" length="27325101" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
