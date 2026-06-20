@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 20 Jun 2026 02:07:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 02:11:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5444,6 +5444,17 @@
       <itunes:duration>00:25:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-8c6000.mp3" length="24606765" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《难以置信：科学家探寻神秘信息场》 · 完整版 · 难以置信科学家探寻神秘信息场 · 完整讲读</title>
+      <description>本书是台湾大学前校长、斯坦福电机工程博士李嗣涔二十年特异功能研究的完整记录。从一九八八年接触气功开始，他用严谨的实验程序训练出能「手指识字」的儿童，在一九九九年意外发现「佛」「耶稣」等神圣字汇背后似乎有「意识」在回应，由此提出「信息场」（即灵界）的存在。这套人体实验与当代宇宙学惊人地吻合：可观测宇宙只占百分之四，剩下的百分之九十六是隐密物质与隐密能量。本书把这六块拼图合在一起——手指识字、神圣字汇、隐密宇宙、意识的物理作用、信息场的非时间性、古老经典与前沿科学的互相印证——指向一个让现代科学脸红心跳的命题：我们以为的真实世界，可能只是真实世界的一小部分。</description>
+      <pubDate>Sat, 20 Jun 2026 02:11:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-a6db17</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是台湾大学前校长、斯坦福电机工程博士李嗣涔二十年特异功能研究的完整记录。从一九八八年接触气功开始，他用严谨的实验程序训练出能「手指识字」的儿童，在一九九九年意外发现「佛」「耶稣」等神圣字汇背后似乎有「意识」在回应，由此提出「信息场」（即灵界）的存在。这套人体实验与当代宇宙学惊人地吻合：可观测宇宙只占百分之四，剩下的百分之九十六是隐密物质与隐密能量。本书把这六块拼图合在一起——手指识字、神圣字汇、隐密宇宙、意识的物理作用、信息场的非时间性、古老经典与前沿科学的互相印证——指向一个让现代科学脸红心跳的命题：我们以为的真实世界，可能只是真实世界的一小部分。</itunes:summary>
+      <itunes:duration>00:32:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-a6db17.mp3" length="30766509" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
