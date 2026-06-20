@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 19 Jun 2026 21:05:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 01:19:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5311,6 +5311,17 @@
       <itunes:duration>00:23:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-de05ee.mp3" length="23016237" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《消费社会》 · 完整版 · 消费社会 · 完整讲读</title>
+      <description>《消费社会》是法国思想家鲍德里亚写于一九七零年的经典。它指出，现代资本主义社会的核心不再是生产，而是消费；我们消费的也不是物的使用价值，而是一整套符号、意义与身份认同。鲍德里亚从丰盛的神话、暗示性的意义链条、广告的镜像他者欲望，到身体的符码化、休闲的工业化、悲剧的被消费，层层揭示了消费社会如何温柔地把人变成&quot;被斜线划掉的主体&quot;。半个世纪过去，这本书依然是理解直播带货、种草文案、悦己消费、身份焦虑的一把钥匙。</description>
+      <pubDate>Sat, 20 Jun 2026 01:19:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-f9d38a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《消费社会》是法国思想家鲍德里亚写于一九七零年的经典。它指出，现代资本主义社会的核心不再是生产，而是消费；我们消费的也不是物的使用价值，而是一整套符号、意义与身份认同。鲍德里亚从丰盛的神话、暗示性的意义链条、广告的镜像他者欲望，到身体的符码化、休闲的工业化、悲剧的被消费，层层揭示了消费社会如何温柔地把人变成&quot;被斜线划掉的主体&quot;。半个世纪过去，这本书依然是理解直播带货、种草文案、悦己消费、身份焦虑的一把钥匙。</itunes:summary>
+      <itunes:duration>00:27:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-f9d38a.mp3" length="26752557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
