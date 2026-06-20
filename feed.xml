@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 20 Jun 2026 23:52:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 23:55:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -41,6 +41,17 @@
       <itunes:duration>00:28:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260621/episode-20260621-1db1c9.mp3" length="27325101" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《受戒》 · 完整版 · 受戒 · 完整讲读</title>
+      <description>《受戒》是汪曾祺一九八〇年写就的短篇，写十三岁少年明海到水乡荸荠庵出家，与邻家女孩小英子悄悄长出一段纯真情愫的故事。汪曾祺用散文化的笔触，把一座破清规的寺庙写成了人间，把一段没说出口的爱写成了青春——慢的、静的、不喊口号的人间。读它，是在中国当代文学里，找回一种被速度追着跑时丢失的、安安静静的慢。</description>
+      <pubDate>Sat, 20 Jun 2026 23:55:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260621-episode-20260621-32a745</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《受戒》是汪曾祺一九八〇年写就的短篇，写十三岁少年明海到水乡荸荠庵出家，与邻家女孩小英子悄悄长出一段纯真情愫的故事。汪曾祺用散文化的笔触，把一座破清规的寺庙写成了人间，把一段没说出口的爱写成了青春——慢的、静的、不喊口号的人间。读它，是在中国当代文学里，找回一种被速度追着跑时丢失的、安安静静的慢。</itunes:summary>
+      <itunes:duration>00:35:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260621/episode-20260621-32a745.mp3" length="34057773" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
