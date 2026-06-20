@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 20 Jun 2026 01:52:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 01:58:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5411,6 +5411,17 @@
       <itunes:duration>00:35:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-7f4277.mp3" length="34121133" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大秦帝国中信全新修订17卷进阶版》 · 完整版 · 大秦帝国中信全新修订17卷进阶版 · 完整讲读</title>
+      <description>《大秦帝国》是当代作家孙皓晖历时十六年写成的长篇历史小说,共六部十一卷,以秦立诸侯到帝国灭亡的五百年为主线,正面书写了商鞅变法、合纵连横、始皇统一天下及秦朝二世而亡的全过程。作者打破两千年儒家&quot;暴秦&quot;叙事,把秦放回铁器农耕大转型中重新解读,视秦为中华原生文明的最高峰,详细展现了其留下的郡县制、统一文字、度量衡、法治精神等制度遗产,及其对中华文明绵延两千多年的深远影响。</description>
+      <pubDate>Sat, 20 Jun 2026 01:58:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-fe5fcc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大秦帝国》是当代作家孙皓晖历时十六年写成的长篇历史小说,共六部十一卷,以秦立诸侯到帝国灭亡的五百年为主线,正面书写了商鞅变法、合纵连横、始皇统一天下及秦朝二世而亡的全过程。作者打破两千年儒家&quot;暴秦&quot;叙事,把秦放回铁器农耕大转型中重新解读,视秦为中华原生文明的最高峰,详细展现了其留下的郡县制、统一文字、度量衡、法治精神等制度遗产,及其对中华文明绵延两千多年的深远影响。</itunes:summary>
+      <itunes:duration>00:30:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-fe5fcc.mp3" length="29644461" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
