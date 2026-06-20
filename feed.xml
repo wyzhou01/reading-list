@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 20 Jun 2026 03:13:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 03:17:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5587,6 +5587,17 @@
       <itunes:duration>00:20:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-065532.mp3" length="20091309" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《煤气灯效应：如何认清并摆脱别人对你生活的隐性控制》 · 完整版 · 煤气灯效应 · 完整讲读</title>
+      <description>《煤气灯效应》是美国心理治疗师罗宾·斯特恩的经典之作。她在二十多年临床实践中发现，煤气灯操纵是一种隐秘、系统、渐进式瓦解一个人自我认知的情感控制模式，常见于伴侣、朋友、家人和职场关系中。斯特恩借用一九四四年电影《煤气灯下》的意象命名了这种行为，揭示了它的三个核心真相：操纵从来不是一个人在作恶，而是两个人共同跳的探戈；它专挑那些聪明、独立、最渴望被爱的人下手；它真正的危险不是被操纵者的怀疑，而是她停止怀疑、彻底麻木的那一刻。本书提供了识别煤气灯操纵的二十个信号、煤气灯操纵者的常见类型，以及走出操纵关系、重建自我认知的具体策略，是这个领域被引用最多、最具实操性的经典指南。</description>
+      <pubDate>Sat, 20 Jun 2026 03:17:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-8edcdd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《煤气灯效应》是美国心理治疗师罗宾·斯特恩的经典之作。她在二十多年临床实践中发现，煤气灯操纵是一种隐秘、系统、渐进式瓦解一个人自我认知的情感控制模式，常见于伴侣、朋友、家人和职场关系中。斯特恩借用一九四四年电影《煤气灯下》的意象命名了这种行为，揭示了它的三个核心真相：操纵从来不是一个人在作恶，而是两个人共同跳的探戈；它专挑那些聪明、独立、最渴望被爱的人下手；它真正的危险不是被操纵者的怀疑，而是她停止怀疑、彻底麻木的那一刻。本书提供了识别煤气灯操纵的二十个信号、煤气灯操纵者的常见类型，以及走出操纵关系、重建自我认知的具体策略，是这个领域被引用最多、最具实操性的经典指南。</itunes:summary>
+      <itunes:duration>00:24:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-8edcdd.mp3" length="23061165" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
