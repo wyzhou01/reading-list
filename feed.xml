@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 20 Jun 2026 02:37:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 02:44:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5521,6 +5521,17 @@
       <itunes:duration>00:29:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-c9687b.mp3" length="28433709" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《真想让我爱的人读读这本书》 · 完整版 · 真想让我爱的人读读这本书（菲利帕·佩里） · 完整讲读</title>
+      <description>《真想让我爱的人读读这本书》是英国心理治疗师菲利帕·佩里的关系心理学普及读物，承接其前作《真希望我父母读过这本书》，将视野从亲子关系扩展到伴侣、朋友、同事及我们与自己的关系。全书围绕四个核心主题展开：爱的本质是被看见与连接，真正的归属感无需我们扭曲自己；争吵背后是童年信念系统的投射，理解自己为何发火，比赢了对方更重要；面对无法控制的变化与丧失，我们可以选择照顾好与自己的关系；真正的满足感不来自财富与地位，而来自兴趣、关系与意义。佩里结合二十多年临床经验与上千封读者来信，用温柔而具体的语言提醒我们：熟悉的事物不等于真理，非黑即白的念头是自我实现的预言，而觉察本身就是改变的起点。她借苏珊·杰弗斯的话送给读者一句话：你本来的样子已经足够好。这是一本写给所有在关系里跌跌撞撞、却依然愿意相信连接的人的书。</description>
+      <pubDate>Sat, 20 Jun 2026 02:43:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-9baa74</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《真想让我爱的人读读这本书》是英国心理治疗师菲利帕·佩里的关系心理学普及读物，承接其前作《真希望我父母读过这本书》，将视野从亲子关系扩展到伴侣、朋友、同事及我们与自己的关系。全书围绕四个核心主题展开：爱的本质是被看见与连接，真正的归属感无需我们扭曲自己；争吵背后是童年信念系统的投射，理解自己为何发火，比赢了对方更重要；面对无法控制的变化与丧失，我们可以选择照顾好与自己的关系；真正的满足感不来自财富与地位，而来自兴趣、关系与意义。佩里结合二十多年临床经验与上千封读者来信，用温柔而具体的语言提醒我们：熟悉的事物不等于真理，非黑即白的念头是自我实现的预言，而觉察本身就是改变的起点。她借苏珊·杰弗斯的话送给读者一句话：你本来的样子已经足够好。这是一本写给所有在关系里跌跌撞撞、却依然愿意相信连接的人的书。</itunes:summary>
+      <itunes:duration>00:30:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-9baa74.mp3" length="29739309" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
