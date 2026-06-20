@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 20 Jun 2026 02:18:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 02:22:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5477,6 +5477,17 @@
       <itunes:duration>00:25:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-aaa03f.mp3" length="24026157" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《计算机网络（第7版）》 · 完整版 · 计算机网络（第7版） · 完整讲读</title>
+      <description>《计算机网络》第七版是谢希仁编著的经典教材，按物理层、数据链路层、网络层、运输层、应用层五层协议模型，系统讲透互联网的工作原理。本书自一九八九年初版以来累计发行数百万册，是国内计算机专业几乎人手一册的奠基读物。第七版相对第六版做了细致更新：删除原第十章，将 I P v 六 与 M P L S 并入第四章；统一将 I n t e r n e t 译为“互联网”；将比特单位从字母 b 改为 b i t。本书以“不追时髦、只讲基本原理”为宗旨，给出的不是产品说明书，而是一整套理解互联网的思维框架——分层思想、端到端交付、协议机制，至今仍是读懂一切网络技术的底层钥匙。</description>
+      <pubDate>Sat, 20 Jun 2026 02:21:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-c86fac</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《计算机网络》第七版是谢希仁编著的经典教材，按物理层、数据链路层、网络层、运输层、应用层五层协议模型，系统讲透互联网的工作原理。本书自一九八九年初版以来累计发行数百万册，是国内计算机专业几乎人手一册的奠基读物。第七版相对第六版做了细致更新：删除原第十章，将 I P v 六 与 M P L S 并入第四章；统一将 I n t e r n e t 译为“互联网”；将比特单位从字母 b 改为 b i t。本书以“不追时髦、只讲基本原理”为宗旨，给出的不是产品说明书，而是一整套理解互联网的思维框架——分层思想、端到端交付、协议机制，至今仍是读懂一切网络技术的底层钥匙。</itunes:summary>
+      <itunes:duration>00:21:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-c86fac.mp3" length="20825133" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
