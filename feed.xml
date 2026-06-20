@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 20 Jun 2026 01:34:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 01:38:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5355,6 +5355,17 @@
       <itunes:duration>00:22:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-d6a24c.mp3" length="21313581" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《古代人的日常生活》 · 完整版 · 古代人的日常生活 · 完整讲读</title>
+      <description>《古代人的日常生活》是一位中学历史老师用六十六个趣味话题，从衣食住行、婚丧嫁娶、职场科举到社会福利，把古人从起床到睡觉的真实生活一层层扒开给你看。它不是猎奇段子集，而是一份给普通人的“古代生活白皮书”——用中时段历史的视角告诉我们，真正塑造中华文明的，不是秦皇汉武，而是千千万万普通人的一日三餐、柴米油盐。读懂古人真实的生活，才能读懂今天我们习以为常的一切，到底是怎么从几千年的日常里长出来的。</description>
+      <pubDate>Sat, 20 Jun 2026 01:38:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-1b7949</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《古代人的日常生活》是一位中学历史老师用六十六个趣味话题，从衣食住行、婚丧嫁娶、职场科举到社会福利，把古人从起床到睡觉的真实生活一层层扒开给你看。它不是猎奇段子集，而是一份给普通人的“古代生活白皮书”——用中时段历史的视角告诉我们，真正塑造中华文明的，不是秦皇汉武，而是千千万万普通人的一日三餐、柴米油盐。读懂古人真实的生活，才能读懂今天我们习以为常的一切，到底是怎么从几千年的日常里长出来的。</itunes:summary>
+      <itunes:duration>00:21:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-1b7949.mp3" length="20444973" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
