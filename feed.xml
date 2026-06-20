@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 20 Jun 2026 03:02:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 03:08:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5565,6 +5565,17 @@
       <itunes:duration>00:33:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-ab3000.mp3" length="32444205" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《悉达多（黑塞作品集）》 · 完整版 · 悉达多黑塞作品集 · 完整讲读</title>
+      <description>赫尔曼·黑塞的《悉达多》，写于一九二二年的欧洲废墟之上。一个印度婆罗门青年，抛下沙门苦行，抛下佛陀讲经，转身扎进最世俗的生意场与情爱里，赌钱、沉沦、差点溺死自己，最后在一条普通的河边，听见了整条河在跟他说话。这本书讲的不是宗教，不是成功学，而是一个人如何从听别人讲，走向自己活；从被教义压垮，走向被经验救赎；从把人生劈成两半互相厮杀，走向跟那个自己一直看不上的自己握手言和。一百年来，它被无数深夜失眠的人翻开过，不是为了寻找答案，而是为了确认，那个还在路上、还在迷路、还在硬扛的自己，并不孤单。</description>
+      <pubDate>Sat, 20 Jun 2026 03:08:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-2e7b71</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>赫尔曼·黑塞的《悉达多》，写于一九二二年的欧洲废墟之上。一个印度婆罗门青年，抛下沙门苦行，抛下佛陀讲经，转身扎进最世俗的生意场与情爱里，赌钱、沉沦、差点溺死自己，最后在一条普通的河边，听见了整条河在跟他说话。这本书讲的不是宗教，不是成功学，而是一个人如何从听别人讲，走向自己活；从被教义压垮，走向被经验救赎；从把人生劈成两半互相厮杀，走向跟那个自己一直看不上的自己握手言和。一百年来，它被无数深夜失眠的人翻开过，不是为了寻找答案，而是为了确认，那个还在路上、还在迷路、还在硬扛的自己，并不孤单。</itunes:summary>
+      <itunes:duration>00:24:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-2e7b71.mp3" length="23566509" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
