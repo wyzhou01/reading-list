@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 20 Jun 2026 02:26:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 02:32:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5499,6 +5499,17 @@
       <itunes:duration>00:23:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-500c99.mp3" length="22149933" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《半生缘》 · 完整版 · 半生缘 · 完整讲读</title>
+      <description>三十年代上海，贫家女顾曼桢与青年工程师沈世钧相爱，本应走入婚姻，却因姐姐曼璐为挽留丈夫祝鸿才而设计的阴谋，被姐夫强暴并囚禁，曼桢最终嫁给鸿才。多年后曼桢与世钧重逢，物是人非，两人相对痛哭，却再也回不去。小说以冷静笔调写出命运翻覆下小人物的错过与无奈，十八年岁月弹指而过，旧人重逢时已是千疮百孔。</description>
+      <pubDate>Sat, 20 Jun 2026 02:32:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-45f54c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>三十年代上海，贫家女顾曼桢与青年工程师沈世钧相爱，本应走入婚姻，却因姐姐曼璐为挽留丈夫祝鸿才而设计的阴谋，被姐夫强暴并囚禁，曼桢最终嫁给鸿才。多年后曼桢与世钧重逢，物是人非，两人相对痛哭，却再也回不去。小说以冷静笔调写出命运翻覆下小人物的错过与无奈，十八年岁月弹指而过，旧人重逢时已是千疮百孔。</itunes:summary>
+      <itunes:duration>00:32:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-45f54c.mp3" length="31440813" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
