@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 20 Jun 2026 02:44:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 02:48:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5532,6 +5532,17 @@
       <itunes:duration>00:30:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-9baa74.mp3" length="29739309" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大争论：左派和右派的起源》 · 完整版 · 大争论：左派和右派的起源（尤瓦尔·莱文） · 完整讲读</title>
+      <description>《大争论：左派和右派的起源》是耶鲁历史学家尤瓦尔·莱文对现代政治思想源头的一次重新梳理。莱文以十八世纪末埃德蒙·伯克与托马斯·潘恩的世纪辩论为线索，揭示了今天美国左右两派的思想根源：伯克代表保守主义，强调社会传统、世代延续与隐性制度智慧，主张渐进改革；潘恩代表进步主义，主张以自然权利和理性原则改造社会，实现个人解放。莱文指出，现代自由主义内部始终存在一种根本张力：它究竟是一组有待实践的启蒙原则，还是一项有待巩固的实践成果？这种张力让左派内部也分裂出进步与保守两翼，也让我们今天在医保、福利、教育等几乎所有公共议题上的争论，都仍然回荡着两百多年前伯克与潘恩的回声。</description>
+      <pubDate>Sat, 20 Jun 2026 02:48:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-e9b60f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大争论：左派和右派的起源》是耶鲁历史学家尤瓦尔·莱文对现代政治思想源头的一次重新梳理。莱文以十八世纪末埃德蒙·伯克与托马斯·潘恩的世纪辩论为线索，揭示了今天美国左右两派的思想根源：伯克代表保守主义，强调社会传统、世代延续与隐性制度智慧，主张渐进改革；潘恩代表进步主义，主张以自然权利和理性原则改造社会，实现个人解放。莱文指出，现代自由主义内部始终存在一种根本张力：它究竟是一组有待实践的启蒙原则，还是一项有待巩固的实践成果？这种张力让左派内部也分裂出进步与保守两翼，也让我们今天在医保、福利、教育等几乎所有公共议题上的争论，都仍然回荡着两百多年前伯克与潘恩的回声。</itunes:summary>
+      <itunes:duration>00:27:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-e9b60f.mp3" length="25981485" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
