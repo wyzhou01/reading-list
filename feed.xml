@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 20 Jun 2026 01:29:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 01:34:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5344,6 +5344,17 @@
       <itunes:duration>00:34:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-1841a5.mp3" length="32804781" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《嘿，小家伙》 · 完整版 · 嘿，小家伙 · 完整讲读</title>
+      <description>《嘿，小家伙》是温酒的短篇暗黑童话集，由 STAR、MOON、SUN、SWEET 四章百余则超短篇拼成。每篇几百字，却总在结尾轻轻反转，把读者从黑暗里捞出来。书中有不肯吃人的男孩、把灵魂当麦子收割的死神、用一条命换你一命的小沙弥。温酒用孩子的视角写成年人的孤独、勇气与被爱，被誉为“给成年人的暗黑童话”，常年位居治愈类读物榜单。核心主题是：长大很难，但你不必一个人扛。</description>
+      <pubDate>Sat, 20 Jun 2026 01:33:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-d6a24c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《嘿，小家伙》是温酒的短篇暗黑童话集，由 STAR、MOON、SUN、SWEET 四章百余则超短篇拼成。每篇几百字，却总在结尾轻轻反转，把读者从黑暗里捞出来。书中有不肯吃人的男孩、把灵魂当麦子收割的死神、用一条命换你一命的小沙弥。温酒用孩子的视角写成年人的孤独、勇气与被爱，被誉为“给成年人的暗黑童话”，常年位居治愈类读物榜单。核心主题是：长大很难，但你不必一个人扛。</itunes:summary>
+      <itunes:duration>00:22:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-d6a24c.mp3" length="21313581" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
