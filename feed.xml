@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 20 Jun 2026 01:47:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 01:52:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5400,6 +5400,17 @@
       <itunes:duration>00:27:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-7f485f.mp3" length="26572077" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《高情商聊天术》 · 完整版 · 高情商聊天术 · 完整讲读</title>
+      <description>《高情商聊天术》是一本写给相信“会聊就等于会干”的成年人的诚恳建议。书里提出一个反常识判断：在机器越来越便宜的时代，聪明的脑袋不再是刚需，有趣的灵魂依然万里挑一。作者张超用五个核心拼图，把高情商聊天拆成一套完整的语言操作系统——怎么开口就让人记住你，怎么把熟悉沉淀成信任，怎么在对抗里共情并把对方说服，怎么引入第三方破局，怎么平衡语言里的权力关系。这本书不是一本口才速成手册，而是一份写给互联网时代的社交指南，提醒每一个正在靠微信文字维持关系的人：面对面聊天的能力正在退化，越是退化，越显得珍贵。</description>
+      <pubDate>Sat, 20 Jun 2026 01:52:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-7f4277</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《高情商聊天术》是一本写给相信“会聊就等于会干”的成年人的诚恳建议。书里提出一个反常识判断：在机器越来越便宜的时代，聪明的脑袋不再是刚需，有趣的灵魂依然万里挑一。作者张超用五个核心拼图，把高情商聊天拆成一套完整的语言操作系统——怎么开口就让人记住你，怎么把熟悉沉淀成信任，怎么在对抗里共情并把对方说服，怎么引入第三方破局，怎么平衡语言里的权力关系。这本书不是一本口才速成手册，而是一份写给互联网时代的社交指南，提醒每一个正在靠微信文字维持关系的人：面对面聊天的能力正在退化，越是退化，越显得珍贵。</itunes:summary>
+      <itunes:duration>00:35:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-7f4277.mp3" length="34121133" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
