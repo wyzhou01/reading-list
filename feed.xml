@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 20 Jun 2026 02:11:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 02:15:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5455,6 +5455,17 @@
       <itunes:duration>00:32:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-a6db17.mp3" length="30766509" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《高堡奇人》 · 完整版 · 高堡奇人 · 完整讲读</title>
+      <description>如果一九四七年轴心国赢得了二战，世界会是什么样子？菲利普·迪克在《高堡奇人》中给出了他的答案：旧金山被日本占领，美籍古董商齐尔丹为了一单迟迟不到的货，卑躬屈膝地给日本客户打电话，连名字被故意念错也只能忍气吞声；犹太裔失业工人弗林克靠《易经》问吉凶，把命运交给四十九根蓍草。本书写于冷战最紧张的一九六二年，是“或然历史“类型的代表作，一九六三年拿下雨果奖。迪克用反乌托邦的外壳，问出几个大问题：什么是真实？虚构和现实能不能彼此嵌套？东方古典能否拯救西方机械宇宙观的困局？书中最精妙的嵌套，是一部名为《蝗虫成灾》的禁书——它记载着另一个平行世界，盟军胜利了，罗斯福还活着。这部书里的书，本身也充满了与现实对不上的细节。迪克借此告诉读者：没有什么是真实的和确定的。《高堡奇人》既是一本关于极权下普通人日常生活的悲悯之作，也是一本体追问本体论的哲学小说。六十多年过去，它比它诞生的那个年代更切中我们。</description>
+      <pubDate>Sat, 20 Jun 2026 02:15:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-8e8b35</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>如果一九四七年轴心国赢得了二战，世界会是什么样子？菲利普·迪克在《高堡奇人》中给出了他的答案：旧金山被日本占领，美籍古董商齐尔丹为了一单迟迟不到的货，卑躬屈膝地给日本客户打电话，连名字被故意念错也只能忍气吞声；犹太裔失业工人弗林克靠《易经》问吉凶，把命运交给四十九根蓍草。本书写于冷战最紧张的一九六二年，是“或然历史“类型的代表作，一九六三年拿下雨果奖。迪克用反乌托邦的外壳，问出几个大问题：什么是真实？虚构和现实能不能彼此嵌套？东方古典能否拯救西方机械宇宙观的困局？书中最精妙的嵌套，是一部名为《蝗虫成灾》的禁书——它记载着另一个平行世界，盟军胜利了，罗斯福还活着。这部书里的书，本身也充满了与现实对不上的细节。迪克借此告诉读者：没有什么是真实的和确定的。《高堡奇人》既是一本关于极权下普通人日常生活的悲悯之作，也是一本体追问本体论的哲学小说。六十多年过去，它比它诞生的那个年代更切中我们。</itunes:summary>
+      <itunes:duration>00:29:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-8e8b35.mp3" length="28096941" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
