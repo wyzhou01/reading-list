@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 20 Jun 2026 03:21:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 03:30:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5609,6 +5609,17 @@
       <itunes:duration>00:18:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-70d10a.mp3" length="17883693" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《笑场》 · 完整版 · 笑场 · 完整讲读</title>
+      <description>《笑场》是李诞二零一七年出版的首部作品，收录《扯经》对话体、黑色短章与诗歌。序言直言“人生没有意义，但人生有美”。全书以佛门师徒抬杠的外壳，写二十多岁年轻人的孤独、爱情与虚无；在冷峻的黑色幽默里，安放一代人对意义的追问。本期《好好读书》三小时带读，拆解李诞如何用最不正经的语气，说最正经的命题——以及那句“梦幻泡影本来就很美”，究竟是出口，还是更精致的牢笼。</description>
+      <pubDate>Sat, 20 Jun 2026 03:30:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-f46f18</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《笑场》是李诞二零一七年出版的首部作品，收录《扯经》对话体、黑色短章与诗歌。序言直言“人生没有意义，但人生有美”。全书以佛门师徒抬杠的外壳，写二十多岁年轻人的孤独、爱情与虚无；在冷峻的黑色幽默里，安放一代人对意义的追问。本期《好好读书》三小时带读，拆解李诞如何用最不正经的语气，说最正经的命题——以及那句“梦幻泡影本来就很美”，究竟是出口，还是更精致的牢笼。</itunes:summary>
+      <itunes:duration>00:25:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-f46f18.mp3" length="24812973" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
