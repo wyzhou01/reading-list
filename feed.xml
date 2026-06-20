@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 20 Jun 2026 12:39:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 13:03:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5003,6 +5003,17 @@
       <itunes:duration>00:32:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-0cb074.mp3" length="31671981" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《哈利·波特（全七部）》 · 完整版 · 哈利波特 · 完整讲读</title>
+      <description>《哈利·波特》讲述一岁的哈利失去父母后，在姨父家忍受十年欺辱，最终走入霍格沃茨，与朋友罗恩、赫敏一同对抗黑巫师伏地魔的成长故事。七部曲用十年时间写成，全球销量超五亿册，被誉为童书与成人文学的交界之作。它真正讲述的，是爱如何战胜恐惧，选择如何重塑命运，一个被忽视的孩子如何走出碗橱，成为能守护别人的成年人。</description>
+      <pubDate>Sat, 20 Jun 2026 13:01:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-7cf315</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《哈利·波特》讲述一岁的哈利失去父母后，在姨父家忍受十年欺辱，最终走入霍格沃茨，与朋友罗恩、赫敏一同对抗黑巫师伏地魔的成长故事。七部曲用十年时间写成，全球销量超五亿册，被誉为童书与成人文学的交界之作。它真正讲述的，是爱如何战胜恐惧，选择如何重塑命运，一个被忽视的孩子如何走出碗橱，成为能守护别人的成年人。</itunes:summary>
+      <itunes:duration>00:22:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-7cf315.mp3" length="21740589" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
