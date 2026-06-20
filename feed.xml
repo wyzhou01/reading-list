@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 20 Jun 2026 02:03:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 02:07:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5433,6 +5433,17 @@
       <itunes:duration>00:36:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-3d49c2.mp3" length="35392173" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《看不见的性别——揭示史前女性的真实角色》 · 完整版 · 大象学术译丛第七弹_看不见的性别揭示史前女性的真实角色 · 完整讲读</title>
+      <description>《看不见的性别》是一部颠覆性的史前史著作。三位美国学者综合考古学、基因学、人类学证据，系统揭示了一个被长期掩盖的事实：史前女性并非躲在巨石后面瑟瑟发抖的旁观者，而是人类文明的真正奠基者——她们发明了篮子、绳索、织物、衣服、渔网，保存并传递了关于植物、药物、地形的核心知识，主导了语言的诞生、社会的组织、新大陆的开拓，乃至农业的起源。本书是对旧石器时代男性中心叙事的彻底清算，是性别考古学的奠基之作。</description>
+      <pubDate>Sat, 20 Jun 2026 02:07:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-8c6000</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《看不见的性别》是一部颠覆性的史前史著作。三位美国学者综合考古学、基因学、人类学证据，系统揭示了一个被长期掩盖的事实：史前女性并非躲在巨石后面瑟瑟发抖的旁观者，而是人类文明的真正奠基者——她们发明了篮子、绳索、织物、衣服、渔网，保存并传递了关于植物、药物、地形的核心知识，主导了语言的诞生、社会的组织、新大陆的开拓，乃至农业的起源。本书是对旧石器时代男性中心叙事的彻底清算，是性别考古学的奠基之作。</itunes:summary>
+      <itunes:duration>00:25:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-8c6000.mp3" length="24606765" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
