@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 20 Jun 2026 02:22:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 02:26:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5488,6 +5488,17 @@
       <itunes:duration>00:21:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-c86fac.mp3" length="20825133" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《火星救援》 · 完整版 · 火星救援译林幻系列 · 完整讲读</title>
+      <description>《火星救援》讲了一个被队友误判死亡、独自困在火星上的宇航员马克·沃特尼，用植物学和工程学两把刷子，把三十一天的生存倒计时硬生生拉成四年，最终在NASA和全球航天机构的协作下重返地球的故事。它表面是硬核太空求生手册，骨子里是一封写给科学、幽默和不放弃精神的长信。</description>
+      <pubDate>Sat, 20 Jun 2026 02:25:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-500c99</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《火星救援》讲了一个被队友误判死亡、独自困在火星上的宇航员马克·沃特尼，用植物学和工程学两把刷子，把三十一天的生存倒计时硬生生拉成四年，最终在NASA和全球航天机构的协作下重返地球的故事。它表面是硬核太空求生手册，骨子里是一封写给科学、幽默和不放弃精神的长信。</itunes:summary>
+      <itunes:duration>00:23:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-500c99.mp3" length="22149933" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
