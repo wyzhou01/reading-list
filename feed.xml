@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 20 Jun 2026 02:15:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 02:18:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5466,6 +5466,17 @@
       <itunes:duration>00:29:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-8e8b35.mp3" length="28096941" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《面纱》 · 完整版 · 面纱 · 完整讲读</title>
+      <description>《面纱》是英国作家毛姆于一九二五年出版的长篇小说，灵感源自但丁《神曲》中被丈夫投入毒气城堡的锡耶纳贵妇皮娅。小说讲述了虚荣浅薄的英国女子凯蒂·费恩，在与香港助理布政司查理·唐生出轨被丈夫瓦尔特发现后，被迫随身为细菌学家的丈夫远赴中国南方霍乱肆虐的湄潭府。在死亡的阴影与修道院的劳作中，她第一次睁开眼看见自己，从一个依附男人的女人，长成了一个愿意为自己和未出生的女儿负起责任的人。毛姆借这条死亡之旅，回答了一个跨越世纪的问题：虚荣、背叛、苦难之后，一个人究竟能不能重新长出灵魂。</description>
+      <pubDate>Fri, 19 Jun 2026 15:54:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-aaa03f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《面纱》是英国作家毛姆于一九二五年出版的长篇小说，灵感源自但丁《神曲》中被丈夫投入毒气城堡的锡耶纳贵妇皮娅。小说讲述了虚荣浅薄的英国女子凯蒂·费恩，在与香港助理布政司查理·唐生出轨被丈夫瓦尔特发现后，被迫随身为细菌学家的丈夫远赴中国南方霍乱肆虐的湄潭府。在死亡的阴影与修道院的劳作中，她第一次睁开眼看见自己，从一个依附男人的女人，长成了一个愿意为自己和未出生的女儿负起责任的人。毛姆借这条死亡之旅，回答了一个跨越世纪的问题：虚荣、背叛、苦难之后，一个人究竟能不能重新长出灵魂。</itunes:summary>
+      <itunes:duration>00:25:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-aaa03f.mp3" length="24026157" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
