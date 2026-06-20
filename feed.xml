@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 20 Jun 2026 02:55:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 03:02:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5554,6 +5554,17 @@
       <itunes:duration>00:29:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-71a0d4.mp3" length="28424109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《长夜难明》 · 完整版 · 紫金陈 · 完整讲读</title>
+      <description>《长夜难明》是紫金陈“社会派推理”代表作，讲述检察官江阳为替一名含冤死去的大学生讨回公道，放弃青春、事业、家庭乃至生命，历经十年追查，最终在朋友们与正直检察官吴检的接力下揭开权贵犯罪黑幕的故事。小说以冷静笔触揭示司法正义的代价、权贵与法治的博弈，以及理想主义者在庞大机器面前的悲壮与执拗，被誉为照见中国转型期社会阴影的一面镜子。</description>
+      <pubDate>Sat, 20 Jun 2026 03:02:46 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260620-episode-20260620-ab3000</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《长夜难明》是紫金陈“社会派推理”代表作，讲述检察官江阳为替一名含冤死去的大学生讨回公道，放弃青春、事业、家庭乃至生命，历经十年追查，最终在朋友们与正直检察官吴检的接力下揭开权贵犯罪黑幕的故事。小说以冷静笔触揭示司法正义的代价、权贵与法治的博弈，以及理想主义者在庞大机器面前的悲壮与执拗，被誉为照见中国转型期社会阴影的一面镜子。</itunes:summary>
+      <itunes:duration>00:33:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260620/episode-20260620-ab3000.mp3" length="32444205" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
