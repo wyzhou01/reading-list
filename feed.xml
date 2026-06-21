@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 21 Jun 2026 08:59:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 09:04:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30,6 +30,17 @@
       <itunes:duration>00:28:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260621/episode-20260621-2ee536.mp3" length="27668013" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《草房子》 · 完整版 · 草房子 · 完整讲读</title>
+      <description>《草房子》是曹文轩写于一九九七年的少年长篇小说，以一九六一年到一九六六年为背景，讲述男孩桑桑在油麻地小学度过的六年小学生活。全书以桑桑的视角，串联起秃鹤对尊严的捍卫、纸月温柔的离去、杜小康从富到穷又重新站起来的脊梁、秦大奶奶的死亡、温幼菊在药寮里陪他熬过一碗药的无词歌。通过尊严、温柔、脊梁、告别、死亡、悲悯这六块拼图，曹文轩写出了少年在苦难中慢慢长出来的体面与悲悯，写出了纯真年代的人性之美。这是一本既适合孩子也适合大人的中国当代儿童文学经典。</description>
+      <pubDate>Sun, 21 Jun 2026 09:03:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260621-episode-20260621-ebf9a6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《草房子》是曹文轩写于一九九七年的少年长篇小说，以一九六一年到一九六六年为背景，讲述男孩桑桑在油麻地小学度过的六年小学生活。全书以桑桑的视角，串联起秃鹤对尊严的捍卫、纸月温柔的离去、杜小康从富到穷又重新站起来的脊梁、秦大奶奶的死亡、温幼菊在药寮里陪他熬过一碗药的无词歌。通过尊严、温柔、脊梁、告别、死亡、悲悯这六块拼图，曹文轩写出了少年在苦难中慢慢长出来的体面与悲悯，写出了纯真年代的人性之美。这是一本既适合孩子也适合大人的中国当代儿童文学经典。</itunes:summary>
+      <itunes:duration>00:29:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260621/episode-20260621-ebf9a6.mp3" length="28196781" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
