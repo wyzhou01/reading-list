@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 21 Jun 2026 09:43:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 09:51:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5906,6 +5906,17 @@
       <itunes:duration>00:32:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260621/episode-20260621-5d8d2f.mp3" length="31526061" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《达芬奇密码》 · 完整版 · 达芬奇密码 · 完整讲读</title>
+      <description>《达芬奇密码》是丹·布朗二零零三年出版的悬疑小说。哈佛符号学家罗伯特·兰登因卢浮宫馆长之死卷入惊天谜局：馆长临死前摆下五芒星、留下密码，指向郇山隐修会两千年守护的真相——耶稣之妻抹大拉的玛利亚与她的后裔。达·芬奇的画作、巴黎的玫瑰线坐标、倒立的金字塔，都是这场守秘与寻秘的拼图。小说借艺术史与符号学，挑战了被父权垄断的宗教叙事，是一场关于&apos;谁有权书写历史&apos;的浪漫猜想。</description>
+      <pubDate>Sun, 21 Jun 2026 09:50:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260621-episode-20260621-cb3ad0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《达芬奇密码》是丹·布朗二零零三年出版的悬疑小说。哈佛符号学家罗伯特·兰登因卢浮宫馆长之死卷入惊天谜局：馆长临死前摆下五芒星、留下密码，指向郇山隐修会两千年守护的真相——耶稣之妻抹大拉的玛利亚与她的后裔。达·芬奇的画作、巴黎的玫瑰线坐标、倒立的金字塔，都是这场守秘与寻秘的拼图。小说借艺术史与符号学，挑战了被父权垄断的宗教叙事，是一场关于&apos;谁有权书写历史&apos;的浪漫猜想。</itunes:summary>
+      <itunes:duration>00:27:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260621/episode-20260621-cb3ad0.mp3" length="26714925" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
