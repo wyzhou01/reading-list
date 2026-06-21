@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 21 Jun 2026 09:28:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 09:37:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5884,6 +5884,17 @@
       <itunes:duration>00:38:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260621/episode-20260621-639ff6.mp3" length="37402797" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《为何爱会伤人》 · 完整版 · 为何爱会伤人 · 完整讲读</title>
+      <description>《为何爱会伤人》是武志红关于中国式亲密关系的一次集中梳理。他从克林顿的钟摆、徐志摩与林徽因的传奇、菲儿相亲的第一眼等大量真实案例出发，剖析了爱情中反复出现的轮回、迷恋、改造与回避。核心观点是：恋爱是童年关系模式的一次轮回，我们常在对方身上投射父母的影子与理想的幻象，撑不过幻象破灭的战争，又因害怕受伤而回避亲密。真正的疗愈，是把亲密关系当作孵化器，看清自己的幻觉，接受真实的对方，将心从孩子状态升级到成人状态，并在最后，敢于承认已经到手的幸福。</description>
+      <pubDate>Sun, 21 Jun 2026 09:36:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260621-episode-20260621-e8290c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《为何爱会伤人》是武志红关于中国式亲密关系的一次集中梳理。他从克林顿的钟摆、徐志摩与林徽因的传奇、菲儿相亲的第一眼等大量真实案例出发，剖析了爱情中反复出现的轮回、迷恋、改造与回避。核心观点是：恋爱是童年关系模式的一次轮回，我们常在对方身上投射父母的影子与理想的幻象，撑不过幻象破灭的战争，又因害怕受伤而回避亲密。真正的疗愈，是把亲密关系当作孵化器，看清自己的幻觉，接受真实的对方，将心从孩子状态升级到成人状态，并在最后，敢于承认已经到手的幸福。</itunes:summary>
+      <itunes:duration>00:42:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260621/episode-20260621-e8290c.mp3" length="40904877" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
