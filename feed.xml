@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 21 Jun 2026 14:34:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 22:23:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5950,6 +5950,17 @@
       <itunes:duration>00:24:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260621/episode-20260621-26c9b2.mp3" length="23824173" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《明朝那些事儿》 · 完整版 · 明朝那些事儿 · 完整讲读</title>
+      <description>《明朝那些事儿》是当年明月用小说笔法写的明史通俗读物，从一三四四年到一六四四年三百年，十七个皇帝，无数小人物，把权力的运作、人性的明暗、改革的艰难、忠奸的复杂、活法的选择，一块一块拼给你看。这本书告诉我们：苦难不是勋章，权力是放大器，忠奸不是非黑即白，能被记住的从来不是位置而是活法。读史不是为了当主角，是为了看清自己不是主角之后，还能好好活。</description>
+      <pubDate>Sun, 21 Jun 2026 22:23:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260622-episode-20260622-b91442</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《明朝那些事儿》是当年明月用小说笔法写的明史通俗读物，从一三四四年到一六四四年三百年，十七个皇帝，无数小人物，把权力的运作、人性的明暗、改革的艰难、忠奸的复杂、活法的选择，一块一块拼给你看。这本书告诉我们：苦难不是勋章，权力是放大器，忠奸不是非黑即白，能被记住的从来不是位置而是活法。读史不是为了当主角，是为了看清自己不是主角之后，还能好好活。</itunes:summary>
+      <itunes:duration>00:32:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260622/episode-20260622-b91442.mp3" length="31451565" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
