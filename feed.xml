@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 21 Jun 2026 09:51:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 09:52:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5917,6 +5917,17 @@
       <itunes:duration>00:27:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260621/episode-20260621-cb3ad0.mp3" length="26714925" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《看不见的城市》 · 完整版 · 看不见的城市 · 完整讲读</title>
+      <description>《看不见的城市》是意大利作家伊塔洛·卡尔维诺于一九七二年出版的短章集，由五十五则城市寓言与十二段马可·波罗向忽必烈汇报的对话框架交织而成。全书以轻盈而精确的语言，拆解城市如何被欲望、记忆与符号层层建构，又如何在无形中把人和城一起吞没。它追问的并非何为真实之城，而是当真实只能通过语言、记忆与欲望抵达时，人如何为意义亲手打地基。五十多年来，这本书持续被建筑、哲学、文学领域反复引用，是一部“越读越新”的当代经典。</description>
+      <pubDate>Fri, 19 Jun 2026 10:12:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260621-episode-20260621-5cafab</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《看不见的城市》是意大利作家伊塔洛·卡尔维诺于一九七二年出版的短章集，由五十五则城市寓言与十二段马可·波罗向忽必烈汇报的对话框架交织而成。全书以轻盈而精确的语言，拆解城市如何被欲望、记忆与符号层层建构，又如何在无形中把人和城一起吞没。它追问的并非何为真实之城，而是当真实只能通过语言、记忆与欲望抵达时，人如何为意义亲手打地基。五十多年来，这本书持续被建筑、哲学、文学领域反复引用，是一部“越读越新”的当代经典。</itunes:summary>
+      <itunes:duration>00:24:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260621/episode-20260621-5cafab.mp3" length="23945133" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
