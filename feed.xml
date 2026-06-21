@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 21 Jun 2026 04:04:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 04:07:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -74,6 +74,17 @@
       <itunes:duration>00:31:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260621/episode-20260621-25fcf5.mp3" length="34591149" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《法老的宝藏》 · 完整版 · 法老的宝藏 · 完整讲读</title>
+      <description>法老的宝藏 · 完整讲读</description>
+      <pubDate>Sat, 20 Jun 2026 16:34:36 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260621-episode-20260621-3f4bd9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>法老的宝藏 · 完整讲读</itunes:summary>
+      <itunes:duration>00:30:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260621/episode-20260621-3f4bd9.mp3" length="28869933" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
