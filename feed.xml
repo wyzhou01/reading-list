@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 21 Jun 2026 09:37:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 09:43:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5895,6 +5895,17 @@
       <itunes:duration>00:42:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260621/episode-20260621-e8290c.mp3" length="40904877" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《绿毛水怪》 · 完整版 · 绿毛水怪 · 完整讲读</title>
+      <description>《绿毛水怪》是王小波的第一部小说集，收录了他早期的代表作。书中以陈辉和妖妖的纯真爱情为主线，讲述了两个孩子在特殊年代里如何用诗意守护内心的纯净。妖妖蹈海变成水怪，陈辉在海边苦寻不得——这段跨越生死的爱情故事，成为中国当代文学中最动人的篇章之一。全书既有少年最纯粹的心动，也有知识青年下乡的苦涩，更有在荒诞现实面前，一个普通人所能保有的、最倔强的尊严。三十年来，这本小书打动了一代又一代读者，因为它让我们相信：在这个世界上，诗意和真情从未过时，只要我们愿意为之守护。</description>
+      <pubDate>Sun, 21 Jun 2026 09:42:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260621-episode-20260621-5d8d2f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《绿毛水怪》是王小波的第一部小说集，收录了他早期的代表作。书中以陈辉和妖妖的纯真爱情为主线，讲述了两个孩子在特殊年代里如何用诗意守护内心的纯净。妖妖蹈海变成水怪，陈辉在海边苦寻不得——这段跨越生死的爱情故事，成为中国当代文学中最动人的篇章之一。全书既有少年最纯粹的心动，也有知识青年下乡的苦涩，更有在荒诞现实面前，一个普通人所能保有的、最倔强的尊严。三十年来，这本小书打动了一代又一代读者，因为它让我们相信：在这个世界上，诗意和真情从未过时，只要我们愿意为之守护。</itunes:summary>
+      <itunes:duration>00:32:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260621/episode-20260621-5d8d2f.mp3" length="31526061" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
