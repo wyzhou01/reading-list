@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 21 Jun 2026 14:24:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 14:34:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5939,6 +5939,17 @@
       <itunes:duration>00:21:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260621/episode-20260621-ffdadb.mp3" length="20753709" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《华盛顿传》 · 完整版 · 华盛顿传 · 完整讲读</title>
+      <description>《华盛顿传》是历史学家约瑟夫·埃利斯为美国“国父之父”乔治·华盛顿写就的鲜活肖像。全书以华盛顿六次关键“放手”为主线：从安纳波利斯交还佩剑、告别演说拒绝连任，到遗嘱中解放全部奴隶，揭示这位沉默寡言的弗吉尼亚乡绅如何凭借自我克制与对权力的深刻理解，一步步为合众国奠定权力交接的规矩与道德底线。埃利斯既不把他塑成完美的雕像，也不让他沦为时代罪人，而是用现代版《华盛顿文集》里的家书、日记、账册，还原了一个活在十八世纪、却仍能与今天对话的真实的人。</description>
+      <pubDate>Sun, 21 Jun 2026 14:33:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260621-episode-20260621-26c9b2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《华盛顿传》是历史学家约瑟夫·埃利斯为美国“国父之父”乔治·华盛顿写就的鲜活肖像。全书以华盛顿六次关键“放手”为主线：从安纳波利斯交还佩剑、告别演说拒绝连任，到遗嘱中解放全部奴隶，揭示这位沉默寡言的弗吉尼亚乡绅如何凭借自我克制与对权力的深刻理解，一步步为合众国奠定权力交接的规矩与道德底线。埃利斯既不把他塑成完美的雕像，也不让他沦为时代罪人，而是用现代版《华盛顿文集》里的家书、日记、账册，还原了一个活在十八世纪、却仍能与今天对话的真实的人。</itunes:summary>
+      <itunes:duration>00:24:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260621/episode-20260621-26c9b2.mp3" length="23824173" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
