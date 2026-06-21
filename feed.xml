@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 21 Jun 2026 09:15:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 09:28:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5873,6 +5873,17 @@
       <itunes:duration>35:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260619/episode-20260619-c1f020.mp3" length="33736749" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《聊天记录》 · 完整版 · 聊天记录 · 完整讲读</title>
+      <description>《聊天记录》是爱尔兰作家萨莉·鲁尼的处女作，讲述了二十一岁都柏林女大学生弗朗西丝与已婚演员尼克之间一段暧昧的婚外情。小说以邮件、短信、电话、对话为骨架，写出了千禧一代在亲密关系里的自我审查、阶级鸿沟、身体的脆弱，以及欲望在语言中的迂回形状。它不提供答案，只把那些打到一半又删掉的消息，诚实地写进了文学里。</description>
+      <pubDate>Sun, 21 Jun 2026 09:21:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260621-episode-20260621-639ff6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《聊天记录》是爱尔兰作家萨莉·鲁尼的处女作，讲述了二十一岁都柏林女大学生弗朗西丝与已婚演员尼克之间一段暧昧的婚外情。小说以邮件、短信、电话、对话为骨架，写出了千禧一代在亲密关系里的自我审查、阶级鸿沟、身体的脆弱，以及欲望在语言中的迂回形状。它不提供答案，只把那些打到一半又删掉的消息，诚实地写进了文学里。</itunes:summary>
+      <itunes:duration>00:38:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260621/episode-20260621-639ff6.mp3" length="37402797" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
