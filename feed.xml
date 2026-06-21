@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 21 Jun 2026 09:04:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 09:09:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -41,6 +41,17 @@
       <itunes:duration>00:29:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260621/episode-20260621-ebf9a6.mp3" length="28196781" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《太白金星有点烦》 · 完整版 · 太白金星有点烦 · 完整讲读</title>
+      <description>《太白金星有点烦》借《西游记》外壳，写一桩天庭与灵山联合推进的&quot;西天取经&quot;重点项目。太白金星李长庚以护法者身份，全程参与八十一难的流程设计、妖怪雇佣、账目报销与揭揄扬，在繁文缛节与各方势力博弈间疲于奔命。小说以现代职场逻辑解构古典神话，最终落脚于一个关于&quot;浊念&quot;的追问：跳出三界外，不在五行中，可心里那点想要被看见、想要更进一步的念想，才是修不成金仙的真正原因。写给每一个在红尘里认真做事、却还没认回自己的人。</description>
+      <pubDate>Sun, 21 Jun 2026 09:09:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260621-episode-20260621-5df60b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《太白金星有点烦》借《西游记》外壳，写一桩天庭与灵山联合推进的&quot;西天取经&quot;重点项目。太白金星李长庚以护法者身份，全程参与八十一难的流程设计、妖怪雇佣、账目报销与揭揄扬，在繁文缛节与各方势力博弈间疲于奔命。小说以现代职场逻辑解构古典神话，最终落脚于一个关于&quot;浊念&quot;的追问：跳出三界外，不在五行中，可心里那点想要被看见、想要更进一步的念想，才是修不成金仙的真正原因。写给每一个在红尘里认真做事、却还没认回自己的人。</itunes:summary>
+      <itunes:duration>00:15:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260621/episode-20260621-5df60b.mp3" length="15163821" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
