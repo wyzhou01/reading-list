@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 21 Jun 2026 04:07:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 04:08:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -85,6 +85,17 @@
       <itunes:duration>00:30:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260621/episode-20260621-3f4bd9.mp3" length="28869933" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《金色梦乡》 · 完整版 · 金色梦乡 · 完整讲读</title>
+      <description>《金色梦乡》是伊坂幸太郎二零零七年写就的长篇小说，讲述快递员青柳雅春一夜之间被诬陷为刺杀首相的凶手，在国家机器、媒体审判和集体恐慌的围剿下踏上逃亡之路。表面是悬疑逃亡，骨子里却是一个关于&quot;普通人怎么守住自己&quot;的温柔寓言：父亲让他先跑，朋友用命留下暗号，陌生人在烟火里藏进接应的信号——这些不会被新闻播出的善意，最终让青柳没有被这个世界消化。这本书十五年来在全球被反复阅读，因为它讲的从来不是某一个国家的危机，而是每个普通人都可能遭遇的困境：当你被诬陷、被围剿、被世界抛弃时，你还能不能守住心里那一点点柔软的微光？伊坂的回答是：能。只要你身边还有一个人愿意相信你，你就还能再跑一公里。</description>
+      <pubDate>Sun, 21 Jun 2026 04:08:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260621-episode-20260621-02f551</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《金色梦乡》是伊坂幸太郎二零零七年写就的长篇小说，讲述快递员青柳雅春一夜之间被诬陷为刺杀首相的凶手，在国家机器、媒体审判和集体恐慌的围剿下踏上逃亡之路。表面是悬疑逃亡，骨子里却是一个关于&quot;普通人怎么守住自己&quot;的温柔寓言：父亲让他先跑，朋友用命留下暗号，陌生人在烟火里藏进接应的信号——这些不会被新闻播出的善意，最终让青柳没有被这个世界消化。这本书十五年来在全球被反复阅读，因为它讲的从来不是某一个国家的危机，而是每个普通人都可能遭遇的困境：当你被诬陷、被围剿、被世界抛弃时，你还能不能守住心里那一点点柔软的微光？伊坂的回答是：能。只要你身边还有一个人愿意相信你，你就还能再跑一公里。</itunes:summary>
+      <itunes:duration>00:19:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260621/episode-20260621-02f551.mp3" length="18247725" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
