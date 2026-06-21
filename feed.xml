@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 21 Jun 2026 22:23:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 22:28:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5961,6 +5961,17 @@
       <itunes:duration>00:32:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260622/episode-20260622-b91442.mp3" length="31451565" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《人民的名义》 · 完整版 · 人民的名义 · 完整讲读</title>
+      <description>《人民的名义》是周梅森沉寂八年后推出的反腐长篇力作，以H省一场由部委处长赵德汉落马牵出的官场地震为切口，最高检反贪总局侦查处长侯亮平、空降省委书记沙瑞金与省委副书记高育良、公安厅长祁同伟、京州市委书记李达康等人轮番登场，在山水庄园、大风厂股权纠纷、光明湖四百八十亿项目中展开博弈。小说通过陈岩石、侯亮平等理想主义者与赵德汉、高育良、祁同伟、高小琴等异化者的群像对照，深度追问权力生态下人性、信仰与制度的复杂关系，被誉为近十年来中国最具公众影响力的政治小说之一。</description>
+      <pubDate>Sun, 21 Jun 2026 22:28:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260622-episode-20260622-ab05de</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《人民的名义》是周梅森沉寂八年后推出的反腐长篇力作，以H省一场由部委处长赵德汉落马牵出的官场地震为切口，最高检反贪总局侦查处长侯亮平、空降省委书记沙瑞金与省委副书记高育良、公安厅长祁同伟、京州市委书记李达康等人轮番登场，在山水庄园、大风厂股权纠纷、光明湖四百八十亿项目中展开博弈。小说通过陈岩石、侯亮平等理想主义者与赵德汉、高育良、祁同伟、高小琴等异化者的群像对照，深度追问权力生态下人性、信仰与制度的复杂关系，被誉为近十年来中国最具公众影响力的政治小说之一。</itunes:summary>
+      <itunes:duration>00:31:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260622/episode-20260622-ab05de.mp3" length="30104877" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
