@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 21 Jun 2026 09:52:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 14:24:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5928,6 +5928,17 @@
       <itunes:duration>00:24:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260621/episode-20260621-5cafab.mp3" length="23945133" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《偷影子的人》 · 完整版 · 偷影子的人 · 完整讲读</title>
+      <description>《偷影子的人》是法国作家马克·李维写于二零一零年的第十一部小说，讲述一个从小瘦弱、戴眼镜、备受霸凌的小男孩，意外发现自己能与别人的影子重叠、听见对方心中最深的秘密与伤痛的故事。他用这份天赋听见了警卫伊凡怕黑的童年、死对头马格被打的过往，也听见了聋哑女孩克蕾儿无声的初恋。从校园霸凌、父亲的离去，到母亲的沉默、初恋的错过，再到成年后与好友吕克、苏菲的迷失与重逢，整本书用温柔又略带魔幻的笔触，串起了一个孤独男孩如何在倾听他人伤口的过程中，慢慢长成一个能爱人、也能被爱的人。最终在母亲下葬之后，他跨越一整片海，回到那个用风筝写下&apos;我想你&apos;的女孩身边。这是一首写给童年、梦想与想象力的颂歌，关于不合群、关于被看见、关于所有我们以为错过就再也回不来的人。</description>
+      <pubDate>Sun, 21 Jun 2026 14:23:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260621-episode-20260621-ffdadb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《偷影子的人》是法国作家马克·李维写于二零一零年的第十一部小说，讲述一个从小瘦弱、戴眼镜、备受霸凌的小男孩，意外发现自己能与别人的影子重叠、听见对方心中最深的秘密与伤痛的故事。他用这份天赋听见了警卫伊凡怕黑的童年、死对头马格被打的过往，也听见了聋哑女孩克蕾儿无声的初恋。从校园霸凌、父亲的离去，到母亲的沉默、初恋的错过，再到成年后与好友吕克、苏菲的迷失与重逢，整本书用温柔又略带魔幻的笔触，串起了一个孤独男孩如何在倾听他人伤口的过程中，慢慢长成一个能爱人、也能被爱的人。最终在母亲下葬之后，他跨越一整片海，回到那个用风筝写下&apos;我想你&apos;的女孩身边。这是一首写给童年、梦想与想象力的颂歌，关于不合群、关于被看见、关于所有我们以为错过就再也回不来的人。</itunes:summary>
+      <itunes:duration>00:21:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260621/episode-20260621-ffdadb.mp3" length="20753709" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
