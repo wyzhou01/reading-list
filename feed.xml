@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 22 Jun 2026 01:25:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 01:26:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5994,6 +5994,17 @@
       <itunes:duration>00:23:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260622/episode-20260622-c656a9.mp3" length="22144173" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《人性中的善良天使：暴力为什么会减少》 · 完整版 · 人性中的善良天使：暴力为什么会减少（斯蒂芬·平克） · 完整讲读</title>
+      <description>本书用海量数据证明，人类历史上的暴力——从部落冲突、凶杀、酷刑、奴隶制到战争、种族屠杀——其实呈现出长期下降的六大趋势。作者平克不诉诸人性本善，而是从利维坦国家、贸易、女性化、都市化、理性等外部制度性力量解释这一进程，并用人性中的&quot;善良天使&quot;（移情、自制、道德、理性）与&quot;心魔&quot;（捕食、优势、复仇、施虐、意识形态）的角力，为今天和未来的非暴力提供希望。</description>
+      <pubDate>Sat, 20 Jun 2026 13:45:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260622-episode-20260622-b1ba2b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书用海量数据证明，人类历史上的暴力——从部落冲突、凶杀、酷刑、奴隶制到战争、种族屠杀——其实呈现出长期下降的六大趋势。作者平克不诉诸人性本善，而是从利维坦国家、贸易、女性化、都市化、理性等外部制度性力量解释这一进程，并用人性中的&quot;善良天使&quot;（移情、自制、道德、理性）与&quot;心魔&quot;（捕食、优势、复仇、施虐、意识形态）的角力，为今天和未来的非暴力提供希望。</itunes:summary>
+      <itunes:duration>00:45:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260622/episode-20260622-b1ba2b.mp3" length="43762605" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
