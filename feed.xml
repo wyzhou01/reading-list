@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 22 Jun 2026 07:21:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 16:32:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6115,6 +6115,17 @@
       <itunes:duration>00:31:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260622/episode-20260622-890f94.mp3" length="30476973" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《贫穷的质感：王梆的英国观察》 · 完整版 · 贫穷的质感 · 完整讲读</title>
+      <description>《贫穷的质感》是王梆用十年时间在英国踩出来的非虚构现场报告。她身兼穷人、移民工、外来女三重身份，穿梭于肯辛顿宫的高档公寓与坎宁镇的巴西蚁窝之间，记录下廉租房被买空、食物银行人满为患、老人失语、乡村被全球资本吞噬、替罪羊机制从未消失的英国肌理。这本书不提供答案，但它逼着读者正视老牌资本主义国家深处正在发生的溃烂与自救，是一份稀有的近距离观察，也是一份微小的行动指南。</description>
+      <pubDate>Mon, 22 Jun 2026 16:31:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260623-episode-20260623-2954ab</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《贫穷的质感》是王梆用十年时间在英国踩出来的非虚构现场报告。她身兼穷人、移民工、外来女三重身份，穿梭于肯辛顿宫的高档公寓与坎宁镇的巴西蚁窝之间，记录下廉租房被买空、食物银行人满为患、老人失语、乡村被全球资本吞噬、替罪羊机制从未消失的英国肌理。这本书不提供答案，但它逼着读者正视老牌资本主义国家深处正在发生的溃烂与自救，是一份稀有的近距离观察，也是一份微小的行动指南。</itunes:summary>
+      <itunes:duration>00:30:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-2954ab.mp3" length="28891821" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
