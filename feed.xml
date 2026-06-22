@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 22 Jun 2026 21:36:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 21:39:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6214,6 +6214,17 @@
       <itunes:duration>00:25:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-70fcfc.mp3" length="24902445" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《开场：女性学者访谈》 · 完整版 · 开场：女性学者访谈 · 完整讲读</title>
+      <description>《开场：女性学者访谈》收录《新京报·书评周刊》对十一位中外女性学者的长篇访谈，跨越社会学、历史学、新闻传播学与文学，横跨四十后至八十后四个代际。这本书诚实呈现女性学者所遭遇的结构性限制、她们在学术中获得的“前所未有的自由”，以及代际之间隐秘而具体的知识传承。它既是一份珍贵的口述史，也是一份邀请——邀请每一个读者，成为这场尚未完成的性别与知识进程的下一个发问者。</description>
+      <pubDate>Mon, 22 Jun 2026 21:39:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260623-episode-20260623-c445bc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《开场：女性学者访谈》收录《新京报·书评周刊》对十一位中外女性学者的长篇访谈，跨越社会学、历史学、新闻传播学与文学，横跨四十后至八十后四个代际。这本书诚实呈现女性学者所遭遇的结构性限制、她们在学术中获得的“前所未有的自由”，以及代际之间隐秘而具体的知识传承。它既是一份珍贵的口述史，也是一份邀请——邀请每一个读者，成为这场尚未完成的性别与知识进程的下一个发问者。</itunes:summary>
+      <itunes:duration>00:27:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-c445bc.mp3" length="26620461" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
