@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 22 Jun 2026 06:59:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 07:13:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6093,6 +6093,17 @@
       <itunes:duration>00:25:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260622/episode-20260622-b43a86.mp3" length="24923181" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《半小时漫画经济学3：金融危机（完结篇）》 · 完整版 · 半小时漫画经济学3：金融危机（完结篇）（漫画科普开创者二混子新作 - 陈磊·半小时漫画团队,_SoBooKs.cc · 完整讲读</title>
+      <description>《半小时漫画经济学 3：金融危机》是陈磊·半小时漫画团队的完结篇，用漫画加段子的方式，把一九七三年到二零零八年之间五次全球金融风暴一次讲透：从石油危机，到广场协议，到黑色星期一，到亚洲金融风暴，再到次贷危机。这本书最大的价值不在于记住一堆金融术语，而在于让人看懂一个反复出现的关键词——信心。它既是炸弹，也是救生圈，区别只在于建立在真实的产业上，还是建立在债务和幻觉上。读懂过去的五次危机，是为了在下一次风暴来临时，你不是那个站在天台上发呆的人。</description>
+      <pubDate>Mon, 22 Jun 2026 07:13:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260622-episode-20260622-bede8c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《半小时漫画经济学 3：金融危机》是陈磊·半小时漫画团队的完结篇，用漫画加段子的方式，把一九七三年到二零零八年之间五次全球金融风暴一次讲透：从石油危机，到广场协议，到黑色星期一，到亚洲金融风暴，再到次贷危机。这本书最大的价值不在于记住一堆金融术语，而在于让人看懂一个反复出现的关键词——信心。它既是炸弹，也是救生圈，区别只在于建立在真实的产业上，还是建立在债务和幻觉上。读懂过去的五次危机，是为了在下一次风暴来临时，你不是那个站在天台上发呆的人。</itunes:summary>
+      <itunes:duration>00:27:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260622/episode-20260622-bede8c.mp3" length="26475309" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
