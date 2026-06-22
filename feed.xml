@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 22 Jun 2026 16:52:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 17:00:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6148,6 +6148,17 @@
       <itunes:duration>00:36:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-a16071.mp3" length="35233965" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《扫鼠岭》 · 完整版 · 扫鼠岭 · 完整讲读</title>
+      <description>《扫鼠岭》是呼延云创作的华语社会派推理代表作，二零零八年秋天西郊连环命案背后，藏着一座吃人的孤儿院和一条慈善洗钱暗网。刑警李志勇与犯罪心理学天才林香茗联手，在师傅呼延云引导下撕开尘封十年的黑箱，最终一个普通司机用命完成了这场迟到的清扫。本书直面程序失效后普通人能否用不完美的方式执行正义这一沉重命题，被视为近十年华语社会派推理的重要作品。</description>
+      <pubDate>Mon, 22 Jun 2026 16:59:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260623-episode-20260623-a79ae7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《扫鼠岭》是呼延云创作的华语社会派推理代表作，二零零八年秋天西郊连环命案背后，藏着一座吃人的孤儿院和一条慈善洗钱暗网。刑警李志勇与犯罪心理学天才林香茗联手，在师傅呼延云引导下撕开尘封十年的黑箱，最终一个普通司机用命完成了这场迟到的清扫。本书直面程序失效后普通人能否用不完美的方式执行正义这一沉重命题，被视为近十年华语社会派推理的重要作品。</itunes:summary>
+      <itunes:duration>00:28:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-a79ae7.mp3" length="26934957" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
