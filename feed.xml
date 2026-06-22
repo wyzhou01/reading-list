@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 22 Jun 2026 16:32:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 16:44:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6126,6 +6126,17 @@
       <itunes:duration>00:30:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-2954ab.mp3" length="28891821" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《德伯家的苔丝》 · 完整版 · 德伯家的苔丝 · 完整讲读</title>
+      <description>《德伯家的苔丝》是英国作家托马斯·哈代于一八九一年出版的长篇小说，副题叫作“一个纯洁的女人”，与《傲慢与偏见》《简·爱》并列英国文学经典。小说讲述十九世纪末一个贫苦农家少女苔丝，因父母贪慕虚荣，被送去一个伪称贵族的富户家里帮工，遭少爷亚历克侮辱失贞。后苔丝在牛奶厂遇到真爱克莱尔，新婚之夜坦白过去后遭丈夫遗弃。她辗转为生，最后走投无路再次回到亚历克身边，在与克莱尔短暂重逢后绝望杀死了亚历克，自己也被处绞刑。哈代借苔丝的一生，撕开了维多利亚时代那套伪善的贞洁道德，质问一个纯真的女人究竟需要活在怎样的社会里才能被允许做普通人。</description>
+      <pubDate>Mon, 22 Jun 2026 16:43:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260623-episode-20260623-a6a37e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《德伯家的苔丝》是英国作家托马斯·哈代于一八九一年出版的长篇小说，副题叫作“一个纯洁的女人”，与《傲慢与偏见》《简·爱》并列英国文学经典。小说讲述十九世纪末一个贫苦农家少女苔丝，因父母贪慕虚荣，被送去一个伪称贵族的富户家里帮工，遭少爷亚历克侮辱失贞。后苔丝在牛奶厂遇到真爱克莱尔，新婚之夜坦白过去后遭丈夫遗弃。她辗转为生，最后走投无路再次回到亚历克身边，在与克莱尔短暂重逢后绝望杀死了亚历克，自己也被处绞刑。哈代借苔丝的一生，撕开了维多利亚时代那套伪善的贞洁道德，质问一个纯真的女人究竟需要活在怎样的社会里才能被允许做普通人。</itunes:summary>
+      <itunes:duration>00:39:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-a6a37e.mp3" length="38049837" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
