@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 22 Jun 2026 16:44:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 16:52:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6137,6 +6137,17 @@
       <itunes:duration>00:39:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-a6a37e.mp3" length="38049837" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《闭经记》 · 完整版 · 闭经记 · 完整讲读</title>
+      <description>《闭经记》是日本女诗人伊藤比吕美的散文集，以五十多岁的身体为入口，写潮热、写经血、写衰老、写老犬的死亡、写母亲的离世，更写欧巴桑的生命力与自矜。她用坦白、放肆、温柔的语言，毫不回避身体的难堪，毫不掩饰欲望的炽烈，撕开「优雅老去」的主流话术，宣告闭经不是终点，是另一段人生的开始。</description>
+      <pubDate>Mon, 22 Jun 2026 16:52:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260623-episode-20260623-a16071</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《闭经记》是日本女诗人伊藤比吕美的散文集，以五十多岁的身体为入口，写潮热、写经血、写衰老、写老犬的死亡、写母亲的离世，更写欧巴桑的生命力与自矜。她用坦白、放肆、温柔的语言，毫不回避身体的难堪，毫不掩饰欲望的炽烈，撕开「优雅老去」的主流话术，宣告闭经不是终点，是另一段人生的开始。</itunes:summary>
+      <itunes:duration>00:36:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-a16071.mp3" length="35233965" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
