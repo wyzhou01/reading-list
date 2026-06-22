@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 22 Jun 2026 21:29:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 21:32:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6192,6 +6192,17 @@
       <itunes:duration>00:29:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-375b3c.mp3" length="28592685" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《入关》 · 完整版 · 入关 · 完整讲读</title>
+      <description>《入关》以明末清初的转折为核心，拆解了明清易代的历史逻辑：山海关为何被打开，明朝如何被自己的忠诚拆掉，清朝如何靠重新分配赢得天下。书中进一步讲述了巨变中普通人的裹挟、遗民的坚守，以及这段历史在今天留下的回响。这本书不只提供答案，更示范了一种读历史的方法——在每一个看似客观的叙述背后，多问几个为什么，在每一个大时代的转折处，看见普通人的真实处境。</description>
+      <pubDate>Mon, 22 Jun 2026 21:32:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260623-episode-20260623-5f2a12</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《入关》以明末清初的转折为核心，拆解了明清易代的历史逻辑：山海关为何被打开，明朝如何被自己的忠诚拆掉，清朝如何靠重新分配赢得天下。书中进一步讲述了巨变中普通人的裹挟、遗民的坚守，以及这段历史在今天留下的回响。这本书不只提供答案，更示范了一种读历史的方法——在每一个看似客观的叙述背后，多问几个为什么，在每一个大时代的转折处，看见普通人的真实处境。</itunes:summary>
+      <itunes:duration>00:25:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-5f2a12.mp3" length="24278445" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
