@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 22 Jun 2026 01:47:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 01:54:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6049,6 +6049,17 @@
       <itunes:duration>00:27:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260622/episode-20260622-99930b.mp3" length="26727981" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大唐兴亡三百年》 · 完整版 · 大唐兴亡三百年 · 完整讲读</title>
+      <description>《大唐兴亡三百年》以小说的笔法，正史的骨架，把李唐王朝二百八十九年的起承转合完整呈现。从隋炀帝因自负而亡国，到李渊后发制人建立唐朝；从玄武门喋血、贞观盛世，到安史之乱、藩镇割据、宦官专权、朋党相争，再到黄巢起义、朱温篡唐——作者王觉仁用七年时间、一百六十万字，写尽了一个帝国如何在盛世的辉煌里，一点一点走向崩塌。这本书不只是大唐的故事，更是所有庞大组织走向衰亡的共同剧本：自负让人看不见边界，权斗让制度形同虚设，扩张期的妥协成为收缩期的地雷，多病并发时无人能救。读懂大唐，便读懂了一种命运。</description>
+      <pubDate>Mon, 22 Jun 2026 01:53:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260622-episode-20260622-003db9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大唐兴亡三百年》以小说的笔法，正史的骨架，把李唐王朝二百八十九年的起承转合完整呈现。从隋炀帝因自负而亡国，到李渊后发制人建立唐朝；从玄武门喋血、贞观盛世，到安史之乱、藩镇割据、宦官专权、朋党相争，再到黄巢起义、朱温篡唐——作者王觉仁用七年时间、一百六十万字，写尽了一个帝国如何在盛世的辉煌里，一点一点走向崩塌。这本书不只是大唐的故事，更是所有庞大组织走向衰亡的共同剧本：自负让人看不见边界，权斗让制度形同虚设，扩张期的妥协成为收缩期的地雷，多病并发时无人能救。读懂大唐，便读懂了一种命运。</itunes:summary>
+      <itunes:duration>00:33:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260622/episode-20260622-003db9.mp3" length="32220333" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
