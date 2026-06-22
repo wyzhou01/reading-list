@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 22 Jun 2026 01:26:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 01:27:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -65,15 +65,15 @@
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260621/episode-20260621-02f551.mp3" length="18247725" type="audio/mpeg"/>
     </item>
     <item>
-      <title>好好读书 · 《何谓文化》 · 完整版 · </title>
-      <description></description>
-      <pubDate>Sun, 21 Jun 2026 00:23:00 +0000</pubDate>
-      <guid isPermaLink="false">reading-list-vv20260621-episode-20260621-25fcf5</guid>
+      <title>好好读书 · 《何谓文化》 · 完整版 · 何谓文化 · 完整讲读</title>
+      <description>《何谓文化》是余秋雨二零一二年的代表作，分四辑回答&quot;文化究竟是什么&quot;。学理部分给出全世界最短的文化定义——&quot;包含精神价值和生活方式的生态共同体&quot;，并以礼仪、君子、中庸三个&quot;道&quot;概括中华文化特性。生命部分追忆谢晋、黄佐临、巴金、周恩来、章培恒等文化巨匠。大地部分收录为都江堰、法门寺等遗址撰写的碑文。古典部分以现代散文重译《心经》《离骚》《逍遥游》《赤壁赋》四部经典。在文化被泛化成创意产业的今天，这本书依然是一个无法绕过的坐标。</description>
+      <pubDate>Sat, 20 Jun 2026 16:24:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260622-episode-20260622-25fcf5</guid>
       <itunes:author>好好读书组</itunes:author>
-      <itunes:summary></itunes:summary>
-      <itunes:duration>00:31:29</itunes:duration>
+      <itunes:summary>《何谓文化》是余秋雨二零一二年的代表作，分四辑回答&quot;文化究竟是什么&quot;。学理部分给出全世界最短的文化定义——&quot;包含精神价值和生活方式的生态共同体&quot;，并以礼仪、君子、中庸三个&quot;道&quot;概括中华文化特性。生命部分追忆谢晋、黄佐临、巴金、周恩来、章培恒等文化巨匠。大地部分收录为都江堰、法门寺等遗址撰写的碑文。古典部分以现代散文重译《心经》《离骚》《逍遥游》《赤壁赋》四部经典。在文化被泛化成创意产业的今天，这本书依然是一个无法绕过的坐标。</itunes:summary>
+      <itunes:duration>00:36:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260621/episode-20260621-25fcf5.mp3" length="34591149" type="audio/mpeg"/>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260622/episode-20260622-25fcf5.mp3" length="34591149" type="audio/mpeg"/>
     </item>
     <item>
       <title>好好读书 · 《受戒》 · 完整版 · 受戒 · 完整讲读</title>
