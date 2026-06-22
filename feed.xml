@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 22 Jun 2026 07:13:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 07:21:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6104,6 +6104,17 @@
       <itunes:duration>00:27:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260622/episode-20260622-bede8c.mp3" length="26475309" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《使女的故事》 · 完整版 · 使女的故事 · 完整讲读</title>
+      <description>《使女的故事》是加拿大作家玛格丽特·阿特伍德写于一九八五年的反乌托邦经典。小说虚构了一个由宗教激进主义建立的基列共和国，女性被剥夺财产、姓名与自由，按生育功能划分为夫人、使女、马大、荡妇等角色。主人公奥芙弗雷德沦为一名&quot;国有资源&quot;，她的身体成为政治战场，她的名字被改写成主人的附属品，她只能用记忆与旧语言守住残存的自我。本书借未来之镜，映照极权、宗教、身体政治与女性处境；它不预言未来，而是提醒我们：历史是被档案与权力筛选后的残渣，所有沉默的、未被记录的哭声，才是历史真正的主体。</description>
+      <pubDate>Mon, 22 Jun 2026 07:21:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260622-episode-20260622-890f94</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《使女的故事》是加拿大作家玛格丽特·阿特伍德写于一九八五年的反乌托邦经典。小说虚构了一个由宗教激进主义建立的基列共和国，女性被剥夺财产、姓名与自由，按生育功能划分为夫人、使女、马大、荡妇等角色。主人公奥芙弗雷德沦为一名&quot;国有资源&quot;，她的身体成为政治战场，她的名字被改写成主人的附属品，她只能用记忆与旧语言守住残存的自我。本书借未来之镜，映照极权、宗教、身体政治与女性处境；它不预言未来，而是提醒我们：历史是被档案与权力筛选后的残渣，所有沉默的、未被记录的哭声，才是历史真正的主体。</itunes:summary>
+      <itunes:duration>00:31:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260622/episode-20260622-890f94.mp3" length="30476973" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
