@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 22 Jun 2026 01:45:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 01:47:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6038,6 +6038,17 @@
       <itunes:duration>00:32:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260622/episode-20260622-5d42a2.mp3" length="31105581" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《呐喊：百年纪念版》 · 完整版 · 呐喊：百年纪念版 · 完整讲读</title>
+      <description>本期深度解读鲁迅《呐喊》百年纪念版，按初版顺序讲完全书十五篇小说——从《狂人日记》的&quot;吃人&quot;到《阿Q正传》的精神胜利法，从《孔乙己》的看客笑谈到《社戏》的少年温情。聚焦三大母题：封建礼教与国民性的批判、底层民众的精神麻木与苦难、启蒙者的孤独与呐喊的必要性，并独家解析鲁迅亲手从初版抽掉的《不周山》及其与全书反讽结构的隐秘关系。</description>
+      <pubDate>Mon, 22 Jun 2026 01:46:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260622-episode-20260622-99930b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期深度解读鲁迅《呐喊》百年纪念版，按初版顺序讲完全书十五篇小说——从《狂人日记》的&quot;吃人&quot;到《阿Q正传》的精神胜利法，从《孔乙己》的看客笑谈到《社戏》的少年温情。聚焦三大母题：封建礼教与国民性的批判、底层民众的精神麻木与苦难、启蒙者的孤独与呐喊的必要性，并独家解析鲁迅亲手从初版抽掉的《不周山》及其与全书反讽结构的隐秘关系。</itunes:summary>
+      <itunes:duration>00:27:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260622/episode-20260622-99930b.mp3" length="26727981" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
