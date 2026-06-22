@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 22 Jun 2026 01:54:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 01:58:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6060,6 +6060,17 @@
       <itunes:duration>00:33:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260622/episode-20260622-003db9.mp3" length="32220333" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《当尼采哭泣》 · 完整版 · 当尼采哭泣(欧文·亚隆) · 完整讲读</title>
+      <description>《当尼采哭泣》是美国存在主义心理治疗大师欧文·亚隆的代表作。小说以十九世纪末维也纳为背景，虚构了一场存在主义先驱尼采与精神分析先驱布雷尔之间的“谈话治疗”：一个陷入中年危机与禁忌欲望的名医，被迫面对自己的恐惧；一个被绝望困住的哲学家，被迫审视自己的孤独。两个人在治疗关系中彼此照见，一起撞上了存在主义最核心的四个议题——死亡、自由、孤独、意义。亚隆用平易近人的小说笔法，把催眠、精神分析、完形治疗、存在心理治疗等技术不着痕迹地织进对话与情节，让读者在阅读小说的过程中，自然进入关于自我探索、中年危机、婚姻困境、操纵与索求的“终身大事”。这本书既是一份心理治疗的源起档案，也是一面照见每个人内心真相的镜子。读完之后你会发现：当名医遇见超人，所发生的事情，和你我这些凡夫俗子在生活中相遇所发生的事情，其实是大同小异的。</description>
+      <pubDate>Mon, 22 Jun 2026 01:57:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260622-episode-20260622-00c3ec</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《当尼采哭泣》是美国存在主义心理治疗大师欧文·亚隆的代表作。小说以十九世纪末维也纳为背景，虚构了一场存在主义先驱尼采与精神分析先驱布雷尔之间的“谈话治疗”：一个陷入中年危机与禁忌欲望的名医，被迫面对自己的恐惧；一个被绝望困住的哲学家，被迫审视自己的孤独。两个人在治疗关系中彼此照见，一起撞上了存在主义最核心的四个议题——死亡、自由、孤独、意义。亚隆用平易近人的小说笔法，把催眠、精神分析、完形治疗、存在心理治疗等技术不着痕迹地织进对话与情节，让读者在阅读小说的过程中，自然进入关于自我探索、中年危机、婚姻困境、操纵与索求的“终身大事”。这本书既是一份心理治疗的源起档案，也是一面照见每个人内心真相的镜子。读完之后你会发现：当名医遇见超人，所发生的事情，和你我这些凡夫俗子在生活中相遇所发生的事情，其实是大同小异的。</itunes:summary>
+      <itunes:duration>00:25:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260622/episode-20260622-00c3ec.mp3" length="24053421" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
