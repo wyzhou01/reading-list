@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 21 Jun 2026 22:28:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 01:21:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5972,6 +5972,17 @@
       <itunes:duration>00:31:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260622/episode-20260622-ab05de.mp3" length="30104877" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《乡土中国》 · 完整版 · 乡土中国 · 完整讲读</title>
+      <description>《乡土中国》是费孝通先生一九四七年写成的社会学经典，它从土地、熟人、伦理、权力、文化六个维度，拆解了中国社会的底层密码。差序格局揭示了中国人独特的波纹式人伦结构；礼俗秩序说明了乡土社会里规矩如何替代法律；长老权力则剖析了年长者在农业社会里压倒性的权威来源。整本书不是要怀旧，而是要帮我们看清：今天的人情、面子、代际冲突、职场亲疏，根子都在这套延续了几千年的乡土逻辑里。读懂它，你才拥有一双看懂中国人底色的眼睛。</description>
+      <pubDate>Mon, 22 Jun 2026 01:21:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260622-episode-20260622-1c7663</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《乡土中国》是费孝通先生一九四七年写成的社会学经典，它从土地、熟人、伦理、权力、文化六个维度，拆解了中国社会的底层密码。差序格局揭示了中国人独特的波纹式人伦结构；礼俗秩序说明了乡土社会里规矩如何替代法律；长老权力则剖析了年长者在农业社会里压倒性的权威来源。整本书不是要怀旧，而是要帮我们看清：今天的人情、面子、代际冲突、职场亲疏，根子都在这套延续了几千年的乡土逻辑里。读懂它，你才拥有一双看懂中国人底色的眼睛。</itunes:summary>
+      <itunes:duration>00:37:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260622/episode-20260622-1c7663.mp3" length="35738541" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
