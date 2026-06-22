@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 22 Jun 2026 21:24:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 21:29:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6181,6 +6181,17 @@
       <itunes:duration>00:26:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-5f6997.mp3" length="25713453" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《顾准文集》 · 完整版 · 顾准文集 · 完整讲读</title>
+      <description>《顾准文集》是中国思想史上一部独特的作品。顾准是上世纪五十至七十年代的一位革命者与思想家，在被划为右派、剥夺一切、妻子自尽、亲手销毁自己手稿之后，于生命最后两年的十几平米宿舍里，以读书笔记和兄弟通信的形式，完成了《希腊城邦制度》与《从理想主义到经验主义》两部核心著作。本书由其胞弟陈敏之搜集整理，一九九四年出版后震动知识界。本期节目用五块拼图解读：经验主义取代教条、价值规律与市场经济、代议民主优于直接民主、史官文化批判、希腊海上文明对科学与民主的孕育。这不仅是一部文集，更是一条穿越黑暗的思想隧道，对今天中国的现代化转型，依然具有不可替代的启示。</description>
+      <pubDate>Mon, 22 Jun 2026 21:28:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260623-episode-20260623-375b3c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《顾准文集》是中国思想史上一部独特的作品。顾准是上世纪五十至七十年代的一位革命者与思想家，在被划为右派、剥夺一切、妻子自尽、亲手销毁自己手稿之后，于生命最后两年的十几平米宿舍里，以读书笔记和兄弟通信的形式，完成了《希腊城邦制度》与《从理想主义到经验主义》两部核心著作。本书由其胞弟陈敏之搜集整理，一九九四年出版后震动知识界。本期节目用五块拼图解读：经验主义取代教条、价值规律与市场经济、代议民主优于直接民主、史官文化批判、希腊海上文明对科学与民主的孕育。这不仅是一部文集，更是一条穿越黑暗的思想隧道，对今天中国的现代化转型，依然具有不可替代的启示。</itunes:summary>
+      <itunes:duration>00:29:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-375b3c.mp3" length="28592685" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
