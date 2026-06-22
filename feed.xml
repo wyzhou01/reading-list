@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 22 Jun 2026 01:21:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 01:25:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -5983,6 +5983,17 @@
       <itunes:duration>00:37:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260622/episode-20260622-1c7663.mp3" length="35738541" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《事实》 · 完整版 · 事实 · 完整讲读</title>
+      <description>《事实》是瑞典医生汉斯·罗斯林的遗作。他发现，无论普通人还是精英，对世界基本事实的无知都达到了&quot;不如大猩猩随机猜&quot;的程度，而这些错误是系统性地偏向负面。他总结出十大思维本能——一分为二、负面思维、直线思维、恐惧本能、规模错觉、以偏概全、命中注定、单一视角、归咎他人、情急生乱——并为每一种本能设计了一套可操作的思维工具。这本书不是抽象的认知科学，而是一份写给普通人的实战手册，核心主张是：世界没有我们感觉的那么糟糕，事实不是悲观的敌人，而是希望的真正基础。</description>
+      <pubDate>Sat, 20 Jun 2026 14:30:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260622-episode-20260622-c656a9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《事实》是瑞典医生汉斯·罗斯林的遗作。他发现，无论普通人还是精英，对世界基本事实的无知都达到了&quot;不如大猩猩随机猜&quot;的程度，而这些错误是系统性地偏向负面。他总结出十大思维本能——一分为二、负面思维、直线思维、恐惧本能、规模错觉、以偏概全、命中注定、单一视角、归咎他人、情急生乱——并为每一种本能设计了一套可操作的思维工具。这本书不是抽象的认知科学，而是一份写给普通人的实战手册，核心主张是：世界没有我们感觉的那么糟糕，事实不是悲观的敌人，而是希望的真正基础。</itunes:summary>
+      <itunes:duration>00:23:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260622/episode-20260622-c656a9.mp3" length="22144173" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
