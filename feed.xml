@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 22 Jun 2026 01:27:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 01:32:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6005,6 +6005,17 @@
       <itunes:duration>00:45:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260622/episode-20260622-b1ba2b.mp3" length="43762605" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《动物农场》 · 完整版 · 动物农场译文经典 · 完整讲读</title>
+      <description>《动物农场》是乔治·奥威尔一九四五年写成的反乌托邦寓言。一群动物赶走农场主琼斯后，理想主义迅速被野心取代。猪拿破仑在九条恶狗和宣传家吱嘎的辅佐下，篡改《七诫》、屠杀异己、把&quot;所有动物一律平等&quot;悄悄改写为&quot;有些动物比别的动物更平等&quot;。奥威尔以童话的形式，写出了革命如何变质、谎言如何被集体默认、权力如何把曾经的解放者变成压迫者。这是一本不到十万字的政治童话，是一面照进现实的镜子，也是一本写给所有愿意独立思考的人的警钟。</description>
+      <pubDate>Mon, 22 Jun 2026 01:32:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260622-episode-20260622-fbdc43</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《动物农场》是乔治·奥威尔一九四五年写成的反乌托邦寓言。一群动物赶走农场主琼斯后，理想主义迅速被野心取代。猪拿破仑在九条恶狗和宣传家吱嘎的辅佐下，篡改《七诫》、屠杀异己、把&quot;所有动物一律平等&quot;悄悄改写为&quot;有些动物比别的动物更平等&quot;。奥威尔以童话的形式，写出了革命如何变质、谎言如何被集体默认、权力如何把曾经的解放者变成压迫者。这是一本不到十万字的政治童话，是一面照进现实的镜子，也是一本写给所有愿意独立思考的人的警钟。</itunes:summary>
+      <itunes:duration>00:29:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260622/episode-20260622-fbdc43.mp3" length="27843501" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
