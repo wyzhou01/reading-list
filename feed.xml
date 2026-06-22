@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 22 Jun 2026 17:06:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 21:24:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6170,6 +6170,17 @@
       <itunes:duration>00:28:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-57880d.mp3" length="27403053" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《有人跳舞》 · 完整版 · 有人跳舞 · 完整讲读</title>
+      <description>辽京的短篇集《有人跳舞》收录了二零一九到二零二二年间的十一个故事。一只纯种短毛猫在深夜地震的废墟里穿行，找到了新的据点；一栋违建公寓里，住着不敢给猫起名字的年轻女人、研究菜谱的中年男人、在银行柜台后忽然醒来的机器人。当秩序失效、亲密关系藏着秘密、科技追问“我是谁”——人和那些非人的存在，该怎样在城市的边缘，重新找到自己的立足点？辽京用一种她称之为“生产”的朴素笔法，从混乱的生活里提炼一点永久的东西，建一所可以自由走进取暖的小房子。</description>
+      <pubDate>Mon, 22 Jun 2026 21:24:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260623-episode-20260623-5f6997</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>辽京的短篇集《有人跳舞》收录了二零一九到二零二二年间的十一个故事。一只纯种短毛猫在深夜地震的废墟里穿行，找到了新的据点；一栋违建公寓里，住着不敢给猫起名字的年轻女人、研究菜谱的中年男人、在银行柜台后忽然醒来的机器人。当秩序失效、亲密关系藏着秘密、科技追问“我是谁”——人和那些非人的存在，该怎样在城市的边缘，重新找到自己的立足点？辽京用一种她称之为“生产”的朴素笔法，从混乱的生活里提炼一点永久的东西，建一所可以自由走进取暖的小房子。</itunes:summary>
+      <itunes:duration>00:26:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-5f6997.mp3" length="25713453" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
