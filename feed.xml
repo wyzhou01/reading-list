@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 23 Jun 2026 06:51:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 06:53:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6412,6 +6412,17 @@
       <itunes:duration>00:30:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-1b9fe1.mp3" length="28820397" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《通往奴役之路》 · 完整版 · 通往奴役之路 · 完整讲读</title>
+      <description>《通往奴役之路》是哈耶克写于一九四四年的警世之作，核心论点是：所有形式的集体主义经济计划，无论出于多么崇高的目的，都将沿着同一条道路滑向极权。本书以二战前夕欧洲的历史经验为镜，系统论证了计划经济如何一步步碾碎法治、收编真理、把最坏的人推上权力顶峰。哈耶克并不反对社会公平，而是警告我们：通往奴役之路往往由善意铺就，良好的愿望无法替代良好的制度。今天，当福利国家、宏观调控、产业政策再次叩问政府边界的时候，本书依然是一面不可绕过的镜子。</description>
+      <pubDate>Tue, 23 Jun 2026 06:53:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260623-episode-20260623-4d4d63</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《通往奴役之路》是哈耶克写于一九四四年的警世之作，核心论点是：所有形式的集体主义经济计划，无论出于多么崇高的目的，都将沿着同一条道路滑向极权。本书以二战前夕欧洲的历史经验为镜，系统论证了计划经济如何一步步碾碎法治、收编真理、把最坏的人推上权力顶峰。哈耶克并不反对社会公平，而是警告我们：通往奴役之路往往由善意铺就，良好的愿望无法替代良好的制度。今天，当福利国家、宏观调控、产业政策再次叩问政府边界的时候，本书依然是一面不可绕过的镜子。</itunes:summary>
+      <itunes:duration>00:31:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-4d4d63.mp3" length="29931693" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
