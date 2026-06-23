@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 23 Jun 2026 01:18:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 01:19:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6324,6 +6324,17 @@
       <itunes:duration>00:27:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-a66336.mp3" length="26492589" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《第七天》 · 完整版 · 第七天 · 完整讲读</title>
+      <description>《第七天》是余华二零一三年的长篇小说，借《旧约》七日创世的框架，写一个叫杨飞的男人死后七天的亡灵漫游。他在殡仪馆等候火化时目睹了寿衣与骨灰盒的贫富分界，遇见了前妻、养父、被强拆的邻居、在地下防空洞相爱的年轻人伍超与鼠妹。书中以冷峻克制的笔法，把强拆、冤案、卖肾、少女跳楼等当代中国新闻事件编入亡灵叙事，最终抵达一片没有贫贱富贵、没有悲伤疼痛的&quot;死无葬身之地&quot;。本书是余华时隔七年后的首部长篇，也是他对底层生命尊严与荒诞现实的一次亡灵式审判。</description>
+      <pubDate>Tue, 23 Jun 2026 01:19:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260623-episode-20260623-5d851d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《第七天》是余华二零一三年的长篇小说，借《旧约》七日创世的框架，写一个叫杨飞的男人死后七天的亡灵漫游。他在殡仪馆等候火化时目睹了寿衣与骨灰盒的贫富分界，遇见了前妻、养父、被强拆的邻居、在地下防空洞相爱的年轻人伍超与鼠妹。书中以冷峻克制的笔法，把强拆、冤案、卖肾、少女跳楼等当代中国新闻事件编入亡灵叙事，最终抵达一片没有贫贱富贵、没有悲伤疼痛的&quot;死无葬身之地&quot;。本书是余华时隔七年后的首部长篇，也是他对底层生命尊严与荒诞现实的一次亡灵式审判。</itunes:summary>
+      <itunes:duration>00:34:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-5d851d.mp3" length="32685741" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
