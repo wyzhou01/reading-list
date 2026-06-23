@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 23 Jun 2026 16:27:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 16:33:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6555,6 +6555,17 @@
       <itunes:duration>00:22:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260624/episode-20260624-4af106.mp3" length="21293613" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《星际旅行日记》 · 完整版 · 星际旅行日记 · 完整讲读</title>
+      <description>《星际旅行日记》是波兰科幻大师莱姆历时二十年写成的思想实验集。它借宇航员蒂奇的十四次荒诞航行，把读者拽进一连串哲学漩涡：意识能否复制、文明是否分等级、文本能不能自己繁衍、进化有没有方向、创造者会不会消失、人凭什么相信&quot;我是谁&quot;。在 AI 飞速重写世界的今天，这本六十年前的小书，依然是一面照向人类自负的镜子。</description>
+      <pubDate>Tue, 23 Jun 2026 16:33:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260624-episode-20260624-494e42</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《星际旅行日记》是波兰科幻大师莱姆历时二十年写成的思想实验集。它借宇航员蒂奇的十四次荒诞航行，把读者拽进一连串哲学漩涡：意识能否复制、文明是否分等级、文本能不能自己繁衍、进化有没有方向、创造者会不会消失、人凭什么相信&quot;我是谁&quot;。在 AI 飞速重写世界的今天，这本六十年前的小书，依然是一面照向人类自负的镜子。</itunes:summary>
+      <itunes:duration>00:25:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260624/episode-20260624-494e42.mp3" length="24794925" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
