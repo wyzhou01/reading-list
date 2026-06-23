@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 23 Jun 2026 07:03:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 07:10:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6456,6 +6456,17 @@
       <itunes:duration>00:33:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-0d993a.mp3" length="32198445" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《吉卜力的天才们》 · 完整版 · 吉卜力的天才们 · 完整讲读</title>
+      <description>《吉卜力的天才们》是吉卜力工作室联合创始人、核心制片人铃木敏夫亲述的幕后史。本书源于近两年、累计四十多小时的深度访谈，从一九七八年《Animage》杂志创刊讲起，一直讲到二〇一四年《记忆中的玛妮》，覆盖吉卜力二十部作品的诞生、危机、豪赌与奇迹。与多数站在导演视角的吉卜力著作不同，本书罕见地从制片人视角揭开动画工业最隐秘的一环：钱从哪里来，人怎么聚在一起，创意和现实如何碰撞。铃木敏夫用近乎谦卑的语气，讲述了宫崎骏为何在《风之谷》成功后说自己再也不当导演、高畑勋为何在笔记本上写下“我不适合做制片人”、以及《幽灵公主》《千与千寻》背后那些几乎毁掉吉卜力的艰难时刻。贯穿全书的关键词是“赌”，而这本书真正想告诉读者的是：所谓吉卜力奇迹，本质上是一群偏执的天才，遇到了一个愿意陪他们赌、也愿意在他们失控时把他们拉回来的人。</description>
+      <pubDate>Tue, 23 Jun 2026 07:09:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260623-episode-20260623-ca1d4c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《吉卜力的天才们》是吉卜力工作室联合创始人、核心制片人铃木敏夫亲述的幕后史。本书源于近两年、累计四十多小时的深度访谈，从一九七八年《Animage》杂志创刊讲起，一直讲到二〇一四年《记忆中的玛妮》，覆盖吉卜力二十部作品的诞生、危机、豪赌与奇迹。与多数站在导演视角的吉卜力著作不同，本书罕见地从制片人视角揭开动画工业最隐秘的一环：钱从哪里来，人怎么聚在一起，创意和现实如何碰撞。铃木敏夫用近乎谦卑的语气，讲述了宫崎骏为何在《风之谷》成功后说自己再也不当导演、高畑勋为何在笔记本上写下“我不适合做制片人”、以及《幽灵公主》《千与千寻》背后那些几乎毁掉吉卜力的艰难时刻。贯穿全书的关键词是“赌”，而这本书真正想告诉读者的是：所谓吉卜力奇迹，本质上是一群偏执的天才，遇到了一个愿意陪他们赌、也愿意在他们失控时把他们拉回来的人。</itunes:summary>
+      <itunes:duration>00:34:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-ca1d4c.mp3" length="33337005" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
