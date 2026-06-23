@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 23 Jun 2026 06:59:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 07:01:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6434,6 +6434,17 @@
       <itunes:duration>00:27:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-62278a.mp3" length="26756781" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《目光》 · 完整版 · 目光 · 完整讲读</title>
+      <description>《目光》是眼科医生陶勇在遭遇震惊全国的暴力伤医事件后，写下的一部哲思随笔。书中，他以冷静克制的笔触，回顾从医初心、盲人世界的尊严、对善恶生死的深度思考，提出「把厄运当作石头，搬开它继续前行」的生命哲学。这不是一本控诉之书，而是一份用血与泪写就的精神处方。</description>
+      <pubDate>Tue, 23 Jun 2026 07:01:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260623-episode-20260623-4909a1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《目光》是眼科医生陶勇在遭遇震惊全国的暴力伤医事件后，写下的一部哲思随笔。书中，他以冷静克制的笔触，回顾从医初心、盲人世界的尊严、对善恶生死的深度思考，提出「把厄运当作石头，搬开它继续前行」的生命哲学。这不是一本控诉之书，而是一份用血与泪写就的精神处方。</itunes:summary>
+      <itunes:duration>00:28:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-4909a1.mp3" length="27786285" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
