@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 23 Jun 2026 21:36:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 21:39:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6632,6 +6632,17 @@
       <itunes:duration>00:31:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260624/episode-20260624-c7d326.mp3" length="30347181" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《今生今世》 · 完整版 · 今生今世 · 完整讲读</title>
+      <description>胡兰成流亡日本期间写成的散文体自传，以&apos;中国民间&apos;为底色，追忆从浙东胡村少年时光、燕京求学、广西教书，到抗战时期与张爱玲婚恋、流亡天涯的半生经历。书中以诗性的笔法写人世风景、礼乐山河、男女情事与文明兴亡，既是个人的生命史，也是对&apos;民国&apos;与&apos;中国民间&apos;的一份深情回望。文字清朗喜气，张爱玲题名，视为胡兰成一生集大成之作。</description>
+      <pubDate>Tue, 23 Jun 2026 21:39:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260624-episode-20260624-5ba5ff</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>胡兰成流亡日本期间写成的散文体自传，以&apos;中国民间&apos;为底色，追忆从浙东胡村少年时光、燕京求学、广西教书，到抗战时期与张爱玲婚恋、流亡天涯的半生经历。书中以诗性的笔法写人世风景、礼乐山河、男女情事与文明兴亡，既是个人的生命史，也是对&apos;民国&apos;与&apos;中国民间&apos;的一份深情回望。文字清朗喜气，张爱玲题名，视为胡兰成一生集大成之作。</itunes:summary>
+      <itunes:duration>00:24:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260624/episode-20260624-5ba5ff.mp3" length="23188269" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
