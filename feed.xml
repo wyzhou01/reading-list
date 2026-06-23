@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 23 Jun 2026 06:27:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 06:35:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6357,6 +6357,17 @@
       <itunes:duration>00:29:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-d2040e.mp3" length="28227885" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《被遗弃的日子》 · 完整版 · 被遗弃的日子 · 完整讲读</title>
+      <description>意大利作家埃莱娜·费兰特的小说《被遗弃的日子》，讲述了一个叫奥莉娅的女人，在毫无征兆的情况下，被结婚十五年的丈夫抛弃。她独自面对两个孩子、一条狗、一间空房子，还要面对童年记忆里那个“弃妇”邻居的影子。她在自我克制和彻底崩溃之间反复撕扯，最后从恐惧、羞耻、暴力中挣脱出来，重新拿回了对自己身体和生活的掌控。这本书写的不是“三天逆袭”的爽文，而是一个女人最真实的、漫长的、几乎要把人吞噬的坠落和重建。</description>
+      <pubDate>Tue, 23 Jun 2026 06:34:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260623-episode-20260623-0abffa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>意大利作家埃莱娜·费兰特的小说《被遗弃的日子》，讲述了一个叫奥莉娅的女人，在毫无征兆的情况下，被结婚十五年的丈夫抛弃。她独自面对两个孩子、一条狗、一间空房子，还要面对童年记忆里那个“弃妇”邻居的影子。她在自我克制和彻底崩溃之间反复撕扯，最后从恐惧、羞耻、暴力中挣脱出来，重新拿回了对自己身体和生活的掌控。这本书写的不是“三天逆袭”的爽文，而是一个女人最真实的、漫长的、几乎要把人吞噬的坠落和重建。</itunes:summary>
+      <itunes:duration>00:27:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-0abffa.mp3" length="26751789" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
