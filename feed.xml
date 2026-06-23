@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 23 Jun 2026 01:06:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 01:07:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6258,6 +6258,17 @@
       <itunes:duration>00:23:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-7cbc01.mp3" length="22624173" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《星之子》 · 完整版 · 星之子 · 完整讲读</title>
+      <description>《星之子》是日本作家今村夏子二零一七年出版的代表作，以一个名叫千寻的女孩的冷静口吻，记录她家如何从一桶“神水”开始，一步步走进名为“金星的恩惠”的家庭式教团。温水变圣水，毛巾升圣物，散步变朝圣。父母在“爱”的名义下把孩子交出去，连试图揭穿的小舅都被球拍和菜刀赶出门外。这本书不控诉、不煽情，只用近乎临床的克制，让恐怖藏在最日常的细节里。它提醒我们：信仰最危险的样子，不在山顶的神殿，而在餐桌上那壶泡茶的水。</description>
+      <pubDate>Tue, 23 Jun 2026 01:07:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260623-episode-20260623-70a463</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《星之子》是日本作家今村夏子二零一七年出版的代表作，以一个名叫千寻的女孩的冷静口吻，记录她家如何从一桶“神水”开始，一步步走进名为“金星的恩惠”的家庭式教团。温水变圣水，毛巾升圣物，散步变朝圣。父母在“爱”的名义下把孩子交出去，连试图揭穿的小舅都被球拍和菜刀赶出门外。这本书不控诉、不煽情，只用近乎临床的克制，让恐怖藏在最日常的细节里。它提醒我们：信仰最危险的样子，不在山顶的神殿，而在餐桌上那壶泡茶的水。</itunes:summary>
+      <itunes:duration>00:24:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-70a463.mp3" length="23690925" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
