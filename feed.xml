@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 23 Jun 2026 00:59:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 01:03:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6236,6 +6236,17 @@
       <itunes:duration>00:25:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-4564f6.mp3" length="24318765" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《十三邀3：我们都在给大问题做注脚》 · 完整版 · 十三邀3 · 完整讲读</title>
+      <description>《十三邀三》是许知远访谈节目的第三季文字实录，收录与许倬云、白先勇、陈嘉映、金宇澄、项飙、赫拉利等十二组嘉宾的深度长谈，并以一场寻找谭嗣同的行走收束。横跨历史、文学、哲学、考古、人类学、金融、诗歌、国际关系，几乎构成当代中国思想界的横切面。书中没有标准答案，却反复回到一个问题：在信息过载、答案像快餐一样随手可得的年代，一个人如何仍然能够独立思考、诚实表达、勇敢承担。这本书想留住的，是提问的能力，是坐下来说完一段话的耐心。</description>
+      <pubDate>Tue, 23 Jun 2026 01:03:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260623-episode-20260623-367eab</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《十三邀三》是许知远访谈节目的第三季文字实录，收录与许倬云、白先勇、陈嘉映、金宇澄、项飙、赫拉利等十二组嘉宾的深度长谈，并以一场寻找谭嗣同的行走收束。横跨历史、文学、哲学、考古、人类学、金融、诗歌、国际关系，几乎构成当代中国思想界的横切面。书中没有标准答案，却反复回到一个问题：在信息过载、答案像快餐一样随手可得的年代，一个人如何仍然能够独立思考、诚实表达、勇敢承担。这本书想留住的，是提问的能力，是坐下来说完一段话的耐心。</itunes:summary>
+      <itunes:duration>00:30:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-367eab.mp3" length="29132205" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
