@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 23 Jun 2026 07:27:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 07:28:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6500,6 +6500,17 @@
       <itunes:duration>00:33:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-c5a006.mp3" length="32537901" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《蚁群》 · 完整版 · 蚁群 · 完整讲读</title>
+      <description>《蚁群》是汤问棘创作的反乌托邦长篇，背景设定在五零一城——一座由智能设备、量子计算与社会价值积分全面接管人类生活的未来都市。小说借漏洞管理局队长δ-柔的视角，层层揭开系统对道德、思想、意识、身体、语言乃至死亡的全面重塑：当一切都被换算成积分，人是否还是人？全书以六块拼图般的洞察，追问技术乌托邦下个体自由的边界，并以δ-柔冻死于无人区的悲壮结局，给出作者的答案——人有人的用处，哪怕只是一首没用的诗，也胜过整个精密的系统。</description>
+      <pubDate>Tue, 23 Jun 2026 07:27:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260623-episode-20260623-9effc9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《蚁群》是汤问棘创作的反乌托邦长篇，背景设定在五零一城——一座由智能设备、量子计算与社会价值积分全面接管人类生活的未来都市。小说借漏洞管理局队长δ-柔的视角，层层揭开系统对道德、思想、意识、身体、语言乃至死亡的全面重塑：当一切都被换算成积分，人是否还是人？全书以六块拼图般的洞察，追问技术乌托邦下个体自由的边界，并以δ-柔冻死于无人区的悲壮结局，给出作者的答案——人有人的用处，哪怕只是一首没用的诗，也胜过整个精密的系统。</itunes:summary>
+      <itunes:duration>00:24:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-9effc9.mp3" length="23751981" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
