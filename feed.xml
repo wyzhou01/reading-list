@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 23 Jun 2026 06:48:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 06:51:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6401,6 +6401,17 @@
       <itunes:duration>00:22:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-1e46b2.mp3" length="21669549" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《苏东坡新传》 · 完整版 · 苏东坡新传 · 完整讲读</title>
+      <description>《苏东坡新传》是李一冰在冤狱之中写就的七十余万字巨著。他以蒙冤者写蒙冤者，从东坡四十四岁贬谪黄州写起，把千年前的命运与自己的苦难重叠，写出了一个文人在党争与困顿中如何安顿自己、活出尊严的精神史。本书通过七大主题拼图，深情再现东坡从乌台诗案的濒死、出狱后的垦荒，到惠州与儋州的流放、最终北归病逝的完整历程，揭示其从苦闷走向旷达、从脆弱走向韧性的生命力量。它不仅是一部文人传记，更是一部关于人在绝境中如何重新定义自己、活成完整之人的精神之书。</description>
+      <pubDate>Tue, 23 Jun 2026 06:50:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260623-episode-20260623-1b9fe1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《苏东坡新传》是李一冰在冤狱之中写就的七十余万字巨著。他以蒙冤者写蒙冤者，从东坡四十四岁贬谪黄州写起，把千年前的命运与自己的苦难重叠，写出了一个文人在党争与困顿中如何安顿自己、活出尊严的精神史。本书通过七大主题拼图，深情再现东坡从乌台诗案的濒死、出狱后的垦荒，到惠州与儋州的流放、最终北归病逝的完整历程，揭示其从苦闷走向旷达、从脆弱走向韧性的生命力量。它不仅是一部文人传记，更是一部关于人在绝境中如何重新定义自己、活成完整之人的精神之书。</itunes:summary>
+      <itunes:duration>00:30:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-1b9fe1.mp3" length="28820397" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
