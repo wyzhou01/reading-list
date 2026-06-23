@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 23 Jun 2026 06:47:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 06:48:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6390,6 +6390,17 @@
       <itunes:duration>00:29:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-8d278c.mp3" length="28061229" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《梁永安：爱情这门课你可别挂科》 · 完整版 · 梁永安：爱情这门课你可别挂科 · 完整讲读</title>
+      <description>《爱情这门课你可别挂科》是复旦大学梁永安老师以十部世界文学名著为载体，拆解现代人爱情困境的文学课。在中国从农业社会快步迈入工业与后工业社会的速朽时代，爱情成了最奢侈的愿望。梁永安老师用《苔丝》《简·爱》《包法利夫人》《安娜·卡列尼娜》《霍乱时期的爱情》等作品，回答现代人绕不过去的问题：女性如何在爱情中走出依附、走向精神独立；男性如何超越身体欲望、学会对女性真正的精神尊重；相遇的惊艳之后，如何在日常的磨损里让爱继续生长；以及更根本的——软弱为什么会吞噬爱情，真正的爱又为什么只会降临在成熟的人身上。全书不教恋爱技巧，只照亮那些说不清道不明的情感真相，提醒我们：爱是一种能力，识别真爱的前提，是我们自己先长成一个完整的人。</description>
+      <pubDate>Tue, 23 Jun 2026 06:48:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260623-episode-20260623-1e46b2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《爱情这门课你可别挂科》是复旦大学梁永安老师以十部世界文学名著为载体，拆解现代人爱情困境的文学课。在中国从农业社会快步迈入工业与后工业社会的速朽时代，爱情成了最奢侈的愿望。梁永安老师用《苔丝》《简·爱》《包法利夫人》《安娜·卡列尼娜》《霍乱时期的爱情》等作品，回答现代人绕不过去的问题：女性如何在爱情中走出依附、走向精神独立；男性如何超越身体欲望、学会对女性真正的精神尊重；相遇的惊艳之后，如何在日常的磨损里让爱继续生长；以及更根本的——软弱为什么会吞噬爱情，真正的爱又为什么只会降临在成熟的人身上。全书不教恋爱技巧，只照亮那些说不清道不明的情感真相，提醒我们：爱是一种能力，识别真爱的前提，是我们自己先长成一个完整的人。</itunes:summary>
+      <itunes:duration>00:22:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-1e46b2.mp3" length="21669549" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
