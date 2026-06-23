@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 23 Jun 2026 21:39:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 21:44:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6643,6 +6643,17 @@
       <itunes:duration>00:24:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260624/episode-20260624-5ba5ff.mp3" length="23188269" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《还是得活在日常里啊》 · 完整版 · 还是得活在日常里啊 · 完整讲读</title>
+      <description>《还是得活在日常里啊》是日本导演是枝裕和与女演员树木希林长达十二年的对谈集。两人自二〇〇七年《步履不停》起合作，至二〇一八年《小偷家族》收官。本书围绕“表演”展开，希林老师分享如何在弯腰提拖鞋、织毛线说台词这类寻常动作里藏住角色一生，如何在脱离日常与回归日常之间精准控制节奏。是枝导演则在每篇对谈后补写拍摄现场回忆与个人解读，记录下两人以“点到为止”为默契、以人品为底色的合作方式。这不仅是一位演员的方法论，更是一部以日常为信仰的工作哲学——提醒我们：人世间真正的魅力，原来就建立在平淡无奇的日常之上。</description>
+      <pubDate>Tue, 23 Jun 2026 21:44:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260624-episode-20260624-320a67</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《还是得活在日常里啊》是日本导演是枝裕和与女演员树木希林长达十二年的对谈集。两人自二〇〇七年《步履不停》起合作，至二〇一八年《小偷家族》收官。本书围绕“表演”展开，希林老师分享如何在弯腰提拖鞋、织毛线说台词这类寻常动作里藏住角色一生，如何在脱离日常与回归日常之间精准控制节奏。是枝导演则在每篇对谈后补写拍摄现场回忆与个人解读，记录下两人以“点到为止”为默契、以人品为底色的合作方式。这不仅是一位演员的方法论，更是一部以日常为信仰的工作哲学——提醒我们：人世间真正的魅力，原来就建立在平淡无奇的日常之上。</itunes:summary>
+      <itunes:duration>00:33:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260624/episode-20260624-320a67.mp3" length="31844013" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
