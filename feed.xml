@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 23 Jun 2026 01:13:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 01:17:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6302,6 +6302,17 @@
       <itunes:duration>00:30:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-8bcbdf.mp3" length="29614125" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中世纪之美》 · 完整版 · 中世纪之美 · 完整讲读</title>
+      <description>在《中世纪之美》中，意大利学者翁贝托·艾柯系统梳理了从六世纪到十五世纪经院哲学美学的千年演变。通过禁欲主义与审美感性的悖论、柏拉图主义与神学的合流、象征与寓言的解读之学、有机体美学的兴衰四大主题，艾柯揭示了一个被现代人严重误解的思想宝库：在一个信仰至上的时代，中世纪人如何理解美、体验美、创造美。这部写于一九五八年的经典导读，至今仍是理解西方美学传统不可绕过的入门之书。</description>
+      <pubDate>Tue, 23 Jun 2026 01:17:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260623-episode-20260623-479a59</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>在《中世纪之美》中，意大利学者翁贝托·艾柯系统梳理了从六世纪到十五世纪经院哲学美学的千年演变。通过禁欲主义与审美感性的悖论、柏拉图主义与神学的合流、象征与寓言的解读之学、有机体美学的兴衰四大主题，艾柯揭示了一个被现代人严重误解的思想宝库：在一个信仰至上的时代，中世纪人如何理解美、体验美、创造美。这部写于一九五八年的经典导读，至今仍是理解西方美学传统不可绕过的入门之书。</itunes:summary>
+      <itunes:duration>00:30:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-479a59.mp3" length="29021613" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
