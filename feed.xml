@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 23 Jun 2026 07:57:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 16:27:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6544,6 +6544,17 @@
       <itunes:duration>00:30:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-f8e92f.mp3" length="29483565" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《很久很久以前，在某一个地方……》 · 完整版 · 很久很久以前，在某一个地方…… · 完整讲读</title>
+      <description>《很久很久以前，在某一个地方……》是日本作家青柳碧人的短篇推理集，他把一寸法师、桃太郎打鬼、仙鹤报恩、浦岛太郎、开花死人这些日本人耳熟能详的民间传说，全部用本格推理的手法重新拆解了一遍。熟悉的童话是谜面，严密的逻辑是谜底，每一个看似天真的叙述背后都藏着一个逻辑陷阱。这本书在日本出版于二零一九年，一出版就破圈了，让从来不读推理的人愿意读推理，让从来不读童话的人愿意读童话。它真正想提醒读者的是：我们对故事太熟悉了，熟悉到再也不会怀疑，而每一个&quot;很久很久以前&quot;的背后，都藏着一个值得追问的&quot;为什么会这样&quot;。</description>
+      <pubDate>Tue, 23 Jun 2026 16:26:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260624-episode-20260624-4af106</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《很久很久以前，在某一个地方……》是日本作家青柳碧人的短篇推理集，他把一寸法师、桃太郎打鬼、仙鹤报恩、浦岛太郎、开花死人这些日本人耳熟能详的民间传说，全部用本格推理的手法重新拆解了一遍。熟悉的童话是谜面，严密的逻辑是谜底，每一个看似天真的叙述背后都藏着一个逻辑陷阱。这本书在日本出版于二零一九年，一出版就破圈了，让从来不读推理的人愿意读推理，让从来不读童话的人愿意读童话。它真正想提醒读者的是：我们对故事太熟悉了，熟悉到再也不会怀疑，而每一个&quot;很久很久以前&quot;的背后，都藏着一个值得追问的&quot;为什么会这样&quot;。</itunes:summary>
+      <itunes:duration>00:22:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260624/episode-20260624-4af106.mp3" length="21293613" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
