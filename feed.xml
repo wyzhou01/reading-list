@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 23 Jun 2026 21:31:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 21:36:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6621,6 +6621,17 @@
       <itunes:duration>00:31:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260624/episode-20260624-a72d7a.mp3" length="30207405" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《周四推理俱乐部：活了两次的男人》 · 完整版 · 周四推理俱乐部：活了两次的男人 · 完整讲读</title>
+      <description>《周四推理俱乐部：活了两次的男人》是英国作家理查德·奥斯曼的畅销悬疑小说，讲述四个平均年龄七十七岁的退休老人——前护士乔伊丝、前精神科医生易卜拉欣、工会老斗士罗恩、身份神秘的伊丽莎白——在英国肯特郡的库珀斯·切斯养老村里，破解一桩跨越三十年的谋杀悬案。一个本该死于三十年前的男人突然复活归来，牵扯出一段被官方掩盖的旧日秘密。四个老人用岁月沉淀下来的阅历、对人性的洞察、对细节的敏感，联手年轻女警唐娜，在红酒、饼干和英式幽默之间，一寸一寸挖出真相。本书是&quot;舒适悬疑&quot;类型的代表作，全球销量超九百万册，核心主题是：人老了不等于没用了，经验和记忆，同样是破局的力量。</description>
+      <pubDate>Tue, 23 Jun 2026 21:35:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260624-episode-20260624-c7d326</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《周四推理俱乐部：活了两次的男人》是英国作家理查德·奥斯曼的畅销悬疑小说，讲述四个平均年龄七十七岁的退休老人——前护士乔伊丝、前精神科医生易卜拉欣、工会老斗士罗恩、身份神秘的伊丽莎白——在英国肯特郡的库珀斯·切斯养老村里，破解一桩跨越三十年的谋杀悬案。一个本该死于三十年前的男人突然复活归来，牵扯出一段被官方掩盖的旧日秘密。四个老人用岁月沉淀下来的阅历、对人性的洞察、对细节的敏感，联手年轻女警唐娜，在红酒、饼干和英式幽默之间，一寸一寸挖出真相。本书是&quot;舒适悬疑&quot;类型的代表作，全球销量超九百万册，核心主题是：人老了不等于没用了，经验和记忆，同样是破局的力量。</itunes:summary>
+      <itunes:duration>00:31:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260624/episode-20260624-c7d326.mp3" length="30347181" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
