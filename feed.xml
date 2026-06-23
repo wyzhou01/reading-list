@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 23 Jun 2026 06:35:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 06:41:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6368,6 +6368,17 @@
       <itunes:duration>00:27:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-0abffa.mp3" length="26751789" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《演奏之外》 · 完整版 · 演奏之外 · 完整讲读</title>
+      <description>《演奏之外》是钢琴家张昊辰的第一部随笔集。他以演奏者的身份，探讨古典音乐在消费时代的边缘化、&quot;现场&quot;作为关于消逝的艺术、语言与音乐的边界，以及肖邦、莫扎特、海顿等作曲家作为私人化的精神触动。全书既是一位演奏者面向公众的思索，也是一位音乐家面对自我的坦白——他用偏见与偏爱，触碰那些语言够不着、却比音符更重的地方。</description>
+      <pubDate>Tue, 23 Jun 2026 06:40:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260623-episode-20260623-2b1918</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《演奏之外》是钢琴家张昊辰的第一部随笔集。他以演奏者的身份，探讨古典音乐在消费时代的边缘化、&quot;现场&quot;作为关于消逝的艺术、语言与音乐的边界，以及肖邦、莫扎特、海顿等作曲家作为私人化的精神触动。全书既是一位演奏者面向公众的思索，也是一位音乐家面对自我的坦白——他用偏见与偏爱，触碰那些语言够不着、却比音符更重的地方。</itunes:summary>
+      <itunes:duration>00:37:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-2b1918.mp3" length="35909421" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
