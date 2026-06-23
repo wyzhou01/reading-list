@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 23 Jun 2026 07:39:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 07:48:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6522,6 +6522,17 @@
       <itunes:duration>00:22:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-83518d.mp3" length="21512877" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《漩涡》 · 完整版 · 漩涡 · 完整讲读</title>
+      <description>《漩涡》是伊藤润二于一九九八至一九九九年创作的恐怖漫画代表作，讲述黑涡镇被一种看不见的漩涡诅咒吞噬的故事。伊藤润二用漩涡这一意象，将日本泡沫经济破裂后社会中的无意识竞争、人际异化与资本逻辑画成了具体的形状。前日本外务省官员佐藤优在二零一零年写下的长篇解说中，将漩涡解读为资本的隐喻，揭示了马克思《资本论》与这部漫画在思想上的深度呼应。本书既是一部恐怖漫画的巅峰之作，也是一部关于爱如何对抗无意识吞噬的社会寓言——它告诉我们，觉醒始于觉察，而爱，是唯一让人不被看不见的力量卷入深渊的解药。</description>
+      <pubDate>Tue, 23 Jun 2026 07:48:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260623-episode-20260623-ad0087</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《漩涡》是伊藤润二于一九九八至一九九九年创作的恐怖漫画代表作，讲述黑涡镇被一种看不见的漩涡诅咒吞噬的故事。伊藤润二用漩涡这一意象，将日本泡沫经济破裂后社会中的无意识竞争、人际异化与资本逻辑画成了具体的形状。前日本外务省官员佐藤优在二零一零年写下的长篇解说中，将漩涡解读为资本的隐喻，揭示了马克思《资本论》与这部漫画在思想上的深度呼应。本书既是一部恐怖漫画的巅峰之作，也是一部关于爱如何对抗无意识吞噬的社会寓言——它告诉我们，觉醒始于觉察，而爱，是唯一让人不被看不见的力量卷入深渊的解药。</itunes:summary>
+      <itunes:duration>00:33:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-ad0087.mp3" length="31690797" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
