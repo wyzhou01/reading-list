@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 23 Jun 2026 06:25:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 06:27:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6346,6 +6346,17 @@
       <itunes:duration>00:28:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-973790.mp3" length="27552813" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《小说的细节：从简·奥斯丁到石黑一雄》 · 完整版 · 小说的细节：从简·奥斯丁到石黑一雄—黄昱宁 · 完整讲读</title>
+      <description>《小说的细节：从简·奥斯丁到石黑一雄》是黄昱宁二十六篇外国小说评论的结集。她以文本细读的方法，从字句、对话、物件、语调这些最小单位切入，重读奥斯丁、勃朗特、狄更斯、大仲马、福楼拜、詹姆斯、伍尔夫、纳博科夫、门罗、阿特伍德、麦克尤恩、石黑一雄等横跨两百年的英语与西方文学经典。她想回答的问题是：那些看似随手撒下的零件，到底是怎么撑起一部小说的。在一个越来越擅长概括大意的时代，这本书是写给愿意在细节里慢慢辨认小说之妙的读者的一份邀请。</description>
+      <pubDate>Tue, 23 Jun 2026 06:27:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260623-episode-20260623-d2040e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《小说的细节：从简·奥斯丁到石黑一雄》是黄昱宁二十六篇外国小说评论的结集。她以文本细读的方法，从字句、对话、物件、语调这些最小单位切入，重读奥斯丁、勃朗特、狄更斯、大仲马、福楼拜、詹姆斯、伍尔夫、纳博科夫、门罗、阿特伍德、麦克尤恩、石黑一雄等横跨两百年的英语与西方文学经典。她想回答的问题是：那些看似随手撒下的零件，到底是怎么撑起一部小说的。在一个越来越擅长概括大意的时代，这本书是写给愿意在细节里慢慢辨认小说之妙的读者的一份邀请。</itunes:summary>
+      <itunes:duration>00:29:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-d2040e.mp3" length="28227885" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
