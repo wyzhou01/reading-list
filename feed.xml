@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 23 Jun 2026 06:41:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 06:47:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6379,6 +6379,17 @@
       <itunes:duration>00:37:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-2b1918.mp3" length="35909421" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《芯片简史》 · 完整版 · 芯片简史 · 完整讲读</title>
+      <description>《芯片简史》以一条清晰的时间线，串起了晶体管的诞生、集成电路的发明、摩尔定律的预言、光刻机的演进、中国大陆的突围，以及摩尔定律走向黄昏后“超越摩尔”的新竞争。它揭示了一个核心洞察：芯片已经从一项技术，变成了一个文明的基础设施；它不仅决定着国家的命运，也重新塑造着每一个普通人的生活。读懂这段历史，就是读懂我们正身处其中的、被芯片定义的时代。</description>
+      <pubDate>Tue, 23 Jun 2026 06:47:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260623-episode-20260623-8d278c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《芯片简史》以一条清晰的时间线，串起了晶体管的诞生、集成电路的发明、摩尔定律的预言、光刻机的演进、中国大陆的突围，以及摩尔定律走向黄昏后“超越摩尔”的新竞争。它揭示了一个核心洞察：芯片已经从一项技术，变成了一个文明的基础设施；它不仅决定着国家的命运，也重新塑造着每一个普通人的生活。读懂这段历史，就是读懂我们正身处其中的、被芯片定义的时代。</itunes:summary>
+      <itunes:duration>00:29:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-8d278c.mp3" length="28061229" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
