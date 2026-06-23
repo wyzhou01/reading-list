@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 23 Jun 2026 21:27:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 21:31:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6610,6 +6610,17 @@
       <itunes:duration>00:32:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260624/episode-20260624-442aa9.mp3" length="31660461" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一把刀，千个字》 · 完整版 · 一把刀，千个字 · 完整讲读</title>
+      <description>《一把刀，千个字》是王安忆二零二一年的长篇新作，写纽约法拉盛的淮扬菜名厨陈诚。他在美国找不到一条对的鳝鱼，做不出地道的软兜，背后是他从上海弄堂、嬢嬢的养育、师承的秘史，到被时代反复颠簸的一生。嬢嬢去世后他回乡奔丧，在旧钢厂的雕塑园里泪流满面，完成了一次漫长的精神还乡。这本书用绵密的笔法，把饮食、母性、流亡与时代熔于一炉，是一部为漂泊者写下的纸上博物馆。</description>
+      <pubDate>Tue, 23 Jun 2026 21:31:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260624-episode-20260624-a72d7a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一把刀，千个字》是王安忆二零二一年的长篇新作，写纽约法拉盛的淮扬菜名厨陈诚。他在美国找不到一条对的鳝鱼，做不出地道的软兜，背后是他从上海弄堂、嬢嬢的养育、师承的秘史，到被时代反复颠簸的一生。嬢嬢去世后他回乡奔丧，在旧钢厂的雕塑园里泪流满面，完成了一次漫长的精神还乡。这本书用绵密的笔法，把饮食、母性、流亡与时代熔于一炉，是一部为漂泊者写下的纸上博物馆。</itunes:summary>
+      <itunes:duration>00:31:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260624/episode-20260624-a72d7a.mp3" length="30207405" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
