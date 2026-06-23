@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 23 Jun 2026 07:10:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 07:12:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6467,6 +6467,17 @@
       <itunes:duration>00:34:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-ca1d4c.mp3" length="33337005" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《三国前夜：士大夫政治与东汉皇权的崩解》 · 完整版 · 三国前夜 · 完整讲读</title>
+      <description>《三国前夜》以王莽头颅的传奇旅行开篇，揭示后汉是一个融合秦制与儒教的“混合政体”。张向荣借近百年来简牍与考古新成果，重新审视这个长期被忽视的王朝：地方豪族、士大夫、外戚、宦官、皇权彼此博弈，党锢之祸与黄巾起义成为“秦汉帝国”崩解的制度性回响，而隋唐帝国则在礼教的废墟上重生。</description>
+      <pubDate>Tue, 23 Jun 2026 07:11:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260623-episode-20260623-95d3ec</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《三国前夜》以王莽头颅的传奇旅行开篇，揭示后汉是一个融合秦制与儒教的“混合政体”。张向荣借近百年来简牍与考古新成果，重新审视这个长期被忽视的王朝：地方豪族、士大夫、外戚、宦官、皇权彼此博弈，党锢之祸与黄巾起义成为“秦汉帝国”崩解的制度性回响，而隋唐帝国则在礼教的废墟上重生。</itunes:summary>
+      <itunes:duration>00:35:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-95d3ec.mp3" length="34524717" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
