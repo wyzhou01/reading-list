@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 23 Jun 2026 01:13:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 01:13:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6291,6 +6291,17 @@
       <itunes:duration>00:33:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-0fa525.mp3" length="31806765" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《Blue》 · 完整版 · 5Blue · 完整讲读</title>
+      <description>《Blue》是叶真中显的平成三十年社会派推理力作。一个没有户籍、没有姓名、连出生证明都没有的男人，出生于平成第一日，死于平成最后一日，被指控杀害七人。刑警、律师、越南实习生、被领养的孤儿，每一个视角都在补全他的拼图，却永远拼不出一个统一的真相。叶真中显追问：当法律无法保护孩子，陌生人有没有权利替天行道？杀人者的救赎是否可能？恶与善的灰色地带如何安放？全书的答案是：世界上不存在万人共通的真实，但在某个人的主观世界中，真实无限存在。Blue没有死，因为他活在记得他的人眼里。</description>
+      <pubDate>Tue, 23 Jun 2026 01:13:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260623-episode-20260623-8bcbdf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《Blue》是叶真中显的平成三十年社会派推理力作。一个没有户籍、没有姓名、连出生证明都没有的男人，出生于平成第一日，死于平成最后一日，被指控杀害七人。刑警、律师、越南实习生、被领养的孤儿，每一个视角都在补全他的拼图，却永远拼不出一个统一的真相。叶真中显追问：当法律无法保护孩子，陌生人有没有权利替天行道？杀人者的救赎是否可能？恶与善的灰色地带如何安放？全书的答案是：世界上不存在万人共通的真实，但在某个人的主观世界中，真实无限存在。Blue没有死，因为他活在记得他的人眼里。</itunes:summary>
+      <itunes:duration>00:30:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-8bcbdf.mp3" length="29614125" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
