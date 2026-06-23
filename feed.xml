@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 23 Jun 2026 01:07:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 01:07:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6269,6 +6269,17 @@
       <itunes:duration>00:24:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-70a463.mp3" length="23690925" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《从零开始的女性主义》 · 完整版 · 从零开始的女性主义 · 完整讲读</title>
+      <description>《从零开始的女性主义》是上野千鹤子与田房永子的对谈录，从母女关系、婚姻育儿、性自主权等日常议题出发，拆解女性在不同世代所遭遇的结构性困境。上野提出A面与B面、女权污名、女性同盟等核心概念，指出女性主义不是让女性变得强硬，而是让女性认清自身处境、拒绝自我厌恶、彼此支持的思维方式。她主张通过&quot;一人一杀&quot;，从家庭内部的交涉开始，一点点改变父权结构，最终实现让每个人都能更自由地活。</description>
+      <pubDate>Tue, 23 Jun 2026 01:07:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260623-episode-20260623-eb98aa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《从零开始的女性主义》是上野千鹤子与田房永子的对谈录，从母女关系、婚姻育儿、性自主权等日常议题出发，拆解女性在不同世代所遭遇的结构性困境。上野提出A面与B面、女权污名、女性同盟等核心概念，指出女性主义不是让女性变得强硬，而是让女性认清自身处境、拒绝自我厌恶、彼此支持的思维方式。她主张通过&quot;一人一杀&quot;，从家庭内部的交涉开始，一点点改变父权结构，最终实现让每个人都能更自由地活。</itunes:summary>
+      <itunes:duration>00:30:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-eb98aa.mp3" length="29455149" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
