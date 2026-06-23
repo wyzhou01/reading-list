@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 23 Jun 2026 16:51:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 17:00:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6588,6 +6588,17 @@
       <itunes:duration>00:26:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260624/episode-20260624-35f57c.mp3" length="25709613" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《光明共和国》 · 完整版 · 光明共和国 · 完整讲读</title>
+      <description>《光明共和国》是西班牙作家安德烈斯·巴尔瓦的黑色寓言，讲述三十二个来历不明的孩子突然出现在中美洲城市圣克里斯托瓦尔，成年人在恐惧与亢奋中把他们视为必须消灭的威胁。借由小男孩埃米利奥的冷静视角，小说一层层揭开群体幻觉、秩序脆弱与成人暴力机制：童年与文明的边界在哪里？恐惧如何被喂养、再变成屠杀的理由？所谓“光明“和“共和国“，是否只是暴行最体面的包装？全书没有控诉，没有煽情，只给读者一面镜子，照出我们每个人心里那点，从未细看过的自己。</description>
+      <pubDate>Tue, 23 Jun 2026 17:00:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260624-episode-20260624-9fa513</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《光明共和国》是西班牙作家安德烈斯·巴尔瓦的黑色寓言，讲述三十二个来历不明的孩子突然出现在中美洲城市圣克里斯托瓦尔，成年人在恐惧与亢奋中把他们视为必须消灭的威胁。借由小男孩埃米利奥的冷静视角，小说一层层揭开群体幻觉、秩序脆弱与成人暴力机制：童年与文明的边界在哪里？恐惧如何被喂养、再变成屠杀的理由？所谓“光明“和“共和国“，是否只是暴行最体面的包装？全书没有控诉，没有煽情，只给读者一面镜子，照出我们每个人心里那点，从未细看过的自己。</itunes:summary>
+      <itunes:duration>00:30:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260624/episode-20260624-9fa513.mp3" length="28955181" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
