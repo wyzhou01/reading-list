@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 23 Jun 2026 01:19:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 06:25:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6335,6 +6335,17 @@
       <itunes:duration>00:34:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-5d851d.mp3" length="32685741" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《每一句话语都坐着别的眼睛》 · 完整版 · 每一句话语都坐着别的眼睛 · 完整讲读</title>
+      <description>二零零九年诺贝尔文学奖得主赫塔·米勒的散文集《每一句话语都坐着别的眼睛》，收录跨越二十多年的随笔，写独裁统治下语言如何被污染、恐惧如何长进身体、流亡者如何在两个德国之间守着自己。她用钥匙、面包、空气、风、口音这些最日常的东西做隐喻，把监控、审讯、背叛写成感官记忆。米勒说，恐惧不是一阵风，是渗入骨髓的；语言不是家园，是说出的内容；写作不能治愈创伤，但能让创伤不再沉默。每一句话语背后都坐着别的眼睛——这是她对所有从威权中走出来的写作者的提醒，也是嘱托。</description>
+      <pubDate>Tue, 23 Jun 2026 06:24:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260623-episode-20260623-558a70</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>二零零九年诺贝尔文学奖得主赫塔·米勒的散文集《每一句话语都坐着别的眼睛》，收录跨越二十多年的随笔，写独裁统治下语言如何被污染、恐惧如何长进身体、流亡者如何在两个德国之间守着自己。她用钥匙、面包、空气、风、口音这些最日常的东西做隐喻，把监控、审讯、背叛写成感官记忆。米勒说，恐惧不是一阵风，是渗入骨髓的；语言不是家园，是说出的内容；写作不能治愈创伤，但能让创伤不再沉默。每一句话语背后都坐着别的眼睛——这是她对所有从威权中走出来的写作者的提醒，也是嘱托。</itunes:summary>
+      <itunes:duration>00:35:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-558a70.mp3" length="34179885" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
