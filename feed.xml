@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 23 Jun 2026 01:07:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 01:13:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6280,6 +6280,17 @@
       <itunes:duration>00:30:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-eb98aa.mp3" length="29455149" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《什么是民粹主义》 · 完整版 · 什么是民粹主义 · 完整讲读</title>
+      <description>什么是民粹主义？德国政治理论家米勒给出了一个干净的定义性特征：宣称只有自己才代表“真正的人民“，并因此把异己排除在人民之外。围绕这条主线，本书揭示了民粹主义与代议制民主之间如影随形的暧昧关系，剖析了反多元主义如何构成民粹主义对民主政治的根本威胁，并通过欧美大量政治案例，提出了面对民粹主义蔓延时具体的应对主张。这是一部澄清概念、介入当代思想争论的清醒之作。</description>
+      <pubDate>Tue, 23 Jun 2026 01:12:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260623-episode-20260623-0fa525</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>什么是民粹主义？德国政治理论家米勒给出了一个干净的定义性特征：宣称只有自己才代表“真正的人民“，并因此把异己排除在人民之外。围绕这条主线，本书揭示了民粹主义与代议制民主之间如影随形的暧昧关系，剖析了反多元主义如何构成民粹主义对民主政治的根本威胁，并通过欧美大量政治案例，提出了面对民粹主义蔓延时具体的应对主张。这是一部澄清概念、介入当代思想争论的清醒之作。</itunes:summary>
+      <itunes:duration>00:33:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-0fa525.mp3" length="31806765" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
