@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 23 Jun 2026 07:48:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 07:57:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6533,6 +6533,17 @@
       <itunes:duration>00:33:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-ad0087.mp3" length="31690797" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《信号》 · 完整版 · 信号 · 完整讲读</title>
+      <description>《信号》是美国南方作家蒂姆·高特罗的短篇集，讲述了密西西比、路易斯安那一带修理工、木匠、卡车司机、赌船荷官等底层劳动者的故事。在破败的祖宅、失效的婚姻、褪色的刺青和高原稀薄的空气里，他们笨拙地守护着自己的尊严，偶然地接收彼此发出的善意信号。二十个短篇冷峻克制、留白极多，却在劳作、争吵、祈祷与一次沉默的拥抱里，写出了当代美国南方最真切的人性微光。</description>
+      <pubDate>Tue, 23 Jun 2026 07:56:36 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260623-episode-20260623-f8e92f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《信号》是美国南方作家蒂姆·高特罗的短篇集，讲述了密西西比、路易斯安那一带修理工、木匠、卡车司机、赌船荷官等底层劳动者的故事。在破败的祖宅、失效的婚姻、褪色的刺青和高原稀薄的空气里，他们笨拙地守护着自己的尊严，偶然地接收彼此发出的善意信号。二十个短篇冷峻克制、留白极多，却在劳作、争吵、祈祷与一次沉默的拥抱里，写出了当代美国南方最真切的人性微光。</itunes:summary>
+      <itunes:duration>00:30:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-f8e92f.mp3" length="29483565" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
