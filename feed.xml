@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 23 Jun 2026 07:22:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 07:27:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6489,6 +6489,17 @@
       <itunes:duration>00:37:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-56c41b.mp3" length="35740461" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《必有人重写爱情》 · 完整版 · 必有人重写爱情 · 完整讲读</title>
+      <description>《必有人重写爱情》是北岛半生创作的精选与回顾，收录近五十篇诗歌、散文与评论。这本书以一诗一文的形式，串联起他从七十年代至今的精神历程：在白洋淀的芦苇荡中听到郭路生的诗句而拿起笔，在八十年代写下《回答》成为一代人的精神旗帜，在九十年代流亡海外守护母语尊严，在二〇一二年患中风后以墨点重新学习表达。他用五十年证明：真正的诗歌不是文字的堆砌，而是诗人在时代风暴中以血肉之躯与命运搏斗后留下的精神刻痕。词语是最后的避难所——当一切都被剥夺，诗歌依然可以保存尊严，发出声音。</description>
+      <pubDate>Tue, 23 Jun 2026 07:26:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260623-episode-20260623-c5a006</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《必有人重写爱情》是北岛半生创作的精选与回顾，收录近五十篇诗歌、散文与评论。这本书以一诗一文的形式，串联起他从七十年代至今的精神历程：在白洋淀的芦苇荡中听到郭路生的诗句而拿起笔，在八十年代写下《回答》成为一代人的精神旗帜，在九十年代流亡海外守护母语尊严，在二〇一二年患中风后以墨点重新学习表达。他用五十年证明：真正的诗歌不是文字的堆砌，而是诗人在时代风暴中以血肉之躯与命运搏斗后留下的精神刻痕。词语是最后的避难所——当一切都被剥夺，诗歌依然可以保存尊严，发出声音。</itunes:summary>
+      <itunes:duration>00:33:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-c5a006.mp3" length="32537901" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
