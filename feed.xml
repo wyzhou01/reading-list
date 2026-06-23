@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 23 Jun 2026 17:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 21:27:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6599,6 +6599,17 @@
       <itunes:duration>00:30:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260624/episode-20260624-9fa513.mp3" length="28955181" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《卞和与玉》 · 完整版 · 卞和与玉 · 完整讲读</title>
+      <description>《卞和与玉》是东心爰创作的反乌托邦硬科幻。禾小玉，一个没有身份芯片的山村女孩，闯入量子计算最前沿，立志研发百万量子位的计算机，打破人脑与机器的墙。可当技术被资本劫持，她和四万“数人“被扔在烈日下活活烤死，她最终死在了无人知晓的角落。小说借古喻今，追问“何为人、何为尊严“——当文明以进步之名行猎杀之实，谁来为墙那边的羊发声？</description>
+      <pubDate>Tue, 23 Jun 2026 21:27:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260624-episode-20260624-442aa9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《卞和与玉》是东心爰创作的反乌托邦硬科幻。禾小玉，一个没有身份芯片的山村女孩，闯入量子计算最前沿，立志研发百万量子位的计算机，打破人脑与机器的墙。可当技术被资本劫持，她和四万“数人“被扔在烈日下活活烤死，她最终死在了无人知晓的角落。小说借古喻今，追问“何为人、何为尊严“——当文明以进步之名行猎杀之实，谁来为墙那边的羊发声？</itunes:summary>
+      <itunes:duration>00:32:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260624/episode-20260624-442aa9.mp3" length="31660461" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
