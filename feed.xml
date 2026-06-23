@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 23 Jun 2026 06:53:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 06:59:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6423,6 +6423,17 @@
       <itunes:duration>00:31:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-4d4d63.mp3" length="29931693" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《廊桥遗梦》 · 完整版 · 廊桥遗梦 · 完整讲读</title>
+      <description>《廊桥遗梦》讲述一九六五年夏天，爱荷华农妇弗朗西丝卡与漂泊摄影师罗伯特·金凯德在麦迪逊县四天三夜的相遇。他们灵魂契合，最终她为家庭留下，他独自远行。二十多年后，她临终的信与日记让儿女重新理解了母亲沉默的一生。全书以&quot;零度空间&quot;为核心意象，探讨责任与激情、应该与想要、此刻与永恒之间，一个普通人如何活这一生——不必二选一，可以并存，可以把最真的那一块，藏在心里最深处。</description>
+      <pubDate>Tue, 23 Jun 2026 06:58:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260623-episode-20260623-62278a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《廊桥遗梦》讲述一九六五年夏天，爱荷华农妇弗朗西丝卡与漂泊摄影师罗伯特·金凯德在麦迪逊县四天三夜的相遇。他们灵魂契合，最终她为家庭留下，他独自远行。二十多年后，她临终的信与日记让儿女重新理解了母亲沉默的一生。全书以&quot;零度空间&quot;为核心意象，探讨责任与激情、应该与想要、此刻与永恒之间，一个普通人如何活这一生——不必二选一，可以并存，可以把最真的那一块，藏在心里最深处。</itunes:summary>
+      <itunes:duration>00:27:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260623/episode-20260623-62278a.mp3" length="26756781" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
