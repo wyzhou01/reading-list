@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 24 Jun 2026 08:09:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 16:31:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6709,6 +6709,17 @@
       <itunes:duration>00:22:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260624/episode-20260624-0c6dfc.mp3" length="22048173" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《心灵侦探城塚翡翠》 · 完整版 · 心灵侦探城塚翡翠 · 完整讲读</title>
+      <description>《心灵侦探城塚翡翠》是相泽沙呼于二零一八年斩获本格推理大奖与《周刊文春》年度最佳第一名的现象级推理小说。故事讲述推理小说家香月史郎与灵媒少女城塚翡翠联手破案，跨越哭丧妇杀人、水镜庄密室、女高中生连续绞杀三大奇案，正面对决神秘魔术师兼杀人魔鹤丘文树。本书最大胆的尝试，是把灵异元素正面写入本格推理框架——翡翠可以召唤死者、灵视锁凶，但她的能力有明确限制，灵视结果不能作为定罪证据，必须由香月翻译成刑侦科学可用的推论。当所有科学手段都找不到凶手的时候，我们愿不愿意相信一个完全无法证伪的证人？这是这本书留给每个读者的功课。</description>
+      <pubDate>Wed, 24 Jun 2026 16:30:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260625-episode-20260625-872755</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《心灵侦探城塚翡翠》是相泽沙呼于二零一八年斩获本格推理大奖与《周刊文春》年度最佳第一名的现象级推理小说。故事讲述推理小说家香月史郎与灵媒少女城塚翡翠联手破案，跨越哭丧妇杀人、水镜庄密室、女高中生连续绞杀三大奇案，正面对决神秘魔术师兼杀人魔鹤丘文树。本书最大胆的尝试，是把灵异元素正面写入本格推理框架——翡翠可以召唤死者、灵视锁凶，但她的能力有明确限制，灵视结果不能作为定罪证据，必须由香月翻译成刑侦科学可用的推论。当所有科学手段都找不到凶手的时候，我们愿不愿意相信一个完全无法证伪的证人？这是这本书留给每个读者的功课。</itunes:summary>
+      <itunes:duration>00:34:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-872755.mp3" length="33379245" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
