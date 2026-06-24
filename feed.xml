@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 24 Jun 2026 07:50:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 07:55:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6687,6 +6687,17 @@
       <itunes:duration>00:32:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260624/episode-20260624-40016b.mp3" length="30813741" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《如雪如山》 · 完整版 · 如雪如山 · 完整讲读</title>
+      <description>《如雪如山》是青年女作家张天翼的短篇小说集，全书七个故事，主角都叫 lili——立立、莉莉、丽丽，英文里是 Lily，百合花的意思。故事写春运车厢里无座返乡的女学生、产科病房里笑着流泪的新手妈妈、失去孩子六年学不会不哭的母亲、泳池里彼此辨认的中年女人、春节楼道里隔着一道防盗门对望的陌生女性。没有传奇，只有横截面。张天翼说：雪柔软，山坚固。雪是日常里那些易被忽略的冷，是车上无座的委屈、是产后无法言说的抑郁；山是生命里无法挪开的重，是丧子、被害、中风、囚禁。可百合花长在荆棘丛中，雪不能将之埋没，山也不能将之压倒。这是一本关于所有普通女性隐秘困境的书，关于她们在缝隙里彼此辨认、彼此取暖的书。读完之后，你会明白：为什么每一个 lili 身上都暗藏着一块相同的拼图，她们的悲喜如此迥异，又彼此相通。</description>
+      <pubDate>Wed, 24 Jun 2026 07:55:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260624-episode-20260624-8e3908</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《如雪如山》是青年女作家张天翼的短篇小说集，全书七个故事，主角都叫 lili——立立、莉莉、丽丽，英文里是 Lily，百合花的意思。故事写春运车厢里无座返乡的女学生、产科病房里笑着流泪的新手妈妈、失去孩子六年学不会不哭的母亲、泳池里彼此辨认的中年女人、春节楼道里隔着一道防盗门对望的陌生女性。没有传奇，只有横截面。张天翼说：雪柔软，山坚固。雪是日常里那些易被忽略的冷，是车上无座的委屈、是产后无法言说的抑郁；山是生命里无法挪开的重，是丧子、被害、中风、囚禁。可百合花长在荆棘丛中，雪不能将之埋没，山也不能将之压倒。这是一本关于所有普通女性隐秘困境的书，关于她们在缝隙里彼此辨认、彼此取暖的书。读完之后，你会明白：为什么每一个 lili 身上都暗藏着一块相同的拼图，她们的悲喜如此迥异，又彼此相通。</itunes:summary>
+      <itunes:duration>00:23:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260624/episode-20260624-8e3908.mp3" length="22652205" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
