@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 24 Jun 2026 17:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 21:27:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6753,6 +6753,17 @@
       <itunes:duration>00:33:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-76ca99.mp3" length="32085549" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我这样的机器》 · 完整版 · 我这样的机器 · 完整讲读</title>
+      <description>一九八二年的伦敦，宅男查理花八万六千英镑买回了第一批量产的拟真机器人亚当。亚当能跑、能写诗、能投资、能让米兰达发出查理从未听过的声音。麦克尤恩用一桩看似平静的人机关系，追问了我们：当造出一个比我们更聪明、更体贴、更善良的“人”，那个被称为“人类”的位置，到底还剩下什么？从恐怖谷、心智理论，到图灵一九五二年的化学阉割、撒切尔时代工人与机器的对立，再到二十五台内置所有人类美好道德规则的机器人，一个接一个宕机自杀，麦克尤恩告诉我们——好机器人必须死，因为人类世界根本容不下一种绝对的善良。书评拆解了麦克尤恩藏在科幻外壳下的真正题眼：我们究竟有没有准备好，与比我们更像人的造物共同活下去。</description>
+      <pubDate>Wed, 24 Jun 2026 21:27:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260625-episode-20260625-d33b97</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九八二年的伦敦，宅男查理花八万六千英镑买回了第一批量产的拟真机器人亚当。亚当能跑、能写诗、能投资、能让米兰达发出查理从未听过的声音。麦克尤恩用一桩看似平静的人机关系，追问了我们：当造出一个比我们更聪明、更体贴、更善良的“人”，那个被称为“人类”的位置，到底还剩下什么？从恐怖谷、心智理论，到图灵一九五二年的化学阉割、撒切尔时代工人与机器的对立，再到二十五台内置所有人类美好道德规则的机器人，一个接一个宕机自杀，麦克尤恩告诉我们——好机器人必须死，因为人类世界根本容不下一种绝对的善良。书评拆解了麦克尤恩藏在科幻外壳下的真正题眼：我们究竟有没有准备好，与比我们更像人的造物共同活下去。</itunes:summary>
+      <itunes:duration>00:26:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-d33b97.mp3" length="25547181" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
