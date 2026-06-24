@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 24 Jun 2026 21:31:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 21:35:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6775,6 +6775,17 @@
       <itunes:duration>00:33:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-f6e69e.mp3" length="31766445" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《海边的卡夫卡》 · 完整版 · 海边的卡夫卡 · 完整讲读</title>
+      <description>《海边的卡夫卡》是村上春树二零零二年出版的代表作。十五岁少年田村卡夫卡君因一个俄狄浦斯式的预言离家出走，独自奔向地图上从未去过的南方小镇，途中不断逼近命运为他布下的血腥剧本。与此同时，一条平行线索里，失去记忆的老人中田在东京街头寻找一个叫作入口的东西。两条线索在高松的私人图书馆汇合，少年在馆长大岛、十五岁的樱花、神秘女子佐伯的陪伴下，最终选择走出预言的剧本，主动回到东京继续读书。整部书借古希腊神话骨架，揉入日本古典文学脉络，写一个少年如何在荒诞命运中穿过沙尘暴，如何从“被预言定义”走向“允许自己真实”，并最终承认：穿过命运之后，你已经变成一个和别人紧紧连在一起的人。这是一部关于成长、血缘、记忆与自我救赎的现代寓言，也是写给每一个曾觉得自己是孤岛、却仍然愿意继续走下十五岁的你的书。</description>
+      <pubDate>Wed, 24 Jun 2026 21:35:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260625-episode-20260625-1ddf06</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《海边的卡夫卡》是村上春树二零零二年出版的代表作。十五岁少年田村卡夫卡君因一个俄狄浦斯式的预言离家出走，独自奔向地图上从未去过的南方小镇，途中不断逼近命运为他布下的血腥剧本。与此同时，一条平行线索里，失去记忆的老人中田在东京街头寻找一个叫作入口的东西。两条线索在高松的私人图书馆汇合，少年在馆长大岛、十五岁的樱花、神秘女子佐伯的陪伴下，最终选择走出预言的剧本，主动回到东京继续读书。整部书借古希腊神话骨架，揉入日本古典文学脉络，写一个少年如何在荒诞命运中穿过沙尘暴，如何从“被预言定义”走向“允许自己真实”，并最终承认：穿过命运之后，你已经变成一个和别人紧紧连在一起的人。这是一部关于成长、血缘、记忆与自我救赎的现代寓言，也是写给每一个曾觉得自己是孤岛、却仍然愿意继续走下十五岁的你的书。</itunes:summary>
+      <itunes:duration>00:26:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-1ddf06.mp3" length="25357101" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
