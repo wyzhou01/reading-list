@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 24 Jun 2026 16:31:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 16:43:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6720,6 +6720,17 @@
       <itunes:duration>00:34:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-872755.mp3" length="33379245" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《涅朵奇卡：一个女人的一生》 · 完整版 · 涅朵奇卡 · 完整讲读</title>
+      <description>《涅朵奇卡·涅兹万诺娃》是陀思妥耶夫斯基二十七岁写下的未完成长篇，讲述一个女孩在三个家庭中如何被冷漠与操纵塑造，又如何被一份迟到的善意慢慢修复。本期从叶菲莫夫“我是被毁掉的天才”这一精神操控话术出发，拆解催讨型人格的形成机制，剖析名字中“爱”与“不速之客”的隐喻，并最终落在阿列克桑德拉·米哈伊洛夫娜用十年陪伴完成的修复之上。一本多世纪前的书，今天依然回答着原生家庭、缺爱与自我重建的命题。</description>
+      <pubDate>Wed, 24 Jun 2026 16:42:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260625-episode-20260625-2a2dee</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《涅朵奇卡·涅兹万诺娃》是陀思妥耶夫斯基二十七岁写下的未完成长篇，讲述一个女孩在三个家庭中如何被冷漠与操纵塑造，又如何被一份迟到的善意慢慢修复。本期从叶菲莫夫“我是被毁掉的天才”这一精神操控话术出发，拆解催讨型人格的形成机制，剖析名字中“爱”与“不速之客”的隐喻，并最终落在阿列克桑德拉·米哈伊洛夫娜用十年陪伴完成的修复之上。一本多世纪前的书，今天依然回答着原生家庭、缺爱与自我重建的命题。</itunes:summary>
+      <itunes:duration>00:33:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-2a2dee.mp3" length="31985709" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
