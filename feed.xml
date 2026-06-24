@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 24 Jun 2026 21:39:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 21:44:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6797,6 +6797,17 @@
       <itunes:duration>00:26:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-e9e8ee.mp3" length="25338669" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《那些古怪又让人忧心的问题又来了》 · 完整版 · 那些古怪又让人忧心的问题又来了 · 完整讲读</title>
+      <description>《那些古怪又让人忧心的问题又来了》是美国漫画家兰道尔·门罗的科普代表作。他用严谨的物理、化学、生物和数学，对网友提出的各种荒诞假设做完整推演：从地球停转会怎么样，到零点九倍光速的棒球会击中什么，再到乏燃料池里游泳是否会死。本书开创了一种新的科普范式：先承认问题的荒诞，再用最严肃的态度去解答。在 A I 话题满天飞的时代，这本书教给你的，是一种面对未知时冷静推演的能力。</description>
+      <pubDate>Wed, 24 Jun 2026 21:44:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260625-episode-20260625-eb1337</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《那些古怪又让人忧心的问题又来了》是美国漫画家兰道尔·门罗的科普代表作。他用严谨的物理、化学、生物和数学，对网友提出的各种荒诞假设做完整推演：从地球停转会怎么样，到零点九倍光速的棒球会击中什么，再到乏燃料池里游泳是否会死。本书开创了一种新的科普范式：先承认问题的荒诞，再用最严肃的态度去解答。在 A I 话题满天飞的时代，这本书教给你的，是一种面对未知时冷静推演的能力。</itunes:summary>
+      <itunes:duration>00:20:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-eb1337.mp3" length="19418157" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
