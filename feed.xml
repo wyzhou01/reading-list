@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 24 Jun 2026 21:35:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 21:39:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6786,6 +6786,17 @@
       <itunes:duration>00:26:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-1ddf06.mp3" length="25357101" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《梦室》 · 完整版 · 梦室 · 完整讲读</title>
+      <description>《梦室》是导演大卫·林奇与记者克里斯汀·麦肯纳合写的对话体自传，由广西师范大学出版社于二零二零年出版。本书用独特的「双声部」结构，让林奇本人在他人撰写的章节里逐段回应自己的过去：从蒙大拿州米苏拉的出生，到爱达荷州博伊西的童年，再到费城艺术学院的觉醒，最后用《橡皮头》《蓝丝绒》《穆赫兰道》《双峰：回归》等作品逐一串起他七十余年的创作生涯。书里反复出现的主题，是美国小镇表面安宁、内里涌动的双重性，是善与恶在矛盾王国里的不安休战，也是绘画、电影与冥想三者共享的潜意识源头。对每一个愿意在暗流中倾听画面的人来说，《梦室》都是一本关于如何在不完美的世界里持续创造的工作手册。</description>
+      <pubDate>Wed, 24 Jun 2026 21:39:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260625-episode-20260625-e9e8ee</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《梦室》是导演大卫·林奇与记者克里斯汀·麦肯纳合写的对话体自传，由广西师范大学出版社于二零二零年出版。本书用独特的「双声部」结构，让林奇本人在他人撰写的章节里逐段回应自己的过去：从蒙大拿州米苏拉的出生，到爱达荷州博伊西的童年，再到费城艺术学院的觉醒，最后用《橡皮头》《蓝丝绒》《穆赫兰道》《双峰：回归》等作品逐一串起他七十余年的创作生涯。书里反复出现的主题，是美国小镇表面安宁、内里涌动的双重性，是善与恶在矛盾王国里的不安休战，也是绘画、电影与冥想三者共享的潜意识源头。对每一个愿意在暗流中倾听画面的人来说，《梦室》都是一本关于如何在不完美的世界里持续创造的工作手册。</itunes:summary>
+      <itunes:duration>00:26:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-e9e8ee.mp3" length="25338669" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
