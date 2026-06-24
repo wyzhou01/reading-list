@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 23 Jun 2026 21:44:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 07:26:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6654,6 +6654,17 @@
       <itunes:duration>00:33:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260624/episode-20260624-320a67.mp3" length="31844013" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《小小小小的人间》 · 完整版 · 小小小小的人间 · 完整讲读</title>
+      <description>《小、小、小、小的人间》是八零后插画师、诗人用七年时间写就的一本小书。短诗配插画，写尽城市青年漂泊中的孤独、陪伴、烦恼与成长。没有宏大叙事，只有深夜不想开灯的疲惫、暗恋不敢开口的酸涩、搬家搬到自己都记不清的次数、节日里一个人的外卖、父母面前假装过得很好的瞬间。它不试图治愈你，只是温柔地告诉你：你并不孤独，每一个在城市里认真生活的人，都正在经历相似的时刻。替平凡立传，为生活留影——这本书的答案，是让你合上书之后，重新看见自己那灰扑扑却真实的小小人间。</description>
+      <pubDate>Wed, 24 Jun 2026 07:26:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260624-episode-20260624-93112f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《小、小、小、小的人间》是八零后插画师、诗人用七年时间写就的一本小书。短诗配插画，写尽城市青年漂泊中的孤独、陪伴、烦恼与成长。没有宏大叙事，只有深夜不想开灯的疲惫、暗恋不敢开口的酸涩、搬家搬到自己都记不清的次数、节日里一个人的外卖、父母面前假装过得很好的瞬间。它不试图治愈你，只是温柔地告诉你：你并不孤独，每一个在城市里认真生活的人，都正在经历相似的时刻。替平凡立传，为生活留影——这本书的答案，是让你合上书之后，重新看见自己那灰扑扑却真实的小小人间。</itunes:summary>
+      <itunes:duration>00:24:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260624/episode-20260624-93112f.mp3" length="23697069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
