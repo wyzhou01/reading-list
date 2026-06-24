@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 24 Jun 2026 16:47:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 16:55:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6731,6 +6731,17 @@
       <itunes:duration>00:33:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-2a2dee.mp3" length="31985709" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中国妆束：大唐女儿行》 · 完整版 · 中国妆束 · 完整讲读</title>
+      <description>《中国妆束：大唐女儿行》以新疆吐鲁番阿斯塔那墓葬、陕西法门寺地宫、敦煌藏经洞出土的唐代服饰实物为基础，配合传世史料与出土文书，按绮罗、琳琅、粉黛、髻鬟四个篇章，从隋朝一路讲到五代，还原初唐到五代女子衣饰从紧窄纤长向博大宽缓演变的真实脉络。五位女子——红拂夜奔的江南江北、上官婉儿的女为己悦者容、杨贵妃的云想衣裳、聂隐娘的衣到元和体变新、同昌公主的晚唐敦煌残梦——串起三百年花开花落。这不是一本猎奇的唐代服饰图鉴，而是一部用考古实物写就的微观唐代女性生活史，教人如何从一针一线里读懂一个时代。</description>
+      <pubDate>Wed, 24 Jun 2026 16:54:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260625-episode-20260625-2a0787</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《中国妆束：大唐女儿行》以新疆吐鲁番阿斯塔那墓葬、陕西法门寺地宫、敦煌藏经洞出土的唐代服饰实物为基础，配合传世史料与出土文书，按绮罗、琳琅、粉黛、髻鬟四个篇章，从隋朝一路讲到五代，还原初唐到五代女子衣饰从紧窄纤长向博大宽缓演变的真实脉络。五位女子——红拂夜奔的江南江北、上官婉儿的女为己悦者容、杨贵妃的云想衣裳、聂隐娘的衣到元和体变新、同昌公主的晚唐敦煌残梦——串起三百年花开花落。这不是一本猎奇的唐代服饰图鉴，而是一部用考古实物写就的微观唐代女性生活史，教人如何从一针一线里读懂一个时代。</itunes:summary>
+      <itunes:duration>00:34:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-2a0787.mp3" length="32691501" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
