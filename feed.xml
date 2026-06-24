@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 24 Jun 2026 07:55:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 08:09:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6698,6 +6698,17 @@
       <itunes:duration>00:23:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260624/episode-20260624-8e3908.mp3" length="22652205" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《读库2202》 · 完整版 · 读库2202 · 完整讲读</title>
+      <description>《读库》二零二二第二辑主打两篇非虚构长文:《素锦的香港往事》依据三百二十六封家书, 还原上海女子周素锦从一九五六年到一九七六年在香港二十年求生的悲欢离合;《彭罗斯黑洞》讲述数学家罗杰·彭罗斯如何用拓扑方法证明奇点定理, 奠定黑洞存在的理论基础, 并最终获得二零二零年诺贝尔物理学奖。一文一理, 一俗一雅, 但都体现了非虚构写作的温度与深度——一个底层女性的二十年微观史, 与一场跨越半个世纪的宇宙追问, 在结构上惊人地相似:都不是孤胆的胜利, 而是在绝望中依靠同行。读库这一辑因此具备人文与科学双重价值, 既适合喜欢历史细节的读者, 也适合对宇宙奥秘怀有好奇的听众, 更是对所有在时代缝隙里仍然认真活过的人的致敬。</description>
+      <pubDate>Wed, 24 Jun 2026 08:09:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260624-episode-20260624-0c6dfc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《读库》二零二二第二辑主打两篇非虚构长文:《素锦的香港往事》依据三百二十六封家书, 还原上海女子周素锦从一九五六年到一九七六年在香港二十年求生的悲欢离合;《彭罗斯黑洞》讲述数学家罗杰·彭罗斯如何用拓扑方法证明奇点定理, 奠定黑洞存在的理论基础, 并最终获得二零二零年诺贝尔物理学奖。一文一理, 一俗一雅, 但都体现了非虚构写作的温度与深度——一个底层女性的二十年微观史, 与一场跨越半个世纪的宇宙追问, 在结构上惊人地相似:都不是孤胆的胜利, 而是在绝望中依靠同行。读库这一辑因此具备人文与科学双重价值, 既适合喜欢历史细节的读者, 也适合对宇宙奥秘怀有好奇的听众, 更是对所有在时代缝隙里仍然认真活过的人的致敬。</itunes:summary>
+      <itunes:duration>00:22:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260624/episode-20260624-0c6dfc.mp3" length="22048173" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
