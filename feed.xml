@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 24 Jun 2026 16:55:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 17:00:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6742,6 +6742,17 @@
       <itunes:duration>00:34:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-2a0787.mp3" length="32691501" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《毫无意义》 · 完整版 · 毫无意义的工作 · 完整讲读</title>
+      <description>人类学家大卫·格雷伯在《毫无意义的工作》中揭示了一个惊人的真相：在富裕国家，三十七到四十个百分比的从业者私下承认自己的工作毫无意义。本书系统定义了&quot;狗屁工作&quot;的五大类型，深入剖析了它对人的精神暴力，并追问一个关键问题：为什么一个物质丰裕的社会，反而制造出如此多无意义岗位来囚禁自己？格雷伯追溯了从清教徒工作伦理到现代管理主义封建制的历史根源，尖锐批判了金融化扩张如何让&quot;价值的倒挂&quot;成为常态。最终，他用&quot;全民基本收入&quot;作为思想实验，邀请我们想象一个&quot;后工作社会&quot;——在那里，照料、创造、思考本身就是被承认的价值。这本书是写给每一个在深夜问过&quot;我为什么要上班&quot;的人的清醒剂。</description>
+      <pubDate>Fri, 19 Jun 2026 13:54:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260625-episode-20260625-76ca99</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>人类学家大卫·格雷伯在《毫无意义的工作》中揭示了一个惊人的真相：在富裕国家，三十七到四十个百分比的从业者私下承认自己的工作毫无意义。本书系统定义了&quot;狗屁工作&quot;的五大类型，深入剖析了它对人的精神暴力，并追问一个关键问题：为什么一个物质丰裕的社会，反而制造出如此多无意义岗位来囚禁自己？格雷伯追溯了从清教徒工作伦理到现代管理主义封建制的历史根源，尖锐批判了金融化扩张如何让&quot;价值的倒挂&quot;成为常态。最终，他用&quot;全民基本收入&quot;作为思想实验，邀请我们想象一个&quot;后工作社会&quot;——在那里，照料、创造、思考本身就是被承认的价值。这本书是写给每一个在深夜问过&quot;我为什么要上班&quot;的人的清醒剂。</itunes:summary>
+      <itunes:duration>00:33:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-76ca99.mp3" length="32085549" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
