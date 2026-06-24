@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 24 Jun 2026 07:35:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 07:50:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6676,6 +6676,17 @@
       <itunes:duration>00:32:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260624/episode-20260624-1e7ecc.mp3" length="31099053" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《重走：在公路、河流和驿道上寻找西南联大》 · 完整版 · 重走 · 完整讲读</title>
+      <description>《重走：在公路、河流和驿道上寻找西南联大》是杨潇写给这个时代的一份回答。二零一八年，这位三十六岁的前记者徒步重走了八十年前湘黔滇旅行团从长沙到昆明的一千六百公里西迁之路，用四十多天丈量出一段跨越时空的对话。书中交织着一个人的脚步、当年旅行团的日记书信、以及对幸存者的追访，回答了一个核心问题：当国家陷入危亡，那些最聪明的年轻人是怎样在逃难中成为真正的知识分子的？本书既是关于青春如何在战火中诞生的精神史，也是一份在快节奏生活里寻找方向感的邀请。</description>
+      <pubDate>Wed, 24 Jun 2026 07:50:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260624-episode-20260624-40016b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《重走：在公路、河流和驿道上寻找西南联大》是杨潇写给这个时代的一份回答。二零一八年，这位三十六岁的前记者徒步重走了八十年前湘黔滇旅行团从长沙到昆明的一千六百公里西迁之路，用四十多天丈量出一段跨越时空的对话。书中交织着一个人的脚步、当年旅行团的日记书信、以及对幸存者的追访，回答了一个核心问题：当国家陷入危亡，那些最聪明的年轻人是怎样在逃难中成为真正的知识分子的？本书既是关于青春如何在战火中诞生的精神史，也是一份在快节奏生活里寻找方向感的邀请。</itunes:summary>
+      <itunes:duration>00:32:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260624/episode-20260624-40016b.mp3" length="30813741" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
