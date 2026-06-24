@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 24 Jun 2026 07:26:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 07:35:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6665,6 +6665,17 @@
       <itunes:duration>00:24:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260624/episode-20260624-93112f.mp3" length="23697069" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《牛棚杂忆》 · 完整版 · 牛棚杂忆_-_季羡林 · 完整讲读</title>
+      <description>《牛棚杂忆》是季羡林先生在八旬高龄写就的回忆录，记录他从一九六五年社教运动到一九七六年完全解放间的亲身经历。先生以克制不报复的笔触，叙述自己在北大劳改大院中被打成黑帮、抄家、批斗的经过，更深入反思人性在极端政治环境下如何一步步异化为非人。书中他承认自己也中了派性的邪，看见打人者与被打者同是被害者；他在苦难中保持冷静观察，把抄家与销毁视为另一种对自我的剥夺；他在解放后立刻回到书桌前，用《罗摩衍那》译本和晚年两大部学术著作证明治学精神才是知识分子最后的体面。这部书不只是一份个人受难史，更是一面留给后世子孙的镜子，照出灾难的根源，也照出人在最坏境况下仍可坚守的底线。</description>
+      <pubDate>Wed, 24 Jun 2026 07:34:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260624-episode-20260624-1e7ecc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《牛棚杂忆》是季羡林先生在八旬高龄写就的回忆录，记录他从一九六五年社教运动到一九七六年完全解放间的亲身经历。先生以克制不报复的笔触，叙述自己在北大劳改大院中被打成黑帮、抄家、批斗的经过，更深入反思人性在极端政治环境下如何一步步异化为非人。书中他承认自己也中了派性的邪，看见打人者与被打者同是被害者；他在苦难中保持冷静观察，把抄家与销毁视为另一种对自我的剥夺；他在解放后立刻回到书桌前，用《罗摩衍那》译本和晚年两大部学术著作证明治学精神才是知识分子最后的体面。这部书不只是一份个人受难史，更是一面留给后世子孙的镜子，照出灾难的根源，也照出人在最坏境况下仍可坚守的底线。</itunes:summary>
+      <itunes:duration>00:32:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260624/episode-20260624-1e7ecc.mp3" length="31099053" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
