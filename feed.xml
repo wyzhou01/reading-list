@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 24 Jun 2026 21:27:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 21:31:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6764,6 +6764,17 @@
       <itunes:duration>00:26:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-d33b97.mp3" length="25547181" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《漫长的余生：一个北魏宫女和她的时代》 · 完整版 · 漫长的余生 · 完整讲读</title>
+      <description>《漫长的余生》是北京大学历史学者罗新以一篇出土墓志为线索，写就的一部关于南北朝宫女王钟儿（法号慈庆）的非虚构历史。她三十岁被北魏掳入皇宫为奴，五十六年后出家，八十六岁在洛阳去世。罗新放弃帝王将相的宏大叙事，把五至六世纪南北朝的战争、人口掠夺、宫廷女性处境与佛教传播，一一缝合进这位边缘女性的生命线。这是一份克制的、以人观史的写作实验，也是一位历史学人对“为弱者发声“这一责任的自觉承担。</description>
+      <pubDate>Wed, 24 Jun 2026 21:31:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260625-episode-20260625-f6e69e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《漫长的余生》是北京大学历史学者罗新以一篇出土墓志为线索，写就的一部关于南北朝宫女王钟儿（法号慈庆）的非虚构历史。她三十岁被北魏掳入皇宫为奴，五十六年后出家，八十六岁在洛阳去世。罗新放弃帝王将相的宏大叙事，把五至六世纪南北朝的战争、人口掠夺、宫廷女性处境与佛教传播，一一缝合进这位边缘女性的生命线。这是一份克制的、以人观史的写作实验，也是一位历史学人对“为弱者发声“这一责任的自觉承担。</itunes:summary>
+      <itunes:duration>00:33:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-f6e69e.mp3" length="31766445" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
