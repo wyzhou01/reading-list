@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 02:39:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 07:27:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6984,6 +6984,17 @@
       <itunes:duration>00:25:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-162bef.mp3" length="24898221" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《符号帝国》 · 完整版 · 符号帝国 · 完整讲读</title>
+      <description>《符号帝国》是罗兰·巴尔特一九七零年旅居日本后写下的文化随笔。他用汤、筷子、车站、面孔、柏青哥、文具店、鞠躬、学生运动等二十六个日常场景，逐项扫描日本符号系统的运作方式，提出贯穿全书的命题：符号本身是空的，仪式没有神灵，意义不在符号之内，而在符号之间的切分与空隙之中。日本不是他笔下的本质，而是他用来反观西方迷恋“内容、本性、根基“的一面镜子。这本小书在结构主义与文化批评之间架起桥梁，至今仍是符号人类学与比较文化研究的必读范本。</description>
+      <pubDate>Thu, 25 Jun 2026 07:26:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260625-episode-20260625-a10241</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《符号帝国》是罗兰·巴尔特一九七零年旅居日本后写下的文化随笔。他用汤、筷子、车站、面孔、柏青哥、文具店、鞠躬、学生运动等二十六个日常场景，逐项扫描日本符号系统的运作方式，提出贯穿全书的命题：符号本身是空的，仪式没有神灵，意义不在符号之内，而在符号之间的切分与空隙之中。日本不是他笔下的本质，而是他用来反观西方迷恋“内容、本性、根基“的一面镜子。这本小书在结构主义与文化批评之间架起桥梁，至今仍是符号人类学与比较文化研究的必读范本。</itunes:summary>
+      <itunes:duration>00:28:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-a10241.mp3" length="27525933" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
