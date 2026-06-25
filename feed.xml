@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 02:23:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 02:23:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6918,6 +6918,17 @@
       <itunes:duration>00:22:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-5d74cd.mp3" length="21941037" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《吠月》 · 完整版 · 吠月 · 完整讲读</title>
+      <description>《吠月》是日本近代诗之父萩原朔太郎的处女诗集，也是日本口语自由诗的&quot;黎明第一声鸡啼&quot;。全书收录腐烂的菊花、伸着红舌的蛤蜊、对月吠叫的狗、在人群中找到慰藉的孤独者，朔太郎以一百年前罕见的口语与乐感，写出过剩、阴郁、怪异的现代人身体。本期《好好读书》用六个核心洞察，陪读者从群马的压抑走到东京的人群，走进那个在啤酒屋里对着月亮祈求&quot;神啊，使我相信&quot;的孤独灵魂，并回答一个今天仍有效的问题：在失去一切之后，你是否还愿意相信&apos;我活着，并且有&apos;。</description>
+      <pubDate>Thu, 25 Jun 2026 02:23:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260625-episode-20260625-d0535c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《吠月》是日本近代诗之父萩原朔太郎的处女诗集，也是日本口语自由诗的&quot;黎明第一声鸡啼&quot;。全书收录腐烂的菊花、伸着红舌的蛤蜊、对月吠叫的狗、在人群中找到慰藉的孤独者，朔太郎以一百年前罕见的口语与乐感，写出过剩、阴郁、怪异的现代人身体。本期《好好读书》用六个核心洞察，陪读者从群马的压抑走到东京的人群，走进那个在啤酒屋里对着月亮祈求&quot;神啊，使我相信&quot;的孤独灵魂，并回答一个今天仍有效的问题：在失去一切之后，你是否还愿意相信&apos;我活着，并且有&apos;。</itunes:summary>
+      <itunes:duration>00:28:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-d0535c.mp3" length="27626541" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
