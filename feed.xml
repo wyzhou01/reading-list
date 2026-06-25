@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 21:28:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 21:31:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7212,6 +7212,17 @@
       <itunes:duration>00:26:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-c6ef51.mp3" length="25252269" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《置身事内：中国政府与经济发展》 · 完整版 · 置身事内 · 完整讲读</title>
+      <description>《置身事内：中国政府与经济发展》是复旦大学经济学院教授兰小欢撰写的一部通俗经济学读物，脱胎于其七年课程讲义与实地调研。本书以中国地方政府投融资为主线，分上下两篇系统拆解政府这台机器的内部齿轮：上篇解析地方政府的权力边界、分税制改革、土地财政、城投公司、产业引导基金等微观机制；下篇则将这些机制投射到房价、地方债务、区域差距、中美贸易、国内大循环等宏观现象。最终回答一个核心问题：在中国，政府不仅参与分蛋糕，更亲自下场做蛋糕，理解政府运作，是看懂中国经济的钥匙。这本书用通俗语言讲透了土地财政、招商引资、地方债务等复杂议题，是理解当代中国经济与政治运作的入门必读。</description>
+      <pubDate>Thu, 25 Jun 2026 21:31:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260626-episode-20260626-f2516d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《置身事内：中国政府与经济发展》是复旦大学经济学院教授兰小欢撰写的一部通俗经济学读物，脱胎于其七年课程讲义与实地调研。本书以中国地方政府投融资为主线，分上下两篇系统拆解政府这台机器的内部齿轮：上篇解析地方政府的权力边界、分税制改革、土地财政、城投公司、产业引导基金等微观机制；下篇则将这些机制投射到房价、地方债务、区域差距、中美贸易、国内大循环等宏观现象。最终回答一个核心问题：在中国，政府不仅参与分蛋糕，更亲自下场做蛋糕，理解政府运作，是看懂中国经济的钥匙。这本书用通俗语言讲透了土地财政、招商引资、地方债务等复杂议题，是理解当代中国经济与政治运作的入门必读。</itunes:summary>
+      <itunes:duration>00:27:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-f2516d.mp3" length="26386989" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
