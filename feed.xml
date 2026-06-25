@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 16:54:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 21:24:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7190,6 +7190,17 @@
       <itunes:duration>00:21:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-01a7ee.mp3" length="21013677" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《直到时间的尽头》 · 完整版 · 直到时间的尽头 · 完整讲读</title>
+      <description>《直到时间的尽头》是理论物理学家布莱恩·格林写给普通读者的一封长信，回答一个古老的问题：在一个注定归于无序的宇宙里，意识要如何面对自身的消逝？全书从大爆炸出发，沿着熵与演化两条主线，穿过恒星、生命、意识、宗教与艺术，最后把镜头拉向宇宙的终极命运。格林用前沿物理学告诉我们，连思维本身都可能因热寂而无法持续；但他同时指出，人类对永恒的渴望催生了科学、艺术和宗教，这些创造物让我们有限的生命参与到更宏大的故事之中。这本书的结论朴素而有力：意义不需要建立在永恒之上，认真投入的此刻，本身就值得。</description>
+      <pubDate>Thu, 25 Jun 2026 21:24:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260626-episode-20260626-94e4e8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《直到时间的尽头》是理论物理学家布莱恩·格林写给普通读者的一封长信，回答一个古老的问题：在一个注定归于无序的宇宙里，意识要如何面对自身的消逝？全书从大爆炸出发，沿着熵与演化两条主线，穿过恒星、生命、意识、宗教与艺术，最后把镜头拉向宇宙的终极命运。格林用前沿物理学告诉我们，连思维本身都可能因热寂而无法持续；但他同时指出，人类对永恒的渴望催生了科学、艺术和宗教，这些创造物让我们有限的生命参与到更宏大的故事之中。这本书的结论朴素而有力：意义不需要建立在永恒之上，认真投入的此刻，本身就值得。</itunes:summary>
+      <itunes:duration>00:25:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-94e4e8.mp3" length="24960045" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
