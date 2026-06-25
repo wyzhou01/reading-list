@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 02:17:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 02:23:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6907,6 +6907,17 @@
       <itunes:duration>00:32:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-ae8ab2.mp3" length="31056813" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《幻城》 · 完整版 · 幻城 · 完整讲读</title>
+      <description>《幻城》是郭敬明十九岁写下的长篇处女作，以冰雪王国卡索与樱空释两兄弟的悲剧为核心，讲述了爱、自由与孤独的永恒命题。卡索身为幻雪帝国的王位继承人，看似拥有一切，却独缺自由；弟弟樱空释以燃烧的方式爱着他，却将他绑成了琥珀里的昆虫。围绕他们，梨落、星旧、潮涯、岚裳等名字极美的人一一在风雪中凋零。两位北大教授曹文轩与张悦然为书作序，张悦然写道：幻城的城门合上的时候，我们的忧伤和孤独都已得到纪念。这部二零零三年出版、半年销量突破八十万册的青春文学经典，是一座十九岁少年为自己建造的、用来埋葬青春的冰城堡。二十多年过去，它依然击中每一个曾在春天前受过伤的人。</description>
+      <pubDate>Thu, 25 Jun 2026 02:22:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260625-episode-20260625-5d74cd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《幻城》是郭敬明十九岁写下的长篇处女作，以冰雪王国卡索与樱空释两兄弟的悲剧为核心，讲述了爱、自由与孤独的永恒命题。卡索身为幻雪帝国的王位继承人，看似拥有一切，却独缺自由；弟弟樱空释以燃烧的方式爱着他，却将他绑成了琥珀里的昆虫。围绕他们，梨落、星旧、潮涯、岚裳等名字极美的人一一在风雪中凋零。两位北大教授曹文轩与张悦然为书作序，张悦然写道：幻城的城门合上的时候，我们的忧伤和孤独都已得到纪念。这部二零零三年出版、半年销量突破八十万册的青春文学经典，是一座十九岁少年为自己建造的、用来埋葬青春的冰城堡。二十多年过去，它依然击中每一个曾在春天前受过伤的人。</itunes:summary>
+      <itunes:duration>00:22:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-5d74cd.mp3" length="21941037" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
