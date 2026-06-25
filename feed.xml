@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 07:27:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 07:35:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6995,6 +6995,17 @@
       <itunes:duration>00:28:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-a10241.mp3" length="27525933" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《毛姆短篇小说精选集》 · 完整版 · 毛姆短篇小说精选集译林经典 · 完整讲读</title>
+      <description>《毛姆短篇小说精选集》收录了英国作家毛姆的二十多篇短篇佳作。本期节目围绕这本精选集，从六个核心主题展开：自我欺骗的悲剧性、殖民地的虚伪与文明的冲突、人性的弱点与道德的荒诞、命运与自我欺骗的悲剧性等等。节目逐一拆解了《吞食魔果的人》里那位攒二十五年钱只为换六年清闲的隐士，《雨》中那对用罚款逼迫土人穿长裤的传教士夫妇，《午餐》里那位让请来的客人倾家荡产的虚荣女子，以及《赴宴之前》里那封让父亲以为是女儿遗书的假信。毛姆一辈子做过医生、间谍、战地救护员，看透了人性，也给了他源源不断的创作素材。他用冷峻的笔调，把人性的自私、虚荣、怯懦、残忍，一层层摆到读者面前。他从不呐喊，从不控诉，只是冷冷地看着，像个解剖人性的外科医生。毛姆的短篇从未真正过时，因为他笔下那些虚伪的传教士、虚荣的妇人、懦弱的中产、逃避现实的闲人，从未真正离开过人间。</description>
+      <pubDate>Thu, 25 Jun 2026 07:34:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260625-episode-20260625-59df52</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《毛姆短篇小说精选集》收录了英国作家毛姆的二十多篇短篇佳作。本期节目围绕这本精选集，从六个核心主题展开：自我欺骗的悲剧性、殖民地的虚伪与文明的冲突、人性的弱点与道德的荒诞、命运与自我欺骗的悲剧性等等。节目逐一拆解了《吞食魔果的人》里那位攒二十五年钱只为换六年清闲的隐士，《雨》中那对用罚款逼迫土人穿长裤的传教士夫妇，《午餐》里那位让请来的客人倾家荡产的虚荣女子，以及《赴宴之前》里那封让父亲以为是女儿遗书的假信。毛姆一辈子做过医生、间谍、战地救护员，看透了人性，也给了他源源不断的创作素材。他用冷峻的笔调，把人性的自私、虚荣、怯懦、残忍，一层层摆到读者面前。他从不呐喊，从不控诉，只是冷冷地看着，像个解剖人性的外科医生。毛姆的短篇从未真正过时，因为他笔下那些虚伪的传教士、虚荣的妇人、懦弱的中产、逃避现实的闲人，从未真正离开过人间。</itunes:summary>
+      <itunes:duration>00:34:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-59df52.mp3" length="33348525" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
