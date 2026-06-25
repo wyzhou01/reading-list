@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 02:06:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 02:07:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6841,6 +6841,17 @@
       <itunes:duration>00:29:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-a9e7be.mp3" length="27879213" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《情书》 · 完整版 · 情书 · 完整讲读</title>
+      <description>《情书》收录六十余封跨越两千年、欧亚大陆的私人书信，从莎士比亚、简·奥斯汀、卡夫卡、弗洛伊德、毕加索，到沈从文、徐志摩、林觉民、陈觉、陆小曼。本期不拆多集，一次讲完：沈从文如何在信里称自己为&quot;奴隶&quot;，雨果如何甘愿睡在爱人脚边的地板上，夏绿蒂·勃朗特如何向老师乞讨一点点友谊，林徽因如何写下&quot;火会将我们两人都烧死&quot;，林觉民和陈觉如何在刑场前夜给妻子写下最后的承诺，王小坏如何把七十二路公交车上的女孩写进歌词。读完之后，也许你终于知道，那句没发出去的话，该怎么写。</description>
+      <pubDate>Thu, 25 Jun 2026 02:07:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260625-episode-20260625-8bc898</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《情书》收录六十余封跨越两千年、欧亚大陆的私人书信，从莎士比亚、简·奥斯汀、卡夫卡、弗洛伊德、毕加索，到沈从文、徐志摩、林觉民、陈觉、陆小曼。本期不拆多集，一次讲完：沈从文如何在信里称自己为&quot;奴隶&quot;，雨果如何甘愿睡在爱人脚边的地板上，夏绿蒂·勃朗特如何向老师乞讨一点点友谊，林徽因如何写下&quot;火会将我们两人都烧死&quot;，林觉民和陈觉如何在刑场前夜给妻子写下最后的承诺，王小坏如何把七十二路公交车上的女孩写进歌词。读完之后，也许你终于知道，那句没发出去的话，该怎么写。</itunes:summary>
+      <itunes:duration>00:34:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-8bc898.mp3" length="33589293" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
