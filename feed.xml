@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 02:07:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 02:12:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6863,6 +6863,17 @@
       <itunes:duration>00:30:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-4c43cd.mp3" length="29604525" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《略萨谈博尔赫斯》 · 完整版 · 略萨谈博尔赫斯 · 完整讲读</title>
+      <description>诺贝尔文学奖得主马里奥·巴尔加斯·略萨，用半个世纪的时间，反复凝视与他几乎完全相反的作家豪尔赫·路易斯·博尔赫斯。本书收录了一九六三年巴黎访谈、一九八一年布宜诺斯艾利斯家中拜访、博尔赫斯对福楼拜与狄更斯的私人评价、耶路撒冷文学奖颁奖现场的冷静自白，以及晚年比格尔海峡政治风暴的现场记录。一个现实主义长篇巨匠，如何与一位沉迷迷宫与形而上学的短篇大师彼此辨认、相互推拒又彼此需要——这是一位作家写给另一位作家的最真诚的文学情书，也是打开整个二十世纪拉美文学现场的钥匙。</description>
+      <pubDate>Thu, 25 Jun 2026 02:12:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260625-episode-20260625-60aa98</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>诺贝尔文学奖得主马里奥·巴尔加斯·略萨，用半个世纪的时间，反复凝视与他几乎完全相反的作家豪尔赫·路易斯·博尔赫斯。本书收录了一九六三年巴黎访谈、一九八一年布宜诺斯艾利斯家中拜访、博尔赫斯对福楼拜与狄更斯的私人评价、耶路撒冷文学奖颁奖现场的冷静自白，以及晚年比格尔海峡政治风暴的现场记录。一个现实主义长篇巨匠，如何与一位沉迷迷宫与形而上学的短篇大师彼此辨认、相互推拒又彼此需要——这是一位作家写给另一位作家的最真诚的文学情书，也是打开整个二十世纪拉美文学现场的钥匙。</itunes:summary>
+      <itunes:duration>00:21:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-60aa98.mp3" length="20768301" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
