@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 02:31:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 02:31:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6962,6 +6962,17 @@
       <itunes:duration>00:31:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-3e0e5f.mp3" length="30414765" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《国境以南 太阳以西》 · 完整版 · 国境以南_太阳以西 · 完整讲读</title>
+      <description>37岁的成功男士初，拥有幸福的家庭与事业，却在内心深处始终被一种无法填补的缺憾所折磨。小学时代唯一理解他的女同学岛本——那个独生子、腿有微疾、酷爱古典音乐的少女——在三十多年后突然出现，唤醒了他压抑已久的情感饥渴。两人在箱根一夜之后，岛本再次消失。初在婚姻的边缘挣扎，最终选择回归家庭，却意识到自己仍是一个不完整的人，而陪伴他重建生活的，是宽容而清醒的妻子有纪子。</description>
+      <pubDate>Thu, 25 Jun 2026 02:31:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260625-episode-20260625-8e02a9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>37岁的成功男士初，拥有幸福的家庭与事业，却在内心深处始终被一种无法填补的缺憾所折磨。小学时代唯一理解他的女同学岛本——那个独生子、腿有微疾、酷爱古典音乐的少女——在三十多年后突然出现，唤醒了他压抑已久的情感饥渴。两人在箱根一夜之后，岛本再次消失。初在婚姻的边缘挣扎，最终选择回归家庭，却意识到自己仍是一个不完整的人，而陪伴他重建生活的，是宽容而清醒的妻子有纪子。</itunes:summary>
+      <itunes:duration>00:27:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-8e02a9.mp3" length="26690349" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
