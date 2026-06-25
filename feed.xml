@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 16:29:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 16:35:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7146,6 +7146,17 @@
       <itunes:duration>00:29:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-ae6236.mp3" length="28403757" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《周期、估值与人性》 · 完整版 · 周期、估值与人性 · 完整讲读</title>
+      <description>本书是 A 股资深策略分析师凌鹏二十年投研心法的总交代。他以二零零五年为分水岭，复盘 A 股十七年三轮风格切换：二零零五到二零零九年的周期为王、二零一零到二零一五年的成长致胜、二零一六到二零二二年的茅宁共舞。书中提炼出穿越牛熊的三大不变——周期永远从低到高，估值是投资的锚点，人性总在恐惧与贪婪之间摆动；并坦承自己从卖方到买方的两次重大转变：从聚焦未来转到着重过往，从不断追逐转向把握不变。这是一本写给所有想在 A 股长期生存的投资者反复揣摩的方法论遗产。</description>
+      <pubDate>Thu, 25 Jun 2026 16:34:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260626-episode-20260626-959d64</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是 A 股资深策略分析师凌鹏二十年投研心法的总交代。他以二零零五年为分水岭，复盘 A 股十七年三轮风格切换：二零零五到二零零九年的周期为王、二零一零到二零一五年的成长致胜、二零一六到二零二二年的茅宁共舞。书中提炼出穿越牛熊的三大不变——周期永远从低到高，估值是投资的锚点，人性总在恐惧与贪婪之间摆动；并坦承自己从卖方到买方的两次重大转变：从聚焦未来转到着重过往，从不断追逐转向把握不变。这是一本写给所有想在 A 股长期生存的投资者反复揣摩的方法论遗产。</itunes:summary>
+      <itunes:duration>00:25:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-959d64.mp3" length="24820653" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
