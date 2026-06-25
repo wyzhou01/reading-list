@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 02:04:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 02:06:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6819,6 +6819,17 @@
       <itunes:duration>00:16:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-e4bc94.mp3" length="15763629" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《武士道》 · 完整版 · 武士道 · 完整讲读</title>
+      <description>《武士道》是新渡户稻造于十九世纪末用英文写成的经典，旨在向西方读者解释日本武士阶层的精神密码。全书从神道、佛教、禅宗、儒家四源流入手，剖析忠、义、勇、礼、名誉、克己六大德目的内涵，并在与现代民主社会的张力中追问这套封建伦理的命运。新渡户既不神化也不丑化武士道，他给出的不是答案，而是一种跨越文明的诚实对话。读这本书，是读一个民族如何在失序中锻造秩序，于无常中安顿身心——这套功夫，今天依然值得每个人揣摩。</description>
+      <pubDate>Thu, 25 Jun 2026 02:05:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260625-episode-20260625-d1ba49</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《武士道》是新渡户稻造于十九世纪末用英文写成的经典，旨在向西方读者解释日本武士阶层的精神密码。全书从神道、佛教、禅宗、儒家四源流入手，剖析忠、义、勇、礼、名誉、克己六大德目的内涵，并在与现代民主社会的张力中追问这套封建伦理的命运。新渡户既不神化也不丑化武士道，他给出的不是答案，而是一种跨越文明的诚实对话。读这本书，是读一个民族如何在失序中锻造秩序，于无常中安顿身心——这套功夫，今天依然值得每个人揣摩。</itunes:summary>
+      <itunes:duration>00:28:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-d1ba49.mp3" length="27641133" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
