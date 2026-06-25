@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 11:23:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 11:25:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7091,6 +7091,17 @@
       <itunes:duration>00:29:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-6c3b3e.mp3" length="28452525" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《南明史》 · 完整版 · 南明史 · 完整讲读</title>
+      <description>本书系统叙述了明朝崇祯十七年（1644）甲申之变后，南明弘光、隆武、绍武、永历等政权在清军与农民军双重压力下相继覆亡的全过程。作者以大量档案、方志和私人著述为依据，剖析了南明君臣在内政、外交、军事上的种种失误，揭示了内部党争、军阀割据、联虏平寇战略失败等核心症结，是研究明清易代史的经典之作。</description>
+      <pubDate>Thu, 25 Jun 2026 11:24:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260625-episode-20260625-51ff90</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书系统叙述了明朝崇祯十七年（1644）甲申之变后，南明弘光、隆武、绍武、永历等政权在清军与农民军双重压力下相继覆亡的全过程。作者以大量档案、方志和私人著述为依据，剖析了南明君臣在内政、外交、军事上的种种失误，揭示了内部党争、军阀割据、联虏平寇战略失败等核心症结，是研究明清易代史的经典之作。</itunes:summary>
+      <itunes:duration>00:31:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-51ff90.mp3" length="29943213" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
