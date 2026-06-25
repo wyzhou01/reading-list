@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 11:25:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 11:31:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7102,6 +7102,17 @@
       <itunes:duration>00:31:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-51ff90.mp3" length="29943213" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《5how_to：如何不切实际地解决实际问题》 · 完整版 · 5how_to：如何不切实际地解决实际问题 · 完整讲读</title>
+      <description>《如何不切实际地解决实际问题》是前 NASA 机器人工程师、漫画家兰道尔·门罗的第二本力作。门罗从二十八个日常小问题出发，把每一个问题都推到荒诞的极端，再用真实的物理公式和工程数据一步步推算。书中你会看到有人用原子弹开啤酒瓶、用核废料给手机充电、用岩浆护城河挡住龙卷风、用火卫一缆索给地球发电。门罗延续了《那些古怪又让人忧心的问题》的风格，用漫画式的冷幽默拆解火箭科学。简体中文版由天津科学技术出版社引进，张博然翻译。</description>
+      <pubDate>Thu, 25 Jun 2026 11:11:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260625-episode-20260625-ef6b16</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《如何不切实际地解决实际问题》是前 NASA 机器人工程师、漫画家兰道尔·门罗的第二本力作。门罗从二十八个日常小问题出发，把每一个问题都推到荒诞的极端，再用真实的物理公式和工程数据一步步推算。书中你会看到有人用原子弹开啤酒瓶、用核废料给手机充电、用岩浆护城河挡住龙卷风、用火卫一缆索给地球发电。门罗延续了《那些古怪又让人忧心的问题》的风格，用漫画式的冷幽默拆解火箭科学。简体中文版由天津科学技术出版社引进，张博然翻译。</itunes:summary>
+      <itunes:duration>00:25:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-ef6b16.mp3" length="24027309" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
