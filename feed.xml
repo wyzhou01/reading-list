@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 02:07:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 02:07:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6852,6 +6852,17 @@
       <itunes:duration>00:34:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-8bc898.mp3" length="33589293" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《六个说谎的大学生》 · 完整版 · 六个说谎的大学生 · 完整讲读</title>
+      <description>《六个说谎的大学生》是浅仓秋成的社会派推理小说：六个应届生从五千人里杀入最终测试，相约一起内定，却在测试当天早晨发现一封揭穿所有人秘密的告发信。十年后，幸存者嶌衣织用一封迟到的信，拼出了当年的真相。小说剖开的是求职焦虑下的身份伪装、团队中&quot;我们都一样&quot;的脆弱共识，以及最老实的人往往藏得最深的人性真相。它不仅是一本悬疑书，更是一面照向每个走入职场的人的镜子。</description>
+      <pubDate>Thu, 25 Jun 2026 02:07:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260625-episode-20260625-4c43cd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《六个说谎的大学生》是浅仓秋成的社会派推理小说：六个应届生从五千人里杀入最终测试，相约一起内定，却在测试当天早晨发现一封揭穿所有人秘密的告发信。十年后，幸存者嶌衣织用一封迟到的信，拼出了当年的真相。小说剖开的是求职焦虑下的身份伪装、团队中&quot;我们都一样&quot;的脆弱共识，以及最老实的人往往藏得最深的人性真相。它不仅是一本悬疑书，更是一面照向每个走入职场的人的镜子。</itunes:summary>
+      <itunes:duration>00:30:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-4c43cd.mp3" length="29604525" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
