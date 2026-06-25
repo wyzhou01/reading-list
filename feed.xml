@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 11:32:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 11:34:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7124,6 +7124,17 @@
       <itunes:duration>00:33:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-b0fe78.mp3" length="31733421" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《瓜亚基印第安人编年史》 · 完整版 · 瓜亚基印第安人编年史 · 完整讲读</title>
+      <description>《瓜亚基印第安人编年史》是法国人类学家皮埃尔·克拉斯特于 1972 年出版的民族志经典，记录了他 1963 至 1964 年间在巴拉圭丛林与游猎部落瓜亚基人共同生活的经历。本书以第一人称书写，通过婴儿降生、战争、婚恋、食人、死亡等日常场景，揭示了一个无国家社会如何用仪式、神话、沉默与身体语言构建出一套高度自洽的生存秩序。它既是一部丛林生活的编年史，也是一位闯入者被另一个世界改写的自画像，更是一张为一个注定消亡的文明留下的清晰底片。</description>
+      <pubDate>Thu, 25 Jun 2026 11:22:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260625-episode-20260625-f7974a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《瓜亚基印第安人编年史》是法国人类学家皮埃尔·克拉斯特于 1972 年出版的民族志经典，记录了他 1963 至 1964 年间在巴拉圭丛林与游猎部落瓜亚基人共同生活的经历。本书以第一人称书写，通过婴儿降生、战争、婚恋、食人、死亡等日常场景，揭示了一个无国家社会如何用仪式、神话、沉默与身体语言构建出一套高度自洽的生存秩序。它既是一部丛林生活的编年史，也是一位闯入者被另一个世界改写的自画像，更是一张为一个注定消亡的文明留下的清晰底片。</itunes:summary>
+      <itunes:duration>00:37:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-f7974a.mp3" length="35879853" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
