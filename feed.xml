@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 02:23:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 02:24:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6929,6 +6929,17 @@
       <itunes:duration>00:28:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-d0535c.mp3" length="27626541" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《孤独是迷人的》 · 完整版 · 孤独是迷人的 · 完整讲读</title>
+      <description>《孤独是迷人的》是美国诗人艾米莉·狄金森的诗集，由诗人苇欢翻译，收录约九十首代表作，每首以首句为标题。狄金森二十五岁后终身幽居，却写出了一千八百首惊世之作，提前六十年进入现代主义。她把抽象的灵魂写成具体的人，把内心的风暴写成可见的戏剧，开创了一种迥异于浪漫主义的诗风。本书关乎孤独、死亡、自然、名声与永恒，关乎一个人如何忠实于自己的灵魂。在这个喧嚣的时代，我们比以往更需要懂得：孤独，原来可以是迷人的。</description>
+      <pubDate>Thu, 25 Jun 2026 02:24:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260625-episode-20260625-091c93</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《孤独是迷人的》是美国诗人艾米莉·狄金森的诗集，由诗人苇欢翻译，收录约九十首代表作，每首以首句为标题。狄金森二十五岁后终身幽居，却写出了一千八百首惊世之作，提前六十年进入现代主义。她把抽象的灵魂写成具体的人，把内心的风暴写成可见的戏剧，开创了一种迥异于浪漫主义的诗风。本书关乎孤独、死亡、自然、名声与永恒，关乎一个人如何忠实于自己的灵魂。在这个喧嚣的时代，我们比以往更需要懂得：孤独，原来可以是迷人的。</itunes:summary>
+      <itunes:duration>00:23:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-091c93.mp3" length="22083885" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
