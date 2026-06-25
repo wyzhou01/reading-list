@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 02:24:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 02:30:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6940,6 +6940,17 @@
       <itunes:duration>00:23:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-091c93.mp3" length="22083885" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《地球尽头的温室》 · 完整版 · 地球尽头的温室 · 完整讲读</title>
+      <description>《地球尽头的温室》是韩国新锐作家金草叶创作的末世治愈系科幻。粉尘灾难后，姐妹娜奥米与阿玛拉用最珍贵的飞天车换得一张坐标卡，徒步走进马来西亚枯死的热带雨林，寻找传说中仍在下雨、植物活着的避难所。她们最终抵达森林村——一个由带毒藤蔓摩斯巴纳在废墟中自行建造的温室村庄，那里闪烁着神秘的蓝光，庇护着一批对粉尘有抗体的幸存者。小说通过研究员雅映、复原山莓的秀彬、走进森林又离开的瑞秋等多重视角，串联起末世中的重建、植物作为生命隐喻、记忆与告别等核心主题，讲述了一个在绝望世界里决定继续相信、继续重建家园的温柔故事。</description>
+      <pubDate>Thu, 25 Jun 2026 02:29:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260625-episode-20260625-6a93ca</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《地球尽头的温室》是韩国新锐作家金草叶创作的末世治愈系科幻。粉尘灾难后，姐妹娜奥米与阿玛拉用最珍贵的飞天车换得一张坐标卡，徒步走进马来西亚枯死的热带雨林，寻找传说中仍在下雨、植物活着的避难所。她们最终抵达森林村——一个由带毒藤蔓摩斯巴纳在废墟中自行建造的温室村庄，那里闪烁着神秘的蓝光，庇护着一批对粉尘有抗体的幸存者。小说通过研究员雅映、复原山莓的秀彬、走进森林又离开的瑞秋等多重视角，串联起末世中的重建、植物作为生命隐喻、记忆与告别等核心主题，讲述了一个在绝望世界里决定继续相信、继续重建家园的温柔故事。</itunes:summary>
+      <itunes:duration>00:24:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-6a93ca.mp3" length="23415981" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
