@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 02:06:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 02:06:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6830,6 +6830,17 @@
       <itunes:duration>00:28:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-d1ba49.mp3" length="27641133" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《没有人给他写信的上校》 · 完整版 · 没有人给他写信的上校 · 完整讲读</title>
+      <description>《没有人给他写信的上校》是马尔克斯一九五七年旅居巴黎时写就的中篇。一对七十五岁的老夫妻在哥伦比亚一个潮湿小镇上苦熬，妻子哮喘缠身，家里只剩五十生太伏，唯一值钱的是儿子九个月前被打死后留下的一只斗鸡。每月十五号的退伍金等了十五年没到，每周等一封信也从未收到。整本书没有魔幻，只有五万字的现实：等待、缝补、一只公鸡、一个已经快要断气的妻子，最后是一句“吃屎”。读懂了这个上校，就读懂了所有被历史遗忘的人，也读懂了我们每个人心里那个还没等到的回信。</description>
+      <pubDate>Thu, 25 Jun 2026 02:06:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260625-episode-20260625-a9e7be</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《没有人给他写信的上校》是马尔克斯一九五七年旅居巴黎时写就的中篇。一对七十五岁的老夫妻在哥伦比亚一个潮湿小镇上苦熬，妻子哮喘缠身，家里只剩五十生太伏，唯一值钱的是儿子九个月前被打死后留下的一只斗鸡。每月十五号的退伍金等了十五年没到，每周等一封信也从未收到。整本书没有魔幻，只有五万字的现实：等待、缝补、一只公鸡、一个已经快要断气的妻子，最后是一句“吃屎”。读懂了这个上校，就读懂了所有被历史遗忘的人，也读懂了我们每个人心里那个还没等到的回信。</itunes:summary>
+      <itunes:duration>00:29:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-a9e7be.mp3" length="27879213" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
