@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 02:15:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 02:17:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6896,6 +6896,17 @@
       <itunes:duration>00:24:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-9cbe70.mp3" length="23450925" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一个女人的故事》 · 完整版 · 一个女人的故事 · 完整讲读</title>
+      <description>《一个女人的故事》是二零二二年诺贝尔文学奖得主安妮·埃尔诺写于一九八七年的经典之作。她以冷峻克制的白描笔法，记录了母亲从诺曼底小城走向巴黎的一生——十二岁半辍学进厂、开食品杂货咖啡店养大两个孩子、最终在老年病房里因阿尔茨海默病离世——并坦诚袒露自己作为女儿在丧母后的崩溃、愧疚与“内心的流亡“。这本书既是私小说式的悼亡之书，也是献给所有从乡村走向城市、从贫困走向小康、却永远困在阶级与亲情裂缝中的女性的纪念碑。</description>
+      <pubDate>Thu, 25 Jun 2026 02:17:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260625-episode-20260625-ae8ab2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一个女人的故事》是二零二二年诺贝尔文学奖得主安妮·埃尔诺写于一九八七年的经典之作。她以冷峻克制的白描笔法，记录了母亲从诺曼底小城走向巴黎的一生——十二岁半辍学进厂、开食品杂货咖啡店养大两个孩子、最终在老年病房里因阿尔茨海默病离世——并坦诚袒露自己作为女儿在丧母后的崩溃、愧疚与“内心的流亡“。这本书既是私小说式的悼亡之书，也是献给所有从乡村走向城市、从贫困走向小康、却永远困在阶级与亲情裂缝中的女性的纪念碑。</itunes:summary>
+      <itunes:duration>00:32:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-ae8ab2.mp3" length="31056813" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
