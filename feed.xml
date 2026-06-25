@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 11:31:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 11:32:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7113,6 +7113,17 @@
       <itunes:duration>00:25:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-ef6b16.mp3" length="24027309" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《设计心理学》 · 完整版 · 设计心理学 · 完整讲读</title>
+      <description>《设计心理学》是唐纳德·诺曼写于一九八八年、并在二零一三年全面增订的经典著作，被誉为用户体验设计的奠基之作。诺曼用通俗的语言揭示了一个反常识的判断：东西难用，不是人的问题，是设计的问题。书中系统讲解了示能、意符、约束、映射、反馈、概念模型等核心设计原则，剖析了人做事的七个阶段、记忆与外部知识的关系、差错的本质以及双钻设计流程，并把视角拓展到全球化、创新形式与设计伦理。这本写于四十年前的书，因为抓住了人类认知与情感的基本规律，至今仍是产品经理、工程师和设计师的必读经典。</description>
+      <pubDate>Thu, 25 Jun 2026 11:22:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260625-episode-20260625-b0fe78</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《设计心理学》是唐纳德·诺曼写于一九八八年、并在二零一三年全面增订的经典著作，被誉为用户体验设计的奠基之作。诺曼用通俗的语言揭示了一个反常识的判断：东西难用，不是人的问题，是设计的问题。书中系统讲解了示能、意符、约束、映射、反馈、概念模型等核心设计原则，剖析了人做事的七个阶段、记忆与外部知识的关系、差错的本质以及双钻设计流程，并把视角拓展到全球化、创新形式与设计伦理。这本写于四十年前的书，因为抓住了人类认知与情感的基本规律，至今仍是产品经理、工程师和设计师的必读经典。</itunes:summary>
+      <itunes:duration>00:33:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-b0fe78.mp3" length="31733421" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
