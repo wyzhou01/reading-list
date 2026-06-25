@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 16:35:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 16:43:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7157,6 +7157,17 @@
       <itunes:duration>00:25:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-959d64.mp3" length="24820653" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《生死结》 · 完整版 · 生死结 · 完整讲读</title>
+      <description>《生死结》是鲁迅文学奖得主尹学芸二零二四年推出的中篇小说集，收录五部作品，全部扎根于津北小城与罕村那片熟人社会的土壤。一个被继父捅了十一刀的女孩，一个眼见女儿被杀却跑去买冷饮的母亲，一个被全单位孤立却敢于领工资的女人，一个头发长到诡异的盲流女人，一群守着三只铁碗度过三代的女人，还有一个把叙述者错认成吊死鬼、最后自己吊死在毛白杨上的疯女人蓝芬。尹学芸以极冷的笔触，把暴力揉进领工资、啃死耗子、买圆桌、照钱币真假这些最寻常的日常里，写出了乡村熟人社会最深的精神溃败——那里的人，从不为另一个人负责，每一个人都只“看“，却从不做。本期深度拆解五个故事，剖析《生死结》如何用“看客合谋““错认““无人为他人负责“三层结构，完成一次对乡土中国百年未愈之病的诚实诊断。</description>
+      <pubDate>Thu, 25 Jun 2026 16:42:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260626-episode-20260626-9ce568</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《生死结》是鲁迅文学奖得主尹学芸二零二四年推出的中篇小说集，收录五部作品，全部扎根于津北小城与罕村那片熟人社会的土壤。一个被继父捅了十一刀的女孩，一个眼见女儿被杀却跑去买冷饮的母亲，一个被全单位孤立却敢于领工资的女人，一个头发长到诡异的盲流女人，一群守着三只铁碗度过三代的女人，还有一个把叙述者错认成吊死鬼、最后自己吊死在毛白杨上的疯女人蓝芬。尹学芸以极冷的笔触，把暴力揉进领工资、啃死耗子、买圆桌、照钱币真假这些最寻常的日常里，写出了乡村熟人社会最深的精神溃败——那里的人，从不为另一个人负责，每一个人都只“看“，却从不做。本期深度拆解五个故事，剖析《生死结》如何用“看客合谋““错认““无人为他人负责“三层结构，完成一次对乡土中国百年未愈之病的诚实诊断。</itunes:summary>
+      <itunes:duration>00:28:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-9ce568.mp3" length="27588141" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
