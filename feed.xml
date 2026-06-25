@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 11:22:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 11:23:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7080,6 +7080,17 @@
       <itunes:duration>00:27:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-f8fff0.mp3" length="26180781" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《心理学与生活》 · 完整版 · 心理学与生活 · 完整讲读</title>
+      <description>《心理学与生活》是美国斯坦福大学半个多世纪以来的经典心理学入门教材，由社会心理学代表人物津巴多与认知心理学专家格里格合著，全书围绕&quot;心理学是一门科学&quot;这一核心命题，从心智的生物学基础出发，逐层揭开感觉与知觉、记忆与思维、语言与人格、社会与心理健康等核心议题。本书的最大特色，是用严谨的科学证据与通俗的语言，把心理学的规律和每一个普通人的日常生活紧紧连在一起——读它，不仅是在学一门学科，更是在用一面镜子，重新打量自己。</description>
+      <pubDate>Thu, 25 Jun 2026 11:23:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260625-episode-20260625-6c3b3e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《心理学与生活》是美国斯坦福大学半个多世纪以来的经典心理学入门教材，由社会心理学代表人物津巴多与认知心理学专家格里格合著，全书围绕&quot;心理学是一门科学&quot;这一核心命题，从心智的生物学基础出发，逐层揭开感觉与知觉、记忆与思维、语言与人格、社会与心理健康等核心议题。本书的最大特色，是用严谨的科学证据与通俗的语言，把心理学的规律和每一个普通人的日常生活紧紧连在一起——读它，不仅是在学一门学科，更是在用一面镜子，重新打量自己。</itunes:summary>
+      <itunes:duration>00:29:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-6c3b3e.mp3" length="28452525" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
