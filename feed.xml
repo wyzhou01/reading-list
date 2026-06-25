@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 07:35:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 07:42:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7006,6 +7006,17 @@
       <itunes:duration>00:34:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-59df52.mp3" length="33348525" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《重组与突破》 · 完整版 · 重组与突破 · 完整讲读</title>
+      <description>《重组与突破》是黄奇帆对自己五十余年改革实践的系统总结。他以重庆直辖后十余年的改革为蓝本，剖析烂尾楼、渝富公司、八大投、渝新欧铁路、产业集群等几十个真实案例，提炼出“边界调整法、资源优化配置法、利益分配法、结构调整法、管理政策调整法“五种重组方法，以及“问题导向、多方共赢、量力而行、阳光下作业“等重组原则。这本书不是抽象的管理学理论，而是一套在真问题里摔打出来的方法论工具书，主张通过改变事物的边界条件来打开新的发展空间，对关注国资改革、产业政策、地方治理和企业战略的读者具有重要参考价值。</description>
+      <pubDate>Thu, 25 Jun 2026 07:42:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260625-episode-20260625-b1bf19</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《重组与突破》是黄奇帆对自己五十余年改革实践的系统总结。他以重庆直辖后十余年的改革为蓝本，剖析烂尾楼、渝富公司、八大投、渝新欧铁路、产业集群等几十个真实案例，提炼出“边界调整法、资源优化配置法、利益分配法、结构调整法、管理政策调整法“五种重组方法，以及“问题导向、多方共赢、量力而行、阳光下作业“等重组原则。这本书不是抽象的管理学理论，而是一套在真问题里摔打出来的方法论工具书，主张通过改变事物的边界条件来打开新的发展空间，对关注国资改革、产业政策、地方治理和企业战略的读者具有重要参考价值。</itunes:summary>
+      <itunes:duration>00:47:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-b1bf19.mp3" length="46003245" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
