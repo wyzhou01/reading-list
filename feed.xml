@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 11:14:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 11:16:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7050,6 +7050,17 @@
       <itunes:duration>00:30:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-87adc8.mp3" length="28989357" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《全球化与国家竞争：新兴七国比较研究》 · 完整版 · 全球化与国家竞争 · 完整讲读</title>
+      <description>《全球化与国家竞争》是一部基于“E七研究“的跨国比较著作，选取中国、土耳其、印度、印度尼西亚、巴西、委内瑞拉、南非七国作为样本，深入剖析金融资本主导的全球化体系如何向南方国家递次转嫁制度成本。温铁军团队提出“成本递次转嫁论“与“依附理论“，揭示了华尔街如何通过美元潮汐、新核心同盟、新自由主义政策等机制，将金融危机、环境破坏、社会撕裂的代价系统性地转嫁给新兴国家与底层民众。书中以印度三十万农民自杀、委内瑞拉石油兴衰、巴西议会政变、南非经济停滞等案例，呈现七国在全球金融风暴中的真实颠簸与挣扎。最终，作者提出以“生态文明“作为替代方案，强调南南合作与乡土社会的内部化能力，主张跳出GDP崇拜、回归人本与自然，开创可持续的未来。</description>
+      <pubDate>Thu, 25 Jun 2026 11:16:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260625-episode-20260625-d787a4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《全球化与国家竞争》是一部基于“E七研究“的跨国比较著作，选取中国、土耳其、印度、印度尼西亚、巴西、委内瑞拉、南非七国作为样本，深入剖析金融资本主导的全球化体系如何向南方国家递次转嫁制度成本。温铁军团队提出“成本递次转嫁论“与“依附理论“，揭示了华尔街如何通过美元潮汐、新核心同盟、新自由主义政策等机制，将金融危机、环境破坏、社会撕裂的代价系统性地转嫁给新兴国家与底层民众。书中以印度三十万农民自杀、委内瑞拉石油兴衰、巴西议会政变、南非经济停滞等案例，呈现七国在全球金融风暴中的真实颠簸与挣扎。最终，作者提出以“生态文明“作为替代方案，强调南南合作与乡土社会的内部化能力，主张跳出GDP崇拜、回归人本与自然，开创可持续的未来。</itunes:summary>
+      <itunes:duration>00:52:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-d787a4.mp3" length="50319405" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
