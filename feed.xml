@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 02:12:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 02:14:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6874,6 +6874,17 @@
       <itunes:duration>00:21:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-60aa98.mp3" length="20768301" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《鞋带》 · 完整版 · 鞋带 · 完整讲读</title>
+      <description>《鞋带》是意大利作家多梅尼科·斯塔尔诺内的代表作，讲述了一个中产阶级家庭里被背叛与沉默撕裂的故事。丈夫阿多忽然离家出走，跟年轻的情人莉迪娅在一起，妻子婉妲一封接一封地写信追问，却始终得不到一个真正的答案。几十年后，他们的儿女回到那不勒斯的老房子整理遗物，发现了书架上那个藏了四十年的蓝色方块——里面是莉迪娅的裸照，也是父亲一辈子都没敢承认的真相。这本书用一个近乎残忍的冷静，把婚姻里的谎言、秘密与代际创伤一层层剥开，让读者看见：每个家庭里，都有一根看不见的鞋带，一头连着上一代，一头绑着下一代。</description>
+      <pubDate>Thu, 25 Jun 2026 02:14:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260625-episode-20260625-8aaafa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《鞋带》是意大利作家多梅尼科·斯塔尔诺内的代表作，讲述了一个中产阶级家庭里被背叛与沉默撕裂的故事。丈夫阿多忽然离家出走，跟年轻的情人莉迪娅在一起，妻子婉妲一封接一封地写信追问，却始终得不到一个真正的答案。几十年后，他们的儿女回到那不勒斯的老房子整理遗物，发现了书架上那个藏了四十年的蓝色方块——里面是莉迪娅的裸照，也是父亲一辈子都没敢承认的真相。这本书用一个近乎残忍的冷静，把婚姻里的谎言、秘密与代际创伤一层层剥开，让读者看见：每个家庭里，都有一根看不见的鞋带，一头连着上一代，一头绑着下一代。</itunes:summary>
+      <itunes:duration>00:36:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-8aaafa.mp3" length="35374509" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
