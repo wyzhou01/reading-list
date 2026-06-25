@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 11:12:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 11:14:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7039,6 +7039,17 @@
       <itunes:duration>00:27:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-e40d30.mp3" length="26408493" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《宋仁宗》 · 完整版 · 吴钩作品集 · 完整讲读</title>
+      <description>《宋仁宗：四十二年如梦》是历史作家吴钩的代表作，以宋人笔记、墓志、奏议、官制史料为基础，重述宋朝第四任君主赵祯在位四十二年的政治史。全书以大中祥符三年（1010年）赵祯出生起，至嘉祐八年（1063年）驾崩、英宗继位止，铺陈仁宗朝的台谏制度、宰执运作、宫廷政治、对辽夏外交、庆历新政的台前幕后，解释一位存在感极低的庸常君主，何以能缔造唐宋八大家六人登场、宋词豪放婉约双峰并立、活字印刷与指南针相继问世、人才辈出的时代，并探讨宋人&quot;四十二年如梦&quot;的集体记忆如何被时间与情感所塑造。</description>
+      <pubDate>Thu, 25 Jun 2026 11:14:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260625-episode-20260625-87adc8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《宋仁宗：四十二年如梦》是历史作家吴钩的代表作，以宋人笔记、墓志、奏议、官制史料为基础，重述宋朝第四任君主赵祯在位四十二年的政治史。全书以大中祥符三年（1010年）赵祯出生起，至嘉祐八年（1063年）驾崩、英宗继位止，铺陈仁宗朝的台谏制度、宰执运作、宫廷政治、对辽夏外交、庆历新政的台前幕后，解释一位存在感极低的庸常君主，何以能缔造唐宋八大家六人登场、宋词豪放婉约双峰并立、活字印刷与指南针相继问世、人才辈出的时代，并探讨宋人&quot;四十二年如梦&quot;的集体记忆如何被时间与情感所塑造。</itunes:summary>
+      <itunes:duration>00:30:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-87adc8.mp3" length="28989357" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
