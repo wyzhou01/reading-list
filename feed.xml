@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 02:14:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 02:15:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6885,6 +6885,17 @@
       <itunes:duration>00:36:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-8aaafa.mp3" length="35374509" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我的前半生》 · 完整版 · 我的前半生_(豆瓣) · 完整讲读</title>
+      <description>《我的前半生》是亦舒一九八二年的代表作，写香港全职太太子君三十三岁那年被丈夫涓生单方面抛弃后的坠落与重生。离婚前，子君养尊处优，全副身家押在婚姻上；离婚后，她在闺蜜唐晶的冷峻扶持下，从头学起谋生，最终以独立姿态重新站起来，并找到了真正尊重她的伴侣。亦舒用子君的故事，冷静而锋利地提出一个跨越时代的命题：婚姻给不了永久的安全感，女性的尊严必须建立在经济独立和精神独立之上。这本书写的是一个女人的觉醒，更是一代女性必须面对的现实——真正的退路，从来只有自己。</description>
+      <pubDate>Thu, 25 Jun 2026 02:15:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260625-episode-20260625-9cbe70</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我的前半生》是亦舒一九八二年的代表作，写香港全职太太子君三十三岁那年被丈夫涓生单方面抛弃后的坠落与重生。离婚前，子君养尊处优，全副身家押在婚姻上；离婚后，她在闺蜜唐晶的冷峻扶持下，从头学起谋生，最终以独立姿态重新站起来，并找到了真正尊重她的伴侣。亦舒用子君的故事，冷静而锋利地提出一个跨越时代的命题：婚姻给不了永久的安全感，女性的尊严必须建立在经济独立和精神独立之上。这本书写的是一个女人的觉醒，更是一代女性必须面对的现实——真正的退路，从来只有自己。</itunes:summary>
+      <itunes:duration>00:24:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-9cbe70.mp3" length="23450925" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
