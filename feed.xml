@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 02:30:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 02:31:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -6951,6 +6951,17 @@
       <itunes:duration>00:24:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-6a93ca.mp3" length="23415981" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《给一个青年诗人的十封信》 · 完整版 · 给一个青年诗人的十封信 · 完整讲读</title>
+      <description>《给一个青年诗人的十封信》是奥地利诗人里尔克在一九〇三至一九〇八年间，写给一位迷茫青年军官卡佩斯的十封私人书信。全书围绕寂寞、爱、两性、生计、童年与信仰六大主题，劝诫青年向内看、承寂寞、等成熟、敢承担。它不教人写诗，却教人如何把这一生过成自己的；不提供安慰，却提供一种在破碎中仍能站稳的姿态。一百二十年后读来，这本书非但没有过时，反而比任何时代都更切中现代人精神处境的深处。</description>
+      <pubDate>Thu, 25 Jun 2026 02:30:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260625-episode-20260625-3e0e5f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《给一个青年诗人的十封信》是奥地利诗人里尔克在一九〇三至一九〇八年间，写给一位迷茫青年军官卡佩斯的十封私人书信。全书围绕寂寞、爱、两性、生计、童年与信仰六大主题，劝诫青年向内看、承寂寞、等成熟、敢承担。它不教人写诗，却教人如何把这一生过成自己的；不提供安慰，却提供一种在破碎中仍能站稳的姿态。一百二十年后读来，这本书非但没有过时，反而比任何时代都更切中现代人精神处境的深处。</itunes:summary>
+      <itunes:duration>00:31:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-3e0e5f.mp3" length="30414765" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
