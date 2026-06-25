@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 21:35:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 21:40:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7234,6 +7234,17 @@
       <itunes:duration>00:28:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-71ada8.mp3" length="27807021" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我们为什么要睡觉》 · 完整版 · 我们为什么要睡觉 · 完整讲读</title>
+      <description>《我們為什麼要睡覺》是睡眠科學權威沃克二十年的研究結晶，揭示睡眠不足是二十一世紀最大的公共衛生危機。書中以神經科學證據說明：睡眠是大腦與身體修復的核心機制，夢對情緒與創造力具有獨特功能，安眠藥無法取代自然睡眠。本書呼籲從個人、醫療、教育到企業全面重塑對睡眠的重視，是現代人最迫切的健康提醒。</description>
+      <pubDate>Thu, 25 Jun 2026 21:40:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260626-episode-20260626-4bf79f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我們為什麼要睡覺》是睡眠科學權威沃克二十年的研究結晶，揭示睡眠不足是二十一世紀最大的公共衛生危機。書中以神經科學證據說明：睡眠是大腦與身體修復的核心機制，夢對情緒與創造力具有獨特功能，安眠藥無法取代自然睡眠。本書呼籲從個人、醫療、教育到企業全面重塑對睡眠的重視，是現代人最迫切的健康提醒。</itunes:summary>
+      <itunes:duration>00:33:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-4bf79f.mp3" length="32511405" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
