@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 21:24:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 21:28:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7201,6 +7201,17 @@
       <itunes:duration>00:25:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-94e4e8.mp3" length="24960045" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《伟大的电影·2》 · 完整版 · 伟大的电影_2 · 完整讲读</title>
+      <description>本书是影评人罗杰·伊伯特「伟大的电影」系列的第二部，精选 100 部他心目中伟大的电影并逐一撰写评论。书中涵盖 1915 年至 1998 年间世界各地的经典影片，类型横跨剧情片、战争片、恐怖片、喜剧、动画片、悬疑片等，包括《一个国家的诞生》《淘金记》《罗生门》《教父》《好家伙》《龙猫》《日落大道》《七宗罪》《偷自行车的人》等影史名作。伊伯特以个人化的笔触，深入解读每部电影的主题、表演、导演技法及其文化意义，表达他对电影艺术的热爱与坚持。</description>
+      <pubDate>Thu, 25 Jun 2026 21:28:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260626-episode-20260626-c6ef51</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是影评人罗杰·伊伯特「伟大的电影」系列的第二部，精选 100 部他心目中伟大的电影并逐一撰写评论。书中涵盖 1915 年至 1998 年间世界各地的经典影片，类型横跨剧情片、战争片、恐怖片、喜剧、动画片、悬疑片等，包括《一个国家的诞生》《淘金记》《罗生门》《教父》《好家伙》《龙猫》《日落大道》《七宗罪》《偷自行车的人》等影史名作。伊伯特以个人化的笔触，深入解读每部电影的主题、表演、导演技法及其文化意义，表达他对电影艺术的热爱与坚持。</itunes:summary>
+      <itunes:duration>00:26:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-c6ef51.mp3" length="25252269" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
