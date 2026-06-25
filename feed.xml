@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 11:34:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 16:29:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7135,6 +7135,17 @@
       <itunes:duration>00:37:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-f7974a.mp3" length="35879853" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《传统十论》 · 完整版 · 传统十论 · 完整讲读</title>
+      <description>秦晖在《传统十论》中挑战了我们对传统中国的浪漫想象：乡土中国从来不是宗族自治的小共同体社会，而是一个大共同体本位的“编户齐民“社会。他用计量数据证明，宗族势力在东南沿海最发达、在华北和关中几乎不存在；用秦汉律令揭示，法家的“伪现代性“拆掉宗族屏障、让皇权直抵个人；用集体化与农村改革的历史，论证中国的现代化必须走一条与西方相反的路——先让公民个人与小共同体结盟，对抗大共同体，再把传统组织改造为现代公民组织。一句话总结：两千年“儒表法里“，骗了我们太久；读懂传统，才能走好现代之路。</description>
+      <pubDate>Thu, 25 Jun 2026 16:28:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260626-episode-20260626-ae6236</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>秦晖在《传统十论》中挑战了我们对传统中国的浪漫想象：乡土中国从来不是宗族自治的小共同体社会，而是一个大共同体本位的“编户齐民“社会。他用计量数据证明，宗族势力在东南沿海最发达、在华北和关中几乎不存在；用秦汉律令揭示，法家的“伪现代性“拆掉宗族屏障、让皇权直抵个人；用集体化与农村改革的历史，论证中国的现代化必须走一条与西方相反的路——先让公民个人与小共同体结盟，对抗大共同体，再把传统组织改造为现代公民组织。一句话总结：两千年“儒表法里“，骗了我们太久；读懂传统，才能走好现代之路。</itunes:summary>
+      <itunes:duration>00:29:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-ae6236.mp3" length="28403757" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
