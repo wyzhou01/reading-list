@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 07:42:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 07:54:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7017,6 +7017,17 @@
       <itunes:duration>00:47:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-b1bf19.mp3" length="46003245" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《解读基金——我的投资观与实践（修订本）》 · 完整版 · 解读基金——我的投资观与实践 · 完整讲读</title>
+      <description>《解读基金——我的投资观与实践》是天文学博士季凯帆（LaoK）写给普通基民的基金投资入门经典。LaoK 以亲身经历告诉读者：普通人最该投资，复利是唯一可靠的“逆袭”路径；投资必须用三到五年不会用到的闲钱；资产配置决定八成收益；长期持有不等于永远不卖，要在市场狂热时敢于减仓；理财不是发财，心态决定终局。本书豆瓣评分八点四分，二零一八年修订版增补了牛熊转换心得与指数基金讨论，是基金投资者入门的必读书。</description>
+      <pubDate>Thu, 25 Jun 2026 07:52:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260625-episode-20260625-235c27</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《解读基金——我的投资观与实践》是天文学博士季凯帆（LaoK）写给普通基民的基金投资入门经典。LaoK 以亲身经历告诉读者：普通人最该投资，复利是唯一可靠的“逆袭”路径；投资必须用三到五年不会用到的闲钱；资产配置决定八成收益；长期持有不等于永远不卖，要在市场狂热时敢于减仓；理财不是发财，心态决定终局。本书豆瓣评分八点四分，二零一八年修订版增补了牛熊转换心得与指数基金讨论，是基金投资者入门的必读书。</itunes:summary>
+      <itunes:duration>00:55:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-235c27.mp3" length="52822701" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
