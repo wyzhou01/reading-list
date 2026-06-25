@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 16:43:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 16:49:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7168,6 +7168,17 @@
       <itunes:duration>00:28:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-9ce568.mp3" length="27588141" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《不朽》 · 完整版 · 不朽 · 完整讲读</title>
+      <description>米兰·昆德拉的《不朽》以一个六十岁女人在游泳池边向救生员挥手的小动作开篇，追问人能否在肉体消亡之后继续存在。昆德拉借歌德与贝蒂娜的情书、海明威的阳痿传闻、姐妹阿格尼丝与劳拉的不同命运，以及叙述者本人的介入，层层拆解了名声、媚俗、自我与本我的关系。他提出一个看似冷峻的洞察：动作比人更有个性，因此人常沦为动作的载体；真正的死亡不是肉体的消亡，而是把生活重复了一百遍。这本用法语写就的小说，是一次对小说形式本身的冒险，也是一面映照当代人拼命打造个人品牌、害怕被算法遗忘的镜子。</description>
+      <pubDate>Thu, 25 Jun 2026 16:48:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260626-episode-20260626-b82f75</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>米兰·昆德拉的《不朽》以一个六十岁女人在游泳池边向救生员挥手的小动作开篇，追问人能否在肉体消亡之后继续存在。昆德拉借歌德与贝蒂娜的情书、海明威的阳痿传闻、姐妹阿格尼丝与劳拉的不同命运，以及叙述者本人的介入，层层拆解了名声、媚俗、自我与本我的关系。他提出一个看似冷峻的洞察：动作比人更有个性，因此人常沦为动作的载体；真正的死亡不是肉体的消亡，而是把生活重复了一百遍。这本用法语写就的小说，是一次对小说形式本身的冒险，也是一面映照当代人拼命打造个人品牌、害怕被算法遗忘的镜子。</itunes:summary>
+      <itunes:duration>00:21:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-b82f75.mp3" length="20529069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
