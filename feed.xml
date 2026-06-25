@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 11:16:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 11:22:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7061,6 +7061,25 @@
       <itunes:duration>00:52:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-d787a4.mp3" length="50319405" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《机械复制时代的艺术作品》 · 完整版 · 机械复制时代的艺术作品 · 完整讲读</title>
+      <description>本雅明写于一九三六年的《机械复制时代的艺术作品》，是二十世纪最具影响力的一篇美学论文。在摄影取代肖像、电影征服欧洲的时代，他敏锐地察觉到：机械复制技术正在消解艺术独一无二的“光韵“——那种此时此刻、此地此地、不可复制的现场感与距离感。
+
+本雅明区分了艺术的两重价值：膜拜价值（艺术作为神殿中的神迹）和展示价值（艺术作为可被传播、可被观看的对象）。他论证，机械复制让艺术从膜拜走向展示，从精英走向大众，从永恒走向临时。这一转向既是民主化的契机，也暗藏被法西斯主义收编的危险。
+
+八十多年后，在短视频与 AIGC 主导的今天，本雅明的洞见不仅没有过时，反而愈发锋利。读这篇论文，就是理解我们为什么而看、为什么而感、为什么而信——也是在算法时代，抢救我们曾经拥有的、那种能够凝视真实的能力。</description>
+      <pubDate>Thu, 25 Jun 2026 11:21:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260625-episode-20260625-f8fff0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本雅明写于一九三六年的《机械复制时代的艺术作品》，是二十世纪最具影响力的一篇美学论文。在摄影取代肖像、电影征服欧洲的时代，他敏锐地察觉到：机械复制技术正在消解艺术独一无二的“光韵“——那种此时此刻、此地此地、不可复制的现场感与距离感。
+
+本雅明区分了艺术的两重价值：膜拜价值（艺术作为神殿中的神迹）和展示价值（艺术作为可被传播、可被观看的对象）。他论证，机械复制让艺术从膜拜走向展示，从精英走向大众，从永恒走向临时。这一转向既是民主化的契机，也暗藏被法西斯主义收编的危险。
+
+八十多年后，在短视频与 AIGC 主导的今天，本雅明的洞见不仅没有过时，反而愈发锋利。读这篇论文，就是理解我们为什么而看、为什么而感、为什么而信——也是在算法时代，抢救我们曾经拥有的、那种能够凝视真实的能力。</itunes:summary>
+      <itunes:duration>00:27:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260625/episode-20260625-f8fff0.mp3" length="26180781" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
