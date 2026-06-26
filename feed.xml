@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 26 Jun 2026 02:52:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 02:59:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7322,6 +7322,17 @@
       <itunes:duration>00:25:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-9a7cae.mp3" length="24347949" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《祈祷之海》 · 完整版 · 祈祷之海 · 完整讲读</title>
+      <description>《祈祷之海》是澳大利亚硬科幻作家格雷格·伊根的经典中短篇集。它用八篇看似独立的故事，共同追问同一个问题：当你最确信的根基被抽走——数学可能崩塌、自我被复制、信仰被还原为化学分子——你敢不敢继续活下去？本书既是一次思想实验的盛宴，也是一份关于“在没有根基之处如何站立”的勇气邀请。</description>
+      <pubDate>Fri, 26 Jun 2026 02:59:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260626-episode-20260626-b55170</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《祈祷之海》是澳大利亚硬科幻作家格雷格·伊根的经典中短篇集。它用八篇看似独立的故事，共同追问同一个问题：当你最确信的根基被抽走——数学可能崩塌、自我被复制、信仰被还原为化学分子——你敢不敢继续活下去？本书既是一次思想实验的盛宴，也是一份关于“在没有根基之处如何站立”的勇气邀请。</itunes:summary>
+      <itunes:duration>00:34:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-b55170.mp3" length="33341613" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
