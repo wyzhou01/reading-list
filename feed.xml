@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 26 Jun 2026 05:39:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 07:26:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7355,6 +7355,17 @@
       <itunes:duration>00:21:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-ebacfe.mp3" length="21100461" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《金榜题名之后：大学生出路分化之谜》 · 完整版 · 金榜题名之后 · 完整讲读</title>
+      <description>《金榜题名之后》是复旦大学与香港大学教育学者郑雅君基于六十多名顶尖大学毕业生的深度访谈写成的教育社会学著作。本书揭示了一个被“考上大学就好了”这种幻觉掩盖的现实：名校文凭只是一张入场券，能否兑换成理想出路，取决于一整套关于如何度过大学生活的实践图式，而这套图式与家庭文化资本深度绑定。作者提出“目标掌控”与“直觉依赖”两种实践模式、“家本位/崇高理想/自我表达”三种价值信念、“政治方向与市场方向”两条精英职业路径，以及“自主驱动者/机会主义者/迷失无从者/价值归顺者”四种典型结局，深刻剖析了名校大学生出路分化的隐性机制，既是一份严谨的社会学研究，也是一封写给寒门学子的长信。</description>
+      <pubDate>Fri, 26 Jun 2026 07:26:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260626-episode-20260626-5e8101</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《金榜题名之后》是复旦大学与香港大学教育学者郑雅君基于六十多名顶尖大学毕业生的深度访谈写成的教育社会学著作。本书揭示了一个被“考上大学就好了”这种幻觉掩盖的现实：名校文凭只是一张入场券，能否兑换成理想出路，取决于一整套关于如何度过大学生活的实践图式，而这套图式与家庭文化资本深度绑定。作者提出“目标掌控”与“直觉依赖”两种实践模式、“家本位/崇高理想/自我表达”三种价值信念、“政治方向与市场方向”两条精英职业路径，以及“自主驱动者/机会主义者/迷失无从者/价值归顺者”四种典型结局，深刻剖析了名校大学生出路分化的隐性机制，既是一份严谨的社会学研究，也是一封写给寒门学子的长信。</itunes:summary>
+      <itunes:duration>00:33:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-5e8101.mp3" length="32065581" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
