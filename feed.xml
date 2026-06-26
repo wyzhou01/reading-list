@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 26 Jun 2026 07:52:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 11:47:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7410,6 +7410,17 @@
       <itunes:duration>00:16:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-34b960.mp3" length="15374637" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《土星之环》 · 完整版 · 土星之环 · 完整讲读</title>
+      <description>《土星之环》是温弗里德·塞巴尔德一九九二年夏末在英格兰萨福克郡徒步旅行后写下的冥想式散文。一场本为摆脱空虚的散步，却让作者走进一片遍布历史废墟的海岸——托马斯·布朗的颅骨、索尔湾海战沉船、太平天国烽火、圆明园灰烬、诺里奇丝绸工业的衰亡，最终收束于一卷为维多利亚女王赶制的黑色丧服。塞巴尔德用照片、回忆、历史文献与旅途随笔熔为一体的笔法，把毁灭、记忆、帝国、暴力、蚕与丝绸编织成一张巨大的环形之网，抛出全书的根本追问：我们如何几乎仅仅由灾难组成？本书给出的不是答案，而是一种姿势——在坍塌的时代，缓慢地、忧伤地、一步一步地丈量废墟。</description>
+      <pubDate>Fri, 26 Jun 2026 11:47:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260626-episode-20260626-b568c5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《土星之环》是温弗里德·塞巴尔德一九九二年夏末在英格兰萨福克郡徒步旅行后写下的冥想式散文。一场本为摆脱空虚的散步，却让作者走进一片遍布历史废墟的海岸——托马斯·布朗的颅骨、索尔湾海战沉船、太平天国烽火、圆明园灰烬、诺里奇丝绸工业的衰亡，最终收束于一卷为维多利亚女王赶制的黑色丧服。塞巴尔德用照片、回忆、历史文献与旅途随笔熔为一体的笔法，把毁灭、记忆、帝国、暴力、蚕与丝绸编织成一张巨大的环形之网，抛出全书的根本追问：我们如何几乎仅仅由灾难组成？本书给出的不是答案，而是一种姿势——在坍塌的时代，缓慢地、忧伤地、一步一步地丈量废墟。</itunes:summary>
+      <itunes:duration>00:28:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-b568c5.mp3" length="27724461" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
