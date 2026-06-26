@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 26 Jun 2026 01:27:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 01:31:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7267,6 +7267,17 @@
       <itunes:duration>00:24:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-a0128a.mp3" length="23433645" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《寻获与失落：勒古恩中篇小说集》 · 完整版 · 寻获与失落：勒古恩中篇小说集——厄休拉·勒古恩 · 完整讲读</title>
+      <description>《寻获与失落》是科幻新浪潮大师厄古拉·勒古恩中篇作品的首次完整结集，收录十三个故事、五种世界观。本书以语言、命名、孤独、共情、性别与乌托邦幻灭为母题，把冷战阴影下的科技神话一一拆解：勘探者漂泊在比帝国还要辽阔的异星，世代移民在封闭飞船里亲手造出乌托邦又亲手打碎它，地海巫师走遍群岛为亡者寻回真名。勒古恩用半个世纪的写作反复追问同一个问题——人，何以为人——而她的回答沉甸甸地落在今天：所谓人，是给脚下的泥土取一个名字，是记得，是不愿放弃。</description>
+      <pubDate>Fri, 26 Jun 2026 01:31:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260626-episode-20260626-29ad38</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《寻获与失落》是科幻新浪潮大师厄古拉·勒古恩中篇作品的首次完整结集，收录十三个故事、五种世界观。本书以语言、命名、孤独、共情、性别与乌托邦幻灭为母题，把冷战阴影下的科技神话一一拆解：勘探者漂泊在比帝国还要辽阔的异星，世代移民在封闭飞船里亲手造出乌托邦又亲手打碎它，地海巫师走遍群岛为亡者寻回真名。勒古恩用半个世纪的写作反复追问同一个问题——人，何以为人——而她的回答沉甸甸地落在今天：所谓人，是给脚下的泥土取一个名字，是记得，是不愿放弃。</itunes:summary>
+      <itunes:duration>00:24:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-29ad38.mp3" length="23597613" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
