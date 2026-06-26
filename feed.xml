@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 26 Jun 2026 05:31:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 05:39:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7344,6 +7344,17 @@
       <itunes:duration>00:28:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-6d1b29.mp3" length="27708333" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《剑桥中国秦汉史》 · 完整版 · 剑桥中国秦汉史 · 完整讲读</title>
+      <description>《剑桥中国秦汉史》是西方学界首次系统梳理秦汉四百年的多卷本巨著，由崔瑞德、鲁惟一主编，一九八六年由剑桥大学出版社推出。本书以制度史、思想史、经济史并重的方法，把秦汉定义为帝制中国的“童年期“——这一时期确立的郡县、官僚、文书政治、儒法双轨、豪族经济、朝贡秩序，几乎全部延续到了二十世纪。本书最大的价值，是帮助中文读者跳出国内通史的叙事套路，看见制度如何在四百年的妥协与平衡中一步步成型，并理解这些制度如何塑造了此后两千年的中国底色。</description>
+      <pubDate>Fri, 26 Jun 2026 05:39:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260626-episode-20260626-ebacfe</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《剑桥中国秦汉史》是西方学界首次系统梳理秦汉四百年的多卷本巨著，由崔瑞德、鲁惟一主编，一九八六年由剑桥大学出版社推出。本书以制度史、思想史、经济史并重的方法，把秦汉定义为帝制中国的“童年期“——这一时期确立的郡县、官僚、文书政治、儒法双轨、豪族经济、朝贡秩序，几乎全部延续到了二十世纪。本书最大的价值，是帮助中文读者跳出国内通史的叙事套路，看见制度如何在四百年的妥协与平衡中一步步成型，并理解这些制度如何塑造了此后两千年的中国底色。</itunes:summary>
+      <itunes:duration>00:21:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-ebacfe.mp3" length="21100461" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
