@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 26 Jun 2026 21:21:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 21:29:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7520,6 +7520,17 @@
       <itunes:duration>00:33:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-ecec85.mp3" length="32360109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中亚纪行》 · 完整版 · 中亚行纪 · 完整讲读</title>
+      <description>《中亚行纪》是美国作家贝亚德·泰勒于1874年编纂的一部中亚探险文献合集，全书以克什米尔为起点，沿着喀喇昆仑山口进入塔里木盆地，记录了英俄两国在中亚腹地博弈的关键细节，也留下了叶尔羌房屋、婚礼、葬礼等珍贵的中亚风物切片。书中既有福赛斯使团1873年出使叶尔羌的政治档案，也有沙敖、瓦利汉诺夫、斯拉金特维特三兄弟等探险家的人类学观察，更有编者本人对马可·波罗以来欧洲中亚想象史的反思。这本由社会科学文献出版社2020年推出的中译本，既是英俄大博弈时代的史料合订本，也是西方人如何构建他者的样本，今天重读它，能让我们看到殖民视角的局限，也能看到那些跨越一百五十年仍未消失的中亚生活细节。</description>
+      <pubDate>Fri, 26 Jun 2026 21:29:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260627-episode-20260627-b07e00</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《中亚行纪》是美国作家贝亚德·泰勒于1874年编纂的一部中亚探险文献合集，全书以克什米尔为起点，沿着喀喇昆仑山口进入塔里木盆地，记录了英俄两国在中亚腹地博弈的关键细节，也留下了叶尔羌房屋、婚礼、葬礼等珍贵的中亚风物切片。书中既有福赛斯使团1873年出使叶尔羌的政治档案，也有沙敖、瓦利汉诺夫、斯拉金特维特三兄弟等探险家的人类学观察，更有编者本人对马可·波罗以来欧洲中亚想象史的反思。这本由社会科学文献出版社2020年推出的中译本，既是英俄大博弈时代的史料合订本，也是西方人如何构建他者的样本，今天重读它，能让我们看到殖民视角的局限，也能看到那些跨越一百五十年仍未消失的中亚生活细节。</itunes:summary>
+      <itunes:duration>00:46:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-b07e00.mp3" length="44601645" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
