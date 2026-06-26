@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 26 Jun 2026 16:09:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 16:26:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7454,6 +7454,17 @@
       <itunes:duration>00:32:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-6ef189.mp3" length="30950829" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《人月神话》 · 完整版 · 人月神话 · 完整讲读</title>
+      <description>《人月神话》是IBM三六零操作系统之父弗雷德里克·布鲁克斯写于一九七五年的经典之作。书中提出五个贯穿软件工程半个世纪的洞察：人月是危险的迷思，人员与时间不可互换；概念完整性是大型系统的命门，必须由极少数人主导设计；外科手术队伍以精干的核心加少数副手，重塑了团队想象；第二系统效应提醒设计者警惕画蛇添足的冲动；银弹不存在，软件的根本困难——复杂性、服从性、可变性、不可见性——无法被任何单一技术消除。五十年过去，这本书依然是每一个软件从业者绕不开的清醒之书。</description>
+      <pubDate>Fri, 26 Jun 2026 16:25:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260627-episode-20260627-851520</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《人月神话》是IBM三六零操作系统之父弗雷德里克·布鲁克斯写于一九七五年的经典之作。书中提出五个贯穿软件工程半个世纪的洞察：人月是危险的迷思，人员与时间不可互换；概念完整性是大型系统的命门，必须由极少数人主导设计；外科手术队伍以精干的核心加少数副手，重塑了团队想象；第二系统效应提醒设计者警惕画蛇添足的冲动；银弹不存在，软件的根本困难——复杂性、服从性、可变性、不可见性——无法被任何单一技术消除。五十年过去，这本书依然是每一个软件从业者绕不开的清醒之书。</itunes:summary>
+      <itunes:duration>00:32:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-851520.mp3" length="31141293" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
