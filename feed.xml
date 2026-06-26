@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 26 Jun 2026 16:49:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 16:57:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7487,6 +7487,17 @@
       <itunes:duration>00:25:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-78b55f.mp3" length="24150189" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《育儿放弃》 · 完整版 · 育儿放弃 · 完整讲读</title>
+      <description>《育儿放弃》是日本记者杉山春花近四年时间深入采访写成的非虚构作品，记录三岁女童村田真奈被亲生父母放在纸箱中近二十天、最终饿死在员工宿舍里的真实案件。通过回溯三代人的创伤，杉山春追问的不是父母有多“冷血“，而是当一对“极为普通“的年轻人走向育儿放弃时，是什么让家庭、社区、学校、便利店这些本该拦截危险的“检查站“集体失灵。她尖锐地指出：孤立育儿不是个人悲剧，而是消费主义、城市化、原子化生活共同制造的现代困境；虐待者并非怪物，而是从未被接住过的普通人；家庭与社区关系的重生，前提是重建那些被拆掉的“检查站“——重新学会看见身边人。</description>
+      <pubDate>Fri, 26 Jun 2026 16:56:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260627-episode-20260627-21541f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《育儿放弃》是日本记者杉山春花近四年时间深入采访写成的非虚构作品，记录三岁女童村田真奈被亲生父母放在纸箱中近二十天、最终饿死在员工宿舍里的真实案件。通过回溯三代人的创伤，杉山春追问的不是父母有多“冷血“，而是当一对“极为普通“的年轻人走向育儿放弃时，是什么让家庭、社区、学校、便利店这些本该拦截危险的“检查站“集体失灵。她尖锐地指出：孤立育儿不是个人悲剧，而是消费主义、城市化、原子化生活共同制造的现代困境；虐待者并非怪物，而是从未被接住过的普通人；家庭与社区关系的重生，前提是重建那些被拆掉的“检查站“——重新学会看见身边人。</itunes:summary>
+      <itunes:duration>00:28:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-21541f.mp3" length="27653037" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
