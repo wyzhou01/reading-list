@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 26 Jun 2026 01:21:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 01:27:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7256,6 +7256,17 @@
       <itunes:duration>00:39:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-8b1b31.mp3" length="37970349" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《刺客信条全集》 · 完整版 · 刺客信条全集 · 完整讲读</title>
+      <description>《刺客信条全集》收录了英国作家奥利弗·波登撰写的十二部刺客信条官方小说，时间线跨越公元前四百多年的古希腊到十八世纪的加勒比海，几乎覆盖了游戏系列的全部历史舞台。波登以扎实的历史考据为底，将真实历史事件与刺客兄弟会、圣殿骑士团的千年暗战深度缝合，让读者跟随埃齐奥见证博基亚家族的覆灭，跟随卡珊德拉与希罗多德、苏格拉底并肩行走伯里克利治下的雅典，跟随雅各布与伊薇亲历伦敦工业革命的阴沟。全集以“伊甸碎片”这一远古造物为线索，探讨自由意志与秩序控制、信仰与背叛、传承与救赎的永恒命题。十二卷合在一起，构成了一部以虚构暗线重写人类历史的另类史诗。</description>
+      <pubDate>Fri, 26 Jun 2026 01:27:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260626-episode-20260626-a0128a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《刺客信条全集》收录了英国作家奥利弗·波登撰写的十二部刺客信条官方小说，时间线跨越公元前四百多年的古希腊到十八世纪的加勒比海，几乎覆盖了游戏系列的全部历史舞台。波登以扎实的历史考据为底，将真实历史事件与刺客兄弟会、圣殿骑士团的千年暗战深度缝合，让读者跟随埃齐奥见证博基亚家族的覆灭，跟随卡珊德拉与希罗多德、苏格拉底并肩行走伯里克利治下的雅典，跟随雅各布与伊薇亲历伦敦工业革命的阴沟。全集以“伊甸碎片”这一远古造物为线索，探讨自由意志与秩序控制、信仰与背叛、传承与救赎的永恒命题。十二卷合在一起，构成了一部以虚构暗线重写人类历史的另类史诗。</itunes:summary>
+      <itunes:duration>00:24:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-a0128a.mp3" length="23433645" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
