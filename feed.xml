@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 26 Jun 2026 11:47:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 11:53:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7421,6 +7421,17 @@
       <itunes:duration>00:28:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-b568c5.mp3" length="27724461" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我妈笑了》 · 完整版 · 我妈笑了 · 完整讲读</title>
+      <description>《我妈笑了》是香特尔·阿克曼生命最后阶段写下的私人随笔。母亲重病之后，她回到布鲁塞尔，在母女絮语、护工日常、犹太家族记忆与衰老凝视之间，记录下一个浑身疼痛却仍在笑出声来的老人。她最终承认，自己采取的只能是一个不完整的、想象出来的视角。而写作，是她和母亲的笑一样，是被死亡擦洗过后，仍然继续活下去的方式。</description>
+      <pubDate>Fri, 26 Jun 2026 11:52:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260626-episode-20260626-25a7a1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我妈笑了》是香特尔·阿克曼生命最后阶段写下的私人随笔。母亲重病之后，她回到布鲁塞尔，在母女絮语、护工日常、犹太家族记忆与衰老凝视之间，记录下一个浑身疼痛却仍在笑出声来的老人。她最终承认，自己采取的只能是一个不完整的、想象出来的视角。而写作，是她和母亲的笑一样，是被死亡擦洗过后，仍然继续活下去的方式。</itunes:summary>
+      <itunes:duration>00:25:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-25a7a1.mp3" length="24649773" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
