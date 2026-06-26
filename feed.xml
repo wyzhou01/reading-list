@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 26 Jun 2026 21:33:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 21:38:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7542,6 +7542,17 @@
       <itunes:duration>00:30:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-eec0b3.mp3" length="29346477" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《恐龙的兴衰：一部失落世界的全新史诗》 · 完整版 · 恐龙的兴衰：一部失落世界的全新史诗 · 完整讲读</title>
+      <description>《恐龙的兴衰》是一部由八零后古生物学家史蒂夫·布鲁萨特撰写的恐龙科普经典。本书系统梳理了近二十年来恐龙学的静悄悄革命：从二叠纪大灭绝后废墟中走出的卑微幸存者，到披上羽毛飞上蓝天的鸟类祖先；从蜥脚类巨兽的鼎盛王朝，到白垩纪末小行星撞击的末日浩劫。布鲁萨特结合全球化石点的第一手考察经历与最新科研突破，揭示了一个震撼的事实：恐龙从未真正消失，今天窗外的麻雀就是戴着羽冠的恐龙。这是一面映照人类处境的镜子，教会我们关于韧性、传承与生命意义的永恒课题。</description>
+      <pubDate>Fri, 26 Jun 2026 21:38:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260627-episode-20260627-1c7c29</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《恐龙的兴衰》是一部由八零后古生物学家史蒂夫·布鲁萨特撰写的恐龙科普经典。本书系统梳理了近二十年来恐龙学的静悄悄革命：从二叠纪大灭绝后废墟中走出的卑微幸存者，到披上羽毛飞上蓝天的鸟类祖先；从蜥脚类巨兽的鼎盛王朝，到白垩纪末小行星撞击的末日浩劫。布鲁萨特结合全球化石点的第一手考察经历与最新科研突破，揭示了一个震撼的事实：恐龙从未真正消失，今天窗外的麻雀就是戴着羽冠的恐龙。这是一面映照人类处境的镜子，教会我们关于韧性、传承与生命意义的永恒课题。</itunes:summary>
+      <itunes:duration>00:27:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-1c7c29.mp3" length="26555181" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
