@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 26 Jun 2026 07:49:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 07:52:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7399,6 +7399,17 @@
       <itunes:duration>00:23:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-76b9be.mp3" length="22661037" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《浪的景观》 · 完整版 · 浪的景观_-周嘉宁 · 完整讲读</title>
+      <description>《浪的景观》是周嘉宁出版于二〇二二年的短篇小说集，收录《再见日》《浪的景观》《明日派对》三篇。三个故事分别发生在丹佛机场、佩奥尼亚小镇、夏夜苏州河，主人公都是全球化时代里在异国与故土之间反复横移的年轻艺术家。小说不写垮掉的一代，也不写愤怒的一代，写的是“没有被发射出去的一代“——他们没有被改变，也没有被塑造，只是在一个不再承诺未来的时代里，练习着如何彼此辨认。一道浪总是连着下一道浪，生活本身就是不断抵达对岸的尝试。</description>
+      <pubDate>Fri, 26 Jun 2026 07:52:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260626-episode-20260626-34b960</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《浪的景观》是周嘉宁出版于二〇二二年的短篇小说集，收录《再见日》《浪的景观》《明日派对》三篇。三个故事分别发生在丹佛机场、佩奥尼亚小镇、夏夜苏州河，主人公都是全球化时代里在异国与故土之间反复横移的年轻艺术家。小说不写垮掉的一代，也不写愤怒的一代，写的是“没有被发射出去的一代“——他们没有被改变，也没有被塑造，只是在一个不再承诺未来的时代里，练习着如何彼此辨认。一道浪总是连着下一道浪，生活本身就是不断抵达对岸的尝试。</itunes:summary>
+      <itunes:duration>00:16:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-34b960.mp3" length="15374637" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
