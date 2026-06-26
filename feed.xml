@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 26 Jun 2026 02:59:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 05:31:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7333,6 +7333,17 @@
       <itunes:duration>00:34:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-b55170.mp3" length="33341613" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《潮汐图》 · 完整版 · 潮汐图 · 完整讲读</title>
+      <description>《潮汐图》是林棹写于二〇二二年的南方长篇。一只雌雄未定的虚构之蛙从珠江水上的蛋壳里跳出来，被掳走，辗转于十九世纪的澳门、广州、十三行海皮、伶仃洋与世界号冰窖之间；它用湿漉漉的眼睛看水陆交界的腥气，用方言、博物志与潮汐作底料。小说以断尾、拣择、雌雄同体、帝国海洋史与冰封终局，揭开一段被陆地叙事长期压制的、被剁成碎块的、被装进展柜的南方现代性。一种被称为自然、被称为南方、被称为方言的庞然大物，正在消逝。</description>
+      <pubDate>Fri, 26 Jun 2026 05:30:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260626-episode-20260626-6d1b29</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《潮汐图》是林棹写于二〇二二年的南方长篇。一只雌雄未定的虚构之蛙从珠江水上的蛋壳里跳出来，被掳走，辗转于十九世纪的澳门、广州、十三行海皮、伶仃洋与世界号冰窖之间；它用湿漉漉的眼睛看水陆交界的腥气，用方言、博物志与潮汐作底料。小说以断尾、拣择、雌雄同体、帝国海洋史与冰封终局，揭开一段被陆地叙事长期压制的、被剁成碎块的、被装进展柜的南方现代性。一种被称为自然、被称为南方、被称为方言的庞然大物，正在消逝。</itunes:summary>
+      <itunes:duration>00:28:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-6d1b29.mp3" length="27708333" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
