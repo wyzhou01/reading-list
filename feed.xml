@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 26 Jun 2026 11:53:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 16:00:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7432,6 +7432,17 @@
       <itunes:duration>00:25:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-25a7a1.mp3" length="24649773" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《在雪山和雪山之间》 · 完整版 · 在雪山和雪山之间 · 完整讲读</title>
+      <description>《在雪山和雪山之间》是植物学者乔阳在滇西北雪山之间生活二十余年的自然笔记。她以一株草、一片林、一阵风为入口，写出了植物如何打开一整座山脉，一片土地如何慢慢塑造一个人，以及在节奏越来越快的时代，我们如何找回属于自己的慢。这本书不是风景散文，也不是逃离指南，它把植物学观察、个人成长与一个母亲的眼睛，揉进了同一片雪山的四季之中。读完它，你会重新理解“住下来”这三个字的重量。</description>
+      <pubDate>Fri, 26 Jun 2026 15:59:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260626-episode-20260626-9c739f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《在雪山和雪山之间》是植物学者乔阳在滇西北雪山之间生活二十余年的自然笔记。她以一株草、一片林、一阵风为入口，写出了植物如何打开一整座山脉，一片土地如何慢慢塑造一个人，以及在节奏越来越快的时代，我们如何找回属于自己的慢。这本书不是风景散文，也不是逃离指南，它把植物学观察、个人成长与一个母亲的眼睛，揉进了同一片雪山的四季之中。读完它，你会重新理解“住下来”这三个字的重量。</itunes:summary>
+      <itunes:duration>00:29:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-9c739f.mp3" length="28520493" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
