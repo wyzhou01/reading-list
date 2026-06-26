@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 26 Jun 2026 01:31:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 01:40:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7278,6 +7278,17 @@
       <itunes:duration>00:24:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-29ad38.mp3" length="23597613" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《知晓我姓名》 · 完整版 · 知晓我姓名 · 完整讲读</title>
+      <description>《知晓我姓名》是美籍华裔作家香奈儿·米勒的回忆录，讲述她在二零一五年斯坦福校园性侵案后，从匿名代号埃米莉·多伊重新拿回自己名字的过程。书中既是一个女孩创伤后重建身份的私密记录，也是一份对司法体系的冷静观察，细致呈现了报警、取证、庭审、轻判这一整套流程如何对受害者造成二次伤害。米勒以真名公开露面，意在让读者看到一桩性侵案的背后并不是一个匿名的数字，而是一个有家庭、有职业、有笑点的具体的人。这本书同时回应了性侵案件中常见的偏见，替施害者找理由、把受害者推到边上、错放责任这三套话术，并示范了如何通过命名与发声，把羞耻感从受害者身上移向它真正该去的地方。</description>
+      <pubDate>Fri, 26 Jun 2026 01:40:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260626-episode-20260626-1c2eb7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《知晓我姓名》是美籍华裔作家香奈儿·米勒的回忆录，讲述她在二零一五年斯坦福校园性侵案后，从匿名代号埃米莉·多伊重新拿回自己名字的过程。书中既是一个女孩创伤后重建身份的私密记录，也是一份对司法体系的冷静观察，细致呈现了报警、取证、庭审、轻判这一整套流程如何对受害者造成二次伤害。米勒以真名公开露面，意在让读者看到一桩性侵案的背后并不是一个匿名的数字，而是一个有家庭、有职业、有笑点的具体的人。这本书同时回应了性侵案件中常见的偏见，替施害者找理由、把受害者推到边上、错放责任这三套话术，并示范了如何通过命名与发声，把羞耻感从受害者身上移向它真正该去的地方。</itunes:summary>
+      <itunes:duration>00:26:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-1c2eb7.mp3" length="25432749" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
