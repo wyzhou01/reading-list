@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 26 Jun 2026 07:26:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 07:31:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7366,6 +7366,17 @@
       <itunes:duration>00:33:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-5e8101.mp3" length="32065581" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《漫长的星期六：斯坦纳谈话录》 · 完整版 · 漫长的星期六_：斯坦纳谈话录 · 完整讲读</title>
+      <description>《漫长的星期六：斯坦纳谈话录》是法国记者洛尔·阿德勒对文学批评大师乔治·斯坦纳的十二年长谈，话题横跨流亡、犹太身份、语言、翻译、阅读与死亡。斯坦纳从六岁在巴黎阳台上的“意外教育”讲起，回忆他在纽约的流亡岁月、与奥本海默的相遇、普林斯顿的科学家共同体，以及在剑桥的八角书屋里对二十世纪人文学科的反思。他以“积极的悲观主义”直面奥斯维辛之后的道德困境，坚信每一种语言都是打开新世界的窗户，翻译是信任的化身，而人文学科的根本危机在于语言已认不清伦理的边界。这本书既是一位流亡知识分子的精神自传，也是对人类如何在残缺中辨认礼物的永恒追问。</description>
+      <pubDate>Fri, 26 Jun 2026 07:30:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260626-episode-20260626-54097c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《漫长的星期六：斯坦纳谈话录》是法国记者洛尔·阿德勒对文学批评大师乔治·斯坦纳的十二年长谈，话题横跨流亡、犹太身份、语言、翻译、阅读与死亡。斯坦纳从六岁在巴黎阳台上的“意外教育”讲起，回忆他在纽约的流亡岁月、与奥本海默的相遇、普林斯顿的科学家共同体，以及在剑桥的八角书屋里对二十世纪人文学科的反思。他以“积极的悲观主义”直面奥斯维辛之后的道德困境，坚信每一种语言都是打开新世界的窗户，翻译是信任的化身，而人文学科的根本危机在于语言已认不清伦理的边界。这本书既是一位流亡知识分子的精神自传，也是对人类如何在残缺中辨认礼物的永恒追问。</itunes:summary>
+      <itunes:duration>00:23:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-54097c.mp3" length="22757421" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
