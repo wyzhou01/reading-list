@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 26 Jun 2026 21:29:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 21:33:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7531,6 +7531,17 @@
       <itunes:duration>00:46:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-b07e00.mp3" length="44601645" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《街角社会：一个意大利人贫民区的社会结构》 · 完整版 · 街角社会 · 完整讲读</title>
+      <description>《街角社会》是美国社会学家威廉·富特·怀特于一九四三年出版的经典著作，记录了他在一九三六至一九四零年间深入波士顿北区意大利人贫民区科纳维尔所做的实地研究。怀特以街角帮一员的身份，与一群意大利裔青年共同生活，参与他们的日常活动，追踪非法团伙成员与政治家的运作，揭示出这个被外界视为混乱和危险的地方，其实是一个高度有组织的完整社会制度。本书首次完整呈现了参与观察法这一研究方法，确立了城市实地研究的新标准，至今仍是社会学必读的经典。</description>
+      <pubDate>Fri, 26 Jun 2026 21:33:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260627-episode-20260627-eec0b3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《街角社会》是美国社会学家威廉·富特·怀特于一九四三年出版的经典著作，记录了他在一九三六至一九四零年间深入波士顿北区意大利人贫民区科纳维尔所做的实地研究。怀特以街角帮一员的身份，与一群意大利裔青年共同生活，参与他们的日常活动，追踪非法团伙成员与政治家的运作，揭示出这个被外界视为混乱和危险的地方，其实是一个高度有组织的完整社会制度。本书首次完整呈现了参与观察法这一研究方法，确立了城市实地研究的新标准，至今仍是社会学必读的经典。</itunes:summary>
+      <itunes:duration>00:30:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-eec0b3.mp3" length="29346477" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
