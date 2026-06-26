@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 26 Jun 2026 07:39:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 07:49:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7388,6 +7388,17 @@
       <itunes:duration>00:32:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-89626c.mp3" length="30857901" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大山里的小诗人》 · 完整版 · 大山里的小诗人 · 完整讲读</title>
+      <description>《大山里的小诗人》是云南乡村教师康瑜和“是光诗歌”公益机构整理的乡村儿童诗集，收录了近百首由留守、单亲、贫困儿童创作的课堂习作。书中没有苦情，没有控诉，只有一群孩子在屋檐下、窗前、稻田边，把心里的思念、孤独、温柔和想象，一笔一画写成了诗。这本书适合每一个相信文字有力量的人。</description>
+      <pubDate>Fri, 26 Jun 2026 07:48:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260626-episode-20260626-76b9be</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大山里的小诗人》是云南乡村教师康瑜和“是光诗歌”公益机构整理的乡村儿童诗集，收录了近百首由留守、单亲、贫困儿童创作的课堂习作。书中没有苦情，没有控诉，只有一群孩子在屋檐下、窗前、稻田边，把心里的思念、孤独、温柔和想象，一笔一画写成了诗。这本书适合每一个相信文字有力量的人。</itunes:summary>
+      <itunes:duration>00:23:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-76b9be.mp3" length="22661037" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
