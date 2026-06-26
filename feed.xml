@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 26 Jun 2026 16:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 16:09:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7443,6 +7443,17 @@
       <itunes:duration>00:29:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-9c739f.mp3" length="28520493" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《明代国家权力结构及运行机制》 · 完整版 · 明代国家权力结构及运行机制 · 完整讲读</title>
+      <description>《明代国家权力结构及运行机制》是方志远先生积二十年研究之功的代表作。全书以制度运行与权力博弈为线索，系统梳理了明太祖废丞相、设五府六部都察院的初创定型，永乐至嘉靖年间内阁票拟与司礼监批红双轨制的形成，以及巡抚总兵从中央派出到成为地方首脑的全过程。作者提出两个贯穿全书的结构性原则——&quot;以内制外、内外相制&quot;与&quot;大小相制、上下相维&quot;，并揭示出明中后期皇权从&quot;事必躬亲&quot;演变为&quot;垂拱而治&quot;的深层悖论：制度越精巧，制衡越严密，皇帝越是被架空；权力越分散，地方越是被流程捆绑。这部书既是制度史的严谨之作，也是政治史的宏观叙事，为理解中国国家治理的深层逻辑提供了一份不可绕开的厚重文本。</description>
+      <pubDate>Fri, 26 Jun 2026 16:07:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260627-episode-20260627-6ef189</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《明代国家权力结构及运行机制》是方志远先生积二十年研究之功的代表作。全书以制度运行与权力博弈为线索，系统梳理了明太祖废丞相、设五府六部都察院的初创定型，永乐至嘉靖年间内阁票拟与司礼监批红双轨制的形成，以及巡抚总兵从中央派出到成为地方首脑的全过程。作者提出两个贯穿全书的结构性原则——&quot;以内制外、内外相制&quot;与&quot;大小相制、上下相维&quot;，并揭示出明中后期皇权从&quot;事必躬亲&quot;演变为&quot;垂拱而治&quot;的深层悖论：制度越精巧，制衡越严密，皇帝越是被架空；权力越分散，地方越是被流程捆绑。这部书既是制度史的严谨之作，也是政治史的宏观叙事，为理解中国国家治理的深层逻辑提供了一份不可绕开的厚重文本。</itunes:summary>
+      <itunes:duration>00:32:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-6ef189.mp3" length="30950829" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
