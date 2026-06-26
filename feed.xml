@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 26 Jun 2026 17:03:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 21:21:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7509,6 +7509,17 @@
       <itunes:duration>00:24:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-44234a.mp3" length="23198637" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《马可瓦尔多》 · 完整版 · 马可瓦尔多 · 完整讲读</title>
+      <description>《马可瓦尔多》是意大利作家伊塔洛·卡尔维诺一九六三年写下的短篇集，副标题“城市四季”，由二十个短篇构成，按春夏秋冬轮转五圈。主人公马可瓦尔多是一个住在城市底层的小工，养着妻子和一群孩子，在钢筋水泥里寻找蘑菇、鸽子、雪、阳光、好空气。他每一次和自然的相遇，最后几乎都以小灾难收场——蘑菇让他全家食物中毒，粘鸽子粘到了市政府的鸽子，铲雪铲到自己被雪埋。但他每一次都还会蹲下去闻一闻。这本书用极轻的笔写极重的事：在一切都被资本和技术规划好的城市里，一个人还能不能感觉到风、感觉到雪、感觉到一朵无味的花。六十多年过去了，这本写给普通人的小书，依然是每一个被闹钟、电车、红绿灯绑住的人，最需要的一本。</description>
+      <pubDate>Fri, 26 Jun 2026 21:21:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260627-episode-20260627-ecec85</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《马可瓦尔多》是意大利作家伊塔洛·卡尔维诺一九六三年写下的短篇集，副标题“城市四季”，由二十个短篇构成，按春夏秋冬轮转五圈。主人公马可瓦尔多是一个住在城市底层的小工，养着妻子和一群孩子，在钢筋水泥里寻找蘑菇、鸽子、雪、阳光、好空气。他每一次和自然的相遇，最后几乎都以小灾难收场——蘑菇让他全家食物中毒，粘鸽子粘到了市政府的鸽子，铲雪铲到自己被雪埋。但他每一次都还会蹲下去闻一闻。这本书用极轻的笔写极重的事：在一切都被资本和技术规划好的城市里，一个人还能不能感觉到风、感觉到雪、感觉到一朵无味的花。六十多年过去了，这本写给普通人的小书，依然是每一个被闹钟、电车、红绿灯绑住的人，最需要的一本。</itunes:summary>
+      <itunes:duration>00:33:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-ecec85.mp3" length="32360109" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
