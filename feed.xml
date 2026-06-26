@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 26 Jun 2026 01:47:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 02:44:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7300,6 +7300,17 @@
       <itunes:duration>00:27:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-140a4f.mp3" length="25968429" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《巷里林泉》 · 完整版 · 巷里林泉 · 完整讲读</title>
+      <description>《巷里林泉》是故园风雨前的第二本散文集，写市井烟火里的辛酸与温柔。全书以川渝方言的鲜活语感为底色，从麻将桌边的一声“爬”、咖啡馆里一封劝人小声的餐巾纸字条、一只叫白嘴的流浪猫切入，拆解“假依恋、真凌驾”的精神消费，凝视生老病死，安放网络时代那些不擅言谈的深情。她用嬉皮笑脸包裹最深的体谅，写出每个普通人在疲惫中彼此心照不宣的温柔。</description>
+      <pubDate>Fri, 26 Jun 2026 02:44:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260626-episode-20260626-77fefb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《巷里林泉》是故园风雨前的第二本散文集，写市井烟火里的辛酸与温柔。全书以川渝方言的鲜活语感为底色，从麻将桌边的一声“爬”、咖啡馆里一封劝人小声的餐巾纸字条、一只叫白嘴的流浪猫切入，拆解“假依恋、真凌驾”的精神消费，凝视生老病死，安放网络时代那些不擅言谈的深情。她用嬉皮笑脸包裹最深的体谅，写出每个普通人在疲惫中彼此心照不宣的温柔。</itunes:summary>
+      <itunes:duration>00:23:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-77fefb.mp3" length="22719789" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
