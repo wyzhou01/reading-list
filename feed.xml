@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 26 Jun 2026 01:40:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 01:47:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7289,6 +7289,17 @@
       <itunes:duration>00:26:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-1c2eb7.mp3" length="25432749" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《美与暴烈：三岛由纪夫的生与死》 · 完整版 · 美与暴烈：三岛由纪夫传 · 完整讲读</title>
+      <description>《美与暴烈》是英国记者亨利·斯各特·斯托克斯所写的三岛由纪夫传记，以冷静坦率的局外人视角，呈现昭和时代日本最杰出作家之一的一生——从病弱官宦子弟、川端门生，到肉体崇拜、武士道迷恋，最终切腹殉道。斯托克斯穿透传奇表象，揭示三岛用童年压抑补偿为男性身体崇拜、用文学天才完成政治行动的精神机制，剖析美与毁灭如何一体两面。书中最锋利的洞察是：三岛不是被时代所杀，而是用剖腹完成自己一辈子都在写的小说。这本书不只关乎一个作家的命运，更是一面镜子，照出我们每个人身上都可能存在的「极端行动幻觉」——提醒我们：极端行动不是完成，而是逃避；不是觉醒，而是执念。</description>
+      <pubDate>Fri, 26 Jun 2026 01:47:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260626-episode-20260626-140a4f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《美与暴烈》是英国记者亨利·斯各特·斯托克斯所写的三岛由纪夫传记，以冷静坦率的局外人视角，呈现昭和时代日本最杰出作家之一的一生——从病弱官宦子弟、川端门生，到肉体崇拜、武士道迷恋，最终切腹殉道。斯托克斯穿透传奇表象，揭示三岛用童年压抑补偿为男性身体崇拜、用文学天才完成政治行动的精神机制，剖析美与毁灭如何一体两面。书中最锋利的洞察是：三岛不是被时代所杀，而是用剖腹完成自己一辈子都在写的小说。这本书不只关乎一个作家的命运，更是一面镜子，照出我们每个人身上都可能存在的「极端行动幻觉」——提醒我们：极端行动不是完成，而是逃避；不是觉醒，而是执念。</itunes:summary>
+      <itunes:duration>00:27:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-140a4f.mp3" length="25968429" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
