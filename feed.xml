@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 26 Jun 2026 16:57:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 17:03:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7498,6 +7498,17 @@
       <itunes:duration>00:28:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-21541f.mp3" length="27653037" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《人体简史》 · 完整版 · 人体简史 · 完整讲读</title>
+      <description>《人体简史》是英国作家比尔·布莱森继《万物简史》之后的又一科普力作。他以英式幽默和严谨笔触，从化学元素、皮肤、微生物、大脑一路写到疾病、衰老与死亡，全景式呈现了人体的精妙与脆弱。本期节目精选六大核心洞察：你体内99.1%的身体只由六种元素拼成，按原料价约九万六千英镑；皮肤最外面那层是死细胞，每分钟脱落两万五千个；你体表与体内的微生物数量与自身细胞相当；从基因看你更像宿主；你每天都有几次机会得癌症，但免疫系统几乎每次都救了你；人类分娩、骨盆、背痛、不能合成维生素C，都是演化的妥协。了解身体不是为了变成专家，而是为了少一点焦虑，多一点耐心，把自己这件概率渺茫的奇迹，过得稍微久一点，稍微好一点。</description>
+      <pubDate>Fri, 26 Jun 2026 17:02:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260627-episode-20260627-44234a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《人体简史》是英国作家比尔·布莱森继《万物简史》之后的又一科普力作。他以英式幽默和严谨笔触，从化学元素、皮肤、微生物、大脑一路写到疾病、衰老与死亡，全景式呈现了人体的精妙与脆弱。本期节目精选六大核心洞察：你体内99.1%的身体只由六种元素拼成，按原料价约九万六千英镑；皮肤最外面那层是死细胞，每分钟脱落两万五千个；你体表与体内的微生物数量与自身细胞相当；从基因看你更像宿主；你每天都有几次机会得癌症，但免疫系统几乎每次都救了你；人类分娩、骨盆、背痛、不能合成维生素C，都是演化的妥协。了解身体不是为了变成专家，而是为了少一点焦虑，多一点耐心，把自己这件概率渺茫的奇迹，过得稍微久一点，稍微好一点。</itunes:summary>
+      <itunes:duration>00:24:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-44234a.mp3" length="23198637" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
