@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 25 Jun 2026 21:40:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 01:19:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7245,6 +7245,17 @@
       <itunes:duration>00:33:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-4bf79f.mp3" length="32511405" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《霍乱时期的爱情》 · 完整版 · 霍乱时期的爱情 · 完整讲读</title>
+      <description>《霍乱时期的爱情》是加西亚·马尔克斯于一九八五年创作的长篇小说,被誉为二十世纪爱情小说的巅峰之作。故事讲述了电报员弗洛伦蒂诺·阿里萨在年轻时爱上费尔米娜·达萨,遭拒绝后看着她嫁给体面的医生胡维纳尔·乌尔比诺。在随后五十一年九个月零四天里,弗洛伦蒂诺在六百二十二段风流韵事中等待,乌尔比诺的婚姻中也有隐秘与妥协。当乌尔比诺去世,已至暮年的弗洛伦蒂诺重新追求费尔米娜,两人最终在一艘挂着霍乱旗的内河轮船上重新相爱。这部小说穷尽了爱情的所有面貌——浪漫激情、肉体之爱、精神之爱、婚姻现实、孤独与陪伴——被誉为关于爱情的百科全书。</description>
+      <pubDate>Fri, 26 Jun 2026 01:19:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260626-episode-20260626-355323</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《霍乱时期的爱情》是加西亚·马尔克斯于一九八五年创作的长篇小说,被誉为二十世纪爱情小说的巅峰之作。故事讲述了电报员弗洛伦蒂诺·阿里萨在年轻时爱上费尔米娜·达萨,遭拒绝后看着她嫁给体面的医生胡维纳尔·乌尔比诺。在随后五十一年九个月零四天里,弗洛伦蒂诺在六百二十二段风流韵事中等待,乌尔比诺的婚姻中也有隐秘与妥协。当乌尔比诺去世,已至暮年的弗洛伦蒂诺重新追求费尔米娜,两人最终在一艘挂着霍乱旗的内河轮船上重新相爱。这部小说穷尽了爱情的所有面貌——浪漫激情、肉体之爱、精神之爱、婚姻现实、孤独与陪伴——被誉为关于爱情的百科全书。</itunes:summary>
+      <itunes:duration>00:23:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260626/episode-20260626-355323.mp3" length="22865325" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
