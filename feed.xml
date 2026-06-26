@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 26 Jun 2026 21:38:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 21:42:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7553,6 +7553,17 @@
       <itunes:duration>00:27:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-1c7c29.mp3" length="26555181" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《破云2：吞海》 · 完整版 · 破云2 · 完整讲读</title>
+      <description>《破云二，吞海》是淮上长篇刑侦小说《破云》系列的收官之作。故事讲述了孤身潜入毒枭身边十二年的传奇卧底&quot;画师&quot;吴雩，带着严重心理创伤回到警局，与冷厉支队长步重华从误会走向信任，最终与跨国犯罪集团&quot;马里亚纳海沟&quot;展开跨代殊死较量的故事。这是一曲写给所有无名英雄的赞歌，也是一面照见每个负重前行者如何从深渊归来、重新学会生活与去爱的镜子。</description>
+      <pubDate>Fri, 26 Jun 2026 21:42:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260627-episode-20260627-f87684</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《破云二，吞海》是淮上长篇刑侦小说《破云》系列的收官之作。故事讲述了孤身潜入毒枭身边十二年的传奇卧底&quot;画师&quot;吴雩，带着严重心理创伤回到警局，与冷厉支队长步重华从误会走向信任，最终与跨国犯罪集团&quot;马里亚纳海沟&quot;展开跨代殊死较量的故事。这是一曲写给所有无名英雄的赞歌，也是一面照见每个负重前行者如何从深渊归来、重新学会生活与去爱的镜子。</itunes:summary>
+      <itunes:duration>00:31:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-f87684.mp3" length="29980461" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
