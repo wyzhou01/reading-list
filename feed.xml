@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 27 Jun 2026 07:39:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 07:48:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7608,6 +7608,17 @@
       <itunes:duration>00:24:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-7cea35.mp3" length="23499693" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《贾樟柯的世界》 · 完整版 · 贾樟柯的世界 · 完整讲读</title>
+      <description>《贾樟柯的世界》是法国影评人付东为这位中国导演所作的全景式鉴定。书以《小武》到《山河故人》为主线，剖析贾樟柯如何把镜头对准“看不见的中国“——那些在北京与上海之外的中小城市；如何把纪录片与剧情片熔为一炉，发明一种全新的电影语法；以及他如何在体制与市场的夹缝中，既抵抗又协商，为被时代碾过的人留下证词。对于理解当代中国独立电影与世界艺术电影史的交汇，本书至今是最具国际视野的一把钥匙。</description>
+      <pubDate>Sat, 27 Jun 2026 07:47:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260627-episode-20260627-db977d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《贾樟柯的世界》是法国影评人付东为这位中国导演所作的全景式鉴定。书以《小武》到《山河故人》为主线，剖析贾樟柯如何把镜头对准“看不见的中国“——那些在北京与上海之外的中小城市；如何把纪录片与剧情片熔为一炉，发明一种全新的电影语法；以及他如何在体制与市场的夹缝中，既抵抗又协商，为被时代碾过的人留下证词。对于理解当代中国独立电影与世界艺术电影史的交汇，本书至今是最具国际视野的一把钥匙。</itunes:summary>
+      <itunes:duration>00:33:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-db977d.mp3" length="32191917" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
