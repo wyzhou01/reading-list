@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 27 Jun 2026 07:07:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 07:24:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7564,6 +7564,17 @@
       <itunes:duration>00:31:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-f87684.mp3" length="29980461" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《鳄鱼》 · 完整版 · 鳄鱼 · 完整讲读</title>
+      <description>莫言新作《鳄鱼》讲述原市长单无惮逃亡美国后，在六十五岁生日时面对一条越长越大的会说话的鳄鱼。鳄鱼隐喻欲望的无限膨胀——柜子有多大，鳄鱼就长多大；权力有多大，贪腐就有多大。这部话剧以魔幻现实主义笔法，剖析了单无惮复杂的内心世界、权力异化的根源、以及逃亡背后的精神困境。莫言在后记中说：好的话剧的阅读性并不亚于小说。这不仅是一个贪官的故事，更是对每一个养着隐形鳄鱼之人的深刻追问。</description>
+      <pubDate>Sat, 27 Jun 2026 07:23:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260627-episode-20260627-1117ba</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>莫言新作《鳄鱼》讲述原市长单无惮逃亡美国后，在六十五岁生日时面对一条越长越大的会说话的鳄鱼。鳄鱼隐喻欲望的无限膨胀——柜子有多大，鳄鱼就长多大；权力有多大，贪腐就有多大。这部话剧以魔幻现实主义笔法，剖析了单无惮复杂的内心世界、权力异化的根源、以及逃亡背后的精神困境。莫言在后记中说：好的话剧的阅读性并不亚于小说。这不仅是一个贪官的故事，更是对每一个养着隐形鳄鱼之人的深刻追问。</itunes:summary>
+      <itunes:duration>00:24:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-1117ba.mp3" length="23719341" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
