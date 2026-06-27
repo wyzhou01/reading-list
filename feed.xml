@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 27 Jun 2026 08:17:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 08:45:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7663,6 +7663,17 @@
       <itunes:duration>00:28:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-6fc68d.mp3" length="27156525" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《少年的你，如此美丽》 · 完整版 · 少年的你如此美丽无数人渴望过一次邂逅携手余生无数人渴望遇到那我杀人他放火的爱情你有没有为一个人拼了命地去努力过 · 完整讲读</title>
+      <description>《少年的你，如此美丽》是玖月晞创作的一部长篇校园小说。少女陈念因同学胡小蝶坠楼报警，被卷入校园霸凌的漩涡；街头少年北野因她的报警相识，用最笨拙也最决绝的方式守护她。两个在泥泞中挣扎的孩子彼此取暖、互相拯救，最终以一桩命案收束全篇。作品把校园霸凌、未成年人犯罪、原生家庭创伤、司法困境拧成一股绳，让两个边缘少年成为彼此的全部依托。后由曾国祥执导改编为电影《少年的你》，周冬雨、易烊千玺主演，二零一九年上映后引发广泛共鸣。</description>
+      <pubDate>Sat, 27 Jun 2026 08:44:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260627-episode-20260627-c397d8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《少年的你，如此美丽》是玖月晞创作的一部长篇校园小说。少女陈念因同学胡小蝶坠楼报警，被卷入校园霸凌的漩涡；街头少年北野因她的报警相识，用最笨拙也最决绝的方式守护她。两个在泥泞中挣扎的孩子彼此取暖、互相拯救，最终以一桩命案收束全篇。作品把校园霸凌、未成年人犯罪、原生家庭创伤、司法困境拧成一股绳，让两个边缘少年成为彼此的全部依托。后由曾国祥执导改编为电影《少年的你》，周冬雨、易烊千玺主演，二零一九年上映后引发广泛共鸣。</itunes:summary>
+      <itunes:duration>00:29:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-c397d8.mp3" length="27891885" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
