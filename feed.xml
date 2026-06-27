@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 27 Jun 2026 16:41:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 16:49:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7718,6 +7718,17 @@
       <itunes:duration>00:29:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260628/episode-20260628-6be48b.mp3" length="27858093" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《公开的秘密》 · 完整版 · 公开的秘密 · 完整讲读</title>
+      <description>本期深度解读二零一三年诺贝尔文学奖得主艾丽丝·门罗的代表短篇集《公开的秘密》。门罗用安大略小镇上一群图书管理员、牧师妻子、擦车童、士兵的日常碎片，写出了秘密如何像水一样渗透进一个人生活的每一寸肌理，又如何通过信件、照片、墓碑、橡皮鞋等物件，悄悄流进下一代的生活。节目从开场&quot;一封从未被拆开的信&quot;切入，逐层拆解门罗笔下的女性欲望、羞耻与道德边界、记忆与时间的侵蚀，并通过《忘情》《公开的秘密》《荒野驿站》三个故事的交叉阅读，揭示这位&quot;当代契诃夫&quot;如何用书信体与互文结构，把短篇小说做成长篇的重量。</description>
+      <pubDate>Sat, 27 Jun 2026 16:48:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260628-episode-20260628-70b1f3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期深度解读二零一三年诺贝尔文学奖得主艾丽丝·门罗的代表短篇集《公开的秘密》。门罗用安大略小镇上一群图书管理员、牧师妻子、擦车童、士兵的日常碎片，写出了秘密如何像水一样渗透进一个人生活的每一寸肌理，又如何通过信件、照片、墓碑、橡皮鞋等物件，悄悄流进下一代的生活。节目从开场&quot;一封从未被拆开的信&quot;切入，逐层拆解门罗笔下的女性欲望、羞耻与道德边界、记忆与时间的侵蚀，并通过《忘情》《公开的秘密》《荒野驿站》三个故事的交叉阅读，揭示这位&quot;当代契诃夫&quot;如何用书信体与互文结构，把短篇小说做成长篇的重量。</itunes:summary>
+      <itunes:duration>00:30:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260628/episode-20260628-70b1f3.mp3" length="29541933" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
