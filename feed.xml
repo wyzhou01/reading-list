@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 27 Jun 2026 07:52:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 07:58:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7630,6 +7630,17 @@
       <itunes:duration>00:34:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-06bc06.mp3" length="32991789" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《小镇奇谈》 · 完整版 · 小镇奇谈 · 完整讲读</title>
+      <description>《小镇奇谈》是科幻作家七月的长篇代表作，以一九九九年四川龙门山脚下的三线小镇汉旺为舞台，讲述了四个被大人忽视的十四岁少年，在千禧年来临前的末日恐慌里，卷入串联量子实验、龙门山神秘机构与三线军工秘史的超自然事件，最终用自己的方式破解世界末日谜局，却在长大后把这一切遗忘成普通人的故事。这本小说既是硬核软科幻，也是写给三线子弟的一封情书，更是对中国焦虑、中国记忆与童年失落的一次温柔又锋利的回应。</description>
+      <pubDate>Sat, 27 Jun 2026 07:57:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260627-episode-20260627-63f4ca</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《小镇奇谈》是科幻作家七月的长篇代表作，以一九九九年四川龙门山脚下的三线小镇汉旺为舞台，讲述了四个被大人忽视的十四岁少年，在千禧年来临前的末日恐慌里，卷入串联量子实验、龙门山神秘机构与三线军工秘史的超自然事件，最终用自己的方式破解世界末日谜局，却在长大后把这一切遗忘成普通人的故事。这本小说既是硬核软科幻，也是写给三线子弟的一封情书，更是对中国焦虑、中国记忆与童年失落的一次温柔又锋利的回应。</itunes:summary>
+      <itunes:duration>00:32:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-63f4ca.mp3" length="31453869" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
