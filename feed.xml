@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 27 Jun 2026 07:58:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 08:07:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7641,6 +7641,17 @@
       <itunes:duration>00:32:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-63f4ca.mp3" length="31453869" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《浮木》 · 完整版 · 浮木 · 完整讲读</title>
+      <description>《浮木》是八旬素人作家杨本芬继《秋园》之后的又一心血之作，是《秋园》的补遗与后传。全书由三部分构成：补写《秋园》中缺失的弟弟杨锐、补充田四与大哥子恒的故事；记录之骅本人后半生的经历；以及篇幅最大的部分——乡间小人物的生与死。杨本芬用克制温厚的笔触，打捞了那些在时代洪流中默默生死的普通人：早夭的弟弟、被命运活埋的少年田四、说出真话的孤老婆子炳娭毑、烧掉情书的女知青文秀、在苦命里互相取暖的定坤叔与福婶、消失的货郎与郎中。她让我们看到，每一个微小的个人，都可以呈现与记录鲜活的历史；每一颗转瞬即逝的露珠，在破灭之前，都曾是一个闪耀着晶亮光芒的完整宇宙。</description>
+      <pubDate>Sat, 27 Jun 2026 08:06:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260627-episode-20260627-c757f1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《浮木》是八旬素人作家杨本芬继《秋园》之后的又一心血之作，是《秋园》的补遗与后传。全书由三部分构成：补写《秋园》中缺失的弟弟杨锐、补充田四与大哥子恒的故事；记录之骅本人后半生的经历；以及篇幅最大的部分——乡间小人物的生与死。杨本芬用克制温厚的笔触，打捞了那些在时代洪流中默默生死的普通人：早夭的弟弟、被命运活埋的少年田四、说出真话的孤老婆子炳娭毑、烧掉情书的女知青文秀、在苦命里互相取暖的定坤叔与福婶、消失的货郎与郎中。她让我们看到，每一个微小的个人，都可以呈现与记录鲜活的历史；每一颗转瞬即逝的露珠，在破灭之前，都曾是一个闪耀着晶亮光芒的完整宇宙。</itunes:summary>
+      <itunes:duration>00:36:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-c757f1.mp3" length="34670637" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
