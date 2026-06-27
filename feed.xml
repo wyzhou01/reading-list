@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 27 Jun 2026 08:07:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 08:17:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7652,6 +7652,17 @@
       <itunes:duration>00:36:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-c757f1.mp3" length="34670637" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我的母亲做保洁》 · 完整版 · 我的母亲做保洁 · 完整讲读</title>
+      <description>《我的母亲做保洁》是一部非虚构作品，写作者张小满用十年时间跟访母亲和她的保洁工友们，记录下这些在商场、政府大楼、写字楼里被忽略的人。本书不卖惨、不控诉，从母女双视角切入，把底层劳动、衰老、匮乏、代际拧巴、和解的迟到，原原本本摆出来。它既是保洁工群像，也是一对母女的理解史；既问出“代言“与“剥削“的边界，也给每一个在城市里“看不见“的人，留下一份迟到的证词。</description>
+      <pubDate>Sat, 27 Jun 2026 08:16:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260627-episode-20260627-6fc68d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我的母亲做保洁》是一部非虚构作品，写作者张小满用十年时间跟访母亲和她的保洁工友们，记录下这些在商场、政府大楼、写字楼里被忽略的人。本书不卖惨、不控诉，从母女双视角切入，把底层劳动、衰老、匮乏、代际拧巴、和解的迟到，原原本本摆出来。它既是保洁工群像，也是一对母女的理解史；既问出“代言“与“剥削“的边界，也给每一个在城市里“看不见“的人，留下一份迟到的证词。</itunes:summary>
+      <itunes:duration>00:28:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-6fc68d.mp3" length="27156525" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
