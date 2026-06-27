@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 27 Jun 2026 07:48:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 07:52:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7619,6 +7619,17 @@
       <itunes:duration>00:33:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-db977d.mp3" length="32191917" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《在中国大地上：搭火车旅行记》 · 完整版 · 在中国大地上 · 完整讲读</title>
+      <description>《在中国大地上》是美国旅行作家保罗·索鲁一九八六年春天搭火车穿越中国的旅行记。改革开放第八年，他从伦敦出发，经西伯利亚铁路进入中国，再坐几十趟绿皮车走遍南北。他不拍照，只用眼睛和笔记本，记录工厂的煤烟、车厢里的对话、田里的农夫和火车站的标语。这本书不是旅游指南，而是一面镜子，照出西方人带着“厕纸”和想象、中国人带着“煤烟”和警惕，两种文化在同一节车厢里互相错位、互相误读的真实褶皱。四十年过去，这种误读的机制从未消失，只是换了载体。今天读这本书，我们看到的不仅是一九八六年的中国，更是自己带着偏见打量世界的方式。</description>
+      <pubDate>Sat, 27 Jun 2026 07:51:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260627-episode-20260627-06bc06</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《在中国大地上》是美国旅行作家保罗·索鲁一九八六年春天搭火车穿越中国的旅行记。改革开放第八年，他从伦敦出发，经西伯利亚铁路进入中国，再坐几十趟绿皮车走遍南北。他不拍照，只用眼睛和笔记本，记录工厂的煤烟、车厢里的对话、田里的农夫和火车站的标语。这本书不是旅游指南，而是一面镜子，照出西方人带着“厕纸”和想象、中国人带着“煤烟”和警惕，两种文化在同一节车厢里互相错位、互相误读的真实褶皱。四十年过去，这种误读的机制从未消失，只是换了载体。今天读这本书，我们看到的不仅是一九八六年的中国，更是自己带着偏见打量世界的方式。</itunes:summary>
+      <itunes:duration>00:34:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-06bc06.mp3" length="32991789" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
