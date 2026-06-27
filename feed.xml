@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 27 Jun 2026 21:19:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 21:24:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7729,6 +7729,17 @@
       <itunes:duration>00:30:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260628/episode-20260628-70b1f3.mp3" length="29541933" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《齐马蓝》 · 完整版 · 齐马蓝 · 完整讲读</title>
+      <description>《齐马蓝》是英国天体物理学家、科幻作家阿拉斯泰尔·雷诺兹二〇〇九年出版的短篇集，收录十三个不属于他“启示空间“系列、却共享同一主题关切的故事。书中，雷诺兹用嘉莉的金属绿蜂鸟记忆助手、卡迪夫从平行世界偷来的反恐情报、灰烬天使里被量子概率稀释的幸存者、伊恩在厨房里扣响的那把左轮手枪，反复切开同一个伤口：当记忆可以被完美外包、当身份可以被无限分叉、当永生不再是小概率事件，那个名叫“自我“的东西，究竟还剩下什么？</description>
+      <pubDate>Sat, 27 Jun 2026 21:24:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260628-episode-20260628-68c71b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《齐马蓝》是英国天体物理学家、科幻作家阿拉斯泰尔·雷诺兹二〇〇九年出版的短篇集，收录十三个不属于他“启示空间“系列、却共享同一主题关切的故事。书中，雷诺兹用嘉莉的金属绿蜂鸟记忆助手、卡迪夫从平行世界偷来的反恐情报、灰烬天使里被量子概率稀释的幸存者、伊恩在厨房里扣响的那把左轮手枪，反复切开同一个伤口：当记忆可以被完美外包、当身份可以被无限分叉、当永生不再是小概率事件，那个名叫“自我“的东西，究竟还剩下什么？</itunes:summary>
+      <itunes:duration>00:28:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260628/episode-20260628-68c71b.mp3" length="27552045" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
