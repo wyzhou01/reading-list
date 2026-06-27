@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 27 Jun 2026 08:45:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 13:57:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20,6 +20,32 @@
       <itunes:category text="Books"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/reading-list/cover.jpg"/>
+    <item>
+      <title>好好读书 · 《无政府、国家与乌托邦》 · 完整版 · 无政府、国家与乌托邦 · 完整讲读</title>
+      <description>《无政府、国家与乌托邦》是诺齐克对罗尔斯《正义论》的正面回应：个人权利是神圣不可侵犯的边界约束，国家只能从自然状态中&apos;看不见地&apos;长出最低限度的守夜人形态，任何再分配都是对权利的侵犯；正义不在于分配的结构，而在于每一次财富转移的历史路径是否干净；理想的社会不是单一乌托邦，而是一个允许无数共同体自由实验、自由进出的多元框架。这本书是二十世纪后半叶自由至上主义的奠基之作，也是理解自由与平等、个人与国家之间永恒张力的必读经典。</description>
+      <pubDate>Sat, 27 Jun 2026 07:23:41 +0000</pubDate>
+      <guid isPermaLink="false">podcast-20260627-4c3d66</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《无政府、国家与乌托邦》是诺齐克对罗尔斯《正义论》的正面回应：个人权利是神圣不可侵犯的边界约束，国家只能从自然状态中&apos;看不见地&apos;长出最低限度的守夜人形态，任何再分配都是对权利的侵犯；正义不在于分配的结构，而在于每一次财富转移的历史路径是否干净；理想的社会不是单一乌托邦，而是一个允许无数共同体自由实验、自由进出的多元框架。这本书是二十世纪后半叶自由至上主义的奠基之作，也是理解自由与平等、个人与国家之间永恒张力的必读经典。</itunes:summary>
+      <itunes:duration>00:31:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-4c3d66.mp3" length="29901357" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《始于极限》 · 完整版 · 始于极限 · 完整讲读</title>
+      <description>《始于极限》是上野千鹤子与铃木凉美历时一年的书信集。前者是七十三岁的社会学泰斗，后者是曾涉足性产业的年轻作家。两人围绕情色资本、受害者身份、婚姻、母亲与女儿等话题，撕开了女性主义最尖锐的伤口。上野提出&apos;恐弱&apos;概念，剖析女人为何害怕承认自己是受害者；铃木则袒露自己如何在&apos;摆脱受害者标签&apos;和&apos;承认伤害&apos;之间挣扎。全书追问一个核心命题：在结构性压迫之下，女性如何既不放弃主体性，又不沦为孤军奋战的个体。这本书不是答案，是提问。它逼着每个女人，也逼着每个男人，去回答：你现在是谁，比你过去是谁，重要得多。</description>
+      <pubDate>Sat, 27 Jun 2026 07:57:52 +0000</pubDate>
+      <guid isPermaLink="false">podcast-20260627-5cb498</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《始于极限》是上野千鹤子与铃木凉美历时一年的书信集。前者是七十三岁的社会学泰斗，后者是曾涉足性产业的年轻作家。两人围绕情色资本、受害者身份、婚姻、母亲与女儿等话题，撕开了女性主义最尖锐的伤口。上野提出&apos;恐弱&apos;概念，剖析女人为何害怕承认自己是受害者；铃木则袒露自己如何在&apos;摆脱受害者标签&apos;和&apos;承认伤害&apos;之间挣扎。全书追问一个核心命题：在结构性压迫之下，女性如何既不放弃主体性，又不沦为孤军奋战的个体。这本书不是答案，是提问。它逼着每个女人，也逼着每个男人，去回答：你现在是谁，比你过去是谁，重要得多。</itunes:summary>
+      <itunes:duration>00:34:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-5cb498.mp3" length="33140013" type="audio/mpeg"/>
+    </item>
     <item>
       <title>好好读书 · 《太白金星有点烦》 · 完整版 · 太白金星有点烦 · 完整讲读</title>
       <description>《太白金星有点烦》借《西游记》外壳，写一桩天庭与灵山联合推进的&quot;西天取经&quot;重点项目。太白金星李长庚以护法者身份，全程参与八十一难的流程设计、妖怪雇佣、账目报销与揭揄扬，在繁文缛节与各方势力博弈间疲于奔命。小说以现代职场逻辑解构古典神话，最终落脚于一个关于&quot;浊念&quot;的追问：跳出三界外，不在五行中，可心里那点想要被看见、想要更进一步的念想，才是修不成金仙的真正原因。写给每一个在红尘里认真做事、却还没认回自己的人。</description>
