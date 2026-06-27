@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 27 Jun 2026 07:30:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 07:32:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7586,6 +7586,17 @@
       <itunes:duration>00:21:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-38c2f3.mp3" length="20422701" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《黑塞书信集》 · 完整版 · 黑塞书信集 · 完整讲读</title>
+      <description>《黑塞书信集》精选赫尔曼·黑塞一八九二年至一九六二年间长达七十年的私人书信。从十五岁被关进精神病院时喊出&apos;我是人，有个性和人格的人&apos;，到与茨威格、罗曼·罗兰跨越国界的真挚友谊，再到两次世界大战中拒绝民族癫狂、坚持个体的独立性，黑塞用一生证明：文学是救赎，但救赎不是终点；个体灵魂的尊严，是时代风暴中最后的堡垒。这部书信集不仅是一位诺奖得主的精神档案，更是一部在二十世纪欧洲风云中不断挣扎、蜕变、坚守的灵魂史诗。</description>
+      <pubDate>Sat, 27 Jun 2026 07:31:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260627-episode-20260627-e56e88</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《黑塞书信集》精选赫尔曼·黑塞一八九二年至一九六二年间长达七十年的私人书信。从十五岁被关进精神病院时喊出&apos;我是人，有个性和人格的人&apos;，到与茨威格、罗曼·罗兰跨越国界的真挚友谊，再到两次世界大战中拒绝民族癫狂、坚持个体的独立性，黑塞用一生证明：文学是救赎，但救赎不是终点；个体灵魂的尊严，是时代风暴中最后的堡垒。这部书信集不仅是一位诺奖得主的精神档案，更是一部在二十世纪欧洲风云中不断挣扎、蜕变、坚守的灵魂史诗。</itunes:summary>
+      <itunes:duration>00:25:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-e56e88.mp3" length="24772653" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
