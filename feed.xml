@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 27 Jun 2026 07:24:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 07:30:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7575,6 +7575,17 @@
       <itunes:duration>00:24:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-1117ba.mp3" length="23719341" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《玫瑰的行为：阿赫玛杜琳娜诗选》 · 完整版 · 玫瑰的行为：阿赫玛杜琳娜诗选 · 完整讲读</title>
+      <description>《玫瑰的行为：阿赫玛杜琳娜诗选》由王嘎从俄语原文译出，收录贝拉·阿赫玛杜琳娜一九五八至二零零六年间跨越近半个世纪的代表诗作。书名取自约瑟夫·布罗茨基为她撰写的著名评论，意指她的诗如玫瑰般从词的语音中自行绽放，而非围绕中心主题构建。本书以抒情与自然感悟开篇，延伸至友谊书写、对帕斯捷尔纳克与布罗茨基的悼念、与格鲁吉亚的精神渊源，并以晚年的内向与坚韧收束。译者严谨保留了原诗的韵脚与意象密度，让读者得以一窥这位莱蒙托夫—帕斯捷尔纳克脉络的继承者，如何在严格的格律中腾挪翻转，又如何在重压之下保持语言尊严。</description>
+      <pubDate>Sat, 27 Jun 2026 07:29:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260627-episode-20260627-38c2f3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《玫瑰的行为：阿赫玛杜琳娜诗选》由王嘎从俄语原文译出，收录贝拉·阿赫玛杜琳娜一九五八至二零零六年间跨越近半个世纪的代表诗作。书名取自约瑟夫·布罗茨基为她撰写的著名评论，意指她的诗如玫瑰般从词的语音中自行绽放，而非围绕中心主题构建。本书以抒情与自然感悟开篇，延伸至友谊书写、对帕斯捷尔纳克与布罗茨基的悼念、与格鲁吉亚的精神渊源，并以晚年的内向与坚韧收束。译者严谨保留了原诗的韵脚与意象密度，让读者得以一窥这位莱蒙托夫—帕斯捷尔纳克脉络的继承者，如何在严格的格律中腾挪翻转，又如何在重压之下保持语言尊严。</itunes:summary>
+      <itunes:duration>00:21:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260627/episode-20260627-38c2f3.mp3" length="20422701" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
