@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 27 Jun 2026 21:27:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 21:32:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7740,6 +7740,17 @@
       <itunes:duration>00:28:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260628/episode-20260628-68c71b.mp3" length="27552045" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《看不见的中东》 · 完整版 · 看不见的中东 · 完整讲读</title>
+      <description>《看不见的中东》是女摄影师姚璐的纪实作品。二零一六年到二零二零年，她五度深入中东，以沙发客身份住进三十一个普通人家，记录下伊朗、土耳其、黎巴嫩、巴以、约旦、埃及、伊拉克、叙利亚、沙特的日常。书里没有战报式的宏大叙事，只有饭桌、地毯、清真寺的午觉、女孩的红头发。姚璐以中国女性视角，打破外界对中东的刻板印象，呈现当地女性在性别极度不平等下的具体生存、普通人面对战乱时的韧性日常，以及文明摇篮在当代的活水回响。这是一本温柔而扎实的书，它提醒我们——在新闻头条背后，是一个一个具体的人。</description>
+      <pubDate>Sat, 27 Jun 2026 21:32:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260628-episode-20260628-a17722</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《看不见的中东》是女摄影师姚璐的纪实作品。二零一六年到二零二零年，她五度深入中东，以沙发客身份住进三十一个普通人家，记录下伊朗、土耳其、黎巴嫩、巴以、约旦、埃及、伊拉克、叙利亚、沙特的日常。书里没有战报式的宏大叙事，只有饭桌、地毯、清真寺的午觉、女孩的红头发。姚璐以中国女性视角，打破外界对中东的刻板印象，呈现当地女性在性别极度不平等下的具体生存、普通人面对战乱时的韧性日常，以及文明摇篮在当代的活水回响。这是一本温柔而扎实的书，它提醒我们——在新闻头条背后，是一个一个具体的人。</itunes:summary>
+      <itunes:duration>00:25:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260628/episode-20260628-a17722.mp3" length="24576429" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
