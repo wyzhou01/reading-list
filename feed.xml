@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 27 Jun 2026 16:33:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 16:41:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7707,6 +7707,17 @@
       <itunes:duration>00:31:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260628/episode-20260628-4943ba.mp3" length="29997741" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《青之炎》 · 完整版 · 青之炎 · 完整讲读</title>
+      <description>《青之炎》是日本作家贵志祐介于一九九八年出版的长篇小说。十七岁的高中生栉森秀一成绩优异、痴迷物理化学，在继父长期酗酒家暴、母亲与妹妹陷入恐惧、所有求助渠道均告失败之后，决定亲手结束这一切。他用物理公式精确计算电量与电压，亲手制造电击装置，并提前研读大量完全犯罪文献，试图让自己的行为不留痕迹。然而他终究漏算了人心的重量——对母亲和妹妹的爱，对同学纪子的愧疚，以及一个少年无法独自承担的伦理重量。小说最后一章，秀一骑着自行车冲向一辆卡车，用自己的消失换取家人生活的平静。这部作品一面世便斩获日本推理作家协会奖与吉川英治文学新人奖，被认为是社会派推理的代表作。它追问一个至今没有答案的问题：当制度失灵，个人是否有权利动用私刑？理性，能否替伦理做决定？爱，能否成为杀人的理由？</description>
+      <pubDate>Sat, 27 Jun 2026 16:40:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260628-episode-20260628-6be48b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《青之炎》是日本作家贵志祐介于一九九八年出版的长篇小说。十七岁的高中生栉森秀一成绩优异、痴迷物理化学，在继父长期酗酒家暴、母亲与妹妹陷入恐惧、所有求助渠道均告失败之后，决定亲手结束这一切。他用物理公式精确计算电量与电压，亲手制造电击装置，并提前研读大量完全犯罪文献，试图让自己的行为不留痕迹。然而他终究漏算了人心的重量——对母亲和妹妹的爱，对同学纪子的愧疚，以及一个少年无法独自承担的伦理重量。小说最后一章，秀一骑着自行车冲向一辆卡车，用自己的消失换取家人生活的平静。这部作品一面世便斩获日本推理作家协会奖与吉川英治文学新人奖，被认为是社会派推理的代表作。它追问一个至今没有答案的问题：当制度失灵，个人是否有权利动用私刑？理性，能否替伦理做决定？爱，能否成为杀人的理由？</itunes:summary>
+      <itunes:duration>00:29:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260628/episode-20260628-6be48b.mp3" length="27858093" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
