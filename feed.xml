@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 27 Jun 2026 21:32:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 21:39:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7751,6 +7751,17 @@
       <itunes:duration>00:25:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260628/episode-20260628-a17722.mp3" length="24576429" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《热锅上的家庭》 · 完整版 · 热锅上的家庭 · 完整讲读</title>
+      <description>《热锅上的家庭》以一个美国中产家庭接受家庭治疗的完整过程为线索，呈现了家庭治疗的开创性实践。十六岁女儿被诊断为厌食症、自残、离家出走，但治疗师把一家人请进治疗室后，真相慢慢浮现：女儿的&quot;病&quot;，是替父母二十多年冷战婚姻发出的一声呐喊。书里提出几个至今仍具冲击力的洞见：家庭是一个系统，个人的症状往往是关系失衡的信号；亲子关系永远不能替代夫妻关系；问题本身不是问题，你和它的关系才是。本书出版四十多年，仍是家庭治疗领域的奠基之作，也是一面让无数中国读者重新打量自己原生家庭的镜子。</description>
+      <pubDate>Sat, 27 Jun 2026 21:38:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260628-episode-20260628-f008fc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《热锅上的家庭》以一个美国中产家庭接受家庭治疗的完整过程为线索，呈现了家庭治疗的开创性实践。十六岁女儿被诊断为厌食症、自残、离家出走，但治疗师把一家人请进治疗室后，真相慢慢浮现：女儿的&quot;病&quot;，是替父母二十多年冷战婚姻发出的一声呐喊。书里提出几个至今仍具冲击力的洞见：家庭是一个系统，个人的症状往往是关系失衡的信号；亲子关系永远不能替代夫妻关系；问题本身不是问题，你和它的关系才是。本书出版四十多年，仍是家庭治疗领域的奠基之作，也是一面让无数中国读者重新打量自己原生家庭的镜子。</itunes:summary>
+      <itunes:duration>00:32:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260628/episode-20260628-f008fc.mp3" length="31359021" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
