@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 28 Jun 2026 07:40:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 07:51:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7784,6 +7784,17 @@
       <itunes:duration>00:26:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260628/episode-20260628-2e0297.mp3" length="25309869" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《意识上传中》 · 完整版 · 意识上传中 · 完整讲读</title>
+      <description>《意识上传中》是澳大利亚硬科幻作家格里格·伊根的代表性短篇集，收录十七篇写于上世纪八九十年代的故事。当大脑可被扫描、意识可被复制、虚拟与现实无法区分时，&quot;我&quot;究竟是谁？伊根用极密的技术设定与极冷静的人性追问，逼迫读者面对一连串不安的拷问：你爱的是眼前的人，还是你脑海里的画像？副本是延续，还是一个与你平起平坐的新人？数字永生的真正代价，是失去了对副本人生的审查权。在 AI 生成、深度伪造、脑机接口接连冲击日常感受的今天，这本三十年前的书比任何时候都更切题——技术能拆开&quot;我&quot;，但只有你自己决定要不要把它重新装回去。</description>
+      <pubDate>Sun, 28 Jun 2026 07:50:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260628-episode-20260628-7f84d7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《意识上传中》是澳大利亚硬科幻作家格里格·伊根的代表性短篇集，收录十七篇写于上世纪八九十年代的故事。当大脑可被扫描、意识可被复制、虚拟与现实无法区分时，&quot;我&quot;究竟是谁？伊根用极密的技术设定与极冷静的人性追问，逼迫读者面对一连串不安的拷问：你爱的是眼前的人，还是你脑海里的画像？副本是延续，还是一个与你平起平坐的新人？数字永生的真正代价，是失去了对副本人生的审查权。在 AI 生成、深度伪造、脑机接口接连冲击日常感受的今天，这本三十年前的书比任何时候都更切题——技术能拆开&quot;我&quot;，但只有你自己决定要不要把它重新装回去。</itunes:summary>
+      <itunes:duration>00:29:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260628/episode-20260628-7f84d7.mp3" length="28147245" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
