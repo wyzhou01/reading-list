@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 28 Jun 2026 16:26:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 16:32:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7828,6 +7828,17 @@
       <itunes:duration>00:30:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-3ecf41.mp3" length="28853421" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《鱼猎》 · 完整版 · 鱼猎 · 完整讲读</title>
+      <description>《鱼猎》是史迈创作的长篇青春悬疑小说，以二零零三年中国北方盐洋市为背景，讲述同年出生的大泉港女孩何器与俞家台女孩俞静之间跨越十七年的友谊。拆迁划开两个村庄的阶层鸿沟，童年的刀片与沉默埋下旧案伏笔。二零二零年盛夏，何器在高中毕业聚会后溺亡，昏迷醒来的俞静以何器的身份独自追凶，最终揭开村庄合谋沉默的旧案真相，也完成了一场漫长的互相救赎与献祭。</description>
+      <pubDate>Sun, 28 Jun 2026 16:31:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260629-episode-20260629-26694f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《鱼猎》是史迈创作的长篇青春悬疑小说，以二零零三年中国北方盐洋市为背景，讲述同年出生的大泉港女孩何器与俞家台女孩俞静之间跨越十七年的友谊。拆迁划开两个村庄的阶层鸿沟，童年的刀片与沉默埋下旧案伏笔。二零二零年盛夏，何器在高中毕业聚会后溺亡，昏迷醒来的俞静以何器的身份独自追凶，最终揭开村庄合谋沉默的旧案真相，也完成了一场漫长的互相救赎与献祭。</itunes:summary>
+      <itunes:duration>00:30:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-26694f.mp3" length="29578797" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
