@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 28 Jun 2026 16:35:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 16:42:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7850,6 +7850,17 @@
       <itunes:duration>00:30:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-575e96.mp3" length="28871469" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《白兔》 · 完整版 · 白兔 · 完整讲读</title>
+      <description>《白兔》是伊坂幸太郎自认的“绑架故事最终版”，故事在东京与仙台之间展开：兔田是一名把绑架做成打卡上班的男人，他的妻子绵子却被另一伙绑匪掳走。警察夏之目、黑泽、中村、今村几条线意外交汇于仙台港的仓库。一个自称咨询师的折尾丰，把一切都往猎户座上扯，最终死在泉区的路上。伊坂借《爱丽丝漫游奇境》的白兔、《古事记》的因幡白兔，以及维克多·雨果《悲惨世界》中冉阿让与沙威的对照，把一场公司化运作的连环绑架，写成一封关于规则、正义、赎罪与重来的现代寓言。故事停在仙台站便利店的一句“绵子，该换班了”，所有被天蝎追逐的猎户，都在这一刻学会了停。</description>
+      <pubDate>Sun, 28 Jun 2026 16:42:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260629-episode-20260629-b58509</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《白兔》是伊坂幸太郎自认的“绑架故事最终版”，故事在东京与仙台之间展开：兔田是一名把绑架做成打卡上班的男人，他的妻子绵子却被另一伙绑匪掳走。警察夏之目、黑泽、中村、今村几条线意外交汇于仙台港的仓库。一个自称咨询师的折尾丰，把一切都往猎户座上扯，最终死在泉区的路上。伊坂借《爱丽丝漫游奇境》的白兔、《古事记》的因幡白兔，以及维克多·雨果《悲惨世界》中冉阿让与沙威的对照，把一场公司化运作的连环绑架，写成一封关于规则、正义、赎罪与重来的现代寓言。故事停在仙台站便利店的一句“绵子，该换班了”，所有被天蝎追逐的猎户，都在这一刻学会了停。</itunes:summary>
+      <itunes:duration>00:21:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-b58509.mp3" length="20691885" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
