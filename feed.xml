@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 28 Jun 2026 21:30:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 21:37:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7905,6 +7905,17 @@
       <itunes:duration>00:34:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-69536b.mp3" length="33263277" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《匏瓜》 · 完整版 · 匏瓜 · 完整讲读</title>
+      <description>刘勃《匏瓜：读〈史记·孔子世家〉》逐章细读司马迁笔下的孔子，核心有四：第一，司马迁真心推崇孔子，《史记》里孔子是&quot;天下的中心&quot;；第二，《孔子世家》时间线错乱、杂糅怪力乱神，硬伤不少，需要与《左传》《论语》对读；第三，孔子从政失败、周游列国不受用，是&quot;匏瓜系而不食&quot;的一生；第四，孔子死后诸子百家各借孔子说自己的话，儒法道墨都塑造了自己的孔子——真孔子是什么样，其实早就不重要了，每个人借到的，都只是一部分。</description>
+      <pubDate>Sun, 28 Jun 2026 21:36:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260629-episode-20260629-d10829</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>刘勃《匏瓜：读〈史记·孔子世家〉》逐章细读司马迁笔下的孔子，核心有四：第一，司马迁真心推崇孔子，《史记》里孔子是&quot;天下的中心&quot;；第二，《孔子世家》时间线错乱、杂糅怪力乱神，硬伤不少，需要与《左传》《论语》对读；第三，孔子从政失败、周游列国不受用，是&quot;匏瓜系而不食&quot;的一生；第四，孔子死后诸子百家各借孔子说自己的话，儒法道墨都塑造了自己的孔子——真孔子是什么样，其实早就不重要了，每个人借到的，都只是一部分。</itunes:summary>
+      <itunes:duration>00:35:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-d10829.mp3" length="33612333" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
