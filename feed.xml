@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 28 Jun 2026 21:22:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 21:26:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7883,6 +7883,17 @@
       <itunes:duration>00:31:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-9c7f4e.mp3" length="30337965" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《身后无遗物》 · 完整版 · 身后无遗物 · 完整讲读</title>
+      <description>日本诗人伊藤比吕美六十岁那年，亲身撞上了衰老的肉身——肩膀冻结、膝盖告急、腰椎罢工；八十七岁的同居伴侣&quot;夫&quot;正在走向下坡，女儿远去，狗会先她而去。她一件一件记录下相守、厌烦、寂寞、自由，以及一个女人活过、死去、留下什么。本书延续《闭经记》的粗粝坦诚，把衰老、欲望退场、伴侣辞世、独居空茫、宠物之死，一并摊开在阳光下。她拒绝&quot;身后无遗物&quot;的轻盈姿态，承认自己会留下一仓库的纠结，会让女儿费尽力气收拾，会每天后悔一次——但她依然选择带着一只叫克莱默的狼狗，继续向荒野行。</description>
+      <pubDate>Sun, 28 Jun 2026 21:25:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260629-episode-20260629-b23fbc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>日本诗人伊藤比吕美六十岁那年，亲身撞上了衰老的肉身——肩膀冻结、膝盖告急、腰椎罢工；八十七岁的同居伴侣&quot;夫&quot;正在走向下坡，女儿远去，狗会先她而去。她一件一件记录下相守、厌烦、寂寞、自由，以及一个女人活过、死去、留下什么。本书延续《闭经记》的粗粝坦诚，把衰老、欲望退场、伴侣辞世、独居空茫、宠物之死，一并摊开在阳光下。她拒绝&quot;身后无遗物&quot;的轻盈姿态，承认自己会留下一仓库的纠结，会让女儿费尽力气收拾，会每天后悔一次——但她依然选择带着一只叫克莱默的狼狗，继续向荒野行。</itunes:summary>
+      <itunes:duration>00:30:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-b23fbc.mp3" length="29695149" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
