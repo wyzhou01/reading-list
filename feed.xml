@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 28 Jun 2026 07:51:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 08:06:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7795,6 +7795,17 @@
       <itunes:duration>00:29:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260628/episode-20260628-7f84d7.mp3" length="28147245" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《岩田先生：任天堂传奇社长如是说》 · 完整版 · 岩田先生 · 完整讲读</title>
+      <description>《岩田先生》收录任天堂传奇社长岩田聪的访谈语录。这位出身北海道的程序员，三十三岁临危受命接手负债十五亿日元的HAL研究所，后执掌任天堂推出DS与Wii，始终以&quot;游戏人口的扩大&quot;为核心理念。全书围绕领导力、创意哲学、人际信赖与游戏本质展开，字字句句都是程序员出身的管理者对&quot;做产品&quot;与&quot;做人&quot;的深度思考：不懂的事不能置之不理，找到瓶颈才动手，让并肩的人愿意再来一次。对于产品经理、程序员、创业者而言，这本书提供了一个难得的视角，看一位真正懂技术又懂经营的领导者如何思考。</description>
+      <pubDate>Sun, 28 Jun 2026 08:05:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260628-episode-20260628-424d33</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《岩田先生》收录任天堂传奇社长岩田聪的访谈语录。这位出身北海道的程序员，三十三岁临危受命接手负债十五亿日元的HAL研究所，后执掌任天堂推出DS与Wii，始终以&quot;游戏人口的扩大&quot;为核心理念。全书围绕领导力、创意哲学、人际信赖与游戏本质展开，字字句句都是程序员出身的管理者对&quot;做产品&quot;与&quot;做人&quot;的深度思考：不懂的事不能置之不理，找到瓶颈才动手，让并肩的人愿意再来一次。对于产品经理、程序员、创业者而言，这本书提供了一个难得的视角，看一位真正懂技术又懂经营的领导者如何思考。</itunes:summary>
+      <itunes:duration>00:26:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260628/episode-20260628-424d33.mp3" length="25916589" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
