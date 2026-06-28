@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 28 Jun 2026 08:06:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 08:21:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7806,6 +7806,17 @@
       <itunes:duration>00:26:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260628/episode-20260628-424d33.mp3" length="25916589" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《生死疲劳》 · 完整版 · 生死疲劳 · 完整讲读</title>
+      <description>莫言的《生死疲劳》讲述了地主西门闹在土改中被枪毙后，历经驴、牛、猪、狗、猴五次轮回，最终重新转生为人的故事。以佛教六道轮回为框架，小说用动物的冷眼旁观了中国乡村五十年的土改、合作化、大跃进、文革与改革开放，写透了仇恨如何在时间里被慢慢消磨，执念如何在一世世的躯壳里被渐渐熨平。书名取自佛经“生死疲劳，从贪欲起”，是莫言魔幻现实主义的成熟之作，也是读懂中国乡村从何而来的一把钥匙。</description>
+      <pubDate>Sun, 28 Jun 2026 08:20:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260628-episode-20260628-b45ae8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>莫言的《生死疲劳》讲述了地主西门闹在土改中被枪毙后，历经驴、牛、猪、狗、猴五次轮回，最终重新转生为人的故事。以佛教六道轮回为框架，小说用动物的冷眼旁观了中国乡村五十年的土改、合作化、大跃进、文革与改革开放，写透了仇恨如何在时间里被慢慢消磨，执念如何在一世世的躯壳里被渐渐熨平。书名取自佛经“生死疲劳，从贪欲起”，是莫言魔幻现实主义的成熟之作，也是读懂中国乡村从何而来的一把钥匙。</itunes:summary>
+      <itunes:duration>00:29:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260628/episode-20260628-b45ae8.mp3" length="27926445" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
