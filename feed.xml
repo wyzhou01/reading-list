@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 28 Jun 2026 08:21:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 16:26:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7817,6 +7817,17 @@
       <itunes:duration>00:29:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260628/episode-20260628-b45ae8.mp3" length="27926445" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《走出唯一真理观》 · 完整版 · 走出唯一真理观 · 完整讲读</title>
+      <description>《走出唯一真理观》是陈嘉映先生的随笔、对谈与书评合集,围绕真理、生活与对话展开。他主张哲学不追求唯一答案,而是在不同道路之间寻找呼应。说理不是辩论,而是承认对方是个人。读书不是装满自己,是让元气增长。在众声喧哗的时代,这本书温和而清醒地邀请我们:走出唯一真理观,守住自己,也容下别人。</description>
+      <pubDate>Sun, 28 Jun 2026 16:24:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260629-episode-20260629-3ecf41</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《走出唯一真理观》是陈嘉映先生的随笔、对谈与书评合集,围绕真理、生活与对话展开。他主张哲学不追求唯一答案,而是在不同道路之间寻找呼应。说理不是辩论,而是承认对方是个人。读书不是装满自己,是让元气增长。在众声喧哗的时代,这本书温和而清醒地邀请我们:走出唯一真理观,守住自己,也容下别人。</itunes:summary>
+      <itunes:duration>00:30:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-3ecf41.mp3" length="28853421" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
