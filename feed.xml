@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 28 Jun 2026 21:37:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 21:40:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7916,6 +7916,17 @@
       <itunes:duration>00:35:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-d10829.mp3" length="33612333" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《癌症密码》 · 完整版 · 癌症密码 · 完整讲读</title>
+      <description>《癌症密码》是一部癌症研究的思想史。作者杰森·冯以库恩的范式理论为框架，把一百多年来人类对癌症的认识，归结为三次重大的范式转换：从“过度增长”到“基因突变”，再到本书的核心——癌症是一种返祖现象，是细胞在生存压力下回归远古遗传法则的结果。他提出，决定癌症能否生根的，是“土壤”，即身体的内环境，是代谢、激素和饮食。本书将癌症与肥胖、二型糖尿病置于同一代谢框架下重新审视，为癌症的预防与治疗开辟了一条被低估的战线。</description>
+      <pubDate>Sun, 28 Jun 2026 21:40:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260629-episode-20260629-21c0b7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《癌症密码》是一部癌症研究的思想史。作者杰森·冯以库恩的范式理论为框架，把一百多年来人类对癌症的认识，归结为三次重大的范式转换：从“过度增长”到“基因突变”，再到本书的核心——癌症是一种返祖现象，是细胞在生存压力下回归远古遗传法则的结果。他提出，决定癌症能否生根的，是“土壤”，即身体的内环境，是代谢、激素和饮食。本书将癌症与肥胖、二型糖尿病置于同一代谢框架下重新审视，为癌症的预防与治疗开辟了一条被低估的战线。</itunes:summary>
+      <itunes:duration>00:27:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-21c0b7.mp3" length="26680365" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
