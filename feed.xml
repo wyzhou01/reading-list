@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 28 Jun 2026 21:26:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 21:30:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7894,6 +7894,17 @@
       <itunes:duration>00:30:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-b23fbc.mp3" length="29695149" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《深度学习革命》 · 完整版 · 深度学习革命 · 完整讲读</title>
+      <description>《深度学习革命》讲述了从一九五六年感知机诞生，到二零一二年太浩湖秘密竞拍，再到 AlphaGo 震惊世界、OpenAI 全球博弈的完整 AI 进化史。凯德·梅茨用新闻记者的笔触，记录了辛顿、杨立昆、本吉奥、哈萨比斯这群少数派学者如何在嘲讽与资金枯竭中坚守神经网络，最终用一项曾被抛弃的技术，重塑了整个人类社会的走向。这本书既是技术史，也是商业史，更是一群理想主义者的群像，提醒我们今天所有关于 AI 的争论，起点都是二零一二年的那个冬天。</description>
+      <pubDate>Sun, 28 Jun 2026 21:30:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260629-episode-20260629-69536b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《深度学习革命》讲述了从一九五六年感知机诞生，到二零一二年太浩湖秘密竞拍，再到 AlphaGo 震惊世界、OpenAI 全球博弈的完整 AI 进化史。凯德·梅茨用新闻记者的笔触，记录了辛顿、杨立昆、本吉奥、哈萨比斯这群少数派学者如何在嘲讽与资金枯竭中坚守神经网络，最终用一项曾被抛弃的技术，重塑了整个人类社会的走向。这本书既是技术史，也是商业史，更是一群理想主义者的群像，提醒我们今天所有关于 AI 的争论，起点都是二零一二年的那个冬天。</itunes:summary>
+      <itunes:duration>00:34:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-69536b.mp3" length="33263277" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
