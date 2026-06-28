@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 28 Jun 2026 16:48:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 21:22:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7872,6 +7872,17 @@
       <itunes:duration>00:39:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-d5168a.mp3" length="38096685" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《易碎品》 · 完整版 · 易碎品 · 完整讲读</title>
+      <description>《易碎品》是尼尔·盖曼二零零六年的短篇故事集，收录二十余篇风格各异的作品。每篇前附有作者亲撰的创作手记，记录灵感来源与写作过程。本书献给雷·布拉德伯里、哈兰·艾里森与罗伯特·谢克里三位跨越类型边界的大师。盖曼以轻盈却深邃的笔触，融合恐怖、奇幻、悬疑、幽默与诗歌，讲述脆弱之人的脆弱之梦。书名取自一句梦中所得之语：人易碎，梦易碎，心易碎。这些故事正是他弯腰捡起的碎片——有些折射出光，有些刺破了手——正因易碎，才有了被珍藏的理由。</description>
+      <pubDate>Sun, 28 Jun 2026 21:22:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260629-episode-20260629-9c7f4e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《易碎品》是尼尔·盖曼二零零六年的短篇故事集，收录二十余篇风格各异的作品。每篇前附有作者亲撰的创作手记，记录灵感来源与写作过程。本书献给雷·布拉德伯里、哈兰·艾里森与罗伯特·谢克里三位跨越类型边界的大师。盖曼以轻盈却深邃的笔触，融合恐怖、奇幻、悬疑、幽默与诗歌，讲述脆弱之人的脆弱之梦。书名取自一句梦中所得之语：人易碎，梦易碎，心易碎。这些故事正是他弯腰捡起的碎片——有些折射出光，有些刺破了手——正因易碎，才有了被珍藏的理由。</itunes:summary>
+      <itunes:duration>00:31:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-9c7f4e.mp3" length="30337965" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
