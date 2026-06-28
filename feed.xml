@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 28 Jun 2026 16:42:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 16:48:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7861,6 +7861,17 @@
       <itunes:duration>00:21:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-b58509.mp3" length="20691885" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《白色绵羊里的黑色绵羊》 · 完整版 · 白色绵羊里的黑色绵羊 · 完整讲读</title>
+      <description>《白色绵羊里的黑色绵羊》是双雪涛的随笔集,前半谈小说,后半谈电影,是一位小说家把他怎么读、怎么想、怎么写的过程一点点拆给你看的私人指南。书中,他讲阅读如何点燃写作的冲动,讲灵感如何从日常的闲聊与寒冷中短路出来,讲如何自然地进入一个故事并把它写完;他谈海明威的冰山理论与古典气质,谈《水浒传》里林冲的现代性,谈少年视角如何作为成人的招魂;他回忆《教父》《卧虎藏龙》《白日焰火》如何在不同的人生阶段成为朋友。这不是一本正经的文学理论书,而是一位创作者的内部地图——房间一直都在,阅读是那把钥匙。</description>
+      <pubDate>Sun, 28 Jun 2026 16:47:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260629-episode-20260629-d5168a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《白色绵羊里的黑色绵羊》是双雪涛的随笔集,前半谈小说,后半谈电影,是一位小说家把他怎么读、怎么想、怎么写的过程一点点拆给你看的私人指南。书中,他讲阅读如何点燃写作的冲动,讲灵感如何从日常的闲聊与寒冷中短路出来,讲如何自然地进入一个故事并把它写完;他谈海明威的冰山理论与古典气质,谈《水浒传》里林冲的现代性,谈少年视角如何作为成人的招魂;他回忆《教父》《卧虎藏龙》《白日焰火》如何在不同的人生阶段成为朋友。这不是一本正经的文学理论书,而是一位创作者的内部地图——房间一直都在,阅读是那把钥匙。</itunes:summary>
+      <itunes:duration>00:39:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-d5168a.mp3" length="38096685" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
