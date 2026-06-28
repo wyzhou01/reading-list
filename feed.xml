@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 28 Jun 2026 07:26:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 07:40:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7773,6 +7773,17 @@
       <itunes:duration>00:28:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260628/episode-20260628-e5bfcb.mp3" length="27214893" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《糜骨之壤》 · 完整版 · 糜骨之壤 · 完整讲读</title>
+      <description>《糜骨之壤》是二零一八年诺贝尔文学奖得主、波兰女作家奥尔加·托卡尔丘克的长篇小说，故事发生在大雪封山的波兰山村普瓦斯科维什。年迈的女主人公玛雅在邻居大脚死后，凭借占星术、布莱克诗篇与对大地的感知，独自破获了一连串与偷猎、动物死亡相关的悬案。托卡尔丘克用犯罪悬疑、哲理童话与生态寓言交织的笔法，叩问四个核心命题：人类凭什么自认是万物的主宰？被我们称为疯子的人，是不是比我们更清醒？当我们凝视万物时，谁在凝视我们？我们该怎样与这个世界，温柔地告别？这是一封写给所有被忽视生灵的挽歌，也是一堂关于如何把耳朵贴在大地上的温柔课。</description>
+      <pubDate>Sun, 28 Jun 2026 07:39:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260628-episode-20260628-2e0297</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《糜骨之壤》是二零一八年诺贝尔文学奖得主、波兰女作家奥尔加·托卡尔丘克的长篇小说，故事发生在大雪封山的波兰山村普瓦斯科维什。年迈的女主人公玛雅在邻居大脚死后，凭借占星术、布莱克诗篇与对大地的感知，独自破获了一连串与偷猎、动物死亡相关的悬案。托卡尔丘克用犯罪悬疑、哲理童话与生态寓言交织的笔法，叩问四个核心命题：人类凭什么自认是万物的主宰？被我们称为疯子的人，是不是比我们更清醒？当我们凝视万物时，谁在凝视我们？我们该怎样与这个世界，温柔地告别？这是一封写给所有被忽视生灵的挽歌，也是一堂关于如何把耳朵贴在大地上的温柔课。</itunes:summary>
+      <itunes:duration>00:26:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260628/episode-20260628-2e0297.mp3" length="25309869" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
