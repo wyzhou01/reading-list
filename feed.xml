@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 27 Jun 2026 21:39:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 07:26:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7762,6 +7762,17 @@
       <itunes:duration>00:32:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260628/episode-20260628-f008fc.mp3" length="31359021" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《王立铭·进化论讲义》 · 完整版 · 王立铭进化论讲义 · 完整讲读</title>
+      <description>《王立铭进化论讲义》以五十讲系统拆解进化论的科学原理与思想遗产。前二十讲搭建进化论的公理体系，从自私本能与环境匮乏的矛盾出发，用可遗传的变异、生存竞争、自然选择、生殖隔离四根链条，解释混乱的大自然如何长出枝繁叶茂的生命之树。中间二十讲用这套公理体系去拆解起源、增长、适应与复杂组织建设四个关键节点。最后十讲把进化思想拓展到生物世界之外，探讨它对人类思想史、伦理学、商业竞争、组织演化与创新的深远启发。书中反复强调，进化论是地球上唯一的成功学，是为各行各业知识工作者准备的、用来理解复杂系统并解决复杂问题的思想工具。</description>
+      <pubDate>Sun, 28 Jun 2026 07:25:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260628-episode-20260628-e5bfcb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《王立铭进化论讲义》以五十讲系统拆解进化论的科学原理与思想遗产。前二十讲搭建进化论的公理体系，从自私本能与环境匮乏的矛盾出发，用可遗传的变异、生存竞争、自然选择、生殖隔离四根链条，解释混乱的大自然如何长出枝繁叶茂的生命之树。中间二十讲用这套公理体系去拆解起源、增长、适应与复杂组织建设四个关键节点。最后十讲把进化思想拓展到生物世界之外，探讨它对人类思想史、伦理学、商业竞争、组织演化与创新的深远启发。书中反复强调，进化论是地球上唯一的成功学，是为各行各业知识工作者准备的、用来理解复杂系统并解决复杂问题的思想工具。</itunes:summary>
+      <itunes:duration>00:28:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260628/episode-20260628-e5bfcb.mp3" length="27214893" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
