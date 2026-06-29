@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 29 Jun 2026 21:24:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 21:29:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8191,6 +8191,17 @@
       <itunes:duration>00:18:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-74c9f9.mp3" length="17852973" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《绝叫》 · 完整版 · 绝叫 · 完整讲读</title>
+      <description>《絕叫》是日本社會派推理作家葉真中顯的代表作，以第二人稱敘事講述女子鈴木陽子從平凡女孩一步步墜入社會底層，最終孤獨死於東京單身公寓的故事。小說橫跨四十年時光，交織貧困女性、黑心企業、孤獨死、無緣社會等議題，最後以一場精密的“身份重構“收尾——陽子殺死母親、整容逃亡，以全新身份重生。全書既是一部推理作品，也是一份關於日本社會結構性暴力的沉痛報告。</description>
+      <pubDate>Mon, 29 Jun 2026 21:29:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260630-episode-20260630-7279cb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《絕叫》是日本社會派推理作家葉真中顯的代表作，以第二人稱敘事講述女子鈴木陽子從平凡女孩一步步墜入社會底層，最終孤獨死於東京單身公寓的故事。小說橫跨四十年時光，交織貧困女性、黑心企業、孤獨死、無緣社會等議題，最後以一場精密的“身份重構“收尾——陽子殺死母親、整容逃亡，以全新身份重生。全書既是一部推理作品，也是一份關於日本社會結構性暴力的沉痛報告。</itunes:summary>
+      <itunes:duration>00:33:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-7279cb.mp3" length="32085165" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
