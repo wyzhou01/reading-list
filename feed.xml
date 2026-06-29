@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 29 Jun 2026 21:21:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 21:24:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8180,6 +8180,17 @@
       <itunes:duration>00:33:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-47b2d4.mp3" length="31906221" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《巴芒演义》 · 完整版 · 巴芒演义 · 完整讲读</title>
+      <description>《巴芒演义》不是巴菲特传记，而是用章回体写就的价值投资思想演化史。从一九二九年大崩溃起笔，到卡夫亨氏季报亏损收束，横跨近一百年，把格雷厄姆、费雪、芒格、博格、索普、凯恩斯、林奇、格林布拉特等一连串名字串成一条清晰的演化链：格雷厄姆给出“量价格”的尺子，芒格给出“量未来”的尺子，博格给普通人留出“干脆别挑企业”的第三条路。书里反复出现的真相只有一个——价格由价值决定，市场先生会发疯，但好地多半仍会有好收成；长期满意回报不需要每次都买对，只需要组合加复利。</description>
+      <pubDate>Mon, 29 Jun 2026 21:24:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260630-episode-20260630-74c9f9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《巴芒演义》不是巴菲特传记，而是用章回体写就的价值投资思想演化史。从一九二九年大崩溃起笔，到卡夫亨氏季报亏损收束，横跨近一百年，把格雷厄姆、费雪、芒格、博格、索普、凯恩斯、林奇、格林布拉特等一连串名字串成一条清晰的演化链：格雷厄姆给出“量价格”的尺子，芒格给出“量未来”的尺子，博格给普通人留出“干脆别挑企业”的第三条路。书里反复出现的真相只有一个——价格由价值决定，市场先生会发疯，但好地多半仍会有好收成；长期满意回报不需要每次都买对，只需要组合加复利。</itunes:summary>
+      <itunes:duration>00:18:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-74c9f9.mp3" length="17852973" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
