@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 29 Jun 2026 01:16:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 01:20:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7938,6 +7938,17 @@
       <itunes:duration>00:35:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-e3509f.mp3" length="33771309" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《崩盘：全球金融危机如何重塑世界》 · 完整版 · 崩盘：全球金融危机如何重塑世界 · 完整讲读</title>
+      <description>《崩盘》是哥伦比亚大学历史学教授亚当·图兹的代表作,被誉为近十年来理解全球金融危机最具整体视野的著作之一。图兹以全球化时代第一场危机为坐标,系统呈现了二零零八年金融危机如何从美国次贷市场的裂缝出发,通过美元的全球流动性网络,引爆欧洲主权债务危机、东欧金融崩溃,并倒逼中国推出四万亿刺激计划、推动二十国集团走向历史前台。全书超越金融技术层面,深入揭示危机如何重塑美元霸权的运作方式、催生民粹政治海啸,并把一个多极世界硬生生推到了台前。对于今天的中国读者,这本书是理解中美博弈、全球化退潮与全球治理秩序重构的必读之作。</description>
+      <pubDate>Mon, 29 Jun 2026 01:19:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260629-episode-20260629-bdc327</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《崩盘》是哥伦比亚大学历史学教授亚当·图兹的代表作,被誉为近十年来理解全球金融危机最具整体视野的著作之一。图兹以全球化时代第一场危机为坐标,系统呈现了二零零八年金融危机如何从美国次贷市场的裂缝出发,通过美元的全球流动性网络,引爆欧洲主权债务危机、东欧金融崩溃,并倒逼中国推出四万亿刺激计划、推动二十国集团走向历史前台。全书超越金融技术层面,深入揭示危机如何重塑美元霸权的运作方式、催生民粹政治海啸,并把一个多极世界硬生生推到了台前。对于今天的中国读者,这本书是理解中美博弈、全球化退潮与全球治理秩序重构的必读之作。</itunes:summary>
+      <itunes:duration>00:26:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-bdc327.mp3" length="25743405" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
