@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 29 Jun 2026 01:25:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 01:31:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7960,6 +7960,17 @@
       <itunes:duration>00:37:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-4b48f4.mp3" length="36008877" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《气候经济与人类未来》 · 完整版 · 气候经济与人类未来 · 完整讲读</title>
+      <description>本期《好好读书》解读比尔·盖茨的《气候经济与人类未来》。面对每年五百一十亿吨的温室气体排放，盖茨用工程师的视角给出回答：目标必须是零，不是少一些。围绕电力、制造、农业、交通、制冷五大板块，他用绿色溢价这把尺子，区分哪些技术今天就能铺开，哪些仍需突破。零排放的落地，依赖政府的基础研究、立法、补贴与中立的技术押注，依赖企业的供应链转型，也依赖个人在每一次消费与投票中把选择偏向清洁能源。气候不是道德题，是工程题。零排放不是关于牺牲，是关于创新。</description>
+      <pubDate>Mon, 29 Jun 2026 01:31:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260629-episode-20260629-d76c5f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期《好好读书》解读比尔·盖茨的《气候经济与人类未来》。面对每年五百一十亿吨的温室气体排放，盖茨用工程师的视角给出回答：目标必须是零，不是少一些。围绕电力、制造、农业、交通、制冷五大板块，他用绿色溢价这把尺子，区分哪些技术今天就能铺开，哪些仍需突破。零排放的落地，依赖政府的基础研究、立法、补贴与中立的技术押注，依赖企业的供应链转型，也依赖个人在每一次消费与投票中把选择偏向清洁能源。气候不是道德题，是工程题。零排放不是关于牺牲，是关于创新。</itunes:summary>
+      <itunes:duration>00:31:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-d76c5f.mp3" length="30679725" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
