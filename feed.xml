@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 29 Jun 2026 07:53:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 08:49:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8070,6 +8070,17 @@
       <itunes:duration>00:29:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-7c9563.mp3" length="28251309" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一天一朵云》 · 完整版 · 一天一朵云 · 完整讲读</title>
+      <description>《一天一朵云》是英国赏云协会创始人加文·普雷特—平尼继《云彩收集者手册》之后的又一部作品，以三百六十五张云彩照片为线索，串起云的科学分类、光学现象、艺术意象与日常冥想。书中横跨十三世纪中国山水画与二十一世纪卫星影像，从十种云属的命名到米友仁、康斯太布尔、透纳、马格利特等艺术家的天空，揭示了云既是水的剧场、也是人类的情绪器官。在一切被效率与屏幕占据的时代，这本书邀请读者重新抬头，把观云当作一种对天空的冥想——一种不能被计划、只能偶然接住的慢下来。</description>
+      <pubDate>Mon, 29 Jun 2026 08:48:46 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260629-episode-20260629-cd4b87</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一天一朵云》是英国赏云协会创始人加文·普雷特—平尼继《云彩收集者手册》之后的又一部作品，以三百六十五张云彩照片为线索，串起云的科学分类、光学现象、艺术意象与日常冥想。书中横跨十三世纪中国山水画与二十一世纪卫星影像，从十种云属的命名到米友仁、康斯太布尔、透纳、马格利特等艺术家的天空，揭示了云既是水的剧场、也是人类的情绪器官。在一切被效率与屏幕占据的时代，这本书邀请读者重新抬头，把观云当作一种对天空的冥想——一种不能被计划、只能偶然接住的慢下来。</itunes:summary>
+      <itunes:duration>00:37:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-cd4b87.mp3" length="36164013" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
