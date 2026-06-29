@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 29 Jun 2026 23:59:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 23:59:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8235,6 +8235,17 @@
       <itunes:duration>00:27:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-2339f0.mp3" length="26040237" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《不属于我的城市》 · 完整版 · 不属于我的城市 · 完整讲读</title>
+      <description>《不属于我的城市》是漫画家寂地写给城市漂泊者的一封情书。全书由九个短篇构成,主角是灯光师、化妆师、水族馆维护员、夜班工人、写字楼里假装正常的普通职员——那些站在聚光灯外、渺小、困顿、无人在意的人。灯光师猝死在片场,没人记得他的名字;查无此人的恋人寄来发黄的明信片;水族馆里的姑娘带着孤独的海豚消失了;一个女孩的左手突然有了独立意志,逼她正视压抑了二十年的真心。寂地以自身二零零六年到二零一一年独居北京的真实漂泊为底色,温柔地承认:是的,你会消失;但即便如此,你依然真实地活过、爱过。这本书不教你如何被看见,只告诉你:活过,本身就是证据。</description>
+      <pubDate>Mon, 29 Jun 2026 23:59:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260630-episode-20260630-3f815e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《不属于我的城市》是漫画家寂地写给城市漂泊者的一封情书。全书由九个短篇构成,主角是灯光师、化妆师、水族馆维护员、夜班工人、写字楼里假装正常的普通职员——那些站在聚光灯外、渺小、困顿、无人在意的人。灯光师猝死在片场,没人记得他的名字;查无此人的恋人寄来发黄的明信片;水族馆里的姑娘带着孤独的海豚消失了;一个女孩的左手突然有了独立意志,逼她正视压抑了二十年的真心。寂地以自身二零零六年到二零一一年独居北京的真实漂泊为底色,温柔地承认:是的,你会消失;但即便如此,你依然真实地活过、爱过。这本书不教你如何被看见,只告诉你:活过,本身就是证据。</itunes:summary>
+      <itunes:duration>00:28:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-3f815e.mp3" length="27690285" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
