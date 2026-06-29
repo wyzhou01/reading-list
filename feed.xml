@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 29 Jun 2026 03:11:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 03:16:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7993,6 +7993,17 @@
       <itunes:duration>00:39:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-8bafaa.mp3" length="37456557" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《血与火：坦格利安王朝史 第一卷》 · 完整版 · 血与火：坦格利安王朝史 第一卷 · 完整讲读</title>
+      <description>《血与火：坦格利安王朝史》第一卷是乔治·R·R·马丁以学城学士葛尔丹博士的伪史视角，记录坦格利安家族从征服者伊耿统一七国，到杰赫里斯一世的半世纪和平盛世，再到血龙狂舞前夕王朝裂痕的近一百五十年。马丁用虚构史料、矛盾记载与尖刻老学究的声音，把权力的代价、龙作为王权象征的兴衰、家族内战的必然，写成了一面映照真实历史的镜子。</description>
+      <pubDate>Mon, 29 Jun 2026 03:16:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260629-episode-20260629-cf3a5e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《血与火：坦格利安王朝史》第一卷是乔治·R·R·马丁以学城学士葛尔丹博士的伪史视角，记录坦格利安家族从征服者伊耿统一七国，到杰赫里斯一世的半世纪和平盛世，再到血龙狂舞前夕王朝裂痕的近一百五十年。马丁用虚构史料、矛盾记载与尖刻老学究的声音，把权力的代价、龙作为王权象征的兴衰、家族内战的必然，写成了一面映照真实历史的镜子。</itunes:summary>
+      <itunes:duration>00:25:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-cf3a5e.mp3" length="24804141" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
