@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 29 Jun 2026 01:31:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 01:36:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7971,6 +7971,17 @@
       <itunes:duration>00:31:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-d76c5f.mp3" length="30679725" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《控糖革命》 · 完整版 · 控糖革命 · 完整讲读</title>
+      <description>《控糖革命》的作者杰西·因斯佩尔在一次几乎让她瘫痪的意外之后，开始用动态血糖仪在自己身上做实验，最终创立了拥有二十万会员的&quot;控糖女神&quot;社区。这本书第一次系统地把目光投向了八十八亿普通人——哪怕你不是糖尿病患者，葡萄糖峰值的反复冲高和跌落，也在悄悄影响着你的情绪、皮肤、睡眠和长期健康。书中提出一个反常识的核心命题：怎么吃，比吃什么更重要。顺序、搭配、时机这三件小事，决定了血糖曲线是过山车还是一条直线。她给出了十个不靠节食、不靠计算热量的小窍门，从改变动筷子的顺序，到饭前喝一点醋，再到把甜点安排在餐后——用最轻量的方式，把身体的主动权交回到你手里。</description>
+      <pubDate>Mon, 29 Jun 2026 01:36:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260629-episode-20260629-218b04</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《控糖革命》的作者杰西·因斯佩尔在一次几乎让她瘫痪的意外之后，开始用动态血糖仪在自己身上做实验，最终创立了拥有二十万会员的&quot;控糖女神&quot;社区。这本书第一次系统地把目光投向了八十八亿普通人——哪怕你不是糖尿病患者，葡萄糖峰值的反复冲高和跌落，也在悄悄影响着你的情绪、皮肤、睡眠和长期健康。书中提出一个反常识的核心命题：怎么吃，比吃什么更重要。顺序、搭配、时机这三件小事，决定了血糖曲线是过山车还是一条直线。她给出了十个不靠节食、不靠计算热量的小窍门，从改变动筷子的顺序，到饭前喝一点醋，再到把甜点安排在餐后——用最轻量的方式，把身体的主动权交回到你手里。</itunes:summary>
+      <itunes:duration>00:25:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-218b04.mp3" length="24908589" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
