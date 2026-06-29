@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 29 Jun 2026 16:25:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 16:33:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8125,6 +8125,17 @@
       <itunes:duration>00:30:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-4ac8a8.mp3" length="28972077" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《梅里雪山》 · 完整版 · 梅里雪山 · 完整讲读</title>
+      <description>《梅里雪山》是日本登山者小林尚礼写下的非典型山难回忆录。一九九一年，一支十七人组成的中日联合登山队在攀登卡瓦格博峰的途中全军覆没，遗体封存冰川深处七年。作者本人因故未参加第二支队伍而幸存，此后十余年间多次重返冰川搜寻友人遗骸，并定居在藏族明永村。他从一个想登顶的探险者，蜕变为山岳文化的摄影者、记录者与守护者。这本书不只是关于山难本身，更是一次跨文化的漫长协商——一个日本人如何在藏族的神山信仰、村庄日常、转山巡礼中，被另一种文明慢慢改写。书里同时追问了一个今天比一九九一年更急迫的诘问：自然究竟有没有神性？人类的探险，是否应该有一个限度？</description>
+      <pubDate>Mon, 29 Jun 2026 16:32:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260630-episode-20260630-a7de37</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《梅里雪山》是日本登山者小林尚礼写下的非典型山难回忆录。一九九一年，一支十七人组成的中日联合登山队在攀登卡瓦格博峰的途中全军覆没，遗体封存冰川深处七年。作者本人因故未参加第二支队伍而幸存，此后十余年间多次重返冰川搜寻友人遗骸，并定居在藏族明永村。他从一个想登顶的探险者，蜕变为山岳文化的摄影者、记录者与守护者。这本书不只是关于山难本身，更是一次跨文化的漫长协商——一个日本人如何在藏族的神山信仰、村庄日常、转山巡礼中，被另一种文明慢慢改写。书里同时追问了一个今天比一九九一年更急迫的诘问：自然究竟有没有神性？人类的探险，是否应该有一个限度？</itunes:summary>
+      <itunes:duration>00:28:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-a7de37.mp3" length="27132717" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
