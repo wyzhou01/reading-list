@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 29 Jun 2026 21:29:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 21:35:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8202,6 +8202,17 @@
       <itunes:duration>00:33:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-7279cb.mp3" length="32085165" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《第一人称单数》 · 完整版 · 第一人称单数 · 完整讲读</title>
+      <description>《第一人称单数》是村上春树二零二零年出版的短篇小说集，八个故事都由一个叫&quot;我&quot;的叙述者讲出——有时是十九岁的大学二年级生，有时是中年独居的男人，有时是十八岁的高中毕业生。他们各自撞上记忆的缺口、陌生女人的目光、或一段再也想不起旋律的音乐，然后在深夜慢慢回望自己的一生。全书反复书写的主题是孤独与独处的边界、记忆的模糊与重塑、音乐作为人生的锚点、陌生人之间暧昧的相遇，以及第一人称视角下&quot;自我&quot;的多重可能。村上的笔触轻盈、疏离、略带忧伤，把那些快要被风吹散的记忆，一个一个地捡回来。读这本书，是陪八个不同的&quot;我&quot;，在午夜的酒吧、冬夜的公寓、木星的换乘口，对着空气慢慢讲出那些无人记得的往事。</description>
+      <pubDate>Mon, 29 Jun 2026 21:34:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260630-episode-20260630-cc5acf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《第一人称单数》是村上春树二零二零年出版的短篇小说集，八个故事都由一个叫&quot;我&quot;的叙述者讲出——有时是十九岁的大学二年级生，有时是中年独居的男人，有时是十八岁的高中毕业生。他们各自撞上记忆的缺口、陌生女人的目光、或一段再也想不起旋律的音乐，然后在深夜慢慢回望自己的一生。全书反复书写的主题是孤独与独处的边界、记忆的模糊与重塑、音乐作为人生的锚点、陌生人之间暧昧的相遇，以及第一人称视角下&quot;自我&quot;的多重可能。村上的笔触轻盈、疏离、略带忧伤，把那些快要被风吹散的记忆，一个一个地捡回来。读这本书，是陪八个不同的&quot;我&quot;，在午夜的酒吧、冬夜的公寓、木星的换乘口，对着空气慢慢讲出那些无人记得的往事。</itunes:summary>
+      <itunes:duration>00:30:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-cc5acf.mp3" length="29127981" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
