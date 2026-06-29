@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 29 Jun 2026 09:37:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 13:13:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8103,6 +8103,17 @@
       <itunes:duration>00:34:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-24aa73.mp3" length="32966829" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《局部·陌生的经验》 · 完整版 · 局部-陈丹青 · 完整讲读</title>
+      <description>这是一本拒绝教你“怎么看艺术”的艺术书。陈丹青，这位画家出身的写作者，借视频节目《局部》第三季的文字版，牵着你穿过故宫武英殿的展柜、意大利比萨的圣墓园、北朝漆黑的墓室。他不谈流派、不讲技法、不背年代，只盯住一幅画、一段墙角、一个手势——比如十八岁少年王希孟的《千里江山图》、艾吉镇乡村教堂里憨扑扑的中古壁师、画得战马当场拉屎的无名北朝师傅。他要颠覆的是三样东西——伟大必须出自白胡子老翁、艺术史必须看整体、艺术家必须像精英。最后，他抛出一个更难的命题：真比美更值钱，憨比精更难得。整本书更像一位老朋友领你逛展厅，压低声音说一句别人没说过的体会。信息透明的时代，这是一封迟到的邀请信，请你重新睁眼。</description>
+      <pubDate>Mon, 29 Jun 2026 13:11:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260629-episode-20260629-898838</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>这是一本拒绝教你“怎么看艺术”的艺术书。陈丹青，这位画家出身的写作者，借视频节目《局部》第三季的文字版，牵着你穿过故宫武英殿的展柜、意大利比萨的圣墓园、北朝漆黑的墓室。他不谈流派、不讲技法、不背年代，只盯住一幅画、一段墙角、一个手势——比如十八岁少年王希孟的《千里江山图》、艾吉镇乡村教堂里憨扑扑的中古壁师、画得战马当场拉屎的无名北朝师傅。他要颠覆的是三样东西——伟大必须出自白胡子老翁、艺术史必须看整体、艺术家必须像精英。最后，他抛出一个更难的命题：真比美更值钱，憨比精更难得。整本书更像一位老朋友领你逛展厅，压低声音说一句别人没说过的体会。信息透明的时代，这是一封迟到的邀请信，请你重新睁眼。</itunes:summary>
+      <itunes:duration>00:24:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-898838.mp3" length="23254701" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
