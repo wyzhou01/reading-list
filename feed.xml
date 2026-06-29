@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 29 Jun 2026 23:53:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 23:59:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8224,6 +8224,17 @@
       <itunes:duration>00:26:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-0c62ff.mp3" length="25812909" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《豹迹：与记忆有关》 · 完整版 · 豹迹 · 完整讲读</title>
+      <description>美术史家巫鸿以&quot;与记忆有关&quot;为线索，收录多篇回忆性、评论性散文，跨越学术考察、艺术评介与个人追忆。书中既有虚构与真实交织的考察叙事，也有对木心等艺术家创作轨迹的深度解读，探讨记忆如何被书写、被重构，以及文字如何在与往昔的对话中创造新的意义。</description>
+      <pubDate>Mon, 29 Jun 2026 23:58:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260630-episode-20260630-2339f0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>美术史家巫鸿以&quot;与记忆有关&quot;为线索，收录多篇回忆性、评论性散文，跨越学术考察、艺术评介与个人追忆。书中既有虚构与真实交织的考察叙事，也有对木心等艺术家创作轨迹的深度解读，探讨记忆如何被书写、被重构，以及文字如何在与往昔的对话中创造新的意义。</itunes:summary>
+      <itunes:duration>00:27:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-2339f0.mp3" length="26040237" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
