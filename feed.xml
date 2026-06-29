@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 29 Jun 2026 07:41:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 07:47:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8048,6 +8048,17 @@
       <itunes:duration>00:25:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-e37a4e.mp3" length="24666285" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《金斯伯格访谈录：RBG给未来世代的声音》 · 完整版 · 金斯伯格访谈录 · 完整讲读</title>
+      <description>本期《好好读书》带你走进《金斯伯格访谈录》。这是一本由美国国家宪法中心负责人杰弗里·罗森与金斯伯格大法官持续二十多年通信与对谈凝结而成的对话集，由大法官本人亲自审定每一句话。全书按十三个主题，记录了金斯伯格作为律师推动性别平等的锋芒、作为法官的克制与精准、对罗伊案的审慎批评、与斯卡利亚的伟大异见友谊，以及她在流行文化中成为&quot;声名狼藉的 R B G&quot;的历程。在重新阅读的今天，我们看到的不仅是一位已故大法官的生平，更是一份关于宪法如何回应普通人生活的答卷，以及一份关于爱、克制、友谊与异见的温柔遗嘱。无论你是法学爱好者、研究性别史的读者，还是想了解一位伟大女性如何思考法律与人生的普通人，这本书都值得你完整地听上一遍。</description>
+      <pubDate>Mon, 29 Jun 2026 07:47:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260629-episode-20260629-f50ad9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期《好好读书》带你走进《金斯伯格访谈录》。这是一本由美国国家宪法中心负责人杰弗里·罗森与金斯伯格大法官持续二十多年通信与对谈凝结而成的对话集，由大法官本人亲自审定每一句话。全书按十三个主题，记录了金斯伯格作为律师推动性别平等的锋芒、作为法官的克制与精准、对罗伊案的审慎批评、与斯卡利亚的伟大异见友谊，以及她在流行文化中成为&quot;声名狼藉的 R B G&quot;的历程。在重新阅读的今天，我们看到的不仅是一位已故大法官的生平，更是一份关于宪法如何回应普通人生活的答卷，以及一份关于爱、克制、友谊与异见的温柔遗嘱。无论你是法学爱好者、研究性别史的读者，还是想了解一位伟大女性如何思考法律与人生的普通人，这本书都值得你完整地听上一遍。</itunes:summary>
+      <itunes:duration>00:30:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-f50ad9.mp3" length="29395629" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
