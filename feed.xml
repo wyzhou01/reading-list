@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 29 Jun 2026 08:49:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 08:59:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8081,6 +8081,17 @@
       <itunes:duration>00:37:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-cd4b87.mp3" length="36164013" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《更富有、更睿智、更快乐》 · 完整版 · 更富有、更睿智、更快乐 · 完整讲读</title>
+      <description>《更富有、更睿智、更快乐》是英国资深财经记者威廉·格林花费二十五年时间，采访四十多位世界顶尖投资者的智慧结晶。书中揭示了查理·芒格、沃伦·巴菲特、爱德华·索普、比尔·米勒等投资传奇共同遵循的&quot;实践哲学&quot;：敢于对抗群体共识、用简单原则解决复杂问题、把投资智慧延伸到整个人生、警惕认知偏差、培养高绩效习惯、避免愚蠢的决策。格林发现，这些顶尖投资者不仅在市场上长期跑赢，他们的寿命、健康和人生满意度也往往优于常人。书中反复强调，财富、智慧、幸福从来不是三条独立的赛道，而是同一件事情的三个维度；真正的投资高手，是把市场和生活视为一场可以提高胜算的&quot;游戏&quot;的实践哲学家。本书既不是技术分析手册，也不是宏观预测指南，而是一本关于&quot;如何像智者一样思考与生活&quot;的智慧之书，时至今日仍值得每一个追求长期复利的人反复阅读。</description>
+      <pubDate>Mon, 29 Jun 2026 08:59:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260629-episode-20260629-47342b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《更富有、更睿智、更快乐》是英国资深财经记者威廉·格林花费二十五年时间，采访四十多位世界顶尖投资者的智慧结晶。书中揭示了查理·芒格、沃伦·巴菲特、爱德华·索普、比尔·米勒等投资传奇共同遵循的&quot;实践哲学&quot;：敢于对抗群体共识、用简单原则解决复杂问题、把投资智慧延伸到整个人生、警惕认知偏差、培养高绩效习惯、避免愚蠢的决策。格林发现，这些顶尖投资者不仅在市场上长期跑赢，他们的寿命、健康和人生满意度也往往优于常人。书中反复强调，财富、智慧、幸福从来不是三条独立的赛道，而是同一件事情的三个维度；真正的投资高手，是把市场和生活视为一场可以提高胜算的&quot;游戏&quot;的实践哲学家。本书既不是技术分析手册，也不是宏观预测指南，而是一本关于&quot;如何像智者一样思考与生活&quot;的智慧之书，时至今日仍值得每一个追求长期复利的人反复阅读。</itunes:summary>
+      <itunes:duration>00:39:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-47342b.mp3" length="37798701" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
