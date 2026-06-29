@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 29 Jun 2026 07:29:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 07:35:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8026,6 +8026,17 @@
       <itunes:duration>00:41:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-b70320.mp3" length="40229037" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《草民》 · 完整版 · 草民 · 完整讲读</title>
+      <description>《草民》是蔡崇达故乡三部曲的终章，以福建东石镇为背景，为无数无名者立传。书中没有传奇、没有逆袭，只有像野草一样生生不息的普通人：驼背的曹操背着观音走街串巷，祖母们在台风里不肯低头，秋姨在赌博的间隙里念叨“今天心情好”，应莲阿姨的菜摊被写成“全中国最干净整齐”。蔡崇达用十年时间完成这场漫长的回乡，从《皮囊》的看见自我，到《命运》的看见他人，再到《草民》的回到所有人里去。他说：文字是储藏灵魂的唯一机会；所有去处，终究是我们的来处。这是一本写给所有背井离乡者的书，写给每一个被忽略的、却依然在认真活着的人。</description>
+      <pubDate>Mon, 29 Jun 2026 07:35:36 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260629-episode-20260629-93e567</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《草民》是蔡崇达故乡三部曲的终章，以福建东石镇为背景，为无数无名者立传。书中没有传奇、没有逆袭，只有像野草一样生生不息的普通人：驼背的曹操背着观音走街串巷，祖母们在台风里不肯低头，秋姨在赌博的间隙里念叨“今天心情好”，应莲阿姨的菜摊被写成“全中国最干净整齐”。蔡崇达用十年时间完成这场漫长的回乡，从《皮囊》的看见自我，到《命运》的看见他人，再到《草民》的回到所有人里去。他说：文字是储藏灵魂的唯一机会；所有去处，终究是我们的来处。这是一本写给所有背井离乡者的书，写给每一个被忽略的、却依然在认真活着的人。</itunes:summary>
+      <itunes:duration>00:28:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-93e567.mp3" length="27514413" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
