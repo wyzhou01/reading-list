@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 29 Jun 2026 07:47:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 07:53:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8059,6 +8059,17 @@
       <itunes:duration>00:30:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-f50ad9.mp3" length="29395629" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《余下只有噪音：聆听20世纪》 · 完整版 · 余下只有噪音 · 完整讲读</title>
+      <description>本期讲解《余下只有噪音：聆听二十世纪》，作者亚历克斯·罗斯。这本英语世界近三十年最受欢迎的古典音乐通识书，用十五章的篇幅，把二十世纪古典音乐史讲成三条线：政治线，看音乐如何被独裁者收编、被流亡者与反抗者守护；颠覆线，从勋伯格的无调性、十二音序列到赖利与格拉斯的极简主义，看“好听”的标准如何被一次次重写；噪音与美的辩证线，看约翰·凯奇与梅西安如何把“噪音”翻转为新的聆听方式。在“古典音乐已死”的反复宣告中，罗斯告诉我们：二十世纪并没有结束音乐，它只是把音乐推到了一个大多数人还没来得及抵达的地方。</description>
+      <pubDate>Mon, 29 Jun 2026 07:53:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260629-episode-20260629-7c9563</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期讲解《余下只有噪音：聆听二十世纪》，作者亚历克斯·罗斯。这本英语世界近三十年最受欢迎的古典音乐通识书，用十五章的篇幅，把二十世纪古典音乐史讲成三条线：政治线，看音乐如何被独裁者收编、被流亡者与反抗者守护；颠覆线，从勋伯格的无调性、十二音序列到赖利与格拉斯的极简主义，看“好听”的标准如何被一次次重写；噪音与美的辩证线，看约翰·凯奇与梅西安如何把“噪音”翻转为新的聆听方式。在“古典音乐已死”的反复宣告中，罗斯告诉我们：二十世纪并没有结束音乐，它只是把音乐推到了一个大多数人还没来得及抵达的地方。</itunes:summary>
+      <itunes:duration>00:29:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-7c9563.mp3" length="28251309" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
