@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 29 Jun 2026 03:16:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 04:15:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -143,14 +143,14 @@
     </item>
     <item>
       <title>好好读书 · 《法老的宝藏》 · 完整版 · 法老的宝藏 · 完整讲读</title>
-      <description>法老的宝藏 · 完整讲读</description>
+      <description>《法老的宝藏》讲述了一种被遗忘三千年的&quot;第一媒介&quot;——莎草纸如何从尼罗河三角洲的沼泽植物，演变为法老、罗马、基督教会和阿拉伯帝国赖以运转的文明骨架，又如何在与浆纸、皮纸、印刷机的千年缠斗中彻底退场。植物学家高德特用田野调查的笔法，重述了一条贯穿三千年的暗线：谁掌控纸张，谁就掌控知识传播，谁就掌控帝国命脉。这本书不仅是一次媒介考古，更是对&quot;何为文明底座&quot;的深度追问。</description>
       <pubDate>Sat, 20 Jun 2026 16:34:36 +0000</pubDate>
-      <guid isPermaLink="false">reading-list-vv20260621-episode-20260621-3f4bd9</guid>
+      <guid isPermaLink="false">reading-list-vv20260629-episode-20260629-3f4bd9</guid>
       <itunes:author>好好读书组</itunes:author>
-      <itunes:summary>法老的宝藏 · 完整讲读</itunes:summary>
+      <itunes:summary>《法老的宝藏》讲述了一种被遗忘三千年的&quot;第一媒介&quot;——莎草纸如何从尼罗河三角洲的沼泽植物，演变为法老、罗马、基督教会和阿拉伯帝国赖以运转的文明骨架，又如何在与浆纸、皮纸、印刷机的千年缠斗中彻底退场。植物学家高德特用田野调查的笔法，重述了一条贯穿三千年的暗线：谁掌控纸张，谁就掌控知识传播，谁就掌控帝国命脉。这本书不仅是一次媒介考古，更是对&quot;何为文明底座&quot;的深度追问。</itunes:summary>
       <itunes:duration>00:30:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260621/episode-20260621-3f4bd9.mp3" length="28869933" type="audio/mpeg"/>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-3f4bd9.mp3" length="28869933" type="audio/mpeg"/>
     </item>
     <item>
       <title>何谓文化 · 完整讲读</title>
