@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 29 Jun 2026 21:35:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 23:53:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8213,6 +8213,17 @@
       <itunes:duration>00:30:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-cc5acf.mp3" length="29127981" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《凯列班与女巫：妇女、身体与原始积累》 · 完整版 · 凯列班与女巫 · 完整讲读</title>
+      <description>《凯列班与女巫》揭示了一个被传统史学遮蔽的真相：十六、十七世纪欧洲针对女性的猎巫运动，与资本主义的原始积累是同一历史进程的两面。学者费代里奇从女权主义视角重读马克思，认为猎巫的目的不是宗教偏执，而是摧毁女性对身体、性、生育的控制权，把她们驱入无偿的家务劳动，使再生产劳动力成为资本积累的隐秘源泉。十万下层女性被处死，主外主内的家庭分工被以三百年屠杀强行确立。费代里奇同时打捞出被历史抹去的女性反抗，并指出当资本在全球南方新一轮扩张，猎巫的剧本正在重演。</description>
+      <pubDate>Mon, 29 Jun 2026 23:53:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260630-episode-20260630-0c62ff</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《凯列班与女巫》揭示了一个被传统史学遮蔽的真相：十六、十七世纪欧洲针对女性的猎巫运动，与资本主义的原始积累是同一历史进程的两面。学者费代里奇从女权主义视角重读马克思，认为猎巫的目的不是宗教偏执，而是摧毁女性对身体、性、生育的控制权，把她们驱入无偿的家务劳动，使再生产劳动力成为资本积累的隐秘源泉。十万下层女性被处死，主外主内的家庭分工被以三百年屠杀强行确立。费代里奇同时打捞出被历史抹去的女性反抗，并指出当资本在全球南方新一轮扩张，猎巫的剧本正在重演。</itunes:summary>
+      <itunes:duration>00:26:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-0c62ff.mp3" length="25812909" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
