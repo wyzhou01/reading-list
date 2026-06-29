@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 29 Jun 2026 07:39:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 07:41:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8037,6 +8037,17 @@
       <itunes:duration>00:28:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-93e567.mp3" length="27514413" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《与父亲的奥德赛》 · 完整版 · 与父亲的奥德赛 · 完整讲读</title>
+      <description>《与父亲的奥德赛》是一位美国古典学者与八十一岁的退休科学家父亲共同重读《荷马史诗》的回忆录。从父亲旁听大一新生课堂，到父子二人登上地中海游轮沿奥德修斯归乡航线航行，再到父亲摔倒、中风、离世，作者把古希腊史诗的解经、父子间的牵绊与告别、人到中年重新理解亲情的历程，编织成一部当代版的《奥德赛》。</description>
+      <pubDate>Mon, 29 Jun 2026 07:40:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260629-episode-20260629-e37a4e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《与父亲的奥德赛》是一位美国古典学者与八十一岁的退休科学家父亲共同重读《荷马史诗》的回忆录。从父亲旁听大一新生课堂，到父子二人登上地中海游轮沿奥德修斯归乡航线航行，再到父亲摔倒、中风、离世，作者把古希腊史诗的解经、父子间的牵绊与告别、人到中年重新理解亲情的历程，编织成一部当代版的《奥德赛》。</itunes:summary>
+      <itunes:duration>00:25:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-e37a4e.mp3" length="24666285" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
