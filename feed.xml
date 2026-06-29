@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 29 Jun 2026 16:46:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 16:52:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8158,6 +8158,17 @@
       <itunes:duration>00:30:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-6f9dc3.mp3" length="28914861" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《曾彦修访谈录》 · 完整版 · 曾彦修访谈录 · 完整讲读</title>
+      <description>《曾彦修访谈录》是四川客家知识分子曾彦修晚年口述、由李晋西历时半年采访整理而成的回忆录，全书三十一万字，从一九一九年出生于宜宾写起，一直写到二零零八年对和谐社会理念的由衷拥护。曾彦修亲历延安整风、抢救运动、山西与河北土改、反右、文革等二十世纪几乎所有最剧烈的政治漩涡，先后师从张闻天，主编南方日报，调任人民出版社，一手策划外国政治学术丛书。这本书既是一个读书人的心灵史，也是一份带有体温的二十世纪中国见证。</description>
+      <pubDate>Mon, 29 Jun 2026 16:51:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260630-episode-20260630-775666</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《曾彦修访谈录》是四川客家知识分子曾彦修晚年口述、由李晋西历时半年采访整理而成的回忆录，全书三十一万字，从一九一九年出生于宜宾写起，一直写到二零零八年对和谐社会理念的由衷拥护。曾彦修亲历延安整风、抢救运动、山西与河北土改、反右、文革等二十世纪几乎所有最剧烈的政治漩涡，先后师从张闻天，主编南方日报，调任人民出版社，一手策划外国政治学术丛书。这本书既是一个读书人的心灵史，也是一份带有体温的二十世纪中国见证。</itunes:summary>
+      <itunes:duration>00:26:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-775666.mp3" length="25861677" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
