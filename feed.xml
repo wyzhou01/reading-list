@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 29 Jun 2026 05:57:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 07:29:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8015,6 +8015,17 @@
       <itunes:duration>00:27:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-915f8b.mp3" length="26216109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《暮色将尽》 · 完整版 · 暮色将尽 · 完整讲读</title>
+      <description>《暮色将尽》是八十九岁的英国女编辑戴安娜·阿西尔写下的晚年回忆录。她一生未婚未育，做了五十年独立编辑，发掘过奈保尔、阿特伍德、波伏娃等名家；她终身践行独身主义，曾自嘲最合适的角色是第三者；她在七十一岁那年突然意识到自己老了，又在八十九岁那年看见一棵她知道等不到长大的树蕨，决心把自己正在凋零这件事写下来。她坦率地谈变老、谈性的消退、谈死亡的临近、谈独身的选择、谈她为何不要孩子，全书幽默、冷静，几乎不回避任何别人觉得不该提的事。这本书最动人的地方，不在于她活得多潇洒，而在于她在人生的暮色里，依然选择把自己最真实的感受放在第一位，并且不为此感到亏欠。她用整整一百零一年的人生告诉我们：自我感受可以是一块地基，衰老不必被遮掩，未知也不必被恐惧，一个女人完全可以按自己的尺度，活完一整个世纪。</description>
+      <pubDate>Mon, 29 Jun 2026 07:28:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260629-episode-20260629-b70320</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《暮色将尽》是八十九岁的英国女编辑戴安娜·阿西尔写下的晚年回忆录。她一生未婚未育，做了五十年独立编辑，发掘过奈保尔、阿特伍德、波伏娃等名家；她终身践行独身主义，曾自嘲最合适的角色是第三者；她在七十一岁那年突然意识到自己老了，又在八十九岁那年看见一棵她知道等不到长大的树蕨，决心把自己正在凋零这件事写下来。她坦率地谈变老、谈性的消退、谈死亡的临近、谈独身的选择、谈她为何不要孩子，全书幽默、冷静，几乎不回避任何别人觉得不该提的事。这本书最动人的地方，不在于她活得多潇洒，而在于她在人生的暮色里，依然选择把自己最真实的感受放在第一位，并且不为此感到亏欠。她用整整一百零一年的人生告诉我们：自我感受可以是一块地基，衰老不必被遮掩，未知也不必被恐惧，一个女人完全可以按自己的尺度，活完一整个世纪。</itunes:summary>
+      <itunes:duration>00:41:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-b70320.mp3" length="40229037" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
