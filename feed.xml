@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 29 Jun 2026 13:13:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 16:25:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8114,6 +8114,17 @@
       <itunes:duration>00:24:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-898838.mp3" length="23254701" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《把自己作为方法：与项飙谈话》 · 完整版 · 把自己作为方法 · 完整讲读</title>
+      <description>《把自己作为方法》是人类学家项飙与编辑吴琦三次长谈的实录。项飙从温州童年讲起，追溯至北京“浙江村”田野、牛津学术生涯，反思了这一代年轻人的“悬浮”与“丧”，重新讨论了知识分子的批判责任，并从“乡绅”和“盘根”这两个被遗弃的概念出发，勾勒出一种扎根具体、对话世界的个人生存方式。全书的核心主张是：个人经验问题化，把自我作为一种认识世界的方法，去理解这个流动的中国和时代。</description>
+      <pubDate>Mon, 29 Jun 2026 16:24:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260630-episode-20260630-4ac8a8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《把自己作为方法》是人类学家项飙与编辑吴琦三次长谈的实录。项飙从温州童年讲起，追溯至北京“浙江村”田野、牛津学术生涯，反思了这一代年轻人的“悬浮”与“丧”，重新讨论了知识分子的批判责任，并从“乡绅”和“盘根”这两个被遗弃的概念出发，勾勒出一种扎根具体、对话世界的个人生存方式。全书的核心主张是：个人经验问题化，把自我作为一种认识世界的方法，去理解这个流动的中国和时代。</itunes:summary>
+      <itunes:duration>00:30:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-4ac8a8.mp3" length="28972077" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
