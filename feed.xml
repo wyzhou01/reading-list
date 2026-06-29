@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 29 Jun 2026 01:20:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 01:25:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7949,6 +7949,17 @@
       <itunes:duration>00:26:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-bdc327.mp3" length="25743405" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《货币战争》 · 完整版 · 货币战争 · 完整讲读</title>
+      <description>《货币战争》以全球视野和历史纵深，揭示了货币的本质演变：金银货币、债务货币、未来税收的收据。一九七一年美元脱钩黄金后，主权信用货币登上历史舞台，债务扩张与利息成本的基因性缺陷，使通胀和金融危机成为必然。作者宋鸿兵在二零零六年预言的次贷危机、两房倒闭、印钞机重启、黄金暴涨，五大推论全部命中。本书全景式回放了从罗斯柴尔德家族崛起到滑铁卢金融战、从美联储诞生到美元霸权兴衰、从欧元困境到亚元构想的大国博弈，提出中国应摆脱美元依赖、推动人民币国际化、走向亚元的战略路径。读这本书，看懂货币，就看懂了未来大国兴衰的底层密码。</description>
+      <pubDate>Mon, 29 Jun 2026 01:25:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260629-episode-20260629-4b48f4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《货币战争》以全球视野和历史纵深，揭示了货币的本质演变：金银货币、债务货币、未来税收的收据。一九七一年美元脱钩黄金后，主权信用货币登上历史舞台，债务扩张与利息成本的基因性缺陷，使通胀和金融危机成为必然。作者宋鸿兵在二零零六年预言的次贷危机、两房倒闭、印钞机重启、黄金暴涨，五大推论全部命中。本书全景式回放了从罗斯柴尔德家族崛起到滑铁卢金融战、从美联储诞生到美元霸权兴衰、从欧元困境到亚元构想的大国博弈，提出中国应摆脱美元依赖、推动人民币国际化、走向亚元的战略路径。读这本书，看懂货币，就看懂了未来大国兴衰的底层密码。</itunes:summary>
+      <itunes:duration>00:37:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-4b48f4.mp3" length="36008877" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
