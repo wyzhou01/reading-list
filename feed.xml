@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 29 Jun 2026 16:52:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 21:21:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8169,6 +8169,17 @@
       <itunes:duration>00:26:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-775666.mp3" length="25861677" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《在小山和小山之间》 · 完整版 · 在小山和小山之间 · 完整讲读</title>
+      <description>《在小山和小山之间》是李停写给所有中国女儿的一封长信。一个嫁到日本的中国女人彩英，怀孕五个月时，独生女母亲从国内飞来，三十平米的公寓里，两种文化、两种母女关系正面相撞。一个学会了日式的边界，一个带着中国式的不肯先低头。女儿失去了孩子，却在创伤里第一次看见妈妈一生不快乐的根源。这本书不写母女和解，只写代际的看见。它告诉你：妈妈不是不想爱你，她是不会——她被时代教会的全部表达方式，就是「你吃太少了」。</description>
+      <pubDate>Mon, 29 Jun 2026 21:21:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260630-episode-20260630-47b2d4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《在小山和小山之间》是李停写给所有中国女儿的一封长信。一个嫁到日本的中国女人彩英，怀孕五个月时，独生女母亲从国内飞来，三十平米的公寓里，两种文化、两种母女关系正面相撞。一个学会了日式的边界，一个带着中国式的不肯先低头。女儿失去了孩子，却在创伤里第一次看见妈妈一生不快乐的根源。这本书不写母女和解，只写代际的看见。它告诉你：妈妈不是不想爱你，她是不会——她被时代教会的全部表达方式，就是「你吃太少了」。</itunes:summary>
+      <itunes:duration>00:33:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-47b2d4.mp3" length="31906221" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
