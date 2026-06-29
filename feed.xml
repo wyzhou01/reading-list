@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 29 Jun 2026 08:59:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 09:37:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8092,6 +8092,17 @@
       <itunes:duration>00:39:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-47342b.mp3" length="37798701" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《奇迹之书》 · 完整版 · 奇迹之书 · 完整讲读</title>
+      <description>《奇迹之书》是杰夫·范德米尔写给幻想文学写作者的一份创作地图。本期节目从范德米尔的双重文化背景讲起，依次拆解他书中七块核心拼图：灵感如何从裂缝里长出来，幻想与现实如何共用同一张叙事地图，开篇与结局如何成为与读者最重的两场对话，叙事设计如何构建有节奏的建筑，人物如何成为世界在写作者身上的投影，世界设定如何作为叙事器官而非布景，以及修改作为写作真正发生的地方。节目同时指出解读中的两个偏见，并给出两个今天就能用的行动：五分钟的无审判创意游戏，以及为你的下一本书写一句契约。</description>
+      <pubDate>Mon, 29 Jun 2026 09:37:46 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260629-episode-20260629-24aa73</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《奇迹之书》是杰夫·范德米尔写给幻想文学写作者的一份创作地图。本期节目从范德米尔的双重文化背景讲起，依次拆解他书中七块核心拼图：灵感如何从裂缝里长出来，幻想与现实如何共用同一张叙事地图，开篇与结局如何成为与读者最重的两场对话，叙事设计如何构建有节奏的建筑，人物如何成为世界在写作者身上的投影，世界设定如何作为叙事器官而非布景，以及修改作为写作真正发生的地方。节目同时指出解读中的两个偏见，并给出两个今天就能用的行动：五分钟的无审判创意游戏，以及为你的下一本书写一句契约。</itunes:summary>
+      <itunes:duration>00:34:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-24aa73.mp3" length="32966829" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
