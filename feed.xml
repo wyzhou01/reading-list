@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 29 Jun 2026 16:39:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 16:46:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8147,6 +8147,17 @@
       <itunes:duration>00:24:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-fd1949.mp3" length="23844909" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《未经删节》 · 完整版 · 未经删节 · 完整讲读</title>
+      <description>《未经删节》是英国传奇文学编辑戴安娜·阿西尔九十一岁写下的编辑生涯回忆录。阿西尔在五十年的时间里发掘了奈保尔、莫迪凯·里奇勒、简·里斯、莫莉·基恩等一批二十世纪重要作家，并为独立出版社安德烈·多伊奇出版社奠定了行业地位。本书分两部分：第一部分揭开出版业的真实日常，从泥沼中举枪的士兵谈到资本接管之后行业的变形；第二部分是阿西尔为六位作家写下的人物小传，堪称六篇杰作。阿西尔用一生的实践证明了编辑是助产士，是阁楼里不知名的人，是在百分之三十的智慧那边默默工作的人。</description>
+      <pubDate>Mon, 29 Jun 2026 16:45:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260630-episode-20260630-6f9dc3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《未经删节》是英国传奇文学编辑戴安娜·阿西尔九十一岁写下的编辑生涯回忆录。阿西尔在五十年的时间里发掘了奈保尔、莫迪凯·里奇勒、简·里斯、莫莉·基恩等一批二十世纪重要作家，并为独立出版社安德烈·多伊奇出版社奠定了行业地位。本书分两部分：第一部分揭开出版业的真实日常，从泥沼中举枪的士兵谈到资本接管之后行业的变形；第二部分是阿西尔为六位作家写下的人物小传，堪称六篇杰作。阿西尔用一生的实践证明了编辑是助产士，是阁楼里不知名的人，是在百分之三十的智慧那边默默工作的人。</itunes:summary>
+      <itunes:duration>00:30:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-6f9dc3.mp3" length="28914861" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
