@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 28 Jun 2026 21:40:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 01:16:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7927,6 +7927,17 @@
       <itunes:duration>00:27:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-21c0b7.mp3" length="26680365" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中华帝国晚期的性、法律与社会》 · 完整版 · 中华帝国晚期的性、法律与社会 · 完整讲读</title>
+      <description>《中华帝国晚期的性、法律与社会》是斯坦福大学历史学家苏成捷的代表作。本书以清代司法档案为核心史料，系统揭示了十八世纪以来清代法律如何从&quot;身份等级&quot;转型为&quot;社会性别&quot;管控——原来只约束贱民与良人之间的性规范，扩张到所有平民;寡妇守贞、良家妇女被卖入娼门、男性之间的鸡奸行为,统统被纳入刑律。作者通过强奸、鸡奸、寡妇守贞、卖娼入罪四条线索,展示国家如何借由&quot;性&quot;这一议题,深度介入每一个家庭、每一段婚姻、每一个人的身体。这本书是第一部系统利用清代地方司法档案研究&quot;性&quot;与法律的专著,提出了&quot;从身份到社会性别&quot;这一影响深远的核心框架,被誉为该领域的奠基之作。</description>
+      <pubDate>Mon, 29 Jun 2026 01:16:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260629-episode-20260629-e3509f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《中华帝国晚期的性、法律与社会》是斯坦福大学历史学家苏成捷的代表作。本书以清代司法档案为核心史料，系统揭示了十八世纪以来清代法律如何从&quot;身份等级&quot;转型为&quot;社会性别&quot;管控——原来只约束贱民与良人之间的性规范，扩张到所有平民;寡妇守贞、良家妇女被卖入娼门、男性之间的鸡奸行为,统统被纳入刑律。作者通过强奸、鸡奸、寡妇守贞、卖娼入罪四条线索,展示国家如何借由&quot;性&quot;这一议题,深度介入每一个家庭、每一段婚姻、每一个人的身体。这本书是第一部系统利用清代地方司法档案研究&quot;性&quot;与法律的专著,提出了&quot;从身份到社会性别&quot;这一影响深远的核心框架,被誉为该领域的奠基之作。</itunes:summary>
+      <itunes:duration>00:35:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-e3509f.mp3" length="33771309" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
