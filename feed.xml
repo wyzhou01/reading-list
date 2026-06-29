@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 29 Jun 2026 16:33:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 16:39:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8136,6 +8136,17 @@
       <itunes:duration>00:28:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-a7de37.mp3" length="27132717" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《英儿》 · 完整版 · 英儿 · 完整讲读</title>
+      <description>《英儿》是诗人顾城口述、妻子谢烨执笔的长篇情爱忏悔录,记录了一九九三年十月八日激流岛悲剧发生前,顾城、谢烨、英儿三人共同生活的全过程。文字如童话般纯净,却逼近人性最幽暗的深处。它不仅是一个诗人毁灭的现场,也是一面照见爱、欲望、占有与理想国幻灭的镜子。读懂《英儿》,是为了在别人的废墟上,学会如何好好地、完整地、像一个人那样地,活下去。</description>
+      <pubDate>Mon, 29 Jun 2026 16:38:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260630-episode-20260630-fd1949</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《英儿》是诗人顾城口述、妻子谢烨执笔的长篇情爱忏悔录,记录了一九九三年十月八日激流岛悲剧发生前,顾城、谢烨、英儿三人共同生活的全过程。文字如童话般纯净,却逼近人性最幽暗的深处。它不仅是一个诗人毁灭的现场,也是一面照见爱、欲望、占有与理想国幻灭的镜子。读懂《英儿》,是为了在别人的废墟上,学会如何好好地、完整地、像一个人那样地,活下去。</itunes:summary>
+      <itunes:duration>00:24:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-fd1949.mp3" length="23844909" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
