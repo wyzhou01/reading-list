@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 29 Jun 2026 01:36:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 03:11:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -7982,6 +7982,17 @@
       <itunes:duration>00:25:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-218b04.mp3" length="24908589" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我们星球上的生命》 · 完整版 · 我们星球上的生命 · 完整讲读</title>
+      <description>大卫·爱登堡的《我们星球上的生命》是一位九十四岁自然纪录片人的“目击证词“。他用一九三七年至今的全球数据：人口从二十三亿增至近八十亿、大气含碳量从二百八十 ppm 升到四百一十五 ppm、未受人类干扰的荒野从百分之六十六跌破百分之六十——勾勒出生物多样性危机的时间线与系统性崩塌逻辑，并提出“重新野化世界“的解决方案：在保护现有荒野的同时大规模恢复退化土地，并让农业从生物多样性的敌人转变为它的合作者。这本书把气候议题下被忽略的底层支柱——生命之网——推到台前，也把行动权交还给每一个仍在消费与投票的当代人。</description>
+      <pubDate>Mon, 29 Jun 2026 03:10:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260629-episode-20260629-8bafaa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>大卫·爱登堡的《我们星球上的生命》是一位九十四岁自然纪录片人的“目击证词“。他用一九三七年至今的全球数据：人口从二十三亿增至近八十亿、大气含碳量从二百八十 ppm 升到四百一十五 ppm、未受人类干扰的荒野从百分之六十六跌破百分之六十——勾勒出生物多样性危机的时间线与系统性崩塌逻辑，并提出“重新野化世界“的解决方案：在保护现有荒野的同时大规模恢复退化土地，并让农业从生物多样性的敌人转变为它的合作者。这本书把气候议题下被忽略的底层支柱——生命之网——推到台前，也把行动权交还给每一个仍在消费与投票的当代人。</itunes:summary>
+      <itunes:duration>00:39:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260629/episode-20260629-8bafaa.mp3" length="37456557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
