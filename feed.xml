@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 30 Jun 2026 21:19:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 21:25:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8509,6 +8509,17 @@
       <itunes:duration>00:30:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260701/episode-20260701-0a693c.mp3" length="29131437" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《莱姆作品集》 · 完整版 · 莱姆作品集 · 完整讲读</title>
+      <description>《莱姆作品集》收录波兰科幻泰斗斯坦尼斯瓦夫·莱姆的六部代表作，包括《索拉里斯星》《其主之声》《无敌号》《伊甸》等。这位二战中曾隐姓埋名的作家，用手术刀般的笔触解剖人类认知的边界、人与造物的伦理、地外文明接触的沟通困境，以及科学主义的傲慢。在算法接管判断、生成式 AI 重塑信息生态的今天，莱姆六十年前提出的问题显得前所未有地紧迫：人类真的能理解他人吗？能定义自己的造物吗？能听懂宇宙的语言吗？这套书不提供廉价答案，只逼迫读者正视问题的存在。</description>
+      <pubDate>Tue, 30 Jun 2026 21:25:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260701-episode-20260701-2bf822</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《莱姆作品集》收录波兰科幻泰斗斯坦尼斯瓦夫·莱姆的六部代表作，包括《索拉里斯星》《其主之声》《无敌号》《伊甸》等。这位二战中曾隐姓埋名的作家，用手术刀般的笔触解剖人类认知的边界、人与造物的伦理、地外文明接触的沟通困境，以及科学主义的傲慢。在算法接管判断、生成式 AI 重塑信息生态的今天，莱姆六十年前提出的问题显得前所未有地紧迫：人类真的能理解他人吗？能定义自己的造物吗？能听懂宇宙的语言吗？这套书不提供廉价答案，只逼迫读者正视问题的存在。</itunes:summary>
+      <itunes:duration>00:25:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260701/episode-20260701-2bf822.mp3" length="24846381" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
