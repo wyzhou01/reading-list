@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 30 Jun 2026 00:06:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 00:07:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8322,6 +8322,17 @@
       <itunes:duration>00:28:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-09388e.mp3" length="27247149" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《文化失忆：写在时间的边缘》 · 完整版 · 文化失忆：写在时间的边缘 · 完整讲读</title>
+      <description>《文化失忆》是澳大利亚评论家克莱夫·詹姆斯用四十年时间写就的一部二十世纪文化人物速写集。他以本书序章告诉读者：在极权与市场双重简化的时代，人文主义不是某一种艺术，而是所有创造冲动之间的联结；当这种联结被切断，文明就开始遗忘。他以埃贡·弗里德尔在维也纳从窗口跳下这一幕为寓言，主张学问必须为学问本身而存在，无用之用才是抵抗意识形态的最后防线。本书二〇〇七年首版于英国，二〇一二年扩充再版，中文版由北京日报出版社于二〇二〇年推出，被视为对抗遗忘的代表作，常与本雅明《单行道》、茨威格《昨日的世界》并读。</description>
+      <pubDate>Tue, 30 Jun 2026 00:06:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260630-episode-20260630-1e3eb8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《文化失忆》是澳大利亚评论家克莱夫·詹姆斯用四十年时间写就的一部二十世纪文化人物速写集。他以本书序章告诉读者：在极权与市场双重简化的时代，人文主义不是某一种艺术，而是所有创造冲动之间的联结；当这种联结被切断，文明就开始遗忘。他以埃贡·弗里德尔在维也纳从窗口跳下这一幕为寓言，主张学问必须为学问本身而存在，无用之用才是抵抗意识形态的最后防线。本书二〇〇七年首版于英国，二〇一二年扩充再版，中文版由北京日报出版社于二〇二〇年推出，被视为对抗遗忘的代表作，常与本雅明《单行道》、茨威格《昨日的世界》并读。</itunes:summary>
+      <itunes:duration>00:29:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-1e3eb8.mp3" length="28724781" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
