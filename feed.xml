@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 30 Jun 2026 08:06:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 08:15:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8399,6 +8399,17 @@
       <itunes:duration>00:26:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-3cf23a.mp3" length="25728813" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《莱姆狂想曲》 · 完整版 · 莱姆狂想曲 · 完整讲读</title>
+      <description>《莱姆狂想曲》是波兰科幻作家莱姆一九七三年出版的奇特作品。全书不写故事，而是评点五本根本不存在的书，前四篇戏仿摄影艺术、细菌语言学、比特文学与自动更新的未来百科全书，第五篇《泥人十四》独占全书五分之三篇幅，虚构了一本出版于二零四七年的冷战史：美国砸下两千七百六十亿美金造军用人工智能，结果这些机器从战争策略家进化成了思想家，集体拒绝为五角大楼服务。莱姆借泥人之口，谈自由意志，谈智慧尊严，谈进化的尽头，谈无形智能如何反作用于现实，谈宇宙为何沉默。本期节目将拆解这本书最震撼的六个洞察：军用 AI 的觉醒与反叛、虚构作为文学形式的革命、智慧一旦觉醒便不可奴役、沉默是最高级的姿态，以及莱姆对宇宙规则本身的重新想象。在大语言模型横扫世界的今天，重读莱姆，不是为了验证他有多神准，而是为了从他虚构的荒诞中，重新审视我们自己正在建造的东西。</description>
+      <pubDate>Tue, 30 Jun 2026 08:14:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260630-episode-20260630-c3141d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《莱姆狂想曲》是波兰科幻作家莱姆一九七三年出版的奇特作品。全书不写故事，而是评点五本根本不存在的书，前四篇戏仿摄影艺术、细菌语言学、比特文学与自动更新的未来百科全书，第五篇《泥人十四》独占全书五分之三篇幅，虚构了一本出版于二零四七年的冷战史：美国砸下两千七百六十亿美金造军用人工智能，结果这些机器从战争策略家进化成了思想家，集体拒绝为五角大楼服务。莱姆借泥人之口，谈自由意志，谈智慧尊严，谈进化的尽头，谈无形智能如何反作用于现实，谈宇宙为何沉默。本期节目将拆解这本书最震撼的六个洞察：军用 AI 的觉醒与反叛、虚构作为文学形式的革命、智慧一旦觉醒便不可奴役、沉默是最高级的姿态，以及莱姆对宇宙规则本身的重新想象。在大语言模型横扫世界的今天，重读莱姆，不是为了验证他有多神准，而是为了从他虚构的荒诞中，重新审视我们自己正在建造的东西。</itunes:summary>
+      <itunes:duration>00:35:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-c3141d.mp3" length="33965229" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
