@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 30 Jun 2026 07:42:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 07:49:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8366,6 +8366,17 @@
       <itunes:duration>00:24:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-646c9d.mp3" length="23628333" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《索拉里斯星》 · 完整版 · 索拉里斯星 · 完整讲读</title>
+      <description>《索拉里斯星》是波兰作家斯坦尼斯瓦夫·莱姆创作于一九六一年的科幻经典。心理学家凯尔文飞抵一颗被有意识海洋完全覆盖的遥远行星，发现海洋能够读取人类最深的创伤，将逝者重新物质化——他十年前死去的恋人哈丽被“复活”了。小说借这场不可能的相遇，拷问认知的边界、记忆与爱能否被复制、科学的傲慢以及人类在彻底不可理解的他者面前的位置。今天，当人工智能、克隆与脑机接口一再冲击“人何以为人”，莱姆六十年前写下的提问，反而显得前所未有的迫切。</description>
+      <pubDate>Tue, 30 Jun 2026 07:48:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260630-episode-20260630-298979</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《索拉里斯星》是波兰作家斯坦尼斯瓦夫·莱姆创作于一九六一年的科幻经典。心理学家凯尔文飞抵一颗被有意识海洋完全覆盖的遥远行星，发现海洋能够读取人类最深的创伤，将逝者重新物质化——他十年前死去的恋人哈丽被“复活”了。小说借这场不可能的相遇，拷问认知的边界、记忆与爱能否被复制、科学的傲慢以及人类在彻底不可理解的他者面前的位置。今天，当人工智能、克隆与脑机接口一再冲击“人何以为人”，莱姆六十年前写下的提问，反而显得前所未有的迫切。</itunes:summary>
+      <itunes:duration>00:24:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-298979.mp3" length="23155629" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
