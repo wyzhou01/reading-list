@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 30 Jun 2026 00:03:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 00:06:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8311,6 +8311,17 @@
       <itunes:duration>00:28:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-ebfecb.mp3" length="27793197" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《公主之死》 · 完整版 · 公主之死 · 完整讲读</title>
+      <description>《公主之死》是台湾大学历史系教授李贞德的经典之作，以北魏兰陵长公主遭驸马殴打致死的历史案件为切入点，揭示父系伦理如何被法制化、如何系统性地碾压女性。本书透过通奸、婚姻暴力、夫家认同、女主政治四个维度，剖析传统中国法律中的性别盲点；并对照一九八五与一九九六年的台湾民法亲属编修法历程，完成一场跨越一千五百年的古今对话。这不是一本冷僻的断代史专著，而是一本以法律史为经、以性别研究为纬、贯通汉唐的小书——每一个关心婚姻平权、关心性别正义的现代人，都该读一读。</description>
+      <pubDate>Tue, 30 Jun 2026 00:06:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260630-episode-20260630-09388e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《公主之死》是台湾大学历史系教授李贞德的经典之作，以北魏兰陵长公主遭驸马殴打致死的历史案件为切入点，揭示父系伦理如何被法制化、如何系统性地碾压女性。本书透过通奸、婚姻暴力、夫家认同、女主政治四个维度，剖析传统中国法律中的性别盲点；并对照一九八五与一九九六年的台湾民法亲属编修法历程，完成一场跨越一千五百年的古今对话。这不是一本冷僻的断代史专著，而是一本以法律史为经、以性别研究为纬、贯通汉唐的小书——每一个关心婚姻平权、关心性别正义的现代人，都该读一读。</itunes:summary>
+      <itunes:duration>00:28:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-09388e.mp3" length="27247149" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
