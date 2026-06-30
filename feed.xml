@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 30 Jun 2026 08:45:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 16:23:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8454,6 +8454,17 @@
       <itunes:duration>00:20:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-eca40b.mp3" length="20066349" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《即使以最微弱的光》 · 完整版 · 即使以最微弱的光 · 完整讲读</title>
+      <description>《即使以最微弱的光》是韩国作家崔恩荣的第二部小说集，以七篇相互呼应的短篇追问阅读与写作在当代生活中的位置。同名篇讲述女大学生熙媛与英语讲师在课堂上建立精神联结的故事，二零零九年龙山惨案成为她们彼此照亮的暗影。全书贴着首尔的具体地名生长，把城市开发挤压下的临时工、被轻视的课堂随笔、女性在男性同事面前的隐忍，揉进毛细血管级别的日常经验里。崔恩荣的笔触冷静而不煽情，她写的不是弱者的哀歌，而是恢复的故事——是每个匮乏之人如何用微弱的墨水继续书写世界。</description>
+      <pubDate>Tue, 30 Jun 2026 16:21:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260701-episode-20260701-d78aa2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《即使以最微弱的光》是韩国作家崔恩荣的第二部小说集，以七篇相互呼应的短篇追问阅读与写作在当代生活中的位置。同名篇讲述女大学生熙媛与英语讲师在课堂上建立精神联结的故事，二零零九年龙山惨案成为她们彼此照亮的暗影。全书贴着首尔的具体地名生长，把城市开发挤压下的临时工、被轻视的课堂随笔、女性在男性同事面前的隐忍，揉进毛细血管级别的日常经验里。崔恩荣的笔触冷静而不煽情，她写的不是弱者的哀歌，而是恢复的故事——是每个匮乏之人如何用微弱的墨水继续书写世界。</itunes:summary>
+      <itunes:duration>00:19:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260701/episode-20260701-d78aa2.mp3" length="18773037" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
