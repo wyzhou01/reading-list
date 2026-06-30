@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 30 Jun 2026 00:07:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 00:08:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8333,6 +8333,17 @@
       <itunes:duration>00:29:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-1e3eb8.mp3" length="28724781" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一百年，许多人，许多事：杨苡口述自传》 · 完整版 · 一百年，许多人，许多事 · 完整讲读</title>
+      <description>《一百年，许多人，许多事》是翻译家杨苡在九十一岁到一百零二岁间口述、由学者余斌记录整理的十一年的自传。她是新中国第一个《呼啸山庄》简体中文译本的译者，哥哥是著名翻译家杨宪益，姐姐杨敏如是北师大古典文学教授。这本书不讲传奇，只讲一个普通知识女性怎么在二十世纪中国的战乱与运动里，守住自己的书桌、信件、友情与亲情，怎么把一辈子的日子，一句一句讲出来。读它，是读一整代中国女人的心灵史，也是替那些没有被记下来的普通人，留一个最后的影子。</description>
+      <pubDate>Tue, 30 Jun 2026 00:08:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260630-episode-20260630-46fdf6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一百年，许多人，许多事》是翻译家杨苡在九十一岁到一百零二岁间口述、由学者余斌记录整理的十一年的自传。她是新中国第一个《呼啸山庄》简体中文译本的译者，哥哥是著名翻译家杨宪益，姐姐杨敏如是北师大古典文学教授。这本书不讲传奇，只讲一个普通知识女性怎么在二十世纪中国的战乱与运动里，守住自己的书桌、信件、友情与亲情，怎么把一辈子的日子，一句一句讲出来。读它，是读一整代中国女人的心灵史，也是替那些没有被记下来的普通人，留一个最后的影子。</itunes:summary>
+      <itunes:duration>00:33:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-46fdf6.mp3" length="31981869" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
