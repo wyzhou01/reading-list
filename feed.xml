@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 30 Jun 2026 21:25:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 21:28:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8520,6 +8520,17 @@
       <itunes:duration>00:25:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260701/episode-20260701-2bf822.mp3" length="24846381" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《重来3：跳出疯狂的忙碌》 · 完整版 · 重来3：跳出疯狂的忙碌 · 完整讲读</title>
+      <description>《重来三：跳出疯狂的忙碌》是 Basecamp 创始人贾森·弗里德和戴维·海涅迈尔·汉森写的一本反潮流之作。他们用自己二十年不融资、不加班、不攀比规模的实践告诉你：一家冷静的公司，是主动选择的结果。书中系统阐述了六个核心主张——公司本身是产品要不断迭代；冷静要主动放弃；小而持久是终极目标；时间和注意力是最稀缺资源；平静来自制度而非个人修养；长期主义就是不追逐风口。本书拒绝以忙碌为荣的职场文化，主张保护员工的时间和注意力，每周工作四十小时，拒绝即时回复和群聊，在顺境中主动收窄业务。它适合所有受够了无止境加班和虚假奋斗叙事的人。</description>
+      <pubDate>Tue, 30 Jun 2026 21:28:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260701-episode-20260701-bd7767</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《重来三：跳出疯狂的忙碌》是 Basecamp 创始人贾森·弗里德和戴维·海涅迈尔·汉森写的一本反潮流之作。他们用自己二十年不融资、不加班、不攀比规模的实践告诉你：一家冷静的公司，是主动选择的结果。书中系统阐述了六个核心主张——公司本身是产品要不断迭代；冷静要主动放弃；小而持久是终极目标；时间和注意力是最稀缺资源；平静来自制度而非个人修养；长期主义就是不追逐风口。本书拒绝以忙碌为荣的职场文化，主张保护员工的时间和注意力，每周工作四十小时，拒绝即时回复和群聊，在顺境中主动收窄业务。它适合所有受够了无止境加班和虚假奋斗叙事的人。</itunes:summary>
+      <itunes:duration>00:30:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260701/episode-20260701-bd7767.mp3" length="29106477" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
