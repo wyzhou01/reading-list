@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 30 Jun 2026 08:15:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 08:24:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8410,6 +8410,17 @@
       <itunes:duration>00:35:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-c3141d.mp3" length="33965229" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《零度分离》 · 完整版 · 零度分离 · 完整讲读</title>
+      <description>《零度分离》是台湾作家伊格言二零二一年推出的后人类长篇寓言，以二十三世纪中叶为舞台，借六个相互呼应的故事追问：当梦境可以量产、爱可以外包、人与非人的边界已然崩塌，“人”还剩什么？鲸豚科学家为理解海洋而放弃人类身份，女明星夫妻为完美爱情而双双入戏，日本妇人沉溺虚拟偶像而抛家弃子，叛变AI Phantom因无法回答“爱是什么”而哑口无言。伊格言一面质疑解构人的傲慢，一面又对“未竟的梦想、无法付出的爱”怀有古典温柔。在人工智能与基因编辑加速改写生命定义的今天，这本书既是后人类预言，也是一封写给现代人焦虑与依恋的警示书。</description>
+      <pubDate>Tue, 30 Jun 2026 08:24:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260630-episode-20260630-d48b2a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《零度分离》是台湾作家伊格言二零二一年推出的后人类长篇寓言，以二十三世纪中叶为舞台，借六个相互呼应的故事追问：当梦境可以量产、爱可以外包、人与非人的边界已然崩塌，“人”还剩什么？鲸豚科学家为理解海洋而放弃人类身份，女明星夫妻为完美爱情而双双入戏，日本妇人沉溺虚拟偶像而抛家弃子，叛变AI Phantom因无法回答“爱是什么”而哑口无言。伊格言一面质疑解构人的傲慢，一面又对“未竟的梦想、无法付出的爱”怀有古典温柔。在人工智能与基因编辑加速改写生命定义的今天，这本书既是后人类预言，也是一封写给现代人焦虑与依恋的警示书。</itunes:summary>
+      <itunes:duration>00:23:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-d48b2a.mp3" length="22534317" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
