@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 30 Jun 2026 16:23:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 16:32:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8465,6 +8465,17 @@
       <itunes:duration>00:19:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260701/episode-20260701-d78aa2.mp3" length="18773037" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《黑毡上的北魏皇帝》 · 完整版 · 黑毡上的北魏皇帝 · 完整讲读</title>
+      <description>本书是北大历史学者罗新写的一本小册子,围绕北魏孝武帝元脩在洛阳东郭黑毡上即位的&quot;代都旧制&quot;展开。罗新从二十四字的史源残句出发,把这场黑毡仪式与突厥、契丹、蒙古的内亚传统联系起来,呈现了一条被正史抹去千年的草原即位仪轨线。书中还讨论拓跋西郊祭天、柴册仪、耶律阿保机之死等议题,示范了一种以内亚视角重写北朝史的方法。它提醒我们:中国历史从来不是单线的华夏演进,而是多传统碰撞交织的结果；而每一次文化转型,都曾付出沉默的代价。</description>
+      <pubDate>Tue, 30 Jun 2026 16:31:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260701-episode-20260701-37b95d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是北大历史学者罗新写的一本小册子,围绕北魏孝武帝元脩在洛阳东郭黑毡上即位的&quot;代都旧制&quot;展开。罗新从二十四字的史源残句出发,把这场黑毡仪式与突厥、契丹、蒙古的内亚传统联系起来,呈现了一条被正史抹去千年的草原即位仪轨线。书中还讨论拓跋西郊祭天、柴册仪、耶律阿保机之死等议题,示范了一种以内亚视角重写北朝史的方法。它提醒我们:中国历史从来不是单线的华夏演进,而是多传统碰撞交织的结果；而每一次文化转型,都曾付出沉默的代价。</itunes:summary>
+      <itunes:duration>00:31:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260701/episode-20260701-37b95d.mp3" length="30010797" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
