@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 30 Jun 2026 21:28:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 21:32:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8531,6 +8531,17 @@
       <itunes:duration>00:30:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260701/episode-20260701-bd7767.mp3" length="29106477" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《过渡劳动：平台经济下的外卖骑手》 · 完整版 · 过渡劳动 · 完整讲读</title>
+      <description>《过渡劳动：平台经济下的外卖骑手》是人类学者孙萍基于七年田野调查、跨越十九城、访谈两百名骑手的民族志著作。书中提出“过渡劳动”核心概念，揭示外卖骑手悬浮于正式与非正式劳动之间的生存状态，分析算法如何从控制劳动者转向精细化控制劳动过程，呈现平台资本、城乡流动、性别与身体等多重结构性议题在一次次送单中的折射，是理解中国数字经济与新型不平等的一部重要作品。</description>
+      <pubDate>Tue, 30 Jun 2026 21:32:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260701-episode-20260701-fbd3cf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《过渡劳动：平台经济下的外卖骑手》是人类学者孙萍基于七年田野调查、跨越十九城、访谈两百名骑手的民族志著作。书中提出“过渡劳动”核心概念，揭示外卖骑手悬浮于正式与非正式劳动之间的生存状态，分析算法如何从控制劳动者转向精细化控制劳动过程，呈现平台资本、城乡流动、性别与身体等多重结构性议题在一次次送单中的折射，是理解中国数字经济与新型不平等的一部重要作品。</itunes:summary>
+      <itunes:duration>00:23:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260701/episode-20260701-fbd3cf.mp3" length="22130349" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
