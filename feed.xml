@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 30 Jun 2026 07:49:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 07:58:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8377,6 +8377,17 @@
       <itunes:duration>00:24:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-298979.mp3" length="23155629" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《法律的悖论》 · 完整版 · 法律的悖论 · 完整讲读</title>
+      <description>《法律的悖论》是罗翔面向普通读者的又一部法律随笔集。他不从条文出发，而是从悖论这一哲学视角重新打量刑法：在法律与道德、形式与实质、安定与灵活之间，看似矛盾的结论却各有各的道理。两个被家暴女性因重婚被判刑的案件，敲诈勒索罪在维权场景中的滥用，刑法既要惩罚又要保护犯罪人的吊诡，再到法律安定性与灵活性的永恒张力，罗翔一层一层地拆解法律人自己也会挠头的难题。全书的核心主张浓缩为两句话：入罪讲法律，法不容情；出罪讲道德，法中有情。罗翔用刑法的冷峻、哲学的思辨、文学的温润，提醒我们承认理性的有限，承认每个人都是洞穴里摸象的盲人，从而学会谦卑、学会倾听对立观点、学会不用最好去拒绝较好。这不是一本教你打官司的书，而是一本训练思维方式的书。</description>
+      <pubDate>Tue, 30 Jun 2026 07:58:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260630-episode-20260630-ed70be</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《法律的悖论》是罗翔面向普通读者的又一部法律随笔集。他不从条文出发，而是从悖论这一哲学视角重新打量刑法：在法律与道德、形式与实质、安定与灵活之间，看似矛盾的结论却各有各的道理。两个被家暴女性因重婚被判刑的案件，敲诈勒索罪在维权场景中的滥用，刑法既要惩罚又要保护犯罪人的吊诡，再到法律安定性与灵活性的永恒张力，罗翔一层一层地拆解法律人自己也会挠头的难题。全书的核心主张浓缩为两句话：入罪讲法律，法不容情；出罪讲道德，法中有情。罗翔用刑法的冷峻、哲学的思辨、文学的温润，提醒我们承认理性的有限，承认每个人都是洞穴里摸象的盲人，从而学会谦卑、学会倾听对立观点、学会不用最好去拒绝较好。这不是一本教你打官司的书，而是一本训练思维方式的书。</itunes:summary>
+      <itunes:duration>00:39:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-ed70be.mp3" length="37807533" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
