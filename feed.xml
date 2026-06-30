@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 29 Jun 2026 23:59:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 23:59:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8246,6 +8246,17 @@
       <itunes:duration>00:28:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-3f815e.mp3" length="27690285" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《埃隆·马斯克传》 · 完整版 · 埃隆·马斯克传 · 完整讲读</title>
+      <description>这本《埃隆·马斯克传》由美国传记作家沃尔特·艾萨克森历时两年贴身跟访完成，透过童年创伤、第一性原理思维、使命感与黑暗面的缠绕、控制欲、对戏剧性的依赖、以及逃避还是信仰的使命这六块拼图，呈现了一个被南非的霸凌与父亲的精神折磨反复锻造、又被自己的不一样反复燃烧的极致复杂人物。本书想回答的不是他做成了什么，而是他为什么会成为这个样子：他童年的痛如何变成面对火箭爆炸的镇定，他外祖父飞行的浪漫如何变成 SpaceX 的勇气，他对失控的恐惧又如何驱使他买下全球最大的公共广场，最终让你看到，所有改变世界的孤勇，几乎都有不可爱的人格代价。</description>
+      <pubDate>Mon, 29 Jun 2026 23:59:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260630-episode-20260630-8f729a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>这本《埃隆·马斯克传》由美国传记作家沃尔特·艾萨克森历时两年贴身跟访完成，透过童年创伤、第一性原理思维、使命感与黑暗面的缠绕、控制欲、对戏剧性的依赖、以及逃避还是信仰的使命这六块拼图，呈现了一个被南非的霸凌与父亲的精神折磨反复锻造、又被自己的不一样反复燃烧的极致复杂人物。本书想回答的不是他做成了什么，而是他为什么会成为这个样子：他童年的痛如何变成面对火箭爆炸的镇定，他外祖父飞行的浪漫如何变成 SpaceX 的勇气，他对失控的恐惧又如何驱使他买下全球最大的公共广场，最终让你看到，所有改变世界的孤勇，几乎都有不可爱的人格代价。</itunes:summary>
+      <itunes:duration>00:34:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-8f729a.mp3" length="32758317" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
