@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 30 Jun 2026 16:39:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 16:49:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8487,6 +8487,17 @@
       <itunes:duration>00:18:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260701/episode-20260701-f8e33d.mp3" length="17528109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《两京十五日》 · 完整版 · 两京十五日 · 完整讲读</title>
+      <description>《两京十五日》是马伯庸基于《明史》一笔带过的记载，展开的一段被历史删掉的惊险历程。洪熙元年，二十七岁的太子朱瞻基奉旨南下南京监国，宝船刚进秦淮河便轰然炸裂，由此开启一场两千多里、限期十五天的大逃亡。小说以北迁与回迁的迁都之争为背景，把皇权更迭、漕运命脉与小人物命运紧紧拧在一起，用紧凑的节奏，把一段被史书隐没的帝王惊险历程，重新讲得有血有肉。它追问的核心问题是：当皇权、天意、命运三重大山同时压下，那些不被看见的小人物，何以能在缝隙里撑起自己的脊梁。</description>
+      <pubDate>Tue, 30 Jun 2026 16:48:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260701-episode-20260701-ec2662</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《两京十五日》是马伯庸基于《明史》一笔带过的记载，展开的一段被历史删掉的惊险历程。洪熙元年，二十七岁的太子朱瞻基奉旨南下南京监国，宝船刚进秦淮河便轰然炸裂，由此开启一场两千多里、限期十五天的大逃亡。小说以北迁与回迁的迁都之争为背景，把皇权更迭、漕运命脉与小人物命运紧紧拧在一起，用紧凑的节奏，把一段被史书隐没的帝王惊险历程，重新讲得有血有肉。它追问的核心问题是：当皇权、天意、命运三重大山同时压下，那些不被看见的小人物，何以能在缝隙里撑起自己的脊梁。</itunes:summary>
+      <itunes:duration>00:26:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260701/episode-20260701-ec2662.mp3" length="25428525" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
