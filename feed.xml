@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 30 Jun 2026 08:40:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 08:45:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8443,6 +8443,17 @@
       <itunes:duration>00:28:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-480800.mp3" length="27512493" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大地之上》 · 完整版 · 大地之上 · 完整讲读</title>
+      <description>《大地之上》是加籍帕西作家米斯特里的长篇代表作，跨越一九七五年至一九八四年印度紧急状态与教派冲突的动荡十年，讲述裁缝伊什瓦、洗衣妇迪娜、实习生马内克与少年翁普拉卡什四个底层小人物在孟买相遇、相依、被碾过又爬起的命运。一盒借来的象棋把四个人缝在一起，最终又以同一盒象棋在火车站台上戛然终结。米斯特里以狄更斯式的怜悯与索尔仁尼琴式的克制，写出&quot;不在史书里出现的人&quot;如何在结构性的暴力下仍守住尊严、笑声与活下去的倔强，是一部关于人类精神韧性的悲悯之书。</description>
+      <pubDate>Tue, 30 Jun 2026 08:45:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260630-episode-20260630-eca40b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大地之上》是加籍帕西作家米斯特里的长篇代表作，跨越一九七五年至一九八四年印度紧急状态与教派冲突的动荡十年，讲述裁缝伊什瓦、洗衣妇迪娜、实习生马内克与少年翁普拉卡什四个底层小人物在孟买相遇、相依、被碾过又爬起的命运。一盒借来的象棋把四个人缝在一起，最终又以同一盒象棋在火车站台上戛然终结。米斯特里以狄更斯式的怜悯与索尔仁尼琴式的克制，写出&quot;不在史书里出现的人&quot;如何在结构性的暴力下仍守住尊严、笑声与活下去的倔强，是一部关于人类精神韧性的悲悯之书。</itunes:summary>
+      <itunes:duration>00:20:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-eca40b.mp3" length="20066349" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
