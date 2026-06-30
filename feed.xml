@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 30 Jun 2026 00:08:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 07:24:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8344,6 +8344,17 @@
       <itunes:duration>00:33:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-46fdf6.mp3" length="31981869" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《小城与不确定性的墙》 · 完整版 · 小城与不确定性的墙 · 完整讲读</title>
+      <description>《小城与不确定性的墙》是村上春树时隔六年推出的最新长篇，源自他一九八零年发表的未完成中篇，历经四十年沉淀，于新冠疫情期间最终完成。小说以高墙内外的双重叙事，讲述了十七岁少年与十六岁少女之间关于记忆、影子与读梦人的隐秘约定，融合《世界尽头与冷酷仙境》的核心意象，是村上写作生涯一次跨越时空的自我和解。</description>
+      <pubDate>Tue, 30 Jun 2026 07:24:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260630-episode-20260630-28d6c8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《小城与不确定性的墙》是村上春树时隔六年推出的最新长篇，源自他一九八零年发表的未完成中篇，历经四十年沉淀，于新冠疫情期间最终完成。小说以高墙内外的双重叙事，讲述了十七岁少年与十六岁少女之间关于记忆、影子与读梦人的隐秘约定，融合《世界尽头与冷酷仙境》的核心意象，是村上写作生涯一次跨越时空的自我和解。</itunes:summary>
+      <itunes:duration>00:28:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-28d6c8.mp3" length="27401901" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
