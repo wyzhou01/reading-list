@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 30 Jun 2026 16:49:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 21:19:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8498,6 +8498,17 @@
       <itunes:duration>00:26:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260701/episode-20260701-ec2662.mp3" length="25428525" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《破碎的生活：普通德国人经历的20世纪》 · 完整版 · 破碎的生活 · 完整讲读</title>
+      <description>《破碎的生活》是历史学家康拉德·雅劳施的口述史代表作，汇集二十多位普通德国人的日记、书信与访谈，记录他们在两次世界大战、纳粹统治、大屠杀、冷战分裂与重新统一中的真实经历。书中没有宏大政治叙事，只有一群教师、工人、主妇、神职人员在帝国余晖、战火蹂躏、战后废墟与东西德分立中的被动与挣扎、妥协与抵抗。它揭示纳粹的崛起靠的不是千百万狂热者，而是千百万沉默的旁观者；战争让加害者变成受害者，也让受害者根本没有机会等到清算；冷战把一个民族劈成两半，而重建则是一种长期的、低声的、几乎看不见的劳动。这本书提醒我们，极端时代从未真正远去，理解普通人在历史洪流中的创伤与尊严，仍是每一个想要在动荡年代守住自己的人，需要补上的一课。</description>
+      <pubDate>Tue, 30 Jun 2026 21:19:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260701-episode-20260701-0a693c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《破碎的生活》是历史学家康拉德·雅劳施的口述史代表作，汇集二十多位普通德国人的日记、书信与访谈，记录他们在两次世界大战、纳粹统治、大屠杀、冷战分裂与重新统一中的真实经历。书中没有宏大政治叙事，只有一群教师、工人、主妇、神职人员在帝国余晖、战火蹂躏、战后废墟与东西德分立中的被动与挣扎、妥协与抵抗。它揭示纳粹的崛起靠的不是千百万狂热者，而是千百万沉默的旁观者；战争让加害者变成受害者，也让受害者根本没有机会等到清算；冷战把一个民族劈成两半，而重建则是一种长期的、低声的、几乎看不见的劳动。这本书提醒我们，极端时代从未真正远去，理解普通人在历史洪流中的创伤与尊严，仍是每一个想要在动荡年代守住自己的人，需要补上的一课。</itunes:summary>
+      <itunes:duration>00:30:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260701/episode-20260701-0a693c.mp3" length="29131437" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
