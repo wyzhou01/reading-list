@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 30 Jun 2026 07:24:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 07:42:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8355,6 +8355,17 @@
       <itunes:duration>00:28:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-28d6c8.mp3" length="27401901" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《团圆记》 · 完整版 · 团圆记 · 完整讲读</title>
+      <description>《团圆记》是七零后作家杨云苏的散文代表作，记述她在二十世纪最后一个春节跟着未婚夫檀生回到潮汕老家的归宁之旅。从一碗酸菜小肠汤说起，从阿嬷堂屋里那条不动的胳膊说起，从二表弟挨的那一拳说起——这是一趟准媳妇的考试，也是一幅潮汕宗族文化的微观画卷。祠堂、香火、长幼有序的餐桌、远亲近邻的礼尚往来，在传统大家庭的凝视下，个体情感、地方文化与代际观念激烈碰撞。然而最终留下的，不是怨恨，是一份超越婚姻的温情与眷恋。二十多年后回望，作者仍然管阿嬷叫阿嬷，那种后天产生的血脉，并没有因为缘分散去而断裂。</description>
+      <pubDate>Tue, 30 Jun 2026 07:41:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260630-episode-20260630-646c9d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《团圆记》是七零后作家杨云苏的散文代表作，记述她在二十世纪最后一个春节跟着未婚夫檀生回到潮汕老家的归宁之旅。从一碗酸菜小肠汤说起，从阿嬷堂屋里那条不动的胳膊说起，从二表弟挨的那一拳说起——这是一趟准媳妇的考试，也是一幅潮汕宗族文化的微观画卷。祠堂、香火、长幼有序的餐桌、远亲近邻的礼尚往来，在传统大家庭的凝视下，个体情感、地方文化与代际观念激烈碰撞。然而最终留下的，不是怨恨，是一份超越婚姻的温情与眷恋。二十多年后回望，作者仍然管阿嬷叫阿嬷，那种后天产生的血脉，并没有因为缘分散去而断裂。</itunes:summary>
+      <itunes:duration>00:24:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-646c9d.mp3" length="23628333" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
