@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 30 Jun 2026 07:58:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 08:06:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8388,6 +8388,17 @@
       <itunes:duration>00:39:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-ed70be.mp3" length="37807533" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《麒麟》 · 完整版 · 麒麟 · 完整讲读</title>
+      <description>《麒麟》是青年作家周游耗费多年心血写就的五十四章长篇历史小说，以乾隆年间苏州说书人赵敬亭的《棺中记》开场，借嘉靖朝至乾隆朝两百年的隐秘往事，串起陶铭心、萧啸生、保禄、乔阿难、青凤等人在权谋、信仰与情义间的挣扎。小说以棺材变产床的隐喻，承接屈原、司马迁、韩愈、施耐庵、蒲松龄、曹雪芹、鲁迅一脉的发愤著书传统；以八字驭人术贯穿明清两代，写皇权压抑学；以麒麟与凤凰互为表里，翻转政治神学；以造水法、藏鼎山、黄金坑等机关，埋下器物世界主义伏笔；最终以《不可信的结尾》完成对寄托本身的元反思。这部书的野心，是打破类型文学与纯文学的粗暴裂痕，让虚构开出遍地真实之花朵。</description>
+      <pubDate>Tue, 30 Jun 2026 08:05:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260630-episode-20260630-3cf23a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《麒麟》是青年作家周游耗费多年心血写就的五十四章长篇历史小说，以乾隆年间苏州说书人赵敬亭的《棺中记》开场，借嘉靖朝至乾隆朝两百年的隐秘往事，串起陶铭心、萧啸生、保禄、乔阿难、青凤等人在权谋、信仰与情义间的挣扎。小说以棺材变产床的隐喻，承接屈原、司马迁、韩愈、施耐庵、蒲松龄、曹雪芹、鲁迅一脉的发愤著书传统；以八字驭人术贯穿明清两代，写皇权压抑学；以麒麟与凤凰互为表里，翻转政治神学；以造水法、藏鼎山、黄金坑等机关，埋下器物世界主义伏笔；最终以《不可信的结尾》完成对寄托本身的元反思。这部书的野心，是打破类型文学与纯文学的粗暴裂痕，让虚构开出遍地真实之花朵。</itunes:summary>
+      <itunes:duration>00:26:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-3cf23a.mp3" length="25728813" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
