@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 30 Jun 2026 08:32:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 08:40:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8432,6 +8432,17 @@
       <itunes:duration>00:35:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-b5b7b9.mp3" length="34026285" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《龙：一种未明的动物》 · 完整版 · 龙：一种未明的动物 · 完整讲读</title>
+      <description>《龙：一种未明的动物》是马小星历时十余年完成的一份考据作业，重新审视古籍中的堕龙记载与松嫩平原的现代目击口述，从生物学角度辨析龙与蛇、蛟、鳄的异同，提出龙可能是历史上真实存在过的一种水生动物，并因栖息地消失而灭绝的假说。本书既不是猎奇，也不是迷信反驳，而是一次对长期被理所当然否定的命题最严肃的重新提问。</description>
+      <pubDate>Tue, 30 Jun 2026 08:39:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260630-episode-20260630-480800</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《龙：一种未明的动物》是马小星历时十余年完成的一份考据作业，重新审视古籍中的堕龙记载与松嫩平原的现代目击口述，从生物学角度辨析龙与蛇、蛟、鳄的异同，提出龙可能是历史上真实存在过的一种水生动物，并因栖息地消失而灭绝的假说。本书既不是猎奇，也不是迷信反驳，而是一次对长期被理所当然否定的命题最严肃的重新提问。</itunes:summary>
+      <itunes:duration>00:28:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-480800.mp3" length="27512493" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
