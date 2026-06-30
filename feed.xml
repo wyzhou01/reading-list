@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 29 Jun 2026 23:59:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 00:01:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8257,6 +8257,49 @@
       <itunes:duration>00:34:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-8f729a.mp3" length="32758317" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《边界的诱惑》 · 完整版 · 边界的诱惑 · 完整讲读</title>
+      <description>八零后写作者柏琳，
+带着一颗被一九七几年《瓦尔特保卫萨拉热窝》种下的远方种子，
+只身穿越前南斯拉夫六个加盟共和国，
+用脚步丈量边界，
+用访谈缝合伤痕，
+写下一份关于爱与理解如何被边界隔开的沉思录。
+
+从布莱德湖的翡翠到维舍格勒的静悄悄，
+从斯普利特的温和失落
+到杜布罗夫尼克的体面囚禁，
+她用《边界的诱惑》告诉你——
+边界从未真正消失，
+它只是换了一种更柔和、更隐蔽的形态，
+继续藏在菜单的语言、签证的页码、
+和老人抽烟时那个不许说出口的停顿里。
+
+这是一本给所有愿意靠近边界的人的火把。</description>
+      <pubDate>Tue, 30 Jun 2026 00:01:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260630-episode-20260630-3837c8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>八零后写作者柏琳，
+带着一颗被一九七几年《瓦尔特保卫萨拉热窝》种下的远方种子，
+只身穿越前南斯拉夫六个加盟共和国，
+用脚步丈量边界，
+用访谈缝合伤痕，
+写下一份关于爱与理解如何被边界隔开的沉思录。
+
+从布莱德湖的翡翠到维舍格勒的静悄悄，
+从斯普利特的温和失落
+到杜布罗夫尼克的体面囚禁，
+她用《边界的诱惑》告诉你——
+边界从未真正消失，
+它只是换了一种更柔和、更隐蔽的形态，
+继续藏在菜单的语言、签证的页码、
+和老人抽烟时那个不许说出口的停顿里。
+
+这是一本给所有愿意靠近边界的人的火把。</itunes:summary>
+      <itunes:duration>00:30:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-3837c8.mp3" length="29498541" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
