@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 30 Jun 2026 08:24:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 08:32:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8421,6 +8421,17 @@
       <itunes:duration>00:23:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-d48b2a.mp3" length="22534317" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《早安，怪物》 · 完整版 · 早安，怪物 · 完整讲读</title>
+      <description>《早安，怪物》是加拿大心理治疗师凯瑟琳·吉尔迪纳的临床回忆录，记录了五位童年遭受遗弃、暴力、忽视或精神操控的来访者，如何在成年后完成惊人的自我重建。书名取自一句童年问候，象征来访者每天要面对的内心怪物，也象征与怪物对峙所需的勇气。吉尔迪纳把这五人称作心理英雄，强调英雄不是没有伤口，而是带着伤口还能重新开始的人。每一个看似平凡的成年人，都可能是当年那场壮举的幸存者。</description>
+      <pubDate>Tue, 30 Jun 2026 08:31:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260630-episode-20260630-b5b7b9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《早安，怪物》是加拿大心理治疗师凯瑟琳·吉尔迪纳的临床回忆录，记录了五位童年遭受遗弃、暴力、忽视或精神操控的来访者，如何在成年后完成惊人的自我重建。书名取自一句童年问候，象征来访者每天要面对的内心怪物，也象征与怪物对峙所需的勇气。吉尔迪纳把这五人称作心理英雄，强调英雄不是没有伤口，而是带着伤口还能重新开始的人。每一个看似平凡的成年人，都可能是当年那场壮举的幸存者。</itunes:summary>
+      <itunes:duration>00:35:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260630/episode-20260630-b5b7b9.mp3" length="34026285" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
