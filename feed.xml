@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 01 Jul 2026 07:23:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 07:28:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8553,6 +8553,17 @@
       <itunes:duration>00:28:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260701/episode-20260701-114142.mp3" length="27265581" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《单读33：多谈谈问题》 · 完整版 · 多谈谈问题 · 完整讲读</title>
+      <description>《多谈谈问题》是单读系列的第三十三辑，2023 年由上海文艺出版社出版，主编吴琦邀请锺叔河、戴锦华、项飙、罗新、桑德尔、劳东燕等学者就医学、算法、权力、历史、优绩主义、环境、Z 世代等九大问题展开长谈。本书诞生于特殊时期，编辑部刻意「刻舟求剑」，抓住历时不灭的真问题作为理性锚点。全书不追求热点与答案，而训练读者重新学会提问：在算法加速、媒介重塑感知、优绩主义碾压的当代，提问是减速、拒绝与记住；无用之学是把人从工具状态救回来的方式；停留与哀痛则是一种被低估的基本尊严。</description>
+      <pubDate>Wed, 01 Jul 2026 07:27:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260701-episode-20260701-00df62</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《多谈谈问题》是单读系列的第三十三辑，2023 年由上海文艺出版社出版，主编吴琦邀请锺叔河、戴锦华、项飙、罗新、桑德尔、劳东燕等学者就医学、算法、权力、历史、优绩主义、环境、Z 世代等九大问题展开长谈。本书诞生于特殊时期，编辑部刻意「刻舟求剑」，抓住历时不灭的真问题作为理性锚点。全书不追求热点与答案，而训练读者重新学会提问：在算法加速、媒介重塑感知、优绩主义碾压的当代，提问是减速、拒绝与记住；无用之学是把人从工具状态救回来的方式；停留与哀痛则是一种被低估的基本尊严。</itunes:summary>
+      <itunes:duration>00:23:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260701/episode-20260701-00df62.mp3" length="22408365" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
