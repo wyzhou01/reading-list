@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 01 Jul 2026 16:45:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 21:20:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8641,6 +8641,17 @@
       <itunes:duration>00:25:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-69e73e.mp3" length="24650157" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《往复书简》 · 完整版 · 往复书简 · 完整讲读</title>
+      <description>《往复书简》是日本推理作家凑佳苗的书信体短篇集，由《十年后的毕业作品》《二十年后的作业》《十五年后的回忆》三篇构成。三个故事彼此独立，又共同追问一个问题：当一个人愿意在纸上写下最隐秘的话，谎言和真相之间，到底隔着几张信纸。小千在婚礼上缺席，杏美与悦子用一封一封的家常信拆开十年前的暗恋与失踪；二十年前的学生在老师的追问下重聚，而真相是有人为保护同伴背负了另一条命的重压；纯一为了让未婚妻万里子不必承担中学时代自卫杀人的代价，独自策划嫁祸、逼死帮凶、远走他乡，并在异国准备用死亡结束一切。凑佳苗用日常细节代替凶杀密室，让每一次看似闲笔的童年记忆都成为破案钥匙，证明书信体本身就是一种推理装置。本书真正追问的不是罪，而是爱——一个人究竟愿意为另一个人承担多大的沉默。</description>
+      <pubDate>Wed, 01 Jul 2026 21:20:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260702-episode-20260702-ef1658</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《往复书简》是日本推理作家凑佳苗的书信体短篇集，由《十年后的毕业作品》《二十年后的作业》《十五年后的回忆》三篇构成。三个故事彼此独立，又共同追问一个问题：当一个人愿意在纸上写下最隐秘的话，谎言和真相之间，到底隔着几张信纸。小千在婚礼上缺席，杏美与悦子用一封一封的家常信拆开十年前的暗恋与失踪；二十年前的学生在老师的追问下重聚，而真相是有人为保护同伴背负了另一条命的重压；纯一为了让未婚妻万里子不必承担中学时代自卫杀人的代价，独自策划嫁祸、逼死帮凶、远走他乡，并在异国准备用死亡结束一切。凑佳苗用日常细节代替凶杀密室，让每一次看似闲笔的童年记忆都成为破案钥匙，证明书信体本身就是一种推理装置。本书真正追问的不是罪，而是爱——一个人究竟愿意为另一个人承担多大的沉默。</itunes:summary>
+      <itunes:duration>00:28:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-ef1658.mp3" length="27186477" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
