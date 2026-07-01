@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 01 Jul 2026 07:28:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 07:36:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8564,6 +8564,17 @@
       <itunes:duration>00:23:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260701/episode-20260701-00df62.mp3" length="22408365" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《阮途记》 · 完整版 · 阮途记 · 完整讲读</title>
+      <description>《阮途记》是舒飞廉以唐传奇笔法写就的十则短篇，借落魄书生赵文韶与江湖大盗张横的千里水路，串起洞庭、龙宫、风陵渡、驴皮记等奇谈异事。全书将唐传奇的古典蓝本用现代汉语重新写就，背景落在两宋的鄂楚江湖，既有刀光剑影的快意与神鬼狐妖的深情，亦有市井烟火与因果轮回的现代演绎，是古典笔记在二十一世纪的一次再生长。</description>
+      <pubDate>Wed, 01 Jul 2026 07:35:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260701-episode-20260701-ffdcf7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《阮途记》是舒飞廉以唐传奇笔法写就的十则短篇，借落魄书生赵文韶与江湖大盗张横的千里水路，串起洞庭、龙宫、风陵渡、驴皮记等奇谈异事。全书将唐传奇的古典蓝本用现代汉语重新写就，背景落在两宋的鄂楚江湖，既有刀光剑影的快意与神鬼狐妖的深情，亦有市井烟火与因果轮回的现代演绎，是古典笔记在二十一世纪的一次再生长。</itunes:summary>
+      <itunes:duration>00:28:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260701/episode-20260701-ffdcf7.mp3" length="27178797" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
