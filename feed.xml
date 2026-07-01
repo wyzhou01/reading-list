@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 01 Jul 2026 21:23:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 21:26:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8663,6 +8663,17 @@
       <itunes:duration>00:31:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-18fbcf.mp3" length="30440109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《楚汉双雄》 · 完整版 · 楚汉双雄 · 完整讲读</title>
+      <description>《楚汉双雄》是渤海小吏的代表作，以解剖式笔法拆解楚汉争霸八年中最关键的九大战事，重现大泽乡起义、巨鹿之战、鸿门宴、暗度陈仓、背水一战、垓下之围等重大事件背后的真实因果链。本书不讲演义故事，专讲底层逻辑——秦始皇的统一六国制度如何埋下秦崩的种子，项羽为何打赢了所有战役却输掉整场战争，韩信的背水一战为何千百年来无人能复制，刘邦凭什么在一次次溃败中逆袭成开国皇帝。从制度、人性、博弈三个维度，把历史事件细细拆开，为今天想要从真实历史中学到可借鉴、可复制经验的读者，提供一个经得起推敲的认知框架。</description>
+      <pubDate>Wed, 01 Jul 2026 21:26:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260702-episode-20260702-a71a78</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《楚汉双雄》是渤海小吏的代表作，以解剖式笔法拆解楚汉争霸八年中最关键的九大战事，重现大泽乡起义、巨鹿之战、鸿门宴、暗度陈仓、背水一战、垓下之围等重大事件背后的真实因果链。本书不讲演义故事，专讲底层逻辑——秦始皇的统一六国制度如何埋下秦崩的种子，项羽为何打赢了所有战役却输掉整场战争，韩信的背水一战为何千百年来无人能复制，刘邦凭什么在一次次溃败中逆袭成开国皇帝。从制度、人性、博弈三个维度，把历史事件细细拆开，为今天想要从真实历史中学到可借鉴、可复制经验的读者，提供一个经得起推敲的认知框架。</itunes:summary>
+      <itunes:duration>00:29:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-a71a78.mp3" length="28785069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
