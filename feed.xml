@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 30 Jun 2026 21:32:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 07:23:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8542,6 +8542,17 @@
       <itunes:duration>00:23:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260701/episode-20260701-fbd3cf.mp3" length="22130349" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《毛姆传》 · 完整版 · 毛姆传 · 完整讲读</title>
+      <description>《毛姆传》是英国传记家赛琳娜·黑斯廷斯为作家萨默塞特·毛姆撰写的权威传记。毛姆活了九十多年，作品被译成几乎所有已知语言，销量数以亿计，却始终说自己的一生“乏味”。本书以大量私人书信和未公开材料为依据，揭示这位文学巨匠隐秘而矛盾的一生：八岁丧母的童年创伤、在同性恋违法的年代隐藏真实身份、在两次世界大战中为英国情报部门出生入死、与美国情人哈克斯顿持续近三十年却始终未得到回应的爱、长达十五年的失败婚姻，以及在法国南部玛莱斯科别墅度过的奢华而孤独的晚年。黑斯廷斯以冷静而同情的笔触，呈现了一个在隐秘与公开之间挣扎了一生的灵魂，也呈现了英帝国衰落时代的文化气质。读这本书，是为理解爱、孤独、背叛这些永恒命题，也是为理解一个把每一种伤口都变成了故事的写作者，究竟付出了怎样的代价。</description>
+      <pubDate>Wed, 01 Jul 2026 07:22:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260701-episode-20260701-114142</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《毛姆传》是英国传记家赛琳娜·黑斯廷斯为作家萨默塞特·毛姆撰写的权威传记。毛姆活了九十多年，作品被译成几乎所有已知语言，销量数以亿计，却始终说自己的一生“乏味”。本书以大量私人书信和未公开材料为依据，揭示这位文学巨匠隐秘而矛盾的一生：八岁丧母的童年创伤、在同性恋违法的年代隐藏真实身份、在两次世界大战中为英国情报部门出生入死、与美国情人哈克斯顿持续近三十年却始终未得到回应的爱、长达十五年的失败婚姻，以及在法国南部玛莱斯科别墅度过的奢华而孤独的晚年。黑斯廷斯以冷静而同情的笔触，呈现了一个在隐秘与公开之间挣扎了一生的灵魂，也呈现了英帝国衰落时代的文化气质。读这本书，是为理解爱、孤独、背叛这些永恒命题，也是为理解一个把每一种伤口都变成了故事的写作者，究竟付出了怎样的代价。</itunes:summary>
+      <itunes:duration>00:28:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260701/episode-20260701-114142.mp3" length="27265581" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
