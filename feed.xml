@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 01 Jul 2026 21:20:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 21:23:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8652,6 +8652,17 @@
       <itunes:duration>00:28:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-ef1658.mp3" length="27186477" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大变局：晚清改革五十年》 · 完整版 · 晚清大变局：失序、冲突与衰亡（共五册）_(魏斐德) · 完整讲读</title>
+      <description>魏斐德《晚清大变局》挑战“西方冲击—中国反应”的传统叙事，提出十九世纪中叶以前中华帝国内部已孕育人口剧变、商业化、士绅阶层扩张等深层变迁。鸦片战争并非起点，只是踩在了已经酝酿三百年的火药桶上。从乡村的账本到朝廷的军机处，每一个环节都在悄悄松动。读懂清末的崩溃逻辑，就读懂了一半的当下。</description>
+      <pubDate>Fri, 19 Jun 2026 14:22:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260702-episode-20260702-18fbcf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>魏斐德《晚清大变局》挑战“西方冲击—中国反应”的传统叙事，提出十九世纪中叶以前中华帝国内部已孕育人口剧变、商业化、士绅阶层扩张等深层变迁。鸦片战争并非起点，只是踩在了已经酝酿三百年的火药桶上。从乡村的账本到朝廷的军机处，每一个环节都在悄悄松动。读懂清末的崩溃逻辑，就读懂了一半的当下。</itunes:summary>
+      <itunes:duration>00:31:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-18fbcf.mp3" length="30440109" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
