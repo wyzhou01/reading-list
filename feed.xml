@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 01 Jul 2026 07:55:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 16:25:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8597,6 +8597,17 @@
       <itunes:duration>00:36:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260701/episode-20260701-481bb8.mp3" length="35407149" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《破烂》 · 完整版 · 破烂回收店 · 完整讲读</title>
+      <description>小林泰三的《破烂回收店》收录四篇一九九八年发表的怪奇短篇：《破烂》以西部片舞台描写尸体被拆解为零件、按斤论价的活死人世界；《给妻子的三封自白信》借古希腊神话底色，把求爱写成一次次身体器官的邮寄；《食肉住宅》致敬怪兽特摄剧前十五分钟的恐惧，让一个家庭在看似平常的居所里直面真正的异变；《兽的记忆》则以多重人格推理反转收束，揭示所谓“咨询师”才是真正的拆解者。四篇共同主题，是身体改造与异化的边界、死亡与尸体的商品化、恐惧如何渗入日常，以及爱与丧失被推至极端的形态。这位白天做工程师、晚上写小说的日本作家，用说明书般的冷静语气，把人体、人格、记忆一层层剥开，向我们展示一个早已将我们都收编进去的回收系统。</description>
+      <pubDate>Wed, 01 Jul 2026 16:22:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260702-episode-20260702-df642a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>小林泰三的《破烂回收店》收录四篇一九九八年发表的怪奇短篇：《破烂》以西部片舞台描写尸体被拆解为零件、按斤论价的活死人世界；《给妻子的三封自白信》借古希腊神话底色，把求爱写成一次次身体器官的邮寄；《食肉住宅》致敬怪兽特摄剧前十五分钟的恐惧，让一个家庭在看似平常的居所里直面真正的异变；《兽的记忆》则以多重人格推理反转收束，揭示所谓“咨询师”才是真正的拆解者。四篇共同主题，是身体改造与异化的边界、死亡与尸体的商品化、恐惧如何渗入日常，以及爱与丧失被推至极端的形态。这位白天做工程师、晚上写小说的日本作家，用说明书般的冷静语气，把人体、人格、记忆一层层剥开，向我们展示一个早已将我们都收编进去的回收系统。</itunes:summary>
+      <itunes:duration>00:24:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-df642a.mp3" length="23159469" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
