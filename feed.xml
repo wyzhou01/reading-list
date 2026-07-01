@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 01 Jul 2026 21:26:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 21:30:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8674,6 +8674,17 @@
       <itunes:duration>00:29:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-a71a78.mp3" length="28785069" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《张医生与王医生》 · 完整版 · 张医生与王医生 · 完整讲读</title>
+      <description>《张医生与王医生》是一本关于中国工业城市转型与工人阶级命运的非虚构作品。作者伊险峰与杨樱以两位沈阳医生的半生经历为线索，编织出四十年来沈阳从工业长子到下岗潮、再到&quot;社会人&quot;主导的城市精神史。书中以两位工人子弟如何通过教育完成阶层跃迁为切口，揭示&quot;社会&quot;作为一种潜规则体系如何塑造个体——母亲们的&quot;势利远见&quot;如何规划上升路径，父亲们的缺位如何留下精神空洞，&quot;奖学金男孩&quot;付出了怎样的&quot;不社会&quot;代价。它不只写沈阳，更写所有工业城市的共同命运；它不只写两个医生，更写一代人的精神侧影。</description>
+      <pubDate>Wed, 01 Jul 2026 21:30:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260702-episode-20260702-79e8cd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《张医生与王医生》是一本关于中国工业城市转型与工人阶级命运的非虚构作品。作者伊险峰与杨樱以两位沈阳医生的半生经历为线索，编织出四十年来沈阳从工业长子到下岗潮、再到&quot;社会人&quot;主导的城市精神史。书中以两位工人子弟如何通过教育完成阶层跃迁为切口，揭示&quot;社会&quot;作为一种潜规则体系如何塑造个体——母亲们的&quot;势利远见&quot;如何规划上升路径，父亲们的缺位如何留下精神空洞，&quot;奖学金男孩&quot;付出了怎样的&quot;不社会&quot;代价。它不只写沈阳，更写所有工业城市的共同命运；它不只写两个医生，更写一代人的精神侧影。</itunes:summary>
+      <itunes:duration>00:28:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-79e8cd.mp3" length="27226797" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
