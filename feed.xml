@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 01 Jul 2026 07:43:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 07:55:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8586,6 +8586,17 @@
       <itunes:duration>00:27:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260701/episode-20260701-5cab61.mp3" length="26753709" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《游隼》 · 完整版 · 游隼 · 完整讲读</title>
+      <description>《游隼》是英国隐士 J.A.贝克在东盎格利亚的埃塞克斯郡，用十年冬日凝视一只游隼后写下的唯一一部作品。身患重病的他，把观察当作与消失共处的方式，把猎人活成了猎物的同类。整本书没有情节，只有精确到近乎偏执的飞行数据、潮汐时间、羽毛颜色，以及一个人在濒死之物面前，重新学会&quot;观看&quot;的伦理。它是写给游隼的挽歌，也是写给所有正在消失之物的标本馆。读完之后，你或许会想抬头，去等一等你生命里的那只游隼。</description>
+      <pubDate>Wed, 01 Jul 2026 07:54:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260701-episode-20260701-481bb8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《游隼》是英国隐士 J.A.贝克在东盎格利亚的埃塞克斯郡，用十年冬日凝视一只游隼后写下的唯一一部作品。身患重病的他，把观察当作与消失共处的方式，把猎人活成了猎物的同类。整本书没有情节，只有精确到近乎偏执的飞行数据、潮汐时间、羽毛颜色，以及一个人在濒死之物面前，重新学会&quot;观看&quot;的伦理。它是写给游隼的挽歌，也是写给所有正在消失之物的标本馆。读完之后，你或许会想抬头，去等一等你生命里的那只游隼。</itunes:summary>
+      <itunes:duration>00:36:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260701/episode-20260701-481bb8.mp3" length="35407149" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
