@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 01 Jul 2026 07:36:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 07:43:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8575,6 +8575,17 @@
       <itunes:duration>00:28:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260701/episode-20260701-ffdcf7.mp3" length="27178797" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《烦人的爱》 · 完整版 · 烦人的爱 · 完整讲读</title>
+      <description>《烦人的爱》是意大利匿名作家埃莱娜·费兰特一九九二年的处女作。画家黛莉亚四十五岁生日夜，接到母亲阿玛利娅在那不勒斯附近海域溺亡的消息。她赶回老家整理遗物，从抽屉里翻出陌生男人的信件、暧昧的照片，以及一件精致的蕾丝胸罩——母亲被打捞上来时，身上只剩这一件不属于日常的内衣。小说借一场葬礼、一件内衣、一段方言、一场母女之间说不清的爱与依附，拆开父权家庭里女性欲望被压抑、被扭曲、被爆发的全部路径，写出那不勒斯底层女性的身体、阶级和命运。</description>
+      <pubDate>Wed, 01 Jul 2026 07:43:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260701-episode-20260701-5cab61</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《烦人的爱》是意大利匿名作家埃莱娜·费兰特一九九二年的处女作。画家黛莉亚四十五岁生日夜，接到母亲阿玛利娅在那不勒斯附近海域溺亡的消息。她赶回老家整理遗物，从抽屉里翻出陌生男人的信件、暧昧的照片，以及一件精致的蕾丝胸罩——母亲被打捞上来时，身上只剩这一件不属于日常的内衣。小说借一场葬礼、一件内衣、一段方言、一场母女之间说不清的爱与依附，拆开父权家庭里女性欲望被压抑、被扭曲、被爆发的全部路径，写出那不勒斯底层女性的身体、阶级和命运。</itunes:summary>
+      <itunes:duration>00:27:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260701/episode-20260701-5cab61.mp3" length="26753709" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
