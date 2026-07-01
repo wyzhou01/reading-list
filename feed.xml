@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 01 Jul 2026 16:38:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 16:45:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8630,6 +8630,17 @@
       <itunes:duration>00:33:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-95423d.mp3" length="31746477" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《它们的性》 · 完整版 · 它们的性 · 完整讲读</title>
+      <description>《它们的性》是一本以进化生物学视角拆解动物求偶与两性博弈的大众科普。作者王大可以流苏鹬、蓝孔雀、刺舌蝇、非洲地松鼠等鲜活案例，揭示了性选择如何塑造欺骗、暴力、合作与反抗，并最终追问“为什么爱，为什么活着”。本书兼具学术严谨与人文关怀，既颠覆了“雌性被动、雄性主动”的传统叙事，也提醒我们：意义不能被基因单方面赋予，必须由每一个个体主动构建。</description>
+      <pubDate>Wed, 01 Jul 2026 16:44:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260702-episode-20260702-69e73e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《它们的性》是一本以进化生物学视角拆解动物求偶与两性博弈的大众科普。作者王大可以流苏鹬、蓝孔雀、刺舌蝇、非洲地松鼠等鲜活案例，揭示了性选择如何塑造欺骗、暴力、合作与反抗，并最终追问“为什么爱，为什么活着”。本书兼具学术严谨与人文关怀，既颠覆了“雌性被动、雄性主动”的传统叙事，也提醒我们：意义不能被基因单方面赋予，必须由每一个个体主动构建。</itunes:summary>
+      <itunes:duration>00:25:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-69e73e.mp3" length="24650157" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
