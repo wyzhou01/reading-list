@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 02 Jul 2026 07:25:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 07:33:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8872,6 +8872,17 @@
       <itunes:duration>00:37:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-a77071.mp3" length="35881773" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《沉默的病人》 · 完整版 · 沉默的病人 · 完整讲读</title>
+      <description>《沉默的病人》是英国作家亚历克斯·麦克利兹的悬疑处女作。三十三岁的画家艾丽西亚·贝伦森朝丈夫脸上连开五枪，此后六年再未开口。心理治疗师西奥·费伯决心撬开她的沉默，却发现自己也掉进了童年创伤的深渊。本书借希腊神话《阿尔刻提斯》，追问一个核心命题：究竟谁才是真正的病人？沉默不是空白，而是藏着一个人所有说不出口的东西的另一种语言。这是一本让你听完之后，很长时间不敢关掉录音的书。</description>
+      <pubDate>Thu, 02 Jul 2026 07:32:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260702-episode-20260702-d5a9f3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《沉默的病人》是英国作家亚历克斯·麦克利兹的悬疑处女作。三十三岁的画家艾丽西亚·贝伦森朝丈夫脸上连开五枪，此后六年再未开口。心理治疗师西奥·费伯决心撬开她的沉默，却发现自己也掉进了童年创伤的深渊。本书借希腊神话《阿尔刻提斯》，追问一个核心命题：究竟谁才是真正的病人？沉默不是空白，而是藏着一个人所有说不出口的东西的另一种语言。这是一本让你听完之后，很长时间不敢关掉录音的书。</itunes:summary>
+      <itunes:duration>00:35:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-d5a9f3.mp3" length="34071981" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
