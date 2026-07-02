@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 02 Jul 2026 21:30:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 21:34:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9015,6 +9015,17 @@
       <itunes:duration>00:30:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260703/episode-20260703-5374f6.mp3" length="29220909" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《陶庵回想录》 · 完整版 · 陶庵回想录 · 完整讲读</title>
+      <description>《陶庵回想录》是民国编辑陶亢德晚年写就的回忆录，由中华书局于二零二二年出版。本书以三十八万字的篇幅，记录了一个浙江绍兴小店员如何被邹韬奋赏识闯进上海滩，成为《生活》周刊、《论语》《人间世》《宇宙风》的核心编辑，亲手创办人间书屋出版老舍《骆驼祥子》单行本，并与鲁迅、周作人、林语堂、丰子恺、徐訏等文化名家深度交往的台前幕后。陶亢德晚年遭遇一九五七年反右，被补划为右派入提篮桥监狱服刑多年，平反后赴北京参与法文版《昆虫记》翻译。本书从手稿保留到子女整理出版，跨越近四十年，是一部了解三四十年代上海出版业与一代知识分子命运沉浮不可绕过的一手史料。</description>
+      <pubDate>Thu, 02 Jul 2026 21:34:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260703-episode-20260703-d93bb2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《陶庵回想录》是民国编辑陶亢德晚年写就的回忆录，由中华书局于二零二二年出版。本书以三十八万字的篇幅，记录了一个浙江绍兴小店员如何被邹韬奋赏识闯进上海滩，成为《生活》周刊、《论语》《人间世》《宇宙风》的核心编辑，亲手创办人间书屋出版老舍《骆驼祥子》单行本，并与鲁迅、周作人、林语堂、丰子恺、徐訏等文化名家深度交往的台前幕后。陶亢德晚年遭遇一九五七年反右，被补划为右派入提篮桥监狱服刑多年，平反后赴北京参与法文版《昆虫记》翻译。本书从手稿保留到子女整理出版，跨越近四十年，是一部了解三四十年代上海出版业与一代知识分子命运沉浮不可绕过的一手史料。</itunes:summary>
+      <itunes:duration>00:29:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260703/episode-20260703-d93bb2.mp3" length="27915693" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
