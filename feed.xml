@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 02 Jul 2026 21:20:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 21:24:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8982,6 +8982,17 @@
       <itunes:duration>00:25:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260703/episode-20260703-8c592e.mp3" length="24070317" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《证言》 · 完整版 · 证言---玛格丽特·阿特伍德 · 完整讲读</title>
+      <description>《证言》是玛格丽特·阿特伍德《使女的故事》的正式续作，通过三位女性的第一人称叙述，揭开基列国由盛转衰的真相：开国嬷嬷丽迪亚在密室写下忏悔手记，少女艾格尼丝在基列的玻璃温室中觉醒并带出童年记忆，加拿大女孩妮可冒死穿越国境完成最后一份证词的传递。阿特伍德坚持书中每一事件都有真实历史对应——焚书、女性绝育、秘密审判、地下救援——使这部作品成为以文学形式保存的反乌托邦证词。在基列的逻辑里，权力最深的胜利是让被统治者自我审查，反抗最早的胜利则是有人愿意把真话写下来、传出去。</description>
+      <pubDate>Thu, 02 Jul 2026 21:24:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260703-episode-20260703-fe9365</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《证言》是玛格丽特·阿特伍德《使女的故事》的正式续作，通过三位女性的第一人称叙述，揭开基列国由盛转衰的真相：开国嬷嬷丽迪亚在密室写下忏悔手记，少女艾格尼丝在基列的玻璃温室中觉醒并带出童年记忆，加拿大女孩妮可冒死穿越国境完成最后一份证词的传递。阿特伍德坚持书中每一事件都有真实历史对应——焚书、女性绝育、秘密审判、地下救援——使这部作品成为以文学形式保存的反乌托邦证词。在基列的逻辑里，权力最深的胜利是让被统治者自我审查，反抗最早的胜利则是有人愿意把真话写下来、传出去。</itunes:summary>
+      <itunes:duration>00:29:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260703/episode-20260703-fe9365.mp3" length="28647981" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
