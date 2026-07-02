@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 02 Jul 2026 01:54:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 01:58:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8707,6 +8707,17 @@
       <itunes:duration>00:48:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-375042.mp3" length="46868781" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《康熙的红票》 · 完整版 · 康熙的红票 · 完整讲读</title>
+      <description>《康熙的红票》以清初西洋传教士持有的宫廷红票为线索，透过内务府档案与罗马、巴黎等地的西文文献，揭示传教士如何从佟家奴才起步，一步步被编入满清权贵圈与内务府体制，又如何在康熙与教皇使团、彼得大帝使团的交锋中充当帝国的技术工具与外交媒介。汪利平指出，康熙朝的开放从来不是文化意义上的开放，而是一种被皇帝个人意志严格框定的、工具化的开放；红票的发放与撤销，取决于&quot;有用性&quot;的判断。当康熙驾崩、雍正继位，禁教令下，这群曾身处荣耀顶点的人一夜沉寂，清初那次未竟的全球化尝试也随之终结。本书既是严谨的清史研究，也提醒我们重新审视所有&quot;通行证式&quot;的开放与许可。</description>
+      <pubDate>Thu, 02 Jul 2026 01:58:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260702-episode-20260702-1278cb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《康熙的红票》以清初西洋传教士持有的宫廷红票为线索，透过内务府档案与罗马、巴黎等地的西文文献，揭示传教士如何从佟家奴才起步，一步步被编入满清权贵圈与内务府体制，又如何在康熙与教皇使团、彼得大帝使团的交锋中充当帝国的技术工具与外交媒介。汪利平指出，康熙朝的开放从来不是文化意义上的开放，而是一种被皇帝个人意志严格框定的、工具化的开放；红票的发放与撤销，取决于&quot;有用性&quot;的判断。当康熙驾崩、雍正继位，禁教令下，这群曾身处荣耀顶点的人一夜沉寂，清初那次未竟的全球化尝试也随之终结。本书既是严谨的清史研究，也提醒我们重新审视所有&quot;通行证式&quot;的开放与许可。</itunes:summary>
+      <itunes:duration>00:20:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-1278cb.mp3" length="19636269" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
