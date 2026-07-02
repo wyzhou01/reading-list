@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 02 Jul 2026 02:23:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 02:28:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8762,6 +8762,17 @@
       <itunes:duration>00:31:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-a3cb13.mp3" length="30071085" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《云朵的道路》 · 完整版 · 云朵的道路 · 完整讲读</title>
+      <description>《云朵的道路》是作家格非关于记忆、写作与时间的散文集。他从一次雨夜醉归、迷路于故乡的真实经历写起，把“道路“二字从乡村小路一路升华为关于存在与自由的隐喻。书中贯穿了对《人面桃花》《红楼梦》、乔伊斯《伊芙琳》、麦尔维尔“巴托比“、蒙塔莱小诗的重新解读，提出“道路是被开启而非被设计“的核心主张：在被算法与规则预先安排的时代，唯有“蓦直去“的勇气，才能让人在回望中辨认出此刻的方向，才能在写作中点亮那一缕嵌入作品的幽微之光。</description>
+      <pubDate>Thu, 02 Jul 2026 02:28:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260702-episode-20260702-6263fe</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《云朵的道路》是作家格非关于记忆、写作与时间的散文集。他从一次雨夜醉归、迷路于故乡的真实经历写起，把“道路“二字从乡村小路一路升华为关于存在与自由的隐喻。书中贯穿了对《人面桃花》《红楼梦》、乔伊斯《伊芙琳》、麦尔维尔“巴托比“、蒙塔莱小诗的重新解读，提出“道路是被开启而非被设计“的核心主张：在被算法与规则预先安排的时代，唯有“蓦直去“的勇气，才能让人在回望中辨认出此刻的方向，才能在写作中点亮那一缕嵌入作品的幽微之光。</itunes:summary>
+      <itunes:duration>00:27:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-6263fe.mp3" length="26194605" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
