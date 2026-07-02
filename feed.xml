@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 02 Jul 2026 02:28:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 02:35:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8773,6 +8773,17 @@
       <itunes:duration>00:27:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-6263fe.mp3" length="26194605" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《关于女儿》 · 完整版 · 关于女儿 · 完整讲读</title>
+      <description>《关于女儿》是韩国小说家金惠珍的代表作，以一位六十多岁母亲的视角，讲述她如何面对与女同性恋女儿的代际冲突。全书不追问性少数的标签本身，而是追问：在家庭主义解体、非正规劳动挤压女性、户主制废除不到十年的韩国社会，女性与女同性恋者如何被配置到必需却被排挤的位置上。撬动母亲的，不是道理，而是她日复一日在疗养院为老年痴呆患者珍做的具体照料，是她看到女儿与伴侣为生计挣扎时的心碎，是所有女性无名劳动一点一点重塑了她的旧秩序。这是一个关于普通人如何艰难地、一步一步学会把另一个人也当作普通人的故事。</description>
+      <pubDate>Thu, 02 Jul 2026 02:34:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260702-episode-20260702-fbebd3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《关于女儿》是韩国小说家金惠珍的代表作，以一位六十多岁母亲的视角，讲述她如何面对与女同性恋女儿的代际冲突。全书不追问性少数的标签本身，而是追问：在家庭主义解体、非正规劳动挤压女性、户主制废除不到十年的韩国社会，女性与女同性恋者如何被配置到必需却被排挤的位置上。撬动母亲的，不是道理，而是她日复一日在疗养院为老年痴呆患者珍做的具体照料，是她看到女儿与伴侣为生计挣扎时的心碎，是所有女性无名劳动一点一点重塑了她的旧秩序。这是一个关于普通人如何艰难地、一步一步学会把另一个人也当作普通人的故事。</itunes:summary>
+      <itunes:duration>00:35:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-fbebd3.mp3" length="34133037" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
