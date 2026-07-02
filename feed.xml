@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 02 Jul 2026 03:04:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 03:09:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8850,6 +8850,17 @@
       <itunes:duration>00:25:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-6c20cb.mp3" length="24744621" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《刑法学讲义》 · 完整版 · 刑法学讲义 · 完整讲读</title>
+      <description>《刑法学讲义》是罗翔写给普通人的刑法通识读本。全书以一百多个话题串起刑法总论与分论：从神授说到社会契约理论讲解刑罚起源，从约法三章到邓某驹贪污案阐释罪刑法定与刑法的双重机能，通过岳飞“莫须有“案、强奸案追诉时效等案例说明不受约束的刑罚权比犯罪更可怕，并通过正当防卫、不作为犯罪、罪刑法定等原则探讨法律的边界感。全书核心是：刑法是犯罪人的大宪章，是双刃剑，一刃对准犯罪，一刃对准国家权力。读这本书，你不一定能成为法律专家，但一定能看懂身边的很多事。</description>
+      <pubDate>Thu, 02 Jul 2026 03:09:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260702-episode-20260702-3ecae2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《刑法学讲义》是罗翔写给普通人的刑法通识读本。全书以一百多个话题串起刑法总论与分论：从神授说到社会契约理论讲解刑罚起源，从约法三章到邓某驹贪污案阐释罪刑法定与刑法的双重机能，通过岳飞“莫须有“案、强奸案追诉时效等案例说明不受约束的刑罚权比犯罪更可怕，并通过正当防卫、不作为犯罪、罪刑法定等原则探讨法律的边界感。全书核心是：刑法是犯罪人的大宪章，是双刃剑，一刃对准犯罪，一刃对准国家权力。读这本书，你不一定能成为法律专家，但一定能看懂身边的很多事。</itunes:summary>
+      <itunes:duration>00:32:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-3ecae2.mp3" length="31440429" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
