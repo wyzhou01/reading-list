@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 02 Jul 2026 03:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 03:04:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8839,6 +8839,17 @@
       <itunes:duration>00:38:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-4f8cbb.mp3" length="37111725" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大话西方艺术史》 · 完整版 · 大话西方艺术史 · 完整讲读</title>
+      <description>《大话西方艺术史》是意公子写给艺术小白的入门书。她用讲八卦、拉家常的方式，把三万年的西方艺术脉络掰开揉碎。从史前洞窟里&quot;画个圈圈诅咒你&quot;的野牛，到希腊人第一次把美写成数学方程式，再到埃及人用金字塔对抗死亡、中世纪用扁平的湿壁画教化信徒、文艺复兴重新把人的身体请回舞台中央，一直到二十世纪杜尚把小便池送进美术馆。她反复告诉我们：美从来不是固定的，艺术回答的是&quot;我从哪里来、要到哪里去&quot;这种最古老的问题。这本书拆掉了学院派的门槛，但留给读者的真正功课是——看懂美之后，还要追问一句：这种美，是为谁而存在的？</description>
+      <pubDate>Thu, 02 Jul 2026 03:04:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260702-episode-20260702-6c20cb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大话西方艺术史》是意公子写给艺术小白的入门书。她用讲八卦、拉家常的方式，把三万年的西方艺术脉络掰开揉碎。从史前洞窟里&quot;画个圈圈诅咒你&quot;的野牛，到希腊人第一次把美写成数学方程式，再到埃及人用金字塔对抗死亡、中世纪用扁平的湿壁画教化信徒、文艺复兴重新把人的身体请回舞台中央，一直到二十世纪杜尚把小便池送进美术馆。她反复告诉我们：美从来不是固定的，艺术回答的是&quot;我从哪里来、要到哪里去&quot;这种最古老的问题。这本书拆掉了学院派的门槛，但留给读者的真正功课是——看懂美之后，还要追问一句：这种美，是为谁而存在的？</itunes:summary>
+      <itunes:duration>00:25:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-6c20cb.mp3" length="24744621" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
