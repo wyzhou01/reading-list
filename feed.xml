@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 02 Jul 2026 02:11:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 02:18:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8740,6 +8740,17 @@
       <itunes:duration>00:23:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-ae8039.mp3" length="22174125" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《供应链攻防战》 · 完整版 · 供应链攻防战 · 完整讲读</title>
+      <description>《供应链攻防战》是林雪萍对全球供应链大变局的系统性解读。作者从连接力、控制力、设计力三个维度，剖析了供应链如何从企业后勤工具升级为国家战略角力场。书中以邵东打火机、光伏产业、华为Mate60等案例，揭示了中国制造在大国博弈中的韧性与突围路径，强调供应链安全已取代效率成为首要考量，读懂它，就读懂了这个时代的底层密码。</description>
+      <pubDate>Thu, 02 Jul 2026 02:18:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260702-episode-20260702-ba82c5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《供应链攻防战》是林雪萍对全球供应链大变局的系统性解读。作者从连接力、控制力、设计力三个维度，剖析了供应链如何从企业后勤工具升级为国家战略角力场。书中以邵东打火机、光伏产业、华为Mate60等案例，揭示了中国制造在大国博弈中的韧性与突围路径，强调供应链安全已取代效率成为首要考量，读懂它，就读懂了这个时代的底层密码。</itunes:summary>
+      <itunes:duration>00:33:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-ba82c5.mp3" length="32024493" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
