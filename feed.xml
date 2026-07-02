@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 02 Jul 2026 02:47:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 02:51:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8817,6 +8817,17 @@
       <itunes:duration>00:18:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-ab60cc.mp3" length="18212013" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《波兰人》 · 完整版 · 波兰人 · 完整讲读</title>
+      <description>《波兰人》是二零零三年诺贝尔文学奖得主库切晚年一部不到两百页的极简长篇。一场在巴塞罗那与赫罗纳之间缓缓展开的邂逅，让一位七十二岁的波兰钢琴家与一位五十岁的西班牙银行家太太，在邮件、火车与肖邦夜曲之间慢慢靠近，又在语言、年龄与各自倦怠的婚姻前轻轻退开。本期节目跟库切的镜头，看衰老与欲望如何错位，看语言如何成为屏障又成为桥梁，看一场虚构的爱欲叙事如何在二十世纪的灰烬里，捧出一点二十一世纪的微光。</description>
+      <pubDate>Thu, 02 Jul 2026 02:51:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260702-episode-20260702-50599d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《波兰人》是二零零三年诺贝尔文学奖得主库切晚年一部不到两百页的极简长篇。一场在巴塞罗那与赫罗纳之间缓缓展开的邂逅，让一位七十二岁的波兰钢琴家与一位五十岁的西班牙银行家太太，在邮件、火车与肖邦夜曲之间慢慢靠近，又在语言、年龄与各自倦怠的婚姻前轻轻退开。本期节目跟库切的镜头，看衰老与欲望如何错位，看语言如何成为屏障又成为桥梁，看一场虚构的爱欲叙事如何在二十世纪的灰烬里，捧出一点二十一世纪的微光。</itunes:summary>
+      <itunes:duration>00:27:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-50599d.mp3" length="26156205" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
