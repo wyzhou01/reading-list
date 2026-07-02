@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 02 Jul 2026 07:51:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 16:22:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8916,6 +8916,17 @@
       <itunes:duration>00:24:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-1117ba.mp3" length="23719341" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《为了活下去的思想》 · 完整版 · 为了活下去的思想 · 完整讲读</title>
+      <description>《为了活下去的思想》是日本女性主义学者上野千鹤子在九一一事件后写下的小书。她从被遗忘的“九一一“、被排除在人权之外的弱者、被国家与家庭共同压制的女性出发，追问一个朴素的问题：当我们没有反击之力时，该如何活下去？通过梳理国家暴力、家庭暴力与性别压迫之间的同构，她指出女性主义不是让弱者模仿强者，而是让弱者以弱者的姿态受到尊重；民族主义是一种让弱者甘愿为强者去死的诡计；“幸存者“伦理才是代替祷告的精神支柱。上野写给每个不愿以暴制暴、又不知如何向前的普通人。</description>
+      <pubDate>Thu, 02 Jul 2026 16:20:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260703-episode-20260703-da822a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《为了活下去的思想》是日本女性主义学者上野千鹤子在九一一事件后写下的小书。她从被遗忘的“九一一“、被排除在人权之外的弱者、被国家与家庭共同压制的女性出发，追问一个朴素的问题：当我们没有反击之力时，该如何活下去？通过梳理国家暴力、家庭暴力与性别压迫之间的同构，她指出女性主义不是让弱者模仿强者，而是让弱者以弱者的姿态受到尊重；民族主义是一种让弱者甘愿为强者去死的诡计；“幸存者“伦理才是代替祷告的精神支柱。上野写给每个不愿以暴制暴、又不知如何向前的普通人。</itunes:summary>
+      <itunes:duration>00:25:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260703/episode-20260703-da822a.mp3" length="24186285" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
