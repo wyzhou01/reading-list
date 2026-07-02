@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 02 Jul 2026 07:33:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 07:41:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8883,6 +8883,17 @@
       <itunes:duration>00:35:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-d5a9f3.mp3" length="34071981" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《魔戒》 · 完整版 · 魔戒 · 完整讲读</title>
+      <description>《魔戒》不只是一个英雄护戒的奇幻故事，而是托尔金用十二年写就的一部关于“失去”的挽歌。从至尊魔戒如何在三千年里悄悄易主，到护戒队按各族的本性自然散架，再到加拉德瑞尔把最后一粒光装进小瓶子，托尔金真正关心的不是中洲的命运，而是小人物如何在黑暗时代里，把光亮一寸一寸地传下去。读这本书，不需要去打赢哪一场仗，只需要慢下来，听一听山姆那一句：“我不能替你背，但我可以替你撑。”</description>
+      <pubDate>Thu, 02 Jul 2026 07:41:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260702-episode-20260702-b8f8ae</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《魔戒》不只是一个英雄护戒的奇幻故事，而是托尔金用十二年写就的一部关于“失去”的挽歌。从至尊魔戒如何在三千年里悄悄易主，到护戒队按各族的本性自然散架，再到加拉德瑞尔把最后一粒光装进小瓶子，托尔金真正关心的不是中洲的命运，而是小人物如何在黑暗时代里，把光亮一寸一寸地传下去。读这本书，不需要去打赢哪一场仗，只需要慢下来，听一听山姆那一句：“我不能替你背，但我可以替你撑。”</itunes:summary>
+      <itunes:duration>00:27:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-b8f8ae.mp3" length="26768301" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
