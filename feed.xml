@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 02 Jul 2026 02:42:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 02:47:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8806,6 +8806,17 @@
       <itunes:duration>00:26:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-9c4ebd.mp3" length="25376685" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《刘擎西方现代思想讲义》 · 完整版 · 刘擎西方现代思想讲义 · 完整讲读</title>
+      <description>《刘擎西方现代思想讲义》以通俗晓畅的方式，讲解韦伯、尼采、萨特、罗尔斯、哈贝马斯、福山等十九位二十世纪西方思想家的核心洞见，聚焦&quot;现代性&quot;这一共同追问：人类从传统社会走向现代，获得了自由、理性和繁荣，却也付出了意义虚无、价值多元、精神漂泊的代价。全书贯穿一条主线——现代思想不再为现代性唱赞歌，而是成为它的诊断师和质问者。它不提供现成答案，而是教你用反思性的眼光，重新打量自己的工作、爱情、孤独，理解我们如何变成今天的我们，并成为一个&quot;清醒的现代人&quot;。</description>
+      <pubDate>Thu, 02 Jul 2026 02:46:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260702-episode-20260702-ab60cc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《刘擎西方现代思想讲义》以通俗晓畅的方式，讲解韦伯、尼采、萨特、罗尔斯、哈贝马斯、福山等十九位二十世纪西方思想家的核心洞见，聚焦&quot;现代性&quot;这一共同追问：人类从传统社会走向现代，获得了自由、理性和繁荣，却也付出了意义虚无、价值多元、精神漂泊的代价。全书贯穿一条主线——现代思想不再为现代性唱赞歌，而是成为它的诊断师和质问者。它不提供现成答案，而是教你用反思性的眼光，重新打量自己的工作、爱情、孤独，理解我们如何变成今天的我们，并成为一个&quot;清醒的现代人&quot;。</itunes:summary>
+      <itunes:duration>00:18:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-ab60cc.mp3" length="18212013" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
