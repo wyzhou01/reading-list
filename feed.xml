@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 02 Jul 2026 02:51:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 03:00:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8828,6 +8828,17 @@
       <itunes:duration>00:27:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-50599d.mp3" length="26156205" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《风声·雨声·读书声》 · 完整版 · 风声·雨声·读书声 · 完整讲读</title>
+      <description>《风声·雨声·读书声》是历史学者朱学勤一九九〇年代初的随笔集，凝结了他带着“问题意识“问学十年的心路。全书以胡风案的语言沉沦为起点，追问知识分子在高压下的集体失语；以张闻天在庐山的妥协为切口，剖析汉民族政治文化中“终极关怀“的基因缺失；以顾准在干校给抽屉写作的思想遗产为灯塔，守护一代人在失语后的问题意识。从卢梭、潘恩到顾准，从灵魂拷问到社会批判，朱学勤守住了冷板凳上的学理，也守住了破门而出的追问。书名取自东林书院那副对联的下半句——风声、雨声、读书声，声声入耳；家事、国事、天下事，事事关心。在读书界普遍转向考据、躲避大问题的年代，这本书逆流而上，是一代人在转折点上留下的精神底色。</description>
+      <pubDate>Thu, 02 Jul 2026 03:00:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260702-episode-20260702-4f8cbb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《风声·雨声·读书声》是历史学者朱学勤一九九〇年代初的随笔集，凝结了他带着“问题意识“问学十年的心路。全书以胡风案的语言沉沦为起点，追问知识分子在高压下的集体失语；以张闻天在庐山的妥协为切口，剖析汉民族政治文化中“终极关怀“的基因缺失；以顾准在干校给抽屉写作的思想遗产为灯塔，守护一代人在失语后的问题意识。从卢梭、潘恩到顾准，从灵魂拷问到社会批判，朱学勤守住了冷板凳上的学理，也守住了破门而出的追问。书名取自东林书院那副对联的下半句——风声、雨声、读书声，声声入耳；家事、国事、天下事，事事关心。在读书界普遍转向考据、躲避大问题的年代，这本书逆流而上，是一代人在转折点上留下的精神底色。</itunes:summary>
+      <itunes:duration>00:38:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-4f8cbb.mp3" length="37111725" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
