@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 02 Jul 2026 03:09:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 07:25:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8861,6 +8861,17 @@
       <itunes:duration>00:32:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-3ecae2.mp3" length="31440429" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大败局》 · 完整版 · 大败局 · 完整讲读</title>
+      <description>《大败局》记录了上世纪九十年代中国十家明星企业——秦池、巨人、爱多、玫瑰园、飞龙、瀛海威、三株、太阳神、南德、亚细亚——从神话走向崩塌的真实历程。作者吴晓波在初版序言中提炼出三类共同的&quot;失败基因&quot;：道德感的缺失、对规律和秩序的漠视、职业精神的匮乏。本期用一档音频节目的形式，把十场败局从头到尾讲了一遍，并最终落在三组反思上：激情与失控的共生、政商关系与企业家命运、营销神话与品牌幻觉。重读这本书，不是为了怀旧，而是为了照镜子——那些在共享单车、长租公寓、造车新势力里隐约浮现的影子，其实在二十多年前的秦池、巨人、太阳神身上，早就演出过一遍。历史不会重复，但会押韵。</description>
+      <pubDate>Thu, 02 Jul 2026 07:25:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260702-episode-20260702-a77071</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大败局》记录了上世纪九十年代中国十家明星企业——秦池、巨人、爱多、玫瑰园、飞龙、瀛海威、三株、太阳神、南德、亚细亚——从神话走向崩塌的真实历程。作者吴晓波在初版序言中提炼出三类共同的&quot;失败基因&quot;：道德感的缺失、对规律和秩序的漠视、职业精神的匮乏。本期用一档音频节目的形式，把十场败局从头到尾讲了一遍，并最终落在三组反思上：激情与失控的共生、政商关系与企业家命运、营销神话与品牌幻觉。重读这本书，不是为了怀旧，而是为了照镜子——那些在共享单车、长租公寓、造车新势力里隐约浮现的影子，其实在二十多年前的秦池、巨人、太阳神身上，早就演出过一遍。历史不会重复，但会押韵。</itunes:summary>
+      <itunes:duration>00:37:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-a77071.mp3" length="35881773" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
