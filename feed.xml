@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 02 Jul 2026 01:58:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 02:04:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8718,6 +8718,17 @@
       <itunes:duration>00:20:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-1278cb.mp3" length="19636269" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《地下铁》 · 完整版 · 地下铁 · 完整讲读</title>
+      <description>几米二零零一年绘本诗《地下铁》，以一位十五岁渐盲少女的台北地铁漫游为线索，用数百行短诗与数十幅跨页插画，把失明写成了一种感官的倒装。她看不见颜色，却听得见叶落；她找不到方向，却用脚步丈量了一整座城市；她在每一个站台的名字里，藏下了恐惧、孤独、告别，也藏下了听说存在的金叶子、偷偷藏好的玻璃鞋，以及那个愿意在出口等她的人。书末并置辛波丝卡与里尔克的诗作，把台北的地铁与欧洲的语言传统悄悄缝合。本期节目，我们陪你坐完整条地下铁，听听几米如何把每一个在屏幕时代里失明的大人，重新带回脚下、耳边、与手心。</description>
+      <pubDate>Thu, 02 Jul 2026 02:04:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260702-episode-20260702-a59803</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>几米二零零一年绘本诗《地下铁》，以一位十五岁渐盲少女的台北地铁漫游为线索，用数百行短诗与数十幅跨页插画，把失明写成了一种感官的倒装。她看不见颜色，却听得见叶落；她找不到方向，却用脚步丈量了一整座城市；她在每一个站台的名字里，藏下了恐惧、孤独、告别，也藏下了听说存在的金叶子、偷偷藏好的玻璃鞋，以及那个愿意在出口等她的人。书末并置辛波丝卡与里尔克的诗作，把台北的地铁与欧洲的语言传统悄悄缝合。本期节目，我们陪你坐完整条地下铁，听听几米如何把每一个在屏幕时代里失明的大人，重新带回脚下、耳边、与手心。</itunes:summary>
+      <itunes:duration>00:26:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-a59803.mp3" length="25632045" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
