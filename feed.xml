@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 02 Jul 2026 16:50:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 21:20:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8971,6 +8971,17 @@
       <itunes:duration>00:26:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260703/episode-20260703-895325.mp3" length="25758381" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《安德的游戏》 · 完整版 · 安德的游戏 · 完整讲读</title>
+      <description>《安德的游戏》讲述人类为应对虫族第三次入侵，将六岁的天才儿童安德送入太空战斗学校，通过系统性的孤立、霸凌与残酷训练，将其塑造为终极军事指挥官。安德在无数次“模拟战役”中被迫杀伐决断，胜利的背后是制度性的精神暴力与人性剥夺。最终他以“演习”之名亲手灭绝了虫族，拯救人类却再也无法回到地球。这部作品借少年成长叩问战争伦理：当一个孩子被塑造为武器，谁来为消失的童年负责？当“赢”成为唯一目标，胜利者又该如何面对自己双手沾上的血？</description>
+      <pubDate>Thu, 02 Jul 2026 21:20:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260703-episode-20260703-8c592e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《安德的游戏》讲述人类为应对虫族第三次入侵，将六岁的天才儿童安德送入太空战斗学校，通过系统性的孤立、霸凌与残酷训练，将其塑造为终极军事指挥官。安德在无数次“模拟战役”中被迫杀伐决断，胜利的背后是制度性的精神暴力与人性剥夺。最终他以“演习”之名亲手灭绝了虫族，拯救人类却再也无法回到地球。这部作品借少年成长叩问战争伦理：当一个孩子被塑造为武器，谁来为消失的童年负责？当“赢”成为唯一目标，胜利者又该如何面对自己双手沾上的血？</itunes:summary>
+      <itunes:duration>00:25:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260703/episode-20260703-8c592e.mp3" length="24070317" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
