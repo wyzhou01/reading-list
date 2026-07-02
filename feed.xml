@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 02 Jul 2026 16:22:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 16:30:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8927,6 +8927,17 @@
       <itunes:duration>00:25:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260703/episode-20260703-da822a.mp3" length="24186285" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《银、剑、石：拉丁美洲的三重烙印》 · 完整版 · 银、剑、石 · 完整讲读</title>
+      <description>《银、剑、石》是秘鲁裔美国作家玛丽·阿拉娜对拉美千年苦难史的非虚构叙事。全书以银、剑、石三种执念为线索——对贵金属的痴迷、强人暴力的崇拜、天主教与原住民信仰的碰撞融合——串联起从哥伦布前文明到当代毒品战争与矿业乱象的拉美命运。通过高原金矿女工莱昂诺尔·冈萨雷斯的故事，作者揭示了这片大陆如何被资源掠夺、强人循环、信仰混血三重力量反复塑造。全书中文版由林华翻译，二零二一年中信出版集团推出。</description>
+      <pubDate>Thu, 02 Jul 2026 16:29:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260703-episode-20260703-5331ec</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《银、剑、石》是秘鲁裔美国作家玛丽·阿拉娜对拉美千年苦难史的非虚构叙事。全书以银、剑、石三种执念为线索——对贵金属的痴迷、强人暴力的崇拜、天主教与原住民信仰的碰撞融合——串联起从哥伦布前文明到当代毒品战争与矿业乱象的拉美命运。通过高原金矿女工莱昂诺尔·冈萨雷斯的故事，作者揭示了这片大陆如何被资源掠夺、强人循环、信仰混血三重力量反复塑造。全书中文版由林华翻译，二零二一年中信出版集团推出。</itunes:summary>
+      <itunes:duration>00:24:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260703/episode-20260703-5331ec.mp3" length="23206317" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
