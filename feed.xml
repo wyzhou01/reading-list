@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 02 Jul 2026 02:38:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 02:42:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8795,6 +8795,17 @@
       <itunes:duration>00:33:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-049134.mp3" length="32252205" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《精神异常梦游症患者调查报告》 · 完整版 · 《精神异常梦游症患者调查报告》 · 完整讲读</title>
+      <description>《精神异常梦游症患者调查报告》是天涯写手 fangyangcool 于二零一五年发表的连载作品，用十八位梦游症患者的采访口述，包装了一场关于“现实是否真实”的集体哲学审讯。本期节目顺着这十八个离奇病例，从厨师对“羊肉串一定是羊肉做的吗”的追问、程序员“自己是构建世界的程序员之一”的呓语，到物理学家在平行宇宙中见到死去的妹妹、画家三十年来只画一棵树、山本先生在广岛原子弹爆炸后与另一个自己相遇，逐一拆解其中对“真实”、“身份”、“意识”的拷问，并延伸讨论 M3 偏见，提醒读者在怀疑世界之前，先怀疑自己的怀疑。</description>
+      <pubDate>Thu, 02 Jul 2026 02:42:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260702-episode-20260702-9c4ebd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《精神异常梦游症患者调查报告》是天涯写手 fangyangcool 于二零一五年发表的连载作品，用十八位梦游症患者的采访口述，包装了一场关于“现实是否真实”的集体哲学审讯。本期节目顺着这十八个离奇病例，从厨师对“羊肉串一定是羊肉做的吗”的追问、程序员“自己是构建世界的程序员之一”的呓语，到物理学家在平行宇宙中见到死去的妹妹、画家三十年来只画一棵树、山本先生在广岛原子弹爆炸后与另一个自己相遇，逐一拆解其中对“真实”、“身份”、“意识”的拷问，并延伸讨论 M3 偏见，提醒读者在怀疑世界之前，先怀疑自己的怀疑。</itunes:summary>
+      <itunes:duration>00:26:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-9c4ebd.mp3" length="25376685" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
