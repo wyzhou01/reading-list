@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 02 Jul 2026 16:30:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 16:38:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8938,6 +8938,17 @@
       <itunes:duration>00:24:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260703/episode-20260703-5331ec.mp3" length="23206317" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《艰辛时刻》 · 完整版 · 艰辛时刻 · 完整讲读</title>
+      <description>《艰辛时刻》是二零一零年诺贝尔文学奖得主马里奥·巴尔加斯·略萨晚年的代表作，以小说笔法还原一九五四年危地马拉政变真相：中情局联合美国联合果品公司，颠覆拉美历史上首个通过自由选举产生的民选政府哈科沃·阿本斯的统治。略萨借三位关键人物——商业巨头塞穆莱、宣传大师伯内斯、神秘女主人公玛尔塔——剖开冷战宣传、经济殖民与军事颠覆的合谋机制。书中揭露的核心真相是：让华盛顿出兵的并非什么&quot;共产主义威胁&quot;，而是联合果品公司恐惧一个民主改革样板会带动整个中美洲觉醒；宣传的最高境界不是撒谎，而是让自由派媒体以为自己独立发现了&quot;真相&quot;。政变之后，危地马拉陷入长达三十六年的内战，二十万人丧生。略萨借古喻今追问：拉丁美洲什么时候开始走向衰运？而那套由金钱、枪炮与宣传织成的隐形大网，至今仍以各种面目存在于世界各个角落。</description>
+      <pubDate>Thu, 02 Jul 2026 16:37:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260703-episode-20260703-0fb86d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《艰辛时刻》是二零一零年诺贝尔文学奖得主马里奥·巴尔加斯·略萨晚年的代表作，以小说笔法还原一九五四年危地马拉政变真相：中情局联合美国联合果品公司，颠覆拉美历史上首个通过自由选举产生的民选政府哈科沃·阿本斯的统治。略萨借三位关键人物——商业巨头塞穆莱、宣传大师伯内斯、神秘女主人公玛尔塔——剖开冷战宣传、经济殖民与军事颠覆的合谋机制。书中揭露的核心真相是：让华盛顿出兵的并非什么&quot;共产主义威胁&quot;，而是联合果品公司恐惧一个民主改革样板会带动整个中美洲觉醒；宣传的最高境界不是撒谎，而是让自由派媒体以为自己独立发现了&quot;真相&quot;。政变之后，危地马拉陷入长达三十六年的内战，二十万人丧生。略萨借古喻今追问：拉丁美洲什么时候开始走向衰运？而那套由金钱、枪炮与宣传织成的隐形大网，至今仍以各种面目存在于世界各个角落。</itunes:summary>
+      <itunes:duration>00:32:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260703/episode-20260703-0fb86d.mp3" length="31161261" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
