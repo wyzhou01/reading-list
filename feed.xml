@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 02 Jul 2026 02:18:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 02:23:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8751,6 +8751,17 @@
       <itunes:duration>00:33:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-ba82c5.mp3" length="32024493" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《冲向火星》 · 完整版 · 冲向火星 · 完整讲读</title>
+      <description>《冲向火星》是航天记者艾瑞克·伯格关于 SpaceX 创业头六年的纪实作品。本书以大量一手采访，还原了马斯克如何在破产边缘带领一群来自世界各地的工程师，用迭代式设计、垂直整合和现场决策，把猎鹰一号送入轨道，并在 NASA 的订单中把 SpaceX 喂养长大。对创业者、产品经理、工程师而言，这本书讲的不仅是一家航天公司如何从零到一，更是一种在巨头垄断的行业里，把失败写进流程、把客户写进基因、把现场决策权留给最靠近问题的人的组织哲学。</description>
+      <pubDate>Thu, 02 Jul 2026 02:23:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260702-episode-20260702-a3cb13</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《冲向火星》是航天记者艾瑞克·伯格关于 SpaceX 创业头六年的纪实作品。本书以大量一手采访，还原了马斯克如何在破产边缘带领一群来自世界各地的工程师，用迭代式设计、垂直整合和现场决策，把猎鹰一号送入轨道，并在 NASA 的订单中把 SpaceX 喂养长大。对创业者、产品经理、工程师而言，这本书讲的不仅是一家航天公司如何从零到一，更是一种在巨头垄断的行业里，把失败写进流程、把客户写进基因、把现场决策权留给最靠近问题的人的组织哲学。</itunes:summary>
+      <itunes:duration>00:31:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-a3cb13.mp3" length="30071085" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
