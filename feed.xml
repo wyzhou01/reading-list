@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 02 Jul 2026 21:26:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 21:30:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9004,6 +9004,17 @@
       <itunes:duration>00:22:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260703/episode-20260703-f988df.mp3" length="21466413" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一个人的朝圣》 · 完整版 · 一个人的朝圣 · 完整讲读</title>
+      <description>《一个人的朝圣》是英国女作家蕾秋·乔伊斯的处女作，讲述六十五岁退休老人哈罗德收到二十年未见、身患癌症的昔日同事奎妮的告别信后，决定徒步穿越六百二十七英里去看望她的故事。一场看似荒唐的徒步，最终让他直面丧子之痛、与妻子莫琳之间二十年的沉默、以及被父亲抛弃的童年。这本书表面是治愈系的行走文学，骨子里却在叩问一个更重的问题：当一个人终于学会把埋了二十年的话说出来，他还能重新开始吗？</description>
+      <pubDate>Thu, 02 Jul 2026 21:30:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260703-episode-20260703-5374f6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一个人的朝圣》是英国女作家蕾秋·乔伊斯的处女作，讲述六十五岁退休老人哈罗德收到二十年未见、身患癌症的昔日同事奎妮的告别信后，决定徒步穿越六百二十七英里去看望她的故事。一场看似荒唐的徒步，最终让他直面丧子之痛、与妻子莫琳之间二十年的沉默、以及被父亲抛弃的童年。这本书表面是治愈系的行走文学，骨子里却在叩问一个更重的问题：当一个人终于学会把埋了二十年的话说出来，他还能重新开始吗？</itunes:summary>
+      <itunes:duration>00:30:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260703/episode-20260703-5374f6.mp3" length="29220909" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
