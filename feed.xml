@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 01 Jul 2026 21:34:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 01:54:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8696,6 +8696,17 @@
       <itunes:duration>00:26:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-5af70b.mp3" length="25446189" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《生活中的情绪心理学：来自内心深处的福流》 · 完整版 · 生活中的情绪心理学：来自内心深处的福流（彭凯平） · 完整讲读</title>
+      <description>《生活中的情绪心理学:来自内心深处的福流》是清华大学心理学教授彭凯平写给普通人的情绪管理手册。作者从积极心理学的视角出发,主张情绪本身没有好坏,有问题的是我们对情绪的认知和应对方式。全书围绕六块拼图展开:理解情绪本质、与负面情绪对话、抵达福流的最高境界、正确表达愤怒、用情绪价值经营亲密关系、用好情绪为孩子的人生奠基。书中穿插大量文史故事与科学实验,既有方法论的指导,也有温度的传递,最终指向一个温暖的结论——把情绪负债变成情绪资产,把情绪陷阱变成情绪优势,每个人都能抵达来自内心深处的福流。</description>
+      <pubDate>Thu, 02 Jul 2026 01:54:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260702-episode-20260702-375042</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《生活中的情绪心理学:来自内心深处的福流》是清华大学心理学教授彭凯平写给普通人的情绪管理手册。作者从积极心理学的视角出发,主张情绪本身没有好坏,有问题的是我们对情绪的认知和应对方式。全书围绕六块拼图展开:理解情绪本质、与负面情绪对话、抵达福流的最高境界、正确表达愤怒、用情绪价值经营亲密关系、用好情绪为孩子的人生奠基。书中穿插大量文史故事与科学实验,既有方法论的指导,也有温度的传递,最终指向一个温暖的结论——把情绪负债变成情绪资产,把情绪陷阱变成情绪优势,每个人都能抵达来自内心深处的福流。</itunes:summary>
+      <itunes:duration>00:48:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-375042.mp3" length="46868781" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
