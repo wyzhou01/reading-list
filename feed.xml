@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 02 Jul 2026 16:38:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 16:45:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8949,6 +8949,17 @@
       <itunes:duration>00:32:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260703/episode-20260703-0fb86d.mp3" length="31161261" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《食南之徒》 · 完整版 · 食南之徒 · 完整讲读</title>
+      <description>《食南之徒》是马伯庸二零二四年出版的长篇历史悬疑小说，源起于《史记·西南夷列传》一段不到百字的记载：西汉番阳县令唐蒙出使南越，偶然吃到蜀地枸酱，由此发现一条经夜郎直抵番禺的秘密商路，进而推动汉武帝将岭南纳入帝国版图。马伯庸用二十多万字把这个冷僻典故扩成一部融合美食、地理、权谋的悬疑长篇：一个痴迷烤肉的胖子县丞，靠舌头代替刀剑侦破政治阴谋；一罐枸酱串联起巴蜀、夜郎、南越三方博弈；一个十四岁孤女甘蔗，在宏大叙事里哭不出声地失去阿公。小说借古喻今，揭示地理认知的扩展如何改写历史，也提醒我们：每一片被点亮的地图背后，都有几代具体的人被碾碎。</description>
+      <pubDate>Thu, 02 Jul 2026 16:44:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260703-episode-20260703-56696b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《食南之徒》是马伯庸二零二四年出版的长篇历史悬疑小说，源起于《史记·西南夷列传》一段不到百字的记载：西汉番阳县令唐蒙出使南越，偶然吃到蜀地枸酱，由此发现一条经夜郎直抵番禺的秘密商路，进而推动汉武帝将岭南纳入帝国版图。马伯庸用二十多万字把这个冷僻典故扩成一部融合美食、地理、权谋的悬疑长篇：一个痴迷烤肉的胖子县丞，靠舌头代替刀剑侦破政治阴谋；一罐枸酱串联起巴蜀、夜郎、南越三方博弈；一个十四岁孤女甘蔗，在宏大叙事里哭不出声地失去阿公。小说借古喻今，揭示地理认知的扩展如何改写历史，也提醒我们：每一片被点亮的地图背后，都有几代具体的人被碾碎。</itunes:summary>
+      <itunes:duration>00:29:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260703/episode-20260703-56696b.mp3" length="28443693" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
