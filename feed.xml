@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 02 Jul 2026 02:04:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 02:11:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8729,6 +8729,17 @@
       <itunes:duration>00:26:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-a59803.mp3" length="25632045" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《旧制度与大革命》 · 完整版 · 旧制度与大革命 · 完整讲读</title>
+      <description>《旧制度与大革命》核心要义：法国大革命的暴烈，根源不在贫困与专制，而在繁荣时期的希望落差、中央集权对社会的原子化、对平等的执念压过了对自由的守护。托克维尔提醒我们：当政治表达被挤入文学，作家就会成为“业余政治局”；当中间阶层被掏空、个体直接面对国家机器，任何小火星都可能引爆整片原野。比改革更重要的，是建立社会自我修正的机制；比平等更珍贵的，是在自由中共同生活的能力。</description>
+      <pubDate>Thu, 02 Jul 2026 02:11:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260702-episode-20260702-ae8039</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《旧制度与大革命》核心要义：法国大革命的暴烈，根源不在贫困与专制，而在繁荣时期的希望落差、中央集权对社会的原子化、对平等的执念压过了对自由的守护。托克维尔提醒我们：当政治表达被挤入文学，作家就会成为“业余政治局”；当中间阶层被掏空、个体直接面对国家机器，任何小火星都可能引爆整片原野。比改革更重要的，是建立社会自我修正的机制；比平等更珍贵的，是在自由中共同生活的能力。</itunes:summary>
+      <itunes:duration>00:23:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260702/episode-20260702-ae8039.mp3" length="22174125" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
