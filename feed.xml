@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 02 Jul 2026 16:45:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 16:50:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8960,6 +8960,17 @@
       <itunes:duration>00:29:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260703/episode-20260703-56696b.mp3" length="28443693" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我还能看到多少次满月升起》 · 完整版 · 我还能看到多少次满月升起 · 完整讲读</title>
+      <description>《我还能看到多少次满月升起》是日本音乐家坂本龙一在癌症复发后，以对话形式口述完成的生前最后一部自述。从二零一四年的口咽癌到二零二零年直肠癌的转移，他在这本书里谈手术与谵妄，谈与贝托鲁奇、保罗·鲍尔斯、大岛渚等艺术家的合作，谈音乐与时间，也谈他如何在疾病的阴影里一步步走向从容的告别。书名取自贝托鲁奇一九九零年电影《遮蔽的天空》中鲍尔斯的台词，他把这句台词翻译成多国语言，制成了《异步》中的《满月》。本书的特殊之处在于，它不是回顾式的传记，而是一位知道自己即将离去的人，在病床上、手术室里、隔离酒店中，平静地说出的对生命、艺术与世界的理解。</description>
+      <pubDate>Thu, 02 Jul 2026 16:49:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260703-episode-20260703-895325</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我还能看到多少次满月升起》是日本音乐家坂本龙一在癌症复发后，以对话形式口述完成的生前最后一部自述。从二零一四年的口咽癌到二零二零年直肠癌的转移，他在这本书里谈手术与谵妄，谈与贝托鲁奇、保罗·鲍尔斯、大岛渚等艺术家的合作，谈音乐与时间，也谈他如何在疾病的阴影里一步步走向从容的告别。书名取自贝托鲁奇一九九零年电影《遮蔽的天空》中鲍尔斯的台词，他把这句台词翻译成多国语言，制成了《异步》中的《满月》。本书的特殊之处在于，它不是回顾式的传记，而是一位知道自己即将离去的人，在病床上、手术室里、隔离酒店中，平静地说出的对生命、艺术与世界的理解。</itunes:summary>
+      <itunes:duration>00:26:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260703/episode-20260703-895325.mp3" length="25758381" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
