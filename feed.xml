@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 02 Jul 2026 21:24:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 21:26:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -8993,6 +8993,17 @@
       <itunes:duration>00:29:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260703/episode-20260703-fe9365.mp3" length="28647981" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《智人之上：从石器时代到AI时代的信息网络简史》 · 完整版 · 智人之上 · 完整讲读</title>
+      <description>《智人之上》是一部跨越十万年的人类信息网络史。赫拉利指出，人类真正的力量来自大规模合作网络，而网络的黏合剂是虚构故事与信息。他批判“天真的信息观”——以为信息越多就越接近真相——并警告，当人工智能这种能自己做决策的非人类智能接管网络核心时，人类既有的自我修正机制可能彻底失效。面对生态崩溃、全球战争与技术失控的多重危机，赫拉利的最终答案朴素却迫切：我们不需要奇迹技术，而需要为所有大型机构打造更结实的自我修正机制，在不确定的世界里保留犯错、承认错误、重新再来的能力。</description>
+      <pubDate>Thu, 02 Jul 2026 21:26:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260703-episode-20260703-f988df</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《智人之上》是一部跨越十万年的人类信息网络史。赫拉利指出，人类真正的力量来自大规模合作网络，而网络的黏合剂是虚构故事与信息。他批判“天真的信息观”——以为信息越多就越接近真相——并警告，当人工智能这种能自己做决策的非人类智能接管网络核心时，人类既有的自我修正机制可能彻底失效。面对生态崩溃、全球战争与技术失控的多重危机，赫拉利的最终答案朴素却迫切：我们不需要奇迹技术，而需要为所有大型机构打造更结实的自我修正机制，在不确定的世界里保留犯错、承认错误、重新再来的能力。</itunes:summary>
+      <itunes:duration>00:22:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260703/episode-20260703-f988df.mp3" length="21466413" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
