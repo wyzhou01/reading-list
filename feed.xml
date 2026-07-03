@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 03 Jul 2026 07:30:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 07:43:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -41,6 +41,17 @@
       <itunes:duration>00:21:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260703/episode-20260703-a6a95b.mp3" length="20261421" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一色一生》 · 完整版 · 一色一生 · 完整讲读</title>
+      <description>《一色一生》是日本染织界&quot;人间国宝&quot;志村福美用二十多年与植物对话写下的色彩之书。她出身于艺术之家，母亲为丈夫放弃毕生热爱的织物创作，兄长小野元卫拥有出众才华却陨落于二十九岁的盛年。她带着两个幼儿以谋生所迫走上染织之路，却用大半生蛰伏在京都嵯峨的小工坊里，从桤木、樱、蓼蓝、紫根、苏芳、红花、茜草中萃取生命的精魂。她写道：色彩不只是颜色，它是草木的精魂；染的不是色，是命；那扇通往植物背后的窄门，只在我内心纯净如水的时刻才会开启。这本书，是一位艺术家用一生书写的对极致与纯粹的追问，也是替两代人活下去的承诺。</description>
+      <pubDate>Fri, 03 Jul 2026 07:43:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260703-episode-20260703-2154d4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一色一生》是日本染织界&quot;人间国宝&quot;志村福美用二十多年与植物对话写下的色彩之书。她出身于艺术之家，母亲为丈夫放弃毕生热爱的织物创作，兄长小野元卫拥有出众才华却陨落于二十九岁的盛年。她带着两个幼儿以谋生所迫走上染织之路，却用大半生蛰伏在京都嵯峨的小工坊里，从桤木、樱、蓼蓝、紫根、苏芳、红花、茜草中萃取生命的精魂。她写道：色彩不只是颜色，它是草木的精魂；染的不是色，是命；那扇通往植物背后的窄门，只在我内心纯净如水的时刻才会开启。这本书，是一位艺术家用一生书写的对极致与纯粹的追问，也是替两代人活下去的承诺。</itunes:summary>
+      <itunes:duration>00:21:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260703/episode-20260703-2154d4.mp3" length="21097389" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
