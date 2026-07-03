@@ -277,6 +277,88 @@ def pick_book(candidates: list):
 
 
 # ==================== 3. run_one ====================
+# ==================== 3.5 Pages wait (Fix 3 — 2026-07-04) ====================
+def wait_pages_deploy(target_repo: str, last_sha: str, timeout_sec: int = 90) -> tuple[bool, str]:
+    """等 GitHub Pages deploy 追上 last commit sha. 返回 (success, message).
+    2026-07-04 加: reading-list 5 本串行发布 (18+ commits/天 vs podcast 3),
+    Pages race condition 概率高 5 倍, 必须主动等 deploy 成功避免静默失败.
+    复用 podcast daily.sh Pages wait 逻辑 (5s retry × 3 + raise on fail).
+    """
+    import time as _t
+    import os as _os
+    import json as _json
+    import subprocess as _sp
+    
+    pat = _os.environ.get("GITHUB_PODCAST_PAT", "")
+    user = _os.environ.get("GITHUB_PODCAST_USER", "wyzhou01")
+    if not pat:
+        return False, "no GITHUB_PODCAST_PAT env"
+    
+    short_sha = last_sha[:8]
+    deadline = _t.time() + timeout_sec
+    empty_query_count = 0
+    max_empty_query = 3
+    
+    while _t.time() < deadline:
+        env = _os.environ.copy()
+        env.setdefault("HTTPS_PROXY", "http://127.0.0.1:7897")
+        try:
+            # 查 last commit 的 workflow run status
+            r = _sp.run(
+                ["curl", "-sS", "--max-time", "10",
+                 "-H", f"Authorization: token {pat}",
+                 f"https://api.github.com/repos/{user}/{target_repo}/actions/runs?per_page=1&head_sha={last_sha}"],
+                capture_output=True, text=True, timeout=20, env=env
+            )
+            d = _json.loads(r.stdout)
+            runs = d.get("workflow_runs", [])
+            status = (runs[0]["conclusion"] or runs[0]["status"]) if runs else "none"
+        except Exception as e:
+            status = "none"
+        
+        if status == "success":
+            print(f"  ✅ Pages deploy {short_sha} success")
+            return True, "success"
+        elif status in ("failure", "cancelled"):
+            return False, f"Pages deploy {short_sha} {status}"
+        elif status in ("in_progress", "queued"):
+            print(f"  ⏳ Pages deploy {short_sha} {status}, 继续等...")
+            _t.sleep(10)
+            empty_query_count = 0
+        else:  # none (API 返回空)
+            empty_query_count += 1
+            if empty_query_count >= max_empty_query:
+                return False, f"Pages API empty {max_empty_query} 次"
+            print(f"  ⚠️ Pages status API empty ({empty_query_count}/{max_empty_query}), sleep 5")
+            _t.sleep(5)
+    
+    return False, f"Pages deploy {short_sha} 90s 超时"
+
+
+def get_last_commit_sha(target_repo: str) -> str:
+    """拿仓最一次 commit sha (从 GitHub API)."""
+    import os as _os
+    import json as _json
+    import subprocess as _sp
+    pat = _os.environ.get("GITHUB_PODCAST_PAT", "")
+    user = _os.environ.get("GITHUB_PODCAST_USER", "wyzhou01")
+    if not pat:
+        return ""
+    env = _os.environ.copy()
+    env.setdefault("HTTPS_PROXY", "http://127.0.0.1:7897")
+    try:
+        r = _sp.run(
+            ["curl", "-sS", "--max-time", "10",
+             "-H", f"Authorization: token {pat}",
+             f"https://api.github.com/repos/{user}/{target_repo}/commits?per_page=1"],
+            capture_output=True, text=True, timeout=15, env=env
+        )
+        d = _json.loads(r.stdout)
+        return d[0]["sha"] if d else ""
+    except Exception:
+        return ""
+
+
 def run_one(book: dict) -> tuple[bool, str]:
     """调 single_book_pipeline.py run.
     返回 (success, reason). 失败 1 次重试 1 次.
@@ -410,12 +492,28 @@ def main():
 
     # 3. run N 本串行
     results = []  # [(book, success, reason)]
+    target_repo = "reading-list"  # 修复目标仓
     for i, book in enumerate(picked, 1):
         print(f"\n[3/4] ({i}/{len(picked)}) 跑 single_book_pipeline.py run {book['book_safe']} ...")
         success, reason = run_one(book)
         record_seen(book["book_safe"], book["l2"], book["l3"],
                     "success" if success else "failed", reason)
         results.append((book, success, reason))
+        # 2026-07-04 Fix 3: 每本 publish 完后, sleep 5 + Pages deploy wait.
+        # 避免连续 commit 触发 Pages deploy race condition.
+        # 5 本串行 → 可能 5 次 race condition, 必须主动等.
+        if i < len(picked):  # 最后一本后不需要, TG 报告后会再有 process
+            print(f"  💤 sleep 5s — 让上一次 Pages build 进入 in_progress (防 race condition)")
+            import time as _sleep_t
+            _sleep_t.sleep(5)
+            # 拿 last commit, wait Pages
+            last_sha = get_last_commit_sha(target_repo)
+            if last_sha:
+                ok, msg = wait_pages_deploy(target_repo, last_sha, timeout_sec=90)
+                if not ok:
+                    print(f"  ⚠️ Pages wait 失败 ({msg[:80]}), 但本本已 publish 完成, 继续下一本")
+                    # 不 raise: reading-list 本本是独立的, 一本失败不影响下一本.
+                    # 真有问题 TG 汇总报告里能看到连续 deploy failure.
 
     # 4. report 汇总
     print("\n[4/4] TG 报告 (汇总) ...")
