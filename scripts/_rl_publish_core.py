@@ -108,30 +108,55 @@ def _curl_get(path, headers=None, retries=3, base_wait=2, timeout=30):
 
 
 def _curl_put(path, body_dict, headers=None, retries=3, base_wait=2, timeout=60):
-    """2026-06-10: 用 curl 代替 urllib PUT. 原因: mihomo TUN + urllib SSL EOF."""
+    """2026-06-10: 用 curl 代替 urllib PUT. 原因: mihomo TUN + urllib SSL EOF.
+    2026-07-04 fix: feed.xml >256KB 触发 macOS ARG_MAX (~256KB) 限制 → OSError [Errno 7].
+    解决: body 超过 256KB 时写 temp 文件走 --data-binary @file (跟 podcast gh_release_upload._curl_post 一致).
+    """
     import subprocess as _sp
     from urllib.parse import quote
     import time as _t
+    import tempfile as _tmp
+    import os as _os
     url = API_BASE + f"/repos/{os.environ['GITHUB_PODCAST_USER']}/{os.environ['GITHUB_PODCAST_REPO']}/contents/{quote(path, safe='/')}"
     args = ["curl", "-sS", "--max-time", str(timeout), "-X", "PUT", url]
     for k, v in (headers or {}).items():
         args += ["-H", f"{k}: {v}"]
-    args += ["-d", json.dumps(body_dict)]
-    last_err = None
-    for attempt in range(retries + 1):
+    body_str = json.dumps(body_dict)
+    body_via_file = None
+    if len(body_str) > 256 * 1024:
+        fd, body_via_file = _tmp.mkstemp(prefix="gh_body_", suffix=".json")
         try:
-            proc = _sp.run(args, capture_output=True, text=True, timeout=timeout + 30)
-            if proc.returncode != 0:
-                raise RuntimeError(f"curl PUT rc={proc.returncode}: {proc.stderr[:200]}")
-            return json.loads(proc.stdout)
-        except Exception as e:
-            last_err = e
-            if attempt < retries:
-                wait = base_wait * (2 ** attempt)
-                print(f"  ⚠️ curl PUT attempt {attempt+1} failed: {str(e)[:80]} (重试 {wait}s)", file=sys.stderr, flush=True)
-                _t.sleep(wait)
-            else:
-                raise last_err
+            with _os.fdopen(fd, "w", encoding="utf-8") as f:
+                f.write(body_str)
+        except Exception:
+            if body_via_file and _os.path.exists(body_via_file):
+                _os.unlink(body_via_file)
+            raise
+        args += ["--data-binary", f"@{body_via_file}"]
+    else:
+        args += ["-d", body_str]
+    last_err = None
+    try:
+        for attempt in range(retries + 1):
+            try:
+                proc = _sp.run(args, capture_output=True, text=True, timeout=timeout + 30)
+                if proc.returncode != 0:
+                    raise RuntimeError(f"curl PUT rc={proc.returncode}: {proc.stderr[:200]}")
+                return json.loads(proc.stdout)
+            except Exception as e:
+                last_err = e
+                if attempt < retries:
+                    wait = base_wait * (2 ** attempt)
+                    print(f"  ⚠️ curl PUT attempt {attempt+1} failed: {str(e)[:80]} (重试 {wait}s)", file=sys.stderr, flush=True)
+                    _t.sleep(wait)
+                else:
+                    raise last_err
+    finally:
+        if body_via_file and _os.path.exists(body_via_file):
+            try:
+                _os.unlink(body_via_file)
+            except Exception:
+                pass
 
 
 def gh_get(path):
