@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 03 Jul 2026 07:43:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 07:49:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -52,6 +52,17 @@
       <itunes:duration>00:21:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260703/episode-20260703-2154d4.mp3" length="21097389" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《孤岛的来访者》 · 完整版 · 孤岛的来访者 · 完整讲读</title>
+      <description>日本新本格推理作家方丈貴志的《孤島的來訪者》，將日本民俗學中「稀人」的概念，轉化為封閉空間裡可被邏輯推演的虛構法則。主角龍泉佑樹花十個月策劃復仇，準備在幽世島上殺害三名仇人，卻發現搶先動手的，是能隨意變形的高智慧異界生物。為了活下去，也為了不讓怪物取代自己「凶手」的位置，佑樹被迫從復仇者變成偵探。本作以「兩階段推理」與「向讀者的挑戰書」，重新定義了特殊設定推理的公平性，並在結尾以兩名復仇者對應兩名稀人的對稱結構，留下一個沒有寫在結局裡的懸念：繼承了悲劇的下一代，能不能真的走出來。</description>
+      <pubDate>Fri, 03 Jul 2026 07:49:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260703-episode-20260703-e55051</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>日本新本格推理作家方丈貴志的《孤島的來訪者》，將日本民俗學中「稀人」的概念，轉化為封閉空間裡可被邏輯推演的虛構法則。主角龍泉佑樹花十個月策劃復仇，準備在幽世島上殺害三名仇人，卻發現搶先動手的，是能隨意變形的高智慧異界生物。為了活下去，也為了不讓怪物取代自己「凶手」的位置，佑樹被迫從復仇者變成偵探。本作以「兩階段推理」與「向讀者的挑戰書」，重新定義了特殊設定推理的公平性，並在結尾以兩名復仇者對應兩名稀人的對稱結構，留下一個沒有寫在結局裡的懸念：繼承了悲劇的下一代，能不能真的走出來。</itunes:summary>
+      <itunes:duration>00:21:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260703/episode-20260703-e55051.mp3" length="21052461" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
