@@ -168,42 +168,34 @@ def get_file_sha(path):
 def get_file_content(path):
     """拿文件原始内容（不存在返回 None）
 
-    2026-07-03 修复: GitHub Contents API 对 >1MB 文件返回 encoding='none' + 空 content
-    (参考: 07-03 incident, feed.xml 1.6MB 被误当空文件处理 → publish 覆盖成 1-item)。
-    策略:
+    2026-07-03 修复: GitHub Contents API 对 >1MB 文件返回 encoding='none' + 空 content.
+    (参考: 07-03 incident, feed.xml 1.6MB 被误当空文件处理 → publish 覆盖成 1-item).
+
+    策略 (跟 podcast/publish.py 同款, 06-21 fix):
       1. 先尝试 Contents API, 如果 encoding='base64' 走原路径
-      2. 如果 encoding='none' / size>1MB / content 为空 → fallback 到 git blob API
-         (拿 main HEAD tree → feed.xml blob sha → blob API 拿真实 base64 content)
+      2. 如果 encoding='none' / content 为空 → fallback 到 git blob API
+         (用 Contents API 返回的 git_url 字段 → blob API 拿真实 base64 content)
     """
     r = gh_get(f"/repos/{os.environ['GITHUB_PODCAST_USER']}/{os.environ['GITHUB_PODCAST_REPO']}/contents/{path}")
     if not r:
         return None, None
-    # 大文件 fallback (2026-07-03): Contents API >1MB 返回空
+    # 正常路径: Contents API 返回 base64 content
     if r.get("encoding") == "base64" and r.get("content"):
         content = base64.b64decode(r["content"])
         return content, r.get("sha")
-    # Fallback: git blob API (拿 main HEAD tree 的 blob sha)
-    if r.get("size", 0) > 1_000_000 or r.get("encoding") == "none" or not r.get("content"):
-        sys.stderr.write(f"  ⚠️  Contents API 不返回大文件内容 (size={r.get('size', 0)}), fallback 到 git blob API\n")
-        # 1. 拿 main tree
-        tree = gh_get(f"/repos/{os.environ['GITHUB_PODCAST_USER']}/{os.environ['GITHUB_PODCAST_REPO']}/git/trees/main")
-        if tree and "tree" in tree:
-            for e in tree["tree"]:
-                if e.get("path") == path and e.get("type") == "blob":
-                    blob_sha = e["sha"]
-                    break
-            else:
-                return None, None
-            # 2. 拿 blob
-            blob = gh_get(f"/repos/{os.environ['GITHUB_PODCAST_USER']}/{os.environ['GITHUB_PODCAST_REPO']}/git/blobs/{blob_sha}")
-            if blob and blob.get("encoding") == "base64":
-                content = base64.b64decode(blob["content"])
-                sys.stderr.write(f"  ✓ 通过 git blob API 拿 {path} ({len(content)} bytes)\n")
-                return content, blob_sha
-        return None, None
-    # 其它情况 (如 encoding='base64' 但 content 为空) 也 fallback
-    content = base64.b64decode(r.get("content", ""))
-    return content, r.get("sha")
+    # 大文件 fallback: 走 git blob API (用 Contents API 返回的 git_url 字段)
+    if r.get("git_url"):
+        sys.stderr.write(f"  ⚠️  Contents API 不返回大文件内容 (size={r.get('size', 0)}, encoding={r.get('encoding')}), fallback 到 git blob API\n")
+        blob_url = r["git_url"]
+        blob_path = blob_url.replace("https://api.github.com", "")
+        blob = _curl_get(blob_path, headers=gh_headers(), retries=3, timeout=60)
+        if blob and blob.get("encoding") == "base64":
+            content = base64.b64decode(blob["content"])
+            sys.stderr.write(f"  ✓ 通过 git blob API 拿 {path} ({len(content)} bytes)\n")
+            return content, r.get("sha")
+        raise RuntimeError(f"blob API 编码不是 base64: {blob.get('encoding') if blob else 'None'}")
+    # 其它 fallback 失败
+    raise RuntimeError(f"Contents API 返回无 git_url, encoding={r.get('encoding')}, content len={len(r.get('content',''))}")
 
 
 # ============ RSS XML 生成 ============
@@ -428,6 +420,21 @@ def add_episode(args):
 
     # 读旧 RSS，prepend 新 episode（同 title 或同 audio_url 则覆盖，保留其它期）
     existing, _ = list_existing_episodes()
+    # 2026-07-03 加: force-push 防御 (与 podcast/publish.py 06-21 fix 同款)
+    # 如果 existing=[] 但远端实际有内容 → 拒绝 push, 防止 force-push 覆盖.
+    if not existing:
+        try:
+            _blob = gh_get(f"/repos/{os.environ['GITHUB_PODCAST_USER']}/{os.environ['GITHUB_PODCAST_REPO']}/contents/{FEED_PATH}")
+            if _blob and _blob.get("sha") and int(_blob.get("size", 0)) > 10000:
+                raise RuntimeError(
+                    f"add_episode 防御触发: list_existing_episodes 返回 0 条, "
+                    f"但远端 {FEED_PATH} 实际 {int(_blob.get('size', 0))} B (sha={_blob.get('sha','')[:12]}). "
+                    f"拒绝 push 以防 force-push 覆盖. 请检查 get_file_content 的 fallback."
+                )
+        except RuntimeError:
+            raise
+        except Exception:
+            pass  # 网络问题, 跟原行为一致继续
     from email.utils import parsedate_to_datetime
     new_ts = parsedate_to_datetime(ep["pub_date_rfc822"])
     # 同 title：用新 ep 替换旧 ep（每日一播，避免重复）
