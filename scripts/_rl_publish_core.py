@@ -166,11 +166,43 @@ def get_file_sha(path):
 
 
 def get_file_content(path):
-    """拿文件原始内容（不存在返回 None）"""
+    """拿文件原始内容（不存在返回 None）
+
+    2026-07-03 修复: GitHub Contents API 对 >1MB 文件返回 encoding='none' + 空 content
+    (参考: 07-03 incident, feed.xml 1.6MB 被误当空文件处理 → publish 覆盖成 1-item)。
+    策略:
+      1. 先尝试 Contents API, 如果 encoding='base64' 走原路径
+      2. 如果 encoding='none' / size>1MB / content 为空 → fallback 到 git blob API
+         (拿 main HEAD tree → feed.xml blob sha → blob API 拿真实 base64 content)
+    """
     r = gh_get(f"/repos/{os.environ['GITHUB_PODCAST_USER']}/{os.environ['GITHUB_PODCAST_REPO']}/contents/{path}")
     if not r:
         return None, None
-    content = base64.b64decode(r["content"])
+    # 大文件 fallback (2026-07-03): Contents API >1MB 返回空
+    if r.get("encoding") == "base64" and r.get("content"):
+        content = base64.b64decode(r["content"])
+        return content, r.get("sha")
+    # Fallback: git blob API (拿 main HEAD tree 的 blob sha)
+    if r.get("size", 0) > 1_000_000 or r.get("encoding") == "none" or not r.get("content"):
+        sys.stderr.write(f"  ⚠️  Contents API 不返回大文件内容 (size={r.get('size', 0)}), fallback 到 git blob API\n")
+        # 1. 拿 main tree
+        tree = gh_get(f"/repos/{os.environ['GITHUB_PODCAST_USER']}/{os.environ['GITHUB_PODCAST_REPO']}/git/trees/main")
+        if tree and "tree" in tree:
+            for e in tree["tree"]:
+                if e.get("path") == path and e.get("type") == "blob":
+                    blob_sha = e["sha"]
+                    break
+            else:
+                return None, None
+            # 2. 拿 blob
+            blob = gh_get(f"/repos/{os.environ['GITHUB_PODCAST_USER']}/{os.environ['GITHUB_PODCAST_REPO']}/git/blobs/{blob_sha}")
+            if blob and blob.get("encoding") == "base64":
+                content = base64.b64decode(blob["content"])
+                sys.stderr.write(f"  ✓ 通过 git blob API 拿 {path} ({len(content)} bytes)\n")
+                return content, blob_sha
+        return None, None
+    # 其它情况 (如 encoding='base64' 但 content 为空) 也 fallback
+    content = base64.b64decode(r.get("content", ""))
     return content, r.get("sha")
 
 
