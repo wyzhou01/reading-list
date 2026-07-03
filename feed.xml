@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 03 Jul 2026 07:23:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 07:30:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30,6 +30,17 @@
       <itunes:duration>00:23:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260703/episode-20260703-74099e.mp3" length="22795821" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《仿制药的真相》 · 完整版 · 仿制药的真相 · 完整讲读</title>
+      <description>《仿制药的真相》是调查记者凯瑟琳·埃班历时十年的重磅非虚构作品。她走访四个大洲，翻阅近两万份药监局文件，采访了二百四十多位关键人物，揭露了印度仿制药巨头兰伯西等公司长期伪造数据、操纵检测、隐瞒质量问题的全球骗局。书中揭示了美国药监体系在全球化浪潮中的结构性失灵、利润驱动下数据造假的产业链，以及患者作为信息末端在监管博弈中付出的真实代价。这本书不仅是一份调查报告，更是对全球公共卫生监管体系的一次灵魂拷问。</description>
+      <pubDate>Fri, 03 Jul 2026 07:30:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260703-episode-20260703-a6a95b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《仿制药的真相》是调查记者凯瑟琳·埃班历时十年的重磅非虚构作品。她走访四个大洲，翻阅近两万份药监局文件，采访了二百四十多位关键人物，揭露了印度仿制药巨头兰伯西等公司长期伪造数据、操纵检测、隐瞒质量问题的全球骗局。书中揭示了美国药监体系在全球化浪潮中的结构性失灵、利润驱动下数据造假的产业链，以及患者作为信息末端在监管博弈中付出的真实代价。这本书不仅是一份调查报告，更是对全球公共卫生监管体系的一次灵魂拷问。</itunes:summary>
+      <itunes:duration>00:21:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260703/episode-20260703-a6a95b.mp3" length="20261421" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
