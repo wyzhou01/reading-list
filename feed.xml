@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 04 Jul 2026 07:52:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 07:56:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9147,6 +9147,33 @@
       <itunes:duration>00:42:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260704/episode-20260704-794bac.mp3" length="40706733" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《寒栗》 · 完整版 · 寒栗 · 完整讲读</title>
+      <description>《寒栗》是丹麦作家索伦·斯维斯特·普劳格写于二零二零年的犯罪悬疑小说。
+
+故事从一九八九年欧荣农场的灭门血案讲起：警探马吕斯在那场灾难中救下一个幸存的男孩，却也被斧头击中倒下。
+
+三十年后，重案组警探娜雅·图琳和新搭档赫斯接手一桩看似普通的家庭暴力案，受害者劳拉·卡杰尔的过往与三十年前那桩陈案慢慢交织在一起，一段横跨两代人的家庭暴力与创伤真相浮出水面。
+
+《寒栗》并不只是一本破案小说，它追问的是：家为什么会成为最危险的地方？沉默的旁观者算不算共谋？受害者不一定符合“完美受害者”的模板，但他们依然值得被相信。
+
+在这本书里，正义常常迟到，法律常常缺席，但人依然可以选择向善，多走一步的那一步，往往就是斩断诅咒的那一步。</description>
+      <pubDate>Sat, 04 Jul 2026 07:56:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260704-episode-20260704-981b5c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《寒栗》是丹麦作家索伦·斯维斯特·普劳格写于二零二零年的犯罪悬疑小说。
+
+故事从一九八九年欧荣农场的灭门血案讲起：警探马吕斯在那场灾难中救下一个幸存的男孩，却也被斧头击中倒下。
+
+三十年后，重案组警探娜雅·图琳和新搭档赫斯接手一桩看似普通的家庭暴力案，受害者劳拉·卡杰尔的过往与三十年前那桩陈案慢慢交织在一起，一段横跨两代人的家庭暴力与创伤真相浮出水面。
+
+《寒栗》并不只是一本破案小说，它追问的是：家为什么会成为最危险的地方？沉默的旁观者算不算共谋？受害者不一定符合“完美受害者”的模板，但他们依然值得被相信。
+
+在这本书里，正义常常迟到，法律常常缺席，但人依然可以选择向善，多走一步的那一步，往往就是斩断诅咒的那一步。</itunes:summary>
+      <itunes:duration>00:25:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260704/episode-20260704-981b5c.mp3" length="24668589" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
