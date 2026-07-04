@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 04 Jul 2026 08:40:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 08:46:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9262,6 +9262,17 @@
       <itunes:duration>00:22:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260704/episode-20260704-18d771.mp3" length="21178797" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《26城记》 · 完整版 · 城记 · 完整讲读</title>
+      <description>《二十六城记》是数学家、诗人蔡天新以二十六个英文字母为序写下的二十六座城市笔记。从阿姆斯特丹的自由, 到苏黎世的富庶;从耶路撒冷的神秘, 到西安的厚重。每一篇里, 蔡天新既写入选理由与候选城市, 也写他与这座城的邂逅, 以及在城中与他相遇的画家、作家、哲学家与建筑。本书原为专栏文章, 后扩为五千字一城, 二〇一九年由中信出版社结集出版。它既是一位学者写给城市的私人情书, 也是一份跨越二十六个字母的人文地图。</description>
+      <pubDate>Sat, 04 Jul 2026 08:46:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260704-episode-20260704-029f89</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《二十六城记》是数学家、诗人蔡天新以二十六个英文字母为序写下的二十六座城市笔记。从阿姆斯特丹的自由, 到苏黎世的富庶;从耶路撒冷的神秘, 到西安的厚重。每一篇里, 蔡天新既写入选理由与候选城市, 也写他与这座城的邂逅, 以及在城中与他相遇的画家、作家、哲学家与建筑。本书原为专栏文章, 后扩为五千字一城, 二〇一九年由中信出版社结集出版。它既是一位学者写给城市的私人情书, 也是一份跨越二十六个字母的人文地图。</itunes:summary>
+      <itunes:duration>00:24:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260704/episode-20260704-029f89.mp3" length="23588397" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
