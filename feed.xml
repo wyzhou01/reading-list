@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 04 Jul 2026 00:02:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 07:23:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9103,6 +9103,17 @@
       <itunes:duration>00:31:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260704/episode-20260704-4c76ec.mp3" length="30054189" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《空城计》 · 完整版 · 空城计 · 完整讲读</title>
+      <description>《空城计》是呼延云的长篇社会派悬疑力作，以平州市儿童医院旧区搬迁夜为舞台，讲述急诊科女医生周芸与警方在六小时内全城攻防、破解连环少年儿童伤害案的故事。全书以京剧《空城计》为精神母题，借诸葛亮抚琴退敌的意象，致敬每一个在危局中凭勇气与智慧力挽狂澜的普通人，叩问命运面前的卑微与坚守、真相与信任的崩塌与重建。</description>
+      <pubDate>Sat, 04 Jul 2026 07:22:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260704-episode-20260704-b625e1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《空城计》是呼延云的长篇社会派悬疑力作，以平州市儿童医院旧区搬迁夜为舞台，讲述急诊科女医生周芸与警方在六小时内全城攻防、破解连环少年儿童伤害案的故事。全书以京剧《空城计》为精神母题，借诸葛亮抚琴退敌的意象，致敬每一个在危局中凭勇气与智慧力挽狂澜的普通人，叩问命运面前的卑微与坚守、真相与信任的崩塌与重建。</itunes:summary>
+      <itunes:duration>00:28:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260704/episode-20260704-b625e1.mp3" length="27251373" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
