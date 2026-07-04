@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 04 Jul 2026 08:11:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 08:14:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9207,6 +9207,17 @@
       <itunes:duration>00:29:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260704/episode-20260704-18c502.mp3" length="28260525" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《快乐上等：女性怎样自在地活》 · 完整版 · 快乐上等 · 完整讲读</title>
+      <description>《快乐上等》是日本女性主义学者上野千鹤子与文化策划人汤山玲子在三一一大地震之后进行的深度对谈。两位作者从灾后日本女性的觉醒出发，拆解了母女的控制与怨恨、日本社会的幼态持续、浪漫爱情的虚妄神话、性与衰老的真相，探讨了女性如何在父权结构里自洽地活着。本书不是成功学指南，而是一份诚实地面对身体、欲望与困境的实践手册。</description>
+      <pubDate>Sat, 04 Jul 2026 08:13:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260704-episode-20260704-427361</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《快乐上等》是日本女性主义学者上野千鹤子与文化策划人汤山玲子在三一一大地震之后进行的深度对谈。两位作者从灾后日本女性的觉醒出发，拆解了母女的控制与怨恨、日本社会的幼态持续、浪漫爱情的虚妄神话、性与衰老的真相，探讨了女性如何在父权结构里自洽地活着。本书不是成功学指南，而是一份诚实地面对身体、欲望与困境的实践手册。</itunes:summary>
+      <itunes:duration>00:38:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260704/episode-20260704-427361.mp3" length="36551085" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
