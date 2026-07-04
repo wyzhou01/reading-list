@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 04 Jul 2026 21:41:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 21:47:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9361,6 +9361,17 @@
       <itunes:duration>00:28:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260705/episode-20260705-8bcc01.mp3" length="27351597" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《阅读浪漫小说：女性、父权制和通俗文学》 · 完整版 · 阅读浪漫小说 · 完整讲读</title>
+      <description>《阅读浪漫小说》是美国学者珍妮斯·拉德威于一九八四年出版的里程碑式研究。她以人种志方法深入美国中西部小镇史密斯顿，与二十六位历史类浪漫小说女读者面对面交流，记录她们的阅读偏好与情感体验。拉德威借助精神分析女性主义与读者反应理论，揭示了浪漫小说如何在父权制社会中同时提供逃避与教化的双重功能：男主人公从粗暴走向深情的叙事弧线，象征性地补偿了女性在现实中缺失的情感支持。本书被誉为通俗文化研究、读者反应理论、女性主义文学批评的奠基之作，其方法论与理论框架深刻影响了此后三十年的相关领域。</description>
+      <pubDate>Sat, 04 Jul 2026 21:47:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260705-episode-20260705-a8ccff</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《阅读浪漫小说》是美国学者珍妮斯·拉德威于一九八四年出版的里程碑式研究。她以人种志方法深入美国中西部小镇史密斯顿，与二十六位历史类浪漫小说女读者面对面交流，记录她们的阅读偏好与情感体验。拉德威借助精神分析女性主义与读者反应理论，揭示了浪漫小说如何在父权制社会中同时提供逃避与教化的双重功能：男主人公从粗暴走向深情的叙事弧线，象征性地补偿了女性在现实中缺失的情感支持。本书被誉为通俗文化研究、读者反应理论、女性主义文学批评的奠基之作，其方法论与理论框架深刻影响了此后三十年的相关领域。</itunes:summary>
+      <itunes:duration>00:23:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260705/episode-20260705-a8ccff.mp3" length="22706349" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
