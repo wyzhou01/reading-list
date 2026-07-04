@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 04 Jul 2026 21:47:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 21:52:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9372,6 +9372,17 @@
       <itunes:duration>00:23:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260705/episode-20260705-a8ccff.mp3" length="22706349" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《跑去她的世界》 · 完整版 · 跑去她的世界 · 完整讲读</title>
+      <description>《跑去她的世界》是夏桑创作的长篇都市幻想小说，讲述城市白领布禹铭在马拉松比赛中受伤后，陷入舆论反噬与身份崩塌，从众人瞩目的&quot;英雄&quot;变成蜷缩在被子里的&quot;大蜗牛&quot;。在 AI 构筑的副本世界里，他经历了失去与重逢、逃避与面对，最终选择带着所有伤疤回到现实，说出四个字：好好生活。</description>
+      <pubDate>Sat, 04 Jul 2026 21:52:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260705-episode-20260705-a4064f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《跑去她的世界》是夏桑创作的长篇都市幻想小说，讲述城市白领布禹铭在马拉松比赛中受伤后，陷入舆论反噬与身份崩塌，从众人瞩目的&quot;英雄&quot;变成蜷缩在被子里的&quot;大蜗牛&quot;。在 AI 构筑的副本世界里，他经历了失去与重逢、逃避与面对，最终选择带着所有伤疤回到现实，说出四个字：好好生活。</itunes:summary>
+      <itunes:duration>00:22:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260705/episode-20260705-a4064f.mp3" length="21425325" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
