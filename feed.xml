@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 04 Jul 2026 21:52:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 21:57:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9383,6 +9383,17 @@
       <itunes:duration>00:22:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260705/episode-20260705-a4064f.mp3" length="21425325" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《向您告知，明天我们一家就要被杀：卢旺达大屠杀纪事》 · 完整版 · 向您告知，明天我们一家就要被杀 · 完整讲读</title>
+      <description>《向您告知，明天我们一家就要被杀》是美国《纽约客》记者菲利普·古雷维奇用三年时间深入卢旺达后写下的非虚构经典。面对这场在一百天内夺去至少八十万条人命的种族灭绝，他既不渲染猎奇，也不简化因果，而是用幸存者、加害者、法官和难民的具名口述，揭示普通人如何在“胡图力量“宣传下成为凶手，殖民遗产与极端广播如何人为构造出“应被消灭的族群“，国际社会又是如何在“知情且有权干预“的状态下选择沉默。本书打破了西方主流媒体对非洲事务的漠视惯性，提供了一份关于极端暴力如何被组织、被记忆、被审判的奠基性记录。种族灭绝研究史上，它与阿马蒂亚·森的著作并列，成为人类理解 20 世纪想象崩溃的必读之作。</description>
+      <pubDate>Sat, 04 Jul 2026 21:57:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260705-episode-20260705-2fb12b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《向您告知，明天我们一家就要被杀》是美国《纽约客》记者菲利普·古雷维奇用三年时间深入卢旺达后写下的非虚构经典。面对这场在一百天内夺去至少八十万条人命的种族灭绝，他既不渲染猎奇，也不简化因果，而是用幸存者、加害者、法官和难民的具名口述，揭示普通人如何在“胡图力量“宣传下成为凶手，殖民遗产与极端广播如何人为构造出“应被消灭的族群“，国际社会又是如何在“知情且有权干预“的状态下选择沉默。本书打破了西方主流媒体对非洲事务的漠视惯性，提供了一份关于极端暴力如何被组织、被记忆、被审判的奠基性记录。种族灭绝研究史上，它与阿马蒂亚·森的著作并列，成为人类理解 20 世纪想象崩溃的必读之作。</itunes:summary>
+      <itunes:duration>00:29:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260705/episode-20260705-2fb12b.mp3" length="28740141" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
