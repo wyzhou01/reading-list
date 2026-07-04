@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 04 Jul 2026 09:01:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 09:09:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9284,6 +9284,17 @@
       <itunes:duration>00:43:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260704/episode-20260704-48782e.mp3" length="41341485" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《美国宪政历程：影响美国的25个司法大案》 · 完整版 · 美国宪政历程 · 完整讲读</title>
+      <description>《美国宪政历程》用二十五个经典司法判例，串起美国两百多年的宪政演变。从一八〇三年的马伯里诉麦迪逊，到两千年的布什诉戈尔，这本书揭示了美国宪法从一纸文本长成参天大树的真实过程。本书主编任东来教授英年早逝，但他与合作者陈伟、白雪峰等人的这部作品，用讲故事的方式，让读者看到司法审查、联邦制、个人权利三大主线如何在美国历史中博弈、拉锯、最终定型。它不只是一本法律普及读物，更是一部关于法治信仰如何在一代又一代人的妥协与坚持中长成的思想史。理解美国宪政，才能理解为什么法治（rule of law）跟依法而治（rule by law）差一个字，差在哪里。</description>
+      <pubDate>Sat, 04 Jul 2026 09:08:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260704-episode-20260704-d9dfff</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《美国宪政历程》用二十五个经典司法判例，串起美国两百多年的宪政演变。从一八〇三年的马伯里诉麦迪逊，到两千年的布什诉戈尔，这本书揭示了美国宪法从一纸文本长成参天大树的真实过程。本书主编任东来教授英年早逝，但他与合作者陈伟、白雪峰等人的这部作品，用讲故事的方式，让读者看到司法审查、联邦制、个人权利三大主线如何在美国历史中博弈、拉锯、最终定型。它不只是一本法律普及读物，更是一部关于法治信仰如何在一代又一代人的妥协与坚持中长成的思想史。理解美国宪政，才能理解为什么法治（rule of law）跟依法而治（rule by law）差一个字，差在哪里。</itunes:summary>
+      <itunes:duration>00:31:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260704/episode-20260704-d9dfff.mp3" length="30025005" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
