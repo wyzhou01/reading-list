@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 04 Jul 2026 21:57:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 22:02:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9394,6 +9394,17 @@
       <itunes:duration>00:29:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260705/episode-20260705-2fb12b.mp3" length="28740141" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一往无前》 · 完整版 · 一往无前 · 完整讲读</title>
+      <description>《一往无前》是范海涛撰写的小米官方授权传记，全景式记录了雷军从 1996 年金山鏖战微软、2000 年卓越网被迫出售，到 2010 年创办小米、2018 年港交所上市、2019 年跻身世界五百强的二十年创业长跑。书中既呈现了硬件+软件+互联网模式的诞生，也真实记录了 2015 年供应链危机与至暗时刻的反思，最终提炼出草根创业者的迭代、互联网思维改造制造业、中国品牌全球化、反脆弱、工程师文化与用户信任六大核心主题。</description>
+      <pubDate>Sat, 04 Jul 2026 22:01:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260705-episode-20260705-d22c25</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一往无前》是范海涛撰写的小米官方授权传记，全景式记录了雷军从 1996 年金山鏖战微软、2000 年卓越网被迫出售，到 2010 年创办小米、2018 年港交所上市、2019 年跻身世界五百强的二十年创业长跑。书中既呈现了硬件+软件+互联网模式的诞生，也真实记录了 2015 年供应链危机与至暗时刻的反思，最终提炼出草根创业者的迭代、互联网思维改造制造业、中国品牌全球化、反脆弱、工程师文化与用户信任六大核心主题。</itunes:summary>
+      <itunes:duration>00:31:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260705/episode-20260705-d22c25.mp3" length="30487725" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
