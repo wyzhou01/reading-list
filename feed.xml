@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 04 Jul 2026 08:32:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 08:40:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9251,6 +9251,17 @@
       <itunes:duration>00:28:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260704/episode-20260704-4f91b6.mp3" length="27711405" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大崛起：中国经济的增长与转型》 · 完整版 · 大崛起 · 完整讲读</title>
+      <description>《大崛起：中国经济的增长与转型》是规划学者赵燕菁对四十年中国增长密码的一次系统拆解。他提出，过去被普遍诟病的土地财政，并非城市的成本，而是中国增长的制度发动机。通过将未来的土地收益提前贴现，地方政府完成了基础设施的原始积累，缔造了人类史上规模最大的城市化。书中进一步打通信用货币与增长的内生关系，揭示房地产实质上是中国货币体系的隐形水库。中美博弈的真正战场，不在关税，而在两国的资本市场争夺未来收益的贴现权。最终，作者呼吁一场范式革命，从新古典的均衡范式转向基于会计恒等式的两阶段增长模型，把政府重新放回增长的中心。这本书横跨城市规划、制度经济学、货币理论与国际政治四个领域，是中国经验通向一般增长理论的一次重要尝试。</description>
+      <pubDate>Sat, 04 Jul 2026 08:39:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260704-episode-20260704-18d771</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大崛起：中国经济的增长与转型》是规划学者赵燕菁对四十年中国增长密码的一次系统拆解。他提出，过去被普遍诟病的土地财政，并非城市的成本，而是中国增长的制度发动机。通过将未来的土地收益提前贴现，地方政府完成了基础设施的原始积累，缔造了人类史上规模最大的城市化。书中进一步打通信用货币与增长的内生关系，揭示房地产实质上是中国货币体系的隐形水库。中美博弈的真正战场，不在关税，而在两国的资本市场争夺未来收益的贴现权。最终，作者呼吁一场范式革命，从新古典的均衡范式转向基于会计恒等式的两阶段增长模型，把政府重新放回增长的中心。这本书横跨城市规划、制度经济学、货币理论与国际政治四个领域，是中国经验通向一般增长理论的一次重要尝试。</itunes:summary>
+      <itunes:duration>00:22:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260704/episode-20260704-18d771.mp3" length="21178797" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
