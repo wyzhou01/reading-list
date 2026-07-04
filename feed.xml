@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 04 Jul 2026 07:59:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 08:09:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9185,6 +9185,17 @@
       <itunes:duration>00:23:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260704/episode-20260704-2c0a53.mp3" length="22362285" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《微观经济学》 · 完整版 · 微观经济学 · 完整讲读</title>
+      <description>《微观经济学》是印度裔经济学家迪克西特写给普通读者的极简入门。本书用朴素语言揭示了一个核心道理：市场之所以能顺畅运转，靠的是信息与激励，价格就是那个传递信号、调动行动的指挥棒。迪克西特带我们从消费者的小选择出发，走进生产者的决策逻辑，再走到市场失灵的盲区——空气污染、二手车信号失真、垄断操纵价格。最后他给出一个坚定的判断：混合经济是组织微观经济活动的最佳方式，因为唯有保持进入市场的自由与政治竞争的纠错机制，才能既享受市场的效率，又避免垄断与权力的合谋。</description>
+      <pubDate>Sat, 04 Jul 2026 08:09:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260704-episode-20260704-73cb04</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《微观经济学》是印度裔经济学家迪克西特写给普通读者的极简入门。本书用朴素语言揭示了一个核心道理：市场之所以能顺畅运转，靠的是信息与激励，价格就是那个传递信号、调动行动的指挥棒。迪克西特带我们从消费者的小选择出发，走进生产者的决策逻辑，再走到市场失灵的盲区——空气污染、二手车信号失真、垄断操纵价格。最后他给出一个坚定的判断：混合经济是组织微观经济活动的最佳方式，因为唯有保持进入市场的自由与政治竞争的纠错机制，才能既享受市场的效率，又避免垄断与权力的合谋。</itunes:summary>
+      <itunes:duration>00:29:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260704/episode-20260704-73cb04.mp3" length="27899949" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
