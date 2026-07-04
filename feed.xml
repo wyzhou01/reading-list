@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 04 Jul 2026 07:34:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 07:45:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9125,6 +9125,17 @@
       <itunes:duration>00:26:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260704/episode-20260704-c9933a.mp3" length="25843629" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《哈利·波特与火焰杯》 · 完整版 · 哈利·波特与火焰杯 · 完整讲读</title>
+      <description>《哈利·波特与火焰杯》是J·K·罗琳的第四部，出版于二零零零年，销量超过五亿册。十四岁的哈利在暑假被一道闪电形伤疤的剧痛惊醒，梦中他目睹了伏地魔与虫尾巴在小汉格顿里德尔府密谋杀人。一九九四年秋，三强争霸赛在霍格沃茨重启，哈利的名字被偷偷投入火焰杯，成为第四位勇士。三场比赛，他险胜过关，却最终与塞德里克·迪戈里一起触碰了门钥匙——一个通往墓地、伏地魔复活的陷阱。塞德里克被杀，哈利凭侥幸生还。这个暑假，他失去了朋友，失去了公平竞争的幻觉，也第一次看清了名声的代价与阴谋的形状。从这一部起，魔法世界的童话彻底结束。</description>
+      <pubDate>Sat, 04 Jul 2026 07:45:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260704-episode-20260704-6752a2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《哈利·波特与火焰杯》是J·K·罗琳的第四部，出版于二零零零年，销量超过五亿册。十四岁的哈利在暑假被一道闪电形伤疤的剧痛惊醒，梦中他目睹了伏地魔与虫尾巴在小汉格顿里德尔府密谋杀人。一九九四年秋，三强争霸赛在霍格沃茨重启，哈利的名字被偷偷投入火焰杯，成为第四位勇士。三场比赛，他险胜过关，却最终与塞德里克·迪戈里一起触碰了门钥匙——一个通往墓地、伏地魔复活的陷阱。塞德里克被杀，哈利凭侥幸生还。这个暑假，他失去了朋友，失去了公平竞争的幻觉，也第一次看清了名声的代价与阴谋的形状。从这一部起，魔法世界的童话彻底结束。</itunes:summary>
+      <itunes:duration>00:34:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260704/episode-20260704-6752a2.mp3" length="32646189" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
