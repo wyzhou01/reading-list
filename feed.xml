@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 04 Jul 2026 07:45:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 07:52:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9136,6 +9136,17 @@
       <itunes:duration>00:34:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260704/episode-20260704-6752a2.mp3" length="32646189" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《绿皮火车》 · 完整版 · 绿皮火车 · 完整讲读</title>
+      <description>《绿皮火车》是盲人民谣歌手周云蓬的首部散文集，记录了他从九岁失明到三十多年间漂泊中国与世界的真实历程。全书以“火车”意象贯穿——从童年妈妈带他坐绿皮火车求医，到成年后独自上路，从沈阳到上海、北京、大理、阿维尼翁、台北、香港；从在街头卖唱到与崔健、老罗、胡德夫、小河、张佺等民谣圈朋友并肩，把中国民谣从地下推上更大的舞台。书中写漂泊与归属，写民谣作为“根没断的声音”，写诚实地不被任何意义绑架，也写他与父亲从对抗、痛恨，到彼此心疼的漫长和解。这不是一本励志书，而是一个“没着落的人”用耳朵丈量世界的诚实记录——人总是要有个窝，哪怕是个烂棉花也行。</description>
+      <pubDate>Sat, 04 Jul 2026 07:51:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260704-episode-20260704-794bac</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《绿皮火车》是盲人民谣歌手周云蓬的首部散文集，记录了他从九岁失明到三十多年间漂泊中国与世界的真实历程。全书以“火车”意象贯穿——从童年妈妈带他坐绿皮火车求医，到成年后独自上路，从沈阳到上海、北京、大理、阿维尼翁、台北、香港；从在街头卖唱到与崔健、老罗、胡德夫、小河、张佺等民谣圈朋友并肩，把中国民谣从地下推上更大的舞台。书中写漂泊与归属，写民谣作为“根没断的声音”，写诚实地不被任何意义绑架，也写他与父亲从对抗、痛恨，到彼此心疼的漫长和解。这不是一本励志书，而是一个“没着落的人”用耳朵丈量世界的诚实记录——人总是要有个窝，哪怕是个烂棉花也行。</itunes:summary>
+      <itunes:duration>00:42:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260704/episode-20260704-794bac.mp3" length="40706733" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
