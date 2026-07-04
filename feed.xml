@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 04 Jul 2026 08:23:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 08:32:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9240,6 +9240,17 @@
       <itunes:duration>00:31:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260704/episode-20260704-fc80d3.mp3" length="29812269" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《最后一个死去的女孩》 · 完整版 · 最后一个死去的女孩 · 完整讲读</title>
+      <description>《最后一个死去的女孩》是一部深刻的心理悬疑小说，讲述了一个跨越阶级的悲剧爱情故事。一个雨夜，有钱的白人青年大卫与贫穷的黑人女孩嘉娜相遇并相爱，但仅仅十天后，嘉娜被掐死。本书通过第一人称不可靠叙述，展现了阶级偏见、道德困境、沉默的代价，以及愧疚如何吞噬生者。没有惊心动魄的追逐，却有比惊悚更令人不安的灵魂拷问。</description>
+      <pubDate>Sat, 04 Jul 2026 08:32:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260704-episode-20260704-4f91b6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《最后一个死去的女孩》是一部深刻的心理悬疑小说，讲述了一个跨越阶级的悲剧爱情故事。一个雨夜，有钱的白人青年大卫与贫穷的黑人女孩嘉娜相遇并相爱，但仅仅十天后，嘉娜被掐死。本书通过第一人称不可靠叙述，展现了阶级偏见、道德困境、沉默的代价，以及愧疚如何吞噬生者。没有惊心动魄的追逐，却有比惊悚更令人不安的灵魂拷问。</itunes:summary>
+      <itunes:duration>00:28:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260704/episode-20260704-4f91b6.mp3" length="27711405" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
