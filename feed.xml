@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 04 Jul 2026 08:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 08:23:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9229,6 +9229,17 @@
       <itunes:duration>00:33:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260704/episode-20260704-057d68.mp3" length="32456877" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《天上深渊：鲁迅十二论》 · 完整版 · 天上深渊：鲁迅十二论 · 完整讲读</title>
+      <description>《天上深渊：鲁迅十二论》是浙江大学文学院教授江弱水用二十年时间研读鲁迅的学术随笔集。全书以《呐喊·自序》的幻灯片事件为起点，逐一进入《彷徨》《朝花夕拾》《故事新编》《野草》直至晚年旧体诗。江弱水以哲学追问为骨、文本细读为肉、跨文化视野为血脉，向鲁迅研究界少人触碰的难题发问：意义从哪里来？谁有权力赋予个体活着的意义？当宏大叙事要求牺牲个体时，人是接受还是反抗？本书把鲁迅的国民性批判，放进黑格尔、康拉德、马克思、萨义德、奥登所构成的世界思想史坐标系中重新审视，揭示出鲁迅精神世界的核心悖论：批判话语自身的西方启蒙烙印。同时，通过对《离婚》中被遮蔽的爱姑、对泼辣女性群像、对晚年旧体诗的细读，论证鲁迅一生如何从意义的追寻与建构出发，最终回到对个体存在本身的捍卫。</description>
+      <pubDate>Sat, 04 Jul 2026 08:22:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260704-episode-20260704-fc80d3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《天上深渊：鲁迅十二论》是浙江大学文学院教授江弱水用二十年时间研读鲁迅的学术随笔集。全书以《呐喊·自序》的幻灯片事件为起点，逐一进入《彷徨》《朝花夕拾》《故事新编》《野草》直至晚年旧体诗。江弱水以哲学追问为骨、文本细读为肉、跨文化视野为血脉，向鲁迅研究界少人触碰的难题发问：意义从哪里来？谁有权力赋予个体活着的意义？当宏大叙事要求牺牲个体时，人是接受还是反抗？本书把鲁迅的国民性批判，放进黑格尔、康拉德、马克思、萨义德、奥登所构成的世界思想史坐标系中重新审视，揭示出鲁迅精神世界的核心悖论：批判话语自身的西方启蒙烙印。同时，通过对《离婚》中被遮蔽的爱姑、对泼辣女性群像、对晚年旧体诗的细读，论证鲁迅一生如何从意义的追寻与建构出发，最终回到对个体存在本身的捍卫。</itunes:summary>
+      <itunes:duration>00:31:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260704/episode-20260704-fc80d3.mp3" length="29812269" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
