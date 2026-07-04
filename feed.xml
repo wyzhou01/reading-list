@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 04 Jul 2026 22:06:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 22:09:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9416,6 +9416,17 @@
       <itunes:duration>00:28:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260705/episode-20260705-b824ea.mp3" length="27580461" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《银河系边缘的小失常》 · 完整版 · 银河系边缘的小失常 · 完整讲读</title>
+      <description>《银河系边缘的小失常》是以色列作家埃特加·凯雷特的短篇小说集，二十二个故事都发生在以色列，却不写战争与政治，只写后院里的父亲、咖啡馆里的姑娘、坐在长椅上的律师。他用三页纸的篇幅，把小人物的小裂缝——一次没飞起来的楼顶跳跃、一克没送出去的大麻、一只被射偏的人肉炮弹——写成让整个世界安静下来的力量。在毫不起眼的日常里，宇宙的光从裂缝中漏了进来。这本书不谈治愈，只陪你在碎片里坐一会儿。</description>
+      <pubDate>Sat, 04 Jul 2026 22:09:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260705-episode-20260705-f12aea</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《银河系边缘的小失常》是以色列作家埃特加·凯雷特的短篇小说集，二十二个故事都发生在以色列，却不写战争与政治，只写后院里的父亲、咖啡馆里的姑娘、坐在长椅上的律师。他用三页纸的篇幅，把小人物的小裂缝——一次没飞起来的楼顶跳跃、一克没送出去的大麻、一只被射偏的人肉炮弹——写成让整个世界安静下来的力量。在毫不起眼的日常里，宇宙的光从裂缝中漏了进来。这本书不谈治愈，只陪你在碎片里坐一会儿。</itunes:summary>
+      <itunes:duration>00:24:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260705/episode-20260705-f12aea.mp3" length="23193261" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
