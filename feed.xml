@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 04 Jul 2026 07:23:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 07:34:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9114,6 +9114,17 @@
       <itunes:duration>00:28:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260704/episode-20260704-b625e1.mp3" length="27251373" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《豆子芝麻茶》 · 完整版 · 豆子芝麻茶 · 完整讲读</title>
+      <description>豆子芝麻茶是杨本芬看见普通人系列的第四本，分上下两篇。上篇过去的婚姻，写了秦老太、湘君、冬莲三位老年女性在旧式婚姻里熬过的苦，以及她们晚年终于为自己活一次的尊严。下篇伤心的掉落，是作者写给已故哥哥的一封长信，写出一代中国知识分子的命运与一个妹妹最深沉的爱。这本书不讲大道理，只讲人，讲那些在时代与家庭夹缝里隐忍了一辈子、最终在晚年为自己活一次的普通中国女性。</description>
+      <pubDate>Sat, 04 Jul 2026 07:33:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260704-episode-20260704-c9933a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>豆子芝麻茶是杨本芬看见普通人系列的第四本，分上下两篇。上篇过去的婚姻，写了秦老太、湘君、冬莲三位老年女性在旧式婚姻里熬过的苦，以及她们晚年终于为自己活一次的尊严。下篇伤心的掉落，是作者写给已故哥哥的一封长信，写出一代中国知识分子的命运与一个妹妹最深沉的爱。这本书不讲大道理，只讲人，讲那些在时代与家庭夹缝里隐忍了一辈子、最终在晚年为自己活一次的普通中国女性。</itunes:summary>
+      <itunes:duration>00:26:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260704/episode-20260704-c9933a.mp3" length="25843629" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
