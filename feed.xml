@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 04 Jul 2026 08:49:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 09:01:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9273,6 +9273,17 @@
       <itunes:duration>00:24:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260704/episode-20260704-029f89.mp3" length="23588397" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我是谁？》 · 完整版 · 我是谁？ · 完整讲读</title>
+      <description>《我是谁？》是人文主义地理学创始人段义孚在六十九岁那年写下的精神自传。这位天津出生的无根之人，辗转了十几座城市，从战乱流亡的童年一路走到了永恒的追问。在书里，他把童年战乱如何塑造「地方感」、如何用「是的，但是」的「塞翁失马模式」理解世界、如何从一个内向者转向关注观念与精神，最终又如何把漂泊升维为信仰，做了一次真诚的回顾。这本书的关键，不在于给出一个标准答案，而在于示范了一种「在追问中活着」的人生态度——身份永远在路上，但每一段路，都通向更深的归属。</description>
+      <pubDate>Sat, 04 Jul 2026 09:01:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260704-episode-20260704-48782e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我是谁？》是人文主义地理学创始人段义孚在六十九岁那年写下的精神自传。这位天津出生的无根之人，辗转了十几座城市，从战乱流亡的童年一路走到了永恒的追问。在书里，他把童年战乱如何塑造「地方感」、如何用「是的，但是」的「塞翁失马模式」理解世界、如何从一个内向者转向关注观念与精神，最终又如何把漂泊升维为信仰，做了一次真诚的回顾。这本书的关键，不在于给出一个标准答案，而在于示范了一种「在追问中活着」的人生态度——身份永远在路上，但每一段路，都通向更深的归属。</itunes:summary>
+      <itunes:duration>00:43:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260704/episode-20260704-48782e.mp3" length="41341485" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
