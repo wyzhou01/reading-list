@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 04 Jul 2026 21:24:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 21:30:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9328,6 +9328,17 @@
       <itunes:duration>00:25:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260705/episode-20260705-a4b346.mp3" length="24816429" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《你永远都无法叫醒一个装睡的人》 · 完整版 · 你永远都无法叫醒一个装睡的人 · 完整讲读</title>
+      <description>《你永远都无法叫醒一个装睡的人》是周濂二〇〇二年到二〇一二年间的思想随笔集，收录时评、影评与哲学笔谈，从“我不相信”的时代情绪出发，追问在一个怀疑一切的社会里，个体如何重建理解、同情与正义。全书核心围绕三组命题展开：一是在犬儒主义弥漫的语境下重新定义“相信”，区分怀疑与失败主义、批评与冷漠；二是提出“公民德性”作为公共生活的最小单位，主张从小事、从具体、从身边做起；三是以哈维尔、奥威尔、昂山素季为参照，重新审视革命、自由、民主的关系，论证“自由优先于平等与博爱”是革命能否避免自我吞噬的关键。周濂的写作既扎根中国语境，又始终保持哲学家的诚实与审慎，是当代中文公共写作中难得的兼具学理与温度的样本。</description>
+      <pubDate>Sat, 04 Jul 2026 21:30:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260705-episode-20260705-835fa4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《你永远都无法叫醒一个装睡的人》是周濂二〇〇二年到二〇一二年间的思想随笔集，收录时评、影评与哲学笔谈，从“我不相信”的时代情绪出发，追问在一个怀疑一切的社会里，个体如何重建理解、同情与正义。全书核心围绕三组命题展开：一是在犬儒主义弥漫的语境下重新定义“相信”，区分怀疑与失败主义、批评与冷漠；二是提出“公民德性”作为公共生活的最小单位，主张从小事、从具体、从身边做起；三是以哈维尔、奥威尔、昂山素季为参照，重新审视革命、自由、民主的关系，论证“自由优先于平等与博爱”是革命能否避免自我吞噬的关键。周濂的写作既扎根中国语境，又始终保持哲学家的诚实与审慎，是当代中文公共写作中难得的兼具学理与温度的样本。</itunes:summary>
+      <itunes:duration>00:28:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260705/episode-20260705-835fa4.mp3" length="27462957" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
