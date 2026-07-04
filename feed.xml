@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 04 Jul 2026 21:39:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 21:41:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9350,6 +9350,17 @@
       <itunes:duration>00:33:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260705/episode-20260705-cf397b.mp3" length="31793325" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大图景：论生命的起源、意义和宇宙本身》 · 完整版 · 大图景 · 完整讲读</title>
+      <description>《大图景》是物理学家肖恩·卡罗尔写给这个时代的一封长信：他先用现代物理学、量子力学、演化生物学和神经科学的成果，把宇宙从底层到表层完整地铺开，再提出&quot;诗性自然主义&quot;这套框架，告诉你宇宙在最深处是稀疏的、无人的，但从中涌现出来的&quot;人&quot;这一层是丰富的、有意义的，这两种描述并不矛盾。在这本书里，你能读到时间箭头的来由、自由意志的真正位置、意识的困难问题，以及在一个没有超验意义的宇宙里，伦理与关怀如何从人类的&quot;在乎&quot;之中自然生长出来。它是一本既忠于科学真相，又拒绝滑入虚无的书，献给每一个在宏大宇宙面前既敬畏又困惑的人。</description>
+      <pubDate>Sat, 04 Jul 2026 21:41:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260705-episode-20260705-8bcc01</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大图景》是物理学家肖恩·卡罗尔写给这个时代的一封长信：他先用现代物理学、量子力学、演化生物学和神经科学的成果，把宇宙从底层到表层完整地铺开，再提出&quot;诗性自然主义&quot;这套框架，告诉你宇宙在最深处是稀疏的、无人的，但从中涌现出来的&quot;人&quot;这一层是丰富的、有意义的，这两种描述并不矛盾。在这本书里，你能读到时间箭头的来由、自由意志的真正位置、意识的困难问题，以及在一个没有超验意义的宇宙里，伦理与关怀如何从人类的&quot;在乎&quot;之中自然生长出来。它是一本既忠于科学真相，又拒绝滑入虚无的书，献给每一个在宏大宇宙面前既敬畏又困惑的人。</itunes:summary>
+      <itunes:duration>00:28:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260705/episode-20260705-8bcc01.mp3" length="27351597" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
