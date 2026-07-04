@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 04 Jul 2026 22:11:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 22:17:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9438,6 +9438,17 @@
       <itunes:duration>00:25:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260705/episode-20260705-c89d1a.mp3" length="24221997" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《哈德良回忆录》 · 完整版 · 哈德良回忆录 · 完整讲读</title>
+      <description>《哈德良回忆录》是法国女作家玛格丽特·尤瑟纳尔耗时二十六年写成的历史小说，以第一人称口吻让古罗马贤君哈德良在临终之际给继任者马可·奥勒留写下一封长信，回顾自己从少年到登基、从战场到巡游的一生。书中哈德良不谈权术，只谈他用一辈子才悟出的事：权力是一种孤独，美是秩序最坚固的外壳，死亡让他看清责任比爱更可靠。安提诺乌斯之死是贯穿全书的伤口，尤瑟纳尔借这位皇帝之口，诚实地承认秩序的有限、帝国的脆弱与个体的必死，却仍然要求继任者把世界治理得美轮美奂，作为对所有失去之人最后一份献礼。</description>
+      <pubDate>Sat, 04 Jul 2026 22:17:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260705-episode-20260705-063b93</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《哈德良回忆录》是法国女作家玛格丽特·尤瑟纳尔耗时二十六年写成的历史小说，以第一人称口吻让古罗马贤君哈德良在临终之际给继任者马可·奥勒留写下一封长信，回顾自己从少年到登基、从战场到巡游的一生。书中哈德良不谈权术，只谈他用一辈子才悟出的事：权力是一种孤独，美是秩序最坚固的外壳，死亡让他看清责任比爱更可靠。安提诺乌斯之死是贯穿全书的伤口，尤瑟纳尔借这位皇帝之口，诚实地承认秩序的有限、帝国的脆弱与个体的必死，却仍然要求继任者把世界治理得美轮美奂，作为对所有失去之人最后一份献礼。</itunes:summary>
+      <itunes:duration>00:27:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260705/episode-20260705-063b93.mp3" length="26765613" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
