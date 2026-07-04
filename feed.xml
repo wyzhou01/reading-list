@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 04 Jul 2026 22:17:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 22:23:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9449,6 +9449,17 @@
       <itunes:duration>00:27:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260705/episode-20260705-063b93.mp3" length="26765613" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《单读·十周年特辑（时间的移民 + 在世界的门外）》 · 完整版 · 单读._十周年特辑 · 完整讲读</title>
+      <description>《单读·十周年特辑》由许知远与主编吴琦的长篇对谈开篇，回顾了这份独立出版物从模仿《格兰塔》起步、经历低谷与重塑的完整十年。全书收录非虚构、访谈、影像、小说、诗歌与全球书情，围绕技术对人的重塑、年轻写作者的困境与涌现、深度阅读的衰落等议题，呈现一份独立出版物的十年坚守与自我更新。</description>
+      <pubDate>Sat, 04 Jul 2026 22:22:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260705-episode-20260705-94854c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《单读·十周年特辑》由许知远与主编吴琦的长篇对谈开篇，回顾了这份独立出版物从模仿《格兰塔》起步、经历低谷与重塑的完整十年。全书收录非虚构、访谈、影像、小说、诗歌与全球书情，围绕技术对人的重塑、年轻写作者的困境与涌现、深度阅读的衰落等议题，呈现一份独立出版物的十年坚守与自我更新。</itunes:summary>
+      <itunes:duration>00:24:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260705/episode-20260705-94854c.mp3" length="23195949" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
