@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 04 Jul 2026 22:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 22:06:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9405,6 +9405,17 @@
       <itunes:duration>00:31:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260705/episode-20260705-d22c25.mp3" length="30487725" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《刚多林的陷落》 · 完整版 · 刚多林的陷落 · 完整讲读</title>
+      <description>《刚多林的陷落》是托尔金中洲神话的终章，由其子克里斯托弗·托尔金整理出版。本书讲述凡人英雄图奥穿越荒野找到精灵隐城刚多林、与精灵公主伊缀尔结合生下埃雅仁迪尔、并最终见证这座连诸神都难以寻得的城市在魔苟斯进攻下陷落的全过程。本书独特之处在于完整呈现了托尔金自一九一六年索姆河战役之后初稿起、长达半个世纪的多次修改与未竟尝试，将传说的演变过程本身也作为阅读对象。它关乎隐秘与反抗、英雄的旅程与文明的兴亡，更关乎一位伟大作家与一位九十四岁编辑儿子之间跨越一生的告别。</description>
+      <pubDate>Sat, 04 Jul 2026 22:06:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260705-episode-20260705-b824ea</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《刚多林的陷落》是托尔金中洲神话的终章，由其子克里斯托弗·托尔金整理出版。本书讲述凡人英雄图奥穿越荒野找到精灵隐城刚多林、与精灵公主伊缀尔结合生下埃雅仁迪尔、并最终见证这座连诸神都难以寻得的城市在魔苟斯进攻下陷落的全过程。本书独特之处在于完整呈现了托尔金自一九一六年索姆河战役之后初稿起、长达半个世纪的多次修改与未竟尝试，将传说的演变过程本身也作为阅读对象。它关乎隐秘与反抗、英雄的旅程与文明的兴亡，更关乎一位伟大作家与一位九十四岁编辑儿子之间跨越一生的告别。</itunes:summary>
+      <itunes:duration>00:28:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260705/episode-20260705-b824ea.mp3" length="27580461" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
