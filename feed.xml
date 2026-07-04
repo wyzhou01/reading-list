@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 04 Jul 2026 22:09:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 22:11:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9427,6 +9427,17 @@
       <itunes:duration>00:24:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260705/episode-20260705-f12aea.mp3" length="23193261" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一切都会好起来的》 · 完整版 · 一切都会好起来的 · 完整讲读</title>
+      <description>《一切都会好起来的》是澳大利亚插画师“焦虑线条”莫妮卡·艾亨的代表作。她本人长期受焦虑与抑郁困扰，于是把那些说不出口的情绪，画成了简简单单的小人。整本书分成思绪、感受、焦虑、共情、爱意、希望六个主题，像六扇小窗，让光照进来。它不教你如何“战胜”情绪，而是允许你看见它们、被它们陪伴，然后带着它们继续走下去。这本书用最简单的线条和最温柔的话，接住了无数个深夜难眠的人。它告诉我们：你不必等到一切都好了，才能好好生活；你只需要，今天，再温柔地对自己一次。</description>
+      <pubDate>Sat, 04 Jul 2026 22:11:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260705-episode-20260705-c89d1a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一切都会好起来的》是澳大利亚插画师“焦虑线条”莫妮卡·艾亨的代表作。她本人长期受焦虑与抑郁困扰，于是把那些说不出口的情绪，画成了简简单单的小人。整本书分成思绪、感受、焦虑、共情、爱意、希望六个主题，像六扇小窗，让光照进来。它不教你如何“战胜”情绪，而是允许你看见它们、被它们陪伴，然后带着它们继续走下去。这本书用最简单的线条和最温柔的话，接住了无数个深夜难眠的人。它告诉我们：你不必等到一切都好了，才能好好生活；你只需要，今天，再温柔地对自己一次。</itunes:summary>
+      <itunes:duration>00:25:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260705/episode-20260705-c89d1a.mp3" length="24221997" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
