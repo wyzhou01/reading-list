@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 04 Jul 2026 08:09:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 08:11:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9196,6 +9196,17 @@
       <itunes:duration>00:29:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260704/episode-20260704-73cb04.mp3" length="27899949" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《弃猫：当我谈起父亲时》 · 完整版 · 弃猫 · 完整讲读</title>
+      <description>《弃猫》是村上春树唯一一次完整写下父亲的回忆录。父亲村上千秋, 一九一七年生于京都, 僧侣之子, 二十岁时因手续上的差错被征入伍, 作为辎重兵被送往中国大陆战场, 历经河口镇追击战、汉水安陆作战、随枣会战, 九死一生。村上花五年才敢去调查父亲的军籍, 又花十一年才把它写出来。书里没有宏大叙事, 只有一只抢在主人之前回到家的母猫、一尊消失的菩萨像、一首写给死去中国士兵的俳句、和一个用军刀斩首俘虏的沉默画面。村上最终想说的只有一点: 我们不过是无数雨滴中寂寂无名的一滴, 是确实存在的, 却也是可以被替代的一滴——但每一滴雨都有它独一无二的记忆, 都值得被铭记。</description>
+      <pubDate>Sat, 04 Jul 2026 08:10:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260704-episode-20260704-18c502</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《弃猫》是村上春树唯一一次完整写下父亲的回忆录。父亲村上千秋, 一九一七年生于京都, 僧侣之子, 二十岁时因手续上的差错被征入伍, 作为辎重兵被送往中国大陆战场, 历经河口镇追击战、汉水安陆作战、随枣会战, 九死一生。村上花五年才敢去调查父亲的军籍, 又花十一年才把它写出来。书里没有宏大叙事, 只有一只抢在主人之前回到家的母猫、一尊消失的菩萨像、一首写给死去中国士兵的俳句、和一个用军刀斩首俘虏的沉默画面。村上最终想说的只有一点: 我们不过是无数雨滴中寂寂无名的一滴, 是确实存在的, 却也是可以被替代的一滴——但每一滴雨都有它独一无二的记忆, 都值得被铭记。</itunes:summary>
+      <itunes:duration>00:29:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260704/episode-20260704-18c502.mp3" length="28260525" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
