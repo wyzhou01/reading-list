@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 04 Jul 2026 22:23:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 22:30:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9460,6 +9460,17 @@
       <itunes:duration>00:24:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260705/episode-20260705-94854c.mp3" length="23195949" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《间谍与叛徒》 · 完整版 · 间谍与叛徒 · 完整讲读</title>
+      <description>《间谍与叛徒》是英国老牌记者本·麦金泰尔写的非虚构作品，讲述苏联克格勃上校奥列格·戈尔季耶夫斯基以&quot;诺克顿&quot;为代号、为英国军情六处潜伏十二年的全过程。书中一方面还原他在极权体制下的良知觉醒，另一方面则以一九八三年的&quot;莱恩行动&quot;为例，呈现核威慑时代里一份关键情报如何把人类从悬崖边拉回；最末以一九八五年五月莫斯科的一夜潜逃作结，把这段冷战谍史，塑成一面映照个体勇气的镜子。</description>
+      <pubDate>Sat, 04 Jul 2026 22:30:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260705-episode-20260705-f517e7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《间谍与叛徒》是英国老牌记者本·麦金泰尔写的非虚构作品，讲述苏联克格勃上校奥列格·戈尔季耶夫斯基以&quot;诺克顿&quot;为代号、为英国军情六处潜伏十二年的全过程。书中一方面还原他在极权体制下的良知觉醒，另一方面则以一九八三年的&quot;莱恩行动&quot;为例，呈现核威慑时代里一份关键情报如何把人类从悬崖边拉回；最末以一九八五年五月莫斯科的一夜潜逃作结，把这段冷战谍史，塑成一面映照个体勇气的镜子。</itunes:summary>
+      <itunes:duration>00:31:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260705/episode-20260705-f517e7.mp3" length="30563757" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
