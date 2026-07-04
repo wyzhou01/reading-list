@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 04 Jul 2026 09:19:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 16:34:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9306,6 +9306,17 @@
       <itunes:duration>00:30:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260704/episode-20260704-538ba2.mp3" length="29438253" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《平如美棠》 · 完整版 · 平如美棠 · 完整讲读</title>
+      <description>《平如美棠》是一个中国家庭在大时代里活过来的真实样本。江西老人饶平如，黄埔军校毕业，经历过抗日战争；妻子毛美棠，临川大户人家的女儿。两人从一九四六年相识，到二零零八年她走完人生最后一刻，中间六十二年。二十二年分离，通信上百封，五个孩子，无数灾难。这本画册加口述的书，用十几本画册的重量、几十封家书的笔迹、一句“我同情她”、九十岁才学弹的钢琴曲《魂断蓝桥》，告诉我们——普通男女如何在动荡岁月里守住一个忠厚。相思始觉海非深。做一个忠厚的人，是值得的。</description>
+      <pubDate>Sat, 04 Jul 2026 16:33:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260705-episode-20260705-a9d14c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《平如美棠》是一个中国家庭在大时代里活过来的真实样本。江西老人饶平如，黄埔军校毕业，经历过抗日战争；妻子毛美棠，临川大户人家的女儿。两人从一九四六年相识，到二零零八年她走完人生最后一刻，中间六十二年。二十二年分离，通信上百封，五个孩子，无数灾难。这本画册加口述的书，用十几本画册的重量、几十封家书的笔迹、一句“我同情她”、九十岁才学弹的钢琴曲《魂断蓝桥》，告诉我们——普通男女如何在动荡岁月里守住一个忠厚。相思始觉海非深。做一个忠厚的人，是值得的。</itunes:summary>
+      <itunes:duration>00:35:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260705/episode-20260705-a9d14c.mp3" length="34272813" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
