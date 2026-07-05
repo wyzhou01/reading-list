@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 05 Jul 2026 21:49:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 21:57:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9647,6 +9647,17 @@
       <itunes:duration>00:27:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260706/episode-20260706-5bbe7d.mp3" length="26557869" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《物理学家的智性冒险》 · 完整版 · 物理学家的智性冒险 · 完整讲读</title>
+      <description>《物理学家的智性冒险》是意大利理论物理学家卡洛・罗韦利的散文集，收录其十年间发表于报纸的科学与人文随笔。全书跨越物理、哲学、文学与政治，核心论旨是：科学与人文共享同一种理解世界的方式。罗韦利以但丁预见爱因斯坦宇宙形状、概率本质是我们对世界的无知、牛顿也曾沉醉炼金术等案例，论证伟大源于不断修正错误，并提出在一个日益被学科壁垒割裂的时代，善意比规则更珍贵，而不确定性的中间地带，才是智性冒险真正发生之处。</description>
+      <pubDate>Sun, 05 Jul 2026 21:57:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260706-episode-20260706-75e510</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《物理学家的智性冒险》是意大利理论物理学家卡洛・罗韦利的散文集，收录其十年间发表于报纸的科学与人文随笔。全书跨越物理、哲学、文学与政治，核心论旨是：科学与人文共享同一种理解世界的方式。罗韦利以但丁预见爱因斯坦宇宙形状、概率本质是我们对世界的无知、牛顿也曾沉醉炼金术等案例，论证伟大源于不断修正错误，并提出在一个日益被学科壁垒割裂的时代，善意比规则更珍贵，而不确定性的中间地带，才是智性冒险真正发生之处。</itunes:summary>
+      <itunes:duration>00:26:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260706/episode-20260706-75e510.mp3" length="25873581" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
