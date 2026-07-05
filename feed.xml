@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 05 Jul 2026 16:55:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 21:22:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9581,6 +9581,17 @@
       <itunes:duration>00:23:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260706/episode-20260706-a48a61.mp3" length="22883757" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《斯佳丽（乱世佳人续篇）》 · 完整版 · 斯佳丽 · 完整讲读</title>
+      <description>《斯佳丽》是亚历山德拉·里普利为一九九一年续写的《乱世佳人》续篇。故事接续玫兰妮葬礼结束，斯佳丽在一个被亲人与时代同时抛弃的雨夜启程返回塔拉，却发现连最疼她的黑妈妈也已命悬一线。她被迫走出亚特兰大、查尔斯顿、纽约、伦敦，最后落脚在爱尔兰的巴利哈拉，把女儿&quot;猫咪&quot;从战火与绑架中救回来，也终于说出了那句她这辈子从未对玫兰妮、瑞特、黑妈妈说出口的&quot;我爱你&quot;。这是一部关于一个女人如何从&quot;必须赢&quot;活成&quot;值得被爱&quot;的成长史诗，也是一封写给所有在黑暗里摸过煤桶、却不肯倒下的人的回信。</description>
+      <pubDate>Sun, 05 Jul 2026 21:22:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260706-episode-20260706-02f76f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《斯佳丽》是亚历山德拉·里普利为一九九一年续写的《乱世佳人》续篇。故事接续玫兰妮葬礼结束，斯佳丽在一个被亲人与时代同时抛弃的雨夜启程返回塔拉，却发现连最疼她的黑妈妈也已命悬一线。她被迫走出亚特兰大、查尔斯顿、纽约、伦敦，最后落脚在爱尔兰的巴利哈拉，把女儿&quot;猫咪&quot;从战火与绑架中救回来，也终于说出了那句她这辈子从未对玫兰妮、瑞特、黑妈妈说出口的&quot;我爱你&quot;。这是一部关于一个女人如何从&quot;必须赢&quot;活成&quot;值得被爱&quot;的成长史诗，也是一封写给所有在黑暗里摸过煤桶、却不肯倒下的人的回信。</itunes:summary>
+      <itunes:duration>00:25:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260706/episode-20260706-02f76f.mp3" length="24640173" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
