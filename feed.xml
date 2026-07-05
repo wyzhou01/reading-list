@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 05 Jul 2026 08:18:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 08:26:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9515,6 +9515,17 @@
       <itunes:duration>00:36:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260705/episode-20260705-3df0a8.mp3" length="35076525" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《回到种子里去》 · 完整版 · 回到种子里去 · 完整讲读</title>
+      <description>《回到种子里去》是马尔克斯一九五零至一九八零年间为拉美报纸撰写的专栏合集。当他还不是诺奖得主时，他只是一个巴兰基亚的小记者，写总统的理发师、写卡利城从天而降的鱼雨、写肯塔基州一个错过自己死期的男人、写拉美小镇的偶像崇拜与守灵。他用小说家的笔法写新闻，让日常与荒诞在方寸之间彼此交融。这本书既是拉美新闻文学的经典范本，也是一位伟大作家三十年技艺打磨的真实档案——它告诉我们，所谓魔幻从来不是凭空生造，所谓天赋从来不是天赋，而是回到那种对文字最原始的虔诚，一辈子地写下去。</description>
+      <pubDate>Sun, 05 Jul 2026 08:25:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260705-episode-20260705-309f92</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《回到种子里去》是马尔克斯一九五零至一九八零年间为拉美报纸撰写的专栏合集。当他还不是诺奖得主时，他只是一个巴兰基亚的小记者，写总统的理发师、写卡利城从天而降的鱼雨、写肯塔基州一个错过自己死期的男人、写拉美小镇的偶像崇拜与守灵。他用小说家的笔法写新闻，让日常与荒诞在方寸之间彼此交融。这本书既是拉美新闻文学的经典范本，也是一位伟大作家三十年技艺打磨的真实档案——它告诉我们，所谓魔幻从来不是凭空生造，所谓天赋从来不是天赋，而是回到那种对文字最原始的虔诚，一辈子地写下去。</itunes:summary>
+      <itunes:duration>00:31:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260705/episode-20260705-309f92.mp3" length="30638637" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
