@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 05 Jul 2026 16:42:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 16:49:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9559,6 +9559,17 @@
       <itunes:duration>00:30:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260706/episode-20260706-2ac290.mp3" length="29010861" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《坡道上的家》 · 完整版 · 坡道上的家 · 完整讲读</title>
+      <description>本期节目深度拆解日本作家角田光代的《坡道上的家》。通过一桩改编自真实案件的东京虐婴案，全职妈妈里沙子作为候补陪审员旁听审判，却在被告水穗身上看见了自己的影子。节目从三大核心洞察切入：母职的孤岛化如何让一个女人孤立无援；温柔的家庭暴力如何在不留下伤痕的情况下瓦解一个人的精神；以及完美母亲的幻觉如何让每一个崩溃的妈妈都不敢喊累。本书出版于二零一六年的日本，却精准照见当下中国乃至全世界每一位母亲的真实处境——母职惩罚、育儿孤立、隐性精神暴力，以及社交媒体时代变本加厉的“幸福表演”。这不是一个恶母的故事，而是所有女性从同类的苦难中照见和救赎自身的洞口。</description>
+      <pubDate>Sun, 05 Jul 2026 16:49:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260706-episode-20260706-85efd6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期节目深度拆解日本作家角田光代的《坡道上的家》。通过一桩改编自真实案件的东京虐婴案，全职妈妈里沙子作为候补陪审员旁听审判，却在被告水穗身上看见了自己的影子。节目从三大核心洞察切入：母职的孤岛化如何让一个女人孤立无援；温柔的家庭暴力如何在不留下伤痕的情况下瓦解一个人的精神；以及完美母亲的幻觉如何让每一个崩溃的妈妈都不敢喊累。本书出版于二零一六年的日本，却精准照见当下中国乃至全世界每一位母亲的真实处境——母职惩罚、育儿孤立、隐性精神暴力，以及社交媒体时代变本加厉的“幸福表演”。这不是一个恶母的故事，而是所有女性从同类的苦难中照见和救赎自身的洞口。</itunes:summary>
+      <itunes:duration>00:31:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260706/episode-20260706-85efd6.mp3" length="30029997" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
