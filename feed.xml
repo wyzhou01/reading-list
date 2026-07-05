@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 05 Jul 2026 21:40:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 21:48:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9625,6 +9625,17 @@
       <itunes:duration>00:33:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260706/episode-20260706-426b9c.mp3" length="31924269" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《晚春》 · 完整版 · 晚春 · 完整讲读</title>
+      <description>《晚春》是青年作家三三的第一部小说集，二零二三年由上海文艺出版社出版。全书以两条线索展开，一条是杭州的家庭叙事——父亲孟清河疑心继母雅红下慢性毒药，写信召儿女归家辨明真相，子女却在归家后陷入更深的犹疑与辨认；另一条是土耳其的行走记，几个青年旅人在伊斯坦布尔、费特希耶、棉花堡之间漂泊，与友人之间爱恨纠缠。书名借自纳兰性德“当时只道是寻常”，全书以同名后记收束，记述作者远赴法国七年硕博连读的舅舅如何以一种沉默而独特的存在，改变了整个家族对命运、对文学、对情感交流的理解。三三以绵密克制的笔法，写离散与归来、衰老与亲密关系的崩解、记忆与日常的失真、异乡人身份的悬置，以及伤痛与沉默的家庭遗传——所有这些，都被她放在细节的层层叠积里，被翻译成一本读完之后仍会在心里持续晃动的小说集。</description>
+      <pubDate>Sun, 05 Jul 2026 21:48:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260706-episode-20260706-66b45a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《晚春》是青年作家三三的第一部小说集，二零二三年由上海文艺出版社出版。全书以两条线索展开，一条是杭州的家庭叙事——父亲孟清河疑心继母雅红下慢性毒药，写信召儿女归家辨明真相，子女却在归家后陷入更深的犹疑与辨认；另一条是土耳其的行走记，几个青年旅人在伊斯坦布尔、费特希耶、棉花堡之间漂泊，与友人之间爱恨纠缠。书名借自纳兰性德“当时只道是寻常”，全书以同名后记收束，记述作者远赴法国七年硕博连读的舅舅如何以一种沉默而独特的存在，改变了整个家族对命运、对文学、对情感交流的理解。三三以绵密克制的笔法，写离散与归来、衰老与亲密关系的崩解、记忆与日常的失真、异乡人身份的悬置，以及伤痛与沉默的家庭遗传——所有这些，都被她放在细节的层层叠积里，被翻译成一本读完之后仍会在心里持续晃动的小说集。</itunes:summary>
+      <itunes:duration>00:36:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260706/episode-20260706-66b45a.mp3" length="35367981" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
