@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 05 Jul 2026 22:05:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 22:12:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9680,6 +9680,17 @@
       <itunes:duration>00:22:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260706/episode-20260706-246a97.mp3" length="22021677" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《阿涅斯的海滩：瓦尔达访谈录》 · 完整版 · 阿涅斯的海滩 · 完整讲读</title>
+      <description>《阿涅斯的海滩》收录阿涅斯·瓦尔达跨越近半个世纪的二十余篇访谈，由美国学者克兰编选。本书不是别人为瓦尔达写的传记，而是她亲口讲出的创作史。从零预算的《短岬村》到八十岁的同名回顾之作，瓦尔达反复回到三个核心问题：什么是电影，如何以女人的身份拍电影，以及如何在边界、哀悼与年龄的限制中持续工作。她提出的“电影写作“概念，把剪辑、视角、节奏视为一种需要深思熟虑的语法；她对女权主义的“中间道路“探索，拒绝把愤怒变成姿态、把身份变成规训；她用九十米的电线、六十二岁的哀悼、七十二岁的拾穗、八十岁的海滩镜子，示范了什么叫一辈子都在创作。本书保留了原始访谈的质地，让读者看到一个伟大导演思想的真实演变。</description>
+      <pubDate>Sun, 05 Jul 2026 22:12:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260706-episode-20260706-a32eb7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《阿涅斯的海滩》收录阿涅斯·瓦尔达跨越近半个世纪的二十余篇访谈，由美国学者克兰编选。本书不是别人为瓦尔达写的传记，而是她亲口讲出的创作史。从零预算的《短岬村》到八十岁的同名回顾之作，瓦尔达反复回到三个核心问题：什么是电影，如何以女人的身份拍电影，以及如何在边界、哀悼与年龄的限制中持续工作。她提出的“电影写作“概念，把剪辑、视角、节奏视为一种需要深思熟虑的语法；她对女权主义的“中间道路“探索，拒绝把愤怒变成姿态、把身份变成规训；她用九十米的电线、六十二岁的哀悼、七十二岁的拾穗、八十岁的海滩镜子，示范了什么叫一辈子都在创作。本书保留了原始访谈的质地，让读者看到一个伟大导演思想的真实演变。</itunes:summary>
+      <itunes:duration>00:26:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260706/episode-20260706-a32eb7.mp3" length="25586349" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
