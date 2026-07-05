@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 05 Jul 2026 21:59:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 22:05:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9669,6 +9669,17 @@
       <itunes:duration>00:33:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260706/episode-20260706-99eb6c.mp3" length="32151597" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大转折》 · 完整版 · 大转折 · 完整讲读</title>
+      <description>《大转折》讲述了一九七三年石油危机如何成为现代经济史的断层线。经济学家马克·莱文森跳出单一国家视角，追踪石油美元流动、国际汇率角力与产业转移的全球链条，揭示战后繁荣终结、滞胀来临、贸易冲突兴起、新自由主义转向与贫富分化加剧的深层根源。他指出，真正的推手并非任何一届政府，而是生产率增长的放缓与技术变迁的不可控——这让战后那套政府调控经济的社会契约彻底失效，全球被迫重写规则。</description>
+      <pubDate>Sun, 05 Jul 2026 22:05:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260706-episode-20260706-246a97</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大转折》讲述了一九七三年石油危机如何成为现代经济史的断层线。经济学家马克·莱文森跳出单一国家视角，追踪石油美元流动、国际汇率角力与产业转移的全球链条，揭示战后繁荣终结、滞胀来临、贸易冲突兴起、新自由主义转向与贫富分化加剧的深层根源。他指出，真正的推手并非任何一届政府，而是生产率增长的放缓与技术变迁的不可控——这让战后那套政府调控经济的社会契约彻底失效，全球被迫重写规则。</itunes:summary>
+      <itunes:duration>00:22:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260706/episode-20260706-246a97.mp3" length="22021677" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
