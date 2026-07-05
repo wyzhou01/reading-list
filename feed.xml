@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 04 Jul 2026 22:30:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 07:47:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9471,6 +9471,17 @@
       <itunes:duration>00:31:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260705/episode-20260705-f517e7.mp3" length="30563757" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《寻找家园》 · 完整版 · 寻找家园 · 完整讲读</title>
+      <description>《寻找家园》是中国著名美学家、画家高尔泰的自传式散文集，记录了他从1934年出生到1990年代流亡美国近七十年的坎坷人生。全书分为梦里家山、流沙堕简、天苍地茫三卷，以细腻的笔触描写了江苏高淳的童年时光、苏州美专的学习经历、反右运动中被划为右派的苦难、甘肃夹边沟农场的十年劳教、敦煌文物研究所的壁画临摹、以及平反后在兰州大学、社科院的教学研究。书中深刻探讨了知识分子的流亡与自我寻找、艺术在苦难中的救赎功能、家园的多元含义等主题。这不仅是一部个人的苦难史，更是一部关于记忆、见证与精神坚守的启示录，为理解二十世纪中国知识分子的命运提供了独特视角。</description>
+      <pubDate>Sun, 05 Jul 2026 07:46:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260705-episode-20260705-e9f265</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《寻找家园》是中国著名美学家、画家高尔泰的自传式散文集，记录了他从1934年出生到1990年代流亡美国近七十年的坎坷人生。全书分为梦里家山、流沙堕简、天苍地茫三卷，以细腻的笔触描写了江苏高淳的童年时光、苏州美专的学习经历、反右运动中被划为右派的苦难、甘肃夹边沟农场的十年劳教、敦煌文物研究所的壁画临摹、以及平反后在兰州大学、社科院的教学研究。书中深刻探讨了知识分子的流亡与自我寻找、艺术在苦难中的救赎功能、家园的多元含义等主题。这不仅是一部个人的苦难史，更是一部关于记忆、见证与精神坚守的启示录，为理解二十世纪中国知识分子的命运提供了独特视角。</itunes:summary>
+      <itunes:duration>00:30:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260705/episode-20260705-e9f265.mp3" length="29154861" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
