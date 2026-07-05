@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 05 Jul 2026 08:26:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 16:26:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9526,6 +9526,17 @@
       <itunes:duration>00:31:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260705/episode-20260705-309f92.mp3" length="30638637" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《迷路员》 · 完整版 · 迷路员 · 完整讲读</title>
+      <description>《迷路员》是沈大成的第二部短篇小说集，收录十五个故事。她用冷静克制的笔调，写了一群在现代都市里迷路的人：看一眼宇宙就变成虚无主义者的年轻人，被系统判定为多余零件必须清除的平均体，身体被机械改造的甲壳族世代，以及在公园里和流浪汉分享面包的城市青年。这些故事不是科幻，是寓言，借荒诞的皮，包裹我们此刻正在经历的精神困境。沈大成关心的，是被系统当作异常数据的人，是不肯被平均值校准的人，是在算法的日常里保留最后一点不合时宜的人。这本书提醒我们，迷路不是病，迷路是人在被碾平的世界上，保留自己形状的方式。</description>
+      <pubDate>Sun, 05 Jul 2026 16:26:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260706-episode-20260706-e8991b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《迷路员》是沈大成的第二部短篇小说集，收录十五个故事。她用冷静克制的笔调，写了一群在现代都市里迷路的人：看一眼宇宙就变成虚无主义者的年轻人，被系统判定为多余零件必须清除的平均体，身体被机械改造的甲壳族世代，以及在公园里和流浪汉分享面包的城市青年。这些故事不是科幻，是寓言，借荒诞的皮，包裹我们此刻正在经历的精神困境。沈大成关心的，是被系统当作异常数据的人，是不肯被平均值校准的人，是在算法的日常里保留最后一点不合时宜的人。这本书提醒我们，迷路不是病，迷路是人在被碾平的世界上，保留自己形状的方式。</itunes:summary>
+      <itunes:duration>00:28:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260706/episode-20260706-e8991b.mp3" length="27191853" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
