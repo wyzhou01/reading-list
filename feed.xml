@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 05 Jul 2026 21:57:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 21:59:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9658,6 +9658,17 @@
       <itunes:duration>00:26:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260706/episode-20260706-75e510.mp3" length="25873581" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《制造消费者：消费主义全球史》 · 完整版 · 制造消费者 · 完整讲读</title>
+      <description>《制造消费者》是法国社会学家安东尼·加卢佐写的一部消费主义全球史。全书从十九世纪欧洲农村讲起，揭示了短短两个世纪里，自给自足的农民如何变成离不开市场的消费者。通过铁路、电报、百货商店、品牌、广告、公关、媒体等历史细节的考据，加卢佐展示了商品如何被注入符号与意义，欲望如何被系统性地制造，身份如何被消费所定义。本书提醒我们，今天买买买的冲动，并非天性使然，而是一百五十年商业系统精心培育的成果。读这本书，不是为了停止消费，而是为了从被动的消费者，变成清醒的旁观者。</description>
+      <pubDate>Sun, 05 Jul 2026 21:59:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260706-episode-20260706-99eb6c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《制造消费者》是法国社会学家安东尼·加卢佐写的一部消费主义全球史。全书从十九世纪欧洲农村讲起，揭示了短短两个世纪里，自给自足的农民如何变成离不开市场的消费者。通过铁路、电报、百货商店、品牌、广告、公关、媒体等历史细节的考据，加卢佐展示了商品如何被注入符号与意义，欲望如何被系统性地制造，身份如何被消费所定义。本书提醒我们，今天买买买的冲动，并非天性使然，而是一百五十年商业系统精心培育的成果。读这本书，不是为了停止消费，而是为了从被动的消费者，变成清醒的旁观者。</itunes:summary>
+      <itunes:duration>00:33:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260706/episode-20260706-99eb6c.mp3" length="32151597" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
