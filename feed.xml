@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 05 Jul 2026 16:49:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 16:55:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9570,6 +9570,17 @@
       <itunes:duration>00:31:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260706/episode-20260706-85efd6.mp3" length="30029997" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《十扇窗：伟大的诗歌如何改变世界》 · 完整版 · 十扇窗：伟大的诗歌如何改变世界 · 完整讲读</title>
+      <description>《十扇窗：伟大的诗歌如何改变世界》是美国诗人简·赫斯菲尔德继《九重门》之后的第二部诗论集。她从禅宗修行者的目光出发，跨越东西方诗学，重新审视松尾芭蕉、济慈、庞德、毕肖普、卡佛、辛波斯卡、米沃什等人笔下的诗作，并提出三个最核心的能力：不确定中停留的勇气、文本细读的训练、以及让悖论与惊奇重塑日常感知的纪律。她主张，伟大的诗歌不是装饰，而是一种能把“除不尽的余数”从世界深处交还给你的语言，是一种可以被练习的“看见”。</description>
+      <pubDate>Sun, 05 Jul 2026 16:55:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260706-episode-20260706-a48a61</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《十扇窗：伟大的诗歌如何改变世界》是美国诗人简·赫斯菲尔德继《九重门》之后的第二部诗论集。她从禅宗修行者的目光出发，跨越东西方诗学，重新审视松尾芭蕉、济慈、庞德、毕肖普、卡佛、辛波斯卡、米沃什等人笔下的诗作，并提出三个最核心的能力：不确定中停留的勇气、文本细读的训练、以及让悖论与惊奇重塑日常感知的纪律。她主张，伟大的诗歌不是装饰，而是一种能把“除不尽的余数”从世界深处交还给你的语言，是一种可以被练习的“看见”。</itunes:summary>
+      <itunes:duration>00:23:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260706/episode-20260706-a48a61.mp3" length="22883757" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
