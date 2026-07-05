@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 05 Jul 2026 08:09:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 08:18:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9504,6 +9504,17 @@
       <itunes:duration>00:32:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260705/episode-20260705-bb5eb3.mp3" length="31151277" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《奥斯维辛：寂静的城市》 · 完整版 · 奥斯维辛：寂静的城市 · 完整讲读</title>
+      <description>《奥斯维辛：寂静的城市》是普里莫·莱维一九五九至一九八六年间十篇短篇与两首诗歌的合集，由其子法比奥·莱维与研究中心主任多梅尼科·斯卡帕共同编选。书中前两篇《卡帕纽斯》《天使蝴蝶》直叩但丁《神曲》，以见证者身份怒吼；中间三篇《天使蝴蝶》《冰箱里的睡美人》《反向胺》从一九六六年笔名出版的科幻短篇集《自然故事》中精选，以生化寓言形式揭示纳粹对人类的物化与对灵魂的操控；《铈》《钒》回到化学家的本行，从实验室的缝隙里重审施害者与受害者的灰色地带；同名短篇则借一个住在奥斯维辛镇上的德国工程师之眼，描绘「日常之恶」如何以「不看」维系机器运转；最后三篇《不可抗力》《集中营的「侦探故事」》《无辜死者之歌》写于作者离世前夕，是他对二十世纪世界史的最后追问。这部选集不是回忆录的副本，而是同一位专业作家对同一伤口多角度的反复接近——他示范了一种在至暗面前既不麻木也不崩溃的写作伦理。</description>
+      <pubDate>Sun, 05 Jul 2026 08:18:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260705-episode-20260705-3df0a8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《奥斯维辛：寂静的城市》是普里莫·莱维一九五九至一九八六年间十篇短篇与两首诗歌的合集，由其子法比奥·莱维与研究中心主任多梅尼科·斯卡帕共同编选。书中前两篇《卡帕纽斯》《天使蝴蝶》直叩但丁《神曲》，以见证者身份怒吼；中间三篇《天使蝴蝶》《冰箱里的睡美人》《反向胺》从一九六六年笔名出版的科幻短篇集《自然故事》中精选，以生化寓言形式揭示纳粹对人类的物化与对灵魂的操控；《铈》《钒》回到化学家的本行，从实验室的缝隙里重审施害者与受害者的灰色地带；同名短篇则借一个住在奥斯维辛镇上的德国工程师之眼，描绘「日常之恶」如何以「不看」维系机器运转；最后三篇《不可抗力》《集中营的「侦探故事」》《无辜死者之歌》写于作者离世前夕，是他对二十世纪世界史的最后追问。这部选集不是回忆录的副本，而是同一位专业作家对同一伤口多角度的反复接近——他示范了一种在至暗面前既不麻木也不崩溃的写作伦理。</itunes:summary>
+      <itunes:duration>00:36:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260705/episode-20260705-3df0a8.mp3" length="35076525" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
