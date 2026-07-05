@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 05 Jul 2026 21:48:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 21:49:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9636,6 +9636,17 @@
       <itunes:duration>00:36:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260706/episode-20260706-66b45a.mp3" length="35367981" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《流俗地》 · 完整版 · 流俗地 · 完整讲读</title>
+      <description>《流俗地》是马来西亚作家黎紫书的第二部长篇小说，以盲女出租车接线员古银霞为线索，描绘一九六九年种族暴动后至二零一八年首次政党轮替之间，怡保华裔中下阶层在组屋、厨房、出租车与电话亭间的浮沉悲欢。银霞眼盲心不盲，凭过人的记忆与甜美的嗓音活成这座山城最清楚的声音地图；她周围的女人——固执的方氏、空虚的蕙兰、刻薄的婵娟、风流的莲珠、失智的马票嫂——各自以肉身演义生命的无明与不堪。黎紫书以平实笔调写流俗之地、流俗之人，却在那庸碌缝隙里，留下一束不廉价的灵光。</description>
+      <pubDate>Sun, 05 Jul 2026 21:49:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260706-episode-20260706-5bbe7d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《流俗地》是马来西亚作家黎紫书的第二部长篇小说，以盲女出租车接线员古银霞为线索，描绘一九六九年种族暴动后至二零一八年首次政党轮替之间，怡保华裔中下阶层在组屋、厨房、出租车与电话亭间的浮沉悲欢。银霞眼盲心不盲，凭过人的记忆与甜美的嗓音活成这座山城最清楚的声音地图；她周围的女人——固执的方氏、空虚的蕙兰、刻薄的婵娟、风流的莲珠、失智的马票嫂——各自以肉身演义生命的无明与不堪。黎紫书以平实笔调写流俗之地、流俗之人，却在那庸碌缝隙里，留下一束不廉价的灵光。</itunes:summary>
+      <itunes:duration>00:27:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260706/episode-20260706-5bbe7d.mp3" length="26557869" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
