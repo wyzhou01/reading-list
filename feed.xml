@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 05 Jul 2026 16:33:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 16:42:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9548,6 +9548,17 @@
       <itunes:duration>00:23:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260706/episode-20260706-962fca.mp3" length="22214061" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《坟场之书》 · 完整版 · 坟场之书 · 完整讲读</title>
+      <description>《坟场之书》是尼尔·盖曼写给孩子与曾是孩子的大人的成长寓言。一岁男孩诺伯蒂在一场灭门惨案中误入坟场，被亡灵夫妇欧文斯一家收养，由神秘的守护者赛拉斯监护，在亡灵与墓碑间长大成人。本期节目以三大拼图解读全书：父母之爱的终极悖论、恐惧如何被驯化为技能、死与生之间那条不分明的线。盖曼借一座坟场，写尽每个人成长中必经的告别与携带，告诉我们：家不是房子，是有人愿意为你唱一首没有结尾的歌。</description>
+      <pubDate>Sun, 05 Jul 2026 16:42:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260706-episode-20260706-2ac290</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《坟场之书》是尼尔·盖曼写给孩子与曾是孩子的大人的成长寓言。一岁男孩诺伯蒂在一场灭门惨案中误入坟场，被亡灵夫妇欧文斯一家收养，由神秘的守护者赛拉斯监护，在亡灵与墓碑间长大成人。本期节目以三大拼图解读全书：父母之爱的终极悖论、恐惧如何被驯化为技能、死与生之间那条不分明的线。盖曼借一座坟场，写尽每个人成长中必经的告别与携带，告诉我们：家不是房子，是有人愿意为你唱一首没有结尾的歌。</itunes:summary>
+      <itunes:duration>00:30:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260706/episode-20260706-2ac290.mp3" length="29010861" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
