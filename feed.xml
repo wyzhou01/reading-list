@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 05 Jul 2026 21:39:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 21:40:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9614,6 +9614,17 @@
       <itunes:duration>00:29:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260706/episode-20260706-0a1861.mp3" length="28575789" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《乔瓦尼的房间》 · 完整版 · 乔瓦尼的房间 · 完整讲读</title>
+      <description>《乔瓦尼的房间》是詹姆斯·鲍德温于一九五六年发表的长篇小说，讲述美国青年大卫在巴黎与意大利青年乔瓦尼陷入同性恋情，却因无法直面真实的自我而选择逃离，最终间接导致乔瓦尼被捕并走上断头台。全书以告解式独白展开，是现代英语文学中探讨身份压抑、怯懦与无法去爱之悲剧的里程碑之作。</description>
+      <pubDate>Sun, 05 Jul 2026 21:40:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260706-episode-20260706-426b9c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《乔瓦尼的房间》是詹姆斯·鲍德温于一九五六年发表的长篇小说，讲述美国青年大卫在巴黎与意大利青年乔瓦尼陷入同性恋情，却因无法直面真实的自我而选择逃离，最终间接导致乔瓦尼被捕并走上断头台。全书以告解式独白展开，是现代英语文学中探讨身份压抑、怯懦与无法去爱之悲剧的里程碑之作。</itunes:summary>
+      <itunes:duration>00:33:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260706/episode-20260706-426b9c.mp3" length="31924269" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
