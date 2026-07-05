@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 05 Jul 2026 21:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 21:39:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9603,6 +9603,17 @@
       <itunes:duration>00:26:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260706/episode-20260706-413681.mp3" length="25750317" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《遇到百分之百的女孩》 · 完整版 · 遇到百分之百的女孩 · 完整讲读</title>
+      <description>一九八一年到一九八三年间，村上春树为伊势丹百货公司会员杂志写下了十八篇连载小文，后结集成《遇到百分之百的女孩》。这些作品介于短篇与超短篇之间，文体实验色彩浓厚，既包含《袋鼠佳日》《困》《窗》这样的日常小品，也包含《䴙䴘》《图书馆奇谈》《出租车上的吸血鬼》这样的卡夫卡式异象。本书既是村上未来长篇巨著的“触角”，也是一扇通往他潜意识世界的索引之窗。</description>
+      <pubDate>Sun, 05 Jul 2026 21:39:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260706-episode-20260706-0a1861</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九八一年到一九八三年间，村上春树为伊势丹百货公司会员杂志写下了十八篇连载小文，后结集成《遇到百分之百的女孩》。这些作品介于短篇与超短篇之间，文体实验色彩浓厚，既包含《袋鼠佳日》《困》《窗》这样的日常小品，也包含《䴙䴘》《图书馆奇谈》《出租车上的吸血鬼》这样的卡夫卡式异象。本书既是村上未来长篇巨著的“触角”，也是一扇通往他潜意识世界的索引之窗。</itunes:summary>
+      <itunes:duration>00:29:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260706/episode-20260706-0a1861.mp3" length="28575789" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
