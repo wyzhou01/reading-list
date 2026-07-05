@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 05 Jul 2026 07:47:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 07:59:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9482,6 +9482,17 @@
       <itunes:duration>00:30:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260705/episode-20260705-e9f265.mp3" length="29154861" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《太多值得思考的事物：索尔·贝娄散文选：1940—2000》 · 完整版 · 太多值得思考的事物 · 完整讲读</title>
+      <description>《太多值得思考的事物》是贝娄六十年的散文精选。一个芝加哥贫民窟长大的犹太少年，如何在桥牌桌前写小说，如何警惕&quot;犹太作家&quot;的标签，如何看海明威和德莱塞的同行，如何在小说的中心位置消失之后继续写下去。贝娄给不出标准答案，但他诚实而锋利地把问题摆出来。他示范了一种在噪声时代的回应姿态：不被吞掉，不攻击，不哀叹，只是慢慢写、慢慢说、慢慢想清楚。这本书是一个作家的私人档案，也是一份二十世纪知识分子的精神账单。账单上没有金额，账目是思考本身。</description>
+      <pubDate>Sun, 05 Jul 2026 07:59:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260705-episode-20260705-43f75e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《太多值得思考的事物》是贝娄六十年的散文精选。一个芝加哥贫民窟长大的犹太少年，如何在桥牌桌前写小说，如何警惕&quot;犹太作家&quot;的标签，如何看海明威和德莱塞的同行，如何在小说的中心位置消失之后继续写下去。贝娄给不出标准答案，但他诚实而锋利地把问题摆出来。他示范了一种在噪声时代的回应姿态：不被吞掉，不攻击，不哀叹，只是慢慢写、慢慢说、慢慢想清楚。这本书是一个作家的私人档案，也是一份二十世纪知识分子的精神账单。账单上没有金额，账目是思考本身。</itunes:summary>
+      <itunes:duration>00:31:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260705/episode-20260705-43f75e.mp3" length="30074541" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
