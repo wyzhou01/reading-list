@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 05 Jul 2026 21:22:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 21:30:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9592,6 +9592,17 @@
       <itunes:duration>00:25:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260706/episode-20260706-02f76f.mp3" length="24640173" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《桶川跟踪狂杀人事件》 · 完整版 · 桶川跟踪狂杀人事件 · 完整讲读</title>
+      <description>一九九九年，日本女大学生猪野诗织遭跟踪骚扰并被前男友雇凶杀害。摄影周刊记者清水洁不顾警方封锁，独立追查真相，先于警方锁定凶手，更揭发埼玉县警的包庇丑闻。本书忠实记录了这场漫长的新闻调查，揭示公权力对受害者求助的冷漠、主流媒体对受害者的污名化与偏见，并直接推动日本《跟踪骚扰法》出台。诗织七岁时写给未来自己的明信片，成为本书最让人心碎的注脚。</description>
+      <pubDate>Sun, 05 Jul 2026 21:30:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260706-episode-20260706-413681</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九九九年，日本女大学生猪野诗织遭跟踪骚扰并被前男友雇凶杀害。摄影周刊记者清水洁不顾警方封锁，独立追查真相，先于警方锁定凶手，更揭发埼玉县警的包庇丑闻。本书忠实记录了这场漫长的新闻调查，揭示公权力对受害者求助的冷漠、主流媒体对受害者的污名化与偏见，并直接推动日本《跟踪骚扰法》出台。诗织七岁时写给未来自己的明信片，成为本书最让人心碎的注脚。</itunes:summary>
+      <itunes:duration>00:26:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260706/episode-20260706-413681.mp3" length="25750317" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
