@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 05 Jul 2026 16:26:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 16:33:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9537,6 +9537,17 @@
       <itunes:duration>00:28:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260706/episode-20260706-e8991b.mp3" length="27191853" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《小米创业思考》 · 完整版 · 小米创业思考 · 完整讲读</title>
+      <description>《小米创业思考》是雷军亲自口述的创业复盘之作，完整呈现了小米从二零一零年诞生到二零二二年成长为世界五百强的十二年历程。本书以“用互联网思维改造传统制造业”这一核心命题为线索，系统梳理了爆品模式、高效率模型、新零售、生态链与智能制造等方法论的演化逻辑。雷军不仅坦陈二零一五到二零一六年的低谷与反思，更把金山时代埋下的方法论种子、每周迭代的互联网开发模式、效率至上的底层信仰一一拆解。这既是一部创业者的实战手册，也是观察中国制造业转型升级的珍贵样本。</description>
+      <pubDate>Sun, 05 Jul 2026 16:33:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260706-episode-20260706-962fca</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《小米创业思考》是雷军亲自口述的创业复盘之作，完整呈现了小米从二零一零年诞生到二零二二年成长为世界五百强的十二年历程。本书以“用互联网思维改造传统制造业”这一核心命题为线索，系统梳理了爆品模式、高效率模型、新零售、生态链与智能制造等方法论的演化逻辑。雷军不仅坦陈二零一五到二零一六年的低谷与反思，更把金山时代埋下的方法论种子、每周迭代的互联网开发模式、效率至上的底层信仰一一拆解。这既是一部创业者的实战手册，也是观察中国制造业转型升级的珍贵样本。</itunes:summary>
+      <itunes:duration>00:23:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260706/episode-20260706-962fca.mp3" length="22214061" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
