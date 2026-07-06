@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 06 Jul 2026 21:28:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 21:34:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9713,6 +9713,17 @@
       <itunes:duration>00:27:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260707/episode-20260707-66327f.mp3" length="26719533" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《最后的耍猴人》 · 完整版 · 最后的耍猴人 · 完整讲读</title>
+      <description>《最后的耍猴人》是摄影师马宏杰跟拍河南新野耍猴人群体近十年的纪实作品。全书以这群世代迁徙、扒火车辗转全国的民间艺人为线索，记录下他们与猴子之间超越主仆的情感羁绊、街头卖艺求生的艰辛，以及2009年鲍风山等四人在黑龙江牡丹江街头被抓、关押54天的荒诞案件。马宏杰用十年长期主义和不评判的镜头伦理，为这群注定沉默的人留下最后的影像档案，也直接推动了猴戏成为国家级非物质文化遗产。这本书的厚度不仅在于耍猴人的故事，更在于它让我们看见——在文明与法治的高楼下，那些被遗忘的底层行当，是怎样艰难而尊严地活着。</description>
+      <pubDate>Mon, 06 Jul 2026 21:34:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260707-episode-20260707-bcf47c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《最后的耍猴人》是摄影师马宏杰跟拍河南新野耍猴人群体近十年的纪实作品。全书以这群世代迁徙、扒火车辗转全国的民间艺人为线索，记录下他们与猴子之间超越主仆的情感羁绊、街头卖艺求生的艰辛，以及2009年鲍风山等四人在黑龙江牡丹江街头被抓、关押54天的荒诞案件。马宏杰用十年长期主义和不评判的镜头伦理，为这群注定沉默的人留下最后的影像档案，也直接推动了猴戏成为国家级非物质文化遗产。这本书的厚度不仅在于耍猴人的故事，更在于它让我们看见——在文明与法治的高楼下，那些被遗忘的底层行当，是怎样艰难而尊严地活着。</itunes:summary>
+      <itunes:duration>00:30:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260707/episode-20260707-bcf47c.mp3" length="29078829" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
