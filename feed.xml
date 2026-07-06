@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 06 Jul 2026 21:22:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 21:28:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9702,6 +9702,17 @@
       <itunes:duration>00:30:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260707/episode-20260707-f048c5.mp3" length="28917549" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《新镀金时代》 · 完整版 · 新镀金时代 · 完整讲读</title>
+      <description>《新镀金时代》是一位英国《金融时报》驻孟买记者用五年时间写成的印度财阀调查。书中通过穆克什·安巴尼超跑撞车案、安蒂拉豪宅等标志性事件，揭示了印度经济自由化四分之一个世纪以来，超级富豪阶层如何崛起、如何与政客结盟形成“百分百的裙带资本主义“、又如何把整个工业经济拖入一千五百亿美元坏账的债务危机。作者尖锐指出，印度独立后形成的Raj体制正在被一种新的“亿万富豪统治“取代，知识界却对此心照不宣地保持沉默。本书既是印度的当代寓言，也是对每一个高速发展中的经济体发出的预警。</description>
+      <pubDate>Mon, 06 Jul 2026 21:27:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260707-episode-20260707-66327f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《新镀金时代》是一位英国《金融时报》驻孟买记者用五年时间写成的印度财阀调查。书中通过穆克什·安巴尼超跑撞车案、安蒂拉豪宅等标志性事件，揭示了印度经济自由化四分之一个世纪以来，超级富豪阶层如何崛起、如何与政客结盟形成“百分百的裙带资本主义“、又如何把整个工业经济拖入一千五百亿美元坏账的债务危机。作者尖锐指出，印度独立后形成的Raj体制正在被一种新的“亿万富豪统治“取代，知识界却对此心照不宣地保持沉默。本书既是印度的当代寓言，也是对每一个高速发展中的经济体发出的预警。</itunes:summary>
+      <itunes:duration>00:27:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260707/episode-20260707-66327f.mp3" length="26719533" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
