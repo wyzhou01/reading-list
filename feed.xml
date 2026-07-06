@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 05 Jul 2026 22:12:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 21:22:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9691,6 +9691,17 @@
       <itunes:duration>00:26:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260706/episode-20260706-a32eb7.mp3" length="25586349" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《鹿隐之野》 · 完整版 · 鹿隐之野 · 完整讲读</title>
+      <description>《鹿隐之野》是押沙龙二零二四年出版的短篇奇幻集，以商周易代至秦末的华夏大地为底色，讲述了七则高维存在&quot;天人&quot;与凡人交错的故事。天人给幼童辛一枚符片，符片放大了他本有的恶，令他竖起&quot;天帝&quot;之旗，用符号驯化恐惧，发动灭村战争。一个折返天人独自漂流三千年后陷入灭世冲动，却在鹿隐之野被一块刻着秦朝小篆的凡人遗石拦住。书的核心命题是：符片是放大器不是发动机；天帝是符号系统不是神；孤独不是反派，绝望才是；凡人的尊严不靠力量，靠&quot;再试一次&quot;的权利。</description>
+      <pubDate>Mon, 06 Jul 2026 21:21:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260707-episode-20260707-f048c5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《鹿隐之野》是押沙龙二零二四年出版的短篇奇幻集，以商周易代至秦末的华夏大地为底色，讲述了七则高维存在&quot;天人&quot;与凡人交错的故事。天人给幼童辛一枚符片，符片放大了他本有的恶，令他竖起&quot;天帝&quot;之旗，用符号驯化恐惧，发动灭村战争。一个折返天人独自漂流三千年后陷入灭世冲动，却在鹿隐之野被一块刻着秦朝小篆的凡人遗石拦住。书的核心命题是：符片是放大器不是发动机；天帝是符号系统不是神；孤独不是反派，绝望才是；凡人的尊严不靠力量，靠&quot;再试一次&quot;的权利。</itunes:summary>
+      <itunes:duration>00:30:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260707/episode-20260707-f048c5.mp3" length="28917549" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
