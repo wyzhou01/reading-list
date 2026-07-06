@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 06 Jul 2026 21:34:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 21:42:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9724,6 +9724,17 @@
       <itunes:duration>00:30:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260707/episode-20260707-bcf47c.mp3" length="29078829" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《六小时后你会死》 · 完整版 · 六小时后你会死 · 完整讲读</title>
+      <description>《六小时后你会死》是日本推理与科幻两栖作家高野和明的悬疑长篇。东京涩谷街头，二十五岁生日来临前的傍晚，原田美绪被陌生青年江户川圭史告知“六小时后你会死”。她以池袋约会俱乐部的过往、跟踪狂的线索和一位刑警的协助为线索，在剩余的六小时里走过涩谷、池袋、西日暮里与新宿的夜行都市，追踪可能杀害自己的凶手。表层是倒计时追凶，内核却借预知悖论追问在命运被提前告知的极端处境中，人究竟是被动等死，还是可以为自己做出选择。</description>
+      <pubDate>Mon, 06 Jul 2026 21:41:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260707-episode-20260707-064e03</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《六小时后你会死》是日本推理与科幻两栖作家高野和明的悬疑长篇。东京涩谷街头，二十五岁生日来临前的傍晚，原田美绪被陌生青年江户川圭史告知“六小时后你会死”。她以池袋约会俱乐部的过往、跟踪狂的线索和一位刑警的协助为线索，在剩余的六小时里走过涩谷、池袋、西日暮里与新宿的夜行都市，追踪可能杀害自己的凶手。表层是倒计时追凶，内核却借预知悖论追问在命运被提前告知的极端处境中，人究竟是被动等死，还是可以为自己做出选择。</itunes:summary>
+      <itunes:duration>00:26:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260707/episode-20260707-064e03.mp3" length="25027245" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
