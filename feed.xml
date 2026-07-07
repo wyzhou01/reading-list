@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 07 Jul 2026 21:27:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 21:34:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9834,6 +9834,17 @@
       <itunes:duration>00:32:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260708/episode-20260708-d8d68e.mp3" length="31559853" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《她来自马里乌波尔》 · 完整版 · 她来自马里乌波尔 · 完整讲读</title>
+      <description>《她来自马里乌波尔》是德国作家娜塔莎·沃丁的回忆录，讲述她追溯母亲叶芙根尼娅三十六岁苦难一生的过程。母亲是来自乌克兰的强制劳工，被纳粹从马里乌波尔运至莱比锡，战后投河自尽时，作者仅十岁。2013年夏夜，一次偶然的搜索让她在“亚述的希腊人“论坛发现母亲的名字，由此展开长达一百七十年的家族史追溯。本书填补了世界文学中长期被忽略的非犹太裔强制劳工群体空白，是关于身份撕裂、母爱缺失、代际创伤与历史沉默的沉重书写。</description>
+      <pubDate>Tue, 07 Jul 2026 21:34:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260708-episode-20260708-46b4cb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《她来自马里乌波尔》是德国作家娜塔莎·沃丁的回忆录，讲述她追溯母亲叶芙根尼娅三十六岁苦难一生的过程。母亲是来自乌克兰的强制劳工，被纳粹从马里乌波尔运至莱比锡，战后投河自尽时，作者仅十岁。2013年夏夜，一次偶然的搜索让她在“亚述的希腊人“论坛发现母亲的名字，由此展开长达一百七十年的家族史追溯。本书填补了世界文学中长期被忽略的非犹太裔强制劳工群体空白，是关于身份撕裂、母爱缺失、代际创伤与历史沉默的沉重书写。</itunes:summary>
+      <itunes:duration>00:30:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260708/episode-20260708-46b4cb.mp3" length="29657133" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
