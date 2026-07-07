@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 07 Jul 2026 07:27:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 07:40:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9746,6 +9746,17 @@
       <itunes:duration>00:27:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260707/episode-20260707-857082.mp3" length="26475693" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《沉默的巡游》 · 完整版 · 沉默的巡游 · 完整讲读</title>
+      <description>《沉默的巡游》是东野圭吾2019年出版的汤川学系列新作。一个名叫并木佐织的女孩失踪三年后，骸骨意外在一处垃圾屋中被发现，而当年涉嫌另一桩命案却凭借沉默权逃脱制裁的莲沼宽一，再度成为嫌疑人。面对法律追诉时效已过的困境，佐织的家人和镇上的人们精心策划了一场沉默的复仇。整本书通过这个案件，深度探讨了沉默权的双刃剑效应、复仇与私刑的边界、嫌疑人的共谋与背叛，以及爱与牺牲的另一种形态，是东野圭吾对程序正义与实体正义的又一场冷静追问。</description>
+      <pubDate>Tue, 07 Jul 2026 07:40:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260707-episode-20260707-02884b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《沉默的巡游》是东野圭吾2019年出版的汤川学系列新作。一个名叫并木佐织的女孩失踪三年后，骸骨意外在一处垃圾屋中被发现，而当年涉嫌另一桩命案却凭借沉默权逃脱制裁的莲沼宽一，再度成为嫌疑人。面对法律追诉时效已过的困境，佐织的家人和镇上的人们精心策划了一场沉默的复仇。整本书通过这个案件，深度探讨了沉默权的双刃剑效应、复仇与私刑的边界、嫌疑人的共谋与背叛，以及爱与牺牲的另一种形态，是东野圭吾对程序正义与实体正义的又一场冷静追问。</itunes:summary>
+      <itunes:duration>00:26:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260707/episode-20260707-02884b.mp3" length="25482285" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
