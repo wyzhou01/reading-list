@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 07 Jul 2026 16:26:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 16:38:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9790,6 +9790,17 @@
       <itunes:duration>00:09:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260708/episode-20260708-9ee161.mp3" length="9121581" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《下沉年代》 · 完整版 · 下沉年代 · 完整讲读</title>
+      <description>《下沉年代》是乔治·帕克写给美国的一封三十四年解剖书，从一九七八年到二零一二年，他追踪迪恩、杰夫、塔米三位普通人和奥普拉、金里奇、卡佛、沃尔顿、JAY-Z、沃伦、布莱巴特等时代切片，剖开一个帝国的静默解体：工厂南迁、工会瓦解、地方凋零、华盛顿被金钱接管、媒体被算法垄断、愤怒被茶党与占领华尔街双向瓜分。帕克的笔克制而残忍，他不提供答案，只让你看见：当公共支撑物一根根消失，每个人都被迫成为自己的品牌，而自由的幻象，恰恰是自由腐烂后的样子。这本书既是美国的镜子，也是所有正在经历转型社会的镜子。</description>
+      <pubDate>Tue, 07 Jul 2026 16:38:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260708-episode-20260708-c46565</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《下沉年代》是乔治·帕克写给美国的一封三十四年解剖书，从一九七八年到二零一二年，他追踪迪恩、杰夫、塔米三位普通人和奥普拉、金里奇、卡佛、沃尔顿、JAY-Z、沃伦、布莱巴特等时代切片，剖开一个帝国的静默解体：工厂南迁、工会瓦解、地方凋零、华盛顿被金钱接管、媒体被算法垄断、愤怒被茶党与占领华尔街双向瓜分。帕克的笔克制而残忍，他不提供答案，只让你看见：当公共支撑物一根根消失，每个人都被迫成为自己的品牌，而自由的幻象，恰恰是自由腐烂后的样子。这本书既是美国的镜子，也是所有正在经历转型社会的镜子。</itunes:summary>
+      <itunes:duration>00:32:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260708/episode-20260708-c46565.mp3" length="31566765" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
