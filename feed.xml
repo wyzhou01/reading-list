@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 06 Jul 2026 21:42:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 07:27:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9735,6 +9735,17 @@
       <itunes:duration>00:26:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260707/episode-20260707-064e03.mp3" length="25027245" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《小狗钱钱》 · 完整版 · 小狗钱钱 · 完整讲读</title>
+      <description>《小狗钱钱》是德国作家博多·舍费尔写给孩子的理财童话，却意外打动了无数成年人。十二岁的女孩吉娅救下一只会说话的白色拉布拉多犬，钱钱教她写下十个梦想、做出梦想储蓄罐和相册、七十二小时内必须行动，并把收入分成日常、储蓄、梦想三份。吉娅从帮邻居遛狗开始赚第一笔钱，组建投资俱乐部学会让钱为自己工作，最终帮助父母走出债务危机。书的核心不是致富技巧，而是一套关于金钱的底层原则：写下来的梦想才会实现，分开管理的钱才会变富，日积月累的自信才能让人真正掌控自己的人生。再加上一只下金蛋的鹅的寓言和七条品格准则，《小狗钱钱》温柔地提醒每一个成年人：富裕不是遥远的奇迹，而是从今天下午六点就可以开始的练习。</description>
+      <pubDate>Tue, 07 Jul 2026 07:26:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260707-episode-20260707-857082</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《小狗钱钱》是德国作家博多·舍费尔写给孩子的理财童话，却意外打动了无数成年人。十二岁的女孩吉娅救下一只会说话的白色拉布拉多犬，钱钱教她写下十个梦想、做出梦想储蓄罐和相册、七十二小时内必须行动，并把收入分成日常、储蓄、梦想三份。吉娅从帮邻居遛狗开始赚第一笔钱，组建投资俱乐部学会让钱为自己工作，最终帮助父母走出债务危机。书的核心不是致富技巧，而是一套关于金钱的底层原则：写下来的梦想才会实现，分开管理的钱才会变富，日积月累的自信才能让人真正掌控自己的人生。再加上一只下金蛋的鹅的寓言和七条品格准则，《小狗钱钱》温柔地提醒每一个成年人：富裕不是遥远的奇迹，而是从今天下午六点就可以开始的练习。</itunes:summary>
+      <itunes:duration>00:27:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260707/episode-20260707-857082.mp3" length="26475693" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
