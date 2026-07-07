@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 07 Jul 2026 07:53:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 08:01:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9768,6 +9768,17 @@
       <itunes:duration>00:33:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260707/episode-20260707-f544ea.mp3" length="32118957" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《巴黎评论·女性作家访谈》 · 完整版 · 巴黎评论·女性作家访谈 · 完整讲读</title>
+      <description>《巴黎评论·女性作家访谈》收录了十六位横跨二十世纪的女作家长篇对话。从丹麦男爵伊萨克·迪内森，到存在主义旗手西蒙娜·德·波伏瓦，再到隐身的埃莱娜·费兰特，她们在访谈中坦陈写作的起点、孤独、语言、性别与身体的代价。这本书不是写作指南，而是一份珍贵的女性声音档案——它告诉读者，一个女人如何在一张桌子上、在疾病的阴影中、在边缘的位置上，把自己的生活写成文学。读这本书，你会听见十六种活过、痛过、写下过的声音。</description>
+      <pubDate>Tue, 07 Jul 2026 08:01:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260707-episode-20260707-1b122f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《巴黎评论·女性作家访谈》收录了十六位横跨二十世纪的女作家长篇对话。从丹麦男爵伊萨克·迪内森，到存在主义旗手西蒙娜·德·波伏瓦，再到隐身的埃莱娜·费兰特，她们在访谈中坦陈写作的起点、孤独、语言、性别与身体的代价。这本书不是写作指南，而是一份珍贵的女性声音档案——它告诉读者，一个女人如何在一张桌子上、在疾病的阴影中、在边缘的位置上，把自己的生活写成文学。读这本书，你会听见十六种活过、痛过、写下过的声音。</itunes:summary>
+      <itunes:duration>00:26:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260707/episode-20260707-1b122f.mp3" length="25433517" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
