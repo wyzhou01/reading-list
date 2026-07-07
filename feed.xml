@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 07 Jul 2026 16:55:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 21:27:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9823,6 +9823,17 @@
       <itunes:duration>00:22:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260708/episode-20260708-759c56.mp3" length="22038189" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《写一百年再停笔：托纳多雷对谈莫里康内》 · 完整版 · 写一百年再停笔 · 完整讲读</title>
+      <description>《写一百年再停笔》是导演朱塞佩·托纳多雷与作曲家埃尼奥·莫里康内的深度对谈，源自二零二一年纪录片《音魂掠影》。莫里康内用最朴素的方式拆解了自己一生的创作哲学，没有灵感这回事，旋律是一点一点构思出来的。他谈巴赫与斯特拉文斯基的精神渊源，谈十二音技法与声音的民主，谈如何用三个音、两个音写出传唱世界的电影配乐，谈与莱昂内、托纳多雷几十年亦师亦友的合作。一个写出了五百多部电影配乐、两度斩获奥斯卡小金人的作曲家，最终告诉我们，长期主义、纪律、对前人的继承与对乐器的偏执，才是他真正的秘诀。</description>
+      <pubDate>Tue, 07 Jul 2026 21:27:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260708-episode-20260708-d8d68e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《写一百年再停笔》是导演朱塞佩·托纳多雷与作曲家埃尼奥·莫里康内的深度对谈，源自二零二一年纪录片《音魂掠影》。莫里康内用最朴素的方式拆解了自己一生的创作哲学，没有灵感这回事，旋律是一点一点构思出来的。他谈巴赫与斯特拉文斯基的精神渊源，谈十二音技法与声音的民主，谈如何用三个音、两个音写出传唱世界的电影配乐，谈与莱昂内、托纳多雷几十年亦师亦友的合作。一个写出了五百多部电影配乐、两度斩获奥斯卡小金人的作曲家，最终告诉我们，长期主义、纪律、对前人的继承与对乐器的偏执，才是他真正的秘诀。</itunes:summary>
+      <itunes:duration>00:32:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260708/episode-20260708-d8d68e.mp3" length="31559853" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
