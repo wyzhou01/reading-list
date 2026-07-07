@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 07 Jul 2026 16:45:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 16:51:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9812,6 +9812,17 @@
       <itunes:duration>00:25:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260708/episode-20260708-a4310d.mp3" length="24044589" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《看不见的女性》 · 完整版 · 看不见的女性 · 完整讲读</title>
+      <description>本书揭示了一个贯穿日常生活、职场、设计、医疗与公共生活各个领域的系统性问题：性别数据缺口。以男性为默认标准的世界导致女性被系统性忽视，从办公室空调温度到汽车安全设计，从药物剂量到灾害救援，女性的需求与体验长期处于&apos;缺席&apos;状态。作者通过大量数据指出，这种偏见并非出于恶意，而是&apos;把男人等同于人类&apos;的思维定式所致，并探讨由此带来的深远危害。</description>
+      <pubDate>Tue, 07 Jul 2026 16:51:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260708-episode-20260708-759c56</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书揭示了一个贯穿日常生活、职场、设计、医疗与公共生活各个领域的系统性问题：性别数据缺口。以男性为默认标准的世界导致女性被系统性忽视，从办公室空调温度到汽车安全设计，从药物剂量到灾害救援，女性的需求与体验长期处于&apos;缺席&apos;状态。作者通过大量数据指出，这种偏见并非出于恶意，而是&apos;把男人等同于人类&apos;的思维定式所致，并探讨由此带来的深远危害。</itunes:summary>
+      <itunes:duration>00:22:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260708/episode-20260708-759c56.mp3" length="22038189" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
