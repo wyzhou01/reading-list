@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 07 Jul 2026 21:34:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 21:50:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9845,6 +9845,17 @@
       <itunes:duration>00:30:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260708/episode-20260708-46b4cb.mp3" length="29657133" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《鳗鱼的旅行》 · 完整版 · 鳗鱼的旅行 · 完整讲读</title>
+      <description>《鳗鱼的旅行》是瑞典作家帕特里克·斯文松写就的一部关于鳗鱼生命史与人类两千年来求索之谜的非虚构作品。欧洲鳗鱼诞生于大西洋深处的马尾藻海，幼体漂游三年抵达欧洲，蜕变为黄鳗后在溪流中独自生活数十年，最终再游回出生地繁殖并死去。两千多年来，从亚里士多德到达尔文，无数杰出头脑试图解开它的繁殖之谜，却始终未有人亲眼见证。这一切，构成了一个关于未知、关于等待、关于人类如何面对自然的精神寓言。</description>
+      <pubDate>Tue, 07 Jul 2026 21:50:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260708-episode-20260708-243597</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《鳗鱼的旅行》是瑞典作家帕特里克·斯文松写就的一部关于鳗鱼生命史与人类两千年来求索之谜的非虚构作品。欧洲鳗鱼诞生于大西洋深处的马尾藻海，幼体漂游三年抵达欧洲，蜕变为黄鳗后在溪流中独自生活数十年，最终再游回出生地繁殖并死去。两千多年来，从亚里士多德到达尔文，无数杰出头脑试图解开它的繁殖之谜，却始终未有人亲眼见证。这一切，构成了一个关于未知、关于等待、关于人类如何面对自然的精神寓言。</itunes:summary>
+      <itunes:duration>00:48:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260708/episode-20260708-243597.mp3" length="46743597" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
