@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 07 Jul 2026 08:01:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 16:26:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9779,6 +9779,17 @@
       <itunes:duration>00:26:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260707/episode-20260707-1b122f.mp3" length="25433517" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《切尔诺贝利的午夜》 · 完整版 · 切尔诺贝利的午夜 · 完整讲读</title>
+      <description>《切尔诺贝利的午夜》以1986年乌克兰切尔诺贝利核电站四号机组爆炸为切入点，详细追溯了事故的技术缺陷、应急响应、政府隐瞒及后续政治与社会影响。书中通过大量档案与访谈，展现了核能安全、专家责任、信息透明与制度监督之间的复杂关系，为当代能源政策提供了深刻警示。</description>
+      <pubDate>Tue, 07 Jul 2026 16:25:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260708-episode-20260708-9ee161</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《切尔诺贝利的午夜》以1986年乌克兰切尔诺贝利核电站四号机组爆炸为切入点，详细追溯了事故的技术缺陷、应急响应、政府隐瞒及后续政治与社会影响。书中通过大量档案与访谈，展现了核能安全、专家责任、信息透明与制度监督之间的复杂关系，为当代能源政策提供了深刻警示。</itunes:summary>
+      <itunes:duration>00:09:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260708/episode-20260708-9ee161.mp3" length="9121581" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
