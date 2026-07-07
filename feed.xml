@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 07 Jul 2026 16:38:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 16:45:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9801,6 +9801,17 @@
       <itunes:duration>00:32:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260708/episode-20260708-c46565.mp3" length="31566765" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我们的祖先三部曲》 · 完整版 · 我们的祖先三部曲 · 完整讲读</title>
+      <description>卡尔维诺《我们的祖先》三部曲：《分成两半的子爵》中梅达尔多被炮弹劈成善恶两半，最终缝回完整；《树上的男爵》中柯希莫十二岁起拒绝下树，在树上度过一生；《不存在的骑士》中没有肉身的阿季卢尔福凭意志成为骑士。三部作品用童话外壳写现代人的精神困境，回答“不完整的人如何成为完整“这一命题——完整不是天生，而是打碎后主动缝合的结果。</description>
+      <pubDate>Tue, 07 Jul 2026 16:45:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260708-episode-20260708-a4310d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>卡尔维诺《我们的祖先》三部曲：《分成两半的子爵》中梅达尔多被炮弹劈成善恶两半，最终缝回完整；《树上的男爵》中柯希莫十二岁起拒绝下树，在树上度过一生；《不存在的骑士》中没有肉身的阿季卢尔福凭意志成为骑士。三部作品用童话外壳写现代人的精神困境，回答“不完整的人如何成为完整“这一命题——完整不是天生，而是打碎后主动缝合的结果。</itunes:summary>
+      <itunes:duration>00:25:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260708/episode-20260708-a4310d.mp3" length="24044589" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
