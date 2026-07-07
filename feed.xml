@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 07 Jul 2026 21:50:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 21:57:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9856,6 +9856,17 @@
       <itunes:duration>00:48:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260708/episode-20260708-243597.mp3" length="46743597" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《非理性繁荣与金融危机》 · 完整版 · 非理性繁荣与金融危机 · 完整讲读</title>
+      <description>《非理性繁荣与金融危机》是诺贝尔经济学奖得主罗伯特·席勒对二零零八年美国次贷危机的深度剖析。本书指出，房地产泡沫的根源不在房价本身，而在人性弱点、时代叙事、金融创新与监管缺位的共同发酵。席勒一方面追溯了思维方式的变化如何让&quot;房价只涨不跌&quot;成为一代人的共识幻觉，另一方面反思了危机后救市的道德难题，主张把慈善式救助升级为以保险为基础的契约机制。最终，他提出金融民主化的长期愿景：通过住房权益保险、生计保险、健康保险交易所等创新产品，让普通人能够用得上、用得起、用得懂金融工具，从而在制度层面削弱下一次危机的破坏力。本书既是危机分析，也是改革蓝图，对于理解资产泡沫机制、推动金融监管改革具有长期参考价值。</description>
+      <pubDate>Tue, 07 Jul 2026 21:57:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260708-episode-20260708-cd3bfe</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《非理性繁荣与金融危机》是诺贝尔经济学奖得主罗伯特·席勒对二零零八年美国次贷危机的深度剖析。本书指出，房地产泡沫的根源不在房价本身，而在人性弱点、时代叙事、金融创新与监管缺位的共同发酵。席勒一方面追溯了思维方式的变化如何让&quot;房价只涨不跌&quot;成为一代人的共识幻觉，另一方面反思了危机后救市的道德难题，主张把慈善式救助升级为以保险为基础的契约机制。最终，他提出金融民主化的长期愿景：通过住房权益保险、生计保险、健康保险交易所等创新产品，让普通人能够用得上、用得起、用得懂金融工具，从而在制度层面削弱下一次危机的破坏力。本书既是危机分析，也是改革蓝图，对于理解资产泡沫机制、推动金融监管改革具有长期参考价值。</itunes:summary>
+      <itunes:duration>00:28:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260708/episode-20260708-cd3bfe.mp3" length="27077421" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
