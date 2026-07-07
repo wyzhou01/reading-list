@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 07 Jul 2026 07:40:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 07:53:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9757,6 +9757,17 @@
       <itunes:duration>00:26:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260707/episode-20260707-02884b.mp3" length="25482285" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《奶酪与蛀虫》 · 完整版 · 奶酪与蛆虫 · 完整讲读</title>
+      <description>《奶酪与蛆虫》是意大利微观史学家卡洛·金茨堡的奠基之作。十六世纪末，弗留利乡下的磨坊主多梅尼科·斯坎代拉（人称梅诺基奥）因主张世界起源于腐坏、蛆虫化为天使的宇宙观，被宗教法庭两次审判并最终处死。金茨堡以厚重的审讯卷宗为材料，打捞出一个普通农民脑海中那套与官方教会完全不同的宇宙，进而追问：印刷术普及后，口头文化与书面文化如何在底层社会交锋？支配文化与被支配文化之间，存在怎样的循环渗透？本书既是微观史学的经典，也是关于历史学家如何诚实面对史料的方法论宣言。</description>
+      <pubDate>Tue, 07 Jul 2026 07:53:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260707-episode-20260707-f544ea</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《奶酪与蛆虫》是意大利微观史学家卡洛·金茨堡的奠基之作。十六世纪末，弗留利乡下的磨坊主多梅尼科·斯坎代拉（人称梅诺基奥）因主张世界起源于腐坏、蛆虫化为天使的宇宙观，被宗教法庭两次审判并最终处死。金茨堡以厚重的审讯卷宗为材料，打捞出一个普通农民脑海中那套与官方教会完全不同的宇宙，进而追问：印刷术普及后，口头文化与书面文化如何在底层社会交锋？支配文化与被支配文化之间，存在怎样的循环渗透？本书既是微观史学的经典，也是关于历史学家如何诚实面对史料的方法论宣言。</itunes:summary>
+      <itunes:duration>00:33:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260707/episode-20260707-f544ea.mp3" length="32118957" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
