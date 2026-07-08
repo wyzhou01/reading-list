@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 07 Jul 2026 22:00:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 07:22:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9878,6 +9878,17 @@
       <itunes:duration>00:26:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260708/episode-20260708-de1d87.mp3" length="25147053" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《拒绝所有的岸》 · 完整版 · 拒绝所有的岸 · 完整讲读</title>
+      <description>《拒绝所有的岸》是哥伦比亚诗人穆蒂斯一九四七至一九九三年诗作的合集，以瞭望员马克洛尔的漂泊编年史为线索。全书围绕四个核心意象展开：漂泊与无岸、记忆与时间、语言与寂静、瞭望者凝视未出现的岛屿。穆蒂斯拒绝魔幻现实主义的潮流，回归语言的纯粹与形式的艰深，写列车、瞭望台、热带雨林与阿拉伯海王子阿米尔巴尔。他用四十年证明：拒绝所有的岸，不是为了到达，是为了在永远到不了的地方保持航行——一种知道自己配不上、仍然要去做的虔诚姿态。</description>
+      <pubDate>Wed, 08 Jul 2026 07:22:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260708-episode-20260708-3ac412</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《拒绝所有的岸》是哥伦比亚诗人穆蒂斯一九四七至一九九三年诗作的合集，以瞭望员马克洛尔的漂泊编年史为线索。全书围绕四个核心意象展开：漂泊与无岸、记忆与时间、语言与寂静、瞭望者凝视未出现的岛屿。穆蒂斯拒绝魔幻现实主义的潮流，回归语言的纯粹与形式的艰深，写列车、瞭望台、热带雨林与阿拉伯海王子阿米尔巴尔。他用四十年证明：拒绝所有的岸，不是为了到达，是为了在永远到不了的地方保持航行——一种知道自己配不上、仍然要去做的虔诚姿态。</itunes:summary>
+      <itunes:duration>00:26:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260708/episode-20260708-3ac412.mp3" length="25036077" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
