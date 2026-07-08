@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 08 Jul 2026 07:48:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 08:01:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9922,6 +9922,17 @@
       <itunes:duration>00:26:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260708/episode-20260708-94cec7.mp3" length="25385901" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《昨天堂》 · 完整版 · 昨天堂 · 完整讲读</title>
+      <description>《昨天堂》是摄影师严明的第三本摄影集,收录二零零七至二零二零年间创作的一百零八幅黑白照片与十一篇散文。全书分浮世、倾城、惊梦、尽欢四辑,镜头聚焦正在消失的普通人、衰败的工业废墟、风化的古佛像与被时代列车带走的细节。严明没有拍宏大叙事,他拍的是被加速时代忽略的人与风景;他用二十年时间示范了一种凝视的方式——用最好的光景置换这些照片,为消失之物盖一座昨日的殿堂。这不是一本关于摄影的书,而是一本关于如何郑重告别的书。</description>
+      <pubDate>Wed, 08 Jul 2026 08:00:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260708-episode-20260708-7f339c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《昨天堂》是摄影师严明的第三本摄影集,收录二零零七至二零二零年间创作的一百零八幅黑白照片与十一篇散文。全书分浮世、倾城、惊梦、尽欢四辑,镜头聚焦正在消失的普通人、衰败的工业废墟、风化的古佛像与被时代列车带走的细节。严明没有拍宏大叙事,他拍的是被加速时代忽略的人与风景;他用二十年时间示范了一种凝视的方式——用最好的光景置换这些照片,为消失之物盖一座昨日的殿堂。这不是一本关于摄影的书,而是一本关于如何郑重告别的书。</itunes:summary>
+      <itunes:duration>00:25:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260708/episode-20260708-7f339c.mp3" length="24022701" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
