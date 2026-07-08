@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 08 Jul 2026 16:31:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 16:40:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9955,6 +9955,17 @@
       <itunes:duration>00:28:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260709/episode-20260709-5ca4be.mp3" length="27778989" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一把扭曲的匕首》 · 完整版 · 一把扭曲的匕首 · 完整讲读</title>
+      <description>《一把扭曲的匕首》是英国作家安东尼·霍洛维茨的霍桑探案系列第四部。小说延续了作家与侦探的亦敌亦友结构：当作家安东尼决定终止与侦探霍桑的写作合约时，他的话剧《心理游戏》在伦敦杂耍剧院首演夜，剧评家哈丽特·斯罗索比被匕首刺死于后台。作家本人随即成为头号嫌疑人，被拘留审讯。案件表面指向剧场恩怨，底层却牵出二十年前莫克翰希思预备学校的一桩被掩盖的性侵旧案。霍洛维茨以戏中戏的镜像结构致敬阿加莎·克里斯蒂，揭示出所有扭曲的匕首，指向的都是你以为早已愈合的伤口——过去从未真正过去，秘密也从未真正被埋葬。</description>
+      <pubDate>Wed, 08 Jul 2026 16:39:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260709-episode-20260709-007291</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一把扭曲的匕首》是英国作家安东尼·霍洛维茨的霍桑探案系列第四部。小说延续了作家与侦探的亦敌亦友结构：当作家安东尼决定终止与侦探霍桑的写作合约时，他的话剧《心理游戏》在伦敦杂耍剧院首演夜，剧评家哈丽特·斯罗索比被匕首刺死于后台。作家本人随即成为头号嫌疑人，被拘留审讯。案件表面指向剧场恩怨，底层却牵出二十年前莫克翰希思预备学校的一桩被掩盖的性侵旧案。霍洛维茨以戏中戏的镜像结构致敬阿加莎·克里斯蒂，揭示出所有扭曲的匕首，指向的都是你以为早已愈合的伤口——过去从未真正过去，秘密也从未真正被埋葬。</itunes:summary>
+      <itunes:duration>00:26:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260709/episode-20260709-007291.mp3" length="25400109" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
