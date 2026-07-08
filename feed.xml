@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 08 Jul 2026 07:22:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 07:29:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9889,6 +9889,17 @@
       <itunes:duration>00:26:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260708/episode-20260708-3ac412.mp3" length="25036077" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《失去的过去与未来的犯罪》 · 完整版 · 失去的过去与未来的犯罪 · 完整讲读</title>
+      <description>本书是日本 SF 大师小林泰三继《醉步男》《天狱与地国》之后“记忆与时空”三部曲的集大成之作。一个十七岁女高中生某晚忽然发现自己的短期记忆正在以小时为单位地断裂，紧接着发现整个世界都陷入了同样的失忆危机：从核电站控制室的失忆谜团，到记忆冻结与解冻的残酷实验，再到复制人、招魂师与“先行者”，故事层层升级，最终直指记忆、身份、现实、宗教、进化五大命题。小林泰三借硬核 SF 的设定拷问一个最古老的问题：没有连续记忆的“我”，还是我吗？而当现实与幻象彻底无法区分，人又该往何处去？</description>
+      <pubDate>Wed, 08 Jul 2026 07:29:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260708-episode-20260708-49b334</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是日本 SF 大师小林泰三继《醉步男》《天狱与地国》之后“记忆与时空”三部曲的集大成之作。一个十七岁女高中生某晚忽然发现自己的短期记忆正在以小时为单位地断裂，紧接着发现整个世界都陷入了同样的失忆危机：从核电站控制室的失忆谜团，到记忆冻结与解冻的残酷实验，再到复制人、招魂师与“先行者”，故事层层升级，最终直指记忆、身份、现实、宗教、进化五大命题。小林泰三借硬核 SF 的设定拷问一个最古老的问题：没有连续记忆的“我”，还是我吗？而当现实与幻象彻底无法区分，人又该往何处去？</itunes:summary>
+      <itunes:duration>00:25:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260708/episode-20260708-49b334.mp3" length="24598701" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
