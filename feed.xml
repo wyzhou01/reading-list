@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 08 Jul 2026 16:40:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 16:50:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9966,6 +9966,17 @@
       <itunes:duration>00:26:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260709/episode-20260709-007291.mp3" length="25400109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我的灵魂骑在纸背上》 · 完整版 · 我的灵魂骑在纸背上 · 完整讲读</title>
+      <description>《我的灵魂骑在纸背上》是三毛一九七三年至一九七七年写给父母的家书选集,涵盖她在撒哈拉结婚、沙漠生活、辗转至加那利群岛的关键五年。书里没有文学修辞,只有邮戳、失眠、办居留证、装修房子、给父母&quot;请扣账&quot;的账单,以及&quot;我不知怎么告诉您们,我心里对你们的爱和感激&quot;。这本书让读者看到比《撒哈拉的故事》更真实、更立体、更让人心疼的三毛——她所有的飞翔,都建立在父母默默撑起来的地面之上。读这本书,你会重新认识&quot;自由&quot;这个词——自由不是想走就走,是有人在你身后一直寄钱、寄字典、寄棉袄,允许你飞,也等着你回家。</description>
+      <pubDate>Wed, 08 Jul 2026 16:50:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260709-episode-20260709-2b48ca</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我的灵魂骑在纸背上》是三毛一九七三年至一九七七年写给父母的家书选集,涵盖她在撒哈拉结婚、沙漠生活、辗转至加那利群岛的关键五年。书里没有文学修辞,只有邮戳、失眠、办居留证、装修房子、给父母&quot;请扣账&quot;的账单,以及&quot;我不知怎么告诉您们,我心里对你们的爱和感激&quot;。这本书让读者看到比《撒哈拉的故事》更真实、更立体、更让人心疼的三毛——她所有的飞翔,都建立在父母默默撑起来的地面之上。读这本书,你会重新认识&quot;自由&quot;这个词——自由不是想走就走,是有人在你身后一直寄钱、寄字典、寄棉袄,允许你飞,也等着你回家。</itunes:summary>
+      <itunes:duration>00:31:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260709/episode-20260709-2b48ca.mp3" length="29802669" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
