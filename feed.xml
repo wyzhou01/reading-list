@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 08 Jul 2026 21:52:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 22:02:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10021,6 +10021,17 @@
       <itunes:duration>00:23:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260709/episode-20260709-98157b.mp3" length="22390701" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《工作、消费主义和新穷人》 · 完整版 · 工作、消费主义和新穷人 · 完整讲读</title>
+      <description>《工作、消费主义和新穷人》是社会学家齐格蒙特·鲍曼晚年的代表作。本书追溯了二十世纪末穷人被“重新定义”的全过程：工作伦理如何把穷人规训进工厂，消费主义如何把穷人重铸为“有缺陷的消费者”，福利国家如何衰落并瓦解集体责任，“底层阶级”概念又如何把穷人妖魔化为社会威胁。面对“全民就业”神话的破灭，鲍曼提出一个根本性追问：是否必须把生存权与出卖劳动力彻底脱钩？是否需要一种从“工作伦理”到“生活伦理”的范式转移？本书不提供答案，但它打开了一种看见：穷人是被社会制造的，而社会是可以被重新想象的。</description>
+      <pubDate>Wed, 08 Jul 2026 22:02:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260709-episode-20260709-3d002b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《工作、消费主义和新穷人》是社会学家齐格蒙特·鲍曼晚年的代表作。本书追溯了二十世纪末穷人被“重新定义”的全过程：工作伦理如何把穷人规训进工厂，消费主义如何把穷人重铸为“有缺陷的消费者”，福利国家如何衰落并瓦解集体责任，“底层阶级”概念又如何把穷人妖魔化为社会威胁。面对“全民就业”神话的破灭，鲍曼提出一个根本性追问：是否必须把生存权与出卖劳动力彻底脱钩？是否需要一种从“工作伦理”到“生活伦理”的范式转移？本书不提供答案，但它打开了一种看见：穷人是被社会制造的，而社会是可以被重新想象的。</itunes:summary>
+      <itunes:duration>00:33:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260709/episode-20260709-3d002b.mp3" length="32264109" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
