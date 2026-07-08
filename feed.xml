@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 08 Jul 2026 16:50:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 21:27:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9977,6 +9977,17 @@
       <itunes:duration>00:31:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260709/episode-20260709-2b48ca.mp3" length="29802669" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《顿悟的时刻》 · 完整版 · 顿悟的时刻 · 完整讲读</title>
+      <description>本期节目深度解读张悦然的《顿悟的时刻》。这是一本拆解小说内部构造的写作指南，也是一本教人如何深度阅读小说的鉴赏手册。张悦然提出小说写作的六大核心要素：情感的支点、敌人的馈赠、不稳定的关系、内心的共振、顿悟的时刻、被蒙蔽的心。通过这六块拼图，她揭示了一部好小说如何在人物、冲突、情节、视角的精密配合下，让读者经历一次精神的洗礼。</description>
+      <pubDate>Wed, 08 Jul 2026 21:27:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260709-episode-20260709-9a8a5c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期节目深度解读张悦然的《顿悟的时刻》。这是一本拆解小说内部构造的写作指南，也是一本教人如何深度阅读小说的鉴赏手册。张悦然提出小说写作的六大核心要素：情感的支点、敌人的馈赠、不稳定的关系、内心的共振、顿悟的时刻、被蒙蔽的心。通过这六块拼图，她揭示了一部好小说如何在人物、冲突、情节、视角的精密配合下，让读者经历一次精神的洗礼。</itunes:summary>
+      <itunes:duration>00:37:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260709/episode-20260709-9a8a5c.mp3" length="36008109" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
