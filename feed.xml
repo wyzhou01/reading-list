@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 08 Jul 2026 21:35:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 21:45:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9999,6 +9999,17 @@
       <itunes:duration>00:28:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260709/episode-20260709-a9fecc.mp3" length="27824301" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《梁庄十年》 · 完整版 · 梁庄十年 · 完整讲读</title>
+      <description>《梁庄十年》是梁鸿「梁庄三部曲」的第三部，时间跨度二零一零到二零二零年。她用十年时间，一次次回访河南穰县的梁庄，记下小字报、欧式洋楼、外出打工的万青与桂姐、失踪的女孩、被欺凌的少年阳阳、五奶奶与明太爷的衰老与死亡。她把梁庄作为长期样本，记录城市化浪潮中中国乡村的崩塌与重建，记录熟人社会的道德、羞耻与权力，也记录一个写作者从「他者观察」变成「亲人般在场」的心路历程。这本书既是非虚构写作领域的一座高峰，也是写给所有离开故乡、或者仍然留在故乡的人的一份提醒——故乡不是一个可以一次性写完的题目，它需要用一生去陪伴、去记录、去守候。</description>
+      <pubDate>Wed, 08 Jul 2026 21:44:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260709-episode-20260709-88151c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《梁庄十年》是梁鸿「梁庄三部曲」的第三部，时间跨度二零一零到二零二零年。她用十年时间，一次次回访河南穰县的梁庄，记下小字报、欧式洋楼、外出打工的万青与桂姐、失踪的女孩、被欺凌的少年阳阳、五奶奶与明太爷的衰老与死亡。她把梁庄作为长期样本，记录城市化浪潮中中国乡村的崩塌与重建，记录熟人社会的道德、羞耻与权力，也记录一个写作者从「他者观察」变成「亲人般在场」的心路历程。这本书既是非虚构写作领域的一座高峰，也是写给所有离开故乡、或者仍然留在故乡的人的一份提醒——故乡不是一个可以一次性写完的题目，它需要用一生去陪伴、去记录、去守候。</itunes:summary>
+      <itunes:duration>00:40:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260709/episode-20260709-88151c.mp3" length="38414253" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
