@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 08 Jul 2026 21:27:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 21:35:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9988,6 +9988,17 @@
       <itunes:duration>00:37:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260709/episode-20260709-9a8a5c.mp3" length="36008109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《制内市场：中国国家主导型政治经济学》 · 完整版 · 制内市场 · 完整讲读</title>
+      <description>《制内市场》由郑永年与黄彦杰合著，提出一个原创的政治经济学概念：在中国，国家并非站在市场之外当裁判，而是深深嵌入市场内部——市场在国家里生长，由国家塑造，也反过来塑造国家。全书从帝制中国的国家与市场关系讲起，一路梳理到晚清、民国、计划经济与改革开放，提炼出属于中国自身经验的政治经济学逻辑。它剖析了央企、民企、土地财政、货币体系等当代机制如何咬合运转，也冷静指出这套体制最该警惕的社会代价，并提出经济—社会—政治“三步走”的改革路径。本书入选中央和国家机关推荐书目，是理解当代中国、跳出西方标签化解读的关键读本。</description>
+      <pubDate>Wed, 08 Jul 2026 21:35:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260709-episode-20260709-a9fecc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《制内市场》由郑永年与黄彦杰合著，提出一个原创的政治经济学概念：在中国，国家并非站在市场之外当裁判，而是深深嵌入市场内部——市场在国家里生长，由国家塑造，也反过来塑造国家。全书从帝制中国的国家与市场关系讲起，一路梳理到晚清、民国、计划经济与改革开放，提炼出属于中国自身经验的政治经济学逻辑。它剖析了央企、民企、土地财政、货币体系等当代机制如何咬合运转，也冷静指出这套体制最该警惕的社会代价，并提出经济—社会—政治“三步走”的改革路径。本书入选中央和国家机关推荐书目，是理解当代中国、跳出西方标签化解读的关键读本。</itunes:summary>
+      <itunes:duration>00:28:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260709/episode-20260709-a9fecc.mp3" length="27824301" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
