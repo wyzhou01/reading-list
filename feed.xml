@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 08 Jul 2026 16:20:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 16:31:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9944,6 +9944,17 @@
       <itunes:duration>00:27:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260709/episode-20260709-cb3ad0.mp3" length="26714925" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《沸腾新十年：移动互联网丛林里的勇敢穿越者》 · 完整版 · 沸腾新十年：移动互联网丛林里的勇敢穿越者 · 完整讲读</title>
+      <description>《沸腾新十年》是林军继《沸腾十五年》后的中国互联网史续篇，完整记录了二零一零到二零二零年中国移动互联网从零到十亿的狂飙历程。全书以编年史方式，写尽千团大战、3Q大战、微信偷袭珍珠港、滴滴快的合并、字节崛起、瑞幸风暴、社区团购厮杀、中美科技脱钩等关键战役，刻画出王兴、张一鸣、程维、王坚、雷军、黄峥等穿越者的群像。这本书不只是产业史，更是一面镜子，照见中国创业者如何在BAT丛林中从边缘突围，如何在巨头转身的笨拙里找到缝隙，如何在周期低谷里坚持做慢活，最终让中国互联网从模仿走向引领。无论你是创业者、互联网从业者，还是想理解这个时代的普通读者，这本书都会让你重新审视过去十年，并带着更深的历史感走向下一个十年。</description>
+      <pubDate>Wed, 08 Jul 2026 16:30:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260709-episode-20260709-5ca4be</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《沸腾新十年》是林军继《沸腾十五年》后的中国互联网史续篇，完整记录了二零一零到二零二零年中国移动互联网从零到十亿的狂飙历程。全书以编年史方式，写尽千团大战、3Q大战、微信偷袭珍珠港、滴滴快的合并、字节崛起、瑞幸风暴、社区团购厮杀、中美科技脱钩等关键战役，刻画出王兴、张一鸣、程维、王坚、雷军、黄峥等穿越者的群像。这本书不只是产业史，更是一面镜子，照见中国创业者如何在BAT丛林中从边缘突围，如何在巨头转身的笨拙里找到缝隙，如何在周期低谷里坚持做慢活，最终让中国互联网从模仿走向引领。无论你是创业者、互联网从业者，还是想理解这个时代的普通读者，这本书都会让你重新审视过去十年，并带着更深的历史感走向下一个十年。</itunes:summary>
+      <itunes:duration>00:28:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260709/episode-20260709-5ca4be.mp3" length="27778989" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
