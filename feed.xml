@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 08 Jul 2026 21:45:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 21:52:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10010,6 +10010,17 @@
       <itunes:duration>00:40:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260709/episode-20260709-88151c.mp3" length="38414253" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《鄙视》 · 完整版 · 鄙视 · 完整讲读</title>
+      <description>《鄙视》是意大利作家阿尔贝托·莫拉维亚一九五四年写下的中篇小说。男主角莫尔泰尼原本是个有文学抱负的青年，为了让出身贫寒的妻子埃米丽亚拥有自己的房子，他放下严肃写作，进入电影圈为制片人写庸俗剧本。钱有了，房子有了，可妻子的眼神却一天比一天冷。她究竟在鄙视什么？是他变成了“为五斗米折腰“的人，还是他自己也瞧不起自己的妥协？这部被与加缪《局外人》、萨特《恶心》并称为“现代人精神危机三部曲“的经典，写透了婚姻中那些说不出口的误解如何在沉默中发酵，写透了一个男人在理想与金钱之间被撕裂的全过程，也写出了我们每个人在现实的重压下，常常既瞧不起对方、又瞧不起自己的处境。当房贷、加班、绩效、面子成为每一对夫妻绕不开的日常，这本七十多年前的小说，依然像一面镜子，照出我们不愿承认的真相。</description>
+      <pubDate>Wed, 08 Jul 2026 21:52:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260709-episode-20260709-98157b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《鄙视》是意大利作家阿尔贝托·莫拉维亚一九五四年写下的中篇小说。男主角莫尔泰尼原本是个有文学抱负的青年，为了让出身贫寒的妻子埃米丽亚拥有自己的房子，他放下严肃写作，进入电影圈为制片人写庸俗剧本。钱有了，房子有了，可妻子的眼神却一天比一天冷。她究竟在鄙视什么？是他变成了“为五斗米折腰“的人，还是他自己也瞧不起自己的妥协？这部被与加缪《局外人》、萨特《恶心》并称为“现代人精神危机三部曲“的经典，写透了婚姻中那些说不出口的误解如何在沉默中发酵，写透了一个男人在理想与金钱之间被撕裂的全过程，也写出了我们每个人在现实的重压下，常常既瞧不起对方、又瞧不起自己的处境。当房贷、加班、绩效、面子成为每一对夫妻绕不开的日常，这本七十多年前的小说，依然像一面镜子，照出我们不愿承认的真相。</itunes:summary>
+      <itunes:duration>00:23:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260709/episode-20260709-98157b.mp3" length="22390701" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
