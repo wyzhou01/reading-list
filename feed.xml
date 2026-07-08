@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 08 Jul 2026 07:38:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 07:48:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -9911,6 +9911,17 @@
       <itunes:duration>00:32:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260708/episode-20260708-5a26a2.mp3" length="30824109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《暗影中的人》 · 完整版 · 暗影中的人 · 完整讲读</title>
+      <description>《暗影中的人》是德语俄裔作家娜塔莎·沃丁的回忆录。她出生于一九四五年的慕尼黑，父亲是乌克兰强制劳工，母亲是同样被掳到德国的东欧女人。十岁那年母亲在雷格尼茨河自溺，她被父亲推到翻译席上，独自扛起全家与德语世界打交道的全部重量。随后她被送进天主教修道院五年，又在少女时代遭强暴并独自堕胎。一九八九年父亲去世，她驾车穿过已被翻新成彩色新城的弗兰肯丘陵旧难民楼，站在太平间的玻璃窗前，与那个用沉默把自己围成孤岛、也把整个家庭吞没的男人做最后的告别。全书以冷静、近乎地质学般的笔触，层层解剖流亡、阶级、性别、语言四重壁垒如何撕碎一个家庭，也让读者看见所谓归属，从不是一张护照就能解决的事。</description>
+      <pubDate>Wed, 08 Jul 2026 07:47:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260708-episode-20260708-94cec7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《暗影中的人》是德语俄裔作家娜塔莎·沃丁的回忆录。她出生于一九四五年的慕尼黑，父亲是乌克兰强制劳工，母亲是同样被掳到德国的东欧女人。十岁那年母亲在雷格尼茨河自溺，她被父亲推到翻译席上，独自扛起全家与德语世界打交道的全部重量。随后她被送进天主教修道院五年，又在少女时代遭强暴并独自堕胎。一九八九年父亲去世，她驾车穿过已被翻新成彩色新城的弗兰肯丘陵旧难民楼，站在太平间的玻璃窗前，与那个用沉默把自己围成孤岛、也把整个家庭吞没的男人做最后的告别。全书以冷静、近乎地质学般的笔触，层层解剖流亡、阶级、性别、语言四重壁垒如何撕碎一个家庭，也让读者看见所谓归属，从不是一张护照就能解决的事。</itunes:summary>
+      <itunes:duration>00:26:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260708/episode-20260708-94cec7.mp3" length="25385901" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
