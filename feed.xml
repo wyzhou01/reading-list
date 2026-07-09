@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 09 Jul 2026 16:56:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 16:58:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10131,6 +10131,17 @@
       <itunes:duration>00:24:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260710/episode-20260710-809e4f.mp3" length="23049645" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《致后代：布莱希特诗选》 · 完整版 · 致后代 · 完整讲读</title>
+      <description>《致后代》收录布莱希特四十余年创作的二百余首诗，涵盖反法西斯精神、流亡经验、城市贫民与历史记忆。诗歌以口语化辩证手法，直面社会矛盾，记录爱、死亡与自然的永恒主题，是德语现代诗歌的巅峰之作。它不仅是诗歌的艺术宝库，更是一部关于语言力量与人类尊严的永恒见证。它提醒每一位读者，文字能够穿透时间与空间，为被压迫者发声，为后世留下不灭的灯火。在今日的喧嚣与信息洪流中，这本书如同一面镜子，映照出我们自身的社会责任与个人选择。</description>
+      <pubDate>Thu, 09 Jul 2026 16:58:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260710-episode-20260710-148821</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《致后代》收录布莱希特四十余年创作的二百余首诗，涵盖反法西斯精神、流亡经验、城市贫民与历史记忆。诗歌以口语化辩证手法，直面社会矛盾，记录爱、死亡与自然的永恒主题，是德语现代诗歌的巅峰之作。它不仅是诗歌的艺术宝库，更是一部关于语言力量与人类尊严的永恒见证。它提醒每一位读者，文字能够穿透时间与空间，为被压迫者发声，为后世留下不灭的灯火。在今日的喧嚣与信息洪流中，这本书如同一面镜子，映照出我们自身的社会责任与个人选择。</itunes:summary>
+      <itunes:duration>00:21:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260710/episode-20260710-148821.mp3" length="20643885" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
