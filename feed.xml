@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 08 Jul 2026 22:02:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 07:26:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10032,6 +10032,17 @@
       <itunes:duration>00:33:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260709/episode-20260709-3d002b.mp3" length="32264109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大诱拐》 · 完整版 · 大诱拐 · 完整讲读</title>
+      <description>《大诱拐》是日本作家天藤真的推理小说代表作，讲述八十二岁女富豪柳川敏子在纪州山区被三名落魄青年绑架后，凭借一生凝练的智慧与人生哲学反客为主，将一场赎金高达一百亿日元的绑架案，转化为横跨年龄、身份的忘年之交。小说借泡沫时代金钱狂热的背景，深刻探讨了金钱、人性、亲情与救赎的宏大命题，被誉为将推理小说提升到纯文学高度的经典之作。</description>
+      <pubDate>Thu, 09 Jul 2026 07:26:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260709-episode-20260709-63ccd7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大诱拐》是日本作家天藤真的推理小说代表作，讲述八十二岁女富豪柳川敏子在纪州山区被三名落魄青年绑架后，凭借一生凝练的智慧与人生哲学反客为主，将一场赎金高达一百亿日元的绑架案，转化为横跨年龄、身份的忘年之交。小说借泡沫时代金钱狂热的背景，深刻探讨了金钱、人性、亲情与救赎的宏大命题，被誉为将推理小说提升到纯文学高度的经典之作。</itunes:summary>
+      <itunes:duration>00:30:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260709/episode-20260709-63ccd7.mp3" length="29344557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
