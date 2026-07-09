@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 09 Jul 2026 07:26:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 07:40:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10043,6 +10043,17 @@
       <itunes:duration>00:30:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260709/episode-20260709-63ccd7.mp3" length="29344557" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《万物静默如谜》 · 完整版 · 万物静默如谜 · 完整讲读</title>
+      <description>《万物静默如谜》收录波兰诗人辛波斯卡一九五七到二零零二年的代表作。辛波斯卡用一粒沙、一件衣服、一只雪人这些极轻的事物，打捞出关于存在、时间、死亡、历史、记忆的极重之问。她怀疑一切宏大叙事，谦卑地承认&apos;我不知道&apos;，在最该哭的地方先让你笑。本书六块拼图：小事里的大海、怀疑中的谦逊、悲剧前的微笑、极小的&apos;我&apos;、一网式的时间、藏在褶皱里的历史。读她，是在这个越来越快的时代，重新学会&apos;看脚下那一粒沙&apos;。</description>
+      <pubDate>Thu, 09 Jul 2026 07:39:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260709-episode-20260709-2825a4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《万物静默如谜》收录波兰诗人辛波斯卡一九五七到二零零二年的代表作。辛波斯卡用一粒沙、一件衣服、一只雪人这些极轻的事物，打捞出关于存在、时间、死亡、历史、记忆的极重之问。她怀疑一切宏大叙事，谦卑地承认&apos;我不知道&apos;，在最该哭的地方先让你笑。本书六块拼图：小事里的大海、怀疑中的谦逊、悲剧前的微笑、极小的&apos;我&apos;、一网式的时间、藏在褶皱里的历史。读她，是在这个越来越快的时代，重新学会&apos;看脚下那一粒沙&apos;。</itunes:summary>
+      <itunes:duration>00:29:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260709/episode-20260709-2825a4.mp3" length="28729773" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
