@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 09 Jul 2026 17:02:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 17:08:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10153,6 +10153,17 @@
       <itunes:duration>00:27:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260710/episode-20260710-5f3984.mp3" length="26378541" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《最懂输的人才能成为赢家》 · 完整版 · 最懂输的人才能成为赢家 · 完整讲读</title>
+      <description>《最懂输的人才能成为赢家》是丹麦交易员汤姆·霍加德对自己二十多年交易生涯的总结。他用欧洲券商披露的百分之八十散户亏损率、覆盖二万五千名交易者的外汇统计等数据，揭示了一个尖锐的事实：大多数交易者并不是看不出机会，而是管不住自己。霍加德没有写又一本指标大全，而是把视角从市场转向交易者本人，把技术分析、心理训练、生活纪律整合成一套以过程为导向的方法论。他强调，止损是规则而不是失败，身体的稳定性是脑力决策的底盘，信任是长年训练而不是一时感觉。这本书写于二零二零年前后居家交易爆发的喧嚣期，但它对亏损的重新定义、对交易行业的清醒观察、对“知行合一“这个老问题的新回答，至今仍然适用。它适合那些反复亏钱、读过大量技术书却依然无法稳定盈利的读者，也适合每一个想把交易当成长期手艺去打磨的人。</description>
+      <pubDate>Thu, 09 Jul 2026 17:07:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260710-episode-20260710-f5a448</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《最懂输的人才能成为赢家》是丹麦交易员汤姆·霍加德对自己二十多年交易生涯的总结。他用欧洲券商披露的百分之八十散户亏损率、覆盖二万五千名交易者的外汇统计等数据，揭示了一个尖锐的事实：大多数交易者并不是看不出机会，而是管不住自己。霍加德没有写又一本指标大全，而是把视角从市场转向交易者本人，把技术分析、心理训练、生活纪律整合成一套以过程为导向的方法论。他强调，止损是规则而不是失败，身体的稳定性是脑力决策的底盘，信任是长年训练而不是一时感觉。这本书写于二零二零年前后居家交易爆发的喧嚣期，但它对亏损的重新定义、对交易行业的清醒观察、对“知行合一“这个老问题的新回答，至今仍然适用。它适合那些反复亏钱、读过大量技术书却依然无法稳定盈利的读者，也适合每一个想把交易当成长期手艺去打磨的人。</itunes:summary>
+      <itunes:duration>00:32:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260710/episode-20260710-f5a448.mp3" length="31161261" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
