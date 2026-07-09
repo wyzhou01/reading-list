@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 09 Jul 2026 16:49:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 16:56:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10120,6 +10120,17 @@
       <itunes:duration>00:27:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260710/episode-20260710-b78ad0.mp3" length="26496429" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《寒冬夜行人》 · 完整版 · 寒冬夜行人 · 完整讲读</title>
+      <description>一九七九年，意大利作家卡尔维诺写下元小说《寒冬夜行人》：男读者买到装订错误的小说《寒冬夜行人》，被迫在十篇互不相关、戛然而止的开头之间穿梭，并在换书过程中与女读者柳德米拉相识、相恋、结婚。小说通过嵌套结构、装订事故与一个伪造译者的阴谋，探讨开头的力量、读者与文本的共同创造、真实与虚构的边界，最终在图书馆里得出结论：阅读本身就是目的，人生里那些没结尾的故事，比有结尾的故事更接近真实。</description>
+      <pubDate>Thu, 09 Jul 2026 16:56:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260710-episode-20260710-809e4f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九七九年，意大利作家卡尔维诺写下元小说《寒冬夜行人》：男读者买到装订错误的小说《寒冬夜行人》，被迫在十篇互不相关、戛然而止的开头之间穿梭，并在换书过程中与女读者柳德米拉相识、相恋、结婚。小说通过嵌套结构、装订事故与一个伪造译者的阴谋，探讨开头的力量、读者与文本的共同创造、真实与虚构的边界，最终在图书馆里得出结论：阅读本身就是目的，人生里那些没结尾的故事，比有结尾的故事更接近真实。</itunes:summary>
+      <itunes:duration>00:24:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260710/episode-20260710-809e4f.mp3" length="23049645" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
