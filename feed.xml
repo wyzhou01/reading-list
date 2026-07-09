@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 09 Jul 2026 21:36:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 21:43:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10208,6 +10208,17 @@
       <itunes:duration>00:30:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260710/episode-20260710-c5527b.mp3" length="29536941" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《灰烬的光辉：保罗·策兰诗选》 · 完整版 · 灰烬的光辉 · 完整讲读</title>
+      <description>本书是20世纪最重要德语犹太诗人保罗·策兰的诗歌精选译本，按创作时期收录《骨灰瓮之沙》《罂粟与记忆》《从门槛到门槛》《言语栅栏》《无人玫瑰》《换气》《线太阳群》《光之逼迫》《雪部》《时间家园》十部诗集及附录文选、书信。策兰在纳粹屠杀中失去父母，以“凶手的语言“德语坚持写作，将奥斯维辛的创伤、流亡的孤独、对死者的悼念、对语言的追问、耶路撒冷之行的朝圣体验，凝练为一种在断裂处开花的诗学。从《死亡赋格》到《时间家园》，每一首都是在灰烬中辨认微光的尝试。</description>
+      <pubDate>Thu, 09 Jul 2026 21:43:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260710-episode-20260710-36d34e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是20世纪最重要德语犹太诗人保罗·策兰的诗歌精选译本，按创作时期收录《骨灰瓮之沙》《罂粟与记忆》《从门槛到门槛》《言语栅栏》《无人玫瑰》《换气》《线太阳群》《光之逼迫》《雪部》《时间家园》十部诗集及附录文选、书信。策兰在纳粹屠杀中失去父母，以“凶手的语言“德语坚持写作，将奥斯维辛的创伤、流亡的孤独、对死者的悼念、对语言的追问、耶路撒冷之行的朝圣体验，凝练为一种在断裂处开花的诗学。从《死亡赋格》到《时间家园》，每一首都是在灰烬中辨认微光的尝试。</itunes:summary>
+      <itunes:duration>00:30:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260710/episode-20260710-36d34e.mp3" length="29167917" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
