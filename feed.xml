@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 09 Jul 2026 21:43:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 21:54:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10219,6 +10219,17 @@
       <itunes:duration>00:30:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260710/episode-20260710-36d34e.mp3" length="29167917" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《冯唐成事心法》 · 完整版 · 冯唐成事心法 · 完整讲读</title>
+      <description>《冯唐成事心法》是冯唐结合麦肯锡方法论、曾国藩东方管理智慧与二十年一线管理经验，写给中国管理者的成事手册。核心观点：成功不可复制，成事可以修行。书分四层——知己、知人、知世、知智慧。知己讲自在、管理欲望、天赋；知人讲领导力、带团队；知世讲初心、规矩、读书；知智慧讲大势、运气、头顶星空与内心道德。冯唐主张在油腻世界里不赶时髦、相信时间，把每一件该干的小事笨笨地、慢慢地、坚持地干下去。管理是一生的日常，成事是一生的修行。</description>
+      <pubDate>Thu, 09 Jul 2026 21:53:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260710-episode-20260710-0eba1c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《冯唐成事心法》是冯唐结合麦肯锡方法论、曾国藩东方管理智慧与二十年一线管理经验，写给中国管理者的成事手册。核心观点：成功不可复制，成事可以修行。书分四层——知己、知人、知世、知智慧。知己讲自在、管理欲望、天赋；知人讲领导力、带团队；知世讲初心、规矩、读书；知智慧讲大势、运气、头顶星空与内心道德。冯唐主张在油腻世界里不赶时髦、相信时间，把每一件该干的小事笨笨地、慢慢地、坚持地干下去。管理是一生的日常，成事是一生的修行。</itunes:summary>
+      <itunes:duration>00:31:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260710/episode-20260710-0eba1c.mp3" length="30066093" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
