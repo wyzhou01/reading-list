@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 09 Jul 2026 07:58:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 08:08:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10065,6 +10065,17 @@
       <itunes:duration>00:32:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260709/episode-20260709-66b74f.mp3" length="30877101" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《世界杂货店》 · 完整版 · 世界杂货店 · 完整讲读</title>
+      <description>《世界杂货店》是美国科幻大师罗伯特·谢克里的短篇精选集,收录二十余篇两千字左右的精品小品。在这些故事里,他用外星人的眼睛看人类,用荒诞的镜子照现实:杀人可以是合法运动,外星访客可以是地球人的镜像,一台坏掉的机器人可以是人类最后的同伴。谢克里一生写下四百多篇短篇,被誉为二十世纪最会写幽默讽刺的人,被拿来和马克·吐温、欧·亨利相提并论。这本书最动人的地方在于,它先让你笑,再让你哭,最后让你对着天花板发呆,发现荒诞从未过期,孤独才是人类永恒的命题,而活着本身,就是最倔强的回答。</description>
+      <pubDate>Thu, 09 Jul 2026 08:08:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260709-episode-20260709-f8a96d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《世界杂货店》是美国科幻大师罗伯特·谢克里的短篇精选集,收录二十余篇两千字左右的精品小品。在这些故事里,他用外星人的眼睛看人类,用荒诞的镜子照现实:杀人可以是合法运动,外星访客可以是地球人的镜像,一台坏掉的机器人可以是人类最后的同伴。谢克里一生写下四百多篇短篇,被誉为二十世纪最会写幽默讽刺的人,被拿来和马克·吐温、欧·亨利相提并论。这本书最动人的地方在于,它先让你笑,再让你哭,最后让你对着天花板发呆,发现荒诞从未过期,孤独才是人类永恒的命题,而活着本身,就是最倔强的回答。</itunes:summary>
+      <itunes:duration>00:25:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260709/episode-20260709-f8a96d.mp3" length="24388653" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
