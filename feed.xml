@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 09 Jul 2026 17:18:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 21:27:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10186,6 +10186,17 @@
       <itunes:duration>00:24:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260710/episode-20260710-ed1490.mp3" length="23681325" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《孔雀菩提》 · 完整版 · 孔雀菩提 · 完整讲读</title>
+      <description>《孔雀菩提》是青年作家焦典的第一部短篇小说集，由莫言作序、余华推荐，新星出版社出版。本书以云南边疆山寨为背景，写巫医老咪涛、毕摩、彝族少女们的故事。焦典用地方语言与普通话交融的&quot;带体温的汉语&quot;，写一群带有巫性的女性、写亡灵与先祖迁徙的归途、写一座山林自成体系的判断逻辑。她不把边疆写成奇观，而是让汉医、佛教、市场经济与巫医、毕摩、互惠经济在同一片土地并存。本书既是修辞学层面上的语言实验，也是一项保留正在消失之根的工作。</description>
+      <pubDate>Thu, 09 Jul 2026 21:27:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260710-episode-20260710-13888b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《孔雀菩提》是青年作家焦典的第一部短篇小说集，由莫言作序、余华推荐，新星出版社出版。本书以云南边疆山寨为背景，写巫医老咪涛、毕摩、彝族少女们的故事。焦典用地方语言与普通话交融的&quot;带体温的汉语&quot;，写一群带有巫性的女性、写亡灵与先祖迁徙的归途、写一座山林自成体系的判断逻辑。她不把边疆写成奇观，而是让汉医、佛教、市场经济与巫医、毕摩、互惠经济在同一片土地并存。本书既是修辞学层面上的语言实验，也是一项保留正在消失之根的工作。</itunes:summary>
+      <itunes:duration>00:37:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260710/episode-20260710-13888b.mp3" length="35672109" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
