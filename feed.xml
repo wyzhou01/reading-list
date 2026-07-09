@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 09 Jul 2026 08:08:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 16:34:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10076,6 +10076,17 @@
       <itunes:duration>00:25:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260709/episode-20260709-f8a96d.mp3" length="24388653" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《炽焰燃烧》 · 完整版 · 炽焰燃烧 · 完整讲读</title>
+      <description>《炽焰燃烧》是美国南方作家罗恩·拉什的短篇小说集，十二个故事横跨大萧条到二十一世纪初，记录阿巴拉契亚山区底层白人的生存困境。大萧条时期的男人为几只鸡蛋当众杀狗，女人为守住家产逼孩子趴地舔粥；冰毒年代的母亲为给孩子换几包感冒药节衣缩食。拉什写穷，但不煽情；他写暴力，但不见血。他用克制的笔触写下那些被叫作白色垃圾的人，如何在贫困、毒瘾、暴力的夹缝中，守住最后一点人样。这不是猎奇故事，是一群被时代遗忘的人的家庭史。</description>
+      <pubDate>Thu, 09 Jul 2026 16:33:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260710-episode-20260710-f4a154</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《炽焰燃烧》是美国南方作家罗恩·拉什的短篇小说集，十二个故事横跨大萧条到二十一世纪初，记录阿巴拉契亚山区底层白人的生存困境。大萧条时期的男人为几只鸡蛋当众杀狗，女人为守住家产逼孩子趴地舔粥；冰毒年代的母亲为给孩子换几包感冒药节衣缩食。拉什写穷，但不煽情；他写暴力，但不见血。他用克制的笔触写下那些被叫作白色垃圾的人，如何在贫困、毒瘾、暴力的夹缝中，守住最后一点人样。这不是猎奇故事，是一群被时代遗忘的人的家庭史。</itunes:summary>
+      <itunes:duration>00:32:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260710/episode-20260710-f4a154.mp3" length="31539501" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
