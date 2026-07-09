@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 09 Jul 2026 16:41:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 16:46:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10098,6 +10098,17 @@
       <itunes:duration>00:30:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260710/episode-20260710-187411.mp3" length="29416365" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《单读26：全球真实故事集》 · 完整版 · 全球真实故事集 · 完整讲读</title>
+      <description>《单读》第二十六辑《全球真实故事集》，收录来自洪都拉斯、波兰、意大利、波黑、古巴、英国、冲绳等地的九篇非虚构写作。在六千八百五十万人流离失所的后真相时代，这本书重申了一种昂贵的职业伦理：靠近现场，与陌生人交谈，触摸皮肤、物体或海洋的表面，才能使我们免于心虚。书中每一篇文章，都是一次跨语际、跨时区、跨灾难现场的中介，最终汇聚成一句话，真东西的价格正在飞速上涨，而愿意为它付费的人，正在飞速减少。</description>
+      <pubDate>Thu, 09 Jul 2026 16:45:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260710-episode-20260710-4c421c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《单读》第二十六辑《全球真实故事集》，收录来自洪都拉斯、波兰、意大利、波黑、古巴、英国、冲绳等地的九篇非虚构写作。在六千八百五十万人流离失所的后真相时代，这本书重申了一种昂贵的职业伦理：靠近现场，与陌生人交谈，触摸皮肤、物体或海洋的表面，才能使我们免于心虚。书中每一篇文章，都是一次跨语际、跨时区、跨灾难现场的中介，最终汇聚成一句话，真东西的价格正在飞速上涨，而愿意为它付费的人，正在飞速减少。</itunes:summary>
+      <itunes:duration>00:31:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260710/episode-20260710-4c421c.mp3" length="30212781" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
