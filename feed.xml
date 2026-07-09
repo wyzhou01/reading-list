@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 09 Jul 2026 17:11:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 17:18:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10175,6 +10175,17 @@
       <itunes:duration>00:29:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260710/episode-20260710-71a0d4.mp3" length="28424109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《怪画谜案》 · 完整版 · 怪画谜案 · 完整讲读</title>
+      <description>《怪画谜案》是日本网络怪谈作家雨穴二零二四年推出的长篇心理悬疑推理。小说以一个停更的神秘博客为入口，围绕“三幅画”展开跨越多年的连环命案。一位已故母亲用错觉绘画把求救信号藏在孩子的成长画像里，丈夫在多年后读懂画作后写下“我没办法原谅你”，警方则在调查中发现，家暴以三代女性的画笔为介质代代相传。本书把绘画心理分析与犯罪推理编织在一起，呈现了母爱、创伤与错觉的多重悖论。</description>
+      <pubDate>Thu, 09 Jul 2026 17:18:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260710-episode-20260710-ed1490</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《怪画谜案》是日本网络怪谈作家雨穴二零二四年推出的长篇心理悬疑推理。小说以一个停更的神秘博客为入口，围绕“三幅画”展开跨越多年的连环命案。一位已故母亲用错觉绘画把求救信号藏在孩子的成长画像里，丈夫在多年后读懂画作后写下“我没办法原谅你”，警方则在调查中发现，家暴以三代女性的画笔为介质代代相传。本书把绘画心理分析与犯罪推理编织在一起，呈现了母爱、创伤与错觉的多重悖论。</itunes:summary>
+      <itunes:duration>00:24:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260710/episode-20260710-ed1490.mp3" length="23681325" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
