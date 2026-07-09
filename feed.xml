@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 09 Jul 2026 16:58:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 17:02:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10142,6 +10142,17 @@
       <itunes:duration>00:21:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260710/episode-20260710-148821.mp3" length="20643885" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《世上为什么要有图书馆》 · 完整版 · 世上为什么要有图书馆 · 完整讲读</title>
+      <description>《世上为什么要有图书馆》是文学博士杨素秋的建馆手记。二零二零年秋，她挂职西安碑林区文旅局副局长，用一年时间在市中心地下商场建起一座区级图书馆。故事围绕&quot;馆配还是自选&quot;的书目之争展开：她坚持逐本审书、对抗采购潜规则、引入视障阅览室，最终让&quot;灵魂战胜皮囊&quot;。这不仅是一份公共文化建设实录，更是一位知识分子在体制内坚守理想的范本。</description>
+      <pubDate>Thu, 09 Jul 2026 17:02:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260710-episode-20260710-5f3984</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《世上为什么要有图书馆》是文学博士杨素秋的建馆手记。二零二零年秋，她挂职西安碑林区文旅局副局长，用一年时间在市中心地下商场建起一座区级图书馆。故事围绕&quot;馆配还是自选&quot;的书目之争展开：她坚持逐本审书、对抗采购潜规则、引入视障阅览室，最终让&quot;灵魂战胜皮囊&quot;。这不仅是一份公共文化建设实录，更是一位知识分子在体制内坚守理想的范本。</itunes:summary>
+      <itunes:duration>00:27:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260710/episode-20260710-5f3984.mp3" length="26378541" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
