@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 09 Jul 2026 21:27:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 21:36:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10197,6 +10197,17 @@
       <itunes:duration>00:37:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260710/episode-20260710-13888b.mp3" length="35672109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《君幸食：一场贯穿古今的中餐盛宴》 · 完整版 · 君幸食 · 完整讲读</title>
+      <description>《君幸食》是一部英国美食作家扶霞·邓洛普用三十年时间写就的中餐百科全书。作者以糖醋肉球在英美的全球本土化为开篇,梳理中餐自一八八四年伦敦世界卫生博览会以来的海外传播史,揭开其被简化为“酸甜油炸廉价垃圾食品”的误读根源,继而上溯中餐的地理版图、历史脉络与地方菜系,最后落到食物作为情感纽带与文化记忆的深刻力量。这本书既是对“真正的中餐是什么样”的严谨考据,也是一份献给全人类味觉的诚挚邀请——君幸食,请你,好好吃饭。</description>
+      <pubDate>Thu, 09 Jul 2026 21:36:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260710-episode-20260710-c5527b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《君幸食》是一部英国美食作家扶霞·邓洛普用三十年时间写就的中餐百科全书。作者以糖醋肉球在英美的全球本土化为开篇,梳理中餐自一八八四年伦敦世界卫生博览会以来的海外传播史,揭开其被简化为“酸甜油炸廉价垃圾食品”的误读根源,继而上溯中餐的地理版图、历史脉络与地方菜系,最后落到食物作为情感纽带与文化记忆的深刻力量。这本书既是对“真正的中餐是什么样”的严谨考据,也是一份献给全人类味觉的诚挚邀请——君幸食,请你,好好吃饭。</itunes:summary>
+      <itunes:duration>00:30:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260710/episode-20260710-c5527b.mp3" length="29536941" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
