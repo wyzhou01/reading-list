@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 09 Jul 2026 16:34:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 16:41:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10087,6 +10087,17 @@
       <itunes:duration>00:32:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260710/episode-20260710-f4a154.mp3" length="31539501" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《同意》 · 完整版 · 同意 · 完整讲读</title>
+      <description>《同意》是法国作家V以化名书写的回忆录，记录她十三岁时被年长作家G·M以&apos;赞美&apos;与&apos;文学光环&apos;实施精神控制的经历。V从一个破碎家庭中的少女起步，父亲常年缺席，母亲在暴力与争吵中艰难度日，她在阅读中寻找慰藉，却意外将一个&apos;作家&apos;的关注误认为拯救。G以赞美、信件和&apos;您&apos;这一尊称，让她相信自己是被挑中的&apos;特别之人&apos;，随后通过持续的偶遇与制造依赖，把她引向无法摆脱的控制关系。在多重沉默——母亲的不以为然、G支持者的联名信、出版档案馆里的情书、自我怀疑的同谋感——共同织成的网里，V花了三十年才积攒起以写作夺回叙事权的勇气。本书出版于二零二一年，引发全球对同意、权力与文学伦理的讨论，核心在于揭示：沉默，永远不是同意；而写作，是迟到三十年才发生的、对自己人生重新谈判的可能。</description>
+      <pubDate>Thu, 09 Jul 2026 16:41:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260710-episode-20260710-187411</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《同意》是法国作家V以化名书写的回忆录，记录她十三岁时被年长作家G·M以&apos;赞美&apos;与&apos;文学光环&apos;实施精神控制的经历。V从一个破碎家庭中的少女起步，父亲常年缺席，母亲在暴力与争吵中艰难度日，她在阅读中寻找慰藉，却意外将一个&apos;作家&apos;的关注误认为拯救。G以赞美、信件和&apos;您&apos;这一尊称，让她相信自己是被挑中的&apos;特别之人&apos;，随后通过持续的偶遇与制造依赖，把她引向无法摆脱的控制关系。在多重沉默——母亲的不以为然、G支持者的联名信、出版档案馆里的情书、自我怀疑的同谋感——共同织成的网里，V花了三十年才积攒起以写作夺回叙事权的勇气。本书出版于二零二一年，引发全球对同意、权力与文学伦理的讨论，核心在于揭示：沉默，永远不是同意；而写作，是迟到三十年才发生的、对自己人生重新谈判的可能。</itunes:summary>
+      <itunes:duration>00:30:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260710/episode-20260710-187411.mp3" length="29416365" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
