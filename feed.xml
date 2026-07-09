@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 09 Jul 2026 07:40:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 07:58:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10054,6 +10054,17 @@
       <itunes:duration>00:29:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260709/episode-20260709-2825a4.mp3" length="28729773" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《运气的诱饵》 · 完整版 · 运气的诱饵 · 完整讲读</title>
+      <description>《运气的诱饵》揭示了赌博机如何通过精密的设计捕获人心。本书从空间布局、算法编程、数据追踪三个维度，解析了机器如何利用即时反馈、可变强化和玩家画像来驱动成瘾行为。作者娜塔莎·道·舒尔历时十余年，深入拉斯维加斯进行田野调查，访谈了从业者与赌客双方，呈现了一幅关于技术与人类行为交叉的深刻图景。这本书不仅是赌博技术研究的里程碑，更为理解数字时代的注意力经济提供了独特视角——它提醒我们，在算法推荐与游戏化设计无处不在的今天，每个人都需要警惕那些“温柔的捕获”。</description>
+      <pubDate>Thu, 09 Jul 2026 07:58:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260709-episode-20260709-66b74f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《运气的诱饵》揭示了赌博机如何通过精密的设计捕获人心。本书从空间布局、算法编程、数据追踪三个维度，解析了机器如何利用即时反馈、可变强化和玩家画像来驱动成瘾行为。作者娜塔莎·道·舒尔历时十余年，深入拉斯维加斯进行田野调查，访谈了从业者与赌客双方，呈现了一幅关于技术与人类行为交叉的深刻图景。这本书不仅是赌博技术研究的里程碑，更为理解数字时代的注意力经济提供了独特视角——它提醒我们，在算法推荐与游戏化设计无处不在的今天，每个人都需要警惕那些“温柔的捕获”。</itunes:summary>
+      <itunes:duration>00:32:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260709/episode-20260709-66b74f.mp3" length="30877101" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
