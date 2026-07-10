@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 10 Jul 2026 07:41:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 07:53:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10252,6 +10252,17 @@
       <itunes:duration>00:38:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260710/episode-20260710-720627.mp3" length="37325997" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《关于那个人的备忘录》 · 完整版 · 关于那个人的备忘录 · 完整讲读</title>
+      <description>《关于那个人的备忘录》讲了一个残酷又温柔的故事。田村二吉患上顺行性遗忘症，每隔几十分钟记忆就重置一次，他靠一本编号写到三百八十七的笔记本维持生活。某天他发现，自己正与一名能通过触碰篡改他人记忆的杀人魔殊死搏斗。在无法依赖记忆的绝境中，二吉靠程序性记忆、靠笔记本、靠一个每天来陪他“玩游戏”的老人，最终用一台相机拍下了杀人魔的罪证。可故事结尾，那个本该成为英雄的二吉，再次在陌生房间醒来，第八页依然写着“你正在与杀人魔战斗”，而一个自称他妻子的女人，正在劝他删掉关于这一切的记录。这本书逼迫每一个读者追问：如果我的记忆可以被改写，那么我是谁？</description>
+      <pubDate>Fri, 10 Jul 2026 07:52:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260710-episode-20260710-c2044f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《关于那个人的备忘录》讲了一个残酷又温柔的故事。田村二吉患上顺行性遗忘症，每隔几十分钟记忆就重置一次，他靠一本编号写到三百八十七的笔记本维持生活。某天他发现，自己正与一名能通过触碰篡改他人记忆的杀人魔殊死搏斗。在无法依赖记忆的绝境中，二吉靠程序性记忆、靠笔记本、靠一个每天来陪他“玩游戏”的老人，最终用一台相机拍下了杀人魔的罪证。可故事结尾，那个本该成为英雄的二吉，再次在陌生房间醒来，第八页依然写着“你正在与杀人魔战斗”，而一个自称他妻子的女人，正在劝他删掉关于这一切的记录。这本书逼迫每一个读者追问：如果我的记忆可以被改写，那么我是谁？</itunes:summary>
+      <itunes:duration>00:32:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260710/episode-20260710-c2044f.mp3" length="31157037" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
