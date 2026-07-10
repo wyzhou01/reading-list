@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 10 Jul 2026 08:03:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 08:14:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10274,6 +10274,17 @@
       <itunes:duration>00:24:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260710/episode-20260710-c73416.mp3" length="23092269" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《声誉》 · 完整版 · 声誉 · 完整讲读</title>
+      <description>《声誉》是台湾随笔作家唐诺写于二〇一六年的小册子，原名《我有关声誉、财富和权势的简单思索》。全书以汉娜·阿伦特为本雅明之死所发的愤怒开场，回顾死后声誉的飘忽与延迟，借契诃夫一八八六年的短篇《发现》切入对活人世界里声誉模样的诊断，进而剖析货币的诡计、资本主义的时间结构，以及民主选举如何被财富一步步买下的全过程。最后三章把焦点收回书写者本身，描绘了一个 M 型化的后文学世界，并给书写者提出了“认准唯一魔神““沉静地、专心地、好好地写“的自我安置之道。全书以博尔赫斯“幸福以自身为目的“为金句贯穿，是一本在喧嚣时代里替读书人守住判断与定力的小书。</description>
+      <pubDate>Fri, 10 Jul 2026 08:14:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260710-episode-20260710-2aa3db</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《声誉》是台湾随笔作家唐诺写于二〇一六年的小册子，原名《我有关声誉、财富和权势的简单思索》。全书以汉娜·阿伦特为本雅明之死所发的愤怒开场，回顾死后声誉的飘忽与延迟，借契诃夫一八八六年的短篇《发现》切入对活人世界里声誉模样的诊断，进而剖析货币的诡计、资本主义的时间结构，以及民主选举如何被财富一步步买下的全过程。最后三章把焦点收回书写者本身，描绘了一个 M 型化的后文学世界，并给书写者提出了“认准唯一魔神““沉静地、专心地、好好地写“的自我安置之道。全书以博尔赫斯“幸福以自身为目的“为金句贯穿，是一本在喧嚣时代里替读书人守住判断与定力的小书。</itunes:summary>
+      <itunes:duration>00:31:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260710/episode-20260710-2aa3db.mp3" length="30671661" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
