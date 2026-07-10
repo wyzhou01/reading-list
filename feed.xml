@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 10 Jul 2026 21:54:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 22:01:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10373,6 +10373,17 @@
       <itunes:duration>00:40:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260711/episode-20260711-983d5d.mp3" length="39292461" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《米格尔街》 · 完整版 · 米格尔大街 · 完整讲读</title>
+      <description>《米格尔街》是 V·S·奈保尔一九七一年出版的短篇集，以特立尼达西班牙港一条短巷为背景，描绘十七位街坊小传：一个做不出家具的木匠、一个玩纸牌的闲人、一个从通灵转从政的人、一个打老婆的酒鬼、一个模仿英国演员的挤奶工。叙述者是个未署名的小男孩，从门槛上凝视这一切十多年，最后拿到奖学金飞往伦敦。全书没有完整的人物弧光，只有回旋曲式的重复、贫困的童年视角、没有出路的形而上学。它写的是殖民地小城的精神肖像，失败者如何活成完整的人，一个孩子怎样凝视童年的消逝与故土的不可逆。</description>
+      <pubDate>Fri, 10 Jul 2026 22:01:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260711-episode-20260711-e2b7bf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《米格尔街》是 V·S·奈保尔一九七一年出版的短篇集，以特立尼达西班牙港一条短巷为背景，描绘十七位街坊小传：一个做不出家具的木匠、一个玩纸牌的闲人、一个从通灵转从政的人、一个打老婆的酒鬼、一个模仿英国演员的挤奶工。叙述者是个未署名的小男孩，从门槛上凝视这一切十多年，最后拿到奖学金飞往伦敦。全书没有完整的人物弧光，只有回旋曲式的重复、贫困的童年视角、没有出路的形而上学。它写的是殖民地小城的精神肖像，失败者如何活成完整的人，一个孩子怎样凝视童年的消逝与故土的不可逆。</itunes:summary>
+      <itunes:duration>00:28:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260711/episode-20260711-e2b7bf.mp3" length="27245613" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
