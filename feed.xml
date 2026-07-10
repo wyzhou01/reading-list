@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 10 Jul 2026 17:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 21:24:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10329,6 +10329,17 @@
       <itunes:duration>00:41:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260711/episode-20260711-eaa1e2.mp3" length="39854253" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一生的旅程》 · 完整版 · 一生的旅程 · 完整讲读</title>
+      <description>《一生的旅程》是迪士尼前首席执行官罗伯特·艾格的商业回忆录。这位在一九二三年华特·迪士尼创立公司以来的第六任掌门人，在迪士尼任职四十五年，其中十四年担任首席执行官，主导了对皮克斯、漫威和卢卡斯影业的三场百亿美元级并购，并亲历上海迪士尼乐园从谈判到开园的十八年全过程。这本书不讲理论，只讲关键时刻如何选、如何扛、如何对人。艾格把惊心动魄的谈判、深夜的艰难抉择、一通改变公司命运的电话摊开来写，让读者看到领导者光环之下的真实状态。他提炼出十条领导原则：乐观、勇气、专注、果断、好奇、公正、慎思、真诚、追求极致、诚信。每一条原则，都附着具体的场景、具体的对话、具体的代价。它是近十年来最具实操价值的商业回忆录之一，适合每一位希望少走弯路、多攒点真功夫的职场人。</description>
+      <pubDate>Fri, 10 Jul 2026 21:24:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260711-episode-20260711-63f71e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一生的旅程》是迪士尼前首席执行官罗伯特·艾格的商业回忆录。这位在一九二三年华特·迪士尼创立公司以来的第六任掌门人，在迪士尼任职四十五年，其中十四年担任首席执行官，主导了对皮克斯、漫威和卢卡斯影业的三场百亿美元级并购，并亲历上海迪士尼乐园从谈判到开园的十八年全过程。这本书不讲理论，只讲关键时刻如何选、如何扛、如何对人。艾格把惊心动魄的谈判、深夜的艰难抉择、一通改变公司命运的电话摊开来写，让读者看到领导者光环之下的真实状态。他提炼出十条领导原则：乐观、勇气、专注、果断、好奇、公正、慎思、真诚、追求极致、诚信。每一条原则，都附着具体的场景、具体的对话、具体的代价。它是近十年来最具实操价值的商业回忆录之一，适合每一位希望少走弯路、多攒点真功夫的职场人。</itunes:summary>
+      <itunes:duration>00:45:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260711/episode-20260711-63f71e.mp3" length="43322157" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
