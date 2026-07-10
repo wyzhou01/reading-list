@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 10 Jul 2026 08:14:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 16:19:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10285,6 +10285,17 @@
       <itunes:duration>00:31:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260710/episode-20260710-2aa3db.mp3" length="30671661" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《德米安》 · 完整版 · 德米安彷徨少年时 · 完整讲读</title>
+      <description>《德米安：彷徨少年时》是德国作家赫尔曼·黑塞于一九一九年匿名出版的小说，被视为现代青年成长小说的里程碑。主人公辛克莱从十岁起便被夹在父母象征的光明世界与街头诱惑的黑暗世界之间，因一次撒谎被恶童克罗默敲诈，陷入漫长的精神恐惧。后遇神秘少年德米安，被迫直面自己内心的阴影；又经初恋贝雅特里斯、皮斯托琉斯等引路人，逐步走向自我觉醒。一战爆发，他在战场上完成最后的成年礼。黑塞借雅各与天使摔角的故事宣告：每个人必须与命运贴身肉搏，才能长出自己的命运。一百年过去，这本薄薄的小书依然在被年轻人一双手一双手地拿起。</description>
+      <pubDate>Sat, 13 Jun 2026 16:45:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260711-episode-20260711-4d1a13</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《德米安：彷徨少年时》是德国作家赫尔曼·黑塞于一九一九年匿名出版的小说，被视为现代青年成长小说的里程碑。主人公辛克莱从十岁起便被夹在父母象征的光明世界与街头诱惑的黑暗世界之间，因一次撒谎被恶童克罗默敲诈，陷入漫长的精神恐惧。后遇神秘少年德米安，被迫直面自己内心的阴影；又经初恋贝雅特里斯、皮斯托琉斯等引路人，逐步走向自我觉醒。一战爆发，他在战场上完成最后的成年礼。黑塞借雅各与天使摔角的故事宣告：每个人必须与命运贴身肉搏，才能长出自己的命运。一百年过去，这本薄薄的小书依然在被年轻人一双手一双手地拿起。</itunes:summary>
+      <itunes:duration>00:27:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260711/episode-20260711-4d1a13.mp3" length="26779437" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
