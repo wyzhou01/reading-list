@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 10 Jul 2026 21:32:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 21:39:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10351,6 +10351,17 @@
       <itunes:duration>00:24:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260711/episode-20260711-889266.mp3" length="23490093" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《娜斯佳的眼泪》 · 完整版 · 娜斯佳的眼泪 · 完整讲读</title>
+      <description>《娜斯佳的眼泪》是德国作家娜塔莎·沃丁继《她来自马里乌波尔》之后推出的非虚构力作，讲述她雇用的乌克兰清洁工娜斯佳横跨半个世纪的一生：从战时犹太小镇的童年，到苏联体制下的基辅三十年，再到柏林墙倒塌后赴德谋生三十年的离散。娜斯佳的乡愁与泪水，唤醒了作者对自己早逝母亲的记忆——一个一九四四年被强征到德国的斯拉夫女性，一九五五年溺死在德国河中。这本书用一个微小个体的命运，串起二十世纪东欧大地上反复碾过普通人的战争、饥荒、独裁与流亡，写出了三代东欧女人无法言说的乡愁，以及欧盟时代归乡之不可能。是一部关于代际创伤、身份重构与微小个体尊严的伟大作品。</description>
+      <pubDate>Fri, 10 Jul 2026 21:39:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260711-episode-20260711-22f6a5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《娜斯佳的眼泪》是德国作家娜塔莎·沃丁继《她来自马里乌波尔》之后推出的非虚构力作，讲述她雇用的乌克兰清洁工娜斯佳横跨半个世纪的一生：从战时犹太小镇的童年，到苏联体制下的基辅三十年，再到柏林墙倒塌后赴德谋生三十年的离散。娜斯佳的乡愁与泪水，唤醒了作者对自己早逝母亲的记忆——一个一九四四年被强征到德国的斯拉夫女性，一九五五年溺死在德国河中。这本书用一个微小个体的命运，串起二十世纪东欧大地上反复碾过普通人的战争、饥荒、独裁与流亡，写出了三代东欧女人无法言说的乡愁，以及欧盟时代归乡之不可能。是一部关于代际创伤、身份重构与微小个体尊严的伟大作品。</itunes:summary>
+      <itunes:duration>00:25:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260711/episode-20260711-22f6a5.mp3" length="24525357" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
