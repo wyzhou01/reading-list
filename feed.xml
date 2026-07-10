@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 10 Jul 2026 16:28:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 16:45:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10307,6 +10307,17 @@
       <itunes:duration>00:30:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260711/episode-20260711-764e2b.mp3" length="29603757" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《双重冲击：大国博弈的未来与未来的世界经济》 · 完整版 · 双重冲击 · 完整讲读</title>
+      <description>本书围绕中美大国博弈与新冠疫情构成的&apos;双重冲击&apos;展开，系统剖析美国霸权尤其是美元霸权的金融逻辑与权力基础，解读中美贸易争端的政治本质，研判全球化走向分裂的四大趋势，并从货币金融、产业链、双循环新发展格局等维度，提出中国以高水平开放和&apos;硬改革&apos;应对&apos;硬脱钩&apos;的战略路径。</description>
+      <pubDate>Fri, 10 Jul 2026 16:45:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260711-episode-20260711-974823</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书围绕中美大国博弈与新冠疫情构成的&apos;双重冲击&apos;展开，系统剖析美国霸权尤其是美元霸权的金融逻辑与权力基础，解读中美贸易争端的政治本质，研判全球化走向分裂的四大趋势，并从货币金融、产业链、双循环新发展格局等维度，提出中国以高水平开放和&apos;硬改革&apos;应对&apos;硬脱钩&apos;的战略路径。</itunes:summary>
+      <itunes:duration>00:44:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260711/episode-20260711-974823.mp3" length="42981165" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
