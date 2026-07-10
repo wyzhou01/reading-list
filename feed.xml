@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 10 Jul 2026 16:45:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 17:06:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10318,6 +10318,17 @@
       <itunes:duration>00:44:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260711/episode-20260711-974823.mp3" length="42981165" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《沟通的方法》 · 完整版 · 沟通的方法 · 完整讲读</title>
+      <description>《沟通的方法》是得到App联合创始人脱不花写给每一个普通职场人的沟通实战手册。全书围绕一个核心认知展开：沟通不是一场分输赢的有限游戏，而是一场让关系持续生长的无限游戏。脱不花把倾听、破冰、说服、批评、拒绝、汇报等十八个高频沟通场景拆解成几百个可落地的工具，主张沟通的目的不是赢对方，而是把每一个你需要的人变成生命中的贵人。她尤其强调两个底层能力——结构化倾听与开放性、目标感、建设性的说话原则，并反复告诉读者：好的沟通不在于此刻的输赢，而在于未来要面对的所有时间。这本书适合所有因为不会说话而吃过亏的内向老实人，是一本真正可以反复查阅、终身受用的沟通案头书。</description>
+      <pubDate>Fri, 10 Jul 2026 17:05:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260711-episode-20260711-eaa1e2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《沟通的方法》是得到App联合创始人脱不花写给每一个普通职场人的沟通实战手册。全书围绕一个核心认知展开：沟通不是一场分输赢的有限游戏，而是一场让关系持续生长的无限游戏。脱不花把倾听、破冰、说服、批评、拒绝、汇报等十八个高频沟通场景拆解成几百个可落地的工具，主张沟通的目的不是赢对方，而是把每一个你需要的人变成生命中的贵人。她尤其强调两个底层能力——结构化倾听与开放性、目标感、建设性的说话原则，并反复告诉读者：好的沟通不在于此刻的输赢，而在于未来要面对的所有时间。这本书适合所有因为不会说话而吃过亏的内向老实人，是一本真正可以反复查阅、终身受用的沟通案头书。</itunes:summary>
+      <itunes:duration>00:41:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260711/episode-20260711-eaa1e2.mp3" length="39854253" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
