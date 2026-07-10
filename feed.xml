@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 10 Jul 2026 16:19:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 16:28:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10296,6 +10296,17 @@
       <itunes:duration>00:27:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260711/episode-20260711-4d1a13.mp3" length="26779437" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《科学：无尽的前沿》 · 完整版 · 科学：无尽的前沿 · 完整讲读</title>
+      <description>《科学：无尽的前沿》是范内瓦·布什一九四五年提交给美国总统的经典报告，主张政府长期资助大学中的基础研究，由科学家同行评议支配经费，由此奠定了美国战后科技霸权的制度基础。本书由中信出版社二零二一年推出，完整收录布什报告原文，并收录物理学家、前国会议员拉什·霍尔特撰写的导读《科学之议》。导读既肯定报告的历史功绩，也批评它把科学封闭在实验室、与公众隔绝的结构性缺陷，并以七十多年后的视角探讨人工智能、量子计算、基因编辑时代的科研体制走向。本书是理解美国科研体制的入门必读，也是思考政府与科学、基础与应用、科学家与公民关系的经典范本。</description>
+      <pubDate>Fri, 10 Jul 2026 16:27:46 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260711-episode-20260711-764e2b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《科学：无尽的前沿》是范内瓦·布什一九四五年提交给美国总统的经典报告，主张政府长期资助大学中的基础研究，由科学家同行评议支配经费，由此奠定了美国战后科技霸权的制度基础。本书由中信出版社二零二一年推出，完整收录布什报告原文，并收录物理学家、前国会议员拉什·霍尔特撰写的导读《科学之议》。导读既肯定报告的历史功绩，也批评它把科学封闭在实验室、与公众隔绝的结构性缺陷，并以七十多年后的视角探讨人工智能、量子计算、基因编辑时代的科研体制走向。本书是理解美国科研体制的入门必读，也是思考政府与科学、基础与应用、科学家与公民关系的经典范本。</itunes:summary>
+      <itunes:duration>00:30:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260711/episode-20260711-764e2b.mp3" length="29603757" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
