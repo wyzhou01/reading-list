@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 10 Jul 2026 21:24:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 21:32:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10340,6 +10340,17 @@
       <itunes:duration>00:45:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260711/episode-20260711-63f71e.mp3" length="43322157" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《成为波伏瓦》 · 完整版 · 成为波伏瓦 · 完整讲读</title>
+      <description>《成为波伏瓦》是英国学者凯特·柯克帕特里克基于大量新公开的日记、书信与回忆录撰写的波伏瓦权威传记。本书挑战了波伏瓦仅为萨特附庸的流行叙事，通过翔实文献证明她早在遇见萨特前就已有独立的哲学思考，并在多个关键问题上深刻影响了萨特。柯克帕特里克沿着波伏瓦的生平年表，呈现了一个在偏见中挣扎又用一生反击偏见的女性——她如何从虔诚的天主教少女成长为二十世纪最激烈的女性思想者，她与萨特的开放式契约背后的真实友谊，她与多位女性情人长期被遮蔽的关系，以及她如何在二十世纪女性主义思想史上留下不可磨灭的印记。本书最终回应了一个跨越时代的命题：成为自我，意味着在他人凝视与自我驱动之间持续塑造身份，而这条路，永远没有终点。</description>
+      <pubDate>Fri, 10 Jul 2026 21:32:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260711-episode-20260711-889266</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《成为波伏瓦》是英国学者凯特·柯克帕特里克基于大量新公开的日记、书信与回忆录撰写的波伏瓦权威传记。本书挑战了波伏瓦仅为萨特附庸的流行叙事，通过翔实文献证明她早在遇见萨特前就已有独立的哲学思考，并在多个关键问题上深刻影响了萨特。柯克帕特里克沿着波伏瓦的生平年表，呈现了一个在偏见中挣扎又用一生反击偏见的女性——她如何从虔诚的天主教少女成长为二十世纪最激烈的女性思想者，她与萨特的开放式契约背后的真实友谊，她与多位女性情人长期被遮蔽的关系，以及她如何在二十世纪女性主义思想史上留下不可磨灭的印记。本书最终回应了一个跨越时代的命题：成为自我，意味着在他人凝视与自我驱动之间持续塑造身份，而这条路，永远没有终点。</itunes:summary>
+      <itunes:duration>00:24:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260711/episode-20260711-889266.mp3" length="23490093" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
