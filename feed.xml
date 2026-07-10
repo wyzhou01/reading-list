@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 10 Jul 2026 21:39:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 21:54:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10362,6 +10362,17 @@
       <itunes:duration>00:25:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260711/episode-20260711-22f6a5.mp3" length="24525357" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《论爱欲》 · 完整版 · 论爱欲_-汪民安 · 完整讲读</title>
+      <description>《论爱欲》是汪民安关于西方爱欲观念史的哲学随笔，分上下两篇。上篇梳理从柏拉图、基督教、薄伽丘到近代的&quot;爱欲谱系&quot;，下篇则进入黑格尔的&quot;承认&quot;、萨德与福柯的&quot;事件式爱欲&quot;，以及布朗肖的&quot;奇遇之爱&quot;。汪民安借助乔托、提香、马萨乔、布歇等艺术史图像，对应哲学文本，揭示爱欲在西方思想中如何从对抗死亡的至善，逐渐演变为一场关乎他者承认的政治实验。</description>
+      <pubDate>Fri, 10 Jul 2026 21:54:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260711-episode-20260711-983d5d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《论爱欲》是汪民安关于西方爱欲观念史的哲学随笔，分上下两篇。上篇梳理从柏拉图、基督教、薄伽丘到近代的&quot;爱欲谱系&quot;，下篇则进入黑格尔的&quot;承认&quot;、萨德与福柯的&quot;事件式爱欲&quot;，以及布朗肖的&quot;奇遇之爱&quot;。汪民安借助乔托、提香、马萨乔、布歇等艺术史图像，对应哲学文本，揭示爱欲在西方思想中如何从对抗死亡的至善，逐渐演变为一场关乎他者承认的政治实验。</itunes:summary>
+      <itunes:duration>00:40:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260711/episode-20260711-983d5d.mp3" length="39292461" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
