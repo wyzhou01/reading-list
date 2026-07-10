@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 10 Jul 2026 07:25:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 07:41:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10241,6 +10241,17 @@
       <itunes:duration>00:36:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260710/episode-20260710-5e76a5.mp3" length="35081517" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《老派少女购物路线》 · 完整版 · 老派少女购物路线 · 完整讲读</title>
+      <description>《老派少女购物路线》是台湾设计师洪爱珠写给母亲与外婆的长信。她以三代女子的日常采买与家常料理——大稻埕迪化街的润饼皮、芦洲中山市场的切仔面、妈妈传下的卤肉、外婆订的砧板——串起一座老城、一段家族史与一种正在消失的生活方式。这本书既是一封悼亡书，也是一份招魂仪式：用一碗粥、一勺卤、一只旧锅，把已经不在的人，重新请回饭桌旁。</description>
+      <pubDate>Fri, 10 Jul 2026 07:41:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260710-episode-20260710-720627</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《老派少女购物路线》是台湾设计师洪爱珠写给母亲与外婆的长信。她以三代女子的日常采买与家常料理——大稻埕迪化街的润饼皮、芦洲中山市场的切仔面、妈妈传下的卤肉、外婆订的砧板——串起一座老城、一段家族史与一种正在消失的生活方式。这本书既是一封悼亡书，也是一份招魂仪式：用一碗粥、一勺卤、一只旧锅，把已经不在的人，重新请回饭桌旁。</itunes:summary>
+      <itunes:duration>00:38:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260710/episode-20260710-720627.mp3" length="37325997" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
