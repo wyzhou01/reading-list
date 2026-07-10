@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 09 Jul 2026 21:56:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 07:25:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10230,6 +10230,17 @@
       <itunes:duration>00:31:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260710/episode-20260710-0eba1c.mp3" length="30066093" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《克拉拉与太阳》 · 完整版 · 克拉拉与太阳 · 完整讲读</title>
+      <description>《克拉拉与太阳》是石黑一雄在获得诺贝尔文学奖之后出版的第一部长篇小说，首次以一台太阳能人工智能机器人克拉拉作为第一人称叙述者。她站在商店橱窗里等待被人类选中，最终被一位身患重病、即将接受&quot;提升&quot;的少女乔西带回家。在目睹乔西被一步步推向死亡之后，乔西的母亲请求克拉拉&quot;延续&quot;乔西，让她成为骗过自己的替身。石黑一雄借克拉拉清澈的眼睛，照见了人心的六个不可还原之处：爱的自私下坠、人心的不可复制、自我欺骗作为活下去的缓冲、慢作为最深的存在方式、感恩作为机器永远学不会的告别，以及最后——所有能从失去里开出花来的灵魂，都不是靠抓住什么活下来的，而是靠记得什么活下来的。</description>
+      <pubDate>Fri, 10 Jul 2026 07:25:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260710-episode-20260710-5e76a5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《克拉拉与太阳》是石黑一雄在获得诺贝尔文学奖之后出版的第一部长篇小说，首次以一台太阳能人工智能机器人克拉拉作为第一人称叙述者。她站在商店橱窗里等待被人类选中，最终被一位身患重病、即将接受&quot;提升&quot;的少女乔西带回家。在目睹乔西被一步步推向死亡之后，乔西的母亲请求克拉拉&quot;延续&quot;乔西，让她成为骗过自己的替身。石黑一雄借克拉拉清澈的眼睛，照见了人心的六个不可还原之处：爱的自私下坠、人心的不可复制、自我欺骗作为活下去的缓冲、慢作为最深的存在方式、感恩作为机器永远学不会的告别，以及最后——所有能从失去里开出花来的灵魂，都不是靠抓住什么活下来的，而是靠记得什么活下来的。</itunes:summary>
+      <itunes:duration>00:36:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260710/episode-20260710-5e76a5.mp3" length="35081517" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
