@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 11 Jul 2026 17:14:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 17:23:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10670,6 +10670,17 @@
       <itunes:duration>00:31:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260712/episode-20260712-0c1552.mp3" length="30029613" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《小行星掉在下午》 · 完整版 · 小行星掉在下午 · 完整讲读</title>
+      <description>《小行星掉在下午》是沈大成二零二零年出版的短篇小说集，收录十五个故事，用克制、冷静、近乎编辑式的笔调，写出当代都市边缘人的荒诞处境：过气明星靠扮演陌生人隐身，配音员因身份暴露失业，末日里的人只想去挑一只木瓜，移民飞船上的罪犯被安静地弹射进宇宙。沈大成不写未来，只写今天的缝隙里那些被消失、被遗忘、被结构推着走，却依然在用非常小的、非常具体的姿势守护着自己的人。她写的是体面的消失，也是消失里的体面。</description>
+      <pubDate>Sat, 11 Jul 2026 17:23:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260712-episode-20260712-5b257c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《小行星掉在下午》是沈大成二零二零年出版的短篇小说集，收录十五个故事，用克制、冷静、近乎编辑式的笔调，写出当代都市边缘人的荒诞处境：过气明星靠扮演陌生人隐身，配音员因身份暴露失业，末日里的人只想去挑一只木瓜，移民飞船上的罪犯被安静地弹射进宇宙。沈大成不写未来，只写今天的缝隙里那些被消失、被遗忘、被结构推着走，却依然在用非常小的、非常具体的姿势守护着自己的人。她写的是体面的消失，也是消失里的体面。</itunes:summary>
+      <itunes:duration>00:29:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260712/episode-20260712-5b257c.mp3" length="28189869" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
