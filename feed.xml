@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 11 Jul 2026 08:11:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 08:22:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10615,6 +10615,17 @@
       <itunes:duration>00:42:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260711/episode-20260711-5f659c.mp3" length="41005869" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《赶时间的人：一个外卖员的诗》 · 完整版 · 赶时间的人：一个外卖员的诗 · 完整讲读</title>
+      <description>《赶时间的人》是外卖员王计兵的处女诗集，也是他三十年漂泊、二十年偷偷写作的结晶。十九岁去沈阳打工，在旧书摊旁自学写作；因小说原型得罪乡邻，父亲一怒之下烧掉他二十万字手稿，两代人沉默长达两个月。后与爱人远走新疆拾荒、转赴山东开翻斗车、再落脚江苏昆山摆地摊。捡废品的岁月成了他笔名“拾荒”的由来；买不起纸，他便把句子写在废纸箱上、读罢丢进灶台。直到二零一八年夏天蹬上电瓶车成为外卖骑手，他的诗才在等红灯、爬楼梯的间隙里，一首一首存进手机。四年间写下四千余首诗，于二零二二年结集出版。这本书讲述一个被分秒追着跑的男人，如何在生活的褶皱里笨拙地爱着这个世界；文学，又是如何反过来，把他从悬崖下接住。</description>
+      <pubDate>Sat, 11 Jul 2026 08:21:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260711-episode-20260711-2d3a36</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《赶时间的人》是外卖员王计兵的处女诗集，也是他三十年漂泊、二十年偷偷写作的结晶。十九岁去沈阳打工，在旧书摊旁自学写作；因小说原型得罪乡邻，父亲一怒之下烧掉他二十万字手稿，两代人沉默长达两个月。后与爱人远走新疆拾荒、转赴山东开翻斗车、再落脚江苏昆山摆地摊。捡废品的岁月成了他笔名“拾荒”的由来；买不起纸，他便把句子写在废纸箱上、读罢丢进灶台。直到二零一八年夏天蹬上电瓶车成为外卖骑手，他的诗才在等红灯、爬楼梯的间隙里，一首一首存进手机。四年间写下四千余首诗，于二零二二年结集出版。这本书讲述一个被分秒追着跑的男人，如何在生活的褶皱里笨拙地爱着这个世界；文学，又是如何反过来，把他从悬崖下接住。</itunes:summary>
+      <itunes:duration>00:26:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260711/episode-20260711-2d3a36.mp3" length="25190445" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
