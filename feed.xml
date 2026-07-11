@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 11 Jul 2026 21:24:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 21:34:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10692,6 +10692,17 @@
       <itunes:duration>00:31:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260712/episode-20260712-42ff15.mp3" length="29891757" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《小说榫卯》 · 完整版 · 小说榫卯 · 完整讲读</title>
+      <description>《小说榫卯》是云南大学副教授张秋子面向普通读者的文学方法论。她以课堂十年积累为底，从荷马史诗一路梳理至马尔克斯，揭示西方小说如何以「细节」为榫卯，搭建虚构秩序。从荷马、海岸边的程式化修辞，到托尔斯泰、那颗掉落的纽扣，再到福楼拜、卡夫卡、马尔克斯，细节既是古典小说伏笔的砖石，也成了现代主义之后拒绝被钉死的云母。本书主张细节阅读并非天赋，而是可被训练的能力，并最终邀请读者把游泳圈扔在岸上，带着一双重新睁开的眼睛，自己跃入文学的丰饶之海。</description>
+      <pubDate>Sat, 11 Jul 2026 21:34:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260712-episode-20260712-9c9591</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《小说榫卯》是云南大学副教授张秋子面向普通读者的文学方法论。她以课堂十年积累为底，从荷马史诗一路梳理至马尔克斯，揭示西方小说如何以「细节」为榫卯，搭建虚构秩序。从荷马、海岸边的程式化修辞，到托尔斯泰、那颗掉落的纽扣，再到福楼拜、卡夫卡、马尔克斯，细节既是古典小说伏笔的砖石，也成了现代主义之后拒绝被钉死的云母。本书主张细节阅读并非天赋，而是可被训练的能力，并最终邀请读者把游泳圈扔在岸上，带着一双重新睁开的眼睛，自己跃入文学的丰饶之海。</itunes:summary>
+      <itunes:duration>00:34:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260712/episode-20260712-9c9591.mp3" length="32863149" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
