@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 11 Jul 2026 07:48:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 08:11:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10604,6 +10604,17 @@
       <itunes:duration>00:38:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260711/episode-20260711-978806.mp3" length="37003437" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《哈利波特与凤凰社》 · 完整版 · 哈利波特与凤凰社 · 完整讲读</title>
+      <description>《哈利波特与凤凰社》是 J K 罗琳笔下系列的第五部，也是最关键的一次转折。一九九五年，十五岁的哈利亲眼目睹伏地魔复活，回到魔法世界却被告知「什么都没有发生」。魔法部长福吉为了保住自己的位置，选择了否认。霍格沃茨新来的老师乌姆里奇则用一份又一份「教育令」，把校园变成了一座温柔的监狱。她不杀人，只签字，只微笑，只用一支会刻字的笔，把敢于说真话的少年，一个一个地孤立起来。哈利和他的同学们，只能在地下室里秘密练起打架的本领。最后，一个深夜，他们闯入了神秘事务司，哈利的教父小天狼星倒在了帷幔的另一侧。这本书写的是真相的孤独，制度的温柔，少年如何被迫长大。也是写给每一个曾经十五岁的人：你被孤立过吗？你坚持过什么吗？二十年后再读，你会发现，伏地魔并不可怕，可怕的是那些笑着说没有发生的人。</description>
+      <pubDate>Sat, 11 Jul 2026 08:10:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260711-episode-20260711-5f659c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《哈利波特与凤凰社》是 J K 罗琳笔下系列的第五部，也是最关键的一次转折。一九九五年，十五岁的哈利亲眼目睹伏地魔复活，回到魔法世界却被告知「什么都没有发生」。魔法部长福吉为了保住自己的位置，选择了否认。霍格沃茨新来的老师乌姆里奇则用一份又一份「教育令」，把校园变成了一座温柔的监狱。她不杀人，只签字，只微笑，只用一支会刻字的笔，把敢于说真话的少年，一个一个地孤立起来。哈利和他的同学们，只能在地下室里秘密练起打架的本领。最后，一个深夜，他们闯入了神秘事务司，哈利的教父小天狼星倒在了帷幔的另一侧。这本书写的是真相的孤独，制度的温柔，少年如何被迫长大。也是写给每一个曾经十五岁的人：你被孤立过吗？你坚持过什么吗？二十年后再读，你会发现，伏地魔并不可怕，可怕的是那些笑着说没有发生的人。</itunes:summary>
+      <itunes:duration>00:42:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260711/episode-20260711-5f659c.mp3" length="41005869" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
