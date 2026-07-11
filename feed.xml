@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 11 Jul 2026 17:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 17:14:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10659,6 +10659,17 @@
       <itunes:duration>00:26:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260712/episode-20260712-410f3a.mp3" length="25836717" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《洞见：从科学到哲学，打开人类的认知真相》 · 完整版 · 洞见：从科学到哲学，打开人类的认知真相 · 完整讲读</title>
+      <description>《洞见：从科学到哲学，打开人类的认知真相》是普林斯顿进化心理学学者罗伯特·赖特写给现代人的一份“科学化佛学”报告。他用脑科学、进化生物学与认知心理学的研究，重新检验佛陀两千五百年前关于“无我”“色即是空”“贪嗔痴”的诊断，结果发现高度吻合。全书围绕六个核心展开：基因不让我们快乐，只让我们多产；大脑是多个情绪模块的委员会，没有统一的“我”；世界是被情绪模块投射过的有色眼镜版本；冥想不是玄学，而是觉知训练；色即是空，是看穿标签而非否认世界；空积极的一面，是事物在没有滤镜之后原本就有的样子。赖特最终想告诉读者：看清真相不一定带来自由，但看清真相、又愿意练习站在真相之外，会。</description>
+      <pubDate>Sat, 11 Jul 2026 17:13:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260712-episode-20260712-0c1552</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《洞见：从科学到哲学，打开人类的认知真相》是普林斯顿进化心理学学者罗伯特·赖特写给现代人的一份“科学化佛学”报告。他用脑科学、进化生物学与认知心理学的研究，重新检验佛陀两千五百年前关于“无我”“色即是空”“贪嗔痴”的诊断，结果发现高度吻合。全书围绕六个核心展开：基因不让我们快乐，只让我们多产；大脑是多个情绪模块的委员会，没有统一的“我”；世界是被情绪模块投射过的有色眼镜版本；冥想不是玄学，而是觉知训练；色即是空，是看穿标签而非否认世界；空积极的一面，是事物在没有滤镜之后原本就有的样子。赖特最终想告诉读者：看清真相不一定带来自由，但看清真相、又愿意练习站在真相之外，会。</itunes:summary>
+      <itunes:duration>00:31:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260712/episode-20260712-0c1552.mp3" length="30029613" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
