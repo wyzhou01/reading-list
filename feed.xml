@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 11 Jul 2026 16:51:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 17:02:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10648,6 +10648,17 @@
       <itunes:duration>00:32:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260712/episode-20260712-a48f90.mp3" length="31260333" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《小于一》 · 完整版 · 小于一 · 完整讲读</title>
+      <description>《小于一》是俄裔美国诗人布罗茨基的散文随笔集，写于一九七零至一九八零年代，收录十八篇文章。它是一位流亡者用英语重新讲述自己的过去：从列宁格勒围城后的童年，到工厂与医院的青春，再到被流放的诗人之路。全书既是个体记忆，也是一份对极权制度的冷静剖解；既是对阿赫玛托娃、奥登、茨维塔耶娃等前辈的细读，也是对语言本身近乎宗教式的捍卫。贯穿全书的核心信念是：语言高于一切，诗歌是语言的最高形式，而写作，就是一个人能保留尊严与真相的最后领地。</description>
+      <pubDate>Sat, 11 Jul 2026 17:01:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260712-episode-20260712-410f3a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《小于一》是俄裔美国诗人布罗茨基的散文随笔集，写于一九七零至一九八零年代，收录十八篇文章。它是一位流亡者用英语重新讲述自己的过去：从列宁格勒围城后的童年，到工厂与医院的青春，再到被流放的诗人之路。全书既是个体记忆，也是一份对极权制度的冷静剖解；既是对阿赫玛托娃、奥登、茨维塔耶娃等前辈的细读，也是对语言本身近乎宗教式的捍卫。贯穿全书的核心信念是：语言高于一切，诗歌是语言的最高形式，而写作，就是一个人能保留尊严与真相的最后领地。</itunes:summary>
+      <itunes:duration>00:26:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260712/episode-20260712-410f3a.mp3" length="25836717" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
