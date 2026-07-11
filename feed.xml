@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 11 Jul 2026 17:23:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 21:24:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10681,6 +10681,17 @@
       <itunes:duration>00:29:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260712/episode-20260712-5b257c.mp3" length="28189869" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《八月未央》 · 完整版 · 八月未央 · 完整讲读</title>
+      <description>《八月未央》是安妮宝贝的短篇小说集，写一群在世纪之交漂泊于大城市的女子。未央童年目睹母亲穿着高跟鞋在楼梯上死去，从此失去流泪的能力。她与挚友乔共同爱上男人朝颜，最终以极端方式拆散他们，乔在机场自杀。朝颜远走东京，未央独自生下眼睛幽蓝的女儿，在上海的冬天继续寄无字的信。书里其他篇章，倪辰在网络里遇见皮肤饥饿的靳轻，林与白在婚姻里互相磨损。整本书以冷峻阴郁的笔触，写原生家庭创伤的代际传递，写爱与伤害之间那条模糊的边界，写一代都市女子心里，那块永远潮湿、像苔藓一样的阴影。</description>
+      <pubDate>Sat, 11 Jul 2026 21:24:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260712-episode-20260712-42ff15</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《八月未央》是安妮宝贝的短篇小说集，写一群在世纪之交漂泊于大城市的女子。未央童年目睹母亲穿着高跟鞋在楼梯上死去，从此失去流泪的能力。她与挚友乔共同爱上男人朝颜，最终以极端方式拆散他们，乔在机场自杀。朝颜远走东京，未央独自生下眼睛幽蓝的女儿，在上海的冬天继续寄无字的信。书里其他篇章，倪辰在网络里遇见皮肤饥饿的靳轻，林与白在婚姻里互相磨损。整本书以冷峻阴郁的笔触，写原生家庭创伤的代际传递，写爱与伤害之间那条模糊的边界，写一代都市女子心里，那块永远潮湿、像苔藓一样的阴影。</itunes:summary>
+      <itunes:duration>00:31:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260712/episode-20260712-42ff15.mp3" length="29891757" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
