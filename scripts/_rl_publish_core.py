@@ -502,6 +502,32 @@ def add_episode(args):
     print(f"   - 音频: {ep['audio_url']}")
     print(f"   - RSS:  {FEED_URL_TPL.format(user=user, repo=repo)}")
 
+    # 2026-07-11 fix (Phase 3): 防止 silent publish 失败
+    # push feed.xml 成功后 re-fetch 验证 entry 真在, 否则 raise 让 pipeline 知道失败
+    print(f"   🔍 验证 feed.xml entry 真在...")
+    time.sleep(2)
+    try:
+        verify_existing, _ = list_existing_episodes()
+        verify_guids = [e.get("guid", "") for e in verify_existing]
+        if ep["guid"] not in verify_guids:
+            # 再等一下 GitHub 同步 (有些时候 API 缓存)
+            time.sleep(3)
+            verify_existing, _ = list_existing_episodes()
+            verify_guids = [e.get("guid", "") for e in verify_existing]
+            if ep["guid"] not in verify_guids:
+                raise RuntimeError(
+                    f"publish 验证失败: push feed.xml 返回 success, 但 re-fetch 后 entry 不在. "
+                    f"guid={ep['guid']}, title={ep['title'][:50]}, audio_url={ep.get('audio_url','')[:80]}. "
+                    f"这可能是 silent push 失败 (publish.py 06-21 bug 模式). "
+                    f"请手动检查 feed.xml 状态."
+                )
+        print(f"   ✓ Verify OK: {len(verify_existing)} entries, new entry in feed")
+    except RuntimeError:
+        raise
+    except Exception as e:
+        # verification 本身失败不算 fatal, 但要 warn
+        print(f"   ⚠️ Verify failed (network?): {e}")
+
 
 def regen(args):
     """只重新生成 RSS（音频已上传）"""
