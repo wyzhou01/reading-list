@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 11 Jul 2026 07:34:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 07:48:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10593,6 +10593,17 @@
       <itunes:duration>00:25:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260711/episode-20260711-019be8.mp3" length="24612141" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《肠子》 · 完整版 · 肠子的小心思 · 完整讲读</title>
+      <description>《肠子的小心思》是一本由德国医学博士朱莉娅·恩德斯写就的健康科普书。作者从亲身经历出发，带读者走完一趟从嘴巴到肛门的奇妙旅程。本书不仅揭示了消化系统精密而复杂的运作机制，更深入探讨了肠脑轴——肠道如何影响情绪与思维——以及数万亿肠道微生物构成的喧闹江湖。全书以严谨的科学内核配以深入浅出的讲述方式，打破了我们对身体长期存在的偏见，让我们重新认识这副每天都在运转、却最容易被忽视的身体。</description>
+      <pubDate>Fri, 19 Jun 2026 13:16:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260711-episode-20260711-978806</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《肠子的小心思》是一本由德国医学博士朱莉娅·恩德斯写就的健康科普书。作者从亲身经历出发，带读者走完一趟从嘴巴到肛门的奇妙旅程。本书不仅揭示了消化系统精密而复杂的运作机制，更深入探讨了肠脑轴——肠道如何影响情绪与思维——以及数万亿肠道微生物构成的喧闹江湖。全书以严谨的科学内核配以深入浅出的讲述方式，打破了我们对身体长期存在的偏见，让我们重新认识这副每天都在运转、却最容易被忽视的身体。</itunes:summary>
+      <itunes:duration>00:38:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260711/episode-20260711-978806.mp3" length="37003437" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
