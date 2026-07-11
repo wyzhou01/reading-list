@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 11 Jul 2026 08:22:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 16:38:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10626,6 +10626,17 @@
       <itunes:duration>00:26:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260711/episode-20260711-2d3a36.mp3" length="25190445" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《霸王别姬》 · 完整版 · 霸王别姬 · 完整讲读</title>
+      <description>李碧华《霸王别姬》讲述程蝶衣、段小楼两位京剧伶人跨越数十年的爱恨纠葛。从民国天桥的科班岁月，到日据时期的戏台飘零，到解放后的改造沉浮，再到文革批斗中的相互撕咬，最后在一九九三年的舞台上蝶衣拔剑自刎。一本书，写尽戏如人生、人生如戏的双重隐喻，写出性别认同的撕裂、爱与背叛的代价，写出一个世纪以来小人物被时代巨轮反复碾磨的处境。戏词里的霸王别姬只是铺垫，台下的&quot;别姬&quot;才是真正的悲剧——台上是虞姬自刎谢霸王，台下是所有人被戏与时代活活绞死。一句戏词道尽全书——&quot;君王意气尽，贱妾何聊生。&quot;可悲的是，君王的意气，从来都不在他自己手上。</description>
+      <pubDate>Sat, 11 Jul 2026 16:37:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260712-episode-20260712-4b594c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>李碧华《霸王别姬》讲述程蝶衣、段小楼两位京剧伶人跨越数十年的爱恨纠葛。从民国天桥的科班岁月，到日据时期的戏台飘零，到解放后的改造沉浮，再到文革批斗中的相互撕咬，最后在一九九三年的舞台上蝶衣拔剑自刎。一本书，写尽戏如人生、人生如戏的双重隐喻，写出性别认同的撕裂、爱与背叛的代价，写出一个世纪以来小人物被时代巨轮反复碾磨的处境。戏词里的霸王别姬只是铺垫，台下的&quot;别姬&quot;才是真正的悲剧——台上是虞姬自刎谢霸王，台下是所有人被戏与时代活活绞死。一句戏词道尽全书——&quot;君王意气尽，贱妾何聊生。&quot;可悲的是，君王的意气，从来都不在他自己手上。</itunes:summary>
+      <itunes:duration>00:31:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260712/episode-20260712-4b594c.mp3" length="30583725" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
