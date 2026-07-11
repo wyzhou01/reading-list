@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 11 Jul 2026 16:38:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 16:51:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10637,6 +10637,17 @@
       <itunes:duration>00:31:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260712/episode-20260712-4b594c.mp3" length="30583725" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《清代地方政府》 · 完整版 · 清代地方政府 · 完整讲读</title>
+      <description>《清代地方政府》是瞿同祖先生用社会学方法解剖清代基层治理的经典之作。它揭示了一个核心真相：县太爷是“一人政府”，所有正式权力集中于一人；可他手下真正干活的，却是书吏、衙役、长随、幕友这四类没有编制的“非正式人员”；他们的俸禄微薄到只能饿不死，办公经费更是朝廷不拨，全靠“陋规”维持；县太爷与百姓之间，还有一个“非正式政府”——士绅，他们既能替县太爷办事，又能欺压百姓，是清代基层的双头结构之一。瞿同祖用冷静的社会学视角，撕开了《大清律例》和现实之间的巨大鸿沟，让我们看清了“书本上的法律”和“行动中的法律”之间的落差。这本书不仅是清代政治史的里程碑，更是一把打开传统中国运行密码的钥匙。</description>
+      <pubDate>Sat, 11 Jul 2026 16:50:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260712-episode-20260712-a48f90</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《清代地方政府》是瞿同祖先生用社会学方法解剖清代基层治理的经典之作。它揭示了一个核心真相：县太爷是“一人政府”，所有正式权力集中于一人；可他手下真正干活的，却是书吏、衙役、长随、幕友这四类没有编制的“非正式人员”；他们的俸禄微薄到只能饿不死，办公经费更是朝廷不拨，全靠“陋规”维持；县太爷与百姓之间，还有一个“非正式政府”——士绅，他们既能替县太爷办事，又能欺压百姓，是清代基层的双头结构之一。瞿同祖用冷静的社会学视角，撕开了《大清律例》和现实之间的巨大鸿沟，让我们看清了“书本上的法律”和“行动中的法律”之间的落差。这本书不仅是清代政治史的里程碑，更是一把打开传统中国运行密码的钥匙。</itunes:summary>
+      <itunes:duration>00:32:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260712/episode-20260712-a48f90.mp3" length="31260333" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
