@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 10 Jul 2026 22:01:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 07:26:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10384,6 +10384,17 @@
       <itunes:duration>00:28:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260711/episode-20260711-e2b7bf.mp3" length="27245613" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《猫头鹰谋杀案》 · 完整版 · 猫头鹰谋杀案 · 完整讲读</title>
+      <description>英国作家安东尼·霍洛维茨的《猫头鹰谋杀案》，是他的《喜鹊谋杀案》的续作。前编辑苏珊·赖兰在克里特岛经营家庭旅馆时，被一对英国老夫妇找上门——他们在八年前自家布兰洛大酒店发生过一桩凶杀案，当年被判刑的罗马尼亚维修工很可能是无辜的，而真凶的名字也许藏在一九五三年出版的老小说《阿提库斯·庞德来断案》里。夫妇俩的女儿塞西莉读懂这本书之后，随即人间蒸发。霍洛维茨延续前作的套层结构，把黄金时代推理小说的复仇戏、真凶指认与作者谜题嵌入同一本小说中，让虚构案件与现实命案逐页对照、互为镜像。故事在最后三页揭开两条时间线如何咬合：小说是一把钥匙，读懂它的人必须付出代价；真相从来不会真正消失，它只会被换一种形式，等着被人再次读出来。</description>
+      <pubDate>Sat, 11 Jul 2026 07:25:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260711-episode-20260711-79ab76</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>英国作家安东尼·霍洛维茨的《猫头鹰谋杀案》，是他的《喜鹊谋杀案》的续作。前编辑苏珊·赖兰在克里特岛经营家庭旅馆时，被一对英国老夫妇找上门——他们在八年前自家布兰洛大酒店发生过一桩凶杀案，当年被判刑的罗马尼亚维修工很可能是无辜的，而真凶的名字也许藏在一九五三年出版的老小说《阿提库斯·庞德来断案》里。夫妇俩的女儿塞西莉读懂这本书之后，随即人间蒸发。霍洛维茨延续前作的套层结构，把黄金时代推理小说的复仇戏、真凶指认与作者谜题嵌入同一本小说中，让虚构案件与现实命案逐页对照、互为镜像。故事在最后三页揭开两条时间线如何咬合：小说是一把钥匙，读懂它的人必须付出代价；真相从来不会真正消失，它只会被换一种形式，等着被人再次读出来。</itunes:summary>
+      <itunes:duration>00:25:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260711/episode-20260711-79ab76.mp3" length="24176685" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
