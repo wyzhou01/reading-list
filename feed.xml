@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 12 Jul 2026 07:51:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 08:01:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10736,6 +10736,17 @@
       <itunes:duration>00:34:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260712/episode-20260712-29a4ab.mp3" length="33132717" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《生而为女》 · 完整版 · 生而为女 · 完整讲读</title>
+      <description>一百三十多年前，开膛手杰克在伦敦白教堂杀害了五名女性，凶手始终未被捕获，却被写进了传奇；而波莉、安妮、伊丽莎白、凯特和玛丽·简这五名受害者，却长期被简化为「不过是妓女」一句话。本书作者海莉·鲁本霍德用十余年时间翻遍死因研讯、法庭档案、济贫院名册和旧报纸，把这五个被抹去的女人重新拼回历史现场。她揭示：她们并非死于道德污点，而是被维多利亚晚期的就业、房租、济贫院和道德标签一步步挤到街面上的贫困女性。真正的凶手，除了那个未落网的屠夫，还有那个习惯于用「妓女」二字免除自身责任的性别与阶级结构。</description>
+      <pubDate>Sun, 12 Jul 2026 08:00:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260712-episode-20260712-70fecc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一百三十多年前，开膛手杰克在伦敦白教堂杀害了五名女性，凶手始终未被捕获，却被写进了传奇；而波莉、安妮、伊丽莎白、凯特和玛丽·简这五名受害者，却长期被简化为「不过是妓女」一句话。本书作者海莉·鲁本霍德用十余年时间翻遍死因研讯、法庭档案、济贫院名册和旧报纸，把这五个被抹去的女人重新拼回历史现场。她揭示：她们并非死于道德污点，而是被维多利亚晚期的就业、房租、济贫院和道德标签一步步挤到街面上的贫困女性。真正的凶手，除了那个未落网的屠夫，还有那个习惯于用「妓女」二字免除自身责任的性别与阶级结构。</itunes:summary>
+      <itunes:duration>00:27:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260712/episode-20260712-70fecc.mp3" length="26207661" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
