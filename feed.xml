@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 12 Jul 2026 07:37:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 07:51:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10725,6 +10725,17 @@
       <itunes:duration>00:23:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260712/episode-20260712-2ccfa9.mp3" length="22096173" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《寄生虫星球》 · 完整版 · 寄生虫星球 · 完整讲读</title>
+      <description>《寄生虫星球》是美国科学作家卡尔·齐默的代表作。这本书用一个十二岁苏丹少年的生死，把读者带入一个被忽视了几十年的生命领域——寄生虫。齐默走遍苏丹、哥斯达黎加、肯尼亚，用整整八章告诉我们：寄生虫不是需要被消灭的边角料，而是塑造生命、生态与人类历史的隐形力量。从四十亿年的演化军备竞赛，到寄生虫对宿主行为的诡异操纵，从疟疾如何改写人类基因与文明，到今天科学家如何尝试用寄生虫治疗自身免疫病——这本书彻底颠覆了我们对“寄生虫”这个词的所有偏见，重新定义了人类在生命网络中的位置。</description>
+      <pubDate>Sun, 12 Jul 2026 07:50:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260712-episode-20260712-29a4ab</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《寄生虫星球》是美国科学作家卡尔·齐默的代表作。这本书用一个十二岁苏丹少年的生死，把读者带入一个被忽视了几十年的生命领域——寄生虫。齐默走遍苏丹、哥斯达黎加、肯尼亚，用整整八章告诉我们：寄生虫不是需要被消灭的边角料，而是塑造生命、生态与人类历史的隐形力量。从四十亿年的演化军备竞赛，到寄生虫对宿主行为的诡异操纵，从疟疾如何改写人类基因与文明，到今天科学家如何尝试用寄生虫治疗自身免疫病——这本书彻底颠覆了我们对“寄生虫”这个词的所有偏见，重新定义了人类在生命网络中的位置。</itunes:summary>
+      <itunes:duration>00:34:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260712/episode-20260712-29a4ab.mp3" length="33132717" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
