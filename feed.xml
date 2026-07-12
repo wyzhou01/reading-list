@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 12 Jul 2026 07:26:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 07:37:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10714,6 +10714,17 @@
       <itunes:duration>00:29:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260712/episode-20260712-40c7b5.mp3" length="27896493" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《行走在无形无垠的宇宙》 · 完整版 · 行走在无形无垠的宇宙 · 完整讲读</title>
+      <description>《行走在无形无垠的宇宙》收录雕塑家向京与十几位对话者跨越二十年的访谈。她与作家林白聊生育与创作的纠缠，与哲学家陈嘉映从希腊文 arete 重谈精英与卓越的真正含义，与英国评论家凯伦·史密斯回望八十年代那代人内心的骄傲，与剧作家赵川直视消费主义对一切深度的扁平化，最后与戴锦华从 sex 与 gender 的区分切入，重新审视身体、性别与被看见。全书穿过身体、性别、死亡、消费、时代这五个命题，最终指向同一个追问，在一个所有事都已被讲完的时代，人，何以为人。</description>
+      <pubDate>Sun, 12 Jul 2026 07:36:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260712-episode-20260712-2ccfa9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《行走在无形无垠的宇宙》收录雕塑家向京与十几位对话者跨越二十年的访谈。她与作家林白聊生育与创作的纠缠，与哲学家陈嘉映从希腊文 arete 重谈精英与卓越的真正含义，与英国评论家凯伦·史密斯回望八十年代那代人内心的骄傲，与剧作家赵川直视消费主义对一切深度的扁平化，最后与戴锦华从 sex 与 gender 的区分切入，重新审视身体、性别与被看见。全书穿过身体、性别、死亡、消费、时代这五个命题，最终指向同一个追问，在一个所有事都已被讲完的时代，人，何以为人。</itunes:summary>
+      <itunes:duration>00:23:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260712/episode-20260712-2ccfa9.mp3" length="22096173" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
