@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 12 Jul 2026 17:26:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 17:33:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10791,6 +10791,17 @@
       <itunes:duration>00:31:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260713/episode-20260713-04a2fa.mp3" length="30634413" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《统一与分裂》 · 完整版 · 统一与分裂 · 完整讲读</title>
+      <description>《统一与分裂》是葛剑雄写给普通读者的小书，用考古、史料与地理，硬拆&quot;普天之下莫非王土&quot;这套统治中国两千多年的统一观。书里六块拼图——九州传说、长城神话、分裂期的思想活力、人口的迁移融合、经济的隐形重组、统一对思想的压制——合在一起，给出一个反直觉的判断：把中国一次次&quot;黏&quot;在一起的，不是某位圣君的蓝图，而是无数普通人在战乱、迁徙、贸易、融合中慢慢捏出来的人群共同体；统一不是起点而是结果，分裂不是失败而是过程；真正的危险，从来不是分裂本身，而是用一套制度把统一管死。读完这本书，你不再会被&quot;自古以来&quot;轻易绑架。</description>
+      <pubDate>Sun, 12 Jul 2026 17:33:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260713-episode-20260713-efa86f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《统一与分裂》是葛剑雄写给普通读者的小书，用考古、史料与地理，硬拆&quot;普天之下莫非王土&quot;这套统治中国两千多年的统一观。书里六块拼图——九州传说、长城神话、分裂期的思想活力、人口的迁移融合、经济的隐形重组、统一对思想的压制——合在一起，给出一个反直觉的判断：把中国一次次&quot;黏&quot;在一起的，不是某位圣君的蓝图，而是无数普通人在战乱、迁徙、贸易、融合中慢慢捏出来的人群共同体；统一不是起点而是结果，分裂不是失败而是过程；真正的危险，从来不是分裂本身，而是用一套制度把统一管死。读完这本书，你不再会被&quot;自古以来&quot;轻易绑架。</itunes:summary>
+      <itunes:duration>00:34:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260713/episode-20260713-efa86f.mp3" length="33029805" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
