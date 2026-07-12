@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 12 Jul 2026 17:33:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 21:28:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10802,6 +10802,17 @@
       <itunes:duration>00:34:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260713/episode-20260713-efa86f.mp3" length="33029805" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《野猪渡河》 · 完整版 · 野猪渡河 · 完整讲读</title>
+      <description>张贵兴以二战期间日本占领婆罗洲砂拉越的“三年八个月“为背景，讲述猪芭村华人垦殖者在日军屠杀、鸦片侵蚀与野猪肆虐中挣扎求存的故事。小说以关亚凤1952年自杀开场倒叙，穿插其与爱蜜莉等女性的纠葛及断臂经历，借野猪、面具、鸦片三大意象，以华丽诡谲的雨林书写探讨人性、兽性、历史暴力与叙事伦理的边界。</description>
+      <pubDate>Sun, 12 Jul 2026 21:28:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260713-episode-20260713-ff8a92</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>张贵兴以二战期间日本占领婆罗洲砂拉越的“三年八个月“为背景，讲述猪芭村华人垦殖者在日军屠杀、鸦片侵蚀与野猪肆虐中挣扎求存的故事。小说以关亚凤1952年自杀开场倒叙，穿插其与爱蜜莉等女性的纠葛及断臂经历，借野猪、面具、鸦片三大意象，以华丽诡谲的雨林书写探讨人性、兽性、历史暴力与叙事伦理的边界。</itunes:summary>
+      <itunes:duration>00:36:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260713/episode-20260713-ff8a92.mp3" length="35334189" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
