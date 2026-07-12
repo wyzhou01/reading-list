@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 11 Jul 2026 21:34:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 07:26:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10703,6 +10703,17 @@
       <itunes:duration>00:34:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260712/episode-20260712-9c9591.mp3" length="32863149" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《重返暗夜》 · 完整版 · 重返暗夜 · 完整讲读</title>
+      <description>《重返暗夜》是流亡半生的智利作家波拉尼奥在病逝前一年写下的十二篇短篇，时间跨越一九五零年代的西班牙内战到一九九零年代的莫斯科与巴塞罗那。流亡者、黑帮、警探、诗人、妓女、跳高运动员在夜色里相遇，在酒与枪口之间走完宿命。全书用冷峻笔调和黑色幽默写出“两个莫斯科“的撕裂、文学作为最后救生圈的脆弱、以及“和死人一起散步“的终极流亡状态，是理解二十世纪末流亡文学绕不开的一本书。</description>
+      <pubDate>Sun, 12 Jul 2026 07:25:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260712-episode-20260712-40c7b5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《重返暗夜》是流亡半生的智利作家波拉尼奥在病逝前一年写下的十二篇短篇，时间跨越一九五零年代的西班牙内战到一九九零年代的莫斯科与巴塞罗那。流亡者、黑帮、警探、诗人、妓女、跳高运动员在夜色里相遇，在酒与枪口之间走完宿命。全书用冷峻笔调和黑色幽默写出“两个莫斯科“的撕裂、文学作为最后救生圈的脆弱、以及“和死人一起散步“的终极流亡状态，是理解二十世纪末流亡文学绕不开的一本书。</itunes:summary>
+      <itunes:duration>00:29:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260712/episode-20260712-40c7b5.mp3" length="27896493" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
