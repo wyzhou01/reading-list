@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 12 Jul 2026 16:37:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 16:50:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10758,6 +10758,17 @@
       <itunes:duration>00:46:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260713/episode-20260713-dabfef.mp3" length="44897325" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《疼痛部》 · 完整版 · 疼痛部 · 完整讲读</title>
+      <description>《疼痛部》是克罗地亚作家杜布拉夫卡·乌格雷西奇的代表作，写一群流亡荷兰的前南斯拉夫人在英语掩护下用破碎的母语互相讲述战争与离散的故事。当国家解体、语言被污染、自我被连根拔起，词语还能不能成为承载创伤的容器？乌格雷西奇用这部作品回答：能，但听众必须自己长出来。这是一本写给所有失去母语之人的书，也是一面照见当代欧洲所有流亡者的镜子。</description>
+      <pubDate>Sun, 12 Jul 2026 16:49:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260713-episode-20260713-fc6782</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《疼痛部》是克罗地亚作家杜布拉夫卡·乌格雷西奇的代表作，写一群流亡荷兰的前南斯拉夫人在英语掩护下用破碎的母语互相讲述战争与离散的故事。当国家解体、语言被污染、自我被连根拔起，词语还能不能成为承载创伤的容器？乌格雷西奇用这部作品回答：能，但听众必须自己长出来。这是一本写给所有失去母语之人的书，也是一面照见当代欧洲所有流亡者的镜子。</itunes:summary>
+      <itunes:duration>00:33:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260713/episode-20260713-fc6782.mp3" length="32247597" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
