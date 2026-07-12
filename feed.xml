@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 12 Jul 2026 21:36:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 21:46:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10835,6 +10835,17 @@
       <itunes:duration>00:20:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260713/episode-20260713-697f93.mp3" length="20023341" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《猴王变形》 · 完整版 · 猴王变形 · 完整讲读</title>
+      <description>《猴王变形》是一次对《西游记》的大胆同人重构，它把镜头从神魔斗法拉回到孙悟空的内心深处。全书围绕一只不甘平庸的妖猴展开，通过六块核心拼图——被边缘化的孤独、被看见的渴望、五行山下的静默成长、以及“被托住比被理解更重要”的关系觉醒——回答了一个朴素的命题：一个反抗一切的人，是如何学会融入世界；一个追求自由的存在，是如何找到归属。这不是一本依赖打斗场面的小说，而是一部用神话外衣包裹的现代寓言，写给每一个在深夜里问过“我到底是谁”的成年人。</description>
+      <pubDate>Sun, 12 Jul 2026 21:46:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260713-episode-20260713-06e71d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《猴王变形》是一次对《西游记》的大胆同人重构，它把镜头从神魔斗法拉回到孙悟空的内心深处。全书围绕一只不甘平庸的妖猴展开，通过六块核心拼图——被边缘化的孤独、被看见的渴望、五行山下的静默成长、以及“被托住比被理解更重要”的关系觉醒——回答了一个朴素的命题：一个反抗一切的人，是如何学会融入世界；一个追求自由的存在，是如何找到归属。这不是一本依赖打斗场面的小说，而是一部用神话外衣包裹的现代寓言，写给每一个在深夜里问过“我到底是谁”的成年人。</itunes:summary>
+      <itunes:duration>00:25:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260713/episode-20260713-06e71d.mp3" length="24272685" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
