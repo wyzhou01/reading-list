@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 12 Jul 2026 16:50:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 17:01:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10769,6 +10769,17 @@
       <itunes:duration>00:33:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260713/episode-20260713-fc6782.mp3" length="32247597" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《多极亚洲中的唐朝》 · 完整版 · 多极亚洲中的唐朝 · 完整讲读</title>
+      <description>《多极亚洲中的唐朝》是加拿大华裔学者王贞平教授的代表作，打破&quot;天朝上国&quot;的神话，揭示七至九世纪亚洲的真实面貌——一个群雄并起的多极世界。本书以突厥、回鹘、朝鲜半岛诸国、南诏、吐蕃为参照，通过多语种史料还原唐朝与四邻的合纵连横：从李渊向突厥称臣的屈辱，到天可汗的虚名；从文成公主和亲背后的政治妥协，到南诏反目引发的帝国危机；再到边将坐大、安史之乱与唐朝由盛转衰的深层逻辑。读完本书你会明白：唐朝从来不是一枝独秀的天朝上国，而是多极亚洲中的重要一极；它的兴衰密码，至今仍在镜鉴当下的国际关系。</description>
+      <pubDate>Sun, 12 Jul 2026 17:01:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260713-episode-20260713-765148</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《多极亚洲中的唐朝》是加拿大华裔学者王贞平教授的代表作，打破&quot;天朝上国&quot;的神话，揭示七至九世纪亚洲的真实面貌——一个群雄并起的多极世界。本书以突厥、回鹘、朝鲜半岛诸国、南诏、吐蕃为参照，通过多语种史料还原唐朝与四邻的合纵连横：从李渊向突厥称臣的屈辱，到天可汗的虚名；从文成公主和亲背后的政治妥协，到南诏反目引发的帝国危机；再到边将坐大、安史之乱与唐朝由盛转衰的深层逻辑。读完本书你会明白：唐朝从来不是一枝独秀的天朝上国，而是多极亚洲中的重要一极；它的兴衰密码，至今仍在镜鉴当下的国际关系。</itunes:summary>
+      <itunes:duration>00:36:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260713/episode-20260713-765148.mp3" length="34821549" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
