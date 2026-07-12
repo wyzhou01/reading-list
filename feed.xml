@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 12 Jul 2026 17:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 17:26:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10780,6 +10780,17 @@
       <itunes:duration>00:36:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260713/episode-20260713-765148.mp3" length="34821549" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《三只忧伤的老虎》 · 完整版 · 三只忧伤的老虎 · 完整讲读</title>
+      <description>《三只忧伤的老虎》是古巴作家卡夫雷拉·因凡特写于一九五八年革命前夜的实验小说，以热带乐园夜总会的不眠之夜为舞台，让艺人、黑帮、诗人、流浪汉、妓女用混杂着西班牙语、英语、法语和非洲语言的古巴俚语交错发声。全文没有传统故事线，没有主角，只有笑声、脏话、绕口令、翻译陷阱和广播广告的洪流。作者以五种核心维度重构这部作品：第一，语言狂欢背后是殖民地身份焦虑；第二，翻译的失败暴露巴别塔困境；第三，混乱本身就是反殖民的武器；第四，真实与虚构互为镜像；第五，整本书是一首写给即将消失的世界的安魂曲。本书用声音保存了一个即将被革命永远改写的哈瓦那夜，也用混乱守护了一种不肯被整齐化的自由。</description>
+      <pubDate>Sun, 12 Jul 2026 17:26:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260713-episode-20260713-04a2fa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《三只忧伤的老虎》是古巴作家卡夫雷拉·因凡特写于一九五八年革命前夜的实验小说，以热带乐园夜总会的不眠之夜为舞台，让艺人、黑帮、诗人、流浪汉、妓女用混杂着西班牙语、英语、法语和非洲语言的古巴俚语交错发声。全文没有传统故事线，没有主角，只有笑声、脏话、绕口令、翻译陷阱和广播广告的洪流。作者以五种核心维度重构这部作品：第一，语言狂欢背后是殖民地身份焦虑；第二，翻译的失败暴露巴别塔困境；第三，混乱本身就是反殖民的武器；第四，真实与虚构互为镜像；第五，整本书是一首写给即将消失的世界的安魂曲。本书用声音保存了一个即将被革命永远改写的哈瓦那夜，也用混乱守护了一种不肯被整齐化的自由。</itunes:summary>
+      <itunes:duration>00:31:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260713/episode-20260713-04a2fa.mp3" length="30634413" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
