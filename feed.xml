@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 12 Jul 2026 08:01:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 16:37:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10747,6 +10747,17 @@
       <itunes:duration>00:27:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260712/episode-20260712-70fecc.mp3" length="26207661" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《洪业：清朝开国史》 · 完整版 · 洪业：清朝开国史 · 完整讲读</title>
+      <description>《洪业：清朝开国史》是美国汉学巨擘魏斐德的代表作，以百万字篇幅全景式呈现一六四四年明朝覆灭至清初秩序重建的二十年历程。本书突破传统王朝史框架，将明清鼎革置于全球史视野之中，揭示气候骤变、白银断流、瘟疫肆虐与人口暴跌构成的「十七世纪总危机」如何压垮大明；剖析满洲征服者如何以儒家道统为合法性根基，通过开科取士、祭孔尊儒、招降纳叛完成对汉族士大夫的精神收编；并以扬州十日、剃发令、洪承畴降清、马氏家族三代认同变迁等鲜活个案，深刻展现明清之际士大夫在忠与叛、死节与变节间的撕裂抉择。魏斐德以文学级叙事笔法，颠覆了「冲击—回应」与「中国中心」二元范式，宣告「天下」这一文化幽灵对所有征服者的反向吞噬——清廷以文化征服天下，最终也被天下反噬。理解晚清一切悲剧的钥匙，早在一六四四年就已铸造完成。</description>
+      <pubDate>Sun, 12 Jul 2026 16:36:36 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260713-episode-20260713-dabfef</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《洪业：清朝开国史》是美国汉学巨擘魏斐德的代表作，以百万字篇幅全景式呈现一六四四年明朝覆灭至清初秩序重建的二十年历程。本书突破传统王朝史框架，将明清鼎革置于全球史视野之中，揭示气候骤变、白银断流、瘟疫肆虐与人口暴跌构成的「十七世纪总危机」如何压垮大明；剖析满洲征服者如何以儒家道统为合法性根基，通过开科取士、祭孔尊儒、招降纳叛完成对汉族士大夫的精神收编；并以扬州十日、剃发令、洪承畴降清、马氏家族三代认同变迁等鲜活个案，深刻展现明清之际士大夫在忠与叛、死节与变节间的撕裂抉择。魏斐德以文学级叙事笔法，颠覆了「冲击—回应」与「中国中心」二元范式，宣告「天下」这一文化幽灵对所有征服者的反向吞噬——清廷以文化征服天下，最终也被天下反噬。理解晚清一切悲剧的钥匙，早在一六四四年就已铸造完成。</itunes:summary>
+      <itunes:duration>00:46:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260713/episode-20260713-dabfef.mp3" length="44897325" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
