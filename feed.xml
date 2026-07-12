@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 12 Jul 2026 21:31:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 21:36:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10824,6 +10824,17 @@
       <itunes:duration>00:28:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260713/episode-20260713-dd7ecc.mp3" length="26919597" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《忠贞之夜》 · 完整版 · 忠贞之夜 · 完整讲读</title>
+      <description>《忠贞之夜》是露易丝·格丽克二零一四年出版的自传色彩最浓的诗集，二零二零年她因此获得诺贝尔文学奖。全书由二十四首诗组成，其中《忠贞之夜》《康沃尔》《后记》《半夜》构成画家系列，以近乎神话的语言重述诗人童年、父母之死、姐姐的存在、精神的创伤与艺术作为幸存方式的全部历程。格丽克用极克制、近乎透明的句子承载极重的丧失经验，把死亡与来世想象成一片比人间更稠密的远方，把童年房间当作永恒的精神坐标，把写作本身当作一种招魂术，让所有已经失去的人重新开口说话。这本诗集在寓言与自传之间来回穿行，写活着这件事的全部可能。</description>
+      <pubDate>Sun, 12 Jul 2026 21:36:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260713-episode-20260713-697f93</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《忠贞之夜》是露易丝·格丽克二零一四年出版的自传色彩最浓的诗集，二零二零年她因此获得诺贝尔文学奖。全书由二十四首诗组成，其中《忠贞之夜》《康沃尔》《后记》《半夜》构成画家系列，以近乎神话的语言重述诗人童年、父母之死、姐姐的存在、精神的创伤与艺术作为幸存方式的全部历程。格丽克用极克制、近乎透明的句子承载极重的丧失经验，把死亡与来世想象成一片比人间更稠密的远方，把童年房间当作永恒的精神坐标，把写作本身当作一种招魂术，让所有已经失去的人重新开口说话。这本诗集在寓言与自传之间来回穿行，写活着这件事的全部可能。</itunes:summary>
+      <itunes:duration>00:20:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260713/episode-20260713-697f93.mp3" length="20023341" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
