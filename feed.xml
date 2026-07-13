@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 13 Jul 2026 07:26:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 07:51:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10857,6 +10857,17 @@
       <itunes:duration>00:30:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260713/episode-20260713-c1be89.mp3" length="29548077" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《身体由我：关于了不起的女性身体的一切》 · 完整版 · 身体由我 · 完整讲读</title>
+      <description>《身体由我》是一本关于女性身体的百科全书式科普读物。作者希拉·德利兹是德国著名妇产科医生，用闺蜜聊天的方式，深入浅出地讲解了女性生殖器官、月经、避孕、性与高潮、更年期等核心话题。本书的核心使命是帮助女性打破身体羞耻感，正确认识并爱护自己的身体。从外阴多样性到阴蒂的完整结构，从月经的生理意义到更年期应对策略，作者用科学事实驳斥了众多流传已久的偏见与误解。这本书不仅填补了女性教育的巨大空白，更让女性读者明白：了解自己的身体，是爱自己的第一步；接受自己的身体，是获得自由与快乐的关键。</description>
+      <pubDate>Mon, 13 Jul 2026 07:50:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260713-episode-20260713-44387f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《身体由我》是一本关于女性身体的百科全书式科普读物。作者希拉·德利兹是德国著名妇产科医生，用闺蜜聊天的方式，深入浅出地讲解了女性生殖器官、月经、避孕、性与高潮、更年期等核心话题。本书的核心使命是帮助女性打破身体羞耻感，正确认识并爱护自己的身体。从外阴多样性到阴蒂的完整结构，从月经的生理意义到更年期应对策略，作者用科学事实驳斥了众多流传已久的偏见与误解。这本书不仅填补了女性教育的巨大空白，更让女性读者明白：了解自己的身体，是爱自己的第一步；接受自己的身体，是获得自由与快乐的关键。</itunes:summary>
+      <itunes:duration>00:50:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260713/episode-20260713-44387f.mp3" length="48745005" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
