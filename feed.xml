@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 13 Jul 2026 08:25:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 16:28:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10901,6 +10901,17 @@
       <itunes:duration>00:24:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260713/episode-20260713-af3583.mp3" length="23054253" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《芯片战争：世界最关键技术的争夺战》 · 完整版 · 芯片战争 · 完整讲读</title>
+      <description>《芯片战争》讲述了芯片从一九五八年的发明,到今天成为大国博弈核心的完整历程。全书揭示了六个核心洞察:芯片从诞生之日起就与军方绑定;诺伊斯通过降价,把芯片从军工品变成消费品;日本在八十年代挑战美国,又被美国用国家力量反杀;张忠谋用代工模式,重新定义了全球芯片产业;阿斯麦的EUV光刻机,是整个西方工业体系的结晶;而今天美国对中国的封锁,本质是一场“锁时间”的AI主导权之战。</description>
+      <pubDate>Mon, 13 Jul 2026 16:27:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260714-episode-20260714-41f8ed</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《芯片战争》讲述了芯片从一九五八年的发明,到今天成为大国博弈核心的完整历程。全书揭示了六个核心洞察:芯片从诞生之日起就与军方绑定;诺伊斯通过降价,把芯片从军工品变成消费品;日本在八十年代挑战美国,又被美国用国家力量反杀;张忠谋用代工模式,重新定义了全球芯片产业;阿斯麦的EUV光刻机,是整个西方工业体系的结晶;而今天美国对中国的封锁,本质是一场“锁时间”的AI主导权之战。</itunes:summary>
+      <itunes:duration>00:32:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260714/episode-20260714-41f8ed.mp3" length="31514157" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
