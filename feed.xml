@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 13 Jul 2026 16:28:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 16:42:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10912,6 +10912,17 @@
       <itunes:duration>00:32:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260714/episode-20260714-41f8ed.mp3" length="31514157" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《草坪的复仇》 · 完整版 · 草坪的复仇 · 完整讲读</title>
+      <description>《草坪的复仇》是美国后垮掉派作家理查德·布劳提根一九六七年出版的短篇集。全书由数十个独立短章组成，像一串散落的明信片，记录了华盛顿州的雨、加州的阳光、破碎的家庭与消失的美国梦。从走私威士忌的祖母、被蜜蜂蛰的意大利人杰克，到预言一战却被关进疯人院的祖父，再到一九六七年旧金山街头被小孩喊嬉皮士的布劳提根自己——本书用荒诞与温柔，把失败的碎片缝成一件破旧却合身的外衣。草坪的复仇，不是草坪赢了，是我们学会了在荒芜里看见那些没被写完的诗。</description>
+      <pubDate>Mon, 13 Jul 2026 16:41:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260714-episode-20260714-f8f92f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《草坪的复仇》是美国后垮掉派作家理查德·布劳提根一九六七年出版的短篇集。全书由数十个独立短章组成，像一串散落的明信片，记录了华盛顿州的雨、加州的阳光、破碎的家庭与消失的美国梦。从走私威士忌的祖母、被蜜蜂蛰的意大利人杰克，到预言一战却被关进疯人院的祖父，再到一九六七年旧金山街头被小孩喊嬉皮士的布劳提根自己——本书用荒诞与温柔，把失败的碎片缝成一件破旧却合身的外衣。草坪的复仇，不是草坪赢了，是我们学会了在荒芜里看见那些没被写完的诗。</itunes:summary>
+      <itunes:duration>00:32:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260714/episode-20260714-f8f92f.mp3" length="31383597" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
