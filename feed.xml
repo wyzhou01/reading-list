@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 13 Jul 2026 07:51:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 08:08:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10868,6 +10868,17 @@
       <itunes:duration>00:50:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260713/episode-20260713-44387f.mp3" length="48745005" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《这才是心理学》 · 完整版 · 这才是心理学 · 完整讲读</title>
+      <description>《这才是心理学》不是一本讲心理学结论的书，而是一本教人如何像心理学家一样思考的书。基思·斯坦诺维奇用三十年来的常青经典，把科学心理学最核心的几条原则摆到桌面上：可证伪性告诉你什么样的理论才值得信，操作主义告诉你什么样的概念才能测量，安慰剂效应告诉你你的信念本身就可以左右结果，相关和因果告诉你两者之间差着一个实验室，概率推理告诉你直觉不是计算器，控制与实验告诉你没有对比就没有结论。读完这本书，你不会变成心理学家，但你会多一双火眼金睛，能在满天飞的“心理学”信息里，分得清谁在讲科学，谁在讲表演。</description>
+      <pubDate>Mon, 13 Jul 2026 08:07:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260713-episode-20260713-5a6120</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《这才是心理学》不是一本讲心理学结论的书，而是一本教人如何像心理学家一样思考的书。基思·斯坦诺维奇用三十年来的常青经典，把科学心理学最核心的几条原则摆到桌面上：可证伪性告诉你什么样的理论才值得信，操作主义告诉你什么样的概念才能测量，安慰剂效应告诉你你的信念本身就可以左右结果，相关和因果告诉你两者之间差着一个实验室，概率推理告诉你直觉不是计算器，控制与实验告诉你没有对比就没有结论。读完这本书，你不会变成心理学家，但你会多一双火眼金睛，能在满天飞的“心理学”信息里，分得清谁在讲科学，谁在讲表演。</itunes:summary>
+      <itunes:duration>00:37:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260713/episode-20260713-5a6120.mp3" length="35958957" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
