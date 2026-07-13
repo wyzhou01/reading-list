@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 13 Jul 2026 16:56:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 17:04:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10934,6 +10934,17 @@
       <itunes:duration>00:29:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260714/episode-20260714-855b2d.mp3" length="28013997" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《巴别塔》 · 完整版 · 巴别塔 · 完整讲读</title>
+      <description>《巴别塔》是 A.S.拜厄特一九九六年发表的代表作。多线叙事交织：语言学家休·平克与旧情人弗雷德丽卡在莱德利树林重逢；翻译家弗雷德丽卡卷入一场关于童书《乱言塔》的全国性诉讼；电话义工丹尼尔在圣西门教堂的地下室接听一通又一通绝望的电话。拜厄特借一只画眉鸟在砧石上的反复敲击，叩问语言、翻译、误读、命名、沉默与救赎的极限。塔是连接，也是隔离；沉默是另一种语言；救赎是微小的、私人的、不值得上报纸的。本书布克奖提名，被《纽约时报》评为年度好书，是二十世纪末最具野心的英语长篇之一。</description>
+      <pubDate>Mon, 13 Jul 2026 17:03:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260714-episode-20260714-405cf4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《巴别塔》是 A.S.拜厄特一九九六年发表的代表作。多线叙事交织：语言学家休·平克与旧情人弗雷德丽卡在莱德利树林重逢；翻译家弗雷德丽卡卷入一场关于童书《乱言塔》的全国性诉讼；电话义工丹尼尔在圣西门教堂的地下室接听一通又一通绝望的电话。拜厄特借一只画眉鸟在砧石上的反复敲击，叩问语言、翻译、误读、命名、沉默与救赎的极限。塔是连接，也是隔离；沉默是另一种语言；救赎是微小的、私人的、不值得上报纸的。本书布克奖提名，被《纽约时报》评为年度好书，是二十世纪末最具野心的英语长篇之一。</itunes:summary>
+      <itunes:duration>00:23:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260714/episode-20260714-405cf4.mp3" length="22674477" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
