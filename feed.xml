@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 13 Jul 2026 16:42:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 16:56:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10923,6 +10923,17 @@
       <itunes:duration>00:32:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260714/episode-20260714-f8f92f.mp3" length="31383597" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《给仰望者的天文朝圣之旅》 · 完整版 · 给仰望者的天文朝圣之旅---切特·雷莫,_迈克尔•麦柯迪 · 完整讲读</title>
+      <description>《给仰望者的天文朝圣之旅》是美国博物学家切特·雷莫的经典之作。他以科学家与诗人的双重身份，用二十个章节带领读者完成一场从地球到宇宙边界的朝圣。书中既讲述寂静的夜空、爆发的恒星、隐藏的暗物质、等待千年的彗星，也穿插里尔克、霍普金斯、史蒂文斯等诗人的诗句。在喧嚣明亮、人造光吞噬黑夜的时代，雷莫提醒我们：仰望星空不只是天文学家的事，它本来就是人类寻找自己的方式。</description>
+      <pubDate>Mon, 13 Jul 2026 16:55:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260714-episode-20260714-855b2d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《给仰望者的天文朝圣之旅》是美国博物学家切特·雷莫的经典之作。他以科学家与诗人的双重身份，用二十个章节带领读者完成一场从地球到宇宙边界的朝圣。书中既讲述寂静的夜空、爆发的恒星、隐藏的暗物质、等待千年的彗星，也穿插里尔克、霍普金斯、史蒂文斯等诗人的诗句。在喧嚣明亮、人造光吞噬黑夜的时代，雷莫提醒我们：仰望星空不只是天文学家的事，它本来就是人类寻找自己的方式。</itunes:summary>
+      <itunes:duration>00:29:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260714/episode-20260714-855b2d.mp3" length="28013997" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
