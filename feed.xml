@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 13 Jul 2026 17:04:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 17:16:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10945,6 +10945,17 @@
       <itunes:duration>00:23:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260714/episode-20260714-405cf4.mp3" length="22674477" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《素食者》 · 完整版 · 素食者 · 完整讲读</title>
+      <description>《素食者》是韩江的代表作，通过一个普通女性英惠在噩梦后拒绝吃肉的故事，探讨了东亚家庭的沉默暴力、女性身体政治与觉醒等深刻主题。英惠的素食选择不仅是饮食偏好，更是一种无声的呐喊——她试图夺回对身体的主导权，对抗以“关怀”与“正常”为名的压迫。小说由三个中篇组成，三种视角交织出一个女人逐渐“植物化”的过程，揭示了平庸之恶如何以爱的名义碾碎一个人。2016年获布克国际文学奖，被誉为亚洲文学里程碑。</description>
+      <pubDate>Mon, 13 Jul 2026 17:16:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260714-episode-20260714-780766</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《素食者》是韩江的代表作，通过一个普通女性英惠在噩梦后拒绝吃肉的故事，探讨了东亚家庭的沉默暴力、女性身体政治与觉醒等深刻主题。英惠的素食选择不仅是饮食偏好，更是一种无声的呐喊——她试图夺回对身体的主导权，对抗以“关怀”与“正常”为名的压迫。小说由三个中篇组成，三种视角交织出一个女人逐渐“植物化”的过程，揭示了平庸之恶如何以爱的名义碾碎一个人。2016年获布克国际文学奖，被誉为亚洲文学里程碑。</itunes:summary>
+      <itunes:duration>00:33:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260714/episode-20260714-780766.mp3" length="32489901" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
