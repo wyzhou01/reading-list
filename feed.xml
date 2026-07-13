@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 13 Jul 2026 08:16:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 08:25:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10890,6 +10890,17 @@
       <itunes:duration>00:25:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260713/episode-20260713-25442c.mp3" length="24557229" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《消失的13级台阶》 · 完整版 · 消失的13级台阶 · 完整讲读</title>
+      <description>《消失的十三级台阶》是高野和明斩获江户川乱步奖的处女作，以一桩抢劫杀人冤案为核心，串联起死刑犯树原亮、前科青年三上纯一与看守长南乡正二的三重视角。小说的高潮不仅在于追凶与逆转，更在于它把死刑存废、冤案重审、加害者与受害者家属的双重苦难、复仇与自我救赎的伦理困境，压缩进了十三级台阶这个隐喻里。当法律的台阶修好了，被它碾过的人生却再也无法复原——这正是二十多年来这本书依然振聋发聩的原因。</description>
+      <pubDate>Mon, 13 Jul 2026 08:24:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260713-episode-20260713-af3583</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《消失的十三级台阶》是高野和明斩获江户川乱步奖的处女作，以一桩抢劫杀人冤案为核心，串联起死刑犯树原亮、前科青年三上纯一与看守长南乡正二的三重视角。小说的高潮不仅在于追凶与逆转，更在于它把死刑存废、冤案重审、加害者与受害者家属的双重苦难、复仇与自我救赎的伦理困境，压缩进了十三级台阶这个隐喻里。当法律的台阶修好了，被它碾过的人生却再也无法复原——这正是二十多年来这本书依然振聋发聩的原因。</itunes:summary>
+      <itunes:duration>00:24:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260713/episode-20260713-af3583.mp3" length="23054253" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
