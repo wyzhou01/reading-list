@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 13 Jul 2026 08:08:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 08:16:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10879,6 +10879,17 @@
       <itunes:duration>00:37:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260713/episode-20260713-5a6120.mp3" length="35958957" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《恶徒的救赎》 · 完整版 · 恶徒的救赎 · 完整讲读</title>
+      <description>《恶徒的救赎》是日本社会派推理三冠王高野和明的代表作。东京奥多摩的湖底，一具沉了一年零三个月的&quot;第三种永久尸体&quot;浮出水面，尸体却在解剖前夜从法医教室消失。同一时刻，一个有贩毒前科的坏蛋八神俊彦，躺上了骨髓移植的手术台——他要把自己骨髓里的造血干细胞，捐给一个他从未见过的白血病孩子。在善与恶的边界线上，一场跨越十五年的复仇、一具被冰湖封存的死者、一个用善意创造上帝的毒贩，最终在高野和明的笔下完成了一次对&quot;救赎&quot;最残忍也最温柔的重新定义：救赎不是洗白，是承认。</description>
+      <pubDate>Mon, 13 Jul 2026 08:15:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260713-episode-20260713-25442c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《恶徒的救赎》是日本社会派推理三冠王高野和明的代表作。东京奥多摩的湖底，一具沉了一年零三个月的&quot;第三种永久尸体&quot;浮出水面，尸体却在解剖前夜从法医教室消失。同一时刻，一个有贩毒前科的坏蛋八神俊彦，躺上了骨髓移植的手术台——他要把自己骨髓里的造血干细胞，捐给一个他从未见过的白血病孩子。在善与恶的边界线上，一场跨越十五年的复仇、一具被冰湖封存的死者、一个用善意创造上帝的毒贩，最终在高野和明的笔下完成了一次对&quot;救赎&quot;最残忍也最温柔的重新定义：救赎不是洗白，是承认。</itunes:summary>
+      <itunes:duration>00:25:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260713/episode-20260713-25442c.mp3" length="24557229" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
