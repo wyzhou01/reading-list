@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 13 Jul 2026 21:20:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 21:31:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10967,6 +10967,17 @@
       <itunes:duration>00:31:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260714/episode-20260714-efc0c1.mp3" length="30057645" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《东京贫困女子》 · 完整版 · 东京贫困女子 · 完整讲读</title>
+      <description>《东京贫困女子》是日本非虚构作家中村淳彦基于二十多年、超过一千三百位底层女性访谈写成的口述实录。书中呈现了学贷陷阱、非正式雇用、单亲歧视、看护剥削与高龄就业壁垒如何层层叠加，把女性系统性地推入卖身与贫困的深渊。歌舞伎町的招聘栏背后，站着一个考进国立大学医学部却要为学费手淫的女学生；持有国家资格的看护者月薪只有十四万日元；四十五岁的单身女性连一份简历都投不出去。这不是日本的故事，是每一个把风险推给个体的社会的故事。</description>
+      <pubDate>Mon, 13 Jul 2026 21:31:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260714-episode-20260714-59e660</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《东京贫困女子》是日本非虚构作家中村淳彦基于二十多年、超过一千三百位底层女性访谈写成的口述实录。书中呈现了学贷陷阱、非正式雇用、单亲歧视、看护剥削与高龄就业壁垒如何层层叠加，把女性系统性地推入卖身与贫困的深渊。歌舞伎町的招聘栏背后，站着一个考进国立大学医学部却要为学费手淫的女学生；持有国家资格的看护者月薪只有十四万日元；四十五岁的单身女性连一份简历都投不出去。这不是日本的故事，是每一个把风险推给个体的社会的故事。</itunes:summary>
+      <itunes:duration>00:35:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260714/episode-20260714-59e660.mp3" length="33898029" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
