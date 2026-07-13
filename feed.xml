@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 13 Jul 2026 21:37:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 21:47:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10989,6 +10989,17 @@
       <itunes:duration>00:26:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260714/episode-20260714-e10b0f.mp3" length="25834797" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《炙热的你》 · 完整版 · 炙热的你 · 完整讲读</title>
+      <description>《炙热的你》是德国妇科医生希拉·德利兹写给所有女性的更年期使用手册。书中系统揭示了前围绝经期到绝经后期的激素变化真相，纠正了医学界对更年期长达数十年的认知误区，详细介绍了生物同质性激素替代疗法等科学应对方案。核心主张是：更年期不是需要熬过去的深秋，而是女性可以重新掌控自己身体与人生的盛夏。德利兹呼吁女性打破代际沉默，正视激素健康，并积极争取与医生平等对话的权利。</description>
+      <pubDate>Mon, 13 Jul 2026 21:47:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260714-episode-20260714-f2e4dd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《炙热的你》是德国妇科医生希拉·德利兹写给所有女性的更年期使用手册。书中系统揭示了前围绝经期到绝经后期的激素变化真相，纠正了医学界对更年期长达数十年的认知误区，详细介绍了生物同质性激素替代疗法等科学应对方案。核心主张是：更年期不是需要熬过去的深秋，而是女性可以重新掌控自己身体与人生的盛夏。德利兹呼吁女性打破代际沉默，正视激素健康，并积极争取与医生平等对话的权利。</itunes:summary>
+      <itunes:duration>00:34:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260714/episode-20260714-f2e4dd.mp3" length="33393069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
