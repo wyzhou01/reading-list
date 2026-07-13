@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 12 Jul 2026 21:46:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 07:26:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10846,6 +10846,17 @@
       <itunes:duration>00:25:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260713/episode-20260713-06e71d.mp3" length="24272685" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《用电影燃尽欲望》 · 完整版 · 用电影燃尽欲望 · 完整讲读</title>
+      <description>《用电影燃尽欲望》是日本邪典导演园子温的创作自传，记录他从爱知县问题少年到独立电影异数的反叛人生。园子温以六块拼图展开核心洞见：欲望与反叛是创作燃料、性与死是影像母题、“引人注目”是独立电影的生存战术、镜头是灾难中的抵抗武器、日本电影的病根是“别出错”的精神流感、作者性是点燃别人也点燃自己的过程。他用一生证明，电影不是技术，而是把欲望、暴烈、性和死一股脑燃烧殆尽的生存方式。在算法喂养、流行预算当道的影像时代，这本书是一份仍然滚烫的生存方案——它不教你怎么拍电影，它教你如何在妥协的世界里活成自己。</description>
+      <pubDate>Mon, 13 Jul 2026 07:25:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260713-episode-20260713-c1be89</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《用电影燃尽欲望》是日本邪典导演园子温的创作自传，记录他从爱知县问题少年到独立电影异数的反叛人生。园子温以六块拼图展开核心洞见：欲望与反叛是创作燃料、性与死是影像母题、“引人注目”是独立电影的生存战术、镜头是灾难中的抵抗武器、日本电影的病根是“别出错”的精神流感、作者性是点燃别人也点燃自己的过程。他用一生证明，电影不是技术，而是把欲望、暴烈、性和死一股脑燃烧殆尽的生存方式。在算法喂养、流行预算当道的影像时代，这本书是一份仍然滚烫的生存方案——它不教你怎么拍电影，它教你如何在妥协的世界里活成自己。</itunes:summary>
+      <itunes:duration>00:30:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260713/episode-20260713-c1be89.mp3" length="29548077" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
