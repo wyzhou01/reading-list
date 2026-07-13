@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 13 Jul 2026 17:16:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 21:20:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -10956,6 +10956,17 @@
       <itunes:duration>00:33:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260714/episode-20260714-780766.mp3" length="32489901" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《地球上最后的夜晚》 · 完整版 · 地球上最后的夜晚 · 完整讲读</title>
+      <description>《地球上最后的夜晚》是智利作家罗贝托·波拉尼奥一九九七年发表的短篇小说集,十四个故事串起一群拉丁美洲流亡者的夜晚闲谈与旅途。书中人物困在异国的穷困、疾病与怀旧里,追忆被独裁政权吞噬的同行者——贡提、沃尔什、阿雷纳斯等被遗忘的名字。波拉尼奥借虚构之笔为这些被时代碾碎的文学灵魂立下墓志铭,用文学奖、邮政系统与白兰地这些最卑微的方式,呈现流亡一代的生存真相。</description>
+      <pubDate>Mon, 13 Jul 2026 21:20:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260714-episode-20260714-efc0c1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《地球上最后的夜晚》是智利作家罗贝托·波拉尼奥一九九七年发表的短篇小说集,十四个故事串起一群拉丁美洲流亡者的夜晚闲谈与旅途。书中人物困在异国的穷困、疾病与怀旧里,追忆被独裁政权吞噬的同行者——贡提、沃尔什、阿雷纳斯等被遗忘的名字。波拉尼奥借虚构之笔为这些被时代碾碎的文学灵魂立下墓志铭,用文学奖、邮政系统与白兰地这些最卑微的方式,呈现流亡一代的生存真相。</itunes:summary>
+      <itunes:duration>00:31:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260714/episode-20260714-efc0c1.mp3" length="30057645" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
