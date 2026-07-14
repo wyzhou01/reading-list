@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 14 Jul 2026 21:25:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 21:33:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11110,6 +11110,17 @@
       <itunes:duration>00:30:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-af9fde.mp3" length="29332653" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《悟空传》 · 完整版 · 悟空传 · 完整讲读</title>
+      <description>《悟空传》是今何在在二零零零年写就的网络文学经典。孙悟空、唐僧、猪八戒、沙僧四人踏上西天之路，却没有一个是为了成佛——孙悟空在寻找被抹去的记忆与爱人阿瑶，猪八戒守着对月女神阿月再也无法回应的暗恋，唐僧明知西天是虚无仍要走完这段路。书里没有妖怪可打，只有命运本身。全书用一场注定失败的西游，写透了反抗、失去与理想被磨灭之后，人还剩下什么这一代人的精神命题。</description>
+      <pubDate>Tue, 14 Jul 2026 21:33:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260715-episode-20260715-f650a3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《悟空传》是今何在在二零零零年写就的网络文学经典。孙悟空、唐僧、猪八戒、沙僧四人踏上西天之路，却没有一个是为了成佛——孙悟空在寻找被抹去的记忆与爱人阿瑶，猪八戒守着对月女神阿月再也无法回应的暗恋，唐僧明知西天是虚无仍要走完这段路。书里没有妖怪可打，只有命运本身。全书用一场注定失败的西游，写透了反抗、失去与理想被磨灭之后，人还剩下什么这一代人的精神命题。</itunes:summary>
+      <itunes:duration>00:23:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-f650a3.mp3" length="22259757" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
