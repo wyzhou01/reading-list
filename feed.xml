@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 14 Jul 2026 16:38:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 16:45:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11066,6 +11066,17 @@
       <itunes:duration>00:28:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-739e19.mp3" length="27128877" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《文城》 · 完整版 · 文城 · 完整讲读</title>
+      <description>《文城》是余华二零二一年出版的长篇小说。北方富户林祥福，在一八一几年抱着一岁的女儿南下，只为寻找那个留下“等我回来“的妻子小美和她口中那个叫“文城“的故乡。他不知道地名是真是假，找了一辈子，却从未抵达。文城，最终被发现从不存在。整本书用两条反向的轨迹——林祥福往南找、纪小美和阿强的家人往北回——构成十七年的错过。中段，溪镇被军阀与匪祸吞没，林祥福死于土匪张一斧之手，最后由田氏五兄弟一副棺材、双人同棺，从西山抬回北方。《文城》写的是命运里所有的错过、重逢、坚守，以及一句没说完的话。</description>
+      <pubDate>Tue, 14 Jul 2026 16:45:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260715-episode-20260715-4eef09</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《文城》是余华二零二一年出版的长篇小说。北方富户林祥福，在一八一几年抱着一岁的女儿南下，只为寻找那个留下“等我回来“的妻子小美和她口中那个叫“文城“的故乡。他不知道地名是真是假，找了一辈子，却从未抵达。文城，最终被发现从不存在。整本书用两条反向的轨迹——林祥福往南找、纪小美和阿强的家人往北回——构成十七年的错过。中段，溪镇被军阀与匪祸吞没，林祥福死于土匪张一斧之手，最后由田氏五兄弟一副棺材、双人同棺，从西山抬回北方。《文城》写的是命运里所有的错过、重逢、坚守，以及一句没说完的话。</itunes:summary>
+      <itunes:duration>00:25:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-4eef09.mp3" length="24205485" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
