@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 14 Jul 2026 17:07:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 17:27:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11088,6 +11088,17 @@
       <itunes:duration>00:41:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-2fa411.mp3" length="39636909" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《猫鱼》 · 完整版 · 猫鱼 · 完整讲读</title>
+      <description>《猫鱼》是陈冲首部正式出版的散文集，三十三万字，二百零三幅图，记述一个上海电影人从平江路老房子到好莱坞的私人记忆与时代侧影。书名取自上海话里一种喂猫的小鱼——卑微、弱小、漏网之鱼，却顽强活着。陈冲以冷静、真诚、洁癖般的笔触，写父亲顶牛皮纸包进门、母亲在晒台上唱歌、叫查理的军犬对天哀鸣、粪池里捞出的婚戒，写抗战、内战、反右、文革、改革、漂泊、人工智能，写四代知识分子的命运沉浮，写一个电影人如何在光影之外寻找自我的根基。金宇澄题词、姜文作序、罗新与许知远推荐。这是一部私人史，也是一份时代记录，更是一份给所有正在被时间冲淡之人的备忘：在机器越来越像人的时代，文学是我们最后的无用之用，记忆是我们最后的蜘蛛网，而那只卑微的猫鱼，是我们每一个人的样子。</description>
+      <pubDate>Tue, 14 Jul 2026 17:27:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260715-episode-20260715-88de31</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《猫鱼》是陈冲首部正式出版的散文集，三十三万字，二百零三幅图，记述一个上海电影人从平江路老房子到好莱坞的私人记忆与时代侧影。书名取自上海话里一种喂猫的小鱼——卑微、弱小、漏网之鱼，却顽强活着。陈冲以冷静、真诚、洁癖般的笔触，写父亲顶牛皮纸包进门、母亲在晒台上唱歌、叫查理的军犬对天哀鸣、粪池里捞出的婚戒，写抗战、内战、反右、文革、改革、漂泊、人工智能，写四代知识分子的命运沉浮，写一个电影人如何在光影之外寻找自我的根基。金宇澄题词、姜文作序、罗新与许知远推荐。这是一部私人史，也是一份时代记录，更是一份给所有正在被时间冲淡之人的备忘：在机器越来越像人的时代，文学是我们最后的无用之用，记忆是我们最后的蜘蛛网，而那只卑微的猫鱼，是我们每一个人的样子。</itunes:summary>
+      <itunes:duration>00:47:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-88de31.mp3" length="46076973" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
