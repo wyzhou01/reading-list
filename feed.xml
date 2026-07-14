@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 14 Jul 2026 08:03:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 16:25:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11044,6 +11044,17 @@
       <itunes:duration>00:39:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260714/episode-20260714-f4d70c.mp3" length="37860909" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《第欧根尼变奏曲》 · 完整版 · 第欧根尼变奏曲 · 完整讲读</title>
+      <description>《第欧根尼变奏曲》是香港推理作家陈浩基的短篇集，收录十四篇独立又互文的故事，以帕赫贝尔《卡农》的变奏结构为骨架，每篇配以古典音乐。作品融合推理、科幻、恐怖与社会写实，透过窥视与权力、科技异化、身份消解等主题，探讨数字时代&quot;何以为人&quot;的根本追问。开篇《窥伺蓝色的蓝》以惊人的笔触描写网络追踪者的心理黑洞，奠定全书基调；终章《隐身的X》以元叙事手法完成对本格推理的自我指涉性反思。陈浩基以程序员的逻辑和文学家的想象力，构建出一部关于凝视、身份与存在主义的变奏曲。</description>
+      <pubDate>Tue, 14 Jul 2026 16:23:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260715-episode-20260715-7e73d8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《第欧根尼变奏曲》是香港推理作家陈浩基的短篇集，收录十四篇独立又互文的故事，以帕赫贝尔《卡农》的变奏结构为骨架，每篇配以古典音乐。作品融合推理、科幻、恐怖与社会写实，透过窥视与权力、科技异化、身份消解等主题，探讨数字时代&quot;何以为人&quot;的根本追问。开篇《窥伺蓝色的蓝》以惊人的笔触描写网络追踪者的心理黑洞，奠定全书基调；终章《隐身的X》以元叙事手法完成对本格推理的自我指涉性反思。陈浩基以程序员的逻辑和文学家的想象力，构建出一部关于凝视、身份与存在主义的变奏曲。</itunes:summary>
+      <itunes:duration>00:23:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-7e73d8.mp3" length="22898733" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
