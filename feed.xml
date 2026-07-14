@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 14 Jul 2026 21:33:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 21:40:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11121,6 +11121,17 @@
       <itunes:duration>00:23:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-f650a3.mp3" length="22259757" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《父权制与资本主义》 · 完整版 · 父权制与资本主义 · 完整讲读</title>
+      <description>《父权制与资本主义》是上野千鹤子的学术起点，也是日本女性主义研究的里程碑。她指出，近代社会被切分为“市场“与“家庭“两个领域，父权制通过婚姻把女性绑定在无偿的再生产劳动中，资本主义则从这种无偿劳动中源源不断地汲取利润，两者独立又共谋，共同制造了近代意义上的“家庭主妇“。M 字形就业曲线、专职主妇的再生产、保姆与养老护理的市场化，都是这一共谋结构在当代的具体形态。再生产劳动的转移，无论是公共化、市场化还是亚洲型，都无法单独解决性别不平等——除非我们重新定义“劳动“，把再生产劳动堂堂正正地放回“劳动“这个概念里。</description>
+      <pubDate>Tue, 14 Jul 2026 21:40:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260715-episode-20260715-2bc8a7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《父权制与资本主义》是上野千鹤子的学术起点，也是日本女性主义研究的里程碑。她指出，近代社会被切分为“市场“与“家庭“两个领域，父权制通过婚姻把女性绑定在无偿的再生产劳动中，资本主义则从这种无偿劳动中源源不断地汲取利润，两者独立又共谋，共同制造了近代意义上的“家庭主妇“。M 字形就业曲线、专职主妇的再生产、保姆与养老护理的市场化，都是这一共谋结构在当代的具体形态。再生产劳动的转移，无论是公共化、市场化还是亚洲型，都无法单独解决性别不平等——除非我们重新定义“劳动“，把再生产劳动堂堂正正地放回“劳动“这个概念里。</itunes:summary>
+      <itunes:duration>00:36:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-2bc8a7.mp3" length="34756269" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
