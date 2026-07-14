@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 14 Jul 2026 21:49:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 21:57:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11143,6 +11143,17 @@
       <itunes:duration>00:26:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-c7d330.mp3" length="25193133" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《质数的孤独》 · 完整版 · 质数的孤独 · 完整讲读</title>
+      <description>意大利作家保罗·乔尔达诺的处女作《质数的孤独》，讲述两个被童年创伤钉住的灵魂：失去左腿的爱丽丝，和在十三岁那年把智障妹妹留在公园里的马蒂亚。两个人就像数学里的质数，永远彼此靠近，却永远无法真正成双。小说用精确的物理学语言，写出了在最亲近的人那里挨下的最深的伤，也写出了承认无法拯救彼此之后，依然选择自己站起来的微小姿态。这本二十六岁写成的斯特雷加奖最年轻获奖作品，是二十一世纪头十年欧洲最畅销的纯文学作品之一。</description>
+      <pubDate>Tue, 14 Jul 2026 21:57:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260715-episode-20260715-5dd36a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>意大利作家保罗·乔尔达诺的处女作《质数的孤独》，讲述两个被童年创伤钉住的灵魂：失去左腿的爱丽丝，和在十三岁那年把智障妹妹留在公园里的马蒂亚。两个人就像数学里的质数，永远彼此靠近，却永远无法真正成双。小说用精确的物理学语言，写出了在最亲近的人那里挨下的最深的伤，也写出了承认无法拯救彼此之后，依然选择自己站起来的微小姿态。这本二十六岁写成的斯特雷加奖最年轻获奖作品，是二十一世纪头十年欧洲最畅销的纯文学作品之一。</itunes:summary>
+      <itunes:duration>00:31:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-5dd36a.mp3" length="29986605" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
