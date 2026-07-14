@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 13 Jul 2026 21:47:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 07:27:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11000,6 +11000,17 @@
       <itunes:duration>00:34:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260714/episode-20260714-f2e4dd.mp3" length="33393069" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《此间的少年》 · 完整版 · 此间的少年 · 完整讲读</title>
+      <description>二零零二年，江南把金庸笔下的江湖英雄塞进了以北大为原型的汴京大学，写成了网络小说《此间的少年》。郭靖蹬着化学系老师淘汰下来的二八大杠去报到，一身羊皮袍子配球鞋，被当成摆摊设点的；黄蓉撞在他背后，从此认识了那个把所有家当留给陌生姑娘看管的蒙古大个子；乔峰一米九五叼着烟卷站在国际政治系旗下，像收买路钱一样迎接新生；杨康和穆念慈从中学起就是同学，十二年的关系说不清是友情还是别的；令狐冲不会弹吉他，却加入了吉他协会。降龙十八掌变成了高数题，六脉神剑变成了英语分级考试，江湖没了，招式没了，留下的是暗恋、错过、兄弟、宿醉，和毕业那天忽然意识到自己长大了的那一秒。这不是一本武侠同人，是一封寄给所有离开校园很久的人的长信。</description>
+      <pubDate>Tue, 14 Jul 2026 07:26:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260714-episode-20260714-087f52</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>二零零二年，江南把金庸笔下的江湖英雄塞进了以北大为原型的汴京大学，写成了网络小说《此间的少年》。郭靖蹬着化学系老师淘汰下来的二八大杠去报到，一身羊皮袍子配球鞋，被当成摆摊设点的；黄蓉撞在他背后，从此认识了那个把所有家当留给陌生姑娘看管的蒙古大个子；乔峰一米九五叼着烟卷站在国际政治系旗下，像收买路钱一样迎接新生；杨康和穆念慈从中学起就是同学，十二年的关系说不清是友情还是别的；令狐冲不会弹吉他，却加入了吉他协会。降龙十八掌变成了高数题，六脉神剑变成了英语分级考试，江湖没了，招式没了，留下的是暗恋、错过、兄弟、宿醉，和毕业那天忽然意识到自己长大了的那一秒。这不是一本武侠同人，是一封寄给所有离开校园很久的人的长信。</itunes:summary>
+      <itunes:duration>00:25:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260714/episode-20260714-087f52.mp3" length="24468525" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
