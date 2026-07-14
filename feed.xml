@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 14 Jul 2026 16:45:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 17:07:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11077,6 +11077,17 @@
       <itunes:duration>00:25:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-4eef09.mp3" length="24205485" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《犬之力》 · 完整版 · 犬之力 · 完整讲读</title>
+      <description>《犬之力》是托马斯·萨维奇一九六七年出版的西部小说，借一九二五年蒙大拿一个看似体面的牧场家庭，剖开“男性气质”这套规则如何伪装成兄弟之爱、夫妻之爱、父子之爱。哥哥菲尔以清瘦、蓝眼、班卓琴与裸露双手的形象，成了山谷里所有男人模仿的“男子汉样板”；弟弟乔治与续弦妻子露丝，则被这套温柔规训无声窒息。直到体弱敏感的继子彼得以父亲的医书为刃，用一段病牛皮绳完成最安静的复仇——“恶犬”倒下的那一天，正是这套男性秩序崩解的一天。五十四年后，本书经简·坎皮恩电影改编重回大众视野，教会当代读者识别那些藏在“我为你好”里的情感暴力。</description>
+      <pubDate>Tue, 14 Jul 2026 17:07:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260715-episode-20260715-2fa411</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《犬之力》是托马斯·萨维奇一九六七年出版的西部小说，借一九二五年蒙大拿一个看似体面的牧场家庭，剖开“男性气质”这套规则如何伪装成兄弟之爱、夫妻之爱、父子之爱。哥哥菲尔以清瘦、蓝眼、班卓琴与裸露双手的形象，成了山谷里所有男人模仿的“男子汉样板”；弟弟乔治与续弦妻子露丝，则被这套温柔规训无声窒息。直到体弱敏感的继子彼得以父亲的医书为刃，用一段病牛皮绳完成最安静的复仇——“恶犬”倒下的那一天，正是这套男性秩序崩解的一天。五十四年后，本书经简·坎皮恩电影改编重回大众视野，教会当代读者识别那些藏在“我为你好”里的情感暴力。</itunes:summary>
+      <itunes:duration>00:41:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-2fa411.mp3" length="39636909" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
