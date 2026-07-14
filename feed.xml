@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 14 Jul 2026 07:38:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 07:48:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11022,6 +11022,17 @@
       <itunes:duration>00:27:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260714/episode-20260714-aa645f.mp3" length="26611245" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《莫比乌斯时空》 · 完整版 · 莫比乌斯时空 · 完整讲读</title>
+      <description>《莫比乌斯时空》是科幻作家顾适的第一部短篇集，由刘宇昆作序推荐。全书十五个故事反复追问同一组问题：当头颅可以脱离身体存在、当意识可以住进机器副体、当一个人可以变成一座小镇的上帝、当冬眠让人跨越六十年去见自己的孩子——「我」还是「我」吗？顾适用古典交响乐般的严谨结构、希腊神殿般的对称美学、现代城市般的硬核设定，把肉身与意识的边界、冬眠时代的人伦、记忆与遗忘的代价，一层层拆开给读者看。这本书既是中文短篇科幻近年的标杆之作，也是一份写给所有即将面对技术大变局的人的清醒提醒：技术能复制一切，却复制不了「在场」；人之所以为人，不是因为记忆永生，而是因为我们正在彼此的生命里，留下过一段无法被备份的温度。</description>
+      <pubDate>Tue, 14 Jul 2026 07:48:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260714-episode-20260714-e6a07d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《莫比乌斯时空》是科幻作家顾适的第一部短篇集，由刘宇昆作序推荐。全书十五个故事反复追问同一组问题：当头颅可以脱离身体存在、当意识可以住进机器副体、当一个人可以变成一座小镇的上帝、当冬眠让人跨越六十年去见自己的孩子——「我」还是「我」吗？顾适用古典交响乐般的严谨结构、希腊神殿般的对称美学、现代城市般的硬核设定，把肉身与意识的边界、冬眠时代的人伦、记忆与遗忘的代价，一层层拆开给读者看。这本书既是中文短篇科幻近年的标杆之作，也是一份写给所有即将面对技术大变局的人的清醒提醒：技术能复制一切，却复制不了「在场」；人之所以为人，不是因为记忆永生，而是因为我们正在彼此的生命里，留下过一段无法被备份的温度。</itunes:summary>
+      <itunes:duration>00:30:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260714/episode-20260714-e6a07d.mp3" length="29004333" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
