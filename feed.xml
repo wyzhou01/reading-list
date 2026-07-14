@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 14 Jul 2026 07:48:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 08:03:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11033,6 +11033,17 @@
       <itunes:duration>00:30:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260714/episode-20260714-e6a07d.mp3" length="29004333" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《不要和你妈争辩》 · 完整版 · 不要和你妈争辩 · 完整讲读</title>
+      <description>《不要和你妈争辩》是瑞典作家弗雷德里克·巴克曼爆红之前写的一本私人书信集,也是他后来所有作品的起点。他在一岁半的儿子面前,用一个又一个笨拙的、幽默的、几乎是段子手式的小故事,讲清楚了三件事:世界有多荒诞、父母有多慌张、爱到底是怎么发生的。全书围绕男子气概、善恶边界、婚姻里的拉锯战、养儿育女的慌张、以及&quot;活着&quot;这件事本身有多偶然展开,最重的一句话是:&quot;你妈才是真正挨了一枪的那个人。&quot;这本书不是育儿书,是一个父亲对儿子最诚恳的道歉,也是一封迟到三十年、却刚刚好的情书。</description>
+      <pubDate>Tue, 14 Jul 2026 08:02:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260714-episode-20260714-f4d70c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《不要和你妈争辩》是瑞典作家弗雷德里克·巴克曼爆红之前写的一本私人书信集,也是他后来所有作品的起点。他在一岁半的儿子面前,用一个又一个笨拙的、幽默的、几乎是段子手式的小故事,讲清楚了三件事:世界有多荒诞、父母有多慌张、爱到底是怎么发生的。全书围绕男子气概、善恶边界、婚姻里的拉锯战、养儿育女的慌张、以及&quot;活着&quot;这件事本身有多偶然展开,最重的一句话是:&quot;你妈才是真正挨了一枪的那个人。&quot;这本书不是育儿书,是一个父亲对儿子最诚恳的道歉,也是一封迟到三十年、却刚刚好的情书。</itunes:summary>
+      <itunes:duration>00:39:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260714/episode-20260714-f4d70c.mp3" length="37860909" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
