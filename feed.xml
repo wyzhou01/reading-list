@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 14 Jul 2026 07:27:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 07:38:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11011,6 +11011,17 @@
       <itunes:duration>00:25:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260714/episode-20260714-087f52.mp3" length="24468525" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《形影不离》 · 完整版 · 形影不离 · 完整讲读</title>
+      <description>《形影不离》是波伏瓦一九五四年写成、尘封六十六年后才公开的中篇。它以九岁女孩希尔维与安德蕾的炽热友谊为线索，揭开了二十世纪初法国天主教资产阶级家庭对女性的“精神谋杀”：保守的母亲、压抑感性的宗教、讲究门当户对的阶级偏见，三股力量共同碾压一个拒绝“学会适应”的独特灵魂。小说既是对早逝挚友扎扎的迟到证词，也是波伏瓦全部思想火种的源头。她用三十年的反复书写抵抗遗忘，承认写作不能让人复活，却能让瞬间具有永恒的在场。最终，她承认继续活着本身就是一种过错，友谊是她获取自由而付出的代价。读这本书，是重思何为允许一个人真实地活，也是重新理解写作作为抵抗时间的唯一魔法。</description>
+      <pubDate>Tue, 14 Jul 2026 07:37:36 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260714-episode-20260714-aa645f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《形影不离》是波伏瓦一九五四年写成、尘封六十六年后才公开的中篇。它以九岁女孩希尔维与安德蕾的炽热友谊为线索，揭开了二十世纪初法国天主教资产阶级家庭对女性的“精神谋杀”：保守的母亲、压抑感性的宗教、讲究门当户对的阶级偏见，三股力量共同碾压一个拒绝“学会适应”的独特灵魂。小说既是对早逝挚友扎扎的迟到证词，也是波伏瓦全部思想火种的源头。她用三十年的反复书写抵抗遗忘，承认写作不能让人复活，却能让瞬间具有永恒的在场。最终，她承认继续活着本身就是一种过错，友谊是她获取自由而付出的代价。读这本书，是重思何为允许一个人真实地活，也是重新理解写作作为抵抗时间的唯一魔法。</itunes:summary>
+      <itunes:duration>00:27:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260714/episode-20260714-aa645f.mp3" length="26611245" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
