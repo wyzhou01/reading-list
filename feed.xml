@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 14 Jul 2026 17:27:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 21:25:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11099,6 +11099,17 @@
       <itunes:duration>00:47:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-88de31.mp3" length="46076973" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《金钱博弈》 · 完整版 · 金钱博弈 · 完整讲读</title>
+      <description>《金钱博弈》是著名华裔投资家单伟建亲笔撰写的私市股权实战录。本书完整记录了1997至2004年间，美国新桥投资公司在亚洲金融危机中收购、改造并最终高价退出韩国第一银行的全过程。书中不仅披露了跨国并购中长达一年多的谈判细节，更首次揭开了私市股权行业从入场到退出的完整闭环。无论你是金融从业者、研究并购的学者，还是只想听一个跌宕起伏的商业故事的普通读者，都能从这场金钱博弈中获得启示。</description>
+      <pubDate>Tue, 14 Jul 2026 21:24:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260715-episode-20260715-af9fde</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《金钱博弈》是著名华裔投资家单伟建亲笔撰写的私市股权实战录。本书完整记录了1997至2004年间，美国新桥投资公司在亚洲金融危机中收购、改造并最终高价退出韩国第一银行的全过程。书中不仅披露了跨国并购中长达一年多的谈判细节，更首次揭开了私市股权行业从入场到退出的完整闭环。无论你是金融从业者、研究并购的学者，还是只想听一个跌宕起伏的商业故事的普通读者，都能从这场金钱博弈中获得启示。</itunes:summary>
+      <itunes:duration>00:30:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-af9fde.mp3" length="29332653" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
