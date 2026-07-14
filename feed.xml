@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 14 Jul 2026 16:25:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 16:38:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11055,6 +11055,17 @@
       <itunes:duration>00:23:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-7e73d8.mp3" length="22898733" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《细胞生命的礼赞》 · 完整版 · 细胞生命的礼赞 · 完整讲读</title>
+      <description>《细胞生命的礼赞》是美国生物学家刘易斯·托马斯写于一九七四年的随笔集，曾获当年美国国家图书奖。托马斯以医学家和诗人的双重身份，用二十九篇短文重新审视地球生命的全貌：人是共生体，细胞里的线粒体、叶绿体都是与我们共同生活的古老伙伴；生命的本质是联结、合作与信息交流，而非达尔文式的生存竞争；地球本身就是一个生命，人只是其中渺小的一环；疾病是生命的正常形式，死亡是自然的一部分；所谓&quot;人定胜天&quot;的人类沙文主义，是没有根据的狂妄。他呼吁我们放下主宰万物的幻觉，重新把自己放回自然之中，做一个谦卑的、合格的地球生命托管人。</description>
+      <pubDate>Tue, 14 Jul 2026 16:37:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260715-episode-20260715-739e19</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《细胞生命的礼赞》是美国生物学家刘易斯·托马斯写于一九七四年的随笔集，曾获当年美国国家图书奖。托马斯以医学家和诗人的双重身份，用二十九篇短文重新审视地球生命的全貌：人是共生体，细胞里的线粒体、叶绿体都是与我们共同生活的古老伙伴；生命的本质是联结、合作与信息交流，而非达尔文式的生存竞争；地球本身就是一个生命，人只是其中渺小的一环；疾病是生命的正常形式，死亡是自然的一部分；所谓&quot;人定胜天&quot;的人类沙文主义，是没有根据的狂妄。他呼吁我们放下主宰万物的幻觉，重新把自己放回自然之中，做一个谦卑的、合格的地球生命托管人。</itunes:summary>
+      <itunes:duration>00:28:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-739e19.mp3" length="27128877" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
