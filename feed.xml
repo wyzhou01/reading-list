@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 14 Jul 2026 21:40:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 21:49:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11132,6 +11132,17 @@
       <itunes:duration>00:36:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-2bc8a7.mp3" length="34756269" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《芒格之道：查理·芒格股东会讲话 1987—2022》 · 完整版 · 芒格之道 · 完整讲读</title>
+      <description>《芒格之道》收录查理·芒格一九八七年到二零二二年，三十五年间在西科金融和每日期刊股东会上的全部讲话实录。芒格以价值投资、复利思维、延迟满足、怀疑人性等核心理念闻名。他在书中反复强调，优秀的管理者不依赖商学院光环，而要具备在小镇从零起步的本事；收购要熬过漫长等待，好的投资机会稀缺时要敢于持有现金；对人性的潜意识利益偏见保持警惕；用逆向思维预判失败；用常识对抗市场狂热。芒格式智慧的底层代码，是日复一日地比昨天更聪明一点点，是用九十九年证明慢慢来比较快。这本书是一座不可绕过的富矿，向每一位想从第一手材料中学习芒格的读者敞开大门。</description>
+      <pubDate>Tue, 14 Jul 2026 21:49:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260715-episode-20260715-c7d330</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《芒格之道》收录查理·芒格一九八七年到二零二二年，三十五年间在西科金融和每日期刊股东会上的全部讲话实录。芒格以价值投资、复利思维、延迟满足、怀疑人性等核心理念闻名。他在书中反复强调，优秀的管理者不依赖商学院光环，而要具备在小镇从零起步的本事；收购要熬过漫长等待，好的投资机会稀缺时要敢于持有现金；对人性的潜意识利益偏见保持警惕；用逆向思维预判失败；用常识对抗市场狂热。芒格式智慧的底层代码，是日复一日地比昨天更聪明一点点，是用九十九年证明慢慢来比较快。这本书是一座不可绕过的富矿，向每一位想从第一手材料中学习芒格的读者敞开大门。</itunes:summary>
+      <itunes:duration>00:26:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-c7d330.mp3" length="25193133" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
