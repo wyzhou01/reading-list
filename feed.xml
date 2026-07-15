@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 15 Jul 2026 10:59:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 11:15:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11451,6 +11451,17 @@
       <itunes:duration>00:24:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-55301b.mp3" length="23414829" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《萨德式女人》 · 完整版 · 萨德式女人 · 完整讲读</title>
+      <description>《萨德式女人》是英国女性主义作家安吉拉·卡特于1979年出版的文化批评著作。卡特通过对萨德小说的深入分析，揭示了西方性政治的深层结构：色情不是自然事实，而是社会关系的产物；女性身体是被文化书写的场所，而非本质的存在；权力通过性和经济的双重依附渗透进最私密的领域。书中通过两个女性形象——永远受害的茱斯蒂娜和最终成为施虐者的茱莉爱特——拆解了男权文明中女性的两种命运：被规训的纯洁与被解放的邪恶，两者都是男性凝视的造物。卡特提倡一种考古式阅读方法，直面而非回避性的政治，最终目标是为女性夺回身体与欲望的主体性。</description>
+      <pubDate>Wed, 15 Jul 2026 11:15:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260715-episode-20260715-b866d9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《萨德式女人》是英国女性主义作家安吉拉·卡特于1979年出版的文化批评著作。卡特通过对萨德小说的深入分析，揭示了西方性政治的深层结构：色情不是自然事实，而是社会关系的产物；女性身体是被文化书写的场所，而非本质的存在；权力通过性和经济的双重依附渗透进最私密的领域。书中通过两个女性形象——永远受害的茱斯蒂娜和最终成为施虐者的茱莉爱特——拆解了男权文明中女性的两种命运：被规训的纯洁与被解放的邪恶，两者都是男性凝视的造物。卡特提倡一种考古式阅读方法，直面而非回避性的政治，最终目标是为女性夺回身体与欲望的主体性。</itunes:summary>
+      <itunes:duration>00:17:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-b866d9.mp3" length="16530093" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
