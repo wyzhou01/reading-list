@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 15 Jul 2026 08:41:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 08:55:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11308,6 +11308,17 @@
       <itunes:duration>00:30:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-ffb786.mp3" length="29353389" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《祥瑞：王莽和他的时代》 · 完整版 · 祥瑞 · 完整讲读</title>
+      <description>《祥瑞：王莽和他的时代》借由汉哀帝暴亡之夜起笔，重审两汉之交的政治与思想转型。作者张向荣以「历史非虚构」的笔法，串起王莽从安汉公、摄皇帝到真皇帝的轨迹，同时呈现今古文经学之争如何为改朝换代提供思想资源。全书核心是「合法性危机」：当汉室天命被谶纬与灾异不断解构，王莽便以儒生集团之手，将一场改朝换代包装成天命回归；而他以经学为依据推行的「王制」，又因脱离执行现实与儒生内斗而迅速崩塌。本书提醒我们，王莽的悲剧不是个人野心，而是一整套关于天命、合法性、理想国的政治实验，是帝制中国最深的一次成本核算。</description>
+      <pubDate>Wed, 15 Jul 2026 08:55:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260715-episode-20260715-b30ed9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《祥瑞：王莽和他的时代》借由汉哀帝暴亡之夜起笔，重审两汉之交的政治与思想转型。作者张向荣以「历史非虚构」的笔法，串起王莽从安汉公、摄皇帝到真皇帝的轨迹，同时呈现今古文经学之争如何为改朝换代提供思想资源。全书核心是「合法性危机」：当汉室天命被谶纬与灾异不断解构，王莽便以儒生集团之手，将一场改朝换代包装成天命回归；而他以经学为依据推行的「王制」，又因脱离执行现实与儒生内斗而迅速崩塌。本书提醒我们，王莽的悲剧不是个人野心，而是一整套关于天命、合法性、理想国的政治实验，是帝制中国最深的一次成本核算。</itunes:summary>
+      <itunes:duration>00:32:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-b30ed9.mp3" length="31169325" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
