@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 15 Jul 2026 10:09:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 10:21:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11396,6 +11396,17 @@
       <itunes:duration>00:29:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-0c7c91.mp3" length="28325421" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《给青年的十二封信》 · 完整版 · 给青年的十二封信 · 完整讲读</title>
+      <description>《给青年的十二封信》是朱光潜先生一九二几年到一九四八年间写给中国青年的十二封长信，谈读书、谈动、谈静、谈社会运动、谈十字街头、谈升学选科、谈爱恋、谈人生。朱光潜以美学家的眼光和过来人的温情，劝告青年眼光要深沉，要从根本上做功夫，要顾到自己，勿随世俗图近利。他提出&apos;超效率&apos;的价值观，反对急功近利的浅薄追求，强调沉潜深入的修养功夫。在一个节奏更快、焦虑更深的时代，这本小书依然是一剂清醒药，提醒我们：养成读书的习惯，在学问中寻出兴趣；学会在静中见趣味；面对十字街头，既不闭门造车，也不随波逐流。做一个有根基的人，比做一个成功的人，更重要。</description>
+      <pubDate>Wed, 15 Jul 2026 10:21:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260715-episode-20260715-2209c6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《给青年的十二封信》是朱光潜先生一九二几年到一九四八年间写给中国青年的十二封长信，谈读书、谈动、谈静、谈社会运动、谈十字街头、谈升学选科、谈爱恋、谈人生。朱光潜以美学家的眼光和过来人的温情，劝告青年眼光要深沉，要从根本上做功夫，要顾到自己，勿随世俗图近利。他提出&apos;超效率&apos;的价值观，反对急功近利的浅薄追求，强调沉潜深入的修养功夫。在一个节奏更快、焦虑更深的时代，这本小书依然是一剂清醒药，提醒我们：养成读书的习惯，在学问中寻出兴趣；学会在静中见趣味；面对十字街头，既不闭门造车，也不随波逐流。做一个有根基的人，比做一个成功的人，更重要。</itunes:summary>
+      <itunes:duration>00:43:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-2209c6.mp3" length="41831085" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
