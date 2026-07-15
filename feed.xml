@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 15 Jul 2026 08:06:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 08:14:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11264,6 +11264,17 @@
       <itunes:duration>00:25:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-de49af.mp3" length="24425901" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《流溪》 · 完整版 · 流溪 · 完整讲读</title>
+      <description>《流溪》是林棹首部长篇小说，以高密度的语言与植物学式的感官描写，讲述一九八零至二零零零年代南方少女张枣儿的故事。她在父亲藏匿的色情光碟、母亲焦灼的气味、魔市 BBS 上一千三百公里外的暧昧通话之间，一点一点辨认自己。全书是一场关于家庭代际沉默、少女感官觉醒、记忆黏性与文学救赎的语言试验——它不负责治愈你，但会陪你站在那只打不开的鞋盒旁边，承认它真的在。</description>
+      <pubDate>Wed, 15 Jul 2026 08:14:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260715-episode-20260715-491401</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《流溪》是林棹首部长篇小说，以高密度的语言与植物学式的感官描写，讲述一九八零至二零零零年代南方少女张枣儿的故事。她在父亲藏匿的色情光碟、母亲焦灼的气味、魔市 BBS 上一千三百公里外的暧昧通话之间，一点一点辨认自己。全书是一场关于家庭代际沉默、少女感官觉醒、记忆黏性与文学救赎的语言试验——它不负责治愈你，但会陪你站在那只打不开的鞋盒旁边，承认它真的在。</itunes:summary>
+      <itunes:duration>00:29:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-491401.mp3" length="28240173" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
