@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 15 Jul 2026 07:17:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 07:24:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11187,6 +11187,17 @@
       <itunes:duration>00:32:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-a1d6c5.mp3" length="31655085" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《海边的房间》 · 完整版 · 海边的房间 · 完整讲读</title>
+      <description>《海边的房间》是台湾小说家黄丽群的短篇小说集，二零二一年由河南文艺出版社引进大陆出版，收录了她二十年来的十三个短篇代表作。书中有被继父以爱之名囚禁在海边的瘫痪女孩，有在梦中与自己通信、最终分不清现实与幻想的速食店店员，也有都市男女在亲密关系里无处可逃的疏离与孤独。黄丽群以冷到极处、美到极处的笔触，把现代都市人最深的精神暗疾一一剖开：囚禁、逃离、孤独、身体的规训、梦与现实的边界、死亡与无常。她不提供安慰，只提供一面照见我们自己的镜子——看进去，是彻骨的寒意；走出来，是与人生和解的可能。</description>
+      <pubDate>Wed, 15 Jul 2026 07:24:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260715-episode-20260715-ff465c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《海边的房间》是台湾小说家黄丽群的短篇小说集，二零二一年由河南文艺出版社引进大陆出版，收录了她二十年来的十三个短篇代表作。书中有被继父以爱之名囚禁在海边的瘫痪女孩，有在梦中与自己通信、最终分不清现实与幻想的速食店店员，也有都市男女在亲密关系里无处可逃的疏离与孤独。黄丽群以冷到极处、美到极处的笔触，把现代都市人最深的精神暗疾一一剖开：囚禁、逃离、孤独、身体的规训、梦与现实的边界、死亡与无常。她不提供安慰，只提供一面照见我们自己的镜子——看进去，是彻骨的寒意；走出来，是与人生和解的可能。</itunes:summary>
+      <itunes:duration>00:28:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-ff465c.mp3" length="27617709" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
