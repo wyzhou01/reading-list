@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 15 Jul 2026 11:21:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 11:28:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11473,6 +11473,17 @@
       <itunes:duration>00:32:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-cd6561.mp3" length="31062957" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《枪炮、病菌与钢铁：人类社会的命运》 · 完整版 · 枪炮病菌与钢铁2016平装修订版 · 完整讲读</title>
+      <description>《枪炮、病菌与钢铁》回答了一个被追问了一万三千年的问题：为什么财富和权力高度集中在欧亚大陆后裔手中。作者贾雷德·戴蒙德用三十年田野和二十五年写作，论证了一个核心观点：决定民族命运的，不是人种优劣，而是脚下那片大陆的地理禀赋。东西向的轴线、可驯化的动植物、粮食生产带来的病菌、文字和中央集权，这些要素最早在欧亚大陆聚齐，并通过一条条因果链自我强化，最终塑造了一五零零年时各大洲悬殊的技术与政治差距，并由此决定了现代世界的不平等格局。</description>
+      <pubDate>Wed, 15 Jul 2026 11:28:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260715-episode-20260715-1d9067</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《枪炮、病菌与钢铁》回答了一个被追问了一万三千年的问题：为什么财富和权力高度集中在欧亚大陆后裔手中。作者贾雷德·戴蒙德用三十年田野和二十五年写作，论证了一个核心观点：决定民族命运的，不是人种优劣，而是脚下那片大陆的地理禀赋。东西向的轴线、可驯化的动植物、粮食生产带来的病菌、文字和中央集权，这些要素最早在欧亚大陆聚齐，并通过一条条因果链自我强化，最终塑造了一五零零年时各大洲悬殊的技术与政治差距，并由此决定了现代世界的不平等格局。</itunes:summary>
+      <itunes:duration>00:29:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-1d9067.mp3" length="28719021" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
