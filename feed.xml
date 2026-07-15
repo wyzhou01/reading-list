@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 15 Jul 2026 21:43:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 21:49:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11583,6 +11583,17 @@
       <itunes:duration>00:25:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260716/episode-20260716-c4e6b7.mp3" length="24251565" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《超越百岁》 · 完整版 · 超越百岁 · 完整讲读</title>
+      <description>《超越百岁》是一本关于长寿医学的行动指南。作者彼得·阿提亚曾是约翰霍普金斯癌症外科医生，三十六岁那年被自己的体检报告惊醒，从此转向长寿医学研究。他提出“医学三点零“的概念，主张从“治病“转向“防病“，把心脏病、癌症、神经退行性疾病、二型糖尿病这四大慢性病的干预窗口大幅前移。全书围绕运动、营养、睡眠、情绪四大支柱展开：运动是性价比最高的长寿药，营养的关键在于回到代谢生物化学而不是追逐饮食标签，睡眠和情绪则是常被忽视的底层支撑。这本书不卖长生不老的神药，也不堆砌晦涩的研究，而是用医生的逻辑、工程师的数据观、过来人的自省，把防病于未然这件事拆解成普通人能执行的日常动作。在慢性病越来越年轻化的今天，它是一份经得起时间检验的长寿路线图。</description>
+      <pubDate>Wed, 15 Jul 2026 21:49:36 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260716-episode-20260716-2f52aa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《超越百岁》是一本关于长寿医学的行动指南。作者彼得·阿提亚曾是约翰霍普金斯癌症外科医生，三十六岁那年被自己的体检报告惊醒，从此转向长寿医学研究。他提出“医学三点零“的概念，主张从“治病“转向“防病“，把心脏病、癌症、神经退行性疾病、二型糖尿病这四大慢性病的干预窗口大幅前移。全书围绕运动、营养、睡眠、情绪四大支柱展开：运动是性价比最高的长寿药，营养的关键在于回到代谢生物化学而不是追逐饮食标签，睡眠和情绪则是常被忽视的底层支撑。这本书不卖长生不老的神药，也不堆砌晦涩的研究，而是用医生的逻辑、工程师的数据观、过来人的自省，把防病于未然这件事拆解成普通人能执行的日常动作。在慢性病越来越年轻化的今天，它是一份经得起时间检验的长寿路线图。</itunes:summary>
+      <itunes:duration>00:27:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260716/episode-20260716-2f52aa.mp3" length="26042157" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
