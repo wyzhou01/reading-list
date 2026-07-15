@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 15 Jul 2026 09:33:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 09:45:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11363,6 +11363,17 @@
       <itunes:duration>00:10:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-d1d9b1.mp3" length="10248621" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《故事便利店》 · 完整版 · 故事便利店 · 完整讲读</title>
+      <description>《故事便利店》是台湾小说家骆以军从一百年世界小说星空里拣选出的四十个故事，也是一堂关于“为何故事不可被AI复制”的小说课。从高中男生在楼梯间偷看对窗“家庭剧场”的狼狗时光，到波拉尼奥笔下德国士兵与疯癫少女关于“用什么来发誓”的对话，再到美猴王在难民兑换窗口前拿出比特币的那一刻，骆以军用“灯光冻”“便利店”“童话火车”三个意象，反复告诉我们：真正的好故事像汝窑、像《睡莲》、像濒临灭绝的珍禽异兽，每一件都是孤品，无法被流水线生产，无法被算法复制。它能做的，是在你生命最黑的那一段路上，从你自己的衣兜里，自己发出光来。</description>
+      <pubDate>Wed, 15 Jul 2026 09:45:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260715-episode-20260715-b352e6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《故事便利店》是台湾小说家骆以军从一百年世界小说星空里拣选出的四十个故事，也是一堂关于“为何故事不可被AI复制”的小说课。从高中男生在楼梯间偷看对窗“家庭剧场”的狼狗时光，到波拉尼奥笔下德国士兵与疯癫少女关于“用什么来发誓”的对话，再到美猴王在难民兑换窗口前拿出比特币的那一刻，骆以军用“灯光冻”“便利店”“童话火车”三个意象，反复告诉我们：真正的好故事像汝窑、像《睡莲》、像濒临灭绝的珍禽异兽，每一件都是孤品，无法被流水线生产，无法被算法复制。它能做的，是在你生命最黑的那一段路上，从你自己的衣兜里，自己发出光来。</itunes:summary>
+      <itunes:duration>00:36:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-b352e6.mp3" length="34747437" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
