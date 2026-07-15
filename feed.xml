@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 15 Jul 2026 07:43:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 07:48:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11209,6 +11209,17 @@
       <itunes:duration>00:33:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-4a39ef.mp3" length="31827501" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《萨宁》 · 完整版 · 萨宁 · 完整讲读</title>
+      <description>《萨宁》是俄国作家阿尔志跋绥夫写于一九零二年的争议之作，描绘一个在家庭外自由生长的超人式主人公，他冷漠嘲讽一切传统道德，光明正大地追求感官享乐，视他人死亡为傻瓜的减少。小说发表于一九零七年后在俄国掀起轩然大波，左派右派同声谴责，却遭到青年狂热模仿，被视为俄国一九零五年革命失败后知识分子精神堕落的象征。鲁迅率先译介阿尔志跋绥夫到中国，一九三零年三个《萨宁》中译本同时出版，掀起阅读热潮。本期围绕旷野之树、感伤主义的漫画、《萨宁》在中国的涟漪三个核心洞察展开，剖析绝对个人主义与责任的张力、享乐与死亡意识的悖论，并结合 M3 模型对萨宁式叙事的浪漫化偏见，探讨当代读者如何在孤独的旷野之外，重新建立真诚的连接。</description>
+      <pubDate>Wed, 15 Jul 2026 07:48:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260715-episode-20260715-e2f916</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《萨宁》是俄国作家阿尔志跋绥夫写于一九零二年的争议之作，描绘一个在家庭外自由生长的超人式主人公，他冷漠嘲讽一切传统道德，光明正大地追求感官享乐，视他人死亡为傻瓜的减少。小说发表于一九零七年后在俄国掀起轩然大波，左派右派同声谴责，却遭到青年狂热模仿，被视为俄国一九零五年革命失败后知识分子精神堕落的象征。鲁迅率先译介阿尔志跋绥夫到中国，一九三零年三个《萨宁》中译本同时出版，掀起阅读热潮。本期围绕旷野之树、感伤主义的漫画、《萨宁》在中国的涟漪三个核心洞察展开，剖析绝对个人主义与责任的张力、享乐与死亡意识的悖论，并结合 M3 模型对萨宁式叙事的浪漫化偏见，探讨当代读者如何在孤独的旷野之外，重新建立真诚的连接。</itunes:summary>
+      <itunes:duration>00:36:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-e2f916.mp3" length="34648749" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
