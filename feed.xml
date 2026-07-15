@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 15 Jul 2026 08:14:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 08:27:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11275,6 +11275,17 @@
       <itunes:duration>00:29:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-491401.mp3" length="28240173" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《将无同》 · 完整版 · 将无同 · 完整讲读</title>
+      <description>《将无同》是北大历史系教授胡宝国的中古史论文集。胡先生从《史记》《汉书》籍贯书法的差异入手，追问汉代至南北朝区域观念的深层变动；进而考察两汉家学的兴衰、汝颍名士的集结与瓦解、九品中正制从创制到僵化的全过程、侨人与旧人的身份博弈，以及南朝学风从累世家学向知识至上的关键转向。细密的史料考证背后，是一条贯穿中古三百年、缓慢而深刻的观念变迁脉络。</description>
+      <pubDate>Wed, 15 Jul 2026 08:27:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260715-episode-20260715-094573</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《将无同》是北大历史系教授胡宝国的中古史论文集。胡先生从《史记》《汉书》籍贯书法的差异入手，追问汉代至南北朝区域观念的深层变动；进而考察两汉家学的兴衰、汝颍名士的集结与瓦解、九品中正制从创制到僵化的全过程、侨人与旧人的身份博弈，以及南朝学风从累世家学向知识至上的关键转向。细密的史料考证背后，是一条贯穿中古三百年、缓慢而深刻的观念变迁脉络。</itunes:summary>
+      <itunes:duration>00:28:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-094573.mp3" length="27313197" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
