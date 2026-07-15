@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 15 Jul 2026 06:59:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 07:08:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11165,6 +11165,17 @@
       <itunes:duration>00:24:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-d4f454.mp3" length="23261229" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《骂观众》 · 完整版 · 骂观众 · 完整讲读</title>
+      <description>《骂观众》是奥地利作家彼得·汉德克早期三部反戏剧的合集：《自我控诉》《骂观众》《卡斯帕》。三剧皆无情节、无角色、无布景，只剩语言本身。汉德克深受维特根斯坦语言哲学影响，借由单调的自我数落、对观众的直接质问，以及一个青年被语言秩序驯化的过程，揭示语言如何规训个体、制造&quot;虚假自我&quot;，并质询剧场传统与日常语言陈词。半个世纪后重读，汉德克的追问仍锋利：在算法话术、营销话术与官方话术层层包裹的时代，我们说出的每一句话，到底是在表达自己，还是在替别人早已写好的脚本完成一次又一次的复读？</description>
+      <pubDate>Wed, 15 Jul 2026 07:08:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260715-episode-20260715-b86ce0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《骂观众》是奥地利作家彼得·汉德克早期三部反戏剧的合集：《自我控诉》《骂观众》《卡斯帕》。三剧皆无情节、无角色、无布景，只剩语言本身。汉德克深受维特根斯坦语言哲学影响，借由单调的自我数落、对观众的直接质问，以及一个青年被语言秩序驯化的过程，揭示语言如何规训个体、制造&quot;虚假自我&quot;，并质询剧场传统与日常语言陈词。半个世纪后重读，汉德克的追问仍锋利：在算法话术、营销话术与官方话术层层包裹的时代，我们说出的每一句话，到底是在表达自己，还是在替别人早已写好的脚本完成一次又一次的复读？</itunes:summary>
+      <itunes:duration>00:23:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-b86ce0.mp3" length="22403373" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
