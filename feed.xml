@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 15 Jul 2026 10:50:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 10:59:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11440,6 +11440,17 @@
       <itunes:duration>00:28:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-9e9aad.mp3" length="27106605" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《邻居》 · 完整版 · 邻居 · 完整讲读</title>
+      <description>《邻居》是雫井脩介二零零四年的社会派心理悬疑代表作。弑友灭门案被告人武内真伍被审判长梶间勋宣判无罪，两年后武内搬入梶间家隔壁，步步渗入这个四世同堂的家庭。全书追问三个核心问题：善意为什麽会变成凶器？努力为什麽会被辜负？邻居为什麽会变成敌人？作者以罕见的细腻笔触刻画了主妇寻惠与儿媳雪见所承受的隐形劳动与心理重压，揭示了家庭内部的沉默如何让外人趁虚而入，善意如何被反向利用，至今仍是日本社会派推理的经典之作。</description>
+      <pubDate>Wed, 15 Jul 2026 10:58:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260715-episode-20260715-55301b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《邻居》是雫井脩介二零零四年的社会派心理悬疑代表作。弑友灭门案被告人武内真伍被审判长梶间勋宣判无罪，两年后武内搬入梶间家隔壁，步步渗入这个四世同堂的家庭。全书追问三个核心问题：善意为什麽会变成凶器？努力为什麽会被辜负？邻居为什麽会变成敌人？作者以罕见的细腻笔触刻画了主妇寻惠与儿媳雪见所承受的隐形劳动与心理重压，揭示了家庭内部的沉默如何让外人趁虚而入，善意如何被反向利用，至今仍是日本社会派推理的经典之作。</itunes:summary>
+      <itunes:duration>00:24:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-55301b.mp3" length="23414829" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
