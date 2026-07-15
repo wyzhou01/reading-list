@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 15 Jul 2026 10:40:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 10:50:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11429,6 +11429,17 @@
       <itunes:duration>00:25:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-4aa2e5.mp3" length="24746157" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《成瘾（多巴胺国度：在放纵的时代找到平衡）》 · 完整版 · 成瘾 · 完整讲读</title>
+      <description>《成瘾》这本书由斯坦福大学成瘾医学教授安娜·莱姆布克所著，从神经科学角度揭示了当代人被丰盛刺激包围所产生的隐性成瘾。她提出痛觉平衡这一核心框架，认为多巴胺对快乐与疼痛的处理是同一枚硬币的两面，极致的快感会悄悄抬高痛觉基线并压低下一次快乐的门槛。书中将视野从物质成瘾扩展到行为成瘾，深入剖析短视频、外卖、网购、社交媒体等如何成为新型“多巴胺跷跷板”的推动者。她提出三条可操作的应对路径：通过多巴胺禁食重置神经基线，通过自绑定用未来的自己保护当下的自己，通过亲社会羞耻和诚实社群重建关系而非依赖意志力。整本书是写给这个刺激过载时代的一封冷静的邀请函，邀请每个人重新校准自己与快乐、痛苦、他人之间的关系。</description>
+      <pubDate>Wed, 15 Jul 2026 10:50:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260715-episode-20260715-9e9aad</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《成瘾》这本书由斯坦福大学成瘾医学教授安娜·莱姆布克所著，从神经科学角度揭示了当代人被丰盛刺激包围所产生的隐性成瘾。她提出痛觉平衡这一核心框架，认为多巴胺对快乐与疼痛的处理是同一枚硬币的两面，极致的快感会悄悄抬高痛觉基线并压低下一次快乐的门槛。书中将视野从物质成瘾扩展到行为成瘾，深入剖析短视频、外卖、网购、社交媒体等如何成为新型“多巴胺跷跷板”的推动者。她提出三条可操作的应对路径：通过多巴胺禁食重置神经基线，通过自绑定用未来的自己保护当下的自己，通过亲社会羞耻和诚实社群重建关系而非依赖意志力。整本书是写给这个刺激过载时代的一封冷静的邀请函，邀请每个人重新校准自己与快乐、痛苦、他人之间的关系。</itunes:summary>
+      <itunes:duration>00:28:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-9e9aad.mp3" length="27106605" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
