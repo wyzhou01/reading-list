@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 15 Jul 2026 08:39:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 08:41:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11297,6 +11297,17 @@
       <itunes:duration>00:34:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-8ba328.mp3" length="32715693" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《命运》 · 完整版 · 生活与命运 · 完整讲读</title>
+      <description>《生活与命运》是苏联作家瓦西里·格罗斯曼耗费十年心血写就的史诗巨著。一九六一年书稿被克格勃抄没，作者本人两年后病逝。直到一九八八年，这部描写斯大林格勒保卫战与苏联极权体制的近一千页长篇，才终于在它的祖国面世。格罗斯曼以沙波什尼科夫一家三代人的命运为线索，交织战争、后方政治恐怖、核武器研制中的道德抉择与集中营的苦难，写出一百六十多个有名有姓的小人物。他借一位纳粹军官之口指出：纳粹与苏联是同一枚硬币的两面。格罗斯曼更写下全书最震撼的判断——人类的历史不是善战胜恶的搏斗，而是巨大的恶极力要辗碎人性的种子的搏斗。这本被宣判两到三百年不得出版的书，是二十世纪最不合时宜、却也最经得起时间的一本书。</description>
+      <pubDate>Mon, 15 Jun 2026 00:49:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260715-episode-20260715-ffb786</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《生活与命运》是苏联作家瓦西里·格罗斯曼耗费十年心血写就的史诗巨著。一九六一年书稿被克格勃抄没，作者本人两年后病逝。直到一九八八年，这部描写斯大林格勒保卫战与苏联极权体制的近一千页长篇，才终于在它的祖国面世。格罗斯曼以沙波什尼科夫一家三代人的命运为线索，交织战争、后方政治恐怖、核武器研制中的道德抉择与集中营的苦难，写出一百六十多个有名有姓的小人物。他借一位纳粹军官之口指出：纳粹与苏联是同一枚硬币的两面。格罗斯曼更写下全书最震撼的判断——人类的历史不是善战胜恶的搏斗，而是巨大的恶极力要辗碎人性的种子的搏斗。这本被宣判两到三百年不得出版的书，是二十世纪最不合时宜、却也最经得起时间的一本书。</itunes:summary>
+      <itunes:duration>00:30:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-ffb786.mp3" length="29353389" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
