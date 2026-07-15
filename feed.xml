@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 15 Jul 2026 09:03:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 09:10:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11330,6 +11330,17 @@
       <itunes:duration>00:25:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-e610cc.mp3" length="24015789" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《紫与黑》 · 完整版 · 紫与黑 · 完整讲读</title>
+      <description>《紫与黑》是凯瑟琳·M·凯瑟琳的科恩·拉夫卡迪亚世界书信体奇幻长篇。新任总督弗尔米奥在冰封的上特立米西斯，一边用第九版《兵法》追查一场连敌人都辨不清的叛乱，一边与远在首都的皇帝老友用围巾、牡蛎和自制紫墨水互相嘲讽支撑。当友谊被塞进帝国的信封，紫色墨水成了后勤小吏掐住整个政府的咽喉，而凡人每一次按兵不动，都是一次微小的赌局。</description>
+      <pubDate>Wed, 15 Jul 2026 09:10:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260715-episode-20260715-e8bb6d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《紫与黑》是凯瑟琳·M·凯瑟琳的科恩·拉夫卡迪亚世界书信体奇幻长篇。新任总督弗尔米奥在冰封的上特立米西斯，一边用第九版《兵法》追查一场连敌人都辨不清的叛乱，一边与远在首都的皇帝老友用围巾、牡蛎和自制紫墨水互相嘲讽支撑。当友谊被塞进帝国的信封，紫色墨水成了后勤小吏掐住整个政府的咽喉，而凡人每一次按兵不动，都是一次微小的赌局。</itunes:summary>
+      <itunes:duration>00:25:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-e8bb6d.mp3" length="24792621" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
