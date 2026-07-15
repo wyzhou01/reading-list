@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 15 Jul 2026 07:56:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 08:01:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11242,6 +11242,17 @@
       <itunes:duration>00:32:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-5d42a2.mp3" length="31105581" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一切境》 · 完整版 · 一切境 · 完整讲读</title>
+      <description>《一切境》是庆山在闭关静养期间写下的散文集。她以坦诚私密的笔触，记录了对生老病死、写作、女性独立、灵性修行与情爱的省察。全书围绕六块拼图展开——无常是日常真相、写作是在他人心识中存活、女性独立是经济加精神的双重工程、写作是一种交付、情爱作为修行的道场、无常不是预言而是让你不浪费。她示范一个人在中年之后如何把日子简化到只剩最重要的三五件事，留更多时间给爱的人与真正想做的事。</description>
+      <pubDate>Wed, 15 Jul 2026 08:01:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260715-episode-20260715-6d64ab</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一切境》是庆山在闭关静养期间写下的散文集。她以坦诚私密的笔触，记录了对生老病死、写作、女性独立、灵性修行与情爱的省察。全书围绕六块拼图展开——无常是日常真相、写作是在他人心识中存活、女性独立是经济加精神的双重工程、写作是一种交付、情爱作为修行的道场、无常不是预言而是让你不浪费。她示范一个人在中年之后如何把日子简化到只剩最重要的三五件事，留更多时间给爱的人与真正想做的事。</itunes:summary>
+      <itunes:duration>00:35:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-6d64ab.mp3" length="34499373" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
