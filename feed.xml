@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 15 Jul 2026 11:28:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 11:37:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11484,6 +11484,17 @@
       <itunes:duration>00:29:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-1d9067.mp3" length="28719021" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《纷纷水火》 · 完整版 · 纷纷水火 · 完整讲读</title>
+      <description>《纷纷水火》是青年作家林戈声的短篇小说集，由上海文艺出版社·单读于二零二四年六月出版。全书十则中短篇，写城乡夹层里最普通的小人物：把精子报告烧成灰的张光亮、把蚂蚁当知己的赵梦鹤、在加勒比海爱上游泳猪的郑欣爱、在殡葬专业课堂上找安静的女学生金凯丽。他们相亲相爱，却永远错过；活着，却惶惑。林戈声延续双雪涛、班宇以来的新北方叙事传统，又以微雕般的笔法，把当代中国人说不清楚的虚空，一块一块摊开给你看。这是一本让你“读进去”而不是“读懂”的书，也是一封写给所有正在和生活缠斗的普通人的、温柔的情书。</description>
+      <pubDate>Wed, 15 Jul 2026 11:36:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260715-episode-20260715-d61a51</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《纷纷水火》是青年作家林戈声的短篇小说集，由上海文艺出版社·单读于二零二四年六月出版。全书十则中短篇，写城乡夹层里最普通的小人物：把精子报告烧成灰的张光亮、把蚂蚁当知己的赵梦鹤、在加勒比海爱上游泳猪的郑欣爱、在殡葬专业课堂上找安静的女学生金凯丽。他们相亲相爱，却永远错过；活着，却惶惑。林戈声延续双雪涛、班宇以来的新北方叙事传统，又以微雕般的笔法，把当代中国人说不清楚的虚空，一块一块摊开给你看。这是一本让你“读进去”而不是“读懂”的书，也是一封写给所有正在和生活缠斗的普通人的、温柔的情书。</itunes:summary>
+      <itunes:duration>00:27:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-d61a51.mp3" length="26132013" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
