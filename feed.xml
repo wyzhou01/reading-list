@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 15 Jul 2026 16:46:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 16:53:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11517,6 +11517,17 @@
       <itunes:duration>00:26:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260716/episode-20260716-bc8bfa.mp3" length="25455405" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《明亮的夜晚》 · 完整版 · 明亮的夜晚 · 完整讲读</title>
+      <description>《明亮的夜晚》是韩国作家崔恩荣的首部长篇小说，讲述了从日据时代到当代的四代女性——曾祖母、祖母、妈妈、智妍——一百年的命运。在父权、战争与殖民的碾压下，她们一次次被剥夺、一次次逃离，却始终被另一只女性的手接住。小说被韩国网友评为女性之间的&quot;年代记&quot;与&quot;连带记&quot;，探讨了女性情谊的代代相连，以及人在长夜中如何自己造出光。</description>
+      <pubDate>Wed, 15 Jul 2026 16:53:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260716-episode-20260716-9e3663</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《明亮的夜晚》是韩国作家崔恩荣的首部长篇小说，讲述了从日据时代到当代的四代女性——曾祖母、祖母、妈妈、智妍——一百年的命运。在父权、战争与殖民的碾压下，她们一次次被剥夺、一次次逃离，却始终被另一只女性的手接住。小说被韩国网友评为女性之间的&quot;年代记&quot;与&quot;连带记&quot;，探讨了女性情谊的代代相连，以及人在长夜中如何自己造出光。</itunes:summary>
+      <itunes:duration>00:30:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260716/episode-20260716-9e3663.mp3" length="29122605" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
