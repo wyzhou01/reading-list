@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 15 Jul 2026 07:48:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 07:53:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11220,6 +11220,17 @@
       <itunes:duration>00:36:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-e2f916.mp3" length="34648749" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《人类大瘟疫：一个世纪以来的全球性流行病》 · 完整版 · 人类大瘟疫：一个世纪以来的全球性流行病 · 完整讲读</title>
+      <description>《人类大瘟疫》是英国资深记者、医学史学者马克·霍尼斯鲍姆的代表作，以九个真实故事回溯一九一六年至二零一九年一个世纪以来的人类大瘟疫史。全书围绕三个关键词展开：恐慌、歇斯底里与傲慢，揭示人类为何在科技飞速发展之下，每次面对疫情依然手忙脚乱。从西班牙流感、洛杉矶鼠疫，到艾滋病、SARS、埃博拉、寨卡，作者以战地记者般的笔触，剖析信息失真如何放大疫情灾难，傲慢与偏见如何左右防疫决策，科学认知的进步与边界何在。本书既是医学史，也是社会史，更是一面映照人类恐惧、偏见与健忘的镜子。</description>
+      <pubDate>Wed, 15 Jul 2026 07:53:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260715-episode-20260715-e689b3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《人类大瘟疫》是英国资深记者、医学史学者马克·霍尼斯鲍姆的代表作，以九个真实故事回溯一九一六年至二零一九年一个世纪以来的人类大瘟疫史。全书围绕三个关键词展开：恐慌、歇斯底里与傲慢，揭示人类为何在科技飞速发展之下，每次面对疫情依然手忙脚乱。从西班牙流感、洛杉矶鼠疫，到艾滋病、SARS、埃博拉、寨卡，作者以战地记者般的笔触，剖析信息失真如何放大疫情灾难，傲慢与偏见如何左右防疫决策，科学认知的进步与边界何在。本书既是医学史，也是社会史，更是一面映照人类恐惧、偏见与健忘的镜子。</itunes:summary>
+      <itunes:duration>00:23:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-e689b3.mp3" length="22753197" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
