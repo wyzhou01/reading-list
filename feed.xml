@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 15 Jul 2026 09:59:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 10:09:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11385,6 +11385,17 @@
       <itunes:duration>00:38:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-61212f.mp3" length="37245357" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《长安的荔枝》 · 完整版 · 长安的荔枝 · 完整讲读</title>
+      <description>《长安的荔枝》借一骑红尘的唐诗背后故事，写了一个五十二岁从九品小吏李善德被设局接下&apos;把岭南新鲜荔枝运到长安&apos;这个死任务的全过程。马伯庸用十一天写下这本七万字中篇，只为讲清楚一件事——做成一件事，到底有多难。本书最锋利的地方，是把一首浪漫的帝王美人诗，翻成了一份荒诞的古代项目复盘。从被同僚骗接敕牒、被劝和离止损、到在岭南一棵一棵摸清荔枝物性、设计分程接力、最后把不可能做成可能——李善德倾家荡产、几度濒死。可做成之后，他等来的不是封赏，而是一笔说不清的烂账和发配边疆。讽刺的是，正是这场发配，让他躲过了安禄山叛变和长安沦陷。马伯庸在后记里说：&apos;一事功成万头秃。可惜史书对这个层面关注得不够多。&apos; 这本书，是写给每一个在系统里被消耗的普通做事人的。</description>
+      <pubDate>Wed, 15 Jul 2026 10:09:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260715-episode-20260715-0c7c91</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《长安的荔枝》借一骑红尘的唐诗背后故事，写了一个五十二岁从九品小吏李善德被设局接下&apos;把岭南新鲜荔枝运到长安&apos;这个死任务的全过程。马伯庸用十一天写下这本七万字中篇，只为讲清楚一件事——做成一件事，到底有多难。本书最锋利的地方，是把一首浪漫的帝王美人诗，翻成了一份荒诞的古代项目复盘。从被同僚骗接敕牒、被劝和离止损、到在岭南一棵一棵摸清荔枝物性、设计分程接力、最后把不可能做成可能——李善德倾家荡产、几度濒死。可做成之后，他等来的不是封赏，而是一笔说不清的烂账和发配边疆。讽刺的是，正是这场发配，让他躲过了安禄山叛变和长安沦陷。马伯庸在后记里说：&apos;一事功成万头秃。可惜史书对这个层面关注得不够多。&apos; 这本书，是写给每一个在系统里被消耗的普通做事人的。</itunes:summary>
+      <itunes:duration>00:29:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-0c7c91.mp3" length="28325421" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
