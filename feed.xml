@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 15 Jul 2026 09:45:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 09:59:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11374,6 +11374,17 @@
       <itunes:duration>00:36:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-b352e6.mp3" length="34747437" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我在北京送快递》 · 完整版 · 我在北京送快递_-_胡安焉 · 完整讲读</title>
+      <description>《我在北京送快递》是胡安焉写下的十年打工志。他做过物流分拣员、快递员、个体经营者、自行车店店员，每一份工作他都用身体扛，再用笔记。这本书克制、诚实、不煽情，没有控诉，没有怨恨，只有平实的白描。它写出了底层劳动者被汗水蒸干的尊严、被三百块 A 级撕碎的关系、被酒精灌晕的睡眠，也写出了一个长期读书写作的人如何在劳动与写作之间，找到一种折中的自由——所谓自由，不是不工作，而是工作时知道自己为何而做。</description>
+      <pubDate>Wed, 15 Jul 2026 09:59:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260715-episode-20260715-61212f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我在北京送快递》是胡安焉写下的十年打工志。他做过物流分拣员、快递员、个体经营者、自行车店店员，每一份工作他都用身体扛，再用笔记。这本书克制、诚实、不煽情，没有控诉，没有怨恨，只有平实的白描。它写出了底层劳动者被汗水蒸干的尊严、被三百块 A 级撕碎的关系、被酒精灌晕的睡眠，也写出了一个长期读书写作的人如何在劳动与写作之间，找到一种折中的自由——所谓自由，不是不工作，而是工作时知道自己为何而做。</itunes:summary>
+      <itunes:duration>00:38:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-61212f.mp3" length="37245357" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
