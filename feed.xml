@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 15 Jul 2026 21:21:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 21:27:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11550,6 +11550,17 @@
       <itunes:duration>00:29:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260716/episode-20260716-888756.mp3" length="28150701" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《弗吉尼亚·伍尔夫传：作家的一生》 · 完整版 · 弗吉尼亚·伍尔夫传 · 完整讲读</title>
+      <description>《弗吉尼亚·伍尔夫传》是英国传记作家林德尔·戈登为现代主义文学巨擘伍尔夫立下的里程碑式传记。它打碎了“疯女人”与“天才即受难”的双重迷思，从四千封信件、三十卷日记、四百篇文章中追踪那些“未被察觉的瞬间”如何在一八九二年那个到灯塔的清晨种子，经由《到灯塔去》《海浪》《达洛维夫人》破土而出。戈登拒绝线性年表，让海浪式的记忆潮汐推动叙事，呈现出一个热爱聚会、野餐与远足的强健步行者、一个被沉默训练出来的战士、一个宣称“传记艺术尚未诞生”的艺术革命者。这既是一位作家如何从维多利亚的禁锢中锻造出二十世纪最敏锐的意识，也是一场两代女性作家的隔空接力。</description>
+      <pubDate>Wed, 15 Jul 2026 21:27:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260716-episode-20260716-3aafc5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《弗吉尼亚·伍尔夫传》是英国传记作家林德尔·戈登为现代主义文学巨擘伍尔夫立下的里程碑式传记。它打碎了“疯女人”与“天才即受难”的双重迷思，从四千封信件、三十卷日记、四百篇文章中追踪那些“未被察觉的瞬间”如何在一八九二年那个到灯塔的清晨种子，经由《到灯塔去》《海浪》《达洛维夫人》破土而出。戈登拒绝线性年表，让海浪式的记忆潮汐推动叙事，呈现出一个热爱聚会、野餐与远足的强健步行者、一个被沉默训练出来的战士、一个宣称“传记艺术尚未诞生”的艺术革命者。这既是一位作家如何从维多利亚的禁锢中锻造出二十世纪最敏锐的意识，也是一场两代女性作家的隔空接力。</itunes:summary>
+      <itunes:duration>00:26:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260716/episode-20260716-3aafc5.mp3" length="25456557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
