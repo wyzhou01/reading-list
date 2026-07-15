@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 15 Jul 2026 21:39:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 21:43:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11572,6 +11572,17 @@
       <itunes:duration>00:34:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260716/episode-20260716-06dd6a.mp3" length="33008301" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《台北人》 · 完整版 · 台北人 · 完整讲读</title>
+      <description>《台北人》是白先勇的十四篇短篇合集，写一九四九年撤退到台湾的大陆人——将军、贵妇、舞女、男工、教授——在台北的暮年生活。表面是日常宴席与麻将，底下是三重撕扯：今昔之比——青春与衰朽的战争；灵肉之争——精神记忆与肉身现实的对峙；生死之谜——佛家的空、道家的轮回、宿命论的命，叠成一个大问号。本期跟着欧阳子的评论，从这三重主题切入，看一群无根的人如何抓住记忆对抗时间，看白先勇如何用一套揉合中西的克制笔法，写出二十世纪华语短篇小说的高峰。</description>
+      <pubDate>Wed, 15 Jul 2026 21:43:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260716-episode-20260716-c4e6b7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《台北人》是白先勇的十四篇短篇合集，写一九四九年撤退到台湾的大陆人——将军、贵妇、舞女、男工、教授——在台北的暮年生活。表面是日常宴席与麻将，底下是三重撕扯：今昔之比——青春与衰朽的战争；灵肉之争——精神记忆与肉身现实的对峙；生死之谜——佛家的空、道家的轮回、宿命论的命，叠成一个大问号。本期跟着欧阳子的评论，从这三重主题切入，看一群无根的人如何抓住记忆对抗时间，看白先勇如何用一套揉合中西的克制笔法，写出二十世纪华语短篇小说的高峰。</itunes:summary>
+      <itunes:duration>00:25:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260716/episode-20260716-c4e6b7.mp3" length="24251565" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
