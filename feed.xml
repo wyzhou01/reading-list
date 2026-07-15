@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 15 Jul 2026 09:22:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 09:33:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11352,6 +11352,17 @@
       <itunes:duration>00:28:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-2dca98.mp3" length="27534765" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《黑牢城》 · 完整版 · 黑牢城 · 完整讲读</title>
+      <description>天正六年冬天，荒木村重困守有冈城，背叛织田信长。城中接连发生诡异谜案，村重要求被囚于地牢的黑田官兵卫以囚犯之身破解悬案。米泽穗信借四个谜案的骨架，真正要写的是乱世里每一个人的恶因与恶果：当英雄试图化作真实，幻象必将破碎；当野心脱离道义，因果便无休无止。</description>
+      <pubDate>Wed, 15 Jul 2026 09:33:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260715-episode-20260715-d1d9b1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>天正六年冬天，荒木村重困守有冈城，背叛织田信长。城中接连发生诡异谜案，村重要求被囚于地牢的黑田官兵卫以囚犯之身破解悬案。米泽穗信借四个谜案的骨架，真正要写的是乱世里每一个人的恶因与恶果：当英雄试图化作真实，幻象必将破碎；当野心脱离道义，因果便无休无止。</itunes:summary>
+      <itunes:duration>00:10:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-d1d9b1.mp3" length="10248621" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
