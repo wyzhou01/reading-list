@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 15 Jul 2026 16:39:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 16:46:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11506,6 +11506,17 @@
       <itunes:duration>00:31:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260716/episode-20260716-51f59b.mp3" length="30132909" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《贪婪的多巴胺》 · 完整版 · 贪婪的多巴胺 · 完整讲读</title>
+      <description>《贪婪的多巴胺》是一本由精神病学家利伯曼与畅销书作家朗合著的神经科学科普书，核心观点是：多巴胺并非&quot;快乐分子&quot;，而是&quot;欲望分子&quot;。它驱动的不是享受当下，而是不断渴望远方。书中通过近体与远体两套大脑系统的划分，解释了爱情为何褪色、成瘾如何形成、创造力与精神疾病为何一线之隔、自由派与保守派的政治立场为何有生物学基础，以及同一个分子如何既推动人类文明进步，又制造现代人普遍的焦虑与空虚。最终，本书给出一个和解之道：既要抬起头追逐星辰，又要低下头拥抱现实，才能与多巴胺和平共处。</description>
+      <pubDate>Wed, 15 Jul 2026 16:45:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260716-episode-20260716-bc8bfa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《贪婪的多巴胺》是一本由精神病学家利伯曼与畅销书作家朗合著的神经科学科普书，核心观点是：多巴胺并非&quot;快乐分子&quot;，而是&quot;欲望分子&quot;。它驱动的不是享受当下，而是不断渴望远方。书中通过近体与远体两套大脑系统的划分，解释了爱情为何褪色、成瘾如何形成、创造力与精神疾病为何一线之隔、自由派与保守派的政治立场为何有生物学基础，以及同一个分子如何既推动人类文明进步，又制造现代人普遍的焦虑与空虚。最终，本书给出一个和解之道：既要抬起头追逐星辰，又要低下头拥抱现实，才能与多巴胺和平共处。</itunes:summary>
+      <itunes:duration>00:26:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260716/episode-20260716-bc8bfa.mp3" length="25455405" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
