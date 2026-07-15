@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 15 Jul 2026 21:27:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 21:39:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11561,6 +11561,17 @@
       <itunes:duration>00:26:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260716/episode-20260716-3aafc5.mp3" length="25456557" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《不拘一格：网飞的自由与责任工作法》 · 完整版 · 不拘一格 · 完整讲读</title>
+      <description>《不拘一格》系统讲述了网飞创始人里德·哈斯廷斯如何打造一套以人才密度、坦诚沟通、自由与责任为核心的企业文化。从 D V D 邮寄租赁起步，到成为全球流媒体巨头，网飞用二十年时间证明了一条反常识路径：付市场最高薪，不设绩效奖金；取消假期、差旅、经费审批；财务与战略信息全员开放；决策权下沉，让最接近信息的人做决定。本书不是一套可以直接照搬的模板，而是一组互相咬合的机制：地基是人才，支柱是坦诚，屋顶是自由与责任，执行结构则是顶薪、开卷管理和去审批化的决策方式。读完之后，你会重新审视那些你团队里看起来理所当然的规则，重新思考&apos;把员工当作成年人&apos;这句话到底意味着什么。</description>
+      <pubDate>Wed, 15 Jul 2026 21:39:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260716-episode-20260716-06dd6a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《不拘一格》系统讲述了网飞创始人里德·哈斯廷斯如何打造一套以人才密度、坦诚沟通、自由与责任为核心的企业文化。从 D V D 邮寄租赁起步，到成为全球流媒体巨头，网飞用二十年时间证明了一条反常识路径：付市场最高薪，不设绩效奖金；取消假期、差旅、经费审批；财务与战略信息全员开放；决策权下沉，让最接近信息的人做决定。本书不是一套可以直接照搬的模板，而是一组互相咬合的机制：地基是人才，支柱是坦诚，屋顶是自由与责任，执行结构则是顶薪、开卷管理和去审批化的决策方式。读完之后，你会重新审视那些你团队里看起来理所当然的规则，重新思考&apos;把员工当作成年人&apos;这句话到底意味着什么。</itunes:summary>
+      <itunes:duration>00:34:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260716/episode-20260716-06dd6a.mp3" length="33008301" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
