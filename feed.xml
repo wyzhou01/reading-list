@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 15 Jul 2026 07:24:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 07:43:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11198,6 +11198,17 @@
       <itunes:duration>00:28:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-ff465c.mp3" length="27617709" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《结构性改革》 · 完整版 · 黄奇帆-结构性改革 · 完整讲读</title>
+      <description>黄奇帆《结构性改革》精读。本书从供给侧改革主线出发，系统讲解金融去杠杆、资本市场基础制度改革、数字化与数字货币、房地产长效机制、国企混改与营商环境、双循环新格局六大议题。全书贯穿&quot;问题—结构—对策&quot;的辩证分析范式，所有结论都有重庆、上海一手操盘案例支撑。重读这本书，理解中国经济的底层运行逻辑，理解每一项重大政策背后的结构性动因。</description>
+      <pubDate>Wed, 15 Jul 2026 07:43:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260715-episode-20260715-4a39ef</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>黄奇帆《结构性改革》精读。本书从供给侧改革主线出发，系统讲解金融去杠杆、资本市场基础制度改革、数字化与数字货币、房地产长效机制、国企混改与营商环境、双循环新格局六大议题。全书贯穿&quot;问题—结构—对策&quot;的辩证分析范式，所有结论都有重庆、上海一手操盘案例支撑。重读这本书，理解中国经济的底层运行逻辑，理解每一项重大政策背后的结构性动因。</itunes:summary>
+      <itunes:duration>00:33:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-4a39ef.mp3" length="31827501" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
