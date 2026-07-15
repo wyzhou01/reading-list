@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 15 Jul 2026 10:30:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 10:40:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11418,6 +11418,17 @@
       <itunes:duration>00:33:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-0dbf59.mp3" length="32539437" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《克拉克森的农场》 · 完整版 · 克拉克森的农场 · 完整讲读</title>
+      <description>《克拉克森的农场》记录了一个英国名嘴跨界当农民的爆笑一年。克拉克森在疫情撞上脱欧的双重暴击下接手牛津郡六千零七十亩农场，分不清大麦小麦，分不清谷仓浴缸，却偏要开着兰博基尼拖拉机去撞大门、压栅栏、跟一百四十二只羊斗智斗勇。书里没有高深的农学理论，全是一个外行在田里摔得鼻青脸肿的真实记录：官僚表格摞到一米高、羊价腰斩跌到三十英镑、九万摘菜工缺口只剩六千人面试。克拉克森用毒舌写透英国农业的荒诞与艰辛，撕开全球供应链的脆弱真相，最后告诉你：农场商店里卖的每一样东西，背后都有一段你不该忽略的故事。</description>
+      <pubDate>Wed, 15 Jul 2026 10:39:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260715-episode-20260715-4aa2e5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《克拉克森的农场》记录了一个英国名嘴跨界当农民的爆笑一年。克拉克森在疫情撞上脱欧的双重暴击下接手牛津郡六千零七十亩农场，分不清大麦小麦，分不清谷仓浴缸，却偏要开着兰博基尼拖拉机去撞大门、压栅栏、跟一百四十二只羊斗智斗勇。书里没有高深的农学理论，全是一个外行在田里摔得鼻青脸肿的真实记录：官僚表格摞到一米高、羊价腰斩跌到三十英镑、九万摘菜工缺口只剩六千人面试。克拉克森用毒舌写透英国农业的荒诞与艰辛，撕开全球供应链的脆弱真相，最后告诉你：农场商店里卖的每一样东西，背后都有一段你不该忽略的故事。</itunes:summary>
+      <itunes:duration>00:25:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-4aa2e5.mp3" length="24746157" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
