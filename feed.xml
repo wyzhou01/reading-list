@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 15 Jul 2026 11:20:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 11:21:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11462,6 +11462,17 @@
       <itunes:duration>00:17:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-b866d9.mp3" length="16530093" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《血酬定律：中国历史上的生存游戏》 · 完整版 · 血酬定律中国历史上的生存游戏 · 完整讲读</title>
+      <description>《血酬定律——中国历史上的生存游戏》是吴思在《潜规则》之后的深化之作。他发明“血酬“一词，标定暴力与生存资源的换算公式；他提炼“元规则“概念，指出“暴力最强者说了算“是决定规则之规则。全书以官、民、贼三类主体为骨架，用匪变官、官变匪的生存策略，用县官隐身份、白员胜局、洋旗价值等具体案例，用金庸武侠的精神补偿功能，最终在后记中以血酬透镜重读两千年中国通史，揭示帝国兴衰与改革开放的底层动力。这是一把解读中国大历史的钥匙。</description>
+      <pubDate>Sat, 20 Jun 2026 12:46:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260715-episode-20260715-cd6561</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《血酬定律——中国历史上的生存游戏》是吴思在《潜规则》之后的深化之作。他发明“血酬“一词，标定暴力与生存资源的换算公式；他提炼“元规则“概念，指出“暴力最强者说了算“是决定规则之规则。全书以官、民、贼三类主体为骨架，用匪变官、官变匪的生存策略，用县官隐身份、白员胜局、洋旗价值等具体案例，用金庸武侠的精神补偿功能，最终在后记中以血酬透镜重读两千年中国通史，揭示帝国兴衰与改革开放的底层动力。这是一把解读中国大历史的钥匙。</itunes:summary>
+      <itunes:duration>00:32:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-cd6561.mp3" length="31062957" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
