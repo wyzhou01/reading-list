@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 15 Jul 2026 08:01:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 08:06:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11253,6 +11253,17 @@
       <itunes:duration>00:35:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-6d64ab.mp3" length="34499373" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《玫瑰与蠕虫》 · 完整版 · 玫瑰与蠕虫 · 完整讲读</title>
+      <description>《玫瑰与蠕虫》是俄罗斯硬科幻作家罗伯特·伊巴图林的代表作，源于二零零九年一次关于&quot;现实星际战争是否可能&quot;的天文学论坛讨论。小说严格遵循已知物理学，设想人类发现月球上残留的外星观测站，并在一百零八年后遭遇来自一百零八光年外的阿奎拉人攻击。攻击方式是相对论速度的金属炮弹，无法防御。地球在二二九五年被彻底毁灭，幸存者逃入太空，分裂为太空人与地球人，并演化出布兰克与努尔德夫的阶级分化。这本书用工程学级别的冷酷，把武器的不对称、基因改造的代价、制度中的歧视、文明的自我催眠和个体在宏大宇宙面前的挣扎，压缩进一部冷静到极点的硬科幻史诗。</description>
+      <pubDate>Wed, 15 Jul 2026 08:06:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260715-episode-20260715-de49af</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《玫瑰与蠕虫》是俄罗斯硬科幻作家罗伯特·伊巴图林的代表作，源于二零零九年一次关于&quot;现实星际战争是否可能&quot;的天文学论坛讨论。小说严格遵循已知物理学，设想人类发现月球上残留的外星观测站，并在一百零八年后遭遇来自一百零八光年外的阿奎拉人攻击。攻击方式是相对论速度的金属炮弹，无法防御。地球在二二九五年被彻底毁灭，幸存者逃入太空，分裂为太空人与地球人，并演化出布兰克与努尔德夫的阶级分化。这本书用工程学级别的冷酷，把武器的不对称、基因改造的代价、制度中的歧视、文明的自我催眠和个体在宏大宇宙面前的挣扎，压缩进一部冷静到极点的硬科幻史诗。</itunes:summary>
+      <itunes:duration>00:25:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-de49af.mp3" length="24425901" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
