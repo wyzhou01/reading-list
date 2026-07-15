@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 15 Jul 2026 07:08:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 07:17:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11176,6 +11176,17 @@
       <itunes:duration>00:23:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-b86ce0.mp3" length="22403373" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《稻草人手记》 · 完整版 · 稻草人手记三毛全集 · 完整讲读</title>
+      <description>《稻草人手记》是三毛一九七七年出版的散文集，记录她与丈夫荷西在西属撒哈拉与加那利群岛的日常。全书分六个面向：她为什么远赴沙漠，她和荷西的跨文化婚姻如何运转，她对撒哈拉威邻居与瑞典孤老加里如何出手相助，她如何在写给父母的家书里把思念折成数字与不要担心，她与荷西之间粗与浪漫的互补张力，以及她评书、家书、冷镜头三种笔法并置的独特文体。书里既有海市蜃楼、坟场夜行、抓外星人、追山羊吃花这样的异乡奇趣，也有她被同胞骂婊子、为失业金算账、替加里擦脓血这样的现实重压。五十年来，这本书示范了一种能力：在不浪漫的地方把日子过成诗，在说不出口的亲人面前把爱折成清单，在没人管的陌生人旁边做那个先爬墙的人。</description>
+      <pubDate>Wed, 15 Jul 2026 07:17:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260715-episode-20260715-a1d6c5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《稻草人手记》是三毛一九七七年出版的散文集，记录她与丈夫荷西在西属撒哈拉与加那利群岛的日常。全书分六个面向：她为什么远赴沙漠，她和荷西的跨文化婚姻如何运转，她对撒哈拉威邻居与瑞典孤老加里如何出手相助，她如何在写给父母的家书里把思念折成数字与不要担心，她与荷西之间粗与浪漫的互补张力，以及她评书、家书、冷镜头三种笔法并置的独特文体。书里既有海市蜃楼、坟场夜行、抓外星人、追山羊吃花这样的异乡奇趣，也有她被同胞骂婊子、为失业金算账、替加里擦脓血这样的现实重压。五十年来，这本书示范了一种能力：在不浪漫的地方把日子过成诗，在说不出口的亲人面前把爱折成清单，在没人管的陌生人旁边做那个先爬墙的人。</itunes:summary>
+      <itunes:duration>00:32:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260715/episode-20260715-a1d6c5.mp3" length="31655085" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
