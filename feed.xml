@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 16 Jul 2026 16:49:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 16:58:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11671,6 +11671,17 @@
       <itunes:duration>00:33:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260717/episode-20260717-afc753.mp3" length="31783725" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《吃着吃着就老了》 · 完整版 · 吃着吃着就老了 · 完整讲读</title>
+      <description>《吃着吃着就老了》是《舌尖上的中国》《风味人间》总导演陈晓卿的饮食随笔集。他从一坛发酵四十年的西瓜酱、一袋塞满书包的糯米粑粑、一锅父亲病愈后端上桌的萝卜丝汆丸子写起，把故乡、亲情、衰老、创作与一张张饭桌交织在一起，告诉我们：每个人都有两个故乡——空间的与时间的；食物从来不是食物，而是你和世界之间的契约；而走过千山万水之后，最好吃的永远是人。这是一封写给慢食、故乡和人间烟火气的情书，也是一位顶级创作者用二十年饭局写下的人生哲学。</description>
+      <pubDate>Thu, 16 Jul 2026 16:57:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260717-episode-20260717-d0c7b0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《吃着吃着就老了》是《舌尖上的中国》《风味人间》总导演陈晓卿的饮食随笔集。他从一坛发酵四十年的西瓜酱、一袋塞满书包的糯米粑粑、一锅父亲病愈后端上桌的萝卜丝汆丸子写起，把故乡、亲情、衰老、创作与一张张饭桌交织在一起，告诉我们：每个人都有两个故乡——空间的与时间的；食物从来不是食物，而是你和世界之间的契约；而走过千山万水之后，最好吃的永远是人。这是一封写给慢食、故乡和人间烟火气的情书，也是一位顶级创作者用二十年饭局写下的人生哲学。</itunes:summary>
+      <itunes:duration>00:26:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260717/episode-20260717-d0c7b0.mp3" length="25266861" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
