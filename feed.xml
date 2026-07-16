@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 16 Jul 2026 21:31:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 21:46:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11715,6 +11715,17 @@
       <itunes:duration>00:30:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260717/episode-20260717-740dbb.mp3" length="28974381" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《她是幸存者》 · 完整版 · 她是幸存者 · 完整讲读</title>
+      <description>《她是幸存者》是韩裔美籍学者格蕾丝·赵为精神分裂症早逝的母亲所写的回忆录。母亲曾是冷战时期为驻韩美军提供性服务的女性之一，长期被家庭以「体面」为由抹除、被国家以「战争新娘」的叙事遮蔽。作者以三十年时间，借由跨代困扰理论、自传式民族志与一碗碗韩式家常菜，把母亲的创伤从家庭地窖搬到公共舞台。她用写作完成了一次个人驱魔，也示范了「将禁忌搬上舞台」如何把一个家庭内部的沉默，变成跨国、跨代际的共振网络。这本书是为所有「声音未被听见」的人搭建的一座仍在扩大的悼念之桥。</description>
+      <pubDate>Thu, 16 Jul 2026 21:45:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260717-episode-20260717-2e2fae</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《她是幸存者》是韩裔美籍学者格蕾丝·赵为精神分裂症早逝的母亲所写的回忆录。母亲曾是冷战时期为驻韩美军提供性服务的女性之一，长期被家庭以「体面」为由抹除、被国家以「战争新娘」的叙事遮蔽。作者以三十年时间，借由跨代困扰理论、自传式民族志与一碗碗韩式家常菜，把母亲的创伤从家庭地窖搬到公共舞台。她用写作完成了一次个人驱魔，也示范了「将禁忌搬上舞台」如何把一个家庭内部的沉默，变成跨国、跨代际的共振网络。这本书是为所有「声音未被听见」的人搭建的一座仍在扩大的悼念之桥。</itunes:summary>
+      <itunes:duration>00:47:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260717/episode-20260717-2e2fae.mp3" length="45757485" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
