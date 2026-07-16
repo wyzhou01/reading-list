@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 16 Jul 2026 16:58:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 17:07:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11682,6 +11682,17 @@
       <itunes:duration>00:26:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260717/episode-20260717-d0c7b0.mp3" length="25266861" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《少年凯歌》 · 完整版 · 少年凯歌 · 完整讲读</title>
+      <description>《少年凯歌》是陈凯歌应日本讲谈社之约、在纽约写就的少年回忆录。它不是控诉型的伤痕文学，也不是控诉他人的揭发材料，而是一个亲历者对自身责任的反省：从一九六五年十三岁看见垂死老人晶亮的眼睛，到一九六六年文化大革命爆发后他在狂热中成为看客与参与者，到一九六九年上山下乡去云南、参军、回城，他用诚实而克制的笔触，刻画了政治如何进入日常、狂热如何吞噬个体、一个人又如何在事后选择不原谅自己、也不放过那段历史。陈凯歌说，只要人们仍然只会控诉他人，这场革命实际上还没有结束；因此，他选择在审判台空着的时候自己走上去，承担他应承担的那份责任。</description>
+      <pubDate>Thu, 16 Jul 2026 17:07:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260717-episode-20260717-4b3f66</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《少年凯歌》是陈凯歌应日本讲谈社之约、在纽约写就的少年回忆录。它不是控诉型的伤痕文学，也不是控诉他人的揭发材料，而是一个亲历者对自身责任的反省：从一九六五年十三岁看见垂死老人晶亮的眼睛，到一九六六年文化大革命爆发后他在狂热中成为看客与参与者，到一九六九年上山下乡去云南、参军、回城，他用诚实而克制的笔触，刻画了政治如何进入日常、狂热如何吞噬个体、一个人又如何在事后选择不原谅自己、也不放过那段历史。陈凯歌说，只要人们仍然只会控诉他人，这场革命实际上还没有结束；因此，他选择在审判台空着的时候自己走上去，承担他应承担的那份责任。</itunes:summary>
+      <itunes:duration>00:30:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260717/episode-20260717-4b3f66.mp3" length="29525805" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
