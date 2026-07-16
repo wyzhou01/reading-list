@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 15 Jul 2026 21:49:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 07:24:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11594,6 +11594,17 @@
       <itunes:duration>00:27:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260716/episode-20260716-2f52aa.mp3" length="26042157" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《生活的囚徒》 · 完整版 · 生活的囚徒 · 完整讲读</title>
+      <description>《生活的囚徒》是爱尔兰短篇小说大师威廉·特雷弗的代表作集。他以温润克制的笔触，写十二个普通人的进退两难：被错送到瑞士的蜜月夫妻、困于夏日幻象的版画师、以土地换前程的乡村女佣、陷于沉默暴力的夫妻……每个人都在欲望、责任、依附与记忆的拉扯中，被自己温柔地囚禁。这本书不提供答案，只提供一面镜子——让你看见，那些你以为的“即便如此”，其实是另一种形式的勇敢，也是另一种形式的牢笼。</description>
+      <pubDate>Thu, 16 Jul 2026 07:23:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260716-episode-20260716-299378</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《生活的囚徒》是爱尔兰短篇小说大师威廉·特雷弗的代表作集。他以温润克制的笔触，写十二个普通人的进退两难：被错送到瑞士的蜜月夫妻、困于夏日幻象的版画师、以土地换前程的乡村女佣、陷于沉默暴力的夫妻……每个人都在欲望、责任、依附与记忆的拉扯中，被自己温柔地囚禁。这本书不提供答案，只提供一面镜子——让你看见，那些你以为的“即便如此”，其实是另一种形式的勇敢，也是另一种形式的牢笼。</itunes:summary>
+      <itunes:duration>00:23:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260716/episode-20260716-299378.mp3" length="22709805" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
