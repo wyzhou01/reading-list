@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 16 Jul 2026 07:32:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 07:44:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11616,6 +11616,17 @@
       <itunes:duration>00:29:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260716/episode-20260716-6821d0.mp3" length="28118829" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《秦制两千年》 · 完整版 · 秦制两千年 · 完整讲读</title>
+      <description>《秦制两千年》以官僚集团、原子化社会、汲取强度三大关键词为线索，系统拆解了自秦汉至明清中国帝制的底层运行逻辑。书中揭示：秦制以官僚集团取代封建贵族作为统治基础，通过什伍连坐、保甲制度等手段将百姓拆散为原子，最大化对人力物力的汲取强度。历代改革者虽试图改良，却始终无法挣脱这一结构——贞观之治是君臣之间的纳谏表演，东林党是士绅对皇权的悲壮抗争，清末谘议局则是秦制自掘坟墓的最后一幕。本书最深刻的洞见在于：统治者吸取的“真的历史教训“反而加固了秦制，而看似坚固的汲取机器，最终会因摧毁社会自身活力而崩溃。读懂秦制，不是为了批判历史，而是为了看清我们继承的究竟是怎样一套操作系统。</description>
+      <pubDate>Thu, 16 Jul 2026 07:44:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260716-episode-20260716-485b38</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《秦制两千年》以官僚集团、原子化社会、汲取强度三大关键词为线索，系统拆解了自秦汉至明清中国帝制的底层运行逻辑。书中揭示：秦制以官僚集团取代封建贵族作为统治基础，通过什伍连坐、保甲制度等手段将百姓拆散为原子，最大化对人力物力的汲取强度。历代改革者虽试图改良，却始终无法挣脱这一结构——贞观之治是君臣之间的纳谏表演，东林党是士绅对皇权的悲壮抗争，清末谘议局则是秦制自掘坟墓的最后一幕。本书最深刻的洞见在于：统治者吸取的“真的历史教训“反而加固了秦制，而看似坚固的汲取机器，最终会因摧毁社会自身活力而崩溃。读懂秦制，不是为了批判历史，而是为了看清我们继承的究竟是怎样一套操作系统。</itunes:summary>
+      <itunes:duration>00:28:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260716/episode-20260716-485b38.mp3" length="27749037" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
