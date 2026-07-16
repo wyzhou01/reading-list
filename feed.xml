@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 16 Jul 2026 16:24:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 16:36:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11649,6 +11649,17 @@
       <itunes:duration>00:24:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260717/episode-20260717-5402f2.mp3" length="23593389" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《九诗心：暗夜里的文学启明》 · 完整版 · 九诗心：暗夜里的文学启明 · 完整讲读</title>
+      <description>《九诗心：暗夜里的文学启明》是江南大学教师黄晓丹写给非专业读者的一本古典诗歌读本。她从屈原、曹植、阮籍、陶渊明、杜甫、李陵、文天祥、欧阳修、吴梅村九位身处大变局的诗人出发，用学术级的文献功夫还原他们生命的现场，回答一个核心问题：当世界发生巨变，人如何不被黑暗吞没？书的答案是&quot;诗心&quot;——不一定要作诗，不一定要懂诗，但不能没有无伪、专一的真诚。在意义被解构的时代，这本书把古典诗歌转化为今天仍可使用的精神资源。</description>
+      <pubDate>Thu, 16 Jul 2026 16:36:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260717-episode-20260717-182678</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《九诗心：暗夜里的文学启明》是江南大学教师黄晓丹写给非专业读者的一本古典诗歌读本。她从屈原、曹植、阮籍、陶渊明、杜甫、李陵、文天祥、欧阳修、吴梅村九位身处大变局的诗人出发，用学术级的文献功夫还原他们生命的现场，回答一个核心问题：当世界发生巨变，人如何不被黑暗吞没？书的答案是&quot;诗心&quot;——不一定要作诗，不一定要懂诗，但不能没有无伪、专一的真诚。在意义被解构的时代，这本书把古典诗歌转化为今天仍可使用的精神资源。</itunes:summary>
+      <itunes:duration>00:36:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260717/episode-20260717-182678.mp3" length="34935213" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
