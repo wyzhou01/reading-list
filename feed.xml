@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 16 Jul 2026 16:36:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 16:49:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11660,6 +11660,17 @@
       <itunes:duration>00:36:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260717/episode-20260717-182678.mp3" length="34935213" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《苏世民：我的经验与教训》 · 完整版 · 苏世民_我的经验与教训 · 完整讲读</title>
+      <description>《苏世民，我的经验与教训》是黑石集团联合创始人苏世民对自己五十年华尔街征程的完整复盘。书中包含二十五条工作和生活原则、十五条投资法则与十条管理准则，全部由亲身经历的故事构成——从费城亚麻店打工、耶鲁求学、雷曼兄弟早期岁月，到一九八五年与彼得·彼得森共同创办黑石，再经历一九八七年股灾、二零零八年金融危机等多次市场崩溃，将其一手打造为管理资产超六千亿美元的全球最大另类投资机构。苏世民在书中坦诚分享了每一次关键决策背后的思考与权衡，核心洞察集中在三件事：选择值得追求的宏伟目标、在周期波动中保持逆向判断力、用严苛标准识别并聚集 10 分人才。中文版由中信出版集团引进，作者亲撰序言，书中还详述其与中国超过五十次的往来与清华苏世民书院的捐建始末，是了解顶级机构运作方法论与领导者底层信念的必读书。</description>
+      <pubDate>Thu, 16 Jul 2026 16:48:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260717-episode-20260717-afc753</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《苏世民，我的经验与教训》是黑石集团联合创始人苏世民对自己五十年华尔街征程的完整复盘。书中包含二十五条工作和生活原则、十五条投资法则与十条管理准则，全部由亲身经历的故事构成——从费城亚麻店打工、耶鲁求学、雷曼兄弟早期岁月，到一九八五年与彼得·彼得森共同创办黑石，再经历一九八七年股灾、二零零八年金融危机等多次市场崩溃，将其一手打造为管理资产超六千亿美元的全球最大另类投资机构。苏世民在书中坦诚分享了每一次关键决策背后的思考与权衡，核心洞察集中在三件事：选择值得追求的宏伟目标、在周期波动中保持逆向判断力、用严苛标准识别并聚集 10 分人才。中文版由中信出版集团引进，作者亲撰序言，书中还详述其与中国超过五十次的往来与清华苏世民书院的捐建始末，是了解顶级机构运作方法论与领导者底层信念的必读书。</itunes:summary>
+      <itunes:duration>00:33:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260717/episode-20260717-afc753.mp3" length="31783725" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
