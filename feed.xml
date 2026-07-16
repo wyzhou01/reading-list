@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 16 Jul 2026 07:24:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 07:32:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11605,6 +11605,17 @@
       <itunes:duration>00:23:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260716/episode-20260716-299378.mp3" length="22709805" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《白鹤亮翅》 · 完整版 · 白鹤亮翅 · 完整讲读</title>
+      <description>《白鹤亮翅》是日本作家多和田叶子对自己多年旅德生活的回顾与沉淀。女主人公独自住在柏林，靠写科幻小说过活，在异国生活的孤独里重新学习如何成为自己。从目睹邻居用太极拳化解袭击开始，她跟随陈老师学习太极，在搬家、电话、邻里交往这些琐碎日常里，慢慢理解了一件事：身份不是继承来的，是练习出来的。这本书里有跨文化的误解与温情，有悬疑的暗流，更有一条关于身体如何比头脑更早知道答案的主线。在人工智能越来越擅长写作的时代，多和田叶子用这本书提醒我们：慢，或许才是应对世界最有力的姿态。</description>
+      <pubDate>Thu, 16 Jul 2026 07:32:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260716-episode-20260716-6821d0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《白鹤亮翅》是日本作家多和田叶子对自己多年旅德生活的回顾与沉淀。女主人公独自住在柏林，靠写科幻小说过活，在异国生活的孤独里重新学习如何成为自己。从目睹邻居用太极拳化解袭击开始，她跟随陈老师学习太极，在搬家、电话、邻里交往这些琐碎日常里，慢慢理解了一件事：身份不是继承来的，是练习出来的。这本书里有跨文化的误解与温情，有悬疑的暗流，更有一条关于身体如何比头脑更早知道答案的主线。在人工智能越来越擅长写作的时代，多和田叶子用这本书提醒我们：慢，或许才是应对世界最有力的姿态。</itunes:summary>
+      <itunes:duration>00:29:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260716/episode-20260716-6821d0.mp3" length="28118829" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
