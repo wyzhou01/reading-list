@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 16 Jul 2026 21:53:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 22:08:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11726,6 +11726,17 @@
       <itunes:duration>00:47:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260717/episode-20260717-2e2fae.mp3" length="45757485" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《足利女童连续失踪事件》 · 完整版 · 足利女童连续失踪事件 · 完整讲读</title>
+      <description>《足利女童连续失踪事件》是日本记者清水洁耗时十年写就的非虚构力作。一九七九年至一九九六年间，日本栃木与群马两县交界的十公里范围内，五名女童接连失踪或遇害，仅一起被草草&apos;侦破&apos;。当被定罪的菅家利和在 DNA 再鉴定后无罪释放，独自追查的清水洁锁定了一个代号&apos;鲁邦&apos;的神秘男子，却发现日本司法与媒体早已联手筑起高墙。本书撕开了日本&apos;百分之九十九点八定罪率&apos;的体面外衣，是每一个不愿对结构性失明妥协的人的镜子。</description>
+      <pubDate>Thu, 16 Jul 2026 22:08:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260717-episode-20260717-7246f8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《足利女童连续失踪事件》是日本记者清水洁耗时十年写就的非虚构力作。一九七九年至一九九六年间，日本栃木与群马两县交界的十公里范围内，五名女童接连失踪或遇害，仅一起被草草&apos;侦破&apos;。当被定罪的菅家利和在 DNA 再鉴定后无罪释放，独自追查的清水洁锁定了一个代号&apos;鲁邦&apos;的神秘男子，却发现日本司法与媒体早已联手筑起高墙。本书撕开了日本&apos;百分之九十九点八定罪率&apos;的体面外衣，是每一个不愿对结构性失明妥协的人的镜子。</itunes:summary>
+      <itunes:duration>00:55:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260717/episode-20260717-7246f8.mp3" length="52816557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
