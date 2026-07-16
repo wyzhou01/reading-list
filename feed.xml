@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 16 Jul 2026 08:09:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 16:24:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11638,6 +11638,17 @@
       <itunes:duration>00:39:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260716/episode-20260716-db866e.mp3" length="38180397" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《隐谷路》 · 完整版 · 隐谷路 · 完整讲读</title>
+      <description>《隐谷路》记录了美国科罗拉多州加尔文家族的悲剧：父母咪咪与多恩生育的十二个孩子中，先后有六个儿子被诊断为精神分裂症，这一概率在医学史上几乎绝无仅有。记者罗伯特·科尔克以四年时间追踪采访，揭开了一个家庭在半个世纪中经历的暴力、崩溃、误诊与流放，也串起了二十世纪人类对精神分裂症从迷信到科学的认知史。书中既呈现了冰锥手术、电休克、第一代抗精神病药物等粗暴疗法的代价，也描绘了科学家如何在加尔文家族的DNA中寻找致病密码的艰难历程。这本书最终落点在医学伦理与人的尊严：那些被贴上“疯子”标签的人，究竟承受着怎样的内心世界？他们的家属又背负着怎样无人知晓的重量？</description>
+      <pubDate>Thu, 16 Jul 2026 16:23:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260717-episode-20260717-5402f2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《隐谷路》记录了美国科罗拉多州加尔文家族的悲剧：父母咪咪与多恩生育的十二个孩子中，先后有六个儿子被诊断为精神分裂症，这一概率在医学史上几乎绝无仅有。记者罗伯特·科尔克以四年时间追踪采访，揭开了一个家庭在半个世纪中经历的暴力、崩溃、误诊与流放，也串起了二十世纪人类对精神分裂症从迷信到科学的认知史。书中既呈现了冰锥手术、电休克、第一代抗精神病药物等粗暴疗法的代价，也描绘了科学家如何在加尔文家族的DNA中寻找致病密码的艰难历程。这本书最终落点在医学伦理与人的尊严：那些被贴上“疯子”标签的人，究竟承受着怎样的内心世界？他们的家属又背负着怎样无人知晓的重量？</itunes:summary>
+      <itunes:duration>00:24:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260717/episode-20260717-5402f2.mp3" length="23593389" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
