@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 17 Jul 2026 07:34:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 07:44:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11759,6 +11759,17 @@
       <itunes:duration>00:30:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260717/episode-20260717-6a3e3f.mp3" length="29445165" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《很久很久以前，在某一个地方，果然……》 · 完整版 · 很久很久以前，在某一个地方，果然…… · 完整讲读</title>
+      <description>《很久很久以前，在某一个地方，果然……》是日本作家青柳碧人于二零一九年凭此拿下日本推理作家协会奖的短篇集，把桃太郎、浦岛太郎、一寸法师、鹤等五个日本民间传说改写为本格推理故事。每个故事套一种经典诡计——不在场证明、反叙倒叙、密室杀人、叙述性诡计——在保留原故事骨架与人物的前提下，把&quot;凶手是谁&quot;和&quot;为什么杀&quot;翻转到令人脊背发凉的方向。青柳碧人的厉害之处在于不靠血腥猎奇，所有布局都能在文本里找到伏笔，逻辑自洽。更难得的是，他让每一个童话角色都背负起原版故事里看不见的人性重量——一寸法师是算计成性的功利主义者，鹤的女儿是被父母反复压榨的绝望者，鬼岩则是必须弑亲才能完成父辈遗嘱的悲剧机器。本格推理在这本书里既是对童年叙事的解构，也是对&quot;纯粹的智力游戏&quot;的当代辩护。它告诉读者：在所有&quot;正义碾压邪恶&quot;的简单故事背后，都站着一个复杂的人。</description>
+      <pubDate>Fri, 17 Jul 2026 07:43:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260717-episode-20260717-d737db</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《很久很久以前，在某一个地方，果然……》是日本作家青柳碧人于二零一九年凭此拿下日本推理作家协会奖的短篇集，把桃太郎、浦岛太郎、一寸法师、鹤等五个日本民间传说改写为本格推理故事。每个故事套一种经典诡计——不在场证明、反叙倒叙、密室杀人、叙述性诡计——在保留原故事骨架与人物的前提下，把&quot;凶手是谁&quot;和&quot;为什么杀&quot;翻转到令人脊背发凉的方向。青柳碧人的厉害之处在于不靠血腥猎奇，所有布局都能在文本里找到伏笔，逻辑自洽。更难得的是，他让每一个童话角色都背负起原版故事里看不见的人性重量——一寸法师是算计成性的功利主义者，鹤的女儿是被父母反复压榨的绝望者，鬼岩则是必须弑亲才能完成父辈遗嘱的悲剧机器。本格推理在这本书里既是对童年叙事的解构，也是对&quot;纯粹的智力游戏&quot;的当代辩护。它告诉读者：在所有&quot;正义碾压邪恶&quot;的简单故事背后，都站着一个复杂的人。</itunes:summary>
+      <itunes:duration>00:28:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260717/episode-20260717-d737db.mp3" length="27825069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
