@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 17 Jul 2026 21:30:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 21:35:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11858,6 +11858,17 @@
       <itunes:duration>00:23:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260718/episode-20260718-6df293.mp3" length="22484013" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《圈外编辑》 · 完整版 · 圈外编辑 · 完整讲读</title>
+      <description>《圈外编辑》是日本资深自由编辑都筑响一的从业自省。他用四十年经验反驳&quot;编辑有术可教&quot;的主流叙事：编辑会议是集体避险的制度，技术从来不是核心，真正的燃料是好奇心和行动力；杂志陷入页数减少、广告增多的困局，根因是编辑自己出卖灵魂、用读者画像取代真实判断；网络时代抹平了专业与业余的墙、流行与地方之间的时差，传统媒体以特权传播&quot;流行&quot;的角色已经终结。他提出我们已进入一个没有决定性风潮的&quot;无流行时代&quot;，并给出最朴素的判断标准：愿不愿意为这件事掏钱。出版媒介没有走上末路，走上末路的是出版业界——只要还愿意为内心悸动熬夜、出差、掏钱，编辑这门手艺就不会死。</description>
+      <pubDate>Fri, 17 Jul 2026 21:35:36 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260718-episode-20260718-24e55a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《圈外编辑》是日本资深自由编辑都筑响一的从业自省。他用四十年经验反驳&quot;编辑有术可教&quot;的主流叙事：编辑会议是集体避险的制度，技术从来不是核心，真正的燃料是好奇心和行动力；杂志陷入页数减少、广告增多的困局，根因是编辑自己出卖灵魂、用读者画像取代真实判断；网络时代抹平了专业与业余的墙、流行与地方之间的时差，传统媒体以特权传播&quot;流行&quot;的角色已经终结。他提出我们已进入一个没有决定性风潮的&quot;无流行时代&quot;，并给出最朴素的判断标准：愿不愿意为这件事掏钱。出版媒介没有走上末路，走上末路的是出版业界——只要还愿意为内心悸动熬夜、出差、掏钱，编辑这门手艺就不会死。</itunes:summary>
+      <itunes:duration>00:31:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260718/episode-20260718-24e55a.mp3" length="29956653" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
