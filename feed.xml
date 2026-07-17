@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 17 Jul 2026 08:11:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 16:24:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11792,6 +11792,17 @@
       <itunes:duration>00:35:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260717/episode-20260717-c0be46.mp3" length="33830445" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《王能好》 · 完整版 · 王能好 · 完整讲读</title>
+      <description>《王能好》是魏思孝写的一部长篇小说，讲述山东农村光棍汉王能好勤俭、善良却处处受挫的一生。他省吃俭用一辈子，死后留下三十多万存款；他话多、抠门、爱面子，酒后骂人，没结过婚、没儿没女；他在四十五岁那年最后一次试图外出打工改变命运，二十五天就因弟弟猝死匆匆返乡；他最终死在一次酒醉骑电动车闯红灯的夜路上。魏思孝用七天返乡、下葬、遗产纠纷这些章节，把一个底层男性在熟人社会里的生存逻辑、在时代变迁中的失语与消逝，写得透彻而心酸。王能好不是某一个人的名字，是中国数千万被抛下的农村光棍汉的共同肖像。</description>
+      <pubDate>Fri, 17 Jul 2026 16:22:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260718-episode-20260718-0eb7c1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《王能好》是魏思孝写的一部长篇小说，讲述山东农村光棍汉王能好勤俭、善良却处处受挫的一生。他省吃俭用一辈子，死后留下三十多万存款；他话多、抠门、爱面子，酒后骂人，没结过婚、没儿没女；他在四十五岁那年最后一次试图外出打工改变命运，二十五天就因弟弟猝死匆匆返乡；他最终死在一次酒醉骑电动车闯红灯的夜路上。魏思孝用七天返乡、下葬、遗产纠纷这些章节，把一个底层男性在熟人社会里的生存逻辑、在时代变迁中的失语与消逝，写得透彻而心酸。王能好不是某一个人的名字，是中国数千万被抛下的农村光棍汉的共同肖像。</itunes:summary>
+      <itunes:duration>00:32:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260718/episode-20260718-0eb7c1.mp3" length="31546797" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
