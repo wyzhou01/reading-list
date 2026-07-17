@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 17 Jul 2026 16:35:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 16:51:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11814,6 +11814,17 @@
       <itunes:duration>00:32:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260718/episode-20260718-d8d108.mp3" length="31244973" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《昨夜星辰：高盛元的唐诗课》 · 完整版 · 昨夜星辰_高盛元的唐诗课 · 完整讲读</title>
+      <description>《昨夜星辰：高盛元的唐诗课》记录了一位深圳中学语文老师对唐诗的十二讲解读。他不主张把诗翻译成散文，也不依赖作者背景，认为诗是&quot;把生活酿成酒&quot;。从崔护的《题都城南庄》出发，他带我们走过物是人非的无常、王维与李商隐的怅惘、刘禹锡被贬二十四年的沉浮，最终落脚于张若虚的《春江花月夜》。在他看来，诗直面人生的不圆满，而读诗不是为了找答案，而是为了让我们在词语的停顿里，重新认识自己的孤独、思念与爱——美和爱，是人生最重要的两样东西。</description>
+      <pubDate>Fri, 03 Jul 2026 21:36:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260718-episode-20260718-430a1c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《昨夜星辰：高盛元的唐诗课》记录了一位深圳中学语文老师对唐诗的十二讲解读。他不主张把诗翻译成散文，也不依赖作者背景，认为诗是&quot;把生活酿成酒&quot;。从崔护的《题都城南庄》出发，他带我们走过物是人非的无常、王维与李商隐的怅惘、刘禹锡被贬二十四年的沉浮，最终落脚于张若虚的《春江花月夜》。在他看来，诗直面人生的不圆满，而读诗不是为了找答案，而是为了让我们在词语的停顿里，重新认识自己的孤独、思念与爱——美和爱，是人生最重要的两样东西。</itunes:summary>
+      <itunes:duration>00:29:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260718/episode-20260718-430a1c.mp3" length="28510125" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
