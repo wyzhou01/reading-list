@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 16 Jul 2026 22:08:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 07:23:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11737,6 +11737,17 @@
       <itunes:duration>00:55:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260717/episode-20260717-7246f8.mp3" length="52816557" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《书店日记+书店四季套装》 · 完整版 · 书店四季+书店日记套装 · 完整讲读</title>
+      <description>《书店日记》和《书店四季》是苏格兰毒舌书商肖恩·白塞尔经营威格敦二手书店的两年流水账：他一边和讨价还价的顾客斗智斗勇，一边在电商时代努力保住十万册书的库存；他和每周来两天的古怪店员妮基、后来的意大利姑娘奶奶一起撑起这家店；屋顶漏雨、暖气罢工、亚马逊算法碾压，几乎没有一天是好日子，可他就是不肯关门。这套日记最动人的地方不是情怀，而是诚实——它是一份把浪漫化、怀旧和社区神话全部拆穿之后，依然决定第二天照常开门的账本。</description>
+      <pubDate>Fri, 17 Jul 2026 07:23:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260717-episode-20260717-c661d8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《书店日记》和《书店四季》是苏格兰毒舌书商肖恩·白塞尔经营威格敦二手书店的两年流水账：他一边和讨价还价的顾客斗智斗勇，一边在电商时代努力保住十万册书的库存；他和每周来两天的古怪店员妮基、后来的意大利姑娘奶奶一起撑起这家店；屋顶漏雨、暖气罢工、亚马逊算法碾压，几乎没有一天是好日子，可他就是不肯关门。这套日记最动人的地方不是情怀，而是诚实——它是一份把浪漫化、怀旧和社区神话全部拆穿之后，依然决定第二天照常开门的账本。</itunes:summary>
+      <itunes:duration>00:29:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260717/episode-20260717-c661d8.mp3" length="28362285" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
