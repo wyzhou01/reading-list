@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 17 Jul 2026 16:24:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 16:35:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11803,6 +11803,17 @@
       <itunes:duration>00:32:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260718/episode-20260718-0eb7c1.mp3" length="31546797" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我们生活在南京》 · 完整版 · 我们生活在南京 · 完整讲读</title>
+      <description>《我们生活在南京》是一本把业余无线电这门小众手艺推到末日救赎舞台中央的硬科幻小说。它讲述了二〇一九年南京高三男生白杨，用父亲留下的一台老式短波电台，意外接通了四年后末日南京幸存少女半夏的求救信号。两位素不相识的年轻人，跨越四年的时空隔阂，用最古老也最笨拙的电磁波，联手阻止了一场即将毁灭人类的天外危机。小说既有《三体》式冷静的宇宙尺度，也有贴近生活的烟火气，更难得的是它让读者重新认识了赫兹以来人类捕捉和发射电磁波的浪漫——只要还有人愿意在空无一人的频率上守下去，人类就还没有真正输掉。</description>
+      <pubDate>Fri, 17 Jul 2026 16:34:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260718-episode-20260718-d8d108</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我们生活在南京》是一本把业余无线电这门小众手艺推到末日救赎舞台中央的硬科幻小说。它讲述了二〇一九年南京高三男生白杨，用父亲留下的一台老式短波电台，意外接通了四年后末日南京幸存少女半夏的求救信号。两位素不相识的年轻人，跨越四年的时空隔阂，用最古老也最笨拙的电磁波，联手阻止了一场即将毁灭人类的天外危机。小说既有《三体》式冷静的宇宙尺度，也有贴近生活的烟火气，更难得的是它让读者重新认识了赫兹以来人类捕捉和发射电磁波的浪漫——只要还有人愿意在空无一人的频率上守下去，人类就还没有真正输掉。</itunes:summary>
+      <itunes:duration>00:32:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260718/episode-20260718-d8d108.mp3" length="31244973" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
