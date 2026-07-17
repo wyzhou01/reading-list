@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 17 Jul 2026 07:44:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 07:54:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11770,6 +11770,17 @@
       <itunes:duration>00:28:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260717/episode-20260717-d737db.mp3" length="27825069" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《怪诞故事集》 · 完整版 · 怪诞故事集 · 完整讲读</title>
+      <description>《怪诞故事集》是二零一八年诺贝尔文学奖得主、波兰女作家奥尔加·托卡尔丘克的短篇代表作。全书收录十个看似毫无关联的怪诞故事，从十七世纪波兰森林里的绿孩子，到未来瑞士实验室里的神秘实验，再到中国寺庙里换了一颗心脏的波兰男人。托卡尔丘克用怪诞的外壳，包裹一个温柔的内核：人与未知、人与自然、人与动物、衰老与死亡、身份认同这些大问题，都在这十篇小说里被拆开、被悬置、被重新凝视。她提出&quot;第四人称讲述者&quot;的概念，倡导一种超越自我的温柔凝视。这是一本在旧权威崩塌、新现象层出不穷的时代，帮助我们重新学会&quot;慢下来、认真看&quot;的书。</description>
+      <pubDate>Fri, 17 Jul 2026 07:54:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260717-episode-20260717-49a724</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《怪诞故事集》是二零一八年诺贝尔文学奖得主、波兰女作家奥尔加·托卡尔丘克的短篇代表作。全书收录十个看似毫无关联的怪诞故事，从十七世纪波兰森林里的绿孩子，到未来瑞士实验室里的神秘实验，再到中国寺庙里换了一颗心脏的波兰男人。托卡尔丘克用怪诞的外壳，包裹一个温柔的内核：人与未知、人与自然、人与动物、衰老与死亡、身份认同这些大问题，都在这十篇小说里被拆开、被悬置、被重新凝视。她提出&quot;第四人称讲述者&quot;的概念，倡导一种超越自我的温柔凝视。这是一本在旧权威崩塌、新现象层出不穷的时代，帮助我们重新学会&quot;慢下来、认真看&quot;的书。</itunes:summary>
+      <itunes:duration>00:26:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260717/episode-20260717-49a724.mp3" length="25011117" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
