@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 17 Jul 2026 16:51:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 16:59:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11825,6 +11825,17 @@
       <itunes:duration>00:29:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260718/episode-20260718-430a1c.mp3" length="28510125" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《木心遗稿》 · 完整版 · 木心遗稿 · 完整讲读</title>
+      <description>《木心遗稿》是这位旅居纽约二十余年的汉语写作者身后首度面世的私人笔记，八十万字散落于意识与潜意识的接缝处。他以兵的眼光写文学，以希腊罗马风调写中文，以俳句入新诗；他把艺术家分成 A 至 E 五类，把死亡解成“生“的余烬，把爱说成装上框子的画。本辑由亲友们抢救、整理、录入五年始成，是二十世纪汉语文学里一种罕见的精神标本——慢的、密的、向内掘进的文字，在短视频与算法推送的时代，仍是一种必要的抵御。</description>
+      <pubDate>Fri, 17 Jul 2026 16:58:46 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260718-episode-20260718-058954</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《木心遗稿》是这位旅居纽约二十余年的汉语写作者身后首度面世的私人笔记，八十万字散落于意识与潜意识的接缝处。他以兵的眼光写文学，以希腊罗马风调写中文，以俳句入新诗；他把艺术家分成 A 至 E 五类，把死亡解成“生“的余烬，把爱说成装上框子的画。本辑由亲友们抢救、整理、录入五年始成，是二十世纪汉语文学里一种罕见的精神标本——慢的、密的、向内掘进的文字，在短视频与算法推送的时代，仍是一种必要的抵御。</itunes:summary>
+      <itunes:duration>00:28:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260718/episode-20260718-058954.mp3" length="27817389" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
