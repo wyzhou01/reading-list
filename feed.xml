@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 17 Jul 2026 21:22:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 21:30:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11847,6 +11847,17 @@
       <itunes:duration>00:33:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260718/episode-20260718-221be8.mp3" length="31807917" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《诡计博物馆》 · 完整版 · 诡计博物馆 · 完整讲读</title>
+      <description>《诡计博物馆》是日本短篇推理大师大山诚一郎的代表作合集，以极简篇幅浓缩了密室之谜、不在场证明、身份错位、叙述性诡计等经典谜题类型。每一篇都像一道精密的逻辑题，开头给条件，结尾给答案，中间是严丝合缝的推导。大山诚一郎用克制而精准的笔法，揭示了一个关于人类认知的深层真相：所有诡计的本质，都是对常识的精密欺骗。本书不仅是新本格短篇推理的最佳入门，更是一份关于认知局限的邀请函——它教会读者承认自己思维的盲区，并在阅读的快感之外，获得一份面对真实世界时难得的谦卑与清醒。</description>
+      <pubDate>Fri, 17 Jul 2026 21:30:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260718-episode-20260718-6df293</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《诡计博物馆》是日本短篇推理大师大山诚一郎的代表作合集，以极简篇幅浓缩了密室之谜、不在场证明、身份错位、叙述性诡计等经典谜题类型。每一篇都像一道精密的逻辑题，开头给条件，结尾给答案，中间是严丝合缝的推导。大山诚一郎用克制而精准的笔法，揭示了一个关于人类认知的深层真相：所有诡计的本质，都是对常识的精密欺骗。本书不仅是新本格短篇推理的最佳入门，更是一份关于认知局限的邀请函——它教会读者承认自己思维的盲区，并在阅读的快感之外，获得一份面对真实世界时难得的谦卑与清醒。</itunes:summary>
+      <itunes:duration>00:23:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260718/episode-20260718-6df293.mp3" length="22484013" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
