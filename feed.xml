@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 17 Jul 2026 07:54:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 08:11:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11781,6 +11781,17 @@
       <itunes:duration>00:26:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260717/episode-20260717-49a724.mp3" length="25011117" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《风险投资史》 · 完整版 · 风险投资史 · 完整讲读</title>
+      <description>《风险投资史》是两度普利策奖得主马拉比耗时七年写成的行业权威之作。它以指数法则为主线，完整回顾了风险投资从一九四六年研究与发展公司起步、经仙童半导体点燃硅谷火种，到红杉资本与凯鹏华盈的崛起、互联网泡沫的崩塌与中国市场的崛起，全景展示了这一“现代资本主义第三大体系”的运作逻辑。它不仅是一部行业编年史，更是一份关于创新、资本与人性的深刻启示录。</description>
+      <pubDate>Fri, 17 Jul 2026 08:10:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260717-episode-20260717-c0be46</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《风险投资史》是两度普利策奖得主马拉比耗时七年写成的行业权威之作。它以指数法则为主线，完整回顾了风险投资从一九四六年研究与发展公司起步、经仙童半导体点燃硅谷火种，到红杉资本与凯鹏华盈的崛起、互联网泡沫的崩塌与中国市场的崛起，全景展示了这一“现代资本主义第三大体系”的运作逻辑。它不仅是一部行业编年史，更是一份关于创新、资本与人性的深刻启示录。</itunes:summary>
+      <itunes:duration>00:35:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260717/episode-20260717-c0be46.mp3" length="33830445" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
