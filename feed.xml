@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 17 Jul 2026 21:35:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 21:41:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11869,6 +11869,17 @@
       <itunes:duration>00:31:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260718/episode-20260718-24e55a.mp3" length="29956653" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《权力意志》 · 完整版 · 权力意志 · 完整讲读</title>
+      <description>《权力意志》是尼采晚年未竟的哲学遗稿，被誉为“重估一切价值”的总纲领。尼采断言，权力意志才是世界与生命的本原，传统道德、宗教、科学的真善美不过是权力意志的伪装；他区分主人道德与奴隶道德，揭示基督教的颓废本质；主张真理乃生命的虚构；提出意志三层级——“你应”、“我要”、“我是”。本书是对欧洲文明的冷峻诊断，也是对未来新人的锻造预言。</description>
+      <pubDate>Fri, 17 Jul 2026 21:40:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260718-episode-20260718-a34f85</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《权力意志》是尼采晚年未竟的哲学遗稿，被誉为“重估一切价值”的总纲领。尼采断言，权力意志才是世界与生命的本原，传统道德、宗教、科学的真善美不过是权力意志的伪装；他区分主人道德与奴隶道德，揭示基督教的颓废本质；主张真理乃生命的虚构；提出意志三层级——“你应”、“我要”、“我是”。本书是对欧洲文明的冷峻诊断，也是对未来新人的锻造预言。</itunes:summary>
+      <itunes:duration>00:20:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260718/episode-20260718-a34f85.mp3" length="19392813" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
