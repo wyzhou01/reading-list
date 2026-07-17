@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 17 Jul 2026 21:41:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 21:51:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11880,6 +11880,17 @@
       <itunes:duration>00:20:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260718/episode-20260718-a34f85.mp3" length="19392813" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我本芬芳》 · 完整版 · 我本芬芳 · 完整讲读</title>
+      <description>《我本芬芳》是八旬老人杨本芬在厨房灶台边写下的一部回忆录，记录了她母亲陈惠才长达六十年的婚姻真相。出身不好的湖南女孩惠才，在走投无路时被一段以婚姻为前提的“帮助”所困，嫁给了一个从没过学会如何去爱的男人。她用一辈子的隐忍、付出与“懂事”，撑过了一个甲子的孤独岁月，最终在八十一岁那年，问出那个藏了六十年的问题——“下辈子你还愿意和我在一起吗？”换来的，是极其清楚的三个字：不愿意。这本只有五万八千字的小书，是千万中国女人沉默一生的缩影，也是一封写给所有在婚姻里苦熬之人的回望之书。</description>
+      <pubDate>Fri, 17 Jul 2026 21:51:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260718-episode-20260718-c29a61</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我本芬芳》是八旬老人杨本芬在厨房灶台边写下的一部回忆录，记录了她母亲陈惠才长达六十年的婚姻真相。出身不好的湖南女孩惠才，在走投无路时被一段以婚姻为前提的“帮助”所困，嫁给了一个从没过学会如何去爱的男人。她用一辈子的隐忍、付出与“懂事”，撑过了一个甲子的孤独岁月，最终在八十一岁那年，问出那个藏了六十年的问题——“下辈子你还愿意和我在一起吗？”换来的，是极其清楚的三个字：不愿意。这本只有五万八千字的小书，是千万中国女人沉默一生的缩影，也是一封写给所有在婚姻里苦熬之人的回望之书。</itunes:summary>
+      <itunes:duration>00:30:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260718/episode-20260718-c29a61.mp3" length="29699373" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
