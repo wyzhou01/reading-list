@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 18 Jul 2026 16:44:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 17:13:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11968,6 +11968,17 @@
       <itunes:duration>00:36:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260719/episode-20260719-5a781a.mp3" length="34684461" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《想成为神的巴士司机》 · 完整版 · 想成为神的巴士司机 · 完整讲读</title>
+      <description>《想成为神的巴士司机》是埃特加·凯雷特的短篇小说集，以六个看似不相关的小故事，拼出一幅荒诞而温柔的人生图景。一位坚持不为迟到者开门的司机；一个对着墙上窟窿许愿、遇见假天使的少年；一座位于地狱入口的乌兹别克村庄；一个只能创造无关紧要奇迹的比萨店员；一对想要从博物馆偷回母亲子宫的父子；一只必须被砸碎才能换回玩偶的小瓷猪。凯雷特用极轻的笔触，写极重的主题。奇迹是可能的，但奇迹从不解决任何问题。天使可能是骗子，地狱会关门，子宫会得癌症，小瓷猪要被砸碎。但我们依然可以活下去。用一种倒着戴胸牌的、系错围裙的、半夜抱着小瓷猪出逃的方式。这是一本关于孤独、等待、与荒诞和解的书。如果你愿意在笑声里被击中一下，这本书值得你坐下来，安静地读。</description>
+      <pubDate>Sat, 18 Jul 2026 17:12:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260719-episode-20260719-3d33c3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《想成为神的巴士司机》是埃特加·凯雷特的短篇小说集，以六个看似不相关的小故事，拼出一幅荒诞而温柔的人生图景。一位坚持不为迟到者开门的司机；一个对着墙上窟窿许愿、遇见假天使的少年；一座位于地狱入口的乌兹别克村庄；一个只能创造无关紧要奇迹的比萨店员；一对想要从博物馆偷回母亲子宫的父子；一只必须被砸碎才能换回玩偶的小瓷猪。凯雷特用极轻的笔触，写极重的主题。奇迹是可能的，但奇迹从不解决任何问题。天使可能是骗子，地狱会关门，子宫会得癌症，小瓷猪要被砸碎。但我们依然可以活下去。用一种倒着戴胸牌的、系错围裙的、半夜抱着小瓷猪出逃的方式。这是一本关于孤独、等待、与荒诞和解的书。如果你愿意在笑声里被击中一下，这本书值得你坐下来，安静地读。</itunes:summary>
+      <itunes:duration>00:58:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260719/episode-20260719-3d33c3.mp3" length="56338221" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
