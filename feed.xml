@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 18 Jul 2026 16:27:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 16:44:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11957,6 +11957,17 @@
       <itunes:duration>00:35:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260719/episode-20260719-277409.mp3" length="34391085" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《可能性的艺术：比较政治学30讲》 · 完整版 · 可能性的艺术 · 完整讲读</title>
+      <description>《可能性的艺术》是清华大学政治学教授刘瑜的比较政治学三十讲，横跨五大洲二十多个国家，跳出&quot;此时此地&quot;，用民主问责与国家能力两把尺子，建立一个审视世界的政治坐标系。全书不提供万能答案，而是带读者建立参照系：从委内瑞拉的国家崩溃看政治的力量，从瑞典与委内瑞拉的对比看&quot;淮南为橘、淮北为枳&quot;，从南非的转型软着陆看转型的条件，从泰国困局看民主文化的稀缺，从智利与新镀金时代看不平等如何腐蚀民主。读完之后，你将获得一种&apos;海拔切换&apos;的能力——再看到任何新闻，心里都会多一把尺。</description>
+      <pubDate>Sat, 18 Jul 2026 16:43:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260719-episode-20260719-5a781a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《可能性的艺术》是清华大学政治学教授刘瑜的比较政治学三十讲，横跨五大洲二十多个国家，跳出&quot;此时此地&quot;，用民主问责与国家能力两把尺子，建立一个审视世界的政治坐标系。全书不提供万能答案，而是带读者建立参照系：从委内瑞拉的国家崩溃看政治的力量，从瑞典与委内瑞拉的对比看&quot;淮南为橘、淮北为枳&quot;，从南非的转型软着陆看转型的条件，从泰国困局看民主文化的稀缺，从智利与新镀金时代看不平等如何腐蚀民主。读完之后，你将获得一种&apos;海拔切换&apos;的能力——再看到任何新闻，心里都会多一把尺。</itunes:summary>
+      <itunes:duration>00:36:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260719/episode-20260719-5a781a.mp3" length="34684461" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
