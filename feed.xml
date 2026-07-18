@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 18 Jul 2026 07:40:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 07:48:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11924,6 +11924,17 @@
       <itunes:duration>00:30:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260718/episode-20260718-9c5acd.mp3" length="29561901" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《魔术师》 · 完整版 · 魔术师 · 完整讲读</title>
+      <description>《魔术师》是爱尔兰作家科尔姆·托宾为德国文豪托马斯·曼写下的长篇心理传记。它用小说笔法潜入曼的内心，重现他从吕贝克童年、威尼斯创作《死于威尼斯》、到被迫流亡美国的隐秘一生，揭示这位诺贝尔奖得主如何在父亲的体面与母亲的异国幻想、妻子卡提娅的洞察、兄长海因里希的文学叛逆、以及两次世界大战的阴影之间，用一生维持一种隐秘的双重生活。托宾以局外人的冷静写出伟大作家的代价：魔术师最终骗过的，是他自己。</description>
+      <pubDate>Sat, 18 Jul 2026 07:48:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260718-episode-20260718-cacd7a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《魔术师》是爱尔兰作家科尔姆·托宾为德国文豪托马斯·曼写下的长篇心理传记。它用小说笔法潜入曼的内心，重现他从吕贝克童年、威尼斯创作《死于威尼斯》、到被迫流亡美国的隐秘一生，揭示这位诺贝尔奖得主如何在父亲的体面与母亲的异国幻想、妻子卡提娅的洞察、兄长海因里希的文学叛逆、以及两次世界大战的阴影之间，用一生维持一种隐秘的双重生活。托宾以局外人的冷静写出伟大作家的代价：魔术师最终骗过的，是他自己。</itunes:summary>
+      <itunes:duration>00:24:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260718/episode-20260718-cacd7a.mp3" length="23917101" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
