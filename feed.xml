@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 18 Jul 2026 17:13:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 17:21:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11979,6 +11979,17 @@
       <itunes:duration>00:58:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260719/episode-20260719-3d33c3.mp3" length="56338221" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《文学课》 · 完整版 · 文学课 · 完整讲读</title>
+      <description>《文学课》是阿根廷大师科塔萨尔一九八〇年在加州大学伯克利分校授课的讲稿整理，由其遗孀在他去世后出版。这位拉美文学爆炸时期的核心人物，在生前最后一次系统讲述中，分享了短篇小说与长篇小说的文体差异、幻想小说的时间与宿命机制、写作中的音乐性与游戏性，以及《跳房子》那部实验巨著的诞生过程。附录两篇直面拉美知识分子流亡宿命的演讲尤为震撼——他列举被军政府杀害的同行，坦承文学只是漂在无知与悲苦中的漂流瓶，但正因如此，每一篇不回避现实的作品都具有不可替代的意义。这既是一堂不摆大师架子的写作课，也是一份字字带血的良知遗嘱。</description>
+      <pubDate>Sat, 18 Jul 2026 17:20:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260719-episode-20260719-027f6d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《文学课》是阿根廷大师科塔萨尔一九八〇年在加州大学伯克利分校授课的讲稿整理，由其遗孀在他去世后出版。这位拉美文学爆炸时期的核心人物，在生前最后一次系统讲述中，分享了短篇小说与长篇小说的文体差异、幻想小说的时间与宿命机制、写作中的音乐性与游戏性，以及《跳房子》那部实验巨著的诞生过程。附录两篇直面拉美知识分子流亡宿命的演讲尤为震撼——他列举被军政府杀害的同行，坦承文学只是漂在无知与悲苦中的漂流瓶，但正因如此，每一篇不回避现实的作品都具有不可替代的意义。这既是一堂不摆大师架子的写作课，也是一份字字带血的良知遗嘱。</itunes:summary>
+      <itunes:duration>00:27:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260719/episode-20260719-027f6d.mp3" length="26529837" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
