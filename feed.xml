@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 18 Jul 2026 07:48:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 07:57:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11935,6 +11935,17 @@
       <itunes:duration>00:24:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260718/episode-20260718-cacd7a.mp3" length="23917101" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《罗马日记》 · 完整版 · 罗马日记 · 完整讲读</title>
+      <description>普利策奖得主裘帕·拉希莉在年近五十时，决定扔掉自己最擅长的英语。她搬去罗马，只读意大利语，只说意大利语，最后用这门新语言写下了这本《罗马日记》。全书以&quot;穿湖而过&quot;为意象，讲述一个作家如何从岸边的二十年打转，最终横渡到对岸——放弃控制、放弃母语、放弃已经拥有的全部救生衣，在一种新的限制里反而找回了创作的解放。这不是一本语言学习手册，而是一位成熟作家把语言本身当成实验对象，写下的一份关于流亡、归属与自我重塑的解剖报告。</description>
+      <pubDate>Sat, 18 Jul 2026 07:57:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260718-episode-20260718-bd3ee9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>普利策奖得主裘帕·拉希莉在年近五十时，决定扔掉自己最擅长的英语。她搬去罗马，只读意大利语，只说意大利语，最后用这门新语言写下了这本《罗马日记》。全书以&quot;穿湖而过&quot;为意象，讲述一个作家如何从岸边的二十年打转，最终横渡到对岸——放弃控制、放弃母语、放弃已经拥有的全部救生衣，在一种新的限制里反而找回了创作的解放。这不是一本语言学习手册，而是一位成熟作家把语言本身当成实验对象，写下的一份关于流亡、归属与自我重塑的解剖报告。</itunes:summary>
+      <itunes:duration>00:16:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260718/episode-20260718-bd3ee9.mp3" length="16101165" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
