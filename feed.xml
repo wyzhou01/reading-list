@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 18 Jul 2026 07:24:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 07:31:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11902,6 +11902,17 @@
       <itunes:duration>00:23:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260718/episode-20260718-7e4923.mp3" length="22550445" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一个杀手的自白》 · 完整版 · 一个杀手的自白 · 完整讲读</title>
+      <description>斯蒂芬·金二零二一年小说《一个杀手的自白》讲述职业杀手比利·萨默斯的最后一单任务。两百万美元，灭掉一个知道太多秘密的同行枪手。比利住进密西西比东部小镇米德伍德一座黄色小屋，伪装成作家乔治，等待最佳射击窗口。任务执行后，雇主背叛，幸存者艾丽斯带着比利的笔记本和U盘逃到科罗拉多山间，用文学的疗愈力量接续了比利没写完的故事。小说以冷静克制的第一人称语言，探讨杀手的道德悖论、文学作为信仰、以及改写他人故事的伦理代价，是金晚期创作中最重要的转型作品之一。</description>
+      <pubDate>Sat, 18 Jul 2026 07:30:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260718-episode-20260718-a848c3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>斯蒂芬·金二零二一年小说《一个杀手的自白》讲述职业杀手比利·萨默斯的最后一单任务。两百万美元，灭掉一个知道太多秘密的同行枪手。比利住进密西西比东部小镇米德伍德一座黄色小屋，伪装成作家乔治，等待最佳射击窗口。任务执行后，雇主背叛，幸存者艾丽斯带着比利的笔记本和U盘逃到科罗拉多山间，用文学的疗愈力量接续了比利没写完的故事。小说以冷静克制的第一人称语言，探讨杀手的道德悖论、文学作为信仰、以及改写他人故事的伦理代价，是金晚期创作中最重要的转型作品之一。</itunes:summary>
+      <itunes:duration>00:23:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260718/episode-20260718-a848c3.mp3" length="22222125" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
