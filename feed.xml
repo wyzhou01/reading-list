@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 18 Jul 2026 07:57:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 16:27:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11946,6 +11946,17 @@
       <itunes:duration>00:16:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260718/episode-20260718-bd3ee9.mp3" length="16101165" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《怎样做成大事》 · 完整版 · 怎样做成大事 · 完整讲读</title>
+      <description>《怎样做成大事》是丹麦工程经济学家傅以斌基于全球二十多个领域、一万六千多个大型项目数据的集大成之作。书中揭露了一个触目惊心的真相：只有百分之零点五的大型项目能在成本、时间、效益三项上同时达标。傅以斌将失败归因于&quot;快思考、慢行动&quot;的普遍惯性，以及承诺谬误与规划谬误的系统性误导，并提出了三大核心药方：慢思快干、参照类预测、模块化拆分，以及十一条思维启发式。本书既是严谨的学术著作，也是可读性极强的实操指南，适合每一个想要做成事的人——从装修厨房到筹办奥运会，底层逻辑完全一致。</description>
+      <pubDate>Sat, 18 Jul 2026 16:26:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260719-episode-20260719-277409</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《怎样做成大事》是丹麦工程经济学家傅以斌基于全球二十多个领域、一万六千多个大型项目数据的集大成之作。书中揭露了一个触目惊心的真相：只有百分之零点五的大型项目能在成本、时间、效益三项上同时达标。傅以斌将失败归因于&quot;快思考、慢行动&quot;的普遍惯性，以及承诺谬误与规划谬误的系统性误导，并提出了三大核心药方：慢思快干、参照类预测、模块化拆分，以及十一条思维启发式。本书既是严谨的学术著作，也是可读性极强的实操指南，适合每一个想要做成事的人——从装修厨房到筹办奥运会，底层逻辑完全一致。</itunes:summary>
+      <itunes:duration>00:35:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260719/episode-20260719-277409.mp3" length="34391085" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
