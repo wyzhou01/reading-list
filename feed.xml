@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 18 Jul 2026 21:45:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 21:50:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12034,6 +12034,17 @@
       <itunes:duration>00:30:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260719/episode-20260719-c55f43.mp3" length="29735085" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我看见的世界》 · 完整版 · 看见-柴静 · 完整讲读</title>
+      <description>《看见》是柴静对自己十年新闻生涯的回顾与自省，记录了她从一个只会念稿的演播室主持人，蜕变成一个能看见具体的人的记者的过程。全书以非典病房、汶川地震、山西艾滋村、药家鑫案、华南虎照造假、卢安克支教等具体的人与事为线索，追问新闻工作者如何在算法时代、民意沸腾、情绪先行的环境里守住事实、放下预判、尊重沉默。贯穿全书的题眼是陈虻那句话——不要因为走得太远，忘了我们为什么出发。</description>
+      <pubDate>Fri, 19 Jun 2026 14:29:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260719-episode-20260719-58b8b7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《看见》是柴静对自己十年新闻生涯的回顾与自省，记录了她从一个只会念稿的演播室主持人，蜕变成一个能看见具体的人的记者的过程。全书以非典病房、汶川地震、山西艾滋村、药家鑫案、华南虎照造假、卢安克支教等具体的人与事为线索，追问新闻工作者如何在算法时代、民意沸腾、情绪先行的环境里守住事实、放下预判、尊重沉默。贯穿全书的题眼是陈虻那句话——不要因为走得太远，忘了我们为什么出发。</itunes:summary>
+      <itunes:duration>00:27:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260719/episode-20260719-58b8b7.mp3" length="26188461" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
