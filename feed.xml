@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 18 Jul 2026 17:21:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 17:28:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11990,6 +11990,17 @@
       <itunes:duration>00:27:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260719/episode-20260719-027f6d.mp3" length="26529837" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《微积分的力量》 · 完整版 · 微积分的力量 · 完整讲读</title>
+      <description>《微积分的力量》是康奈尔大学应用数学教授斯托加茨写给所有人的微积分通识读本。书中以两千五百年数学史为线索, 从阿基米德度量圆周率、伽利略与开普勒破解运动之谜, 到麦克斯韦用方程预言电磁波, 再到二十一世纪人类用引力波听懂黑洞碰撞, 揭示同一个核心洞见: 微积分不是一堆可怕符号, 而是一种把复杂问题切分到无穷小再重组的思维方式。它由两大支柱构成——微分与积分, 核心是所谓的无穷原则。这套语言之所以强大, 是因为它能精确描述一切连续变化, 从抛物线到心跳、从电磁波到 GPS 定位, 几乎所有现代科技的背后都站着微分方程。斯托加茨以应用数学家的视角强调, 微积分从来不是天才的孤独发明, 而是与实验科学数千年并肩前行的产物。在人工智能与量子计算重塑认知的今天, 这本书既是写给所有人的科学史, 也是一次关于敬畏与耐心的提醒。</description>
+      <pubDate>Sat, 18 Jul 2026 17:28:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260719-episode-20260719-912809</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《微积分的力量》是康奈尔大学应用数学教授斯托加茨写给所有人的微积分通识读本。书中以两千五百年数学史为线索, 从阿基米德度量圆周率、伽利略与开普勒破解运动之谜, 到麦克斯韦用方程预言电磁波, 再到二十一世纪人类用引力波听懂黑洞碰撞, 揭示同一个核心洞见: 微积分不是一堆可怕符号, 而是一种把复杂问题切分到无穷小再重组的思维方式。它由两大支柱构成——微分与积分, 核心是所谓的无穷原则。这套语言之所以强大, 是因为它能精确描述一切连续变化, 从抛物线到心跳、从电磁波到 GPS 定位, 几乎所有现代科技的背后都站着微分方程。斯托加茨以应用数学家的视角强调, 微积分从来不是天才的孤独发明, 而是与实验科学数千年并肩前行的产物。在人工智能与量子计算重塑认知的今天, 这本书既是写给所有人的科学史, 也是一次关于敬畏与耐心的提醒。</itunes:summary>
+      <itunes:duration>00:31:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260719/episode-20260719-912809.mp3" length="30538413" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
