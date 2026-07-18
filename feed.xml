@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 18 Jul 2026 21:21:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 21:27:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12012,6 +12012,17 @@
       <itunes:duration>00:43:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260719/episode-20260719-b10221.mp3" length="41546157" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《错乱》 · 完整版 · 错乱 · 完整讲读</title>
+      <description>一名流亡海外的萨尔瓦多作家受邀前往危地马拉，为天主教会编辑一份记录内战屠杀的千页证词档案。在大主教区幽闭的办公室中，他一边面对令人崩溃的血腥材料，一边陷入日益加重的被迫害妄想与精神错乱。小说以第一人称独白和密集的心理描写，将中美洲的暴力创伤、个体恐惧与黑色幽默熔于一炉，最终演变为对暴力的控诉与对自我的追问。</description>
+      <pubDate>Sat, 18 Jul 2026 21:27:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260719-episode-20260719-c32a29</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一名流亡海外的萨尔瓦多作家受邀前往危地马拉，为天主教会编辑一份记录内战屠杀的千页证词档案。在大主教区幽闭的办公室中，他一边面对令人崩溃的血腥材料，一边陷入日益加重的被迫害妄想与精神错乱。小说以第一人称独白和密集的心理描写，将中美洲的暴力创伤、个体恐惧与黑色幽默熔于一炉，最终演变为对暴力的控诉与对自我的追问。</itunes:summary>
+      <itunes:duration>00:31:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260719/episode-20260719-c32a29.mp3" length="30485421" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
