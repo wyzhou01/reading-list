@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 17 Jul 2026 21:51:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 07:24:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -11891,6 +11891,17 @@
       <itunes:duration>00:30:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260718/episode-20260718-c29a61.mp3" length="29699373" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《燕食记》 · 完整版 · 燕食记 · 完整讲读</title>
+      <description>葛亮长篇小说《燕食记》以岭南饮食为经、以近现代史为纬，写厨人师徒的传承与一间老字号的沉浮。核心追问：技艺、仁德与信义如何在动荡历史中安放？一个普通人如何确认&apos;我是谁&apos;？三位评论人李敬泽、王德威、杨庆祥从历史书写、结构经营与抗战叙事三个维度肯定其价值，学者陈培浩则从&apos;厨人的诞生&apos;与&apos;精神成人&apos;两个命题切入，将其定位为中国式伦理小说的当代典范。</description>
+      <pubDate>Sat, 18 Jul 2026 07:23:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260718-episode-20260718-7e4923</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>葛亮长篇小说《燕食记》以岭南饮食为经、以近现代史为纬，写厨人师徒的传承与一间老字号的沉浮。核心追问：技艺、仁德与信义如何在动荡历史中安放？一个普通人如何确认&apos;我是谁&apos;？三位评论人李敬泽、王德威、杨庆祥从历史书写、结构经营与抗战叙事三个维度肯定其价值，学者陈培浩则从&apos;厨人的诞生&apos;与&apos;精神成人&apos;两个命题切入，将其定位为中国式伦理小说的当代典范。</itunes:summary>
+      <itunes:duration>00:23:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260718/episode-20260718-7e4923.mp3" length="22550445" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
