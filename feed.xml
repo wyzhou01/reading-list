@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 18 Jul 2026 17:28:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 21:21:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12001,6 +12001,17 @@
       <itunes:duration>00:31:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260719/episode-20260719-912809.mp3" length="30538413" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《云游》 · 完整版 · 云游 · 完整讲读</title>
+      <description>《云游》是二零一八年诺贝尔文学奖得主、波兰作家奥尔加·托卡尔丘克的代表作，以一百多个互不相关的短章构成一张星群式的叙事网络。游牧者不停地移动，解剖学家切开尸体，塑化者保留躯体，机场和博物馆交替出现。托卡尔丘克用碎片化的形式，论证了三件事：动比静更高尚，因为流动才是对抗熵增与死亡的方式；身体本身就是一片需要被诚实勘察的疆域；碎片才是真相，因为线性叙事是帝国删改历史的方式，而游牧者必须以星群的方式讲述自己。本书最终于二零一九年助力托卡尔丘克斩获国际布克奖，并把她的声望推向诺贝尔文学奖。</description>
+      <pubDate>Sat, 18 Jul 2026 21:21:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260719-episode-20260719-b10221</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《云游》是二零一八年诺贝尔文学奖得主、波兰作家奥尔加·托卡尔丘克的代表作，以一百多个互不相关的短章构成一张星群式的叙事网络。游牧者不停地移动，解剖学家切开尸体，塑化者保留躯体，机场和博物馆交替出现。托卡尔丘克用碎片化的形式，论证了三件事：动比静更高尚，因为流动才是对抗熵增与死亡的方式；身体本身就是一片需要被诚实勘察的疆域；碎片才是真相，因为线性叙事是帝国删改历史的方式，而游牧者必须以星群的方式讲述自己。本书最终于二零一九年助力托卡尔丘克斩获国际布克奖，并把她的声望推向诺贝尔文学奖。</itunes:summary>
+      <itunes:duration>00:43:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260719/episode-20260719-b10221.mp3" length="41546157" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
