@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 19 Jul 2026 16:32:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 16:41:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12122,6 +12122,17 @@
       <itunes:duration>00:27:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260720/episode-20260720-376856.mp3" length="25948461" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《重生》 · 完整版 · 重生 · 完整讲读</title>
+      <description>《重生》是二〇一九年泰国乌汶坠崖案当事人王暖暖的亲笔回忆录。她怀孕三个半月时被丈夫俞晓冬从三十四米高的悬崖推下，奇迹生还。本书完整回溯了坠崖瞬间的身体感受、ICU 病房里与丈夫的二次死亡博弈、跨国救援中陌生人伸出的手，以及八次手术、三年轮椅之后如何把伤疤变成勋章。它既是一份亲密关系伪装的识别手册，也是一份绝境自救的心理指南，更是一封写给所有在低谷中的人的信：重生从来不是遗忘伤痛，而是学会带着伤痕奔跑。</description>
+      <pubDate>Sun, 19 Jul 2026 16:41:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260720-episode-20260720-615636</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《重生》是二〇一九年泰国乌汶坠崖案当事人王暖暖的亲笔回忆录。她怀孕三个半月时被丈夫俞晓冬从三十四米高的悬崖推下，奇迹生还。本书完整回溯了坠崖瞬间的身体感受、ICU 病房里与丈夫的二次死亡博弈、跨国救援中陌生人伸出的手，以及八次手术、三年轮椅之后如何把伤疤变成勋章。它既是一份亲密关系伪装的识别手册，也是一份绝境自救的心理指南，更是一封写给所有在低谷中的人的信：重生从来不是遗忘伤痛，而是学会带着伤痕奔跑。</itunes:summary>
+      <itunes:duration>00:32:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260720/episode-20260720-615636.mp3" length="30910125" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
