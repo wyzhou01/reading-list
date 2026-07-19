@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 19 Jul 2026 07:53:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 08:04:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12089,6 +12089,17 @@
       <itunes:duration>00:29:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260719/episode-20260719-85b1ae.mp3" length="28376109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《饱食穷民》 · 完整版 · 饱食穷民 · 完整讲读</title>
+      <description>《饱食穷民》是日本纪实文学作家斋藤茂男写于泡沫经济时代的代表作，记录了八十年代中期到九十年代初，被消费主义、效率至上与家庭规训碾压的普通人的真实处境：借债度日的上班族、被计算机异化的工程师、在厌食与暴食间挣扎的女性。它照见的不仅是三十年前的东京，更是今天每一个在深夜问出「我这究竟是在干什么」的普通人——一本写给所有「饱食时代囚徒」的醒世之书。</description>
+      <pubDate>Sun, 19 Jul 2026 08:04:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260719-episode-20260719-a37f88</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《饱食穷民》是日本纪实文学作家斋藤茂男写于泡沫经济时代的代表作，记录了八十年代中期到九十年代初，被消费主义、效率至上与家庭规训碾压的普通人的真实处境：借债度日的上班族、被计算机异化的工程师、在厌食与暴食间挣扎的女性。它照见的不仅是三十年前的东京，更是今天每一个在深夜问出「我这究竟是在干什么」的普通人——一本写给所有「饱食时代囚徒」的醒世之书。</itunes:summary>
+      <itunes:duration>00:33:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260719/episode-20260719-a37f88.mp3" length="32554413" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
