@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 19 Jul 2026 08:04:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 16:23:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12100,6 +12100,17 @@
       <itunes:duration>00:33:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260719/episode-20260719-a37f88.mp3" length="32554413" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《梁永安：阅读、游历和爱情》 · 完整版 · 梁永安：阅读、游历和爱情 · 完整讲读</title>
+      <description>《梁永安：阅读、游历和爱情》是复旦教授梁永安写给当代青年的一封长信。全书以他在云南怒江插队的青春记忆为起点，围绕自我定位、工作选择、人格养成、爱情、孤独、阅读等十二大议题，回应了转型时代年轻人的普遍焦虑。梁永安认为，自我不是被找到的，而是被打开的；爱情不是方舟，而是两个独立者之间的精神相遇；孤独不是病态，而是自由生活的起点；阅读不是充电，而是生命的扩展。整本书既是一代人的精神回望，也是一代人的成长指南，邀请读者在越来越快的时代里，慢下来，去阅读，去游历，去爱，去活成一个独立而完整的人。</description>
+      <pubDate>Sun, 19 Jul 2026 16:21:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260720-episode-20260720-51ae3b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《梁永安：阅读、游历和爱情》是复旦教授梁永安写给当代青年的一封长信。全书以他在云南怒江插队的青春记忆为起点，围绕自我定位、工作选择、人格养成、爱情、孤独、阅读等十二大议题，回应了转型时代年轻人的普遍焦虑。梁永安认为，自我不是被找到的，而是被打开的；爱情不是方舟，而是两个独立者之间的精神相遇；孤独不是病态，而是自由生活的起点；阅读不是充电，而是生命的扩展。整本书既是一代人的精神回望，也是一代人的成长指南，邀请读者在越来越快的时代里，慢下来，去阅读，去游历，去爱，去活成一个独立而完整的人。</itunes:summary>
+      <itunes:duration>00:28:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260720/episode-20260720-51ae3b.mp3" length="27450669" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
