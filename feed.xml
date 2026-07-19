@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 19 Jul 2026 16:54:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 21:28:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12155,6 +12155,17 @@
       <itunes:duration>00:25:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260720/episode-20260720-c1d8cb.mp3" length="24050733" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《追风筝的人》 · 完整版 · 追风筝的人——卡勒德·胡赛尼 · 完整讲读</title>
+      <description>《追风筝的人》是卡勒德·胡赛尼的处女作，讲述阿富汗少年阿米尔因懦弱背叛了仆人哈桑，多年后重返战火中的故国，以自我救赎找回了那个他亏欠的人与那份他欠下的爱。本书是西方主流畅销榜上首部阿富汗人用英文写作的小说，全球销量超过七千万册，被翻译成七十多种语言。它把一个私人故事放进阿富汗数十年的动荡里，写背叛与救赎、写阶级与种族、写父爱与认同，写每一个普通人这一生都可能遇到的那个“想要回避的瞬间“——以及在那个瞬间之后，一个人究竟要怎样，才能重新成为一个好人。</description>
+      <pubDate>Sun, 19 Jul 2026 21:28:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260720-episode-20260720-e3b8f6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《追风筝的人》是卡勒德·胡赛尼的处女作，讲述阿富汗少年阿米尔因懦弱背叛了仆人哈桑，多年后重返战火中的故国，以自我救赎找回了那个他亏欠的人与那份他欠下的爱。本书是西方主流畅销榜上首部阿富汗人用英文写作的小说，全球销量超过七千万册，被翻译成七十多种语言。它把一个私人故事放进阿富汗数十年的动荡里，写背叛与救赎、写阶级与种族、写父爱与认同，写每一个普通人这一生都可能遇到的那个“想要回避的瞬间“——以及在那个瞬间之后，一个人究竟要怎样，才能重新成为一个好人。</itunes:summary>
+      <itunes:duration>00:33:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260720/episode-20260720-e3b8f6.mp3" length="32564397" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
