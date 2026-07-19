@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 19 Jul 2026 07:44:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 07:53:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12078,6 +12078,17 @@
       <itunes:duration>00:34:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260719/episode-20260719-bf5b8f.mp3" length="33195693" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《驽马：&apos;流人&apos;系列01》 · 完整版 · 驽马：_“流人”系列01 · 完整讲读</title>
+      <description>《驽马》是英国间谍小说家米克·赫伦&quot;流人&quot;系列第一部。瑞弗·卡特怀特，军情五处前明星特工，因地铁站爆炸案的间接责任被发配至斯劳屋——一个藏身于伦敦芬斯伯里灰黄色破楼、专门收容失意特工的边缘部门。斯劳屋没有门铃、没有招牌，夹在中餐厅和杂货店之间，由懒散却精于操盘的杰克逊·兰姆统领。一桩巴基斯坦裔男孩绑架案意外砸到这群失败者头上，瑞弗不得不在烂摊子里重新证明自己的价值。本书用英式冷幽默与慢热群像，后冷战时代情报体制的内部腐败、权力交易与陈年旧案，以及每一个失败者各自背负的秘密与罪愆，颠覆了传统间谍小说的英雄叙事，被誉为&quot;新时代间谍小说封神之作&quot;，前五部已改编为 Apple TV 高分剧集《流人》。</description>
+      <pubDate>Sun, 19 Jul 2026 07:52:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260719-episode-20260719-85b1ae</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《驽马》是英国间谍小说家米克·赫伦&quot;流人&quot;系列第一部。瑞弗·卡特怀特，军情五处前明星特工，因地铁站爆炸案的间接责任被发配至斯劳屋——一个藏身于伦敦芬斯伯里灰黄色破楼、专门收容失意特工的边缘部门。斯劳屋没有门铃、没有招牌，夹在中餐厅和杂货店之间，由懒散却精于操盘的杰克逊·兰姆统领。一桩巴基斯坦裔男孩绑架案意外砸到这群失败者头上，瑞弗不得不在烂摊子里重新证明自己的价值。本书用英式冷幽默与慢热群像，后冷战时代情报体制的内部腐败、权力交易与陈年旧案，以及每一个失败者各自背负的秘密与罪愆，颠覆了传统间谍小说的英雄叙事，被誉为&quot;新时代间谍小说封神之作&quot;，前五部已改编为 Apple TV 高分剧集《流人》。</itunes:summary>
+      <itunes:duration>00:29:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260719/episode-20260719-85b1ae.mp3" length="28376109" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
