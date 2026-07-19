@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 19 Jul 2026 21:50:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 21:57:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12199,6 +12199,17 @@
       <itunes:duration>00:27:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260720/episode-20260720-11b428.mp3" length="26778669" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《偶然的创造》 · 完整版 · 偶然的创造 · 完整讲读</title>
+      <description>《偶然的创造》是意大利匿名作家埃莱娜·费兰特二零一七至二零一九年为《卫报》所写的五十二篇专栏合集，她在每周一篇的紧迫节奏中，回答编辑指定的话题，从恐惧、母亲、怀孕、翻译，到谎言、写作、文学的教诲。这本书是费兰特第一次直接面对读者，也是她第一次以非虚构形式把自己的写作伦理摊开：她谈论如何在不完美的世界里练习说出真话，如何在恐惧中承认自己软弱，如何在荒谬中发笑。她拒绝把作品和生平捆绑，她坚持用作品代替脸。本书既是碎片化的自传，也是写给所有想在不平等的现实里诚实活着的读者的私人手册。</description>
+      <pubDate>Sun, 19 Jul 2026 21:57:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260720-episode-20260720-d36c3d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《偶然的创造》是意大利匿名作家埃莱娜·费兰特二零一七至二零一九年为《卫报》所写的五十二篇专栏合集，她在每周一篇的紧迫节奏中，回答编辑指定的话题，从恐惧、母亲、怀孕、翻译，到谎言、写作、文学的教诲。这本书是费兰特第一次直接面对读者，也是她第一次以非虚构形式把自己的写作伦理摊开：她谈论如何在不完美的世界里练习说出真话，如何在恐惧中承认自己软弱，如何在荒谬中发笑。她拒绝把作品和生平捆绑，她坚持用作品代替脸。本书既是碎片化的自传，也是写给所有想在不平等的现实里诚实活着的读者的私人手册。</itunes:summary>
+      <itunes:duration>00:36:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260720/episode-20260720-d36c3d.mp3" length="34570029" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
