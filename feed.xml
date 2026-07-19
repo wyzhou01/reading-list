@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 19 Jul 2026 16:23:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 16:32:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12111,6 +12111,17 @@
       <itunes:duration>00:28:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260720/episode-20260720-51ae3b.mp3" length="27450669" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《皮拉内西》 · 完整版 · 皮拉内西 · 完整讲读</title>
+      <description>《皮拉内西》是英国作家苏珊娜·克拉克沉寂十五年后的惊艳之作。小说讲述了一个名叫皮拉内西的人，独自生活在一座由无数大理石大厅组成的巨宅之中，记录潮汐、清点雕像、与死者交谈。他以为这就是全部世界，直到一个叫“那个人”的神秘访客出现，真相才被一层层揭开。原来皮拉内西的真实身份是马修·罗斯·索伦森，一位曾被天才科学家瓦伦丁·凯特利诱骗并抹去记忆的受害者。整部小说是一座精巧的心理迷宫，探讨记忆与身份的脆弱、孤独中的自我建构、以及现实与幻觉之间的边界。最终，皮拉内西选择走出迷宫，回到真实世界，带着他自己的善良与秩序，开始新的人生。</description>
+      <pubDate>Sun, 19 Jul 2026 16:32:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260720-episode-20260720-376856</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《皮拉内西》是英国作家苏珊娜·克拉克沉寂十五年后的惊艳之作。小说讲述了一个名叫皮拉内西的人，独自生活在一座由无数大理石大厅组成的巨宅之中，记录潮汐、清点雕像、与死者交谈。他以为这就是全部世界，直到一个叫“那个人”的神秘访客出现，真相才被一层层揭开。原来皮拉内西的真实身份是马修·罗斯·索伦森，一位曾被天才科学家瓦伦丁·凯特利诱骗并抹去记忆的受害者。整部小说是一座精巧的心理迷宫，探讨记忆与身份的脆弱、孤独中的自我建构、以及现实与幻觉之间的边界。最终，皮拉内西选择走出迷宫，回到真实世界，带着他自己的善良与秩序，开始新的人生。</itunes:summary>
+      <itunes:duration>00:27:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260720/episode-20260720-376856.mp3" length="25948461" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
