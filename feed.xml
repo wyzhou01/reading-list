@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 19 Jul 2026 07:32:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 07:44:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12067,6 +12067,17 @@
       <itunes:duration>00:27:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260719/episode-20260719-d0be4c.mp3" length="26848557" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《现代中国的形成：1600—1949》 · 完整版 · 现代中国的形成（1600-1949 · 完整讲读</title>
+      <description>《现代中国的形成：一六零零到一九四九》是美国历史学家李怀印的代表作。该书跳出革命与现代化的传统叙事框架，以地缘战略、财政构造、政治认同三个分析变项，重新审视三百年间中国从清朝疆域国家到现代主权国家、再到高度集权国家的转型历程。核心论点包括：清朝通过低度均衡的财政机制维持了长期稳定，却埋下十九世纪崩溃的隐患；民国未能完成中央财政的统一，留下结构性的失败遗产；共产党通过根据地建设、阶级动员与土地革命，完成了财政、军事、政治认同的全面集中，奠定了今日中国既大且强的格局。该书挑战了“帝国到民族国家”的西方目的论，揭示了中国国家转型的独特路径，是理解现代中国历史正当性的必读之作。</description>
+      <pubDate>Sun, 19 Jul 2026 07:43:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260719-episode-20260719-bf5b8f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《现代中国的形成：一六零零到一九四九》是美国历史学家李怀印的代表作。该书跳出革命与现代化的传统叙事框架，以地缘战略、财政构造、政治认同三个分析变项，重新审视三百年间中国从清朝疆域国家到现代主权国家、再到高度集权国家的转型历程。核心论点包括：清朝通过低度均衡的财政机制维持了长期稳定，却埋下十九世纪崩溃的隐患；民国未能完成中央财政的统一，留下结构性的失败遗产；共产党通过根据地建设、阶级动员与土地革命，完成了财政、军事、政治认同的全面集中，奠定了今日中国既大且强的格局。该书挑战了“帝国到民族国家”的西方目的论，揭示了中国国家转型的独特路径，是理解现代中国历史正当性的必读之作。</itunes:summary>
+      <itunes:duration>00:34:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260719/episode-20260719-bf5b8f.mp3" length="33195693" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
