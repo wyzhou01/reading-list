@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 19 Jul 2026 07:24:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 07:32:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12056,6 +12056,17 @@
       <itunes:duration>00:33:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260719/episode-20260719-560745.mp3" length="32416557" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《带一本书去巴黎》 · 完整版 · 带一本书去巴黎 · 完整讲读</title>
+      <description>《带一本书去巴黎》是林达二零零二年出版的旅行笔记，写一对美籍华人作家夫妇带着一本一九七八年版《九三年》游历巴黎的经历。全书以雨果的人道主义为线索，穿过协和广场、先贤祠、巴黎圣母院、凡尔赛宫、巴士底狱旧址，把法国大革命两百年的精神史——从一七八九年的暴力狂欢、拿破仑的权力膨胀、奥斯曼的城市推土机，到雨果《九三年》里“革命之上还有人道”的追问——串成一条主线。林达真正想说的不是巴黎，而是阅读：石头会被推倒，王朝会更替，只有文字能让一座城市不朽；理想若没有制度托底便是插在沙滩的旗；一个民族学会尊重弱者，比学会推翻强者，要多花一百年。</description>
+      <pubDate>Sun, 19 Jul 2026 07:31:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260719-episode-20260719-d0be4c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《带一本书去巴黎》是林达二零零二年出版的旅行笔记，写一对美籍华人作家夫妇带着一本一九七八年版《九三年》游历巴黎的经历。全书以雨果的人道主义为线索，穿过协和广场、先贤祠、巴黎圣母院、凡尔赛宫、巴士底狱旧址，把法国大革命两百年的精神史——从一七八九年的暴力狂欢、拿破仑的权力膨胀、奥斯曼的城市推土机，到雨果《九三年》里“革命之上还有人道”的追问——串成一条主线。林达真正想说的不是巴黎，而是阅读：石头会被推倒，王朝会更替，只有文字能让一座城市不朽；理想若没有制度托底便是插在沙滩的旗；一个民族学会尊重弱者，比学会推翻强者，要多花一百年。</itunes:summary>
+      <itunes:duration>00:27:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260719/episode-20260719-d0be4c.mp3" length="26848557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
