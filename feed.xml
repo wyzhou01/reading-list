@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 19 Jul 2026 21:28:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 21:36:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12166,6 +12166,17 @@
       <itunes:duration>00:33:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260720/episode-20260720-e3b8f6.mp3" length="32564397" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《拳：寻找中国人失落的文武之道》 · 完整版 · 拳：寻找中国人失落的文武之道 · 完整讲读</title>
+      <description>《拳：寻找中国人失落的文武之道》是作家须一瓜的小说式回忆录，记述1983至1986年间，作者在成都读历史系时，对中华武术的追索与青春迷惘。全书以校园生活为经、田野调查为纬，穿梭于老茶馆、汉墓、城墙与市井烟火之间，写老王的拳、老鲁的力、掺茶师傅的腿、太极老人的势。作者借一个个无名高手的消失，追问文与武断裂的根源：不是我们变聪明了，而是我们变单一了。这本书与其姊妹篇《春山》互为镜像，共同构成对中国人精神世界的深度叩问，提醒读者：找回失落的文武之道，不是复古，而是回归生命的完整。</description>
+      <pubDate>Sun, 19 Jul 2026 21:36:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260720-episode-20260720-4800ec</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《拳：寻找中国人失落的文武之道》是作家须一瓜的小说式回忆录，记述1983至1986年间，作者在成都读历史系时，对中华武术的追索与青春迷惘。全书以校园生活为经、田野调查为纬，穿梭于老茶馆、汉墓、城墙与市井烟火之间，写老王的拳、老鲁的力、掺茶师傅的腿、太极老人的势。作者借一个个无名高手的消失，追问文与武断裂的根源：不是我们变聪明了，而是我们变单一了。这本书与其姊妹篇《春山》互为镜像，共同构成对中国人精神世界的深度叩问，提醒读者：找回失落的文武之道，不是复古，而是回归生命的完整。</itunes:summary>
+      <itunes:duration>00:27:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260720/episode-20260720-4800ec.mp3" length="26736813" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
