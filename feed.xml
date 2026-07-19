@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 19 Jul 2026 21:36:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 21:43:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12177,6 +12177,17 @@
       <itunes:duration>00:27:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260720/episode-20260720-4800ec.mp3" length="26736813" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《罪与罚》 · 完整版 · 罪与罚 · 完整讲读</title>
+      <description>《罪与罚》是俄国文豪陀思妥耶夫斯基于一八六六年写成的心理小说巅峰之作。穷大学生拉斯柯尔尼科夫在彼得堡的酷暑中，用一套自创的“超人理论”为自己论证杀人的合理性，杀死了放高利贷的老太婆。然而，杀人并未让他成为主人，反而让他陷入了长达数月的精神崩溃。真正的惩罚不是法庭，而是他自己在每一件善事、每一个被他伤害的人身上看见的良心。最终，他选择向警方自首，被流放西伯利亚，在同样被迫出卖灵魂的姑娘索尼雅的陪伴下，开始了一场漫长的、缓慢的、无人鼓掌的复活。</description>
+      <pubDate>Sun, 19 Jul 2026 21:43:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260720-episode-20260720-030ca0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《罪与罚》是俄国文豪陀思妥耶夫斯基于一八六六年写成的心理小说巅峰之作。穷大学生拉斯柯尔尼科夫在彼得堡的酷暑中，用一套自创的“超人理论”为自己论证杀人的合理性，杀死了放高利贷的老太婆。然而，杀人并未让他成为主人，反而让他陷入了长达数月的精神崩溃。真正的惩罚不是法庭，而是他自己在每一件善事、每一个被他伤害的人身上看见的良心。最终，他选择向警方自首，被流放西伯利亚，在同样被迫出卖灵魂的姑娘索尼雅的陪伴下，开始了一场漫长的、缓慢的、无人鼓掌的复活。</itunes:summary>
+      <itunes:duration>00:26:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260720/episode-20260720-030ca0.mp3" length="25449261" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
