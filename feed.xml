@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 18 Jul 2026 21:50:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 07:24:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12045,6 +12045,17 @@
       <itunes:duration>00:27:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260719/episode-20260719-58b8b7.mp3" length="26188461" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《昨日的世界：一个欧洲人的回忆》 · 完整版 · 昨日的世界 · 完整讲读</title>
+      <description>《昨日的世界》是犹太裔奥地利作家茨威格流亡期间凭记忆写成的一部回忆录,记录了从哈布斯堡王朝黄金年代到两次世界大战的欧洲崩塌史。它不仅是一个人的流亡史,更是一代知识分子的精神挽歌——他们曾经相信跨国的精神欧洲、相信进步不可逆转、相信和平与宽容是欧洲的根基,却在二十世纪上半叶的极权与战争中,亲眼目睹这一切被碾碎。在民族主义高涨、和平主义受挫的今天,这部作品提醒我们:国际秩序与人道主义价值从来不是理所当然的,需要每一代人持续维护。</description>
+      <pubDate>Sun, 19 Jul 2026 07:23:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260719-episode-20260719-560745</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《昨日的世界》是犹太裔奥地利作家茨威格流亡期间凭记忆写成的一部回忆录,记录了从哈布斯堡王朝黄金年代到两次世界大战的欧洲崩塌史。它不仅是一个人的流亡史,更是一代知识分子的精神挽歌——他们曾经相信跨国的精神欧洲、相信进步不可逆转、相信和平与宽容是欧洲的根基,却在二十世纪上半叶的极权与战争中,亲眼目睹这一切被碾碎。在民族主义高涨、和平主义受挫的今天,这部作品提醒我们:国际秩序与人道主义价值从来不是理所当然的,需要每一代人持续维护。</itunes:summary>
+      <itunes:duration>00:33:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260719/episode-20260719-560745.mp3" length="32416557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
