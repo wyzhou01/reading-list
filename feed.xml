@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 19 Jul 2026 21:43:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 21:50:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12188,6 +12188,17 @@
       <itunes:duration>00:26:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260720/episode-20260720-030ca0.mp3" length="25449261" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《疾病的隐喻》 · 完整版 · 疾病的隐喻 · 完整讲读</title>
+      <description>《疾病的隐喻》是苏珊·桑塔格一九七八年与一九八九年两篇长文的合集。她以自身罹癌经历为起点，逐条拆解结核病、癌症、艾滋病如何被一步步道德化、政治化、浪漫化，揭示附着在疾病之上的隐喻如何反过来给患者制造比疾病本身更致命的羞耻。她主张把隐喻一层层拆开，还疾病以本来的身体面目，并提醒读者：对抗隐喻的工程永远不会一劳永逸。今天，每一种流行病被污名化的瞬间，几乎都能在桑塔格三十多年前的论述里找到精准的回响。</description>
+      <pubDate>Sun, 19 Jul 2026 21:50:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260720-episode-20260720-11b428</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《疾病的隐喻》是苏珊·桑塔格一九七八年与一九八九年两篇长文的合集。她以自身罹癌经历为起点，逐条拆解结核病、癌症、艾滋病如何被一步步道德化、政治化、浪漫化，揭示附着在疾病之上的隐喻如何反过来给患者制造比疾病本身更致命的羞耻。她主张把隐喻一层层拆开，还疾病以本来的身体面目，并提醒读者：对抗隐喻的工程永远不会一劳永逸。今天，每一种流行病被污名化的瞬间，几乎都能在桑塔格三十多年前的论述里找到精准的回响。</itunes:summary>
+      <itunes:duration>00:27:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260720/episode-20260720-11b428.mp3" length="26778669" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
