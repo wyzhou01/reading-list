@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 19 Jul 2026 16:50:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 16:54:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12144,6 +12144,17 @@
       <itunes:duration>00:29:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260720/episode-20260720-ce68be.mp3" length="27905325" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《四合如意》 · 完整版 · 四合如意_-_张怡微 · 完整讲读</title>
+      <description>《四合如意》是张怡微二零二一年出版的短篇小说集，以十二个宋元曲牌为章节名，串起十二个发生在大时代下小人物之间的上海故事。书中聚焦买房焦虑、相亲怪相、海归返乡、女性在婚姻与自我间的挣扎等议题，写出了一群三十岁上下、为房子和婚姻疲惫不堪的都市边缘人的精神群像——他们被困在城市规则里，被亲情旧账缠住，在&apos;对自己好一点&apos;的口号里，依旧活得兵荒马乱。</description>
+      <pubDate>Fri, 03 Jul 2026 21:25:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260720-episode-20260720-c1d8cb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《四合如意》是张怡微二零二一年出版的短篇小说集，以十二个宋元曲牌为章节名，串起十二个发生在大时代下小人物之间的上海故事。书中聚焦买房焦虑、相亲怪相、海归返乡、女性在婚姻与自我间的挣扎等议题，写出了一群三十岁上下、为房子和婚姻疲惫不堪的都市边缘人的精神群像——他们被困在城市规则里，被亲情旧账缠住，在&apos;对自己好一点&apos;的口号里，依旧活得兵荒马乱。</itunes:summary>
+      <itunes:duration>00:25:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260720/episode-20260720-c1d8cb.mp3" length="24050733" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
