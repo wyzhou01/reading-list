@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 19 Jul 2026 16:41:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 16:50:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12133,6 +12133,17 @@
       <itunes:duration>00:32:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260720/episode-20260720-615636.mp3" length="30910125" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《早晨从中午开始》 · 完整版 · 早晨从中午开始 · 完整讲读</title>
+      <description>《早晨从中午开始》是作家路遥写给自己也写给世界的一封长信，记录了他从一九八二年到一九八八年用六年时间创作百万字长篇小说《平凡的世界》的全过程。他每天工作十八个小时，抽两包烟，凌晨三点睡中午十二点起，把自己关在陕北窑洞里，断绝与文学界的联系，像一个陕北农民种庄稼一样一垄一垄地在稿纸上耕耘。他拒绝了八十年代中期的各种新潮时髦，固执地用&quot;过时&quot;的现实主义方法写普通人，写农村，写煤矿，写一个农家子弟在城市里寻找尊严的故事。这本书告诉我们：劳动本身就是目的，过程本身就是奖赏，作家不是高人一等的人，是劳动者中间普普通通的一员。</description>
+      <pubDate>Sun, 19 Jul 2026 16:49:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260720-episode-20260720-ce68be</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《早晨从中午开始》是作家路遥写给自己也写给世界的一封长信，记录了他从一九八二年到一九八八年用六年时间创作百万字长篇小说《平凡的世界》的全过程。他每天工作十八个小时，抽两包烟，凌晨三点睡中午十二点起，把自己关在陕北窑洞里，断绝与文学界的联系，像一个陕北农民种庄稼一样一垄一垄地在稿纸上耕耘。他拒绝了八十年代中期的各种新潮时髦，固执地用&quot;过时&quot;的现实主义方法写普通人，写农村，写煤矿，写一个农家子弟在城市里寻找尊严的故事。这本书告诉我们：劳动本身就是目的，过程本身就是奖赏，作家不是高人一等的人，是劳动者中间普普通通的一员。</itunes:summary>
+      <itunes:duration>00:29:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260720/episode-20260720-ce68be.mp3" length="27905325" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
