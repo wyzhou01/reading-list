@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 20 Jul 2026 07:32:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 07:42:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12232,6 +12232,17 @@
       <itunes:duration>00:22:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260720/episode-20260720-89b31d.mp3" length="21409581" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《当我们不再理解世界》 · 完整版 · 当我们不再理解世界 · 完整讲读</title>
+      <description>《当我们不再理解世界》是智利作家本杰明·拉巴图特的一本非虚构作品，用真实又近乎魔幻的笔触，把普鲁士蓝与纳粹毒气、史瓦西与黑洞、爱因斯坦与玻尔的量子论战，以及隐居数学家格罗滕迪克的命运串联在一起，反复追问：当人类的智慧触及自然的极限，理解本身是否会反过来吞噬理解者。本书提示：科学从不干净，理解永远带着毁灭与拯救的双面刃；而当下，我们正生活在一种“使用走在理解前面“的时代——这正是理解正在变成稀缺品的缘由。</description>
+      <pubDate>Mon, 20 Jul 2026 07:42:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260720-episode-20260720-92d20e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《当我们不再理解世界》是智利作家本杰明·拉巴图特的一本非虚构作品，用真实又近乎魔幻的笔触，把普鲁士蓝与纳粹毒气、史瓦西与黑洞、爱因斯坦与玻尔的量子论战，以及隐居数学家格罗滕迪克的命运串联在一起，反复追问：当人类的智慧触及自然的极限，理解本身是否会反过来吞噬理解者。本书提示：科学从不干净，理解永远带着毁灭与拯救的双面刃；而当下，我们正生活在一种“使用走在理解前面“的时代——这正是理解正在变成稀缺品的缘由。</itunes:summary>
+      <itunes:duration>00:28:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260720/episode-20260720-92d20e.mp3" length="27329325" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
