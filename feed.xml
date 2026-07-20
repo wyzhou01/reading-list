@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 20 Jul 2026 16:24:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 21:23:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12276,6 +12276,17 @@
       <itunes:duration>00:32:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260721/episode-20260721-aa523f.mp3" length="31215789" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《永隔一江水》 · 完整版 · 永隔一江水 · 完整讲读</title>
+      <description>《永隔一江水》是青年作家邓安庆的&quot;邓垸系列&quot;集大成之作，以长江边的虚构村庄邓垸为舞台，用十六万字、七个故事，写两个少年昭昭和建桥从初一寒假到几十年后的四季成长。全书以最大公约数的南方方言写作，自觉借鉴小津安二郎、侯孝贤的镜头语言，摒弃强情节、强冲突，转而用氛围、细节、凝视去呈现普通人的命运。最终篇停在长江中央，昭昭陪着归乡的贵红姐坐轮渡过江，物是人非，江水依旧。这本书既为中国乡村留存了一份珍贵的文学档案，也为每一个离乡的人，提供了一面回望来路的镜子。</description>
+      <pubDate>Mon, 20 Jul 2026 21:22:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260721-episode-20260721-18f37e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《永隔一江水》是青年作家邓安庆的&quot;邓垸系列&quot;集大成之作，以长江边的虚构村庄邓垸为舞台，用十六万字、七个故事，写两个少年昭昭和建桥从初一寒假到几十年后的四季成长。全书以最大公约数的南方方言写作，自觉借鉴小津安二郎、侯孝贤的镜头语言，摒弃强情节、强冲突，转而用氛围、细节、凝视去呈现普通人的命运。最终篇停在长江中央，昭昭陪着归乡的贵红姐坐轮渡过江，物是人非，江水依旧。这本书既为中国乡村留存了一份珍贵的文学档案，也为每一个离乡的人，提供了一面回望来路的镜子。</itunes:summary>
+      <itunes:duration>00:26:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260721/episode-20260721-18f37e.mp3" length="25741485" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
