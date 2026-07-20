@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 20 Jul 2026 21:43:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 21:49:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12320,6 +12320,17 @@
       <itunes:duration>00:28:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260721/episode-20260721-725136.mp3" length="27018285" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《有花生的寻常一天：雪莉·杰克逊短篇小说集》 · 完整版 · 有花生的寻常一天 · 完整讲读</title>
+      <description>《有花生的寻常一天》是美国短篇大师雪莉·杰克逊的代表作精选集。杰克逊被誉为让人“头皮被削掉”的作家，她用二十三个看似平常的故事，撕开新英格兰乡村宁静的表象，揭示出潜伏在日常深处的集体暴力、闲言碎语的腐蚀、亲密关系中的压抑杀意、匿名信背后的恶意算计，以及被道德绑架后的怀疑与退缩。从《抽彩》中被邻居亲手处死的中年主妇，到《一念之间》中差点举起烟灰缸砸向丈夫的妻子，再到《邪恶的可能》中用匿名信操纵全镇的“好心老太太”，杰克逊用冷峻的手术刀证明：真正恐怖的不是鬼故事，而是你和我每天过的日子。本书出版于一九四八年首部短篇集《抽彩》之后的半个多世纪，今天重读，依然能在每一次网络审判、每一次餐桌闲谈、每一次匿名转发中，照见那个往口袋里塞石头的自己。</description>
+      <pubDate>Mon, 20 Jul 2026 21:49:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260721-episode-20260721-c081c4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《有花生的寻常一天》是美国短篇大师雪莉·杰克逊的代表作精选集。杰克逊被誉为让人“头皮被削掉”的作家，她用二十三个看似平常的故事，撕开新英格兰乡村宁静的表象，揭示出潜伏在日常深处的集体暴力、闲言碎语的腐蚀、亲密关系中的压抑杀意、匿名信背后的恶意算计，以及被道德绑架后的怀疑与退缩。从《抽彩》中被邻居亲手处死的中年主妇，到《一念之间》中差点举起烟灰缸砸向丈夫的妻子，再到《邪恶的可能》中用匿名信操纵全镇的“好心老太太”，杰克逊用冷峻的手术刀证明：真正恐怖的不是鬼故事，而是你和我每天过的日子。本书出版于一九四八年首部短篇集《抽彩》之后的半个多世纪，今天重读，依然能在每一次网络审判、每一次餐桌闲谈、每一次匿名转发中，照见那个往口袋里塞石头的自己。</itunes:summary>
+      <itunes:duration>00:32:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260721/episode-20260721-c081c4.mp3" length="30822957" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
