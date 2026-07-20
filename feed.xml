@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 20 Jul 2026 07:42:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 07:51:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12243,6 +12243,17 @@
       <itunes:duration>00:28:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260720/episode-20260720-92d20e.mp3" length="27329325" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《世间的盐》 · 完整版 · 世间的盐 · 完整讲读</title>
+      <description>《世间的盐》是画家高军（豆瓣名&quot;风行水上&quot;）的散文随笔集，写市井烟火的六十多篇短文。秦大伯造风扇追暗恋的姑娘，退休工大教授余教授每月花上万在洗脚屋并记录&quot;高潮脉搏表&quot;，老笔匠想复刻鲁迅用了四十年的&quot;金不换&quot;水笔，吴老三半夜偷火腿。作者自陈高中被开除、数不来钱被银行辞退、做野外测量五年、卖过服装摆过地摊干过漆匠，杂七杂八几十种都没修成正果。这本书用松弛幽默的汉语写合肥街头的&quot;失败者群像&quot;，被读者称为近十年最好看的散文集之一。陶弘景诗云：&quot;山中何所有，岭上多白云。只可自怡悦，不堪持寄君。&quot;——这是高军对&quot;写作&quot;这件事的态度，也是一粒盐对世间的态度。</description>
+      <pubDate>Mon, 20 Jul 2026 07:51:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260720-episode-20260720-3b266e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《世间的盐》是画家高军（豆瓣名&quot;风行水上&quot;）的散文随笔集，写市井烟火的六十多篇短文。秦大伯造风扇追暗恋的姑娘，退休工大教授余教授每月花上万在洗脚屋并记录&quot;高潮脉搏表&quot;，老笔匠想复刻鲁迅用了四十年的&quot;金不换&quot;水笔，吴老三半夜偷火腿。作者自陈高中被开除、数不来钱被银行辞退、做野外测量五年、卖过服装摆过地摊干过漆匠，杂七杂八几十种都没修成正果。这本书用松弛幽默的汉语写合肥街头的&quot;失败者群像&quot;，被读者称为近十年最好看的散文集之一。陶弘景诗云：&quot;山中何所有，岭上多白云。只可自怡悦，不堪持寄君。&quot;——这是高军对&quot;写作&quot;这件事的态度，也是一粒盐对世间的态度。</itunes:summary>
+      <itunes:duration>00:31:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260720/episode-20260720-3b266e.mp3" length="30688173" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
