@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 20 Jul 2026 07:25:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 07:32:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12221,6 +12221,17 @@
       <itunes:duration>00:27:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260720/episode-20260720-adf295.mp3" length="26005293" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《你想飞吗，像鸟一样？》 · 完整版 · 你想飞吗，像鸟一样？ · 完整讲读</title>
+      <description>《你想飞吗，像鸟一样？》是演化生物学家理查德·道金斯写给飞行的一封长信。他用神话、物理、生物和人类探索史，串起一个根本问题：人类为什么渴望飞翔？全书从伊卡洛斯的蜂蜡翅膀，到游隼三百二十二公里的俯冲，再到宇航员的失重体验，揭示飞行不只是克服重力，更是生命向外扩张的本能。一只蝴蝶、一只鸵鸟、一架不会思考的飞机，在演化的棋盘上各司其职。这是一首写给好奇心的长诗，提醒我们：在每一个想飞的梦里，都藏着生命四亿年写就的奇迹。</description>
+      <pubDate>Mon, 20 Jul 2026 07:32:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260720-episode-20260720-89b31d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《你想飞吗，像鸟一样？》是演化生物学家理查德·道金斯写给飞行的一封长信。他用神话、物理、生物和人类探索史，串起一个根本问题：人类为什么渴望飞翔？全书从伊卡洛斯的蜂蜡翅膀，到游隼三百二十二公里的俯冲，再到宇航员的失重体验，揭示飞行不只是克服重力，更是生命向外扩张的本能。一只蝴蝶、一只鸵鸟、一架不会思考的飞机，在演化的棋盘上各司其职。这是一首写给好奇心的长诗，提醒我们：在每一个想飞的梦里，都藏着生命四亿年写就的奇迹。</itunes:summary>
+      <itunes:duration>00:22:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260720/episode-20260720-89b31d.mp3" length="21409581" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
