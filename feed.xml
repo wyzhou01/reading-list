@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 20 Jul 2026 21:23:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 21:30:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12287,6 +12287,17 @@
       <itunes:duration>00:26:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260721/episode-20260721-18f37e.mp3" length="25741485" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《松木的清香》 · 完整版 · 松木的清香 · 完整讲读</title>
+      <description>《松木的清香》是万玛才旦生前最后一本文集，收录十一个藏地短篇。一个三十二岁的牧民醉酒撞死，没有身份证，家人死光，村里青年赶几百公里去开死亡证明；一个儿子在拉萨的咖啡馆里和逝去的父亲慢慢喝完一杯卡布奇诺；一条老得走不动的狗，被主人默默绑上木柱。万玛才旦用最克制的笔，写藏人在现代化冲击下的生与死、聚与散，写那张纸背后的尊严与体面。本书由其子久美成列编选代序，陈丹青作跋。</description>
+      <pubDate>Mon, 20 Jul 2026 21:30:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260721-episode-20260721-4a62a8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《松木的清香》是万玛才旦生前最后一本文集，收录十一个藏地短篇。一个三十二岁的牧民醉酒撞死，没有身份证，家人死光，村里青年赶几百公里去开死亡证明；一个儿子在拉萨的咖啡馆里和逝去的父亲慢慢喝完一杯卡布奇诺；一条老得走不动的狗，被主人默默绑上木柱。万玛才旦用最克制的笔，写藏人在现代化冲击下的生与死、聚与散，写那张纸背后的尊严与体面。本书由其子久美成列编选代序，陈丹青作跋。</itunes:summary>
+      <itunes:duration>00:31:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260721/episode-20260721-4a62a8.mp3" length="30480429" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
