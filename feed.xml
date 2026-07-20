@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 19 Jul 2026 21:57:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 07:25:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12210,6 +12210,17 @@
       <itunes:duration>00:36:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260720/episode-20260720-d36c3d.mp3" length="34570029" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《江城》 · 完整版 · 江城 · 完整讲读</title>
+      <description>《江城》是美国作家彼得·海斯勒（中文名何伟）一九九六到一九九八年间在长江边小城涪陵教书时写下的非虚构作品。他用一支笨拙而真诚的笔，记录下了中国内陆小城在三峡工程前夜的日常：学生、棒棒军、面馆老板、白鹤梁的题刻，以及那些即将被江水淹没的街巷。中文版二零一二年由上海译文出版社推出，让中国读者第一次读到一本外国人写的、又不失温情的中国故事。</description>
+      <pubDate>Mon, 20 Jul 2026 07:25:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260720-episode-20260720-adf295</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《江城》是美国作家彼得·海斯勒（中文名何伟）一九九六到一九九八年间在长江边小城涪陵教书时写下的非虚构作品。他用一支笨拙而真诚的笔，记录下了中国内陆小城在三峡工程前夜的日常：学生、棒棒军、面馆老板、白鹤梁的题刻，以及那些即将被江水淹没的街巷。中文版二零一二年由上海译文出版社推出，让中国读者第一次读到一本外国人写的、又不失温情的中国故事。</itunes:summary>
+      <itunes:duration>00:27:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260720/episode-20260720-adf295.mp3" length="26005293" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
