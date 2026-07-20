@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 20 Jul 2026 21:37:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 21:43:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12309,6 +12309,17 @@
       <itunes:duration>00:23:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260721/episode-20260721-682462.mp3" length="22330413" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《连续&quot;杀人鬼&quot;青蛙男》 · 完整版 · 连续“杀人鬼”青蛙男 · 完整讲读</title>
+      <description>《连续“杀人鬼”青蛙男》是日本社会派推理作家中山七里的早期代表作。故事发生在埼玉县一处入住率不到一成的幽灵公寓里：一名女子被脱光衣物吊在十三楼屋檐下，嘴里衔着钩子，旁边贴着一张童稚字迹的纸条——&apos;今天，我捉了一只青蛙&apos;。刑警渡濑与新人古手川追查之下，发现凶手并非单一的变态，而是一位七十五岁的法医学教授御前崎宗孝，他因女儿十七年前死于不公鉴定，决心以他人之手向整个司法系统复仇。他操纵一位曾被亲生父亲侵犯、后来发展出第二人格的少女嵯峨岛夏绪，让她以&apos;青蛙男&apos;之名连续作案；又诱骗一位孤独症男孩的母亲，将锤子与绳索亲手交给儿子，让她在不知情的情况下成为杀人共犯。小说借渡濑之口点出全书题眼：&apos;能复仇的是神明，不是人类&apos;；以及&apos;撒谎的人会被自己的谎言勒死&apos;。它解剖的不仅是操纵人心的心理战，更是结构性荒芜、目击者缺位、冤案频发、复仇沦为泄愤的现代社会病灶。</description>
+      <pubDate>Mon, 20 Jul 2026 21:43:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260721-episode-20260721-725136</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《连续“杀人鬼”青蛙男》是日本社会派推理作家中山七里的早期代表作。故事发生在埼玉县一处入住率不到一成的幽灵公寓里：一名女子被脱光衣物吊在十三楼屋檐下，嘴里衔着钩子，旁边贴着一张童稚字迹的纸条——&apos;今天，我捉了一只青蛙&apos;。刑警渡濑与新人古手川追查之下，发现凶手并非单一的变态，而是一位七十五岁的法医学教授御前崎宗孝，他因女儿十七年前死于不公鉴定，决心以他人之手向整个司法系统复仇。他操纵一位曾被亲生父亲侵犯、后来发展出第二人格的少女嵯峨岛夏绪，让她以&apos;青蛙男&apos;之名连续作案；又诱骗一位孤独症男孩的母亲，将锤子与绳索亲手交给儿子，让她在不知情的情况下成为杀人共犯。小说借渡濑之口点出全书题眼：&apos;能复仇的是神明，不是人类&apos;；以及&apos;撒谎的人会被自己的谎言勒死&apos;。它解剖的不仅是操纵人心的心理战，更是结构性荒芜、目击者缺位、冤案频发、复仇沦为泄愤的现代社会病灶。</itunes:summary>
+      <itunes:duration>00:28:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260721/episode-20260721-725136.mp3" length="27018285" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
