@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 20 Jul 2026 07:51:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 07:58:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12254,6 +12254,17 @@
       <itunes:duration>00:31:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260720/episode-20260720-3b266e.mp3" length="30688173" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《东西街：灭绝种族罪和危害人类罪的起源》 · 完整版 · 东西街：灭绝种族罪和危害人类罪的起源 · 完整讲读</title>
+      <description>《东西街》是英国国际法学者菲利普·桑兹的非虚构力作。二零一零年，他收到乌克兰利韦夫大学讲学邀请，意外发现纳粹波兰总督汉斯·弗兰克、国际法学者赫希·劳特派特和拉斐尔·莱姆金，都与他出生在利韦夫的外祖父莱昂·布赫霍尔茨的人生轨迹紧密交织。劳特派特创造“危害人类罪”，莱姆金创造“灭绝种族罪”，两人从同一座城市走向纽伦堡；弗兰克作为加害者在六百号审判庭受审，其子尼克拉斯陪桑兹重访审判现场。本书交织家族回忆录、二战史与国际法史，揭示私人创伤如何塑造后代对正义的追寻，获二零一六年贝利·吉福德非虚构文学奖。</description>
+      <pubDate>Mon, 20 Jul 2026 07:58:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260720-episode-20260720-a62c90</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《东西街》是英国国际法学者菲利普·桑兹的非虚构力作。二零一零年，他收到乌克兰利韦夫大学讲学邀请，意外发现纳粹波兰总督汉斯·弗兰克、国际法学者赫希·劳特派特和拉斐尔·莱姆金，都与他出生在利韦夫的外祖父莱昂·布赫霍尔茨的人生轨迹紧密交织。劳特派特创造“危害人类罪”，莱姆金创造“灭绝种族罪”，两人从同一座城市走向纽伦堡；弗兰克作为加害者在六百号审判庭受审，其子尼克拉斯陪桑兹重访审判现场。本书交织家族回忆录、二战史与国际法史，揭示私人创伤如何塑造后代对正义的追寻，获二零一六年贝利·吉福德非虚构文学奖。</itunes:summary>
+      <itunes:duration>00:25:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260720/episode-20260720-a62c90.mp3" length="24907821" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
