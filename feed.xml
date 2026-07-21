@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 21 Jul 2026 16:34:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 16:45:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12353,6 +12353,17 @@
       <itunes:duration>00:31:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260722/episode-20260722-33ab6a.mp3" length="29883309" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《雅各布·冯·贡腾：一本日记》 · 完整版 · 雅各布·冯·贡腾：一本日记 · 完整讲读</title>
+      <description>《雅各布·冯·贡腾：一本日记》是瑞士诗人罗伯特·瓦尔泽的经典小说。主角雅各布是个被送到本雅门塔男校的寄宿生，在慵懒的校长、匮乏的师资和空洞的课程中，与性格各异的同学共同度过贫穷、顺从与幻想交织的时光。本书用不到十万字的轻盈笔触，写出了渺小个体的尊严、对僵化教育的反叛、友谊与幻想的精神救赎，以及一个人如何以“零“的姿态主动告别旧生活、走向未知。它是现代主义的隐秘经典，是每一个曾觉得自己渺小卑微之人的精神肖像。</description>
+      <pubDate>Tue, 21 Jul 2026 16:45:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260722-episode-20260722-451d07</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《雅各布·冯·贡腾：一本日记》是瑞士诗人罗伯特·瓦尔泽的经典小说。主角雅各布是个被送到本雅门塔男校的寄宿生，在慵懒的校长、匮乏的师资和空洞的课程中，与性格各异的同学共同度过贫穷、顺从与幻想交织的时光。本书用不到十万字的轻盈笔触，写出了渺小个体的尊严、对僵化教育的反叛、友谊与幻想的精神救赎，以及一个人如何以“零“的姿态主动告别旧生活、走向未知。它是现代主义的隐秘经典，是每一个曾觉得自己渺小卑微之人的精神肖像。</itunes:summary>
+      <itunes:duration>00:30:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260722/episode-20260722-451d07.mp3" length="29318445" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
