@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 21 Jul 2026 22:04:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 22:13:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12474,6 +12474,33 @@
       <itunes:duration>00:37:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260722/episode-20260722-07b6ce.mp3" length="35953965" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《心中有数：生活中的数学思维》 · 完整版 · 心中有数 · 完整讲读</title>
+      <description>《心中有数》是北航副教授刘雪峰写给普通读者的思维启蒙书。他用生活中的故事去解释算法，再用算法里的智慧去解释人生，跨越了计算机科学和人文思考之间的鸿沟。
+
+全书分成三大部分。
+思维篇带我们建立概率的世界观：用概率替代确定，用预测替代解释，用稀疏性替代复杂性，用条件独立替代盲目归因，从根本上改变我们看待世界的方式。
+方法篇给出四种核心算法智慧：负反馈守住基本盘，正反馈等待跃迁；找到真正的底层再动手；敢于在年轻时多探索，深耕时再聚焦；遇到难题变换形态而非硬扛。
+学习篇则讨论怎样读书、怎样学会、怎样清晰地表达一件事，而这一切都有一个共同心法——把最重要的结论放在最显眼的位置，把细节留给时间慢慢补充。
+
+这本书最打动人的地方在于：它不灌鸡汤，不给万能公式，也不承诺成功。
+它只告诉读者，真实世界是用概率运行的，而努力真正的意义，是把那一点点概率往上推；至于剩下的部分，我们交给时间，交给心态，交给那个愿意接受不确定性的自己。</description>
+      <pubDate>Tue, 21 Jul 2026 22:13:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260722-episode-20260722-81024f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《心中有数》是北航副教授刘雪峰写给普通读者的思维启蒙书。他用生活中的故事去解释算法，再用算法里的智慧去解释人生，跨越了计算机科学和人文思考之间的鸿沟。
+
+全书分成三大部分。
+思维篇带我们建立概率的世界观：用概率替代确定，用预测替代解释，用稀疏性替代复杂性，用条件独立替代盲目归因，从根本上改变我们看待世界的方式。
+方法篇给出四种核心算法智慧：负反馈守住基本盘，正反馈等待跃迁；找到真正的底层再动手；敢于在年轻时多探索，深耕时再聚焦；遇到难题变换形态而非硬扛。
+学习篇则讨论怎样读书、怎样学会、怎样清晰地表达一件事，而这一切都有一个共同心法——把最重要的结论放在最显眼的位置，把细节留给时间慢慢补充。
+
+这本书最打动人的地方在于：它不灌鸡汤，不给万能公式，也不承诺成功。
+它只告诉读者，真实世界是用概率运行的，而努力真正的意义，是把那一点点概率往上推；至于剩下的部分，我们交给时间，交给心态，交给那个愿意接受不确定性的自己。</itunes:summary>
+      <itunes:duration>00:30:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260722/episode-20260722-81024f.mp3" length="29313837" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
