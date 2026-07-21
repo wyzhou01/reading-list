@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 21 Jul 2026 16:45:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 16:56:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12364,6 +12364,17 @@
       <itunes:duration>00:30:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260722/episode-20260722-451d07.mp3" length="29318445" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《遥远的向日葵地》 · 完整版 · 遥远的向日葵地--李娟 · 完整讲读</title>
+      <description>《遥远的向日葵地》是李娟记录母亲在新疆乌伦古河南岸承包九十亩土地种植向日葵的真实经历。二零零七到二零零九年，北疆罕见大旱，母亲的葵花苗四度补种、四度被鹅喉羚啃光。这本书写的不只是种地，而是人在荒野中的渺小与坚韧，写劳作、等待与希望的本质，写母亲黝黑的肩膀、九十多岁外婆的絮语、两条狗的忠诚与胆怯。李娟用最平的白话，记录下大地、万物与离别。它不歌颂胜利，它写给每一个失败过、等待过、被啃光过、又重新来过的人。一句话点透：希望，就是付出努力有可能比完全放弃强一点点。</description>
+      <pubDate>Sat, 20 Jun 2026 13:56:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260722-episode-20260722-5bd29d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《遥远的向日葵地》是李娟记录母亲在新疆乌伦古河南岸承包九十亩土地种植向日葵的真实经历。二零零七到二零零九年，北疆罕见大旱，母亲的葵花苗四度补种、四度被鹅喉羚啃光。这本书写的不只是种地，而是人在荒野中的渺小与坚韧，写劳作、等待与希望的本质，写母亲黝黑的肩膀、九十多岁外婆的絮语、两条狗的忠诚与胆怯。李娟用最平的白话，记录下大地、万物与离别。它不歌颂胜利，它写给每一个失败过、等待过、被啃光过、又重新来过的人。一句话点透：希望，就是付出努力有可能比完全放弃强一点点。</itunes:summary>
+      <itunes:duration>00:30:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260722/episode-20260722-5bd29d.mp3" length="29182509" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
