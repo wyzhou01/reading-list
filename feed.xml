@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 21 Jul 2026 17:03:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 21:20:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12386,6 +12386,17 @@
       <itunes:duration>00:31:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260722/episode-20260722-44c459.mp3" length="30511149" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《舞！舞！舞！》 · 完整版 · 青春的舞步 · 完整讲读</title>
+      <description>《舞！舞！舞！》是村上春树一九八八年发表的长篇，是《寻羊冒险记》的续作，也是村上三部曲的终章。三十四岁的离婚男人&quot;我&quot;回到北海道海豚宾馆，发现曾消失的应召女郎喜喜死在那个房间，自己也险些被吸入墙壁另一边。在与半人半羊的&quot;羊男&quot;重逢、见证高中同学五反田从明星沦为酒徒后自杀之后，&quot;我&quot;意识到：有一股来自《寻羊冒险记》中那只&quot;羊&quot;的意志，始终在暗处操控着日本的走向。面对消失、死亡与无意义，&quot;我&quot;没有反抗，没有逃亡，而是选择了&quot;继续跳舞&quot;——穿墙，回到这边，在第二天早上七点钟的阳光里，对身边的女孩说：&quot;早晨到了。&quot;这本书既是村上对八十年代泡沫日本的精神解剖，也是写给所有在虚无中跋涉的人的处方：意义不在远方，意义就在你还能跳动的这一秒。</description>
+      <pubDate>Tue, 21 Jul 2026 21:20:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260722-episode-20260722-1b8db2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《舞！舞！舞！》是村上春树一九八八年发表的长篇，是《寻羊冒险记》的续作，也是村上三部曲的终章。三十四岁的离婚男人&quot;我&quot;回到北海道海豚宾馆，发现曾消失的应召女郎喜喜死在那个房间，自己也险些被吸入墙壁另一边。在与半人半羊的&quot;羊男&quot;重逢、见证高中同学五反田从明星沦为酒徒后自杀之后，&quot;我&quot;意识到：有一股来自《寻羊冒险记》中那只&quot;羊&quot;的意志，始终在暗处操控着日本的走向。面对消失、死亡与无意义，&quot;我&quot;没有反抗，没有逃亡，而是选择了&quot;继续跳舞&quot;——穿墙，回到这边，在第二天早上七点钟的阳光里，对身边的女孩说：&quot;早晨到了。&quot;这本书既是村上对八十年代泡沫日本的精神解剖，也是写给所有在虚无中跋涉的人的处方：意义不在远方，意义就在你还能跳动的这一秒。</itunes:summary>
+      <itunes:duration>00:26:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260722/episode-20260722-1b8db2.mp3" length="25847085" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
