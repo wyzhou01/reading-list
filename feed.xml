@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 21 Jul 2026 21:42:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 21:45:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12430,6 +12430,17 @@
       <itunes:duration>00:30:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260722/episode-20260722-1c7c5a.mp3" length="29179437" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《凶人馆谜案》 · 完整版 · 凶人馆谜案 · 完整讲读</title>
+      <description>《凶人馆谜案》是日本新生代推理作家今村昌弘继《尸人庄谜案》之后的第二部长篇。一群互不相识的人被邀请进入一栋传说中&quot;杀死了访客&quot;的偏僻宅邸，结果接连发生离奇命案。本书的核心不在于&quot;谁杀了谁&quot;，而在于&quot;谁是下一个倒下的人，谁是从一开始就把你算进棋盘里的人&quot;。更特别的是，它给出了一个打破传统推理小说的答案——侦探与凶手之间，未必是死敌。在极端情境下，凶手可能成为献身者，侦探可能成为共谋者，唯有&quot;愿意留下来&quot;的勇气，才能把绝境里的人一个一个救出来。</description>
+      <pubDate>Tue, 21 Jul 2026 21:44:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260722-episode-20260722-0d81b6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《凶人馆谜案》是日本新生代推理作家今村昌弘继《尸人庄谜案》之后的第二部长篇。一群互不相识的人被邀请进入一栋传说中&quot;杀死了访客&quot;的偏僻宅邸，结果接连发生离奇命案。本书的核心不在于&quot;谁杀了谁&quot;，而在于&quot;谁是下一个倒下的人，谁是从一开始就把你算进棋盘里的人&quot;。更特别的是，它给出了一个打破传统推理小说的答案——侦探与凶手之间，未必是死敌。在极端情境下，凶手可能成为献身者，侦探可能成为共谋者，唯有&quot;愿意留下来&quot;的勇气，才能把绝境里的人一个一个救出来。</itunes:summary>
+      <itunes:duration>00:24:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260722/episode-20260722-0d81b6.mp3" length="23890989" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
