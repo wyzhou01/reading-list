@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 21 Jul 2026 16:56:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 17:03:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12375,6 +12375,17 @@
       <itunes:duration>00:30:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260722/episode-20260722-5bd29d.mp3" length="29182509" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《尸人庄谜案》 · 完整版 · 尸人庄谜案 · 完整讲读</title>
+      <description>《尸人庄谜案》是二零一七年鲇川哲也奖得主今村昌弘的处女作。本书把暴风雪山庄、不可能犯罪与生化灾难三种类型大胆融合：大学生推理社团应邀前往深山紫湛庄参加电影研究部集训，不料山庄外爆发僵尸病毒，所有人被困于密闭空间，屋内又接连发生不可能命案。神红大学推理天才明智恭介与神秘少女侦探剑崎比留子联手破案，揭开跨越四十年的神秘机构“班目机构”与“不死化”研究的黑暗真相。本书证明本格推理的边界远比想象中宽广，是日系推理爱好者不可错过的里程碑之作。</description>
+      <pubDate>Tue, 21 Jul 2026 17:03:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260722-episode-20260722-44c459</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《尸人庄谜案》是二零一七年鲇川哲也奖得主今村昌弘的处女作。本书把暴风雪山庄、不可能犯罪与生化灾难三种类型大胆融合：大学生推理社团应邀前往深山紫湛庄参加电影研究部集训，不料山庄外爆发僵尸病毒，所有人被困于密闭空间，屋内又接连发生不可能命案。神红大学推理天才明智恭介与神秘少女侦探剑崎比留子联手破案，揭开跨越四十年的神秘机构“班目机构”与“不死化”研究的黑暗真相。本书证明本格推理的边界远比想象中宽广，是日系推理爱好者不可错过的里程碑之作。</itunes:summary>
+      <itunes:duration>00:31:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260722/episode-20260722-44c459.mp3" length="30511149" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
