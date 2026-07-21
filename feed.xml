@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 21 Jul 2026 21:45:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 21:50:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12452,6 +12452,17 @@
       <itunes:duration>00:39:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260722/episode-20260722-db866e.mp3" length="38180397" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《平滑世界和它的敌人》 · 完整版 · 平滑世界和它的敌 · 完整讲读</title>
+      <description>《平滑世界和它的敌人》是日本新锐作家伴名练的首部短篇集，出版于二零一九年横扫日本科幻文坛。六个故事以六个少女为主角，设定在一个一切都可被切换、被优化的“平滑世界“——考试失败可去另一个世界重来，亲人离世可去他还活着的分支，天气和季节随心切换。技术为人类提供了无限选择，也让“只能在一个世界里活下去“的人成了异类。当身份被替换、情感被调节、历史被反复改写，这群少女发现自己身上出现了无法切换的裂缝——而正是这些不被允许的“不完美“，成了她们最后的武器。本书是对日本科幻前人拉弗蒂、伊藤计划、勒古恩、石黑达昌的致敬，也是对“是否愿意为不完美保留一席之地“的叩问。在越来越依赖算法推送和自我优化的今天，这本书是写给所有拒绝被磨平的人的情书。</description>
+      <pubDate>Fri, 03 Jul 2026 16:37:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260722-episode-20260722-42797f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《平滑世界和它的敌人》是日本新锐作家伴名练的首部短篇集，出版于二零一九年横扫日本科幻文坛。六个故事以六个少女为主角，设定在一个一切都可被切换、被优化的“平滑世界“——考试失败可去另一个世界重来，亲人离世可去他还活着的分支，天气和季节随心切换。技术为人类提供了无限选择，也让“只能在一个世界里活下去“的人成了异类。当身份被替换、情感被调节、历史被反复改写，这群少女发现自己身上出现了无法切换的裂缝——而正是这些不被允许的“不完美“，成了她们最后的武器。本书是对日本科幻前人拉弗蒂、伊藤计划、勒古恩、石黑达昌的致敬，也是对“是否愿意为不完美保留一席之地“的叩问。在越来越依赖算法推送和自我优化的今天，这本书是写给所有拒绝被磨平的人的情书。</itunes:summary>
+      <itunes:duration>00:26:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260722/episode-20260722-42797f.mp3" length="25708077" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
