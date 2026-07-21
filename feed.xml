@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 21 Jul 2026 21:50:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 22:04:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12463,6 +12463,17 @@
       <itunes:duration>00:26:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260722/episode-20260722-42797f.mp3" length="25708077" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《平面国：多维空间传奇往事》 · 完整版 · 平面国：多维空间传奇往事 · 完整讲读</title>
+      <description>《平面国》是十九世纪英国牧师艾勃特于一八八四年写下的多维空间寓言。一个只有长和宽的二维世界里，所有居民都是几何图形，互相只能看见对方的一条线段。当自称来自三维空间的“球“出现，平面国的正方形被带离了那张纸，看见了从未想象过的立体。可当正方形反问“三维之上是否还有“时，球立刻翻脸——因为承认自己不是终点，比登天还难。艾勃特用一张几何的纸，讽刺了维多利亚时代的阶级固化、男性对女性的双重话术、以及所有自称为神者的局限。一百四十年来，这本书从无人问津，到被爱因斯坦、阿西莫夫、霍金反复引用，成为科幻与科普的源头活水。它告诉我们：维度不是地理，是一种姿态——承认自己看不见，比看见本身更难。</description>
+      <pubDate>Tue, 21 Jul 2026 22:03:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260722-episode-20260722-07b6ce</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《平面国》是十九世纪英国牧师艾勃特于一八八四年写下的多维空间寓言。一个只有长和宽的二维世界里，所有居民都是几何图形，互相只能看见对方的一条线段。当自称来自三维空间的“球“出现，平面国的正方形被带离了那张纸，看见了从未想象过的立体。可当正方形反问“三维之上是否还有“时，球立刻翻脸——因为承认自己不是终点，比登天还难。艾勃特用一张几何的纸，讽刺了维多利亚时代的阶级固化、男性对女性的双重话术、以及所有自称为神者的局限。一百四十年来，这本书从无人问津，到被爱因斯坦、阿西莫夫、霍金反复引用，成为科幻与科普的源头活水。它告诉我们：维度不是地理，是一种姿态——承认自己看不见，比看见本身更难。</itunes:summary>
+      <itunes:duration>00:37:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260722/episode-20260722-07b6ce.mp3" length="35953965" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
