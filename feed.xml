@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 21 Jul 2026 21:45:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 21:45:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12441,6 +12441,17 @@
       <itunes:duration>00:24:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260722/episode-20260722-0d81b6.mp3" length="23890989" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《价值》 · 完整版 · 创造 · 完整讲读</title>
+      <description>《创造》是托尼·法德尔写给所有不甘平庸的非传统建造手册。他用自己从通用魔术、苹果 iPod、iPhone 到 Nest 的三十多年履历，回答一个问题：一个人怎么才能把脑子里的闪光，变成世界上摸得着、用得上的产品？全书六块拼图：失败是创造者的必修课；第一份工作要选对赛道；好想法是真问题、好时机、新技术的交集；好故事是把无形焊进用户大脑的钉子；融资是选伴侣；创始人变 CEO 是把“我“换成“我们“的人格手术。法德尔不写成功捷径，只写真问题、正确时机和创新技术的组合。他把自己的每一次失败都摊开在你面前，提醒你：创造，从来不是一个人的孤独表演。</description>
+      <pubDate>Fri, 03 Jul 2026 21:56:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260722-episode-20260722-db866e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《创造》是托尼·法德尔写给所有不甘平庸的非传统建造手册。他用自己从通用魔术、苹果 iPod、iPhone 到 Nest 的三十多年履历，回答一个问题：一个人怎么才能把脑子里的闪光，变成世界上摸得着、用得上的产品？全书六块拼图：失败是创造者的必修课；第一份工作要选对赛道；好想法是真问题、好时机、新技术的交集；好故事是把无形焊进用户大脑的钉子；融资是选伴侣；创始人变 CEO 是把“我“换成“我们“的人格手术。法德尔不写成功捷径，只写真问题、正确时机和创新技术的组合。他把自己的每一次失败都摊开在你面前，提醒你：创造，从来不是一个人的孤独表演。</itunes:summary>
+      <itunes:duration>00:39:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260722/episode-20260722-db866e.mp3" length="38180397" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
