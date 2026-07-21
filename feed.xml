@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 20 Jul 2026 21:49:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 07:49:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12331,6 +12331,17 @@
       <itunes:duration>00:32:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260721/episode-20260721-c081c4.mp3" length="30822957" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《地下室手记》 · 完整版 · 地下室手记 · 完整讲读</title>
+      <description>《地下室手记》是陀思妥耶夫斯基于一八六四年写就的意识过剩者独白。一个因六千卢布辞去公职的八等文官，在彼得堡发霉的小屋里上诉、控诉、自嘲、辩护：意识过剩如何把人变成自己的戕害者；身份焦虑如何让一个人既成不了恶棍也成不了天使；主动隔绝如何成为他最体面的退路。下半场中，他一夜之间成了救人于水火的“英雄“，却在破睡衣与拖欠的工资中彻底坍塌。这本书是现代人精神困境的起点，也是之后所有现代主义作家取火的源头。</description>
+      <pubDate>Tue, 21 Jul 2026 07:49:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260721-episode-20260721-9c7743</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《地下室手记》是陀思妥耶夫斯基于一八六四年写就的意识过剩者独白。一个因六千卢布辞去公职的八等文官，在彼得堡发霉的小屋里上诉、控诉、自嘲、辩护：意识过剩如何把人变成自己的戕害者；身份焦虑如何让一个人既成不了恶棍也成不了天使；主动隔绝如何成为他最体面的退路。下半场中，他一夜之间成了救人于水火的“英雄“，却在破睡衣与拖欠的工资中彻底坍塌。这本书是现代人精神困境的起点，也是之后所有现代主义作家取火的源头。</itunes:summary>
+      <itunes:duration>00:17:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260721/episode-20260721-9c7743.mp3" length="16620717" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
