@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 21 Jul 2026 07:49:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 16:24:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12342,6 +12342,17 @@
       <itunes:duration>00:17:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260721/episode-20260721-9c7743.mp3" length="16620717" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大江东去》 · 完整版 · 大江东去 · 完整讲读</title>
+      <description>《大江东去》是阿耐创作的全景式改革开放二十年长篇小说，以宋运辉、雷东宝、杨巡、梁思申四个出身、路径、体制各不相同的人物为主角，分别走出国营工厂技术骨干、乡村改革带头人、个体市场弄潮儿、外资全球化精英四条道路，从一九七八年恢复高考写到一九九八年四人重聚山村。四条路相互碰撞、相互理解，最终汇成改革开放这条奔腾的大江，是一部写给整个时代、也写给每一个在时代里赶路的人的壮阔画卷。</description>
+      <pubDate>Tue, 21 Jul 2026 16:23:36 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260722-episode-20260722-33ab6a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大江东去》是阿耐创作的全景式改革开放二十年长篇小说，以宋运辉、雷东宝、杨巡、梁思申四个出身、路径、体制各不相同的人物为主角，分别走出国营工厂技术骨干、乡村改革带头人、个体市场弄潮儿、外资全球化精英四条道路，从一九七八年恢复高考写到一九九八年四人重聚山村。四条路相互碰撞、相互理解，最终汇成改革开放这条奔腾的大江，是一部写给整个时代、也写给每一个在时代里赶路的人的壮阔画卷。</itunes:summary>
+      <itunes:duration>00:31:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260722/episode-20260722-33ab6a.mp3" length="29883309" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
