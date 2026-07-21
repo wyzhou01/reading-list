@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 21 Jul 2026 21:28:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 21:38:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12408,6 +12408,17 @@
       <itunes:duration>00:26:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260722/episode-20260722-b4052f.mp3" length="25897005" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《呐喊彷徨故事新编》 · 完整版 · 呐喊彷徨故事新编 · 完整讲读</title>
+      <description>鲁迅《呐喊》《彷徨》《故事新编》三集合订本导读。《呐喊》以《狂人日记》《阿Q正传》等十四篇剖开封建礼教的吃人真相，写出中国现代白话小说的开山气象。《彷徨》以《祝福》《孤独者》《伤逝》等十一篇，写五四退潮后觉醒知识分子的无路之苦——看得最清楚的人，往往走投无路。《故事新编》以《奔月》《铸剑》《起死》等八篇，借神话外壳注入现代荒诞，把后羿、庄子、女娲统统拉下神坛，揭示所谓神圣叙事背后藏着的权力暗道。三部作品合在一起，是鲁迅对中国国民性、知识分子命运与传统文化的一次完整心理手术。一百年过去，狂人笔下那些青面獠牙的笑、阿Q的圆圈、庄子路上那具不肯死去的骷髅，依然活在我们的社交网络与日常话语中。这就是为什么今天还要花九十分钟，把这本书从头讲一遍。</description>
+      <pubDate>Tue, 21 Jul 2026 21:38:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260722-episode-20260722-2a0002</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>鲁迅《呐喊》《彷徨》《故事新编》三集合订本导读。《呐喊》以《狂人日记》《阿Q正传》等十四篇剖开封建礼教的吃人真相，写出中国现代白话小说的开山气象。《彷徨》以《祝福》《孤独者》《伤逝》等十一篇，写五四退潮后觉醒知识分子的无路之苦——看得最清楚的人，往往走投无路。《故事新编》以《奔月》《铸剑》《起死》等八篇，借神话外壳注入现代荒诞，把后羿、庄子、女娲统统拉下神坛，揭示所谓神圣叙事背后藏着的权力暗道。三部作品合在一起，是鲁迅对中国国民性、知识分子命运与传统文化的一次完整心理手术。一百年过去，狂人笔下那些青面獠牙的笑、阿Q的圆圈、庄子路上那具不肯死去的骷髅，依然活在我们的社交网络与日常话语中。这就是为什么今天还要花九十分钟，把这本书从头讲一遍。</itunes:summary>
+      <itunes:duration>00:23:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260722/episode-20260722-2a0002.mp3" length="22384557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
