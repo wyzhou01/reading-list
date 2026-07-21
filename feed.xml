@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 21 Jul 2026 21:38:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 21:42:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12419,6 +12419,17 @@
       <itunes:duration>00:23:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260722/episode-20260722-2a0002.mp3" length="22384557" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《哈利·波特与魔法石》 · 完整版 · 哈利·波特与魔法石 · 完整讲读</title>
+      <description>《哈利·波特与魔法石》讲的是十一岁的哈利·波特，从德思礼家的楼梯间，走进霍格沃茨魔法学校，找到身份、友谊与勇气的故事。本书通过六块核心拼图——身份、友谊、爱、偏见、勇敢、选择——拆解了J K 罗琳藏在魔法叙事下的成长母题：我们的选择，比我们的能力更重要。读完这本书，你会发现魔法从来不在遥远的决战里，而在每一个普通的、没人看见的、决定你是谁的瞬间里。</description>
+      <pubDate>Tue, 21 Jul 2026 21:42:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260722-episode-20260722-1c7c5a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《哈利·波特与魔法石》讲的是十一岁的哈利·波特，从德思礼家的楼梯间，走进霍格沃茨魔法学校，找到身份、友谊与勇气的故事。本书通过六块核心拼图——身份、友谊、爱、偏见、勇敢、选择——拆解了J K 罗琳藏在魔法叙事下的成长母题：我们的选择，比我们的能力更重要。读完这本书，你会发现魔法从来不在遥远的决战里，而在每一个普通的、没人看见的、决定你是谁的瞬间里。</itunes:summary>
+      <itunes:duration>00:30:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260722/episode-20260722-1c7c5a.mp3" length="29179437" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
