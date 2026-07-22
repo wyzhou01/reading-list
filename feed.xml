@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 22 Jul 2026 21:42:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 21:52:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12633,6 +12633,17 @@
       <itunes:duration>00:27:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260723/episode-20260723-c01fa8.mp3" length="26337453" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《鸳鸯六七四》 · 完整版 · 鸳鸯六七四 · 完整讲读</title>
+      <description>《鸳鸯六七四》是马家辉香港三部曲的第二部，讲述堂口大佬哨牙炳在1967年平安夜金盆洗手宴会上的传奇故事。哨牙炳本名赵文炳，九岁时触碰到第一个算盘，从此用数字构建自己的逃生通道。他从一个珠算天才成长为堂口二把手，在江湖、情欲与时代的夹缝里求生。他这辈子欠下的债太多——对妻子阿冰的亏欠，对情人阿群的愧疚，对兄弟陆南才的亏负，对自己那点担当的逃避。连拿三把&quot;鸳鸯六七四&quot;这副最烂的牌，老天爷不是在为难他，而是在提醒他：出来混，迟早要还。最终他死在海上，和阿群一起，而阿冰用二十七年的等待，把&quot;坏事情不等于坏结局&quot;这句话，变成了自己活下去的理由。这本书把香港黑帮故事从类型小说拉进了严肃文学的视野，写的不只是打打杀杀，更是普通人如何在乱世里求存、如何用各自的算盘珠子对抗命运的不确定性。</description>
+      <pubDate>Wed, 22 Jul 2026 21:52:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260723-episode-20260723-4d9cac</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《鸳鸯六七四》是马家辉香港三部曲的第二部，讲述堂口大佬哨牙炳在1967年平安夜金盆洗手宴会上的传奇故事。哨牙炳本名赵文炳，九岁时触碰到第一个算盘，从此用数字构建自己的逃生通道。他从一个珠算天才成长为堂口二把手，在江湖、情欲与时代的夹缝里求生。他这辈子欠下的债太多——对妻子阿冰的亏欠，对情人阿群的愧疚，对兄弟陆南才的亏负，对自己那点担当的逃避。连拿三把&quot;鸳鸯六七四&quot;这副最烂的牌，老天爷不是在为难他，而是在提醒他：出来混，迟早要还。最终他死在海上，和阿群一起，而阿冰用二十七年的等待，把&quot;坏事情不等于坏结局&quot;这句话，变成了自己活下去的理由。这本书把香港黑帮故事从类型小说拉进了严肃文学的视野，写的不只是打打杀杀，更是普通人如何在乱世里求存、如何用各自的算盘珠子对抗命运的不确定性。</itunes:summary>
+      <itunes:duration>00:33:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260723/episode-20260723-4d9cac.mp3" length="32533677" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
