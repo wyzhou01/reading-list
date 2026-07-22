@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 22 Jul 2026 08:03:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 08:12:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12534,6 +12534,17 @@
       <itunes:duration>00:26:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260722/episode-20260722-259e50.mp3" length="25181229" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《喀耳刻》 · 完整版 · 喀耳刻 · 完整讲读</title>
+      <description>《喀耳刻》是马德琳·米勒二零一八年出版的希腊神话重述作品。小说以被奥德赛中一笔带过的女巫喀耳刻为第一人称，讲述她从被父母嫌弃的泉水女神，流放到艾那吉亚岛，慢慢长成掌握草药与变形之术的孤岛巫女。先后经过与普罗米修斯、奥德修斯、美狄亚等人的相遇，最终在时间与孤独中完成自我接纳。米勒用二十七章缓慢、文学感极强的笔触，凿刻一个女性局外人的内心纹路，回答了一个古老而当下的命题：在众声喧哗的世界里，一个被定义为他者的女性，如何长出自己的嗓子。</description>
+      <pubDate>Wed, 22 Jul 2026 08:11:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260722-episode-20260722-7ffcad</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《喀耳刻》是马德琳·米勒二零一八年出版的希腊神话重述作品。小说以被奥德赛中一笔带过的女巫喀耳刻为第一人称，讲述她从被父母嫌弃的泉水女神，流放到艾那吉亚岛，慢慢长成掌握草药与变形之术的孤岛巫女。先后经过与普罗米修斯、奥德修斯、美狄亚等人的相遇，最终在时间与孤独中完成自我接纳。米勒用二十七章缓慢、文学感极强的笔触，凿刻一个女性局外人的内心纹路，回答了一个古老而当下的命题：在众声喧哗的世界里，一个被定义为他者的女性，如何长出自己的嗓子。</itunes:summary>
+      <itunes:duration>00:31:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260722/episode-20260722-7ffcad.mp3" length="29939757" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
