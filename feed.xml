@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 22 Jul 2026 21:26:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 21:35:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12611,6 +12611,17 @@
       <itunes:duration>00:30:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260723/episode-20260723-46ba86.mp3" length="29487405" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《微尘》 · 完整版 · 微尘 · 完整讲读</title>
+      <description>《微尘》是前矿山爆破工陈年喜的非虚构散文集。他曾用十六年炸药与雷管谋生穿行秦岭、内蒙古与北疆，二零一五年颈椎手术后提笔，写下矿友周大明的氰化悲歌、秦岭黑山的风物、漂泊途中的生老病死。节制叙事下藏滚烫，是一本献给消失者与失语者的挽歌。</description>
+      <pubDate>Wed, 22 Jul 2026 21:35:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260723-episode-20260723-ab187c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《微尘》是前矿山爆破工陈年喜的非虚构散文集。他曾用十六年炸药与雷管谋生穿行秦岭、内蒙古与北疆，二零一五年颈椎手术后提笔，写下矿友周大明的氰化悲歌、秦岭黑山的风物、漂泊途中的生老病死。节制叙事下藏滚烫，是一本献给消失者与失语者的挽歌。</itunes:summary>
+      <itunes:duration>00:24:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260723/episode-20260723-ab187c.mp3" length="23184045" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
