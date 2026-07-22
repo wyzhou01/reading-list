@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 22 Jul 2026 21:35:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 21:42:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12622,6 +12622,17 @@
       <itunes:duration>00:24:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260723/episode-20260723-ab187c.mp3" length="23184045" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《太阳的阴影》 · 完整版 · 太阳的阴影 · 完整讲读</title>
+      <description>《太阳的阴影》是波兰记者卡普希钦斯基近四十年非洲足迹的集大成之作。他以白人之躯的感官、物质细节与濒死经验，拆解了殖民者凝视非洲的优越感；他用疟疾、棚户区、政变现场的真实，承认苦难的不可消解；他以树下讲故事的传统，致敬非洲口述史的伦理；最后以大象绕桌离去的夜晚，承认外来者认知的边界。这是一本写给非洲的书，也是一本写给所有渴望跨出自己世界的人的书——它教给我们：记者的笔，不该替强者添彩，该替没有声音的人开口。</description>
+      <pubDate>Wed, 22 Jul 2026 21:41:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260723-episode-20260723-c01fa8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《太阳的阴影》是波兰记者卡普希钦斯基近四十年非洲足迹的集大成之作。他以白人之躯的感官、物质细节与濒死经验，拆解了殖民者凝视非洲的优越感；他用疟疾、棚户区、政变现场的真实，承认苦难的不可消解；他以树下讲故事的传统，致敬非洲口述史的伦理；最后以大象绕桌离去的夜晚，承认外来者认知的边界。这是一本写给非洲的书，也是一本写给所有渴望跨出自己世界的人的书——它教给我们：记者的笔，不该替强者添彩，该替没有声音的人开口。</itunes:summary>
+      <itunes:duration>00:27:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260723/episode-20260723-c01fa8.mp3" length="26337453" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
