@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 22 Jul 2026 07:41:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 08:03:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12523,6 +12523,17 @@
       <itunes:duration>00:32:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260722/episode-20260722-68ceb1.mp3" length="31288365" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《最好的决定》 · 完整版 · 最好的决定 · 完整讲读</title>
+      <description>《最好的决定》收录了十六位作家主动选择不生育的真实故事。编者梅根·多姆通过这些故事告诉我们：生育不是人生的必答题，不生也是一种选择。书中作者们来自不同背景，做出不生育决定的原因也各不相同——有人因为从小缺乏关爱而害怕自己当不好父母，有人因为热爱自由不想被孩子束缚，有人因为想清楚了内心深处并没有当父母的渴望。他们共同的特点是：认真地问了自己一个问题，然后诚实地回答了它。这本书打破了社会对不育者的刻板印象与污名，揭示了一个重要真相：每个人都有权利做出自己的决定，而这个决定，值得被尊重。</description>
+      <pubDate>Wed, 22 Jul 2026 08:03:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260722-episode-20260722-259e50</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《最好的决定》收录了十六位作家主动选择不生育的真实故事。编者梅根·多姆通过这些故事告诉我们：生育不是人生的必答题，不生也是一种选择。书中作者们来自不同背景，做出不生育决定的原因也各不相同——有人因为从小缺乏关爱而害怕自己当不好父母，有人因为热爱自由不想被孩子束缚，有人因为想清楚了内心深处并没有当父母的渴望。他们共同的特点是：认真地问了自己一个问题，然后诚实地回答了它。这本书打破了社会对不育者的刻板印象与污名，揭示了一个重要真相：每个人都有权利做出自己的决定，而这个决定，值得被尊重。</itunes:summary>
+      <itunes:duration>00:26:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260722/episode-20260722-259e50.mp3" length="25181229" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
