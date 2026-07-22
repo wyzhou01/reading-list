@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 22 Jul 2026 16:37:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 16:42:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12567,6 +12567,17 @@
       <itunes:duration>00:28:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260723/episode-20260723-0448ca.mp3" length="27614637" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《鹿川有许多粪》 · 完整版 · 鹿川有许多粪 · 完整讲读</title>
+      <description>《鹿川有许多粪》是李沧东一九九二年的小说集，收录五部写于光州事件之后的中短篇。李沧东把镜头对准民主化运动背后那些注定被历史略过的普通人：一个错把军歌唱进示威现场的底层散工，一个举报亲弟弟后坐在粪堆上哭泣的小教师，一个仰望星空找回活下去勇气的女青年。他不审判，不煽情，只是追问：在威权、贫困与幻灭之中，人，到底还能不能活得像个人。</description>
+      <pubDate>Wed, 22 Jul 2026 16:42:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260723-episode-20260723-04806f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《鹿川有许多粪》是李沧东一九九二年的小说集，收录五部写于光州事件之后的中短篇。李沧东把镜头对准民主化运动背后那些注定被历史略过的普通人：一个错把军歌唱进示威现场的底层散工，一个举报亲弟弟后坐在粪堆上哭泣的小教师，一个仰望星空找回活下去勇气的女青年。他不审判，不煽情，只是追问：在威权、贫困与幻灭之中，人，到底还能不能活得像个人。</itunes:summary>
+      <itunes:duration>00:23:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260723/episode-20260723-04806f.mp3" length="22417581" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
