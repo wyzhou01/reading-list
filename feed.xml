@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 22 Jul 2026 07:32:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 07:41:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12512,6 +12512,17 @@
       <itunes:duration>00:30:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260722/episode-20260722-40ffa4.mp3" length="29757357" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我要活下去：韩国MERS风暴里的人们》 · 完整版 · 我要活下去 · 完整讲读</title>
+      <description>《我要活下去》是韩国作家金琸桓基于二零一五年韩国MERS疫情写就的非虚构小说。一场源自官僚瞒报与制度失灵的公共卫生灾难，夺走三十八条人命。痊愈者与遗属在警报解除后，陷入漫长的社会性死亡：被贴上&quot;超级传播者&quot;的标签，被远远避开，被自己的国家遗忘。金琸桓用数年时间实地采访，把镜头对准病房里的呼吸机、隔离同意书与公文里的推诿，让金石柱、吉冬华、李一花这些有血有肉的名字，替所有被噤声的人喊出四个字——我要活下去。</description>
+      <pubDate>Wed, 22 Jul 2026 07:41:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260722-episode-20260722-68ceb1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我要活下去》是韩国作家金琸桓基于二零一五年韩国MERS疫情写就的非虚构小说。一场源自官僚瞒报与制度失灵的公共卫生灾难，夺走三十八条人命。痊愈者与遗属在警报解除后，陷入漫长的社会性死亡：被贴上&quot;超级传播者&quot;的标签，被远远避开，被自己的国家遗忘。金琸桓用数年时间实地采访，把镜头对准病房里的呼吸机、隔离同意书与公文里的推诿，让金石柱、吉冬华、李一花这些有血有肉的名字，替所有被噤声的人喊出四个字——我要活下去。</itunes:summary>
+      <itunes:duration>00:32:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260722/episode-20260722-68ceb1.mp3" length="31288365" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
