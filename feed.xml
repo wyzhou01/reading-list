@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 22 Jul 2026 16:42:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 16:49:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12578,6 +12578,17 @@
       <itunes:duration>00:23:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260723/episode-20260723-04806f.mp3" length="22417581" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《龙族全套七册合集》 · 完整版 · 龙族全套共七册龙族龙族龙族前传 · 完整讲读</title>
+      <description>《龙族》是江南自二零一零年起笔、历时近十年写成的中国青春奇幻长篇系列，全套七册累计销量突破两千万册。故事讲述一个被家庭忽视、被同龄人遗忘的衰小孩路明非，收到美国卡塞尔学院的面试通知后，被卷入人类与龙族延续上万年的隐秘战争。从序章白帝城之梦，到卡塞尔之门、黄金瞳、青铜城、龙墓的层层深入，再到黑月之潮与奥丁之渊的决战，作者把屠龙战场搬进普通高中生的走廊、网吧、深夜便利店，让神话与青春无缝重叠。路明非与恺撒、楚子航、诺诺、绘梨衣等同伴一路同行，在血统、勇气与命运的角力中完成自我认同。江南以献给所有有梦想的衰小孩为内核，写出了一代中国青少年的孤独、不甘与不甘之后的崛起，是过去十五年中国奇幻文学的现象级标杆之作。</description>
+      <pubDate>Wed, 22 Jul 2026 16:49:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260723-episode-20260723-cbad5f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《龙族》是江南自二零一零年起笔、历时近十年写成的中国青春奇幻长篇系列，全套七册累计销量突破两千万册。故事讲述一个被家庭忽视、被同龄人遗忘的衰小孩路明非，收到美国卡塞尔学院的面试通知后，被卷入人类与龙族延续上万年的隐秘战争。从序章白帝城之梦，到卡塞尔之门、黄金瞳、青铜城、龙墓的层层深入，再到黑月之潮与奥丁之渊的决战，作者把屠龙战场搬进普通高中生的走廊、网吧、深夜便利店，让神话与青春无缝重叠。路明非与恺撒、楚子航、诺诺、绘梨衣等同伴一路同行，在血统、勇气与命运的角力中完成自我认同。江南以献给所有有梦想的衰小孩为内核，写出了一代中国青少年的孤独、不甘与不甘之后的崛起，是过去十五年中国奇幻文学的现象级标杆之作。</itunes:summary>
+      <itunes:duration>00:25:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260723/episode-20260723-cbad5f.mp3" length="24230061" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
