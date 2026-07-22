@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 22 Jul 2026 16:49:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 21:20:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12589,6 +12589,17 @@
       <itunes:duration>00:25:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260723/episode-20260723-cbad5f.mp3" length="24230061" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《总统是靠不住的》 · 完整版 · 总统是靠不住的近距离看美国之 · 完整讲读</title>
+      <description>《总统是靠不住的》是旅美华人作家林达《近距离看美国》系列第二部，写于一九九八年克林顿弹劾危机之时。全书以书信体，用小镇投票站的清寒秋夜、总统提名的国会听证、辛普森案的刑事民事双轨审判、莱温斯基丑闻中的弹劾程序等具体故事，逐层拆解美国总统的真实身份——他不是一国之首的“皇上”，而是被三权分立、违宪审查、陪审团制度、程序正义层层束缚的“大管家”。林达用最平实的眼睛，揭示了一个看似反直觉的真相：让总统靠不住，反而是普通美国人最靠得住的安全感来源。这本书是华文世界了解美国政治法律制度的入门经典，二十多年过去依然值得认真读一遍。</description>
+      <pubDate>Tue, 16 Jun 2026 02:41:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260723-episode-20260723-0c072b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《总统是靠不住的》是旅美华人作家林达《近距离看美国》系列第二部，写于一九九八年克林顿弹劾危机之时。全书以书信体，用小镇投票站的清寒秋夜、总统提名的国会听证、辛普森案的刑事民事双轨审判、莱温斯基丑闻中的弹劾程序等具体故事，逐层拆解美国总统的真实身份——他不是一国之首的“皇上”，而是被三权分立、违宪审查、陪审团制度、程序正义层层束缚的“大管家”。林达用最平实的眼睛，揭示了一个看似反直觉的真相：让总统靠不住，反而是普通美国人最靠得住的安全感来源。这本书是华文世界了解美国政治法律制度的入门经典，二十多年过去依然值得认真读一遍。</itunes:summary>
+      <itunes:duration>00:28:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260723/episode-20260723-0c072b.mp3" length="27044013" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
