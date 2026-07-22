@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 22 Jul 2026 08:12:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 16:25:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12545,6 +12545,17 @@
       <itunes:duration>00:31:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260722/episode-20260722-7ffcad.mp3" length="29939757" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《谁动了我的奶酪》 · 完整版 · 谁动了我的奶酪 · 完整讲读</title>
+      <description>《谁动了我的奶酪？》是斯宾塞·约翰逊写于一九七九到一九八零年间、一九九八年正式出版的寓言，讲述两只小老鼠嗅嗅、匆匆和两个小矮人哼哼、唧唧在迷宫中寻找奶酪的故事。当他们赖以生存的奶酪C站突然消失，嗅嗅和匆匆立刻动身寻找新的奶酪，唧唧在漫长的恐惧与反思之后也重新出发，唯有哼哼留在原地不断追问&quot;这不公平&quot;。全书用不到四万字，回答了一个永恒的难题：当舒适被打破，我们该逃避还是该出发。这本全球销量超过两千六百万册的小书，至今仍被无数企业当作员工培训教材，提醒每一个读者：变化是唯一的不变，迷宫是奶酪的来源，而真正的转折，是你愿意从&quot;我怕&quot;出发的那一刻。</description>
+      <pubDate>Wed, 22 Jul 2026 16:24:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260723-episode-20260723-7595b5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《谁动了我的奶酪？》是斯宾塞·约翰逊写于一九七九到一九八零年间、一九九八年正式出版的寓言，讲述两只小老鼠嗅嗅、匆匆和两个小矮人哼哼、唧唧在迷宫中寻找奶酪的故事。当他们赖以生存的奶酪C站突然消失，嗅嗅和匆匆立刻动身寻找新的奶酪，唧唧在漫长的恐惧与反思之后也重新出发，唯有哼哼留在原地不断追问&quot;这不公平&quot;。全书用不到四万字，回答了一个永恒的难题：当舒适被打破，我们该逃避还是该出发。这本全球销量超过两千六百万册的小书，至今仍被无数企业当作员工培训教材，提醒每一个读者：变化是唯一的不变，迷宫是奶酪的来源，而真正的转折，是你愿意从&quot;我怕&quot;出发的那一刻。</itunes:summary>
+      <itunes:duration>00:27:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260723/episode-20260723-7595b5.mp3" length="26176557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
