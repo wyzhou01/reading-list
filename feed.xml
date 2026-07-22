@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 22 Jul 2026 21:20:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 21:26:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12600,6 +12600,17 @@
       <itunes:duration>00:28:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260723/episode-20260723-0c072b.mp3" length="27044013" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《念念远山》 · 完整版 · 念念远山 · 完整讲读</title>
+      <description>《念念远山》是英国作家罗伯特·麦克法伦写于二十三岁、二〇二四年由南海出版公司推出中文纪念版的自然写作经典。它以少年时初读《挺进珠峰》《安纳普尔纳峰》的震撼为起点，串联登山史、文学、生态与个人肉身经验，追问“人类为什么要爬山”这一朴素却无法简化的问题。从拉金霍恩峰的冻伤、夏尔巴的牺牲，到珠峰顶排队登顶的荒诞与气候危机下冰川的消融，麦克法伦把高山写成一面屏幕，也写成一个伙伴，最终给出他自己的答案：没有哪座山值得我们奉上生命，但空间与心灵可以彼此渗透，直到双方的性质皆因此改变。念念远山，念念的不是岩石，是我们自己曾被一本书点燃过的那一点点隐秘的火。</description>
+      <pubDate>Wed, 22 Jul 2026 21:26:36 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260723-episode-20260723-46ba86</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《念念远山》是英国作家罗伯特·麦克法伦写于二十三岁、二〇二四年由南海出版公司推出中文纪念版的自然写作经典。它以少年时初读《挺进珠峰》《安纳普尔纳峰》的震撼为起点，串联登山史、文学、生态与个人肉身经验，追问“人类为什么要爬山”这一朴素却无法简化的问题。从拉金霍恩峰的冻伤、夏尔巴的牺牲，到珠峰顶排队登顶的荒诞与气候危机下冰川的消融，麦克法伦把高山写成一面屏幕，也写成一个伙伴，最终给出他自己的答案：没有哪座山值得我们奉上生命，但空间与心灵可以彼此渗透，直到双方的性质皆因此改变。念念远山，念念的不是岩石，是我们自己曾被一本书点燃过的那一点点隐秘的火。</itunes:summary>
+      <itunes:duration>00:30:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260723/episode-20260723-46ba86.mp3" length="29487405" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
