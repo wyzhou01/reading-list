@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 21 Jul 2026 22:13:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 07:26:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12501,6 +12501,17 @@
       <itunes:duration>00:30:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260722/episode-20260722-81024f.mp3" length="29313837" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《第六病室》 · 完整版 · 第六病室 · 完整讲读</title>
+      <description>一八九零年，三十岁的契诃夫拖着病体穿越西伯利亚，看见了沙俄流放地的地狱。回国后，他写下中篇小说《第六病室》，把整个帝国浓缩进一间不到三十步长的疯人院。一个因为撞见暴力而精神崩溃的看门人，一个因为说出真话而被同行关进来的医生格罗莫夫，他们在这间铁门紧锁的病房里相遇、相知，最后医生被两个看门人活活闷死。契诃夫用不到五万字证明：把人关进病室的从来不是疯狂，而是清醒本身。一百三十五年过去，这部小说仍在追问每一个时代——我们今天，活在哪间第六病室里？</description>
+      <pubDate>Wed, 22 Jul 2026 07:26:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260722-episode-20260722-40ffa4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一八九零年，三十岁的契诃夫拖着病体穿越西伯利亚，看见了沙俄流放地的地狱。回国后，他写下中篇小说《第六病室》，把整个帝国浓缩进一间不到三十步长的疯人院。一个因为撞见暴力而精神崩溃的看门人，一个因为说出真话而被同行关进来的医生格罗莫夫，他们在这间铁门紧锁的病房里相遇、相知，最后医生被两个看门人活活闷死。契诃夫用不到五万字证明：把人关进病室的从来不是疯狂，而是清醒本身。一百三十五年过去，这部小说仍在追问每一个时代——我们今天，活在哪间第六病室里？</itunes:summary>
+      <itunes:duration>00:30:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260722/episode-20260722-40ffa4.mp3" length="29757357" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
