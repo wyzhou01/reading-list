@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 23 Jul 2026 16:26:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 16:34:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12702,6 +12702,17 @@
       <itunes:duration>00:29:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260724/episode-20260724-95435e.mp3" length="28546605" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《家庭生活》 · 完整版 · 家庭生活 · 完整讲读</title>
+      <description>《家庭生活》是湖北作家姚鄂梅二零二一年出版的短篇小说集，收录《基因的秘密》《外婆要来了》等七篇作品，时代跨度从上世纪八十年代延伸至移动互联网当下。她以平静克制的笔触，写了一个中国普通家族三代人的溃败史：男人们在投机倒把、赌博、车祸里接连崩塌，女人们用旧棉袄、腌菜坛子、骨灰花盆默默撑住这个家。全书不煽情、不控诉，只把家族微信群里没说出口的道歉、妇产科里没说出的真相、以及一个男人用死亡留下的存单，一笔一笔写给你看。听这一期，你也许会想起自己家族群里那个永远沉默的父亲，和那个永远在操劳的母亲。</description>
+      <pubDate>Thu, 23 Jul 2026 16:34:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260724-episode-20260724-361363</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《家庭生活》是湖北作家姚鄂梅二零二一年出版的短篇小说集，收录《基因的秘密》《外婆要来了》等七篇作品，时代跨度从上世纪八十年代延伸至移动互联网当下。她以平静克制的笔触，写了一个中国普通家族三代人的溃败史：男人们在投机倒把、赌博、车祸里接连崩塌，女人们用旧棉袄、腌菜坛子、骨灰花盆默默撑住这个家。全书不煽情、不控诉，只把家族微信群里没说出口的道歉、妇产科里没说出的真相、以及一个男人用死亡留下的存单，一笔一笔写给你看。听这一期，你也许会想起自己家族群里那个永远沉默的父亲，和那个永远在操劳的母亲。</itunes:summary>
+      <itunes:duration>00:20:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260724/episode-20260724-361363.mp3" length="19564461" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
