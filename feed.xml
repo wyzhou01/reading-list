@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 23 Jul 2026 07:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 07:38:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12655,6 +12655,29 @@
       <itunes:duration>00:35:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260723/episode-20260723-464a8e.mp3" length="33673773" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《名侦探的献祭》 · 完整版 · 名侦探的献祭 · 完整讲读</title>
+      <description>一九七八年十一月十八日，吉姆・琼斯在琼斯敦带领九百一十八名信徒集体自杀。同一天夜里，日本第一名侦探横薮友介在宫城县的民宿被一名成年侏儒症患者射杀，凶手代号 108 号丸八。
+
+社会派推理作家把这两起真实与虚构交织的事件缝合在一起。平庸的侦探助手有森理理子被派往调查琼斯敦惨案，却在邪教村落被信徒勒死。导师大埘宗为了给弟子的死一个配得上她的解释，在 FBI 面前编织了一个惊天谎言：理子不是被普通杀人犯杀死的，而是为了揭露人民教会的阴谋而牺牲的。
+
+九百一十八条人命，从此成了大埘心中祭品的总数。
+
+这本书追问的不是真相是什么，而是谁有资格定义死亡的意义。当平庸者掌握了他人生命的解释权，献祭就不再是邪教的专利，而是每个人都可能犯下的平庸之恶。</description>
+      <pubDate>Thu, 23 Jul 2026 07:38:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260723-episode-20260723-d034be</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九七八年十一月十八日，吉姆・琼斯在琼斯敦带领九百一十八名信徒集体自杀。同一天夜里，日本第一名侦探横薮友介在宫城县的民宿被一名成年侏儒症患者射杀，凶手代号 108 号丸八。
+
+社会派推理作家把这两起真实与虚构交织的事件缝合在一起。平庸的侦探助手有森理理子被派往调查琼斯敦惨案，却在邪教村落被信徒勒死。导师大埘宗为了给弟子的死一个配得上她的解释，在 FBI 面前编织了一个惊天谎言：理子不是被普通杀人犯杀死的，而是为了揭露人民教会的阴谋而牺牲的。
+
+九百一十八条人命，从此成了大埘心中祭品的总数。
+
+这本书追问的不是真相是什么，而是谁有资格定义死亡的意义。当平庸者掌握了他人生命的解释权，献祭就不再是邪教的专利，而是每个人都可能犯下的平庸之恶。</itunes:summary>
+      <itunes:duration>00:25:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260723/episode-20260723-d034be.mp3" length="24411309" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
