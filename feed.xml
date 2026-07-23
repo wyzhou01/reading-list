@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 23 Jul 2026 16:58:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 17:07:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12735,6 +12735,17 @@
       <itunes:duration>00:37:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260724/episode-20260724-99a46a.mp3" length="35802285" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《佩德罗·巴拉莫》 · 完整版 · 佩德罗·巴拉莫 · 完整讲读</title>
+      <description>《佩德罗·巴拉莫》是墨西哥作家胡安·鲁尔福一九五五年发表的代表作。一九一零年墨西哥革命之后，乡村凋敝，恶霸庄园主佩德罗·巴拉莫在科马拉村鱼肉百姓，村民非死即逃，整座村庄沦为亡魂昼行的废土。胡安·普雷西亚多受亡母之托前往寻父，踏入这座空无一人的村庄，与亡魂对话，一步步揭开佩德罗的暴行与对初恋苏萨娜·圣胡安的至死执恋。鲁尔福以十万字的篇幅，把时间、回忆、生死搅碎重组，模糊了人鬼之间的界线，写出了一部被誉为“拉丁美洲文学巅峰之作“的现代经典，并直接启发了加西亚·马尔克斯的《百年孤独》。</description>
+      <pubDate>Thu, 23 Jul 2026 17:06:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260724-episode-20260724-dacd24</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《佩德罗·巴拉莫》是墨西哥作家胡安·鲁尔福一九五五年发表的代表作。一九一零年墨西哥革命之后，乡村凋敝，恶霸庄园主佩德罗·巴拉莫在科马拉村鱼肉百姓，村民非死即逃，整座村庄沦为亡魂昼行的废土。胡安·普雷西亚多受亡母之托前往寻父，踏入这座空无一人的村庄，与亡魂对话，一步步揭开佩德罗的暴行与对初恋苏萨娜·圣胡安的至死执恋。鲁尔福以十万字的篇幅，把时间、回忆、生死搅碎重组，模糊了人鬼之间的界线，写出了一部被誉为“拉丁美洲文学巅峰之作“的现代经典，并直接启发了加西亚·马尔克斯的《百年孤独》。</itunes:summary>
+      <itunes:duration>00:27:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260724/episode-20260724-dacd24.mp3" length="25989165" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
