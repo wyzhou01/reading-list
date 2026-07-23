@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 23 Jul 2026 16:45:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 16:58:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12724,6 +12724,17 @@
       <itunes:duration>00:33:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260724/episode-20260724-58395a.mp3" length="32242989" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《雪春秋》 · 完整版 · 雪春秋 · 完整讲读</title>
+      <description>《雪春秋》是郑在欢的长篇处女作。全书由九个章节构成，以&quot;雪&quot;&quot;春&quot;&quot;秋&quot;三组同名女孩为线索，循环往复，构成一部关于乡村女性的命运史诗。女孩沦为二、沦为三、沦为四；名字是判决书，父亲是凶手，姐妹是唯一的墙，身体是唯一的语言。大雪在父亲缺席的暴力里撑起整个家；春蓝在母亲终于生下弟弟后成为&quot;多余的人&quot;；秋荣在父亲彻底抛弃家庭时独自扛起救母的重担。最后，二十九岁的春蓝抱着两岁的女儿坐上火车，去和姐妹开一家叫&quot;三姐妹&quot;的店。郑在欢用近乎白描的克制笔法，写下那些从事与年龄不匹配劳动的女孩，写下她们不可概括的身体经验，写下重男轻女结构如何像季节一样周而复始。</description>
+      <pubDate>Thu, 23 Jul 2026 16:58:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260724-episode-20260724-99a46a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《雪春秋》是郑在欢的长篇处女作。全书由九个章节构成，以&quot;雪&quot;&quot;春&quot;&quot;秋&quot;三组同名女孩为线索，循环往复，构成一部关于乡村女性的命运史诗。女孩沦为二、沦为三、沦为四；名字是判决书，父亲是凶手，姐妹是唯一的墙，身体是唯一的语言。大雪在父亲缺席的暴力里撑起整个家；春蓝在母亲终于生下弟弟后成为&quot;多余的人&quot;；秋荣在父亲彻底抛弃家庭时独自扛起救母的重担。最后，二十九岁的春蓝抱着两岁的女儿坐上火车，去和姐妹开一家叫&quot;三姐妹&quot;的店。郑在欢用近乎白描的克制笔法，写下那些从事与年龄不匹配劳动的女孩，写下她们不可概括的身体经验，写下重男轻女结构如何像季节一样周而复始。</itunes:summary>
+      <itunes:duration>00:37:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260724/episode-20260724-99a46a.mp3" length="35802285" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
