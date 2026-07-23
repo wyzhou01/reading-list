@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 23 Jul 2026 17:07:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 21:25:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12746,6 +12746,17 @@
       <itunes:duration>00:27:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260724/episode-20260724-dacd24.mp3" length="25989165" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《少有人走的路（全六册）》 · 完整版 · 14套装全新整理版含斯科特派克的新作 · 完整讲读</title>
+      <description>美国心理医生斯科特·派克四部曲合集，以“心智成熟“为主线层层递进：自律与爱是起点，敢于直面谎言才能突破心理疾病，与心灵对话探索潜意识与死亡，和在焦虑年代保持独立思考、倾听灵魂的声音。全书核心论点：人生苦难重重，唯有通过延迟满足、承担责任、忠于事实、平衡失衡的爱，才能在熵增与原罪中拥抱恩典，最终放下自我、获得灵魂的引领。</description>
+      <pubDate>Fri, 19 Jun 2026 15:40:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260724-episode-20260724-6c66a6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>美国心理医生斯科特·派克四部曲合集，以“心智成熟“为主线层层递进：自律与爱是起点，敢于直面谎言才能突破心理疾病，与心灵对话探索潜意识与死亡，和在焦虑年代保持独立思考、倾听灵魂的声音。全书核心论点：人生苦难重重，唯有通过延迟满足、承担责任、忠于事实、平衡失衡的爱，才能在熵增与原罪中拥抱恩典，最终放下自我、获得灵魂的引领。</itunes:summary>
+      <itunes:duration>00:35:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260724/episode-20260724-6c66a6.mp3" length="33796653" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
