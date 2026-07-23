@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 23 Jul 2026 07:38:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 07:47:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12678,6 +12678,19 @@
       <itunes:duration>00:25:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260723/episode-20260723-d034be.mp3" length="24411309" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《小津安二郎剧本集》 · 完整版 · 小津安二郎剧本集 · 完整讲读</title>
+      <description>《小津安二郎剧本集》收录小津一九四九到一九六二年七部代表作品的完整剧本：《晚春》《麦秋》《东京物语》《浮草》《秋日和》《秋刀鱼之味》。他用一生反复书写同一件事——父母与子女之间的离别，嫁女与空巢的孤独。没有嚎啕大哭，没有长篇告白，只有一句“孤零零一个人啊“和哼不完的军舰进行曲。小津用最朴素的对白，最克制的笔触，写出了东方家庭里那些不必言说的深情与无奈，也写出了人类情感最普遍、最动人的真相。读完这本书，我们才明白，人生最重的东西，从来都不在远方，就在我们身边。
+</description>
+      <pubDate>Thu, 23 Jul 2026 07:47:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260723-episode-20260723-ffb88e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《小津安二郎剧本集》收录小津一九四九到一九六二年七部代表作品的完整剧本：《晚春》《麦秋》《东京物语》《浮草》《秋日和》《秋刀鱼之味》。他用一生反复书写同一件事——父母与子女之间的离别，嫁女与空巢的孤独。没有嚎啕大哭，没有长篇告白，只有一句“孤零零一个人啊“和哼不完的军舰进行曲。小津用最朴素的对白，最克制的笔触，写出了东方家庭里那些不必言说的深情与无奈，也写出了人类情感最普遍、最动人的真相。读完这本书，我们才明白，人生最重的东西，从来都不在远方，就在我们身边。
+</itunes:summary>
+      <itunes:duration>00:24:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260723/episode-20260723-ffb88e.mp3" length="23387949" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
