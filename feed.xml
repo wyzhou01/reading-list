@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 22 Jul 2026 21:52:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 07:30:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12644,6 +12644,17 @@
       <itunes:duration>00:33:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260723/episode-20260723-4d9cac.mp3" length="32533677" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《重返狼群》 · 完整版 · 重返狼群 · 完整讲读</title>
+      <description>《重返狼群》是成都女画家李微漪写下的四十万字纪实。她在若尔盖草原救回一只濒死的小狼崽格林,带回城市抚养,又带回草原,在狼山上与狼同住数月、历经十几次死里逃生,最终成功将格林送回野生狼群,成为世界第一例由人养大的狼重返荒野并存活下来的案例。书中颠覆了&quot;恶狼&quot;的刻板叙事,记录了公狼咬断前爪逃生、母狼吞毒殉情、狼群重情重义等真实片段,也揭示了若尔盖湿地干涸、盗猎猖獗、狼群几近绝迹的残酷现实。最终,这不仅是一个女人与一只狼的故事,更是一堂关于爱、自由与放手的课。</description>
+      <pubDate>Thu, 23 Jul 2026 07:29:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260723-episode-20260723-464a8e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《重返狼群》是成都女画家李微漪写下的四十万字纪实。她在若尔盖草原救回一只濒死的小狼崽格林,带回城市抚养,又带回草原,在狼山上与狼同住数月、历经十几次死里逃生,最终成功将格林送回野生狼群,成为世界第一例由人养大的狼重返荒野并存活下来的案例。书中颠覆了&quot;恶狼&quot;的刻板叙事,记录了公狼咬断前爪逃生、母狼吞毒殉情、狼群重情重义等真实片段,也揭示了若尔盖湿地干涸、盗猎猖獗、狼群几近绝迹的残酷现实。最终,这不仅是一个女人与一只狼的故事,更是一堂关于爱、自由与放手的课。</itunes:summary>
+      <itunes:duration>00:35:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260723/episode-20260723-464a8e.mp3" length="33673773" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
