@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 23 Jul 2026 21:25:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 21:37:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12757,6 +12757,17 @@
       <itunes:duration>00:35:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260724/episode-20260724-6c66a6.mp3" length="33796653" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《读水浒》 · 完整版 · 读水浒 · 完整讲读</title>
+      <description>《读水浒》是作家押沙龙用现代管理学与心理学视角重读《水浒传》的人物随笔集。作者打破&quot;忠义&quot;标签，把林冲、武松、宋江、杨志、鲁青、扈三娘等十多个核心人物还原为有欲望、有算计、有软弱的真实个体。林冲是中产幻灭的代表，武松是暴力创伤的产物，宋江是跨越阶层的奋斗者，杨志是被自己性格逼上绝路的精英，李逵是失去道德感的野兽，扈三娘是被权力碾碎的屈辱者，鲁智深则是乱世里难得一见的至善。书里贯穿一个核心观点：伟大的文学，不是让你变得单纯，而是让你变得复杂。只有承认人性的复杂，我们的道德才有真正的意义。</description>
+      <pubDate>Thu, 23 Jul 2026 21:37:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260724-episode-20260724-210748</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《读水浒》是作家押沙龙用现代管理学与心理学视角重读《水浒传》的人物随笔集。作者打破&quot;忠义&quot;标签，把林冲、武松、宋江、杨志、鲁青、扈三娘等十多个核心人物还原为有欲望、有算计、有软弱的真实个体。林冲是中产幻灭的代表，武松是暴力创伤的产物，宋江是跨越阶层的奋斗者，杨志是被自己性格逼上绝路的精英，李逵是失去道德感的野兽，扈三娘是被权力碾碎的屈辱者，鲁智深则是乱世里难得一见的至善。书里贯穿一个核心观点：伟大的文学，不是让你变得单纯，而是让你变得复杂。只有承认人性的复杂，我们的道德才有真正的意义。</itunes:summary>
+      <itunes:duration>00:42:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260724/episode-20260724-210748.mp3" length="40588461" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
