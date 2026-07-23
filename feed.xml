@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 23 Jul 2026 16:34:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 16:45:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12713,6 +12713,17 @@
       <itunes:duration>00:20:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260724/episode-20260724-361363.mp3" length="19564461" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《N号房追踪记》 · 完整版 · 07N号房追踪记 · 完整讲读</title>
+      <description>《N号房追踪记》是韩国两位二十多岁女大学生追踪团火花对N号房事件的完整记录。一台电脑一部手机，她们撬动了涉及二十六万人的暗网犯罪帝国，推动了《N号房防止法》的出台。本书融合新闻实录、个人成长、社会反思三重文本，既是震惊世界的案件全貌，也是普通人在面对巨大恶行时可以如何行动的指南。</description>
+      <pubDate>Thu, 23 Jul 2026 16:45:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260724-episode-20260724-58395a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《N号房追踪记》是韩国两位二十多岁女大学生追踪团火花对N号房事件的完整记录。一台电脑一部手机，她们撬动了涉及二十六万人的暗网犯罪帝国，推动了《N号房防止法》的出台。本书融合新闻实录、个人成长、社会反思三重文本，既是震惊世界的案件全貌，也是普通人在面对巨大恶行时可以如何行动的指南。</itunes:summary>
+      <itunes:duration>00:33:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260724/episode-20260724-58395a.mp3" length="32242989" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
