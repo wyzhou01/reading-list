@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 23 Jul 2026 07:47:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 16:26:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12691,6 +12691,17 @@
       <itunes:duration>00:24:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260723/episode-20260723-ffb88e.mp3" length="23387949" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《沈从文的后半生：1948-1988》 · 完整版 · 沈从文的后半生：1948-1988 · 完整讲读</title>
+      <description>一九四八年，沈从文在颐和园对十一岁的儿子说，要再写一二十本书。一年后，他用剃刀割破了自己的脖子，被送进精神病院。一九四九年之后，中国少了一位作家，多了一位文物研究者。再之后的几十年，他被遗忘、被批判、被下放。整整三十年。这本书讲的就是这三十年。复旦大学教授张新颖，用书信、日记、未刊文字，一点点拼出一个人在时代巨变里如何崩溃、如何转向、如何沉默、如何又站起来。沈从文的后半生，给我们提供了一种在巨大历史力量面前坚持精神自主的答案。弱小的个人，也可以从历史中站立起来。</description>
+      <pubDate>Thu, 23 Jul 2026 16:25:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260724-episode-20260724-95435e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九四八年，沈从文在颐和园对十一岁的儿子说，要再写一二十本书。一年后，他用剃刀割破了自己的脖子，被送进精神病院。一九四九年之后，中国少了一位作家，多了一位文物研究者。再之后的几十年，他被遗忘、被批判、被下放。整整三十年。这本书讲的就是这三十年。复旦大学教授张新颖，用书信、日记、未刊文字，一点点拼出一个人在时代巨变里如何崩溃、如何转向、如何沉默、如何又站起来。沈从文的后半生，给我们提供了一种在巨大历史力量面前坚持精神自主的答案。弱小的个人，也可以从历史中站立起来。</itunes:summary>
+      <itunes:duration>00:29:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260724/episode-20260724-95435e.mp3" length="28546605" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
