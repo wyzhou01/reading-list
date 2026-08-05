@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 01 Aug 2026 07:12:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 07:42:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12768,6 +12768,17 @@
       <itunes:duration>00:42:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260724/episode-20260724-210748.mp3" length="40588461" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《民国北京城：历史与怀旧》 · 完整版 · 民国北京城：历史与怀旧_(三联·哈佛燕京学术丛书) · 完整讲读</title>
+      <description>《民国北京城：历史与怀旧》是董玥对一九一一至一九三七年北京的学术考察。作者跳出“西方到东方”的单向现代性叙事，把北京放回一战前后那个真正全球互联的城市网络里去理解。她以胡同改名、天桥旧货市场、老舍文学等微观案例，揭示规划者的“文字城市”与市民的“经验城市”之间持续博弈，提出“传统的回收”这一核心概念：现代性不是一个从西方输入的整块铁板，而是一座由碎片、互译、再循环编织而成的网。本书既是民国北京的城市史，也是一份关于怀旧、记忆与城市未来的全球性反思。</description>
+      <pubDate>Wed, 05 Aug 2026 07:42:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260805-episode-20260805-1b1035</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《民国北京城：历史与怀旧》是董玥对一九一一至一九三七年北京的学术考察。作者跳出“西方到东方”的单向现代性叙事，把北京放回一战前后那个真正全球互联的城市网络里去理解。她以胡同改名、天桥旧货市场、老舍文学等微观案例，揭示规划者的“文字城市”与市民的“经验城市”之间持续博弈，提出“传统的回收”这一核心概念：现代性不是一个从西方输入的整块铁板，而是一座由碎片、互译、再循环编织而成的网。本书既是民国北京的城市史，也是一份关于怀旧、记忆与城市未来的全球性反思。</itunes:summary>
+      <itunes:duration>00:24:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260805/episode-20260805-1b1035.mp3" length="23652141" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
