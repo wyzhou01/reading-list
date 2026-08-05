@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 05 Aug 2026 18:40:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 18:46:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12823,6 +12823,17 @@
       <itunes:duration>00:31:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260805/episode-20260805-fa0bdc.mp3" length="30317229" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《刀下人間》 · 完整版 · 刀下人间 · 完整讲读</title>
+      <description>《刀下人間》是臺灣外科醫師劉育志的醫療人文散文集，以診間、手術室、病房為舞臺，書寫醫療現場的人性幽微。從車禍詐術、迷信求醫，到醫療特權、生死道別，劉育志以冷靜自制的筆觸，剖開的不只是血肉，更是醫學、倫理、法律交織的灰色地帶。每一篇後記都是一場小型倫理思辨課，提醒讀者：醫學從來不只是修理身體，而是同時在處理人心、家庭與信念；面對無常，與其求一個想要的答案，不如學會問對的問題，並為「最後一刻」預先做好準備。</description>
+      <pubDate>Wed, 05 Aug 2026 18:45:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260805-episode-20260805-74aaf4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《刀下人間》是臺灣外科醫師劉育志的醫療人文散文集，以診間、手術室、病房為舞臺，書寫醫療現場的人性幽微。從車禍詐術、迷信求醫，到醫療特權、生死道別，劉育志以冷靜自制的筆觸，剖開的不只是血肉，更是醫學、倫理、法律交織的灰色地帶。每一篇後記都是一場小型倫理思辨課，提醒讀者：醫學從來不只是修理身體，而是同時在處理人心、家庭與信念；面對無常，與其求一個想要的答案，不如學會問對的問題，並為「最後一刻」預先做好準備。</itunes:summary>
+      <itunes:duration>00:21:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260805/episode-20260805-74aaf4.mp3" length="20858925" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
