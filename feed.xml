@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 05 Aug 2026 18:46:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 18:52:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12834,6 +12834,17 @@
       <itunes:duration>00:21:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260805/episode-20260805-74aaf4.mp3" length="20858925" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《少年》 · 完整版 · 陀思妥耶夫斯基集(06)少年 · 完整讲读</title>
+      <description>《少年》是陀思妥耶夫斯基于一八七五年写成的长篇小说，讲述十九岁的私生子阿尔卡季·多尔戈鲁基初入彼得堡的故事。他顶着农奴的姓，却立志要当俄国的罗特希尔德；他恨透了自己的贵族生父韦尔西洛夫，又无法摆脱父亲的影响；他在虚无主义与宗教信仰之间反复撕裂，又在革命团体的密谋与贵族客厅的伪善里来回奔走。陀思妥耶夫斯基借这一年的自白，剖析了一个“地下室人“的变种如何在金钱、权力、信仰、爱情的漩涡里，把那个疯狂的“罗斯柴尔德思想“悄悄磨成了另一种形状——一种不靠压过别人也能站立的、孤傲而平静的力量。</description>
+      <pubDate>Wed, 05 Aug 2026 18:52:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260805-episode-20260805-f202b7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《少年》是陀思妥耶夫斯基于一八七五年写成的长篇小说，讲述十九岁的私生子阿尔卡季·多尔戈鲁基初入彼得堡的故事。他顶着农奴的姓，却立志要当俄国的罗特希尔德；他恨透了自己的贵族生父韦尔西洛夫，又无法摆脱父亲的影响；他在虚无主义与宗教信仰之间反复撕裂，又在革命团体的密谋与贵族客厅的伪善里来回奔走。陀思妥耶夫斯基借这一年的自白，剖析了一个“地下室人“的变种如何在金钱、权力、信仰、爱情的漩涡里，把那个疯狂的“罗斯柴尔德思想“悄悄磨成了另一种形状——一种不靠压过别人也能站立的、孤傲而平静的力量。</itunes:summary>
+      <itunes:duration>00:29:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260805/episode-20260805-f202b7.mp3" length="28568493" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
