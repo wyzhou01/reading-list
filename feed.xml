@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 05 Aug 2026 18:23:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 18:30:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12801,6 +12801,17 @@
       <itunes:duration>00:25:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260805/episode-20260805-47673d.mp3" length="24418605" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《努门诺尔与中洲之未完的传说》 · 完整版 · 努门诺尔与中洲之未完的传说_(托尔金作品系列) · 完整讲读</title>
+      <description>《努门诺尔与中洲之未完的传说》是托尔金之子克里斯托弗整理托尔金遗稿而成的文集，收录了《精灵宝钻》未能定稿的篇章、剧情大纲与语言学随笔。克里斯托弗做了一个大胆的决定：保留冲突，呈现草稿，而非抹平矛盾、补成定本。本书横跨第一到第三纪元，从图奥奔向刚多林、图林·图伦拔的悲歌，到努门诺尔兴亡、洛汗与刚铎之谊，最后以帕蓝提尔、伊斯塔尔、德鲁伊甸人的设定收束。它不是续集，不是补完，而是托尔金中洲最真实的一副面孔——一部关于作者如何思考的工作笔记。</description>
+      <pubDate>Wed, 05 Aug 2026 18:30:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260805-episode-20260805-c43afa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《努门诺尔与中洲之未完的传说》是托尔金之子克里斯托弗整理托尔金遗稿而成的文集，收录了《精灵宝钻》未能定稿的篇章、剧情大纲与语言学随笔。克里斯托弗做了一个大胆的决定：保留冲突，呈现草稿，而非抹平矛盾、补成定本。本书横跨第一到第三纪元，从图奥奔向刚多林、图林·图伦拔的悲歌，到努门诺尔兴亡、洛汗与刚铎之谊，最后以帕蓝提尔、伊斯塔尔、德鲁伊甸人的设定收束。它不是续集，不是补完，而是托尔金中洲最真实的一副面孔——一部关于作者如何思考的工作笔记。</itunes:summary>
+      <itunes:duration>00:31:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260805/episode-20260805-c43afa.mp3" length="30662829" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
