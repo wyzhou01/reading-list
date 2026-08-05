@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 05 Aug 2026 07:42:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 07:56:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12779,6 +12779,17 @@
       <itunes:duration>00:24:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260805/episode-20260805-1b1035.mp3" length="23652141" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《第一哲学沉思集》 · 完整版 · 第一哲学沉思集 · 完整讲读</title>
+      <description>《第一哲学沉思集》是笛卡尔于一千六百四十一年出版的形而上学奠基之作。他用普遍怀疑的方法，从怀疑一切出发，找到“我思故我在“这个不可怀疑的阿基米德点；接着借助上帝存在的本体论证明和清楚分明的知觉标准，重建外部世界的可靠性；最终在第六个沉思中得出心物二元论的结论，证明人的灵魂与肉体是两种性质完全不同的实体。本书通过六组反驳与答辩展开，直接塑造了此后几百年西方哲学关于知识、心灵与上帝的基本议题。</description>
+      <pubDate>Wed, 05 Aug 2026 07:56:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260805-episode-20260805-3b44a2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《第一哲学沉思集》是笛卡尔于一千六百四十一年出版的形而上学奠基之作。他用普遍怀疑的方法，从怀疑一切出发，找到“我思故我在“这个不可怀疑的阿基米德点；接着借助上帝存在的本体论证明和清楚分明的知觉标准，重建外部世界的可靠性；最终在第六个沉思中得出心物二元论的结论，证明人的灵魂与肉体是两种性质完全不同的实体。本书通过六组反驳与答辩展开，直接塑造了此后几百年西方哲学关于知识、心灵与上帝的基本议题。</itunes:summary>
+      <itunes:duration>00:33:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260805/episode-20260805-3b44a2.mp3" length="31733037" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
