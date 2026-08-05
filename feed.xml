@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 05 Aug 2026 18:30:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 18:40:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12812,6 +12812,17 @@
       <itunes:duration>00:31:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260805/episode-20260805-c43afa.mp3" length="30662829" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《小川洋子作品（共9册）》 · 完整版 · 小川洋子作品（共9册） · 完整讲读</title>
+      <description>《小川洋子作品（共九册）》收录日本作家小川洋子一九九一年至二零零九年间极具代表性的九部长篇小说。从一辆德国蕾丝婴儿车、一座藏在小山里的西班牙洋房、一头叫妞儿的侏儒河马，到只有八十分钟记忆的数学博士、被困山洞里的人质朗读会、理发师与翻译家的失踪故事——小川洋子用极轻的笔尖托起极重的情感，写尽了封闭空间中的亲密关系、身体与脆弱、记忆与丧失。她笔下的边缘人从不自怜，每一个被世界遗忘的角落都藏着无法言说的宇宙。这套书教会我们：不要害怕失去，不要害怕脆弱，不要害怕边缘，因为你身上每一个被认为不完美的地方，都可能藏着别人一辈子都进不去的宇宙。</description>
+      <pubDate>Wed, 05 Aug 2026 18:40:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260805-episode-20260805-fa0bdc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《小川洋子作品（共九册）》收录日本作家小川洋子一九九一年至二零零九年间极具代表性的九部长篇小说。从一辆德国蕾丝婴儿车、一座藏在小山里的西班牙洋房、一头叫妞儿的侏儒河马，到只有八十分钟记忆的数学博士、被困山洞里的人质朗读会、理发师与翻译家的失踪故事——小川洋子用极轻的笔尖托起极重的情感，写尽了封闭空间中的亲密关系、身体与脆弱、记忆与丧失。她笔下的边缘人从不自怜，每一个被世界遗忘的角落都藏着无法言说的宇宙。这套书教会我们：不要害怕失去，不要害怕脆弱，不要害怕边缘，因为你身上每一个被认为不完美的地方，都可能藏着别人一辈子都进不去的宇宙。</itunes:summary>
+      <itunes:duration>00:31:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260805/episode-20260805-fa0bdc.mp3" length="30317229" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
