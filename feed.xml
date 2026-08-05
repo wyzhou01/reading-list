@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 05 Aug 2026 07:56:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 18:23:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12790,6 +12790,17 @@
       <itunes:duration>00:33:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260805/episode-20260805-3b44a2.mp3" length="31733037" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《重新定位（珍藏版）》 · 完整版 · 定位 · 完整讲读</title>
+      <description>《定位》的核心洞见是：在传播过度的社会里，竞争的主战场已从工厂、货架转移到消费者心智中那把容量有限的小阶梯。胜负不取决于产品本身，而取决于品牌能否在某个品类中抢到一个清晰的位置。领导者的打法是反复强化、堵截对手；跟随者要去寻找空位、重新定位对手；最该警惕的是品牌延伸、搭便车、无名化三个经典陷阱。最后落地为成功六步曲：看清现状、锁定目标、识别对手、备好资金、坚持到底、全员一致。三十年后重读，这本书依然在回答同一个越来越迫切的问题：在注意力极度稀缺的时代，你究竟要在顾客脑子里，占住哪一格。</description>
+      <pubDate>Fri, 26 Jun 2026 16:41:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260805-episode-20260805-47673d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《定位》的核心洞见是：在传播过度的社会里，竞争的主战场已从工厂、货架转移到消费者心智中那把容量有限的小阶梯。胜负不取决于产品本身，而取决于品牌能否在某个品类中抢到一个清晰的位置。领导者的打法是反复强化、堵截对手；跟随者要去寻找空位、重新定位对手；最该警惕的是品牌延伸、搭便车、无名化三个经典陷阱。最后落地为成功六步曲：看清现状、锁定目标、识别对手、备好资金、坚持到底、全员一致。三十年后重读，这本书依然在回答同一个越来越迫切的问题：在注意力极度稀缺的时代，你究竟要在顾客脑子里，占住哪一格。</itunes:summary>
+      <itunes:duration>00:25:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260805/episode-20260805-47673d.mp3" length="24418605" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
