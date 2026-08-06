@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 20:16:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 20:30:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13164,6 +13164,17 @@
       <itunes:duration>00:47:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-704e85.mp3" length="45321261" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《追忆似水年华（全七册）》 · 完整版 · 追忆似水年华v · 完整讲读</title>
+      <description>《追忆似水年华》是马塞尔·普鲁斯特穷尽一生写就的七卷巨著。叙述者从贡布雷的童年出发，穿过斯万的爱情、盖尔芒特沙龙的虚妄、阿尔贝蒂娜的得与失，最后在玛德莱娜小蛋糕的滋味里领悟：流逝的时间并不会真正消失，它藏在感官记忆深处，等待被偶然唤回；而艺术家的工作，是把这种不由自主的回忆用隐喻与风格铸成永恒。本书是意识流小说的里程碑，也是写给一切在加速时代里寻找意义的人的处方：放慢感官，让熟悉的味道与声音替你找回失去的时光。</description>
+      <pubDate>Thu, 25 Jun 2026 21:35:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-0f60cb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《追忆似水年华》是马塞尔·普鲁斯特穷尽一生写就的七卷巨著。叙述者从贡布雷的童年出发，穿过斯万的爱情、盖尔芒特沙龙的虚妄、阿尔贝蒂娜的得与失，最后在玛德莱娜小蛋糕的滋味里领悟：流逝的时间并不会真正消失，它藏在感官记忆深处，等待被偶然唤回；而艺术家的工作，是把这种不由自主的回忆用隐喻与风格铸成永恒。本书是意识流小说的里程碑，也是写给一切在加速时代里寻找意义的人的处方：放慢感官，让熟悉的味道与声音替你找回失去的时光。</itunes:summary>
+      <itunes:duration>00:29:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-0f60cb.mp3" length="28005165" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
