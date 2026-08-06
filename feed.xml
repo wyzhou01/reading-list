@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 22:51:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 22:59:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13329,6 +13329,17 @@
       <itunes:duration>00:40:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-c7b63e.mp3" length="38718765" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《越过一山，又是一山》 · 完整版 · 越过一山，又是一山 · 完整讲读</title>
+      <description>《越过一山，又是一山》是美国纪实作家特雷西·基德尔贴身跟踪哈佛医生保罗·法默写下的非虚构经典。二十世纪九十年代末，法默在海地中央高原建起一套完整的公共医疗体系，治愈成千上万肺结核和艾滋病病人，并把经验推广到俄罗斯、秘鲁、卢旺达，撬动世界卫生组织修改标准疗法，让穷人吃得起救命药。基德尔冷静克制的笔触，把一个天赋卓绝却把自己交给穷人的理想主义者，写成了一面照向所有人的镜子，提示读者：在一个把效率奉为神明的世界里，慢下来听一个人的呼吸，依然是有意义的。</description>
+      <pubDate>Thu, 06 Aug 2026 22:59:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-d42210</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《越过一山，又是一山》是美国纪实作家特雷西·基德尔贴身跟踪哈佛医生保罗·法默写下的非虚构经典。二十世纪九十年代末，法默在海地中央高原建起一套完整的公共医疗体系，治愈成千上万肺结核和艾滋病病人，并把经验推广到俄罗斯、秘鲁、卢旺达，撬动世界卫生组织修改标准疗法，让穷人吃得起救命药。基德尔冷静克制的笔触，把一个天赋卓绝却把自己交给穷人的理想主义者，写成了一面照向所有人的镜子，提示读者：在一个把效率奉为神明的世界里，慢下来听一个人的呼吸，依然是有意义的。</itunes:summary>
+      <itunes:duration>00:34:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-d42210.mp3" length="33548973" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
