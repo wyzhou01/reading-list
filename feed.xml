@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 18:41:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 18:53:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13054,6 +13054,17 @@
       <itunes:duration>00:27:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-414d50.mp3" length="26434605" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《斜阳》 · 完整版 · 斜阳_-_太宰治 · 完整讲读</title>
+      <description>本期节目一口气读完太宰治代表作《斜阳》，并串联他的两部经典短篇《樱桃》与《快跑，梅洛斯！》。节目以没落贵族母女和子和母亲的日常为切口，拆解全书六块核心拼图：母亲的体面、蛇的恐惧、和子的道德革命、弟弟直治的殉道、上原二郎的虚无、梅洛斯的奔跑。最终回答一个跨越七十年仍未过时的问题：当旧的道德已经破产，一个普通人究竟该以怎样的姿态活下去？答案藏在一碗汤的吃法里、一场注定失败的恋爱里、一句不被看好的承诺里。</description>
+      <pubDate>Thu, 06 Aug 2026 18:53:46 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-dc2c13</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期节目一口气读完太宰治代表作《斜阳》，并串联他的两部经典短篇《樱桃》与《快跑，梅洛斯！》。节目以没落贵族母女和子和母亲的日常为切口，拆解全书六块核心拼图：母亲的体面、蛇的恐惧、和子的道德革命、弟弟直治的殉道、上原二郎的虚无、梅洛斯的奔跑。最终回答一个跨越七十年仍未过时的问题：当旧的道德已经破产，一个普通人究竟该以怎样的姿态活下去？答案藏在一碗汤的吃法里、一场注定失败的恋爱里、一句不被看好的承诺里。</itunes:summary>
+      <itunes:duration>00:34:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-dc2c13.mp3" length="33505581" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
