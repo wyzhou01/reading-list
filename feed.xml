@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 22:59:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 23:14:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13340,6 +13340,17 @@
       <itunes:duration>00:34:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-d42210.mp3" length="33548973" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《老子》 · 完整版 · 中华经典名著全本全注全译丛书：老子 · 完整讲读</title>
+      <description>这本《老子》出自中华书局《中华经典名著全本全注全译丛书》，由汤漳平、王朝华译注。全书五千余言、八十一章，分上篇《道经》与下篇《德经》。本书围绕六大核心板块展开：一、追溯郭店楚简、马王堆帛书、北大汉简等出土文献，确证《老子》在战国中期以前已成书；二、解读道作为天地本原的本体论意义；三、剖析有无、难易、长短等对立面相互转化的辩证思维；四、阐发无为而治、以退为进的政治哲学；五、揭示上善若水、柔弱胜刚强的处世智慧；六、探讨见素抱朴、小国寡民的返朴人生理想。透过儒道互补的文化格局与海外译介热潮，呈现这部中华元典在当代仍能安顿人心的精神力量。</description>
+      <pubDate>Thu, 06 Aug 2026 23:14:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-b2d589</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>这本《老子》出自中华书局《中华经典名著全本全注全译丛书》，由汤漳平、王朝华译注。全书五千余言、八十一章，分上篇《道经》与下篇《德经》。本书围绕六大核心板块展开：一、追溯郭店楚简、马王堆帛书、北大汉简等出土文献，确证《老子》在战国中期以前已成书；二、解读道作为天地本原的本体论意义；三、剖析有无、难易、长短等对立面相互转化的辩证思维；四、阐发无为而治、以退为进的政治哲学；五、揭示上善若水、柔弱胜刚强的处世智慧；六、探讨见素抱朴、小国寡民的返朴人生理想。透过儒道互补的文化格局与海外译介热潮，呈现这部中华元典在当代仍能安顿人心的精神力量。</itunes:summary>
+      <itunes:duration>00:42:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-b2d589.mp3" length="40392621" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
