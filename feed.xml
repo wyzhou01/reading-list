@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 16:13:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 16:28:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12933,6 +12933,17 @@
       <itunes:duration>00:37:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-1032d1.mp3" length="36416685" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《郁达夫小说全集》 · 完整版 · 郁达夫小说全集_(文学经典系列)_ · 完整讲读</title>
+      <description>郁达夫小说全集，收录中国现代文学第一位&quot;零余者&quot;从二十岁到四十岁的全部心路。从《沉沦》赤裸的性的苦闷与生之绝望，到《春风沉醉的晚上》对底层女工的悲悯，再到《迟桂花》在山水田园里找到的短暂救赎，本书完整呈现了一个知识分子如何在个人创伤与时代落潮之间，一点点把目光从自己身上挪向他人。一百年前写下的苦闷、漂泊、渴望被爱又害怕被爱，今天依然是每一个内心敏感的人最诚实的镜子。</description>
+      <pubDate>Thu, 06 Aug 2026 16:28:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-dba880</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>郁达夫小说全集，收录中国现代文学第一位&quot;零余者&quot;从二十岁到四十岁的全部心路。从《沉沦》赤裸的性的苦闷与生之绝望，到《春风沉醉的晚上》对底层女工的悲悯，再到《迟桂花》在山水田园里找到的短暂救赎，本书完整呈现了一个知识分子如何在个人创伤与时代落潮之间，一点点把目光从自己身上挪向他人。一百年前写下的苦闷、漂泊、渴望被爱又害怕被爱，今天依然是每一个内心敏感的人最诚实的镜子。</itunes:summary>
+      <itunes:duration>00:34:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-dba880.mp3" length="32816301" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
