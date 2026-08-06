@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 17:19:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 17:29:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12999,6 +12999,17 @@
       <itunes:duration>00:27:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-c9bf6b.mp3" length="26370477" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《文武北洋·枭雄篇》 · 完整版 · 文武北洋·枭雄篇 · 完整讲读</title>
+      <description>《文武北洋·枭雄篇》是李洁耗时十年写就的非虚构历史作品。他亲赴袁世凯、黎元洪、段祺瑞、吴佩孚、张作霖五位北洋代表人物的故地遗址，以故址为锚、以史料为经纬，还原出一九一二至一九二八年北洋时代的真实面貌。书中颠覆了教科书对北洋“反动军阀“的刻板印象，呈现了一群试图让中国融入现代世界规则的人——他们既是枭雄，也是文人；既是失败者，也是中国走向共和与现代化的第一批探路人。这是一堂关于“去标签化“与“理解复杂性“的历史课。</description>
+      <pubDate>Thu, 06 Aug 2026 17:29:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-f453cf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《文武北洋·枭雄篇》是李洁耗时十年写就的非虚构历史作品。他亲赴袁世凯、黎元洪、段祺瑞、吴佩孚、张作霖五位北洋代表人物的故地遗址，以故址为锚、以史料为经纬，还原出一九一二至一九二八年北洋时代的真实面貌。书中颠覆了教科书对北洋“反动军阀“的刻板印象，呈现了一群试图让中国融入现代世界规则的人——他们既是枭雄，也是文人；既是失败者，也是中国走向共和与现代化的第一批探路人。这是一堂关于“去标签化“与“理解复杂性“的历史课。</itunes:summary>
+      <itunes:duration>00:28:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-f453cf.mp3" length="26926125" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
