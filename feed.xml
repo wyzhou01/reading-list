@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 08:07:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 08:16:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12889,6 +12889,17 @@
       <itunes:duration>00:25:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-2a688e.mp3" length="24422829" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《音乐符号》 · 完整版 · 音乐符号 · 完整讲读</title>
+      <description>《音乐符号》是芬兰符号学家、钢琴家塔拉斯蒂写的音乐符号学实用指南。它不是抽象理论书，而是用皮尔斯、格雷马斯的符号学工具，一步步拆解音乐的意义生成机制：音乐为何是符号、它如何激活&quot;符号域&quot;与文化情境、它怎样承载身体与性别、它为何能即兴。书中以贝多芬、肖邦、西贝柳斯、瓦格纳为案例，示范如何用&quot;像似—指示—规约&quot;三类符号分析一段旋律。它给普通读者的真正礼物，是一种重新看待音乐的姿态：感动从来不是凭空发生的，而是文化、记忆、身份共同激活的结果；学会用符号学的眼睛去听，我们才能说清自己究竟被什么打动。</description>
+      <pubDate>Thu, 06 Aug 2026 08:16:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-fb564f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《音乐符号》是芬兰符号学家、钢琴家塔拉斯蒂写的音乐符号学实用指南。它不是抽象理论书，而是用皮尔斯、格雷马斯的符号学工具，一步步拆解音乐的意义生成机制：音乐为何是符号、它如何激活&quot;符号域&quot;与文化情境、它怎样承载身体与性别、它为何能即兴。书中以贝多芬、肖邦、西贝柳斯、瓦格纳为案例，示范如何用&quot;像似—指示—规约&quot;三类符号分析一段旋律。它给普通读者的真正礼物，是一种重新看待音乐的姿态：感动从来不是凭空发生的，而是文化、记忆、身份共同激活的结果；学会用符号学的眼睛去听，我们才能说清自己究竟被什么打动。</itunes:summary>
+      <itunes:duration>00:27:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-fb564f.mp3" length="25949997" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
