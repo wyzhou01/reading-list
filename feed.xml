@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 23:31:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 23:38:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13373,6 +13373,17 @@
       <itunes:duration>00:28:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-6ec45a.mp3" length="27595821" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《送你一度温暖》 · 完整版 · 送你一度温暖_-_周海亮 · 完整讲读</title>
+      <description>《送你一度温暖》是作家周海亮的短篇情感散文集，收录了十几篇关于婚姻与家庭的故事。浴室里偷偷多冲的热水、为爱人熬的一碗黑芝麻粥、深夜悄悄点亮的灯、失业后瞒着妻子去水泥厂打工——这些沉默的、笨拙的、不说出口的细节，构成了周海亮笔下最深沉的爱。本书出版于中国社会快速城市化的时代背景下，把房贷、失业、疾病、衰老等时代阵痛，浓缩进一个个普通家庭的故事里。周海亮不写苦情，不渲染苦难，而是把深情藏进一顿饭、一句话、一个沉默的动作里。十几年过去了，这些故事依然能让今天的读者落泪。无论时代如何变化，人心的柔软、人与人之间那份笨拙的守护，从未改变。</description>
+      <pubDate>Thu, 06 Aug 2026 23:38:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-116da1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《送你一度温暖》是作家周海亮的短篇情感散文集，收录了十几篇关于婚姻与家庭的故事。浴室里偷偷多冲的热水、为爱人熬的一碗黑芝麻粥、深夜悄悄点亮的灯、失业后瞒着妻子去水泥厂打工——这些沉默的、笨拙的、不说出口的细节，构成了周海亮笔下最深沉的爱。本书出版于中国社会快速城市化的时代背景下，把房贷、失业、疾病、衰老等时代阵痛，浓缩进一个个普通家庭的故事里。周海亮不写苦情，不渲染苦难，而是把深情藏进一顿饭、一句话、一个沉默的动作里。十几年过去了，这些故事依然能让今天的读者落泪。无论时代如何变化，人心的柔软、人与人之间那份笨拙的守护，从未改变。</itunes:summary>
+      <itunes:duration>00:33:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-116da1.mp3" length="32610861" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
