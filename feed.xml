@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 23:38:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 23:51:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13384,6 +13384,17 @@
       <itunes:duration>00:33:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-116da1.mp3" length="32610861" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《神在表演》 · 完整版 · 神在表演（中国故事）_-_郭小聪_&amp;_崔卫平 · 完整讲读</title>
+      <description>《神在表演》是一部聚焦网络时代公共言说的思想随笔集，由郭小聪、崔卫平主编，汇聚十余位学者作家，跨越2007至2013年中国互联网从论坛博客到微博微信的关键转型期。全书围绕“社会表演”“网络公审”“流言危害”“观点市场”等关键词展开，揭示了一个核心悖论：表达门槛降低后，人类并未自动获得理性对话的能力。表演社会让每个人成为舞台上的演员，但演员们往往忘记了，衡量好表演的标准不是戏剧感，而是责任感；不是流量，而是真话；不是压制异见，而是容纳多元。本书的核心洞察指向一个紧迫的问题：当众声喧哗取代了万马齐喑，我们是否真的准备好了——用一种不同于旧时代的方式，开口说话？</description>
+      <pubDate>Thu, 06 Aug 2026 23:51:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-ccfff0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《神在表演》是一部聚焦网络时代公共言说的思想随笔集，由郭小聪、崔卫平主编，汇聚十余位学者作家，跨越2007至2013年中国互联网从论坛博客到微博微信的关键转型期。全书围绕“社会表演”“网络公审”“流言危害”“观点市场”等关键词展开，揭示了一个核心悖论：表达门槛降低后，人类并未自动获得理性对话的能力。表演社会让每个人成为舞台上的演员，但演员们往往忘记了，衡量好表演的标准不是戏剧感，而是责任感；不是流量，而是真话；不是压制异见，而是容纳多元。本书的核心洞察指向一个紧迫的问题：当众声喧哗取代了万马齐喑，我们是否真的准备好了——用一种不同于旧时代的方式，开口说话？</itunes:summary>
+      <itunes:duration>00:32:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-ccfff0.mp3" length="30951597" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
