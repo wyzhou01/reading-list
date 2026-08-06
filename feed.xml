@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 17:29:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 18:18:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13010,6 +13010,17 @@
       <itunes:duration>00:28:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-f453cf.mp3" length="26926125" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《贸易论（托马斯·孟、尼古拉斯·巴尔本、达德利·诺思）》 · 完整版 · 贸易论_(汉译世界学术名著丛书)_-_托马斯·孟_&amp;_尼古拉斯·巴尔本_&amp;_达德利·诺思 · 完整讲读</title>
+      <description>《贸易论》收录了托马斯·孟、尼古拉斯·巴尔本、达德利·诺思三位十七世纪英国经济学家的同名著作，串起了从早期重商主义到晚期重商主义的思想转变。孟主张贸易出超才能让国家致富，反对禁止金银输出；巴尔本提出商品价值来自效用，批判货币是财富唯一形态的旧观念；诺思则把货币还原为度量工具，把利息还原为资本租金，并系统论证了自由贸易的必然性。三部著作共同宣告：和平、勤勉与自由，才是国家致富的唯一通路，也为亚当·斯密《国富论》中那只“看不见的手”埋下了最早的种子。</description>
+      <pubDate>Thu, 06 Aug 2026 18:18:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-05bdca</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《贸易论》收录了托马斯·孟、尼古拉斯·巴尔本、达德利·诺思三位十七世纪英国经济学家的同名著作，串起了从早期重商主义到晚期重商主义的思想转变。孟主张贸易出超才能让国家致富，反对禁止金银输出；巴尔本提出商品价值来自效用，批判货币是财富唯一形态的旧观念；诺思则把货币还原为度量工具，把利息还原为资本租金，并系统论证了自由贸易的必然性。三部著作共同宣告：和平、勤勉与自由，才是国家致富的唯一通路，也为亚当·斯密《国富论》中那只“看不见的手”埋下了最早的种子。</itunes:summary>
+      <itunes:duration>00:30:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-05bdca.mp3" length="29101869" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
