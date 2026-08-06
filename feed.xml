@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 19:35:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 19:42:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13109,6 +13109,17 @@
       <itunes:duration>00:27:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-cadf99.mp3" length="26651949" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《浮士德》 · 完整版 · 浮士德_(译文名著精选) · 完整讲读</title>
+      <description>《浮士德》是歌德耗时近六十年写就的诗剧巨著，讲述了年过半百的学者浮士德与恶魔梅非斯特打赌，以灵魂换取体验世间一切可能的故事。全剧分两部：第一部写浮士德追求爱情，与少女格蕾辛相爱却间接导致其死亡；第二部写浮士德追求古典美，与希腊美人海伦结合生子欧福里翁，最终走向为人类填海造陆的伟大事业。临终前他喊出&quot;你真美丽啊，请停一停&quot;，获得救赎升入天国。这部被誉为与荷马史诗、但丁《神曲》、莎士比亚戏剧并列的世界文学瑰宝，探讨了人永不满足的追求、善与恶的辩证统一，以及永恒之爱作为救赎之力的核心主题。</description>
+      <pubDate>Thu, 06 Aug 2026 19:42:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-d697a5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《浮士德》是歌德耗时近六十年写就的诗剧巨著，讲述了年过半百的学者浮士德与恶魔梅非斯特打赌，以灵魂换取体验世间一切可能的故事。全剧分两部：第一部写浮士德追求爱情，与少女格蕾辛相爱却间接导致其死亡；第二部写浮士德追求古典美，与希腊美人海伦结合生子欧福里翁，最终走向为人类填海造陆的伟大事业。临终前他喊出&quot;你真美丽啊，请停一停&quot;，获得救赎升入天国。这部被誉为与荷马史诗、但丁《神曲》、莎士比亚戏剧并列的世界文学瑰宝，探讨了人永不满足的追求、善与恶的辩证统一，以及永恒之爱作为救赎之力的核心主题。</itunes:summary>
+      <itunes:duration>00:22:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-d697a5.mp3" length="21150381" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
