@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 22:01:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 22:10:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13263,6 +13263,17 @@
       <itunes:duration>00:28:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-0f0567.mp3" length="27418797" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《永远不要找别人要安全感2》 · 完整版 · 永远不要找别人要安全感2 · 完整讲读</title>
+      <description>《永远不要找别人要安全感2》是国内情感自助领域代表性作者韩梅梅的代表作之一，全书通过阿米、原配、小三、米粒等十余位女性的真实故事，撕开了一个被反复忽视的真相：所有向外求来的安全感，都是脆弱的，因为它随时可以被收回。作者用冷静到近乎残酷的笔触，写出童年缺爱如何在亲密关系中重演，写出依附、讨好、迎合、套路如何一步步掏空一个女人。她不教读者如何抓住一个男人，而是教读者如何松开手，把自己还给自己。这本书的核心命题只有一句话：你的选择，就是你的人生。安全感，从来不是别人给的，而是你自己选出来的。十多年过去，今天再读它，依然锋利。</description>
+      <pubDate>Thu, 06 Aug 2026 22:10:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-359b98</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《永远不要找别人要安全感2》是国内情感自助领域代表性作者韩梅梅的代表作之一，全书通过阿米、原配、小三、米粒等十余位女性的真实故事，撕开了一个被反复忽视的真相：所有向外求来的安全感，都是脆弱的，因为它随时可以被收回。作者用冷静到近乎残酷的笔触，写出童年缺爱如何在亲密关系中重演，写出依附、讨好、迎合、套路如何一步步掏空一个女人。她不教读者如何抓住一个男人，而是教读者如何松开手，把自己还给自己。这本书的核心命题只有一句话：你的选择，就是你的人生。安全感，从来不是别人给的，而是你自己选出来的。十多年过去，今天再读它，依然锋利。</itunes:summary>
+      <itunes:duration>00:35:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-359b98.mp3" length="33621549" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
