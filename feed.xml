@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 18:34:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 18:41:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13043,6 +13043,17 @@
       <itunes:duration>00:29:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-3f78ef.mp3" length="28403373" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《惠更斯光论》 · 完整版 · 惠更斯光论_-_惠更斯 · 完整讲读</title>
+      <description>本期《好好读书》精读惠更斯一六九〇年出版的《光论》。惠更斯在书中提出，光不是一颗颗飞行的小子弹，而是充满宇宙的以太介质中的脉冲扰动；每一时刻的波前都会激发新的子波，子波的包络面就是下一时刻的波前。靠着这条后人称为惠更斯原理的几何规则，他用一个原理统一解释了反射、折射、大气折射、冰洲石的双折射，以及透镜表面的设计通则。本期节目顺着惠更斯的笔尖，串起三百三十多年前那场改变人类对光本质认识的智力探险，并解释它如何被牛顿微粒说压制两百年，又如何被托马斯·杨、菲涅耳、麦克斯韦所复活与超越，最终汇入现代物理学的波粒二象性叙述。</description>
+      <pubDate>Thu, 06 Aug 2026 18:41:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-414d50</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期《好好读书》精读惠更斯一六九〇年出版的《光论》。惠更斯在书中提出，光不是一颗颗飞行的小子弹，而是充满宇宙的以太介质中的脉冲扰动；每一时刻的波前都会激发新的子波，子波的包络面就是下一时刻的波前。靠着这条后人称为惠更斯原理的几何规则，他用一个原理统一解释了反射、折射、大气折射、冰洲石的双折射，以及透镜表面的设计通则。本期节目顺着惠更斯的笔尖，串起三百三十多年前那场改变人类对光本质认识的智力探险，并解释它如何被牛顿微粒说压制两百年，又如何被托马斯·杨、菲涅耳、麦克斯韦所复活与超越，最终汇入现代物理学的波粒二象性叙述。</itunes:summary>
+      <itunes:duration>00:27:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-414d50.mp3" length="26434605" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
