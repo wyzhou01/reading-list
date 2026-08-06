@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 20:36:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 20:51:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13186,6 +13186,17 @@
       <itunes:duration>00:26:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-b6f68b.mp3" length="25526829" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《从行动开始：自我管理的科学》 · 完整版 · 从行动开始：自我管理的科学 · 完整讲读</title>
+      <description>《从行动开始：自我管理的科学》是日本行为科学管理第一人石田淳的代表作。它戳穿了&quot;意志决定一切&quot;的神话，指出人天生有认知偏差，会被即时满足左右，单纯依赖积极思考和坚强意志反而会让人反复失败。全书用 A B C 模型、五分钟行动、行动列表等具体工具，替代模糊的自律口号，告诉你唯一能产出结果的只有&quot;行动&quot;——具体的、可测量的、此刻就能开始的小动作。无论你是想戒烟、减肥、读书，还是想摆脱拖延和情绪内耗，这本书都不给你打鸡血，只递给你一把立刻能动手的小铲子：不要等明天，从放下书这一分钟开始。</description>
+      <pubDate>Thu, 06 Aug 2026 20:51:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-5cb960</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《从行动开始：自我管理的科学》是日本行为科学管理第一人石田淳的代表作。它戳穿了&quot;意志决定一切&quot;的神话，指出人天生有认知偏差，会被即时满足左右，单纯依赖积极思考和坚强意志反而会让人反复失败。全书用 A B C 模型、五分钟行动、行动列表等具体工具，替代模糊的自律口号，告诉你唯一能产出结果的只有&quot;行动&quot;——具体的、可测量的、此刻就能开始的小动作。无论你是想戒烟、减肥、读书，还是想摆脱拖延和情绪内耗，这本书都不给你打鸡血，只递给你一把立刻能动手的小铲子：不要等明天，从放下书这一分钟开始。</itunes:summary>
+      <itunes:duration>00:36:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-5cb960.mp3" length="34575405" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
