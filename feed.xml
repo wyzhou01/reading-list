@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 16:41:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 16:59:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12966,6 +12966,17 @@
       <itunes:duration>00:26:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-3cae62.mp3" length="25775277" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《坎贝尔生活美学》 · 完整版 · 坎贝尔生活美学 · 完整讲读</title>
+      <description>《坎贝尔生活美学》是神话学大师约瑟夫·坎贝尔晚年在伊沙兰研究中心一个月研讨会的隽语集，由戴安娜·奥斯本整理出版。坎贝尔横跨东西方神话、宗教、哲学，回应一个根本问题：人怎样在俗世里活出神圣来？他提出三大支柱：意义不是找到的，是走出来的；对立不是消除的，是骑上去的；神圣不在远方，就在你每天回到的那个不动的点。他借酒神狄俄尼索斯骑豹子的意象，描绘了一种&quot;像神一般平静，却以全速前进能量去生活&quot;的存在状态。这本书不提供新的教义，而是邀请每个人为自己留一个神圣空间，让身体告诉你，什么是对的。在意义稀缺的时代，这是坎贝尔留给我们的、最温柔的处方。</description>
+      <pubDate>Thu, 06 Aug 2026 16:59:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-c3ab73</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《坎贝尔生活美学》是神话学大师约瑟夫·坎贝尔晚年在伊沙兰研究中心一个月研讨会的隽语集，由戴安娜·奥斯本整理出版。坎贝尔横跨东西方神话、宗教、哲学，回应一个根本问题：人怎样在俗世里活出神圣来？他提出三大支柱：意义不是找到的，是走出来的；对立不是消除的，是骑上去的；神圣不在远方，就在你每天回到的那个不动的点。他借酒神狄俄尼索斯骑豹子的意象，描绘了一种&quot;像神一般平静，却以全速前进能量去生活&quot;的存在状态。这本书不提供新的教义，而是邀请每个人为自己留一个神圣空间，让身体告诉你，什么是对的。在意义稀缺的时代，这是坎贝尔留给我们的、最温柔的处方。</itunes:summary>
+      <itunes:duration>00:31:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-c3ab73.mp3" length="30448557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
