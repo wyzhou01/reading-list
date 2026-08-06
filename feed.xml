@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 05 Aug 2026 18:52:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 07:33:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12845,6 +12845,17 @@
       <itunes:duration>00:29:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260805/episode-20260805-f202b7.mp3" length="28568493" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《愤怒的凉茶》 · 完整版 · 愤怒的凉茶（中国故事）_-_财新图书 · 完整讲读</title>
+      <description>《愤怒的凉茶》以财新记者的深度调查，还原二零一零至二零一三年王老吉与加多宝的全面战争：从陈鸿道用一纸租赁合同借壳起飞，到李益民受贿案改写两家命运；从红罐包装装潢归属之争，到驰名商标制度的异化与回归。书中把国企民企公平竞争、行政干预司法、商业诚信缺失、知识产权制度演进这些大问题，浓缩进一罐凉茶的红罐包装里，是理解中国商业世界不可绕过的案例标本。</description>
+      <pubDate>Thu, 06 Aug 2026 07:32:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-940bab</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《愤怒的凉茶》以财新记者的深度调查，还原二零一零至二零一三年王老吉与加多宝的全面战争：从陈鸿道用一纸租赁合同借壳起飞，到李益民受贿案改写两家命运；从红罐包装装潢归属之争，到驰名商标制度的异化与回归。书中把国企民企公平竞争、行政干预司法、商业诚信缺失、知识产权制度演进这些大问题，浓缩进一罐凉茶的红罐包装里，是理解中国商业世界不可绕过的案例标本。</itunes:summary>
+      <itunes:duration>00:30:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-940bab.mp3" length="29315373" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
