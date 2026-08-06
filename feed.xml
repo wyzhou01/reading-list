@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 20:51:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 20:57:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13197,6 +13197,17 @@
       <itunes:duration>00:36:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-5cb960.mp3" length="34575405" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《江湖奇侠传》 · 完整版 · 江湖奇侠传（精制多看版） · 完整讲读</title>
+      <description>《江湖奇侠传》是民国武侠开山之作，平江不肖生一九二三年起在上海连载，借昆仑崆峒两派斗法、金罗汉与柳迟等几十位奇侠的故事，写乱世里普通人对侠义与公平的渴求。今天读来，争体面、修人心、长筋骨三层洞察，依然能让每个在低谷里跋涉的人，借一百年前的烟火，给自己续一口热气。</description>
+      <pubDate>Thu, 06 Aug 2026 20:57:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-7868da</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《江湖奇侠传》是民国武侠开山之作，平江不肖生一九二三年起在上海连载，借昆仑崆峒两派斗法、金罗汉与柳迟等几十位奇侠的故事，写乱世里普通人对侠义与公平的渴求。今天读来，争体面、修人心、长筋骨三层洞察，依然能让每个在低谷里跋涉的人，借一百年前的烟火，给自己续一口热气。</itunes:summary>
+      <itunes:duration>00:25:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-7868da.mp3" length="24841773" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
