@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 19:42:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 19:51:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13120,6 +13120,17 @@
       <itunes:duration>00:22:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-d697a5.mp3" length="21150381" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《气血才是命根子》 · 完整版 · 气血才是命根子 · 完整讲读</title>
+      <description>《气血才是命根子》是张继传撰写的一部中医养生科普读物，二零一五年由中国医药科技出版社出版。本书以“气血是生命之根“为核心命题，系统阐述了气血的中医概念、五脏与气血的生化关系、经络疏通法、温度养护法、女性补血专题及常用补气养血的食物与中药。作者鲜明提出百分之九十九的疾病都与气血失调有关，并将这一理念贯穿到便秘、失眠、抑郁、高血压、妇科病等常见亚健康问题的解读中。书中特别强调，气血需通过察言观色来自我判断，需依赖五脏协同生化，需通过经络通畅来输布全身，需依靠保暖驱寒来维持流通。对于当代读者而言，本书的价值不在于提供某种速效疗法，而在于提供一种系统性的养生视角，把玄妙的中医理论转化为可以照着做的日常方法。读懂气血，就掌握了中国医学看待生命的一把钥匙。</description>
+      <pubDate>Thu, 06 Aug 2026 19:51:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-c1aa26</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《气血才是命根子》是张继传撰写的一部中医养生科普读物，二零一五年由中国医药科技出版社出版。本书以“气血是生命之根“为核心命题，系统阐述了气血的中医概念、五脏与气血的生化关系、经络疏通法、温度养护法、女性补血专题及常用补气养血的食物与中药。作者鲜明提出百分之九十九的疾病都与气血失调有关，并将这一理念贯穿到便秘、失眠、抑郁、高血压、妇科病等常见亚健康问题的解读中。书中特别强调，气血需通过察言观色来自我判断，需依赖五脏协同生化，需通过经络通畅来输布全身，需依靠保暖驱寒来维持流通。对于当代读者而言，本书的价值不在于提供某种速效疗法，而在于提供一种系统性的养生视角，把玄妙的中医理论转化为可以照着做的日常方法。读懂气血，就掌握了中国医学看待生命的一把钥匙。</itunes:summary>
+      <itunes:duration>00:34:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-c1aa26.mp3" length="33396525" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
