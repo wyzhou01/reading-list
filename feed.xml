@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 19:01:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 19:20:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13076,6 +13076,17 @@
       <itunes:duration>00:32:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-bb251a.mp3" length="31294125" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《沈从文全传》 · 完整版 · 沈从文全传 · 完整讲读</title>
+      <description>《沈从文全传》是复旦大学教授张新颖写的沈从文完整传记。从一九九二年读到《湘行书简》起，张新颖用二十年时间，完成了这部上下两册的作品。他用大量沈从文生前未公开的家书、日记、自述，回答了一个大问题：在二十世纪中国，时代力量如此强大，个人力量如此弱小，一个人还能不能和他所处的时代构成一种有意义的关系？沈从文用自己的一生回答了这个问题。他从一个只读过小学的湘西少年，成为京派文学的代表，写出《边城》；一九四九年之后精神崩溃，转去研究古代服饰和纹样，沉默了三十年。本书是关于一个人在风暴中如何守住内心完整的史诗，也是一个关于“人如何在时代中活下去“的永恒追问。</description>
+      <pubDate>Thu, 06 Aug 2026 19:20:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-96c378</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《沈从文全传》是复旦大学教授张新颖写的沈从文完整传记。从一九九二年读到《湘行书简》起，张新颖用二十年时间，完成了这部上下两册的作品。他用大量沈从文生前未公开的家书、日记、自述，回答了一个大问题：在二十世纪中国，时代力量如此强大，个人力量如此弱小，一个人还能不能和他所处的时代构成一种有意义的关系？沈从文用自己的一生回答了这个问题。他从一个只读过小学的湘西少年，成为京派文学的代表，写出《边城》；一九四九年之后精神崩溃，转去研究古代服饰和纹样，沉默了三十年。本书是关于一个人在风暴中如何守住内心完整的史诗，也是一个关于“人如何在时代中活下去“的永恒追问。</itunes:summary>
+      <itunes:duration>00:38:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-96c378.mp3" length="36598317" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
