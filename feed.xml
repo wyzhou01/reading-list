@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 17:11:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 17:19:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12988,6 +12988,17 @@
       <itunes:duration>00:29:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-1dc8ab.mp3" length="28370733" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《自深深处（De Profundis）》 · 完整版 · 自深深处_(精致读本) · 完整讲读</title>
+      <description>《自深深处》是奥斯卡·王尔德一八九七年在雷丁监狱写给旧日情人波西·道格拉斯的长信。信中，王尔德以近乎残忍的诚实，剖析自己如何在软弱中让才华枯萎、如何用金钱喂养对方挥霍、如何在小事的迁就里丢掉了大事上的意志，最终走向身败名裂。狱中他领悟到：痛苦不是惩罚，而是看见自己的窄门；怜悯比正义更深；人可以在废墟上重新站起。这部作品既是一份忏悔录，也是一封情书，更是一代艺术家在绝境中写下的精神遗嘱——软弱的尽头，是重生的起点。</description>
+      <pubDate>Thu, 06 Aug 2026 17:19:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-c9bf6b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《自深深处》是奥斯卡·王尔德一八九七年在雷丁监狱写给旧日情人波西·道格拉斯的长信。信中，王尔德以近乎残忍的诚实，剖析自己如何在软弱中让才华枯萎、如何用金钱喂养对方挥霍、如何在小事的迁就里丢掉了大事上的意志，最终走向身败名裂。狱中他领悟到：痛苦不是惩罚，而是看见自己的窄门；怜悯比正义更深；人可以在废墟上重新站起。这部作品既是一份忏悔录，也是一封情书，更是一代艺术家在绝境中写下的精神遗嘱——软弱的尽头，是重生的起点。</itunes:summary>
+      <itunes:duration>00:27:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-c9bf6b.mp3" length="26370477" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
