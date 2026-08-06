@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 16:02:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 16:13:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12922,6 +12922,17 @@
       <itunes:duration>00:34:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-e6fe83.mp3" length="33367341" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《箱男》 · 完整版 · 箱男 · 完整讲读</title>
+      <description>一九七三年的东京，一个男人把自己塞进一米三高的纸箱，头顶开一道贴了半透明乙烯薄膜的窗口，竖着撕一道缝，倾斜一下就能窥视外界。他是谁、为什么消失、消失之后看见了什么，安部公房用自述、供词、插页、照片说明、他人证词拼成了一座迷宫。本书借一个隐身者的眼睛，重新审视了都市里被看见与被消失的权力——纸箱是现代人的外骨骼，乙烯薄膜的竖缝是世界上最狠毒的目光，匿名不是消失而是另一种暴力，纸箱的内壁是可居住的子宫，方向神经麻痹是自由的眩晕，两点五米之外的语言是为陌生人设计的识别系统。半个世纪过去，《箱男》依然锋利，因为它的荒诞从来不是想象，而是我们每天都在经历的现实。</description>
+      <pubDate>Thu, 06 Aug 2026 16:13:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-1032d1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九七三年的东京，一个男人把自己塞进一米三高的纸箱，头顶开一道贴了半透明乙烯薄膜的窗口，竖着撕一道缝，倾斜一下就能窥视外界。他是谁、为什么消失、消失之后看见了什么，安部公房用自述、供词、插页、照片说明、他人证词拼成了一座迷宫。本书借一个隐身者的眼睛，重新审视了都市里被看见与被消失的权力——纸箱是现代人的外骨骼，乙烯薄膜的竖缝是世界上最狠毒的目光，匿名不是消失而是另一种暴力，纸箱的内壁是可居住的子宫，方向神经麻痹是自由的眩晕，两点五米之外的语言是为陌生人设计的识别系统。半个世纪过去，《箱男》依然锋利，因为它的荒诞从来不是想象，而是我们每天都在经历的现实。</itunes:summary>
+      <itunes:duration>00:37:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-1032d1.mp3" length="36416685" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
