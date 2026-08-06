@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 19:26:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 19:35:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13098,6 +13098,17 @@
       <itunes:duration>00:22:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-bd30f5.mp3" length="22050861" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《看不见的大猩猩》 · 完整版 · 看不见的大猩猩 · 完整讲读</title>
+      <description>《看不见的大猩猩》由哈佛心理学家查布里斯和西蒙斯合著，通过那个著名的“看不见的大猩猩“实验，引出人类六种顽固的日常错觉：注意错觉、记忆错觉、自信错觉、知识错觉、因果错觉与潜能错觉。书中借助警察冤案、核潜艇撞船、金融危机等真实案例，揭示了一个核心事实——我们真正感知到的世界远少于我们以为感知到的世界。知道这些错觉不能让我们彻底免疫，但能让我们在每一次判断之前，多留一份清醒、多一点谦逊，从而在充满错觉的生活中，做出一个更负责任的决定。</description>
+      <pubDate>Thu, 06 Aug 2026 19:35:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-cadf99</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《看不见的大猩猩》由哈佛心理学家查布里斯和西蒙斯合著，通过那个著名的“看不见的大猩猩“实验，引出人类六种顽固的日常错觉：注意错觉、记忆错觉、自信错觉、知识错觉、因果错觉与潜能错觉。书中借助警察冤案、核潜艇撞船、金融危机等真实案例，揭示了一个核心事实——我们真正感知到的世界远少于我们以为感知到的世界。知道这些错觉不能让我们彻底免疫，但能让我们在每一次判断之前，多留一份清醒、多一点谦逊，从而在充满错觉的生活中，做出一个更负责任的决定。</itunes:summary>
+      <itunes:duration>00:27:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-cadf99.mp3" length="26651949" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
