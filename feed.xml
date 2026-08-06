@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 07:45:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 07:55:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12867,6 +12867,17 @@
       <itunes:duration>00:29:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-da12ba.mp3" length="28676013" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《平民之宴》 · 完整版 · 平民之宴_-_[日本]_林真理子 · 完整讲读</title>
+      <description>《平民之宴》是日本作家林真理子创作于二零一零年的社会派小说,日文原版由每日新闻连载,后被NHK改编为电视剧。故事采用双线交叉结构,通过东京两个家庭的命运对照,呈现泡沫经济崩溃后日本中产阶层的深层焦虑。福原家是典型的工薪中产,母亲由美子一辈子信奉努力就能翻身,儿子翔却在高中退学、离家出走后沦为酒馆临时工;宫城家是冲绳的单亲底层家庭,女儿珠绪却在男友翔的鼓励下用两年考上国立大学医学部。当阶层差距以分数、房子、婚姻的形式渗透进最私密的亲密关系,两个家庭的轨迹被一把无形的剪刀越剪越开。林真理子以冷静笔触追问:教育的投入能否换回等价的回报?母亲的自我归因会把人逼到怎样的角落?当中产阶级的体面变成一种随时可能崩塌的幻觉,爱还能不能剩下纯粹的空间?</description>
+      <pubDate>Thu, 06 Aug 2026 07:55:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-6a5a9f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《平民之宴》是日本作家林真理子创作于二零一零年的社会派小说,日文原版由每日新闻连载,后被NHK改编为电视剧。故事采用双线交叉结构,通过东京两个家庭的命运对照,呈现泡沫经济崩溃后日本中产阶层的深层焦虑。福原家是典型的工薪中产,母亲由美子一辈子信奉努力就能翻身,儿子翔却在高中退学、离家出走后沦为酒馆临时工;宫城家是冲绳的单亲底层家庭,女儿珠绪却在男友翔的鼓励下用两年考上国立大学医学部。当阶层差距以分数、房子、婚姻的形式渗透进最私密的亲密关系,两个家庭的轨迹被一把无形的剪刀越剪越开。林真理子以冷静笔触追问:教育的投入能否换回等价的回报?母亲的自我归因会把人逼到怎样的角落?当中产阶级的体面变成一种随时可能崩塌的幻觉,爱还能不能剩下纯粹的空间?</itunes:summary>
+      <itunes:duration>00:28:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-6a5a9f.mp3" length="27072813" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
