@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 18:27:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 18:34:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13032,6 +13032,17 @@
       <itunes:duration>00:27:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-5a9965.mp3" length="26815533" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《怎样学习古文（文史知识文库典藏本）》 · 完整版 · 怎样学习古文（文史知识文库典藏本） · 完整讲读</title>
+      <description>《怎样学习古文》是周振甫先生系统回答“如何学习古文”的经典读物。本书核心主张是“因声求气”：通过反复诵读，把文章的气脉、节奏、情感装进脑子里，达到对古文立体的懂。全书从“立体的懂”展开，分三个层次：词的具体解释、术语的理论意义、文章的用意探索，每一层都建立在熟读背诵的基础上。书中系统讲解了刘勰《文心雕龙》的“六观”鉴赏法，提出比较研究是提升鉴赏能力的有效途径，并以桐城派方苞、刘大櫆、姚鼐三家的文论与实践为案例，阐明如何从读透一家到融会贯通，最终建立自己的古文眼光。本书是一座桥梁，连着传统私塾熟读精思的老路与现代人讲效率的学习需求，对今天的古文学习依然具有振聋发聩的指导意义。</description>
+      <pubDate>Thu, 06 Aug 2026 18:34:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-3f78ef</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《怎样学习古文》是周振甫先生系统回答“如何学习古文”的经典读物。本书核心主张是“因声求气”：通过反复诵读，把文章的气脉、节奏、情感装进脑子里，达到对古文立体的懂。全书从“立体的懂”展开，分三个层次：词的具体解释、术语的理论意义、文章的用意探索，每一层都建立在熟读背诵的基础上。书中系统讲解了刘勰《文心雕龙》的“六观”鉴赏法，提出比较研究是提升鉴赏能力的有效途径，并以桐城派方苞、刘大櫆、姚鼐三家的文论与实践为案例，阐明如何从读透一家到融会贯通，最终建立自己的古文眼光。本书是一座桥梁，连着传统私塾熟读精思的老路与现代人讲效率的学习需求，对今天的古文学习依然具有振聋发聩的指导意义。</itunes:summary>
+      <itunes:duration>00:29:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-3f78ef.mp3" length="28403373" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
