@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 19:51:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 19:58:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13131,6 +13131,17 @@
       <itunes:duration>00:34:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-c1aa26.mp3" length="33396525" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《九州·云之彼岸》 · 完整版 · 九州·云之彼岸_(九州书系)_-_唐缺 · 完整讲读</title>
+      <description>《九州·云之彼岸》是九州架空世界下一部悬疑奇幻小说。青年离轩出海探寻神秘禁地云州，航船遭海盗与风暴覆没，由此牵出三百年前羽族与河络围绕一枚叫作星钥的天外碎片的恩怨。在淮安城三日之内，连发数起诡异命案——无血干尸、怪物袭击、戏班灭门——主角邹铭与搭档木克循着历史的线索一路追查，最终发现一切源头，竟是一枚能够赐予永生却也带来诅咒的碎片。全书以悬疑叙事为外壳，探讨了不死与宿命的代价、历史与传说的虚实交织，以及平凡之人如何以&quot;平庸之善&quot;守护这个世界等深层命题。</description>
+      <pubDate>Thu, 06 Aug 2026 19:58:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-121766</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《九州·云之彼岸》是九州架空世界下一部悬疑奇幻小说。青年离轩出海探寻神秘禁地云州，航船遭海盗与风暴覆没，由此牵出三百年前羽族与河络围绕一枚叫作星钥的天外碎片的恩怨。在淮安城三日之内，连发数起诡异命案——无血干尸、怪物袭击、戏班灭门——主角邹铭与搭档木克循着历史的线索一路追查，最终发现一切源头，竟是一枚能够赐予永生却也带来诅咒的碎片。全书以悬疑叙事为外壳，探讨了不死与宿命的代价、历史与传说的虚实交织，以及平凡之人如何以&quot;平庸之善&quot;守护这个世界等深层命题。</itunes:summary>
+      <itunes:duration>00:27:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-121766.mp3" length="25982637" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
