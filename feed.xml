@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 21:40:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 21:50:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13241,6 +13241,17 @@
       <itunes:duration>00:31:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-528092.mp3" length="30282669" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《望春风》 · 完整版 · 望春风（茅盾文学奖获得者格非_超越“江南三部曲”之最新力作）_(格非作品)_-_格非 · 完整讲读</title>
+      <description>《望春风》是茅盾文学奖得主格非沉寂多年后的回归之作。主人公&quot;我&quot;——一个被村里人唤作&quot;小呆子&quot;的孩子，在腊月二十九的北风里，跟着算命先生父亲，去十里的半塘走差。半塘寺刚被一场大火烧塌，瘌痢和尚化为焦炭，一户人家的父亲与长子接连死去，只剩下一位母亲、一个被判为&quot;灾星&quot;的少女春琴和一个体弱的小男孩春生。四十多年后，主人公回到已被拆迁的故乡，与同样暮年的春琴在便通庵相依为命，沿着父亲当年带他走过的旧路，重新走访那些被时代碾碎的村庄，最终只能在废墟里&quot;朝四方望望&quot;。全书以温润哀伤的笔调，写出了乡村伦理的瓦解、亲人的离散、传统秩序不可逆转的崩塌，提出了&quot;我们何以成为今天的我们&quot;这一贯穿全书的核心命题。</description>
+      <pubDate>Thu, 06 Aug 2026 21:50:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-6051dc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《望春风》是茅盾文学奖得主格非沉寂多年后的回归之作。主人公&quot;我&quot;——一个被村里人唤作&quot;小呆子&quot;的孩子，在腊月二十九的北风里，跟着算命先生父亲，去十里的半塘走差。半塘寺刚被一场大火烧塌，瘌痢和尚化为焦炭，一户人家的父亲与长子接连死去，只剩下一位母亲、一个被判为&quot;灾星&quot;的少女春琴和一个体弱的小男孩春生。四十多年后，主人公回到已被拆迁的故乡，与同样暮年的春琴在便通庵相依为命，沿着父亲当年带他走过的旧路，重新走访那些被时代碾碎的村庄，最终只能在废墟里&quot;朝四方望望&quot;。全书以温润哀伤的笔调，写出了乡村伦理的瓦解、亲人的离散、传统秩序不可逆转的崩塌，提出了&quot;我们何以成为今天的我们&quot;这一贯穿全书的核心命题。</itunes:summary>
+      <itunes:duration>00:31:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-6051dc.mp3" length="29997741" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
