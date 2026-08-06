@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 18:18:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 18:27:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13021,6 +13021,17 @@
       <itunes:duration>00:30:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-05bdca.mp3" length="29101869" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《沥川往事（上、下册）》 · 完整版 · 沥川往事（上、下册） · 完整讲读</title>
+      <description>《沥川往事》是瑞士华裔女作家玄隐（施定柔）创作的长篇爱情小说，讲述了小镇姑娘谢小秋与华裔建筑设计师王沥川跨越阶层的爱情故事。一个在穷山僻壤里艰难求生的女学生，一个坐着宝马、拄着手杖的绅士，他们在星巴克相遇，却在阶层、自尊、谎言与疾病的撕扯中被迫分离。小说没有霸道总裁的悬浮，只有两个真实的人在认真地相爱、在认真地挣扎。王沥川用“move on”把她推开，是因为太爱她；谢小秋千里迢迢去找他，是因为不肯 move on。这本书写的从来不是一个爱情故事，而是每一个在生活里硬撑的人，每一份说不出口的爱。</description>
+      <pubDate>Thu, 06 Aug 2026 18:27:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-5a9965</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《沥川往事》是瑞士华裔女作家玄隐（施定柔）创作的长篇爱情小说，讲述了小镇姑娘谢小秋与华裔建筑设计师王沥川跨越阶层的爱情故事。一个在穷山僻壤里艰难求生的女学生，一个坐着宝马、拄着手杖的绅士，他们在星巴克相遇，却在阶层、自尊、谎言与疾病的撕扯中被迫分离。小说没有霸道总裁的悬浮，只有两个真实的人在认真地相爱、在认真地挣扎。王沥川用“move on”把她推开，是因为太爱她；谢小秋千里迢迢去找他，是因为不肯 move on。这本书写的从来不是一个爱情故事，而是每一个在生活里硬撑的人，每一份说不出口的爱。</itunes:summary>
+      <itunes:duration>00:27:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-5a9965.mp3" length="26815533" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
