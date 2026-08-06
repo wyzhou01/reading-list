@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 16:34:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 16:41:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12955,6 +12955,17 @@
       <itunes:duration>00:20:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-013f83.mp3" length="19487277" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《异乡人7：冒险家园》 · 完整版 · 异乡人7：冒险家园 · 完整讲读</title>
+      <description>《异乡人7：冒险家园》是戴安娜·加瓦尔东系列的第四部，讲述克莱尔与詹米于一七六七年横渡大西洋，在北卡罗来纳弗雷泽山丘建立家园的故事。一个从二十世纪穿越而来的女医生，一个十八世纪苏格兰高地男人，他们面对瘟疫的肆虐、奴隶制的阴影、与图斯卡罗拉部落的冲突，在陌生大陆上一点点建起属于自己的家。归属感的真谛，不是被理解，而是愿意在场。</description>
+      <pubDate>Thu, 06 Aug 2026 16:41:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-3cae62</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《异乡人7：冒险家园》是戴安娜·加瓦尔东系列的第四部，讲述克莱尔与詹米于一七六七年横渡大西洋，在北卡罗来纳弗雷泽山丘建立家园的故事。一个从二十世纪穿越而来的女医生，一个十八世纪苏格兰高地男人，他们面对瘟疫的肆虐、奴隶制的阴影、与图斯卡罗拉部落的冲突，在陌生大陆上一点点建起属于自己的家。归属感的真谛，不是被理解，而是愿意在场。</itunes:summary>
+      <itunes:duration>00:26:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-3cae62.mp3" length="25775277" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
