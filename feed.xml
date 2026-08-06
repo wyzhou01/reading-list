@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 19:20:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 19:26:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13087,6 +13087,17 @@
       <itunes:duration>00:38:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-96c378.mp3" length="36598317" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《创造自然》 · 完整版 · 创造自然 · 完整讲读</title>
+      <description>《创造自然》是德裔作家安德烈娅·武尔夫为德国科学家亚历山大·冯·洪堡所写的传记。洪堡于一八〇二年登上钦博拉索山，在一万九千四百一十三英尺的高处看见万物互联的图景，由此开启一场延续三十年的思想革命。本书追溯洪堡的拉丁美洲五年考察，以及他的自然观如何经由书信、著作与图表，跨越大洋与世代，塑造了达尔文的演化论、梭罗的《瓦尔登湖》、美国国家公园运动，乃至今日的生态学与环境意识。武尔夫以全球档案与实地走访，还原这位被英语世界遗忘、却被同时代人视为继拿破仑之后最伟大的人物，重新确立他在自然与科学众神殿中的位置。</description>
+      <pubDate>Thu, 06 Aug 2026 19:26:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-bd30f5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《创造自然》是德裔作家安德烈娅·武尔夫为德国科学家亚历山大·冯·洪堡所写的传记。洪堡于一八〇二年登上钦博拉索山，在一万九千四百一十三英尺的高处看见万物互联的图景，由此开启一场延续三十年的思想革命。本书追溯洪堡的拉丁美洲五年考察，以及他的自然观如何经由书信、著作与图表，跨越大洋与世代，塑造了达尔文的演化论、梭罗的《瓦尔登湖》、美国国家公园运动，乃至今日的生态学与环境意识。武尔夫以全球档案与实地走访，还原这位被英语世界遗忘、却被同时代人视为继拿破仑之后最伟大的人物，重新确立他在自然与科学众神殿中的位置。</itunes:summary>
+      <itunes:duration>00:22:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-bd30f5.mp3" length="22050861" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
