@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 20:06:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 20:16:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13153,6 +13153,17 @@
       <itunes:duration>00:29:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-bded20.mp3" length="28678317" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《以客户为中心》 · 完整版 · 以客户为中心 · 完整讲读</title>
+      <description>《以客户为中心——华为公司业务管理纲要》是华为内部高管讲话与 EMT 文件三十年沉淀的业务管理纲要。本书核心围绕华为的生存哲学展开：为客户服务是华为存在的唯一理由，质量是华为的生命，深淘滩低作堰是商业模式精髓，长期有效增长是活下去的硬道理。华为以客户为唯一给钱的人，以自我批判防止以自我为中心，把价值主张对准客户痛点而非自身利益；将质量从生产末端前移到研发源头，落到全员考核；坚持景气时持续降本让利，构建健康的商业生态；将活下去翻译为有利润的收入、有现金的利润、有增长的利润三个具体标准。本书面向每一个想将企业做长、做强、做久的中国管理者，是一面照见中国式世界级企业管理逻辑的镜子。</description>
+      <pubDate>Thu, 06 Aug 2026 20:16:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-704e85</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《以客户为中心——华为公司业务管理纲要》是华为内部高管讲话与 EMT 文件三十年沉淀的业务管理纲要。本书核心围绕华为的生存哲学展开：为客户服务是华为存在的唯一理由，质量是华为的生命，深淘滩低作堰是商业模式精髓，长期有效增长是活下去的硬道理。华为以客户为唯一给钱的人，以自我批判防止以自我为中心，把价值主张对准客户痛点而非自身利益；将质量从生产末端前移到研发源头，落到全员考核；坚持景气时持续降本让利，构建健康的商业生态；将活下去翻译为有利润的收入、有现金的利润、有增长的利润三个具体标准。本书面向每一个想将企业做长、做强、做久的中国管理者，是一面照见中国式世界级企业管理逻辑的镜子。</itunes:summary>
+      <itunes:duration>00:47:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-704e85.mp3" length="45321261" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
