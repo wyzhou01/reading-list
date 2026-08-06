@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 23:22:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 23:31:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13362,6 +13362,17 @@
       <itunes:duration>00:27:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-6e05b4.mp3" length="26555565" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《危险关系》 · 完整版 · 危险关系 · 完整讲读</title>
+      <description>《危险关系》是美国冷硬派犯罪小说大师埃尔默·伦纳德一九九二年的代表作，英文原名《Rum Punch》。故事发生在佛罗里达棕榈滩：底特律出身的奥戴尔拉拢刚出狱的老搭档路易斯，谋划一桩百万美元的绑票洗钱大案，但局中还有保释人麦克斯、赏金猎人温斯顿、卧底女警杰姬多方势力的暗线。伦纳德以极其克制的白话笔法，把街头混混、毒枭、保释人、警察与会计师全都写成职业人，最终揭示一个冷酷真相：在职业化的犯罪生态里，真正的赢家不是最狠的那个，是最冷静的那个，而那个最冷静的人，往往穿着警服。</description>
+      <pubDate>Thu, 06 Aug 2026 23:31:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-6ec45a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《危险关系》是美国冷硬派犯罪小说大师埃尔默·伦纳德一九九二年的代表作，英文原名《Rum Punch》。故事发生在佛罗里达棕榈滩：底特律出身的奥戴尔拉拢刚出狱的老搭档路易斯，谋划一桩百万美元的绑票洗钱大案，但局中还有保释人麦克斯、赏金猎人温斯顿、卧底女警杰姬多方势力的暗线。伦纳德以极其克制的白话笔法，把街头混混、毒枭、保释人、警察与会计师全都写成职业人，最终揭示一个冷酷真相：在职业化的犯罪生态里，真正的赢家不是最狠的那个，是最冷静的那个，而那个最冷静的人，往往穿着警服。</itunes:summary>
+      <itunes:duration>00:28:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-6ec45a.mp3" length="27595821" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
