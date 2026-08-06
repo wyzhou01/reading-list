@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 22:16:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 22:23:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13285,6 +13285,17 @@
       <itunes:duration>00:22:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-8912db.mp3" length="21308205" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《废柴道士的爆笑生活v1.4》 · 完整版 · 废柴道士的爆笑生活v1.4 · 完整讲读</title>
+      <description>《废柴道士的爆笑生活》是轩辕小胖创作的都市灵异喜剧，主角马力术是个二十六岁没执照的广告公司老板，骑着名牌电瓶车、住着月租一百五的小平房，被相亲对象嫌弃。稀里糊涂继承乡下一栋祖宅后，他推开门撞见吊死鬼和小鬼，却从此开启了和一群妖魔鬼怪同居的日子。三娘、男人头、雷迪嘎嘎、吊死鬼、小鬼……这些性格鲜明的非人类房客，把原本冷清的鬼屋变成了热闹的家。最终，极阴之地危机爆发，这个废柴道士被命运推上风口，磕了三个响头就成了马家传人，戴上狮形玉佩，和一群奇奇怪怪的伴儿一起拯救了世界。书中金句：有房有鬼有人，便是最好的生活。</description>
+      <pubDate>Thu, 06 Aug 2026 22:23:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-eba289</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《废柴道士的爆笑生活》是轩辕小胖创作的都市灵异喜剧，主角马力术是个二十六岁没执照的广告公司老板，骑着名牌电瓶车、住着月租一百五的小平房，被相亲对象嫌弃。稀里糊涂继承乡下一栋祖宅后，他推开门撞见吊死鬼和小鬼，却从此开启了和一群妖魔鬼怪同居的日子。三娘、男人头、雷迪嘎嘎、吊死鬼、小鬼……这些性格鲜明的非人类房客，把原本冷清的鬼屋变成了热闹的家。最终，极阴之地危机爆发，这个废柴道士被命运推上风口，磕了三个响头就成了马家传人，戴上狮形玉佩，和一群奇奇怪怪的伴儿一起拯救了世界。书中金句：有房有鬼有人，便是最好的生活。</itunes:summary>
+      <itunes:duration>00:26:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-eba289.mp3" length="25860525" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
