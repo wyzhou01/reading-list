@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 08:16:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 15:51:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12900,6 +12900,17 @@
       <itunes:duration>00:27:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-fb564f.mp3" length="25949997" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《小强升职记》 · 完整版 · 小强升职记 · 完整讲读</title>
+      <description>《小强升职记》是邹鑫在 2009 年出版的时间管理小说，用故事形式把源自美国 GTD 方法做了彻底本土化改造。主角小强在导师老付的指引下，通过时间日志看见时间的真实流向、衣柜整理法清空大脑、四象限法则聚焦要事、目标分解把宏愿变成可执行的下一步行动，最终养成每日回顾等自动运行的习惯，从盲目忙碌的执行者蜕变为掌控节奏的项目主管。这本书不是讲大道理的鸡汤，而是一本能立刻拿来用、反复翻阅的工具手册，二十年过去依然被无数职场人反复推荐。</description>
+      <pubDate>Thu, 06 Aug 2026 15:51:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-80c0fd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《小强升职记》是邹鑫在 2009 年出版的时间管理小说，用故事形式把源自美国 GTD 方法做了彻底本土化改造。主角小强在导师老付的指引下，通过时间日志看见时间的真实流向、衣柜整理法清空大脑、四象限法则聚焦要事、目标分解把宏愿变成可执行的下一步行动，最终养成每日回顾等自动运行的习惯，从盲目忙碌的执行者蜕变为掌控节奏的项目主管。这本书不是讲大道理的鸡汤，而是一本能立刻拿来用、反复翻阅的工具手册，二十年过去依然被无数职场人反复推荐。</itunes:summary>
+      <itunes:duration>00:42:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-80c0fd.mp3" length="40606125" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
