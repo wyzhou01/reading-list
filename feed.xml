@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 15:51:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 16:02:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12911,6 +12911,17 @@
       <itunes:duration>00:42:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-80c0fd.mp3" length="40606125" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大草原上的小木屋》 · 完整版 · 大草原上的小木屋 · 完整讲读</title>
+      <description>《大草原上的小木屋》是美国作家劳拉·英格尔斯·怀德写于一九三二年的自传体童书，讲述十九世纪七十年代她跟随家人从威斯康星大森林西迁至堪萨斯大草原的真实经历。一家人卖掉小屋，赶着马车跨越密西西比河，越过无数条涨水的支流，在印第安人的土地上扎下小木屋，却被政府驱离。书中，劳拉一家经历了冰面裂开、河水暴涨、马匹被偷、狗走丢、家被烧等重重险境，却始终围在营火旁吃饭、喝咖啡、听爸爸拉小提琴。这部作品超越了拓荒题材的常见叙事，用极温柔的笔触写出了&quot;家&quot;的真正含义——它不是一栋房子，而是一套一起吃饭、一起面对恐惧、在被爱过后长出笃定的动作。一九三二年大萧条刚刚过去时，这本书替无数失去家园的美国人重新撑起了一种&quot;日常的尊严&quot;，并在此后近百年里持续给予一代代读者同一个答案：只要身边有爱你的人，你就永远有勇气走下去。</description>
+      <pubDate>Thu, 06 Aug 2026 16:02:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-e6fe83</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大草原上的小木屋》是美国作家劳拉·英格尔斯·怀德写于一九三二年的自传体童书，讲述十九世纪七十年代她跟随家人从威斯康星大森林西迁至堪萨斯大草原的真实经历。一家人卖掉小屋，赶着马车跨越密西西比河，越过无数条涨水的支流，在印第安人的土地上扎下小木屋，却被政府驱离。书中，劳拉一家经历了冰面裂开、河水暴涨、马匹被偷、狗走丢、家被烧等重重险境，却始终围在营火旁吃饭、喝咖啡、听爸爸拉小提琴。这部作品超越了拓荒题材的常见叙事，用极温柔的笔触写出了&quot;家&quot;的真正含义——它不是一栋房子，而是一套一起吃饭、一起面对恐惧、在被爱过后长出笃定的动作。一九三二年大萧条刚刚过去时，这本书替无数失去家园的美国人重新撑起了一种&quot;日常的尊严&quot;，并在此后近百年里持续给予一代代读者同一个答案：只要身边有爱你的人，你就永远有勇气走下去。</itunes:summary>
+      <itunes:duration>00:34:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-e6fe83.mp3" length="33367341" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
