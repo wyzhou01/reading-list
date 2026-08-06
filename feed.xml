@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 22:42:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 22:51:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13318,6 +13318,17 @@
       <itunes:duration>00:25:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-0669f9.mp3" length="24900909" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《兴衰之叹（上海书评选萃）》 · 完整版 · 兴衰之叹_(上海书评选萃) · 完整讲读</title>
+      <description>《兴衰之叹》是《东方早报·上海书评》创刊五周年推出的专题书评合集，收录金重远、郑异凡等十几位学者、记者的十多万字文章，系统回望苏联从沙皇覆亡、斯大林铁幕、赫鲁晓夫解冻、勃列日涅夫停滞，到戈尔巴乔夫改革与和平解体的全过程，并延伸至东德记忆、后苏联民族冲突与俄罗斯保守主义回潮。本书填补中文世界介于通俗历史与严肃学术之间的空白，既是专栏消遣，也是思想读本。</description>
+      <pubDate>Thu, 06 Aug 2026 22:51:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-c7b63e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《兴衰之叹》是《东方早报·上海书评》创刊五周年推出的专题书评合集，收录金重远、郑异凡等十几位学者、记者的十多万字文章，系统回望苏联从沙皇覆亡、斯大林铁幕、赫鲁晓夫解冻、勃列日涅夫停滞，到戈尔巴乔夫改革与和平解体的全过程，并延伸至东德记忆、后苏联民族冲突与俄罗斯保守主义回潮。本书填补中文世界介于通俗历史与严肃学术之间的空白，既是专栏消遣，也是思想读本。</itunes:summary>
+      <itunes:duration>00:40:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-c7b63e.mp3" length="38718765" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
