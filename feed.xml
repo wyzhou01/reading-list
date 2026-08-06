@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 22:23:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 22:32:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13296,6 +13296,17 @@
       <itunes:duration>00:26:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-eba289.mp3" length="25860525" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《群鸟飞舞的世界末日》 · 完整版 · 群鸟飞舞的世界末日 · 完整讲读</title>
+      <description>六岁那年，巫师帕特里夏为一只折翼的小鸟松开了手，硅谷少年劳伦斯为躲开霸凌造了一台只能跳两秒的时光机，两个怪小孩在童年里彼此救赎，又在末日前夕的旧金山重逢。当巫师议会与科技集团为了争夺未来彼此厮杀、瘟疫与人工智能把世界推向毁灭，他们需要回答的，只剩下一个问题：两个看似永远敌对的阵营，能不能在最后一刻松开各自的手。入围二零一六年雨果奖最佳长篇的《群鸟飞舞的世界末日》，是一面温柔又锋利的镜子，照出人类在面对技术飞速前进时的骄傲、恐惧，以及最朴素的那一份愿——被理解，被接纳，以及相信明天还会到来。</description>
+      <pubDate>Thu, 06 Aug 2026 22:32:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-40a2d6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>六岁那年，巫师帕特里夏为一只折翼的小鸟松开了手，硅谷少年劳伦斯为躲开霸凌造了一台只能跳两秒的时光机，两个怪小孩在童年里彼此救赎，又在末日前夕的旧金山重逢。当巫师议会与科技集团为了争夺未来彼此厮杀、瘟疫与人工智能把世界推向毁灭，他们需要回答的，只剩下一个问题：两个看似永远敌对的阵营，能不能在最后一刻松开各自的手。入围二零一六年雨果奖最佳长篇的《群鸟飞舞的世界末日》，是一面温柔又锋利的镜子，照出人类在面对技术飞速前进时的骄傲、恐惧，以及最朴素的那一份愿——被理解，被接纳，以及相信明天还会到来。</itunes:summary>
+      <itunes:duration>00:27:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-40a2d6.mp3" length="26411949" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
