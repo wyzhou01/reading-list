@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 16:28:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 16:34:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12944,6 +12944,17 @@
       <itunes:duration>00:34:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-dba880.mp3" length="32816301" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《凛冬之棺》 · 完整版 · 凛冬之棺 · 完整讲读</title>
+      <description>《凛冬之棺》是孙沁文首部密室长篇，以陆家大宅三桩门窗反锁的不可能犯罪为主线，交织本土婴塔传说与重男轻女的家族诅咒。青年漫画家安缜借画技与刑警梁良、冷璇联手追凶，在溺水、勒毙、割喉三种原创密室诡计背后，挖出数十年来被沉入湖底的被弃女婴与贩毒黑幕。小说既是古典密室推理的现代捍卫之作，也是一面照出现代人匮乏、凝视与自我救赎的镜匣。</description>
+      <pubDate>Thu, 06 Aug 2026 16:34:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-013f83</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《凛冬之棺》是孙沁文首部密室长篇，以陆家大宅三桩门窗反锁的不可能犯罪为主线，交织本土婴塔传说与重男轻女的家族诅咒。青年漫画家安缜借画技与刑警梁良、冷璇联手追凶，在溺水、勒毙、割喉三种原创密室诡计背后，挖出数十年来被沉入湖底的被弃女婴与贩毒黑幕。小说既是古典密室推理的现代捍卫之作，也是一面照出现代人匮乏、凝视与自我救赎的镜匣。</itunes:summary>
+      <itunes:duration>00:20:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-013f83.mp3" length="19487277" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
