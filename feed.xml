@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 21:50:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 22:01:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13252,6 +13252,17 @@
       <itunes:duration>00:31:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-6051dc.mp3" length="29997741" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中东现场：揭开伊斯兰世界的冲突迷雾》 · 完整版 · 中东现场：揭开伊斯兰世界的冲突迷雾_-_张翠容 · 完整讲读</title>
+      <description>《中东现场》是香港独立战地女记者张翠容阿拉伯世界三部曲的核心。她在二零零二至二零一一年间，独自走访哈马斯、伊斯兰圣战组织、真主党、伊拉克什叶与逊尼社区，亲历阿拉伯之春，从开罗解放广场到杰宁墓地到拉姆安拉的公民社会。本书以新闻特稿与深度访谈交织，揭露恐怖主义实为被剥夺尊严的产物，巴勒斯坦冲突是以帝国霸权为暗线的中东动荡根目录，美国中东民主计划乃拉美政策的同套复制，而真正的希望藏在一群在国际媒体视野之外、坚持非暴力的中东和平缔造者之中。这是一份从华人视角跳出西方与阿拉伯官方双重话语的中东现场记录。</description>
+      <pubDate>Thu, 06 Aug 2026 22:01:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-0f0567</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《中东现场》是香港独立战地女记者张翠容阿拉伯世界三部曲的核心。她在二零零二至二零一一年间，独自走访哈马斯、伊斯兰圣战组织、真主党、伊拉克什叶与逊尼社区，亲历阿拉伯之春，从开罗解放广场到杰宁墓地到拉姆安拉的公民社会。本书以新闻特稿与深度访谈交织，揭露恐怖主义实为被剥夺尊严的产物，巴勒斯坦冲突是以帝国霸权为暗线的中东动荡根目录，美国中东民主计划乃拉美政策的同套复制，而真正的希望藏在一群在国际媒体视野之外、坚持非暴力的中东和平缔造者之中。这是一份从华人视角跳出西方与阿拉伯官方双重话语的中东现场记录。</itunes:summary>
+      <itunes:duration>00:28:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-0f0567.mp3" length="27418797" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
