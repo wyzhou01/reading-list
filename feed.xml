@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 07:33:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 07:45:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12856,6 +12856,17 @@
       <itunes:duration>00:30:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-940bab.mp3" length="29315373" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《不完美风暴》 · 完整版 · 不完美风暴 · 完整讲读</title>
+      <description>《不完美风暴》是 CIA 前副局长迈克尔·莫雷尔对三十年反恐战争的冷静回顾与深度反思。莫雷尔从一九九八年东非使馆爆炸案讲起，详述&apos;9·11&apos;之前情报体系被忽视的警报、觉醒之后那些充满争议的强化审讯与无人机打击、二零一一年本·拉登在阿伯塔巴德被击毙的决策内幕，以及&apos;基地&apos;组织从未真正死去、只是不断变形的未来警告。这本罕见的局内人一手见证作品，既呈现了 CIA 的战功与牺牲，也直面情报失误、刑讯争议、政治阻力等棘手议题，是理解这场尚未结束的反恐战争不可绕开的当代档案。</description>
+      <pubDate>Thu, 06 Aug 2026 07:45:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-da12ba</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《不完美风暴》是 CIA 前副局长迈克尔·莫雷尔对三十年反恐战争的冷静回顾与深度反思。莫雷尔从一九九八年东非使馆爆炸案讲起，详述&apos;9·11&apos;之前情报体系被忽视的警报、觉醒之后那些充满争议的强化审讯与无人机打击、二零一一年本·拉登在阿伯塔巴德被击毙的决策内幕，以及&apos;基地&apos;组织从未真正死去、只是不断变形的未来警告。这本罕见的局内人一手见证作品，既呈现了 CIA 的战功与牺牲，也直面情报失误、刑讯争议、政治阻力等棘手议题，是理解这场尚未结束的反恐战争不可绕开的当代档案。</itunes:summary>
+      <itunes:duration>00:29:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-da12ba.mp3" length="28676013" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
