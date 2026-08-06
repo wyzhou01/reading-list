@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 07:55:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 08:07:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12878,6 +12878,17 @@
       <itunes:duration>00:28:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-6a5a9f.mp3" length="27072813" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《高效15法则》 · 完整版 · 高效15法则(1) · 完整讲读</title>
+      <description>《高效15法则》是一本写给每一个想真正高效、又不愿被工作吞噬的职场人和创业者的书。作者凯文·克鲁斯采访了几百位亿万富翁、奥运冠军和优等生后发现，真正的生产力不来自管理时间，而来自聚焦价值、优先级和习惯。全书用六个核心拼图把这一观点拆开：每天只有一千四百四十分钟的稀缺感、确定今天唯一的“要务”、过日历而不是清单的生活、敢拒绝敢下班、运用二八法则聚焦关键的两成、以及把精力当作生产底盘来管理。这本书不教你做更多的事，它教你成为值得拥有更少事的人。</description>
+      <pubDate>Thu, 06 Aug 2026 08:07:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-2a688e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《高效15法则》是一本写给每一个想真正高效、又不愿被工作吞噬的职场人和创业者的书。作者凯文·克鲁斯采访了几百位亿万富翁、奥运冠军和优等生后发现，真正的生产力不来自管理时间，而来自聚焦价值、优先级和习惯。全书用六个核心拼图把这一观点拆开：每天只有一千四百四十分钟的稀缺感、确定今天唯一的“要务”、过日历而不是清单的生活、敢拒绝敢下班、运用二八法则聚焦关键的两成、以及把精力当作生产底盘来管理。这本书不教你做更多的事，它教你成为值得拥有更少事的人。</itunes:summary>
+      <itunes:duration>00:25:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-2a688e.mp3" length="24422829" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
