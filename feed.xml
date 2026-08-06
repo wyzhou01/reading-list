@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 16:59:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 17:11:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -12977,6 +12977,17 @@
       <itunes:duration>00:31:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-c3ab73.mp3" length="30448557" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《七大寇系列·沈虎禅大传之凄惨的刀口》 · 完整版 · 七大寇系列·沈虎禅大传 · 完整讲读</title>
+      <description>《七大寇系列·沈虎禅大传》，温瑞安一九八四年的反英雄武侠。被通缉的侠盗沈虎禅，背一柄木刀，独闯六扇门与侠义堂联手布下的死局。本书撕开&quot;侠义&quot;假面：所谓正道围剿，是为青帝门神火令祭剑；所谓英雄侠少，是把人逼反再冠以贼名后屠戮的生意。温瑞安借沈虎禅之口定下全书脊梁：&quot;至於匡扶正义，只好由我们这些盗寇一并担当。&quot;读这本书，是读一种在伪善体制下依然选择独立判断、亲查真相、为无辜者拔刀的孤勇。</description>
+      <pubDate>Thu, 06 Aug 2026 17:10:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-1dc8ab</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《七大寇系列·沈虎禅大传》，温瑞安一九八四年的反英雄武侠。被通缉的侠盗沈虎禅，背一柄木刀，独闯六扇门与侠义堂联手布下的死局。本书撕开&quot;侠义&quot;假面：所谓正道围剿，是为青帝门神火令祭剑；所谓英雄侠少，是把人逼反再冠以贼名后屠戮的生意。温瑞安借沈虎禅之口定下全书脊梁：&quot;至於匡扶正义，只好由我们这些盗寇一并担当。&quot;读这本书，是读一种在伪善体制下依然选择独立判断、亲查真相、为无辜者拔刀的孤勇。</itunes:summary>
+      <itunes:duration>00:29:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-1dc8ab.mp3" length="28370733" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
