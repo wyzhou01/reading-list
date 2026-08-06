@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 19:58:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 20:06:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13142,6 +13142,17 @@
       <itunes:duration>00:27:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-121766.mp3" length="25982637" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《所罗门的伪证》 · 完整版 · 所罗门的伪证_(日)宫部美雪 · 完整讲读</title>
+      <description>一九九零年圣诞夜，日本某中学初二男生柏木卓也从教学楼坠亡，警方与学校急于以&quot;意外&quot;结案。同班女生藤野凉子坚信另有真相，联合同学神原和彦、野田健一等人，在长达一年的筹备后，于校内发起了一场史无前例的模拟法庭审判，让所有当事人必须在公开的程序中对质与承担。宫部美雪用百万字的群像叙事，把少年之间的恶意与援手、大人的敷衍与共谋、程序的精致与失灵，写成了一部属于普通人的公民启蒙之书。二十年后，亲历者重返校园，一句&quot;欢迎回来&quot;，是这代人能给世界最温柔的答复。</description>
+      <pubDate>Thu, 06 Aug 2026 20:06:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-bded20</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九九零年圣诞夜，日本某中学初二男生柏木卓也从教学楼坠亡，警方与学校急于以&quot;意外&quot;结案。同班女生藤野凉子坚信另有真相，联合同学神原和彦、野田健一等人，在长达一年的筹备后，于校内发起了一场史无前例的模拟法庭审判，让所有当事人必须在公开的程序中对质与承担。宫部美雪用百万字的群像叙事，把少年之间的恶意与援手、大人的敷衍与共谋、程序的精致与失灵，写成了一部属于普通人的公民启蒙之书。二十年后，亲历者重返校园，一句&quot;欢迎回来&quot;，是这代人能给世界最温柔的答复。</itunes:summary>
+      <itunes:duration>00:29:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-bded20.mp3" length="28678317" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
