@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 22:10:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 22:16:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13274,6 +13274,17 @@
       <itunes:duration>00:35:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-359b98.mp3" length="33621549" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《吉祥纹莲花楼·玄武》 · 完整版 · 吉祥纹莲花楼•玄武 · 完整讲读</title>
+      <description>《吉祥纹莲花楼·玄武》是藤萍二零一零年所著武侠悬疑小说，由《观音垂泪》《窟窿》《女宅》《绣花人皮》四个单元构成，以四桩环环相扣的奇案——武林客栈女子被毁容、窟窿鬼火焦土、青楼分尸弃尸、洞房花皮谜图——串起前朝皇族遗事、鱼龙牛马帮暗影与角丽谯阴谋。已化名李莲花隐居十年的昔日天下第一李相夷，与方多病携手破案，在旧友离散、兄弟情仇、新四顾门崛起的江湖变局中，重新寻找放下身份后的自己。藤萍以清雅从容的笔调，将悬疑推理、古风意境与人情温度融于一炉，写出一个不争天下第一、却比谁都通透的闲人，借人皮绣图之谜，写透一个人如何把&quot;被仰望&quot;的瘾卸下，活成自己的故事。</description>
+      <pubDate>Thu, 06 Aug 2026 22:16:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-8912db</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《吉祥纹莲花楼·玄武》是藤萍二零一零年所著武侠悬疑小说，由《观音垂泪》《窟窿》《女宅》《绣花人皮》四个单元构成，以四桩环环相扣的奇案——武林客栈女子被毁容、窟窿鬼火焦土、青楼分尸弃尸、洞房花皮谜图——串起前朝皇族遗事、鱼龙牛马帮暗影与角丽谯阴谋。已化名李莲花隐居十年的昔日天下第一李相夷，与方多病携手破案，在旧友离散、兄弟情仇、新四顾门崛起的江湖变局中，重新寻找放下身份后的自己。藤萍以清雅从容的笔调，将悬疑推理、古风意境与人情温度融于一炉，写出一个不争天下第一、却比谁都通透的闲人，借人皮绣图之谜，写透一个人如何把&quot;被仰望&quot;的瘾卸下，活成自己的故事。</itunes:summary>
+      <itunes:duration>00:22:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-8912db.mp3" length="21308205" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
