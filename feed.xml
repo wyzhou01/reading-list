@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 20:30:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 20:36:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13175,6 +13175,17 @@
       <itunes:duration>00:29:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-0f60cb.mp3" length="28005165" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《新制造时代》 · 完整版 · 新制造时代(1) · 完整讲读</title>
+      <description>《新制造时代》讲述了李书福与吉利从浙江台州的沼泽地起步，一路走到并购北欧豪华品牌沃尔沃的惊险历程。全书以三段式结构，呈现了中国民营企业家从草根狂人到现代企业家的完整进化：从无证造车、借壳生产，到《宁波宣言》告别“钣金工时代“，再到收购沃尔沃后的“放虎归山“。李书福用三十年证明，中国制造业的下一站，不是规模，不是价格，而是技术、品质、规则与跨文化管理的全球通行证。这是一部中国制造在全球激流中挣扎、反思、完成惊险一跃的活标本。</description>
+      <pubDate>Thu, 06 Aug 2026 20:36:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-b6f68b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《新制造时代》讲述了李书福与吉利从浙江台州的沼泽地起步，一路走到并购北欧豪华品牌沃尔沃的惊险历程。全书以三段式结构，呈现了中国民营企业家从草根狂人到现代企业家的完整进化：从无证造车、借壳生产，到《宁波宣言》告别“钣金工时代“，再到收购沃尔沃后的“放虎归山“。李书福用三十年证明，中国制造业的下一站，不是规模，不是价格，而是技术、品质、规则与跨文化管理的全球通行证。这是一部中国制造在全球激流中挣扎、反思、完成惊险一跃的活标本。</itunes:summary>
+      <itunes:duration>00:26:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-b6f68b.mp3" length="25526829" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
