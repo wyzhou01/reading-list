@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 20:57:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 21:04:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13208,6 +13208,17 @@
       <itunes:duration>00:25:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-7868da.mp3" length="24841773" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《小米逻辑》 · 完整版 · 小米逻辑 · 完整讲读</title>
+      <description>本书以小米的崛起为切口，系统拆解了互联网时代的七条商业底层逻辑：乔布斯效应、创始团队基因、用户参与感、员工管理哲学、口碑品牌打法、社化媒体运营、服务闭环。作者指出，小米的真正护城河不是任何单一招式，而是一套以人为中心的商业操作系统——把用户当朋友，把员工当合伙人，把服务当产品，把品牌当信仰。在二零一零到二零一四年的移动互联网窗口期，小米用四年时间从零冲到国产销量冠军，创造了中国商业史上的一段神话。对于今天的创业者、产品经理和营销从业者，本书提供了一面镜子：在一个快速变形的时代，企业的护城河究竟该如何重建。答案藏在那些穿越周期的方法论里，也藏在那些朴实却深刻的商业常识里——做生意的本质，终究是做人。</description>
+      <pubDate>Thu, 06 Aug 2026 21:04:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-bf98b4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书以小米的崛起为切口，系统拆解了互联网时代的七条商业底层逻辑：乔布斯效应、创始团队基因、用户参与感、员工管理哲学、口碑品牌打法、社化媒体运营、服务闭环。作者指出，小米的真正护城河不是任何单一招式，而是一套以人为中心的商业操作系统——把用户当朋友，把员工当合伙人，把服务当产品，把品牌当信仰。在二零一零到二零一四年的移动互联网窗口期，小米用四年时间从零冲到国产销量冠军，创造了中国商业史上的一段神话。对于今天的创业者、产品经理和营销从业者，本书提供了一面镜子：在一个快速变形的时代，企业的护城河究竟该如何重建。答案藏在那些穿越周期的方法论里，也藏在那些朴实却深刻的商业常识里——做生意的本质，终究是做人。</itunes:summary>
+      <itunes:duration>00:27:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-bf98b4.mp3" length="26844717" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
