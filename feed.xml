@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 18:53:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 19:01:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13065,6 +13065,17 @@
       <itunes:duration>00:34:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-dc2c13.mp3" length="33505581" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《伏沃迪约夫斯基骑士》 · 完整版 · 显克维奇选集6：伏沃迪约夫斯基骑士 · 完整讲读</title>
+      <description>17世纪波兰抗击土耳其入侵的战争史诗。1672年土耳其苏丹率百万大军围攻卡缅涅茨，波兰陷于危亡。小个子骑士伏沃迪约夫斯基与恋人阿纽霞在战火中经历悲欢离合，他武功超群、忠君爱国，最终在霍奇姆大战中立下殊勋，却在婚期将近时不幸战死疆场，留下千古遗恨。索别斯基大统帅随后大败土军，完成波兰的中兴之战。</description>
+      <pubDate>Thu, 06 Aug 2026 19:00:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-bb251a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>17世纪波兰抗击土耳其入侵的战争史诗。1672年土耳其苏丹率百万大军围攻卡缅涅茨，波兰陷于危亡。小个子骑士伏沃迪约夫斯基与恋人阿纽霞在战火中经历悲欢离合，他武功超群、忠君爱国，最终在霍奇姆大战中立下殊勋，却在婚期将近时不幸战死疆场，留下千古遗恨。索别斯基大统帅随后大败土军，完成波兰的中兴之战。</itunes:summary>
+      <itunes:duration>00:32:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-bb251a.mp3" length="31294125" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
