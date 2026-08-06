@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 21:30:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 21:40:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13230,6 +13230,17 @@
       <itunes:duration>00:23:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-1eaa4d.mp3" length="22118061" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《借山而居》 · 完整版 · 借山而居_-_冬子 · 完整讲读</title>
+      <description>《借山而居》是冬子二〇一三年到二〇一六年前后在终南山隐居期间写下的散文随笔，记录了他用四千元租二十年老宅、画画养动物的日常。冬子并非传统意义上的隐士，而是一个用审美和诗意填充日常的生活者。书中谈隐居、谈孤独、谈爱情、谈死亡，回答了三个核心命题：什么是真正的隐居、孤独是什么、诗意地活着究竟是什么状态。火遍互联网之后，他拒绝采访、拒绝商业化，把“存在本身”当成比诗和画更高的追求。这是一面映照出每个人内心桃花源想象的镜子。</description>
+      <pubDate>Thu, 06 Aug 2026 21:40:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-528092</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《借山而居》是冬子二〇一三年到二〇一六年前后在终南山隐居期间写下的散文随笔，记录了他用四千元租二十年老宅、画画养动物的日常。冬子并非传统意义上的隐士，而是一个用审美和诗意填充日常的生活者。书中谈隐居、谈孤独、谈爱情、谈死亡，回答了三个核心命题：什么是真正的隐居、孤独是什么、诗意地活着究竟是什么状态。火遍互联网之后，他拒绝采访、拒绝商业化，把“存在本身”当成比诗和画更高的追求。这是一面映照出每个人内心桃花源想象的镜子。</itunes:summary>
+      <itunes:duration>00:31:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-528092.mp3" length="30282669" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
