@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 23:14:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 23:22:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13351,6 +13351,17 @@
       <itunes:duration>00:42:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-b2d589.mp3" length="40392621" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《绅士盗贼拉莫瑞》 · 完整版 · 01.绅士盗贼拉莫瑞 · 完整讲读</title>
+      <description>《绅士盗贼拉莫瑞》讲的是孤儿洛克·拉莫瑞在卡莫尔城与一群&quot;绅士盗贼&quot;靠行骗为生的故事。他们自诩劫富济贫，实则只济自己。一个叫荆刺的复仇者悄然归来，要让当年亏欠他家族的贵族血债血偿。洛克一行人被卷入这场跨越二十年的复仇，失去了金钱、朋友，几乎丧命。最终，洛克与挚友金·坦纳登上逃离卡莫尔的帆船，一无所有，却用真名换回了这世上最贵的东西——友情。</description>
+      <pubDate>Thu, 06 Aug 2026 23:22:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-6e05b4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《绅士盗贼拉莫瑞》讲的是孤儿洛克·拉莫瑞在卡莫尔城与一群&quot;绅士盗贼&quot;靠行骗为生的故事。他们自诩劫富济贫，实则只济自己。一个叫荆刺的复仇者悄然归来，要让当年亏欠他家族的贵族血债血偿。洛克一行人被卷入这场跨越二十年的复仇，失去了金钱、朋友，几乎丧命。最终，洛克与挚友金·坦纳登上逃离卡莫尔的帆船，一无所有，却用真名换回了这世上最贵的东西——友情。</itunes:summary>
+      <itunes:duration>00:27:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-6e05b4.mp3" length="26555565" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
