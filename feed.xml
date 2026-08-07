@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 07 Aug 2026 08:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 13:01:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13483,6 +13483,17 @@
       <itunes:duration>00:32:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260807/episode-20260807-683339.mp3" length="31100589" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大观茶论》 · 完整版 · 大观茶论 · 完整讲读</title>
+      <description>《大观茶论》是宋徽宗赵佶御笔亲撰的中国第一部、也是唯一一部帝 王茶学专著。本书连同蔡襄《茶录》、宋子安《东溪试茶录》、黄儒《品茶要录》、赵汝砺《北苑别录》等共八部宋代茶学经典，由深耕古树普洱与宋代茶文化的当代茶人日月洲逐一点评注疏。全书系统论述了宋代茶叶采摘、蒸压、制造、点汤、品味之事，揭示了一个核心事实——今天我们大部分茶饮的&quot;原料、工艺、审美&quot;都还在宋人一千年前划定的山脚之下。从带露采、必以甲、惊蛰前后头采、到榨膏去涩、水磨研末、击拂咬盏，再到&quot;甘香重滑&quot;的品鉴标准——宋代把一片树叶的香甜与苦涩这对核心矛盾，做到了人类味觉的边界。这本书不只是一本古籍注疏，更是当代茶人向一个巅峰时代的致敬。</description>
+      <pubDate>Fri, 07 Aug 2026 13:01:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260807-episode-20260807-eac7db</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大观茶论》是宋徽宗赵佶御笔亲撰的中国第一部、也是唯一一部帝 王茶学专著。本书连同蔡襄《茶录》、宋子安《东溪试茶录》、黄儒《品茶要录》、赵汝砺《北苑别录》等共八部宋代茶学经典，由深耕古树普洱与宋代茶文化的当代茶人日月洲逐一点评注疏。全书系统论述了宋代茶叶采摘、蒸压、制造、点汤、品味之事，揭示了一个核心事实——今天我们大部分茶饮的&quot;原料、工艺、审美&quot;都还在宋人一千年前划定的山脚之下。从带露采、必以甲、惊蛰前后头采、到榨膏去涩、水磨研末、击拂咬盏，再到&quot;甘香重滑&quot;的品鉴标准——宋代把一片树叶的香甜与苦涩这对核心矛盾，做到了人类味觉的边界。这本书不只是一本古籍注疏，更是当代茶人向一个巅峰时代的致敬。</itunes:summary>
+      <itunes:duration>00:24:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260807/episode-20260807-eac7db.mp3" length="23647149" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
