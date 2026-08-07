@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 07 Aug 2026 08:07:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 08:20:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13472,6 +13472,17 @@
       <itunes:duration>00:21:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260807/episode-20260807-7527ef.mp3" length="21092397" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《行过死荫之地》 · 完整版 · 行过死荫之地_-_劳伦斯布洛克_（著） · 完整讲读</title>
+      <description>《行过死荫之地》是劳伦斯·布洛克笔下最沉重的侦探小说。纽约出现了一群绑架恶魔，专门以不法商人家属为猎捕对象，因为笃定他们不敢报警。马修·斯卡德，一个戒了酒的前警察，接下了这桩他不喜欢的委托。他不只破获了一桩绑架案，更追问了一个永恒的问题：当恶如此精准，正义还有意义吗？这本书是冷硬派代表作，也是对人性、哀恸与救赎的深刻叩问。</description>
+      <pubDate>Fri, 07 Aug 2026 08:20:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260807-episode-20260807-683339</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《行过死荫之地》是劳伦斯·布洛克笔下最沉重的侦探小说。纽约出现了一群绑架恶魔，专门以不法商人家属为猎捕对象，因为笃定他们不敢报警。马修·斯卡德，一个戒了酒的前警察，接下了这桩他不喜欢的委托。他不只破获了一桩绑架案，更追问了一个永恒的问题：当恶如此精准，正义还有意义吗？这本书是冷硬派代表作，也是对人性、哀恸与救赎的深刻叩问。</itunes:summary>
+      <itunes:duration>00:32:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260807/episode-20260807-683339.mp3" length="31100589" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
