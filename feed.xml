@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 07 Aug 2026 00:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 00:07:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13406,6 +13406,17 @@
       <itunes:duration>00:26:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-24ff83.mp3" length="25517229" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《巴黎的鳞爪》 · 完整版 · 巴黎的鳞爪 · 完整讲读</title>
+      <description>《巴黎的鳞爪》是徐志摩一九二〇年代散文代表作，写巴黎的感官魅惑、翡冷翠山居的灵性、康桥的单独时光，也写对拜伦、罗曼罗兰、达文謇、济慈的评介，更写对一个民族耻感与节操的沉痛呼唤。十三篇文章，从性灵走向家国，从浪漫走向诤言，是诗人用最柔软的笔，写下的最不容商榷的劝告。</description>
+      <pubDate>Fri, 07 Aug 2026 00:07:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-52e68a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《巴黎的鳞爪》是徐志摩一九二〇年代散文代表作，写巴黎的感官魅惑、翡冷翠山居的灵性、康桥的单独时光，也写对拜伦、罗曼罗兰、达文謇、济慈的评介，更写对一个民族耻感与节操的沉痛呼唤。十三篇文章，从性灵走向家国，从浪漫走向诤言，是诗人用最柔软的笔，写下的最不容商榷的劝告。</itunes:summary>
+      <itunes:duration>00:24:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-52e68a.mp3" length="23684013" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
