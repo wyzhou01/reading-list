@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 07 Aug 2026 00:20:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 07:42:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13428,6 +13428,17 @@
       <itunes:duration>00:28:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-b6c751.mp3" length="27802797" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《红与黑》 · 完整版 · 红与黑（译文名著典藏） · 完整讲读</title>
+      <description>《红与黑》是法国作家司汤达于一八三零年出版的长篇小说，副标题“一八三零年纪事”。全书以复辟王朝为背景，讲述木匠之子于连·索雷尔如何用野心、爱情与伪装，撞击由门第、金钱、教会与贵族道德构筑的阶级高墙。从外省维里埃尔的市长夫人，到巴黎拉莫尔侯爵府的千金，于连把爱情当成撬动阶级的杠杆，最终却在法庭上亲手解剖自己的野心，宁愿走上断头台，也不肯向虚伪秩序低头。司汤达以冷峻的心理描写，刻画了一个被时代逼成伪君子的平民青年，也照见了十九世纪法国复辟王朝的政治压抑、宗教专政与阶级固化。这部作品被后世公认为批判现实主义文学的开山之作，主人公于连更被高尔基誉为十九世纪欧洲文学中反叛资本主义社会的一系列英雄人物的始祖。</description>
+      <pubDate>Fri, 07 Aug 2026 07:41:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260807-episode-20260807-11992b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《红与黑》是法国作家司汤达于一八三零年出版的长篇小说，副标题“一八三零年纪事”。全书以复辟王朝为背景，讲述木匠之子于连·索雷尔如何用野心、爱情与伪装，撞击由门第、金钱、教会与贵族道德构筑的阶级高墙。从外省维里埃尔的市长夫人，到巴黎拉莫尔侯爵府的千金，于连把爱情当成撬动阶级的杠杆，最终却在法庭上亲手解剖自己的野心，宁愿走上断头台，也不肯向虚伪秩序低头。司汤达以冷峻的心理描写，刻画了一个被时代逼成伪君子的平民青年，也照见了十九世纪法国复辟王朝的政治压抑、宗教专政与阶级固化。这部作品被后世公认为批判现实主义文学的开山之作，主人公于连更被高尔基誉为十九世纪欧洲文学中反叛资本主义社会的一系列英雄人物的始祖。</itunes:summary>
+      <itunes:duration>00:36:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260807/episode-20260807-11992b.mp3" length="35052333" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
