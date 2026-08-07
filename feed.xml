@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 07 Aug 2026 07:51:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 07:59:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13450,6 +13450,17 @@
       <itunes:duration>00:29:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260807/episode-20260807-d967d7.mp3" length="28607661" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《万火归一》 · 完整版 · 万火归一_-_胡里奥•科塔萨尔__范晔译 · 完整讲读</title>
+      <description>《万火归一》是阿根廷作家胡里奥·科塔萨尔的短篇集，范晔译本由人民文学出版社二零零九年出版。全书由八个短篇构成，以一场巴黎南郊的高速堵车开场，借两千年前的罗马与当代巴黎两场大火平行交错、对影成三人的自我纠缠、证券交易所小职员穿梭于布宜诺斯艾利斯与十九世纪巴黎拱廊街的故事，反复勘探同一个母题：日常现实并非铁板一块，时间、自我与世界之间存在隐秘的裂隙与回声。科塔萨尔由此成为拉美文学爆炸中独树一帜的“他者”——他不写革命与独裁，只写偶然、镜像与另一种真实，并用文学把错过的对话重新接回，让万火归于一火。</description>
+      <pubDate>Fri, 07 Aug 2026 07:59:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260807-episode-20260807-72a354</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《万火归一》是阿根廷作家胡里奥·科塔萨尔的短篇集，范晔译本由人民文学出版社二零零九年出版。全书由八个短篇构成，以一场巴黎南郊的高速堵车开场，借两千年前的罗马与当代巴黎两场大火平行交错、对影成三人的自我纠缠、证券交易所小职员穿梭于布宜诺斯艾利斯与十九世纪巴黎拱廊街的故事，反复勘探同一个母题：日常现实并非铁板一块，时间、自我与世界之间存在隐秘的裂隙与回声。科塔萨尔由此成为拉美文学爆炸中独树一帜的“他者”——他不写革命与独裁，只写偶然、镜像与另一种真实，并用文学把错过的对话重新接回，让万火归于一火。</itunes:summary>
+      <itunes:duration>00:23:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260807/episode-20260807-72a354.mp3" length="22941741" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
