@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 07 Aug 2026 07:59:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 08:07:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13461,6 +13461,17 @@
       <itunes:duration>00:23:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260807/episode-20260807-72a354.mp3" length="22941741" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《有用的逻辑学》 · 完整版 · 有用的逻辑学 · 完整讲读</title>
+      <description>《有用的逻辑学》是美国哲学家梅森·皮里写给普通人的逻辑入门书。全书围绕八十七种常见逻辑谬误展开，从形式谬误、语言谬误到省略、侵扰、假定三大类关联谬误，用大量日常对话、新闻辩论和广告案例，把抽象的逻辑原则拆给读者看。它不教你赢辩论，却教你在每一次开口或听到他人言之凿凿时多停一秒：好的论证靠证据说话，坏的论证藏有套路。在一个算法替我们选观点、标题党替我们制造愤怒的时代，这本书或许不能让我们更聪明，但能让我们更清醒。</description>
+      <pubDate>Fri, 07 Aug 2026 08:07:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260807-episode-20260807-7527ef</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《有用的逻辑学》是美国哲学家梅森·皮里写给普通人的逻辑入门书。全书围绕八十七种常见逻辑谬误展开，从形式谬误、语言谬误到省略、侵扰、假定三大类关联谬误，用大量日常对话、新闻辩论和广告案例，把抽象的逻辑原则拆给读者看。它不教你赢辩论，却教你在每一次开口或听到他人言之凿凿时多停一秒：好的论证靠证据说话，坏的论证藏有套路。在一个算法替我们选观点、标题党替我们制造愤怒的时代，这本书或许不能让我们更聪明，但能让我们更清醒。</itunes:summary>
+      <itunes:duration>00:21:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260807/episode-20260807-7527ef.mp3" length="21092397" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
