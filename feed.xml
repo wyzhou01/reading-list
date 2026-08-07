@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 07 Aug 2026 07:42:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 07:51:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13439,6 +13439,17 @@
       <itunes:duration>00:36:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260807/episode-20260807-11992b.mp3" length="35052333" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《为奴十二年》 · 完整版 · 为奴十二年_(译文经典) · 完整讲读</title>
+      <description>《为奴十二年》是美国废奴运动史上极少见的第一人称回忆录，作者所罗门·诺萨普原本是纽约州的自由黑人，一八四一年春天在华盛顿被奴隶贩子迷晕绑架，辗转卖到路易斯安那州的红河种植园为奴，整整十二年后才被解救回家。本书以克制冷静的笔触记录了他从被绑架、囚禁、毒打、转卖到最终获救的全过程，并附上了完整的法律文书与白人邻居的宣誓书作为证据。短短三万字，揭示了奴隶制度如何把自由人异化为物、如何系统抹除人的记忆与身份，也揭示了书写与法律文书如何成为对抗抹除的唯一武器。一百七十年后再读这本书，它不仅是一份十九世纪的历史证词，更是一面镜子，照见的是制度性暴力、平庸之恶，以及每一个普通人可以做出的微小反抗。</description>
+      <pubDate>Fri, 07 Aug 2026 07:51:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260807-episode-20260807-d967d7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《为奴十二年》是美国废奴运动史上极少见的第一人称回忆录，作者所罗门·诺萨普原本是纽约州的自由黑人，一八四一年春天在华盛顿被奴隶贩子迷晕绑架，辗转卖到路易斯安那州的红河种植园为奴，整整十二年后才被解救回家。本书以克制冷静的笔触记录了他从被绑架、囚禁、毒打、转卖到最终获救的全过程，并附上了完整的法律文书与白人邻居的宣誓书作为证据。短短三万字，揭示了奴隶制度如何把自由人异化为物、如何系统抹除人的记忆与身份，也揭示了书写与法律文书如何成为对抗抹除的唯一武器。一百七十年后再读这本书，它不仅是一份十九世纪的历史证词，更是一面镜子，照见的是制度性暴力、平庸之恶，以及每一个普通人可以做出的微小反抗。</itunes:summary>
+      <itunes:duration>00:29:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260807/episode-20260807-d967d7.mp3" length="28607661" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
