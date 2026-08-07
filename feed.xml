@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 06 Aug 2026 23:51:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 00:00:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13395,6 +13395,17 @@
       <itunes:duration>00:32:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-ccfff0.mp3" length="30951597" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《先放一把火》 · 完整版 · 先放一把火 · 完整讲读</title>
+      <description>《先放一把火》是经济学家何帆在二零一三到二零一四年间发表于FT中文网的书评合集。表面散漫，实则围绕两个核心：一是反思主流经济学理性人假设的局限，二是倡导向十九世纪以来的历史学习，借助长程视野理解当下的中国与全球变局。书中纵论春秋基因、日本并购洛克菲勒中心的非理性逻辑、独裁者手册中的忠诚算计，以及历史学与经济学方法论的差异，最终落在一个读书人对诚实写作、对跨界阅读、对&quot;全知全能且仁慈&quot;话语的拒绝。这是一本写给所有对确定性感到不安、渴望用更开阔视角理解世界的读者的小书。</description>
+      <pubDate>Fri, 07 Aug 2026 00:00:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260806-episode-20260806-24ff83</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《先放一把火》是经济学家何帆在二零一三到二零一四年间发表于FT中文网的书评合集。表面散漫，实则围绕两个核心：一是反思主流经济学理性人假设的局限，二是倡导向十九世纪以来的历史学习，借助长程视野理解当下的中国与全球变局。书中纵论春秋基因、日本并购洛克菲勒中心的非理性逻辑、独裁者手册中的忠诚算计，以及历史学与经济学方法论的差异，最终落在一个读书人对诚实写作、对跨界阅读、对&quot;全知全能且仁慈&quot;话语的拒绝。这是一本写给所有对确定性感到不安、渴望用更开阔视角理解世界的读者的小书。</itunes:summary>
+      <itunes:duration>00:26:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260806/episode-20260806-24ff83.mp3" length="25517229" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
