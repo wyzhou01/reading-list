@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 08 Aug 2026 07:39:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 07:52:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13516,6 +13516,17 @@
       <itunes:duration>00:24:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260808/episode-20260808-555adf.mp3" length="23495085" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中央帝国的财政密码》 · 完整版 · 中央帝国的财政密码_-_郭建龙 · 完整讲读</title>
+      <description>《中央帝国的财政密码》以财政为主线,重新解读中国两千多年的集权王朝史。作者郭建龙指出,理解王朝兴亡的关键不在王侯将相,而在财政制度。汉武帝的盐铁官营、唐代的均田制、宋代的纸币实验、明清的财政死结——每一次危机都指向同样的工具:国企、土地公有制、金融垄断。这三大敛财工具反复出现,构成了穿越朝代的制度惰性,也决定了中国集权财政的三大周期。本书既是一部历史著作,也是一面映照当下的镜子。</description>
+      <pubDate>Sat, 08 Aug 2026 07:52:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260808-episode-20260808-f884ee</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《中央帝国的财政密码》以财政为主线,重新解读中国两千多年的集权王朝史。作者郭建龙指出,理解王朝兴亡的关键不在王侯将相,而在财政制度。汉武帝的盐铁官营、唐代的均田制、宋代的纸币实验、明清的财政死结——每一次危机都指向同样的工具:国企、土地公有制、金融垄断。这三大敛财工具反复出现,构成了穿越朝代的制度惰性,也决定了中国集权财政的三大周期。本书既是一部历史著作,也是一面映照当下的镜子。</itunes:summary>
+      <itunes:duration>00:43:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260808/episode-20260808-f884ee.mp3" length="41385261" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
