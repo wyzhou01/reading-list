@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 08 Aug 2026 08:01:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 08:08:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13538,6 +13538,17 @@
       <itunes:duration>00:32:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260808/episode-20260808-db5f76.mp3" length="31503789" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《桃花井》 · 完整版 · 桃花井 · 完整讲读</title>
+      <description>《桃花井》是台湾女作家苏伟贞为墙外外省人立的小传。她父亲那一代是碰巧赶上渡海船班的纯难民,没有眷村可住,却被同乡诬告通匪,大半辈子坐冤狱;她用三十年拼凑童年听来的闲话碎片,写出一家三代跨越七十年的离散——一九四九年杨敬远把首饰藏进油纸伞柄逃出洞庭,九零年代他攒够路费回岳阳却死在半路,而作者自己,直到父母双亡才敢重新提笔,替那些没有王伟忠代言、没有电视剧、也没有纪念馆的长辈,把脚步的声音留下来。</description>
+      <pubDate>Sat, 08 Aug 2026 08:08:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260808-episode-20260808-fadab4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《桃花井》是台湾女作家苏伟贞为墙外外省人立的小传。她父亲那一代是碰巧赶上渡海船班的纯难民,没有眷村可住,却被同乡诬告通匪,大半辈子坐冤狱;她用三十年拼凑童年听来的闲话碎片,写出一家三代跨越七十年的离散——一九四九年杨敬远把首饰藏进油纸伞柄逃出洞庭,九零年代他攒够路费回岳阳却死在半路,而作者自己,直到父母双亡才敢重新提笔,替那些没有王伟忠代言、没有电视剧、也没有纪念馆的长辈,把脚步的声音留下来。</itunes:summary>
+      <itunes:duration>00:25:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260808/episode-20260808-fadab4.mp3" length="24546093" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
