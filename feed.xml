@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 08 Aug 2026 07:32:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 07:39:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13505,6 +13505,17 @@
       <itunes:duration>00:26:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260808/episode-20260808-c12810.mp3" length="25879341" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《罪瘾者》 · 完整版 · 罪瘾者 · 完整讲读</title>
+      <description>二零零九年，缉毒警程枫华破获特大贩毒案后被灭门，凶手以“犯罪基因论”五个字洗白自己。五年后，三个当事人陆续收到杀人预告信。酗酒断片的袁睿在无意识中杀人，高川与骆松抽丝剥茧追凶，最终在地下室迎来正邪对决。全书借一起灭门案，撕开复仇、酗酒、偏见与宽恕的人性迷宫，用六个齿痕告诉你——有些标签一旦贴上，要花两代人的命才能撕下来。</description>
+      <pubDate>Sat, 08 Aug 2026 07:39:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260808-episode-20260808-555adf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>二零零九年，缉毒警程枫华破获特大贩毒案后被灭门，凶手以“犯罪基因论”五个字洗白自己。五年后，三个当事人陆续收到杀人预告信。酗酒断片的袁睿在无意识中杀人，高川与骆松抽丝剥茧追凶，最终在地下室迎来正邪对决。全书借一起灭门案，撕开复仇、酗酒、偏见与宽恕的人性迷宫，用六个齿痕告诉你——有些标签一旦贴上，要花两代人的命才能撕下来。</itunes:summary>
+      <itunes:duration>00:24:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260808/episode-20260808-555adf.mp3" length="23495085" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
