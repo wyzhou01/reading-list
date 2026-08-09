@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 09 Aug 2026 07:46:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 07:52:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13582,6 +13582,17 @@
       <itunes:duration>00:32:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260809/episode-20260809-53812a.mp3" length="31297965" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《江苏社科名家文库·沈立人卷》 · 完整版 · 江苏社科名家文库·沈立人卷 · 完整讲读</title>
+      <description>《江苏社科名家文库·沈立人卷》是首届江苏社科名家、经济学家沈立人的学术自选集,全书十六篇约八十万字,涵盖经济改革、对外开放、发展方式转变、苏南模式、城镇化、扶贫共富等重大议题。沈立人既是研究者也是参与者,他用一辈子记录和思考了中国四十年的改革开放。本书不仅提供了宝贵的历史记录和经济分析,更展现了一位知识分子唯实不唯书、敢说真话、把人民利益放在首位的治学精神。厉以宁评价其&quot;视野开阔、思维张力独有、行文质朴亲切&quot;。读这本书,既能重走中国经济的改革之路,也能照亮我们今天面对的现实问题。</description>
+      <pubDate>Sun, 09 Aug 2026 07:52:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260809-episode-20260809-fc45ac</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《江苏社科名家文库·沈立人卷》是首届江苏社科名家、经济学家沈立人的学术自选集,全书十六篇约八十万字,涵盖经济改革、对外开放、发展方式转变、苏南模式、城镇化、扶贫共富等重大议题。沈立人既是研究者也是参与者,他用一辈子记录和思考了中国四十年的改革开放。本书不仅提供了宝贵的历史记录和经济分析,更展现了一位知识分子唯实不唯书、敢说真话、把人民利益放在首位的治学精神。厉以宁评价其&quot;视野开阔、思维张力独有、行文质朴亲切&quot;。读这本书,既能重走中国经济的改革之路,也能照亮我们今天面对的现实问题。</itunes:summary>
+      <itunes:duration>00:24:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260809/episode-20260809-fc45ac.mp3" length="23605293" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
