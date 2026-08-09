@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 08 Aug 2026 08:08:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 07:30:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13549,6 +13549,17 @@
       <itunes:duration>00:25:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260808/episode-20260808-fadab4.mp3" length="24546093" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《自立（爱默生）》 · 完整版 · 自立 · 完整讲读</title>
+      <description>《自立》是美国思想家爱默生于一八四一年发表的散文集开篇，一百八十年来始终被视为个人主义与自我信赖的精神宣言。本期节目从六块拼图切入：股份制阴谋、愚蠢的一致性、婴儿行星橡果的三种活法、前后一致的枷锁、伟大是被误解的宿命、人是神的碎片。爱默生号召每一个人信任自己的直觉，从社会顺从、传统崇拜、前后一致的假面中醒来，做一个不再被他人意见殖民、不再被算法代替思考、不再被过去绑架的清醒之人。本书既是十九世纪美国超验主义的奠基之作，也是今天每一个被 KPI、算法、朋友圈定义生活的人最需要的一剂清醒药。</description>
+      <pubDate>Sun, 09 Aug 2026 07:30:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260809-episode-20260809-a5e277</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《自立》是美国思想家爱默生于一八四一年发表的散文集开篇，一百八十年来始终被视为个人主义与自我信赖的精神宣言。本期节目从六块拼图切入：股份制阴谋、愚蠢的一致性、婴儿行星橡果的三种活法、前后一致的枷锁、伟大是被误解的宿命、人是神的碎片。爱默生号召每一个人信任自己的直觉，从社会顺从、传统崇拜、前后一致的假面中醒来，做一个不再被他人意见殖民、不再被算法代替思考、不再被过去绑架的清醒之人。本书既是十九世纪美国超验主义的奠基之作，也是今天每一个被 KPI、算法、朋友圈定义生活的人最需要的一剂清醒药。</itunes:summary>
+      <itunes:duration>00:34:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260809/episode-20260809-a5e277.mp3" length="32779821" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
