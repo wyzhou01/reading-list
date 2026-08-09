@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 09 Aug 2026 07:52:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 08:00:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13593,6 +13593,17 @@
       <itunes:duration>00:24:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260809/episode-20260809-fc45ac.mp3" length="23605293" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《危险的妻子》 · 完整版 · 危险的妻子 · 完整讲读</title>
+      <description>瑞典作家卡洛琳·艾瑞克森的心理悬疑小说《危险的妻子》，讲述了一个看似幸福的家庭在湖上远足时，丈夫与四岁女儿突然失踪、妻子独自留在船上的离奇事件。整部小说以女主人公葛丽泰的内心独白推进，随着记忆层层剥开，一个隐秘的家庭暴力真相浮出水面——表面温和的丈夫其实是长期施害者，而葛丽泰自己，则是从同样暴力、同样沉默的母亲那里继承了创伤的受害者。小说用北欧悬疑特有的冷峻笔调，揭示了家暴如何在两代人之间循环，又如何最终被一代人主动切断。书名&apos;危险的妻子&apos;本身是一个反问：究竟谁是真正危险的人？答案不在性别，而在让暴力得以隐身、让受害者反被怀疑的那整套系统。</description>
+      <pubDate>Sun, 09 Aug 2026 08:00:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260809-episode-20260809-eb02ef</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>瑞典作家卡洛琳·艾瑞克森的心理悬疑小说《危险的妻子》，讲述了一个看似幸福的家庭在湖上远足时，丈夫与四岁女儿突然失踪、妻子独自留在船上的离奇事件。整部小说以女主人公葛丽泰的内心独白推进，随着记忆层层剥开，一个隐秘的家庭暴力真相浮出水面——表面温和的丈夫其实是长期施害者，而葛丽泰自己，则是从同样暴力、同样沉默的母亲那里继承了创伤的受害者。小说用北欧悬疑特有的冷峻笔调，揭示了家暴如何在两代人之间循环，又如何最终被一代人主动切断。书名&apos;危险的妻子&apos;本身是一个反问：究竟谁是真正危险的人？答案不在性别，而在让暴力得以隐身、让受害者反被怀疑的那整套系统。</itunes:summary>
+      <itunes:duration>00:29:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260809/episode-20260809-eb02ef.mp3" length="28215981" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
