@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 09 Aug 2026 07:30:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 07:40:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13560,6 +13560,17 @@
       <itunes:duration>00:34:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260809/episode-20260809-a5e277.mp3" length="32779821" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一日看尽长安花：听北大教授畅讲中国古代文学》 · 完整版 · 一日看尽长安花：听北大教授畅讲中国古代文学_-_程郁缀 · 完整讲读</title>
+      <description>《一日看尽长安花》是北大中文系程郁缀教授在中关村专家讲坛的讲稿合集。他用十二讲的篇幅，从先秦神话诗骚一路讲到明清小说戏曲，把三千年的中国文学脉络，用十二条清晰的线索串联起来。程先生讲诗词，不仅讲字句之美，更讲背后的历史与人。他讲《诗经》里的爱情与劳动，讲屈原的九死不悔，讲陶渊明的归去来兮，讲李白的举杯邀月，讲杜甫的家国忧思，讲苏轼的旷达洒脱，也讲明清市井的烟火日常。书中反复强调一个母题：文学起源于劳动，起源于人类的社会生活。三千年过去了，时代在变，语言在变，形式在变，但人在天地之间的喜怒哀乐，从没变过。这本书雅俗共赏，是文学爱好者的入门读物，也是让普通读者重温经典的温习之作。</description>
+      <pubDate>Sun, 09 Aug 2026 07:40:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260809-episode-20260809-5bb877</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一日看尽长安花》是北大中文系程郁缀教授在中关村专家讲坛的讲稿合集。他用十二讲的篇幅，从先秦神话诗骚一路讲到明清小说戏曲，把三千年的中国文学脉络，用十二条清晰的线索串联起来。程先生讲诗词，不仅讲字句之美，更讲背后的历史与人。他讲《诗经》里的爱情与劳动，讲屈原的九死不悔，讲陶渊明的归去来兮，讲李白的举杯邀月，讲杜甫的家国忧思，讲苏轼的旷达洒脱，也讲明清市井的烟火日常。书中反复强调一个母题：文学起源于劳动，起源于人类的社会生活。三千年过去了，时代在变，语言在变，形式在变，但人在天地之间的喜怒哀乐，从没变过。这本书雅俗共赏，是文学爱好者的入门读物，也是让普通读者重温经典的温习之作。</itunes:summary>
+      <itunes:duration>00:38:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260809/episode-20260809-5bb877.mp3" length="36924333" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
