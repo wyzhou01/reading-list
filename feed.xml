@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 09 Aug 2026 07:40:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 07:46:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13571,6 +13571,17 @@
       <itunes:duration>00:38:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260809/episode-20260809-5bb877.mp3" length="36924333" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《行走，一堂哲学课》 · 完整版 · 行走，一堂哲学课 · 完整讲读</title>
+      <description>《行走，一堂哲学课》是法国哲学家格鲁关于行走的精神随笔集。他从尼采、惠特曼、蒙田等哲人诗人的思想出发，提炼出行走带来的三种自由：滞缓的自由、反叛的自由、舍弃的自由。格鲁提醒我们，在速度崇拜的时代，行走是一种被遗忘的解放。它让人脱离喧嚣、摆脱身份、重获动物本能；它让思想在垂直的轴线上攀升；它通过呼吸与重复的节奏，把人带回身体的当下。这本书不是教我们去哪里，而是提醒我们，怎么走，比走到哪里更重要。</description>
+      <pubDate>Sun, 09 Aug 2026 07:46:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260809-episode-20260809-53812a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《行走，一堂哲学课》是法国哲学家格鲁关于行走的精神随笔集。他从尼采、惠特曼、蒙田等哲人诗人的思想出发，提炼出行走带来的三种自由：滞缓的自由、反叛的自由、舍弃的自由。格鲁提醒我们，在速度崇拜的时代，行走是一种被遗忘的解放。它让人脱离喧嚣、摆脱身份、重获动物本能；它让思想在垂直的轴线上攀升；它通过呼吸与重复的节奏，把人带回身体的当下。这本书不是教我们去哪里，而是提醒我们，怎么走，比走到哪里更重要。</itunes:summary>
+      <itunes:duration>00:32:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260809/episode-20260809-53812a.mp3" length="31297965" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
