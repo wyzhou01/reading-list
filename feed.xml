@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 10 Aug 2026 07:46:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 07:58:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13637,6 +13637,17 @@
       <itunes:duration>00:35:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260810/episode-20260810-1a69a3.mp3" length="33683757" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《修道院纪事》 · 完整版 · 修道院纪事_-_若泽·萨拉马戈 · 完整讲读</title>
+      <description>《修道院纪事》是葡萄牙诺奖作家萨拉马戈的代表作。十八世纪初，国王为求子许愿在马芙拉修建巨型修道院，五万劳工被征召、一三八三人丧生。小说让这些被历史抹去姓名的无名者重新开口。同时，退伍士兵巴尔塔萨尔与能看见亡灵意志的布里蒙达相爱，秘密建造一架飞行器。一个用石头压住苍生，一个用翅膀挣脱大地。萨拉马戈借古讽今，控诉宗教与王权合谋对个体意志的碾压，颂扬爱与意志作为自由最高隐喻的力量——意志可以被转移、被保存、被另一个人接过去，只要有人愿意接，就不会死。</description>
+      <pubDate>Mon, 10 Aug 2026 07:58:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260810-episode-20260810-1a7819</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《修道院纪事》是葡萄牙诺奖作家萨拉马戈的代表作。十八世纪初，国王为求子许愿在马芙拉修建巨型修道院，五万劳工被征召、一三八三人丧生。小说让这些被历史抹去姓名的无名者重新开口。同时，退伍士兵巴尔塔萨尔与能看见亡灵意志的布里蒙达相爱，秘密建造一架飞行器。一个用石头压住苍生，一个用翅膀挣脱大地。萨拉马戈借古讽今，控诉宗教与王权合谋对个体意志的碾压，颂扬爱与意志作为自由最高隐喻的力量——意志可以被转移、被保存、被另一个人接过去，只要有人愿意接，就不会死。</itunes:summary>
+      <itunes:duration>00:25:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260810/episode-20260810-1a7819.mp3" length="24379437" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
