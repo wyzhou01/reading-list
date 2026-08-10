@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 10 Aug 2026 07:58:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 08:07:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13648,6 +13648,17 @@
       <itunes:duration>00:25:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260810/episode-20260810-1a7819.mp3" length="24379437" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《英语的故事》 · 完整版 · 英语的故事 · 完整讲读</title>
+      <description>《英语的故事》颠覆了以标准英语为主角的传统英语史叙事。语言学家戴维·克里斯特尔用一千五百余年的史料证明：英语真正的生命力，源于其内在的多样性——女性的声音、殖民地的本土变体、被边缘化的方言俚语，都塑造着我们今天所说的英语。本书既是一部学术严谨的语言史，也是一份对语言多样性的深情礼赞。</description>
+      <pubDate>Mon, 10 Aug 2026 08:06:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260810-episode-20260810-2fee84</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《英语的故事》颠覆了以标准英语为主角的传统英语史叙事。语言学家戴维·克里斯特尔用一千五百余年的史料证明：英语真正的生命力，源于其内在的多样性——女性的声音、殖民地的本土变体、被边缘化的方言俚语，都塑造着我们今天所说的英语。本书既是一部学术严谨的语言史，也是一份对语言多样性的深情礼赞。</itunes:summary>
+      <itunes:duration>00:31:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260810/episode-20260810-2fee84.mp3" length="30470829" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
