@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 09 Aug 2026 08:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 07:30:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13604,6 +13604,17 @@
       <itunes:duration>00:29:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260809/episode-20260809-eb02ef.mp3" length="28215981" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《被伤害与侮辱的人们》 · 完整版 · 被伤害与侮辱的人们(译文名著精选) · 完整讲读</title>
+      <description>《被伤害与侮辱的人们》是陀思妥耶夫斯基于一八六一年写就的长篇力作，灵感取自彼得堡贫民窟的真实见闻。小说借青年作家瓦尼亚的临终回忆，讲述一段被公爵父子拆散的初恋、一个十二岁孤女的早夭、一位流亡老机械师与老狗在糖果店地板上的死亡。陀氏第一次以完整长篇的规模把穷人、孤儿、贵族、骗子塞进同一条彼得堡街道，让善与恶并置、受害者与施暴者共处一城，揭示文明外壳下利己主义如何冷静运转。一百六十年过去，这部照见现代都市的精神寓言，依然在叩问每一个读者：你愿意为一只狗弯下腰吗，你敢替一个不宽恕的孩子说出她没有说出的愤怒吗。</description>
+      <pubDate>Mon, 10 Aug 2026 07:30:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260810-episode-20260810-d5a25f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《被伤害与侮辱的人们》是陀思妥耶夫斯基于一八六一年写就的长篇力作，灵感取自彼得堡贫民窟的真实见闻。小说借青年作家瓦尼亚的临终回忆，讲述一段被公爵父子拆散的初恋、一个十二岁孤女的早夭、一位流亡老机械师与老狗在糖果店地板上的死亡。陀氏第一次以完整长篇的规模把穷人、孤儿、贵族、骗子塞进同一条彼得堡街道，让善与恶并置、受害者与施暴者共处一城，揭示文明外壳下利己主义如何冷静运转。一百六十年过去，这部照见现代都市的精神寓言，依然在叩问每一个读者：你愿意为一只狗弯下腰吗，你敢替一个不宽恕的孩子说出她没有说出的愤怒吗。</itunes:summary>
+      <itunes:duration>00:21:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260810/episode-20260810-d5a25f.mp3" length="20272941" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
