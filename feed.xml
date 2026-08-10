@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 10 Aug 2026 07:38:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 07:46:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13626,6 +13626,17 @@
       <itunes:duration>00:33:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260810/episode-20260810-122972.mp3" length="31963437" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《美好古董衣店》 · 完整版 · 美好古董衣店_-_[美]斯特凡尼·莱曼 · 完整讲读</title>
+      <description>《美好古董衣店》是美国作家斯特凡尼·莱曼于二零一三年出版的长篇小说，二零一五年由中信出版社引进简体中文版。故事以一九零七年和二零零七年的纽约曼哈顿为舞台，讲述了古董衣店主阿曼达和百岁老太太简·凯利、以及二十岁姑娘奥莉芙三代女性的故事。阿曼达在为即将离世的简清理旧物时，在一只爱德华时代暖手筒的针脚里发现了一本日记，由此揭开奥莉芙在一九零七年闯荡曼哈顿商业世界的往事，并发现自己与这位百年前女性之间的隐秘联系。小说以女性独立、商业梦想、纽约百年城市变迁和古董衣作为记忆载体为核心主题，被誉为二零一三年度最佳女性小说，《追风筝的人》作者卡勒德·胡赛尼也曾专文推荐。</description>
+      <pubDate>Mon, 10 Aug 2026 07:46:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260810-episode-20260810-1a69a3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《美好古董衣店》是美国作家斯特凡尼·莱曼于二零一三年出版的长篇小说，二零一五年由中信出版社引进简体中文版。故事以一九零七年和二零零七年的纽约曼哈顿为舞台，讲述了古董衣店主阿曼达和百岁老太太简·凯利、以及二十岁姑娘奥莉芙三代女性的故事。阿曼达在为即将离世的简清理旧物时，在一只爱德华时代暖手筒的针脚里发现了一本日记，由此揭开奥莉芙在一九零七年闯荡曼哈顿商业世界的往事，并发现自己与这位百年前女性之间的隐秘联系。小说以女性独立、商业梦想、纽约百年城市变迁和古董衣作为记忆载体为核心主题，被誉为二零一三年度最佳女性小说，《追风筝的人》作者卡勒德·胡赛尼也曾专文推荐。</itunes:summary>
+      <itunes:duration>00:35:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260810/episode-20260810-1a69a3.mp3" length="33683757" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
