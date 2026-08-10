@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 10 Aug 2026 07:30:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 07:38:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13615,6 +13615,17 @@
       <itunes:duration>00:21:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260810/episode-20260810-d5a25f.mp3" length="20272941" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《图说天下·世界历史系列·英国：日不落帝国的辉煌》 · 完整版 · 图说天下·世界历史系列·英国：日不落帝国的辉煌 · 完整讲读</title>
+      <description>本书用图文并茂的方式，把英国从罗马入侵到戴安娜之死的两千多年历史浓缩成一部通识简史。我们用六块拼图串起全书：罗马与日耳曼的双重底色，大宪章与议会孕育的有限政府，从海盗到海军的海洋扩张逻辑，工业革命与其背后的制度生态，从殖民地到日不落帝国的商业立国路径，以及二十世纪的帝国退场与软实力延续。读懂英国，不只是读懂一座岛国的逆袭史，更是读懂现代世界底层代码从何而来的一把钥匙。</description>
+      <pubDate>Mon, 10 Aug 2026 07:38:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260810-episode-20260810-122972</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书用图文并茂的方式，把英国从罗马入侵到戴安娜之死的两千多年历史浓缩成一部通识简史。我们用六块拼图串起全书：罗马与日耳曼的双重底色，大宪章与议会孕育的有限政府，从海盗到海军的海洋扩张逻辑，工业革命与其背后的制度生态，从殖民地到日不落帝国的商业立国路径，以及二十世纪的帝国退场与软实力延续。读懂英国，不只是读懂一座岛国的逆袭史，更是读懂现代世界底层代码从何而来的一把钥匙。</itunes:summary>
+      <itunes:duration>00:33:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260810/episode-20260810-122972.mp3" length="31963437" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
