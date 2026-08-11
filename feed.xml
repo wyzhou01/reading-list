@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 10 Aug 2026 08:07:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 07:36:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13659,6 +13659,17 @@
       <itunes:duration>00:31:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260810/episode-20260810-2fee84.mp3" length="30470829" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《困学纪闻》 · 完整版 · 困学纪闻_(国学典藏) · 完整讲读</title>
+      <description>《困学纪闻》是南宋遗民王应麟入元后闭门二十年写就的二十卷读书笔记，以训诂考据疏通经史疑义，兼综朱熹、吕祖谦、陆九渊三家之学而不立门户。书中既集毕生博学，又寄亡国之痛与对两宋学术的反思，被清代顾炎武、全祖望、钱大昕等学者奉为远祖，直接启发了《日知录》以来的考据学传统。今天读这本书，是为了理解一位学者如何把故国沦亡的悲愤，化作笔下一条条具体的考据，也为自己在喧嚣时代守住一份属于学人的底线。</description>
+      <pubDate>Tue, 11 Aug 2026 07:36:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260811-episode-20260811-c0251e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《困学纪闻》是南宋遗民王应麟入元后闭门二十年写就的二十卷读书笔记，以训诂考据疏通经史疑义，兼综朱熹、吕祖谦、陆九渊三家之学而不立门户。书中既集毕生博学，又寄亡国之痛与对两宋学术的反思，被清代顾炎武、全祖望、钱大昕等学者奉为远祖，直接启发了《日知录》以来的考据学传统。今天读这本书，是为了理解一位学者如何把故国沦亡的悲愤，化作笔下一条条具体的考据，也为自己在喧嚣时代守住一份属于学人的底线。</itunes:summary>
+      <itunes:duration>00:26:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260811/episode-20260811-c0251e.mp3" length="25785261" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
