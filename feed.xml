@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 11 Aug 2026 08:16:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 08:28:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13703,6 +13703,17 @@
       <itunes:duration>00:25:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260811/episode-20260811-534048.mp3" length="24167853" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《周易正本解》 · 完整版 · 周易正本解_-_陈德述 · 完整讲读</title>
+      <description>《周易正本通释》是陈德述积十余年工夫写出的八十万字巨著。本期先讲透《周易》这本书到底是什么、八卦为什么是八个、六十四卦如何排列，再拆解五种中华思维模式——太极、互补、象数、察来、和谐，以及八条易学原理。最后梳理巴蜀易学两千年传承：从苌弘、严君平、扬雄到陈抟、苏轼、魏了翁、来知德，再传到陈德述手里。这本书把象数与义理焊在一起，是当代读懂《周易》最趁手的钥匙。</description>
+      <pubDate>Tue, 11 Aug 2026 08:28:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260811-episode-20260811-028abf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《周易正本通释》是陈德述积十余年工夫写出的八十万字巨著。本期先讲透《周易》这本书到底是什么、八卦为什么是八个、六十四卦如何排列，再拆解五种中华思维模式——太极、互补、象数、察来、和谐，以及八条易学原理。最后梳理巴蜀易学两千年传承：从苌弘、严君平、扬雄到陈抟、苏轼、魏了翁、来知德，再传到陈德述手里。这本书把象数与义理焊在一起，是当代读懂《周易》最趁手的钥匙。</itunes:summary>
+      <itunes:duration>00:30:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260811/episode-20260811-028abf.mp3" length="29503149" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
