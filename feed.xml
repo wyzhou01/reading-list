@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 11 Aug 2026 07:52:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 08:05:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13681,6 +13681,17 @@
       <itunes:duration>00:26:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260811/episode-20260811-1e8b81.mp3" length="25271469" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《厉以宁讲欧洲经济史（插图版）》 · 完整版 · 厉以宁讲欧洲经济史（插图版） · 完整讲读</title>
+      <description>《厉以宁讲欧洲经济史》以中国学者的视角，梳理了从古希腊城邦到二十世纪初俄国农奴制改革的三千年欧洲经济变迁。本书的核心议题是制度与技术如何相互塑造：希腊城邦通过梭伦、克利斯提尼、伯里克利三次改革逐步确立民主与公民平等；中世纪西欧城市从封建缝隙中孕育出行会与集市资本主义；工业革命背后是私有产权、股份公司、银行体系与人力资本的制度协同；一九二九年大萧条迫使西方从自由市场转向混合市场经济；俄国则因专制体制与村社传统的路径依赖，错失了现代化良机。这本书告诉我们，制度变迁从来不是天才设计的产物，而是从旧制度的矛盾和缝隙中一点一点长出来的；技术进步必须与制度变革协同推进；改革的时机比设计更重要；路径依赖是阻挡转型最可怕的力量。</description>
+      <pubDate>Tue, 11 Aug 2026 08:05:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260811-episode-20260811-ccfcda</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《厉以宁讲欧洲经济史》以中国学者的视角，梳理了从古希腊城邦到二十世纪初俄国农奴制改革的三千年欧洲经济变迁。本书的核心议题是制度与技术如何相互塑造：希腊城邦通过梭伦、克利斯提尼、伯里克利三次改革逐步确立民主与公民平等；中世纪西欧城市从封建缝隙中孕育出行会与集市资本主义；工业革命背后是私有产权、股份公司、银行体系与人力资本的制度协同；一九二九年大萧条迫使西方从自由市场转向混合市场经济；俄国则因专制体制与村社传统的路径依赖，错失了现代化良机。这本书告诉我们，制度变迁从来不是天才设计的产物，而是从旧制度的矛盾和缝隙中一点一点长出来的；技术进步必须与制度变革协同推进；改革的时机比设计更重要；路径依赖是阻挡转型最可怕的力量。</itunes:summary>
+      <itunes:duration>00:36:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260811/episode-20260811-ccfcda.mp3" length="34805421" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
