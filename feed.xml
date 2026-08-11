@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 11 Aug 2026 07:36:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 07:52:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13670,6 +13670,17 @@
       <itunes:duration>00:26:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260811/episode-20260811-c0251e.mp3" length="25785261" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《地铁2034》 · 完整版 · 地铁2034 · 完整讲读</title>
+      <description>核战二十年后的莫斯科地铁，人类残存的几万人蜷缩在地下站中求生。塞瓦斯多波尔站因断联陷入危机，站长与守备指挥官因决策冲突几近决裂。女孩萨莎以音乐唤醒人们心中沉睡的怪物之善，猎人荷马则用纸笔记下文明的余烬，在希望与毁灭之间寻找救赎的方舟。</description>
+      <pubDate>Tue, 11 Aug 2026 07:52:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260811-episode-20260811-1e8b81</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>核战二十年后的莫斯科地铁，人类残存的几万人蜷缩在地下站中求生。塞瓦斯多波尔站因断联陷入危机，站长与守备指挥官因决策冲突几近决裂。女孩萨莎以音乐唤醒人们心中沉睡的怪物之善，猎人荷马则用纸笔记下文明的余烬，在希望与毁灭之间寻找救赎的方舟。</itunes:summary>
+      <itunes:duration>00:26:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260811/episode-20260811-1e8b81.mp3" length="25271469" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
