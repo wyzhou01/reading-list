@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 11 Aug 2026 08:28:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 07:39:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13714,6 +13714,17 @@
       <itunes:duration>00:30:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260811/episode-20260811-028abf.mp3" length="29503149" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《被背叛的遗嘱》 · 完整版 · 被背叛的遗嘱 · 完整讲读</title>
+      <description>《被背叛的遗嘱》是米兰·昆德拉于一九九三年用法文出版的文学评论集。全书以拉伯雷为起点，纵贯小说史与音乐史，捍卫一个朴素的命题：作者对自己作品的最终解释权属于作者本人。昆德拉以幽默的发明、小说的世俗化、古井的召唤、卡夫卡的公案、小说史的接力赛、游戏与规则的辩证等九篇随笔，逐一拆解了编辑、教授、传记作者、意识形态如何以“善“之名背叛艺术家。在布洛德违背卡夫卡遗愿出版其全部手稿这一核心公案之上，昆德拉提出了遗嘱权的概念——一个创作者对自己作品的最后发言，不应被活着的、动机良好的“好心人“以“崇高的不可替代的善“为名所篡改。全书最终收束于一个温柔的意象：一位弥留之际的老农请求儿子不要砍倒窗前的梨树，只要儿子还爱他，那棵梨树便会一直在那里。</description>
+      <pubDate>Wed, 12 Aug 2026 07:39:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260812-episode-20260812-dbb9c7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《被背叛的遗嘱》是米兰·昆德拉于一九九三年用法文出版的文学评论集。全书以拉伯雷为起点，纵贯小说史与音乐史，捍卫一个朴素的命题：作者对自己作品的最终解释权属于作者本人。昆德拉以幽默的发明、小说的世俗化、古井的召唤、卡夫卡的公案、小说史的接力赛、游戏与规则的辩证等九篇随笔，逐一拆解了编辑、教授、传记作者、意识形态如何以“善“之名背叛艺术家。在布洛德违背卡夫卡遗愿出版其全部手稿这一核心公案之上，昆德拉提出了遗嘱权的概念——一个创作者对自己作品的最后发言，不应被活着的、动机良好的“好心人“以“崇高的不可替代的善“为名所篡改。全书最终收束于一个温柔的意象：一位弥留之际的老农请求儿子不要砍倒窗前的梨树，只要儿子还爱他，那棵梨树便会一直在那里。</itunes:summary>
+      <itunes:duration>00:35:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260812/episode-20260812-dbb9c7.mp3" length="33855021" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
