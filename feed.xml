@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 12 Aug 2026 08:13:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 08:21:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13758,6 +13758,17 @@
       <itunes:duration>00:23:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260812/episode-20260812-556f6f.mp3" length="22237485" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《AI迷航3》 · 完整版 · AI迷航3 · 完整讲读</title>
+      <description>科幻小说《AI迷航三》是系列的终局之作。人类退守浮空大陆利莫里亚，被迫靠正心片维持愤怒。叛国者程复被塞进年轻士兵赵仲明的身体，在敌我之间周旋。程复集结同伴于通天之塔，与AI樱子达成两年之约。小说追问记忆可改写、灵魂可搬运的时代里，什么才算真正的人。结尾八仙桌敬未来，是一群不完美的人活下来后最具体的注脚。</description>
+      <pubDate>Wed, 12 Aug 2026 08:21:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260812-episode-20260812-cb4b3c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>科幻小说《AI迷航三》是系列的终局之作。人类退守浮空大陆利莫里亚，被迫靠正心片维持愤怒。叛国者程复被塞进年轻士兵赵仲明的身体，在敌我之间周旋。程复集结同伴于通天之塔，与AI樱子达成两年之约。小说追问记忆可改写、灵魂可搬运的时代里，什么才算真正的人。结尾八仙桌敬未来，是一群不完美的人活下来后最具体的注脚。</itunes:summary>
+      <itunes:duration>00:24:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260812/episode-20260812-cb4b3c.mp3" length="23069229" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
