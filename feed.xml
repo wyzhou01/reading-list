@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 12 Aug 2026 07:48:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 08:06:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13736,6 +13736,17 @@
       <itunes:duration>00:26:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260812/episode-20260812-bfeaae.mp3" length="25286829" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《血色黄昏》 · 完整版 · 血色黄昏 · 完整讲读</title>
+      <description>《血色黄昏》是老鬼以内蒙古锡林郭勒草原八年知青经历为背景的自传体小说，真实记录了那个特殊年代青年人的血泪与挣扎。书中以林胡的视角，讲述了从北京徒步到内蒙古的北京知青们，如何在极端自然环境与政治风暴中，经历血书、饥饿、告密、离散，以及无法言说的爱情与幻灭。这部作品历经十四家出版社退稿、耗时十二年才得以问世，以其\u201c切割般锋利地解剖自己灵魂的胆量\u201d，成为研究知青运动与文化大革命深层代价的重要文献。血色黄昏的意象，既是一个时代的隐喻，也是对理想主义与残酷现实碰撞的深沉追问。</description>
+      <pubDate>Wed, 12 Aug 2026 08:06:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260812-episode-20260812-8b11c6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《血色黄昏》是老鬼以内蒙古锡林郭勒草原八年知青经历为背景的自传体小说，真实记录了那个特殊年代青年人的血泪与挣扎。书中以林胡的视角，讲述了从北京徒步到内蒙古的北京知青们，如何在极端自然环境与政治风暴中，经历血书、饥饿、告密、离散，以及无法言说的爱情与幻灭。这部作品历经十四家出版社退稿、耗时十二年才得以问世，以其\u201c切割般锋利地解剖自己灵魂的胆量\u201d，成为研究知青运动与文化大革命深层代价的重要文献。血色黄昏的意象，既是一个时代的隐喻，也是对理想主义与残酷现实碰撞的深沉追问。</itunes:summary>
+      <itunes:duration>00:42:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260812/episode-20260812-8b11c6.mp3" length="40734381" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
