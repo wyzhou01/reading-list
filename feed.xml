@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 12 Aug 2026 07:39:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 07:48:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13725,6 +13725,17 @@
       <itunes:duration>00:35:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260812/episode-20260812-dbb9c7.mp3" length="33855021" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《生命清单》 · 完整版 · 生命清单 · 完整讲读</title>
+      <description>《生命清单》讲述了一位芝加哥女高管布雷特在母亲葬礼后，被一纸遗嘱和一本红色日记打碎了人生剧本的故事。她以为会继承家族企业，却只得到一份必须在三十五岁前完成的十件事清单——辞职、意外怀孕、从芝加哥到西雅图、相亲、为一只狗打官司。她一件一件完成，又一件一件跌倒，最终在清单的尽头，放弃了&quot;女儿应该接管公司&quot;的执念，也放弃了&quot;事业就是爱&quot;的紧身衣，把自己重新拼成了一个允许脆弱、允许迷路、也允许被爱的女人。故事最后，她在妈妈的老房子里开了一家妇女儿童避难所，让那张旧铁床，继续庇护下一个走投无路的人。</description>
+      <pubDate>Wed, 12 Aug 2026 07:48:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260812-episode-20260812-bfeaae</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《生命清单》讲述了一位芝加哥女高管布雷特在母亲葬礼后，被一纸遗嘱和一本红色日记打碎了人生剧本的故事。她以为会继承家族企业，却只得到一份必须在三十五岁前完成的十件事清单——辞职、意外怀孕、从芝加哥到西雅图、相亲、为一只狗打官司。她一件一件完成，又一件一件跌倒，最终在清单的尽头，放弃了&quot;女儿应该接管公司&quot;的执念，也放弃了&quot;事业就是爱&quot;的紧身衣，把自己重新拼成了一个允许脆弱、允许迷路、也允许被爱的女人。故事最后，她在妈妈的老房子里开了一家妇女儿童避难所，让那张旧铁床，继续庇护下一个走投无路的人。</itunes:summary>
+      <itunes:duration>00:26:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260812/episode-20260812-bfeaae.mp3" length="25286829" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
