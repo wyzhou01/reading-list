@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 13 Aug 2026 07:32:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 07:41:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13780,6 +13780,17 @@
       <itunes:duration>00:25:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260813/episode-20260813-f8874f.mp3" length="24581805" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《天涯双探：青衣奇盗》 · 完整版 · 天涯双探：青衣奇盗 · 完整讲读</title>
+      <description>《天涯双探：青衣奇盗》是近年古风悬疑里相当扎实的一部，把江湖奇案、少年成长、师徒传承三条线拧进同一个故事里。北宋元丰年间，朝廷派大理寺奇人易厢泉赴扬州庸城，破一桩预告要偷“犀骨筷”的怪案。他反其道而行，把真品扔进一万根赝品里，让贼在时间里出错。然而真正让他执着来此的，是十四件赃物中一枚师门传家扳指——七年前，恩师邵雍被冤枉弑妻，含恨而终，扳指凭空失踪。与此同时，庸城首富之子夏乾，一个被安排好一切的十八岁少年，借这场风波第一次看清自己不想走的人生。案子破了，贼未落网，少年翻墙出城，留下一封家书与一根孔雀毛。师徒的执念、冤屈的回响、与一个少年关于自由的觉醒，被作者埋在筷子、围巾、字条与围墙之间，是这本书最打动人的地方。</description>
+      <pubDate>Thu, 13 Aug 2026 07:41:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260813-episode-20260813-148aab</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《天涯双探：青衣奇盗》是近年古风悬疑里相当扎实的一部，把江湖奇案、少年成长、师徒传承三条线拧进同一个故事里。北宋元丰年间，朝廷派大理寺奇人易厢泉赴扬州庸城，破一桩预告要偷“犀骨筷”的怪案。他反其道而行，把真品扔进一万根赝品里，让贼在时间里出错。然而真正让他执着来此的，是十四件赃物中一枚师门传家扳指——七年前，恩师邵雍被冤枉弑妻，含恨而终，扳指凭空失踪。与此同时，庸城首富之子夏乾，一个被安排好一切的十八岁少年，借这场风波第一次看清自己不想走的人生。案子破了，贼未落网，少年翻墙出城，留下一封家书与一根孔雀毛。师徒的执念、冤屈的回响、与一个少年关于自由的觉醒，被作者埋在筷子、围巾、字条与围墙之间，是这本书最打动人的地方。</itunes:summary>
+      <itunes:duration>00:25:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260813/episode-20260813-148aab.mp3" length="24040365" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
