@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 12 Aug 2026 08:21:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 07:32:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13769,6 +13769,17 @@
       <itunes:duration>00:24:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260812/episode-20260812-cb4b3c.mp3" length="23069229" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《模仿犯（第二卷）》 · 完整版 · 模仿犯（第二卷） · 完整讲读</title>
+      <description>《模仿犯》第二卷以高井家的尋常早晨開始，以有馬義男在深夜大川公園的痛哭結束。宮部美雪用三個視角撕開真相的多層次：高井由美子在直覺與信念間掙扎，預示著家庭的崩塌；栗橋浩美精心編織的謊言，揭示惡意如何利用人性中的信任；而當電視上宣布「案件解決」，受害者祖父才被允許第一次放聲大哭。宮部美雪提問：當所有人都說事件結束了，那些失去至親的人憑什麼要接受「結束」這個詞？這不是一本讓你讀完覺得「案件終於破了」的書，這是一本讓你放下書、安靜坐很久的書。</description>
+      <pubDate>Thu, 13 Aug 2026 07:32:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260813-episode-20260813-f8874f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《模仿犯》第二卷以高井家的尋常早晨開始，以有馬義男在深夜大川公園的痛哭結束。宮部美雪用三個視角撕開真相的多層次：高井由美子在直覺與信念間掙扎，預示著家庭的崩塌；栗橋浩美精心編織的謊言，揭示惡意如何利用人性中的信任；而當電視上宣布「案件解決」，受害者祖父才被允許第一次放聲大哭。宮部美雪提問：當所有人都說事件結束了，那些失去至親的人憑什麼要接受「結束」這個詞？這不是一本讓你讀完覺得「案件終於破了」的書，這是一本讓你放下書、安靜坐很久的書。</itunes:summary>
+      <itunes:duration>00:25:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260813/episode-20260813-f8874f.mp3" length="24581805" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
