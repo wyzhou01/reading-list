@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 13 Aug 2026 07:51:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 08:02:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13802,6 +13802,17 @@
       <itunes:duration>00:34:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260813/episode-20260813-b8b89f.mp3" length="33279789" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《影绘》 · 完整版 · 影绘 · 完整讲读</title>
+      <description>《影绘》是日本作家渡边淳一的自传体长篇小说，记录主人公从五岁到十八岁的性意识觉醒历程。渡边淳一在二战废墟中成长，亲身体验了食欲与性欲作为人类第一本能的深刻内涵。本书以坦诚细腻的笔触，打破传统文学对性话题的回避，揭示性欲与食欲一样是生命繁衍生息的根基，具有开创性意义。</description>
+      <pubDate>Thu, 13 Aug 2026 08:02:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260813-episode-20260813-b8758a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《影绘》是日本作家渡边淳一的自传体长篇小说，记录主人公从五岁到十八岁的性意识觉醒历程。渡边淳一在二战废墟中成长，亲身体验了食欲与性欲作为人类第一本能的深刻内涵。本书以坦诚细腻的笔触，打破传统文学对性话题的回避，揭示性欲与食欲一样是生命繁衍生息的根基，具有开创性意义。</itunes:summary>
+      <itunes:duration>00:20:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260813/episode-20260813-b8758a.mp3" length="19394349" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
