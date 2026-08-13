@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 13 Aug 2026 07:41:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 07:51:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13791,6 +13791,17 @@
       <itunes:duration>00:25:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260813/episode-20260813-148aab.mp3" length="24040365" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《打工女孩》 · 完整版 · 打工女孩 · 完整讲读</title>
+      <description>《打工女孩》是美籍华裔记者张彤禾的非虚构经典。她在 2003 到 2005 年深入东莞，跟打工女孩吕清敏和春明同吃同住两年，记录下她们从湖北农村到广东工厂的跳槽轨迹、学英语办公司的挣扎、相亲被骗的眼泪、春节返乡的撕裂。书中提出&quot;流水线英语&quot;等锋利隐喻，写出了一亿五千万农民工在中国速度背后那种沉默而倔强的自我重塑。十多年过去，这本书依然是理解中国城市化进程与个体命运不可绕开的文本。</description>
+      <pubDate>Thu, 13 Aug 2026 07:51:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260813-episode-20260813-b8b89f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《打工女孩》是美籍华裔记者张彤禾的非虚构经典。她在 2003 到 2005 年深入东莞，跟打工女孩吕清敏和春明同吃同住两年，记录下她们从湖北农村到广东工厂的跳槽轨迹、学英语办公司的挣扎、相亲被骗的眼泪、春节返乡的撕裂。书中提出&quot;流水线英语&quot;等锋利隐喻，写出了一亿五千万农民工在中国速度背后那种沉默而倔强的自我重塑。十多年过去，这本书依然是理解中国城市化进程与个体命运不可绕开的文本。</itunes:summary>
+      <itunes:duration>00:34:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260813/episode-20260813-b8b89f.mp3" length="33279789" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
