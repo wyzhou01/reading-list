@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 13 Aug 2026 08:09:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 07:33:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13824,6 +13824,17 @@
       <itunes:duration>00:25:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260813/episode-20260813-d18fc9.mp3" length="24642477" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《两年水手生涯》 · 完整版 · 哈佛百年经典(第15卷) · 完整讲读</title>
+      <description>《两年水手生涯》是哈佛学生理查德·亨利·达纳在一八三四年到一八三六年间以普通水手身份登上商船的真实记录。这位二十一岁的年轻人因眼疾休学，登船从波士顿绕行合恩角抵达加利福尼亚，在皮鞭、晕船、风暴和沉默中度过两年。书中揭露了十九世纪商船的等级秩序、对水手的鞭打规训、用工制度的残酷，以及金矿发现之前加利福尼亚的原貌。这本被英国航海作家誉为“有史以来最伟大的航海图册“的作品，后来因其作者成为海事法律师并参与“亚拉巴马索赔案“，意外地走进了国际法的最高殿堂。它讲的从来不只是航海，而是每一个被秩序压住、却从未放弃发声的人的故事。</description>
+      <pubDate>Fri, 14 Aug 2026 07:33:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260814-episode-20260814-20eee9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《两年水手生涯》是哈佛学生理查德·亨利·达纳在一八三四年到一八三六年间以普通水手身份登上商船的真实记录。这位二十一岁的年轻人因眼疾休学，登船从波士顿绕行合恩角抵达加利福尼亚，在皮鞭、晕船、风暴和沉默中度过两年。书中揭露了十九世纪商船的等级秩序、对水手的鞭打规训、用工制度的残酷，以及金矿发现之前加利福尼亚的原貌。这本被英国航海作家誉为“有史以来最伟大的航海图册“的作品，后来因其作者成为海事法律师并参与“亚拉巴马索赔案“，意外地走进了国际法的最高殿堂。它讲的从来不只是航海，而是每一个被秩序压住、却从未放弃发声的人的故事。</itunes:summary>
+      <itunes:duration>00:29:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260814/episode-20260814-20eee9.mp3" length="28409901" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
