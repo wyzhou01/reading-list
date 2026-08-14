@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 14 Aug 2026 07:53:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 08:06:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13868,6 +13868,17 @@
       <itunes:duration>00:26:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260814/episode-20260814-81c433.mp3" length="25862445" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《金融帝国：美国金融霸权的来源和基础》 · 完整版 · 金融帝国_美国金融霸权的来源和基础_-_迈克尔·赫德森 · 完整讲读</title>
+      <description>本书是迈克尔·赫德森一九七二年首版、二零零三年修订的《超级帝国主义》中译本, 核心揭示美元霸权的运作机制与四大支柱。赫德森提出一个石破天惊的观点, 美国的国际收支赤字, 不是弱势, 而是新型帝国主义的权力工具。美元与黄金脱钩后, 美国成为全球唯一一个可以不受约束地发行货币、向外输出赤字、并迫使各国央行用美元储备回流购买美国国债的国家。本书系统拆解了美帝国金融霸权的四大支柱:以军事科技为基础的国家主义、货币帝国主义、资源帝国主义、以及粮食帝国主义, 并剖析与之配套的金融化与私有化战略, 解释了世界五大区域为何最终都仍以美元为中心。赫德森进一步分析了俄罗斯九十年代的私有化灾难, 并为普京政府提出系统政策建议, 包括建立卢布租金、剥离国内货币需求与外汇储备、推动工业导向的金融体制等。对于今天的中国与所有发展中国家, 这本书都是理解美元霸权、识别主流经济学叙事陷阱、维护货币主权与粮食安全的必读之作。</description>
+      <pubDate>Fri, 14 Aug 2026 08:06:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260814-episode-20260814-fb2026</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是迈克尔·赫德森一九七二年首版、二零零三年修订的《超级帝国主义》中译本, 核心揭示美元霸权的运作机制与四大支柱。赫德森提出一个石破天惊的观点, 美国的国际收支赤字, 不是弱势, 而是新型帝国主义的权力工具。美元与黄金脱钩后, 美国成为全球唯一一个可以不受约束地发行货币、向外输出赤字、并迫使各国央行用美元储备回流购买美国国债的国家。本书系统拆解了美帝国金融霸权的四大支柱:以军事科技为基础的国家主义、货币帝国主义、资源帝国主义、以及粮食帝国主义, 并剖析与之配套的金融化与私有化战略, 解释了世界五大区域为何最终都仍以美元为中心。赫德森进一步分析了俄罗斯九十年代的私有化灾难, 并为普京政府提出系统政策建议, 包括建立卢布租金、剥离国内货币需求与外汇储备、推动工业导向的金融体制等。对于今天的中国与所有发展中国家, 这本书都是理解美元霸权、识别主流经济学叙事陷阱、维护货币主权与粮食安全的必读之作。</itunes:summary>
+      <itunes:duration>00:42:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260814/episode-20260814-fb2026.mp3" length="41134509" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
