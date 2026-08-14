@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 14 Aug 2026 07:47:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 07:53:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13857,6 +13857,17 @@
       <itunes:duration>00:21:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260814/episode-20260814-ca8392.mp3" length="20926125" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《尤尔小屋的猫》 · 完整版 · 尤尔小屋的猫 · 完整讲读</title>
+      <description>《尤尔小屋的猫》是英国作家莉莉·海沃德的长篇治愈系小说，讲述伦敦女作家杰西在冲动之下，独自租下康沃尔山谷深处一座荒废百年的石屋恩斯尤尔，在没有电、没有信号的孤绝中，与一只名为佩兰的十九岁黑猫建立起跨越语言的羁绊，并逐渐揭开这片土地与托马西娜家族五百年秘密的温柔故事。这是一首关于逃离与疗愈、人与土地和动物的羁绊、秘密与传承的冬日之歌。</description>
+      <pubDate>Fri, 14 Aug 2026 07:53:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260814-episode-20260814-81c433</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《尤尔小屋的猫》是英国作家莉莉·海沃德的长篇治愈系小说，讲述伦敦女作家杰西在冲动之下，独自租下康沃尔山谷深处一座荒废百年的石屋恩斯尤尔，在没有电、没有信号的孤绝中，与一只名为佩兰的十九岁黑猫建立起跨越语言的羁绊，并逐渐揭开这片土地与托马西娜家族五百年秘密的温柔故事。这是一首关于逃离与疗愈、人与土地和动物的羁绊、秘密与传承的冬日之歌。</itunes:summary>
+      <itunes:duration>00:26:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260814/episode-20260814-81c433.mp3" length="25862445" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
