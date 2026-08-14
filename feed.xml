@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 14 Aug 2026 07:33:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 07:40:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13835,6 +13835,17 @@
       <itunes:duration>00:29:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260814/episode-20260814-20eee9.mp3" length="28409901" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《巫士唐望的教诲》 · 完整版 · 巫士唐望的教诲 · 完整讲读</title>
+      <description>《巫士唐望的教诲》记录了一九六零年代人类学研究生卡斯塔尼达跟随亚基族老巫士唐望学习古代墨西哥巫术的完整历程。全书分两部分：第一部分以笔记形式呈现他服用知觉转变性植物、与唐望对话、进入非寻常现实的经过；第二部分是他的人类学分析。书的核心在于揭示“认知系统“的可塑性——我们的世界只是众多可能世界中的一种，巫士通过“看见“直接知觉流动的生命能量，并通过意愿移动“聚合点“进入其他现实。本书既是认知系统的革命，也是关于放弃的书，提出一个从未过时的追问：我们习以为常的世界，真的是唯一的世界吗？</description>
+      <pubDate>Fri, 14 Aug 2026 07:40:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260814-episode-20260814-e14654</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《巫士唐望的教诲》记录了一九六零年代人类学研究生卡斯塔尼达跟随亚基族老巫士唐望学习古代墨西哥巫术的完整历程。全书分两部分：第一部分以笔记形式呈现他服用知觉转变性植物、与唐望对话、进入非寻常现实的经过；第二部分是他的人类学分析。书的核心在于揭示“认知系统“的可塑性——我们的世界只是众多可能世界中的一种，巫士通过“看见“直接知觉流动的生命能量，并通过意愿移动“聚合点“进入其他现实。本书既是认知系统的革命，也是关于放弃的书，提出一个从未过时的追问：我们习以为常的世界，真的是唯一的世界吗？</itunes:summary>
+      <itunes:duration>00:28:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260814/episode-20260814-e14654.mp3" length="27545517" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
