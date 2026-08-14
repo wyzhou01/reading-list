@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 14 Aug 2026 07:40:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 07:47:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13846,6 +13846,17 @@
       <itunes:duration>00:28:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260814/episode-20260814-e14654.mp3" length="27545517" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《第二十二条军规（纪念版）》 · 完整版 · 第二十二条军规（纪念版） · 完整讲读</title>
+      <description>《第二十二条军规》是约瑟夫·海勒写于1961年的反英雄小说，以二战美军飞行大队为舞台，借一条永远自洽的军规，撕开官僚、商业与战争共同编织的荒诞困局。主角约塞连只想活着回家，却发现无论逃向哪里，制度的逻辑都先一步把他封死。海勒用黑色幽默、循环句式和一群“合理得可怕”的人物，把卡夫卡式噩梦变成了英语词典里人人可用的词条。本书与《一九八四》《美丽新世界》并称三大反乌托邦经典，但不写未来，只写历史。它不提供答案，只提供一种看清荒诞的勇气。</description>
+      <pubDate>Fri, 14 Aug 2026 07:47:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260814-episode-20260814-ca8392</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《第二十二条军规》是约瑟夫·海勒写于1961年的反英雄小说，以二战美军飞行大队为舞台，借一条永远自洽的军规，撕开官僚、商业与战争共同编织的荒诞困局。主角约塞连只想活着回家，却发现无论逃向哪里，制度的逻辑都先一步把他封死。海勒用黑色幽默、循环句式和一群“合理得可怕”的人物，把卡夫卡式噩梦变成了英语词典里人人可用的词条。本书与《一九八四》《美丽新世界》并称三大反乌托邦经典，但不写未来，只写历史。它不提供答案，只提供一种看清荒诞的勇气。</itunes:summary>
+      <itunes:duration>00:21:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260814/episode-20260814-ca8392.mp3" length="20926125" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
