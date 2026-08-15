@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 15 Aug 2026 07:55:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 08:03:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13912,6 +13912,17 @@
       <itunes:duration>00:25:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260815/episode-20260815-65d99b.mp3" length="24382125" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《因为女人》 · 完整版 · 因为女人 · 完整讲读</title>
+      <description>《因为女人》是学者型作家阎真沉寂六年写给当代知识女性的一封长信。主角柳依依是大学外语系毕业的漂亮女人，离婚后带着女儿在情感与欲望的漩涡中挣扎，遇见归国华侨、台湾商人、网络情人，一次次投入又一次次被背叛；同窗好友苗小慧用青春换物质，结局同样惨淡。作者以冷峻笔触追问：当年轻和美貌被当作唯一资本，谁，能逃过时间？这本书与《沧浪之水》《曾在天涯》并称困境三部曲，出版后争议巨大，阎真以&quot;直面真相是非常残酷的，可是不直面，真相仍然是真相&quot;作答——它是一面照见每个普通人在欲望化时代处境的镜子，值得在今天，被重新读完一遍。</description>
+      <pubDate>Sat, 15 Aug 2026 08:03:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260815-episode-20260815-f6a8bb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《因为女人》是学者型作家阎真沉寂六年写给当代知识女性的一封长信。主角柳依依是大学外语系毕业的漂亮女人，离婚后带着女儿在情感与欲望的漩涡中挣扎，遇见归国华侨、台湾商人、网络情人，一次次投入又一次次被背叛；同窗好友苗小慧用青春换物质，结局同样惨淡。作者以冷峻笔触追问：当年轻和美貌被当作唯一资本，谁，能逃过时间？这本书与《沧浪之水》《曾在天涯》并称困境三部曲，出版后争议巨大，阎真以&quot;直面真相是非常残酷的，可是不直面，真相仍然是真相&quot;作答——它是一面照见每个普通人在欲望化时代处境的镜子，值得在今天，被重新读完一遍。</itunes:summary>
+      <itunes:duration>00:31:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260815/episode-20260815-f6a8bb.mp3" length="30447405" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
