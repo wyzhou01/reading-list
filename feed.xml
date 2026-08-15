@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 15 Aug 2026 08:03:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 08:11:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13923,6 +13923,17 @@
       <itunes:duration>00:31:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260815/episode-20260815-f6a8bb.mp3" length="30447405" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《遮蔽的天空》 · 完整版 · 遮蔽的天空 · 完整讲读</title>
+      <description>《遮蔽的天空》是美国作家保罗·鲍尔斯写于一九四九年的小说，讲述波特与姬特这对旅美夫妇在物质丰裕、精神荒芜的二战后年代，前往北非撒哈拉寻找意义却走向崩溃的故事。波特染上致命热病孤独死去，姬特在丈夫垂危时选择离开，沦为阿拉伯商人贝尔卡西姆的小妾，最终丧失全部身份与记忆。鲍尔斯以冷静到近乎残忍的笔触，揭示了现代人主动放弃自由意志、渴望被主宰的精神危机。</description>
+      <pubDate>Sat, 15 Aug 2026 08:11:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260815-episode-20260815-a60515</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《遮蔽的天空》是美国作家保罗·鲍尔斯写于一九四九年的小说，讲述波特与姬特这对旅美夫妇在物质丰裕、精神荒芜的二战后年代，前往北非撒哈拉寻找意义却走向崩溃的故事。波特染上致命热病孤独死去，姬特在丈夫垂危时选择离开，沦为阿拉伯商人贝尔卡西姆的小妾，最终丧失全部身份与记忆。鲍尔斯以冷静到近乎残忍的笔触，揭示了现代人主动放弃自由意志、渴望被主宰的精神危机。</itunes:summary>
+      <itunes:duration>00:30:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260815/episode-20260815-a60515.mp3" length="28942509" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
