@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 14 Aug 2026 08:06:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 07:37:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13879,6 +13879,17 @@
       <itunes:duration>00:42:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260814/episode-20260814-fb2026.mp3" length="41134509" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《胡适讲国学_(大师讲国学文库)》 · 完整版 · 胡适讲国学_(大师讲国学文库) · 完整讲读</title>
+      <description>本书以胡适的实证主义视角，系统梳理儒、道、佛、墨、文学、史学、哲学与教育七大领域，阐释‘大胆假设，小心求证’的科学精神，提出‘整理国故，再造文明’的宏伟目标，揭示如何在批判中继承传统、在创新中保持文化自信，为当代中国文化的理性继承与创新提供宝贵指南。胡适通过‘大胆假设，小心求证’的实践，展示了理性思辨在文化复兴中的核心作用，为当代学者提供了可操作的研究范式。本书不仅适合学术研究者，也值得普通读者借鉴思考。</description>
+      <pubDate>Sat, 15 Aug 2026 07:36:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260815-episode-20260815-8205ef</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书以胡适的实证主义视角，系统梳理儒、道、佛、墨、文学、史学、哲学与教育七大领域，阐释‘大胆假设，小心求证’的科学精神，提出‘整理国故，再造文明’的宏伟目标，揭示如何在批判中继承传统、在创新中保持文化自信，为当代中国文化的理性继承与创新提供宝贵指南。胡适通过‘大胆假设，小心求证’的实践，展示了理性思辨在文化复兴中的核心作用，为当代学者提供了可操作的研究范式。本书不仅适合学术研究者，也值得普通读者借鉴思考。</itunes:summary>
+      <itunes:duration>00:13:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260815/episode-20260815-8205ef.mp3" length="13328685" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
