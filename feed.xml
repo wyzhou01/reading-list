@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 15 Aug 2026 07:37:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 07:48:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -13890,6 +13890,17 @@
       <itunes:duration>00:13:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260815/episode-20260815-8205ef.mp3" length="13328685" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《小宣言：那些改变世界大趋势的小力量》 · 完整版 · 小宣言 · 完整讲读</title>
+      <description>《小宣言》是一本反思&quot;我们如何思考未来&quot;的书。瑞典未来学家林奎斯特批判了当代社会对&quot;大创见&quot;的崇拜，提出一个核心问题：当我们把所有注意力都放在拯救世界的宏大叙事上时，那些真正改变世界的&quot;小力量&quot;是不是被丢掉了？通过收集厨房实验、实验室意外、跨界碰撞等无数真实案例，他提出：小想法、偶然性和失败才是推动真正创新的力量；天才不是孤岛，而是群体生态的产物；在不确定与无知中拥抱未知，才是创造力的终极姿态。这是一本写给所有厌倦了宏大叙事、想要重新理解创造力的人的反思之作。</description>
+      <pubDate>Sat, 15 Aug 2026 07:48:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260815-episode-20260815-4b858c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《小宣言》是一本反思&quot;我们如何思考未来&quot;的书。瑞典未来学家林奎斯特批判了当代社会对&quot;大创见&quot;的崇拜，提出一个核心问题：当我们把所有注意力都放在拯救世界的宏大叙事上时，那些真正改变世界的&quot;小力量&quot;是不是被丢掉了？通过收集厨房实验、实验室意外、跨界碰撞等无数真实案例，他提出：小想法、偶然性和失败才是推动真正创新的力量；天才不是孤岛，而是群体生态的产物；在不确定与无知中拥抱未知，才是创造力的终极姿态。这是一本写给所有厌倦了宏大叙事、想要重新理解创造力的人的反思之作。</itunes:summary>
+      <itunes:duration>00:40:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260815/episode-20260815-4b858c.mp3" length="39152685" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
