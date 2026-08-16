@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 16 Aug 2026 07:53:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 07:59:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14044,6 +14044,17 @@
       <itunes:duration>00:24:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260816/episode-20260816-713b78.mp3" length="23481645" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《如何让孩子成年又成人》 · 完整版 · 如何让孩子成年又成人 · 完整讲读</title>
+      <description>《如何让孩子成年又成人》是斯坦福前新生教务长朱莉·利思科特-海姆斯的代表作。作者结合十年教务长经验与上百位家长、年轻人的访谈，剖析了过度养育的形成、成因与危害，并给出了具体的养育建议。书中提出，过度养育让孩子失去自我效能感，虽成就辉煌却难以独立。本书是过去十年关于&quot;过度养育&quot;话题最重要的普及读物之一，对当下中国中产家庭的养育方式，具有极强的借鉴意义。</description>
+      <pubDate>Sun, 16 Aug 2026 07:59:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260816-episode-20260816-2e12bb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《如何让孩子成年又成人》是斯坦福前新生教务长朱莉·利思科特-海姆斯的代表作。作者结合十年教务长经验与上百位家长、年轻人的访谈，剖析了过度养育的形成、成因与危害，并给出了具体的养育建议。书中提出，过度养育让孩子失去自我效能感，虽成就辉煌却难以独立。本书是过去十年关于&quot;过度养育&quot;话题最重要的普及读物之一，对当下中国中产家庭的养育方式，具有极强的借鉴意义。</itunes:summary>
+      <itunes:duration>00:22:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260816/episode-20260816-2e12bb.mp3" length="21515181" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
