@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 16 Aug 2026 07:46:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 07:53:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14033,6 +14033,17 @@
       <itunes:duration>00:30:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260816/episode-20260816-6c7286.mp3" length="29317293" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《被告》 · 完整版 · 被告_-_约翰·埃尔斯沃思（John_Ellsworth） · 完整讲读</title>
+      <description>《被告》是约翰·埃尔斯沃思创作的一部美国法律悬疑小说，故事发生在伊利诺伊州小镇奥尔比特。年轻律师萨帝厄斯·墨菲接下巴士招待艾米琳被富商维克多·哈罗在身上刺字的案件，由此撬出高速公路贪腐、州长回扣与芝加哥黑帮洗钱的整张官商勾结网络。在证人接连被施压、现场被焚毁、自己深夜遭黑帮刺客破门的极端处境下，他凭借严谨的证据链、流程化的取证方式和绝不妥协的良心，把州长、总检察官和黑帮头目相继送上法庭，最终为艾米琳讨回公道，也为自己赢得一夜安稳的睡眠。这是一曲献给普通人纪律与勇气的赞歌。</description>
+      <pubDate>Sun, 16 Aug 2026 07:53:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260816-episode-20260816-713b78</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《被告》是约翰·埃尔斯沃思创作的一部美国法律悬疑小说，故事发生在伊利诺伊州小镇奥尔比特。年轻律师萨帝厄斯·墨菲接下巴士招待艾米琳被富商维克多·哈罗在身上刺字的案件，由此撬出高速公路贪腐、州长回扣与芝加哥黑帮洗钱的整张官商勾结网络。在证人接连被施压、现场被焚毁、自己深夜遭黑帮刺客破门的极端处境下，他凭借严谨的证据链、流程化的取证方式和绝不妥协的良心，把州长、总检察官和黑帮头目相继送上法庭，最终为艾米琳讨回公道，也为自己赢得一夜安稳的睡眠。这是一曲献给普通人纪律与勇气的赞歌。</itunes:summary>
+      <itunes:duration>00:24:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260816/episode-20260816-713b78.mp3" length="23481645" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
