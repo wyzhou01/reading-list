@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 16 Aug 2026 07:29:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 07:39:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14011,6 +14011,17 @@
       <itunes:duration>00:26:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260816/episode-20260816-395a95.mp3" length="25228461" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《衣橱里的女孩》 · 完整版 · 衣橱里的女孩 · 完整讲读</title>
+      <description>《衣橱里的女孩》是法国女性弗朗丝·盖兰的半自传体回忆录。她六岁被生父从养父母家中带走，遭继母虐待长达十年，又被祖父性侵。但她没有停在黑暗里，而是把童年卢梭妈妈给她的爱，化作成年后自己给予儿女的爱：她抚养三个亲生女儿，又主动收养两个残疾男孩，六十岁生日时被五十多个亲友称为&apos;模范妈妈&apos;。本书讲的不是一个受害者的故事，而是一个&apos;如何不再把伤往下传&apos;的故事。</description>
+      <pubDate>Sun, 16 Aug 2026 07:39:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260816-episode-20260816-740d92</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《衣橱里的女孩》是法国女性弗朗丝·盖兰的半自传体回忆录。她六岁被生父从养父母家中带走，遭继母虐待长达十年，又被祖父性侵。但她没有停在黑暗里，而是把童年卢梭妈妈给她的爱，化作成年后自己给予儿女的爱：她抚养三个亲生女儿，又主动收养两个残疾男孩，六十岁生日时被五十多个亲友称为&apos;模范妈妈&apos;。本书讲的不是一个受害者的故事，而是一个&apos;如何不再把伤往下传&apos;的故事。</itunes:summary>
+      <itunes:duration>00:29:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260816/episode-20260816-740d92.mp3" length="28242477" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
