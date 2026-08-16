@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 16 Aug 2026 07:39:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 07:46:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14022,6 +14022,17 @@
       <itunes:duration>00:29:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260816/episode-20260816-740d92.mp3" length="28242477" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《虚拟偶像爱朵露》 · 完整版 · 虚拟偶像爱朵露 · 完整讲读</title>
+      <description>《虚拟偶像爱朵露》是赛博朋克宗师威廉·吉布森一九九六年写下的预言。摇滚明星雷兹宣布迎娶虚拟偶像爱朵露，全球舆论海啸；前记者莱尼受雇前往东京，误入神秘的数据黑市；十四岁加州女孩琪雅孤身赴日寻找失踪的偶像，最终闯入九龙城寨般的地下城邦。吉布森在后地震时代的东京里，埋下六个核心追问：名望如何被通胀、造神如何被流水线化、信仰如何被肉身化、纳米技术如何把城市重组成迷宫、数据如何取代主权成为新型权力、孩子如何在一切皆可伪造的世界里保留最后一块肉身证据。这不是一本关于未来的小说，这是一本关于此刻你的小说。</description>
+      <pubDate>Sun, 16 Aug 2026 07:46:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260816-episode-20260816-6c7286</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《虚拟偶像爱朵露》是赛博朋克宗师威廉·吉布森一九九六年写下的预言。摇滚明星雷兹宣布迎娶虚拟偶像爱朵露，全球舆论海啸；前记者莱尼受雇前往东京，误入神秘的数据黑市；十四岁加州女孩琪雅孤身赴日寻找失踪的偶像，最终闯入九龙城寨般的地下城邦。吉布森在后地震时代的东京里，埋下六个核心追问：名望如何被通胀、造神如何被流水线化、信仰如何被肉身化、纳米技术如何把城市重组成迷宫、数据如何取代主权成为新型权力、孩子如何在一切皆可伪造的世界里保留最后一块肉身证据。这不是一本关于未来的小说，这是一本关于此刻你的小说。</itunes:summary>
+      <itunes:duration>00:30:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260816/episode-20260816-6c7286.mp3" length="29317293" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
