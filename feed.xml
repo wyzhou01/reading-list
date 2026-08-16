@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 15 Aug 2026 08:11:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 07:29:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20,7 +20,7 @@
       <itunes:category text="Books"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/reading-list/cover.jpg"/>
-        <item>
+    <item>
       <title>台北人 · 完整讲读</title>
       <description>《台北人》是白先勇的十四篇短篇合集，写一九四九年撤退到台湾的大陆人——将军、贵妇、舞女、男工、教授——在台北的暮年生活。表面是日常宴席与麻将，底下是三重撕扯：今昔之比——青春与衰朽的战争；灵肉之争——精神记忆与肉身现实的对峙；生死之谜——佛家的空、道家的轮回、宿命论的命，叠成一个大问号。本期跟着欧阳子的评论，从这三重主题切入，看一群无根的人如何抓住记忆对抗时间，看白先勇如何用一套揉合中西的克制笔法，写出二十世纪华语短篇小说的高峰。</description>
       <pubDate>Wed, 15 Jul 2026 21:43:33 +0000</pubDate>
@@ -14000,6 +14000,17 @@
       <itunes:duration>00:30:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260815/episode-20260815-a60515.mp3" length="28942509" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大家小书：读史有学问》 · 完整版 · 大家小书：读史有学问 · 完整讲读</title>
+      <description>《大家小书：读史有学问》是河南大学王立群教授为中学生撰写的《史记》精读小书，五十篇千字短文，从项羽、刘邦、司马迁、卜式、季札等人物的命运出发，把“霸王别姬”“乐极生悲”“吮痈舐痔”“不名一钱”等成语的典故还原到历史现场，以小见大、借古鉴今，串联文史知识与人生智慧，是一座通往这部煌煌巨著的桥。</description>
+      <pubDate>Sun, 16 Aug 2026 07:29:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260816-episode-20260816-395a95</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大家小书：读史有学问》是河南大学王立群教授为中学生撰写的《史记》精读小书，五十篇千字短文，从项羽、刘邦、司马迁、卜式、季札等人物的命运出发，把“霸王别姬”“乐极生悲”“吮痈舐痔”“不名一钱”等成语的典故还原到历史现场，以小见大、借古鉴今，串联文史知识与人生智慧，是一座通往这部煌煌巨著的桥。</itunes:summary>
+      <itunes:duration>00:26:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260816/episode-20260816-395a95.mp3" length="25228461" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
