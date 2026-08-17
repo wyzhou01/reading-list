@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 17 Aug 2026 07:36:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 07:45:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14066,6 +14066,17 @@
       <itunes:duration>00:34:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260817/episode-20260817-15a270.mp3" length="32985261" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《终结贫穷之路：中国和印度发展战略比较》 · 完整版 · 终结贫穷之路：中国和印度发展战略比较 · 完整讲读</title>
+      <description>《终结贫穷之路：中国和印度发展战略比较》用三十年数据对比中印两国发展路径，提出反外援、反赶超的核心观点：穷国脱贫的真正出路不是资本密集型产业的政府主导，也不是外部援助的慈善转移，而是充分发挥比较优势、承接劳动密集型产业转移、在真实生产中积累人力资本。书中用六组对照——产业选择、产业转移、人力资本、外援神话、经济周期、贫富差距——证明：让老百姓有活可干，按比较优势来，市场自己会生长出摆脱贫困的力量。这是一份冷静的反方报告，提醒每一个关心穷国命运的人：脱贫没有捷径，路径错了，外援再多也是空转。</description>
+      <pubDate>Mon, 17 Aug 2026 07:45:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260817-episode-20260817-91ab6a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《终结贫穷之路：中国和印度发展战略比较》用三十年数据对比中印两国发展路径，提出反外援、反赶超的核心观点：穷国脱贫的真正出路不是资本密集型产业的政府主导，也不是外部援助的慈善转移，而是充分发挥比较优势、承接劳动密集型产业转移、在真实生产中积累人力资本。书中用六组对照——产业选择、产业转移、人力资本、外援神话、经济周期、贫富差距——证明：让老百姓有活可干，按比较优势来，市场自己会生长出摆脱贫困的力量。这是一份冷静的反方报告，提醒每一个关心穷国命运的人：脱贫没有捷径，路径错了，外援再多也是空转。</itunes:summary>
+      <itunes:duration>00:29:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260817/episode-20260817-91ab6a.mp3" length="28514733" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
