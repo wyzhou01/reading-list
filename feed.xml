@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 16 Aug 2026 07:59:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 07:36:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14055,6 +14055,17 @@
       <itunes:duration>00:22:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260816/episode-20260816-2e12bb.mp3" length="21515181" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《宛如阿修罗》 · 完整版 · 宛如阿修罗 · 完整讲读</title>
+      <description>《宛如阿修罗》是日本国民作家向田邦子最广为人知的代表作，写东京竹泽家四姐妹在父亲外遇曝光后，仍然围坐在同一张饭桌上，互相撒谎、互相护着、互相偷窃、互相挥空拳的故事。大姐纲子在居酒屋后厨偷插花，二姐卷子在超市偷罐头，三妹泷子雇侦探调查父亲，小妹咲子的男友躺在医院里生死未卜。一群笨手笨脚的女人，在生活的缝隙里偷一点什么来救自己——偷的不是罪，是被看见的瞬间，是活下去的余地。向田邦子借这本书告诉读者：饭桌还在，饭桌上的人还在，她们偷东西、挥空拳、护着别人，最后还不忘给自己插一束花——这就是每一个家，这就是你我今天正在过的生活。</description>
+      <pubDate>Mon, 17 Aug 2026 07:36:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260817-episode-20260817-15a270</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《宛如阿修罗》是日本国民作家向田邦子最广为人知的代表作，写东京竹泽家四姐妹在父亲外遇曝光后，仍然围坐在同一张饭桌上，互相撒谎、互相护着、互相偷窃、互相挥空拳的故事。大姐纲子在居酒屋后厨偷插花，二姐卷子在超市偷罐头，三妹泷子雇侦探调查父亲，小妹咲子的男友躺在医院里生死未卜。一群笨手笨脚的女人，在生活的缝隙里偷一点什么来救自己——偷的不是罪，是被看见的瞬间，是活下去的余地。向田邦子借这本书告诉读者：饭桌还在，饭桌上的人还在，她们偷东西、挥空拳、护着别人，最后还不忘给自己插一束花——这就是每一个家，这就是你我今天正在过的生活。</itunes:summary>
+      <itunes:duration>00:34:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260817/episode-20260817-15a270.mp3" length="32985261" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
