@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 17 Aug 2026 07:45:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 08:05:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14077,6 +14077,17 @@
       <itunes:duration>00:29:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260817/episode-20260817-91ab6a.mp3" length="28514733" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《徐霞客游记》 · 完整版 · 徐霞客游记（全四册精）(中华经典名著全本全注全译丛书) · 完整讲读</title>
+      <description>《徐霞客游记》是明代杰出旅行家徐霞客三十四年间踏遍十九省留下的六十三万字实地考察巨著,被誉为千古奇书。本书既是科学严谨的古代地理考察实录——三百年前准确勘测的七星岩十五个洞口至今与航测图基本吻合;又是文采斐然的山水文学——笔下的黄山、雁荡山、桂林山水至今仍是最美的中文;更是明代社会最真实的实录——从大理三月街到湘江遇盗,从土司糜烂到边境安宁,无所不包。今天读它,看的不仅是奇山异水,更是一位布衣如何用一生诠释何为真、何为勇、何为自由。</description>
+      <pubDate>Mon, 17 Aug 2026 08:05:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260817-episode-20260817-31243a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《徐霞客游记》是明代杰出旅行家徐霞客三十四年间踏遍十九省留下的六十三万字实地考察巨著,被誉为千古奇书。本书既是科学严谨的古代地理考察实录——三百年前准确勘测的七星岩十五个洞口至今与航测图基本吻合;又是文采斐然的山水文学——笔下的黄山、雁荡山、桂林山水至今仍是最美的中文;更是明代社会最真实的实录——从大理三月街到湘江遇盗,从土司糜烂到边境安宁,无所不包。今天读它,看的不仅是奇山异水,更是一位布衣如何用一生诠释何为真、何为勇、何为自由。</itunes:summary>
+      <itunes:duration>00:29:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260817/episode-20260817-31243a.mp3" length="28460973" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
