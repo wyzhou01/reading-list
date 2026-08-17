@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 17 Aug 2026 08:05:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 08:15:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14088,6 +14088,17 @@
       <itunes:duration>00:29:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260817/episode-20260817-31243a.mp3" length="28460973" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《历史的技艺：塔奇曼论历史》 · 完整版 · 历史的技艺：塔奇曼论历史 · 完整讲读</title>
+      <description>《历史的技艺：塔奇曼论历史》是两度普利策奖得主巴巴拉·塔奇曼的文史精选集，跨越六十年代到八十年代。本书核心命题：事实应该早于论点，历史是叙述、是故事，但前提是每句话背后都站着真实的证据。塔奇曼从怀德纳图书馆泡出的下午讲起，回顾自己如何在没有博士学位的情况下凭借原始文献的笨办法写出《八月炮火》《史迪威与美国在中国的经验》《齐默尔曼电报》等史学经典；如何在记者的速记与历史学家的校对之间打通一条河；如何在美国理想被越战和水门撕碎的时代，仍然坚持&apos;暴露错误、消灭错误&apos;。这本书既是历史写作的技艺指南，也是一个亲历二十世纪的人用笔守住最后防线的伦理宣言。</description>
+      <pubDate>Mon, 17 Aug 2026 08:15:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260817-episode-20260817-4c53b6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《历史的技艺：塔奇曼论历史》是两度普利策奖得主巴巴拉·塔奇曼的文史精选集，跨越六十年代到八十年代。本书核心命题：事实应该早于论点，历史是叙述、是故事，但前提是每句话背后都站着真实的证据。塔奇曼从怀德纳图书馆泡出的下午讲起，回顾自己如何在没有博士学位的情况下凭借原始文献的笨办法写出《八月炮火》《史迪威与美国在中国的经验》《齐默尔曼电报》等史学经典；如何在记者的速记与历史学家的校对之间打通一条河；如何在美国理想被越战和水门撕碎的时代，仍然坚持&apos;暴露错误、消灭错误&apos;。这本书既是历史写作的技艺指南，也是一个亲历二十世纪的人用笔守住最后防线的伦理宣言。</itunes:summary>
+      <itunes:duration>00:30:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260817/episode-20260817-4c53b6.mp3" length="29441709" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
