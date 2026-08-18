@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 18 Aug 2026 08:08:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 08:19:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14143,6 +14143,17 @@
       <itunes:duration>00:28:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260818/episode-20260818-9270b4.mp3" length="27014445" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《世间已无张居正》 · 完整版 · 世间已无张居正 · 完整讲读</title>
+      <description>张居正，明代最具争议的首辅，万历初年以铁腕推动改革，清理欠账、整顿驿递、重用戚继光、推行考成法，让垂暮的大明王朝续命数十年。他死于万历十年（公元一五八二年），死后不到一年被抄家夺谥，全家或死或流。这本书考证扎实，从政府邸报、文人笔记、正史野史中梳理线索，重点剖析文坛领袖王世贞如何用《嘉靖以来首辅传》影响数百年的历史评价。一个改革者的孤独、皇权与相权的千古矛盾、历史评价在成见与翻案之间的反复摇摆，都浓缩在他五十八年的人生里。</description>
+      <pubDate>Tue, 18 Aug 2026 08:19:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260818-episode-20260818-1facc8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>张居正，明代最具争议的首辅，万历初年以铁腕推动改革，清理欠账、整顿驿递、重用戚继光、推行考成法，让垂暮的大明王朝续命数十年。他死于万历十年（公元一五八二年），死后不到一年被抄家夺谥，全家或死或流。这本书考证扎实，从政府邸报、文人笔记、正史野史中梳理线索，重点剖析文坛领袖王世贞如何用《嘉靖以来首辅传》影响数百年的历史评价。一个改革者的孤独、皇权与相权的千古矛盾、历史评价在成见与翻案之间的反复摇摆，都浓缩在他五十八年的人生里。</itunes:summary>
+      <itunes:duration>00:32:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260818/episode-20260818-1facc8.mp3" length="30869805" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
