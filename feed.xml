@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 18 Aug 2026 07:58:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 08:08:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14132,6 +14132,17 @@
       <itunes:duration>00:23:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260818/episode-20260818-742a0a.mp3" length="22260141" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《维罗妮卡决定去死》 · 完整版 · 维罗妮卡决定去死_-_保罗·柯艾略 · 完整讲读</title>
+      <description>一九九七年十一月十一日，二十四岁的斯洛文尼亚姑娘维罗妮卡吞下四盒安眠药，却意外被救活，被送进维雷特精神病院，并被告知心脏随时可能停跳。在等待死亡的日子里，她遇见了画家爱德华、临终忏悔的玛丽、相信自己是人大使儿子的泽德卡，也撞见了伊戈尔医生一项关于“死亡意识”的秘密实验。这本书借一个姑娘的“第二次生命”，追问平庸的绝望、疯狂与正常的一线之隔，以及爱是否能成为真正的救赎。巴西作家保罗·柯艾略以自身三次被送进精神病院的经历为底色，写下了这部关于觉醒与死亡的私密告白——人不是因为想明白了才去活，而是因为决定去活，才开始想明白。</description>
+      <pubDate>Tue, 18 Aug 2026 08:07:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260818-episode-20260818-9270b4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九九七年十一月十一日，二十四岁的斯洛文尼亚姑娘维罗妮卡吞下四盒安眠药，却意外被救活，被送进维雷特精神病院，并被告知心脏随时可能停跳。在等待死亡的日子里，她遇见了画家爱德华、临终忏悔的玛丽、相信自己是人大使儿子的泽德卡，也撞见了伊戈尔医生一项关于“死亡意识”的秘密实验。这本书借一个姑娘的“第二次生命”，追问平庸的绝望、疯狂与正常的一线之隔，以及爱是否能成为真正的救赎。巴西作家保罗·柯艾略以自身三次被送进精神病院的经历为底色，写下了这部关于觉醒与死亡的私密告白——人不是因为想明白了才去活，而是因为决定去活，才开始想明白。</itunes:summary>
+      <itunes:duration>00:28:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260818/episode-20260818-9270b4.mp3" length="27014445" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
