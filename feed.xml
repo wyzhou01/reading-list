@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 17 Aug 2026 08:15:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 07:33:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14099,6 +14099,17 @@
       <itunes:duration>00:30:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260817/episode-20260817-4c53b6.mp3" length="29441709" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《从优秀到卓越》 · 完整版 · 从优秀到卓越（珍藏版） · 完整讲读</title>
+      <description>《从优秀到卓越》这本书，是吉姆·柯林斯带领一个二十一人研究小组、用五年时间追踪十一家公司从平凡跨越到卓越历程的研究结晶。它打破了我们对“成功”的多数神话——风口、技术、英雄式领导人、震撼性的并购，都不是真正的助推器。真正起作用的，是六块缺一不可的拼图：谦逊而坚定的第五级经理人，先人后事的人才哲学，直面残酷现实却决不放弃信念的斯托克代尔悖论，刺猬式的三环简化，训练有素的文化，以及那个需要十年以上耐心才能转起来的飞轮效应。这本书最耐读的，不是它给出了什么新工具，而是它指出了什么不能省略。它出版二十多年了，依然是这个领域里最朴素也最锋利的提醒：卓越从来不是一次跳跃，是一圈又一圈的复利。</description>
+      <pubDate>Tue, 18 Aug 2026 07:33:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260818-episode-20260818-e7530b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《从优秀到卓越》这本书，是吉姆·柯林斯带领一个二十一人研究小组、用五年时间追踪十一家公司从平凡跨越到卓越历程的研究结晶。它打破了我们对“成功”的多数神话——风口、技术、英雄式领导人、震撼性的并购，都不是真正的助推器。真正起作用的，是六块缺一不可的拼图：谦逊而坚定的第五级经理人，先人后事的人才哲学，直面残酷现实却决不放弃信念的斯托克代尔悖论，刺猬式的三环简化，训练有素的文化，以及那个需要十年以上耐心才能转起来的飞轮效应。这本书最耐读的，不是它给出了什么新工具，而是它指出了什么不能省略。它出版二十多年了，依然是这个领域里最朴素也最锋利的提醒：卓越从来不是一次跳跃，是一圈又一圈的复利。</itunes:summary>
+      <itunes:duration>00:28:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260818/episode-20260818-e7530b.mp3" length="26963757" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
