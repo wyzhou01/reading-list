@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 18 Aug 2026 07:43:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 07:58:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14121,6 +14121,17 @@
       <itunes:duration>00:25:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260818/episode-20260818-b7bbfe.mp3" length="24835245" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《醒来的女性（全二册）》 · 完整版 · 醒来的女性(上下册) · 完整讲读</title>
+      <description>《醒来的女性》是玛丽莲·弗伦奇一九七七年出版的长篇小说，主人公米拉是一位三十八岁的美国中产阶级女性。故事从她在哈佛的厕所隔间里躲藏开始，回溯她从小镇少女到哈佛学生的成长，再写到她十六年无爱婚姻的瓦解。米拉发现，自己的一生都在扮演&apos;理查德太太&apos;&apos;本的母亲&apos;&apos;沃德太太的女儿&apos;，却从未做过&apos;米拉&apos;。这本书不只是米拉的觉醒史，也是瓦尔、伊索尔德、凯拉、克拉丽莎等女性的群像——她们在厨房的咖啡桌旁彼此承认：原来我们都不快乐，原来这不是我们的错。这部作品和波伏娃《第二性》、弗里丹《女性的奥秘》并称二十世纪女性觉醒三部曲，全球销量超两千万册。半个世纪过去，它依然是一面镜子，照出每一个把自己活丢了的女性心底的疑问：究竟是我不够好，还是这个世界的尺子，本身就不该只量一种人。</description>
+      <pubDate>Tue, 18 Aug 2026 07:58:36 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260818-episode-20260818-742a0a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《醒来的女性》是玛丽莲·弗伦奇一九七七年出版的长篇小说，主人公米拉是一位三十八岁的美国中产阶级女性。故事从她在哈佛的厕所隔间里躲藏开始，回溯她从小镇少女到哈佛学生的成长，再写到她十六年无爱婚姻的瓦解。米拉发现，自己的一生都在扮演&apos;理查德太太&apos;&apos;本的母亲&apos;&apos;沃德太太的女儿&apos;，却从未做过&apos;米拉&apos;。这本书不只是米拉的觉醒史，也是瓦尔、伊索尔德、凯拉、克拉丽莎等女性的群像——她们在厨房的咖啡桌旁彼此承认：原来我们都不快乐，原来这不是我们的错。这部作品和波伏娃《第二性》、弗里丹《女性的奥秘》并称二十世纪女性觉醒三部曲，全球销量超两千万册。半个世纪过去，它依然是一面镜子，照出每一个把自己活丢了的女性心底的疑问：究竟是我不够好，还是这个世界的尺子，本身就不该只量一种人。</itunes:summary>
+      <itunes:duration>00:23:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260818/episode-20260818-742a0a.mp3" length="22260141" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
