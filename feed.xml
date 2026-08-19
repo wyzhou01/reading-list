@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 19 Aug 2026 07:36:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:42:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14308,6 +14308,17 @@
       <itunes:duration>00:20:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-6330b3.mp3" length="19356717" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《国学常识 国学经典 国学精粹一本通》 · 完整版 · 国学常识_国学经典_国学精粹一本通 · 完整讲读</title>
+      <description>《国学常识　国学经典　国学精粹一本通》是一部面向普通读者和青少年的国学入门大全，分常识、经典、精粹三大块。本期节目带你走完这部全景式工具书的常识部分：从二十八宿、二十四节气，到九州郡县、九品十八级，再到伦理礼仪、宗法家族、车马服饰、文学戏曲、中医养生，最后落到徐福、郑和的文化交流和殷墟、三星堆的考古发现。一集下来，等于把中国传统文化的主干、从骨架到血肉，完整走了一遍。</description>
+      <pubDate>Wed, 19 Aug 2026 07:42:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260819-episode-20260819-0add0c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《国学常识　国学经典　国学精粹一本通》是一部面向普通读者和青少年的国学入门大全，分常识、经典、精粹三大块。本期节目带你走完这部全景式工具书的常识部分：从二十八宿、二十四节气，到九州郡县、九品十八级，再到伦理礼仪、宗法家族、车马服饰、文学戏曲、中医养生，最后落到徐福、郑和的文化交流和殷墟、三星堆的考古发现。一集下来，等于把中国传统文化的主干、从骨架到血肉，完整走了一遍。</itunes:summary>
+      <itunes:duration>00:46:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-0add0c.mp3" length="44476845" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
