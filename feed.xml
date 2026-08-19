@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 19 Aug 2026 06:39:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 06:50:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14220,6 +14220,17 @@
       <itunes:duration>00:29:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260818/episode-20260818-a8cb07.mp3" length="28440237" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《欧叶妮·格朗台 &amp; 高老头》 · 完整版 · 欧叶妮•格朗台_＆_高老头(译文名著精选) · 完整讲读</title>
+      <description>本期节目为您完整讲述巴尔扎克《欧叶妮·格朗台》与《高老头》两部代表作。前者讲述外省箍桶匠格朗台如何在大革命中发家致富，又如何囚禁女儿、断送她的爱情；后者描绘退休面条商高老头被两个女儿榨干钱财后惨死巴黎公寓的悲剧，并记录外省青年拉斯蒂涅克在巴黎的彻底堕落。两部作品共同揭示了十九世纪法国金钱如何取代宗教、亲情与荣誉，成为新的上帝。节目共梳理六大核心洞察：金钱拜物教的崛起、外省与巴黎的对照、亲情在金钱面前的全面异化、欧叶妮作为最沉默受害者的悲剧、伏脱冷与鲍赛昂夫人所传授的丛林法则，以及拉斯蒂涅克式堕落的精神隐喻。巴尔扎克用两部小说刻画了一个时代的全部面孔，也留下一道至今仍在叩问每个现代人的永恒诘问：在向上攀爬的路上，你究竟愿意付出什么，又想要守住什么？</description>
+      <pubDate>Wed, 19 Aug 2026 06:50:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260818-episode-20260818-ca3eca</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期节目为您完整讲述巴尔扎克《欧叶妮·格朗台》与《高老头》两部代表作。前者讲述外省箍桶匠格朗台如何在大革命中发家致富，又如何囚禁女儿、断送她的爱情；后者描绘退休面条商高老头被两个女儿榨干钱财后惨死巴黎公寓的悲剧，并记录外省青年拉斯蒂涅克在巴黎的彻底堕落。两部作品共同揭示了十九世纪法国金钱如何取代宗教、亲情与荣誉，成为新的上帝。节目共梳理六大核心洞察：金钱拜物教的崛起、外省与巴黎的对照、亲情在金钱面前的全面异化、欧叶妮作为最沉默受害者的悲剧、伏脱冷与鲍赛昂夫人所传授的丛林法则，以及拉斯蒂涅克式堕落的精神隐喻。巴尔扎克用两部小说刻画了一个时代的全部面孔，也留下一道至今仍在叩问每个现代人的永恒诘问：在向上攀爬的路上，你究竟愿意付出什么，又想要守住什么？</itunes:summary>
+      <itunes:duration>00:37:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260818/episode-20260818-ca3eca.mp3" length="36092205" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
