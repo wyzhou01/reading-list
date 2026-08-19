@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 19 Aug 2026 08:18:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 08:20:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14396,6 +14396,17 @@
       <itunes:duration>00:26:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-c0d5b4.mp3" length="25847469" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《百万英镑：马克·吐温中短篇小说选》 · 完整版 · 百万英镑：马克·吐温中短篇小说选（译文名著精选） · 完整讲读</title>
+      <description>《百万英镑：马克·吐温中短篇小说选》精选马克·吐温十四篇代表作。从《竞选州长》到《腐蚀了赫德莱堡的人》，他用天真老实的叙述者，把镀金时代的金钱、虚荣、种族偏见与道德伪装，写成一场场精准的社会诊断。他不提供答案，只留下一份对人性、对自我、对一切&quot;看起来像&quot;的怀疑——这份怀疑，是他留给全人类最贵重的遗产。</description>
+      <pubDate>Wed, 19 Aug 2026 08:20:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260819-episode-20260819-0ae2da</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《百万英镑：马克·吐温中短篇小说选》精选马克·吐温十四篇代表作。从《竞选州长》到《腐蚀了赫德莱堡的人》，他用天真老实的叙述者，把镀金时代的金钱、虚荣、种族偏见与道德伪装，写成一场场精准的社会诊断。他不提供答案，只留下一份对人性、对自我、对一切&quot;看起来像&quot;的怀疑——这份怀疑，是他留给全人类最贵重的遗产。</itunes:summary>
+      <itunes:duration>00:30:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-0ae2da.mp3" length="28893741" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
