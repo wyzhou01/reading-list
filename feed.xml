@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 19 Aug 2026 06:17:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 06:23:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14187,6 +14187,17 @@
       <itunes:duration>00:26:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260818/episode-20260818-cde8a8.mp3" length="25457325" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一千零一夜（译文名著精选）》 · 完整版 · 一千零一夜（译文名著精选） · 完整讲读</title>
+      <description>《一千零一夜》是一部由阿拉伯民族数百年集体创作的故事集，方平等译。它以暴君山鲁亚尔的故事为框架，通过宰相之女山鲁佐德用一千零一夜的讲述救下一座城为核心隐喻，收录了《阿里巴巴和四十大盗》《神灯》《辛巴达航海历险记》《神马》《哈桑奇遇记》等经典名篇。这些故事赞美智慧、忠贞与冒险，鞭挞贪婪与邪恶，塑造了莫吉娜、神童、阿里巴巴等下层人民的英雄形象。本书与《格林童话》《伊索寓言》并称世界三大民间故事集，是世界文学宝库中永不褪色的瑰宝。</description>
+      <pubDate>Wed, 19 Aug 2026 06:23:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260818-episode-20260818-eff168</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一千零一夜》是一部由阿拉伯民族数百年集体创作的故事集，方平等译。它以暴君山鲁亚尔的故事为框架，通过宰相之女山鲁佐德用一千零一夜的讲述救下一座城为核心隐喻，收录了《阿里巴巴和四十大盗》《神灯》《辛巴达航海历险记》《神马》《哈桑奇遇记》等经典名篇。这些故事赞美智慧、忠贞与冒险，鞭挞贪婪与邪恶，塑造了莫吉娜、神童、阿里巴巴等下层人民的英雄形象。本书与《格林童话》《伊索寓言》并称世界三大民间故事集，是世界文学宝库中永不褪色的瑰宝。</itunes:summary>
+      <itunes:duration>00:27:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260818/episode-20260818-eff168.mp3" length="26429613" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
