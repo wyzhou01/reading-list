@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 19 Aug 2026 08:06:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 08:11:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14374,6 +14374,17 @@
       <itunes:duration>00:32:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-cbe086.mp3" length="31493037" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中国历史通论（增订版）》 · 完整版 · 中国历史通论（增订版） · 完整讲读</title>
+      <description>《中国历史通论（增订版）》是王家范先生积数十年通史教学经验写就的讲义，专为已具备本科通史基础的研究生而设。全书接续司马迁“究天人之际，通古今之变，成一家之言”的通史传统，从天人之辨、纵向贯通、制度变迁三大维度，回应中国大一统为何延续两千年、宋代为何是历史大变局、明清易代究竟如何发生等绕不开的大问题。书中特别警惕当代史学的“失语症”，呼吁史家独立思考、敢于裁断，是一把重新理解中国历史的钥匙。</description>
+      <pubDate>Wed, 19 Aug 2026 08:11:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260819-episode-20260819-285004</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《中国历史通论（增订版）》是王家范先生积数十年通史教学经验写就的讲义，专为已具备本科通史基础的研究生而设。全书接续司马迁“究天人之际，通古今之变，成一家之言”的通史传统，从天人之辨、纵向贯通、制度变迁三大维度，回应中国大一统为何延续两千年、宋代为何是历史大变局、明清易代究竟如何发生等绕不开的大问题。书中特别警惕当代史学的“失语症”，呼吁史家独立思考、敢于裁断，是一把重新理解中国历史的钥匙。</itunes:summary>
+      <itunes:duration>00:33:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-285004.mp3" length="32065581" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
