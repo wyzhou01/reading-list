@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 19 Aug 2026 07:46:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:50:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14330,6 +14330,17 @@
       <itunes:duration>00:27:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-b41133.mp3" length="26794797" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《哈佛教授的心理学原理》 · 完整版 · 哈佛教授的心理学原理 · 完整讲读</title>
+      <description>《哈佛教授的心理学原理》是美国心理学之父威廉·詹姆斯一八九零年的奠基之作。本书以机能主义视角重新审视心智，提出意识流、詹姆斯—朗格情绪理论、习惯可塑性、思维趋中性以及自我的物质—精神—社会三层结构，奠定了现代心理学理解自我、习惯、情绪、意志的基础框架。一百多年来，正念、心流、习惯养成、具身认知等热门话题，皆可追溯至此书。</description>
+      <pubDate>Wed, 19 Aug 2026 07:50:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260819-episode-20260819-bf6016</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《哈佛教授的心理学原理》是美国心理学之父威廉·詹姆斯一八九零年的奠基之作。本书以机能主义视角重新审视心智，提出意识流、詹姆斯—朗格情绪理论、习惯可塑性、思维趋中性以及自我的物质—精神—社会三层结构，奠定了现代心理学理解自我、习惯、情绪、意志的基础框架。一百多年来，正念、心流、习惯养成、具身认知等热门话题，皆可追溯至此书。</itunes:summary>
+      <itunes:duration>00:27:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-bf6016.mp3" length="26300205" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
