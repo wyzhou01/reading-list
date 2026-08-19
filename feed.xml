@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 19 Aug 2026 07:25:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:29:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14286,6 +14286,17 @@
       <itunes:duration>00:27:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-726b7c.mp3" length="26328237" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《哈佛百年经典（第36卷）：科学论文集——物理学、医学、外科学》 · 完整版 · 哈佛百年经典第4卷：君主论、乌托邦、马丁路德演讲集 · 完整讲读</title>
+      <description>本书汇集三部深刻塑造西方政治与宗教思想的不朽之作。马基雅维利《君主论》以冷峻的现实主义剖析权力的获取与维持；托马斯·莫尔《乌托邦》借虚构岛国描绘理想社会的蓝图，开创乌托邦文学传统；马丁·路德的演讲与论纲则点燃宗教改革，重新定义信仰与自由的关系。三部作品横跨权力、理想与信仰，共同勾勒出现代西方思想的关键脉络。</description>
+      <pubDate>Tue, 18 Aug 2026 07:43:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260819-episode-20260819-b7bbfe</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书汇集三部深刻塑造西方政治与宗教思想的不朽之作。马基雅维利《君主论》以冷峻的现实主义剖析权力的获取与维持；托马斯·莫尔《乌托邦》借虚构岛国描绘理想社会的蓝图，开创乌托邦文学传统；马丁·路德的演讲与论纲则点燃宗教改革，重新定义信仰与自由的关系。三部作品横跨权力、理想与信仰，共同勾勒出现代西方思想的关键脉络。</itunes:summary>
+      <itunes:duration>00:25:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-b7bbfe.mp3" length="24835245" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
