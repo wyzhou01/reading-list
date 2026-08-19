@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 19 Aug 2026 06:50:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 06:58:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14231,6 +14231,17 @@
       <itunes:duration>00:37:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260818/episode-20260818-ca3eca.mp3" length="36092205" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《为和平而战》 · 完整版 · 为和平而战_-_弗诺·_文奇 · 完整讲读</title>
+      <description>《为和平而战》是弗诺·文奇一九八四年发表的硬科幻中篇，改编自冷战阴影下加州利弗莫实验室的真实科研背景。工程师吉米研制出可在极小空间内冻结时间的“圆球“，美国政府借机成立停战组织，将这项技术武器化，一夜之间把整个美国变成上百个静止的玻璃球。五十年后圆球陆续破灭，世界只剩被瘟疫压垮认知的叮当客丛林。小说借温茨、迈克、奈史密斯、爱丽生、韦利等一群普通人，提出一个比“和平与自由孰更重要“更尖锐的问题：当技术被权力用来按下暂停键，谁来为下一代按下重启键？</description>
+      <pubDate>Wed, 19 Aug 2026 06:57:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260818-episode-20260818-9892b2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《为和平而战》是弗诺·文奇一九八四年发表的硬科幻中篇，改编自冷战阴影下加州利弗莫实验室的真实科研背景。工程师吉米研制出可在极小空间内冻结时间的“圆球“，美国政府借机成立停战组织，将这项技术武器化，一夜之间把整个美国变成上百个静止的玻璃球。五十年后圆球陆续破灭，世界只剩被瘟疫压垮认知的叮当客丛林。小说借温茨、迈克、奈史密斯、爱丽生、韦利等一群普通人，提出一个比“和平与自由孰更重要“更尖锐的问题：当技术被权力用来按下暂停键，谁来为下一代按下重启键？</itunes:summary>
+      <itunes:duration>00:37:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260818/episode-20260818-9892b2.mp3" length="35748525" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
