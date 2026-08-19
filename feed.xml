@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 19 Aug 2026 07:42:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:46:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14319,6 +14319,17 @@
       <itunes:duration>00:46:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-0add0c.mp3" length="44476845" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《深度思考：不断逼近问题的本质》 · 完整版 · 深度思考 · 完整讲读</title>
+      <description>《深度思考》是莫琳·希凯（曾任香奈儿全球首席执行官）的自传，她从十六岁在普罗旺斯爱上山羊奶酪讲起，回忆从欧莱雅、盖璞到香奈儿的三十年职业旅程，最终在二零一六年主动离开最高职位，重新寻找自我。全书打破“女性要像男人一样成功”的口号，主张领导力本无性别；提出三条核心线索——跟随掌心的感情线而非成功公式、承认脆弱的力量、整合矛盾而非选择其一。它不是一本教你如何成功的书，而是一本教你不被定义的书，鼓励读者打破他人与自我施加的标签，回归真实的自己。</description>
+      <pubDate>Wed, 19 Aug 2026 07:46:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260819-episode-20260819-b41133</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《深度思考》是莫琳·希凯（曾任香奈儿全球首席执行官）的自传，她从十六岁在普罗旺斯爱上山羊奶酪讲起，回忆从欧莱雅、盖璞到香奈儿的三十年职业旅程，最终在二零一六年主动离开最高职位，重新寻找自我。全书打破“女性要像男人一样成功”的口号，主张领导力本无性别；提出三条核心线索——跟随掌心的感情线而非成功公式、承认脆弱的力量、整合矛盾而非选择其一。它不是一本教你如何成功的书，而是一本教你不被定义的书，鼓励读者打破他人与自我施加的标签，回归真实的自己。</itunes:summary>
+      <itunes:duration>00:27:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-b41133.mp3" length="26794797" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
