@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 19 Aug 2026 07:29:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:36:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14297,6 +14297,17 @@
       <itunes:duration>00:25:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-b7bbfe.mp3" length="24835245" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《像梁启超那样做父亲》 · 完整版 · 像梁启超那样做父亲 · 完整讲读</title>
+      <description>一门三院士、九子皆才俊的近代家教传奇，究竟藏着怎样的密码？《像梁启超那样做父亲》以梁启超为案例，系统拆解启蒙、求学、留学、婚恋、择业这五个孩子成长的关键阶段，提炼出爱国、意育、智育、情育、理财五大育人维度，并归纳出慈父、朋友、导师、模范四种身份切换。本书不仅是对梁氏家族成就的回望，更是一份跨越百年仍可照搬的家教指南，回答了我们今天的焦虑，梁启超一百年前就已经回答过。</description>
+      <pubDate>Wed, 19 Aug 2026 07:36:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260819-episode-20260819-6330b3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一门三院士、九子皆才俊的近代家教传奇，究竟藏着怎样的密码？《像梁启超那样做父亲》以梁启超为案例，系统拆解启蒙、求学、留学、婚恋、择业这五个孩子成长的关键阶段，提炼出爱国、意育、智育、情育、理财五大育人维度，并归纳出慈父、朋友、导师、模范四种身份切换。本书不仅是对梁氏家族成就的回望，更是一份跨越百年仍可照搬的家教指南，回答了我们今天的焦虑，梁启超一百年前就已经回答过。</itunes:summary>
+      <itunes:duration>00:20:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-6330b3.mp3" length="19356717" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
