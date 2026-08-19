@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 19 Aug 2026 06:58:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:03:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14242,6 +14242,17 @@
       <itunes:duration>00:37:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260818/episode-20260818-9892b2.mp3" length="35748525" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《意大利遗事》 · 完整版 · 意大利遗事 · 完整讲读</title>
+      <description>《意大利遗事》是司汤达根据十六、十七世纪意大利旧写本整理的短篇集，记录文艺复兴时期贵族与平民在激情、复仇、爱情与政治阴谋中赤裸裸的人心。司汤达借这些血腥逸事，攻击教士与封建压迫，赞美不甘被教会和制度吞没的原始力量。本书是《红与黑》《帕尔马修道院》的写作源头，也是法国现实主义文学的战斗起点。它告诉我们：当一个社会把“名誉“看得比“正义“更重要，离吃人就不远了；而人心的尊严，正在于它拒绝被压扁的姿态。</description>
+      <pubDate>Wed, 19 Aug 2026 07:03:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260819-episode-20260819-298c9f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《意大利遗事》是司汤达根据十六、十七世纪意大利旧写本整理的短篇集，记录文艺复兴时期贵族与平民在激情、复仇、爱情与政治阴谋中赤裸裸的人心。司汤达借这些血腥逸事，攻击教士与封建压迫，赞美不甘被教会和制度吞没的原始力量。本书是《红与黑》《帕尔马修道院》的写作源头，也是法国现实主义文学的战斗起点。它告诉我们：当一个社会把“名誉“看得比“正义“更重要，离吃人就不远了；而人心的尊严，正在于它拒绝被压扁的姿态。</itunes:summary>
+      <itunes:duration>00:24:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-298c9f.mp3" length="23653677" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
