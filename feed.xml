@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 19 Aug 2026 08:02:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 08:06:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14363,6 +14363,17 @@
       <itunes:duration>00:35:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-207022.mp3" length="33888429" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《沐猿而冠：文化如何塑造人性》 · 完整版 · 辉格_-_沐猿而冠 · 完整讲读</title>
+      <description>《沐猿而冠：文化如何塑造人性》是独立学者辉格撰写的一部思想随笔集，从进化生物学与认知科学视角重新审视人类文化。他用六块拼图——衣着、饮食、劝酒、道德、宗教、意识——向读者展示：人性并非天生，而是被文化这只看不见的手一层一层雕刻出来的。书中最核心的洞见，是用丹尼特的&apos;多重草稿模型&apos;构建&apos;头脑国会&apos;，把理性与自由意志理解为各心智模块互相辩论、互相竞争的过程，并指出这一过程已经历了语言、文字与科学三次大升级，今天正在进入人工智能协同的第四次跃迁。这本书不是教科书，也不是学术专著，而是一份观念地图：它搭起了一座桥，一边是达尔文、莫里斯、丹尼特等学术重镇，另一边是关心日常生活的普通读者。对于生活在算法与短视频时代的我们，理解文化的运作机制，正是理解&apos;我们究竟是谁&apos;的唯一路径。</description>
+      <pubDate>Wed, 19 Aug 2026 08:06:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260819-episode-20260819-cbe086</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《沐猿而冠：文化如何塑造人性》是独立学者辉格撰写的一部思想随笔集，从进化生物学与认知科学视角重新审视人类文化。他用六块拼图——衣着、饮食、劝酒、道德、宗教、意识——向读者展示：人性并非天生，而是被文化这只看不见的手一层一层雕刻出来的。书中最核心的洞见，是用丹尼特的&apos;多重草稿模型&apos;构建&apos;头脑国会&apos;，把理性与自由意志理解为各心智模块互相辩论、互相竞争的过程，并指出这一过程已经历了语言、文字与科学三次大升级，今天正在进入人工智能协同的第四次跃迁。这本书不是教科书，也不是学术专著，而是一份观念地图：它搭起了一座桥，一边是达尔文、莫里斯、丹尼特等学术重镇，另一边是关心日常生活的普通读者。对于生活在算法与短视频时代的我们，理解文化的运作机制，正是理解&apos;我们究竟是谁&apos;的唯一路径。</itunes:summary>
+      <itunes:duration>00:32:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-cbe086.mp3" length="31493037" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
