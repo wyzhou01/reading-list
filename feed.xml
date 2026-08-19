@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 19 Aug 2026 07:03:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:10:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14253,6 +14253,17 @@
       <itunes:duration>00:24:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-298c9f.mp3" length="23653677" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《血色子午线》 · 完整版 · 血色子午线 · 完整讲读</title>
+      <description>《血色子午线》是美国作家科马克·麦卡锡于一九八五年出版的长篇小说。故事以一八四九年前后的美墨边境为背景，跟随一个绰号“孩子“的田纳西少年，加入一支以霍尔顿法官为首的格朗德河赏金猎人队。这支队伍依据州政府悬赏，按印第安人头皮数量获取奖金，辗转于得克萨斯、墨西哥和新墨西哥，对沿途印第安人实施屠杀。本书依据的是历史上真实的约翰·乔伊斯的格朗德河队。麦卡锡用冷静到近乎残忍的笔法，把这场屠杀写成了一部关于人类本质的史诗。全书核心是法官这个人物——一个身高七尺、白发苍苍、从不睡觉的怪物形象，被麦卡锡塑造成战争与命运本身的化身。本书解构了西部神话，把所谓的“文明征服野蛮“翻转为“野蛮披着文明的外衣“，并通过书首引用的考古发现，揭示出割头皮的做法已有三十万年历史，由此论证人类对暴力的迷恋是一种跨文明的古老天性。</description>
+      <pubDate>Wed, 19 Aug 2026 07:10:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260819-episode-20260819-137352</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《血色子午线》是美国作家科马克·麦卡锡于一九八五年出版的长篇小说。故事以一八四九年前后的美墨边境为背景，跟随一个绰号“孩子“的田纳西少年，加入一支以霍尔顿法官为首的格朗德河赏金猎人队。这支队伍依据州政府悬赏，按印第安人头皮数量获取奖金，辗转于得克萨斯、墨西哥和新墨西哥，对沿途印第安人实施屠杀。本书依据的是历史上真实的约翰·乔伊斯的格朗德河队。麦卡锡用冷静到近乎残忍的笔法，把这场屠杀写成了一部关于人类本质的史诗。全书核心是法官这个人物——一个身高七尺、白发苍苍、从不睡觉的怪物形象，被麦卡锡塑造成战争与命运本身的化身。本书解构了西部神话，把所谓的“文明征服野蛮“翻转为“野蛮披着文明的外衣“，并通过书首引用的考古发现，揭示出割头皮的做法已有三十万年历史，由此论证人类对暴力的迷恋是一种跨文明的古老天性。</itunes:summary>
+      <itunes:duration>00:25:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-137352.mp3" length="24242733" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
