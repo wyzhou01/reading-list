@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 19 Aug 2026 05:57:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 06:09:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14165,6 +14165,17 @@
       <itunes:duration>00:34:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260818/episode-20260818-dee9cc.mp3" length="33531693" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《兰贝斯的丽莎》 · 完整版 · 兰贝斯的丽莎 · 完整讲读</title>
+      <description>《兰贝斯的丽莎》是毛姆二十三岁时写下的长篇小说处女作，讲述十八岁姑娘丽莎在伦敦最贫穷的兰贝斯区维尔街短暂而悲剧的一生。穿过新衣的惊艳、街头的舞蹈、初恋的萌动，毛姆以医生般冷静的笔触写出了底层女性的命运、贫穷的结构性压迫、生与死的轮回，以及隐藏在叙述背后那一道穿透黑暗的同情与悲悯。这不是一部浪漫小说，而是一面镜子，照出每一个生命——无论多么卑微——都值得被看见。</description>
+      <pubDate>Wed, 19 Aug 2026 06:09:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260818-episode-20260818-4ebbf6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《兰贝斯的丽莎》是毛姆二十三岁时写下的长篇小说处女作，讲述十八岁姑娘丽莎在伦敦最贫穷的兰贝斯区维尔街短暂而悲剧的一生。穿过新衣的惊艳、街头的舞蹈、初恋的萌动，毛姆以医生般冷静的笔触写出了底层女性的命运、贫穷的结构性压迫、生与死的轮回，以及隐藏在叙述背后那一道穿透黑暗的同情与悲悯。这不是一部浪漫小说，而是一面镜子，照出每一个生命——无论多么卑微——都值得被看见。</itunes:summary>
+      <itunes:duration>00:43:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260818/episode-20260818-4ebbf6.mp3" length="41725101" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
