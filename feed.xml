@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 19 Aug 2026 06:34:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 06:39:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14209,6 +14209,17 @@
       <itunes:duration>00:34:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260818/episode-20260818-eeee70.mp3" length="33215661" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《生机无限：医学2.0》 · 完整版 · 生机无限：医学2.0_(《科学美国人》精选系列) · 完整讲读</title>
+      <description>《生机无限：医学2.0》是《科学美国人》精选系列的一本，由外语教学与研究出版社2015年出版。本书围绕医学前沿进展展开六大主题：饮食与运动如何重塑人体、细菌与人类的共生关系、癌症与衰老的最新机制、基因疗法与再生医学的复兴、脑机接口对人类能力的重新定义、流行病预警网络对医疗系统的重塑。书中既呈现了免疫治疗、CRISPR基因编辑、iPS细胞再生等突破性技术，也冷静指出每一项进步背后的伦理争议与未解难题，传递出医学2.0时代从“治病”走向“治未病”、从“千人一方”走向“一人一方”、从“被动应对”走向“主动预警”的范式转变。</description>
+      <pubDate>Wed, 19 Aug 2026 06:39:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260818-episode-20260818-a8cb07</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《生机无限：医学2.0》是《科学美国人》精选系列的一本，由外语教学与研究出版社2015年出版。本书围绕医学前沿进展展开六大主题：饮食与运动如何重塑人体、细菌与人类的共生关系、癌症与衰老的最新机制、基因疗法与再生医学的复兴、脑机接口对人类能力的重新定义、流行病预警网络对医疗系统的重塑。书中既呈现了免疫治疗、CRISPR基因编辑、iPS细胞再生等突破性技术，也冷静指出每一项进步背后的伦理争议与未解难题，传递出医学2.0时代从“治病”走向“治未病”、从“千人一方”走向“一人一方”、从“被动应对”走向“主动预警”的范式转变。</itunes:summary>
+      <itunes:duration>00:29:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260818/episode-20260818-a8cb07.mp3" length="28440237" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
