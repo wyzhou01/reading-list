@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 19 Aug 2026 07:10:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:18:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14264,6 +14264,17 @@
       <itunes:duration>00:25:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-137352.mp3" length="24242733" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《哲学家们都干了些什么？》 · 完整版 · 哲学家们都干了些什么？（2015年全新修订版） · 完整讲读</title>
+      <description>《哲学家们都干了些什么？》用讲故事的方式，把两千年的西方哲学史串成一部连续剧。从苏格拉底被判死刑，到柏拉图的洞穴，到中世纪哲学沦为宗教的婢女，到笛卡尔的心物二元论，到休谟的怀疑论把形而上学击碎，到康德的先天认识形式试图挽救理性，最后到尼采宣告上帝死后，加缪面对荒诞给出的西西弗神话。作者林欣浩的最终落点是：人生意义没有标准答案，但直面死亡、自行寻找，是每个普通人都能走通的路。这本书不能给你答案，但它能让你放下对答案的执念，去真正地活。</description>
+      <pubDate>Wed, 19 Aug 2026 07:18:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260819-episode-20260819-bbf626</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《哲学家们都干了些什么？》用讲故事的方式，把两千年的西方哲学史串成一部连续剧。从苏格拉底被判死刑，到柏拉图的洞穴，到中世纪哲学沦为宗教的婢女，到笛卡尔的心物二元论，到休谟的怀疑论把形而上学击碎，到康德的先天认识形式试图挽救理性，最后到尼采宣告上帝死后，加缪面对荒诞给出的西西弗神话。作者林欣浩的最终落点是：人生意义没有标准答案，但直面死亡、自行寻找，是每个普通人都能走通的路。这本书不能给你答案，但它能让你放下对答案的执念，去真正地活。</itunes:summary>
+      <itunes:duration>00:41:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-bbf626.mp3" length="39380397" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
