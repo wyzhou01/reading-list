@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 19 Aug 2026 08:11:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 08:18:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14385,6 +14385,17 @@
       <itunes:duration>00:33:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-285004.mp3" length="32065581" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《从此以后（勒普顿三部曲之一）》 · 完整版 · 欧美必读悬疑小说（勒普顿三部曲） · 完整讲读</title>
+      <description>《从此以后》是英国作家罗莎姆·勒普顿的悬疑小说代表作。一位母亲格蕾丝在学校火灾中冲进火场救女儿，却陷入昏迷，以灵魂出窍的视角在医院中寻找女儿的下落。在追寻真相的过程中，她被迫回望过去十一年，重新审视自己与青春期女儿的隔阂与裂痕。本书以克制而细腻的笔触，探讨了母爱、真相与谎言的边界、灾难后的创伤与重建，以及在二十四小时新闻时代里，媒体伦理对私人生活的侵蚀。它不是一部关于火灾的小说，而是一部关于“在那之后”如何继续活下去的小说。</description>
+      <pubDate>Wed, 19 Aug 2026 08:18:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260819-episode-20260819-c0d5b4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《从此以后》是英国作家罗莎姆·勒普顿的悬疑小说代表作。一位母亲格蕾丝在学校火灾中冲进火场救女儿，却陷入昏迷，以灵魂出窍的视角在医院中寻找女儿的下落。在追寻真相的过程中，她被迫回望过去十一年，重新审视自己与青春期女儿的隔阂与裂痕。本书以克制而细腻的笔触，探讨了母爱、真相与谎言的边界、灾难后的创伤与重建，以及在二十四小时新闻时代里，媒体伦理对私人生活的侵蚀。它不是一部关于火灾的小说，而是一部关于“在那之后”如何继续活下去的小说。</itunes:summary>
+      <itunes:duration>00:26:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-c0d5b4.mp3" length="25847469" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
