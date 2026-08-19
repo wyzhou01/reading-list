@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 19 Aug 2026 07:18:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:25:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14275,6 +14275,17 @@
       <itunes:duration>00:41:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-bbf626.mp3" length="39380397" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中国古代都城》 · 完整版 · 中国古代都城_吴松第 · 完整讲读</title>
+      <description>《中国古代都城》是复旦大学历史地理学者吴松弟面向普通读者撰写的古都通识读物，从夏商早期都城讲起，一路梳理到统一王朝、分裂政权与边疆政权的都城，剖析选址讲究、布局智慧与政治经济文化角力。本书把考古发现、文献记载与城市发展规律结合起来，搭建出一个理解三千年中国都城史的清晰框架——从咸阳到长安，从洛阳到开封，从南京到北京，从辽上京到拉萨，从统万城到明清紫禁城。书中既讲了统一都城的辉煌，也讲了分裂都城的紧凑与边疆都城的多元，最后落点放在古都的现代命运：在推土机与申遗之间，在GDP与古城墙之间，城市怎样把历史嵌入日常生活。出版近二十年，它依然是古都入门的最佳读物之一。</description>
+      <pubDate>Wed, 19 Aug 2026 07:24:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260819-episode-20260819-726b7c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《中国古代都城》是复旦大学历史地理学者吴松弟面向普通读者撰写的古都通识读物，从夏商早期都城讲起，一路梳理到统一王朝、分裂政权与边疆政权的都城，剖析选址讲究、布局智慧与政治经济文化角力。本书把考古发现、文献记载与城市发展规律结合起来，搭建出一个理解三千年中国都城史的清晰框架——从咸阳到长安，从洛阳到开封，从南京到北京，从辽上京到拉萨，从统万城到明清紫禁城。书中既讲了统一都城的辉煌，也讲了分裂都城的紧凑与边疆都城的多元，最后落点放在古都的现代命运：在推土机与申遗之间，在GDP与古城墙之间，城市怎样把历史嵌入日常生活。出版近二十年，它依然是古都入门的最佳读物之一。</itunes:summary>
+      <itunes:duration>00:27:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-726b7c.mp3" length="26328237" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
