@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 18 Aug 2026 08:19:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 05:57:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14154,6 +14154,17 @@
       <itunes:duration>00:32:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260818/episode-20260818-1facc8.mp3" length="30869805" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《超越原生家庭（原书第4版）》 · 完整版 · 超越原生家庭（原书第4版） · 完整讲读</title>
+      <description>《超越原生家庭》由加拿大心理治疗师罗纳德·查理森所著，是一本基于鲍文家庭系统理论的自助指南。它不把原生家庭当作甩锅对象，而是邀请你重新认识家庭这台&quot;机器&quot;的运转规律：从亲密与疏远、家庭规则，到三角关系、出生顺序，最后落到自我分化。查理森用七个具体步骤，把改变从&quot;懂得&quot;变成&quot;做到&quot;：画家庭谱系、重新联系家人、整理家庭历史、画出关系地图、回家探亲、练习自我分化、然后一遍遍重做。他用自己四十二岁才&quot;真正成年&quot;的经历告诉你：超越原生家庭，不是脱离它，而是看清它怎么运转之后，在里面重新选择自己的位置。</description>
+      <pubDate>Wed, 19 Aug 2026 05:57:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260818-episode-20260818-dee9cc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《超越原生家庭》由加拿大心理治疗师罗纳德·查理森所著，是一本基于鲍文家庭系统理论的自助指南。它不把原生家庭当作甩锅对象，而是邀请你重新认识家庭这台&quot;机器&quot;的运转规律：从亲密与疏远、家庭规则，到三角关系、出生顺序，最后落到自我分化。查理森用七个具体步骤，把改变从&quot;懂得&quot;变成&quot;做到&quot;：画家庭谱系、重新联系家人、整理家庭历史、画出关系地图、回家探亲、练习自我分化、然后一遍遍重做。他用自己四十二岁才&quot;真正成年&quot;的经历告诉你：超越原生家庭，不是脱离它，而是看清它怎么运转之后，在里面重新选择自己的位置。</itunes:summary>
+      <itunes:duration>00:34:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260818/episode-20260818-dee9cc.mp3" length="33531693" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
