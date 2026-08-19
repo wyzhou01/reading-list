@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 19 Aug 2026 07:50:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:58:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14341,6 +14341,17 @@
       <itunes:duration>00:27:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-bf6016.mp3" length="26300205" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《铁血蒙元》 · 完整版 · 铁血蒙元 · 完整讲读</title>
+      <description>《铁血蒙元》是易中天中华史第二十卷，跳出成王败寇的叙事，把蒙古帝国放回十二到十三世纪的欧亚大陆全局里重审。本书以成吉思汗整合蒙古诸部、攻灭大金、横扫花剌子模为起点，落到忽必烈汉化建元、崖山亡宋、四大汗国分崩的终局。它回答了一个核心问题：一个连文字都没有的部落，凭什么能在几十年里重塑整个世界？答案是组织、包容、判断力，也是过载与短命的宿命。读懂蒙元，才能读懂今天中国版图与中华民族的来路。</description>
+      <pubDate>Wed, 19 Aug 2026 07:58:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260819-episode-20260819-49f61c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《铁血蒙元》是易中天中华史第二十卷，跳出成王败寇的叙事，把蒙古帝国放回十二到十三世纪的欧亚大陆全局里重审。本书以成吉思汗整合蒙古诸部、攻灭大金、横扫花剌子模为起点，落到忽必烈汉化建元、崖山亡宋、四大汗国分崩的终局。它回答了一个核心问题：一个连文字都没有的部落，凭什么能在几十年里重塑整个世界？答案是组织、包容、判断力，也是过载与短命的宿命。读懂蒙元，才能读懂今天中国版图与中华民族的来路。</itunes:summary>
+      <itunes:duration>00:32:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-49f61c.mp3" length="30737709" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
