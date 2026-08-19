@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 19 Aug 2026 06:09:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 06:17:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14176,6 +14176,17 @@
       <itunes:duration>00:43:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260818/episode-20260818-4ebbf6.mp3" length="41725101" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《羔羊的盛宴》 · 完整版 · 羔羊的盛宴_-_[日]米泽穗信 · 完整讲读</title>
+      <description>《羔羊的盛宴》是米泽穗信二零零八年出版的短篇连作集，由五个看似独立的故事组成，核心枢纽是一个名为巴别会的青年读书会。全书围绕秘密、执念与文学展开：女仆村里夕日为小姐打造秘密书架，分享禁忌小说；画家少女由理子在北方馆创作以生命为代价的画作；六位青年在雪封山庄虚构不存在的尸体，只为制造共同记忆；女学生五十铃被世代传唱的歌谣所裹挟；厨娘阿夏为一场虚构的羊群晚餐，献上了一整个羊群的想象。米泽穗信用这五个故事，反复追问：当现实被阶级、权威与欲望压垮，年轻人如何用阅读、艺术与幻想，建造属于自己的精神庇护所？答案藏在所有故事共同的结尾——人不是靠现实活着，而是靠被相信的故事活着。</description>
+      <pubDate>Wed, 19 Aug 2026 06:17:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260818-episode-20260818-cde8a8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《羔羊的盛宴》是米泽穗信二零零八年出版的短篇连作集，由五个看似独立的故事组成，核心枢纽是一个名为巴别会的青年读书会。全书围绕秘密、执念与文学展开：女仆村里夕日为小姐打造秘密书架，分享禁忌小说；画家少女由理子在北方馆创作以生命为代价的画作；六位青年在雪封山庄虚构不存在的尸体，只为制造共同记忆；女学生五十铃被世代传唱的歌谣所裹挟；厨娘阿夏为一场虚构的羊群晚餐，献上了一整个羊群的想象。米泽穗信用这五个故事，反复追问：当现实被阶级、权威与欲望压垮，年轻人如何用阅读、艺术与幻想，建造属于自己的精神庇护所？答案藏在所有故事共同的结尾——人不是靠现实活着，而是靠被相信的故事活着。</itunes:summary>
+      <itunes:duration>00:26:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260818/episode-20260818-cde8a8.mp3" length="25457325" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
