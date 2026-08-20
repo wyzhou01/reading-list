@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 20 Aug 2026 03:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 03:51:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14583,6 +14583,17 @@
       <itunes:duration>00:29:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-5e353d.mp3" length="28576557" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《你的名字》 · 完整版 · 你的名字_-_新海诚 · 完整讲读</title>
+      <description>《你的名字》是新海诚二零一六年同名动画电影的小说版，以第一人称视角讲述东京男高中生泷与深山小镇女高中生三叶，在梦中交换身体后相识、相知、又因彗星坠落失去彼此的故事。一颗一千二百年回归一次的迪亚马特彗星坠毁了系守町，三叶以被泷彻底遗忘为代价，改写了历史，拯救了全镇的生灵。三年后，泷凭着胸口那团没有名字的重量，只身前往已成废墟的系守町，在黄昏时分喊出三叶的名字，完成了跨越时间、空间、生死与遗忘的重逢。新海诚用这本小说，回答了制作人川村元气提出的那个问题，比死亡更残酷的，是活着却忘记所爱的人。三叶和泷的抗争，正是对这种残酷的回答。名字，是人存在的最后一道痕迹。</description>
+      <pubDate>Thu, 20 Aug 2026 03:51:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260819-episode-20260819-5f4350</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《你的名字》是新海诚二零一六年同名动画电影的小说版，以第一人称视角讲述东京男高中生泷与深山小镇女高中生三叶，在梦中交换身体后相识、相知、又因彗星坠落失去彼此的故事。一颗一千二百年回归一次的迪亚马特彗星坠毁了系守町，三叶以被泷彻底遗忘为代价，改写了历史，拯救了全镇的生灵。三年后，泷凭着胸口那团没有名字的重量，只身前往已成废墟的系守町，在黄昏时分喊出三叶的名字，完成了跨越时间、空间、生死与遗忘的重逢。新海诚用这本小说，回答了制作人川村元气提出的那个问题，比死亡更残酷的，是活着却忘记所爱的人。三叶和泷的抗争，正是对这种残酷的回答。名字，是人存在的最后一道痕迹。</itunes:summary>
+      <itunes:duration>00:32:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-5f4350.mp3" length="30774573" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
