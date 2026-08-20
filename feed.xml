@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 20 Aug 2026 03:34:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 03:40:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14572,6 +14572,17 @@
       <itunes:duration>00:29:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-80f1b4.mp3" length="27922221" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《三叉戟》 · 完整版 · 三叉戟 · 完整讲读</title>
+      <description>《三叉戟》是警察作家吕铮的代表作，写三位即将退休的老警察——崔铁军、徐国柱、潘江海——在二十年前那桩金融旧案浮出水面时，如何重新出鞘、联手办案的故事。他们一个看大门、一个当巡逻民警、一个被靠边站，却被一宗横跨二十年的腐败大案重新拧到了一起。小说打破了神探高大全的套路，把镜头对准老警察的黄昏与坚守，写他们的无奈、血性、茫然与担当，也写江湖义气与法治精神的拉扯、师徒传承的接力、正义背后的代价。徐国柱最终以身殉职，崔铁军退休时带着二十年的自责，潘江海脱下警服前把所有的经验传给了徒弟。吕铮用三个老炮儿的命运告诉我们：警察也是打工人，职责不是一句口号，江湖义气可以退场，但正义不能老去。</description>
+      <pubDate>Thu, 20 Aug 2026 03:40:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260819-episode-20260819-5e353d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《三叉戟》是警察作家吕铮的代表作，写三位即将退休的老警察——崔铁军、徐国柱、潘江海——在二十年前那桩金融旧案浮出水面时，如何重新出鞘、联手办案的故事。他们一个看大门、一个当巡逻民警、一个被靠边站，却被一宗横跨二十年的腐败大案重新拧到了一起。小说打破了神探高大全的套路，把镜头对准老警察的黄昏与坚守，写他们的无奈、血性、茫然与担当，也写江湖义气与法治精神的拉扯、师徒传承的接力、正义背后的代价。徐国柱最终以身殉职，崔铁军退休时带着二十年的自责，潘江海脱下警服前把所有的经验传给了徒弟。吕铮用三个老炮儿的命运告诉我们：警察也是打工人，职责不是一句口号，江湖义气可以退场，但正义不能老去。</itunes:summary>
+      <itunes:duration>00:29:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-5e353d.mp3" length="28576557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
