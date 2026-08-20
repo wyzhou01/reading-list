@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 20 Aug 2026 01:30:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 01:39:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14429,6 +14429,17 @@
       <itunes:duration>00:30:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-717e81.mp3" length="29658285" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《南十字星下的神迹》 · 完整版 · 南十字星下的神迹 · 完整讲读</title>
+      <description>《南十字星下的神迹》记录1947年挪威探险家索尔·海尔达尔率五人乘原始木筏横渡太平洋的真实故事。挑战学界共识、跨越4300海里、101天抵达波利尼西亚。这不仅是一段航海传奇，更是一部关于人类文明跨洋迁徙可能、探险精神与人在极限中互相信任的勇气史诗。</description>
+      <pubDate>Thu, 20 Aug 2026 01:38:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260819-episode-20260819-5b24e3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《南十字星下的神迹》记录1947年挪威探险家索尔·海尔达尔率五人乘原始木筏横渡太平洋的真实故事。挑战学界共识、跨越4300海里、101天抵达波利尼西亚。这不仅是一段航海传奇，更是一部关于人类文明跨洋迁徙可能、探险精神与人在极限中互相信任的勇气史诗。</itunes:summary>
+      <itunes:duration>00:29:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-5b24e3.mp3" length="28134957" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
