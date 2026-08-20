@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 20 Aug 2026 03:15:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 03:25:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14550,6 +14550,17 @@
       <itunes:duration>00:32:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-c26741.mp3" length="30765357" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《潇然梦》 · 完整版 · 潇然梦_典藏版_-_小佚 · 完整讲读</title>
+      <description>现代女子水冰依坠崖后穿越到架空王朝承乾，在战乱、权谋与三国纷争中，与温润深情的萧祈然和沉默守护她的步杀相遇。她凭借医术、智慧与坚韧卷入宫廷争斗和家国往事，在亲情、爱情与责任之间不断抉择，逐渐摆脱创伤与依赖，完成了从被救赎到自我成长的蜕变。小说以“人生如梦”为核心隐喻，探讨身份认同、自由意志与现代女性在古代环境中的自洽，最终告诉我们：无论身处哪个世界，真正能带走的，不是命运安排的归宿，而是清醒选择、勇敢去爱的能力。</description>
+      <pubDate>Thu, 20 Aug 2026 03:25:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260819-episode-20260819-a05d34</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>现代女子水冰依坠崖后穿越到架空王朝承乾，在战乱、权谋与三国纷争中，与温润深情的萧祈然和沉默守护她的步杀相遇。她凭借医术、智慧与坚韧卷入宫廷争斗和家国往事，在亲情、爱情与责任之间不断抉择，逐渐摆脱创伤与依赖，完成了从被救赎到自我成长的蜕变。小说以“人生如梦”为核心隐喻，探讨身份认同、自由意志与现代女性在古代环境中的自洽，最终告诉我们：无论身处哪个世界，真正能带走的，不是命运安排的归宿，而是清醒选择、勇敢去爱的能力。</itunes:summary>
+      <itunes:duration>00:29:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-a05d34.mp3" length="28767789" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
