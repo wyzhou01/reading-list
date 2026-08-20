@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 20 Aug 2026 03:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 03:34:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14561,6 +14561,17 @@
       <itunes:duration>00:29:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-a05d34.mp3" length="28767789" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《成功就靠这点破英语》 · 完整版 · 成功就靠这点破英语 · 完整讲读</title>
+      <description>《成功就靠这点破英语》是传媒人孙铁麟写给成年人学英语的反常识指南。他用亲身经历证明：英语学习的核心不在背了多少单词、报了多少培训班，而在于敢不敢开口、会不会用最少的词办成最大的事。全书围绕&quot;敢说比会说重要&quot;&quot;一千个词就够用&quot;&quot;模仿美剧是捷径&quot;&quot;场景化学习最高效&quot;&quot;英语是社交工具&quot;五大洞察，颠覆了把英语当学科的应试思维，给出一套性价比极高的实战方法。无论你想升职加薪、出国旅行，还是告别哑巴英语，这本书都能让你重新认识这门语言，也重新认识自己的行动力。</description>
+      <pubDate>Thu, 20 Aug 2026 03:34:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260819-episode-20260819-80f1b4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《成功就靠这点破英语》是传媒人孙铁麟写给成年人学英语的反常识指南。他用亲身经历证明：英语学习的核心不在背了多少单词、报了多少培训班，而在于敢不敢开口、会不会用最少的词办成最大的事。全书围绕&quot;敢说比会说重要&quot;&quot;一千个词就够用&quot;&quot;模仿美剧是捷径&quot;&quot;场景化学习最高效&quot;&quot;英语是社交工具&quot;五大洞察，颠覆了把英语当学科的应试思维，给出一套性价比极高的实战方法。无论你想升职加薪、出国旅行，还是告别哑巴英语，这本书都能让你重新认识这门语言，也重新认识自己的行动力。</itunes:summary>
+      <itunes:duration>00:29:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-80f1b4.mp3" length="27922221" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
