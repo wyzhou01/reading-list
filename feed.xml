@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 20 Aug 2026 07:38:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 07:44:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14616,6 +14616,17 @@
       <itunes:duration>00:22:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260820/episode-20260820-0e0ec3.mp3" length="21380013" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《见字如面》 · 完整版 · 见字如面 · 完整讲读</title>
+      <description>《见字如面》是同名现象级文化节目的书信精选集，由总制片人关正文主编，二零一七年出版，精选战国到当代七十六封私人书信。这些信件最初并非为外人而写——两千二百年前秦军士兵讨要夏衣的家书、韩愈写给鳄鱼的&quot;搬迁通知&quot;、萧红寄不出去的姐姐的悔、黄永玉对曹禺的严厉&quot;教训&quot;——它们的共同点是真实。本书横跨两千五百年，从战场到家书，从情书到绝笔，呈现极端处境下的人性抉择与最深情的家国记忆。在一个越来越不缺表达却越来越说不出口的时代，它提醒我们：见字如面，字里有真。</description>
+      <pubDate>Thu, 20 Aug 2026 07:44:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260820-episode-20260820-26a9f8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《见字如面》是同名现象级文化节目的书信精选集，由总制片人关正文主编，二零一七年出版，精选战国到当代七十六封私人书信。这些信件最初并非为外人而写——两千二百年前秦军士兵讨要夏衣的家书、韩愈写给鳄鱼的&quot;搬迁通知&quot;、萧红寄不出去的姐姐的悔、黄永玉对曹禺的严厉&quot;教训&quot;——它们的共同点是真实。本书横跨两千五百年，从战场到家书，从情书到绝笔，呈现极端处境下的人性抉择与最深情的家国记忆。在一个越来越不缺表达却越来越说不出口的时代，它提醒我们：见字如面，字里有真。</itunes:summary>
+      <itunes:duration>00:22:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260820/episode-20260820-26a9f8.mp3" length="21852717" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
