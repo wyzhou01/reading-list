@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 20 Aug 2026 01:39:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 01:46:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14440,6 +14440,17 @@
       <itunes:duration>00:29:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-5b24e3.mp3" length="28134957" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一个人的好天气》 · 完整版 · 一个人的好天气 · 完整讲读</title>
+      <description>《一个人的好天气》是日本作家青山七惠的处女作与芥川奖获奖作品，讲述二十岁的女孩知寿离开家乡，独居东京，寄住在一个七十多岁的老奶奶吟子家中的故事。小说以四季分章，没有大事件，只有一个女孩吃饭、打工、坐电车、谈一场可有可无的恋爱。贯穿全书的，是知寿偷拿别人小物件收藏在鞋盒子里的习惯，是她和吟子之间沉默的相互依存，是她在漂浮中一点点学会正视自己、告别借来的自我、最终允许自己继续往前走的过程。一本关于都市孤独、代际温情与轻盈告别的书，出版近二十年依然像在写当下每一个在城市里独居的年轻人。</description>
+      <pubDate>Thu, 20 Aug 2026 01:46:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260819-episode-20260819-cc58cf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一个人的好天气》是日本作家青山七惠的处女作与芥川奖获奖作品，讲述二十岁的女孩知寿离开家乡，独居东京，寄住在一个七十多岁的老奶奶吟子家中的故事。小说以四季分章，没有大事件，只有一个女孩吃饭、打工、坐电车、谈一场可有可无的恋爱。贯穿全书的，是知寿偷拿别人小物件收藏在鞋盒子里的习惯，是她和吟子之间沉默的相互依存，是她在漂浮中一点点学会正视自己、告别借来的自我、最终允许自己继续往前走的过程。一本关于都市孤独、代际温情与轻盈告别的书，出版近二十年依然像在写当下每一个在城市里独居的年轻人。</itunes:summary>
+      <itunes:duration>00:29:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-cc58cf.mp3" length="28149933" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
