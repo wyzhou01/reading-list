@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 20 Aug 2026 07:44:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 07:51:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14627,6 +14627,17 @@
       <itunes:duration>00:22:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260820/episode-20260820-26a9f8.mp3" length="21852717" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《周易江湖：趣说《周易》的技法与实例》 · 完整版 · 周易江湖_(中国思想史系列) · 完整讲读</title>
+      <description>《周易江湖》是思想史学者熊逸写的一本易学祛魅之作。本书跳出历代注家的玄学迷雾，回到《左传》中的真实卦例，用推理小说的笔法还原蓍草演卦的完整流程，逐条检验古人断卦的逻辑链条。熊逸犀利指出，义理派与象数派的千年之争本质是话语建构权的拉锯，并提炼出全书核心洞见——熊氏定理：精确预言若想广泛流传，就必须保持足够的模糊度。读完这本书，你会看到古人算的不是天命而是人心，更会掌握一套识别任何&quot;百分百准确&quot;预测体系的底层方法论。</description>
+      <pubDate>Thu, 20 Aug 2026 07:51:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260820-episode-20260820-8784fb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《周易江湖》是思想史学者熊逸写的一本易学祛魅之作。本书跳出历代注家的玄学迷雾，回到《左传》中的真实卦例，用推理小说的笔法还原蓍草演卦的完整流程，逐条检验古人断卦的逻辑链条。熊逸犀利指出，义理派与象数派的千年之争本质是话语建构权的拉锯，并提炼出全书核心洞见——熊氏定理：精确预言若想广泛流传，就必须保持足够的模糊度。读完这本书，你会看到古人算的不是天命而是人心，更会掌握一套识别任何&quot;百分百准确&quot;预测体系的底层方法论。</itunes:summary>
+      <itunes:duration>00:28:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260820/episode-20260820-8784fb.mp3" length="27618093" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
