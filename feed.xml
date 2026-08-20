@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 20 Aug 2026 02:16:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 02:24:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14473,6 +14473,17 @@
       <itunes:duration>00:33:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-fca4f6.mp3" length="31690797" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《撒旦之锤》 · 完整版 · 撒旦之锤 · 完整讲读</title>
+      <description>《撒旦之锤》是拉里·尼文与杰里·波奈尔于一九七七年合著的末日科幻经典。一颗被业余天文学家发现的彗星被主流忽视，最终撞上北美大陆。小说并未停留在灾难爆点，而是用七百多页篇幅冷静推演文明崩塌后的众生相：政府如何瘫痪、军队如何重组、宗教如何异化、强人如何填补真空、科学家和工程师如何默默救人。它既是硬核的天文物理推演，也是社会学意义上的末日寓言——文明的脆弱与人性的扭曲，被这部小说写得淋漓尽致。在疫情、气候危机与极端思潮轮番冲击的今天，重读这部作品依然具有切中要害的当下性：文明的承重墙，从来不是强人与神话，而是那些在场的、愿意把手弄脏的沉默的大多数。</description>
+      <pubDate>Thu, 20 Aug 2026 02:24:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260819-episode-20260819-b88706</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《撒旦之锤》是拉里·尼文与杰里·波奈尔于一九七七年合著的末日科幻经典。一颗被业余天文学家发现的彗星被主流忽视，最终撞上北美大陆。小说并未停留在灾难爆点，而是用七百多页篇幅冷静推演文明崩塌后的众生相：政府如何瘫痪、军队如何重组、宗教如何异化、强人如何填补真空、科学家和工程师如何默默救人。它既是硬核的天文物理推演，也是社会学意义上的末日寓言——文明的脆弱与人性的扭曲，被这部小说写得淋漓尽致。在疫情、气候危机与极端思潮轮番冲击的今天，重读这部作品依然具有切中要害的当下性：文明的承重墙，从来不是强人与神话，而是那些在场的、愿意把手弄脏的沉默的大多数。</itunes:summary>
+      <itunes:duration>00:27:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-b88706.mp3" length="26242605" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
