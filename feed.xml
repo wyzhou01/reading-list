@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 20 Aug 2026 02:52:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 02:58:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14517,6 +14517,17 @@
       <itunes:duration>00:36:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-766b4b.mp3" length="34942125" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《凯尔特的薄暮》 · 完整版 · 凯尔特的薄暮 · 完整讲读</title>
+      <description>《凯尔特的薄暮》是叶芝二十八岁时记录的三十九则爱尔兰乡野传说与幻视笔记。一八九三年初版，一九零二年叶芝亲撰两篇自序修订再版。这位诺贝尔文学奖得主走遍斯莱戈与戈尔韦的乡间，坐在农夫的火炉边，倾听他们讲述仙人、女妖、鬼魂、幻视与生死之界的故事。他相信淳朴的心灵里藏着一个比钢铁城市更辽阔的世界，并把这份来自乡野的浪漫与神秘，化作日后爱尔兰文学复兴运动的火种。</description>
+      <pubDate>Thu, 20 Aug 2026 02:58:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260819-episode-20260819-d24a9b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《凯尔特的薄暮》是叶芝二十八岁时记录的三十九则爱尔兰乡野传说与幻视笔记。一八九三年初版，一九零二年叶芝亲撰两篇自序修订再版。这位诺贝尔文学奖得主走遍斯莱戈与戈尔韦的乡间，坐在农夫的火炉边，倾听他们讲述仙人、女妖、鬼魂、幻视与生死之界的故事。他相信淳朴的心灵里藏着一个比钢铁城市更辽阔的世界，并把这份来自乡野的浪漫与神秘，化作日后爱尔兰文学复兴运动的火种。</itunes:summary>
+      <itunes:duration>00:25:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-d24a9b.mp3" length="24408621" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
