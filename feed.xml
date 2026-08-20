@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 20 Aug 2026 02:58:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 03:07:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14528,6 +14528,17 @@
       <itunes:duration>00:25:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-d24a9b.mp3" length="24408621" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《良言写意（珍藏纪念版）》 · 完整版 · 良言写意（珍藏纪念版） · 完整讲读</title>
+      <description>《良言写意》是莫筱薇创作的一部都市言情小说，讲述了初出茅庐的小律师沈写意与身家百亿的商界传奇厉择良，从一次电梯偶遇开始，彼此试探、彼此误会、彼此靠近的故事。厉择良右腿有旧伤，不愿被人察觉，独自爬二十三层楼梯；沈写意为跟进项目每日早到，无意撞破他的秘密。两个伪装各自狼狈的人，从创可贴、从楼梯间、从一巴掌的疼痛中，慢慢走到一起。十三年珍藏纪念版完整收录四篇番外，其中写意闺蜜何今夕与霸道总裁詹东圳欢喜冤家的故事，更添烟火气。这本书的特别之处在于，不写神与灰姑娘，只写两个成年人如何在名利场里笨拙地、自卑又骄傲地，交付真心。</description>
+      <pubDate>Thu, 20 Aug 2026 03:07:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260819-episode-20260819-25f6ff</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《良言写意》是莫筱薇创作的一部都市言情小说，讲述了初出茅庐的小律师沈写意与身家百亿的商界传奇厉择良，从一次电梯偶遇开始，彼此试探、彼此误会、彼此靠近的故事。厉择良右腿有旧伤，不愿被人察觉，独自爬二十三层楼梯；沈写意为跟进项目每日早到，无意撞破他的秘密。两个伪装各自狼狈的人，从创可贴、从楼梯间、从一巴掌的疼痛中，慢慢走到一起。十三年珍藏纪念版完整收录四篇番外，其中写意闺蜜何今夕与霸道总裁詹东圳欢喜冤家的故事，更添烟火气。这本书的特别之处在于，不写神与灰姑娘，只写两个成年人如何在名利场里笨拙地、自卑又骄傲地，交付真心。</itunes:summary>
+      <itunes:duration>00:27:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-25f6ff.mp3" length="26344365" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
