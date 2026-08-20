@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 20 Aug 2026 07:51:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 07:59:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14638,6 +14638,17 @@
       <itunes:duration>00:28:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260820/episode-20260820-8784fb.mp3" length="27618093" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《金融炼金术的终结》 · 完整版 · 金融炼金术的终结 · 完整讲读</title>
+      <description>本期《好好读书》为你完整讲读前英格兰银行行长默文·金的《金融炼金术的终结》。这本书从一个核心追问出发：现代银行业为什么注定反复爆发危机？默文·金提出五大洞察：第一，货币的本质是炼金术，靠国家信用和集体信任支撑；第二，银行业天生脆弱，借短贷长让流动性危机随时可能引爆；第三，央行工具箱在零利率环境下已经见底；第四，全球消费与储蓄失衡，才是危机的真正温床；第五，唯有把央行担保从暗处拽到明处，建立全天候典当铺式的永久流动性机制，才有望终结炼金术。然而国际合作的囚徒困境几乎无解，下一场危机不是会不会的问题，而是什么时候、以什么形式爆发的问题。听完整本书，你会对金融危机建立一份清醒的认知。</description>
+      <pubDate>Thu, 20 Aug 2026 07:59:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260820-episode-20260820-4634e9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期《好好读书》为你完整讲读前英格兰银行行长默文·金的《金融炼金术的终结》。这本书从一个核心追问出发：现代银行业为什么注定反复爆发危机？默文·金提出五大洞察：第一，货币的本质是炼金术，靠国家信用和集体信任支撑；第二，银行业天生脆弱，借短贷长让流动性危机随时可能引爆；第三，央行工具箱在零利率环境下已经见底；第四，全球消费与储蓄失衡，才是危机的真正温床；第五，唯有把央行担保从暗处拽到明处，建立全天候典当铺式的永久流动性机制，才有望终结炼金术。然而国际合作的囚徒困境几乎无解，下一场危机不是会不会的问题，而是什么时候、以什么形式爆发的问题。听完整本书，你会对金融危机建立一份清醒的认知。</itunes:summary>
+      <itunes:duration>00:31:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260820/episode-20260820-4634e9.mp3" length="30675117" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
