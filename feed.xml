@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 20 Aug 2026 01:23:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 01:30:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14418,6 +14418,17 @@
       <itunes:duration>00:29:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-d22009.mp3" length="27990189" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一城草木》 · 完整版 · 一城草木_(博物学文化丛书) · 完整讲读</title>
+      <description>《一城草木》是清华大学毕业生陈超群在深圳生活十余年后写下的博物随笔集。她以深圳大学城及周边山野为观察场域，用两年时间记录近百种花草树木，把拉丁学名、引种史、《诗经》典故与个人迁徙记忆揉进几百字的小文里。在库克船长发现博特尼湾的大航海背景中，红千层从澳洲被带向全球；在清华园的紫藤与深圳的马兰头之间，她完成了从北方到岭南的精神扎根。本书属于上海交通大学出版社“博物学文化丛书“，总序中刘华杰提出“静为躁君，慢变量支配快变量“，主张在现代性焦虑中恢复博物学这一古老的生活方式。它不是一本植物图鉴，而是一个新移民用草木重新理解“何为家园“的答案，也是一份送给所有在城市里漂泊的人的精神返乡指南。</description>
+      <pubDate>Thu, 20 Aug 2026 01:30:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260819-episode-20260819-717e81</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一城草木》是清华大学毕业生陈超群在深圳生活十余年后写下的博物随笔集。她以深圳大学城及周边山野为观察场域，用两年时间记录近百种花草树木，把拉丁学名、引种史、《诗经》典故与个人迁徙记忆揉进几百字的小文里。在库克船长发现博特尼湾的大航海背景中，红千层从澳洲被带向全球；在清华园的紫藤与深圳的马兰头之间，她完成了从北方到岭南的精神扎根。本书属于上海交通大学出版社“博物学文化丛书“，总序中刘华杰提出“静为躁君，慢变量支配快变量“，主张在现代性焦虑中恢复博物学这一古老的生活方式。它不是一本植物图鉴，而是一个新移民用草木重新理解“何为家园“的答案，也是一份送给所有在城市里漂泊的人的精神返乡指南。</itunes:summary>
+      <itunes:duration>00:30:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-717e81.mp3" length="29658285" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
