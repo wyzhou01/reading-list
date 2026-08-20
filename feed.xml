@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 20 Aug 2026 02:05:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 02:16:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14462,6 +14462,17 @@
       <itunes:duration>00:24:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-e4c375.mp3" length="23200173" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《形迹可疑的人：恰佩克哲理侦探小说集》 · 完整版 · 形迹可疑的人：恰佩克哲理侦探小说集 · 完整讲读</title>
+      <description>《形迹可疑的人》是捷克作家卡雷尔·恰佩克一九二九年出版的哲理侦探小说集，原名《来自两个口袋的故事》。全书二十余个短篇不以破案为目的，而是以罪案为镜子，照出人性在极端情境下的细微褶皱：一个高级公务员在挨打两枪后，于深夜回想起一生推开过的人；一个集邮老人因一次错怪，失去了童年唯一的友谊和整个人生的温度；一个听不懂英语的指挥家，在异国深夜用音乐的耳朵听出一桩即将发生的谋杀；一个见过一百三十具尸体的老兵，被一只打了补丁的袜子彻底击溃。博尔赫斯盛赞本书将侦探小说提升为一种哲学文体。一本关于人心、关于正义边界、关于如何不带标签地看见另一个人的书。</description>
+      <pubDate>Thu, 20 Aug 2026 02:15:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260819-episode-20260819-fca4f6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《形迹可疑的人》是捷克作家卡雷尔·恰佩克一九二九年出版的哲理侦探小说集，原名《来自两个口袋的故事》。全书二十余个短篇不以破案为目的，而是以罪案为镜子，照出人性在极端情境下的细微褶皱：一个高级公务员在挨打两枪后，于深夜回想起一生推开过的人；一个集邮老人因一次错怪，失去了童年唯一的友谊和整个人生的温度；一个听不懂英语的指挥家，在异国深夜用音乐的耳朵听出一桩即将发生的谋杀；一个见过一百三十具尸体的老兵，被一只打了补丁的袜子彻底击溃。博尔赫斯盛赞本书将侦探小说提升为一种哲学文体。一本关于人心、关于正义边界、关于如何不带标签地看见另一个人的书。</itunes:summary>
+      <itunes:duration>00:33:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-fca4f6.mp3" length="31690797" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
