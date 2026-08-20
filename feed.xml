@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 20 Aug 2026 03:51:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 07:30:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14594,6 +14594,17 @@
       <itunes:duration>00:32:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-5f4350.mp3" length="30774573" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《饥饿的女儿》 · 完整版 · 饥饿的女儿 · 完整讲读</title>
+      <description>《饥饿的女儿》是旅英作家虹影的半自传体小说，以一九六二年生于重庆南岸贫民窟的女孩六六为主人公，讲述她作为私生女在贫困、饥饿与隐秘中长大，十八岁那年得知身世真相、逃离重庆、最终用写作直面家族创伤的故事。小说不控诉、不煽情，以刀一样的笔触揭开一个家庭三代女性的秘密，呈现饥饿、身份迷失、母亲与女儿之间说不出口的爱与痛，是中国当代女性自传记写作的突破之作。</description>
+      <pubDate>Thu, 20 Aug 2026 07:30:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260820-episode-20260820-78e25f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《饥饿的女儿》是旅英作家虹影的半自传体小说，以一九六二年生于重庆南岸贫民窟的女孩六六为主人公，讲述她作为私生女在贫困、饥饿与隐秘中长大，十八岁那年得知身世真相、逃离重庆、最终用写作直面家族创伤的故事。小说不控诉、不煽情，以刀一样的笔触揭开一个家庭三代女性的秘密，呈现饥饿、身份迷失、母亲与女儿之间说不出口的爱与痛，是中国当代女性自传记写作的突破之作。</itunes:summary>
+      <itunes:duration>00:33:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260820/episode-20260820-78e25f.mp3" length="32043309" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
