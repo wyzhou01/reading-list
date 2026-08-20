@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 20 Aug 2026 07:30:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 07:38:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14605,6 +14605,17 @@
       <itunes:duration>00:33:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260820/episode-20260820-78e25f.mp3" length="32043309" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《故园风雨后》 · 完整版 · 故园风雨后（伊夫林·沃作品系列） · 完整讲读</title>
+      <description>《故园风雨后》是英国作家伊夫林·沃的代表作，写一个二战军官重返英格兰庄园布赖兹赫德——他二十年前青春与爱情发生之地——的故事。表面写两次大战之间英国贵族的衰败，深层则探讨故园、信仰、与归属的真正含义。侯爵把家产传给弟弟而拒给亲生儿子，长子塞巴斯蒂安酗酒流亡异乡，女儿朱莉娅在反抗与妥协中烧毁自己——他们没被外敌打败，他们是被时代从内部掏空。贯穿全书的是天主教作为&quot;温柔的坚持&quot;——它不能阻止衰败，却让人保有尊严。这本书告诉我们：故园从来不是一个地点，它是一种再也无法抵达、却始终在耳边回响的声音。</description>
+      <pubDate>Thu, 20 Aug 2026 07:37:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260820-episode-20260820-0e0ec3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《故园风雨后》是英国作家伊夫林·沃的代表作，写一个二战军官重返英格兰庄园布赖兹赫德——他二十年前青春与爱情发生之地——的故事。表面写两次大战之间英国贵族的衰败，深层则探讨故园、信仰、与归属的真正含义。侯爵把家产传给弟弟而拒给亲生儿子，长子塞巴斯蒂安酗酒流亡异乡，女儿朱莉娅在反抗与妥协中烧毁自己——他们没被外敌打败，他们是被时代从内部掏空。贯穿全书的是天主教作为&quot;温柔的坚持&quot;——它不能阻止衰败，却让人保有尊严。这本书告诉我们：故园从来不是一个地点，它是一种再也无法抵达、却始终在耳边回响的声音。</itunes:summary>
+      <itunes:duration>00:22:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260820/episode-20260820-0e0ec3.mp3" length="21380013" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
