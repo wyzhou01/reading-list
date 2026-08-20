@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 19 Aug 2026 08:20:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 01:23:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14407,6 +14407,17 @@
       <itunes:duration>00:30:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-0ae2da.mp3" length="28893741" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《股票投资的24堂必修课》 · 完整版 · 股票投资的24堂必修课_(华章经典•金融投资) · 完整讲读</title>
+      <description>《股票投资的二十四堂必修课》是威廉·欧奈尔把一九五三以来每一只龙头股的公开数据系统研究后，浓缩成 CAN SLIM 选股体系的实战指南。本书围绕七项共同特征——当期每股收益高、年均盈利增速可观、新产品新管理层新股价新高、供需关系决定股价、领军股优先、机构认同、市场方向——构建了一套基本面与技术面并用的操作系统，并给出严格的止损纪律、图表买入点、大盘顶底判断、组合管理与卖出法则。这本书不会让你一夜暴富，但会给你一套可以穿越牛熊、可复制、可执行的实战投资系统。</description>
+      <pubDate>Thu, 20 Aug 2026 01:23:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260819-episode-20260819-d22009</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《股票投资的二十四堂必修课》是威廉·欧奈尔把一九五三以来每一只龙头股的公开数据系统研究后，浓缩成 CAN SLIM 选股体系的实战指南。本书围绕七项共同特征——当期每股收益高、年均盈利增速可观、新产品新管理层新股价新高、供需关系决定股价、领军股优先、机构认同、市场方向——构建了一套基本面与技术面并用的操作系统，并给出严格的止损纪律、图表买入点、大盘顶底判断、组合管理与卖出法则。这本书不会让你一夜暴富，但会给你一套可以穿越牛熊、可复制、可执行的实战投资系统。</itunes:summary>
+      <itunes:duration>00:29:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-d22009.mp3" length="27990189" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
