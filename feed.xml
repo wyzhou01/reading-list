@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 20 Aug 2026 02:32:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 02:41:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14495,6 +14495,17 @@
       <itunes:duration>00:28:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-f4df61.mp3" length="27581997" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《漂亮朋友》 · 完整版 · 漂亮朋友 · 完整讲读</title>
+      <description>《漂亮朋友》是法国作家莫泊桑于一八八五年出版的长篇小说。穷退伍兵杜洛华凭一张漂亮脸孔闯入巴黎新闻圈，借与老板之女结婚跃升上流社会，最终戴上勋章、角逐议员。小说以冷峻笔法刻画第三共和国时期新闻、金融与政治的合谋，是十九世纪法国最犀利的野心家寓言。</description>
+      <pubDate>Thu, 20 Aug 2026 02:41:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260819-episode-20260819-4baa8f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《漂亮朋友》是法国作家莫泊桑于一八八五年出版的长篇小说。穷退伍兵杜洛华凭一张漂亮脸孔闯入巴黎新闻圈，借与老板之女结婚跃升上流社会，最终戴上勋章、角逐议员。小说以冷峻笔法刻画第三共和国时期新闻、金融与政治的合谋，是十九世纪法国最犀利的野心家寓言。</itunes:summary>
+      <itunes:duration>00:35:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-4baa8f.mp3" length="34346541" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
