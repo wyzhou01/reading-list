@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 20 Aug 2026 02:24:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 02:32:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14484,6 +14484,17 @@
       <itunes:duration>00:27:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-b88706.mp3" length="26242605" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《平原》 · 完整版 · 平原 · 完整讲读</title>
+      <description>《平原》是毕飞宇二〇〇五年定稿的长篇小说，二〇一一年由人民文学出版社出版。全书二十七万八千字，二十四章，以一九七六年的苏北王家庄为背景，写一群人在政治松绑后、领袖更替前的精神死寂里，如何让欲望、隐忍、算计和残缺汹涌成河。少年端方带着一身力气回到村庄，在麦收、丧葬、选举的轮回里周旋，在三丫、吴蔓玲、佩全这些女子与权势之间寻找自己的位置。毕飞宇以屋檐下的私人视角，写出了中国乡村肌理中权力、欲望与隐忍的日常形态。</description>
+      <pubDate>Thu, 20 Aug 2026 02:32:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260819-episode-20260819-f4df61</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《平原》是毕飞宇二〇〇五年定稿的长篇小说，二〇一一年由人民文学出版社出版。全书二十七万八千字，二十四章，以一九七六年的苏北王家庄为背景，写一群人在政治松绑后、领袖更替前的精神死寂里，如何让欲望、隐忍、算计和残缺汹涌成河。少年端方带着一身力气回到村庄，在麦收、丧葬、选举的轮回里周旋，在三丫、吴蔓玲、佩全这些女子与权势之间寻找自己的位置。毕飞宇以屋檐下的私人视角，写出了中国乡村肌理中权力、欲望与隐忍的日常形态。</itunes:summary>
+      <itunes:duration>00:28:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-f4df61.mp3" length="27581997" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
