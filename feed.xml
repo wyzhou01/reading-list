@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 20 Aug 2026 01:46:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 02:05:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14451,6 +14451,17 @@
       <itunes:duration>00:29:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-cc58cf.mp3" length="28149933" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《卡门》 · 完整版 · 卡门（读客版） · 完整讲读</title>
+      <description>《卡门》是法国文学大师梅里美的代表作，讲述了一段走向毁灭的爱情故事。波希米亚女子卡门走私、行骗、敢爱敢恨，只为一个“自由”而活。西班牙士兵唐·育才为她倾倒，却因占有欲与嫉妒走向犯罪，最终亲手杀死了这个不愿被束缚的女人。梅里美通过这段悲剧，深刻探讨了自由与命运的冲突、爱情与激情的毁灭性力量、个人本性与社会规范的对抗，以及命运的荒诞与人生的偶然。卡门已成为文学史上最著名的女性角色之一，代表着不羁的灵魂与拒绝妥协的精神。</description>
+      <pubDate>Thu, 20 Aug 2026 02:05:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260819-episode-20260819-e4c375</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《卡门》是法国文学大师梅里美的代表作，讲述了一段走向毁灭的爱情故事。波希米亚女子卡门走私、行骗、敢爱敢恨，只为一个“自由”而活。西班牙士兵唐·育才为她倾倒，却因占有欲与嫉妒走向犯罪，最终亲手杀死了这个不愿被束缚的女人。梅里美通过这段悲剧，深刻探讨了自由与命运的冲突、爱情与激情的毁灭性力量、个人本性与社会规范的对抗，以及命运的荒诞与人生的偶然。卡门已成为文学史上最著名的女性角色之一，代表着不羁的灵魂与拒绝妥协的精神。</itunes:summary>
+      <itunes:duration>00:24:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-e4c375.mp3" length="23200173" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
