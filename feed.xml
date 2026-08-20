@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 20 Aug 2026 03:07:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 03:15:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14539,6 +14539,17 @@
       <itunes:duration>00:27:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-25f6ff.mp3" length="26344365" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《这里的黎明静悄悄……》 · 完整版 · 这里的黎明静悄悄…… · 完整讲读</title>
+      <description>苏联作家瓦西里耶夫一九六九年发表的《这里的黎明静悄悄》，讲述一九四二年五月，准尉瓦斯科夫带领五名年轻女高射机枪手在偏远火车站附近森林中阻击十六名德国伞兵的故事。五位姑娘——奥夏宁娜、科梅丽珂娃、契特维尔达克、别什金、弗洛拉——分别带着丧夫之痛、家破之仇、未婚之孕与丧子之憾，最终全部牺牲，唯独瓦斯科夫一人靠一颗无引信的手榴弹和芬兰刀完成了任务。作者借女兵之死，控诉了“杀害妇女即反人类“的战争逻辑；借准尉之活，写出了一个普通男人在极端处境中如何守住最后的尊严。尾声二十多年后，瓦斯科夫带着儿子回到那片森林，立下大理石墓碑。一九七二年同名电影传遍世界，本期以两小时完整讲述这部中篇及其跨越时空的人道主义回响。</description>
+      <pubDate>Thu, 20 Aug 2026 03:15:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260819-episode-20260819-c26741</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>苏联作家瓦西里耶夫一九六九年发表的《这里的黎明静悄悄》，讲述一九四二年五月，准尉瓦斯科夫带领五名年轻女高射机枪手在偏远火车站附近森林中阻击十六名德国伞兵的故事。五位姑娘——奥夏宁娜、科梅丽珂娃、契特维尔达克、别什金、弗洛拉——分别带着丧夫之痛、家破之仇、未婚之孕与丧子之憾，最终全部牺牲，唯独瓦斯科夫一人靠一颗无引信的手榴弹和芬兰刀完成了任务。作者借女兵之死，控诉了“杀害妇女即反人类“的战争逻辑；借准尉之活，写出了一个普通男人在极端处境中如何守住最后的尊严。尾声二十多年后，瓦斯科夫带着儿子回到那片森林，立下大理石墓碑。一九七二年同名电影传遍世界，本期以两小时完整讲述这部中篇及其跨越时空的人道主义回响。</itunes:summary>
+      <itunes:duration>00:32:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260819/episode-20260819-c26741.mp3" length="30765357" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
