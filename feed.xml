@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 20 Aug 2026 07:59:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 07:31:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14649,6 +14649,17 @@
       <itunes:duration>00:31:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260820/episode-20260820-4634e9.mp3" length="30675117" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《加缪传》 · 完整版 · 加缪传_-_奥利维耶·托德 · 完整讲读</title>
+      <description>《加缪传》由法国作家奥利维耶·托德历时多年写成。托德借档案、信件与对谈，不只梳理加缪的一生，更聚焦他作为写作者的工作姿态——荒诞哲学的形成、阿尔及利亚身份带来的撕裂、与萨特的决裂，以及那些藏在打字机、废纸篓与深夜香烟背后的具体劳动。一千多页的传记，最终指向一个问题：一个人该如何在拒绝被定义的同时，依然把自己完整地写下来。</description>
+      <pubDate>Fri, 21 Aug 2026 07:30:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260821-episode-20260821-e3b88c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《加缪传》由法国作家奥利维耶·托德历时多年写成。托德借档案、信件与对谈，不只梳理加缪的一生，更聚焦他作为写作者的工作姿态——荒诞哲学的形成、阿尔及利亚身份带来的撕裂、与萨特的决裂，以及那些藏在打字机、废纸篓与深夜香烟背后的具体劳动。一千多页的传记，最终指向一个问题：一个人该如何在拒绝被定义的同时，依然把自己完整地写下来。</itunes:summary>
+      <itunes:duration>00:24:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260821/episode-20260821-e3b88c.mp3" length="23062317" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
