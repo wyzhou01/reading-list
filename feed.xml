@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 21 Aug 2026 07:31:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 07:39:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14660,6 +14660,17 @@
       <itunes:duration>00:24:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260821/episode-20260821-e3b88c.mp3" length="23062317" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《饥饿游戏（全三册）》 · 完整版 · 饥饿游戏（全三册） · 完整讲读</title>
+      <description>《饥饿游戏》三部曲讲述了一个象征反乌托邦美国的帕纳姆国中，十二个区每年必须有少年被送进竞技场相互残杀，并透过电视转播被全国观看。少女凯特尼斯为救妹妹自愿参赛，与另一贡品皮塔在镜头前上演“星恋”，却在不知不觉中成为点燃反抗的火花。续集中她被推上嘲讽鸟的旗帜，卷入席卷全国的战争；第三部中战争蔓延、伙伴牺牲，她终于在废墟中走向反噬，共写下了关于极权、媒体、表演与反抗代价的世纪寓言。</description>
+      <pubDate>Fri, 21 Aug 2026 07:39:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260821-episode-20260821-775bf2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《饥饿游戏》三部曲讲述了一个象征反乌托邦美国的帕纳姆国中，十二个区每年必须有少年被送进竞技场相互残杀，并透过电视转播被全国观看。少女凯特尼斯为救妹妹自愿参赛，与另一贡品皮塔在镜头前上演“星恋”，却在不知不觉中成为点燃反抗的火花。续集中她被推上嘲讽鸟的旗帜，卷入席卷全国的战争；第三部中战争蔓延、伙伴牺牲，她终于在废墟中走向反噬，共写下了关于极权、媒体、表演与反抗代价的世纪寓言。</itunes:summary>
+      <itunes:duration>00:23:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260821/episode-20260821-775bf2.mp3" length="22627629" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
