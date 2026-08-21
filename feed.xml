@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 21 Aug 2026 07:46:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 07:56:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14682,6 +14682,17 @@
       <itunes:duration>00:16:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260821/episode-20260821-eb3077.mp3" length="16120749" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《童年 在人间 我的大学》 · 完整版 · 童年_在人间_我的大学（译文名著精选） · 完整讲读</title>
+      <description>《童年　在人间　我的大学》是俄国作家高尔基用十年时间写就的自传体三部曲，记录他从三岁丧父到十九岁的苦难与觉醒：童年在外祖父的小染坊里目睹人性之恶，被外婆的爱与光拯救；十一岁被逐出家门，流浪在皮鞋店、轮船、圣像作坊间，靠厨师斯穆雷一箱书启蒙；十六岁到喀山想上大学却进不去，转而在码头、贫民窟和民粹派革命者的图书室里读完了&apos;没围墙的大学&apos;。它告诉每一个普通人：真正的成长，不是躲开黑暗，而是在黑暗里找到光，然后选择把光传下去。</description>
+      <pubDate>Fri, 21 Aug 2026 07:56:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260821-episode-20260821-7d6369</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《童年　在人间　我的大学》是俄国作家高尔基用十年时间写就的自传体三部曲，记录他从三岁丧父到十九岁的苦难与觉醒：童年在外祖父的小染坊里目睹人性之恶，被外婆的爱与光拯救；十一岁被逐出家门，流浪在皮鞋店、轮船、圣像作坊间，靠厨师斯穆雷一箱书启蒙；十六岁到喀山想上大学却进不去，转而在码头、贫民窟和民粹派革命者的图书室里读完了&apos;没围墙的大学&apos;。它告诉每一个普通人：真正的成长，不是躲开黑暗，而是在黑暗里找到光，然后选择把光传下去。</itunes:summary>
+      <itunes:duration>00:28:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260821/episode-20260821-7d6369.mp3" length="27269805" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
