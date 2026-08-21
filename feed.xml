@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 21 Aug 2026 12:36:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 12:47:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14726,6 +14726,17 @@
       <itunes:duration>00:27:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260821/episode-20260821-848144.mp3" length="26848557" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《猫力乱步》 · 完整版 · 猫力乱步 · 完整讲读</title>
+      <description>《猫力乱步》是八零末女孩猫力的旅行自传，记录了她从小学三年级卖干脆面卡片开始，一路开淘宝、租格子铺、写猎奇小说赚稿费，硬生生把自己练成“天生的商人“，再带着自己赚来的全部积蓄，和男朋友瘦肉从东南亚走到南亚、穷游一年半的真实故事。全书分为“如何赚钱出门旅行“、“如何说服父母“、“如何搞定伴侣“和“路上的故事“四大板块，既是一本极其野路子的穷游攻略手册，也是一个年轻女孩用一年半时间写给世界的反叛情书——她用最口语、最犀利的笔法，把旅途中的荒诞、狼狈、争吵和感动全部写下来，告诉你：旅行不是诗和远方，是先证明自己配得上出发，再承认自己渺小、承认别人伟大、承认自己值得被爱。十年过去，攻略早已过时，但那种“先证明再出发“的自力更生哲学，依然是每一个想出发的年轻人最锋利的答案。</description>
+      <pubDate>Fri, 21 Aug 2026 12:47:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260821-episode-20260821-250fc3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《猫力乱步》是八零末女孩猫力的旅行自传，记录了她从小学三年级卖干脆面卡片开始，一路开淘宝、租格子铺、写猎奇小说赚稿费，硬生生把自己练成“天生的商人“，再带着自己赚来的全部积蓄，和男朋友瘦肉从东南亚走到南亚、穷游一年半的真实故事。全书分为“如何赚钱出门旅行“、“如何说服父母“、“如何搞定伴侣“和“路上的故事“四大板块，既是一本极其野路子的穷游攻略手册，也是一个年轻女孩用一年半时间写给世界的反叛情书——她用最口语、最犀利的笔法，把旅途中的荒诞、狼狈、争吵和感动全部写下来，告诉你：旅行不是诗和远方，是先证明自己配得上出发，再承认自己渺小、承认别人伟大、承认自己值得被爱。十年过去，攻略早已过时，但那种“先证明再出发“的自力更生哲学，依然是每一个想出发的年轻人最锋利的答案。</itunes:summary>
+      <itunes:duration>00:33:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260821/episode-20260821-250fc3.mp3" length="32469165" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
