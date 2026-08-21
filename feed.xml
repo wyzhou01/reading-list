@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 21 Aug 2026 12:26:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 12:36:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14715,6 +14715,17 @@
       <itunes:duration>00:39:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260821/episode-20260821-7781a6.mp3" length="37486893" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《伏尔泰小说精选（读客版）》 · 完整版 · 伏尔泰小说精选（读客版） · 完整讲读</title>
+      <description>《伏尔泰小说精选》收录了启蒙运动旗手伏尔泰七部哲理小说的精华，从《老实人》到《小大人》。伏尔泰用笑声做手术，把乐观主义的破产、教会与权力的把戏、战争与殖民的荒诞一一挑破。他不给你黄金国，只给你一面看清脚下荒唐的镜子；他不给你新答案，只示范一种姿势——看清荒诞，依然行动；看清渺小，依然去耕那一小块地。</description>
+      <pubDate>Fri, 21 Aug 2026 12:35:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260821-episode-20260821-848144</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《伏尔泰小说精选》收录了启蒙运动旗手伏尔泰七部哲理小说的精华，从《老实人》到《小大人》。伏尔泰用笑声做手术，把乐观主义的破产、教会与权力的把戏、战争与殖民的荒诞一一挑破。他不给你黄金国，只给你一面看清脚下荒唐的镜子；他不给你新答案，只示范一种姿势——看清荒诞，依然行动；看清渺小，依然去耕那一小块地。</itunes:summary>
+      <itunes:duration>00:27:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260821/episode-20260821-848144.mp3" length="26848557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
