@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 21 Aug 2026 07:39:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 07:46:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14671,6 +14671,17 @@
       <itunes:duration>00:23:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260821/episode-20260821-775bf2.mp3" length="22627629" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《海狼》 · 完整版 · 海狼_-_[美]_杰克·伦敦 · 完整讲读</title>
+      <description>《海狼》是美国作家杰克·伦敦一九零四年写就的硬汉经典。文学评论家卫登因渡船海难被猎海豹船“魔鬼号”船长海狼·拉森救下，从此沦为船上苦力。在没有法律的太平洋上，海狼信奉“强权即公理”，视船员为工具；卫登则用柔弱的良心一次次拒绝低头。两人从互相试探，到彼此磨砺，最终海狼因中风瘫倒，被自己信奉的“超人哲学”反噬；卫登则在守护爱人莫德的过程中，长出了属于自己的骨头。杰克·伦敦借这部作品，撕开了“超人哲学”最虚伪的一面，也写出了爱与尊严在极端压迫下的顽强生长。今天读这本书，关于权力、孤独与活着的意义，每一个拷问依然锋利。</description>
+      <pubDate>Fri, 21 Aug 2026 07:46:46 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260821-episode-20260821-eb3077</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《海狼》是美国作家杰克·伦敦一九零四年写就的硬汉经典。文学评论家卫登因渡船海难被猎海豹船“魔鬼号”船长海狼·拉森救下，从此沦为船上苦力。在没有法律的太平洋上，海狼信奉“强权即公理”，视船员为工具；卫登则用柔弱的良心一次次拒绝低头。两人从互相试探，到彼此磨砺，最终海狼因中风瘫倒，被自己信奉的“超人哲学”反噬；卫登则在守护爱人莫德的过程中，长出了属于自己的骨头。杰克·伦敦借这部作品，撕开了“超人哲学”最虚伪的一面，也写出了爱与尊严在极端压迫下的顽强生长。今天读这本书，关于权力、孤独与活着的意义，每一个拷问依然锋利。</itunes:summary>
+      <itunes:duration>00:16:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260821/episode-20260821-eb3077.mp3" length="16120749" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
