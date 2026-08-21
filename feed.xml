@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 21 Aug 2026 08:06:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 12:26:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14704,6 +14704,17 @@
       <itunes:duration>00:31:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260821/episode-20260821-1a8ac2.mp3" length="29780781" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《女王乔安》 · 完整版 · 女王乔安 · 完整讲读</title>
+      <description>《女王乔安》讲述落难千金乔安在上海职场与情感世界里的&quot;女王&quot;生存术。她冷硬、不解释、把爱当资源经营，却在每一段关系里都付出不被看见的代价。倪好是乔安的镜像——一个普通女孩对女王的嫉妒、模仿、不服气与和解。最终这本书告诉我们：每个女孩心里都住着一个乔安和一个倪好，一个是那个不肯认命的自己，一个是那个仰望到心碎的旁观者。读完这本书，你会知道——你可以敢飞，但也永远要有地方回来。</description>
+      <pubDate>Fri, 21 Aug 2026 12:26:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260821-episode-20260821-7781a6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《女王乔安》讲述落难千金乔安在上海职场与情感世界里的&quot;女王&quot;生存术。她冷硬、不解释、把爱当资源经营，却在每一段关系里都付出不被看见的代价。倪好是乔安的镜像——一个普通女孩对女王的嫉妒、模仿、不服气与和解。最终这本书告诉我们：每个女孩心里都住着一个乔安和一个倪好，一个是那个不肯认命的自己，一个是那个仰望到心碎的旁观者。读完这本书，你会知道——你可以敢飞，但也永远要有地方回来。</itunes:summary>
+      <itunes:duration>00:39:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260821/episode-20260821-7781a6.mp3" length="37486893" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
