@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 21 Aug 2026 07:56:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 08:06:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14693,6 +14693,17 @@
       <itunes:duration>00:28:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260821/episode-20260821-7d6369.mp3" length="27269805" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《三联生活周刊·2015年11期》 · 完整版 · 三联生活周刊_2015年11期 · 完整讲读</title>
+      <description>本期《三联生活周刊》以“双引擎时代”为封面主题，系统解读二零一五年的中国经济转型。李克强总理在政府工作报告中首次提出“双引擎”，即一边点燃大众创业、万众创新的市场新引擎，一边升级公共产品供给的政府传统引擎，在新常态下寻找稳中求进的答案。本刊记者走访广东顺德工厂、华大基因实验室、义乌青岩刘淘宝村、广州面条小厂、矽递科技创客空间等一线现场，同时独家专访国务院研究室主任、政府工作报告起草组负责人宁吉喆，深入拆解双引擎背后的政策逻辑。十年后回望，这一框架所预示的创新驱动与简政放权，已深刻塑造了我们今天的创业生态、营商环境与公共服务面貌。</description>
+      <pubDate>Fri, 21 Aug 2026 08:06:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260821-episode-20260821-1a8ac2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期《三联生活周刊》以“双引擎时代”为封面主题，系统解读二零一五年的中国经济转型。李克强总理在政府工作报告中首次提出“双引擎”，即一边点燃大众创业、万众创新的市场新引擎，一边升级公共产品供给的政府传统引擎，在新常态下寻找稳中求进的答案。本刊记者走访广东顺德工厂、华大基因实验室、义乌青岩刘淘宝村、广州面条小厂、矽递科技创客空间等一线现场，同时独家专访国务院研究室主任、政府工作报告起草组负责人宁吉喆，深入拆解双引擎背后的政策逻辑。十年后回望，这一框架所预示的创新驱动与简政放权，已深刻塑造了我们今天的创业生态、营商环境与公共服务面貌。</itunes:summary>
+      <itunes:duration>00:31:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260821/episode-20260821-1a8ac2.mp3" length="29780781" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
