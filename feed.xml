@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 22 Aug 2026 07:50:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 07:57:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14759,6 +14759,17 @@
       <itunes:duration>00:17:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260822/episode-20260822-6e05df.mp3" length="17205165" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《隋唐史》 · 完整版 · 隋唐史 · 完整讲读</title>
+      <description>本书是岑仲勉先生一九五〇年前后在中山大学讲授隋唐史的讲义，后整理出版。岑仲勉先生是横跨隋唐史、蒙元史、西北史地、古代历法等多个领域的重要史家，通晓梵文、藏文、于阗文等多种西域古文字。全书采用文言撰写，分隋史、唐史两部分，共六十余专题，从隋杨凭偶然之机统一天下，到安史之乱与黄巢起义的制度性根源；从府兵制、均田制、租庸调到两税法的财政沿革；从突厥与东罗马因中国丝绸而爆发的二十年战争，到唐文改革时间的重新定位。岑仲勉先生反复强调，世界上没有绝对孤立的国家，把隋唐放回整个世界的棋盘上读，才能看清这套延续三百年的制度是如何运转，又是如何在三个齿轮同时磨损时散架的。</description>
+      <pubDate>Sat, 22 Aug 2026 07:57:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260822-episode-20260822-47069f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是岑仲勉先生一九五〇年前后在中山大学讲授隋唐史的讲义，后整理出版。岑仲勉先生是横跨隋唐史、蒙元史、西北史地、古代历法等多个领域的重要史家，通晓梵文、藏文、于阗文等多种西域古文字。全书采用文言撰写，分隋史、唐史两部分，共六十余专题，从隋杨凭偶然之机统一天下，到安史之乱与黄巢起义的制度性根源；从府兵制、均田制、租庸调到两税法的财政沿革；从突厥与东罗马因中国丝绸而爆发的二十年战争，到唐文改革时间的重新定位。岑仲勉先生反复强调，世界上没有绝对孤立的国家，把隋唐放回整个世界的棋盘上读，才能看清这套延续三百年的制度是如何运转，又是如何在三个齿轮同时磨损时散架的。</itunes:summary>
+      <itunes:duration>00:27:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260822/episode-20260822-47069f.mp3" length="26752941" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
