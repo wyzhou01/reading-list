@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 22 Aug 2026 07:57:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 08:10:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14770,6 +14770,17 @@
       <itunes:duration>00:27:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260822/episode-20260822-47069f.mp3" length="26752941" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《贞观幽明谭》 · 完整版 · 贞观幽明谭 · 完整讲读</title>
+      <description>《贞观幽明谭》是燕垒生创作的一部融合历史与幻想的长篇小说，以唐太宗贞观年间为背景，讲述少年术士明崇俨追寻丢失记忆的故事。书中巧妙地将真实历史人物如辩机、李淳风、袁天罡、李靖等融入虚构情节，构建了一个术法与妖魔、权力与阴谋交织的光怪陆离世界。作品深入探讨记忆与身份的追寻、善恶的界限、贞观盛世背后的阴影，以及天魔降世与未来女皇武则天的宿命联系，兼具阅读快感与思考深度。</description>
+      <pubDate>Sat, 22 Aug 2026 08:10:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260822-episode-20260822-4658c7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《贞观幽明谭》是燕垒生创作的一部融合历史与幻想的长篇小说，以唐太宗贞观年间为背景，讲述少年术士明崇俨追寻丢失记忆的故事。书中巧妙地将真实历史人物如辩机、李淳风、袁天罡、李靖等融入虚构情节，构建了一个术法与妖魔、权力与阴谋交织的光怪陆离世界。作品深入探讨记忆与身份的追寻、善恶的界限、贞观盛世背后的阴影，以及天魔降世与未来女皇武则天的宿命联系，兼具阅读快感与思考深度。</itunes:summary>
+      <itunes:duration>00:25:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260822/episode-20260822-4658c7.mp3" length="24766125" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
