@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 22 Aug 2026 07:43:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 07:50:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14748,6 +14748,17 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260822/episode-20260822-6876fe.mp3" length="28809261" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《七百年的风流儒雅：唐宋诗会意》 · 完整版 · 唐宋诗会意：七百年的风流儒雅 · 完整讲读</title>
+      <description>《唐宋诗会意：七百年的风流儒雅》是青年诗人邹金灿所著的诗学随笔集。他以诗人之心纵论唐宋两代数十位重要诗人，从李杜王孟到苏黄陆游，既品诗艺高下，更抉发诗中之人格精神。本书的核心主张是“诗格即人格”：诗的力量源于人的分量，宋诗的傲兀奇崛与质淡骨峭之美，恰恰是唐诗未曾走到的地方。作者驳斥“宋诗不如唐诗”的流行偏见，主张评判诗歌须看作者人格之高下，并以自身创作实践印证诗学见解。该书初版于二零一六年，是当代诗教领域难得的醇厚之作。</description>
+      <pubDate>Sat, 22 Aug 2026 07:50:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260822-episode-20260822-6e05df</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《唐宋诗会意：七百年的风流儒雅》是青年诗人邹金灿所著的诗学随笔集。他以诗人之心纵论唐宋两代数十位重要诗人，从李杜王孟到苏黄陆游，既品诗艺高下，更抉发诗中之人格精神。本书的核心主张是“诗格即人格”：诗的力量源于人的分量，宋诗的傲兀奇崛与质淡骨峭之美，恰恰是唐诗未曾走到的地方。作者驳斥“宋诗不如唐诗”的流行偏见，主张评判诗歌须看作者人格之高下，并以自身创作实践印证诗学见解。该书初版于二零一六年，是当代诗教领域难得的醇厚之作。</itunes:summary>
+      <itunes:duration>00:17:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260822/episode-20260822-6e05df.mp3" length="17205165" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
