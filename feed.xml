@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 21 Aug 2026 12:47:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 07:43:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14737,6 +14737,17 @@
       <itunes:duration>00:33:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260821/episode-20260821-250fc3.mp3" length="32469165" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《革命节日》 · 完整版 · 革命节日_(汉译世界学术名著丛书)_-_莫娜•奥祖夫 · 完整讲读</title>
+      <description>法国历史学家莫娜·奥祖夫的代表作《革命节日》，把一七八九到一七九九这十年的革命节庆视为一个整体，揭示这场实验如何试图用抽象理念替代国王肉身，用几何重塑城市，用共和历切割时间，借用民间传统却删去其灵魂。奥祖夫指出，革命者始终被对空虚的恐惧驱动，越是密集地发明节日，越是暴露共同体的危机。最终，仪式不能被发明，只能被生长；革命节庆是一个对民族统一极为迫切、却又令人绝望的悲怆事业。</description>
+      <pubDate>Sat, 22 Aug 2026 07:42:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260822-episode-20260822-6876fe</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>法国历史学家莫娜·奥祖夫的代表作《革命节日》，把一七八九到一七九九这十年的革命节庆视为一个整体，揭示这场实验如何试图用抽象理念替代国王肉身，用几何重塑城市，用共和历切割时间，借用民间传统却删去其灵魂。奥祖夫指出，革命者始终被对空虚的恐惧驱动，越是密集地发明节日，越是暴露共同体的危机。最终，仪式不能被发明，只能被生长；革命节庆是一个对民族统一极为迫切、却又令人绝望的悲怆事业。</itunes:summary>
+      <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260822/episode-20260822-6876fe.mp3" length="28809261" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
