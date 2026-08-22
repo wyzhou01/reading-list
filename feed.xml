@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 22 Aug 2026 08:10:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 08:19:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14781,6 +14781,17 @@
       <itunes:duration>00:25:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260822/episode-20260822-4658c7.mp3" length="24766125" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《牛史·晚清篇》 · 完整版 · 牛史·晚清篇 · 完整讲读</title>
+      <description>《牛史·晚清篇》是谭伯牛先生关于晚清六十年的一部通俗历史读物，覆盖从一八五一年到一九一一年鸦片战争、太平天国、洋务运动、火烧圆明园、清末新政等重大事件。作者以幽默笔法还原被正史简化的历史现场，既不戏说也不失考据。本书的核心主张是：成王败寇的历史观可以休矣，失败者有他们的逻辑，胜利者也藏着不可告人的尴尬。从广州傀儡政府里的汉奸巴夏礼，到神坛上的曾国藩、左宗棠、李鸿章，再到被骂了一百多年的叶名琛与李鸿章，谭伯牛用段子手的方式，把这些被贴了一百多年标签的人物一一翻面，让读者看到一个有温度、有私心、有窘迫的真实晚清。这本书最值得反复咀嚼的，不是它讲了哪些新故事，而是它提供了一种平视历史人物的态度。</description>
+      <pubDate>Sat, 22 Aug 2026 08:19:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260822-episode-20260822-fa7c80</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《牛史·晚清篇》是谭伯牛先生关于晚清六十年的一部通俗历史读物，覆盖从一八五一年到一九一一年鸦片战争、太平天国、洋务运动、火烧圆明园、清末新政等重大事件。作者以幽默笔法还原被正史简化的历史现场，既不戏说也不失考据。本书的核心主张是：成王败寇的历史观可以休矣，失败者有他们的逻辑，胜利者也藏着不可告人的尴尬。从广州傀儡政府里的汉奸巴夏礼，到神坛上的曾国藩、左宗棠、李鸿章，再到被骂了一百多年的叶名琛与李鸿章，谭伯牛用段子手的方式，把这些被贴了一百多年标签的人物一一翻面，让读者看到一个有温度、有私心、有窘迫的真实晚清。这本书最值得反复咀嚼的，不是它讲了哪些新故事，而是它提供了一种平视历史人物的态度。</itunes:summary>
+      <itunes:duration>00:21:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260822/episode-20260822-fa7c80.mp3" length="20914989" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
