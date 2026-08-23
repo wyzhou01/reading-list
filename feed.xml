@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 23 Aug 2026 13:20:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 13:31:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15089,6 +15089,17 @@
       <itunes:duration>00:31:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-8abea2.mp3" length="30207405" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《斩首之邀》 · 完整版 · 斩首之邀 · 完整讲读</title>
+      <description>《斩首之邀》是纳博科夫一九三五年用俄文写成的寓言小说,讲一个名叫辛辛纳特斯的普通人,因&apos;不透明&apos;——也就是活得太实在——被极权法庭判处斩首,却连自己哪天死都不知道。监狱里没有人是真正的恶人,狱卒陪他跳舞,监狱长公事公办地告别,刽子手手把手教他怎么躺下,系统用流程杀人,而不是用恶意。纳博科夫借这个荒诞故事追问:牢笼是不是在我们的感知里?语言是不是另一种判决?刀能砍下头,能不能砍下&apos;那个知道自己在&apos;的意识?行刑那一刻,辛辛纳特斯数到十,起身,四顾,继续走向有亲人的方向。今天再读这部小说,它讲的不只是极权,也是我们如何在算法、流程和剧场化的生活里,守住&apos;我在&apos;这件事。</description>
+      <pubDate>Sun, 23 Aug 2026 13:31:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260823-episode-20260823-7708f8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《斩首之邀》是纳博科夫一九三五年用俄文写成的寓言小说,讲一个名叫辛辛纳特斯的普通人,因&apos;不透明&apos;——也就是活得太实在——被极权法庭判处斩首,却连自己哪天死都不知道。监狱里没有人是真正的恶人,狱卒陪他跳舞,监狱长公事公办地告别,刽子手手把手教他怎么躺下,系统用流程杀人,而不是用恶意。纳博科夫借这个荒诞故事追问:牢笼是不是在我们的感知里?语言是不是另一种判决?刀能砍下头,能不能砍下&apos;那个知道自己在&apos;的意识?行刑那一刻,辛辛纳特斯数到十,起身,四顾,继续走向有亲人的方向。今天再读这部小说,它讲的不只是极权,也是我们如何在算法、流程和剧场化的生活里,守住&apos;我在&apos;这件事。</itunes:summary>
+      <itunes:duration>00:26:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-7708f8.mp3" length="25613229" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
