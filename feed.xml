@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 23 Aug 2026 07:55:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 07:57:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14847,6 +14847,17 @@
       <itunes:duration>00:27:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-fcb57e.mp3" length="26587821" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《进入空气稀薄地带：登山者的圣经（珍藏版）》 · 完整版 · 进入空气稀薄地带(1) · 完整讲读</title>
+      <description>《走入空气稀薄地带》是美国记者乔恩·科莱考尔对一九九六年珠穆朗玛峰商业攀登季山难的亲历记述。当年五支队伍在冲顶日遭遇突发暴风雪，八人遇难，是珠峰历史上死亡人数最多的攀登季。科莱考尔作为幸存者，以记者的诚实剖开灾难背后的人性抉择：商业化如何把世界之巅变成一条流水线，领导力失误如何在沉默中连锁崩塌，氧气瓶如何制造虚假的理性幻觉，以及幸存者将背负一生的愧疚。书中没有英雄叙事，只有欲望与理智在八千米高空的残酷对峙。</description>
+      <pubDate>Wed, 19 Aug 2026 08:02:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260823-episode-20260823-207022</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《走入空气稀薄地带》是美国记者乔恩·科莱考尔对一九九六年珠穆朗玛峰商业攀登季山难的亲历记述。当年五支队伍在冲顶日遭遇突发暴风雪，八人遇难，是珠峰历史上死亡人数最多的攀登季。科莱考尔作为幸存者，以记者的诚实剖开灾难背后的人性抉择：商业化如何把世界之巅变成一条流水线，领导力失误如何在沉默中连锁崩塌，氧气瓶如何制造虚假的理性幻觉，以及幸存者将背负一生的愧疚。书中没有英雄叙事，只有欲望与理智在八千米高空的残酷对峙。</itunes:summary>
+      <itunes:duration>00:35:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-207022.mp3" length="33888429" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
