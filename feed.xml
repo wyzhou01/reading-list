@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 23 Aug 2026 09:12:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 11:44:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14946,6 +14946,17 @@
       <itunes:duration>00:35:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-1779fc.mp3" length="34371501" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《恋爱中的男人》 · 完整版 · 恋爱中的男人_-_（德）马丁·瓦尔泽 · 完整讲读</title>
+      <description>《恋爱中的男人》是德国文学巨匠马丁·瓦尔泽在八十岁高龄写下的一部小说，重新虚构一八二三年七十四岁的歌德在温泉小镇马林巴德爱上十九岁少女乌尔莉克的真实公案。一个统帅被一个少女的目光击倒，一个老人在羞耻与欲望中挣扎，一个诗人把痛苦锻造成传世情诗《马林巴德哀歌》。全书不足两百页，却写出了暮年之爱最残酷也最庄严的命题：当伟人变回凡人，当统帅变回俘虏，艺术便从生命的废墟中破茧而出。</description>
+      <pubDate>Sun, 23 Aug 2026 11:44:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260823-episode-20260823-17d06a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《恋爱中的男人》是德国文学巨匠马丁·瓦尔泽在八十岁高龄写下的一部小说，重新虚构一八二三年七十四岁的歌德在温泉小镇马林巴德爱上十九岁少女乌尔莉克的真实公案。一个统帅被一个少女的目光击倒，一个老人在羞耻与欲望中挣扎，一个诗人把痛苦锻造成传世情诗《马林巴德哀歌》。全书不足两百页，却写出了暮年之爱最残酷也最庄严的命题：当伟人变回凡人，当统帅变回俘虏，艺术便从生命的废墟中破茧而出。</itunes:summary>
+      <itunes:duration>00:28:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-17d06a.mp3" length="27106989" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
