@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 23 Aug 2026 11:53:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 12:00:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14968,6 +14968,17 @@
       <itunes:duration>00:28:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-82d273.mp3" length="27726381" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《薄冰》 · 完整版 · 薄冰 · 完整讲读</title>
+      <description>《薄冰》是刘英亭写的一部最接近历史真相的谍战小说，以一九二八年白色恐怖下的上海为背景，讲述中共江南特委保卫处营救被捕同志的真实故事。书里没有香车美女与豪华舞厅，只有茶楼里的龙井、一本《唐诗三百首》里的暗语电话、与一段只有党内同志才听得懂的暗语。本书透过六块拼图，还原隐蔽战线的真实样貌：双重身份与日常伪装、地下工作的纪律与直觉、动机推理背后的人性灰度、自保与牺牲的边界、以及那些无名者的沉默与坚守。</description>
+      <pubDate>Sun, 23 Aug 2026 12:00:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260823-episode-20260823-9b3bef</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《薄冰》是刘英亭写的一部最接近历史真相的谍战小说，以一九二八年白色恐怖下的上海为背景，讲述中共江南特委保卫处营救被捕同志的真实故事。书里没有香车美女与豪华舞厅，只有茶楼里的龙井、一本《唐诗三百首》里的暗语电话、与一段只有党内同志才听得懂的暗语。本书透过六块拼图，还原隐蔽战线的真实样貌：双重身份与日常伪装、地下工作的纪律与直觉、动机推理背后的人性灰度、自保与牺牲的边界、以及那些无名者的沉默与坚守。</itunes:summary>
+      <itunes:duration>00:33:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-9b3bef.mp3" length="32436141" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
