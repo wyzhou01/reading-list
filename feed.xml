@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 23 Aug 2026 08:22:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 08:31:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14891,6 +14891,17 @@
       <itunes:duration>00:29:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-b380d8.mp3" length="28204461" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《宿主》 · 完整版 · 宿主 · 完整讲读</title>
+      <description>《宿主》是斯蒂芬妮·梅尔在“暮光之城”之后创作的科幻爱情小说。地球被一种名为“灵魂”的外星生物寄生并接管，人类沦为宿主，只有少数反抗者藏身洞穴。历经八次星球轮回的漫游者被植入年轻姑娘梅兰妮体内，意外遭遇不愿交出心智的梅兰妮，两个灵魂共居一体，由此踏上去寻找梅兰妮恋人杰拉德的险途。小说在科幻与浪漫的交汇处，追问身份与自我的边界、爱是否可以跨越物种与共居的隔阂、人性在被异化时是被点亮还是失守、自由意志与服从如何拉锯，以及在末世之中希望究竟从哪里长出来。最终它给出一个温柔的回答：身份是一张由无数他人编织而成的网，爱不必靠牺牲证明，也可以靠成全成全。</description>
+      <pubDate>Sun, 23 Aug 2026 08:31:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260823-episode-20260823-7433aa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《宿主》是斯蒂芬妮·梅尔在“暮光之城”之后创作的科幻爱情小说。地球被一种名为“灵魂”的外星生物寄生并接管，人类沦为宿主，只有少数反抗者藏身洞穴。历经八次星球轮回的漫游者被植入年轻姑娘梅兰妮体内，意外遭遇不愿交出心智的梅兰妮，两个灵魂共居一体，由此踏上去寻找梅兰妮恋人杰拉德的险途。小说在科幻与浪漫的交汇处，追问身份与自我的边界、爱是否可以跨越物种与共居的隔阂、人性在被异化时是被点亮还是失守、自由意志与服从如何拉锯，以及在末世之中希望究竟从哪里长出来。最终它给出一个温柔的回答：身份是一张由无数他人编织而成的网，爱不必靠牺牲证明，也可以靠成全成全。</itunes:summary>
+      <itunes:duration>00:30:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-7433aa.mp3" length="29053101" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
