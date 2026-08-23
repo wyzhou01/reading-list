@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 23 Aug 2026 12:51:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 12:59:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15056,6 +15056,17 @@
       <itunes:duration>00:27:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-0753e1.mp3" length="26758701" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《印度三部曲2：受伤的文明》 · 完整版 · 印度三部曲2：受伤的文明 · 完整讲读</title>
+      <description>一九七五年，印度进入紧急状态，奈保尔受邀前去，却发现真正困扰他的不是表面的政治，而是这个古老文明更深层的伤。他走访南方神庙、维查耶纳伽尔废墟、北方村庄与孟买贫民窟，看见一次次征服后留下的智识枯竭、独立后中产阶级在古老骄傲与现代许诺间的撕裂、乡村凋敝与城市贫民窟的扩张，以及一种弥漫的“无目的感”——一个受伤的古老文明，承认了自己的缺陷，却还没有找到前进的智识途径。</description>
+      <pubDate>Sun, 23 Aug 2026 12:59:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260823-episode-20260823-ebcb81</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九七五年，印度进入紧急状态，奈保尔受邀前去，却发现真正困扰他的不是表面的政治，而是这个古老文明更深层的伤。他走访南方神庙、维查耶纳伽尔废墟、北方村庄与孟买贫民窟，看见一次次征服后留下的智识枯竭、独立后中产阶级在古老骄傲与现代许诺间的撕裂、乡村凋敝与城市贫民窟的扩张，以及一种弥漫的“无目的感”——一个受伤的古老文明，承认了自己的缺陷，却还没有找到前进的智识途径。</itunes:summary>
+      <itunes:duration>00:30:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-ebcb81.mp3" length="29713581" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
