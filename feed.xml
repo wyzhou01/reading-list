@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 23 Aug 2026 07:33:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 07:43:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14803,6 +14803,17 @@
       <itunes:duration>00:24:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-235033.mp3" length="23889837" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《余音：学术史随笔选 1992—2015》 · 完整版 · 余音：学术史随笔选_1992—2015 · 完整讲读</title>
+      <description>《余音：学术史随笔选1992—2015》是葛兆光二十年间写下的纪念晚清民国学人的随笔集。王国维、陈寅恪、顾颉刚、潘光旦……这些名字背后的命运与精神，构成了他追问&quot;这个学界会好吗&quot;的起点。从晚清民国的学术转型，到&quot;国学&quot;概念的合法性反思，再到世家传统与精神血脉的断裂，葛兆光用冷静的笔触，勾勒出一代学人的精神肖像，也留下一份沉甸甸的时代追问。</description>
+      <pubDate>Sun, 23 Aug 2026 07:43:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260823-episode-20260823-5abd1d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《余音：学术史随笔选1992—2015》是葛兆光二十年间写下的纪念晚清民国学人的随笔集。王国维、陈寅恪、顾颉刚、潘光旦……这些名字背后的命运与精神，构成了他追问&quot;这个学界会好吗&quot;的起点。从晚清民国的学术转型，到&quot;国学&quot;概念的合法性反思，再到世家传统与精神血脉的断裂，葛兆光用冷静的笔触，勾勒出一代学人的精神肖像，也留下一份沉甸甸的时代追问。</itunes:summary>
+      <itunes:duration>00:32:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-5abd1d.mp3" length="31244589" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
