@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 23 Aug 2026 13:47:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 13:55:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15111,6 +15111,17 @@
       <itunes:duration>00:29:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-037cc8.mp3" length="28464045" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《十三狱》 · 完整版 · 十三狱 · 完整讲读</title>
+      <description>宁三意的《十三狱》从一个开黑车的司机周源在十八里岗目睹一名醉酒乘客凭空自燃开始，把镜头对准了人体内最神秘的物质——血液。在宁三意的笔下，血液不是温顺的工具，而是一种有独立意志的古老生命，它曾在地球上存在了上亿年，后来为了保护自己才进化出了人类。围绕北阳市的洗浴中心、沸腾夜、大巴山脉深处的秘密实验室，一个个被压抑了几亿年的“返祖现象”接连爆发。整本书不只是一个悬疑故事，更是一面镜子：它逼着读者重新问自己，你身上的血液，到底是不是你的；你心里那份没还清的亏欠，是不是一座只有自己看得到的血海地狱。</description>
+      <pubDate>Sun, 23 Aug 2026 13:55:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260823-episode-20260823-feb180</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>宁三意的《十三狱》从一个开黑车的司机周源在十八里岗目睹一名醉酒乘客凭空自燃开始，把镜头对准了人体内最神秘的物质——血液。在宁三意的笔下，血液不是温顺的工具，而是一种有独立意志的古老生命，它曾在地球上存在了上亿年，后来为了保护自己才进化出了人类。围绕北阳市的洗浴中心、沸腾夜、大巴山脉深处的秘密实验室，一个个被压抑了几亿年的“返祖现象”接连爆发。整本书不只是一个悬疑故事，更是一面镜子：它逼着读者重新问自己，你身上的血液，到底是不是你的；你心里那份没还清的亏欠，是不是一座只有自己看得到的血海地狱。</itunes:summary>
+      <itunes:duration>00:26:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-feb180.mp3" length="25383213" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
