@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 23 Aug 2026 07:57:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 08:04:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14858,6 +14858,17 @@
       <itunes:duration>00:35:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-207022.mp3" length="33888429" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《暗池：高频交易及人工智能大盗颠覆金融世界的对决》 · 完整版 · 暗池 · 完整讲读</title>
+      <description>《暗池》揭露了美国股票市场三十年来的隐秘变迁：从纽交所红马甲到算法统治，从公开市场到暗池崛起。在这场速度军备竞赛中，高频交易者用微秒级优势掠夺普通投资者，制造了二零一零年闪崩等系统性危机。本书通过乔希·莱文、马特·安德烈森、托马斯·皮特菲等关键人物的命运，揭示了一个残酷真相：当技术进步伴随权力不对称，所谓的“市场公平“只是少数人的幻觉。这本书的警示远超华尔街——它关乎人工智能时代每一个普通人的处境。</description>
+      <pubDate>Sun, 23 Aug 2026 08:04:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260823-episode-20260823-203bf9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《暗池》揭露了美国股票市场三十年来的隐秘变迁：从纽交所红马甲到算法统治，从公开市场到暗池崛起。在这场速度军备竞赛中，高频交易者用微秒级优势掠夺普通投资者，制造了二零一零年闪崩等系统性危机。本书通过乔希·莱文、马特·安德烈森、托马斯·皮特菲等关键人物的命运，揭示了一个残酷真相：当技术进步伴随权力不对称，所谓的“市场公平“只是少数人的幻觉。这本书的警示远超华尔街——它关乎人工智能时代每一个普通人的处境。</itunes:summary>
+      <itunes:duration>00:35:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-203bf9.mp3" length="34548909" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
