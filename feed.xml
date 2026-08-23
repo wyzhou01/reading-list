@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 23 Aug 2026 12:14:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 12:21:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15001,6 +15001,17 @@
       <itunes:duration>00:35:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-972885.mp3" length="34245549" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《河合隼雄代表作（长大成人的难处 / 故事与神奇 / 青春就是梦和游戏）》 · 完整版 · 河合隼雄代表作 · 完整讲读</title>
+      <description>这是一本写给所有“还在挣扎着长大”的大人和孩子的书。日本国宝级心理学家河合隼雄用几十年的临床经验告诉我们：长大成人，从来不是一条直线往前走，而是要经历切断与修复、死亡与再生的循环。高中生突然离家出走，不是变坏，而是想要独立的一次雄心；大学生把自己关在宿舍，不是懒，而是在完成一场内心的仪式；母亲递过来的伞，在孩子眼里可能是吞噬自己的“魔女”。本书把临床案例与童话、神话结合，把青年期的挫折、社交恐惧、母子冲突都放进“死亡与再生”的框架里重新理解。它提醒所有父母：你以为的好孩子，可能只是压抑了自己的孩子；你以为的“问题”，可能是孩子正在完成的成长仪式。三十多年来，这本书一直是父母、教师、心理学工作者案头必读之作。在今天的中国，它依然精准命中每一个家庭正在经历的困局。</description>
+      <pubDate>Sun, 23 Aug 2026 12:21:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260823-episode-20260823-e848dd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>这是一本写给所有“还在挣扎着长大”的大人和孩子的书。日本国宝级心理学家河合隼雄用几十年的临床经验告诉我们：长大成人，从来不是一条直线往前走，而是要经历切断与修复、死亡与再生的循环。高中生突然离家出走，不是变坏，而是想要独立的一次雄心；大学生把自己关在宿舍，不是懒，而是在完成一场内心的仪式；母亲递过来的伞，在孩子眼里可能是吞噬自己的“魔女”。本书把临床案例与童话、神话结合，把青年期的挫折、社交恐惧、母子冲突都放进“死亡与再生”的框架里重新理解。它提醒所有父母：你以为的好孩子，可能只是压抑了自己的孩子；你以为的“问题”，可能是孩子正在完成的成长仪式。三十多年来，这本书一直是父母、教师、心理学工作者案头必读之作。在今天的中国，它依然精准命中每一个家庭正在经历的困局。</itunes:summary>
+      <itunes:duration>00:18:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-e848dd.mp3" length="17793069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
