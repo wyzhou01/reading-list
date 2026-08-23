@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 23 Aug 2026 08:40:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 08:52:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14913,6 +14913,17 @@
       <itunes:duration>00:22:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-c26867.mp3" length="21921069" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《战国史》 · 完整版 · 战国史_(杨宽著作集)_-_杨宽 · 完整讲读</title>
+      <description>杨宽《战国史》以小农经济基础与中央集权体制的形成为主线,系统讲述战国二百五十四年的变革——铁器牛耕推动各国变法、郡县制取代分封、合纵连横下的兼并战争、百家争鸣的思想突破,以及秦统一帝国的奠基。本书不仅是一部断代史经典,更是理解中国两千年帝制原型的钥匙:从&quot;全民皆兵的战争机器&quot;到&quot;被驯化的商业&quot;再到&quot;士的崛起与陨落&quot;,六块拼图扣出的,是中华文明那台出厂机器的全部零件。读懂战国,才算读懂中国。</description>
+      <pubDate>Sun, 23 Aug 2026 08:52:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260823-episode-20260823-4ebb3e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>杨宽《战国史》以小农经济基础与中央集权体制的形成为主线,系统讲述战国二百五十四年的变革——铁器牛耕推动各国变法、郡县制取代分封、合纵连横下的兼并战争、百家争鸣的思想突破,以及秦统一帝国的奠基。本书不仅是一部断代史经典,更是理解中国两千年帝制原型的钥匙:从&quot;全民皆兵的战争机器&quot;到&quot;被驯化的商业&quot;再到&quot;士的崛起与陨落&quot;,六块拼图扣出的,是中华文明那台出厂机器的全部零件。读懂战国,才算读懂中国。</itunes:summary>
+      <itunes:duration>00:32:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-4ebb3e.mp3" length="30885933" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
