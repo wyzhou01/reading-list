@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 23 Aug 2026 08:52:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 09:03:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14924,6 +14924,17 @@
       <itunes:duration>00:32:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-4ebb3e.mp3" length="30885933" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《满城尽带黄金甲》 · 完整版 · 满城尽带黄金甲_-_吴蔚 · 完整讲读</title>
+      <description>《满城尽带黄金甲》是吴蔚写于二零零六年的通俗历史作品，聚焦公元八百八十年黄巢攻入长安至公元九百六十年陈桥兵变这八十多年的晚唐五代乱世。书中以人物命运为线索，从宗出逃、宦官专权、藩镇割据讲起，历经黄巢起义的兴亡、五代十国的群雄逐鹿，直至赵匡胤建立宋朝。作者明确指出，这是一本&quot;人物大失败的总结&quot;——僖宗的昏庸、田令孜的乱政、黄巢的悲剧、朱温的枭雄、石敬瑭的卖国，每一个角色都在乱局中走向失败。但大唐并没有像罗马帝国那样一亡了之，反而孕育出了延续三百多年的宋朝。这本书的真正主题，是一个古老文明在最深的废墟中，如何重新学会统一与秩序。</description>
+      <pubDate>Sun, 23 Aug 2026 09:02:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260823-episode-20260823-fa379f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《满城尽带黄金甲》是吴蔚写于二零零六年的通俗历史作品，聚焦公元八百八十年黄巢攻入长安至公元九百六十年陈桥兵变这八十多年的晚唐五代乱世。书中以人物命运为线索，从宗出逃、宦官专权、藩镇割据讲起，历经黄巢起义的兴亡、五代十国的群雄逐鹿，直至赵匡胤建立宋朝。作者明确指出，这是一本&quot;人物大失败的总结&quot;——僖宗的昏庸、田令孜的乱政、黄巢的悲剧、朱温的枭雄、石敬瑭的卖国，每一个角色都在乱局中走向失败。但大唐并没有像罗马帝国那样一亡了之，反而孕育出了延续三百多年的宋朝。这本书的真正主题，是一个古老文明在最深的废墟中，如何重新学会统一与秩序。</itunes:summary>
+      <itunes:duration>00:42:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-fa379f.mp3" length="41173293" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
