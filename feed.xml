@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 23 Aug 2026 13:31:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 13:47:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15100,6 +15100,17 @@
       <itunes:duration>00:26:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-7708f8.mp3" length="25613229" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《发现心流》 · 完整版 · 发现心流(1) · 完整讲读</title>
+      <description>《发现心流》是积极心理学奠基人契克森米哈赖写给普通人的自助指南。本书用心理体验抽样法追踪数千人的日常感受，提出&quot;心流&quot;这一概念：它是一种挑战与能力动态平衡、让人忘我投入的精神状态。心流既可来自工作，也可来自主动式休闲；它会被高质量的人际关系放大，却无法由天赋保证。本书最终想告诉你：自得其乐是一种可以后天练习的性格，而&quot;热爱命运&quot;则是把心流活成日常的姿态。</description>
+      <pubDate>Sun, 23 Aug 2026 13:47:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260823-episode-20260823-037cc8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《发现心流》是积极心理学奠基人契克森米哈赖写给普通人的自助指南。本书用心理体验抽样法追踪数千人的日常感受，提出&quot;心流&quot;这一概念：它是一种挑战与能力动态平衡、让人忘我投入的精神状态。心流既可来自工作，也可来自主动式休闲；它会被高质量的人际关系放大，却无法由天赋保证。本书最终想告诉你：自得其乐是一种可以后天练习的性格，而&quot;热爱命运&quot;则是把心流活成日常的姿态。</itunes:summary>
+      <itunes:duration>00:29:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-037cc8.mp3" length="28464045" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
