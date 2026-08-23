@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 23 Aug 2026 08:04:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 08:14:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14869,6 +14869,17 @@
       <itunes:duration>00:35:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-203bf9.mp3" length="34548909" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《东风嫁》 · 完整版 · 东风嫁_(中国当代作家长篇小说典藏·) · 完整讲读</title>
+      <description>《东风嫁》是刘庆邦中短篇小说集，写豫北平原上一代被村庄体面逻辑压着的女性。米东风因在城里挣过说不出口的钱，被爹米廷海留在家中相亲，标准一降再降，最后落到邻村只上过四年小学的王新开；王新开的娘老侯拿着竹棍堵在村口骂米东风是破鞋、是下蛋的母鸡；村主任在酒桌上兜住双方的脸面，把这桩婚事勉强撮合。另一篇《云终于散了》写两个小姑娘春连与新清，因为春连的哥哥春旺把新清家借来的白羊按进水里的旧事，压了三十年的心债，直到春连远嫁新疆才在新清面前说出那句“我对不起你”。整本书不控诉、不煽情，只是把人物搁在河坡、窑洞、灶台前，让读者在留白里听见乡土女性说不出口的疼。</description>
+      <pubDate>Sun, 23 Aug 2026 08:14:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260823-episode-20260823-777d54</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《东风嫁》是刘庆邦中短篇小说集，写豫北平原上一代被村庄体面逻辑压着的女性。米东风因在城里挣过说不出口的钱，被爹米廷海留在家中相亲，标准一降再降，最后落到邻村只上过四年小学的王新开；王新开的娘老侯拿着竹棍堵在村口骂米东风是破鞋、是下蛋的母鸡；村主任在酒桌上兜住双方的脸面，把这桩婚事勉强撮合。另一篇《云终于散了》写两个小姑娘春连与新清，因为春连的哥哥春旺把新清家借来的白羊按进水里的旧事，压了三十年的心债，直到春连远嫁新疆才在新清面前说出那句“我对不起你”。整本书不控诉、不煽情，只是把人物搁在河坡、窑洞、灶台前，让读者在留白里听见乡土女性说不出口的疼。</itunes:summary>
+      <itunes:duration>00:46:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-777d54.mp3" length="45005229" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
