@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 23 Aug 2026 07:45:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 07:50:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14825,6 +14825,17 @@
       <itunes:duration>00:22:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-66ab4e.mp3" length="21665709" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一把盐下饭菜》 · 完整版 · 一把盐下饭菜 · 完整讲读</title>
+      <description>《一把盐下饭菜》是一本精选了一百道中国家常下饭菜的菜谱，主张用好一把盐、加上葱姜蒜、番茄、虾皮等天然食材，把食物本来的鲜味激出来，反对味精、蚝油等非天然添加剂。作者把这种调味法总结为“一把盐调味法“，并提出三件事：一把好刀、天然提鲜食材、一把好盐。书中按牛羊肉、鸡肉、水产、猪肉、素菜分类，每道菜都强调火候、分寸与厨者的用心，适合想重新拿起菜刀、为家人认真做一顿饭的年轻读者。</description>
+      <pubDate>Sun, 23 Aug 2026 07:50:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260823-episode-20260823-4557a1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一把盐下饭菜》是一本精选了一百道中国家常下饭菜的菜谱，主张用好一把盐、加上葱姜蒜、番茄、虾皮等天然食材，把食物本来的鲜味激出来，反对味精、蚝油等非天然添加剂。作者把这种调味法总结为“一把盐调味法“，并提出三件事：一把好刀、天然提鲜食材、一把好盐。书中按牛羊肉、鸡肉、水产、猪肉、素菜分类，每道菜都强调火候、分寸与厨者的用心，适合想重新拿起菜刀、为家人认真做一顿饭的年轻读者。</itunes:summary>
+      <itunes:duration>00:22:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-4557a1.mp3" length="21702957" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
