@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 23 Aug 2026 08:31:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 08:40:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14902,6 +14902,17 @@
       <itunes:duration>00:30:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-7433aa.mp3" length="29053101" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《重启人·终结篇》 · 完整版 · 重启人(终结篇) · 完整讲读</title>
+      <description>《重启人》终结篇讲述瑞恩带领一百名同伴从 HARC 逃亡、抵达重启人特区的故事。面对 HARC 的追杀，特区重启人选择迎战并击退敌人，瑞恩在战斗中饶恕了梅尔长官一命，由此开始了对暴力与宽恕的重新审视。全书后半段，瑞恩与卡伦回到奥斯丁参与重建，将武器交给同伴，决心不再带枪。当一个从新达拉斯送来的女孩在机构中苏醒时，瑞恩轻声告诉她：“你不重要，重要的是你现在醒了。“这本书用一根手腕上的号码、一座橘色大地的围墙、一段缓慢的和解，回答了一个跨越时代的命题：当弱者被剥夺记忆与名字，反抗之后该如何与曾经的敌人共处。答案藏在一句咽下的数字和一声未说完的自我介绍里。</description>
+      <pubDate>Sun, 23 Aug 2026 08:40:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260823-episode-20260823-c26867</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《重启人》终结篇讲述瑞恩带领一百名同伴从 HARC 逃亡、抵达重启人特区的故事。面对 HARC 的追杀，特区重启人选择迎战并击退敌人，瑞恩在战斗中饶恕了梅尔长官一命，由此开始了对暴力与宽恕的重新审视。全书后半段，瑞恩与卡伦回到奥斯丁参与重建，将武器交给同伴，决心不再带枪。当一个从新达拉斯送来的女孩在机构中苏醒时，瑞恩轻声告诉她：“你不重要，重要的是你现在醒了。“这本书用一根手腕上的号码、一座橘色大地的围墙、一段缓慢的和解，回答了一个跨越时代的命题：当弱者被剥夺记忆与名字，反抗之后该如何与曾经的敌人共处。答案藏在一句咽下的数字和一声未说完的自我介绍里。</itunes:summary>
+      <itunes:duration>00:22:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-c26867.mp3" length="21921069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
