@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 23 Aug 2026 09:03:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 09:12:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14935,6 +14935,17 @@
       <itunes:duration>00:42:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-fa379f.mp3" length="41173293" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《乡土难归（中国故事）- 谢丁》 · 完整版 · 乡土难归_(中国故事)_-_谢丁 · 完整讲读</title>
+      <description>《乡土难归》是记者谢丁花费十年跟踪记录的非虚构作品。书中通过三峡移民方诗伟、陕北煤老板杨红波及甘肃会宁学生丁强、黄雪辉的故事，呈现了现代化进程中普通人面临的离开与归来困境。三峡工程蓄水、脱贫攻坚、城乡教育断裂——这些宏大叙事最终都落到具体的人身上：他们的房子、户口、孩子和深夜的眼泪。本书提醒我们，国家工程改变了山河，却未必能安顿人心；真正的乡土问题，是当故乡被改变之后，一个人能否重新建立生活的意义。</description>
+      <pubDate>Sun, 23 Aug 2026 09:12:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260823-episode-20260823-1779fc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《乡土难归》是记者谢丁花费十年跟踪记录的非虚构作品。书中通过三峡移民方诗伟、陕北煤老板杨红波及甘肃会宁学生丁强、黄雪辉的故事，呈现了现代化进程中普通人面临的离开与归来困境。三峡工程蓄水、脱贫攻坚、城乡教育断裂——这些宏大叙事最终都落到具体的人身上：他们的房子、户口、孩子和深夜的眼泪。本书提醒我们，国家工程改变了山河，却未必能安顿人心；真正的乡土问题，是当故乡被改变之后，一个人能否重新建立生活的意义。</itunes:summary>
+      <itunes:duration>00:35:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-1779fc.mp3" length="34371501" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
