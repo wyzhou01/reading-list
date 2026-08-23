@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 22 Aug 2026 08:19:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 07:33:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14792,6 +14792,17 @@
       <itunes:duration>00:21:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260822/episode-20260822-fa7c80.mp3" length="20914989" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《烟火人间》 · 完整版 · 烟火人间(老舍经典作品精选集纪念珍藏版) · 完整讲读</title>
+      <description>《烟火人间》是老舍短篇小说与散文随笔的精选集，分五辑。前三辑写小说，从一座赔钱农场的荒唐内幕，到旧社会底层小人物的挣扎与尊严；后两辑转向杂文，探讨幽默的本质、文艺与人生的关系。老舍用一支温和却锋利的笔，写尽了市井烟火里那些不起眼的小人物——他们被时代挤压，却不肯丢掉心里的温热；他们认了命，却没认输。这本书不靠宏大叙事取胜，而是从一个字、一个场景、一个人物下手，把世态人情写得入骨三分。嬉笑怒骂皆是文章，市井烟火尽显人心。在流量与口号横行的今天，老舍那种温和却坚定的写作姿态，依然稀缺——他提醒我们，幽默不是耍贫嘴，而是看透世事后的从容；文艺不是喊口号，而是对每一个普通人命运的真诚注视。</description>
+      <pubDate>Sun, 23 Aug 2026 07:32:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260823-episode-20260823-235033</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《烟火人间》是老舍短篇小说与散文随笔的精选集，分五辑。前三辑写小说，从一座赔钱农场的荒唐内幕，到旧社会底层小人物的挣扎与尊严；后两辑转向杂文，探讨幽默的本质、文艺与人生的关系。老舍用一支温和却锋利的笔，写尽了市井烟火里那些不起眼的小人物——他们被时代挤压，却不肯丢掉心里的温热；他们认了命，却没认输。这本书不靠宏大叙事取胜，而是从一个字、一个场景、一个人物下手，把世态人情写得入骨三分。嬉笑怒骂皆是文章，市井烟火尽显人心。在流量与口号横行的今天，老舍那种温和却坚定的写作姿态，依然稀缺——他提醒我们，幽默不是耍贫嘴，而是看透世事后的从容；文艺不是喊口号，而是对每一个普通人命运的真诚注视。</itunes:summary>
+      <itunes:duration>00:24:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-235033.mp3" length="23889837" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
