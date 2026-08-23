@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 23 Aug 2026 07:43:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 07:45:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14814,6 +14814,17 @@
       <itunes:duration>00:32:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-5abd1d.mp3" length="31244589" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中国取名文化》 · 完整版 · 中国取名文化_-_《大中国上下五千年》编委会_编 · 完整讲读</title>
+      <description>《中国取名文化》系统讲解了中国姓名学的来龙去脉：从母系氏族到秦汉统一的姓氏演变，从《百家姓》成书到《易经》八卦的取名原理，从八字五行到属相字根的硬功夫，再到企业、品牌、产品、楼盘、景区的命名技巧。书中既梳理了姓名文化的源流脉络，也给出了具体的取名方法与用字禁忌，并把取名智慧延伸到商业领域。无论你是即将为孩子取名的父母，还是正在为品牌寻找命名的创业者，都能从这本工具书里找到经得起时间检验的参考。</description>
+      <pubDate>Sun, 23 Aug 2026 07:45:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260823-episode-20260823-66ab4e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《中国取名文化》系统讲解了中国姓名学的来龙去脉：从母系氏族到秦汉统一的姓氏演变，从《百家姓》成书到《易经》八卦的取名原理，从八字五行到属相字根的硬功夫，再到企业、品牌、产品、楼盘、景区的命名技巧。书中既梳理了姓名文化的源流脉络，也给出了具体的取名方法与用字禁忌，并把取名智慧延伸到商业领域。无论你是即将为孩子取名的父母，还是正在为品牌寻找命名的创业者，都能从这本工具书里找到经得起时间检验的参考。</itunes:summary>
+      <itunes:duration>00:22:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-66ab4e.mp3" length="21665709" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
