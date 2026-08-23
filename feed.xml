@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 23 Aug 2026 12:59:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 13:11:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15067,6 +15067,17 @@
       <itunes:duration>00:30:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-ebcb81.mp3" length="29713581" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《潜伏在资本市场》 · 完整版 · 潜伏在资本市场(1) · 完整讲读</title>
+      <description>《潜伏在资本市场》是调查记者仇子明的半自传长篇处女作。主角肖川从时尚记者转型为财经记者，怀揣新闻理想深入资本市场漩涡，揭黑幕、对庄家、报道上市公司。在权力、金钱与人情的拉扯中，他发现上市公司戴着镣铐跳舞，券商研究员是庄家喉舌，财经记者要么被同化、要么被驱逐，而散户永远是案板上的鱼。小说以肖川远赴美国、却发现欧阳婷已在机场等候作结，暗示资本游戏永不落幕。这是少数能让普通读者看懂财经记者职业真相的读物，也是中国资本市场二十年的人性底色。</description>
+      <pubDate>Sun, 23 Aug 2026 13:11:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260823-episode-20260823-d1fdcd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《潜伏在资本市场》是调查记者仇子明的半自传长篇处女作。主角肖川从时尚记者转型为财经记者，怀揣新闻理想深入资本市场漩涡，揭黑幕、对庄家、报道上市公司。在权力、金钱与人情的拉扯中，他发现上市公司戴着镣铐跳舞，券商研究员是庄家喉舌，财经记者要么被同化、要么被驱逐，而散户永远是案板上的鱼。小说以肖川远赴美国、却发现欧阳婷已在机场等候作结，暗示资本游戏永不落幕。这是少数能让普通读者看懂财经记者职业真相的读物，也是中国资本市场二十年的人性底色。</itunes:summary>
+      <itunes:duration>00:33:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-d1fdcd.mp3" length="32165037" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
