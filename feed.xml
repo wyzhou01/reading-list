@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 23 Aug 2026 12:05:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 12:14:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14990,6 +14990,17 @@
       <itunes:duration>00:15:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-f3df46.mp3" length="15171117" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《第一律法·卷一：无鞘之剑》 · 完整版 · 第一律法·卷一：无鞘之剑 · 完整讲读</title>
+      <description>《无鞘之剑》是英国作家乔·阿克罗比二〇〇六年推出的《第一律法》系列首部，被读者封为史上最黑暗奇幻。本书以三条绞缠的命运展开：瘸腿刑讯官格洛塔在审问部地下室里追问“为什么要干这个“，蛮族战士九指罗根在山卡围猎中九死一生，被逐出师门的法师学徒格莱凯斯特在三百年献祭之后布下一盘更大的棋。阿克罗比撕掉奇幻的英雄滤镜：屠龙勇士是酒鬼，法师是江湖骗子，预言只是权力的工具。本期节目围绕六大主题展开——权力的腐蚀如何将普通人变成刑讯官，平庸之恶如何只靠守时运转，预言如何成为政治杠杆，暴力的真相如何在悬崖边显露，身体如何成为权力的画布，英雄叙事如何被系统碾碎。这不是中世纪奇幻，是穿着盔甲的现代寓言。合上书，或许你也会和格洛塔一样喃喃自问：为什么要干这个？</description>
+      <pubDate>Sun, 23 Aug 2026 12:14:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260823-episode-20260823-972885</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《无鞘之剑》是英国作家乔·阿克罗比二〇〇六年推出的《第一律法》系列首部，被读者封为史上最黑暗奇幻。本书以三条绞缠的命运展开：瘸腿刑讯官格洛塔在审问部地下室里追问“为什么要干这个“，蛮族战士九指罗根在山卡围猎中九死一生，被逐出师门的法师学徒格莱凯斯特在三百年献祭之后布下一盘更大的棋。阿克罗比撕掉奇幻的英雄滤镜：屠龙勇士是酒鬼，法师是江湖骗子，预言只是权力的工具。本期节目围绕六大主题展开——权力的腐蚀如何将普通人变成刑讯官，平庸之恶如何只靠守时运转，预言如何成为政治杠杆，暴力的真相如何在悬崖边显露，身体如何成为权力的画布，英雄叙事如何被系统碾碎。这不是中世纪奇幻，是穿着盔甲的现代寓言。合上书，或许你也会和格洛塔一样喃喃自问：为什么要干这个？</itunes:summary>
+      <itunes:duration>00:35:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-972885.mp3" length="34245549" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
