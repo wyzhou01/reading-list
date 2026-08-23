@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 23 Aug 2026 12:35:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 12:44:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15034,6 +15034,17 @@
       <itunes:duration>00:25:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-7a8fb2.mp3" length="24335277" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《旅行与读书》 · 完整版 · 旅行与读书 · 完整讲读</title>
+      <description>《旅行与读书》是台湾文化人詹宏志的旅行散文集。他以一段真实的旅行为起点，以一本相关的书为底色，记录自己在印度、托斯卡纳、京都、伊斯坦布尔等地的所见所食所遇。书中没有实用攻略，只有书与路的反复对照——读书如何把人带出门，旅行又如何把书页改成注解。詹宏志自称&apos;为书所成，为书所毁&apos;，示范了一个真正的读书人怎样把整个人生，活成一次他和世界之间的&apos;互译&apos;。这本书也是他献给已故妻子、作家与美食家王宣一的安静纪念。</description>
+      <pubDate>Sun, 23 Aug 2026 12:43:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260823-episode-20260823-3a6da0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《旅行与读书》是台湾文化人詹宏志的旅行散文集。他以一段真实的旅行为起点，以一本相关的书为底色，记录自己在印度、托斯卡纳、京都、伊斯坦布尔等地的所见所食所遇。书中没有实用攻略，只有书与路的反复对照——读书如何把人带出门，旅行又如何把书页改成注解。詹宏志自称&apos;为书所成，为书所毁&apos;，示范了一个真正的读书人怎样把整个人生，活成一次他和世界之间的&apos;互译&apos;。这本书也是他献给已故妻子、作家与美食家王宣一的安静纪念。</itunes:summary>
+      <itunes:duration>00:26:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-3a6da0.mp3" length="25510317" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
