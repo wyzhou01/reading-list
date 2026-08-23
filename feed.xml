@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 23 Aug 2026 12:27:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 12:35:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15023,6 +15023,17 @@
       <itunes:duration>00:23:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-74065a.mp3" length="22755501" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《数字中国：大数据与政府管理决策》 · 完整版 · 数字中国 · 完整讲读</title>
+      <description>《数字中国》是中国最早一批大数据从业者江青基于亲身实践写就的大数据素养读物，诞生于二零一八年我国国家大数据战略密集出台的关键时期。全书以白话文串联起大数据在政府管理、政务服务、社会治理、产业升级中的真实应用场景，提出“数商”这一原创概念，系统回答了领导干部在大数据时代如何提升数据决策观这一时代命题。书中既有对信息孤岛、数字监管等治理议题的深度剖析，也有对数据陷阱、数据扭曲等风险议题的清醒警示，更以“培训、培育、培养”三词收束全书，倡导以人为中心的大数据治理哲学。七年过去，本书依然是理解数字政府建设、治理现代化演进与领导干部数据素养养成的关键钥匙。</description>
+      <pubDate>Sun, 23 Aug 2026 12:35:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260823-episode-20260823-7a8fb2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《数字中国》是中国最早一批大数据从业者江青基于亲身实践写就的大数据素养读物，诞生于二零一八年我国国家大数据战略密集出台的关键时期。全书以白话文串联起大数据在政府管理、政务服务、社会治理、产业升级中的真实应用场景，提出“数商”这一原创概念，系统回答了领导干部在大数据时代如何提升数据决策观这一时代命题。书中既有对信息孤岛、数字监管等治理议题的深度剖析，也有对数据陷阱、数据扭曲等风险议题的清醒警示，更以“培训、培育、培养”三词收束全书，倡导以人为中心的大数据治理哲学。七年过去，本书依然是理解数字政府建设、治理现代化演进与领导干部数据素养养成的关键钥匙。</itunes:summary>
+      <itunes:duration>00:25:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-7a8fb2.mp3" length="24335277" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
