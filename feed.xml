@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 23 Aug 2026 11:44:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 11:53:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14957,6 +14957,17 @@
       <itunes:duration>00:28:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-17d06a.mp3" length="27106989" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《白夜追凶(1)》 · 完整版 · 白夜追凶(1) · 完整讲读</title>
+      <description>《白夜追凶》是指纹创作的长篇硬核刑侦小说。灭门案嫌疑人关宏宇遭全城通缉，其孪生哥哥、原刑侦队长关宏峰辞职，以编外身份暗中协助警方追查真相。兄弟二人共用一张脸，白天黑夜轮流出现，在罪与法的灰色地带步步为营。全书以扎实的法医与痕迹细节、严密的双线推理，以及一段弥漫着黑暗恐惧症的兄弟羁谊，交织出程序正义与真相之间的撕裂，也写出了身份认同与自我救赎的重量。十二年后重读，它仍是一个未过时的问题——当法律无法抵达真相，私人是否该越界？</description>
+      <pubDate>Sun, 23 Aug 2026 11:53:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260823-episode-20260823-82d273</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《白夜追凶》是指纹创作的长篇硬核刑侦小说。灭门案嫌疑人关宏宇遭全城通缉，其孪生哥哥、原刑侦队长关宏峰辞职，以编外身份暗中协助警方追查真相。兄弟二人共用一张脸，白天黑夜轮流出现，在罪与法的灰色地带步步为营。全书以扎实的法医与痕迹细节、严密的双线推理，以及一段弥漫着黑暗恐惧症的兄弟羁谊，交织出程序正义与真相之间的撕裂，也写出了身份认同与自我救赎的重量。十二年后重读，它仍是一个未过时的问题——当法律无法抵达真相，私人是否该越界？</itunes:summary>
+      <itunes:duration>00:28:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-82d273.mp3" length="27726381" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
