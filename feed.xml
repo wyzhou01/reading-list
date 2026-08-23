@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 23 Aug 2026 12:21:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 12:27:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15012,6 +15012,17 @@
       <itunes:duration>00:18:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-e848dd.mp3" length="17793069" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《鸡征服世界》 · 完整版 · 鸡征服世界 · 完整讲读</title>
+      <description>《鸡征服世界》是一部被严重低估的全球史。美国科普作家安德鲁·劳勒以一只看似平凡的鸡为线索，穿越考古现场、贸易港口、斗鸡场与实验室，揭示了鸡从东南亚丛林中羞涩的红原鸡一步步走入全球餐桌、城市生活与人类信仰的完整旅程。书中既有毕比在缅甸丛林追踪野生原鸡的探险，也有对鸡基因组、疫苗开发、跨大西洋贸易网络的硬核科普，更有对后院养鸡运动、工业化养殖与禽流感政治的经济与伦理反思。劳勒用考古学、生物学与人类学交织的笔法，把鸡还原为塑造人类城市化、帝国扩张与全球化进程的隐形主角。最终的洞察朴素却震撼：鸡与人类从来不是主仆，而是一对在万年时光中彼此校准的舞伴，读懂鸡，就是读懂我们自己。</description>
+      <pubDate>Sun, 23 Aug 2026 12:27:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260823-episode-20260823-74065a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《鸡征服世界》是一部被严重低估的全球史。美国科普作家安德鲁·劳勒以一只看似平凡的鸡为线索，穿越考古现场、贸易港口、斗鸡场与实验室，揭示了鸡从东南亚丛林中羞涩的红原鸡一步步走入全球餐桌、城市生活与人类信仰的完整旅程。书中既有毕比在缅甸丛林追踪野生原鸡的探险，也有对鸡基因组、疫苗开发、跨大西洋贸易网络的硬核科普，更有对后院养鸡运动、工业化养殖与禽流感政治的经济与伦理反思。劳勒用考古学、生物学与人类学交织的笔法，把鸡还原为塑造人类城市化、帝国扩张与全球化进程的隐形主角。最终的洞察朴素却震撼：鸡与人类从来不是主仆，而是一对在万年时光中彼此校准的舞伴，读懂鸡，就是读懂我们自己。</itunes:summary>
+      <itunes:duration>00:23:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-74065a.mp3" length="22755501" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
