@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 23 Aug 2026 08:14:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 08:22:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -14880,6 +14880,17 @@
       <itunes:duration>00:46:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-777d54.mp3" length="45005229" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《春晚的裙子（中国故事）》 · 完整版 · 春晚的裙子_(中国故事)_-_季艺 · 完整讲读</title>
+      <description>《春晚的裙子》是季艺写郭培的非虚构长篇报道。郭培是中国高级定制设计师，每年垄断春晚百分之九十的礼服制作。文章从她一九八六年毕业讲起，写到她如何在一九九七年离开成衣公司创办玫瑰坊，如何用极致工艺与廉价劳动力，把中国民间濒临失传的刺绣技艺转化为春晚、国家级盛事的华服；又如何洞察中国富人不愿为设计买单、只愿为材料与工时一掷千金的消费心理，建立了一套不收设计费、按布料米数与工人小时数定价的独特商业模式。在巴黎高级定制工坊接连倒闭的背景下，郭培式的奢华成为只有中国才能发生的奇迹——它既是中国制造极致能力的缩影，也藏着大国盛世情绪与前现代生产方式共谋的隐喻。</description>
+      <pubDate>Sun, 23 Aug 2026 08:21:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260823-episode-20260823-b380d8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《春晚的裙子》是季艺写郭培的非虚构长篇报道。郭培是中国高级定制设计师，每年垄断春晚百分之九十的礼服制作。文章从她一九八六年毕业讲起，写到她如何在一九九七年离开成衣公司创办玫瑰坊，如何用极致工艺与廉价劳动力，把中国民间濒临失传的刺绣技艺转化为春晚、国家级盛事的华服；又如何洞察中国富人不愿为设计买单、只愿为材料与工时一掷千金的消费心理，建立了一套不收设计费、按布料米数与工人小时数定价的独特商业模式。在巴黎高级定制工坊接连倒闭的背景下，郭培式的奢华成为只有中国才能发生的奇迹——它既是中国制造极致能力的缩影，也藏着大国盛世情绪与前现代生产方式共谋的隐喻。</itunes:summary>
+      <itunes:duration>00:29:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-b380d8.mp3" length="28204461" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
