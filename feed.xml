@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 24 Aug 2026 07:53:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 08:04:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15166,6 +15166,17 @@
       <itunes:duration>00:34:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-02489b.mp3" length="33087021" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《邵子易数》 · 完整版 · 邵子易数 · 完整讲读</title>
+      <description>《邵子易数》是明代喻有功整理、清代王通瑞删订的邵雍象数易学读本,以伏羲先天图为体,卦象爻象与策数为用,系统讲述起卦、断卦的方法,覆盖天时、年运、婚姻、仕进、疾病等百事人生。本书贯通理数,象占与爻占交织,援引《左传》《国语》二十余则古筮案例印证,既有邵子论策、迟速断例的精密时机学,又有观物存诚、心易妙用的心法根基。它既是一部偏重实用的象数易学大全,也是理解中国传统卜筮文化由义理走向实操的关键桥梁。</description>
+      <pubDate>Mon, 24 Aug 2026 08:04:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260824-episode-20260824-763e1e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《邵子易数》是明代喻有功整理、清代王通瑞删订的邵雍象数易学读本,以伏羲先天图为体,卦象爻象与策数为用,系统讲述起卦、断卦的方法,覆盖天时、年运、婚姻、仕进、疾病等百事人生。本书贯通理数,象占与爻占交织,援引《左传》《国语》二十余则古筮案例印证,既有邵子论策、迟速断例的精密时机学,又有观物存诚、心易妙用的心法根基。它既是一部偏重实用的象数易学大全,也是理解中国传统卜筮文化由义理走向实操的关键桥梁。</itunes:summary>
+      <itunes:duration>00:28:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-763e1e.mp3" length="27803949" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
