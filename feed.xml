@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 24 Aug 2026 12:57:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 13:04:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15188,6 +15188,17 @@
       <itunes:duration>00:28:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-319ec1.mp3" length="27830061" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《历史的空白处》 · 完整版 · 历史的空白处(1) · 完整讲读</title>
+      <description>张鸣《历史的空白处》是一部从边角料读历史的随笔集。本书跳出帝王将相的宏大叙事，专捡正史缝隙里的逸闻趣事：民国记者如何用毒舌骂哭军阀、晚清士兵为何裹着印度头巾替英国人攻城、纸上谈兵的将军如何在战场上栽跟头、一块豆腐如何资助了两场中国革命、八旗人家如何用鸦片废掉儿子、地方官如何用赌场废掉军队、官服前襟后襟如何暴露官场潜规则……作者以读书人的闲谈口吻，会心一笑间照见大人物身不由己的真实模样，让历史从殿堂走回烟火。</description>
+      <pubDate>Mon, 24 Aug 2026 13:04:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260824-episode-20260824-5b1c28</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>张鸣《历史的空白处》是一部从边角料读历史的随笔集。本书跳出帝王将相的宏大叙事，专捡正史缝隙里的逸闻趣事：民国记者如何用毒舌骂哭军阀、晚清士兵为何裹着印度头巾替英国人攻城、纸上谈兵的将军如何在战场上栽跟头、一块豆腐如何资助了两场中国革命、八旗人家如何用鸦片废掉儿子、地方官如何用赌场废掉军队、官服前襟后襟如何暴露官场潜规则……作者以读书人的闲谈口吻，会心一笑间照见大人物身不由己的真实模样，让历史从殿堂走回烟火。</itunes:summary>
+      <itunes:duration>00:31:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-5b1c28.mp3" length="29865261" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
