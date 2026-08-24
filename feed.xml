@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 24 Aug 2026 23:24:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 23:27:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15221,6 +15221,17 @@
       <itunes:duration>00:27:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-8ace7e.mp3" length="26720685" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《美国梦》 · 完整版 · 美国梦 · 完整讲读</title>
+      <description>《美国梦》是口述史大师斯塔兹·特克尔历时七年、走访上百位普通美国人的心血之作。一九八零年出版，正值美国精神转折的关口。书中收录了老板、工人、农民、移民、三K党前成员、好莱坞明星、贫民窟母亲、嬉皮士等各色人等的亲口讲述，撕开了官方叙事的糖衣。在特克尔笔下，美国梦不是一句空洞的口号，而是一百种声音的合奏——关于成功、失落、阶层、种族、身份认同，以及在废墟上重新寻找意义的可能。这本书不仅是理解二十世纪后期美国社会心理的必读之作，更提醒我们：每个人的声音都值得被听见，每个人的梦想都值得被诚实地说出来。</description>
+      <pubDate>Mon, 24 Aug 2026 23:27:46 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260824-episode-20260824-077691</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《美国梦》是口述史大师斯塔兹·特克尔历时七年、走访上百位普通美国人的心血之作。一九八零年出版，正值美国精神转折的关口。书中收录了老板、工人、农民、移民、三K党前成员、好莱坞明星、贫民窟母亲、嬉皮士等各色人等的亲口讲述，撕开了官方叙事的糖衣。在特克尔笔下，美国梦不是一句空洞的口号，而是一百种声音的合奏——关于成功、失落、阶层、种族、身份认同，以及在废墟上重新寻找意义的可能。这本书不仅是理解二十世纪后期美国社会心理的必读之作，更提醒我们：每个人的声音都值得被听见，每个人的梦想都值得被诚实地说出来。</itunes:summary>
+      <itunes:duration>00:26:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-077691.mp3" length="25173549" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
