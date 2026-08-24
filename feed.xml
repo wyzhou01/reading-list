@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 24 Aug 2026 13:04:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 13:14:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15199,6 +15199,17 @@
       <itunes:duration>00:31:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-5b1c28.mp3" length="29865261" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《撼动世界史的思想家格斗——从苏格拉底到尼采》 · 完整版 · 撼动世界史的思想家格斗 · 完整讲读</title>
+      <description>本书是日本世界史讲师茂木诚的四天特别讲座实录，跨越苏格拉底到尼采的十二位思想家，重新审视法律与正义、战争与和平、理性与情感、现代自我的发现与危机。从艾希曼审判讲到奥兰治亲王的反抗，从自然法讲到《独立宣言》，从卢梭的公意讲到法国大革命的断头台，从康德的永久和平讲到今天仍未完成的国际秩序。茂木诚用具体的历史现场，把哲学家的核心主张放回它诞生的那一刻——让读者看见：思想不是书架上的标本，而是刀尖上开出的花；人类的进步，从来不是一劳永逸的胜利，而是无数次在十字路口做出的具体而微小的选择。在民族主义回潮、战争阴云再度聚拢的今天，这本书是一份关于如何在混乱世界里守住底线的思想地图。</description>
+      <pubDate>Mon, 24 Aug 2026 13:14:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260824-episode-20260824-9c8353</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是日本世界史讲师茂木诚的四天特别讲座实录，跨越苏格拉底到尼采的十二位思想家，重新审视法律与正义、战争与和平、理性与情感、现代自我的发现与危机。从艾希曼审判讲到奥兰治亲王的反抗，从自然法讲到《独立宣言》，从卢梭的公意讲到法国大革命的断头台，从康德的永久和平讲到今天仍未完成的国际秩序。茂木诚用具体的历史现场，把哲学家的核心主张放回它诞生的那一刻——让读者看见：思想不是书架上的标本，而是刀尖上开出的花；人类的进步，从来不是一劳永逸的胜利，而是无数次在十字路口做出的具体而微小的选择。在民族主义回潮、战争阴云再度聚拢的今天，这本书是一份关于如何在混乱世界里守住底线的思想地图。</itunes:summary>
+      <itunes:duration>00:33:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-9c8353.mp3" length="32214189" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
