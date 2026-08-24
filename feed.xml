@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 23 Aug 2026 14:06:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 07:38:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15133,6 +15133,17 @@
       <itunes:duration>00:37:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260823/episode-20260823-0c4a47.mp3" length="35870253" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《漂泊心绪_(刘再复散文精编(卷5))》 · 完整版 · 漂泊心绪_(刘再复散文精编(卷5)) · 完整讲读</title>
+      <description>《漂泊心绪》是刘再复一九八九年远赴海外后，二十二年间写下的心灵自白。全书分亲情、离情、旧情、新情四辑，从祖母的墓茔到落基山下的草地，从故国一角的焦味到乞力马扎罗山的豹子，写尽一个中国知识分子在时代裂变中的漂泊、孤独、思念、感恩与自审。他用“漂流，这是我的美学”这句话，把失根的恐惧转化成精神的二次扎根。他写母亲守寡五十一年，称她为“最后的道德痴人”，他从母亲的正直里继承了一种又傻又倔的力量。他告诉我们，故乡不在地理里，故乡在烟火里；故乡不在泥土里，故乡在正直里；漂泊不是终点，而是重新认识生命的起点。</description>
+      <pubDate>Mon, 24 Aug 2026 07:38:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260824-episode-20260824-cf0010</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《漂泊心绪》是刘再复一九八九年远赴海外后，二十二年间写下的心灵自白。全书分亲情、离情、旧情、新情四辑，从祖母的墓茔到落基山下的草地，从故国一角的焦味到乞力马扎罗山的豹子，写尽一个中国知识分子在时代裂变中的漂泊、孤独、思念、感恩与自审。他用“漂流，这是我的美学”这句话，把失根的恐惧转化成精神的二次扎根。他写母亲守寡五十一年，称她为“最后的道德痴人”，他从母亲的正直里继承了一种又傻又倔的力量。他告诉我们，故乡不在地理里，故乡在烟火里；故乡不在泥土里，故乡在正直里；漂泊不是终点，而是重新认识生命的起点。</itunes:summary>
+      <itunes:duration>00:27:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-cf0010.mp3" length="26104365" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
