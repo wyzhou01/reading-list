@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 24 Aug 2026 23:27:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 23:48:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15232,6 +15232,17 @@
       <itunes:duration>00:26:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-077691.mp3" length="25173549" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《武则天2：从三岁到八十二岁》 · 完整版 · 武则天2：从三岁到八十二岁 · 完整讲读</title>
+      <description>《武则天2：从三岁到八十二岁》是王晓磊所著三卷本武则天传记的第二卷，讲述武则天人生最惊心动魄的一段——从感业寺为尼到重返后宫、击败萧淑妃与王皇后、对决长孙无忌等关陇权贵、最终封后。本书最大特色是用小说的笔法写正史，把每一处史书的留白都填上合理的想象，把每一场朝堂博弈的台前幕后都还原成可以触摸的场景。读这本书，你会明白武则天为什么能赢，也会明白唐高宗李治绝不是一个窝囊废。</description>
+      <pubDate>Mon, 24 Aug 2026 23:48:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260824-episode-20260824-946aac</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《武则天2：从三岁到八十二岁》是王晓磊所著三卷本武则天传记的第二卷，讲述武则天人生最惊心动魄的一段——从感业寺为尼到重返后宫、击败萧淑妃与王皇后、对决长孙无忌等关陇权贵、最终封后。本书最大特色是用小说的笔法写正史，把每一处史书的留白都填上合理的想象，把每一场朝堂博弈的台前幕后都还原成可以触摸的场景。读这本书，你会明白武则天为什么能赢，也会明白唐高宗李治绝不是一个窝囊废。</itunes:summary>
+      <itunes:duration>00:33:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-946aac.mp3" length="31901997" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
