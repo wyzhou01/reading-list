@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 24 Aug 2026 08:04:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 12:57:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15177,6 +15177,17 @@
       <itunes:duration>00:28:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-763e1e.mp3" length="27803949" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《日本合众国》 · 完整版 · 日本合众国 · 完整讲读</title>
+      <description>《日本合众国》是美籍华裔作家彼得·特莱亚斯所著的或然历史小说，作为《高堡奇人》的精神续作，设定日本赢得二战、北美沦为殖民地的平行世界。一九四八年，日裔少女鲁斯在加州拘留营迎来&quot;解放&quot;，却被卷入寻找神秘将领睦罗贺大将的旅程。小说借审查官石村本与秘密警察月野明子两个角色，揭露极权体制下普通人如何用冷漠面具或诡谲梦境挣扎求存；借鲁斯那把断弦的小提琴，凸显文化记忆与人性尊严在帝国机器面前的顽强抵抗。这不是一部爽文，而是一剂反向清醒剂，提醒读者：在任何旗帜之下，最先被碾碎的是具体的姓名，最先被守住的，也是具体的姓名。</description>
+      <pubDate>Mon, 24 Aug 2026 12:57:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260824-episode-20260824-319ec1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《日本合众国》是美籍华裔作家彼得·特莱亚斯所著的或然历史小说，作为《高堡奇人》的精神续作，设定日本赢得二战、北美沦为殖民地的平行世界。一九四八年，日裔少女鲁斯在加州拘留营迎来&quot;解放&quot;，却被卷入寻找神秘将领睦罗贺大将的旅程。小说借审查官石村本与秘密警察月野明子两个角色，揭露极权体制下普通人如何用冷漠面具或诡谲梦境挣扎求存；借鲁斯那把断弦的小提琴，凸显文化记忆与人性尊严在帝国机器面前的顽强抵抗。这不是一部爽文，而是一剂反向清醒剂，提醒读者：在任何旗帜之下，最先被碾碎的是具体的姓名，最先被守住的，也是具体的姓名。</itunes:summary>
+      <itunes:duration>00:28:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-319ec1.mp3" length="27830061" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
