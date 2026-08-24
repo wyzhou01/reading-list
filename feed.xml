@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 24 Aug 2026 13:14:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 23:24:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15210,6 +15210,17 @@
       <itunes:duration>00:33:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-9c8353.mp3" length="32214189" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《微习惯》 · 完整版 · 微习惯 · 完整讲读</title>
+      <description>《微习惯》是一本关于“小“的自我管理书。作者斯蒂芬·盖斯用自己做实验，发现每天一个俯卧撑、两页书、五十个字这种小到不可能失败的微动作，反而能带来远超预期的持续改变。本书从神经科学和行为心理学出发，解释了为什么动力策略注定失败、为什么意志力更可靠，以及为什么重复才是习惯形成的核心机制。全书给出八步执行法和八大规则，教你把一个微动作变成一辈子的好习惯。核心结论是：你不需要变得更有毅力，你只需要给“普通人“设计一套不会把人逼疯的流程——小到不可能失败，大到可能改变一生。</description>
+      <pubDate>Mon, 24 Aug 2026 23:24:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260824-episode-20260824-8ace7e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《微习惯》是一本关于“小“的自我管理书。作者斯蒂芬·盖斯用自己做实验，发现每天一个俯卧撑、两页书、五十个字这种小到不可能失败的微动作，反而能带来远超预期的持续改变。本书从神经科学和行为心理学出发，解释了为什么动力策略注定失败、为什么意志力更可靠，以及为什么重复才是习惯形成的核心机制。全书给出八步执行法和八大规则，教你把一个微动作变成一辈子的好习惯。核心结论是：你不需要变得更有毅力，你只需要给“普通人“设计一套不会把人逼疯的流程——小到不可能失败，大到可能改变一生。</itunes:summary>
+      <itunes:duration>00:27:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-8ace7e.mp3" length="26720685" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
