@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 24 Aug 2026 07:38:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 07:46:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15144,6 +15144,17 @@
       <itunes:duration>00:27:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-cf0010.mp3" length="26104365" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《秘书长2》 · 完整版 · 秘书长2 · 完整讲读</title>
+      <description>《秘书长二》是作者水平（刘振起）官场小说三部曲中思想深度最高的作品，故事发生在江南省南州市，时间跨度从春天到除夕。小说以市委秘书长方良华为中心，串起招商引资、基层贿选、矿难刑案、巨款潜逃等多条主线，深刻呈现了地级市官场的全景图景。通过齐鸣、赵守春、程一路、方良华四位核心人物的命运起伏，小说揭示了“锅底效应“下地方治理的结构性困境，以及权力、人性、欲望之间反复拉扯的深层逻辑。这不是一部简单的官场小说，更是一份关于时代与人性的深层记录。</description>
+      <pubDate>Mon, 24 Aug 2026 07:46:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260824-episode-20260824-d4020b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《秘书长二》是作者水平（刘振起）官场小说三部曲中思想深度最高的作品，故事发生在江南省南州市，时间跨度从春天到除夕。小说以市委秘书长方良华为中心，串起招商引资、基层贿选、矿难刑案、巨款潜逃等多条主线，深刻呈现了地级市官场的全景图景。通过齐鸣、赵守春、程一路、方良华四位核心人物的命运起伏，小说揭示了“锅底效应“下地方治理的结构性困境，以及权力、人性、欲望之间反复拉扯的深层逻辑。这不是一部简单的官场小说，更是一份关于时代与人性的深层记录。</itunes:summary>
+      <itunes:duration>00:34:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-d4020b.mp3" length="33231021" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
