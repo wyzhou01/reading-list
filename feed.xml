@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 25 Aug 2026 01:12:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 01:26:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15342,6 +15342,17 @@
       <itunes:duration>00:29:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-c5527f.mp3" length="28176045" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《善良丰富高贵》 · 完整版 · 善良丰富高贵_-_周国平 · 完整讲读</title>
+      <description>《善良 丰富 高贵》是周国平的第四个散文结集，收录了从二零零二年八月到二零零六年十二月所写的文章。本书第一次大规模地把目光投向现实，写教育失序、学术腐败、娱乐至死、城市乱建，也写经典阅读、哲学启蒙、心智品质与可持续的幸福。周国平用六个字为&quot;人&quot;这个词重新下定义：善良是对生命的尊重，丰富是精神的体积，高贵是灵魂的硬度。在一个喧嚣的时代里，他示范了一种不伟大的公共写作——不放弃，但也不自大。读这本书，不是为了找到一个答案，而是为了守住做一个人的尊严。</description>
+      <pubDate>Tue, 25 Aug 2026 01:26:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260824-episode-20260824-e62bcf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《善良 丰富 高贵》是周国平的第四个散文结集，收录了从二零零二年八月到二零零六年十二月所写的文章。本书第一次大规模地把目光投向现实，写教育失序、学术腐败、娱乐至死、城市乱建，也写经典阅读、哲学启蒙、心智品质与可持续的幸福。周国平用六个字为&quot;人&quot;这个词重新下定义：善良是对生命的尊重，丰富是精神的体积，高贵是灵魂的硬度。在一个喧嚣的时代里，他示范了一种不伟大的公共写作——不放弃，但也不自大。读这本书，不是为了找到一个答案，而是为了守住做一个人的尊严。</itunes:summary>
+      <itunes:duration>00:39:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-e62bcf.mp3" length="37983021" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
