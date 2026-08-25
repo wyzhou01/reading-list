@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 25 Aug 2026 00:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 00:35:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15287,6 +15287,17 @@
       <itunes:duration>00:34:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-604f99.mp3" length="32773677" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《袁腾飞讲先秦•上古春秋》 · 完整版 · 袁腾飞讲先秦•上古春秋(1) · 完整讲读</title>
+      <description>《袁腾飞讲先秦·上古春秋》是袁腾飞&quot;讲先秦&quot;系列的第一册，用接地气的京味儿说书风格，把从上古传说到春秋争霸的中华文明源头讲得通透。本书串起六个核心洞察：龙的传人是九个部落合成图腾的祖先合约、禅让制是从道德神话到血腥夺权的崩塌、春秋五霸是五百年淘汰赛的狠人竞技、商汤武王伐纣是替天行道话术与资源再分配、嫡长子继承制是把中国政治焊死两千年家族陷阱的最大补丁、春秋争霸真正的遗产是给平民腾出了位置。袁腾飞不讲道德乌托邦，专讲人性实验场——历史是赢家写的，段子也是赢家编的。读完这本书，你会拥有一双看懂秦汉隋唐的透镜。</description>
+      <pubDate>Tue, 25 Aug 2026 00:35:36 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260824-episode-20260824-5a69f7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《袁腾飞讲先秦·上古春秋》是袁腾飞&quot;讲先秦&quot;系列的第一册，用接地气的京味儿说书风格，把从上古传说到春秋争霸的中华文明源头讲得通透。本书串起六个核心洞察：龙的传人是九个部落合成图腾的祖先合约、禅让制是从道德神话到血腥夺权的崩塌、春秋五霸是五百年淘汰赛的狠人竞技、商汤武王伐纣是替天行道话术与资源再分配、嫡长子继承制是把中国政治焊死两千年家族陷阱的最大补丁、春秋争霸真正的遗产是给平民腾出了位置。袁腾飞不讲道德乌托邦，专讲人性实验场——历史是赢家写的，段子也是赢家编的。读完这本书，你会拥有一双看懂秦汉隋唐的透镜。</itunes:summary>
+      <itunes:duration>00:39:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-5a69f7.mp3" length="37613613" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
