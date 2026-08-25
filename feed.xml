@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 25 Aug 2026 02:04:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 02:12:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15397,6 +15397,17 @@
       <itunes:duration>00:23:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-4165ff.mp3" length="22659117" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《政府论（下册）》 · 完整版 · 政府论（下册）_(汉译世界学术名著丛书)_-_洛克 · 完整讲读</title>
+      <description>《政府论》下篇是约翰·洛克在一六八九年为英国光荣革命所写的辩护之作，也是现代自由主义宪政的奠基之作。本书以自然状态、自然法、自然权利为逻辑起点，论证了政府的合法性来自被治者的同意，其目的是保护每一个人的生命、自由与财产；当立法机关辜负委托时，人民有权收回权力，重建政府。本书系统论证了议会主权、立法权与执法权的分离、财产权的劳动理论、人民反抗权以及宗教宽容，深刻影响了美国独立宣言、美国宪法、法国人权宣言与现代人权观念。本书同时也是一面镜子，照出了自由主义的阶级局限：洛克笔下的“人民“是有产者的集合，他的“自由“以资本主义私有制为前提，他的“宽容“亦有教派边界。读懂洛克，就是读懂现代政治世界的源代码——既见其精彩，亦见其必须被继续超越的地方。</description>
+      <pubDate>Tue, 25 Aug 2026 02:12:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260824-episode-20260824-0f1073</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《政府论》下篇是约翰·洛克在一六八九年为英国光荣革命所写的辩护之作，也是现代自由主义宪政的奠基之作。本书以自然状态、自然法、自然权利为逻辑起点，论证了政府的合法性来自被治者的同意，其目的是保护每一个人的生命、自由与财产；当立法机关辜负委托时，人民有权收回权力，重建政府。本书系统论证了议会主权、立法权与执法权的分离、财产权的劳动理论、人民反抗权以及宗教宽容，深刻影响了美国独立宣言、美国宪法、法国人权宣言与现代人权观念。本书同时也是一面镜子，照出了自由主义的阶级局限：洛克笔下的“人民“是有产者的集合，他的“自由“以资本主义私有制为前提，他的“宽容“亦有教派边界。读懂洛克，就是读懂现代政治世界的源代码——既见其精彩，亦见其必须被继续超越的地方。</itunes:summary>
+      <itunes:duration>00:35:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-0f1073.mp3" length="34267053" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
