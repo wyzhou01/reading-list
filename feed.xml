@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 25 Aug 2026 02:12:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 02:20:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15408,6 +15408,17 @@
       <itunes:duration>00:35:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-0f1073.mp3" length="34267053" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《青崖白鹿记》 · 完整版 · 青崖白鹿记-_沈璎璎 · 完整讲读</title>
+      <description>《青崖白鹿记》是沈璎璎二十岁出头时，在医学院课业压抑下写就的一部古风武侠。少年神医沈瑄医人无数，却用整个青春寻找一个名叫蒋灵骞的女子，最终在天台山深处一座无人的孤坟前，找到了答案。书中藏着她二零零二年春末独自坐火车去天台山、站在山崖上看瀑布如白鹿跳跃的真实往事，也藏着一代人用少年意气写过、又用一生来回望的江湖梦。</description>
+      <pubDate>Tue, 25 Aug 2026 02:20:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260824-episode-20260824-5541c1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《青崖白鹿记》是沈璎璎二十岁出头时，在医学院课业压抑下写就的一部古风武侠。少年神医沈瑄医人无数，却用整个青春寻找一个名叫蒋灵骞的女子，最终在天台山深处一座无人的孤坟前，找到了答案。书中藏着她二零零二年春末独自坐火车去天台山、站在山崖上看瀑布如白鹿跳跃的真实往事，也藏着一代人用少年意气写过、又用一生来回望的江湖梦。</itunes:summary>
+      <itunes:duration>00:27:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-5541c1.mp3" length="26764077" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
