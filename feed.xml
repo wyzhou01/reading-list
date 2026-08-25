@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 25 Aug 2026 00:45:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 00:57:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15309,6 +15309,17 @@
       <itunes:duration>00:24:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-3fd040.mp3" length="23734317" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《如何成为一个妖孽》 · 完整版 · 如何成为一个妖孽_(思享家)-胡紫微 · 完整讲读</title>
+      <description>《如何成为一个妖孽》是前电视主持人胡紫微的随笔集，写于她二零零七年人生断崖之后。书里没有高深的女性主义理论，只有一个女人如何面对欲望、婚姻、衰老、死亡的诚实记录。她把自己比作一锅烩饭——什么食材都不是原来的味道，但肯定不会砸锅；把逆缘比作命运的第一千下锤击，花岗岩碎成齑粉之后，才能重新捏起来；把写作比作走夜路，大声说出来，不过是为了给自己壮胆。这本书不提供答案，只提供一种诚实的活法——敢面对自己内心的女人，不管多少岁，都是一个妖孽。</description>
+      <pubDate>Tue, 25 Aug 2026 00:57:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260824-episode-20260824-dbacb2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《如何成为一个妖孽》是前电视主持人胡紫微的随笔集，写于她二零零七年人生断崖之后。书里没有高深的女性主义理论，只有一个女人如何面对欲望、婚姻、衰老、死亡的诚实记录。她把自己比作一锅烩饭——什么食材都不是原来的味道，但肯定不会砸锅；把逆缘比作命运的第一千下锤击，花岗岩碎成齑粉之后，才能重新捏起来；把写作比作走夜路，大声说出来，不过是为了给自己壮胆。这本书不提供答案，只提供一种诚实的活法——敢面对自己内心的女人，不管多少岁，都是一个妖孽。</itunes:summary>
+      <itunes:duration>00:30:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-dbacb2.mp3" length="29325357" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
