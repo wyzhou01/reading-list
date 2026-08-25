@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 25 Aug 2026 02:32:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 02:42:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15430,6 +15430,17 @@
       <itunes:duration>00:34:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-4f4d1f.mp3" length="33464109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《张欣经典小说4本》 · 完整版 · 张欣经典小说4本 · 完整讲读</title>
+      <description>《张欣经典小说四本》收录了当代都市文学女作家张欣的四部代表作：《浮华背后》写海关关长之女莫亿亿在欲望与真爱间的挣扎，《我的泪珠儿》写孤儿陆弥与几个男人之间爱恨纠葛的极端情感，《深喉》聚焦新闻理想与权力资本的博弈，《为爱结婚》探讨婚姻中爱情、忠诚与牺牲的本质。四本书跨度二十年，几乎完整记录了中国都市女性在权力、资本与欲望夹缝中的精神变迁史。张欣被誉为最懂都市女性隐秘疼痛的作家之一，她的故事不悬浮，每一个细节都带着南方城市潮湿的气息。在欲望没有退场、真爱依然稀缺、婚姻难题还在原地的今天，重读张欣，不是为了怀旧，而是为了照见此刻的自己。</description>
+      <pubDate>Tue, 25 Aug 2026 02:42:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260824-episode-20260824-bfb739</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《张欣经典小说四本》收录了当代都市文学女作家张欣的四部代表作：《浮华背后》写海关关长之女莫亿亿在欲望与真爱间的挣扎，《我的泪珠儿》写孤儿陆弥与几个男人之间爱恨纠葛的极端情感，《深喉》聚焦新闻理想与权力资本的博弈，《为爱结婚》探讨婚姻中爱情、忠诚与牺牲的本质。四本书跨度二十年，几乎完整记录了中国都市女性在权力、资本与欲望夹缝中的精神变迁史。张欣被誉为最懂都市女性隐秘疼痛的作家之一，她的故事不悬浮，每一个细节都带着南方城市潮湿的气息。在欲望没有退场、真爱依然稀缺、婚姻难题还在原地的今天，重读张欣，不是为了怀旧，而是为了照见此刻的自己。</itunes:summary>
+      <itunes:duration>00:25:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-bfb739.mp3" length="24776877" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
