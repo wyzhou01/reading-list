@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 25 Aug 2026 01:55:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 02:04:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15386,6 +15386,17 @@
       <itunes:duration>00:27:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-384cab.mp3" length="26377005" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《纪德集(01)背德者》 · 完整版 · 纪德集(01)背德者 · 完整讲读</title>
+      <description>《背德者》《窄门》《田园交响曲》是法国作家纪德于一九零二至一九一九年间创作的三部中篇，被誉为&quot;道德三重奏&quot;。米歇尔挣脱清教徒枷锁追逐感官自由，却让妻子在病榻上枯萎；少女阿莉莎为追求神圣之爱，亲手掐灭了真实的爱情；牧师以慈善之名收留盲女，用谎言构筑温柔监狱。三部作品共同追问：当一个人把另一个人当作实现自我理念的工具——无论那理念叫自由、神圣还是善良——结局都是毁灭。一百二十分钟，读懂三种撕裂。</description>
+      <pubDate>Tue, 25 Aug 2026 02:04:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260824-episode-20260824-4165ff</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《背德者》《窄门》《田园交响曲》是法国作家纪德于一九零二至一九一九年间创作的三部中篇，被誉为&quot;道德三重奏&quot;。米歇尔挣脱清教徒枷锁追逐感官自由，却让妻子在病榻上枯萎；少女阿莉莎为追求神圣之爱，亲手掐灭了真实的爱情；牧师以慈善之名收留盲女，用谎言构筑温柔监狱。三部作品共同追问：当一个人把另一个人当作实现自我理念的工具——无论那理念叫自由、神圣还是善良——结局都是毁灭。一百二十分钟，读懂三种撕裂。</itunes:summary>
+      <itunes:duration>00:23:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-4165ff.mp3" length="22659117" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
