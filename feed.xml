@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 25 Aug 2026 01:46:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 01:55:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15375,6 +15375,17 @@
       <itunes:duration>00:35:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-0f4508.mp3" length="34368813" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《倚天屠龙记》 · 完整版 · 倚天屠龍記（明河版） · 完整讲读</title>
+      <description>《倚天屠龍記》是金庸「射鵰三部曲」的終章，講述少年張無忌從一個身中劇毒、隨時可能死去的孤兒，在亂世中學醫、練武、率領明教義軍推翻元朝的故事。書中以屠龍刀與倚天劍的祕密為主線，交織張無忌與趙敏、周芷若、殷離、小昭四位女子的情感糾葛，並透過武當七俠、張三丰與張翠山、謝遜與張無忌三條父子兄弟線，寫盡江湖中的情義二字。金庸透過張無忌這個「不夠英雄氣概」的男主角，深刻反思中國三千年政治史的殘酷真相：俠義在政治的邏輯裡是一種奢侈品，唯有忍、狠、決斷方能成事。這部書寫的不只是武林爭鬥，更是普通人在權力、愛情、友情之間的艱難抉擇，以及那份不忍心的善良，如何在亂世裡守得住身邊的人。</description>
+      <pubDate>Tue, 25 Aug 2026 01:55:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260824-episode-20260824-384cab</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《倚天屠龍記》是金庸「射鵰三部曲」的終章，講述少年張無忌從一個身中劇毒、隨時可能死去的孤兒，在亂世中學醫、練武、率領明教義軍推翻元朝的故事。書中以屠龍刀與倚天劍的祕密為主線，交織張無忌與趙敏、周芷若、殷離、小昭四位女子的情感糾葛，並透過武當七俠、張三丰與張翠山、謝遜與張無忌三條父子兄弟線，寫盡江湖中的情義二字。金庸透過張無忌這個「不夠英雄氣概」的男主角，深刻反思中國三千年政治史的殘酷真相：俠義在政治的邏輯裡是一種奢侈品，唯有忍、狠、決斷方能成事。這部書寫的不只是武林爭鬥，更是普通人在權力、愛情、友情之間的艱難抉擇，以及那份不忍心的善良，如何在亂世裡守得住身邊的人。</itunes:summary>
+      <itunes:duration>00:27:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-384cab.mp3" length="26377005" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
