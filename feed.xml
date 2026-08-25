@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 25 Aug 2026 02:51:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 17:19:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15452,6 +15452,17 @@
       <itunes:duration>00:23:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-b108bd.mp3" length="23023533" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《她的小梨窝》 · 完整版 · 她的小梨窝 · 完整讲读</title>
+      <description>《她的小梨涡》讲述了南方插班生许呦，闯入北方私立名校九班，与痞帅叛逆的少年谢辞从一张草稿纸开始，在群架、涂鸦墙、烟花与分离中相爱，最终从校服走到婚纱的故事。这本书用细腻的笔触，把十七岁的心动写得真实又戳人——没有狗血的误会堆砌，只有一张被抢走的草稿纸、一句“喂，我物理作业”、一枚藏在梨涡上的吻，以及一个男孩用最低成本给出的最真的偏爱。它告诉我们，年轻时的爱不要求你有房有车，只要求你愿意被看见、被记住、被珍藏。那张草稿纸，跟了他们一辈子；那声“阿拆”，成了只属于他们两个人的暗号；那枚吻，不落在嘴唇上，只落在她笑起来才有的梨涡上。年少时的喜欢，从来不是不值钱，而是我们这代人，集体忽略了一种最干净、最笨拙、也最值得被珍惜的爱。</description>
+      <pubDate>Tue, 25 Aug 2026 17:18:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260825-episode-20260825-03dc25</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《她的小梨涡》讲述了南方插班生许呦，闯入北方私立名校九班，与痞帅叛逆的少年谢辞从一张草稿纸开始，在群架、涂鸦墙、烟花与分离中相爱，最终从校服走到婚纱的故事。这本书用细腻的笔触，把十七岁的心动写得真实又戳人——没有狗血的误会堆砌，只有一张被抢走的草稿纸、一句“喂，我物理作业”、一枚藏在梨涡上的吻，以及一个男孩用最低成本给出的最真的偏爱。它告诉我们，年轻时的爱不要求你有房有车，只要求你愿意被看见、被记住、被珍藏。那张草稿纸，跟了他们一辈子；那声“阿拆”，成了只属于他们两个人的暗号；那枚吻，不落在嘴唇上，只落在她笑起来才有的梨涡上。年少时的喜欢，从来不是不值钱，而是我们这代人，集体忽略了一种最干净、最笨拙、也最值得被珍惜的爱。</itunes:summary>
+      <itunes:duration>00:33:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260825/episode-20260825-03dc25.mp3" length="31990317" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
