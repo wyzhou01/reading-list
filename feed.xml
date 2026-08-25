@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 25 Aug 2026 00:04:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 00:10:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15265,6 +15265,17 @@
       <itunes:duration>00:32:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-f84bd4.mp3" length="31102125" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《花祭》 · 完整版 · 花祭 · 完整讲读</title>
+      <description>《花祭》讲述一个十七世纪伊朗的无名女孩，在父亲突然离世后失去庇护与嫁妆，仅凭母亲传授的编织手艺，用经血染出翠蓝色染料、织成地毯换取短暂婚姻，却在七年后被遗弃。她以临时婚约换取在伊斯法罕染坊工作的机会，在七个月的劳役中一寸一寸地用自己的手艺赎回署名权，最终用一块藏着神鸟图案的地毯，宣告自己不再是任何男人账本上的一行字，而是一个拥有完整尊严的独立匠人。这是一首写给所有在绝境中用双手为自己挣得立锥之地的女人的赞美诗。</description>
+      <pubDate>Tue, 25 Aug 2026 00:10:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260824-episode-20260824-346b60</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《花祭》讲述一个十七世纪伊朗的无名女孩，在父亲突然离世后失去庇护与嫁妆，仅凭母亲传授的编织手艺，用经血染出翠蓝色染料、织成地毯换取短暂婚姻，却在七年后被遗弃。她以临时婚约换取在伊斯法罕染坊工作的机会，在七个月的劳役中一寸一寸地用自己的手艺赎回署名权，最终用一块藏着神鸟图案的地毯，宣告自己不再是任何男人账本上的一行字，而是一个拥有完整尊严的独立匠人。这是一首写给所有在绝境中用双手为自己挣得立锥之地的女人的赞美诗。</itunes:summary>
+      <itunes:duration>00:26:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-346b60.mp3" length="25291821" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
