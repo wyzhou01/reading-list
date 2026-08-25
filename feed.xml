@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 25 Aug 2026 01:05:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 01:12:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15331,6 +15331,17 @@
       <itunes:duration>00:32:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-5ac00b.mp3" length="30791853" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《笑林广记》 · 完整版 · 笑林广记（作家榜经典文库） · 完整讲读</title>
+      <description>《笑林广记》是清代游戏主人编纂的古代最大笑话集，分十二部、收一千余则段子，把明清官场的贪黩、儒林的酸腐、市井的贪吝、闺阁的辛酸，写成一部嬉笑怒骂的世态喜剧。本期通过官场现形记、儒林照妖镜、市井众生相三幅图，还原三百年前的中国世俗画卷，并挖掘编者借古讽今的笔法、全身而退的骂人术，以及藏于刻薄之下的悲悯底色。读这本书，不仅是为博一笑，更是为照见自己——贪嗔痴这些毛病，三百年没变过。</description>
+      <pubDate>Tue, 25 Aug 2026 01:12:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260824-episode-20260824-c5527f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《笑林广记》是清代游戏主人编纂的古代最大笑话集，分十二部、收一千余则段子，把明清官场的贪黩、儒林的酸腐、市井的贪吝、闺阁的辛酸，写成一部嬉笑怒骂的世态喜剧。本期通过官场现形记、儒林照妖镜、市井众生相三幅图，还原三百年前的中国世俗画卷，并挖掘编者借古讽今的笔法、全身而退的骂人术，以及藏于刻薄之下的悲悯底色。读这本书，不仅是为博一笑，更是为照见自己——贪嗔痴这些毛病，三百年没变过。</itunes:summary>
+      <itunes:duration>00:29:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-c5527f.mp3" length="28176045" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
