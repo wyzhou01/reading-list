@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 25 Aug 2026 17:19:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 17:27:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15463,6 +15463,17 @@
       <itunes:duration>00:33:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260825/episode-20260825-03dc25.mp3" length="31990317" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《十年轮回：从亚洲到全球的金融危机》 · 完整版 · 十年轮回 · 完整讲读</title>
+      <description>《十年轮回》是马来西亚华人金融监管者沈联涛对一九八七年至二零一五年间三次重大金融危机的系统性反思。他亲身参与过这些危机的核心决策，因此本书的视角不是旁观者的评论，而是实战派的复盘。作者指出，主流经济学把世界想象成一台会自动恢复平衡的精密钟表——这一假设既预测不了任何一场危机，也提供不了真正有效的解药。书中用日本失去的二十年、马来西亚的特立独行、中国的稳健改革作为对照样本，论证了西方那套放之四海皆准的药方在亚洲的失效。沈联涛提出了一套四维分析框架：宏观经济、微观经济、整合经济学、综观经济学，主张只有跳出机械论、回到制度与人本身，才能真正理解金融危机的根源。这本书最重要的预言在今天已经应验：全球债务膨胀到 GDP 的百分之二百八十六，量化宽松用到尽头，下一场危机的轮廓正在浮现。读这本书不是为了预测崩盘日期，而是为了在下一次风暴到来时，不再被漂亮而空洞的模型欺骗。</description>
+      <pubDate>Tue, 25 Aug 2026 17:27:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260825-episode-20260825-340cd4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《十年轮回》是马来西亚华人金融监管者沈联涛对一九八七年至二零一五年间三次重大金融危机的系统性反思。他亲身参与过这些危机的核心决策，因此本书的视角不是旁观者的评论，而是实战派的复盘。作者指出，主流经济学把世界想象成一台会自动恢复平衡的精密钟表——这一假设既预测不了任何一场危机，也提供不了真正有效的解药。书中用日本失去的二十年、马来西亚的特立独行、中国的稳健改革作为对照样本，论证了西方那套放之四海皆准的药方在亚洲的失效。沈联涛提出了一套四维分析框架：宏观经济、微观经济、整合经济学、综观经济学，主张只有跳出机械论、回到制度与人本身，才能真正理解金融危机的根源。这本书最重要的预言在今天已经应验：全球债务膨胀到 GDP 的百分之二百八十六，量化宽松用到尽头，下一场危机的轮廓正在浮现。读这本书不是为了预测崩盘日期，而是为了在下一次风暴到来时，不再被漂亮而空洞的模型欺骗。</itunes:summary>
+      <itunes:duration>00:32:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260825/episode-20260825-340cd4.mp3" length="31421613" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
