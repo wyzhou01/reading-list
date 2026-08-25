@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 25 Aug 2026 17:43:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 17:54:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15496,6 +15496,17 @@
       <itunes:duration>00:27:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260825/episode-20260825-16e3fa.mp3" length="26028333" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我是个妈妈，我需要铂金包》 · 完整版 · 我是个妈妈，我需要铂金包 · 完整讲读</title>
+      <description>《我是个妈妈，我需要铂金包》是一位耶鲁人类学博士妈妈，以田野调查视角记录纽约上东区精英妈妈群体的非虚构作品。作者薇妮斯蒂·马丁用人类学与灵长类动物学的工具，拆解了铂金包、幼儿园面试、产后身材、晚宴礼仪背后的阶层再生产机制。她发现，铂金包是一张通行证，孩子是阶层继承的载体，妈妈们的焦虑本质来自“下行恐惧”，而喝酒、吃药、踩飞轮，只是焦虑的替代出口。最终，作者用冷静而幽默的笔触，揭示了一个让人释然的真相——全世界妈妈的焦虑，本质相同。</description>
+      <pubDate>Tue, 25 Aug 2026 17:54:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260825-episode-20260825-472b17</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我是个妈妈，我需要铂金包》是一位耶鲁人类学博士妈妈，以田野调查视角记录纽约上东区精英妈妈群体的非虚构作品。作者薇妮斯蒂·马丁用人类学与灵长类动物学的工具，拆解了铂金包、幼儿园面试、产后身材、晚宴礼仪背后的阶层再生产机制。她发现，铂金包是一张通行证，孩子是阶层继承的载体，妈妈们的焦虑本质来自“下行恐惧”，而喝酒、吃药、踩飞轮，只是焦虑的替代出口。最终，作者用冷静而幽默的笔触，揭示了一个让人释然的真相——全世界妈妈的焦虑，本质相同。</itunes:summary>
+      <itunes:duration>00:32:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260825/episode-20260825-472b17.mp3" length="30895917" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
