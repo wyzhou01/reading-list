@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 25 Aug 2026 00:10:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 00:20:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15276,6 +15276,17 @@
       <itunes:duration>00:26:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-346b60.mp3" length="25291821" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大数据时代》 · 完整版 · 大数据时代_-_维克托·迈尔·舍恩伯格 · 完整讲读</title>
+      <description>本书系统阐述了大数据时代的三大思维变革——要全体不要抽样、要效率不要绝对精确、要相关不要因果——如何重塑人类认知世界的方式。作者通过公共卫生、商业、医疗等领域的丰富案例，揭示数据化一切与数据交叉复用所带来的巨大价值，同时冷静剖析了大数据帝国前夜的隐患，包括隐私泄露、数据独裁、信息公平等问题，呼吁读者拥抱变革的同时保持警醒。</description>
+      <pubDate>Tue, 25 Aug 2026 00:20:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260824-episode-20260824-604f99</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书系统阐述了大数据时代的三大思维变革——要全体不要抽样、要效率不要绝对精确、要相关不要因果——如何重塑人类认知世界的方式。作者通过公共卫生、商业、医疗等领域的丰富案例，揭示数据化一切与数据交叉复用所带来的巨大价值，同时冷静剖析了大数据帝国前夜的隐患，包括隐私泄露、数据独裁、信息公平等问题，呼吁读者拥抱变革的同时保持警醒。</itunes:summary>
+      <itunes:duration>00:34:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-604f99.mp3" length="32773677" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
