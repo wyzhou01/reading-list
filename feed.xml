@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 25 Aug 2026 17:36:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 17:43:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15485,6 +15485,17 @@
       <itunes:duration>00:26:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260825/episode-20260825-ba5594.mp3" length="25595949" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《阿桑奇自传：不能不说的秘密》 · 完整版 · 阿桑奇自传：不能不说的秘密 · 完整讲读</title>
+      <description>《阿桑奇自传：不能不说的秘密》是维基解密创始人朱利安·阿桑奇的口述自传，二零一一年由坎农格特出版社在出版合同争议中强行出版。书中阿桑奇从自己漂泊的童年写起，讲述接触电脑、加入密码朋克邮件列表、创立维基解密、公布美军伊拉克与阿富汗战争文件、最终因电报门事件在伦敦被捕并被引渡的完整经历。他以工程师视角论证：加密技术让普通人首次拥有了不经任何权威机构就发布信息的能力，这从根本上改变了国家秘密与新闻自由的边界。这本未经授权的自传激情、挑衅、固执，是一份理解数字时代信息权力之争的重要第一手材料。</description>
+      <pubDate>Tue, 25 Aug 2026 17:43:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260825-episode-20260825-16e3fa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《阿桑奇自传：不能不说的秘密》是维基解密创始人朱利安·阿桑奇的口述自传，二零一一年由坎农格特出版社在出版合同争议中强行出版。书中阿桑奇从自己漂泊的童年写起，讲述接触电脑、加入密码朋克邮件列表、创立维基解密、公布美军伊拉克与阿富汗战争文件、最终因电报门事件在伦敦被捕并被引渡的完整经历。他以工程师视角论证：加密技术让普通人首次拥有了不经任何权威机构就发布信息的能力，这从根本上改变了国家秘密与新闻自由的边界。这本未经授权的自传激情、挑衅、固执，是一份理解数字时代信息权力之争的重要第一手材料。</itunes:summary>
+      <itunes:duration>00:27:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260825/episode-20260825-16e3fa.mp3" length="26028333" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
