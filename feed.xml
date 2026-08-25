@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 24 Aug 2026 23:57:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 00:04:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15254,6 +15254,17 @@
       <itunes:duration>00:37:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-c2d8b5.mp3" length="36435885" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《三联生活周刊·2015年第17期》 · 完整版 · 三联生活周刊_2015年17期 · 完整讲读</title>
+      <description>《三联生活周刊》二千零一十五年第十七期以刚去世的诺贝尔文学奖得主君特·格拉斯为头题，同时收录了中国一季度经济数据与股市暴涨的对照分析、邓丽君逝世二十周年的文化反思，以及大卫·霍克尼、日本弓道、挪威行记、加莱亚诺讣告、《权力的游戏》解析等文化切片。所有文章看似零散，实则围绕同一个核心追问：在快速变化的时代里，我们究竟该记住什么，又该遗忘什么？格拉斯示范了用文学对抗集体遗忘的姿态，邓丽君提供了在华语流行音乐中回归本土的坐标，而那些关于艺术与生活的篇章，则从不同侧面补充着同一种答案——保持独立而不合时宜的声音，本身就是一种珍贵的抵抗。</description>
+      <pubDate>Tue, 25 Aug 2026 00:04:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260824-episode-20260824-f84bd4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《三联生活周刊》二千零一十五年第十七期以刚去世的诺贝尔文学奖得主君特·格拉斯为头题，同时收录了中国一季度经济数据与股市暴涨的对照分析、邓丽君逝世二十周年的文化反思，以及大卫·霍克尼、日本弓道、挪威行记、加莱亚诺讣告、《权力的游戏》解析等文化切片。所有文章看似零散，实则围绕同一个核心追问：在快速变化的时代里，我们究竟该记住什么，又该遗忘什么？格拉斯示范了用文学对抗集体遗忘的姿态，邓丽君提供了在华语流行音乐中回归本土的坐标，而那些关于艺术与生活的篇章，则从不同侧面补充着同一种答案——保持独立而不合时宜的声音，本身就是一种珍贵的抵抗。</itunes:summary>
+      <itunes:duration>00:32:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-f84bd4.mp3" length="31102125" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
