@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 25 Aug 2026 01:35:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 01:46:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15364,6 +15364,17 @@
       <itunes:duration>00:32:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-8a8c19.mp3" length="30946221" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《泛神论要义》 · 完整版 · 泛神论要义_(汉译世界学术名著丛书)_-_约翰·托兰德 · 完整讲读</title>
+      <description>《泛神论要义》是十七至十八世纪英国自由思想家约翰·托兰德的最后一部哲学著作，1720年以拉丁文匿名出版，伪装成秘密兄弟会的诵文。托兰德在这部书中完成了从自然神论到泛神论的转向，把上帝与宇宙相同一，主张物质具有内在能动性、万物流变、两极相合；并将启蒙的锋芒从宗教批判延伸至政治批判，高扬思想自由与行动自由，谴责一切特权与暴君，倡导以法律守护财产与安全，构建现代法治社会。这部以理性对抗迷信、以自由对抗专制的哲学宣言，是启蒙运动史上承上启下的关键文本。</description>
+      <pubDate>Tue, 25 Aug 2026 01:46:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260824-episode-20260824-0f4508</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《泛神论要义》是十七至十八世纪英国自由思想家约翰·托兰德的最后一部哲学著作，1720年以拉丁文匿名出版，伪装成秘密兄弟会的诵文。托兰德在这部书中完成了从自然神论到泛神论的转向，把上帝与宇宙相同一，主张物质具有内在能动性、万物流变、两极相合；并将启蒙的锋芒从宗教批判延伸至政治批判，高扬思想自由与行动自由，谴责一切特权与暴君，倡导以法律守护财产与安全，构建现代法治社会。这部以理性对抗迷信、以自由对抗专制的哲学宣言，是启蒙运动史上承上启下的关键文本。</itunes:summary>
+      <itunes:duration>00:35:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-0f4508.mp3" length="34368813" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
