@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 25 Aug 2026 02:20:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 02:32:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15419,6 +15419,17 @@
       <itunes:duration>00:27:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-5541c1.mp3" length="26764077" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《王国维讲国学》 · 完整版 · 王国维讲国学_(大师讲国学文库) · 完整讲读</title>
+      <description>《王国维讲国学》由季风编著，以王国维本人的学术著述为底本，从美学、史学、哲学、文学、经学、戏曲、考据、教育八个维度，系统呈现这位清华国学导师的思想精华。全书聚焦三条主线：以“境界“说为代表的中西融合美学观，以“二重证据法“为代表的科学考据精神，以及“学术独立、超脱功利“的人格理想。王国维一生颠沛，却始终以学术心态致力于中西文化的互融；既反对全盘西化，也反对全面否定传统。本书的价值，在于示范了一种治学精神：在急功近利之风仍盛的今天，重读王国维，仍有振聋发聩之效。</description>
+      <pubDate>Tue, 25 Aug 2026 02:32:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260824-episode-20260824-4f4d1f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《王国维讲国学》由季风编著，以王国维本人的学术著述为底本，从美学、史学、哲学、文学、经学、戏曲、考据、教育八个维度，系统呈现这位清华国学导师的思想精华。全书聚焦三条主线：以“境界“说为代表的中西融合美学观，以“二重证据法“为代表的科学考据精神，以及“学术独立、超脱功利“的人格理想。王国维一生颠沛，却始终以学术心态致力于中西文化的互融；既反对全盘西化，也反对全面否定传统。本书的价值，在于示范了一种治学精神：在急功近利之风仍盛的今天，重读王国维，仍有振聋发聩之效。</itunes:summary>
+      <itunes:duration>00:34:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-4f4d1f.mp3" length="33464109" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
