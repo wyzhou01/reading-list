@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 25 Aug 2026 17:27:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 17:36:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15474,6 +15474,17 @@
       <itunes:duration>00:32:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260825/episode-20260825-340cd4.mp3" length="31421613" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《天使游戏》 · 完整版 · 天使游戏_-_[西]卡洛斯·鲁依斯·萨丰 · 完整讲读</title>
+      <description>《天使游戏》是西班牙作家卡洛斯·鲁依斯·萨丰的哥特悬疑代表作。一九一七年的巴塞罗那,十七岁的大卫·马丁用一夜写完一篇小说,从此走上替神秘赞助人写作的不归路,十年间失去姓名、自由与所爱之人。当他终于醒悟,魔鬼把克里斯蒂娜的女儿还给他,并赐予他永不衰老的永恒,让他在爱与失去的循环中,一点一点偿还这一生欠下的所有债。一本写给每一个曾在深夜为才华定价的人的警世书。</description>
+      <pubDate>Tue, 25 Aug 2026 17:36:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260825-episode-20260825-ba5594</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《天使游戏》是西班牙作家卡洛斯·鲁依斯·萨丰的哥特悬疑代表作。一九一七年的巴塞罗那,十七岁的大卫·马丁用一夜写完一篇小说,从此走上替神秘赞助人写作的不归路,十年间失去姓名、自由与所爱之人。当他终于醒悟,魔鬼把克里斯蒂娜的女儿还给他,并赐予他永不衰老的永恒,让他在爱与失去的循环中,一点一点偿还这一生欠下的所有债。一本写给每一个曾在深夜为才华定价的人的警世书。</itunes:summary>
+      <itunes:duration>00:26:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260825/episode-20260825-ba5594.mp3" length="25595949" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
