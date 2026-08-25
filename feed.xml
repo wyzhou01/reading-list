@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 25 Aug 2026 00:57:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 01:05:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15320,6 +15320,17 @@
       <itunes:duration>00:30:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-dbacb2.mp3" length="29325357" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《暗黑医疗史》 · 完整版 · 暗黑医疗史 · 完整讲读</title>
+      <description>《暗黑医疗史》是一部由台湾心脏外科医师苏上豪撰写的医学人文通俗读物，全书以近六十篇短文，串联起两千年来人类对抗疾病的荒唐与辛酸。从吃木乃伊治病到相思病放血、从乳牙手术害死数千婴儿到华盛顿总统被放血过度而死，作者用幽默笔触呈现西方医学在错误中完成自我革命的历程。本书由现代出版社于二零一六年在大陆发行，翁佳音、洪惠风、胡忠信、周士榆、谢铭勋等多位学者联名推荐。</description>
+      <pubDate>Tue, 25 Aug 2026 01:05:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260824-episode-20260824-5ac00b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《暗黑医疗史》是一部由台湾心脏外科医师苏上豪撰写的医学人文通俗读物，全书以近六十篇短文，串联起两千年来人类对抗疾病的荒唐与辛酸。从吃木乃伊治病到相思病放血、从乳牙手术害死数千婴儿到华盛顿总统被放血过度而死，作者用幽默笔触呈现西方医学在错误中完成自我革命的历程。本书由现代出版社于二零一六年在大陆发行，翁佳音、洪惠风、胡忠信、周士榆、谢铭勋等多位学者联名推荐。</itunes:summary>
+      <itunes:duration>00:32:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260824/episode-20260824-5ac00b.mp3" length="30791853" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
