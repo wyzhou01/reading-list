@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 26 Aug 2026 07:27:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 07:36:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15562,6 +15562,17 @@
       <itunes:duration>00:41:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260826/episode-20260826-3b5d0a.mp3" length="40158381" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《最好的抉择》 · 完整版 · 最好的抉择(1) · 完整讲读</title>
+      <description>《最好的抉择》是一本由哈佛医生夫妻撰写、出版于 2011 年的医疗决策经典。本书用数十个真实病例回答了一个核心问题：在医学数据爆炸、治疗方案多元的今天，病人该如何做出属于自己的选择？作者提出了「笃信者」「怀疑者」「中间派」三种病人画像，揭示了「信息不等于判断」「没有完美的方案」「后悔源于不决策而非错决策」等关键洞察，并在临终章节深入讨论了生前预嘱与代理决策的伦理。播客用一百分钟带你读完全书，理解医学的边界、医患共同决策的「探戈」本质，以及「放手也是种爱」的临终智慧。下一次走进诊室前，愿你多一点准备、少一点慌乱。</description>
+      <pubDate>Wed, 26 Aug 2026 07:36:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260826-episode-20260826-be280e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《最好的抉择》是一本由哈佛医生夫妻撰写、出版于 2011 年的医疗决策经典。本书用数十个真实病例回答了一个核心问题：在医学数据爆炸、治疗方案多元的今天，病人该如何做出属于自己的选择？作者提出了「笃信者」「怀疑者」「中间派」三种病人画像，揭示了「信息不等于判断」「没有完美的方案」「后悔源于不决策而非错决策」等关键洞察，并在临终章节深入讨论了生前预嘱与代理决策的伦理。播客用一百分钟带你读完全书，理解医学的边界、医患共同决策的「探戈」本质，以及「放手也是种爱」的临终智慧。下一次走进诊室前，愿你多一点准备、少一点慌乱。</itunes:summary>
+      <itunes:duration>00:29:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260826/episode-20260826-be280e.mp3" length="28080429" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
