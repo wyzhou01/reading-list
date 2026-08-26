@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 26 Aug 2026 17:24:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 17:34:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15672,6 +15672,17 @@
       <itunes:duration>00:35:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260826/episode-20260826-5455c6.mp3" length="33631917" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《感染》 · 完整版 · 感染_-_史考特·席格勒 · 完整讲读</title>
+      <description>《感染》是美国科幻惊悚作家史考特·席格勒的代表作，讲述一通打给俄亥俄州清晨电台的疯狂电话，意外触发国家安全系统的监听警报，由此牵出一桩横跨全州的连环谋杀案。中情局老探员杜·菲利普斯与疾控中心医生玛格丽特·蒙托娅联手追查，发现凶手并非普通人类，而是一群被外星孢子感染的宿主。这种比尘埃还小的孢子，借着人类面部几乎人人皆有的毛囊蠕形螨潜入皮下，在宿主体内长出根系，最终驱使宿主前往俄亥俄森林，建造一扇通往遥远母巢的星际拱门。书中最让人头皮发麻的，不是外星生命本身，而是它选择的载体——螨虫、皮肤、瘙痒，每一个普通人都无法回避。最让人放不下的，是结局——火箭弹炸毁了拱门，但幸存宿主在病床上平静地说：“结束？不，还未结束。”</description>
+      <pubDate>Wed, 26 Aug 2026 17:34:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260826-episode-20260826-f6c0b3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《感染》是美国科幻惊悚作家史考特·席格勒的代表作，讲述一通打给俄亥俄州清晨电台的疯狂电话，意外触发国家安全系统的监听警报，由此牵出一桩横跨全州的连环谋杀案。中情局老探员杜·菲利普斯与疾控中心医生玛格丽特·蒙托娅联手追查，发现凶手并非普通人类，而是一群被外星孢子感染的宿主。这种比尘埃还小的孢子，借着人类面部几乎人人皆有的毛囊蠕形螨潜入皮下，在宿主体内长出根系，最终驱使宿主前往俄亥俄森林，建造一扇通往遥远母巢的星际拱门。书中最让人头皮发麻的，不是外星生命本身，而是它选择的载体——螨虫、皮肤、瘙痒，每一个普通人都无法回避。最让人放不下的，是结局——火箭弹炸毁了拱门，但幸存宿主在病床上平静地说：“结束？不，还未结束。”</itunes:summary>
+      <itunes:duration>00:37:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260826/episode-20260826-f6c0b3.mp3" length="36272685" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
