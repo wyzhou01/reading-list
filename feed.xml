@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 26 Aug 2026 07:44:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 07:51:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15584,6 +15584,17 @@
       <itunes:duration>00:26:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260826/episode-20260826-82917f.mp3" length="25064877" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《科技前哨》 · 完整版 · 科技前哨 · 完整讲读</title>
+      <description>《科技前哨》由王煜全主编，集合近两百位来自全球高校与科研机构的华人作者，从虚拟现实、新能源、可见光通信、建筑机器人、自动驾驶、精密测量、微生物、人体芯片、脑机接口、人造胰腺、干细胞，到定制化心脏支架，跨信息技术与生物技术两条主线，呈现了十二个硬科技前沿领域。本书的核心判断是：随着《拜杜法案》后的制度变革、互联网红利见顶与硬科技产业化加速，真正的创新源头正从硅谷转向全球知名高校周边；高校授权、小公司量产、产业化的三段式正在取代大企业内创新。书里留下的最有方法论价值的遗产，是它反复训练读者追问的四个问题——源头在哪里、专利掌握在谁手里、下一站会出现在哪里、从实验室到批量上市要跨过几道坎。对于关注全球前沿科技趋势、寻找硬科技创业与投资机会的人，这是一张持续更新的科研产业地图。</description>
+      <pubDate>Wed, 26 Aug 2026 07:51:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260826-episode-20260826-4caaf4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《科技前哨》由王煜全主编，集合近两百位来自全球高校与科研机构的华人作者，从虚拟现实、新能源、可见光通信、建筑机器人、自动驾驶、精密测量、微生物、人体芯片、脑机接口、人造胰腺、干细胞，到定制化心脏支架，跨信息技术与生物技术两条主线，呈现了十二个硬科技前沿领域。本书的核心判断是：随着《拜杜法案》后的制度变革、互联网红利见顶与硬科技产业化加速，真正的创新源头正从硅谷转向全球知名高校周边；高校授权、小公司量产、产业化的三段式正在取代大企业内创新。书里留下的最有方法论价值的遗产，是它反复训练读者追问的四个问题——源头在哪里、专利掌握在谁手里、下一站会出现在哪里、从实验室到批量上市要跨过几道坎。对于关注全球前沿科技趋势、寻找硬科技创业与投资机会的人，这是一张持续更新的科研产业地图。</itunes:summary>
+      <itunes:duration>00:30:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260826/episode-20260826-4caaf4.mp3" length="28947117" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
