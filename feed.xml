@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 26 Aug 2026 17:50:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 18:01:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15705,6 +15705,17 @@
       <itunes:duration>00:27:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260826/episode-20260826-027f6d.mp3" length="26529837" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《金融投资400年》 · 完整版 · 金融投资400年 · 完整讲读</title>
+      <description>本期节目用九十分钟解读《金融投资四百年》。上篇来自十九世纪英国人查尔斯·马凯的《惊人的幻觉和大众的疯狂》，系统讲述了密西西比泡沫、南海泡沫、郁金香泡沫三场人类史上最著名的投机狂潮。下篇来自十七世纪荷兰人约瑟夫·德·拉·维加的《困惑之惑》，借助四段阿姆斯特丹交易所的对话，把早期股市的操盘术、阴谋术和人性弱点层层揭开。本书被巴菲特之前的传奇投资人伯纳德·巴鲁克奉为必读，帮他在一九二九年大股灾中保住财富；经济学家吴敬琏亲自为中文版作序。三百多年前的远期交易、期权交易、做空机制、保证金交易、合谋操纵，今天依然原样存在。交易工具和结算机制几百年来没有真正改变，改变的只是人的面孔。本期将提炼六块拼图：群体癫狂的开关、人性的不变、价值与价格的偏离、权威背书的陷阱、阴谋操纵从未消失、金融创新必然反噬实体，并给出两个今天就能用的行动方案。</description>
+      <pubDate>Wed, 26 Aug 2026 18:00:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260826-episode-20260826-a9ad1f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期节目用九十分钟解读《金融投资四百年》。上篇来自十九世纪英国人查尔斯·马凯的《惊人的幻觉和大众的疯狂》，系统讲述了密西西比泡沫、南海泡沫、郁金香泡沫三场人类史上最著名的投机狂潮。下篇来自十七世纪荷兰人约瑟夫·德·拉·维加的《困惑之惑》，借助四段阿姆斯特丹交易所的对话，把早期股市的操盘术、阴谋术和人性弱点层层揭开。本书被巴菲特之前的传奇投资人伯纳德·巴鲁克奉为必读，帮他在一九二九年大股灾中保住财富；经济学家吴敬琏亲自为中文版作序。三百多年前的远期交易、期权交易、做空机制、保证金交易、合谋操纵，今天依然原样存在。交易工具和结算机制几百年来没有真正改变，改变的只是人的面孔。本期将提炼六块拼图：群体癫狂的开关、人性的不变、价值与价格的偏离、权威背书的陷阱、阴谋操纵从未消失、金融创新必然反噬实体，并给出两个今天就能用的行动方案。</itunes:summary>
+      <itunes:duration>00:26:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260826/episode-20260826-a9ad1f.mp3" length="25686957" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
