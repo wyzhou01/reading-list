@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 26 Aug 2026 08:41:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 08:51:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15650,6 +15650,17 @@
       <itunes:duration>00:34:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260826/episode-20260826-b43ca5.mp3" length="32956461" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《闲人遐想录》 · 完整版 · 闲人遐想录_-_[英国]杰罗姆·克·杰罗姆 · 完整讲读</title>
+      <description>《闲人遐想录》是英国幽默作家杰罗姆·克·杰罗姆一八八六年出版的散文集，以一个抽着烟斗的闲人视角，谈悠闲、谈爱情、谈缺钱、谈虚荣、谈害羞、谈婴儿、谈记忆这些最平凡的话题。表面是笑料段子，内里却藏着对维多利亚时代英国中产阶级生活的冷峻观察与人情世态的深度解剖。嬉笑怒骂之间，他把照见人心的镜子递给读者——这面镜子照的不是别人，正是我们自己。一本小书，一百多分钟，笑过之后，照见自己。</description>
+      <pubDate>Wed, 26 Aug 2026 08:51:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260826-episode-20260826-0e13bd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《闲人遐想录》是英国幽默作家杰罗姆·克·杰罗姆一八八六年出版的散文集，以一个抽着烟斗的闲人视角，谈悠闲、谈爱情、谈缺钱、谈虚荣、谈害羞、谈婴儿、谈记忆这些最平凡的话题。表面是笑料段子，内里却藏着对维多利亚时代英国中产阶级生活的冷峻观察与人情世态的深度解剖。嬉笑怒骂之间，他把照见人心的镜子递给读者——这面镜子照的不是别人，正是我们自己。一本小书，一百多分钟，笑过之后，照见自己。</itunes:summary>
+      <itunes:duration>00:22:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260826/episode-20260826-0e13bd.mp3" length="21979053" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
