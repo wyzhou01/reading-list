@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 26 Aug 2026 08:51:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 17:24:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15661,6 +15661,17 @@
       <itunes:duration>00:22:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260826/episode-20260826-0e13bd.mp3" length="21979053" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《爬出窗外并消失的百岁老人》 · 完整版 · 爬出窗外并消失的百岁老人 · 完整讲读</title>
+      <description>《爬出窗外并消失的百岁老人》是瑞典作家约纳斯·约纳松写的一部热销全球的轻黑色幽默小说。二零零五年五月二号，瑞典小镇马尔姆雪平的一位百岁老人，在生日宴会即将开始、市长即将到场之际，从老年公寓窗户翻了出去，由此卷入一场因一只旅行箱而起的荒诞逃亡。全书以跳切的双线结构交替推进——一条是二零零五年阿朗与黑帮、警察、神秘势力周旋的公路冒险，另一条是一九零五至二零零五年他被西班牙内战、二战情报战、中国核武器项目等大事件推着走的一百年回忆。约纳松借一个不靠谱、没信仰、只凭小聪明和好运气的普通瑞典人之口，重新讲述了整个二十世纪的历史，致敬了他那位只讲故事、不在乎真假的外公，并在笑声中抛出一个温暖的命题：衰老不是结束，故事才是。</description>
+      <pubDate>Wed, 26 Aug 2026 17:24:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260826-episode-20260826-5455c6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《爬出窗外并消失的百岁老人》是瑞典作家约纳斯·约纳松写的一部热销全球的轻黑色幽默小说。二零零五年五月二号，瑞典小镇马尔姆雪平的一位百岁老人，在生日宴会即将开始、市长即将到场之际，从老年公寓窗户翻了出去，由此卷入一场因一只旅行箱而起的荒诞逃亡。全书以跳切的双线结构交替推进——一条是二零零五年阿朗与黑帮、警察、神秘势力周旋的公路冒险，另一条是一九零五至二零零五年他被西班牙内战、二战情报战、中国核武器项目等大事件推着走的一百年回忆。约纳松借一个不靠谱、没信仰、只凭小聪明和好运气的普通瑞典人之口，重新讲述了整个二十世纪的历史，致敬了他那位只讲故事、不在乎真假的外公，并在笑声中抛出一个温暖的命题：衰老不是结束，故事才是。</itunes:summary>
+      <itunes:duration>00:35:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260826/episode-20260826-5455c6.mp3" length="33631917" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
