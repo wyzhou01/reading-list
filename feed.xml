@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 26 Aug 2026 07:03:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 07:16:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15540,6 +15540,17 @@
       <itunes:duration>00:41:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260826/episode-20260826-8992af.mp3" length="39924141" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《思辨哲学新探》 · 完整版 · 思辨哲学新探（当代中国人文大系） · 完整讲读</title>
+      <description>《思辨哲学新探》是中国社会科学院哲学家王树人先生研究黑格尔哲学的重要著作。本书打破对黑格尔体系面面俱到的评述模式，从理论思维、有与无的辩证法、美是理念的感性显现、实践高于理论、自由作为人的本质、哲学与时代六大专题出发，深入挖掘黑格尔哲学的合理内核。本书成书于一九八四年的中国，在思想解放的背景下，开启了从具体问题入手研究黑格尔的风气，至今仍是理解德国古典哲学、马克思主义哲学源头和辩证思维本质的重要参考。</description>
+      <pubDate>Wed, 26 Aug 2026 07:16:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260826-episode-20260826-046e42</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《思辨哲学新探》是中国社会科学院哲学家王树人先生研究黑格尔哲学的重要著作。本书打破对黑格尔体系面面俱到的评述模式，从理论思维、有与无的辩证法、美是理念的感性显现、实践高于理论、自由作为人的本质、哲学与时代六大专题出发，深入挖掘黑格尔哲学的合理内核。本书成书于一九八四年的中国，在思想解放的背景下，开启了从具体问题入手研究黑格尔的风气，至今仍是理解德国古典哲学、马克思主义哲学源头和辩证思维本质的重要参考。</itunes:summary>
+      <itunes:duration>00:31:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260826/episode-20260826-046e42.mp3" length="30620205" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
