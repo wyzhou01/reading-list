@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 26 Aug 2026 08:26:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 08:41:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15639,6 +15639,17 @@
       <itunes:duration>00:27:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260826/episode-20260826-7255db.mp3" length="26218797" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《异域深眠》 · 完整版 · 异域深眠_(麦林推理) · 完整讲读</title>
+      <description>《异域深眠》是何慕于二零一一年出版的心理悬疑推理小说，讲述了底层女大学生陈雨因五千块钱学费被迫援交后被神秘催眠师杀害、私家侦探徐川在追查真相过程中逐渐陷入催眠师张璇布下的复仇杀局的故事。全书以佛学卍字符、阴阳五行、十八层地狱与倒五角星阵等意象，构建出一套极具仪式感的催眠杀人美学，并通过对名字、视角、结构的精巧设计，把读者本身也拉入了被催眠的体验之中，探讨了底层女性的生存困境、复仇的灰色地带，以及人在潜意识操控面前的脆弱与觉知。</description>
+      <pubDate>Wed, 26 Aug 2026 08:41:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260826-episode-20260826-b43ca5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《异域深眠》是何慕于二零一一年出版的心理悬疑推理小说，讲述了底层女大学生陈雨因五千块钱学费被迫援交后被神秘催眠师杀害、私家侦探徐川在追查真相过程中逐渐陷入催眠师张璇布下的复仇杀局的故事。全书以佛学卍字符、阴阳五行、十八层地狱与倒五角星阵等意象，构建出一套极具仪式感的催眠杀人美学，并通过对名字、视角、结构的精巧设计，把读者本身也拉入了被催眠的体验之中，探讨了底层女性的生存困境、复仇的灰色地带，以及人在潜意识操控面前的脆弱与觉知。</itunes:summary>
+      <itunes:duration>00:34:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260826/episode-20260826-b43ca5.mp3" length="32956461" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
