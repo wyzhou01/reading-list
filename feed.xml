@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 26 Aug 2026 08:19:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 08:26:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15628,6 +15628,17 @@
       <itunes:duration>00:29:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260826/episode-20260826-c73cef.mp3" length="28438701" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《夜行·黄雀》 · 完整版 · 夜行·黄雀 · 完整讲读</title>
+      <description>芸城接连发生死者伤口相同但死状各异的诡异命案，福伦别墅区地下车库出现的雪白怪人与案件存在关联。案件牵出百年前本应已死的费婴，他为何能复活重生？他的所有举动似乎都指向对唐研的报复，二人之间究竟有怎样的恩怨，能纠缠百年之久？随着调查深入，一个关于异种、复仇、陪伴与重生的宏大故事徐徐展开。</description>
+      <pubDate>Wed, 26 Aug 2026 08:26:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260826-episode-20260826-7255db</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>芸城接连发生死者伤口相同但死状各异的诡异命案，福伦别墅区地下车库出现的雪白怪人与案件存在关联。案件牵出百年前本应已死的费婴，他为何能复活重生？他的所有举动似乎都指向对唐研的报复，二人之间究竟有怎样的恩怨，能纠缠百年之久？随着调查深入，一个关于异种、复仇、陪伴与重生的宏大故事徐徐展开。</itunes:summary>
+      <itunes:duration>00:27:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260826/episode-20260826-7255db.mp3" length="26218797" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
