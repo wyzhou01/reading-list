@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 26 Aug 2026 06:43:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 06:51:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15518,6 +15518,17 @@
       <itunes:duration>00:25:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260825/episode-20260825-4e3fcf.mp3" length="24452013" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《乔斯坦·贾德3本》 · 完整版 · 《乔斯坦·贾德3本》 · 完整讲读</title>
+      <description>《乔斯坦·贾德三部曲》合订本由挪威作家贾德创作，包含《苏菲的世界》《纸牌的秘密》与《玛雅》三书。从少女苏菲收到的神秘来信，到小男孩手中的纸牌宇宙，再到一家四口的神秘岛屿之旅，三本书以不同叙事为向导，把整部西方哲学史、演化生物学与宇宙意识熔于一炉，反复追问同一件事：我是谁，世界从何而来，应当如何活着。贾德以高中教师的笔法，把最艰深的哲学命题写得像侦探小说般引人入胜，作品已译为数十种语言，全球销量数千万册，是无数人哲学启蒙的起点。</description>
+      <pubDate>Wed, 26 Aug 2026 06:51:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260825-episode-20260825-c9b23c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《乔斯坦·贾德三部曲》合订本由挪威作家贾德创作，包含《苏菲的世界》《纸牌的秘密》与《玛雅》三书。从少女苏菲收到的神秘来信，到小男孩手中的纸牌宇宙，再到一家四口的神秘岛屿之旅，三本书以不同叙事为向导，把整部西方哲学史、演化生物学与宇宙意识熔于一炉，反复追问同一件事：我是谁，世界从何而来，应当如何活着。贾德以高中教师的笔法，把最艰深的哲学命题写得像侦探小说般引人入胜，作品已译为数十种语言，全球销量数千万册，是无数人哲学启蒙的起点。</itunes:summary>
+      <itunes:duration>00:25:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260825/episode-20260825-c9b23c.mp3" length="24004269" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
