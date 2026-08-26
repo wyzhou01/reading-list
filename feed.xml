@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 26 Aug 2026 07:16:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 07:27:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15551,6 +15551,17 @@
       <itunes:duration>00:31:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260826/episode-20260826-046e42.mp3" length="30620205" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《回来》 · 完整版 · 回来 · 完整讲读</title>
+      <description>《回来》是孙中伦在母亲去世后休学一年、跨越三万公里的非虚构写作。他走进东莞的工厂、定西的山村、成都的漆器作坊，用身体去丈量母亲的祖国。一边学习哀悼，一边拒绝成功学的诱惑；一边承认自己是泡沫里的人，一边在底层、在大地、在慢手艺里，找到妈妈让他找的那个自己。这本书不是猎奇式底层书写，也不是小资间隔年游记，是一个失去母亲的年轻人，用一年的失败，把自己从常春藤的气泡里挖出来，兑现那滴眼泪的承诺。</description>
+      <pubDate>Wed, 26 Aug 2026 07:27:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260826-episode-20260826-3b5d0a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《回来》是孙中伦在母亲去世后休学一年、跨越三万公里的非虚构写作。他走进东莞的工厂、定西的山村、成都的漆器作坊，用身体去丈量母亲的祖国。一边学习哀悼，一边拒绝成功学的诱惑；一边承认自己是泡沫里的人，一边在底层、在大地、在慢手艺里，找到妈妈让他找的那个自己。这本书不是猎奇式底层书写，也不是小资间隔年游记，是一个失去母亲的年轻人，用一年的失败，把自己从常春藤的气泡里挖出来，兑现那滴眼泪的承诺。</itunes:summary>
+      <itunes:duration>00:41:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260826/episode-20260826-3b5d0a.mp3" length="40158381" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
