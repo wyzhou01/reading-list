@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 25 Aug 2026 17:54:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 06:43:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15507,6 +15507,17 @@
       <itunes:duration>00:32:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260825/episode-20260825-472b17.mp3" length="30895917" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《科学哲学的兴起》 · 完整版 · 科学哲学的兴起_(汉译世界学术名著丛书)_-_H.赖欣巴哈 · 完整讲读</title>
+      <description>《科学哲学的兴起》是德国哲学家赖欣巴哈一九五一年的代表作，也是逻辑经验主义柏林学派的标志性著作。本书用语言分析和符号工具，系统诊断传统形而上学的病根——抽象物的实体化、比喻冒充解释、拟人论伪装基础。作者指出，哲学的真正病根不在读者，而在那套几千年沿用的思辨语言；现代科学留下的符号逻辑和概率论，为哲学提供了真正的诊断与重建工具。赖欣巴哈提出三条可操作的诊断规则：读不懂先怀疑语言、被感动先怀疑修辞、号称终极先怀疑拟人论。这本书既是分析哲学传统的入门前奏，也是每个普通读者走出&quot;读不懂即真理&quot;误区的思维训练手册。</description>
+      <pubDate>Wed, 26 Aug 2026 06:43:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260825-episode-20260825-4e3fcf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《科学哲学的兴起》是德国哲学家赖欣巴哈一九五一年的代表作，也是逻辑经验主义柏林学派的标志性著作。本书用语言分析和符号工具，系统诊断传统形而上学的病根——抽象物的实体化、比喻冒充解释、拟人论伪装基础。作者指出，哲学的真正病根不在读者，而在那套几千年沿用的思辨语言；现代科学留下的符号逻辑和概率论，为哲学提供了真正的诊断与重建工具。赖欣巴哈提出三条可操作的诊断规则：读不懂先怀疑语言、被感动先怀疑修辞、号称终极先怀疑拟人论。这本书既是分析哲学传统的入门前奏，也是每个普通读者走出&quot;读不懂即真理&quot;误区的思维训练手册。</itunes:summary>
+      <itunes:duration>00:25:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260825/episode-20260825-4e3fcf.mp3" length="24452013" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
