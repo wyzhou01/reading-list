@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 26 Aug 2026 07:51:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 08:03:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15595,6 +15595,17 @@
       <itunes:duration>00:30:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260826/episode-20260826-4caaf4.mp3" length="28947117" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《人工智能：改变世界，重建未来》 · 完整版 · 人工智能：改变世界,重建未来 · 完整讲读</title>
+      <description>《人工智能：改变世界，重建未来》是美国科技记者卢克·多梅尔撰写的一部人工智能六十年通史。从一九五六年达特茅斯会议讲起，梳理传统专家系统的兴衰、深度学习的王者归来、万物的智能互联、人工智能助手的进化、就业市场的冲击、机器创造力的边界，以及意识上传与人类永生的终极议题。多梅尔既展示了人工智能惊人的能力，也直面黑箱、伦理、奇点等无法回避的风险。整本书的核心追问是：当机器比我们更聪明，人类该如何自处？答案不在技术之内，而在每一位读者自己的选择之中。</description>
+      <pubDate>Wed, 26 Aug 2026 08:03:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260826-episode-20260826-eb308f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《人工智能：改变世界，重建未来》是美国科技记者卢克·多梅尔撰写的一部人工智能六十年通史。从一九五六年达特茅斯会议讲起，梳理传统专家系统的兴衰、深度学习的王者归来、万物的智能互联、人工智能助手的进化、就业市场的冲击、机器创造力的边界，以及意识上传与人类永生的终极议题。多梅尔既展示了人工智能惊人的能力，也直面黑箱、伦理、奇点等无法回避的风险。整本书的核心追问是：当机器比我们更聪明，人类该如何自处？答案不在技术之内，而在每一位读者自己的选择之中。</itunes:summary>
+      <itunes:duration>00:37:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260826/episode-20260826-eb308f.mp3" length="36304557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
