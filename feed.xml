@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 26 Aug 2026 07:36:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 07:44:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15573,6 +15573,17 @@
       <itunes:duration>00:29:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260826/episode-20260826-be280e.mp3" length="28080429" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《K-143战地行纪》 · 完整版 · K-143战地行纪 · 完整讲读</title>
+      <description>一九三八年，英国诗人奥登与小说家衣修伍德合著《战地行纪》，记录他们亲历中日战争的见闻。本书以衣修伍德的散文与奥登的诗歌交织而成，其中包含奥登最负盛名的十四行组诗《战争时期》，上半部浓缩世界史，下半部直击中国战事。奥登以冷静笔触刻画被将军遗弃的普通士兵、沦陷的上海与卑微生命承受的苦难，同时坦诚自身的欧洲身份局限。本书既是战地报道，也是知识分子在历史剧变中自我拷问的精神档案——追问艺术家在战争中的责任，以及在远方发生的冲突与书桌前的写作者究竟有何关系。</description>
+      <pubDate>Wed, 26 Aug 2026 07:44:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260826-episode-20260826-82917f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九三八年，英国诗人奥登与小说家衣修伍德合著《战地行纪》，记录他们亲历中日战争的见闻。本书以衣修伍德的散文与奥登的诗歌交织而成，其中包含奥登最负盛名的十四行组诗《战争时期》，上半部浓缩世界史，下半部直击中国战事。奥登以冷静笔触刻画被将军遗弃的普通士兵、沦陷的上海与卑微生命承受的苦难，同时坦诚自身的欧洲身份局限。本书既是战地报道，也是知识分子在历史剧变中自我拷问的精神档案——追问艺术家在战争中的责任，以及在远方发生的冲突与书桌前的写作者究竟有何关系。</itunes:summary>
+      <itunes:duration>00:26:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260826/episode-20260826-82917f.mp3" length="25064877" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
