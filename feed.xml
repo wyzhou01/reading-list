@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 26 Aug 2026 17:34:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 17:48:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15683,6 +15683,17 @@
       <itunes:duration>00:37:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260826/episode-20260826-f6c0b3.mp3" length="36272685" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《迦梨之歌》 · 完整版 · K-174迦梨之歌 · 完整讲读</title>
+      <description>一九七七年，诗人卢察克携妻女前往加尔各答，寻访据传死而复生的诗人 M. 达斯。他在那里目睹了人间的至暗：濒死的婴儿、肿胀的乞丐尸体、母亲亲手烤熟孩子的真实新闻。回到科罗拉多的山间后，他再也写不出诗，只为七个月大的女儿写睡前故事。《K-一七四 迦梨之歌》是丹·西蒙斯最黑暗也最具自传色彩的作品，它告诉我们：邪恶是日常里的黑洞；见证过黑暗之后，语言会破产；但希望的形状，是给一个婴儿写一本关于不可能的朋友的故事书。</description>
+      <pubDate>Wed, 26 Aug 2026 17:48:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260826-episode-20260826-b36a00</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九七七年，诗人卢察克携妻女前往加尔各答，寻访据传死而复生的诗人 M. 达斯。他在那里目睹了人间的至暗：濒死的婴儿、肿胀的乞丐尸体、母亲亲手烤熟孩子的真实新闻。回到科罗拉多的山间后，他再也写不出诗，只为七个月大的女儿写睡前故事。《K-一七四 迦梨之歌》是丹·西蒙斯最黑暗也最具自传色彩的作品，它告诉我们：邪恶是日常里的黑洞；见证过黑暗之后，语言会破产；但希望的形状，是给一个婴儿写一本关于不可能的朋友的故事书。</itunes:summary>
+      <itunes:duration>00:28:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260826/episode-20260826-b36a00.mp3" length="27208365" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
