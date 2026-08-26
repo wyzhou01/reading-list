@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 26 Aug 2026 08:11:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 08:19:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15617,6 +15617,17 @@
       <itunes:duration>00:29:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260826/episode-20260826-79aa7b.mp3" length="28537773" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《缺月梧桐》 · 完整版 · 缺月梧桐_-_缺月 · 完整讲读</title>
+      <description>《缺月梧桐》是网文作家雀跃梧桐的二百多万字巨著，被誉为网文界最具思想厚度的反侠经典。故事讲述青城派戊组弟子王天逸，因一次送请柬的任务被卷入飞鹰、长乐两大帮派的权谋漩涡。他本是一个相信“剑快就能行侠仗义”的少年，却在扬州见识了长乐帮“侠义生产线”的真相——侠义可以被量产、被包装、被定价；在飞鹰帮的棋局里，他又亲历了恩义皆可被利用、组织大于个人的残酷现实。贯穿全书的，是“杀人刀法”与“青城剑法”的撕扯，是市井生存智慧对武林规矩的精准打击，是一个理想主义者如何在不知不觉中，被锻造成一颗不能退货的螺丝钉。这本书不讲大侠的诞生，只讲大侠的消亡；不讲侠义的高地，只讲侠义如何被当作棋子。它是武侠版的《1984》，也是每一个身在“江湖”的现代人，都该读一次的警钟。</description>
+      <pubDate>Wed, 26 Aug 2026 08:18:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260826-episode-20260826-c73cef</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《缺月梧桐》是网文作家雀跃梧桐的二百多万字巨著，被誉为网文界最具思想厚度的反侠经典。故事讲述青城派戊组弟子王天逸，因一次送请柬的任务被卷入飞鹰、长乐两大帮派的权谋漩涡。他本是一个相信“剑快就能行侠仗义”的少年，却在扬州见识了长乐帮“侠义生产线”的真相——侠义可以被量产、被包装、被定价；在飞鹰帮的棋局里，他又亲历了恩义皆可被利用、组织大于个人的残酷现实。贯穿全书的，是“杀人刀法”与“青城剑法”的撕扯，是市井生存智慧对武林规矩的精准打击，是一个理想主义者如何在不知不觉中，被锻造成一颗不能退货的螺丝钉。这本书不讲大侠的诞生，只讲大侠的消亡；不讲侠义的高地，只讲侠义如何被当作棋子。它是武侠版的《1984》，也是每一个身在“江湖”的现代人，都该读一次的警钟。</itunes:summary>
+      <itunes:duration>00:29:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260826/episode-20260826-c73cef.mp3" length="28438701" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
