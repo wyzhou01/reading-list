@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 26 Aug 2026 08:03:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 08:11:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15606,6 +15606,17 @@
       <itunes:duration>00:37:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260826/episode-20260826-eb308f.mp3" length="36304557" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《哈佛百年经典第6卷：英国现代戏剧》 · 完整版 · 哈佛百年经典第6卷：英国现代戏剧 · 完整讲读</title>
+      <description>《哈佛百年经典第六卷：英国现代戏剧》精选十七世纪末到十九世纪初的六部英国戏剧代表作。德莱顿用法国古典主义规则重写莎士比亚式的爱情悲剧；谢里丹与哥尔德斯密斯用笑声揭开上流社会的伪装；雪莱以意大利史料控诉父权的暴虐；勃朗宁用一段独白让一个文艺复兴的伯爵夫人在杯子的斑点上回忆了二十年的情感史；拜伦则在阿尔卑斯山的塔楼上，让一个孤独的伯爵拒绝了上帝与魔鬼的一切召唤。这两百年，是英国戏剧从复辟时期的世俗与机敏，走向浪漫主义的高原与深渊的精神史。它不仅是戏剧形式的演变，更是英国人理解自身存在方式的演变：从社会的中心走向精神的边缘，从规则的牢笼走向孤独的自由。</description>
+      <pubDate>Wed, 26 Aug 2026 08:11:46 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260826-episode-20260826-79aa7b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《哈佛百年经典第六卷：英国现代戏剧》精选十七世纪末到十九世纪初的六部英国戏剧代表作。德莱顿用法国古典主义规则重写莎士比亚式的爱情悲剧；谢里丹与哥尔德斯密斯用笑声揭开上流社会的伪装；雪莱以意大利史料控诉父权的暴虐；勃朗宁用一段独白让一个文艺复兴的伯爵夫人在杯子的斑点上回忆了二十年的情感史；拜伦则在阿尔卑斯山的塔楼上，让一个孤独的伯爵拒绝了上帝与魔鬼的一切召唤。这两百年，是英国戏剧从复辟时期的世俗与机敏，走向浪漫主义的高原与深渊的精神史。它不仅是戏剧形式的演变，更是英国人理解自身存在方式的演变：从社会的中心走向精神的边缘，从规则的牢笼走向孤独的自由。</itunes:summary>
+      <itunes:duration>00:29:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260826/episode-20260826-79aa7b.mp3" length="28537773" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
