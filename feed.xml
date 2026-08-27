@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 26 Aug 2026 18:01:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 17:17:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15716,6 +15716,17 @@
       <itunes:duration>00:26:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260826/episode-20260826-a9ad1f.mp3" length="25686957" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《爱情和其他魔鬼》 · 完整版 · 爱情和其他魔鬼_-_[哥伦比亚]_加西亚·马尔克斯 · 完整讲读</title>
+      <description>马尔克斯晚年最短的长篇《爱情和其他魔鬼》，以一九四九年卡塔赫纳修道院挖出二十二米长头发的真实新闻为引，写十七世纪加勒比海岸一则禁忌之恋：十二岁侯爵千金西埃尔瓦·玛丽亚被疯狗咬伤后，被家人送进修道院隔离驱魔，却与年轻神父卡耶塔诺·德劳拉相爱。小说以极小篇幅剖开殖民社会的四把刀——奴隶买卖、天主教驱魔、世俗体面、医学诊断——共同绞杀一个没法被归类的女孩。马尔克斯借一束拒绝死亡的头发，控诉一切借秩序之名对活的身体施加的暴力，并追问：当爱被指认为魔鬼，谁才是真正的魔鬼。</description>
+      <pubDate>Thu, 27 Aug 2026 17:16:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260827-episode-20260827-7714c3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>马尔克斯晚年最短的长篇《爱情和其他魔鬼》，以一九四九年卡塔赫纳修道院挖出二十二米长头发的真实新闻为引，写十七世纪加勒比海岸一则禁忌之恋：十二岁侯爵千金西埃尔瓦·玛丽亚被疯狗咬伤后，被家人送进修道院隔离驱魔，却与年轻神父卡耶塔诺·德劳拉相爱。小说以极小篇幅剖开殖民社会的四把刀——奴隶买卖、天主教驱魔、世俗体面、医学诊断——共同绞杀一个没法被归类的女孩。马尔克斯借一束拒绝死亡的头发，控诉一切借秩序之名对活的身体施加的暴力，并追问：当爱被指认为魔鬼，谁才是真正的魔鬼。</itunes:summary>
+      <itunes:duration>00:29:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260827/episode-20260827-7714c3.mp3" length="27938733" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
