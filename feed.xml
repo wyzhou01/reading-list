@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 27 Aug 2026 17:28:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 17:35:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15749,6 +15749,17 @@
       <itunes:duration>00:24:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260827/episode-20260827-e4c375.mp3" length="23200173" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《江苏社科名家文库·鲁洁卷》 · 完整版 · 江苏社科名家文库·鲁洁卷 · 完整讲读</title>
+      <description>《江苏社科名家文库·鲁洁卷》收录了中国杰出教育学家鲁洁先生的代表性论文，系统呈现其&quot;教育的原点是育人&quot;的核心思想。全书直面现代化进程中教育与道德的边缘化、外在化、知识化三重危机，揭示人是关系性的存在这一人学命题，并主张德育必须回归生活世界、引导学生在意义建构中自我超越。作为国家品德与社会课程标准的主要制定者，鲁洁先生扎根中国教育现实，提出诸多原创性观点，深刻影响了一代中国师范生与教师。重读此书，对身处&quot;双减&quot;与人工智能时代的我们，仍是一次回到教育本真的精神洗礼。</description>
+      <pubDate>Thu, 27 Aug 2026 17:35:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260827-episode-20260827-65305f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《江苏社科名家文库·鲁洁卷》收录了中国杰出教育学家鲁洁先生的代表性论文，系统呈现其&quot;教育的原点是育人&quot;的核心思想。全书直面现代化进程中教育与道德的边缘化、外在化、知识化三重危机，揭示人是关系性的存在这一人学命题，并主张德育必须回归生活世界、引导学生在意义建构中自我超越。作为国家品德与社会课程标准的主要制定者，鲁洁先生扎根中国教育现实，提出诸多原创性观点，深刻影响了一代中国师范生与教师。重读此书，对身处&quot;双减&quot;与人工智能时代的我们，仍是一次回到教育本真的精神洗礼。</itunes:summary>
+      <itunes:duration>00:22:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260827/episode-20260827-65305f.mp3" length="21932205" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
