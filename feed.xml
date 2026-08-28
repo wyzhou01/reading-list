@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 28 Aug 2026 17:39:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 17:47:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15793,6 +15793,17 @@
       <itunes:duration>00:29:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260828/episode-20260828-a2f88a.mp3" length="27946029" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《小趋势²》 · 完整版 · 小趋势² · 完整讲读</title>
+      <description>《小趋势二》是马克·佩恩继《小趋势》十年后推出的续作。作者用五十个细分趋势、六大领域，拼出当代美国社会的完整图景：科技带来更多选择却让人更专一，算法替广告商而非用户服务，温和派一分为二导致政治极端化，老年选民击败千禧一代，农村边缘投票者用选票反击被遗忘的命运。从蛋白质控的餐桌革命到全职先生、老单身汉的婚恋市场重构，从走下坡路的男性到被新经济抛弃的中西部，本书用数据揭示了对立小趋势如何汇聚成颠覆性的社会力量。佩恩最终开出改革药方：政治制度现代化、鼓励家庭生育、把新经济推广到所有地区。对于想理解美国撕裂的根源、把握时代底层逻辑的读者，这本书提供了一套冷静而锋利的分析框架。</description>
+      <pubDate>Fri, 28 Aug 2026 17:47:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260828-episode-20260828-311442</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《小趋势二》是马克·佩恩继《小趋势》十年后推出的续作。作者用五十个细分趋势、六大领域，拼出当代美国社会的完整图景：科技带来更多选择却让人更专一，算法替广告商而非用户服务，温和派一分为二导致政治极端化，老年选民击败千禧一代，农村边缘投票者用选票反击被遗忘的命运。从蛋白质控的餐桌革命到全职先生、老单身汉的婚恋市场重构，从走下坡路的男性到被新经济抛弃的中西部，本书用数据揭示了对立小趋势如何汇聚成颠覆性的社会力量。佩恩最终开出改革药方：政治制度现代化、鼓励家庭生育、把新经济推广到所有地区。对于想理解美国撕裂的根源、把握时代底层逻辑的读者，这本书提供了一套冷静而锋利的分析框架。</itunes:summary>
+      <itunes:duration>00:26:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260828/episode-20260828-311442.mp3" length="25324845" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
