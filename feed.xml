@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 28 Aug 2026 17:18:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 17:29:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15771,6 +15771,17 @@
       <itunes:duration>00:31:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260828/episode-20260828-aedac6.mp3" length="30673581" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《冬泳》 · 完整版 · 冬泳 · 完整讲读</title>
+      <description>《冬泳》是班宇首部短篇小说集，二零一八年出版，写九十年代末到新世纪初，东北工业城市一群普通人在下岗潮里的命运。印刷工人孙旭庭、颓废青年孙程、还有他们的父辈同代人，在时代转型里挣扎沉浮甚至无声消逝。班宇用冷峻克制的笔触，把工厂、家属楼、麻将馆、冰窟窿里的悲欢一寸一寸刨出来，写沉默的暴力，写父子之间的枪，写消失的女人，写那些没说完的话和没解开的结。这本书和双雪涛《平原上的摩西》、郑执《生吞》一起，开启了所谓东北文艺复兴的潮流。下岗潮虽然过去了三十年，但它的余波还在——年轻人还在往外走，老工业基地的转型还在继续，那些没说出口的伤痛还在一代代人之间传递。班宇写的不是怀旧，是一种冷静的注视，是替所有没喊疼的人，把那一寸一寸刨出来。</description>
+      <pubDate>Fri, 28 Aug 2026 17:29:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260828-episode-20260828-f10f89</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《冬泳》是班宇首部短篇小说集，二零一八年出版，写九十年代末到新世纪初，东北工业城市一群普通人在下岗潮里的命运。印刷工人孙旭庭、颓废青年孙程、还有他们的父辈同代人，在时代转型里挣扎沉浮甚至无声消逝。班宇用冷峻克制的笔触，把工厂、家属楼、麻将馆、冰窟窿里的悲欢一寸一寸刨出来，写沉默的暴力，写父子之间的枪，写消失的女人，写那些没说完的话和没解开的结。这本书和双雪涛《平原上的摩西》、郑执《生吞》一起，开启了所谓东北文艺复兴的潮流。下岗潮虽然过去了三十年，但它的余波还在——年轻人还在往外走，老工业基地的转型还在继续，那些没说出口的伤痛还在一代代人之间传递。班宇写的不是怀旧，是一种冷静的注视，是替所有没喊疼的人，把那一寸一寸刨出来。</itunes:summary>
+      <itunes:duration>00:34:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260828/episode-20260828-f10f89.mp3" length="32724909" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
