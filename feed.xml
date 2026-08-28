@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 28 Aug 2026 17:47:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 17:53:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15804,6 +15804,17 @@
       <itunes:duration>00:26:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260828/episode-20260828-311442.mp3" length="25324845" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《奇迹之篷》 · 完整版 · 奇迹之篷_(亚马多作品) · 完整讲读</title>
+      <description>《奇迹之篷》是巴西作家若热·亚马多后期代表作，借虚构研究员佛斯托·佩纳调查十九世纪混血诗人佩德罗·阿尔杉茹的生平这一主线，将巴伊亚佩罗林尼奥贫民区的卡波埃拉、坎东布雷、奥里沙信仰与街头诗歌熔为一炉，揭示混血文化的生命力及其在官方学术与消费社会话语中反复被收编的命运。亚马多借一个百年诞辰庆典预演文化领域的底层起义，让人民重新成为广场与故事的主人。</description>
+      <pubDate>Fri, 28 Aug 2026 17:53:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260828-episode-20260828-c625a0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《奇迹之篷》是巴西作家若热·亚马多后期代表作，借虚构研究员佛斯托·佩纳调查十九世纪混血诗人佩德罗·阿尔杉茹的生平这一主线，将巴伊亚佩罗林尼奥贫民区的卡波埃拉、坎东布雷、奥里沙信仰与街头诗歌熔为一炉，揭示混血文化的生命力及其在官方学术与消费社会话语中反复被收编的命运。亚马多借一个百年诞辰庆典预演文化领域的底层起义，让人民重新成为广场与故事的主人。</itunes:summary>
+      <itunes:duration>00:18:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260828/episode-20260828-c625a0.mp3" length="17699757" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
