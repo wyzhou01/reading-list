@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 27 Aug 2026 17:35:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 17:18:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15760,6 +15760,17 @@
       <itunes:duration>00:22:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260827/episode-20260827-65305f.mp3" length="21932205" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《枪炮、病菌与钢铁》 · 完整版 · 枪炮、病菌与钢铁-贾雷德.戴蒙德 · 完整讲读</title>
+      <description>《枪炮、病菌与钢铁》是贾雷德·戴蒙德回应新几内亚政治家耶利之问的代表作。书中断言，各大洲发展速度的差异，根源在于地理环境的先天条件——可驯化动植物的分布、农业起源的早晚、大陆轴向的差异——而非人种智力高低。这些地理起点沿着粮食生产、人口集中、病菌演化、文字传播、技术扩散与政治组织的因果链层层放大，最终在公元1500年前后塑造出欧亚大陆对美洲、澳洲、非洲的全面领先。这本书用一万三千年的尺度，把世界不平等的解释，从种族主义的窠臼里彻底拆了出来，至今仍是理解人类文明命运的奠基之作。</description>
+      <pubDate>Fri, 28 Aug 2026 17:18:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260828-episode-20260828-aedac6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《枪炮、病菌与钢铁》是贾雷德·戴蒙德回应新几内亚政治家耶利之问的代表作。书中断言，各大洲发展速度的差异，根源在于地理环境的先天条件——可驯化动植物的分布、农业起源的早晚、大陆轴向的差异——而非人种智力高低。这些地理起点沿着粮食生产、人口集中、病菌演化、文字传播、技术扩散与政治组织的因果链层层放大，最终在公元1500年前后塑造出欧亚大陆对美洲、澳洲、非洲的全面领先。这本书用一万三千年的尺度，把世界不平等的解释，从种族主义的窠臼里彻底拆了出来，至今仍是理解人类文明命运的奠基之作。</itunes:summary>
+      <itunes:duration>00:31:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260828/episode-20260828-aedac6.mp3" length="30673581" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
