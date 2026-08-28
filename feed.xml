@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 28 Aug 2026 17:29:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 17:39:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15782,6 +15782,17 @@
       <itunes:duration>00:34:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260828/episode-20260828-f10f89.mp3" length="32724909" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《九片之瓦》 · 完整版 · 九片之瓦_-_冯杰 · 完整讲读</title>
+      <description>《九片之瓦》是诗人冯杰写给北中原乡村的一封长信。他以瓦、井、驴、蟋蟀、杏、年画等最朴素的物事为载体，把汉字当作颜色去调制，用诗化的散文语言，重建一个正在消失的村庄。在城市化急速推进的年代，这本书以“极弱音“的姿态，抢救方言、母语与手艺，让离乡的人能在纸上听见瓦响、井声与星空下的蟋蟀。它是写给所有从乡村走出、又想知道根在哪里的人的一份精神地籍。</description>
+      <pubDate>Fri, 28 Aug 2026 17:39:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260828-episode-20260828-a2f88a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《九片之瓦》是诗人冯杰写给北中原乡村的一封长信。他以瓦、井、驴、蟋蟀、杏、年画等最朴素的物事为载体，把汉字当作颜色去调制，用诗化的散文语言，重建一个正在消失的村庄。在城市化急速推进的年代，这本书以“极弱音“的姿态，抢救方言、母语与手艺，让离乡的人能在纸上听见瓦响、井声与星空下的蟋蟀。它是写给所有从乡村走出、又想知道根在哪里的人的一份精神地籍。</itunes:summary>
+      <itunes:duration>00:29:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260828/episode-20260828-a2f88a.mp3" length="27946029" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
