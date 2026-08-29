@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 14:36:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 14:41:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16057,6 +16057,17 @@
       <itunes:duration>00:43:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-7c5f37.mp3" length="41639085" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《AI新生：破解人机共存密码，人类最后一个大问题》 · 完整版 · AI新生：破解人机共存密码，人类最后一个大问题 · 完整讲读</title>
+      <description>《AI新生：破解人机共存密码》是人工智能先驱斯图尔特·罗素写给普通人的人机共存方案。罗素指出，我们对智能的理解从根基上就错了：标准模型让机器追求人类给定的固定目标，可人类偏好根本无法完整算法化。当机器比人类更聪明，错误的目标将被极致优化，人类可能沦为工具的奴隶，甚至被灭绝。罗素给出破局之道——人类兼容人工智能，让机器永远保持对人类偏好的谦卑，主动接受纠正，允许被关闭。在他看来，控制比智能更重要，超级智能的成功可能是人类最后一个发明，而我们要做的，是在机器还能谦卑的时候，弄清楚如何让它永远谦卑。</description>
+      <pubDate>Sat, 29 Aug 2026 14:41:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-9994eb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《AI新生：破解人机共存密码》是人工智能先驱斯图尔特·罗素写给普通人的人机共存方案。罗素指出，我们对智能的理解从根基上就错了：标准模型让机器追求人类给定的固定目标，可人类偏好根本无法完整算法化。当机器比人类更聪明，错误的目标将被极致优化，人类可能沦为工具的奴隶，甚至被灭绝。罗素给出破局之道——人类兼容人工智能，让机器永远保持对人类偏好的谦卑，主动接受纠正，允许被关闭。在他看来，控制比智能更重要，超级智能的成功可能是人类最后一个发明，而我们要做的，是在机器还能谦卑的时候，弄清楚如何让它永远谦卑。</itunes:summary>
+      <itunes:duration>00:26:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-9994eb.mp3" length="25782957" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
