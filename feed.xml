@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 11:40:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 11:45:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15837,6 +15837,17 @@
       <itunes:duration>00:25:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-763d5e.mp3" length="24505005" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《红色天空红色海》 · 完整版 · 02.红色天空红色海 · 完整讲读</title>
+      <description>《红色天空红色海》是美国奇幻作家斯各特·林奇“绅士盗贼”系列第二部，讲述盗贼洛克·拉莫瑞和金·坦纳在塔尔·维拉罪塔尖赌场设下惊天骗局、却意外落入萨卢拉密探圈套，被迫前往海盗之城维尔·维拉佐执行偷窃国库的绝命任务。整部小说以“骗子小说”的独特笔法，把高智商骗局、海上冒险、政治阴谋与盗贼搭档间的兄弟情义熔于一炉。林奇用幽默诙谐的笔调写生死一线的时刻，借序幕中金为救洛克而“背叛”他、尾声中洛克偷换清水救金而死的情节，抛出全书最深的叩问：如果救你的唯一方式，是让你恨你一辈子，你愿不愿意？答案藏在金那句“永远不原谅，永远不离开”里——凡人总有一死，可凡人也可以替另一个人把死路走完。</description>
+      <pubDate>Sat, 29 Aug 2026 11:44:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-ea1e1d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《红色天空红色海》是美国奇幻作家斯各特·林奇“绅士盗贼”系列第二部，讲述盗贼洛克·拉莫瑞和金·坦纳在塔尔·维拉罪塔尖赌场设下惊天骗局、却意外落入萨卢拉密探圈套，被迫前往海盗之城维尔·维拉佐执行偷窃国库的绝命任务。整部小说以“骗子小说”的独特笔法，把高智商骗局、海上冒险、政治阴谋与盗贼搭档间的兄弟情义熔于一炉。林奇用幽默诙谐的笔调写生死一线的时刻，借序幕中金为救洛克而“背叛”他、尾声中洛克偷换清水救金而死的情节，抛出全书最深的叩问：如果救你的唯一方式，是让你恨你一辈子，你愿不愿意？答案藏在金那句“永远不原谅，永远不离开”里——凡人总有一死，可凡人也可以替另一个人把死路走完。</itunes:summary>
+      <itunes:duration>00:26:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-ea1e1d.mp3" length="25777197" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
