@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 11:45:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 11:52:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15848,6 +15848,17 @@
       <itunes:duration>00:26:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-ea1e1d.mp3" length="25777197" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《送你一匹马》 · 完整版 · 07.送你一匹马 - 三毛 · 完整讲读</title>
+      <description>《送你一匹马》是三毛一九八三年前后写下的散文结集，由台湾皇冠出版社首次出版，属于《三毛全集》第七册。全书延续她一贯的题材——亲情牵念、异国见闻、艺术感悟与故人往事，但更向内收拢。从代序《爱马》谈起，她把马定义为藏在心底的虚的梦、不拥有的自由；到《回娘家》，她写出十四年只回三次娘家的酸甜，与西班牙、德国、加纳利群岛上那些未能长住的假娘家；《梦里不知身是客》里她把读书当作永远的追求，甘心情愿将余生交给书本；《野火烧不尽》记录她在文化大学讲台上的告别，《但愿有长夜》记下她在西柏林为夏卡尔的画而落泪的三个夜晚；最后停在痖弦的诗《杨柳青春》，南阳城外那棵砍倒的杨柳树、哭瞎双眼的老娘、三十年回不去的故乡——三毛用一本散文集，把人生里那些重的、痛到不能碰的部分，用最轻的字、最朴素的句子，安安静静放在书桌上。这本书不是最轰动的，却是最柔软的；它教人如何出走、如何回家、如何在世界上保持一颗自由而柔软的心。</description>
+      <pubDate>Sat, 29 Aug 2026 11:52:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-44c309</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《送你一匹马》是三毛一九八三年前后写下的散文结集，由台湾皇冠出版社首次出版，属于《三毛全集》第七册。全书延续她一贯的题材——亲情牵念、异国见闻、艺术感悟与故人往事，但更向内收拢。从代序《爱马》谈起，她把马定义为藏在心底的虚的梦、不拥有的自由；到《回娘家》，她写出十四年只回三次娘家的酸甜，与西班牙、德国、加纳利群岛上那些未能长住的假娘家；《梦里不知身是客》里她把读书当作永远的追求，甘心情愿将余生交给书本；《野火烧不尽》记录她在文化大学讲台上的告别，《但愿有长夜》记下她在西柏林为夏卡尔的画而落泪的三个夜晚；最后停在痖弦的诗《杨柳青春》，南阳城外那棵砍倒的杨柳树、哭瞎双眼的老娘、三十年回不去的故乡——三毛用一本散文集，把人生里那些重的、痛到不能碰的部分，用最轻的字、最朴素的句子，安安静静放在书桌上。这本书不是最轰动的，却是最柔软的；它教人如何出走、如何回家、如何在世界上保持一颗自由而柔软的心。</itunes:summary>
+      <itunes:duration>00:32:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-44c309.mp3" length="31677741" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
