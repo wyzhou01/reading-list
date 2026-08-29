@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 14:41:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 14:49:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16068,6 +16068,17 @@
       <itunes:duration>00:26:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-9994eb.mp3" length="25782957" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《AI极简经济学》 · 完整版 · AI极简经济学 · 完整讲读</title>
+      <description>《AI 极简经济学》由三位加拿大经济学家合著，核心观点是：AI 带来的不是真正的智能，而是被低估的预测能力。当预测变廉价，便会像当年的电力与互联网一样重塑整个经济。本书用经济学最基本的供需框架，把 AI 变革翻译成决策者能听懂的语言：从预测、判断、决策的两层结构，到工作流的任务级重构，再到速度对精度、自主对控制、数据对隐私三组核心权衡。最终提醒读者：预测的地下室越来越自动化，但判断的楼上，依然需要真人带着价值观与风险偏好做最终抉择。这是一本写给 CEO、管理者与每一个想在 AI 时代不掉队的人的清醒之作。</description>
+      <pubDate>Sat, 29 Aug 2026 14:49:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-d59706</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《AI 极简经济学》由三位加拿大经济学家合著，核心观点是：AI 带来的不是真正的智能，而是被低估的预测能力。当预测变廉价，便会像当年的电力与互联网一样重塑整个经济。本书用经济学最基本的供需框架，把 AI 变革翻译成决策者能听懂的语言：从预测、判断、决策的两层结构，到工作流的任务级重构，再到速度对精度、自主对控制、数据对隐私三组核心权衡。最终提醒读者：预测的地下室越来越自动化，但判断的楼上，依然需要真人带着价值观与风险偏好做最终抉择。这是一本写给 CEO、管理者与每一个想在 AI 时代不掉队的人的清醒之作。</itunes:summary>
+      <itunes:duration>00:38:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-d59706.mp3" length="37066413" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
