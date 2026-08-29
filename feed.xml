@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 17:36:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 17:39:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16376,6 +16376,17 @@
       <itunes:duration>00:36:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-451182.mp3" length="35006637" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《伟大的博物馆：热那亚新街博物馆》 · 完整版 · 伟大的博物馆：热那亚新街博物馆_-_皮耶罗·波卡尔多等编著 · 完整讲读</title>
+      <description>《热那亚新街博物馆》是《伟大的博物馆》系列丛书的一册，由意大利学者皮耶罗·波卡尔多等编著，译林出版社二零一六年推出中译本。本书聚焦热那亚新街的红宫、白宫与多利亚-图尔西宫三座宫殿，这片十六世纪中叶由格里马尔蒂、斯皮诺拉、隆梅里诺、雷卡洛等金融家族联手打造的“比佛利山”，汇聚了两百年的艺术收藏。书中通过家族世代接力的视角，讲述了卡拉瓦乔、鲁本斯、凡·戴克、圭尔奇诺等大师作品如何在没有国王的城市里被银行家挂在墙上，最终通过捐赠成为公共财富。这不仅是一部博物馆图录，更是一部以建筑为骨架、以家族兴衰为血肉的城市艺术史，揭示了金融资本与艺术创造同频共振的古老逻辑。</description>
+      <pubDate>Sat, 29 Aug 2026 17:39:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-0473b8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《热那亚新街博物馆》是《伟大的博物馆》系列丛书的一册，由意大利学者皮耶罗·波卡尔多等编著，译林出版社二零一六年推出中译本。本书聚焦热那亚新街的红宫、白宫与多利亚-图尔西宫三座宫殿，这片十六世纪中叶由格里马尔蒂、斯皮诺拉、隆梅里诺、雷卡洛等金融家族联手打造的“比佛利山”，汇聚了两百年的艺术收藏。书中通过家族世代接力的视角，讲述了卡拉瓦乔、鲁本斯、凡·戴克、圭尔奇诺等大师作品如何在没有国王的城市里被银行家挂在墙上，最终通过捐赠成为公共财富。这不仅是一部博物馆图录，更是一部以建筑为骨架、以家族兴衰为血肉的城市艺术史，揭示了金融资本与艺术创造同频共振的古老逻辑。</itunes:summary>
+      <itunes:duration>00:32:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-0473b8.mp3" length="31013805" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
