@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 17:18:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 17:19:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16310,6 +16310,17 @@
       <itunes:duration>00:31:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-cfd9ba.mp3" length="30265389" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《家人们》 · 完整版 · 家人们 · 完整讲读</title>
+      <description>黄蓓佳长篇小说《家人们》讲述大学教授罗想农在母亲杨云去世后，护送骨灰回到江边小镇江岸镇办丧的故事。小说以一场葬礼为舞台，揭开了一个知识分子家族埋藏二十年的秘密：母亲为何终生冷淡长子？弟弟为何被读作“虚伪“？江边那块野坟地为谁而选？答案藏在时代的创伤、初恋的亏欠和一个被送走的血脉里。</description>
+      <pubDate>Sat, 29 Aug 2026 17:19:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-36d1ef</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>黄蓓佳长篇小说《家人们》讲述大学教授罗想农在母亲杨云去世后，护送骨灰回到江边小镇江岸镇办丧的故事。小说以一场葬礼为舞台，揭开了一个知识分子家族埋藏二十年的秘密：母亲为何终生冷淡长子？弟弟为何被读作“虚伪“？江边那块野坟地为谁而选？答案藏在时代的创伤、初恋的亏欠和一个被送走的血脉里。</itunes:summary>
+      <itunes:duration>00:27:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-36d1ef.mp3" length="26495661" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
