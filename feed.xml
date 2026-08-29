@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 15:06:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 15:13:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16112,6 +16112,17 @@
       <itunes:duration>00:30:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-3fc34b.mp3" length="29527725" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《CBD风流志》 · 完整版 · CBD风流志 - 姜立涵 · 完整讲读</title>
+      <description>《CBD风流志》是姜立涵以二零零八年为舞台书写的一代金融人集体记忆。小说以律师许世斌的视角双线展开：一条是国际投行精英许家祺、童依兰从华尔街光环跌入金融海啸的浮沉，一条是西北女孩邱媚从懵懂少女沦为底层求生的挣扎。全书六块拼图拼出大时代下的命运抉择、身份悖论、阶层密码与女性群像，记录了八零后一代在鸟巢烟花与上证暴跌中的集体成年礼。</description>
+      <pubDate>Sat, 29 Aug 2026 15:13:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-c8fc1a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《CBD风流志》是姜立涵以二零零八年为舞台书写的一代金融人集体记忆。小说以律师许世斌的视角双线展开：一条是国际投行精英许家祺、童依兰从华尔街光环跌入金融海啸的浮沉，一条是西北女孩邱媚从懵懂少女沦为底层求生的挣扎。全书六块拼图拼出大时代下的命运抉择、身份悖论、阶层密码与女性群像，记录了八零后一代在鸟巢烟花与上证暴跌中的集体成年礼。</itunes:summary>
+      <itunes:duration>00:29:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-c8fc1a.mp3" length="28035885" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
