@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 18:15:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 18:23:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16442,6 +16442,17 @@
       <itunes:duration>00:29:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-778907.mp3" length="27866925" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《三剑客》 · 完整版 · K-129三剑客 · 完整讲读</title>
+      <description>《三剑客》是法国作家大仲马于一八四四年出版的经典历史小说，讲述了一六二五年加斯科尼青年达德尼昂怀揣父亲留下的十五埃居、一匹老黄马和一封引荐信，独闯巴黎宫廷，与三位御前火枪手阿托斯、波尔多斯、阿拉密斯结为生死之交的故事。四剑客在红衣主教黎舍留的权谋与英法两国的政治风云中并肩作战，挫败了黎舍留的连环阴谋，远赴伦敦取回王后的钻石坠饰，最终以忠诚、勇气与义气诠释了什么叫小人物的尊严。本书以跌宕起伏的情节、鲜明的人物塑造和炽热的兄弟情谊，成为十九世纪最畅销的法国通俗小说，被译成几十种语言、翻拍十余次电影，至今仍让一代代读者热血沸腾。</description>
+      <pubDate>Sat, 29 Aug 2026 18:23:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-870bf3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《三剑客》是法国作家大仲马于一八四四年出版的经典历史小说，讲述了一六二五年加斯科尼青年达德尼昂怀揣父亲留下的十五埃居、一匹老黄马和一封引荐信，独闯巴黎宫廷，与三位御前火枪手阿托斯、波尔多斯、阿拉密斯结为生死之交的故事。四剑客在红衣主教黎舍留的权谋与英法两国的政治风云中并肩作战，挫败了黎舍留的连环阴谋，远赴伦敦取回王后的钻石坠饰，最终以忠诚、勇气与义气诠释了什么叫小人物的尊严。本书以跌宕起伏的情节、鲜明的人物塑造和炽热的兄弟情谊，成为十九世纪最畅销的法国通俗小说，被译成几十种语言、翻拍十余次电影，至今仍让一代代读者热血沸腾。</itunes:summary>
+      <itunes:duration>00:31:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-870bf3.mp3" length="30531885" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
