@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 14:21:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 14:28:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16035,6 +16035,17 @@
       <itunes:duration>00:27:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-4fc41a.mp3" length="26290605" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《99%的人一看就会的理财书》 · 完整版 · 99%的人一看就会的理财书 · 完整讲读</title>
+      <description>《99%的人一看就会的理财书》是美国资深理财规划师卡尔·理查兹写给普通人的反潮流指南。他从自己二零一零年因买房决策失误、房价崩盘而破产的真实经历出发，提出理财的核心不是技术问题，而是价值观问题：必须先回答“金钱为什么对你重要”，所有储蓄和投资决策才有方向。书中给出六个核心洞察：理财瘫痪源于选择过载，要用一张纸、一支记号笔写清最重要的事；好策略会被情绪摧毁，因为恐惧和贪婪绕过了理性思考；自动化设计让好行为不依赖意志力；防护栏比择时能力更重要；懒惰反而能让你跑赢频繁交易者；理财的目标不是积累数字，是把时间还给生活。</description>
+      <pubDate>Sat, 29 Aug 2026 14:28:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-cb9448</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《99%的人一看就会的理财书》是美国资深理财规划师卡尔·理查兹写给普通人的反潮流指南。他从自己二零一零年因买房决策失误、房价崩盘而破产的真实经历出发，提出理财的核心不是技术问题，而是价值观问题：必须先回答“金钱为什么对你重要”，所有储蓄和投资决策才有方向。书中给出六个核心洞察：理财瘫痪源于选择过载，要用一张纸、一支记号笔写清最重要的事；好策略会被情绪摧毁，因为恐惧和贪婪绕过了理性思考；自动化设计让好行为不依赖意志力；防护栏比择时能力更重要；懒惰反而能让你跑赢频繁交易者；理财的目标不是积累数字，是把时间还给生活。</itunes:summary>
+      <itunes:duration>00:32:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-cb9448.mp3" length="31297197" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
