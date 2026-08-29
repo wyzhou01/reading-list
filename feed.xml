@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 13:22:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 13:41:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15980,6 +15980,17 @@
       <itunes:duration>00:25:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-0ab538.mp3" length="24136749" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《21世纪生态经济学》 · 完整版 · 21世纪生态经济学 · 完整讲读</title>
+      <description>《二十一世纪生态经济学》是过程哲学家柯布与生态经济学家达利的合著。它批判了GDP这一误导性的国家成就指标，主张经济学应当被扩展而非抛弃：通过稳态经济回应地球的物理边界，通过共同体中的人取代原子化的经济人假设，通过可持续经济福利指标（ISEW）和真实发展指标（GPI）将衡量重心从市场交易转向真实福祉。这本出版于一九八九年的著作，三十多年后愈发显示其前瞻性，为今天的后增长、生态文明与可持续发展讨论提供了不可或缺的思想坐标。</description>
+      <pubDate>Sat, 29 Aug 2026 13:40:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-91edc6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《二十一世纪生态经济学》是过程哲学家柯布与生态经济学家达利的合著。它批判了GDP这一误导性的国家成就指标，主张经济学应当被扩展而非抛弃：通过稳态经济回应地球的物理边界，通过共同体中的人取代原子化的经济人假设，通过可持续经济福利指标（ISEW）和真实发展指标（GPI）将衡量重心从市场交易转向真实福祉。这本出版于一九八九年的著作，三十多年后愈发显示其前瞻性，为今天的后增长、生态文明与可持续发展讨论提供了不可或缺的思想坐标。</itunes:summary>
+      <itunes:duration>00:30:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-91edc6.mp3" length="29054253" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
