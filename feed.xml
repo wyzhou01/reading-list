@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 12:21:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:26:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15903,6 +15903,17 @@
       <itunes:duration>00:37:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-7f9a42.mp3" length="35701677" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《11枚戒指：菲尔·杰克逊自传》 · 完整版 · 11枚戒指禅：师菲尔·杰克逊自传(1) · 完整讲读</title>
+      <description>《11枚戒指》是菲尔·杰克逊的自传，记录他如何把禅宗、《道德经》、印第安圆环哲学揉进NBA更衣室，带领公牛和湖人拿下十一个总冠军。本书核心不是战术，而是&apos;怎么把一群超级巨星从自我拽进团队&apos;。他提出的领导原则有六条：从内而外领导、自我设限、帮球员发现自己的使命、用三角进攻给予自由、把平凡变为神圣、一起呼吸一起思考，其中&apos;怜悯之心&apos;是最重要的杠杆。禅师提供了一种在球星越来越自我的时代依然有效的答案：真正决定冠军归属的，是团队的&apos;灵魂&apos;。</description>
+      <pubDate>Sat, 29 Aug 2026 12:25:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-711c60</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《11枚戒指》是菲尔·杰克逊的自传，记录他如何把禅宗、《道德经》、印第安圆环哲学揉进NBA更衣室，带领公牛和湖人拿下十一个总冠军。本书核心不是战术，而是&apos;怎么把一群超级巨星从自我拽进团队&apos;。他提出的领导原则有六条：从内而外领导、自我设限、帮球员发现自己的使命、用三角进攻给予自由、把平凡变为神圣、一起呼吸一起思考，其中&apos;怜悯之心&apos;是最重要的杠杆。禅师提供了一种在球星越来越自我的时代依然有效的答案：真正决定冠军归属的，是团队的&apos;灵魂&apos;。</itunes:summary>
+      <itunes:duration>00:35:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-711c60.mp3" length="34131885" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
