@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 15:41:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 15:45:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16167,6 +16167,17 @@
       <itunes:duration>00:31:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-a24439.mp3" length="30060333" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《遗落的南境Ⅲ：接纳》 · 完整版 · D-006遗落的南境Ⅲ：接纳 · 完整讲读</title>
+      <description>《遗落的南境Ⅲ：接纳》是杰夫·范德米尔&quot;新怪谭&quot;三部曲的终章，2017年出版。本书以南境局局长第十二期勘探队出发前独自踏入 X 区域为线索，交织灯塔管理员索尔·埃文斯的孤独栖居、葛洛莉亚的降神实验与一封写给索尔的遗书，层层瓦解&quot;找到答案&quot;的传统叙事。局长在濒死审讯中承认语言失效、身份崩塌；索尔在灯塔的例行劳作中学会与未知共处；最终，葛洛莉亚的信揭示了献祭、孤独与接纳的真正含义：答案不是被找到的，而是被献祭出来的；孤独不是惩罚，是栖居；语言失效之后，遗书仍能承载无法说出口的告白。本书追问每个活在某种边界之内的人：你愿意走出那道门吗？即使门外只有风。</description>
+      <pubDate>Sat, 29 Aug 2026 15:45:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-4d09e6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《遗落的南境Ⅲ：接纳》是杰夫·范德米尔&quot;新怪谭&quot;三部曲的终章，2017年出版。本书以南境局局长第十二期勘探队出发前独自踏入 X 区域为线索，交织灯塔管理员索尔·埃文斯的孤独栖居、葛洛莉亚的降神实验与一封写给索尔的遗书，层层瓦解&quot;找到答案&quot;的传统叙事。局长在濒死审讯中承认语言失效、身份崩塌；索尔在灯塔的例行劳作中学会与未知共处；最终，葛洛莉亚的信揭示了献祭、孤独与接纳的真正含义：答案不是被找到的，而是被献祭出来的；孤独不是惩罚，是栖居；语言失效之后，遗书仍能承载无法说出口的告白。本书追问每个活在某种边界之内的人：你愿意走出那道门吗？即使门外只有风。</itunes:summary>
+      <itunes:duration>00:23:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-4d09e6.mp3" length="22265517" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
