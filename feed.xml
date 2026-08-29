@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 11:35:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 11:40:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15826,6 +15826,17 @@
       <itunes:duration>00:31:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-52a613.mp3" length="30070701" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《雨季不再来》 · 完整版 · 01.雨季不再来 - 三毛 · 完整讲读</title>
+      <description>《雨季不再来》是三毛十七岁到二十二岁之间的作品集，记录了她从敏感叛逆的二毛蜕变为真诚坚韧的三毛的全过程。本书以青涩笔触写下少女的迷惘、孤独与对生命意义的追问，更藏着她与父母跨越海峡的家书牵绊。从偷钱的小女孩、被迫与哑巴兵绝交的小学生，到马德里写家书的留学生，三毛用这本书回答了一个问题：一个曾被看作问题孩子的少女，是如何在十年之后，活成一个对凡事有爱、有信、有望的女人。答案是两个字：时间。雨季不会再来，但雨季里学到的所有事，会跟着一个人，一直走下去。</description>
+      <pubDate>Sat, 29 Aug 2026 11:40:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-763d5e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《雨季不再来》是三毛十七岁到二十二岁之间的作品集，记录了她从敏感叛逆的二毛蜕变为真诚坚韧的三毛的全过程。本书以青涩笔触写下少女的迷惘、孤独与对生命意义的追问，更藏着她与父母跨越海峡的家书牵绊。从偷钱的小女孩、被迫与哑巴兵绝交的小学生，到马德里写家书的留学生，三毛用这本书回答了一个问题：一个曾被看作问题孩子的少女，是如何在十年之后，活成一个对凡事有爱、有信、有望的女人。答案是两个字：时间。雨季不会再来，但雨季里学到的所有事，会跟着一个人，一直走下去。</itunes:summary>
+      <itunes:duration>00:25:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-763d5e.mp3" length="24505005" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
