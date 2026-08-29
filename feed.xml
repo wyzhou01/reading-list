@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 16:58:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 17:04:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16266,6 +16266,17 @@
       <itunes:duration>00:27:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-ebdc9d.mp3" length="26335917" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我们所应走的路》 · 完整版 · K-071我们所应走的路 · 完整讲读</title>
+      <description>胡适《我们所应走的路》,收录了他面向青年、面向公众的演讲与杂文,集中体现两句话——为己而后可以为人,求学而后可以救国。前者接续易卜生式的个人主义,主张先把自己铸造成器,才有资格救人;后者呼应巴斯德式的科学精神,主张学术与科学才是国家强盛的真正根基。胡适借《国民公敌》中斯多克芒医生的故事,讲清何为特立独行;借巴斯德以显微镜救法国三大产业的实例,讲清何为科学救国;借欧洲思想史上的乌托邦传统,讲清梦想与理想对民族进步的意义;借对中国公学毕业生的临别赠言,讲清学问是一辈子不能抛弃的朋友;借普渡大学的毕业讲演,讲清受过训练的头脑如何在充满宣传的时代保持独立判断;借《打破浪漫病》,讲清真正的学术不是空喊口号,而是显微镜下的笨功夫;借自己改革丧礼的亲身经历,讲清现代人对一切无意识的传统习俗,都应该问一声&quot;为什么&quot;。一本书,讲透一个知识分子该如何安身立命,又该如何对时代负责——答案始终是同一句话:先修己,再爱人;先治学,再论政。</description>
+      <pubDate>Sat, 29 Aug 2026 17:04:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-9eef9c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>胡适《我们所应走的路》,收录了他面向青年、面向公众的演讲与杂文,集中体现两句话——为己而后可以为人,求学而后可以救国。前者接续易卜生式的个人主义,主张先把自己铸造成器,才有资格救人;后者呼应巴斯德式的科学精神,主张学术与科学才是国家强盛的真正根基。胡适借《国民公敌》中斯多克芒医生的故事,讲清何为特立独行;借巴斯德以显微镜救法国三大产业的实例,讲清何为科学救国;借欧洲思想史上的乌托邦传统,讲清梦想与理想对民族进步的意义;借对中国公学毕业生的临别赠言,讲清学问是一辈子不能抛弃的朋友;借普渡大学的毕业讲演,讲清受过训练的头脑如何在充满宣传的时代保持独立判断;借《打破浪漫病》,讲清真正的学术不是空喊口号,而是显微镜下的笨功夫;借自己改革丧礼的亲身经历,讲清现代人对一切无意识的传统习俗,都应该问一声&quot;为什么&quot;。一本书,讲透一个知识分子该如何安身立命,又该如何对时代负责——答案始终是同一句话:先修己,再爱人;先治学,再论政。</itunes:summary>
+      <itunes:duration>00:39:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-9eef9c.mp3" length="38154285" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
