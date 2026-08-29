@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 23:12:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 23:18:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16519,6 +16519,17 @@
       <itunes:duration>00:27:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-ca025e.mp3" length="26821293" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《八月之光》 · 完整版 · K-189八月之光 · 完整讲读</title>
+      <description>一九三二年，福克纳写下《八月之光》。一个女人挺着肚子走在路上，一个男人不知道自己是白人还是黑人，一个牧师困在祖父的荣光里。三条从未交汇的线索，在杰弗生镇的十天里彼此映照。福克纳用这部小说告诉你，旧规则不是永恒的，分类不是命定的，每个人都站在那个短暂显形的缝隙里，看你敢不敢接住那道来自远古的光。</description>
+      <pubDate>Sat, 29 Aug 2026 23:18:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-869d90</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九三二年，福克纳写下《八月之光》。一个女人挺着肚子走在路上，一个男人不知道自己是白人还是黑人，一个牧师困在祖父的荣光里。三条从未交汇的线索，在杰弗生镇的十天里彼此映照。福克纳用这部小说告诉你，旧规则不是永恒的，分类不是命定的，每个人都站在那个短暂显形的缝隙里，看你敢不敢接住那道来自远古的光。</itunes:summary>
+      <itunes:duration>00:28:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-869d90.mp3" length="27097389" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
