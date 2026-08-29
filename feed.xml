@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 17:11:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 17:13:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16288,6 +16288,17 @@
       <itunes:duration>00:34:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-633bb3.mp3" length="33571245" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《毒木圣经》 · 完整版 · 毒木圣经_-_芭芭拉·金索沃 · 完整讲读</title>
+      <description>《毒木圣经》是芭芭拉·金索沃构思近三十年、于一九九八年出版的长篇小说，以一九五九至一九六〇年间刚果独立前后的历史动荡为背景，借一个美国南方的浸信会牧师家庭里母亲与四个女儿的视角，层层剥开西方传教士的优越感与帝国殖民的罪责。五个女性叙述者轮替发声，每个人都带着自己的盲点、秘密与罪责，在《创世记》到《启示录》的圣经篇章结构下拼出一部忏悔式的多声部长卷。小说写的不只是刚果，更是一条女性从沉默到发声的路线图；写的不只是殖民，更是一种该如何直面自身谎言之中的诚实。今天再读，它仍是一面镜子，映出每个披戴着他人苦难却假装清白的我们自己，并轻声叮嘱——愿森林注视我们。</description>
+      <pubDate>Sat, 29 Aug 2026 17:13:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-43a111</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《毒木圣经》是芭芭拉·金索沃构思近三十年、于一九九八年出版的长篇小说，以一九五九至一九六〇年间刚果独立前后的历史动荡为背景，借一个美国南方的浸信会牧师家庭里母亲与四个女儿的视角，层层剥开西方传教士的优越感与帝国殖民的罪责。五个女性叙述者轮替发声，每个人都带着自己的盲点、秘密与罪责，在《创世记》到《启示录》的圣经篇章结构下拼出一部忏悔式的多声部长卷。小说写的不只是刚果，更是一条女性从沉默到发声的路线图；写的不只是殖民，更是一种该如何直面自身谎言之中的诚实。今天再读，它仍是一面镜子，映出每个披戴着他人苦难却假装清白的我们自己，并轻声叮嘱——愿森林注视我们。</itunes:summary>
+      <itunes:duration>00:26:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-43a111.mp3" length="25723053" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
