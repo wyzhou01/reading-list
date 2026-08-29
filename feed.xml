@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 15:13:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 15:19:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16123,6 +16123,17 @@
       <itunes:duration>00:29:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-c8fc1a.mp3" length="28035885" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《CEO说：像企业家一样思考》 · 完整版 · CEO说：像企业家一样思考(1) · 完整讲读</title>
+      <description>《CEO说：像企业家一样思考》是管理咨询大师拉姆·查兰的经典之作。他发现，世界顶级CEO和街头小贩的思维方式如出一辙——都在本能地关注现金、利润、周转和顾客这八个字。查兰把这种共同的底层能力称为“商业智慧”。全书围绕企业经营六大关键要素（现金净流入、利润、周转率、资产收益率、业务增长、顾客）和两大基石（人岗匹配、沟通机制）展开，用沃尔玛、戴尔、通用电气等真实案例告诉你：商业的本质从来都不复杂，复杂的是我们人为制造的“职能竖井”。无论你是职场新人还是资深管理者，这本书都能帮你用最朴素的常识，看懂最复杂的商业世界。</description>
+      <pubDate>Sat, 29 Aug 2026 15:19:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-eb0824</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《CEO说：像企业家一样思考》是管理咨询大师拉姆·查兰的经典之作。他发现，世界顶级CEO和街头小贩的思维方式如出一辙——都在本能地关注现金、利润、周转和顾客这八个字。查兰把这种共同的底层能力称为“商业智慧”。全书围绕企业经营六大关键要素（现金净流入、利润、周转率、资产收益率、业务增长、顾客）和两大基石（人岗匹配、沟通机制）展开，用沃尔玛、戴尔、通用电气等真实案例告诉你：商业的本质从来都不复杂，复杂的是我们人为制造的“职能竖井”。无论你是职场新人还是资深管理者，这本书都能帮你用最朴素的常识，看懂最复杂的商业世界。</itunes:summary>
+      <itunes:duration>00:31:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-eb0824.mp3" length="29938221" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
