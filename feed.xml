@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 17:19:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 17:21:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16321,6 +16321,17 @@
       <itunes:duration>00:27:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-36d1ef.mp3" length="26495661" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《海伯利安》 · 完整版 · K-081海伯利安 · 完整讲读</title>
+      <description>末日降临前夕，七名彼此陌生的朝圣者登上圣徒巨树之舰，启程飞向被神秘巨树寄主伯劳统治的海伯利安星球。吉纳·西蒙斯以乔叟《坎特伯雷故事集》的朝圣叙事为骨架，让七段独立而互文的故事交错推进，描绘信仰崩塌、记忆失控、时间逆流与战争逼近下的人性异变。最终，一行人在风雪中并肩唱起《绿野仙踪》之歌，完成了从纵队到人群的转变。</description>
+      <pubDate>Sat, 29 Aug 2026 17:21:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-b0e60d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>末日降临前夕，七名彼此陌生的朝圣者登上圣徒巨树之舰，启程飞向被神秘巨树寄主伯劳统治的海伯利安星球。吉纳·西蒙斯以乔叟《坎特伯雷故事集》的朝圣叙事为骨架，让七段独立而互文的故事交错推进，描绘信仰崩塌、记忆失控、时间逆流与战争逼近下的人性异变。最终，一行人在风雪中并肩唱起《绿野仙踪》之歌，完成了从纵队到人群的转变。</itunes:summary>
+      <itunes:duration>00:23:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-b0e60d.mp3" length="22094253" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
