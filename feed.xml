@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 12:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:45:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15925,6 +15925,17 @@
       <itunes:duration>00:29:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-5a427c.mp3" length="28212525" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《14号门》 · 完整版 · 14号门 · 完整讲读</title>
+      <description>《十四号门》是美国作家彼得・克莱斯的科幻悬疑代表作。平凡男人内特・塔克稀里糊涂租进洛杉矶一零一公路旁的百年老楼卡瓦奇大楼，从此被卷进一场跨越几十年的秘密实验。这幢楼会变形，门后的房间通向不该通向的地方，永远打不开的十四号门背后藏着改变现实的秘密装置，邻居们一个比一个古怪，住客接二连三地消失或死去。在调查真相的过程中，内特和一群同样普通的住客——包括执着于征信分数的女邻居曼迪、欧洲背景的电脑高手薇科、身患绝症的军人蒂姆——慢慢组成一支临时小队，联手对抗那个隐藏在暗处、自称红死家族的神秘组织。最终，掌控这幢楼的西装男出现，联邦调查局介入，红死家族被一网打尽，而内特因为见过太多真相，被邀请成为新一任大楼管理员。他接过钥匙，带着薇科一起，走进十二号公寓，成为下一代守门人。这本书把宇宙恐怖和邻里喜剧巧妙混搭，悬念密、节奏快、对话精彩，结尾更是给出一个意料之外的答案。它表面是科幻悬疑，底层是一则关于普通人如何在远超自己想象的真相面前，选择接过责任的现代寓言。</description>
+      <pubDate>Sat, 29 Aug 2026 12:45:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-1e7e3f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《十四号门》是美国作家彼得・克莱斯的科幻悬疑代表作。平凡男人内特・塔克稀里糊涂租进洛杉矶一零一公路旁的百年老楼卡瓦奇大楼，从此被卷进一场跨越几十年的秘密实验。这幢楼会变形，门后的房间通向不该通向的地方，永远打不开的十四号门背后藏着改变现实的秘密装置，邻居们一个比一个古怪，住客接二连三地消失或死去。在调查真相的过程中，内特和一群同样普通的住客——包括执着于征信分数的女邻居曼迪、欧洲背景的电脑高手薇科、身患绝症的军人蒂姆——慢慢组成一支临时小队，联手对抗那个隐藏在暗处、自称红死家族的神秘组织。最终，掌控这幢楼的西装男出现，联邦调查局介入，红死家族被一网打尽，而内特因为见过太多真相，被邀请成为新一任大楼管理员。他接过钥匙，带着薇科一起，走进十二号公寓，成为下一代守门人。这本书把宇宙恐怖和邻里喜剧巧妙混搭，悬念密、节奏快、对话精彩，结尾更是给出一个意料之外的答案。它表面是科幻悬疑，底层是一则关于普通人如何在远超自己想象的真相面前，选择接过责任的现代寓言。</itunes:summary>
+      <itunes:duration>00:36:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-1e7e3f.mp3" length="34666413" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
