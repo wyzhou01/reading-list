@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 14:04:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 14:21:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16024,6 +16024,17 @@
       <itunes:duration>00:28:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-3bb9b8.mp3" length="27801645" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《755年：中国历史盛衰之交》 · 完整版 · 755年：中国历史盛衰之交 · 完整讲读</title>
+      <description>《七五五年：中国历史盛衰之交》是吴蔚&quot;汉唐宋明大历史系列&quot;中关于唐前期的代表作。本书以公元七五五年安禄山在范阳起兵这一历史转折点为核心，围绕唐玄宗、安禄山、张巡、哥舒翰、李白、王维等关键人物，从政治制度、人性弱点、偶然与必然三个维度，深刻剖析了大唐帝国从开元盛世骤然崩塌为安史之乱的全过程。作者打破脸谱化的历史评价，既不为唐玄宗翻案，也不简单地将安禄山定为乱臣，而是深入人物的处境与抉择，呈现盛世崩塌的复杂根源。对于今天想要理解中国封建王朝盛衰规律的读者，本书提供了一个生动而深刻的样本——盛世从来不是理所当然的，崩塌往往只在一夜之间。</description>
+      <pubDate>Sat, 29 Aug 2026 14:21:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-4fc41a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《七五五年：中国历史盛衰之交》是吴蔚&quot;汉唐宋明大历史系列&quot;中关于唐前期的代表作。本书以公元七五五年安禄山在范阳起兵这一历史转折点为核心，围绕唐玄宗、安禄山、张巡、哥舒翰、李白、王维等关键人物，从政治制度、人性弱点、偶然与必然三个维度，深刻剖析了大唐帝国从开元盛世骤然崩塌为安史之乱的全过程。作者打破脸谱化的历史评价，既不为唐玄宗翻案，也不简单地将安禄山定为乱臣，而是深入人物的处境与抉择，呈现盛世崩塌的复杂根源。对于今天想要理解中国封建王朝盛衰规律的读者，本书提供了一个生动而深刻的样本——盛世从来不是理所当然的，崩塌往往只在一夜之间。</itunes:summary>
+      <itunes:duration>00:27:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-4fc41a.mp3" length="26290605" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
