@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 12:26:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:30:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15914,6 +15914,17 @@
       <itunes:duration>00:35:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-711c60.mp3" length="34131885" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《12堂魔力数学课》 · 完整版 · 12堂魔力数学课 - 阿瑟·本杰明 · 完整讲读</title>
+      <description>《十二堂魔力数学课》是美国数学家、魔术师阿瑟·本杰明写给所有人的趣味数学读物。本书通过十二个章节，从心算技巧讲到代数法则，从九的指纹讲到斐波那契数列与黄金比例，从勾股定理讲到 π、i、e 三大常数，最终汇入欧拉公式的极简之美。书中贯穿魔术、游戏与日常生活例子，把中小学到大学本科的核心数学脉络，用“看得到、玩得了”的方式重新讲了一遍。本书不仅传授技巧，更在传递一种看待数字的眼光：数学不是死记硬背的符号，而是反复出现的规律；不是冷冰冰的计算，而是精心设计的惊喜。无论你是正在学数学的学生、想重拾数学记忆的成年人，还是单纯对世界好奇的人，都能在这十二堂课里，重新发现数学的温度。</description>
+      <pubDate>Sat, 29 Aug 2026 12:30:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-5a427c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《十二堂魔力数学课》是美国数学家、魔术师阿瑟·本杰明写给所有人的趣味数学读物。本书通过十二个章节，从心算技巧讲到代数法则，从九的指纹讲到斐波那契数列与黄金比例，从勾股定理讲到 π、i、e 三大常数，最终汇入欧拉公式的极简之美。书中贯穿魔术、游戏与日常生活例子，把中小学到大学本科的核心数学脉络，用“看得到、玩得了”的方式重新讲了一遍。本书不仅传授技巧，更在传递一种看待数字的眼光：数学不是死记硬背的符号，而是反复出现的规律；不是冷冰冰的计算，而是精心设计的惊喜。无论你是正在学数学的学生、想重拾数学记忆的成年人，还是单纯对世界好奇的人，都能在这十二堂课里，重新发现数学的温度。</itunes:summary>
+      <itunes:duration>00:29:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-5a427c.mp3" length="28212525" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
