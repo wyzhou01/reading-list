@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 13:59:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 14:04:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16013,6 +16013,17 @@
       <itunes:duration>00:31:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-01c403.mp3" length="30427437" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《52堂静心课》 · 完整版 · 52堂静心课-[英]戴维·方坦纳 · 完整讲读</title>
+      <description>《五十二堂静心课》是英国心理学教授戴维·方坦纳写给忙碌都市人的冥想入门手册，以一年五十二个周日为节奏，从呼吸与专注训练开始，逐步过渡到正念、内观、慈心与视觉化练习，最终指向超越技巧的宁静与感恩之心。方坦纳结合佛教、印度教、苏菲派等不同传统的冥想方法与西方心理学研究，强调冥想不是脱离日常的避难所，而是把同样的专注与温柔带回日常的能力。本书在欧美长期被列为冥想入门经典，对屏幕时代的读者尤为对症。</description>
+      <pubDate>Sat, 29 Aug 2026 14:04:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-3bb9b8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《五十二堂静心课》是英国心理学教授戴维·方坦纳写给忙碌都市人的冥想入门手册，以一年五十二个周日为节奏，从呼吸与专注训练开始，逐步过渡到正念、内观、慈心与视觉化练习，最终指向超越技巧的宁静与感恩之心。方坦纳结合佛教、印度教、苏菲派等不同传统的冥想方法与西方心理学研究，强调冥想不是脱离日常的避难所，而是把同样的专注与温柔带回日常的能力。本书在欧美长期被列为冥想入门经典，对屏幕时代的读者尤为对症。</itunes:summary>
+      <itunes:duration>00:28:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-3bb9b8.mp3" length="27801645" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
