@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 13:41:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 13:49:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15991,6 +15991,17 @@
       <itunes:duration>00:30:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-91edc6.mp3" length="29054253" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《24/7：晚期资本主义与睡眠的终结》 · 完整版 · 24_7：晚期资本主义与睡眠的终结 - 乔纳森·克拉里 · 完整讲读</title>
+      <description>《二十四除以七》是艺术批评家乔纳森·克拉里于二零一三年出版的小书，他以睡眠为切口，提出二十四小时乘以七是一种新型的资本主义时间体制。它消灭黑暗，取消间歇，把人改造为与机器同步运转的无眠主体。从白冠雀的军事研究、人造月亮计划、关塔那摩的强光审讯，到智能手机对夜晚的侵蚀，克拉里指出，睡眠是马克思所说的最后一种自然障碍，是生命节律对资本逻辑的最后抵抗。保护睡眠，因此既是一种自我保存，也是一种微弱却必须的反抗。</description>
+      <pubDate>Sat, 29 Aug 2026 13:49:46 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-6b1272</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《二十四除以七》是艺术批评家乔纳森·克拉里于二零一三年出版的小书，他以睡眠为切口，提出二十四小时乘以七是一种新型的资本主义时间体制。它消灭黑暗，取消间歇，把人改造为与机器同步运转的无眠主体。从白冠雀的军事研究、人造月亮计划、关塔那摩的强光审讯，到智能手机对夜晚的侵蚀，克拉里指出，睡眠是马克思所说的最后一种自然障碍，是生命节律对资本逻辑的最后抵抗。保护睡眠，因此既是一种自我保存，也是一种微弱却必须的反抗。</itunes:summary>
+      <itunes:duration>00:33:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-6b1272.mp3" length="32276781" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
