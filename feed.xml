@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 16:38:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 16:58:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16255,6 +16255,17 @@
       <itunes:duration>00:32:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-1f72f8.mp3" length="30905901" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中国文化常识Ⅱ》 · 完整版 · K-065中国文化常识Ⅱ · 完整讲读</title>
+      <description>《中国文化常识Ⅱ》由干春松、张晓芒主编，是面向普通读者的中华文化入门读本。本书从上古传说的盘古开天、女娲造人讲起，系统梳理诸子百家思想、古代中外经济文化交流、丝绸之路的历史脉络，深入解读传统商业制度如当铺的千年演变，并以状元下海、晚清奖励实业、门户开放等近代转型为终章。全书兼顾通俗性与学术准确性，旨在帮助现代读者在文化自觉的时代背景下，重新理解中华文明何以延续五千年而不中断。</description>
+      <pubDate>Sat, 29 Aug 2026 16:58:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-ebdc9d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《中国文化常识Ⅱ》由干春松、张晓芒主编，是面向普通读者的中华文化入门读本。本书从上古传说的盘古开天、女娲造人讲起，系统梳理诸子百家思想、古代中外经济文化交流、丝绸之路的历史脉络，深入解读传统商业制度如当铺的千年演变，并以状元下海、晚清奖励实业、门户开放等近代转型为终章。全书兼顾通俗性与学术准确性，旨在帮助现代读者在文化自觉的时代背景下，重新理解中华文明何以延续五千年而不中断。</itunes:summary>
+      <itunes:duration>00:27:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-ebdc9d.mp3" length="26335917" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
