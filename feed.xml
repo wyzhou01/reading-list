@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 18:24:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 18:30:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16453,6 +16453,17 @@
       <itunes:duration>00:31:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-870bf3.mp3" length="30531885" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《K-138维京传奇：来自海上的战狼》 · 完整版 · K-138维京传奇：来自海上的战狼 · 完整讲读</title>
+      <description>《维京传奇》讲述了公元七九四年至一零六六年、北欧维京人纵横欧洲三百年间如何把一个中世纪的版图重新画了一遍的故事。从艾奥纳修道院的屠杀到林迪斯法恩的浩劫，从异教徒大军的铁蹄到诺曼底公国的建立，从冰岛议会的诞生到北美海岸的发现，维京人既是基督教文明眼中的野蛮破坏者，也是中世纪欧洲的真正奠基者。书里最核心的一句话是：焚烧的稗秆能让土地变得更加肥沃。维京人用斧头砸烂了旧秩序，却在废墟上建起了法兰西、英格兰、神圣罗马帝国、西西里王国这四个中世纪西欧的大国，也留下了陪审团、议会制、造船术这些影响至今的制度遗产。读懂维京人，就读懂了大半个中世纪的欧洲，也读懂了今天我们身边那些看似破坏、实则在重塑规则的颠覆者。</description>
+      <pubDate>Sat, 29 Aug 2026 18:30:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-7f4ec7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《维京传奇》讲述了公元七九四年至一零六六年、北欧维京人纵横欧洲三百年间如何把一个中世纪的版图重新画了一遍的故事。从艾奥纳修道院的屠杀到林迪斯法恩的浩劫，从异教徒大军的铁蹄到诺曼底公国的建立，从冰岛议会的诞生到北美海岸的发现，维京人既是基督教文明眼中的野蛮破坏者，也是中世纪欧洲的真正奠基者。书里最核心的一句话是：焚烧的稗秆能让土地变得更加肥沃。维京人用斧头砸烂了旧秩序，却在废墟上建起了法兰西、英格兰、神圣罗马帝国、西西里王国这四个中世纪西欧的大国，也留下了陪审团、议会制、造船术这些影响至今的制度遗产。读懂维京人，就读懂了大半个中世纪的欧洲，也读懂了今天我们身边那些看似破坏、实则在重塑规则的颠覆者。</itunes:summary>
+      <itunes:duration>00:31:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-7f4ec7.mp3" length="30022317" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
