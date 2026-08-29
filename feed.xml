@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 12:56:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 13:04:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15958,6 +15958,17 @@
       <itunes:duration>00:30:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-740dbb.mp3" length="28974381" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《1901年——一个帝国的背影》 · 完整版 · 1901年 - 王树增 · 完整讲读</title>
+      <description>王树增以1901年为切片，透过辛丑条约签订前后的历史细节，全景式呈现大清帝国在世纪之交的政治溃败、社会动荡与众生百态。从光绪被囚、慈禧专权，到义和团兴起、八国联军侵华，再到李鸿章等晚清重臣在内外交困中的挣扎与抉择，揭示一个古老帝国走向全面衰落的背影与平民在时代洪流中的真实命运。</description>
+      <pubDate>Sat, 29 Aug 2026 13:04:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-1e4563</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>王树增以1901年为切片，透过辛丑条约签订前后的历史细节，全景式呈现大清帝国在世纪之交的政治溃败、社会动荡与众生百态。从光绪被囚、慈禧专权，到义和团兴起、八国联军侵华，再到李鸿章等晚清重臣在内外交困中的挣扎与抉择，揭示一个古老帝国走向全面衰落的背影与平民在时代洪流中的真实命运。</itunes:summary>
+      <itunes:duration>00:36:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-1e4563.mp3" length="35331885" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
