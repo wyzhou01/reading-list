@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 18:30:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 18:34:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16464,6 +16464,17 @@
       <itunes:duration>00:31:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-7f4ec7.mp3" length="30022317" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《K-141序跋集》 · 完整版 · K-141序跋集 · 完整讲读</title>
+      <description>《K一四一序跋集》是W.H.奥登以三十年时光写就的四十六篇序言、导言与书评的自选集。奥登以诗人的身份漫游于荷马、但丁、歌德、克尔恺郭尔、乔伊斯之间,既严肃如制定规则,又轻盈如孩童游戏。篇目按主题而非时间排序,内含奥登独特的二元性思维——阿里尔与普洛斯彼罗的拉扯、内在与外在的双重属性、自然时间与历史时间的张力。作为收官之作,《序跋集》也是奥登用他人书页拼成的人生总结:他承认自己爱钱,承认自己偏爱伴侣,承认自己仍在成长,也承认自己始终热爱现世。这本书教我们一种稀缺的阅读态度——在每一面镜子前,既看见他人,也允许看见自己。</description>
+      <pubDate>Sat, 29 Aug 2026 18:34:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-2445b6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《K一四一序跋集》是W.H.奥登以三十年时光写就的四十六篇序言、导言与书评的自选集。奥登以诗人的身份漫游于荷马、但丁、歌德、克尔恺郭尔、乔伊斯之间,既严肃如制定规则,又轻盈如孩童游戏。篇目按主题而非时间排序,内含奥登独特的二元性思维——阿里尔与普洛斯彼罗的拉扯、内在与外在的双重属性、自然时间与历史时间的张力。作为收官之作,《序跋集》也是奥登用他人书页拼成的人生总结:他承认自己爱钱,承认自己偏爱伴侣,承认自己仍在成长,也承认自己始终热爱现世。这本书教我们一种稀缺的阅读态度——在每一面镜子前,既看见他人,也允许看见自己。</itunes:summary>
+      <itunes:duration>00:22:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-2445b6.mp3" length="21472173" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
