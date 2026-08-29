@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 15:27:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 15:32:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16145,6 +16145,17 @@
       <itunes:duration>00:32:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-58093e.mp3" length="30768045" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《遗落的南境Ⅰ：湮灭》 · 完整版 · D-003遗落的南境Ⅰ：湮灭 · 完整讲读</title>
+      <description>《遗落的南境 I：湮灭》是新怪谭作家杰夫·范德米尔二零一四年出版的代表作，同年击败《三体》英文版夺得星云奖最佳长篇。小说以生物学家第一人称视角，讲述一支由四名女性组成的勘探队深入被称作 X 区域的神秘禁地。她们在那里发现了一座不该存在的地下塔、一面由真菌构成的智慧文字墙、一头眼中闪烁电火花的野猪，以及一个无法被任何已知学科解释的同化机制。整本书的核心追问直指人类认知的边界：当一种力量根本不屑于被人类理解时，客观、理性与求知欲究竟还能撑多久？作品借叙述者自身边界的悄然溶解，将这种追问推向了极致，是当代科幻中最安静、也最令人不安的认知崩塌书写。</description>
+      <pubDate>Sat, 29 Aug 2026 15:32:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-9f40cd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《遗落的南境 I：湮灭》是新怪谭作家杰夫·范德米尔二零一四年出版的代表作，同年击败《三体》英文版夺得星云奖最佳长篇。小说以生物学家第一人称视角，讲述一支由四名女性组成的勘探队深入被称作 X 区域的神秘禁地。她们在那里发现了一座不该存在的地下塔、一面由真菌构成的智慧文字墙、一头眼中闪烁电火花的野猪，以及一个无法被任何已知学科解释的同化机制。整本书的核心追问直指人类认知的边界：当一种力量根本不屑于被人类理解时，客观、理性与求知欲究竟还能撑多久？作品借叙述者自身边界的悄然溶解，将这种追问推向了极致，是当代科幻中最安静、也最令人不安的认知崩塌书写。</itunes:summary>
+      <itunes:duration>00:25:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-9f40cd.mp3" length="24160557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
