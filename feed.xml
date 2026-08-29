@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 13:04:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 13:22:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15969,6 +15969,17 @@
       <itunes:duration>00:36:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-1e4563.mp3" length="35331885" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《1943黄金大争战》 · 完整版 · 1943黄金大争战 · 完整讲读</title>
+      <description>《一九四三黄金大争战》以抗日战争一九四三年为时间节点，讲述山东黄岗山金矿区的争夺故事。八路军、国民党、日军、土匪、矿商五股势力绞杀在一起，围绕金矿展开血与火的博弈。土匪鲁大成双枪退敌最终牺牲于悬崖；八路军指挥郭晓冬在敌后将金砂一袋袋送往延安；女特工韩文洁以假婚礼撬动国民党韩师长率部投诚；矿物学家马珍珍从美国冲破封锁回到新中国。小说把抗战、谍战、矿匪三种类型熔于一炉，写出民族危亡之际真金白银的争夺、生死线上合纵连横的人心博弈，以及爱情、革命与牺牲如何交织在一起。</description>
+      <pubDate>Sat, 29 Aug 2026 13:22:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-0ab538</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一九四三黄金大争战》以抗日战争一九四三年为时间节点，讲述山东黄岗山金矿区的争夺故事。八路军、国民党、日军、土匪、矿商五股势力绞杀在一起，围绕金矿展开血与火的博弈。土匪鲁大成双枪退敌最终牺牲于悬崖；八路军指挥郭晓冬在敌后将金砂一袋袋送往延安；女特工韩文洁以假婚礼撬动国民党韩师长率部投诚；矿物学家马珍珍从美国冲破封锁回到新中国。小说把抗战、谍战、矿匪三种类型熔于一炉，写出民族危亡之际真金白银的争夺、生死线上合纵连横的人心博弈，以及爱情、革命与牺牲如何交织在一起。</itunes:summary>
+      <itunes:duration>00:25:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-0ab538.mp3" length="24136749" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
