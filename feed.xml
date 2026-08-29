@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 18:08:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 18:15:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16431,6 +16431,17 @@
       <itunes:duration>00:24:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-286cdc.mp3" length="23369517" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《摩格街谋杀案》 · 完整版 · K-125摩格街谋杀案 · 完整讲读</title>
+      <description>一百八十多年前，巴黎摩格街四楼反锁的房间里，一对母女惨死，凶手凭空消失。爱伦·坡用这一桩不可能之罪，开启了推理小说的整个传统。本书收录坡最具代表性的五类题材短篇——从密室悬案，到死之美与美之死，到疯狂心智的呓语，再到怪诞幽默的讽刺——串成一条贯穿他一生的暗线：他在理性与癫狂之间游走，用推理剖析人性，用死亡供奉美，用疯癫解剖自己，最终把自己活成了一座由恐惧与美共同筑成的坟。本书同时收录《南塔克特的亚瑟·戈登·皮姆的叙述》这部未竟长篇，与译后记中关于坡精神世界的精辟分析，重读这位生前潦倒、死后封神的天才，是理解现代文学所有黑暗与美的源头。</description>
+      <pubDate>Sat, 29 Aug 2026 18:15:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-778907</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一百八十多年前，巴黎摩格街四楼反锁的房间里，一对母女惨死，凶手凭空消失。爱伦·坡用这一桩不可能之罪，开启了推理小说的整个传统。本书收录坡最具代表性的五类题材短篇——从密室悬案，到死之美与美之死，到疯狂心智的呓语，再到怪诞幽默的讽刺——串成一条贯穿他一生的暗线：他在理性与癫狂之间游走，用推理剖析人性，用死亡供奉美，用疯癫解剖自己，最终把自己活成了一座由恐惧与美共同筑成的坟。本书同时收录《南塔克特的亚瑟·戈登·皮姆的叙述》这部未竟长篇，与译后记中关于坡精神世界的精辟分析，重读这位生前潦倒、死后封神的天才，是理解现代文学所有黑暗与美的源头。</itunes:summary>
+      <itunes:duration>00:29:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-778907.mp3" length="27866925" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
