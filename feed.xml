@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 17:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 17:36:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16365,6 +16365,17 @@
       <itunes:duration>00:29:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-aee3d5.mp3" length="27909165" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《沙地屯》 · 完整版 · K-087沙地屯 · 完整讲读</title>
+      <description>《沙地屯》是简·奥斯汀少女时代一部未完成的长篇遗作。小说讲述了工于心计的苏珊夫人，把十七岁的女儿弗里德丽卡当作攀附权贵的筹码，一心要将其嫁入豪门；而正直的维尔农夫妇则试图营救这个被亲情绑架的姑娘。奥斯汀用她标志性的反讽笔调，把世俗野心、母爱伪装、亲情利用与年轻女性的命运，写得既可笑又可悲，揭示了一个跨越时代的洞察——究竟什么样的爱，才是真正的爱。</description>
+      <pubDate>Sat, 29 Aug 2026 17:36:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-451182</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《沙地屯》是简·奥斯汀少女时代一部未完成的长篇遗作。小说讲述了工于心计的苏珊夫人，把十七岁的女儿弗里德丽卡当作攀附权贵的筹码，一心要将其嫁入豪门；而正直的维尔农夫妇则试图营救这个被亲情绑架的姑娘。奥斯汀用她标志性的反讽笔调，把世俗野心、母爱伪装、亲情利用与年轻女性的命运，写得既可笑又可悲，揭示了一个跨越时代的洞察——究竟什么样的爱，才是真正的爱。</itunes:summary>
+      <itunes:duration>00:36:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-451182.mp3" length="35006637" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
