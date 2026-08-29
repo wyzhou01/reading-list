@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 15:58:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 16:06:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16200,6 +16200,17 @@
       <itunes:duration>00:29:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-660b63.mp3" length="28020909" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《IBM帝国缔造者：小沃森自传》 · 完整版 · IBM帝国缔造者：小沃森自传 · 完整讲读</title>
+      <description>《IBM 帝国缔造者，小沃森自传》是小托马斯・约翰・沃森与商业作家彼得・彼得尔于一九九零年合作完成的经典商业回忆录。本书以小沃森一九五六年五月在父亲老沃森猝逝六周后接掌 IBM 为起点，回溯了他从一个连布朗大学都差点毕不了业的捣蛋鬼富二代，在第二次世界大战的空军队列中蜕变为合格领导者，最终用十五年首席执行官生涯把 IBM 从年收益数千万美元的机械打卡机公司，推上年收益七十五亿美元的全球计算机霸主位置的全过程。书中既写出了老沃森白手起家打造 IBM 帝国与文化机器的四十二年奋斗史，也写出了父子两代在电子时代门槛前激烈争吵、相爱相杀的代际碰撞，更写出了一九七零年五十六岁的小沃森在心脏病发作之后主动放下权力、把公司还给职业经理人体系的艰难抉择。这既是一份两代企业家的权力交接史，也是一对父子跨越数十年的心灵对话，更是二十世纪美国企业从机械时代迈向数字时代的关键时刻的深度亲历记录。</description>
+      <pubDate>Sat, 29 Aug 2026 16:06:36 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-d273e8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《IBM 帝国缔造者，小沃森自传》是小托马斯・约翰・沃森与商业作家彼得・彼得尔于一九九零年合作完成的经典商业回忆录。本书以小沃森一九五六年五月在父亲老沃森猝逝六周后接掌 IBM 为起点，回溯了他从一个连布朗大学都差点毕不了业的捣蛋鬼富二代，在第二次世界大战的空军队列中蜕变为合格领导者，最终用十五年首席执行官生涯把 IBM 从年收益数千万美元的机械打卡机公司，推上年收益七十五亿美元的全球计算机霸主位置的全过程。书中既写出了老沃森白手起家打造 IBM 帝国与文化机器的四十二年奋斗史，也写出了父子两代在电子时代门槛前激烈争吵、相爱相杀的代际碰撞，更写出了一九七零年五十六岁的小沃森在心脏病发作之后主动放下权力、把公司还给职业经理人体系的艰难抉择。这既是一份两代企业家的权力交接史，也是一对父子跨越数十年的心灵对话，更是二十世纪美国企业从机械时代迈向数字时代的关键时刻的深度亲历记录。</itunes:summary>
+      <itunes:duration>00:44:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-d273e8.mp3" length="43104045" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
