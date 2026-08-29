@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 14:53:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 15:00:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16090,6 +16090,17 @@
       <itunes:duration>00:25:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-29b966.mp3" length="24306477" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《反直觉询问》 · 完整版 · AsK.反直觉询问(1) · 完整讲读</title>
+      <description>反直觉询问法则是一套把提问而非推销作为增长入口的市场方法：先用宽而浅的开放性问题把陌生人引进调查漏斗，再分层用「不想要什么」「过去做了什么」这类客户更擅长回答的问题收集真实回答，最后根据回答反向设计产品、文案、定价和后续销售序列。这套方法由格伦·利文斯通博士提出原始版本，由神经科学背景的莱恩·莱韦斯克在二十多个行业里系统化验证，总计撬动了上亿美元的生意。它的核心洞察是——客户不擅长告诉你他们想要什么，但他们非常擅长告诉你他们不满意什么，而后者才是产品设计的真正起点。</description>
+      <pubDate>Sat, 29 Aug 2026 14:59:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-77eca6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>反直觉询问法则是一套把提问而非推销作为增长入口的市场方法：先用宽而浅的开放性问题把陌生人引进调查漏斗，再分层用「不想要什么」「过去做了什么」这类客户更擅长回答的问题收集真实回答，最后根据回答反向设计产品、文案、定价和后续销售序列。这套方法由格伦·利文斯通博士提出原始版本，由神经科学背景的莱恩·莱韦斯克在二十多个行业里系统化验证，总计撬动了上亿美元的生意。它的核心洞察是——客户不擅长告诉你他们想要什么，但他们非常擅长告诉你他们不满意什么，而后者才是产品设计的真正起点。</itunes:summary>
+      <itunes:duration>00:26:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-77eca6.mp3" length="25586349" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
