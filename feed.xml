@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 17:42:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 17:47:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16387,6 +16387,17 @@
       <itunes:duration>00:32:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-0473b8.mp3" length="31013805" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《呼啸山庄》 · 完整版 · K-094呼啸山庄 · 完整讲读</title>
+      <description>《呼啸山庄》是艾米莉·勃朗特在二十七岁时写下的一部惊世之作。一八四七年出版后被冷落了四十多年，如今却被公认为英语文学中最震撼人心的爱情小说。故事以英国约克郡荒原上的两座庄园为舞台，讲述弃儿希思克利夫与庄园小姐凯瑟琳之间那种撕裂灵魂、生死相随的爱与恨。她嫁给了世俗，他用一辈子去复仇，最终两人都被仇恨反噬，在荒原上化作游魂。然而下一代的年轻人——哈雷顿和小凯茜——却用最朴素的方式给出了答案：在冬夜的壁炉边，一个教一个念书。爱与恨，阶级与复仇，扭曲与救赎，全部被艾米莉塞进了这部不到二十万字的小说里，一百多年过去，它依然能让每一个读到它的人心里发烫。</description>
+      <pubDate>Sat, 29 Aug 2026 17:47:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-9ce9e3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《呼啸山庄》是艾米莉·勃朗特在二十七岁时写下的一部惊世之作。一八四七年出版后被冷落了四十多年，如今却被公认为英语文学中最震撼人心的爱情小说。故事以英国约克郡荒原上的两座庄园为舞台，讲述弃儿希思克利夫与庄园小姐凯瑟琳之间那种撕裂灵魂、生死相随的爱与恨。她嫁给了世俗，他用一辈子去复仇，最终两人都被仇恨反噬，在荒原上化作游魂。然而下一代的年轻人——哈雷顿和小凯茜——却用最朴素的方式给出了答案：在冬夜的壁炉边，一个教一个念书。爱与恨，阶级与复仇，扭曲与救赎，全部被艾米莉塞进了这部不到二十万字的小说里，一百多年过去，它依然能让每一个读到它的人心里发烫。</itunes:summary>
+      <itunes:duration>00:29:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-9ce9e3.mp3" length="28562349" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
