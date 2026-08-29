@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 11:52:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 11:58:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15859,6 +15859,17 @@
       <itunes:duration>00:32:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-44c309.mp3" length="31677741" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《亲爱的三毛》 · 完整版 · 08.亲爱的三毛 - 三毛 · 完整讲读</title>
+      <description>《亲爱的三毛》收录了三毛一九八一年底至一九八三年间在台湾明道中学《明道文艺》开设的《三毛信箱》专栏，是一本由读者来信与三毛回信结集而成的公开书信集。本书剥离了撒哈拉的浪漫传奇，围绕六个核心主题展开：自爱与自怜的边界、死亡与孤独的真解、家庭中那份笨拙的爱、独立人格的养成、朋友之义与人际分寸，以及简单生活与精神自由的辩证。三毛以一个经历过丧夫之痛、异国漂泊、半生颠沛的女性身份，对十六七岁、二十出头的少年人说最朴素的心里话。她不灌鸡汤、不讲大道理，只是告诉他们：先学着自爱，而不是自怜；先学着对自己负责，再学着去爱这个世界。这本书跨越四十年，依然是写给今天每一个屏幕前年轻人的信。</description>
+      <pubDate>Sat, 29 Aug 2026 11:58:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-1158da</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《亲爱的三毛》收录了三毛一九八一年底至一九八三年间在台湾明道中学《明道文艺》开设的《三毛信箱》专栏，是一本由读者来信与三毛回信结集而成的公开书信集。本书剥离了撒哈拉的浪漫传奇，围绕六个核心主题展开：自爱与自怜的边界、死亡与孤独的真解、家庭中那份笨拙的爱、独立人格的养成、朋友之义与人际分寸，以及简单生活与精神自由的辩证。三毛以一个经历过丧夫之痛、异国漂泊、半生颠沛的女性身份，对十六七岁、二十出头的少年人说最朴素的心里话。她不灌鸡汤、不讲大道理，只是告诉他们：先学着自爱，而不是自怜；先学着对自己负责，再学着去爱这个世界。这本书跨越四十年，依然是写给今天每一个屏幕前年轻人的信。</itunes:summary>
+      <itunes:duration>00:42:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-1158da.mp3" length="41080365" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
