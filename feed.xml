@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 23:03:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 23:12:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16508,6 +16508,17 @@
       <itunes:duration>00:31:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-2d088e.mp3" length="29931309" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《局外人·西绪福斯神话》 · 完整版 · 作家榜经典：局外人 · 完整讲读</title>
+      <description>《局外人》是加缪二十九岁写下的中篇。主人公默尔索在母亲的葬礼上没有哭，隔天与女友看电影、游泳、发生关系，后来在海滩上因意外枪杀了一个阿拉伯人。法庭没有审判罪行本身，却审判他的灵魂——他不哭、他在母亲下葬次日就和女友调情、他不信仰上帝，因此被定义为「没有人性」的社会公敌，最终被判处死刑。临刑前夜，他拒绝了神父的救赎，喊出：「我第一次向这个世界温柔的冷漠敞开了胸怀，我觉得我曾经是幸福的，我现在依然是幸福的。」这本书用六万字，写出了在一个要求所有人表演真诚的世界里，真实的代价是什么。</description>
+      <pubDate>Thu, 18 Jun 2026 02:14:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-ca025e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《局外人》是加缪二十九岁写下的中篇。主人公默尔索在母亲的葬礼上没有哭，隔天与女友看电影、游泳、发生关系，后来在海滩上因意外枪杀了一个阿拉伯人。法庭没有审判罪行本身，却审判他的灵魂——他不哭、他在母亲下葬次日就和女友调情、他不信仰上帝，因此被定义为「没有人性」的社会公敌，最终被判处死刑。临刑前夜，他拒绝了神父的救赎，喊出：「我第一次向这个世界温柔的冷漠敞开了胸怀，我觉得我曾经是幸福的，我现在依然是幸福的。」这本书用六万字，写出了在一个要求所有人表演真诚的世界里，真实的代价是什么。</itunes:summary>
+      <itunes:duration>00:27:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-ca025e.mp3" length="26821293" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
