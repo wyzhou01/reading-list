@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 17:30:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 17:30:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16354,6 +16354,17 @@
       <itunes:duration>00:29:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-3d5b8e.mp3" length="28098093" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《爱玛》 · 完整版 · K-086爱玛 · 完整讲读</title>
+      <description>《爱玛》是简·奥斯丁一八一五年出版的长篇小说，讲述了十九世纪英国乡绅家庭出身、聪明美丽的姑娘爱玛·伍德豪斯，自恃家世与眼光，热衷替闺中密友哈丽特做媒，却因自视过高、看不穿门第与情感的真相，连连闹出笑话，自己也在碰壁之后才渐渐认清自我。奥斯丁用幽默而克制的笔调，写出了一场关于虚荣、偏见与自我认知的乡间喜剧，既嘲讽了把门第当标尺的世态人情，也温柔地让那个“满身缺点“的女主角，最终在爱人面前学会了低头。这部被不少评论家视为奥斯丁最成熟的作品的小说，至今仍在提醒每一个读者：你以为你看得很准的时刻，往往正是偏见最深的时刻。</description>
+      <pubDate>Sat, 29 Aug 2026 17:30:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-aee3d5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《爱玛》是简·奥斯丁一八一五年出版的长篇小说，讲述了十九世纪英国乡绅家庭出身、聪明美丽的姑娘爱玛·伍德豪斯，自恃家世与眼光，热衷替闺中密友哈丽特做媒，却因自视过高、看不穿门第与情感的真相，连连闹出笑话，自己也在碰壁之后才渐渐认清自我。奥斯丁用幽默而克制的笔调，写出了一场关于虚荣、偏见与自我认知的乡间喜剧，既嘲讽了把门第当标尺的世态人情，也温柔地让那个“满身缺点“的女主角，最终在爱人面前学会了低头。这部被不少评论家视为奥斯丁最成熟的作品的小说，至今仍在提醒每一个读者：你以为你看得很准的时刻，往往正是偏见最深的时刻。</itunes:summary>
+      <itunes:duration>00:29:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-aee3d5.mp3" length="27909165" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
