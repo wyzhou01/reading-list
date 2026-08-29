@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 18:46:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 18:53:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16486,6 +16486,17 @@
       <itunes:duration>00:39:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-d7cb43.mp3" length="37714989" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《历史的温度》 · 完整版 · K-160历史的温度 · 完整讲读</title>
+      <description>《历史的温度》是张玮八年历史随笔的精选集。他用六个核心拼图，把居里夫人、爱因斯坦、麦克阿瑟这些被神化的名字，还原成有血有肉的具体的人。他提醒读者：历史不是冷冰冰的数据，而是无数普通人的人生；我们不能站在今天的道德高地上，去苛责那个时代的人。这本书挑战了读者看历史时常掉进的三个偏见——神像化、道德化、意义化，让我们学会用平视而非仰望、用共情而非审判的方式，去理解那些被时间记住或遗忘的人。</description>
+      <pubDate>Sat, 29 Aug 2026 18:52:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-24f7b3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《历史的温度》是张玮八年历史随笔的精选集。他用六个核心拼图，把居里夫人、爱因斯坦、麦克阿瑟这些被神化的名字，还原成有血有肉的具体的人。他提醒读者：历史不是冷冰冰的数据，而是无数普通人的人生；我们不能站在今天的道德高地上，去苛责那个时代的人。这本书挑战了读者看历史时常掉进的三个偏见——神像化、道德化、意义化，让我们学会用平视而非仰望、用共情而非审判的方式，去理解那些被时间记住或遗忘的人。</itunes:summary>
+      <itunes:duration>00:28:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-24f7b3.mp3" length="27581997" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
