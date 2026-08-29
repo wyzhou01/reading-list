@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 14:28:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 14:36:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16046,6 +16046,17 @@
       <itunes:duration>00:32:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-cb9448.mp3" length="31297197" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《AI·未来》 · 完整版 · AI·未来 · 完整讲读</title>
+      <description>李开复以亲历者视角，回顾中美人工智能的竞争格局与技术演进。他提出中国凭借数据规模、创业者执行力和政府投入，已具备与美国并列的双雄地位。同时警告人工智能将引发大规模失业危机，主张通过再培训、缩短工时与财富再分配等社会契约改革，帮助人类与AI共存。书中融合个人抗癌经历，呼吁读者在效率之外，重新珍视人之所以为人的价值。</description>
+      <pubDate>Sat, 29 Aug 2026 14:35:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-7c5f37</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>李开复以亲历者视角，回顾中美人工智能的竞争格局与技术演进。他提出中国凭借数据规模、创业者执行力和政府投入，已具备与美国并列的双雄地位。同时警告人工智能将引发大规模失业危机，主张通过再培训、缩短工时与财富再分配等社会契约改革，帮助人类与AI共存。书中融合个人抗癌经历，呼吁读者在效率之外，重新珍视人之所以为人的价值。</itunes:summary>
+      <itunes:duration>00:43:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-7c5f37.mp3" length="41639085" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
