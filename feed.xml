@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 13:49:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 13:59:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16002,6 +16002,17 @@
       <itunes:duration>00:33:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-6b1272.mp3" length="32276781" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《20世纪最伟大的心理学实验》 · 完整版 · 20世纪最伟大的心理学实验 · 完整讲读</title>
+      <description>本期节目深度解读劳伦·斯莱特《20世纪最伟大的心理学实验》，从斯金纳箱到米尔格拉姆电击，从罗森汉假病人到哈洛绒布妈妈，串起十个改变人类自我认知的经典实验。节目重点剖析后三个核心洞察：洛夫特斯的虚假记忆实验揭示记忆不是录像带而是可以重新剪辑的草稿；亚历山大的老鼠乐园证明成瘾的本质是孤立而非毒品；哈洛的恒河猴实验则告诉我们爱不是抽象情感而是身体记得的接触。最后提出「M3 偏见」概念：我们高估了可量化的智力，低估了不可量化的爱，并给出两个今天就能用的行动——回家抱一抱家人、睡前回忆一段童年记忆。</description>
+      <pubDate>Sat, 29 Aug 2026 13:59:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-01c403</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期节目深度解读劳伦·斯莱特《20世纪最伟大的心理学实验》，从斯金纳箱到米尔格拉姆电击，从罗森汉假病人到哈洛绒布妈妈，串起十个改变人类自我认知的经典实验。节目重点剖析后三个核心洞察：洛夫特斯的虚假记忆实验揭示记忆不是录像带而是可以重新剪辑的草稿；亚历山大的老鼠乐园证明成瘾的本质是孤立而非毒品；哈洛的恒河猴实验则告诉我们爱不是抽象情感而是身体记得的接触。最后提出「M3 偏见」概念：我们高估了可量化的智力，低估了不可量化的爱，并给出两个今天就能用的行动——回家抱一抱家人、睡前回忆一段童年记忆。</itunes:summary>
+      <itunes:duration>00:31:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-01c403.mp3" length="30427437" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
