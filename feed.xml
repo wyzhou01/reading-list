@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 17:25:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 17:30:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16343,6 +16343,17 @@
       <itunes:duration>00:26:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-6f0471.mp3" length="25159725" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《拼布娃娃》 · 完整版 · 拼布娃娃_-_[英]丹尼尔·科尔 · 完整讲读</title>
+      <description>《拼布娃娃》是英国作家丹尼尔·科尔的处女作。伦敦警探沃尔夫亲手抓捕的纵火杀人犯被陪审团宣判无罪，他在法庭上失控打人。四年后，一具由六个不同种族、性别的人体部位缝合而成的诡异尸体出现，专为猎杀当年参与办案的警探。沃尔夫在警方追捕、自己被陷害的双重夹击下追查真凶。小说借一桩连环命案，尖锐追问复仇与正义的边界、体制溃败如何把人逼成野兽、以及孤独的人在崩塌中能否完成自我救赎，被誉为英式犯罪小说新一轮热潮的代表作，已被翻译为三十多种语言并改编为同名剧集。</description>
+      <pubDate>Sat, 29 Aug 2026 17:30:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-3d5b8e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《拼布娃娃》是英国作家丹尼尔·科尔的处女作。伦敦警探沃尔夫亲手抓捕的纵火杀人犯被陪审团宣判无罪，他在法庭上失控打人。四年后，一具由六个不同种族、性别的人体部位缝合而成的诡异尸体出现，专为猎杀当年参与办案的警探。沃尔夫在警方追捕、自己被陷害的双重夹击下追查真凶。小说借一桩连环命案，尖锐追问复仇与正义的边界、体制溃败如何把人逼成野兽、以及孤独的人在崩塌中能否完成自我救赎，被誉为英式犯罪小说新一轮热潮的代表作，已被翻译为三十多种语言并改编为同名剧集。</itunes:summary>
+      <itunes:duration>00:29:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-3d5b8e.mp3" length="28098093" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
