@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 23:49:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 23:55:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16585,6 +16585,17 @@
       <itunes:duration>00:24:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-884771.mp3" length="23173677" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《What if 那些古怪又让人忧心的问题》 · 完整版 · What if 那些古怪又让人忧心的问题 - （美）兰道尔·门罗【mebook.cc】 · 完整讲读</title>
+      <description>《那些古怪又让人忧心的问题》是前 NASA 工程师、xkcd 漫画作者兰道尔·门罗的科普代表作。他用严谨的数量级估算，一本正经地回答了网友最荒诞的脑洞：地球骤然停转会刮起时速一千七百千米的狂风，零点九倍光速的棒球能把整座球场变成核爆现场，看似温柔的乏燃料池其实深藏着看不见的剂量梯度，而中子星的一茶匙物质足以让一个湖底朝天。门罗的独特之处在于：哪怕问题再荒诞，他都认真查资料、做计算、推演到底。本书的核心启示是：直觉判断常常欺骗我们，而科学思维能提供一种更诚实的尺子——它不会被恐惧放大，也不会被忽视缩小，只会忠实听从数字。</description>
+      <pubDate>Sat, 29 Aug 2026 23:55:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-525223</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《那些古怪又让人忧心的问题》是前 NASA 工程师、xkcd 漫画作者兰道尔·门罗的科普代表作。他用严谨的数量级估算，一本正经地回答了网友最荒诞的脑洞：地球骤然停转会刮起时速一千七百千米的狂风，零点九倍光速的棒球能把整座球场变成核爆现场，看似温柔的乏燃料池其实深藏着看不见的剂量梯度，而中子星的一茶匙物质足以让一个湖底朝天。门罗的独特之处在于：哪怕问题再荒诞，他都认真查资料、做计算、推演到底。本书的核心启示是：直觉判断常常欺骗我们，而科学思维能提供一种更诚实的尺子——它不会被恐惧放大，也不会被忽视缩小，只会忠实听从数字。</itunes:summary>
+      <itunes:duration>00:24:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-525223.mp3" length="23994285" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
