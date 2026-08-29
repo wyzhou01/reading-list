@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 16:20:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 16:25:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16233,6 +16233,17 @@
       <itunes:duration>00:34:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-b4e3d2.mp3" length="33598509" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《如意蛋》 · 完整版 · K-004如意蛋 · 完整讲读</title>
+      <description>《如意蛋》是大风刮过二零零八年起连载于晋江文学城的古风仙侠轻喜剧，二零一二年出简体修订版。神仙碧华灵君机缘巧合下得到一枚&quot;想孵什么就能孵出什么&quot;的如意蛋，却在出壳一刻因脱口一句&quot;不对&quot;令蛋缩回；后蛋中孵出一只看似平平无奇的灵虎源珟。围绕这只小灵虎，碧华灵君、丹絑仙帝、散仙傥荻、银狼葛月、膏药狐油瓶等角色在天庭与凡间嬉笑怒骂，展开一段关于&quot;自由&quot;与&quot;依附&quot;的群像故事。本书用轻快笔调写出神仙的烟火气，借一颗蛋、几只灵兽，探讨了&quot;你以为你在孵化别人，其实你孵的是自己&quot;的核心命题，是网文古风轻喜剧里相当特别的一部。</description>
+      <pubDate>Sat, 29 Aug 2026 16:25:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-8f264b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《如意蛋》是大风刮过二零零八年起连载于晋江文学城的古风仙侠轻喜剧，二零一二年出简体修订版。神仙碧华灵君机缘巧合下得到一枚&quot;想孵什么就能孵出什么&quot;的如意蛋，却在出壳一刻因脱口一句&quot;不对&quot;令蛋缩回；后蛋中孵出一只看似平平无奇的灵虎源珟。围绕这只小灵虎，碧华灵君、丹絑仙帝、散仙傥荻、银狼葛月、膏药狐油瓶等角色在天庭与凡间嬉笑怒骂，展开一段关于&quot;自由&quot;与&quot;依附&quot;的群像故事。本书用轻快笔调写出神仙的烟火气，借一颗蛋、几只灵兽，探讨了&quot;你以为你在孵化别人，其实你孵的是自己&quot;的核心命题，是网文古风轻喜剧里相当特别的一部。</itunes:summary>
+      <itunes:duration>00:27:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-8f264b.mp3" length="26261421" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
