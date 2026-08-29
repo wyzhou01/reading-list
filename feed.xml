@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 16:06:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 16:12:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16211,6 +16211,17 @@
       <itunes:duration>00:44:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-d273e8.mp3" length="43104045" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《I，长江》 · 完整版 · I，长江 (中国故事) · 完整讲读</title>
+      <description>《I，长江》记录了二零一五年I T S长江计划考察队历时两百多天、沿六千三百八十公里长江徒步取水检测的历程。来自媒体、企业、志愿者与志愿者的三股力量，跨越十三座重要城市，把科学方法带到江边。本书用行走、对话与实验，将水质检测这一看似笨拙的工具，转化为连接科学精神、企业社会责任与公众参与的桥梁。书中不仅呈现冰川消融、湿地萎缩、白鱀豚灭绝、中华鲟濒危等长江生态警报，更讲述了张樊一家等沿江普通人的迁徙与守护。在数据与故事交织之间，本书示范了一种低门槛、可复制、可持续的“科学行动主义“路径，邀约每一个普通人成为长江守护链上的“I“分子。</description>
+      <pubDate>Sat, 29 Aug 2026 16:12:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-54c276</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《I，长江》记录了二零一五年I T S长江计划考察队历时两百多天、沿六千三百八十公里长江徒步取水检测的历程。来自媒体、企业、志愿者与志愿者的三股力量，跨越十三座重要城市，把科学方法带到江边。本书用行走、对话与实验，将水质检测这一看似笨拙的工具，转化为连接科学精神、企业社会责任与公众参与的桥梁。书中不仅呈现冰川消融、湿地萎缩、白鱀豚灭绝、中华鲟濒危等长江生态警报，更讲述了张樊一家等沿江普通人的迁徙与守护。在数据与故事交织之间，本书示范了一种低门槛、可复制、可持续的“科学行动主义“路径，邀约每一个普通人成为长江守护链上的“I“分子。</itunes:summary>
+      <itunes:duration>00:30:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-54c276.mp3" length="29004717" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
