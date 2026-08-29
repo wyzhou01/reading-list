@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 16:12:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 16:20:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16222,6 +16222,17 @@
       <itunes:duration>00:30:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-54c276.mp3" length="29004717" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《J.M.库切传》 · 完整版 · J.M.库切传 - [南非]J.C.坎尼米耶 · 完整讲读</title>
+      <description>《J.M.库切传》是南非学者 J.C. 坎尼米耶历时五年完成的一部作家传记，全书按五幕剧结构追溯 J.M. 库切从一九四零年出生到二零零三年获诺贝尔文学奖的整个人生与创作轨迹。坎尼米耶不仅系统重读了库切的所有作品，更于二零零九年亲赴澳大利亚阿德莱德对库切本人进行了为期两周的深入采访，并获授权使用大量私人文档和老照片。这本传记的核心追问是：一个内向到近乎神秘的作家，凭什么能写出《等待野蛮人》和《耻》这样的伟大作品？坎尼米耶给出的答案是：库切把家族创伤、沉默、家庭变故与流散经验，全部碾碎，喂给虚构，再从虚构里长出新的真实。他发明了一种&quot;复调迷宫&quot;式的写作伦理，既是南非种族隔离时期最冷静的文学抵抗，也是对人类如何在真相迷雾中拒绝假装看清一切、又坚持继续前行的最好回答。</description>
+      <pubDate>Sat, 29 Aug 2026 16:20:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-b4e3d2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《J.M.库切传》是南非学者 J.C. 坎尼米耶历时五年完成的一部作家传记，全书按五幕剧结构追溯 J.M. 库切从一九四零年出生到二零零三年获诺贝尔文学奖的整个人生与创作轨迹。坎尼米耶不仅系统重读了库切的所有作品，更于二零零九年亲赴澳大利亚阿德莱德对库切本人进行了为期两周的深入采访，并获授权使用大量私人文档和老照片。这本传记的核心追问是：一个内向到近乎神秘的作家，凭什么能写出《等待野蛮人》和《耻》这样的伟大作品？坎尼米耶给出的答案是：库切把家族创伤、沉默、家庭变故与流散经验，全部碾碎，喂给虚构，再从虚构里长出新的真实。他发明了一种&quot;复调迷宫&quot;式的写作伦理，既是南非种族隔离时期最冷静的文学抵抗，也是对人类如何在真相迷雾中拒绝假装看清一切、又坚持继续前行的最好回答。</itunes:summary>
+      <itunes:duration>00:34:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-b4e3d2.mp3" length="33598509" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
