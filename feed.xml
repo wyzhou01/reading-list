@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 17:04:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 17:11:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16277,6 +16277,17 @@
       <itunes:duration>00:39:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-9eef9c.mp3" length="38154285" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《读书与做人》 · 完整版 · K-072读书与做人 · 完整讲读</title>
+      <description>《读书与做人》是胡适先生一九二五年到一九六零年间重要演讲的结集，时间跨度整整三十五年。书中提出了读书的两个要素——精与博；读书的四个到——眼到、口到、心到、手到；以及为什么读书的三个理由——接受人类遗产、为读书而读书、读书帮助解决困难。胡适先生提倡大胆假设、小心求证的科学精神，提倡为学要如金字塔、能广大也能高的人生理想，并以自己考证《红楼梦》《儒林外史》《水经注》、神会和尚的亲身经历，示范了一个真正的读书人如何用书、如何找书、如何把书读活。最后他用&quot;功不唐捐&quot;四个字总结全书，告诉青年人——天下没有白费的努力。这是一本写给迷茫青年的方法论，也是一个书生用三十五年走出来的路。</description>
+      <pubDate>Sat, 29 Aug 2026 17:11:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-633bb3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《读书与做人》是胡适先生一九二五年到一九六零年间重要演讲的结集，时间跨度整整三十五年。书中提出了读书的两个要素——精与博；读书的四个到——眼到、口到、心到、手到；以及为什么读书的三个理由——接受人类遗产、为读书而读书、读书帮助解决困难。胡适先生提倡大胆假设、小心求证的科学精神，提倡为学要如金字塔、能广大也能高的人生理想，并以自己考证《红楼梦》《儒林外史》《水经注》、神会和尚的亲身经历，示范了一个真正的读书人如何用书、如何找书、如何把书读活。最后他用&quot;功不唐捐&quot;四个字总结全书，告诉青年人——天下没有白费的努力。这是一本写给迷茫青年的方法论，也是一个书生用三十五年走出来的路。</itunes:summary>
+      <itunes:duration>00:34:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-633bb3.mp3" length="33571245" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
