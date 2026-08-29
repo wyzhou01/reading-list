@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 15:52:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 15:58:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16189,6 +16189,17 @@
       <itunes:duration>00:26:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-b33cf6.mp3" length="25721901" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《H档案》 · 完整版 · H档案 · 完整讲读</title>
+      <description>《H档案》是阿尔巴尼亚作家伊斯梅尔·卡达莱写于一九八一年的讽喻小说，故事设定在一九三三年索古一世统治下的阿尔巴尼亚。两个自称民俗学家的爱尔兰人漂洋过海，携带刚发明的录音机，想在北部山区寻找荷马史诗的踪迹，却被极权官僚体系误认为间谍，步步紧盯。他们撞上的不仅是一座隐匿史诗遗存的山国，更撞上了无处不在的监视网。卡达莱以轻快的戏谑笔调，将古典学之谜、极权喜剧、巴尔干民族矛盾三层主题熔于一炉，灵感源自美国学者米尔曼·佩里在南斯拉夫山区研究游吟诗人的真实经历。小说最惊人的一笔是，几乎失明的比尔在归途渡轮上，自己就进入了盲诗人的吟唱状态，暗示着：荷马不是被“录”下来的，而是被“在场”的人重新活过来。读这本书，你将看见门外汉如何撞开学术壁垒，看见口述传统如何在暴力的缝隙中存活，看见极权如何把外来者改写为间谍，也看见卡达莱如何用小说的权力，把古典神话放进现代语境。</description>
+      <pubDate>Sat, 29 Aug 2026 15:58:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-660b63</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《H档案》是阿尔巴尼亚作家伊斯梅尔·卡达莱写于一九八一年的讽喻小说，故事设定在一九三三年索古一世统治下的阿尔巴尼亚。两个自称民俗学家的爱尔兰人漂洋过海，携带刚发明的录音机，想在北部山区寻找荷马史诗的踪迹，却被极权官僚体系误认为间谍，步步紧盯。他们撞上的不仅是一座隐匿史诗遗存的山国，更撞上了无处不在的监视网。卡达莱以轻快的戏谑笔调，将古典学之谜、极权喜剧、巴尔干民族矛盾三层主题熔于一炉，灵感源自美国学者米尔曼·佩里在南斯拉夫山区研究游吟诗人的真实经历。小说最惊人的一笔是，几乎失明的比尔在归途渡轮上，自己就进入了盲诗人的吟唱状态，暗示着：荷马不是被“录”下来的，而是被“在场”的人重新活过来。读这本书，你将看见门外汉如何撞开学术壁垒，看见口述传统如何在暴力的缝隙中存活，看见极权如何把外来者改写为间谍，也看见卡达莱如何用小说的权力，把古典神话放进现代语境。</itunes:summary>
+      <itunes:duration>00:29:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-660b63.mp3" length="28020909" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
