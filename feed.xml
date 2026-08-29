@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 28 Aug 2026 17:53:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 11:35:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15815,6 +15815,17 @@
       <itunes:duration>00:18:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260828/episode-20260828-c625a0.mp3" length="17699757" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《末日爱国者》 · 完整版 · 01.詹姆斯·洛尔斯 - 末日爱国者 · 完整讲读</title>
+      <description>《末日爱国者》是詹姆斯·洛尔斯写于一九九九年的反乌托邦生存小说。主人公托德·格雷是美国中产会计师，提前预判美元崩溃和恶性通胀，携家人与朋友退守爱达荷州农场，在内战与外国入侵中以家庭、社区和持枪权为依托，守住自由并重建宪政秩序。书中对恶性通胀的传导路径、电网与物流的脆弱性、以及持枪作为日常手艺的论述，至今仍是生存主义文学的奠基之作。</description>
+      <pubDate>Sat, 29 Aug 2026 11:35:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-52a613</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《末日爱国者》是詹姆斯·洛尔斯写于一九九九年的反乌托邦生存小说。主人公托德·格雷是美国中产会计师，提前预判美元崩溃和恶性通胀，携家人与朋友退守爱达荷州农场，在内战与外国入侵中以家庭、社区和持枪权为依托，守住自由并重建宪政秩序。书中对恶性通胀的传导路径、电网与物流的脆弱性、以及持枪作为日常手艺的论述，至今仍是生存主义文学的奠基之作。</itunes:summary>
+      <itunes:duration>00:31:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-52a613.mp3" length="30070701" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
