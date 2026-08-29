@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 18:00:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 18:08:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16420,6 +16420,17 @@
       <itunes:duration>00:23:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-e2d170.mp3" length="23008557" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《野性的呼唤》 · 完整版 · K-120野性的呼唤  · 完整讲读</title>
+      <description>《野性的呼唤》是杰克·伦敦一九零三年写的中篇小说。故事讲述一只名叫巴克的圣伯纳德混血犬，从美国加州法官家的温暖别墅，被绑架卖到一九九零年代阿拉斯加淘金热中的北方冰原。它在那里先后经历棍棒、饥饿、雪橇苦役、与领头狗斯皮茨的生死对决，并在主人桑顿死后彻底觉醒，最终走入狼群。小说以“棍棒与犬牙“为核心法则，深刻揭示了弱肉强食的生存真相，也探讨了文明与野性的拉扯、回归与自我觉醒。出版后震动世界，被译成数十种语言，多次改编成电影，是世界文学史上永恒的经典。</description>
+      <pubDate>Sat, 29 Aug 2026 18:08:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-286cdc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《野性的呼唤》是杰克·伦敦一九零三年写的中篇小说。故事讲述一只名叫巴克的圣伯纳德混血犬，从美国加州法官家的温暖别墅，被绑架卖到一九九零年代阿拉斯加淘金热中的北方冰原。它在那里先后经历棍棒、饥饿、雪橇苦役、与领头狗斯皮茨的生死对决，并在主人桑顿死后彻底觉醒，最终走入狼群。小说以“棍棒与犬牙“为核心法则，深刻揭示了弱肉强食的生存真相，也探讨了文明与野性的拉扯、回归与自我觉醒。出版后震动世界，被译成数十种语言，多次改编成电影，是世界文学史上永恒的经典。</itunes:summary>
+      <itunes:duration>00:24:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-286cdc.mp3" length="23369517" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
