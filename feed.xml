@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 23:18:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 23:24:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16530,6 +16530,17 @@
       <itunes:duration>00:28:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-869d90.mp3" length="27097389" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《无尽世界（上）》 · 完整版 · Ken Follett - 无尽世界（上） · 完整讲读</title>
+      <description>《无尽世界》上卷是肯·福莱特为《圣殿春秋》写的官方续作，时代设定在一三二七至一三六一年之间的英格兰。小说以王桥小镇为切片，以建筑匠师梅尔辛与羊毛商之女凯瑞丝的爱情为主线，以哥特式和罗马式大教堂建筑为明线，写出了一群中世纪普通人在王权、教会、黑死病的夹缝中如何觉醒和抗争。梅尔辛参与了佛罗伦萨百花圣母教堂的修建，并为王桥大教堂盖起了全英格兰最高的塔楼；凯瑞丝研发出王桥红羊毛，改良了临床医术，几乎以一己之力推动了中世纪市民阶层的经济与医学革命；八岁的格温达则在黑暗中用小刀割下骑士的钱包，只为喂饱即将饿死的家人。胡允桓先生在序言里说，所谓大地的支柱，其实质指的就是人民群众——这正是这本书最动人的底色。</description>
+      <pubDate>Sat, 29 Aug 2026 23:24:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-2be407</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《无尽世界》上卷是肯·福莱特为《圣殿春秋》写的官方续作，时代设定在一三二七至一三六一年之间的英格兰。小说以王桥小镇为切片，以建筑匠师梅尔辛与羊毛商之女凯瑞丝的爱情为主线，以哥特式和罗马式大教堂建筑为明线，写出了一群中世纪普通人在王权、教会、黑死病的夹缝中如何觉醒和抗争。梅尔辛参与了佛罗伦萨百花圣母教堂的修建，并为王桥大教堂盖起了全英格兰最高的塔楼；凯瑞丝研发出王桥红羊毛，改良了临床医术，几乎以一己之力推动了中世纪市民阶层的经济与医学革命；八岁的格温达则在黑暗中用小刀割下骑士的钱包，只为喂饱即将饿死的家人。胡允桓先生在序言里说，所谓大地的支柱，其实质指的就是人民群众——这正是这本书最动人的底色。</itunes:summary>
+      <itunes:duration>00:36:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-2be407.mp3" length="34864941" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
