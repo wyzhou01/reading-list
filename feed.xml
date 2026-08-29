@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 11:58:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:09:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15870,6 +15870,17 @@
       <itunes:duration>00:42:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-1158da.mp3" length="41080365" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《滚滚红尘》 · 完整版 · 10.滚滚红尘 - 三毛 · 完整讲读</title>
+      <description>《滚滚红尘》是三毛创作的唯一一部中文电影剧本，以一九四四年沦陷时期的上海为起点，写作家沈韶华与文化官员章能才跨越乱世的爱情悲剧。从相识、热恋、醉生梦死，到一九四九年渡江前码头的永别，再到四十年后垂老的能才回到大陆，只寻得韶华留下的最后一本著作《白玉兰》。剧本借韶华、月凤、能才、余老板、小健、白玉兰、春望等多个生命在大时代的迁徙与撕裂，揭示了一个核心真相——身份是原罪，爱情是醉生梦死的解药，但在时代那声巨大的汽笛面前，个人从来都是被碾碎的那个。然而，那些被碾碎的人，也曾在字里、在虚构的命运里、在彼此的心里，活了下来。</description>
+      <pubDate>Sat, 29 Aug 2026 12:09:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-ff8c25</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《滚滚红尘》是三毛创作的唯一一部中文电影剧本，以一九四四年沦陷时期的上海为起点，写作家沈韶华与文化官员章能才跨越乱世的爱情悲剧。从相识、热恋、醉生梦死，到一九四九年渡江前码头的永别，再到四十年后垂老的能才回到大陆，只寻得韶华留下的最后一本著作《白玉兰》。剧本借韶华、月凤、能才、余老板、小健、白玉兰、春望等多个生命在大时代的迁徙与撕裂，揭示了一个核心真相——身份是原罪，爱情是醉生梦死的解药，但在时代那声巨大的汽笛面前，个人从来都是被碾碎的那个。然而，那些被碾碎的人，也曾在字里、在虚构的命运里、在彼此的心里，活了下来。</itunes:summary>
+      <itunes:duration>00:38:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-ff8c25.mp3" length="36725421" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
