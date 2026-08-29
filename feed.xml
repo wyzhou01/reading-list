@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 12:54:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:56:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15947,6 +15947,17 @@
       <itunes:duration>00:45:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-107ffb.mp3" length="43394733" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《全息玫瑰碎片》 · 完整版 · 碎片 · 完整讲读</title>
+      <description>《碎片》是意大利匿名作家埃莱娜·费兰特从一九九一年到二零一六年的信件、采访与对话合集。她在书中反复解释自己为何坚持匿名：文字一旦完成，作者就该退场。这本书是理解费兰特写作伦理的关键文本，涵盖她对作者身份的思考、对母亲身体的剖析、对女性写作艰难的揭示，以及她如何把那不勒斯这座城市写进文学的内部。</description>
+      <pubDate>Thu, 16 Jul 2026 21:31:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-740dbb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《碎片》是意大利匿名作家埃莱娜·费兰特从一九九一年到二零一六年的信件、采访与对话合集。她在书中反复解释自己为何坚持匿名：文字一旦完成，作者就该退场。这本书是理解费兰特写作伦理的关键文本，涵盖她对作者身份的思考、对母亲身体的剖析、对女性写作艰难的揭示，以及她如何把那不勒斯这座城市写进文学的内部。</itunes:summary>
+      <itunes:duration>00:30:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-740dbb.mp3" length="28974381" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
