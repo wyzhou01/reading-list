@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 23:43:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 23:49:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16574,6 +16574,17 @@
       <itunes:duration>00:31:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-3054a9.mp3" length="30272301" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《TED竞争心理学》 · 完整版 · TED竞争心理学 · 完整讲读</title>
+      <description>《TED 竞争心理学》是玛格丽特·赫夫南写给这个时代的一封清醒剂。她用进化生物学、博弈论与真实案例，拆解了我们对竞争的盲目崇拜。她指出，竞争不是越激烈越好，囚徒困境一次次证明个体理性会带来集体非理性。她走访家庭、学校、华尔街与开源社区，最终告诉我们：人类最伟大的成就，几乎都不是竞争逼出来的，而是合作、信任、共享逼出来的。赢不是终点，一起赢才是更大的奖赏。</description>
+      <pubDate>Sat, 29 Aug 2026 23:49:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-884771</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《TED 竞争心理学》是玛格丽特·赫夫南写给这个时代的一封清醒剂。她用进化生物学、博弈论与真实案例，拆解了我们对竞争的盲目崇拜。她指出，竞争不是越激烈越好，囚徒困境一次次证明个体理性会带来集体非理性。她走访家庭、学校、华尔街与开源社区，最终告诉我们：人类最伟大的成就，几乎都不是竞争逼出来的，而是合作、信任、共享逼出来的。赢不是终点，一起赢才是更大的奖赏。</itunes:summary>
+      <itunes:duration>00:24:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-884771.mp3" length="23173677" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
