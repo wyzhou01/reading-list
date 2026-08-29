@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 17:21:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 17:25:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16332,6 +16332,17 @@
       <itunes:duration>00:23:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-b0e60d.mp3" length="22094253" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《四大门》 · 完整版 · 四大门_(历史与社会·经典重刊)_-李慰祖 · 完整讲读</title>
+      <description>《四大门》是燕京大学学生李慰祖一九四一年完成的学士论文, 记录了北平西北郊农村以狐、黃鼠狼、刺猬、长虫四种&apos;神圣动物&apos;为核心的民俗信仰体系。全书采用&apos;局内观察法&apos;, 详述了&apos;俗凡/神圣&apos;的动物分类、&apos;坛仙/家仙&apos;的功能分野、香头的养成与社区功能、四大门的修炼与禁忌, 以及其在治病除祟、纠纷调解、意义赋予等方面的基层治理作用。六十多年后, 周星教授补编出版, 并以《四大门: 中国北方的一种民俗宗教》一文呼应, 指出这套信仰至今仍在以&apos;出马仙&apos;等形式延续, 提醒我们: 任何能在乡土中国扎根数百年的民俗宗教, 都不是&apos;愚昧&apos;二字可以打发, 而是真实社会需求的产物。</description>
+      <pubDate>Sat, 29 Aug 2026 17:25:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-6f0471</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《四大门》是燕京大学学生李慰祖一九四一年完成的学士论文, 记录了北平西北郊农村以狐、黃鼠狼、刺猬、长虫四种&apos;神圣动物&apos;为核心的民俗信仰体系。全书采用&apos;局内观察法&apos;, 详述了&apos;俗凡/神圣&apos;的动物分类、&apos;坛仙/家仙&apos;的功能分野、香头的养成与社区功能、四大门的修炼与禁忌, 以及其在治病除祟、纠纷调解、意义赋予等方面的基层治理作用。六十多年后, 周星教授补编出版, 并以《四大门: 中国北方的一种民俗宗教》一文呼应, 指出这套信仰至今仍在以&apos;出马仙&apos;等形式延续, 提醒我们: 任何能在乡土中国扎根数百年的民俗宗教, 都不是&apos;愚昧&apos;二字可以打发, 而是真实社会需求的产物。</itunes:summary>
+      <itunes:duration>00:26:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-6f0471.mp3" length="25159725" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
