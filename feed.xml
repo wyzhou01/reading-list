@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 17:13:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 17:18:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16299,6 +16299,17 @@
       <itunes:duration>00:26:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-43a111.mp3" length="25723053" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《理智与情感》 · 完整版 · K-080理智与情感 · 完整讲读</title>
+      <description>《理智与情感》是英国女作家简·奥斯丁的处女作，写于一七九五年，出版于一八一一年。小说以两姐妹的婚事为主线：姐姐埃丽诺克制隐忍，妹妹玛丽安浪漫冲动，两人在爱情里栽了跟头，最终各自学会了对方身上的那一半。通过两组对照，作者提出了一个至今仍不过时的问题——感情与理智，到底该如何相处？辅以詹宁斯太太的真诚、爱德华的厚道、简·奥斯丁本人的克制，本书为读者摆出六块拼图，量的是同一把尺——人心。</description>
+      <pubDate>Sat, 29 Aug 2026 17:18:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-cfd9ba</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《理智与情感》是英国女作家简·奥斯丁的处女作，写于一七九五年，出版于一八一一年。小说以两姐妹的婚事为主线：姐姐埃丽诺克制隐忍，妹妹玛丽安浪漫冲动，两人在爱情里栽了跟头，最终各自学会了对方身上的那一半。通过两组对照，作者提出了一个至今仍不过时的问题——感情与理智，到底该如何相处？辅以詹宁斯太太的真诚、爱德华的厚道、简·奥斯丁本人的克制，本书为读者摆出六块拼图，量的是同一把尺——人心。</itunes:summary>
+      <itunes:duration>00:31:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-cfd9ba.mp3" length="30265389" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
