@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 12:45:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:54:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -15936,6 +15936,17 @@
       <itunes:duration>00:36:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-1e7e3f.mp3" length="34666413" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《1514：发现大明》 · 完整版 · 1514：发现大明 · 完整讲读</title>
+      <description>《一五一四：发现大明》以葡萄牙人首次抵达广州屯门这一年为切口，把明朝正德朝放进同期大航海时代的坐标系里。作者鲁东观察使指出：当明朝君臣沉醉于朝贡体系时，一股来自海洋的力量悄然改写了世界规则，西风开始压倒东风。全书围绕三条主线展开：一是葡萄牙从被边缘的小国到海上霸主的崛起之路；二是明朝在制度僵化、宦官乱政、英雄困局下的内在衰败；三是王阳明平叛、宁王之乱、皮雷斯使华等一五一四年前后的关键事件。作者以全球史的视野告诉我们：地理只是舞台，文明的选择才是关键；明朝并非被葡萄牙打败，而是被自己一千年前的设计困死。这是一本让我们重新理解开放与封闭、海洋与陆地、变与不变的书，也是一本提醒我们：当门铃再次响起，我们能否先于对手听见风的方向的书。</description>
+      <pubDate>Sat, 29 Aug 2026 12:54:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-107ffb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一五一四：发现大明》以葡萄牙人首次抵达广州屯门这一年为切口，把明朝正德朝放进同期大航海时代的坐标系里。作者鲁东观察使指出：当明朝君臣沉醉于朝贡体系时，一股来自海洋的力量悄然改写了世界规则，西风开始压倒东风。全书围绕三条主线展开：一是葡萄牙从被边缘的小国到海上霸主的崛起之路；二是明朝在制度僵化、宦官乱政、英雄困局下的内在衰败；三是王阳明平叛、宁王之乱、皮雷斯使华等一五一四年前后的关键事件。作者以全球史的视野告诉我们：地理只是舞台，文明的选择才是关键；明朝并非被葡萄牙打败，而是被自己一千年前的设计困死。这是一本让我们重新理解开放与封闭、海洋与陆地、变与不变的书，也是一本提醒我们：当门铃再次响起，我们能否先于对手听见风的方向的书。</itunes:summary>
+      <itunes:duration>00:45:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-107ffb.mp3" length="43394733" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
