@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 15:19:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 15:27:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16134,6 +16134,17 @@
       <itunes:duration>00:31:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-eb0824.mp3" length="29938221" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《C形包围：内忧外患下的中国突围》 · 完整版 · C形包围：内忧外患下的中国突围 · 完整讲读</title>
+      <description>《C 形包围：内忧外患下的中国突围》是戴旭 2009 年出版的地缘政治战略著作。戴旭以美军全球帝国战略为总框架，系统揭示了从日本列岛到台海、从南海到印度洋、从藏南到中亚的 C 形战略包围圈，并剖析了金融危机的战略本质、中国内部的盛世迷思、军事现代化的真实进度，最后从精神、产业、战略三个维度开出突围药方。本书是当代中国民间最早系统提出 C 形包围概念的著作，提供了一种从地缘政治大视野理解大国真实威胁的思维方式。</description>
+      <pubDate>Sat, 29 Aug 2026 15:27:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-58093e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《C 形包围：内忧外患下的中国突围》是戴旭 2009 年出版的地缘政治战略著作。戴旭以美军全球帝国战略为总框架，系统揭示了从日本列岛到台海、从南海到印度洋、从藏南到中亚的 C 形战略包围圈，并剖析了金融危机的战略本质、中国内部的盛世迷思、军事现代化的真实进度，最后从精神、产业、战略三个维度开出突围药方。本书是当代中国民间最早系统提出 C 形包围概念的著作，提供了一种从地缘政治大视野理解大国真实威胁的思维方式。</itunes:summary>
+      <itunes:duration>00:32:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-58093e.mp3" length="30768045" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
