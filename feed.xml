@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 23:24:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 23:32:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16541,6 +16541,17 @@
       <itunes:duration>00:36:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-2be407.mp3" length="34864941" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《P.E.T.父母效能训练》 · 完整版 · P.E.T.父母效能训练 · 完整讲读</title>
+      <description>本期《好好读书》精读托马斯·戈登博士的经典著作《P.E.T.父母效能训练》。这本书自一九七零年出版以来，被翻译成三十三种语言，全球五百万父母参训，三次获诺贝尔和平奖提名。戈登博士的核心主张是：父母不应依赖权威，而应通过有效沟通建立相互尊重的亲子关系。他提出了三套核心工具——当孩子有困扰时用积极倾听接住他的情绪；当父母被困扰时用&apos;我-信息&apos;坦诚表达；当冲突发生时用&apos;没有输家&apos;的第三法共同找出双方都能接受的方案。书中还贯穿了&apos;问题归属&apos;的关键概念：当下那一刻，谁的需求没被满足，问题就在谁身上，就用谁的方法。这本书不只教你技巧，更是一套关于关系本身的哲学——它关注的是如何让孩子成长为自律、负责任、有同理心的人，并将非暴力的良性循环延续至下一代。</description>
+      <pubDate>Sat, 29 Aug 2026 23:32:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-f213b0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期《好好读书》精读托马斯·戈登博士的经典著作《P.E.T.父母效能训练》。这本书自一九七零年出版以来，被翻译成三十三种语言，全球五百万父母参训，三次获诺贝尔和平奖提名。戈登博士的核心主张是：父母不应依赖权威，而应通过有效沟通建立相互尊重的亲子关系。他提出了三套核心工具——当孩子有困扰时用积极倾听接住他的情绪；当父母被困扰时用&apos;我-信息&apos;坦诚表达；当冲突发生时用&apos;没有输家&apos;的第三法共同找出双方都能接受的方案。书中还贯穿了&apos;问题归属&apos;的关键概念：当下那一刻，谁的需求没被满足，问题就在谁身上，就用谁的方法。这本书不只教你技巧，更是一套关于关系本身的哲学——它关注的是如何让孩子成长为自律、负责任、有同理心的人，并将非暴力的良性循环延续至下一代。</itunes:summary>
+      <itunes:duration>00:28:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-f213b0.mp3" length="27507885" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
