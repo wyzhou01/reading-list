@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 15:32:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 15:41:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16156,6 +16156,17 @@
       <itunes:duration>00:25:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-9f40cd.mp3" length="24160557" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《遗落的南境Ⅱ：当权者》 · 完整版 · D-005遗落的南境Ⅱ：当权者 · 完整讲读</title>
+      <description>《遗落的南境Ⅱ：当权者》是杰夫·范德米尔横扫雨果奖的&quot;遗落的南境&quot;三部曲承上启下之作。新任&quot;总管&quot;空降南境局，接手被神秘边界封锁多年的 X 区域与第十二期勘探队三名失忆归来的生还者。在副局长格蕾丝的敌意、生物学家&quot;幽灵鸟&quot;的反向催眠、边界失控扩张的三重压力下，他必须在档案、机构与潜意识的迷雾中，揭开那个被称为&quot;当权者&quot;的神秘力量真相。本书延续了新怪谭风格，直指记忆与身份的边界、权力与控制的本质，是 AI 时代叩问&quot;何为真实、何为自我&quot;的锋利寓言。</description>
+      <pubDate>Sat, 29 Aug 2026 15:41:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-a24439</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《遗落的南境Ⅱ：当权者》是杰夫·范德米尔横扫雨果奖的&quot;遗落的南境&quot;三部曲承上启下之作。新任&quot;总管&quot;空降南境局，接手被神秘边界封锁多年的 X 区域与第十二期勘探队三名失忆归来的生还者。在副局长格蕾丝的敌意、生物学家&quot;幽灵鸟&quot;的反向催眠、边界失控扩张的三重压力下，他必须在档案、机构与潜意识的迷雾中，揭开那个被称为&quot;当权者&quot;的神秘力量真相。本书延续了新怪谭风格，直指记忆与身份的边界、权力与控制的本质，是 AI 时代叩问&quot;何为真实、何为自我&quot;的锋利寓言。</itunes:summary>
+      <itunes:duration>00:31:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-a24439.mp3" length="30060333" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
