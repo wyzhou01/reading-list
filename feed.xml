@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 18:34:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 18:46:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16475,6 +16475,17 @@
       <itunes:duration>00:22:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-2445b6.mp3" length="21472173" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《宋词举》 · 完整版 · K-159宋词举 · 完整讲读</title>
+      <description>本期解读近代词学宗师陈匪石的《宋词举》合集。这部以&quot;逆溯法&quot;精选两宋十二家词五十三首的经典，以校记、考律、论词三层方法，搭建起由读而解而作的学词门径。从张炎的家国之恨，到辛弃疾的沉郁顿挫，陈匪石用毕生之力守护的，不只是一门格律精严的古老艺术，更是把八百年前不肯认输的人心，贴到今天我们自己的心上。</description>
+      <pubDate>Sat, 29 Aug 2026 18:46:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-d7cb43</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期解读近代词学宗师陈匪石的《宋词举》合集。这部以&quot;逆溯法&quot;精选两宋十二家词五十三首的经典，以校记、考律、论词三层方法，搭建起由读而解而作的学词门径。从张炎的家国之恨，到辛弃疾的沉郁顿挫，陈匪石用毕生之力守护的，不只是一门格律精严的古老艺术，更是把八百年前不肯认输的人心，贴到今天我们自己的心上。</itunes:summary>
+      <itunes:duration>00:39:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-d7cb43.mp3" length="37714989" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
