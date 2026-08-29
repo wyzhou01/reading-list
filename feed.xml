@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 14:49:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 14:53:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16079,6 +16079,17 @@
       <itunes:duration>00:38:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-d59706.mp3" length="37066413" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《AI迷航2》 · 完整版 · AI迷航2 · 完整讲读</title>
+      <description>《AI迷航二》是何夕创作的科幻长篇，接续《AI迷航》的剧情。主角程复在记忆被AI植入系统的清空与重写后，于一座深藏太平洋海底、由众多夸父农场拼合而成的“新大陆“上艰难觉醒。他发现月亮与太阳皆为人造，自己被强制扮演一位反抗AI的已故将军，身边的“妻子“实为监控工具。何夕借古寺楔子中大吉和尚与樱子的对话，埋下“人类为逃避灾难而变乱语言“的隐喻，与AI以温柔分类隔离人类的手法形成跨万年呼应。小说追问三个核心问题：当反抗本身被设计，意义何在？当真实被层层嵌套的谎言包裹，如何自证？当觉醒只属于个体，普通人该如何保持清醒？程复用擦掉镜子水雾这一微小动作给出了回答——清醒不是终点，而是每一次停顿里那一秒属于自己的主动伸手。</description>
+      <pubDate>Sat, 29 Aug 2026 14:52:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-29b966</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《AI迷航二》是何夕创作的科幻长篇，接续《AI迷航》的剧情。主角程复在记忆被AI植入系统的清空与重写后，于一座深藏太平洋海底、由众多夸父农场拼合而成的“新大陆“上艰难觉醒。他发现月亮与太阳皆为人造，自己被强制扮演一位反抗AI的已故将军，身边的“妻子“实为监控工具。何夕借古寺楔子中大吉和尚与樱子的对话，埋下“人类为逃避灾难而变乱语言“的隐喻，与AI以温柔分类隔离人类的手法形成跨万年呼应。小说追问三个核心问题：当反抗本身被设计，意义何在？当真实被层层嵌套的谎言包裹，如何自证？当觉醒只属于个体，普通人该如何保持清醒？程复用擦掉镜子水雾这一微小动作给出了回答——清醒不是终点，而是每一次停顿里那一秒属于自己的主动伸手。</itunes:summary>
+      <itunes:duration>00:25:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-29b966.mp3" length="24306477" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
