@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 15:45:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 15:52:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16178,6 +16178,17 @@
       <itunes:duration>00:23:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-4d09e6.mp3" length="22265517" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《HR转型突破——跳出专业深井成为业务伙伴》 · 完整版 · HR转型突破(1) · 完整讲读</title>
+      <description>《H R 转型突破》直指人力资源部门越专业反而越被嫌弃的尴尬现实。作者康至军认为，问题根源不在工具与架构，而在 H R 的思维方式本身。本书给出四个杠杆解：回归正确角色有所不为、从客户需求出发、从成果出发、从假设出发。核心主张是——H R 必须跳出专业的深井，从业务的真正需求与最终成果倒推自己的工作，而不是从专业活动出发自我感动。这是一本写给所有被困在专业深井里的人的书。</description>
+      <pubDate>Sat, 29 Aug 2026 15:52:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-b33cf6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《H R 转型突破》直指人力资源部门越专业反而越被嫌弃的尴尬现实。作者康至军认为，问题根源不在工具与架构，而在 H R 的思维方式本身。本书给出四个杠杆解：回归正确角色有所不为、从客户需求出发、从成果出发、从假设出发。核心主张是——H R 必须跳出专业的深井，从业务的真正需求与最终成果倒推自己的工作，而不是从专业活动出发自我感动。这是一本写给所有被困在专业深井里的人的书。</itunes:summary>
+      <itunes:duration>00:26:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-b33cf6.mp3" length="25721901" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
