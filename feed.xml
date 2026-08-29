@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 18:53:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 23:03:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16497,6 +16497,17 @@
       <itunes:duration>00:28:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-24f7b3.mp3" length="27581997" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《德意志人》 · 完整版 · K-172德意志人 · 完整讲读</title>
+      <description>本书为德国思想家瓦尔特·本雅明一九三一至一九三二年在《法兰克福报》上匿名连载的二十五封十八至十九世纪德意志人书信评介。本雅明在纳粹阴影下精选这些家书,旨在为一个正在堕落的民族抢救&apos;显而无名、卓而无华、尊而无彰&apos;的人道传统底片。从策尔特致穆勒的哀悼信到奥韦尔贝克致尼采的复活节信,二十五封信呈现了一个世纪德意志资产阶级的精神肖像。</description>
+      <pubDate>Sat, 29 Aug 2026 23:03:36 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-2d088e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书为德国思想家瓦尔特·本雅明一九三一至一九三二年在《法兰克福报》上匿名连载的二十五封十八至十九世纪德意志人书信评介。本雅明在纳粹阴影下精选这些家书,旨在为一个正在堕落的民族抢救&apos;显而无名、卓而无华、尊而无彰&apos;的人道传统底片。从策尔特致穆勒的哀悼信到奥韦尔贝克致尼采的复活节信,二十五封信呈现了一个世纪德意志资产阶级的精神肖像。</itunes:summary>
+      <itunes:duration>00:31:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-2d088e.mp3" length="29931309" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
