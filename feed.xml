@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 15:00:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 15:06:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16101,6 +16101,17 @@
       <itunes:duration>00:26:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-77eca6.mp3" length="25586349" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《BAT的战争与和平》 · 完整版 · BAT的战争与和平 (中国故事)  · 完整讲读</title>
+      <description>本书汇集《南方周末》十年来关于 B A T 的深度调查报道，覆盖阿里巴巴从港股上市到金融扩张、大数据战略、微博入股，百度击败谷歌后的竞价排名危机、O2 O 转型与莆田系事件，腾讯从“全民公敌”到开放平台、微信崛起与联手京东决战阿里的全过程。它用记者的笔触，记录了中国互联网三巨头在监管空白、开放试错、数据觉醒中的崛起、扩张、妥协与代价，是中国数字经济野蛮生长年代的一份影像志。</description>
+      <pubDate>Sat, 29 Aug 2026 15:06:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-3fc34b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书汇集《南方周末》十年来关于 B A T 的深度调查报道，覆盖阿里巴巴从港股上市到金融扩张、大数据战略、微博入股，百度击败谷歌后的竞价排名危机、O2 O 转型与莆田系事件，腾讯从“全民公敌”到开放平台、微信崛起与联手京东决战阿里的全过程。它用记者的笔触，记录了中国互联网三巨头在监管空白、开放试错、数据觉醒中的崛起、扩张、妥协与代价，是中国数字经济野蛮生长年代的一份影像志。</itunes:summary>
+      <itunes:duration>00:30:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-3fc34b.mp3" length="29527725" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
