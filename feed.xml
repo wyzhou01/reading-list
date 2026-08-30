@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 02:05:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 02:10:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16838,6 +16838,17 @@
       <itunes:duration>00:32:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-723b47.mp3" length="31533741" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《疯狂植物园》 · 完整版 · 《猎物者》系列（共5本） - 白饭如霜 · 完整讲读</title>
+      <description>《疯狂植物园》是白饭如霜《猎物者》系列的第一卷，写一个退隐江湖的五星猎人山狗，在撒哈拉之眼改造的绿洲里过着种菜卖黄瓜的日子，却被两棵会结笔记本电脑的桃树、三只想看世界的嗜糖蚯蚓、以及一株只能在烈火后短暂开放的伦敦烟火，重新拖回了人与非人两界的冲突中心。他一边要应对老东家猎人联盟内部的灰色博弈，一边要护住一个刚刚发现自己长出翅膀、吐绿血、拥有&quot;天谴之槌&quot;的普通少年霍东野。整本书用冷幽默的笔法，讲了一个温柔的道理：真正想留下的东西，从来不是占为己有，而是目送它好好活过这一年又一年。</description>
+      <pubDate>Sun, 30 Aug 2026 02:10:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-8fdb38</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《疯狂植物园》是白饭如霜《猎物者》系列的第一卷，写一个退隐江湖的五星猎人山狗，在撒哈拉之眼改造的绿洲里过着种菜卖黄瓜的日子，却被两棵会结笔记本电脑的桃树、三只想看世界的嗜糖蚯蚓、以及一株只能在烈火后短暂开放的伦敦烟火，重新拖回了人与非人两界的冲突中心。他一边要应对老东家猎人联盟内部的灰色博弈，一边要护住一个刚刚发现自己长出翅膀、吐绿血、拥有&quot;天谴之槌&quot;的普通少年霍东野。整本书用冷幽默的笔法，讲了一个温柔的道理：真正想留下的东西，从来不是占为己有，而是目送它好好活过这一年又一年。</itunes:summary>
+      <itunes:duration>00:26:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-8fdb38.mp3" length="25860909" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
