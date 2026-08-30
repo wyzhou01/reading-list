@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 01:26:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 01:30:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16761,6 +16761,17 @@
       <itunes:duration>00:43:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-021606.mp3" length="41675181" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《《十善业道经》讲记》 · 完整版 · 《十善业道经》讲记 · 完整讲读</title>
+      <description>《十善业道经》讲记是当代净土宗大德净空法师对这部根基经典的完整阐释。全书以雍正皇帝上谕开篇，反复强调十善业道是一切人天、声闻、缘觉、菩萨乃至无上佛法的根本大地，五戒十善与儒家五常百行理同出一源；贪嗔痴是苦的总根源，断贪嗔痴是修十善的总纲领。讲记把戒与善、五戒与十善、引业与满业的差别讲得透彻，落点到每一个人的起心动念、言语造作，是学佛的根、做人的底。</description>
+      <pubDate>Sun, 30 Aug 2026 01:30:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-e4e449</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《十善业道经》讲记是当代净土宗大德净空法师对这部根基经典的完整阐释。全书以雍正皇帝上谕开篇，反复强调十善业道是一切人天、声闻、缘觉、菩萨乃至无上佛法的根本大地，五戒十善与儒家五常百行理同出一源；贪嗔痴是苦的总根源，断贪嗔痴是修十善的总纲领。讲记把戒与善、五戒与十善、引业与满业的差别讲得透彻，落点到每一个人的起心动念、言语造作，是学佛的根、做人的底。</itunes:summary>
+      <itunes:duration>00:16:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-e4e449.mp3" length="16123053" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
