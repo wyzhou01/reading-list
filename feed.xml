@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 02:41:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 02:49:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16893,6 +16893,17 @@
       <itunes:duration>00:30:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-3e41f7.mp3" length="28992045" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《龙床：明六帝纪（修订版）》 · 完整版 · 《龙床：明六帝纪（修订版）》李洁非【雨浪】（豆瓣8.0） · 完整讲读</title>
+      <description>《龙床：明六帝纪》是李洁非写的明代非虚构历史，作者以龙床为切口，把朱元璋、朱棣、朱厚照、朱厚熜、朱由校、朱由检六位皇帝从&quot;圣君&quot;或&quot;昏君&quot;的神坛上拽下来，还原为六个被皇权反噬的具体生命。全书核心洞见是：帝王的悲剧从不是个人作孽，而是结构性病灶的必然——朱元璋被自己打造的皇权反噬，朱棣被篡位合法性焦虑困死，正德被文官集团逼成小丑，嘉靖以&quot;不上朝&quot;决裂朝廷，天启用木工活逃避傀儡命运，崇祯勤政十七年终无力回天。本书豆瓣评分八点零，是明史爱好者中口碑稳健的非虚构佳作，适合所有关心权力、人性与制度关系的读者。</description>
+      <pubDate>Sun, 30 Aug 2026 02:48:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-3c1084</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《龙床：明六帝纪》是李洁非写的明代非虚构历史，作者以龙床为切口，把朱元璋、朱棣、朱厚照、朱厚熜、朱由校、朱由检六位皇帝从&quot;圣君&quot;或&quot;昏君&quot;的神坛上拽下来，还原为六个被皇权反噬的具体生命。全书核心洞见是：帝王的悲剧从不是个人作孽，而是结构性病灶的必然——朱元璋被自己打造的皇权反噬，朱棣被篡位合法性焦虑困死，正德被文官集团逼成小丑，嘉靖以&quot;不上朝&quot;决裂朝廷，天启用木工活逃避傀儡命运，崇祯勤政十七年终无力回天。本书豆瓣评分八点零，是明史爱好者中口碑稳健的非虚构佳作，适合所有关心权力、人性与制度关系的读者。</itunes:summary>
+      <itunes:duration>00:33:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-3c1084.mp3" length="32485677" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
