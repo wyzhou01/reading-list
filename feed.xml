@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 00:58:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 01:04:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16717,6 +16717,17 @@
       <itunes:duration>00:24:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-9090e5.mp3" length="23412909" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《幽默书房：三怪客泛舟记》 · 完整版 · “幽默书房”丛书共5本 · 完整讲读</title>
+      <description>《三怪客泛舟记》是英国作家杰罗姆在三十岁时写下的幽默小说代表作。三个百无聊赖的伦敦中产阶级男人，带着一条小狗，雇了一只小船，沿泰晤士河漫游一周。出发前，他们在脑海里把这场旅行想象成月光、鸟鸣与诗意；出发后，他们遭遇了行李、雨水、迷路和各种洋相，最后狼狈地逃回伦敦。杰罗姆用一种漫不经心的闲聊笔法，表面上写一场失败的旅行，内里却冷峻地揭示了维多利亚时代中产阶级的空虚、虚荣与自欺。他的幽默兼有狄更斯的社会观察和马克·吐温的荒诞喜感，一百多年来始终受到全球读者的喜爱。这本书写的是荒唐，也是你我。</description>
+      <pubDate>Sun, 30 Aug 2026 01:04:36 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-3e1cc6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《三怪客泛舟记》是英国作家杰罗姆在三十岁时写下的幽默小说代表作。三个百无聊赖的伦敦中产阶级男人，带着一条小狗，雇了一只小船，沿泰晤士河漫游一周。出发前，他们在脑海里把这场旅行想象成月光、鸟鸣与诗意；出发后，他们遭遇了行李、雨水、迷路和各种洋相，最后狼狈地逃回伦敦。杰罗姆用一种漫不经心的闲聊笔法，表面上写一场失败的旅行，内里却冷峻地揭示了维多利亚时代中产阶级的空虚、虚荣与自欺。他的幽默兼有狄更斯的社会观察和马克·吐温的荒诞喜感，一百多年来始终受到全球读者的喜爱。这本书写的是荒唐，也是你我。</itunes:summary>
+      <itunes:duration>00:28:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-3e1cc6.mp3" length="27464493" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
