@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 02:49:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 02:55:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16904,6 +16904,17 @@
       <itunes:duration>00:33:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-3c1084.mp3" length="32485677" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《镜花缘》 · 完整版 · 【精排】镜花缘注释图文典藏版 · 完整讲读</title>
+      <description>《镜花缘》是清代李汝珍写于十八、十九世纪之交的长篇神魔小说。前半部借唐敖、林之洋游历海外几十个奇国，以君子国讽商业欺诈、以女儿国反男尊女卑、以两面国刺伪君子，是清代最锋利的社会讽刺；后半部则转入百位才女游艺宴饮、谈诗论艺，沦为学术汇流。全书以百花仙子被谪下凡的因果框架，寄托作者对科举僵化、礼教束缚、女性受压的批判，也暴露他作为失意儒生无法挣脱的局限——他写得出乌托邦，却写不出真正的解放方案。一部被低估的奇书，一面照见中国读书人精神困境的镜子。</description>
+      <pubDate>Sun, 30 Aug 2026 02:55:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-61ab4e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《镜花缘》是清代李汝珍写于十八、十九世纪之交的长篇神魔小说。前半部借唐敖、林之洋游历海外几十个奇国，以君子国讽商业欺诈、以女儿国反男尊女卑、以两面国刺伪君子，是清代最锋利的社会讽刺；后半部则转入百位才女游艺宴饮、谈诗论艺，沦为学术汇流。全书以百花仙子被谪下凡的因果框架，寄托作者对科举僵化、礼教束缚、女性受压的批判，也暴露他作为失意儒生无法挣脱的局限——他写得出乌托邦，却写不出真正的解放方案。一部被低估的奇书，一面照见中国读书人精神困境的镜子。</itunes:summary>
+      <itunes:duration>00:22:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-61ab4e.mp3" length="21888045" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
