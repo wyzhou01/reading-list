@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 17:46:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 17:52:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17022,6 +17022,17 @@
       <itunes:duration>00:34:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-eef9f2.mp3" length="32758317" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《禅心直指》 · 完整版 · 禅心直指 · 完整讲读</title>
+      <description>《禅心直指》是一部回归《坛经》本怀的当代修行手册。台湾企业人澄海以实证见性的亲身经验，系统阐释六祖惠能从楞伽禅到般若禅的革命性转向，拆解三身四智与转识成智的识智同体义理，并以安祥禅承接这一法脉，详述正受正见、心安则祥的实修路径。书末五篇与登月宇航员米契尔博士的对话，将禅与量子非定域性、意识不灭研究相印证，揭示大圆觉海与心物不二。全文对当代禅界公案迷信、权威崇拜与学究化倾向提出尖锐批判，主张禅宗的精神复兴必须回到「菩提自性，本来清净」的实证本怀。</description>
+      <pubDate>Sun, 30 Aug 2026 17:52:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-855960</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《禅心直指》是一部回归《坛经》本怀的当代修行手册。台湾企业人澄海以实证见性的亲身经验，系统阐释六祖惠能从楞伽禅到般若禅的革命性转向，拆解三身四智与转识成智的识智同体义理，并以安祥禅承接这一法脉，详述正受正见、心安则祥的实修路径。书末五篇与登月宇航员米契尔博士的对话，将禅与量子非定域性、意识不灭研究相印证，揭示大圆觉海与心物不二。全文对当代禅界公案迷信、权威崇拜与学究化倾向提出尖锐批判，主张禅宗的精神复兴必须回到「菩提自性，本来清净」的实证本怀。</itunes:summary>
+      <itunes:duration>00:26:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-855960.mp3" length="25561389" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
