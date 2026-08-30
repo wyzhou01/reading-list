@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 29 Aug 2026 23:55:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 00:03:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16596,6 +16596,17 @@
       <itunes:duration>00:24:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-525223.mp3" length="23994285" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《Z的悲剧》 · 完整版 · Z的悲剧 · 完整讲读</title>
+      <description>《Z的悲剧》是埃勒里·奎因一九四四年推出的哲瑞·雷恩探案系列的第三部。一名两次被判谋杀、两次因证据不足被释放的流浪汉阿龙·道，被卷入州参议员福塞特的勒索案，最终在阿冈昆监狱被典狱长马格纳斯推向电椅。七十岁、双耳失聪的退休老演员哲瑞·雷恩以莎士比亚式的戏剧演出拆穿真相，却仍无法挽回阿龙·道的生命。这部古典本格推理的巅峰之作，借一桩谋杀案对美国地方政治、司法腐败与监狱体制进行无情批判，深刻揭示了程序正义与实质正义之间的永恒鸿沟。</description>
+      <pubDate>Sun, 30 Aug 2026 00:03:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-79d80c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《Z的悲剧》是埃勒里·奎因一九四四年推出的哲瑞·雷恩探案系列的第三部。一名两次被判谋杀、两次因证据不足被释放的流浪汉阿龙·道，被卷入州参议员福塞特的勒索案，最终在阿冈昆监狱被典狱长马格纳斯推向电椅。七十岁、双耳失聪的退休老演员哲瑞·雷恩以莎士比亚式的戏剧演出拆穿真相，却仍无法挽回阿龙·道的生命。这部古典本格推理的巅峰之作，借一桩谋杀案对美国地方政治、司法腐败与监狱体制进行无情批判，深刻揭示了程序正义与实质正义之间的永恒鸿沟。</itunes:summary>
+      <itunes:duration>00:32:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-79d80c.mp3" length="31513389" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
