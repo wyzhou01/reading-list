@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 03:07:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 03:12:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16945,6 +16945,17 @@
       <itunes:duration>00:26:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-bdddec.mp3" length="25829037" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一个人的丝绸路》 · 完整版 · 一个人的丝绸路 (中国故事) - 孟湄 · 完整讲读</title>
+      <description>《一个人的丝绸路》是孟湄 2013 年独自行走乌兹别克斯坦八天的中文散文。她从北京的签证官玻璃小窗写起，经过塔什干的帖木儿广场与半夜接机的工程师 Sasha，穿过撒马尔罕的废墟、布哈拉被集体注视的酒店，最后抵达沙漠边缘的希瓦。她用法文背景串联中亚腹地的素面人情，借铁木尔的家族受难史提出“我们曾在远古有过同一条路，不同的是各有自己的地方“——chacun son chez soi。在签证官的普通话盘问里她反讽同一种教育下的警觉，在希瓦尖塔下她把北京的城墙和希瓦的琉璃方砖连在了一起。这不是一本攻略书，是一本以个人视角串联丝路文明的存在之书。</description>
+      <pubDate>Sun, 30 Aug 2026 03:12:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-b39fd2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一个人的丝绸路》是孟湄 2013 年独自行走乌兹别克斯坦八天的中文散文。她从北京的签证官玻璃小窗写起，经过塔什干的帖木儿广场与半夜接机的工程师 Sasha，穿过撒马尔罕的废墟、布哈拉被集体注视的酒店，最后抵达沙漠边缘的希瓦。她用法文背景串联中亚腹地的素面人情，借铁木尔的家族受难史提出“我们曾在远古有过同一条路，不同的是各有自己的地方“——chacun son chez soi。在签证官的普通话盘问里她反讽同一种教育下的警觉，在希瓦尖塔下她把北京的城墙和希瓦的琉璃方砖连在了一起。这不是一本攻略书，是一本以个人视角串联丝路文明的存在之书。</itunes:summary>
+      <itunes:duration>00:35:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-b39fd2.mp3" length="33857709" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
