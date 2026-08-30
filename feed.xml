@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 01:40:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 01:47:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16794,6 +16794,17 @@
       <itunes:duration>00:34:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-d21697.mp3" length="33320109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《《尚书》诠释研究》 · 完整版 · 《尚书》诠释研究 (优势丛书) - 钱宗武 · 完整讲读</title>
+      <description>《尚书诠释研究》是扬州大学钱宗武教授三十年研治《尚书》的语言学论文集，也是近百年来第一部对今文《尚书》进行穷尽性语言学调查的专题著作。书中系统考辨《尚书》无“也”无“者”的语言现象，提出复合词界定五标准、同源词联想构词二规律、虚词通假二原则，借由传统经学与现代语言学的深度融合，证明汉语是一种高度理据化的精密编码系统，为《尚书》学和汉语史研究提供了全新的方法论范式。</description>
+      <pubDate>Sun, 30 Aug 2026 01:47:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-97bebe</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《尚书诠释研究》是扬州大学钱宗武教授三十年研治《尚书》的语言学论文集，也是近百年来第一部对今文《尚书》进行穷尽性语言学调查的专题著作。书中系统考辨《尚书》无“也”无“者”的语言现象，提出复合词界定五标准、同源词联想构词二规律、虚词通假二原则，借由传统经学与现代语言学的深度融合，证明汉语是一种高度理据化的精密编码系统，为《尚书》学和汉语史研究提供了全新的方法论范式。</itunes:summary>
+      <itunes:duration>00:30:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-97bebe.mp3" length="29512365" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
