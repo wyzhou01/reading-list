@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 17:16:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 17:27:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16989,6 +16989,17 @@
       <itunes:duration>00:21:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-e443f2.mp3" length="20229933" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《崔玉涛：宝贝健康公开课》 · 完整版 · 崔玉涛：宝贝健康公开课 · 完整讲读</title>
+      <description>《崔玉涛：宝贝健康公开课》由中美合资北京和睦家医院儿科主任崔玉涛所著，是一本汇集作者十余年育儿科普专栏精华的实用指南。全书涵盖零至六岁儿童营养饮食、常见病家庭护理、日常护理与生长发育监测三大方面。核心观点是：孩子的免疫力是天然医生，少用药、多观察、依靠孩子自身免疫力才是科学的育儿观。书中强调母乳喂养的独特优势，指导家长正确应对发烧、咳嗽、腹泻等常见病，倡导营养素“缺什么补什么”的理性态度，以及尊重每个孩子成长节奏的监测理念。本书帮助无数新手父母走出育儿焦虑，是国内最实用的育儿指南之一。</description>
+      <pubDate>Sun, 30 Aug 2026 17:27:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-595d72</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《崔玉涛：宝贝健康公开课》由中美合资北京和睦家医院儿科主任崔玉涛所著，是一本汇集作者十余年育儿科普专栏精华的实用指南。全书涵盖零至六岁儿童营养饮食、常见病家庭护理、日常护理与生长发育监测三大方面。核心观点是：孩子的免疫力是天然医生，少用药、多观察、依靠孩子自身免疫力才是科学的育儿观。书中强调母乳喂养的独特优势，指导家长正确应对发烧、咳嗽、腹泻等常见病，倡导营养素“缺什么补什么”的理性态度，以及尊重每个孩子成长节奏的监测理念。本书帮助无数新手父母走出育儿焦虑，是国内最实用的育儿指南之一。</itunes:summary>
+      <itunes:duration>00:35:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-595d72.mp3" length="34483629" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
