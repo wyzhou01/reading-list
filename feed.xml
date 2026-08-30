@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 01:11:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 01:17:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16739,6 +16739,17 @@
       <itunes:duration>00:34:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-9061e9.mp3" length="33400365" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《九阙梦华·解忧刀》 · 完整版 · 《九阙梦华》系列 · 完整讲读</title>
+      <description>《解忧刀》是步非烟《九阙梦华》系列的核心卷，写的是一群被正邪两字困住的少年：正道第一少侠荀无咎、魔教第一高手江玉楼、夹在中间的辛铁石。三人本是死敌与挚友，却在师父之死、爱人之嫁、宝藏之争中，被推入无法回头的深渊。步非烟借辛铁石的悲剧追问：当&quot;伟大目标&quot;需要牺牲身边最亲的人，你会怎么选？阵营不由己，友情却能跨越立场吗？全书没有给答案，只把那柄刀，递到每一个读者手里。</description>
+      <pubDate>Sun, 30 Aug 2026 01:17:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-f721df</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《解忧刀》是步非烟《九阙梦华》系列的核心卷，写的是一群被正邪两字困住的少年：正道第一少侠荀无咎、魔教第一高手江玉楼、夹在中间的辛铁石。三人本是死敌与挚友，却在师父之死、爱人之嫁、宝藏之争中，被推入无法回头的深渊。步非烟借辛铁石的悲剧追问：当&quot;伟大目标&quot;需要牺牲身边最亲的人，你会怎么选？阵营不由己，友情却能跨越立场吗？全书没有给答案，只把那柄刀，递到每一个读者手里。</itunes:summary>
+      <itunes:duration>00:30:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-f721df.mp3" length="29127213" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
