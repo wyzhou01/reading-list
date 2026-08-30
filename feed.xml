@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 01:17:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 01:26:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16750,6 +16750,17 @@
       <itunes:duration>00:30:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-f721df.mp3" length="29127213" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《从晚清到民国》 · 完整版 · 《从晚清到民国》《我们的朋友胡适之》《民国三大校长》《再见大师》 · 完整讲读</title>
+      <description>《从晚清到民国》是唐德刚先生用三十年写就的一部心史，把一八三九至一九四九这百年巨变，比作长江流过历史三峡——惊涛骇岸，尸骨遍野，却终将海阔天空。全书以帝国主义东来为外因，以周期性内乱为内因，从鸦片战争讲到太平天国、甲午风云、戊戌变法、义和团之乱，再到辛亥前后袁世凯与孙文的角力，落点在胡适、梁启超、梁实秋这一代民国知识分子的命运沉浮。本书是读懂近代中国为何走到今天的一把钥匙，也是反思我们如何重写民族叙事的一面镜子。</description>
+      <pubDate>Sun, 30 Aug 2026 01:26:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-021606</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《从晚清到民国》是唐德刚先生用三十年写就的一部心史，把一八三九至一九四九这百年巨变，比作长江流过历史三峡——惊涛骇岸，尸骨遍野，却终将海阔天空。全书以帝国主义东来为外因，以周期性内乱为内因，从鸦片战争讲到太平天国、甲午风云、戊戌变法、义和团之乱，再到辛亥前后袁世凯与孙文的角力，落点在胡适、梁启超、梁实秋这一代民国知识分子的命运沉浮。本书是读懂近代中国为何走到今天的一把钥匙，也是反思我们如何重写民族叙事的一面镜子。</itunes:summary>
+      <itunes:duration>00:43:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-021606.mp3" length="41675181" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
