@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 01:56:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 02:05:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16827,6 +16827,17 @@
       <itunes:duration>00:25:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-7b886e.mp3" length="24524205" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《渡边淳一作品精选7册》 · 完整版 · 《渡边淳一作品精选7册》 · 完整讲读</title>
+      <description>《渡边淳一作品精选七册》收录日本当代情爱文学大家渡边淳一七篇都市情感代表作。从《短夜》里职场女性修子与有家室的中年社长远野四年克制而隐秘的情人关系讲起，到压轴篇男主远赴法国卢瓦尔河畔红城堡、亲眼目睹妻子月子投身另一种生活后终于释怀的结局。渡边淳一横跨半个世纪的写作，正值日本从经济腾飞走向“失去的三十年“，他用冷静而克制的笔触，写尽爱欲与克制、占有与放手、婚姻围城与婚外困境之间的永恒撕扯。本书之所以至今仍被都市男女反复阅读，是因为它写的不是某个特定故事，而是我们这个时代所有受过教育、有独立意识、却在亲密关系里反复碰壁的人，共同的精神肖像。</description>
+      <pubDate>Sun, 30 Aug 2026 02:05:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-723b47</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《渡边淳一作品精选七册》收录日本当代情爱文学大家渡边淳一七篇都市情感代表作。从《短夜》里职场女性修子与有家室的中年社长远野四年克制而隐秘的情人关系讲起，到压轴篇男主远赴法国卢瓦尔河畔红城堡、亲眼目睹妻子月子投身另一种生活后终于释怀的结局。渡边淳一横跨半个世纪的写作，正值日本从经济腾飞走向“失去的三十年“，他用冷静而克制的笔触，写尽爱欲与克制、占有与放手、婚姻围城与婚外困境之间的永恒撕扯。本书之所以至今仍被都市男女反复阅读，是因为它写的不是某个特定故事，而是我们这个时代所有受过教育、有独立意识、却在亲密关系里反复碰壁的人，共同的精神肖像。</itunes:summary>
+      <itunes:duration>00:32:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-723b47.mp3" length="31533741" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
