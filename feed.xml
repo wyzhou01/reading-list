@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 02:10:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 02:17:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16849,6 +16849,17 @@
       <itunes:duration>00:26:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-8fdb38.mp3" length="25860909" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《玫瑰帝国》 · 完整版 · 《玫瑰帝国》系列 · 完整讲读</title>
+      <description>《玫瑰帝国》是步非烟写就的一部近未来奇幻言情经典。少女秋璇穿着十块钱的地摊长裙，坐在上海黄浦江畔的栏杆上，等待公爵之子卓王孙——三年前她从一场舞会中逃离，三年后他执意把她带回去。在由十二大公统治的世界里，两人用执念与放手、尊严与占有、契约与自由，反复较量。本书借贵族与平民的阶层隐喻、王子与少女的执念博弈、近未来世界的秩序与反秩序，写出了在身份枷锁下，人如何挣得属于自己的爱情与自由。</description>
+      <pubDate>Sun, 30 Aug 2026 02:17:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-6f4a13</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《玫瑰帝国》是步非烟写就的一部近未来奇幻言情经典。少女秋璇穿着十块钱的地摊长裙，坐在上海黄浦江畔的栏杆上，等待公爵之子卓王孙——三年前她从一场舞会中逃离，三年后他执意把她带回去。在由十二大公统治的世界里，两人用执念与放手、尊严与占有、契约与自由，反复较量。本书借贵族与平民的阶层隐喻、王子与少女的执念博弈、近未来世界的秩序与反秩序，写出了在身份枷锁下，人如何挣得属于自己的爱情与自由。</itunes:summary>
+      <itunes:duration>00:27:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-6f4a13.mp3" length="25986093" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
