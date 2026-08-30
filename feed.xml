@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 17:27:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 17:37:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17000,6 +17000,17 @@
       <itunes:duration>00:35:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-595d72.mp3" length="34483629" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《巴菲特传（纪念版）》 · 完整版 · 巴菲特传（纪念版）(1) · 完整讲读</title>
+      <description>《巴菲特传》纪念版是第一部严肃系统的巴菲特传记, 由《华尔街日报》资深记者罗杰·洛温斯坦历时三年写成。本书完整呈现了巴菲特从奥马哈少年到世界首富的三段进化: 十三岁前的小企业家阶段, 一九五零年代到一九六九年的价值投资阶段, 以及此后通过伯克希尔·哈撒韦完成的投资家与企业家融合阶段, 财富最终累积至六百二十亿美元。作者指出, 巴菲特成功的关键并非某种神秘炒股技巧, 而是三重身份的融合——保险家、投资家、企业家三位一体, 加上大智慧、高财商、高情商三大个人因素。本书更深层的意义在于揭示巴菲特那种近乎稀缺的&quot;正常人&quot;品质: 信守承诺、承担责任、把承诺当契约而非交易。在一个普遍把关系当筹码的时代, 他证明了一条朴素、清晰、可复制的道路, 穿越了大萧条、越战、滞胀、互联网泡沫、次贷危机等多次周期, 至今依然成立。</description>
+      <pubDate>Sun, 30 Aug 2026 17:37:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-8ec135</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《巴菲特传》纪念版是第一部严肃系统的巴菲特传记, 由《华尔街日报》资深记者罗杰·洛温斯坦历时三年写成。本书完整呈现了巴菲特从奥马哈少年到世界首富的三段进化: 十三岁前的小企业家阶段, 一九五零年代到一九六九年的价值投资阶段, 以及此后通过伯克希尔·哈撒韦完成的投资家与企业家融合阶段, 财富最终累积至六百二十亿美元。作者指出, 巴菲特成功的关键并非某种神秘炒股技巧, 而是三重身份的融合——保险家、投资家、企业家三位一体, 加上大智慧、高财商、高情商三大个人因素。本书更深层的意义在于揭示巴菲特那种近乎稀缺的&quot;正常人&quot;品质: 信守承诺、承担责任、把承诺当契约而非交易。在一个普遍把关系当筹码的时代, 他证明了一条朴素、清晰、可复制的道路, 穿越了大萧条、越战、滞胀、互联网泡沫、次贷危机等多次周期, 至今依然成立。</itunes:summary>
+      <itunes:duration>00:37:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-8ec135.mp3" length="35559981" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
