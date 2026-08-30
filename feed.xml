@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 00:34:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 00:40:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16662,6 +16662,17 @@
       <itunes:duration>00:26:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-3a96ee.mp3" length="25854765" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《光在地球之时……⑥「朝颜」》 · 完整版 · [野村美月].光在地球之时……⑥「朝颜」 · 完整讲读</title>
+      <description>《光在地球之时……⑥「朝颜」》讲述少年赤城是光替死去的幽灵皇子光，实现与别扭少女斋贺朝衣童年约定的故事。朝衣冷若冰霜却藏着对光与葵的深切守护；是光在一次次被骂、被推开的冲突中，用笨拙的真诚敲开她的心防。第六集是系列下半场的起点，朝衣篇的别扭、嫉妒与权力暗流，都将在第七集「空蝉」里继续爆发。</description>
+      <pubDate>Sun, 30 Aug 2026 00:40:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-7ec4a9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《光在地球之时……⑥「朝颜」》讲述少年赤城是光替死去的幽灵皇子光，实现与别扭少女斋贺朝衣童年约定的故事。朝衣冷若冰霜却藏着对光与葵的深切守护；是光在一次次被骂、被推开的冲突中，用笨拙的真诚敲开她的心防。第六集是系列下半场的起点，朝衣篇的别扭、嫉妒与权力暗流，都将在第七集「空蝉」里继续爆发。</itunes:summary>
+      <itunes:duration>00:27:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-7ec4a9.mp3" length="26144685" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
