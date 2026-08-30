@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 00:28:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 00:34:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16651,6 +16651,17 @@
       <itunes:duration>00:33:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-0c11ab.mp3" length="32137773" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《光在地球之时……⑤「末摘花」》 · 完整版 · [野村美月].光在地球之时……⑤「末摘花」 · 完整讲读</title>
+      <description>《光在地球之时》第五集「末摘花」，以暑假为舞台，透过高中生是光帮神秘美少年光寻找「不知姓名、长相的少女」的约定，交织出三段少女心事——把约定挤进一周的帆夏、被女儿身囚禁却怀念瑞士刀的朝衣、以及只愿透过香草与网路和世界对话的番红花。野村美月以诗意笔触，写出少女们在被看见、被找到、被承认之前的种种挣扎，让每一份残缺都成为最纯净的美。</description>
+      <pubDate>Sun, 30 Aug 2026 00:34:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-3a96ee</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《光在地球之时》第五集「末摘花」，以暑假为舞台，透过高中生是光帮神秘美少年光寻找「不知姓名、长相的少女」的约定，交织出三段少女心事——把约定挤进一周的帆夏、被女儿身囚禁却怀念瑞士刀的朝衣、以及只愿透过香草与网路和世界对话的番红花。野村美月以诗意笔触，写出少女们在被看见、被找到、被承认之前的种种挣扎，让每一份残缺都成为最纯净的美。</itunes:summary>
+      <itunes:duration>00:26:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-3a96ee.mp3" length="25854765" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
