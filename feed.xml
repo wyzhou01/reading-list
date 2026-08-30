@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 01:51:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 01:56:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16816,6 +16816,17 @@
       <itunes:duration>00:26:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-42c78e.mp3" length="25893549" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《流动的盛宴(图文珍藏本)》 · 完整版 · 《流动的盛宴(图文珍藏本)》作者_ 海明威 译者_ 汤永宽_上海译文版 · 完整讲读</title>
+      <description>《流动的盛宴》是海明威于一九五七至一九六零年间写就的巴黎回忆录，记录了一九二一年至一九二六年他与第一任妻子哈德莉在巴黎度过的清贫而燃烧的文学岁月。书中不仅重现了圣米歇尔广场的咖啡馆、斯泰因的沙龙、莎士比亚图书公司等二十年代流亡作家的群像，更以独特的“冰山理论”笔法，探讨了贫穷作为纪律、迷惘作为反叛、饥饿作为形而上学、回忆作为重写等深刻主题。作为海明威生前亲自定稿的最后一部作品，它既是一份私人记忆，也是一份关于“如何忠于自己句子”的文学宣言，激励着一代又一代心怀梦想的人在现实的挤压下，守住属于自己的流动盛宴。</description>
+      <pubDate>Sun, 30 Aug 2026 01:56:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-7b886e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《流动的盛宴》是海明威于一九五七至一九六零年间写就的巴黎回忆录，记录了一九二一年至一九二六年他与第一任妻子哈德莉在巴黎度过的清贫而燃烧的文学岁月。书中不仅重现了圣米歇尔广场的咖啡馆、斯泰因的沙龙、莎士比亚图书公司等二十年代流亡作家的群像，更以独特的“冰山理论”笔法，探讨了贫穷作为纪律、迷惘作为反叛、饥饿作为形而上学、回忆作为重写等深刻主题。作为海明威生前亲自定稿的最后一部作品，它既是一份私人记忆，也是一份关于“如何忠于自己句子”的文学宣言，激励着一代又一代心怀梦想的人在现实的挤压下，守住属于自己的流动盛宴。</itunes:summary>
+      <itunes:duration>00:25:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-7b886e.mp3" length="24524205" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
