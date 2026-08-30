@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 03:26:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 17:16:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16978,6 +16978,17 @@
       <itunes:duration>00:35:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-a5cd54.mp3" length="33604269" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《别让猴子跳回背上》 · 完整版 · 别让猴子跳回背上 · 完整讲读</title>
+      <description>本书用&apos;猴子&apos;比喻职场任务，揭示了一个普遍却未被正视的真相——多数管理者表面在掌控局面，实际上却背着一群不属于他们的责任。安肯父子从一九七二年起就反复提醒：每一次&apos;让我想一下&apos;、&apos;给我一份会议记录&apos;，都是管理者不自觉地把猴子收养到自己背上的瞬间。掌握安肯自由量表与六条喂养规则，从&apos;替下属做事&apos;转型为&apos;让下属能做事&apos;，是这本书送给每一位管理者的核心礼物。</description>
+      <pubDate>Sun, 30 Aug 2026 17:15:46 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-e443f2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书用&apos;猴子&apos;比喻职场任务，揭示了一个普遍却未被正视的真相——多数管理者表面在掌控局面，实际上却背着一群不属于他们的责任。安肯父子从一九七二年起就反复提醒：每一次&apos;让我想一下&apos;、&apos;给我一份会议记录&apos;，都是管理者不自觉地把猴子收养到自己背上的瞬间。掌握安肯自由量表与六条喂养规则，从&apos;替下属做事&apos;转型为&apos;让下属能做事&apos;，是这本书送给每一位管理者的核心礼物。</itunes:summary>
+      <itunes:duration>00:21:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-e443f2.mp3" length="20229933" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
