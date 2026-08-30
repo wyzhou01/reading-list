@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 02:36:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 02:41:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16882,6 +16882,17 @@
       <itunes:duration>00:36:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-93ed57.mp3" length="34742829" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《《资本论》哲学的新解读》 · 完整版 · 资本论_-_(德)_马克思著，朱登编译 · 完整讲读</title>
+      <description>《资本论》是马克思倾注四十年心血的旷世巨著。他从最简单的商品开始，一层层揭开资本主义生产方式的内在秘密：劳动力变成商品的那一刻，资本家就能用劳动力的价值，换回劳动力所创造的全部价值，这中间的差额，就是剩余价值，就是利润的真正来源。围绕剩余价值这条主线，马克思系统阐述了资本积累的两极分化、周期性经济危机的必然爆发、利润在全社会各行业之间的平均化与再分配，以及地租作为土地所有权在经济上的实现方式。他告诉我们，资本主义不是永恒的自然秩序，而是一个有诞生、有成长、有衰老的历史阶段，其内部的生产社会化与成果私人占有之间的根本矛盾，决定了它终将被一种更高级的社会形态所超越。一百五十多年过去，马克思的很多具体预言虽未原样兑现，但他提出的核心追问——财富为何越来越集中、危机为何周期性地发生、劳动者为何总被分走大头——在人工智能与平台经济的今天，依然锋利如初。重读《资本论》，不是背诵教条，而是继承一种看穿表象、追问本质的精神。</description>
+      <pubDate>Fri, 19 Jun 2026 14:47:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-3e41f7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《资本论》是马克思倾注四十年心血的旷世巨著。他从最简单的商品开始，一层层揭开资本主义生产方式的内在秘密：劳动力变成商品的那一刻，资本家就能用劳动力的价值，换回劳动力所创造的全部价值，这中间的差额，就是剩余价值，就是利润的真正来源。围绕剩余价值这条主线，马克思系统阐述了资本积累的两极分化、周期性经济危机的必然爆发、利润在全社会各行业之间的平均化与再分配，以及地租作为土地所有权在经济上的实现方式。他告诉我们，资本主义不是永恒的自然秩序，而是一个有诞生、有成长、有衰老的历史阶段，其内部的生产社会化与成果私人占有之间的根本矛盾，决定了它终将被一种更高级的社会形态所超越。一百五十多年过去，马克思的很多具体预言虽未原样兑现，但他提出的核心追问——财富为何越来越集中、危机为何周期性地发生、劳动者为何总被分走大头——在人工智能与平台经济的今天，依然锋利如初。重读《资本论》，不是背诵教条，而是继承一种看穿表象、追问本质的精神。</itunes:summary>
+      <itunes:duration>00:30:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-3e41f7.mp3" length="28992045" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
