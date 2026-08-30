@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 00:54:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 00:58:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16706,6 +16706,17 @@
       <itunes:duration>00:28:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-b6c751.mp3" length="27802797" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《塞尔伯恩博物志》 · 完整版 · zg塞尔伯恩博物志_[英]吉尔伯特·怀特 · 完整讲读</title>
+      <description>《塞尔伯恩博物志》是英国十八世纪牧师吉尔伯特·怀特以书信体写就的博物学经典，记录他在家乡塞尔伯恩对鸟兽虫鱼、四时更替与乡野生活的细致观察。它最早以生态视角系统观察一个固定地域，被后世视为现代生态学的奠基之作。怀特以诚实的第一手观察取代臆测传说，将科学精神与文学诗意融为一炉。在浮躁喧嚣的时代，这本书不仅提供博物知识，更传递一种“长期定点注视“的生活伦理：不必走遍全球，只需一片土地和一双愿意发现的眼睛。两百多年来，达尔文、梭罗等无数读者从中获得启发。它至今动人，是因为它写出了人类与自然相处最朴素、也最深刻的那种可能——用一生，写一封给故乡的长信。</description>
+      <pubDate>Sun, 30 Aug 2026 00:58:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-9090e5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《塞尔伯恩博物志》是英国十八世纪牧师吉尔伯特·怀特以书信体写就的博物学经典，记录他在家乡塞尔伯恩对鸟兽虫鱼、四时更替与乡野生活的细致观察。它最早以生态视角系统观察一个固定地域，被后世视为现代生态学的奠基之作。怀特以诚实的第一手观察取代臆测传说，将科学精神与文学诗意融为一炉。在浮躁喧嚣的时代，这本书不仅提供博物知识，更传递一种“长期定点注视“的生活伦理：不必走遍全球，只需一片土地和一双愿意发现的眼睛。两百多年来，达尔文、梭罗等无数读者从中获得启发。它至今动人，是因为它写出了人类与自然相处最朴素、也最深刻的那种可能——用一生，写一封给故乡的长信。</itunes:summary>
+      <itunes:duration>00:24:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-9090e5.mp3" length="23412909" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
