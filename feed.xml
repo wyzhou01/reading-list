@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 03:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 03:07:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16934,6 +16934,17 @@
       <itunes:duration>00:31:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-b5a9f7.mp3" length="29966637" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一万年的爆发：文明如何加速人类进化》 · 完整版 · 一万年的爆发 · 完整讲读</title>
+      <description>《一万年的爆发》由物理学家柯克伦与人类学家哈本丁合著，是遗传历史学的开山之作。两位作者用分子生物学证据反驳了“人类演化在五万年前停止”的旧共识，提出近一万年尤其农业革命后，人类演化速度暴增百倍。书中以尼安德特基因渗入、农业适应性、印欧人扩张、阿什肯纳兹犹太人的智力演化为案例，揭示基因与文化的协同演化如何重塑欧亚大陆的基因版图。该书亦纠正了路翁亭“群体差异很小”的统计误读，至今仍是指引人类学与群体遗传学前沿研究的重要坐标。</description>
+      <pubDate>Sun, 30 Aug 2026 03:07:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-bdddec</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一万年的爆发》由物理学家柯克伦与人类学家哈本丁合著，是遗传历史学的开山之作。两位作者用分子生物学证据反驳了“人类演化在五万年前停止”的旧共识，提出近一万年尤其农业革命后，人类演化速度暴增百倍。书中以尼安德特基因渗入、农业适应性、印欧人扩张、阿什肯纳兹犹太人的智力演化为案例，揭示基因与文化的协同演化如何重塑欧亚大陆的基因版图。该书亦纠正了路翁亭“群体差异很小”的统计误读，至今仍是指引人类学与群体遗传学前沿研究的重要坐标。</itunes:summary>
+      <itunes:duration>00:26:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-bdddec.mp3" length="25829037" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
