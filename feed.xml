@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 02:55:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 03:02:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16915,6 +16915,25 @@
       <itunes:duration>00:22:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-61ab4e.mp3" length="21888045" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《《知音》2016年6月月末版》 · 完整版 · 《知音》2016年6月月末版 · 完整讲读</title>
+      <description>这本《知音》二零一六年六月月末版,用十七个真实故事,记录了中国经济转型期普通人最极致的命运起伏——。
+从亿元儿媳柴美娟一夜之间从云端跌落、靠一勺辣酱重新站立,到主持人蓝月为救胃癌晚期的母亲四次跳槽、自学医术,把三个月的判决改写成七年;从南非华商林强为女儿嫁妆拿起枪击毙劫匪,到褚时健八十一岁上山种橙;从七十五岁老郑开房车带偏瘫老伴走遍长寿乡,到杭州夫妇卖掉房子归乡放羊——。
+每一个故事都在问同一个问题:当天塌下来,亲情、爱情、责任,究竟能撑起多大的重量?
+二零一六年再读这本杂志,读的不只是故事,更是那个时代中国人集体情感的一幅肖像——。
+它提醒我们,无论过了多少年,逆风里的小船如何行驶,永远值得被记录、被听见。</description>
+      <pubDate>Sun, 30 Aug 2026 03:02:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-b5a9f7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>这本《知音》二零一六年六月月末版,用十七个真实故事,记录了中国经济转型期普通人最极致的命运起伏——。
+从亿元儿媳柴美娟一夜之间从云端跌落、靠一勺辣酱重新站立,到主持人蓝月为救胃癌晚期的母亲四次跳槽、自学医术,把三个月的判决改写成七年;从南非华商林强为女儿嫁妆拿起枪击毙劫匪,到褚时健八十一岁上山种橙;从七十五岁老郑开房车带偏瘫老伴走遍长寿乡,到杭州夫妇卖掉房子归乡放羊——。
+每一个故事都在问同一个问题:当天塌下来,亲情、爱情、责任,究竟能撑起多大的重量?
+二零一六年再读这本杂志,读的不只是故事,更是那个时代中国人集体情感的一幅肖像——。
+它提醒我们,无论过了多少年,逆风里的小船如何行驶,永远值得被记录、被听见。</itunes:summary>
+      <itunes:duration>00:31:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-b5a9f7.mp3" length="29966637" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
