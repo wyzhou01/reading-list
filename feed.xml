@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 03:19:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 03:26:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16967,6 +16967,17 @@
       <itunes:duration>00:32:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-ad45d0.mp3" length="30800301" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一个刑警的日子》 · 完整版 · 一个刑警的日子 · 完整讲读</title>
+      <description>《一个刑警的日子》是北京刑警刘子承（笔名蓝衣）从业二十三年的真实回忆录。从西坝河阉割案、望京迷尸案到贩毒专案，作者不写英雄赞歌，只写命案背后无声坍塌的人生：一个四十七岁的母亲、一封女儿题为《我的伟大母亲》的信，一双限量款球鞋染红的颜色，一对从韩国回来认尸却态度冷淡的父母，一把开不响的旧枪，一根解下来的鞋带，一个停职的中年刑警，一个梦见坠落的飞行员，一个永远飞不回来的战友。作者用二十三年回答了一个问题：当职业要求你直面人性的至暗时刻，你凭什么留下来？答案是两个字——留下。不是破案率，不是表彰证书，是凝视黑暗许久之后，黑暗亦在凝视着你，而你，没有融入黑暗。</description>
+      <pubDate>Sun, 30 Aug 2026 03:26:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-a5cd54</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一个刑警的日子》是北京刑警刘子承（笔名蓝衣）从业二十三年的真实回忆录。从西坝河阉割案、望京迷尸案到贩毒专案，作者不写英雄赞歌，只写命案背后无声坍塌的人生：一个四十七岁的母亲、一封女儿题为《我的伟大母亲》的信，一双限量款球鞋染红的颜色，一对从韩国回来认尸却态度冷淡的父母，一把开不响的旧枪，一根解下来的鞋带，一个停职的中年刑警，一个梦见坠落的飞行员，一个永远飞不回来的战友。作者用二十三年回答了一个问题：当职业要求你直面人性的至暗时刻，你凭什么留下来？答案是两个字——留下。不是破案率，不是表彰证书，是凝视黑暗许久之后，黑暗亦在凝视着你，而你，没有融入黑暗。</itunes:summary>
+      <itunes:duration>00:35:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-a5cd54.mp3" length="33604269" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
