@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 02:29:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 02:36:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16871,6 +16871,17 @@
       <itunes:duration>00:27:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-1d6dda.mp3" length="26623917" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《舞阳风云录系列·月出秋山》 · 完整版 · 《舞阳风云录》系列 · 完整讲读</title>
+      <description>《舞阳风云录》是步非烟二零零六年至二零一零年间创作的东方奇幻武侠系列，共七卷，以少年世宁、世蕃在太师府的恩怨开场，引出天罗教复兴与七大秘宝的争夺。本期节目用一百二十分钟，从一颗定盘珠骗吃太和楼讲起，串起世宁的“不配”、王掌柜的悔意、乔羽的乔装、世蕃的阴狠、于飞辰的舞阳剑，再到崇轩与莲华在噶举地宫的苍凉结局。节目核心观点：天罗秘宝不是答案而是执念的镜子，宗教不是救赎而是另一种宿命，整本书真正的主角是那个“不要绝世武功”的少年世宁。</description>
+      <pubDate>Sun, 30 Aug 2026 02:36:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-93ed57</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《舞阳风云录》是步非烟二零零六年至二零一零年间创作的东方奇幻武侠系列，共七卷，以少年世宁、世蕃在太师府的恩怨开场，引出天罗教复兴与七大秘宝的争夺。本期节目用一百二十分钟，从一颗定盘珠骗吃太和楼讲起，串起世宁的“不配”、王掌柜的悔意、乔羽的乔装、世蕃的阴狠、于飞辰的舞阳剑，再到崇轩与莲华在噶举地宫的苍凉结局。节目核心观点：天罗秘宝不是答案而是执念的镜子，宗教不是救赎而是另一种宿命，整本书真正的主角是那个“不要绝世武功”的少年世宁。</itunes:summary>
+      <itunes:duration>00:36:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-93ed57.mp3" length="34742829" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
