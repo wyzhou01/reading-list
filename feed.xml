@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 03:12:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 03:19:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16956,6 +16956,17 @@
       <itunes:duration>00:35:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-b39fd2.mp3" length="33857709" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一个人的地老天荒之紫藤萝》 · 完整版 · 一个人的地老天荒之紫藤萝 · 完整讲读</title>
+      <description>《一个人的地老天荒之紫藤萝》讲述八十年代八岁女孩朝夕随母嫁入G市军部大院，与大院子弟樊疏桐相爱相杀的故事。樊疏桐因父亲樊世荣开枪射他、与母亲陆蓁的悲剧命运，两人之间隔着家族仇恨、权力碾压与时代禁锢。长大后朝夕为复仇设局，让樊疏桐爱上她再亲手毁掉他，故事最终以双亡收场。作品借“蝎子与青蛙”的传说，撕开爱与恨的复杂交织，是一部融合个人命运、家族仇恨、时代悲剧与女性困境的重磅虐恋。</description>
+      <pubDate>Sun, 30 Aug 2026 03:19:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-ad45d0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一个人的地老天荒之紫藤萝》讲述八十年代八岁女孩朝夕随母嫁入G市军部大院，与大院子弟樊疏桐相爱相杀的故事。樊疏桐因父亲樊世荣开枪射他、与母亲陆蓁的悲剧命运，两人之间隔着家族仇恨、权力碾压与时代禁锢。长大后朝夕为复仇设局，让樊疏桐爱上她再亲手毁掉他，故事最终以双亡收场。作品借“蝎子与青蛙”的传说，撕开爱与恨的复杂交织，是一部融合个人命运、家族仇恨、时代悲剧与女性困境的重磅虐恋。</itunes:summary>
+      <itunes:duration>00:32:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-ad45d0.mp3" length="30800301" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
