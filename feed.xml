@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 02:20:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 02:29:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16860,6 +16860,17 @@
       <itunes:duration>00:27:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-6f4a13.mp3" length="25986093" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《《纽约客》故事集（全三册）》 · 完整版 · 《纽约客》故事集（全三册） - （美国）安·比蒂 · 完整讲读</title>
+      <description>《纽约客》故事集精选了安·比蒂一九七四至二〇一〇年间发表在《纽约客》上的短篇，按时间顺序排列，几乎就是一部美国中产阶级的精神史。比蒂写大学教授、律师、编辑、设计师——住在城郊或大都市，靠工资过活，养着一两个孩子，开着旧车。她的故事没有大起伏，最大事件是某人换了辆摩托车开走了。可她用冰箱里等凉的啤酒、关着的门、用错的词这些极小的细节，写出了中产阶级那种说不出的空、说不出的倦、说不出的离散。读她，不是为了找答案，是为了知道——原来不止我一个人这样。</description>
+      <pubDate>Sun, 30 Aug 2026 02:29:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-1d6dda</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《纽约客》故事集精选了安·比蒂一九七四至二〇一〇年间发表在《纽约客》上的短篇，按时间顺序排列，几乎就是一部美国中产阶级的精神史。比蒂写大学教授、律师、编辑、设计师——住在城郊或大都市，靠工资过活，养着一两个孩子，开着旧车。她的故事没有大起伏，最大事件是某人换了辆摩托车开走了。可她用冰箱里等凉的啤酒、关着的门、用错的词这些极小的细节，写出了中产阶级那种说不出的空、说不出的倦、说不出的离散。读她，不是为了找答案，是为了知道——原来不止我一个人这样。</itunes:summary>
+      <itunes:duration>00:27:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-1d6dda.mp3" length="26623917" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
