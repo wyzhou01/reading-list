@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 01:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 01:34:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16772,6 +16772,17 @@
       <itunes:duration>00:16:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-e4e449.mp3" length="16123053" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《千山暮雪》 · 完整版 · 《千山暮雪》 · 完整讲读</title>
+      <description>本期节目深度拆解匪我思存的代表作《千山暮雪》。童雪因父亲的旧债成为莫绍谦的情人，在仇恨与初恋萧山的回忆中挣扎，直到神秘的慕振飞出现，三人之间的爱恨、复仇与救赎层层撕开。节目用六块拼图带你看清这本书的真正重量：债的枷锁、执念的反噬、女性的自我救赎、扭曲的深情、有目的的好意，以及执念型爱情的终局。这不是一个狗血的三角恋，而是一面六面的镜子，照见每个在爱里受过伤、也伤过人的人。</description>
+      <pubDate>Sun, 30 Aug 2026 01:34:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-17490c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期节目深度拆解匪我思存的代表作《千山暮雪》。童雪因父亲的旧债成为莫绍谦的情人，在仇恨与初恋萧山的回忆中挣扎，直到神秘的慕振飞出现，三人之间的爱恨、复仇与救赎层层撕开。节目用六块拼图带你看清这本书的真正重量：债的枷锁、执念的反噬、女性的自我救赎、扭曲的深情、有目的的好意，以及执念型爱情的终局。这不是一个狗血的三角恋，而是一面六面的镜子，照见每个在爱里受过伤、也伤过人的人。</itunes:summary>
+      <itunes:duration>00:29:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-17490c.mp3" length="28097709" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
