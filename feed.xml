@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 00:40:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 00:46:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16673,6 +16673,17 @@
       <itunes:duration>00:27:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-7ec4a9.mp3" length="26144685" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《光在地球之时……⑧「花散里」》 · 完整版 · [野村美月].光在地球之时……⑧「花散里」 · 完整讲读</title>
+      <description>《光在地球之时》第八集《花散里》，是日本轻小说作家野村美月校园悬疑罗曼史系列的倒数第二本，标题致敬《源氏物语》同名帖。主角赤城是光被幽灵好友光附身，意外当上文化祭执行委员，又被会长斋贺朝衣强行编入特别警备班，还要替日本舞研究社的摊位挑衣服，三件事同时砸下来。就在他手忙脚乱之时，光的未婚妻江织葵与他越走越近，而同班同学花里美智留和式部帆夏之间却出现微妙的疏远——两个人其实都在暗恋同一个人。整集围绕文化祭前后少男少女的暗恋、误解与成佛前最后的告别展开，野村以细腻笔触写尽笨拙少年的自我认同与少女们心照不宣的退让，是一部笑着笑着就想哭的青春群像剧。</description>
+      <pubDate>Sun, 30 Aug 2026 00:46:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-df58b1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《光在地球之时》第八集《花散里》，是日本轻小说作家野村美月校园悬疑罗曼史系列的倒数第二本，标题致敬《源氏物语》同名帖。主角赤城是光被幽灵好友光附身，意外当上文化祭执行委员，又被会长斋贺朝衣强行编入特别警备班，还要替日本舞研究社的摊位挑衣服，三件事同时砸下来。就在他手忙脚乱之时，光的未婚妻江织葵与他越走越近，而同班同学花里美智留和式部帆夏之间却出现微妙的疏远——两个人其实都在暗恋同一个人。整集围绕文化祭前后少男少女的暗恋、误解与成佛前最后的告别展开，野村以细腻笔触写尽笨拙少年的自我认同与少女们心照不宣的退让，是一部笑着笑着就想哭的青春群像剧。</itunes:summary>
+      <itunes:duration>00:17:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-df58b1.mp3" length="16551981" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
