@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 00:08:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 00:18:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16618,6 +16618,17 @@
       <itunes:duration>00:17:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-1b7368.mp3" length="16753197" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《光在地球之时……①「葵」》 · 完整版 · [野村美月].光在地球之时……①「葵」 · 完整讲读</title>
+      <description>本期节目深度拆解野村美月《光在地球之时》第一部「葵」。校园皇子帝门光溺亡后，灵魂附在被全校误解的红发少年赤城是光身上，托他帮自己把七份生日礼物送到最重要的女孩左乙女葵手中。是光一边抵抗这个荒诞的请求，一边揭开光童年时代与葵、斋贺朝衣三人之间那段「被误解的约定」。节目通过三个核心洞察——被留下的人才是主角、葵的愤怒是被剪掉一半的等待、朝衣是光的翻译机——剖析这部以《源氏物语》人物命名、以「男生和女生没办法当朋友」为核心的现代校园悬疑罗曼史，探讨死亡的未竟之事、被误解的孤独如何被看见，以及如何与不在场的人好好告别。</description>
+      <pubDate>Sun, 30 Aug 2026 00:17:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-de17a5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期节目深度拆解野村美月《光在地球之时》第一部「葵」。校园皇子帝门光溺亡后，灵魂附在被全校误解的红发少年赤城是光身上，托他帮自己把七份生日礼物送到最重要的女孩左乙女葵手中。是光一边抵抗这个荒诞的请求，一边揭开光童年时代与葵、斋贺朝衣三人之间那段「被误解的约定」。节目通过三个核心洞察——被留下的人才是主角、葵的愤怒是被剪掉一半的等待、朝衣是光的翻译机——剖析这部以《源氏物语》人物命名、以「男生和女生没办法当朋友」为核心的现代校园悬疑罗曼史，探讨死亡的未竟之事、被误解的孤独如何被看见，以及如何与不在场的人好好告别。</itunes:summary>
+      <itunes:duration>00:35:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-de17a5.mp3" length="33624237" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
