@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 01:34:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 01:40:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16783,6 +16783,17 @@
       <itunes:duration>00:29:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-17490c.mp3" length="28097709" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《天舞纪》 · 完整版 · 《天舞纪》系列 · 完整讲读</title>
+      <description>《天舞纪》是步非烟用十年踟躇书写的盛唐奇幻史诗。她将长安从一座都城,重写为人、神、妖、魔共存的三重舞台:摩云书院少年的意气、龙御四极的神妖对峙、魅月妖族的悲欢离合、葬雪阴谋的风云诡谲,四条线交错前行。从楔子里以己身替子承受五道天罚的妖母青笙,到《云中漪兰》里为爱交出魂魄、从此再不能相拥的谢云石与简碧尘,步非烟贯穿全书追问一个问题——当繁华走向劫灭,当不同生灵被迫对立,人究竟该如何起舞?福佑必有代价,绝顶必付代价,美不在皮相,爱不必相守。这部书不是怀古,不是仙侠,而是一场关于&quot;在劫灭到来之前,每一个普通人要如何起舞&quot;的史诗。</description>
+      <pubDate>Sun, 30 Aug 2026 01:40:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-d21697</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《天舞纪》是步非烟用十年踟躇书写的盛唐奇幻史诗。她将长安从一座都城,重写为人、神、妖、魔共存的三重舞台:摩云书院少年的意气、龙御四极的神妖对峙、魅月妖族的悲欢离合、葬雪阴谋的风云诡谲,四条线交错前行。从楔子里以己身替子承受五道天罚的妖母青笙,到《云中漪兰》里为爱交出魂魄、从此再不能相拥的谢云石与简碧尘,步非烟贯穿全书追问一个问题——当繁华走向劫灭,当不同生灵被迫对立,人究竟该如何起舞?福佑必有代价,绝顶必付代价,美不在皮相,爱不必相守。这部书不是怀古,不是仙侠,而是一场关于&quot;在劫灭到来之前,每一个普通人要如何起舞&quot;的史诗。</itunes:summary>
+      <itunes:duration>00:34:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-d21697.mp3" length="33320109" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
