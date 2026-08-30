@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 01:47:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 01:51:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16805,6 +16805,17 @@
       <itunes:duration>00:30:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-97bebe.mp3" length="29512365" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《武林客栈（步非烟）》 · 完整版 · 《武林客栈》系列 · 完整讲读</title>
+      <description>《武林客栈》是步非烟最具代表性的新武侠系列，以一家只卖青椒炒肉的乡村小酒馆作舞台，把贪官吴承辅、厨霸王、玉手神医李清愁、妖刀伊川、红衣小姑娘等朝堂与江湖各色人物塞进同一张桌子。本书以古龙式短句与悬疑反转笔法，写出庙堂与江湖、贪与义、正与邪的多重撕扯。核心洞察四点：江湖与庙堂本是同一张桌子的两面；贪与义的人性拉扯算的是要钱还是要命的账；正邪身份随时可被颠覆亦可被重认；侠客的宿命不是退隐山林，而是退到心安处，或硬扛到最后。本书在M3偏见上最为警醒：把暴力写美容易让人忘了代价，读完之后最值得带走的，是对每一把挥出去的刀先问一句该不该。</description>
+      <pubDate>Sun, 30 Aug 2026 01:51:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-42c78e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《武林客栈》是步非烟最具代表性的新武侠系列，以一家只卖青椒炒肉的乡村小酒馆作舞台，把贪官吴承辅、厨霸王、玉手神医李清愁、妖刀伊川、红衣小姑娘等朝堂与江湖各色人物塞进同一张桌子。本书以古龙式短句与悬疑反转笔法，写出庙堂与江湖、贪与义、正与邪的多重撕扯。核心洞察四点：江湖与庙堂本是同一张桌子的两面；贪与义的人性拉扯算的是要钱还是要命的账；正邪身份随时可被颠覆亦可被重认；侠客的宿命不是退隐山林，而是退到心安处，或硬扛到最后。本书在M3偏见上最为警醒：把暴力写美容易让人忘了代价，读完之后最值得带走的，是对每一把挥出去的刀先问一句该不该。</itunes:summary>
+      <itunes:duration>00:26:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-42c78e.mp3" length="25893549" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
