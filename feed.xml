@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 01:04:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 01:11:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16728,6 +16728,17 @@
       <itunes:duration>00:28:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-3e1cc6.mp3" length="27464493" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《破碎的星球三部曲》 · 完整版 · “破碎的星球”三部曲 · 完整讲读</title>
+      <description>《破碎的星球》三部曲是美国黑人女作家恩娜·杰米辛创作的科幻史诗，套着奇幻的壳，写压迫、写种族、写系统性暴力下个体如何活下来、如何反抗、如何重建。故事围绕三位命运纠缠的主角展开：失去儿子的原基人母亲伊松、反抗的年轻女孩阿尔布赖特、被改造成武器的刺客茜奈特。她们从奴隶、猎物、武器的身份中觉醒，联手推翻由食岩人暗中操控的桑泽帝国。本期用九个核心拼图，拆解帝国如何靠&quot;自我说服的语言&quot;维系，原基人如何从物品重新变成人，反抗为何必须是一个生态，以及破碎之后的世界，靠什么拼回去。</description>
+      <pubDate>Sun, 30 Aug 2026 01:11:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-9061e9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《破碎的星球》三部曲是美国黑人女作家恩娜·杰米辛创作的科幻史诗，套着奇幻的壳，写压迫、写种族、写系统性暴力下个体如何活下来、如何反抗、如何重建。故事围绕三位命运纠缠的主角展开：失去儿子的原基人母亲伊松、反抗的年轻女孩阿尔布赖特、被改造成武器的刺客茜奈特。她们从奴隶、猎物、武器的身份中觉醒，联手推翻由食岩人暗中操控的桑泽帝国。本期用九个核心拼图，拆解帝国如何靠&quot;自我说服的语言&quot;维系，原基人如何从物品重新变成人，反抗为何必须是一个生态，以及破碎之后的世界，靠什么拼回去。</itunes:summary>
+      <itunes:duration>00:34:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-9061e9.mp3" length="33400365" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
