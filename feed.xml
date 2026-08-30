@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 17:37:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 17:46:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17011,6 +17011,17 @@
       <itunes:duration>00:37:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-8ec135.mp3" length="35559981" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一个帝国的生与死：《水浒》里不为人知的历史密码》 · 完整版 · 一个帝国的生与死 · 完整讲读</title>
+      <description>《一个帝国的生与死》以《水浒》人物为引子，沿着宋江、鲁智深、柴进等耳熟能详的名字，回溯到北宋末年的真实历史现场。书中考证了潘金莲杀夫案的历史原型，追溯了大相国寺那把改变武将命运的火灾，剖析了柴进皇族血脉的来历，还原了宋江起义的真实面貌，更追问了童贯、蔡京这些权臣如何一步步走向权力巅峰。全书揭示了一个在文化和经济达到顶峰的帝国，如何在文官集团掏空武将脊梁、宦官集团架空国防、皇帝沉迷文艺的三重打击下，于女真铁骑下土崩瓦解的深层根源，是一部透过《水浒》解读北宋帝国衰亡真相的历史通俗作品。</description>
+      <pubDate>Sun, 30 Aug 2026 17:46:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-eef9f2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一个帝国的生与死》以《水浒》人物为引子，沿着宋江、鲁智深、柴进等耳熟能详的名字，回溯到北宋末年的真实历史现场。书中考证了潘金莲杀夫案的历史原型，追溯了大相国寺那把改变武将命运的火灾，剖析了柴进皇族血脉的来历，还原了宋江起义的真实面貌，更追问了童贯、蔡京这些权臣如何一步步走向权力巅峰。全书揭示了一个在文化和经济达到顶峰的帝国，如何在文官集团掏空武将脊梁、宦官集团架空国防、皇帝沉迷文艺的三重打击下，于女真铁骑下土崩瓦解的深层根源，是一部透过《水浒》解读北宋帝国衰亡真相的历史通俗作品。</itunes:summary>
+      <itunes:duration>00:34:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-eef9f2.mp3" length="32758317" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
