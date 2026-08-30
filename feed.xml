@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 30 Aug 2026 00:03:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 00:08:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -16607,6 +16607,17 @@
       <itunes:duration>00:32:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-79d80c.mp3" length="31513389" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《浮生六记》 · 完整版 · [浮生六记(文白对照)][清][沈复][朱奇志校译] · 完整讲读</title>
+      <description>《浮生六记》是清代苏州文人沈复追忆亡妻陈芸的散文集，共六卷，今存前四卷。本书以深情之笔，记录了夫妻闺房之乐、闲情雅趣、坎坷愁苦与浪游之快。陈芸被林语堂誉为“中国文学中最可爱的女人”，她聪慧灵秀，与沈复情投意合，却在封建礼教与贫困的夹击下凄然早逝。二百多年来，此书以朴素真挚的情感、清丽自然的文笔，打动了一代又一代读者——它告诉我们：幽闲是一种很高的人生境界，深情是一种可贵的生命姿态，而诗意，从不在远方，就在一粥一饭、一花一月的日常之中。</description>
+      <pubDate>Sun, 30 Aug 2026 00:07:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260829-episode-20260829-1b7368</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《浮生六记》是清代苏州文人沈复追忆亡妻陈芸的散文集，共六卷，今存前四卷。本书以深情之笔，记录了夫妻闺房之乐、闲情雅趣、坎坷愁苦与浪游之快。陈芸被林语堂誉为“中国文学中最可爱的女人”，她聪慧灵秀，与沈复情投意合，却在封建礼教与贫困的夹击下凄然早逝。二百多年来，此书以朴素真挚的情感、清丽自然的文笔，打动了一代又一代读者——它告诉我们：幽闲是一种很高的人生境界，深情是一种可贵的生命姿态，而诗意，从不在远方，就在一粥一饭、一花一月的日常之中。</itunes:summary>
+      <itunes:duration>00:17:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260829/episode-20260829-1b7368.mp3" length="16753197" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
