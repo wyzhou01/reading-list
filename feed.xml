@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 17:58:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 18:06:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17627,6 +17627,17 @@
       <itunes:duration>00:27:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-089247.mp3" length="25949997" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《美德的动摇》 · 完整版 · 美德的动摇_-_[日]三岛由纪夫 · 完整讲读</title>
+      <description>《美德的动摇》是三岛由纪夫一九五七年发表的中期代表作，写二十八岁上流少妇节子在乏味婚姻与一次多年前拙笨的吻之间挣扎，最终与旧识土屋擦出她自认为“道德的恋爱“的火花，却发现肉体的解放并没有带来期待中的自由，反而亲手拆毁了自己赖以活着的幻觉。节子的教养是她的牢笼，她的道德是她的舞台布景，她所爱之人只是她脑海里一个永远不会长大、永远停留在那个拙笨之吻里的投影。当一切崩塌之后，她失去的不是一个情人，而是一面曾能映出自己“优雅“的镜子，剩下的只有落地窗旁的藤椅、午后消逝的阳光、模仿雕像的五分钟，以及一封写了又撕碎的长信——一本关于教养如何囚禁一个人、空想如何替代真实关系的残忍又温柔的临床报告。</description>
+      <pubDate>Mon, 31 Aug 2026 18:06:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-98bb2f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《美德的动摇》是三岛由纪夫一九五七年发表的中期代表作，写二十八岁上流少妇节子在乏味婚姻与一次多年前拙笨的吻之间挣扎，最终与旧识土屋擦出她自认为“道德的恋爱“的火花，却发现肉体的解放并没有带来期待中的自由，反而亲手拆毁了自己赖以活着的幻觉。节子的教养是她的牢笼，她的道德是她的舞台布景，她所爱之人只是她脑海里一个永远不会长大、永远停留在那个拙笨之吻里的投影。当一切崩塌之后，她失去的不是一个情人，而是一面曾能映出自己“优雅“的镜子，剩下的只有落地窗旁的藤椅、午后消逝的阳光、模仿雕像的五分钟，以及一封写了又撕碎的长信——一本关于教养如何囚禁一个人、空想如何替代真实关系的残忍又温柔的临床报告。</itunes:summary>
+      <itunes:duration>00:23:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-98bb2f.mp3" length="22095405" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
