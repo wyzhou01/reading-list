@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 02:45:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 02:46:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17209,6 +17209,17 @@
       <itunes:duration>00:24:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-123b7c.mp3" length="23636397" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《飓光志·01·王者之路》 · 完整版 · 王者 · 完整讲读</title>
+      <description>《王者》是伊坂幸太郎二零零八至二零零九年间连载的长篇小说。仙醍国王队是一支从未赢过任何冠军的职棒垫底球队,老板服部勘吉却说它像仙醍峡谷的红叶——叶子没有输赢,只有准时赴约的骄傲。山田亮与桐子是一对痴迷于这支球队的夫妻,在他们的儿子王求出生的那个夜晚,球队以十五比一惨败,传奇教练南云慎平太意外离世。王求的名字被父亲拆成了“球”字,从此这个家庭把全部的爱与期待,都压在了一个孩子对棒球近乎本能的热爱之上。十五年后,王求站上了职业打击区,却在即将击出本垒打之前被刺伤倒地。他听着监狱里父亲带着七个犯人喊出的加油声,重新站起来,挥出了那一记穿透雨云的击球。它驱散了云层,也驱散了一个家族三十年的不安。这本书不讲逆天改命,只讲一家人如何在一场永远赢不了的球赛里,一遍又一遍地走上打击区。</description>
+      <pubDate>Thu, 27 Aug 2026 17:25:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-911c64</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《王者》是伊坂幸太郎二零零八至二零零九年间连载的长篇小说。仙醍国王队是一支从未赢过任何冠军的职棒垫底球队,老板服部勘吉却说它像仙醍峡谷的红叶——叶子没有输赢,只有准时赴约的骄傲。山田亮与桐子是一对痴迷于这支球队的夫妻,在他们的儿子王求出生的那个夜晚,球队以十五比一惨败,传奇教练南云慎平太意外离世。王求的名字被父亲拆成了“球”字,从此这个家庭把全部的爱与期待,都压在了一个孩子对棒球近乎本能的热爱之上。十五年后,王求站上了职业打击区,却在即将击出本垒打之前被刺伤倒地。他听着监狱里父亲带着七个犯人喊出的加油声,重新站起来,挥出了那一记穿透雨云的击球。它驱散了云层,也驱散了一个家族三十年的不安。这本书不讲逆天改命,只讲一家人如何在一场永远赢不了的球赛里,一遍又一遍地走上打击区。</itunes:summary>
+      <itunes:duration>00:20:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-911c64.mp3" length="20107821" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
