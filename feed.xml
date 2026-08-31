@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 03:36:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 03:43:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17308,6 +17308,17 @@
       <itunes:duration>00:16:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-e1283b.mp3" length="15848493" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《华音流韶·天剑伦》 · 完整版 · 华音系列-天剑伦 - 步非烟 · 完整讲读</title>
+      <description>《天剑伦》是步非烟《华音流韶》系列第四卷，写于二零零六年，是整个系列的转折点。故事以一张帕凡提女神像为引子，曼荼罗邪教屠灭藏西额伦寺，引发佛魔两界千年博弈。卓王孙为救挚爱步小鸾踏上求法之路，最终被执念吞噬为&quot;魔王之影&quot;；相思作为帕凡提转世在血脉与情感间撕裂；步小鸾则以凡人之躯承载神佛之力，成为三界命运的关键。全书熔传统武侠、藏传密宗、印度神话于一炉，核心追问的是：当凡人被推到神的位置上，他还能守住自己吗？守护与执念的界限在哪里？前世种下的因，是否真的注定今生的果？这是华语奇幻最具史诗野心的一部长篇，二十年后重读，依然锋利。</description>
+      <pubDate>Mon, 31 Aug 2026 03:42:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-d41efc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《天剑伦》是步非烟《华音流韶》系列第四卷，写于二零零六年，是整个系列的转折点。故事以一张帕凡提女神像为引子，曼荼罗邪教屠灭藏西额伦寺，引发佛魔两界千年博弈。卓王孙为救挚爱步小鸾踏上求法之路，最终被执念吞噬为&quot;魔王之影&quot;；相思作为帕凡提转世在血脉与情感间撕裂；步小鸾则以凡人之躯承载神佛之力，成为三界命运的关键。全书熔传统武侠、藏传密宗、印度神话于一炉，核心追问的是：当凡人被推到神的位置上，他还能守住自己吗？守护与执念的界限在哪里？前世种下的因，是否真的注定今生的果？这是华语奇幻最具史诗野心的一部长篇，二十年后重读，依然锋利。</itunes:summary>
+      <itunes:duration>00:27:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-d41efc.mp3" length="26363181" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
