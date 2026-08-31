@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 03:05:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 03:13:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17253,6 +17253,17 @@
       <itunes:duration>00:24:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-c265e7.mp3" length="23533485" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《飞向火星》 · 完整版 · 飞向火星 - [美]乔·霍尔德曼(joe Haldeman) · 完整讲读</title>
+      <description>二零零九年，乔·霍尔德曼的科幻小说《飞向火星》讲述了十八岁的卡门·杜拉随家人离开地球前往火星定居的故事。在六个月的航程里，她遇见了把自己活成僵尸的飞行员保罗·柯林斯；在火星表面，她遇见了一只奇怪的小火星生物——红先生。当一颗被恐怖分子劫持的登陆舱即将撞击地球时，保罗和红先生联手撞向了月球，用自己的生命拯救了地球。卡门用保罗求婚时留下的戒指，与他完成了跨越生死的婚礼；红先生的名字，成为她双胞胎男孩一生的印记。这部小说讲的不是星际冒险，而是爱、牺牲和&quot;家&quot;这三个字的真正重量。</description>
+      <pubDate>Mon, 31 Aug 2026 03:13:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-9677ad</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>二零零九年，乔·霍尔德曼的科幻小说《飞向火星》讲述了十八岁的卡门·杜拉随家人离开地球前往火星定居的故事。在六个月的航程里，她遇见了把自己活成僵尸的飞行员保罗·柯林斯；在火星表面，她遇见了一只奇怪的小火星生物——红先生。当一颗被恐怖分子劫持的登陆舱即将撞击地球时，保罗和红先生联手撞向了月球，用自己的生命拯救了地球。卡门用保罗求婚时留下的戒指，与他完成了跨越生死的婚礼；红先生的名字，成为她双胞胎男孩一生的印记。这部小说讲的不是星际冒险，而是爱、牺牲和&quot;家&quot;这三个字的真正重量。</itunes:summary>
+      <itunes:duration>00:32:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-9677ad.mp3" length="30865965" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
