@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 18:06:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 18:13:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17638,6 +17638,17 @@
       <itunes:duration>00:23:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-98bb2f.mp3" length="22095405" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《医生的修炼》 · 完整版 · 医生的修炼 · 完整讲读</title>
+      <description>《医生的修炼》是哈佛外科医生阿图·葛文德写给普通人的医学入门书。他用十余个真实病例告诉我们：医学从来不是非黑即白的科学，而是一门在不确定中修炼技艺的学问。从新手装中心静脉导管的紧张，到老医生凭直觉抢救窒息儿童时的“黑暗摸索”；从医生被同行纠正错误的瞬间，到好医生在压力下逐渐崩塌的漫长过程——这本书呈现了医学的真实面貌：混乱、麻烦、偶然，以及医生在压力下做出的判断。葛文德最深的洞察是：医学的进步，不只是医生个人的进步，而是系统的进步、协作的进步，是承认“我们都会犯错”，然后想办法让错误少发生一点点的进步。这本书在今天依然值得读，因为它提醒我们，无论技术如何进步，医学永远是一门关于人的学问。</description>
+      <pubDate>Mon, 31 Aug 2026 18:13:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-625d41</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《医生的修炼》是哈佛外科医生阿图·葛文德写给普通人的医学入门书。他用十余个真实病例告诉我们：医学从来不是非黑即白的科学，而是一门在不确定中修炼技艺的学问。从新手装中心静脉导管的紧张，到老医生凭直觉抢救窒息儿童时的“黑暗摸索”；从医生被同行纠正错误的瞬间，到好医生在压力下逐渐崩塌的漫长过程——这本书呈现了医学的真实面貌：混乱、麻烦、偶然，以及医生在压力下做出的判断。葛文德最深的洞察是：医学的进步，不只是医生个人的进步，而是系统的进步、协作的进步，是承认“我们都会犯错”，然后想办法让错误少发生一点点的进步。这本书在今天依然值得读，因为它提醒我们，无论技术如何进步，医学永远是一门关于人的学问。</itunes:summary>
+      <itunes:duration>00:26:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-625d41.mp3" length="25680813" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
