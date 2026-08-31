@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 18:13:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 18:17:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17649,6 +17649,17 @@
       <itunes:duration>00:26:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-625d41.mp3" length="25680813" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《有顶天家族》 · 完整版 · 有顶天家族_-_森见登美彦 · 完整讲读</title>
+      <description>《有顶天家族》是森见登美彦写给京都的一封情书。人类、狸猫、天狗三足鼎立，下鸭家四兄弟一边假装要替被煮成火锅的父亲报仇，一边在千年古都里喝酒、变身、暗恋不可能的人。矢三郎追着天狗之女弁天跑了一整本书，最后发现自己“狸猫果然是不行的“，但他还是年年夏天回家。这是写给所有“在原地打转却依然认真活着“的人的一本书，也是日本文坛最不正经也最深情的天才之作。</description>
+      <pubDate>Mon, 31 Aug 2026 18:17:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-cebe61</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《有顶天家族》是森见登美彦写给京都的一封情书。人类、狸猫、天狗三足鼎立，下鸭家四兄弟一边假装要替被煮成火锅的父亲报仇，一边在千年古都里喝酒、变身、暗恋不可能的人。矢三郎追着天狗之女弁天跑了一整本书，最后发现自己“狸猫果然是不行的“，但他还是年年夏天回家。这是写给所有“在原地打转却依然认真活着“的人的一本书，也是日本文坛最不正经也最深情的天才之作。</itunes:summary>
+      <itunes:duration>00:27:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-cebe61.mp3" length="26425005" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
