@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 01:35:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 01:41:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17088,6 +17088,17 @@
       <itunes:duration>00:33:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-d50b48.mp3" length="31833261" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《沧浪之道三部曲》 · 完整版 · 沧浪之道三部曲 · 完整讲读</title>
+      <description>《沧浪之道三部曲》是宋定国先生创作的长篇现实主义小说，分为《凤鸣龙啸》《绝处逢生》《水落石出》三部，讲述江南地级市江河市在换届风云、扫黑除恶、跨国追凶与国宝回归中的正邪博弈。小说以百万字篇幅，塑造了一群扎根基层、依靠群众、勇于斗争的党员干部形象，讴歌了信仰、智慧与压不垮的浩然正气，被誉为同类题材中难得一见的正气之作。</description>
+      <pubDate>Mon, 31 Aug 2026 01:41:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-3592f3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《沧浪之道三部曲》是宋定国先生创作的长篇现实主义小说，分为《凤鸣龙啸》《绝处逢生》《水落石出》三部，讲述江南地级市江河市在换届风云、扫黑除恶、跨国追凶与国宝回归中的正邪博弈。小说以百万字篇幅，塑造了一群扎根基层、依靠群众、勇于斗争的党员干部形象，讴歌了信仰、智慧与压不垮的浩然正气，被誉为同类题材中难得一见的正气之作。</itunes:summary>
+      <itunes:duration>00:23:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-3592f3.mp3" length="22689069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
