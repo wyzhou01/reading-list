@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 05:14:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 05:22:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17451,6 +17451,17 @@
       <itunes:duration>00:28:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-effadb.mp3" length="27358125" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《梅里美集(01)卡尔曼情变断魂录》 · 完整版 · 梅里美集(01)卡尔曼情变断魂录 · 完整讲读</title>
+      <description>本期精读梅里美中短篇小说选《卡尔曼情变断魂录》。从吉普赛女子卡尔曼与军官唐·何塞的毁灭之恋切入，延展至《马铁奥仗义斩子》的科西嘉荣誉、《达芒戈海上喋血记》的奴隶制批判、《费德里哥得道升天》的灵魂追问。六个核心拼图：自由、激情、异域、复仇、宿命、灵魂——拼出的不是异域传奇，而是每一个在「正常生活」里动过心的现代人。梅里美用浪漫主义的外衣，藏着现实主义的刀锋；不给你答案，只给你一面照见偏见与欲望的 X 光机。近两百年前的文字，依然能让今天的人心头一紧。</description>
+      <pubDate>Mon, 31 Aug 2026 05:22:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-38ef1a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期精读梅里美中短篇小说选《卡尔曼情变断魂录》。从吉普赛女子卡尔曼与军官唐·何塞的毁灭之恋切入，延展至《马铁奥仗义斩子》的科西嘉荣誉、《达芒戈海上喋血记》的奴隶制批判、《费德里哥得道升天》的灵魂追问。六个核心拼图：自由、激情、异域、复仇、宿命、灵魂——拼出的不是异域传奇，而是每一个在「正常生活」里动过心的现代人。梅里美用浪漫主义的外衣，藏着现实主义的刀锋；不给你答案，只给你一面照见偏见与欲望的 X 光机。近两百年前的文字，依然能让今天的人心头一紧。</itunes:summary>
+      <itunes:duration>00:24:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-38ef1a.mp3" length="23177133" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
