@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 02:12:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 02:19:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17154,6 +17154,17 @@
       <itunes:duration>00:28:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-7ab7e3.mp3" length="27766317" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《笛卡尔哲学原理（依几何学方式证明）》 · 完整版 · 笛卡尔哲学原理_依几何学方式证明 (汉译世界学术名著丛书) - 斯宾诺莎 · 完整讲读</title>
+      <description>一六六三年, 二十九岁的斯宾诺莎在阿姆斯特丹公开出版了一生中唯一署真名的著作《笛卡尔哲学原理》。表面上是依几何学方式证明笛卡尔哲学, 骨架里却藏着神即自然、实体一元、万物必然的革命思想。本书是《伦理学》几何学方法的预演, 也是近代哲学从笛卡尔式主体性走向斯宾诺莎式实体一元论的转折标本。读懂一个唯物主义者如何借别人的酒杯, 浇自己胸中的块垒, 也就读懂了近代世界何以成为今天这个样子。</description>
+      <pubDate>Mon, 31 Aug 2026 02:18:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-6f3928</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一六六三年, 二十九岁的斯宾诺莎在阿姆斯特丹公开出版了一生中唯一署真名的著作《笛卡尔哲学原理》。表面上是依几何学方式证明笛卡尔哲学, 骨架里却藏着神即自然、实体一元、万物必然的革命思想。本书是《伦理学》几何学方法的预演, 也是近代哲学从笛卡尔式主体性走向斯宾诺莎式实体一元论的转折标本。读懂一个唯物主义者如何借别人的酒杯, 浇自己胸中的块垒, 也就读懂了近代世界何以成为今天这个样子。</itunes:summary>
+      <itunes:duration>00:28:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-6f3928.mp3" length="27804717" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
