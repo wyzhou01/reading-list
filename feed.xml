@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 02:46:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 02:52:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17220,6 +17220,17 @@
       <itunes:duration>00:20:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-911c64.mp3" length="20107821" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《魔印人》 · 完整版 · 恶魔六部曲.01.魔印人 · 完整讲读</title>
+      <description>《魔印人》是一本后毁灭奇幻：人类曾靠魔印击败地心恶魔，却在安逸中遗忘一切，文明一夜崩塌。三条命运在同一个落日下交汇——少年亚伦丧母后独自走入黑夜，自学魔印反推恶魔巢穴；女战士黎莎剪短发扮男装，打破克拉西亚部族对女性的枷锁；老祭司罗杰守着学徒城最后几座藏书室，抵抗遗忘。这不是一个天选英雄拯救世界的故事，而是一个普通人怎么在每个平凡的白天，把自己活成那道看不见的墙。它讲的是：当恐惧可以被训练，勇气也可以，遗忘才是文明最大的敌人。</description>
+      <pubDate>Mon, 31 Aug 2026 02:52:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-ba8d75</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《魔印人》是一本后毁灭奇幻：人类曾靠魔印击败地心恶魔，却在安逸中遗忘一切，文明一夜崩塌。三条命运在同一个落日下交汇——少年亚伦丧母后独自走入黑夜，自学魔印反推恶魔巢穴；女战士黎莎剪短发扮男装，打破克拉西亚部族对女性的枷锁；老祭司罗杰守着学徒城最后几座藏书室，抵抗遗忘。这不是一个天选英雄拯救世界的故事，而是一个普通人怎么在每个平凡的白天，把自己活成那道看不见的墙。它讲的是：当恐惧可以被训练，勇气也可以，遗忘才是文明最大的敌人。</itunes:summary>
+      <itunes:duration>00:24:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-ba8d75.mp3" length="23758509" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
