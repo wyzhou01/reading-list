@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 04:51:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 04:57:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17418,6 +17418,17 @@
       <itunes:duration>00:33:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-23124b.mp3" length="32444205" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《暗夜独行客》 · 完整版 · 雷·布拉德伯里 - 暗夜独行客 · 完整讲读</title>
+      <description>本期节目为你精读雷·布拉德伯里首部正式授权的短篇自选集《暗夜独行客》。一百个故事,写孤独,写恐惧,写童年夏日里一双崭新的网球鞋,也写核战阴影下人们的麻木。布拉德伯里用诗一般的语言告诉你:当世界被电视墙塞满,当书籍变成违禁品,当散步的人被当作疯子——真正能救我们的,是想象力,是人文关怀,是那些在你心底不肯熄灭的小小火苗。</description>
+      <pubDate>Mon, 31 Aug 2026 04:57:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-9e095d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期节目为你精读雷·布拉德伯里首部正式授权的短篇自选集《暗夜独行客》。一百个故事,写孤独,写恐惧,写童年夏日里一双崭新的网球鞋,也写核战阴影下人们的麻木。布拉德伯里用诗一般的语言告诉你:当世界被电视墙塞满,当书籍变成违禁品,当散步的人被当作疯子——真正能救我们的,是想象力,是人文关怀,是那些在你心底不肯熄灭的小小火苗。</itunes:summary>
+      <itunes:duration>00:28:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-9e095d.mp3" length="27012525" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
