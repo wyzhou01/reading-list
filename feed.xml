@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 17:18:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 17:30:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17561,6 +17561,17 @@
       <itunes:duration>00:29:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-b1b1a0.mp3" length="28278573" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《零售心理战：不要为顾客着想，而是要站在顾客的立场上思考》 · 完整版 · 零售心理战 · 完整讲读</title>
+      <description>《零售心理战》是日本零售教父铃木敏文穷尽半个世纪零售经验，写给所有人——经营者、消费者、创业者——的一本消费心理学读本。全书以八十余位各界顶尖人物的访谈为线索，围绕销售力这一核心命题展开层层拆解。铃木敏文反复强调，销售力的本质不是把东西推出去，而是让顾客在心里说出三个字：买对了。为此，销售者必须从顾客立场而非卖方立场出发，深刻理解消费者的非理性、损失规避与机会损失三大底层心理，并在产品研发、定价、陈列、促销等每一个环节贯彻这一原则。在物质过剩的 M 型社会，真正稀缺的不是商品本身，而是顾客被选中的那一刻。本书给出了六块拼图：让顾客事后觉得买对了、理解顾客的非理性、消除决策那一刻的犹豫、不捉第二条泥鳅、从未来倒推现在警惕成功陷阱、消除机会损失。把这六个判断叠在一起，构成了铃木敏文一辈子信奉的一条原则：站在顾客的立场上思考。每一个想做出让人想买单的产品的人，都能从中找到自己下一阶段的方向。</description>
+      <pubDate>Mon, 31 Aug 2026 17:30:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-3793ad</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《零售心理战》是日本零售教父铃木敏文穷尽半个世纪零售经验，写给所有人——经营者、消费者、创业者——的一本消费心理学读本。全书以八十余位各界顶尖人物的访谈为线索，围绕销售力这一核心命题展开层层拆解。铃木敏文反复强调，销售力的本质不是把东西推出去，而是让顾客在心里说出三个字：买对了。为此，销售者必须从顾客立场而非卖方立场出发，深刻理解消费者的非理性、损失规避与机会损失三大底层心理，并在产品研发、定价、陈列、促销等每一个环节贯彻这一原则。在物质过剩的 M 型社会，真正稀缺的不是商品本身，而是顾客被选中的那一刻。本书给出了六块拼图：让顾客事后觉得买对了、理解顾客的非理性、消除决策那一刻的犹豫、不捉第二条泥鳅、从未来倒推现在警惕成功陷阱、消除机会损失。把这六个判断叠在一起，构成了铃木敏文一辈子信奉的一条原则：站在顾客的立场上思考。每一个想做出让人想买单的产品的人，都能从中找到自己下一阶段的方向。</itunes:summary>
+      <itunes:duration>00:31:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-3793ad.mp3" length="29998125" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
