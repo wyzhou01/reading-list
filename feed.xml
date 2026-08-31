@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 18:42:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 18:50:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17704,6 +17704,17 @@
       <itunes:duration>00:35:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-fccb5c.mp3" length="33773997" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《希腊人左巴》 · 完整版 · 希腊人左巴 · 完整讲读</title>
+      <description>《希腊人左巴》是希腊作家尼科斯·卡赞扎基斯的自传体哲思小说。困于书斋的叙述者带着未完成的手稿前往克里特开采褐煤，在码头偶遇矿工左巴——一个用身体唱歌、用大笑回应死亡、用桑图里代替哲学的粗粝灵魂。两人在海边共度数月，左巴用跳舞、喝酒、讲粗话的方式，逼叙述者直面自己“书虫”式的人生。最终左巴死于塞尔维亚的窗前，叙述者以一本书为他写下墓志铭。全书追问：人是为了想清楚才活，还是在行动中才能活出答案？身体与精神、死亡与狂欢、自由与禁锢的冲突，在克里特海风中得到最朴素的回答：生命不是等待想通，而是敢于投入。</description>
+      <pubDate>Mon, 31 Aug 2026 18:50:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-676527</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《希腊人左巴》是希腊作家尼科斯·卡赞扎基斯的自传体哲思小说。困于书斋的叙述者带着未完成的手稿前往克里特开采褐煤，在码头偶遇矿工左巴——一个用身体唱歌、用大笑回应死亡、用桑图里代替哲学的粗粝灵魂。两人在海边共度数月，左巴用跳舞、喝酒、讲粗话的方式，逼叙述者直面自己“书虫”式的人生。最终左巴死于塞尔维亚的窗前，叙述者以一本书为他写下墓志铭。全书追问：人是为了想清楚才活，还是在行动中才能活出答案？身体与精神、死亡与狂欢、自由与禁锢的冲突，在克里特海风中得到最朴素的回答：生命不是等待想通，而是敢于投入。</itunes:summary>
+      <itunes:duration>00:37:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-676527.mp3" length="36273069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
