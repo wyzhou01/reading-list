@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 02:33:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 02:39:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17187,6 +17187,17 @@
       <itunes:duration>00:33:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-0860a7.mp3" length="31758765" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《打破自我的标签》 · 完整版 · 打破自我的标签-陈虎平 · 完整讲读</title>
+      <description>《打破自我的标签》是陈虎平写给出身平凡却努力向上的中国青年的成长方法论。他从演化论出发，提出自我不是固定实体，而是基因、家庭、社会、时代多层力量共同塑造的产物。深度练习让人在小尺度上累积，十台阶论让人在中尺度上阶梯式升级，弱关系与社会化情感让人在大尺度上被时代平台托举。最后，多层演化论与科学自我观揭示：你并非自我的唯一作者，而是若干共同作者之一；打破标签的关键，是主动选择新的合著者，让自己成为下一个版本的自己。</description>
+      <pubDate>Mon, 31 Aug 2026 02:39:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-5997e0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《打破自我的标签》是陈虎平写给出身平凡却努力向上的中国青年的成长方法论。他从演化论出发，提出自我不是固定实体，而是基因、家庭、社会、时代多层力量共同塑造的产物。深度练习让人在小尺度上累积，十台阶论让人在中尺度上阶梯式升级，弱关系与社会化情感让人在大尺度上被时代平台托举。最后，多层演化论与科学自我观揭示：你并非自我的唯一作者，而是若干共同作者之一；打破标签的关键，是主动选择新的合著者，让自己成为下一个版本的自己。</itunes:summary>
+      <itunes:duration>00:32:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-5997e0.mp3" length="31167021" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
