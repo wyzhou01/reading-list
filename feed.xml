@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 03:25:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 03:31:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17286,6 +17286,17 @@
       <itunes:duration>00:24:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-59e1a3.mp3" length="23563821" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《赫拉克勒斯十二宗疑案》 · 完整版 · 赫拉克勒斯十二宗疑案 - 保罗霍尔特 · 完整讲读</title>
+      <description>《赫拉克勒斯十二宗疑案》是法国推理作家保罗·霍尔特二〇〇一年推出的欧文·伯恩斯系列第三部，故事设定在一九一〇年伦敦。狮子皮连续杀人魔按大力神赫拉克勒斯的十二项伟业逐一犯案，每一桩都是不可能犯罪；与此同时，肯特郡一位自称赫拉克勒斯的青年在翠径庄园悼念失踪的妻子，背后牵出童年的鸦片、父亲的故事与无法走出的模仿。本书以十二案对应神话圆环，用古典密室外壳包裹关于模仿、正义与疯狂的现代拷问，最终在壁炉的火中合上整个圆环。</description>
+      <pubDate>Mon, 31 Aug 2026 03:31:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-34abdd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《赫拉克勒斯十二宗疑案》是法国推理作家保罗·霍尔特二〇〇一年推出的欧文·伯恩斯系列第三部，故事设定在一九一〇年伦敦。狮子皮连续杀人魔按大力神赫拉克勒斯的十二项伟业逐一犯案，每一桩都是不可能犯罪；与此同时，肯特郡一位自称赫拉克勒斯的青年在翠径庄园悼念失踪的妻子，背后牵出童年的鸦片、父亲的故事与无法走出的模仿。本书以十二案对应神话圆环，用古典密室外壳包裹关于模仿、正义与疯狂的现代拷问，最终在壁炉的火中合上整个圆环。</itunes:summary>
+      <itunes:duration>00:19:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-34abdd.mp3" length="18876717" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
