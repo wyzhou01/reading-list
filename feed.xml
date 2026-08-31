@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 02:58:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 03:05:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17242,6 +17242,17 @@
       <itunes:duration>00:23:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-4d54ce.mp3" length="22838829" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《浮想录》 · 完整版 · 浮想录 · 完整讲读</title>
+      <description>《浮想录》是历史学家陈旭麓先生在一九七七年至一九八八年间写下的思想短语集，记录了一位中国知识人在思想解禁之初对历史、现实与未来的独立思索。本书围绕史学的眼睛、中国近代社会的新陈代谢、思想解放的艰难、中西碰撞下的民族心态以及改革与革命的辩证关系五大主题展开。陈旭麓用一千多条短语、十六万一千字的篇幅，留下了一位学者在特殊年代里最深沉的精神自画像，也为今天的读者提供了一双看清历史与现实的史家之眼。</description>
+      <pubDate>Mon, 31 Aug 2026 03:05:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-c265e7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《浮想录》是历史学家陈旭麓先生在一九七七年至一九八八年间写下的思想短语集，记录了一位中国知识人在思想解禁之初对历史、现实与未来的独立思索。本书围绕史学的眼睛、中国近代社会的新陈代谢、思想解放的艰难、中西碰撞下的民族心态以及改革与革命的辩证关系五大主题展开。陈旭麓用一千多条短语、十六万一千字的篇幅，留下了一位学者在特殊年代里最深沉的精神自画像，也为今天的读者提供了一双看清历史与现实的史家之眼。</itunes:summary>
+      <itunes:duration>00:24:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-c265e7.mp3" length="23533485" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
