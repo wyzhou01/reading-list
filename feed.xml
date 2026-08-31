@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 09:26:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 17:18:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17550,6 +17550,17 @@
       <itunes:duration>00:33:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-fb1fb0.mp3" length="32628525" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《日本维新史：日本明治时期的政治与经济》 · 完整版 · 日本维新史 · 完整讲读</title>
+      <description>《日本维新史》是加拿大学者赫伯特·诺曼一九四零年的先驱之作，用马克思主义唯物史观解剖明治维新。诺曼揭示：维新不是奇迹，而是封建商人、下级武士与现代官僚之间的政治交易。官僚掌权后，通过土地改革榨取农民剩余价值，通过军工优先的工业化道路，把整个国家绑上对外扩张的战车。政党先天残废，农民是真正买单者，扩张是结构性必然。本书既是历史著作，也是对一九四零年日本法西斯化的精准预判，理解日本现代化绕不开的经典。</description>
+      <pubDate>Mon, 31 Aug 2026 17:18:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-b1b1a0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《日本维新史》是加拿大学者赫伯特·诺曼一九四零年的先驱之作，用马克思主义唯物史观解剖明治维新。诺曼揭示：维新不是奇迹，而是封建商人、下级武士与现代官僚之间的政治交易。官僚掌权后，通过土地改革榨取农民剩余价值，通过军工优先的工业化道路，把整个国家绑上对外扩张的战车。政党先天残废，农民是真正买单者，扩张是结构性必然。本书既是历史著作，也是对一九四零年日本法西斯化的精准预判，理解日本现代化绕不开的经典。</itunes:summary>
+      <itunes:duration>00:29:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-b1b1a0.mp3" length="28278573" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
