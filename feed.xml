@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 18:17:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 18:24:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17660,6 +17660,17 @@
       <itunes:duration>00:27:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-cebe61.mp3" length="26425005" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《上帝造人有多难：生命的密钥》 · 完整版 · 上帝造人有多难：生命的密钥 · 完整讲读</title>
+      <description>《上帝造人有多难，生命的密钥》不是一本传统生物教科书，作者朱钦士跳开蛋白质一级结构和中心法则等“经典知识”，把镜头拉到了宇宙演化的尺度上追问生命现象的来由。全书从宇宙大爆炸讲起，告诉你组成你身体的碳、氧、氮、磷这些元素，是在大质量恒星内核的核聚变和超新星爆发中炼成的；氨基酸和核苷酸可以在星际尘埃和原始地球的火山环境中自然合成；生命在水和液态介质里开始组装。我们进一步聊到细胞里成千上万种分子如何在没有“眼睛”和“警察”的情况下互相识别和组装，聊到遗传学之外的外遗传机制如何让父母的经历通过化学标记影响下一代，聊到性为什么在演化中成为主流因为基因重组能让后代跳出病原体的军备竞赛，聊到干细胞和克隆的真实边界，聊到智力的生理基础与极限，聊到经络现象在现代神经科学框架下可能的对应物。整本书的核心信念，是生命现象没有奇迹，只有还没被理解的分子机制。听完这本书，你对自己从哪里来、为什么是现在的样子，会换一套底层代码。</description>
+      <pubDate>Mon, 31 Aug 2026 18:24:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-2598e1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《上帝造人有多难，生命的密钥》不是一本传统生物教科书，作者朱钦士跳开蛋白质一级结构和中心法则等“经典知识”，把镜头拉到了宇宙演化的尺度上追问生命现象的来由。全书从宇宙大爆炸讲起，告诉你组成你身体的碳、氧、氮、磷这些元素，是在大质量恒星内核的核聚变和超新星爆发中炼成的；氨基酸和核苷酸可以在星际尘埃和原始地球的火山环境中自然合成；生命在水和液态介质里开始组装。我们进一步聊到细胞里成千上万种分子如何在没有“眼睛”和“警察”的情况下互相识别和组装，聊到遗传学之外的外遗传机制如何让父母的经历通过化学标记影响下一代，聊到性为什么在演化中成为主流因为基因重组能让后代跳出病原体的军备竞赛，聊到干细胞和克隆的真实边界，聊到智力的生理基础与极限，聊到经络现象在现代神经科学框架下可能的对应物。整本书的核心信念，是生命现象没有奇迹，只有还没被理解的分子机制。听完这本书，你对自己从哪里来、为什么是现在的样子，会换一套底层代码。</itunes:summary>
+      <itunes:duration>00:34:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-2598e1.mp3" length="32971437" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
