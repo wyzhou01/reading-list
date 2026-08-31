@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 05:22:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 05:28:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17462,6 +17462,17 @@
       <itunes:duration>00:24:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-38ef1a.mp3" length="23177133" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《秘密调查师3·家族阴谋》 · 完整版 · 秘密调查师3·家族阴谋 - 永城 · 完整讲读</title>
+      <description>《秘密调查师3·家族阴谋》是永城的代表作，讲述GRE中国区副执行董事Steve（真名夏冬）在东京培训期间发现上司马克勾结日本情报贩子羽村家族，盗卖公司核心调查报告牟取暴利。返京后他接下东莞银河置业出纳失踪案，却意外重逢十一年前洛杉矶留学时的好友林俊文——一位被父亲林维仁以血缘和婚姻双重锁死的香港豪门少爷。为帮阿文夺回家业、揭穿林家二十年的代际阴谋，Steve孤身周旋于林氏集团、青岛国企高管冯军、日本黑道与GRE全球CEO杰森·布朗之间，五座城市五场博弈，最终他不仅为朋友赢回家业，也在这场战争中允许被自己压抑十年的&quot;夏冬&quot;重新在场，完成了一次迟到十年的自我和解。</description>
+      <pubDate>Mon, 31 Aug 2026 05:28:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-49502b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《秘密调查师3·家族阴谋》是永城的代表作，讲述GRE中国区副执行董事Steve（真名夏冬）在东京培训期间发现上司马克勾结日本情报贩子羽村家族，盗卖公司核心调查报告牟取暴利。返京后他接下东莞银河置业出纳失踪案，却意外重逢十一年前洛杉矶留学时的好友林俊文——一位被父亲林维仁以血缘和婚姻双重锁死的香港豪门少爷。为帮阿文夺回家业、揭穿林家二十年的代际阴谋，Steve孤身周旋于林氏集团、青岛国企高管冯军、日本黑道与GRE全球CEO杰森·布朗之间，五座城市五场博弈，最终他不仅为朋友赢回家业，也在这场战争中允许被自己压抑十年的&quot;夏冬&quot;重新在场，完成了一次迟到十年的自我和解。</itunes:summary>
+      <itunes:duration>00:27:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-49502b.mp3" length="26236461" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
