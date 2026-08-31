@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 03:49:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 03:58:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17330,6 +17330,17 @@
       <itunes:duration>00:25:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-7a3c41.mp3" length="24152109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《银河之心·01·天垂日暮》 · 完整版 · 江波 - 银河之心·01·天垂日暮 · 完整讲读</title>
+      <description>《银河之心·零一·天垂日暮》是江波创作的硬派星域史诗，讲述了破产船长李约素闯入黄金星球蜘蛛星后，意外卷入一场人类对抗暗黑深渊的星际战争。少年落亦在垂直通道中为救妹妹险些丧命，女将军苏北旦用百年时光在废墟上建起抵抗联盟，最终在银河之心的凝视下安详离世。江波用克制的笔触，为中国科幻写出了属于自己的宇宙观——人类对抗深渊的力量，不是科技，不是舰队，而是每一个普通人心里那点不肯熄灭的火。</description>
+      <pubDate>Mon, 31 Aug 2026 03:58:46 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-6451e0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《银河之心·零一·天垂日暮》是江波创作的硬派星域史诗，讲述了破产船长李约素闯入黄金星球蜘蛛星后，意外卷入一场人类对抗暗黑深渊的星际战争。少年落亦在垂直通道中为救妹妹险些丧命，女将军苏北旦用百年时光在废墟上建起抵抗联盟，最终在银河之心的凝视下安详离世。江波用克制的笔触，为中国科幻写出了属于自己的宇宙观——人类对抗深渊的力量，不是科技，不是舰队，而是每一个普通人心里那点不肯熄灭的火。</itunes:summary>
+      <itunes:duration>00:35:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-6451e0.mp3" length="34439853" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
