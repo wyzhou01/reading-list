@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 17:30:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 17:37:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17572,6 +17572,17 @@
       <itunes:duration>00:31:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-3793ad.mp3" length="29998125" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《现代日本（牛津通识读本）》 · 完整版 · 牛津通识读本：现代日本（中文版） · 完整讲读</title>
+      <description>本书由英国学者戈托-琼斯撰写，以&apos;现代性&apos;为线索重新审视日本从德川幕府末期到21世纪初的近现代史。它追问：日本作为第一个实现现代化的非西方国家，其&apos;现代&apos;究竟意味着什么？书中既梳理了黑船来航、明治维新、大正民主、战时体制、经济奇迹等关键节点，也探讨了战后宪法、靖国神社、&apos;正常国家&apos;诉求与奥姆真理教事件等当代议题，试图打破&apos;东方vs西方&apos;&apos;传统vs现代&apos;的刻板对照。</description>
+      <pubDate>Mon, 31 Aug 2026 17:37:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-cfe9fb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书由英国学者戈托-琼斯撰写，以&apos;现代性&apos;为线索重新审视日本从德川幕府末期到21世纪初的近现代史。它追问：日本作为第一个实现现代化的非西方国家，其&apos;现代&apos;究竟意味着什么？书中既梳理了黑船来航、明治维新、大正民主、战时体制、经济奇迹等关键节点，也探讨了战后宪法、靖国神社、&apos;正常国家&apos;诉求与奥姆真理教事件等当代议题，试图打破&apos;东方vs西方&apos;&apos;传统vs现代&apos;的刻板对照。</itunes:summary>
+      <itunes:duration>00:29:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-cfe9fb.mp3" length="27933357" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
