@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 04:37:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 04:44:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17396,6 +17396,17 @@
       <itunes:duration>00:31:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-72689e.mp3" length="29975085" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《裸阳》 · 完整版 · 裸阳 - （美）艾萨克·阿西莫夫 · 完整讲读</title>
+      <description>一九五七年的科幻神作《裸阳》，讲地球刑警伊利亚·贝莱被外星人接走、前往人口稀少却满是机器人的索拉利世界，去侦破一桩按机器人第一法则本不可能发生的谋杀。阿西莫夫借这桩案子，连环抛出六块拼图：恐惧是被教出来的，最像人的反而是机器人，最舒服的世界反而最先杀死人，第一法则管得住金属却管不住被逼到角落的人类，人性是一种行为而不是一种血脉，地球若想不被时代淘汰就必须向上走出钢穴。本期音频用九十分钟的篇幅，把这桩外星谋杀案从头讲透，并把它读成一份关于人类未来的诊断书。</description>
+      <pubDate>Mon, 31 Aug 2026 04:44:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-9698e5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九五七年的科幻神作《裸阳》，讲地球刑警伊利亚·贝莱被外星人接走、前往人口稀少却满是机器人的索拉利世界，去侦破一桩按机器人第一法则本不可能发生的谋杀。阿西莫夫借这桩案子，连环抛出六块拼图：恐惧是被教出来的，最像人的反而是机器人，最舒服的世界反而最先杀死人，第一法则管得住金属却管不住被逼到角落的人类，人性是一种行为而不是一种血脉，地球若想不被时代淘汰就必须向上走出钢穴。本期音频用九十分钟的篇幅，把这桩外星谋杀案从头讲透，并把它读成一份关于人类未来的诊断书。</itunes:summary>
+      <itunes:duration>00:29:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-9698e5.mp3" length="27910317" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
