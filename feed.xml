@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 17:37:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 17:43:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17583,6 +17583,17 @@
       <itunes:duration>00:29:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-cfe9fb.mp3" length="27933357" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《汉武帝：皇权的逻辑》 · 完整版 · 汉武帝：皇权的逻辑 · 完整讲读</title>
+      <description>《汉武帝：皇权的逻辑》是雾满拦江以马基雅维利视角重审汉武帝的非传统传记。本书跳出道德评判，把汉武帝的五十年当作一台国家机器来分析：他如何用推恩令切碎诸侯、用盐铁官营抽干商路、用酷吏政治清洗豪强，再把所有资源砸进北伐匈奴的战争。整个帝国被他打空了大半个国库，换来的是一个叫“汉”的民族共同体的真正形成。书中最具颠覆性的章节，是把汉武帝晚年的巫蛊之祸、托孤、钩弋夫人之死，重新梳理为霍光与匈奴降臣金日磾联手操控的政变叙事，颠覆了千年来“英主托孤”的正统结论。读这本书，理解权力如何在道德之外运转，理解当权力失控时，帝王本人也会沦为猎物。</description>
+      <pubDate>Mon, 31 Aug 2026 17:43:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-1c00bc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《汉武帝：皇权的逻辑》是雾满拦江以马基雅维利视角重审汉武帝的非传统传记。本书跳出道德评判，把汉武帝的五十年当作一台国家机器来分析：他如何用推恩令切碎诸侯、用盐铁官营抽干商路、用酷吏政治清洗豪强，再把所有资源砸进北伐匈奴的战争。整个帝国被他打空了大半个国库，换来的是一个叫“汉”的民族共同体的真正形成。书中最具颠覆性的章节，是把汉武帝晚年的巫蛊之祸、托孤、钩弋夫人之死，重新梳理为霍光与匈奴降臣金日磾联手操控的政变叙事，颠覆了千年来“英主托孤”的正统结论。读这本书，理解权力如何在道德之外运转，理解当权力失控时，帝王本人也会沦为猎物。</itunes:summary>
+      <itunes:duration>00:22:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-1c00bc.mp3" length="21905709" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
