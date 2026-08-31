@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 08:56:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 09:05:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17517,6 +17517,17 @@
       <itunes:duration>00:35:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-50fb17.mp3" length="33656109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《诺贝尔文学奖 美国国家图书奖等得奖作者作品精选集(套装9册)》 · 完整版 · 诺贝尔文学奖 美国国家图书奖等得奖作者作品精选集(套装9册) · 完整讲读</title>
+      <description>诺贝尔文学奖得主阿列克谢耶维奇九册纪实文学精选：白俄罗斯作家以口述史与文献文学，记录切尔诺贝利、阿富汗战争、苏联解体等历史创伤中普通人的肉身经验；搭配中国作家丁燕《工厂女孩》，记录东莞电子厂底层女工的劳作与疼痛。两代作者相隔万里，共享同一种方法——让最卑微的人亲口讲自己的故事，拒绝宏大叙事，保留下最微小却刺目的真实。在算法与短视频席卷注意力的年代，这种笨拙的、要求读者停下翻页速度的书写，是对抗遗忘最有力的方式。</description>
+      <pubDate>Mon, 31 Aug 2026 09:05:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-106d30</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>诺贝尔文学奖得主阿列克谢耶维奇九册纪实文学精选：白俄罗斯作家以口述史与文献文学，记录切尔诺贝利、阿富汗战争、苏联解体等历史创伤中普通人的肉身经验；搭配中国作家丁燕《工厂女孩》，记录东莞电子厂底层女工的劳作与疼痛。两代作者相隔万里，共享同一种方法——让最卑微的人亲口讲自己的故事，拒绝宏大叙事，保留下最微小却刺目的真实。在算法与短视频席卷注意力的年代，这种笨拙的、要求读者停下翻页速度的书写，是对抗遗忘最有力的方式。</itunes:summary>
+      <itunes:duration>00:29:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-106d30.mp3" length="28359597" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
