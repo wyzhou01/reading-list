@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 18:24:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 18:25:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17671,6 +17671,17 @@
       <itunes:duration>00:34:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-2598e1.mp3" length="32971437" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《恨，友谊，追求，爱情，婚姻》 · 完整版 · 恨，友谊，追求，爱情，婚姻-艾丽丝·门罗（译林出版社）（正版）（少于10人） · 完整讲读</title>
+      <description>本书是二零一三年诺贝尔文学奖得主艾丽丝·门罗晚期的成熟之作，收录九篇短篇，全部聚焦加拿大安大略省小镇女性的隐秘心理。门罗用克制的笔触，写托运家具的女人如何在沉默中奔向一个她以为是爱情的幻象，写一个十三岁的女孩如何在沉默中编造一封伪造的情书、毁掉一个女人的人生，写一个迟暮之年的男人如何在沉默中重新面对爱情与算计，写一个把智障儿子送走的母亲如何在十年后假装记不清那个名字。九个故事，九个女人，九种沉默，门罗从来不喊不叫，只是把日常生活的表皮轻轻揭开，让你看见底下涌动的暗流。</description>
+      <pubDate>Mon, 31 Aug 2026 18:25:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-852d68</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是二零一三年诺贝尔文学奖得主艾丽丝·门罗晚期的成熟之作，收录九篇短篇，全部聚焦加拿大安大略省小镇女性的隐秘心理。门罗用克制的笔触，写托运家具的女人如何在沉默中奔向一个她以为是爱情的幻象，写一个十三岁的女孩如何在沉默中编造一封伪造的情书、毁掉一个女人的人生，写一个迟暮之年的男人如何在沉默中重新面对爱情与算计，写一个把智障儿子送走的母亲如何在十年后假装记不清那个名字。九个故事，九个女人，九种沉默，门罗从来不喊不叫，只是把日常生活的表皮轻轻揭开，让你看见底下涌动的暗流。</itunes:summary>
+      <itunes:duration>00:30:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-852d68.mp3" length="28889901" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
