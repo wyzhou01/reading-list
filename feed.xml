@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 01:59:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 02:06:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17132,6 +17132,17 @@
       <itunes:duration>00:29:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-79d38c.mp3" length="28373421" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《成为和平饭店》 · 完整版 · 成为和平饭店（外滩三部曲系列） - 陈丹燕 · 完整讲读</title>
+      <description>陈丹燕的《成为和平饭店》是一部以非虚构小说笔法书写上海外滩和平饭店历史的作品。作者历时八年查阅档案、走访当事人，将这座曾名为沙逊大厦、华懋饭店的建筑，与一九五二年&apos;五反&apos;运动中民族资本家的命运、九〇年代老建筑改造工程、几代上海人的家族离散故事熔于一炉。本书的核心追问是：建筑如何承载城市记忆？那些即将消失的名字与物件，如何被保存下来？陈丹燕以一把勺子、一只杯垫、一封沙逊家族信件原件等真实物件为支点，撬起了一段被压抑、被遗忘的上海摩登史。在这座建筑里，一九五二年的资本家们走进沙逊大厦交代问题，二〇〇八到二〇一〇年间费尔蒙特集团改造老建筑，今日的和平饭店则在金碧辉煌中继续接待八方来客。这本书提醒我们：每一块砖石都可能是历史的容器，每一个消失的名字都值得被记住。在城市变迁剧烈的今天，重读这本书，是对一座城市、一种记忆、一段历史的致敬。</description>
+      <pubDate>Mon, 31 Aug 2026 02:06:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-b29ba9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>陈丹燕的《成为和平饭店》是一部以非虚构小说笔法书写上海外滩和平饭店历史的作品。作者历时八年查阅档案、走访当事人，将这座曾名为沙逊大厦、华懋饭店的建筑，与一九五二年&apos;五反&apos;运动中民族资本家的命运、九〇年代老建筑改造工程、几代上海人的家族离散故事熔于一炉。本书的核心追问是：建筑如何承载城市记忆？那些即将消失的名字与物件，如何被保存下来？陈丹燕以一把勺子、一只杯垫、一封沙逊家族信件原件等真实物件为支点，撬起了一段被压抑、被遗忘的上海摩登史。在这座建筑里，一九五二年的资本家们走进沙逊大厦交代问题，二〇〇八到二〇一〇年间费尔蒙特集团改造老建筑，今日的和平饭店则在金碧辉煌中继续接待八方来客。这本书提醒我们：每一块砖石都可能是历史的容器，每一个消失的名字都值得被记住。在城市变迁剧烈的今天，重读这本书，是对一座城市、一种记忆、一段历史的致敬。</itunes:summary>
+      <itunes:duration>00:32:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-b29ba9.mp3" length="31312173" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
