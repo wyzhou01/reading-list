@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 03:43:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 03:49:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17319,6 +17319,17 @@
       <itunes:duration>00:27:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-d41efc.mp3" length="26363181" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《天年》 · 完整版 · 何夕 - 天年 · 完整讲读</title>
+      <description>何夕科幻长篇《天年》讲述了一个中国科学家在哥本哈根气候大会上意外发现太阳本体发出的异常信号，由此揭开整个物种周期毁灭机制——天年的倒计时。小说以横跨元古代震旦纪到二十一世纪的史诗叙事，描绘了科学家群体、宗教、政治、军队在末日倒计时下的反应，最终人类启动破碎虚空工程，第一次在宇宙尺度上推动了一颗恒星。本书是中国科幻首次正面回应物种级终点的代表作，刘慈欣评价它在宇宙面前，人是蜉蝣。</description>
+      <pubDate>Mon, 31 Aug 2026 03:49:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-7a3c41</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>何夕科幻长篇《天年》讲述了一个中国科学家在哥本哈根气候大会上意外发现太阳本体发出的异常信号，由此揭开整个物种周期毁灭机制——天年的倒计时。小说以横跨元古代震旦纪到二十一世纪的史诗叙事，描绘了科学家群体、宗教、政治、军队在末日倒计时下的反应，最终人类启动破碎虚空工程，第一次在宇宙尺度上推动了一颗恒星。本书是中国科幻首次正面回应物种级终点的代表作，刘慈欣评价它在宇宙面前，人是蜉蝣。</itunes:summary>
+      <itunes:duration>00:25:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-7a3c41.mp3" length="24152109" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
