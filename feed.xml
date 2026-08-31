@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 17:48:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 17:52:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17605,6 +17605,17 @@
       <itunes:duration>00:23:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-1bd47c.mp3" length="22682541" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《星际掠食》 · 完整版 · 星际掠食_-_长铗 · 完整讲读</title>
+      <description>《星际掠食》是长铗(二零一五年江苏凤凰文艺出版)中短篇科幻精选集,收录《星际掠食》《屠龙之技》《昆仑》《六百七十四号公路》《扶桑之伤》《麦田里的中国王子》《昔日玫瑰》《梅花杰克》七篇代表作。夏笳作序,长铗与夏笳同为双子座、均出道于二零零年代中国科幻第二个黄金期。长铗是&apos;技术宅&apos;科幻代表,科学梗层出,行文像侦探小说,适合雨夜下酒。贯穿全书的母题是&apos;中国王子与屠龙之技的现代性悖论&apos;:一个野心勃勃、求知若渴的中国式堂吉诃德,妄想掌握屠龙之技,却因概率不为零的宿命,即便看见底牌也挡不住历史车轮——杨辉三角里每一格都是一条路径,堵住一条,还有无数条通向同一个最坏的结局。本书用硬科幻的外壳,重新想象鸦片战争、东西方文明碰撞、王朝更替,写出了百年中国科幻最核心的创伤情结,也为所有&apos;明知道大概率会失败,还打算认真活一次&apos;的后来者,留了一份硬骨头指南。</description>
+      <pubDate>Mon, 31 Aug 2026 17:52:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-8a4d06</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《星际掠食》是长铗(二零一五年江苏凤凰文艺出版)中短篇科幻精选集,收录《星际掠食》《屠龙之技》《昆仑》《六百七十四号公路》《扶桑之伤》《麦田里的中国王子》《昔日玫瑰》《梅花杰克》七篇代表作。夏笳作序,长铗与夏笳同为双子座、均出道于二零零年代中国科幻第二个黄金期。长铗是&apos;技术宅&apos;科幻代表,科学梗层出,行文像侦探小说,适合雨夜下酒。贯穿全书的母题是&apos;中国王子与屠龙之技的现代性悖论&apos;:一个野心勃勃、求知若渴的中国式堂吉诃德,妄想掌握屠龙之技,却因概率不为零的宿命,即便看见底牌也挡不住历史车轮——杨辉三角里每一格都是一条路径,堵住一条,还有无数条通向同一个最坏的结局。本书用硬科幻的外壳,重新想象鸦片战争、东西方文明碰撞、王朝更替,写出了百年中国科幻最核心的创伤情结,也为所有&apos;明知道大概率会失败,还打算认真活一次&apos;的后来者,留了一份硬骨头指南。</itunes:summary>
+      <itunes:duration>00:37:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-8a4d06.mp3" length="35867181" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
