@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 17:43:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 17:48:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17594,6 +17594,17 @@
       <itunes:duration>00:22:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-1c00bc.mp3" length="21905709" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《溥仪藏宝录》 · 完整版 · 溥仪藏宝录_-_景旭枫 · 完整讲读</title>
+      <description>《溥仪藏宝录》是景旭枫二零一三年出版的悬疑探险小说。故事从神探世家后人萧伟的祖父临终遗言讲起，他在病床上手书“盒子”二字，引出一场跨越百年的藏宝迷局：清初多尔衮留下的觐天宝匣随清朝历代皇帝传承，藏着关外复辟宝藏；一九三一年崔二侉子从皇太极清昭陵盗出此匣，神探萧剑南奉命守护，与日本特高课周旋；多年后，萧伟循着祖父留下的九九拼图、迷宫锁、双头钥匙与一百零八本日记，一步步破解真相，最终明白这场守护真正要传递的，不是宝藏，而是善待自己与身边人的深情。</description>
+      <pubDate>Mon, 31 Aug 2026 17:48:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-1bd47c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《溥仪藏宝录》是景旭枫二零一三年出版的悬疑探险小说。故事从神探世家后人萧伟的祖父临终遗言讲起，他在病床上手书“盒子”二字，引出一场跨越百年的藏宝迷局：清初多尔衮留下的觐天宝匣随清朝历代皇帝传承，藏着关外复辟宝藏；一九三一年崔二侉子从皇太极清昭陵盗出此匣，神探萧剑南奉命守护，与日本特高课周旋；多年后，萧伟循着祖父留下的九九拼图、迷宫锁、双头钥匙与一百零八本日记，一步步破解真相，最终明白这场守护真正要传递的，不是宝藏，而是善待自己与身边人的深情。</itunes:summary>
+      <itunes:duration>00:23:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-1bd47c.mp3" length="22682541" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
