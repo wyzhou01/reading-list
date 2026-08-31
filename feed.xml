@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 03:13:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 03:19:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17264,6 +17264,17 @@
       <itunes:duration>00:32:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-9677ad.mp3" length="30865965" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《古拉格群岛》 · 完整版 · 古拉格群岛（上中下） · 完整讲读</title>
+      <description>《古拉格群岛》是索尔仁尼琴用十年秘密写作完成的巨著。全书以“群岛”为喻，揭示苏联劳改制度如何像无数小岛一样渗透整个社会，把千百万人悄然吞噬。从夜间逮捕、撬门搜查，到内务部系统的“分摊罪恶”，再到铁丝网内灵魂的瓦解与抵抗，索尔仁尼琴用两百多位受害者的真实口述，重建了一座极权机器从外部运转到内部吞噬的完整图景。本书的核心追问是：当一整部国家机器都依赖“沉默的大多数”才能运转时，个体究竟还能不能、敢不敢、用什么方式，把那句真话说出来。它既是二十世纪最重要的见证文学，也是给每一个普通人的提醒。</description>
+      <pubDate>Mon, 31 Aug 2026 03:19:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-e912cc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《古拉格群岛》是索尔仁尼琴用十年秘密写作完成的巨著。全书以“群岛”为喻，揭示苏联劳改制度如何像无数小岛一样渗透整个社会，把千百万人悄然吞噬。从夜间逮捕、撬门搜查，到内务部系统的“分摊罪恶”，再到铁丝网内灵魂的瓦解与抵抗，索尔仁尼琴用两百多位受害者的真实口述，重建了一座极权机器从外部运转到内部吞噬的完整图景。本书的核心追问是：当一整部国家机器都依赖“沉默的大多数”才能运转时，个体究竟还能不能、敢不敢、用什么方式，把那句真话说出来。它既是二十世纪最重要的见证文学，也是给每一个普通人的提醒。</itunes:summary>
+      <itunes:duration>00:27:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-e912cc.mp3" length="26353965" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
