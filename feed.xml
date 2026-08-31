@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 03:19:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 03:25:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17275,6 +17275,17 @@
       <itunes:duration>00:27:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-e912cc.mp3" length="26353965" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《祸国》 · 完整版 · 祸国（全两册） · 完整讲读</title>
+      <description>《祸国》是网文作家十四阙的代表作，讲述了璧国第一美人姜沉鱼从懵懂少女成长为一代女帝的悲剧史诗。姜沉鱼入宫、赴程、乱世称帝，期间与天才少年薛采、完美丞相姬婴、程国少主程颐非之间发生了令人心碎的命运交织。薛采十五岁早逝，姬婴为家族放弃自我，程颐非与她共同经历国仇家恨后终成眷属。这部书真正要讲的&apos;祸国&apos;，不是倾覆家邦，而是成长的代价本身——所谓国殇，是一个人为了成为自己，必须付出的全部牺牲。</description>
+      <pubDate>Mon, 31 Aug 2026 03:25:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-59e1a3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《祸国》是网文作家十四阙的代表作，讲述了璧国第一美人姜沉鱼从懵懂少女成长为一代女帝的悲剧史诗。姜沉鱼入宫、赴程、乱世称帝，期间与天才少年薛采、完美丞相姬婴、程国少主程颐非之间发生了令人心碎的命运交织。薛采十五岁早逝，姬婴为家族放弃自我，程颐非与她共同经历国仇家恨后终成眷属。这部书真正要讲的&apos;祸国&apos;，不是倾覆家邦，而是成长的代价本身——所谓国殇，是一个人为了成为自己，必须付出的全部牺牲。</itunes:summary>
+      <itunes:duration>00:24:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-59e1a3.mp3" length="23563821" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
