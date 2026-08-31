@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 01:22:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 01:28:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17066,6 +17066,17 @@
       <itunes:duration>00:24:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-d71635.mp3" length="23327277" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《比尔斯魔鬼杰作选集》 · 完整版 · 比尔斯魔鬼杰作选集（魔鬼日记 魔鬼小说共2册） · 完整讲读</title>
+      <description>《比尔斯魔鬼杰作选集》收录美国讽刺大师安布罗斯·比尔斯的两部代表作——《魔鬼辞典》与《魔鬼小说》。本书用辞典的形式解构日常词汇，用小说的形式解构人性与死亡，在戏谑与冷峻之间刺向镀金时代的虚伪。比尔斯留下的真正遗产，不是具体的词条，而是一种&quot;俏皮&quot;的精神姿态——拒绝被任何权威彻底压垮，也拒绝让俏皮变成另一种油腻。一本一百多年前反过来写的字典，至今仍在教我们如何清醒地、带着微笑地活着。</description>
+      <pubDate>Mon, 31 Aug 2026 01:28:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-3677a1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《比尔斯魔鬼杰作选集》收录美国讽刺大师安布罗斯·比尔斯的两部代表作——《魔鬼辞典》与《魔鬼小说》。本书用辞典的形式解构日常词汇，用小说的形式解构人性与死亡，在戏谑与冷峻之间刺向镀金时代的虚伪。比尔斯留下的真正遗产，不是具体的词条，而是一种&quot;俏皮&quot;的精神姿态——拒绝被任何权威彻底压垮，也拒绝让俏皮变成另一种油腻。一本一百多年前反过来写的字典，至今仍在教我们如何清醒地、带着微笑地活着。</itunes:summary>
+      <itunes:duration>00:30:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-3677a1.mp3" length="29186349" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
