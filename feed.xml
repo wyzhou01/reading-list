@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 01:28:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 01:35:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17077,6 +17077,17 @@
       <itunes:duration>00:30:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-3677a1.mp3" length="29186349" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《变形的陶醉》 · 完整版 · 变形的陶醉 - 斯蒂芬·茨威格 · 完整讲读</title>
+      <description>《变形的陶醉》是茨威格辞世四十年后才重见天日的遗作长篇。小说讲述一九二六年奥地利小邮务员克丽丝蒂娜被远在瑞士的姨妈接去蓬特雷西纳疗养，穿华服、品盛宴、跻身贵族之列，沉醉十天却被无情逐出。跌落谷底后，她与穷困退伍兵费迪南相遇相恋，却看不到任何上升通道，最终在绝望中决定铤而走险，向那个由金钱与门第碾碎他们的社会发起最后的反抗。茨威格以细腻的心理笔触，写出了阶层跃迁的虚妄、爱情在阶级社会里的无解，以及小人物反抗姿态本身已被异化的悲剧。</description>
+      <pubDate>Mon, 31 Aug 2026 01:35:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-d50b48</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《变形的陶醉》是茨威格辞世四十年后才重见天日的遗作长篇。小说讲述一九二六年奥地利小邮务员克丽丝蒂娜被远在瑞士的姨妈接去蓬特雷西纳疗养，穿华服、品盛宴、跻身贵族之列，沉醉十天却被无情逐出。跌落谷底后，她与穷困退伍兵费迪南相遇相恋，却看不到任何上升通道，最终在绝望中决定铤而走险，向那个由金钱与门第碾碎他们的社会发起最后的反抗。茨威格以细腻的心理笔触，写出了阶层跃迁的虚妄、爱情在阶级社会里的无解，以及小人物反抗姿态本身已被异化的悲剧。</itunes:summary>
+      <itunes:duration>00:33:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-d50b48.mp3" length="31833261" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
