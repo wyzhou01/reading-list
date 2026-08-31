@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 02:23:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 02:33:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17176,6 +17176,17 @@
       <itunes:duration>00:24:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-1710e6.mp3" length="23064621" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《美国的悲剧》 · 完整版 · 德莱塞集03美国的悲剧（精装版） · 完整讲读</title>
+      <description>《美国的悲剧》是德莱塞的巅峰之作。贫民窟少年克莱德，怀着对上流社会的渴望，被消费主义、宗教压抑与阶层幻觉一步步推上绝路，最终在湖边犯下震惊全美的命案。德莱塞用一桩谋杀案，写出了整个二十世纪初美国&quot;金钱至上&quot;的诊断书。一百年过去，克莱德的困境依然在每个时代重演。这本书不只是在讲一个少年的堕落，它是在质问每一个读者——当整个社会把金钱当作唯一的信仰，谁还能不被碾碎。</description>
+      <pubDate>Mon, 31 Aug 2026 02:33:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-0860a7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《美国的悲剧》是德莱塞的巅峰之作。贫民窟少年克莱德，怀着对上流社会的渴望，被消费主义、宗教压抑与阶层幻觉一步步推上绝路，最终在湖边犯下震惊全美的命案。德莱塞用一桩谋杀案，写出了整个二十世纪初美国&quot;金钱至上&quot;的诊断书。一百年过去，克莱德的困境依然在每个时代重演。这本书不只是在讲一个少年的堕落，它是在质问每一个读者——当整个社会把金钱当作唯一的信仰，谁还能不被碾碎。</itunes:summary>
+      <itunes:duration>00:33:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-0860a7.mp3" length="31758765" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
