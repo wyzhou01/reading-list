@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 01:41:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 01:49:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17099,6 +17099,17 @@
       <itunes:duration>00:23:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-3592f3.mp3" length="22689069" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《第二次呼吸》 · 完整版 · 第二次呼吸 - 菲利普·波佐·迪·博尔戈 · 完整讲读</title>
+      <description>法国贵族菲利普·波佐·迪·博尔戈在1993年因滑翔伞事故全身瘫痪，妻子贝阿特莉丝三年后病逝。在最低谷时，他与北非裔青年阿伯代尔相遇——一个出身贫民窟、几度入狱的“烂仔“。两个看似“碰不得“的人，建立起超越阶层的深厚情谊。本书以回忆与独白交织的方式，讲述他如何在痛苦中重建生命意义，最终在摩洛哥遇见新的爱人卡迪娅，获得真正的第二次呼吸。</description>
+      <pubDate>Mon, 31 Aug 2026 01:49:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-0769fa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>法国贵族菲利普·波佐·迪·博尔戈在1993年因滑翔伞事故全身瘫痪，妻子贝阿特莉丝三年后病逝。在最低谷时，他与北非裔青年阿伯代尔相遇——一个出身贫民窟、几度入狱的“烂仔“。两个看似“碰不得“的人，建立起超越阶层的深厚情谊。本书以回忆与独白交织的方式，讲述他如何在痛苦中重建生命意义，最终在摩洛哥遇见新的爱人卡迪娅，获得真正的第二次呼吸。</itunes:summary>
+      <itunes:duration>00:30:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-0769fa.mp3" length="29333421" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
