@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 04:23:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 04:28:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17374,6 +17374,17 @@
       <itunes:duration>00:28:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-e5ee63.mp3" length="27493677" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《轮回之悸》 · 完整版 · 轮回之悸 - 唐缺 · 完整讲读</title>
+      <description>《轮回之悸》是九州奇幻作家唐缺创作的一部聚焦信仰、洗脑与亲情救赎的悬疑长篇。故事以南淮城一桩复刻三十年前净魔宗手法的离奇命案为引，牵出按察司捕头席峻锋跨越三十年的复仇阴谋。三位侥幸存活的净魔宗母女长老与席峻锋合谋，借「魔女复生」之名，绑架并洗脑太子，企图将他培养成复兴魔教的核心棋子，却被伪装成游侠的真相追寻者云湛与公主石秋瞳联手识破。本书最动人之处在于揭示：所谓魔女复生，本质是仇恨的代际传递；而亲情的温暖，足以融化一切被灌输的谎言。唐缺用细腻笔触刻画每一个角色的挣扎，让读者在惊叹反转之余，对人性产生深深的反思。</description>
+      <pubDate>Mon, 31 Aug 2026 04:28:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-ec2530</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《轮回之悸》是九州奇幻作家唐缺创作的一部聚焦信仰、洗脑与亲情救赎的悬疑长篇。故事以南淮城一桩复刻三十年前净魔宗手法的离奇命案为引，牵出按察司捕头席峻锋跨越三十年的复仇阴谋。三位侥幸存活的净魔宗母女长老与席峻锋合谋，借「魔女复生」之名，绑架并洗脑太子，企图将他培养成复兴魔教的核心棋子，却被伪装成游侠的真相追寻者云湛与公主石秋瞳联手识破。本书最动人之处在于揭示：所谓魔女复生，本质是仇恨的代际传递；而亲情的温暖，足以融化一切被灌输的谎言。唐缺用细腻笔触刻画每一个角色的挣扎，让读者在惊叹反转之余，对人性产生深深的反思。</itunes:summary>
+      <itunes:duration>00:20:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-ec2530.mp3" length="20155821" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
