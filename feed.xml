@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 09:17:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 09:26:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17539,6 +17539,17 @@
       <itunes:duration>00:35:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-0a07d4.mp3" length="33939501" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《明智行动的艺术》 · 完整版 · 罗尔夫的艺术（全套两册） · 完整讲读</title>
+      <description>《明智行动的艺术》是一本关于认知陷阱的清醒手册。作者罗尔夫·多贝里从否定方式出发，拆解了五十二个日常生活中最常见、最危险的思维与行动陷阱——选择疲劳、关联谬误、激励排挤、新闻错觉等等。每一个陷阱都用真实故事、心理学实验、商业案例做了注解。这本书不承诺让你更成功或更幸福，它只承诺一件事：让你少一点愚蠢。米开朗基罗雕《大卫》像时，把所有不是大卫的大理石都去除，大卫就诞生了——本书讲的就是这种去除的艺术。</description>
+      <pubDate>Mon, 31 Aug 2026 09:26:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-fb1fb0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《明智行动的艺术》是一本关于认知陷阱的清醒手册。作者罗尔夫·多贝里从否定方式出发，拆解了五十二个日常生活中最常见、最危险的思维与行动陷阱——选择疲劳、关联谬误、激励排挤、新闻错觉等等。每一个陷阱都用真实故事、心理学实验、商业案例做了注解。这本书不承诺让你更成功或更幸福，它只承诺一件事：让你少一点愚蠢。米开朗基罗雕《大卫》像时，把所有不是大卫的大理石都去除，大卫就诞生了——本书讲的就是这种去除的艺术。</itunes:summary>
+      <itunes:duration>00:33:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-fb1fb0.mp3" length="32628525" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
