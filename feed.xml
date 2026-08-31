@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 01:05:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 01:10:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17033,6 +17033,17 @@
       <itunes:duration>00:26:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-855960.mp3" length="25561389" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《爱与希望的小街》 · 完整版 · 爱与希望的小街（华语文学传媒大奖热门人选周成林2015最新作品） · 完整讲读</title>
+      <description>《爱与希望的小街》是独立写作者周成林用三十年写就的非虚构散文。他回到童年与少年住过的成都上池北街十九号，写院里四家人共用一根扁担挑水、在阴沟边涮马桶、在桑树和葡萄架下分几串葡萄的日常。他写祖母的怪脾气与糖渍番茄，写管制分子高明思、知识青年伍大郎、同学糖鸡屎和成英，也写自己收电影票的羞耻、当联防队员的荒唐、长大后接受未婚女人资助十年的亏欠。他不拔高苦难，也不消费底层，只是一笔一笔把无权无势者的群像和命运如实记下。这本书不替弱者代言，因为它本身就来自弱者。读完你会明白：小街可以拆迁，困境不会远去。</description>
+      <pubDate>Mon, 31 Aug 2026 01:10:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-1986dd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《爱与希望的小街》是独立写作者周成林用三十年写就的非虚构散文。他回到童年与少年住过的成都上池北街十九号，写院里四家人共用一根扁担挑水、在阴沟边涮马桶、在桑树和葡萄架下分几串葡萄的日常。他写祖母的怪脾气与糖渍番茄，写管制分子高明思、知识青年伍大郎、同学糖鸡屎和成英，也写自己收电影票的羞耻、当联防队员的荒唐、长大后接受未婚女人资助十年的亏欠。他不拔高苦难，也不消费底层，只是一笔一笔把无权无势者的群像和命运如实记下。这本书不替弱者代言，因为它本身就来自弱者。读完你会明白：小街可以拆迁，困境不会远去。</itunes:summary>
+      <itunes:duration>00:26:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-1986dd.mp3" length="25810989" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
