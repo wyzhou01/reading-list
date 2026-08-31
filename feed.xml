@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 04:44:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 04:51:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17407,6 +17407,17 @@
       <itunes:duration>00:29:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-9698e5.mp3" length="27910317" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《猫的国度》 · 完整版 · 猫的国度 - [日] 朱川湊人 · 完整讲读</title>
+      <description>《猫的国度》是日本作家朱川湊人于二〇〇五年凭此拿下直木奖的短篇奇幻集。在城市化急速推进的年代,一座即将被推平的老旧空地,悄然庇护着一群被遗忘的猫咪。少女小枝子在寒风里寻找失踪的爱猫,意外撞见一只会发光的白猫,由此踏入猫咪的隐秘国度。本书温柔地讲述了人与猫之间互相唤醒的羁绊,也讲述了守护本身的重量——即便守护的结局注定是失去,守护也从来不是徒劳。它轻轻提醒我们:真正重要的东西,从来不长成重要的样子。</description>
+      <pubDate>Mon, 31 Aug 2026 04:51:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-23124b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《猫的国度》是日本作家朱川湊人于二〇〇五年凭此拿下直木奖的短篇奇幻集。在城市化急速推进的年代,一座即将被推平的老旧空地,悄然庇护着一群被遗忘的猫咪。少女小枝子在寒风里寻找失踪的爱猫,意外撞见一只会发光的白猫,由此踏入猫咪的隐秘国度。本书温柔地讲述了人与猫之间互相唤醒的羁绊,也讲述了守护本身的重量——即便守护的结局注定是失去,守护也从来不是徒劳。它轻轻提醒我们:真正重要的东西,从来不长成重要的样子。</itunes:summary>
+      <itunes:duration>00:33:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-23124b.mp3" length="32444205" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
