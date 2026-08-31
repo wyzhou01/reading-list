@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 09:05:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 09:17:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17528,6 +17528,17 @@
       <itunes:duration>00:29:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-106d30.mp3" length="28359597" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《去年在阿鲁吧》 · 完整版 · 去年在阿鲁吧 · 完整讲读</title>
+      <description>《去年在阿鲁吧》是台湾小说家贺景滨二〇〇五年的奇书，背景设定在虚拟城市巴比伦，虚拟公民 AK47 井号百分号七五三钱符号小老鼠波浪 TU，每晚八点到十点在阿鲁吧报到。本书把科幻、情欲、哲学、唬烂、黑色幽默全部倒进一台虚拟世界的搅拌机：无头人 OOH、记忆体妓女忘了我、会说话的开口杯、会耳语的酵母菌、超弦理论、维也纳行动派、薛丁格波函数、柏拉图与亚士，全部混为一谈。贺景滨用嬉皮笑脸的语气，问了一个最严肃的问题：虚构和现实，到底谁才是真的？身体被晶片接管，记忆可以被植入，妓女可以讲哲学，器官议会（左右脑、GG、BB）各自开会表决。他用情欲当钥匙打开科学修辞的大门，用器官议会预言后人类的主体分裂，用记忆体妓女赎回虚拟时代的人类尊严。最重要的是，作者本人在写书过程中被诊断出癌症第四期，乘以几率后完成率不到一成，却靠运气写完了这部狂想曲。Good Luck，祝好运——这是这部小说对读者的全部要求。</description>
+      <pubDate>Mon, 31 Aug 2026 09:17:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-0a07d4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《去年在阿鲁吧》是台湾小说家贺景滨二〇〇五年的奇书，背景设定在虚拟城市巴比伦，虚拟公民 AK47 井号百分号七五三钱符号小老鼠波浪 TU，每晚八点到十点在阿鲁吧报到。本书把科幻、情欲、哲学、唬烂、黑色幽默全部倒进一台虚拟世界的搅拌机：无头人 OOH、记忆体妓女忘了我、会说话的开口杯、会耳语的酵母菌、超弦理论、维也纳行动派、薛丁格波函数、柏拉图与亚士，全部混为一谈。贺景滨用嬉皮笑脸的语气，问了一个最严肃的问题：虚构和现实，到底谁才是真的？身体被晶片接管，记忆可以被植入，妓女可以讲哲学，器官议会（左右脑、GG、BB）各自开会表决。他用情欲当钥匙打开科学修辞的大门，用器官议会预言后人类的主体分裂，用记忆体妓女赎回虚拟时代的人类尊严。最重要的是，作者本人在写书过程中被诊断出癌症第四期，乘以几率后完成率不到一成，却靠运气写完了这部狂想曲。Good Luck，祝好运——这是这部小说对读者的全部要求。</itunes:summary>
+      <itunes:duration>00:35:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-0a07d4.mp3" length="33939501" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
