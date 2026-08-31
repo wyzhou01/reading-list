@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 01:55:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 01:59:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17121,6 +17121,17 @@
       <itunes:duration>00:28:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-82c8d9.mp3" length="27763629" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《艾伦·图灵传：谜一样的解谜者》 · 完整版 · 艾伦·图灵传 · 完整讲读</title>
+      <description>《艾伦·图灵传》讲述了英国数学家图灵四十二年的悲剧人生：他二十四岁用一篇论文奠定计算机科学根基，二战期间亲手设计机器破解德军密码、拯救无数生命，战后却因同性恋身份遭法律迫害，最终在四十二岁神秘离世。本书通过霍奇斯三十五万字的详尽考证，揭示了一个孤独的天才如何用生命写下二十世纪科学与社会的双重悲剧——他留下了会思考的机器，却被不会思考的社会所碾碎。</description>
+      <pubDate>Mon, 31 Aug 2026 01:59:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-79d38c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《艾伦·图灵传》讲述了英国数学家图灵四十二年的悲剧人生：他二十四岁用一篇论文奠定计算机科学根基，二战期间亲手设计机器破解德军密码、拯救无数生命，战后却因同性恋身份遭法律迫害，最终在四十二岁神秘离世。本书通过霍奇斯三十五万字的详尽考证，揭示了一个孤独的天才如何用生命写下二十世纪科学与社会的双重悲剧——他留下了会思考的机器，却被不会思考的社会所碾碎。</itunes:summary>
+      <itunes:duration>00:29:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-79d38c.mp3" length="28373421" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
