@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 05:28:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 08:29:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17473,6 +17473,17 @@
       <itunes:duration>00:27:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-49502b.mp3" length="26236461" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《茨威格文集（全三卷）》 · 完整版 · 茨威格文集：全3卷 - (奥)茨威格(Zweig,S.)；张玉书 · 完整讲读</title>
+      <description>《茨威格文集》第一卷以张玉书先生撰写的《译序》为序章，回溯茨威格从维也纳少年得志的抒情诗人，经历柏林之行后烧毁处女作闭关三年，到以《马来狂人》与《一个陌生女人的来信》攀上心理分析小说巅峰的全过程。本卷收录《夜色朦胧》《家庭女教师》《火烧火燎的秘密》《一个女人一生中的二十四小时》《感情的混乱》《象棋的故事》等代表作，前半部分以激情与灵魂的细微剖析见长，后半部分直面战争机器与法西斯阴影。茨威格的人道主义激情最终未能抵挡住时代的残酷，一九四二年他在巴西与妻子双双服毒，留下祝愿朋友们看到旭日东升的绝命书。本卷最沉痛的提问是：一个用笔刻画人性最深处的作家，为何在看到人性被彻底践踏后，竟无法再多撑一天？</description>
+      <pubDate>Mon, 31 Aug 2026 08:29:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-07a76d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《茨威格文集》第一卷以张玉书先生撰写的《译序》为序章，回溯茨威格从维也纳少年得志的抒情诗人，经历柏林之行后烧毁处女作闭关三年，到以《马来狂人》与《一个陌生女人的来信》攀上心理分析小说巅峰的全过程。本卷收录《夜色朦胧》《家庭女教师》《火烧火燎的秘密》《一个女人一生中的二十四小时》《感情的混乱》《象棋的故事》等代表作，前半部分以激情与灵魂的细微剖析见长，后半部分直面战争机器与法西斯阴影。茨威格的人道主义激情最终未能抵挡住时代的残酷，一九四二年他在巴西与妻子双双服毒，留下祝愿朋友们看到旭日东升的绝命书。本卷最沉痛的提问是：一个用笔刻画人性最深处的作家，为何在看到人性被彻底践踏后，竟无法再多撑一天？</itunes:summary>
+      <itunes:duration>00:21:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-07a76d.mp3" length="20239917" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
