@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 04:04:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 04:14:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17352,6 +17352,17 @@
       <itunes:duration>00:26:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-f0887e.mp3" length="25333677" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《饥饿百年》 · 完整版 · 饥饿百年 - 罗伟章 · 完整讲读</title>
+      <description>罗伟章的《饥饿百年》以川北何家坡为坐标，讲述了一个家族从流浪汉扎根到打工潮逃离的百年史。小说把百年乡村的命运压缩在李家改姓何的家族史里，写出了饥饿的具象形态、土地伦理的巨变、方言血统的瓦解、留守老人的孤独凝视。从曾祖父李一五死于冰雹，到两位�中老年在寨梁上对坐流泪，这是一部关于扎根与逃离、记忆与消亡的乡土寓言，与陈忠实《白鹿原》、贾平凹《秦腔》并列，被誉为新世纪乡土文学的厚重之作。</description>
+      <pubDate>Mon, 31 Aug 2026 04:14:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-27667d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>罗伟章的《饥饿百年》以川北何家坡为坐标，讲述了一个家族从流浪汉扎根到打工潮逃离的百年史。小说把百年乡村的命运压缩在李家改姓何的家族史里，写出了饥饿的具象形态、土地伦理的巨变、方言血统的瓦解、留守老人的孤独凝视。从曾祖父李一五死于冰雹，到两位�中老年在寨梁上对坐流泪，这是一部关于扎根与逃离、记忆与消亡的乡土寓言，与陈忠实《白鹿原》、贾平凹《秦腔》并列，被誉为新世纪乡土文学的厚重之作。</itunes:summary>
+      <itunes:duration>00:20:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-27667d.mp3" length="19538733" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
