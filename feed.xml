@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 08:46:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 08:56:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17506,6 +17506,17 @@
       <itunes:duration>00:28:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-352cb1.mp3" length="27034413" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《劳伦斯集02-虹（精装版）》 · 完整版 · 劳伦斯集02-虹（精装版） · 完整讲读</title>
+      <description>《虹》是英国作家戴·赫·劳伦斯一九一五年出版的长篇小说，以布朗温家族三代人的婚姻为主线，追踪英国从农耕文明走向工业文明的历史切片。第一代汤姆与波兰妻子莉迪亚在田野和血性中找到了粗粝的平衡；第二代安娜与威尔在疯狂的肉欲之后陷入互相吞噬的怨恨；第三代厄休拉则试图挣脱母亲的阴影，寻找一种灵与肉、自我与他人都能并存的现代关系。劳伦斯用工笔写两性，写家族的隔阂，写工业对男人血液意识的阉割，写一个女人如何在每一次被吞噬之前回头看见自己。书名&quot;虹&quot;是悬在暴雨间隙的一道光——劳伦斯不承诺和解，只承诺那道光还在。一百年来，这道虹仍挂在每一张床、每一顿晚饭、每一个深夜的争吵上方。</description>
+      <pubDate>Mon, 31 Aug 2026 08:56:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-50fb17</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《虹》是英国作家戴·赫·劳伦斯一九一五年出版的长篇小说，以布朗温家族三代人的婚姻为主线，追踪英国从农耕文明走向工业文明的历史切片。第一代汤姆与波兰妻子莉迪亚在田野和血性中找到了粗粝的平衡；第二代安娜与威尔在疯狂的肉欲之后陷入互相吞噬的怨恨；第三代厄休拉则试图挣脱母亲的阴影，寻找一种灵与肉、自我与他人都能并存的现代关系。劳伦斯用工笔写两性，写家族的隔阂，写工业对男人血液意识的阉割，写一个女人如何在每一次被吞噬之前回头看见自己。书名&quot;虹&quot;是悬在暴雨间隙的一道光——劳伦斯不承诺和解，只承诺那道光还在。一百年来，这道虹仍挂在每一张床、每一顿晚饭、每一个深夜的争吵上方。</itunes:summary>
+      <itunes:duration>00:35:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-50fb17.mp3" length="33656109" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
