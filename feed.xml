@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 02:39:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 02:45:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17198,6 +17198,17 @@
       <itunes:duration>00:32:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-5997e0.mp3" length="31167021" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《巴黎奥赛美术馆》 · 完整版 · 巴黎奥赛美术馆（伟大的博物馆） - 西蒙娜·巴尔多蕾娜 · 完整讲读</title>
+      <description>本书由意大利艺术评论家西蒙娜·巴尔多蕾娜撰写，是译林出版社《伟大的博物馆》系列中关于巴黎奥赛美术馆的导读图册。全书梳理了一八四八至一九一四年六十六年间法国艺术的完整脉络：从库蒂尔的学院派经典，到马奈、莫奈的印象派反叛，再到马蒂斯野兽派的精神裂变；并回溯了奥赛美术馆从一九〇〇年的电力火车站、一九七七年的政治决断，到一九八六年密特朗宣布开放的百年蜕变。书中不仅按展厅动线解读重要馆藏，还揭示了沙龙体制、继承税实物缴纳、私人遗赠如何共同改写了国家收藏的命运。对于计划前往巴黎的艺术爱好者，这是一本兼具工具书与历史书的轻量级导览；对于无缘亲赴塞纳河畔的读者，这是一把打开十九世纪下半叶艺术宝库的钥匙。</description>
+      <pubDate>Mon, 31 Aug 2026 02:45:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-123b7c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书由意大利艺术评论家西蒙娜·巴尔多蕾娜撰写，是译林出版社《伟大的博物馆》系列中关于巴黎奥赛美术馆的导读图册。全书梳理了一八四八至一九一四年六十六年间法国艺术的完整脉络：从库蒂尔的学院派经典，到马奈、莫奈的印象派反叛，再到马蒂斯野兽派的精神裂变；并回溯了奥赛美术馆从一九〇〇年的电力火车站、一九七七年的政治决断，到一九八六年密特朗宣布开放的百年蜕变。书中不仅按展厅动线解读重要馆藏，还揭示了沙龙体制、继承税实物缴纳、私人遗赠如何共同改写了国家收藏的命运。对于计划前往巴黎的艺术爱好者，这是一本兼具工具书与历史书的轻量级导览；对于无缘亲赴塞纳河畔的读者，这是一把打开十九世纪下半叶艺术宝库的钥匙。</itunes:summary>
+      <itunes:duration>00:24:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-123b7c.mp3" length="23636397" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
