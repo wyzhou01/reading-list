@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 04:28:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 04:37:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17385,6 +17385,17 @@
       <itunes:duration>00:20:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-ec2530.mp3" length="20155821" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《伦理学》 · 完整版 · 伦理学 (汉译世界学术名著丛书) - 斯宾诺莎 · 完整讲读</title>
+      <description>《伦理学》是十七世纪荷兰哲学家斯宾诺莎用几何学方法写就的哲学巨著，构建了一个以唯一实体为核心的形而上学体系。斯宾诺莎认为神即自然，整个世界受必然性支配；他提出自由即被意识到的必然性，情感既可能奴役人也可成为人的力量，关键在于是否被理性理解；他将知识分为经验、理性、直观三种层次，主张通过第三种直观知识达到对神之爱——这种爱并非宗教崇拜，而是对自然整体的理性把握；最终他提出幸福不是德性的报酬，而是德性自身，理解本身就是自由。这部生前被禁、死后才出版的著作，深刻影响了启蒙运动、黑格尔辩证法和马克思唯物主义，是西方思想史上的里程碑。</description>
+      <pubDate>Mon, 31 Aug 2026 04:37:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-72689e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《伦理学》是十七世纪荷兰哲学家斯宾诺莎用几何学方法写就的哲学巨著，构建了一个以唯一实体为核心的形而上学体系。斯宾诺莎认为神即自然，整个世界受必然性支配；他提出自由即被意识到的必然性，情感既可能奴役人也可成为人的力量，关键在于是否被理性理解；他将知识分为经验、理性、直观三种层次，主张通过第三种直观知识达到对神之爱——这种爱并非宗教崇拜，而是对自然整体的理性把握；最终他提出幸福不是德性的报酬，而是德性自身，理解本身就是自由。这部生前被禁、死后才出版的著作，深刻影响了启蒙运动、黑格尔辩证法和马克思唯物主义，是西方思想史上的里程碑。</itunes:summary>
+      <itunes:duration>00:31:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-72689e.mp3" length="29975085" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
