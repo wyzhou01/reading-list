@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 08:29:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 08:40:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17484,6 +17484,17 @@
       <itunes:duration>00:21:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-07a76d.mp3" length="20239917" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《荆棘之城》 · 完整版 · 荆棘之城-[英]萨拉·沃特斯 · 完整讲读</title>
+      <description>《荆棘之城》是英国作家萨拉·沃特斯二零零二年出版的第三部长篇小说，被誉为维多利亚时期哥特小说的复兴之作。小说以狄更斯《雾都孤儿》为灵感，讲述了十九世纪伦敦贫民窟长大的孤儿苏，与被困在布莱尔庄园的莫德之间的禁忌之恋。苏被训练成扒手，受&quot;绅士&quot;指使假扮莫德死去的妹妹潜入庄园骗取遗产，却意外发现莫德仍然活着。两人从互相欺骗开始，在试探中彼此吸引，最终点燃了一段超越阶级与性别的真挚爱情。但这段爱情必须用谎言维系，必须付出沉重的代价——她们既要面对维多利亚时代对女性情欲的严苛压制，也要冲破社会给女性设定的&quot;良家妇女&quot;牢笼。这不仅是一个爱情故事，更是一部关于身份、欲望、阶级与女性觉醒的寓言。</description>
+      <pubDate>Mon, 31 Aug 2026 08:40:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-6d014a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《荆棘之城》是英国作家萨拉·沃特斯二零零二年出版的第三部长篇小说，被誉为维多利亚时期哥特小说的复兴之作。小说以狄更斯《雾都孤儿》为灵感，讲述了十九世纪伦敦贫民窟长大的孤儿苏，与被困在布莱尔庄园的莫德之间的禁忌之恋。苏被训练成扒手，受&quot;绅士&quot;指使假扮莫德死去的妹妹潜入庄园骗取遗产，却意外发现莫德仍然活着。两人从互相欺骗开始，在试探中彼此吸引，最终点燃了一段超越阶级与性别的真挚爱情。但这段爱情必须用谎言维系，必须付出沉重的代价——她们既要面对维多利亚时代对女性情欲的严苛压制，也要冲破社会给女性设定的&quot;良家妇女&quot;牢笼。这不仅是一个爱情故事，更是一部关于身份、欲望、阶级与女性觉醒的寓言。</itunes:summary>
+      <itunes:duration>00:39:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-6d014a.mp3" length="37554477" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
