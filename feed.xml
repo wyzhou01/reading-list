@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 01:17:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 01:22:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17055,6 +17055,17 @@
       <itunes:duration>00:34:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-223649.mp3" length="32774061" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《幽谷百合》 · 完整版 · 巴尔扎克集(07) 幽谷百合 · 完整讲读</title>
+      <description>《幽谷百合》是巴尔扎克笔下罕见的理想主义抒情诗，讲述二十二岁的青年贵族费利克斯与二十八岁守寡伯爵夫人亨利埃特在安德尔河谷相遇、相知、最终错过的精神恋爱。亨利埃特以母性的温柔与处世的智慧守护费利克斯的成长，又在他踏入权力场前夕亲手将他推向世界。巴氏借这对柏拉图式恋人，写下爱与野心、忠诚与代价、理想与现实的永恒博弈，也替自己那段爱而不得的恋情，留下了一首感泣鬼神的哀歌。</description>
+      <pubDate>Mon, 31 Aug 2026 01:22:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-d71635</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《幽谷百合》是巴尔扎克笔下罕见的理想主义抒情诗，讲述二十二岁的青年贵族费利克斯与二十八岁守寡伯爵夫人亨利埃特在安德尔河谷相遇、相知、最终错过的精神恋爱。亨利埃特以母性的温柔与处世的智慧守护费利克斯的成长，又在他踏入权力场前夕亲手将他推向世界。巴氏借这对柏拉图式恋人，写下爱与野心、忠诚与代价、理想与现实的永恒博弈，也替自己那段爱而不得的恋情，留下了一首感泣鬼神的哀歌。</itunes:summary>
+      <itunes:duration>00:24:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-d71635.mp3" length="23327277" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
