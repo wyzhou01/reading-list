@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 18:25:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 18:33:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17682,6 +17682,17 @@
       <itunes:duration>00:30:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-852d68.mp3" length="28889901" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《等你呼唤我的名字》 · 完整版 · 等你呼唤我的名字 · 完整讲读</title>
+      <description>《等你呼唤我的名字》是西班牙作家埃斯皮诺萨的半自传成长小说。三十九岁的丹尼在女友决绝离开的早晨，接起一通陌生来电——一个十岁男孩已失踪两天。他从那不勒斯前往卡普里岛，遇见了百岁老妇人、拒绝说话的灯塔少年，以及一个叫沂杉的失踪儿童。这本书不讲逆袭，不讲成功，只讲一个人在跌倒之后如何重新选择站立的方式。它藏着六块珍珠般珍贵的人生信条：做自己，学会摔倒，为别人活下去；先开口叫自己，把碎片炼成金子，相信你自己而不是你喜欢的东西。十岁那年他在病房里答应做一位陌生老人的观众，三十九岁这年他成了另一个孩子的观众，而他自己生命里那些散落的碎片——扁桃体、假腿、拳击袋、灯塔、红斑——终于在卡普里咸湿的海风里，被炼成了光。</description>
+      <pubDate>Mon, 31 Aug 2026 18:33:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-6492d5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《等你呼唤我的名字》是西班牙作家埃斯皮诺萨的半自传成长小说。三十九岁的丹尼在女友决绝离开的早晨，接起一通陌生来电——一个十岁男孩已失踪两天。他从那不勒斯前往卡普里岛，遇见了百岁老妇人、拒绝说话的灯塔少年，以及一个叫沂杉的失踪儿童。这本书不讲逆袭，不讲成功，只讲一个人在跌倒之后如何重新选择站立的方式。它藏着六块珍珠般珍贵的人生信条：做自己，学会摔倒，为别人活下去；先开口叫自己，把碎片炼成金子，相信你自己而不是你喜欢的东西。十岁那年他在病房里答应做一位陌生老人的观众，三十九岁这年他成了另一个孩子的观众，而他自己生命里那些散落的碎片——扁桃体、假腿、拳击袋、灯塔、红斑——终于在卡普里咸湿的海风里，被炼成了光。</itunes:summary>
+      <itunes:duration>00:28:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-6492d5.mp3" length="27524397" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
