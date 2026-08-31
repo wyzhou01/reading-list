@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 03:31:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 03:36:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17297,6 +17297,17 @@
       <itunes:duration>00:19:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-34abdd.mp3" length="18876717" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《黑质三部曲2：魔法神刀》 · 完整版 · 黑质三部曲2：魔法神刀 · 完整讲读</title>
+      <description>《魔法神刀》是英国作家菲利普·普尔曼《黑质三部曲》的第二部，讲述十二岁男孩威尔为保护精神恍惚的母亲，被迫闯入陌生世界寻找答案，却在异世界海滨城市遇见了同样身世成谜的少女莱拉——一个从小被藏匿、不知冰箱与可乐为何物的野孩子。两人在刚刚找到彼此的瞬间，便被命运硬生生撕开：威尔得知自己的父亲是被誉为最伟大探险家的约翰·佩里，必须带着父亲留下的魔法神刀去投奔反叛的阿斯里尔勋爵；莱拉则被绑架，被献祭给那个系统性的儿童伤害机构 M3。普尔曼用这一次成长史诗追问：当一个孩子被迫扛起成年人的战争，他还能不能保住自己最想保护的人？</description>
+      <pubDate>Mon, 31 Aug 2026 03:36:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-e1283b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《魔法神刀》是英国作家菲利普·普尔曼《黑质三部曲》的第二部，讲述十二岁男孩威尔为保护精神恍惚的母亲，被迫闯入陌生世界寻找答案，却在异世界海滨城市遇见了同样身世成谜的少女莱拉——一个从小被藏匿、不知冰箱与可乐为何物的野孩子。两人在刚刚找到彼此的瞬间，便被命运硬生生撕开：威尔得知自己的父亲是被誉为最伟大探险家的约翰·佩里，必须带着父亲留下的魔法神刀去投奔反叛的阿斯里尔勋爵；莱拉则被绑架，被献祭给那个系统性的儿童伤害机构 M3。普尔曼用这一次成长史诗追问：当一个孩子被迫扛起成年人的战争，他还能不能保住自己最想保护的人？</itunes:summary>
+      <itunes:duration>00:16:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-e1283b.mp3" length="15848493" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
