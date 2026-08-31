@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 18:33:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 18:42:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17693,6 +17693,17 @@
       <itunes:duration>00:28:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-6492d5.mp3" length="27524397" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我的早年岁月》 · 完整版 · 我的早年岁月 · 完整讲读</title>
+      <description>《我的早年岁月》是阿联酋沙迦酋长苏尔坦·本·穆罕默德·卡西米的自传，从一九三九年出生写到一九六零年代留学归来。书中他以孩子的眼睛记录二战时期英国保护下的沙迦：水陆两用船上晕船吐脏美军将军制服、采珠船桅杆被大火烧黑后变成悔罪柱、疯子被铁链拴在储物间、开斋节鸣礼炮炸膛削掉仆人脸上肉、伯父在城外法拉杰农庄种茉莉花让小羚羊在蓄水池边奔跑。后来他亲历一九五八年伊拉克革命、阿拉伯复兴党思潮席卷沙迦、在开罗大学求学，最终带着海湾地方传统与阿拉伯民族主义的双重记忆回到家乡。这本书既是统治者罕见的童年剖白，也是中文世界几乎独一无二的海湾建国前口述档案。</description>
+      <pubDate>Mon, 31 Aug 2026 18:41:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-fccb5c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我的早年岁月》是阿联酋沙迦酋长苏尔坦·本·穆罕默德·卡西米的自传，从一九三九年出生写到一九六零年代留学归来。书中他以孩子的眼睛记录二战时期英国保护下的沙迦：水陆两用船上晕船吐脏美军将军制服、采珠船桅杆被大火烧黑后变成悔罪柱、疯子被铁链拴在储物间、开斋节鸣礼炮炸膛削掉仆人脸上肉、伯父在城外法拉杰农庄种茉莉花让小羚羊在蓄水池边奔跑。后来他亲历一九五八年伊拉克革命、阿拉伯复兴党思潮席卷沙迦、在开罗大学求学，最终带着海湾地方传统与阿拉伯民族主义的双重记忆回到家乡。这本书既是统治者罕见的童年剖白，也是中文世界几乎独一无二的海湾建国前口述档案。</itunes:summary>
+      <itunes:duration>00:35:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-fccb5c.mp3" length="33773997" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
