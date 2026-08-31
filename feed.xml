@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 01:10:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 01:17:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17044,6 +17044,17 @@
       <itunes:duration>00:26:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-1986dd.mp3" length="25810989" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《欧也妮·葛朗台》 · 完整版 · 巴尔扎克集(01)欧也妮·葛朗台 · 完整讲读</title>
+      <description>《欧也妮·葛朗台》是巴尔扎克一八三三年的代表作，也是《人间喜剧》里最经典的一间屋子。索漠城最有钱的葛朗台老头，把一生都用来囤金币，却不肯给女儿一枚做生日蛋糕；女儿欧也妮爱上从巴黎来的堂弟查理，把全部积蓄送他去做生意，却被对方在金钱与前途面前抛弃，最终嫁给一个只看中遗产的旧追求者，守着一屋子金子孤独终老。这部小说以一个家庭的命运，写出了十九世纪法国资产阶级如何取代旧贵族、金钱如何把亲情与爱情全部异化为人与物的关系，是理解资本主义精神最冷峻的一本入门书。</description>
+      <pubDate>Mon, 31 Aug 2026 01:17:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-223649</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《欧也妮·葛朗台》是巴尔扎克一八三三年的代表作，也是《人间喜剧》里最经典的一间屋子。索漠城最有钱的葛朗台老头，把一生都用来囤金币，却不肯给女儿一枚做生日蛋糕；女儿欧也妮爱上从巴黎来的堂弟查理，把全部积蓄送他去做生意，却被对方在金钱与前途面前抛弃，最终嫁给一个只看中遗产的旧追求者，守着一屋子金子孤独终老。这部小说以一个家庭的命运，写出了十九世纪法国资产阶级如何取代旧贵族、金钱如何把亲情与爱情全部异化为人与物的关系，是理解资本主义精神最冷峻的一本入门书。</itunes:summary>
+      <itunes:duration>00:34:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-223649.mp3" length="32774061" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
