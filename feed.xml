@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 01:49:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 01:55:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17110,6 +17110,17 @@
       <itunes:duration>00:30:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-0769fa.mp3" length="29333421" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《超禁忌游戏》 · 完整版 · 超禁忌游戏 （3部曲） · 完整讲读</title>
+      <description>《超禁忌游戏》三部曲讲述了五十个素不相识的年轻人，被一个自称“旧神”的神秘存在选中，赋予超能力后投入一场必须自相残杀的死亡游戏。付天意外坠亡是开端，杭一带领众人走上反抗之路。在极端处境下，恐惧、猜忌、背叛、欲望一一暴露，超能力的代价逐一兑现。当杭一接近真相时，他发现“旧神”早已预判了所有反抗路径，而最终活下来的人，将被改造成“新世纪的神”，开启下一轮杀戮。本书不只是一个悬疑故事，更是一部关于人性、命运与权力循环的现代寓言——它揭示了一个残酷的真相：我们以为自己在反抗命运，其实我们正在完成命运的剧本。</description>
+      <pubDate>Mon, 31 Aug 2026 01:54:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-82c8d9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《超禁忌游戏》三部曲讲述了五十个素不相识的年轻人，被一个自称“旧神”的神秘存在选中，赋予超能力后投入一场必须自相残杀的死亡游戏。付天意外坠亡是开端，杭一带领众人走上反抗之路。在极端处境下，恐惧、猜忌、背叛、欲望一一暴露，超能力的代价逐一兑现。当杭一接近真相时，他发现“旧神”早已预判了所有反抗路径，而最终活下来的人，将被改造成“新世纪的神”，开启下一轮杀戮。本书不只是一个悬疑故事，更是一部关于人性、命运与权力循环的现代寓言——它揭示了一个残酷的真相：我们以为自己在反抗命运，其实我们正在完成命运的剧本。</itunes:summary>
+      <itunes:duration>00:28:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-82c8d9.mp3" length="27763629" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
