@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 02:06:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 02:12:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17143,6 +17143,17 @@
       <itunes:duration>00:32:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-b29ba9.mp3" length="31312173" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《老古玩店》 · 完整版 · 狄更斯集(08)老古玩店 · 完整讲读</title>
+      <description>《老古玩店》是狄更斯一八四一年写成的批判现实主义小说。故事讲述了外祖父吐伦特老头和他美丽善良的外孙女小耐儿相依为命，却被新兴资产阶级代表奎尔普通过高利贷和御用律师布拉斯兄妹一步步算计，最终失去店铺、流落街头、客死他乡的悲剧。小说借古玩店的衰败，控诉了十九世纪英国资本主义对小私有者的吞噬；借小耐儿的纯真与夭折，揭示了童真在冷酷机器面前的脆弱；借乡村教师、乍莱太太、炉火工人等普通人的善意，呈现了狄更斯人道主义的微光。这是一面镜子，也是一盏灯，照出一百八十年前的伦敦，也照出我们今天所在的每一座城市。</description>
+      <pubDate>Mon, 31 Aug 2026 02:12:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-7ab7e3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《老古玩店》是狄更斯一八四一年写成的批判现实主义小说。故事讲述了外祖父吐伦特老头和他美丽善良的外孙女小耐儿相依为命，却被新兴资产阶级代表奎尔普通过高利贷和御用律师布拉斯兄妹一步步算计，最终失去店铺、流落街头、客死他乡的悲剧。小说借古玩店的衰败，控诉了十九世纪英国资本主义对小私有者的吞噬；借小耐儿的纯真与夭折，揭示了童真在冷酷机器面前的脆弱；借乡村教师、乍莱太太、炉火工人等普通人的善意，呈现了狄更斯人道主义的微光。这是一面镜子，也是一盏灯，照出一百八十年前的伦敦，也照出我们今天所在的每一座城市。</itunes:summary>
+      <itunes:duration>00:28:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-7ab7e3.mp3" length="27766317" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
