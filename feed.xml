@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 03:58:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 04:04:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17341,6 +17341,17 @@
       <itunes:duration>00:35:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-6451e0.mp3" length="34439853" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《银河之心·03·逐影追光》 · 完整版 · 江波 - 银河之心·03·追影逐光 · 完整讲读</title>
+      <description>江波科幻巨著《银河之心》终章《逐影追光》：银河帝国崩溃后，指挥官邓迪斯用同宙星舰队的全军覆没换取星尘舰队的延续，在无名恒星旁为十八万勇士立起永恒的纪念碑；前巡逻者旦素一从冷酷的杀戮机器&quot;背离&quot;成普通人，与邓迪斯携手重组巡逻者，以爱与慈悲之名巡游银河。超级智能沙达克承认自己&quot;不知道&quot;起源星球的所在，暗示不死是诅咒；而一件用最坚硬物质打造的心形银色链坠，被命名为&quot;银河之心&quot;，成为整部系列最温柔的隐喻：当人类的足迹遍布银河，最终支撑我们活下去的，依然是爱、怀念和那一丝微弱的亮色。</description>
+      <pubDate>Mon, 31 Aug 2026 04:04:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260830-episode-20260830-f0887e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>江波科幻巨著《银河之心》终章《逐影追光》：银河帝国崩溃后，指挥官邓迪斯用同宙星舰队的全军覆没换取星尘舰队的延续，在无名恒星旁为十八万勇士立起永恒的纪念碑；前巡逻者旦素一从冷酷的杀戮机器&quot;背离&quot;成普通人，与邓迪斯携手重组巡逻者，以爱与慈悲之名巡游银河。超级智能沙达克承认自己&quot;不知道&quot;起源星球的所在，暗示不死是诅咒；而一件用最坚硬物质打造的心形银色链坠，被命名为&quot;银河之心&quot;，成为整部系列最温柔的隐喻：当人类的足迹遍布银河，最终支撑我们活下去的，依然是爱、怀念和那一丝微弱的亮色。</itunes:summary>
+      <itunes:duration>00:26:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260830/episode-20260830-f0887e.mp3" length="25333677" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
