@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 17:18:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 17:21:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18023,6 +18023,17 @@
       <itunes:duration>00:28:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260901/episode-20260901-29f506.mp3" length="27631533" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《五代前的那些爱》 · 完整版 · 五代前的那些爱_-_郦波 · 完整讲读</title>
+      <description>《五代前的那些爱》是郦波在江苏卫视《万家灯火》主讲的“传世经典，倾城之爱”系列实录。全书以二十五回串联自远古至唐五代的经典爱情传说，从牛郎织女、嫦娥后羿一路讲至《长河落日》里的小周后。郦波不只在重新讲述故事，更在追问古典爱情背后那套“等待—错位—悲剧”的情感结构：农业社会男性的情感需要是被顺理成章支持的，织女在牛郎面前先是“爱情的符号”才慢慢成为“爱情的女人”；嫦娥面对疏远的婚姻以偷药奔月的方式做出主体性的选择；息夫人、霍小玉、小周后则以一生的代价完成了深情与道德义务的合流。悲剧之美的成立，源于人性与命运的双重压力；而当现实无法给出相聚的可能，诗就成了另一种相聚——李商隐、李煜、李清照等人都用文字替那些未能当场说的话找回了出口。代序“走自己的路”则进一步点明文化传播的伦理底线：学者要踏踏实实地“走路”，而非迎合眼球的“下蛋”。读这本书，能帮我们在算法与短视频的时代重新理解，中国人的爱情观里不仅有甜蜜，还有克制、承担、成全、失约与无可挽回。</description>
+      <pubDate>Tue, 01 Sep 2026 17:21:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260901-episode-20260901-06edb6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《五代前的那些爱》是郦波在江苏卫视《万家灯火》主讲的“传世经典，倾城之爱”系列实录。全书以二十五回串联自远古至唐五代的经典爱情传说，从牛郎织女、嫦娥后羿一路讲至《长河落日》里的小周后。郦波不只在重新讲述故事，更在追问古典爱情背后那套“等待—错位—悲剧”的情感结构：农业社会男性的情感需要是被顺理成章支持的，织女在牛郎面前先是“爱情的符号”才慢慢成为“爱情的女人”；嫦娥面对疏远的婚姻以偷药奔月的方式做出主体性的选择；息夫人、霍小玉、小周后则以一生的代价完成了深情与道德义务的合流。悲剧之美的成立，源于人性与命运的双重压力；而当现实无法给出相聚的可能，诗就成了另一种相聚——李商隐、李煜、李清照等人都用文字替那些未能当场说的话找回了出口。代序“走自己的路”则进一步点明文化传播的伦理底线：学者要踏踏实实地“走路”，而非迎合眼球的“下蛋”。读这本书，能帮我们在算法与短视频的时代重新理解，中国人的爱情观里不仅有甜蜜，还有克制、承担、成全、失约与无可挽回。</itunes:summary>
+      <itunes:duration>00:27:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260901/episode-20260901-06edb6.mp3" length="26374701" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
