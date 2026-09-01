@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 17:32:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 17:38:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18067,6 +18067,17 @@
       <itunes:duration>00:28:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260901/episode-20260901-a5f605.mp3" length="27637293" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《经济学通识课》 · 完整版 · 经济学通识课 · 完整讲读</title>
+      <description>《经济学通识课》是英国学者尼尔·基什特尼写给普通读者的一本经济学思想入门书。全书通过四十个主题故事，把经济学思想从古希腊柏拉图、亚里士多德的早期思考，到中世纪神学家的伦理维度，再到亚当·斯密、马尔萨斯、马克思、凯恩斯、哈耶克、皮凯蒂等历代经济学家对工业革命、大萧条、计划经济失败、二零零八年金融危机、气候变化等时代难题的回应，串成一条连贯的脉络。基什特尼强调：没有永恒正确的答案，只有被现实逼出来的思想工具；经济学不是数学游戏，而是人类为理解稀缺、做出选择而一步步搭建起来的故事。这是一本为没有经济学背景的读者量身打造的入门书，它会让你在新闻里听到“看不见的手““囚徒困境““明斯基时刻“时，能听出它们的来历和分量。</description>
+      <pubDate>Tue, 01 Sep 2026 17:38:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260901-episode-20260901-0d01d2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《经济学通识课》是英国学者尼尔·基什特尼写给普通读者的一本经济学思想入门书。全书通过四十个主题故事，把经济学思想从古希腊柏拉图、亚里士多德的早期思考，到中世纪神学家的伦理维度，再到亚当·斯密、马尔萨斯、马克思、凯恩斯、哈耶克、皮凯蒂等历代经济学家对工业革命、大萧条、计划经济失败、二零零八年金融危机、气候变化等时代难题的回应，串成一条连贯的脉络。基什特尼强调：没有永恒正确的答案，只有被现实逼出来的思想工具；经济学不是数学游戏，而是人类为理解稀缺、做出选择而一步步搭建起来的故事。这是一本为没有经济学背景的读者量身打造的入门书，它会让你在新闻里听到“看不见的手““囚徒困境““明斯基时刻“时，能听出它们的来历和分量。</itunes:summary>
+      <itunes:duration>00:32:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260901/episode-20260901-0d01d2.mp3" length="31652397" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
