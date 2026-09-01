@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 03:34:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 03:39:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17913,6 +17913,17 @@
       <itunes:duration>00:36:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-a739d6.mp3" length="35101869" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一个抑郁男孩的30小时》 · 完整版 · 一个抑郁男孩的30小时 · 完整讲读</title>
+      <description>《一个抑郁男孩的三十小时》是心理咨询师顾歌的完整咨询实录，记录了抑郁青年 G 在三十次对话中从绝望走向重生的全过程。一岁半被送回中国、十二岁哭着回上海、十六岁彻底崩溃、吃了七年药做了近二十次电击治疗的 G，在二零一三年十月走进上海心灵花园。顾歌用阐释、放松、共情、家庭治疗等多元手法，逐步拆解 G 心中的恐惧、强迫与家庭创伤，提出核心概念爱商——以爱与利他作为疗愈的根本动力。这本书的全部收益用于抑郁症救助公益，是一部关于青少年抑郁、咨询技术与生命重生的真实读本。</description>
+      <pubDate>Tue, 01 Sep 2026 03:39:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-0d9c32</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一个抑郁男孩的三十小时》是心理咨询师顾歌的完整咨询实录，记录了抑郁青年 G 在三十次对话中从绝望走向重生的全过程。一岁半被送回中国、十二岁哭着回上海、十六岁彻底崩溃、吃了七年药做了近二十次电击治疗的 G，在二零一三年十月走进上海心灵花园。顾歌用阐释、放松、共情、家庭治疗等多元手法，逐步拆解 G 心中的恐惧、强迫与家庭创伤，提出核心概念爱商——以爱与利他作为疗愈的根本动力。这本书的全部收益用于抑郁症救助公益，是一部关于青少年抑郁、咨询技术与生命重生的真实读本。</itunes:summary>
+      <itunes:duration>00:28:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-0d9c32.mp3" length="27048237" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
