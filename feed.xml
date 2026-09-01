@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 03:12:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 03:12:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17803,6 +17803,17 @@
       <itunes:duration>00:39:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-647d15.mp3" length="37486125" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一个神秘事件调查员的秘密笔记》 · 完整版 · 一个神秘事件调查员的秘密笔记 · 完整讲读</title>
+      <description>《一个神秘事件调查员的秘密笔记》以代号一九九的神秘事件调查员为主角，讲述他因一张黑龙江冰面的卫星照片被卷入国家最高机密机构，由此开启跨越中国版图的惊天调查。从黑龙江水怪、黄河青牛古道、龙族后裔，到长白山鬼王墓与痛苦血原，他与队友一路追踪上古巨型生物、地外生命体与各神秘种族。书中既有中国式探险叙事的真实地理底色，又融合异能学院、国家隐秘部门等多势力博弈，更借调查员群像探讨了在未知面前，普通人该如何与恐惧共处。</description>
+      <pubDate>Tue, 01 Sep 2026 03:12:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-233e60</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一个神秘事件调查员的秘密笔记》以代号一九九的神秘事件调查员为主角，讲述他因一张黑龙江冰面的卫星照片被卷入国家最高机密机构，由此开启跨越中国版图的惊天调查。从黑龙江水怪、黄河青牛古道、龙族后裔，到长白山鬼王墓与痛苦血原，他与队友一路追踪上古巨型生物、地外生命体与各神秘种族。书中既有中国式探险叙事的真实地理底色，又融合异能学院、国家隐秘部门等多势力博弈，更借调查员群像探讨了在未知面前，普通人该如何与恐惧共处。</itunes:summary>
+      <itunes:duration>00:26:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-233e60.mp3" length="25421997" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
