@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 31 Aug 2026 18:50:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 02:55:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17715,6 +17715,17 @@
       <itunes:duration>00:37:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-676527.mp3" length="36273069" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一个晚清提督的踪迹史》 · 完整版 · 一个晚清提督的踪迹史 · 完整讲读</title>
+      <description>《一个晚清提踪史》是四川诗人、散文家、田野考察者蒋蓝写的一部非虚构散文：他用两年时间，沿大渡河、横江镇、犍为、成都文庙后街等十余处川蜀场域，重新追踪石达开被擒与唐友耕一生的踪迹。蒋蓝提出&quot;踪迹史&quot;这一新文体，区别于传统考据与传记，注重以田野考察与文学侦探学还原个体的肉身踪迹，撕开被宏大叙事封死的历史缝隙。从头颅如何飞掷入江，到流氓无产者的身份之锚，从力摔奔马的身体政治，到杀戮作为人生律令的伦理拷问，本书以一个被官方史册删除的人为线索引索，重新缝合出一段充满血与盐的断代晚清四川史。</description>
+      <pubDate>Tue, 01 Sep 2026 02:55:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-e13f5a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一个晚清提踪史》是四川诗人、散文家、田野考察者蒋蓝写的一部非虚构散文：他用两年时间，沿大渡河、横江镇、犍为、成都文庙后街等十余处川蜀场域，重新追踪石达开被擒与唐友耕一生的踪迹。蒋蓝提出&quot;踪迹史&quot;这一新文体，区别于传统考据与传记，注重以田野考察与文学侦探学还原个体的肉身踪迹，撕开被宏大叙事封死的历史缝隙。从头颅如何飞掷入江，到流氓无产者的身份之锚，从力摔奔马的身体政治，到杀戮作为人生律令的伦理拷问，本书以一个被官方史册删除的人为线索引索，重新缝合出一段充满血与盐的断代晚清四川史。</itunes:summary>
+      <itunes:duration>00:28:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-e13f5a.mp3" length="27648429" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
