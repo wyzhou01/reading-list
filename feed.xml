@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 12:46:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 12:47:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17957,6 +17957,17 @@
       <itunes:duration>00:32:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260901/episode-20260901-21a326.mp3" length="31502253" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一人食：一个人也要好好吃饭》 · 完整版 · 一人食_一个人也要好好吃饭 · 完整讲读</title>
+      <description>《一人食：一个人也要好好吃饭》是蔡雅妮与张爱球合著的生活散文集，二零一四年由江苏凤凰文艺出版社出版，源于同名系列短片。书中记录了二十位独自生活的普通人——插画家、新加坡华裔、设计师、咖啡店主、熊猫饲养员、独立食堂主理人——通过一道家常菜呈现各自的人生切片。林竹在上海老洋房里用奶奶寄来的辣椒粉做麻婆豆腐，Chaik 从用汉堡填饱肚子的留学生，变成能用四个小时教会别人六道菜的父亲。他们都不是专业厨师，却都用一饭一蔬把自己从生活的疲惫中打捞出来。全书核心观点是一个人吃饭也可以不孤独，一个人当然也要好好吃饭——食物成为与自我对话的媒介，做饭则是一种微小而庄重的自我照料。</description>
+      <pubDate>Tue, 01 Sep 2026 12:47:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260901-episode-20260901-86c71c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一人食：一个人也要好好吃饭》是蔡雅妮与张爱球合著的生活散文集，二零一四年由江苏凤凰文艺出版社出版，源于同名系列短片。书中记录了二十位独自生活的普通人——插画家、新加坡华裔、设计师、咖啡店主、熊猫饲养员、独立食堂主理人——通过一道家常菜呈现各自的人生切片。林竹在上海老洋房里用奶奶寄来的辣椒粉做麻婆豆腐，Chaik 从用汉堡填饱肚子的留学生，变成能用四个小时教会别人六道菜的父亲。他们都不是专业厨师，却都用一饭一蔬把自己从生活的疲惫中打捞出来。全书核心观点是一个人吃饭也可以不孤独，一个人当然也要好好吃饭——食物成为与自我对话的媒介，做饭则是一种微小而庄重的自我照料。</itunes:summary>
+      <itunes:duration>00:23:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260901/episode-20260901-86c71c.mp3" length="22591917" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
