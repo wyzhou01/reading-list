@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 02:55:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 02:56:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17726,6 +17726,17 @@
       <itunes:duration>00:28:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-e13f5a.mp3" length="27648429" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《说唐三传》 · 完整版 · K-063说唐三传  · 完整讲读</title>
+      <description>《说唐三传》接续《说唐》与《说唐后传》，讲述薛仁贵之子薛丁山征西故事。薛仁贵遭皇叔李道宗陷害入狱，因西凉犯境而得挂帅出征，被困锁阳城。薛丁山下山救父，阵上招亲窦仙童，又三休三请樊梨花，终得樊梨花挂帅大破西凉。文笔虽粗，但将忠奸斗争、英雄传承、爱情纠葛、神魔斗法与民俗信仰熔于一炉，是研究清代民间精神世界的重要样本。</description>
+      <pubDate>Tue, 01 Sep 2026 02:56:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-0c0859</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《说唐三传》接续《说唐》与《说唐后传》，讲述薛仁贵之子薛丁山征西故事。薛仁贵遭皇叔李道宗陷害入狱，因西凉犯境而得挂帅出征，被困锁阳城。薛丁山下山救父，阵上招亲窦仙童，又三休三请樊梨花，终得樊梨花挂帅大破西凉。文笔虽粗，但将忠奸斗争、英雄传承、爱情纠葛、神魔斗法与民俗信仰熔于一炉，是研究清代民间精神世界的重要样本。</itunes:summary>
+      <itunes:duration>00:24:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-0c0859.mp3" length="23781549" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
