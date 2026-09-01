@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 17:47:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 17:53:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18100,6 +18100,17 @@
       <itunes:duration>00:34:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260901/episode-20260901-862e31.mp3" length="33554733" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《不正常人类症候群》 · 完整版 · 不正常人类症候群 · 完整讲读</title>
+      <description>《不正常人类症候群》是青年作家张寒寺的短篇小说集，借一群生活在奇幻设定里的边缘人——沉迷程序女友的宅男、半人半机械的女军医、能预知未来的小孩、把爷爷当成猫的奶奶、试膳到中毒的宫女——拼出当下人类共同的处境：孤独，却仍渴望被看见、被记住、被爱。全书通过六个看似“不正常“的故事，回答了关于记忆、时间与生死、沟通与翻译的六道核心命题，最后用一位十九岁早逝的虚构法国盲诗人贯穿始终，把日常的困顿与脆弱，翻译成一句落地的人话——星河在上，波光在下，我在你身边，等着你的回答。</description>
+      <pubDate>Tue, 01 Sep 2026 17:53:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260901-episode-20260901-29e9c7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《不正常人类症候群》是青年作家张寒寺的短篇小说集，借一群生活在奇幻设定里的边缘人——沉迷程序女友的宅男、半人半机械的女军医、能预知未来的小孩、把爷爷当成猫的奶奶、试膳到中毒的宫女——拼出当下人类共同的处境：孤独，却仍渴望被看见、被记住、被爱。全书通过六个看似“不正常“的故事，回答了关于记忆、时间与生死、沟通与翻译的六道核心命题，最后用一位十九岁早逝的虚构法国盲诗人贯穿始终，把日常的困顿与脆弱，翻译成一句落地的人话——星河在上，波光在下，我在你身边，等着你的回答。</itunes:summary>
+      <itunes:duration>00:29:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260901/episode-20260901-29e9c7.mp3" length="28228269" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
