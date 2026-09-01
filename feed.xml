@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 17:14:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 17:18:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18012,6 +18012,17 @@
       <itunes:duration>00:22:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260901/episode-20260901-d6cbac.mp3" length="21329709" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《三联生活周刊·2015年第23期》 · 完整版 · 三联生活周刊_2015年23期 · 完整讲读</title>
+      <description>二零一五年第二十三期《三联生活周刊》，把镜头对准当代生活的多个切面。从韩国建筑师承孝相&apos;履露斋&apos;的留白美学，到日内瓦阁楼工匠代代相传的钟表手艺；从大堡礁三十年失去一半珊瑚的生态危机，到健身房里人人追求的马甲线与身体政治；从印度极端高温热死数千人的底层叙事，到国际足联腐败丑闻的崩塌现场。这一期，三联用一本杂志装下了一个时代的多元切面：建筑哲学、身体政治、消费焦虑、底层命运，彼此交织。封面故事《凡尔赛宫的一场盛宴》，以马爹利三百周年庆典为引子，重读莫泊桑的《项链》，直击中产阶级的全部焦虑——骆塞尔太太那条丢失的假项链，何尝不是你我拼命想晒出来的那点体面。读完这一期，你会对&apos;我们究竟生活在怎样的时代&apos;这个问题，多出几层理解。</description>
+      <pubDate>Tue, 01 Sep 2026 17:18:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260901-episode-20260901-29f506</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>二零一五年第二十三期《三联生活周刊》，把镜头对准当代生活的多个切面。从韩国建筑师承孝相&apos;履露斋&apos;的留白美学，到日内瓦阁楼工匠代代相传的钟表手艺；从大堡礁三十年失去一半珊瑚的生态危机，到健身房里人人追求的马甲线与身体政治；从印度极端高温热死数千人的底层叙事，到国际足联腐败丑闻的崩塌现场。这一期，三联用一本杂志装下了一个时代的多元切面：建筑哲学、身体政治、消费焦虑、底层命运，彼此交织。封面故事《凡尔赛宫的一场盛宴》，以马爹利三百周年庆典为引子，重读莫泊桑的《项链》，直击中产阶级的全部焦虑——骆塞尔太太那条丢失的假项链，何尝不是你我拼命想晒出来的那点体面。读完这一期，你会对&apos;我们究竟生活在怎样的时代&apos;这个问题，多出几层理解。</itunes:summary>
+      <itunes:duration>00:28:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260901/episode-20260901-29f506.mp3" length="27631533" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
