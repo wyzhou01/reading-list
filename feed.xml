@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 17:40:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 17:47:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18089,6 +18089,17 @@
       <itunes:duration>00:29:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260901/episode-20260901-8ebb4d.mp3" length="28076589" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《前往依斯特兰的旅程》 · 完整版 · 前往依斯特兰的旅程 · 完整讲读</title>
+      <description>《前往依斯特兰的旅程》是卡斯塔尼达唐望系列的转折之作。一九六零年的夏天，人类学研究生卡斯塔尼达在亚利桑那的沙漠小镇拜印第安老巫师唐望为师，前十年他误以为巫术的关键在于迷幻药草，直到一九七一年唐望用十年积蓄的对话帮他“停顿世界”，他才意识到药草只是催化剂，真正的巫术是一套不依赖药物的意识训练。本书以最早的田野笔记重新拼出唐望教诲的骨架：抹去个人历史、觉察死亡、停顿世界、把自己开放给宇宙力量、踏上永远无法回头的依斯特兰之旅。五十年过去，它依然是关于“描述塑造世界、死亡塑造选择、行走本身就是终点”的清醒提醒。</description>
+      <pubDate>Tue, 01 Sep 2026 17:47:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260901-episode-20260901-862e31</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《前往依斯特兰的旅程》是卡斯塔尼达唐望系列的转折之作。一九六零年的夏天，人类学研究生卡斯塔尼达在亚利桑那的沙漠小镇拜印第安老巫师唐望为师，前十年他误以为巫术的关键在于迷幻药草，直到一九七一年唐望用十年积蓄的对话帮他“停顿世界”，他才意识到药草只是催化剂，真正的巫术是一套不依赖药物的意识训练。本书以最早的田野笔记重新拼出唐望教诲的骨架：抹去个人历史、觉察死亡、停顿世界、把自己开放给宇宙力量、踏上永远无法回头的依斯特兰之旅。五十年过去，它依然是关于“描述塑造世界、死亡塑造选择、行走本身就是终点”的清醒提醒。</itunes:summary>
+      <itunes:duration>00:34:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260901/episode-20260901-862e31.mp3" length="33554733" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
