@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 03:39:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 03:40:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17924,6 +17924,17 @@
       <itunes:duration>00:28:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-0d9c32.mp3" length="27048237" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一个唯美主义者的遗言：奥斯卡·王尔德别传》 · 完整版 · 一个唯美主义者的遗言：奥斯卡王尔德别传 · 完整讲读</title>
+      <description>《一个唯美主义者的遗言》是英国作家彼得·阿克罗伊德一九八三年出版的一部伪日记，以王尔德的口吻记录他从一九零零年八月九日至十一月三十日——也就是去世前最后三个月——在巴黎阿尔萨斯旅馆的回望与独白。从伦敦唯美主义的巅峰，到与道格拉斯惊世骇俗的恋情、与昆斯伯里侯爵的对簿公堂，再到雷丁监狱的两年流放，最后流亡巴黎、贫病交加，阿克罗伊德以罕见的文学笔法，把王尔德的盛放与陨落浓缩在近百篇日记里。次年获毛姆奖，是二十世纪最经典的“王尔德别传”之一。</description>
+      <pubDate>Tue, 01 Sep 2026 03:40:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-d3e8a6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一个唯美主义者的遗言》是英国作家彼得·阿克罗伊德一九八三年出版的一部伪日记，以王尔德的口吻记录他从一九零零年八月九日至十一月三十日——也就是去世前最后三个月——在巴黎阿尔萨斯旅馆的回望与独白。从伦敦唯美主义的巅峰，到与道格拉斯惊世骇俗的恋情、与昆斯伯里侯爵的对簿公堂，再到雷丁监狱的两年流放，最后流亡巴黎、贫病交加，阿克罗伊德以罕见的文学笔法，把王尔德的盛放与陨落浓缩在近百篇日记里。次年获毛姆奖，是二十世纪最经典的“王尔德别传”之一。</itunes:summary>
+      <itunes:duration>00:31:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-d3e8a6.mp3" length="30546093" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
