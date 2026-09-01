@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 03:13:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 03:20:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17825,6 +17825,17 @@
       <itunes:duration>00:26:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-b70b4c.mp3" length="25135917" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一个定理的诞生》 · 完整版 · 一个定理的诞生 · 完整讲读</title>
+      <description>《一个定理的诞生》是法国数学家塞德里克·维拉尼亲笔撰写的科研回忆录，记录了他与搭档克莱蒙·穆奥在二零零八年三月到二零一零年八月间攻克非齐性玻尔兹曼方程条件正则性问题、并最终凭此获得菲尔茨奖的一千个日日夜夜。全书以日记体写成，真实呈现了数学研究最真实的面貌：模糊直觉的起步、与不同线索的意外交叉、与同行的激烈争论、无数次失败后的坚持、地铁里二十分钟的留白，以及整个研究共同体的支撑。这本书告诉我们，灵感不是凭空降临的灵光乍现，而是来自积累、交叉、碰撞、留白，更来自对失败与不确定性的坦然承受。维拉尼用他的亲身经历，回答了一个大问题：在一个看似孤独的智力劳动里，创造究竟是怎么诞生的。</description>
+      <pubDate>Tue, 01 Sep 2026 03:20:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-372e78</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一个定理的诞生》是法国数学家塞德里克·维拉尼亲笔撰写的科研回忆录，记录了他与搭档克莱蒙·穆奥在二零零八年三月到二零一零年八月间攻克非齐性玻尔兹曼方程条件正则性问题、并最终凭此获得菲尔茨奖的一千个日日夜夜。全书以日记体写成，真实呈现了数学研究最真实的面貌：模糊直觉的起步、与不同线索的意外交叉、与同行的激烈争论、无数次失败后的坚持、地铁里二十分钟的留白，以及整个研究共同体的支撑。这本书告诉我们，灵感不是凭空降临的灵光乍现，而是来自积累、交叉、碰撞、留白，更来自对失败与不确定性的坦然承受。维拉尼用他的亲身经历，回答了一个大问题：在一个看似孤独的智力劳动里，创造究竟是怎么诞生的。</itunes:summary>
+      <itunes:duration>00:25:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-372e78.mp3" length="24151341" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
