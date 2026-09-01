@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 03:40:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 09:28:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17935,6 +17935,17 @@
       <itunes:duration>00:31:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-d3e8a6.mp3" length="30546093" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一个青年艺术家的画像》 · 完整版 · 一个青年艺术家的画像（读客版） · 完整讲读</title>
+      <description>《一个青年艺术家的画像》是詹姆斯·乔伊斯一九一六年出版的半自传体成长小说。讲述都柏林青年斯蒂芬·迪达勒斯从童年到大学的精神觉醒全过程——他如何在家庭、宗教、民族三重枷锁中一步步觉醒，最终喊出我要在灵魂中铸造我的种族的尚未被创造出来的良心。这部小说用意识流、内心独白、感官碎片重构了一个灵魂的诞生史，是现代主义成长小说的源头，也是后来所有艺术家小说的精神原型。它告诉我们：真正的反叛必须先经过真正的拥抱，真正的觉醒必须先在心里偷偷起飞一次，真正的艺术就是把平常的现实压进灵魂的作坊。</description>
+      <pubDate>Tue, 01 Sep 2026 09:28:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260901-episode-20260901-34b3a3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一个青年艺术家的画像》是詹姆斯·乔伊斯一九一六年出版的半自传体成长小说。讲述都柏林青年斯蒂芬·迪达勒斯从童年到大学的精神觉醒全过程——他如何在家庭、宗教、民族三重枷锁中一步步觉醒，最终喊出我要在灵魂中铸造我的种族的尚未被创造出来的良心。这部小说用意识流、内心独白、感官碎片重构了一个灵魂的诞生史，是现代主义成长小说的源头，也是后来所有艺术家小说的精神原型。它告诉我们：真正的反叛必须先经过真正的拥抱，真正的觉醒必须先在心里偷偷起飞一次，真正的艺术就是把平常的现实压进灵魂的作坊。</itunes:summary>
+      <itunes:duration>00:25:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260901/episode-20260901-34b3a3.mp3" length="24431277" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
