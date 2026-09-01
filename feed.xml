@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 12:47:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 12:52:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17968,6 +17968,17 @@
       <itunes:duration>00:23:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260901/episode-20260901-86c71c.mp3" length="22591917" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一半是火焰，一半是海水》 · 完整版 · 一半是火焰，一半是海水 · 完整讲读</title>
+      <description>《一半是火焰，一半是海水》是王朔一九八零年代末到一九九〇年代初的五部中篇合集。以《一半是火焰》《永失我爱》《无人喝彩》《过把瘾就死》四篇为核心，讲述北京都市边缘人在欲望与真情、堕落与救赎之间的撕扯：一个靠敲诈为生的痞子爱上纯真女学生，一个离婚男人撞上把他当信仰的女刑警。满嘴京片子的痞子外壳下，藏着整整一代人在旧道德松动、新规则未立时的慌张与真心。它把“边缘人的爱“这件事写到了极致——不是不真诚，是真诚到了要毁灭的地步。</description>
+      <pubDate>Tue, 01 Sep 2026 12:52:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260901-episode-20260901-57d574</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一半是火焰，一半是海水》是王朔一九八零年代末到一九九〇年代初的五部中篇合集。以《一半是火焰》《永失我爱》《无人喝彩》《过把瘾就死》四篇为核心，讲述北京都市边缘人在欲望与真情、堕落与救赎之间的撕扯：一个靠敲诈为生的痞子爱上纯真女学生，一个离婚男人撞上把他当信仰的女刑警。满嘴京片子的痞子外壳下，藏着整整一代人在旧道德松动、新规则未立时的慌张与真心。它把“边缘人的爱“这件事写到了极致——不是不真诚，是真诚到了要毁灭的地步。</itunes:summary>
+      <itunes:duration>00:25:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260901/episode-20260901-57d574.mp3" length="24483117" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
