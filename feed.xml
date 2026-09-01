@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 03:33:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 03:34:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17902,6 +17902,17 @@
       <itunes:duration>00:25:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-9e41dc.mp3" length="24436269" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《乡村生活图景》 · 完整版 · 乡村生活图景（阿摩司·奥兹继《爱与黑暗的故事》后小说创作新高度，入选2016年度“大众喜爱的50种图书”） · 完整讲读</title>
+      <description>《乡村生活图景》是阿摩司·奥兹继《爱与黑暗的故事》之后的小说创作新高度，以一座虚构的以色列村庄特里宜兰为舞台，写以色列建国初期拓荒者子孙在梦想褪色后的真实处境。全书由八篇相互呼应的小说构成，没有戏剧化的高潮，只有等车、看病、修屋、争吵、和解、沉默。奥兹以近乎白描的克制笔触，写出了平庸生活的全部重量。他笔下的沉默不是空白，而是语言；写给离开者那封没有寄出的回信，替所有被温柔留下的人说出那句&quot;我没有一天是好好过的&quot;。这本书写的是普世的人——每一个离开故土又回到故土的人，每一个在家庭中找不到位置的人，每一个被时代抛下又不得不继续活下去的人。</description>
+      <pubDate>Tue, 01 Sep 2026 03:34:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-a739d6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《乡村生活图景》是阿摩司·奥兹继《爱与黑暗的故事》之后的小说创作新高度，以一座虚构的以色列村庄特里宜兰为舞台，写以色列建国初期拓荒者子孙在梦想褪色后的真实处境。全书由八篇相互呼应的小说构成，没有戏剧化的高潮，只有等车、看病、修屋、争吵、和解、沉默。奥兹以近乎白描的克制笔触，写出了平庸生活的全部重量。他笔下的沉默不是空白，而是语言；写给离开者那封没有寄出的回信，替所有被温柔留下的人说出那句&quot;我没有一天是好好过的&quot;。这本书写的是普世的人——每一个离开故土又回到故土的人，每一个在家庭中找不到位置的人，每一个被时代抛下又不得不继续活下去的人。</itunes:summary>
+      <itunes:duration>00:36:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-a739d6.mp3" length="35101869" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
