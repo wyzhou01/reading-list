@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 02:59:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 03:03:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17759,6 +17759,17 @@
       <itunes:duration>00:29:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-6dfedb.mp3" length="28488237" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一个海难幸存者的故事》 · 完整版 · 一个海难幸存者的故事 - 加西亚·马尔克斯 · 完整讲读</title>
+      <description>一九五五年，二十三岁的哥伦比亚水手贝拉斯科在加勒比海上漂流十天奇迹生还，被军方包装成民族英雄。二十七岁的报社记者马尔克斯与他联手调查，发现军舰倾覆的真相并非暴风雨，而是一起因走私家电、超载导致的海上事故。报道连载十四期，报纸发行量翻倍，最终却导致报纸关张、记者流亡、幸存者被除役消失。十五年后，马尔克斯在巴塞罗那将这段非虚构经历整理成书。这不仅是一则海难回忆，更是一面镜子，照出军事独裁下新闻自由的代价、英雄神话的制造与崩塌，以及一个普通人拒绝被神化的尊严。</description>
+      <pubDate>Tue, 01 Sep 2026 03:03:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-ecb6b7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九五五年，二十三岁的哥伦比亚水手贝拉斯科在加勒比海上漂流十天奇迹生还，被军方包装成民族英雄。二十七岁的报社记者马尔克斯与他联手调查，发现军舰倾覆的真相并非暴风雨，而是一起因走私家电、超载导致的海上事故。报道连载十四期，报纸发行量翻倍，最终却导致报纸关张、记者流亡、幸存者被除役消失。十五年后，马尔克斯在巴塞罗那将这段非虚构经历整理成书。这不仅是一则海难回忆，更是一面镜子，照出军事独裁下新闻自由的代价、英雄神话的制造与崩塌，以及一个普通人拒绝被神化的尊严。</itunes:summary>
+      <itunes:duration>00:28:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-ecb6b7.mp3" length="26914989" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
