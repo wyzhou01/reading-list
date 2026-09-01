@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 03:12:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 03:13:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17814,6 +17814,17 @@
       <itunes:duration>00:26:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-233e60.mp3" length="25421997" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《严歌苓中短篇小说自选集》 · 完整版 · 严歌苓中短篇小说自选集(套装共4册) · 完整讲读</title>
+      <description>严歌苓中短篇小说自选集四册，收录三十余篇作品，跨越文革、藏地下乡、知青岁月与海外漂泊。她以女性身体作为历史的入口，写权力、欲望、羞耻与尊严的现场博弈。《白蛇》里被关进布景仓库的舞蹈家孙丽坤，在官方、民间、不为人知的三个版本里，被一个神秘的徐群山唤醒又摧毁；《天浴》里下乡藏区的少女文秀，用身体换取一张回城的指标，最终在一个干涸的浴池里完成自我洗净；《穗子》系列里，一个被时代轻轻碾过的女孩，连叫都来不及叫；《少女小渔》里，去澳洲打工的上海姑娘小渔，把老头的乱鞋摆得整整齐齐。严歌苓用冷峻又诗意的笔，写女人身体上发生过的政治，写尊严被剥夺的样子，写爱如何在废墟里发芽。这套书既是她个人从舞者到海外作家的精神自传，也是所有被碾过却不愿被碾过的人的集体档案。</description>
+      <pubDate>Tue, 01 Sep 2026 03:13:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-b70b4c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>严歌苓中短篇小说自选集四册，收录三十余篇作品，跨越文革、藏地下乡、知青岁月与海外漂泊。她以女性身体作为历史的入口，写权力、欲望、羞耻与尊严的现场博弈。《白蛇》里被关进布景仓库的舞蹈家孙丽坤，在官方、民间、不为人知的三个版本里，被一个神秘的徐群山唤醒又摧毁；《天浴》里下乡藏区的少女文秀，用身体换取一张回城的指标，最终在一个干涸的浴池里完成自我洗净；《穗子》系列里，一个被时代轻轻碾过的女孩，连叫都来不及叫；《少女小渔》里，去澳洲打工的上海姑娘小渔，把老头的乱鞋摆得整整齐齐。严歌苓用冷峻又诗意的笔，写女人身体上发生过的政治，写尊严被剥夺的样子，写爱如何在废墟里发芽。这套书既是她个人从舞者到海外作家的精神自传，也是所有被碾过却不愿被碾过的人的集体档案。</itunes:summary>
+      <itunes:duration>00:26:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-b70b4c.mp3" length="25135917" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
