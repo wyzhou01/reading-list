@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 03:25:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 03:31:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17869,6 +17869,17 @@
       <itunes:duration>00:36:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-f475a2.mp3" length="35074989" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一个市民的自白》 · 完整版 · 一个市民的自白 · 完整讲读</title>
+      <description>《一个市民的自白》是匈牙利作家马洛伊·山多尔写于一九三四到一九三五年的自传体代表作。他以世纪之交的考绍城为舞台，透过一栋两层公寓楼、一家小银行、一户天主教家庭，勾勒了一个讲德语、读歌德、弹钢琴的市民阶层如何在第一次世界大战和《特里亚农条约》之后，连同旧秩序一起走向瓦解。这本书不仅是个人记忆，更是一个阶层的墓志铭。</description>
+      <pubDate>Tue, 01 Sep 2026 03:31:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-75fedf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一个市民的自白》是匈牙利作家马洛伊·山多尔写于一九三四到一九三五年的自传体代表作。他以世纪之交的考绍城为舞台，透过一栋两层公寓楼、一家小银行、一户天主教家庭，勾勒了一个讲德语、读歌德、弹钢琴的市民阶层如何在第一次世界大战和《特里亚农条约》之后，连同旧秩序一起走向瓦解。这本书不仅是个人记忆，更是一个阶层的墓志铭。</itunes:summary>
+      <itunes:duration>00:28:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-75fedf.mp3" length="27794733" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
