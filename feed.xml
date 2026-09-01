@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 17:38:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 17:40:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18078,6 +18078,17 @@
       <itunes:duration>00:32:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260901/episode-20260901-0d01d2.mp3" length="31652397" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《图说冥界鬼神》 · 完整版 · 图说冥界鬼神（图说中华神祇文化丛书）_-_殷伟_&amp;_程建强 · 完整讲读</title>
+      <description>《图说冥界鬼神》以图文并茂的方式，系统梳理中国民间鬼神文化的源流与体系。上篇解读甲骨文中「鬼」字的大头跪身之形、秦简《日书》的二十五鬼名分类，以及古人笔下千形百状的鬼相；中篇勾勒阴间官僚体制——阎罗王、崔判官、城隍神、黑白无常、牛头马面、孟婆神如何层层搭建起一个比照人间的幽冥秩序；下篇则讲述神荼郁垒、钟馗捉鬼的镇鬼传统，以及红色、鸡鸣、桃符、铜镜、宝剑等辟邪法宝背后深厚的民俗意涵。一本书读完，理解中国人面对死亡时那份既敬畏又温情的精神底色。</description>
+      <pubDate>Tue, 01 Sep 2026 17:40:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260901-episode-20260901-8ebb4d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《图说冥界鬼神》以图文并茂的方式，系统梳理中国民间鬼神文化的源流与体系。上篇解读甲骨文中「鬼」字的大头跪身之形、秦简《日书》的二十五鬼名分类，以及古人笔下千形百状的鬼相；中篇勾勒阴间官僚体制——阎罗王、崔判官、城隍神、黑白无常、牛头马面、孟婆神如何层层搭建起一个比照人间的幽冥秩序；下篇则讲述神荼郁垒、钟馗捉鬼的镇鬼传统，以及红色、鸡鸣、桃符、铜镜、宝剑等辟邪法宝背后深厚的民俗意涵。一本书读完，理解中国人面对死亡时那份既敬畏又温情的精神底色。</itunes:summary>
+      <itunes:duration>00:29:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260901/episode-20260901-8ebb4d.mp3" length="28076589" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
