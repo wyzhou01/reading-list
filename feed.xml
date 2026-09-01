@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 03:23:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 03:25:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17858,6 +17858,17 @@
       <itunes:duration>00:37:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-8a8b9b.mp3" length="35677869" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一个观点，不一定对》 · 完整版 · 一个观点，不一定对 · 完整讲读</title>
+      <description>本书是大象公会的文章合集，作者以社会学、人类学、心理学、历史学等学术工具，对生活中习以为常却少有人深究的现象——从古代白银使用、嗑瓜子、辣食流行，到犹太人智商、程序员不打扮、理工科男多女少——给出有据可依、常常颠覆常识的解释。书中每个回答都不宣称绝对正确，但力求比流传的民间说法更接近真相，体现一种严肃的好奇心与对碎片化时代深度内容的坚守。</description>
+      <pubDate>Tue, 01 Sep 2026 03:25:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-f475a2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是大象公会的文章合集，作者以社会学、人类学、心理学、历史学等学术工具，对生活中习以为常却少有人深究的现象——从古代白银使用、嗑瓜子、辣食流行，到犹太人智商、程序员不打扮、理工科男多女少——给出有据可依、常常颠覆常识的解释。书中每个回答都不宣称绝对正确，但力求比流传的民间说法更接近真相，体现一种严肃的好奇心与对碎片化时代深度内容的坚守。</itunes:summary>
+      <itunes:duration>00:36:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-f475a2.mp3" length="35074989" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
