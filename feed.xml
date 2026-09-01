@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 17:27:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 17:32:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18056,6 +18056,17 @@
       <itunes:duration>00:19:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260901/episode-20260901-4d8568.mp3" length="19043757" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《人工智能的进化》 · 完整版 · 人工智能的进化 · 完整讲读</title>
+      <description>《人工智能的进化》是加拿大学者赫克托·莱韦斯克写给普通读者的一本AI思想随笔。在深度学习喧嚣的年代，他逆流而上，重新追问人工智能最古老也最棘手的问题：什么是常识？他梳理了老式人工智能（GOFAI）与自适应机器学习（AML）两条路线的理念与困境，走过图灵测试、中文房间、威诺格拉德模式这些经典思想实验，提出真正的智能必须能调用常识、区分真假理解、并兼具书本智慧与市井智慧。这本书不提供答案，却提供了一套在AI喧嚣中保持清醒的提问方式。</description>
+      <pubDate>Tue, 01 Sep 2026 17:32:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260901-episode-20260901-a5f605</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《人工智能的进化》是加拿大学者赫克托·莱韦斯克写给普通读者的一本AI思想随笔。在深度学习喧嚣的年代，他逆流而上，重新追问人工智能最古老也最棘手的问题：什么是常识？他梳理了老式人工智能（GOFAI）与自适应机器学习（AML）两条路线的理念与困境，走过图灵测试、中文房间、威诺格拉德模式这些经典思想实验，提出真正的智能必须能调用常识、区分真假理解、并兼具书本智慧与市井智慧。这本书不提供答案，却提供了一套在AI喧嚣中保持清醒的提问方式。</itunes:summary>
+      <itunes:duration>00:28:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260901/episode-20260901-a5f605.mp3" length="27637293" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
