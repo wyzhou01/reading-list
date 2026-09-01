@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 03:21:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 03:23:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17847,6 +17847,17 @@
       <itunes:duration>00:28:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-44e35e.mp3" length="27828909" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《50：伟大的短篇小说们》 · 完整版 · 50：伟大的短篇小说们 · 完整讲读</title>
+      <description>《五十：伟大的短篇小说们》精选了十九世纪至二十世纪世界文学史上五十篇最具代表性的短篇佳作。本书跨越国界与流派，收录契诃夫、芥川龙之介、舒尔茨、茨威格、海明威、卡夫卡、欧·亨利、莫泊桑等五十位大师的代表作。从底层小人物打完喷嚏后的三个&quot;完了&quot;，到父亲从人变成鸟、再变成端上餐桌的螯虾的荒诞蜕变；从竹林凶案中七个证人七种真相的不可知，到盲老人脑里比现实更真实的铜版画收藏——这五十个故事，用几千字的篇幅，切开了尊严、命运、偶然、荒诞、爱与牺牲的全部命题。它告诉我们，短篇小说不是长篇的浓缩，而是另一种生物——它像闪电一样，一秒之内照亮整片大地。读这五十个故事，就是和五十位顶级作家坐在同一张桌前，品尝人类叙事的极致滋味，也是一次精神的返乡。</description>
+      <pubDate>Tue, 01 Sep 2026 03:23:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-8a8b9b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《五十：伟大的短篇小说们》精选了十九世纪至二十世纪世界文学史上五十篇最具代表性的短篇佳作。本书跨越国界与流派，收录契诃夫、芥川龙之介、舒尔茨、茨威格、海明威、卡夫卡、欧·亨利、莫泊桑等五十位大师的代表作。从底层小人物打完喷嚏后的三个&quot;完了&quot;，到父亲从人变成鸟、再变成端上餐桌的螯虾的荒诞蜕变；从竹林凶案中七个证人七种真相的不可知，到盲老人脑里比现实更真实的铜版画收藏——这五十个故事，用几千字的篇幅，切开了尊严、命运、偶然、荒诞、爱与牺牲的全部命题。它告诉我们，短篇小说不是长篇的浓缩，而是另一种生物——它像闪电一样，一秒之内照亮整片大地。读这五十个故事，就是和五十位顶级作家坐在同一张桌前，品尝人类叙事的极致滋味，也是一次精神的返乡。</itunes:summary>
+      <itunes:duration>00:37:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-8a8b9b.mp3" length="35677869" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
