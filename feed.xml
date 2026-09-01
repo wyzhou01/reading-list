@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 12:59:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 17:14:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18001,6 +18001,17 @@
       <itunes:duration>00:23:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260901/episode-20260901-0baa01.mp3" length="22780845" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《诡盗团》 · 完整版 · 诡盗团 · 完整讲读</title>
+      <description>民国乱世，屏州城里秩序真空，黑帮、洋行、军阀、巡捕房彼此倾轧。九舌张仪薛恕领着一群身怀绝技的江湖人——半吊子西峰子、复仇兄妹成勇和玉淑、轮椅神探萧融、丧子寡妇花如映、小侠女薛小容——组成诡盗团，以骗制恶，撬动虎烈、马彪、金蛛这些压在他们头上的恶。八个单元案件环环相扣，骗局与真相贴身肉搏，而贯穿始终的暗线，是洪山孤儿院大火的真相和白隐君不断寄来的四块照片拼图。这群人一边在局中局里求生，一边把彼此当成最后的退路，写出了乱世里同命相连的义气，也写出了人心最暗处那团烧不灭的火。</description>
+      <pubDate>Tue, 01 Sep 2026 17:14:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260901-episode-20260901-d6cbac</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>民国乱世，屏州城里秩序真空，黑帮、洋行、军阀、巡捕房彼此倾轧。九舌张仪薛恕领着一群身怀绝技的江湖人——半吊子西峰子、复仇兄妹成勇和玉淑、轮椅神探萧融、丧子寡妇花如映、小侠女薛小容——组成诡盗团，以骗制恶，撬动虎烈、马彪、金蛛这些压在他们头上的恶。八个单元案件环环相扣，骗局与真相贴身肉搏，而贯穿始终的暗线，是洪山孤儿院大火的真相和白隐君不断寄来的四块照片拼图。这群人一边在局中局里求生，一边把彼此当成最后的退路，写出了乱世里同命相连的义气，也写出了人心最暗处那团烧不灭的火。</itunes:summary>
+      <itunes:duration>00:22:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260901/episode-20260901-d6cbac.mp3" length="21329709" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
