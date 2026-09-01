@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 12:53:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 12:59:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17990,6 +17990,17 @@
       <itunes:duration>00:25:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260901/episode-20260901-2c2ea2.mp3" length="24331821" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一头想要被吃掉的猪》 · 完整版 · 一头想要被吃掉的猪 - [英]朱利安·巴吉尼 （julian Baggini） · 完整讲读</title>
+      <description>《一头想要被吃掉的猪》是英国哲学家朱利安·巴吉尼写给普通读者的一百则思想实验合集。每一则都用一个具体的小故事——会说话并渴望被吃的猪、毫无知觉的“无脑鸡“、瞬间移动装置、虚拟外遇、沙漠里第一次听说冰的印度女人——去撬动伦理、形而上学、认识论、心灵哲学中的核心问题。巴吉尼不提供标准答案，只负责把问题推到极限，让读者在每一个极端情境里看清自己日常立场的脆弱。全书的真正野心，是把思想实验从哲学课堂搬进普通人的睡前阅读，让人意识到：哲学不是大师的专利，理性思考是每个人都能练习的能力。</description>
+      <pubDate>Tue, 01 Sep 2026 12:59:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260901-episode-20260901-0baa01</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一头想要被吃掉的猪》是英国哲学家朱利安·巴吉尼写给普通读者的一百则思想实验合集。每一则都用一个具体的小故事——会说话并渴望被吃的猪、毫无知觉的“无脑鸡“、瞬间移动装置、虚拟外遇、沙漠里第一次听说冰的印度女人——去撬动伦理、形而上学、认识论、心灵哲学中的核心问题。巴吉尼不提供标准答案，只负责把问题推到极限，让读者在每一个极端情境里看清自己日常立场的脆弱。全书的真正野心，是把思想实验从哲学课堂搬进普通人的睡前阅读，让人意识到：哲学不是大师的专利，理性思考是每个人都能练习的能力。</itunes:summary>
+      <itunes:duration>00:23:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260901/episode-20260901-0baa01.mp3" length="22780845" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
