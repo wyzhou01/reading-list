@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 17:21:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 17:26:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18034,6 +18034,17 @@
       <itunes:duration>00:27:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260901/episode-20260901-06edb6.mp3" length="26374701" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《告密者》 · 完整版 · 告密者_-_张宝瑞 · 完整讲读</title>
+      <description>《告密者》是张宝瑞创作的反特悬疑长篇，以民国旧政权潜伏网络与新中国反间谍交锋为核心。一九六四年冬，起义将领张子豪在南京中山陵被梅花镖暗杀，公安部高级特工龙飞南下破案，由此揭开横跨一九四八至一九六四年、涉及专列安全与个人情感的暗战。小说以&quot;身份错位+多重谜局&quot;的结构，再现新中国成立初期反间谍斗争的隐秘战场，展现革命信仰与个人情感的艰难抉择，以及正义最终战胜阴谋与背叛的主题。</description>
+      <pubDate>Tue, 01 Sep 2026 17:26:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260901-episode-20260901-2423bd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《告密者》是张宝瑞创作的反特悬疑长篇，以民国旧政权潜伏网络与新中国反间谍交锋为核心。一九六四年冬，起义将领张子豪在南京中山陵被梅花镖暗杀，公安部高级特工龙飞南下破案，由此揭开横跨一九四八至一九六四年、涉及专列安全与个人情感的暗战。小说以&quot;身份错位+多重谜局&quot;的结构，再现新中国成立初期反间谍斗争的隐秘战场，展现革命信仰与个人情感的艰难抉择，以及正义最终战胜阴谋与背叛的主题。</itunes:summary>
+      <itunes:duration>00:31:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260901/episode-20260901-2423bd.mp3" length="30464685" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
