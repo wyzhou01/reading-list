@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 02:58:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 02:59:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17748,6 +17748,17 @@
       <itunes:duration>00:31:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-d8110e.mp3" length="30337581" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一个外企女白领的日记》 · 完整版 · 一个外企女白领的日记 · 完整讲读</title>
+      <description>《一个外企女白领的日记》是一位外企中层女管理者的真实职场记录，写于二零零六年外企的黄金年代。她以冷静笔触剖析外企生态中的公平假象、管理者与执行者的角色分野、邮件系统背后的权力逻辑、派系斗争的站位玄机、跳槽前后的得失权衡，以及中层在欲望、妥协与心态修炼中的艰难平衡。这不是成功学，也不是心灵鸡汤，而是一个亲历者的冷峻复盘。全书贯穿一句话：职场即名利场，活下来靠的不是品行，而是实力加心计。十六年过去，外企虽不再是唯一优选，但职场的丛林法则从未改变，这本书依然是每一个打工人都该读一面的镜子。</description>
+      <pubDate>Tue, 01 Sep 2026 02:59:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-6dfedb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一个外企女白领的日记》是一位外企中层女管理者的真实职场记录，写于二零零六年外企的黄金年代。她以冷静笔触剖析外企生态中的公平假象、管理者与执行者的角色分野、邮件系统背后的权力逻辑、派系斗争的站位玄机、跳槽前后的得失权衡，以及中层在欲望、妥协与心态修炼中的艰难平衡。这不是成功学，也不是心灵鸡汤，而是一个亲历者的冷峻复盘。全书贯穿一句话：职场即名利场，活下来靠的不是品行，而是实力加心计。十六年过去，外企虽不再是唯一优选，但职场的丛林法则从未改变，这本书依然是每一个打工人都该读一面的镜子。</itunes:summary>
+      <itunes:duration>00:29:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-6dfedb.mp3" length="28488237" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
