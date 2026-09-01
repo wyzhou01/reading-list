@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 03:20:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 03:21:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17836,6 +17836,17 @@
       <itunes:duration>00:25:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-372e78.mp3" length="24151341" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中世纪的秋天：14世纪和15世纪法国与荷兰的生活、思想与艺术》 · 完整版 · 中世纪的秋天：14世纪和15世纪法国与荷兰的生活、思想与艺术（赫伊津哈经典文集） · 完整讲读</title>
+      <description>《中世纪的秋天》是荷兰文化史家赫伊津哈写于一九一九年的经典之作，它用“秋天”而非“衰落”来重新定义十四十五世纪的欧洲。赫伊津哈以大量法国与尼德兰的文学、艺术、宗教、礼仪、爱情、死亡的原始材料证明：人文主义与文艺复兴并非凭空降临，而是从旧世界的母体中慢慢孕育。旧形式尚未死亡，新形式已在枝头萌芽。这种秋天的辩证法，不仅是对欧洲精神的深刻洞察，也提供了一种看待所有伟大转折时代的永恒视角。</description>
+      <pubDate>Tue, 01 Sep 2026 03:21:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-44e35e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《中世纪的秋天》是荷兰文化史家赫伊津哈写于一九一九年的经典之作，它用“秋天”而非“衰落”来重新定义十四十五世纪的欧洲。赫伊津哈以大量法国与尼德兰的文学、艺术、宗教、礼仪、爱情、死亡的原始材料证明：人文主义与文艺复兴并非凭空降临，而是从旧世界的母体中慢慢孕育。旧形式尚未死亡，新形式已在枝头萌芽。这种秋天的辩证法，不仅是对欧洲精神的深刻洞察，也提供了一种看待所有伟大转折时代的永恒视角。</itunes:summary>
+      <itunes:duration>00:28:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-44e35e.mp3" length="27828909" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
