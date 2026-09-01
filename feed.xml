@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 17:26:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 17:27:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18045,6 +18045,17 @@
       <itunes:duration>00:31:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260901/episode-20260901-2423bd.mp3" length="30464685" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《幸福的最小行动》 · 完整版 · 幸福的最小行动 · 完整讲读</title>
+      <description>...</description>
+      <pubDate>Tue, 01 Sep 2026 17:27:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260901-episode-20260901-4d8568</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>...</itunes:summary>
+      <itunes:duration>00:19:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260901/episode-20260901-4d8568.mp3" length="19043757" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
