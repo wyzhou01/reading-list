@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 09:28:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 12:46:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17946,6 +17946,17 @@
       <itunes:duration>00:25:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260901/episode-20260901-34b3a3.mp3" length="24431277" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一地鸡毛》 · 完整版 · 一地鸡毛 · 完整讲读</title>
+      <description>《一地鸡毛》是刘震云早期的中短篇小说集，收录《塔铺》《新兵连》《头人》《单位》《官场》《一地鸡毛》《土塬鼓点后》《口信》八篇作品，写改革开放前后中国最普通的小人物，在生活夹缝里的挣扎与无奈。从塔铺复习班的高考梦，到机关里的分房算账、排队买豆腐、邻里口角，再到土塬鼓点后用手拍桌子听钢琴曲的农村老太太，刘震云以平淡克制的笔触，写出了琐碎日常对人性的消磨与重塑，写出了权力与欲望在底层的微观运作，更写出了小人物在时代洪流里，那点压不垮的倔。这是一本写给所有认真活着的人的书。</description>
+      <pubDate>Tue, 01 Sep 2026 12:46:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260901-episode-20260901-21a326</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一地鸡毛》是刘震云早期的中短篇小说集，收录《塔铺》《新兵连》《头人》《单位》《官场》《一地鸡毛》《土塬鼓点后》《口信》八篇作品，写改革开放前后中国最普通的小人物，在生活夹缝里的挣扎与无奈。从塔铺复习班的高考梦，到机关里的分房算账、排队买豆腐、邻里口角，再到土塬鼓点后用手拍桌子听钢琴曲的农村老太太，刘震云以平淡克制的笔触，写出了琐碎日常对人性的消磨与重塑，写出了权力与欲望在底层的微观运作，更写出了小人物在时代洪流里，那点压不垮的倔。这是一本写给所有认真活着的人的书。</itunes:summary>
+      <itunes:duration>00:32:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260901/episode-20260901-21a326.mp3" length="31502253" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
