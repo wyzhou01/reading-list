@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 02:56:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 02:58:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17737,6 +17737,17 @@
       <itunes:duration>00:24:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-0c0859.mp3" length="23781549" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《2666》 · 完整版 · 2666 · 完整讲读</title>
+      <description>二零零三年夏天，智利作家罗贝托·波拉尼奥在巴塞罗那病逝，留下未完成遗作《二六六六》。全书五十四万字，分五个部分：欧洲文学教授疯狂寻找神秘德国作家阿琴波尔迪；流亡墨西哥的智利哲学教授；纽约记者法特；墨西哥边境小城圣特莱莎数百起妇女谋杀案的法庭档案；以及阿琴波尔迪本人的身世。这五个故事看似散乱，却被一条暗线串在一起——二十世纪人类经历的种种暴行，从奥斯维辛到墨西哥的连环杀人案。波拉尼奥借二百六六六这个年份预言人类自我毁灭的终点，写出一部关于恶的百科全书。今天读它，是对人性的一次警告，也是对文学意义的一次追问。</description>
+      <pubDate>Tue, 01 Sep 2026 02:58:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-d8110e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>二零零三年夏天，智利作家罗贝托·波拉尼奥在巴塞罗那病逝，留下未完成遗作《二六六六》。全书五十四万字，分五个部分：欧洲文学教授疯狂寻找神秘德国作家阿琴波尔迪；流亡墨西哥的智利哲学教授；纽约记者法特；墨西哥边境小城圣特莱莎数百起妇女谋杀案的法庭档案；以及阿琴波尔迪本人的身世。这五个故事看似散乱，却被一条暗线串在一起——二十世纪人类经历的种种暴行，从奥斯维辛到墨西哥的连环杀人案。波拉尼奥借二百六六六这个年份预言人类自我毁灭的终点，写出一部关于恶的百科全书。今天读它，是对人性的一次警告，也是对文学意义的一次追问。</itunes:summary>
+      <itunes:duration>00:31:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-d8110e.mp3" length="30337581" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
