@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 03:31:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 03:32:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17880,6 +17880,17 @@
       <itunes:duration>00:28:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-75fedf.mp3" length="27794733" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《奥古斯都：从革命者到皇帝》 · 完整版 · Adrian Goldsworthy - 奥古斯都：从革命者到皇帝 · 完整讲读</title>
+      <description>戈兹沃西的《奥古斯都：从革命者到皇帝》把罗马第一位皇帝从圣诞故事里的模糊背景和莎士比亚笔下的陪衬角色里拯救出来，重新塑造成一个十九岁跳进内战的赌徒、一个靠死去养父的名字起家的年轻人、一个用宣传重塑形象的天才、一个在亲情与原则之间被撕裂的父亲，以及一个用四十四年长寿换得系统稳定性的工程师。戈兹沃西挑战了赛姆一派对奥古斯都的冷血权术家形象，强调随机应变、家庭代价与长寿本身的政治意义。这本书不仅是一段两千年前的往事，更是一份关于权力如何被包装、被藏起来、又被重建的全过程记录。</description>
+      <pubDate>Tue, 01 Sep 2026 03:32:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-4b0c4c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>戈兹沃西的《奥古斯都：从革命者到皇帝》把罗马第一位皇帝从圣诞故事里的模糊背景和莎士比亚笔下的陪衬角色里拯救出来，重新塑造成一个十九岁跳进内战的赌徒、一个靠死去养父的名字起家的年轻人、一个用宣传重塑形象的天才、一个在亲情与原则之间被撕裂的父亲，以及一个用四十四年长寿换得系统稳定性的工程师。戈兹沃西挑战了赛姆一派对奥古斯都的冷血权术家形象，强调随机应变、家庭代价与长寿本身的政治意义。这本书不仅是一段两千年前的往事，更是一份关于权力如何被包装、被藏起来、又被重建的全过程记录。</itunes:summary>
+      <itunes:duration>00:31:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-4b0c4c.mp3" length="30105261" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
