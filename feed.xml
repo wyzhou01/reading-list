@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 03:06:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 03:11:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17781,6 +17781,17 @@
       <itunes:duration>00:31:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-dff920.mp3" length="30299181" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《404公寓》 · 完整版 · 404公寓 · 完整讲读</title>
+      <description>《四百零四公寓》是梅艺璇写的一部暗黑治愈系悬疑短篇集。灰墙白窗的公寓藏在荒山废墟里，门牌四零四，又名自杀公寓。管理员白发苍苍，黑猫渡相伴，每天接待一两位带着秘密走进来的人，听他们讲一段放不下的往事，再给他们一张房卡，送他们上楼。书里有人用桑皮纸替恩师赎罪，有经纪人替爱人赴死，有被流言杀死的夫妻相约同行，有管理员用半辈子替战友守住一场火的秘密。每一个故事都是一块拼图，拼到最后才明白——四零四不是一座建筑，而是一个愿意安静聆听的位置。死亡、秘密、孤独、救赎，是这本书要聊的四件事。</description>
+      <pubDate>Tue, 01 Sep 2026 03:11:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-3b269b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《四百零四公寓》是梅艺璇写的一部暗黑治愈系悬疑短篇集。灰墙白窗的公寓藏在荒山废墟里，门牌四零四，又名自杀公寓。管理员白发苍苍，黑猫渡相伴，每天接待一两位带着秘密走进来的人，听他们讲一段放不下的往事，再给他们一张房卡，送他们上楼。书里有人用桑皮纸替恩师赎罪，有经纪人替爱人赴死，有被流言杀死的夫妻相约同行，有管理员用半辈子替战友守住一场火的秘密。每一个故事都是一块拼图，拼到最后才明白——四零四不是一座建筑，而是一个愿意安静聆听的位置。死亡、秘密、孤独、救赎，是这本书要聊的四件事。</itunes:summary>
+      <itunes:duration>00:31:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-3b269b.mp3" length="30659373" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
