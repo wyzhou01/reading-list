@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 03:11:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 03:12:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -17792,6 +17792,17 @@
       <itunes:duration>00:31:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-3b269b.mp3" length="30659373" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一个孤独的散步者的梦》 · 完整版 · 一个孤独的散步者的梦 · 完整讲读</title>
+      <description>《一个孤独的散步者的梦》是法国思想家卢梭的最后一部作品,写于一七七六年秋至一七七八年七月他猝然离世之前。晚年的卢梭被巴黎警察禁止公开朗读自己的书,被上流社会集体抛弃,最后一位庇护他的孔迪亲王也于一七七六年八月病逝,他彻底放弃了对&quot;公道&quot;的追求。在生命的最后一年多里,他隐居巴黎郊外,以散步和植物学为伴,写下十篇&quot;散步&quot;。本书讲的是:一个人,在被整个时代抛弃之后,如何与自己和解——放弃世界,但不放弃自己;放下荣辱,但不放下内心;不要永恒的幸福,只取瞬间的安宁;与命运和解,但不与谎言和解。卢梭留给后世的最后遗产,不是《社会契约论》,不是《爱弥儿》,是这本薄薄的《梦》。它证明:一个人,哪怕被全世界抛弃,只要他还能对自己诚实、还能为一朵花停下脚步,他就还没有被这个世界真正打败。</description>
+      <pubDate>Tue, 01 Sep 2026 03:12:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260831-episode-20260831-647d15</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一个孤独的散步者的梦》是法国思想家卢梭的最后一部作品,写于一七七六年秋至一七七八年七月他猝然离世之前。晚年的卢梭被巴黎警察禁止公开朗读自己的书,被上流社会集体抛弃,最后一位庇护他的孔迪亲王也于一七七六年八月病逝,他彻底放弃了对&quot;公道&quot;的追求。在生命的最后一年多里,他隐居巴黎郊外,以散步和植物学为伴,写下十篇&quot;散步&quot;。本书讲的是:一个人,在被整个时代抛弃之后,如何与自己和解——放弃世界,但不放弃自己;放下荣辱,但不放下内心;不要永恒的幸福,只取瞬间的安宁;与命运和解,但不与谎言和解。卢梭留给后世的最后遗产,不是《社会契约论》,不是《爱弥儿》,是这本薄薄的《梦》。它证明:一个人,哪怕被全世界抛弃,只要他还能对自己诚实、还能为一朵花停下脚步,他就还没有被这个世界真正打败。</itunes:summary>
+      <itunes:duration>00:39:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260831/episode-20260831-647d15.mp3" length="37486125" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
