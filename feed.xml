@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 02 Sep 2026 17:17:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 17:26:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18133,6 +18133,17 @@
       <itunes:duration>00:27:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260902/episode-20260902-466b5e.mp3" length="26112813" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《余生皆假期》 · 完整版 · 余生皆假期 · 完整讲读</title>
+      <description>《余生皆假期》是伊坂幸太郎二零一三年的短篇连作集，借一本虚构的《美食日记》博客，把五个时空不同的故事缝合在一起：一个四十七岁的男人在家庭破碎当日，回复了一条陌生人&quot;我们做朋友吧&quot;的短信；一对刚签完离婚协议的夫妻，带着十六岁的女儿欣然赴约；两个以碰瓷勒索为生的搭档，一个决定辞职，理由是看着别人痛苦，他一点都不快乐。伊坂用黑色幽默包裹温情，用荒诞包裹救赎，回答了一个看似轻盈实则深邃的问题：人能不能靠一次偶然的相遇，重新学会活着？答案是——能，但前提是你愿意先伸出那只手。</description>
+      <pubDate>Wed, 02 Sep 2026 17:26:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260902-episode-20260902-c01133</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《余生皆假期》是伊坂幸太郎二零一三年的短篇连作集，借一本虚构的《美食日记》博客，把五个时空不同的故事缝合在一起：一个四十七岁的男人在家庭破碎当日，回复了一条陌生人&quot;我们做朋友吧&quot;的短信；一对刚签完离婚协议的夫妻，带着十六岁的女儿欣然赴约；两个以碰瓷勒索为生的搭档，一个决定辞职，理由是看着别人痛苦，他一点都不快乐。伊坂用黑色幽默包裹温情，用荒诞包裹救赎，回答了一个看似轻盈实则深邃的问题：人能不能靠一次偶然的相遇，重新学会活着？答案是——能，但前提是你愿意先伸出那只手。</itunes:summary>
+      <itunes:duration>00:32:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260902/episode-20260902-c01133.mp3" length="31064109" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
