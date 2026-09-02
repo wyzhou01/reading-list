@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 01 Sep 2026 17:53:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 17:17:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18111,6 +18111,17 @@
       <itunes:duration>00:29:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260901/episode-20260901-29e9c7.mp3" length="28228269" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《索马里行纪》 · 完整版 · 索马里行纪 · 完整讲读</title>
+      <description>本书记录张昕宇、梁红及团队2012年深入“恐怖之都“索马里摩加迪沙的探险经历。从汶川地震救援后的人生转折讲起，他们历经三年准备，突破签证、安保、武装威胁等重重困难，成为20年来首批踏上索马里的中国民间人士。书中既有战火中的惊险脱困，也有与当地人的温情相遇，展现了一个真实的索马里——不止是海盗，还有坚韧生活的人民。</description>
+      <pubDate>Wed, 02 Sep 2026 17:16:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260902-episode-20260902-884255</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书记录张昕宇、梁红及团队2012年深入“恐怖之都“索马里摩加迪沙的探险经历。从汶川地震救援后的人生转折讲起，他们历经三年准备，突破签证、安保、武装威胁等重重困难，成为20年来首批踏上索马里的中国民间人士。书中既有战火中的惊险脱困，也有与当地人的温情相遇，展现了一个真实的索马里——不止是海盗，还有坚韧生活的人民。</itunes:summary>
+      <itunes:duration>00:32:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260902/episode-20260902-884255.mp3" length="31299501" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
