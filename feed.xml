@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 02 Sep 2026 17:26:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 17:27:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18144,6 +18144,17 @@
       <itunes:duration>00:32:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260902/episode-20260902-c01133.mp3" length="31064109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中国哲学常识》 · 完整版 · 中国哲学常识 · 完整讲读</title>
+      <description>《中国哲学常识》是胡适在北京大学讲授中国哲学史的讲义，后整理出版。本书用现代学术眼光重新整理三千年中国思想史，提出“明变、求因、评判”的史观，梳理从老子、孔子、墨子、庄子、孟荀的诸子争鸣，到汉代佛教传入与本土思想融合，再到宋明理学兴起与清代反理学的启蒙转向。胡适追问的根本问题是：何为有意义的人生？直觉与理智究竟谁更可靠？本书既是一部清晰的思想史入门，也是一部关于如何活着、如何思考的现代读本。</description>
+      <pubDate>Wed, 02 Sep 2026 17:27:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260902-episode-20260902-2e33da</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《中国哲学常识》是胡适在北京大学讲授中国哲学史的讲义，后整理出版。本书用现代学术眼光重新整理三千年中国思想史，提出“明变、求因、评判”的史观，梳理从老子、孔子、墨子、庄子、孟荀的诸子争鸣，到汉代佛教传入与本土思想融合，再到宋明理学兴起与清代反理学的启蒙转向。胡适追问的根本问题是：何为有意义的人生？直觉与理智究竟谁更可靠？本书既是一部清晰的思想史入门，也是一部关于如何活着、如何思考的现代读本。</itunes:summary>
+      <itunes:duration>00:29:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260902/episode-20260902-2e33da.mp3" length="28501293" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
