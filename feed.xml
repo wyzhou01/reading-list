@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 02 Sep 2026 17:33:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 17:39:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18177,6 +18177,17 @@
       <itunes:duration>00:24:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260902/episode-20260902-5667cf.mp3" length="23633325" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《火星崛起2：黄金之子》 · 完整版 · 火星崛起2：黄金之子 · 完整讲读</title>
+      <description>《火星崛起二：黄金之子》是美国作家皮尔斯·布朗所著的反乌托邦太空歌剧三部曲中的第二部。红种少年戴罗在学院击败金种之后，被首席执政官奥古斯都收为麾下，一边为金种征战，一边暗中筹备红种起义。然而他所信之人一个个反目，所建之梦接连崩塌：盟友阿瑞斯被斩首装入象牙盒，舰队覆灭，全军尽墨，连奥古斯都也死在自己次子胡狼枪下。戴罗最终万念俱灰，亲眼见证所建构的一切在眼前碎裂。这部作品通过以颜色划分种姓的极端社会设定，撕开了复仇、背叛、阶级压迫与信任幻灭的人性真相，是一部关于崛起之后如何陨落的现代悲剧。</description>
+      <pubDate>Wed, 02 Sep 2026 17:39:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260902-episode-20260902-a7c4e5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《火星崛起二：黄金之子》是美国作家皮尔斯·布朗所著的反乌托邦太空歌剧三部曲中的第二部。红种少年戴罗在学院击败金种之后，被首席执政官奥古斯都收为麾下，一边为金种征战，一边暗中筹备红种起义。然而他所信之人一个个反目，所建之梦接连崩塌：盟友阿瑞斯被斩首装入象牙盒，舰队覆灭，全军尽墨，连奥古斯都也死在自己次子胡狼枪下。戴罗最终万念俱灰，亲眼见证所建构的一切在眼前碎裂。这部作品通过以颜色划分种姓的极端社会设定，撕开了复仇、背叛、阶级压迫与信任幻灭的人性真相，是一部关于崛起之后如何陨落的现代悲剧。</itunes:summary>
+      <itunes:duration>00:26:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260902/episode-20260902-a7c4e5.mp3" length="25291053" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
