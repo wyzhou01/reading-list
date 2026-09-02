@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 02 Sep 2026 17:17:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 17:17:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18122,6 +18122,17 @@
       <itunes:duration>00:32:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260902/episode-20260902-884255.mp3" length="31299501" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《金牌投资人2》 · 完整版 · 金牌投资人2 · 完整讲读</title>
+      <description>《金牌投资人二》是龙在宇创作的商战小说,讲述投行精英方玉斌在老领导丁一夫意外离世后,面对新上司费云鹏的权力清洗,凭借资本运作智慧主导恶意收购、合纵连横,最终自立门户创建星阑资本,在互联网金融领域与各方势力展开终极博弈的故事。小说以二零一三至二零一八年互联网金融爆发期为背景,通过股权大战、反收购博弈、盟友串联、董事会摊牌等戏剧化场景,深刻刻画了权力更迭中的职场生存、人性试炼与商业谋略,揭示了&apos;不结死仇,不谋死党&apos;的商场箴言,以及在复杂博弈中如何绝处逢生的生存智慧。</description>
+      <pubDate>Wed, 02 Sep 2026 17:17:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260902-episode-20260902-466b5e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《金牌投资人二》是龙在宇创作的商战小说,讲述投行精英方玉斌在老领导丁一夫意外离世后,面对新上司费云鹏的权力清洗,凭借资本运作智慧主导恶意收购、合纵连横,最终自立门户创建星阑资本,在互联网金融领域与各方势力展开终极博弈的故事。小说以二零一三至二零一八年互联网金融爆发期为背景,通过股权大战、反收购博弈、盟友串联、董事会摊牌等戏剧化场景,深刻刻画了权力更迭中的职场生存、人性试炼与商业谋略,揭示了&apos;不结死仇,不谋死党&apos;的商场箴言,以及在复杂博弈中如何绝处逢生的生存智慧。</itunes:summary>
+      <itunes:duration>00:27:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260902/episode-20260902-466b5e.mp3" length="26112813" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
