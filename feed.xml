@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 02 Sep 2026 17:44:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 17:50:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18199,6 +18199,17 @@
       <itunes:duration>00:36:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260902/episode-20260902-18a78f.mp3" length="34872621" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《超级版图：全球供应链、超级城市与新商业文明的崛起》 · 完整版 · 超级版图 · 完整讲读</title>
+      <description>《超级版图》是美籍印度裔学者帕拉格·康纳于二零一六年出版的地缘政治前沿著作, 核心论断是: 二十一世纪全球秩序的主导力量不再是边界与军队, 而是高速公路、铁路、油气管道与跨境光缆等基础设施。康纳提出三条被重写的规则: 国家竞争从领土扩张转向“拔河博弈”, 权力从首都下沉到超级城市并同步形成跨地区聚合, 战争形态从热战升级为围绕供应链、能源命脉与数字节点的无声较量。本书兼具宏观预言与战略细节, 对理解一带一路、中美科技博弈与全球供应链重构, 都是一把绕不过去的钥匙。</description>
+      <pubDate>Wed, 02 Sep 2026 17:50:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260902-episode-20260902-62af3a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《超级版图》是美籍印度裔学者帕拉格·康纳于二零一六年出版的地缘政治前沿著作, 核心论断是: 二十一世纪全球秩序的主导力量不再是边界与军队, 而是高速公路、铁路、油气管道与跨境光缆等基础设施。康纳提出三条被重写的规则: 国家竞争从领土扩张转向“拔河博弈”, 权力从首都下沉到超级城市并同步形成跨地区聚合, 战争形态从热战升级为围绕供应链、能源命脉与数字节点的无声较量。本书兼具宏观预言与战略细节, 对理解一带一路、中美科技博弈与全球供应链重构, 都是一把绕不过去的钥匙。</itunes:summary>
+      <itunes:duration>00:25:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260902/episode-20260902-62af3a.mp3" length="24299949" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
