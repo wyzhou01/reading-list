@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 02 Sep 2026 17:33:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 17:33:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18166,6 +18166,17 @@
       <itunes:duration>00:29:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260902/episode-20260902-c1df68.mp3" length="28163373" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我的世界从此多了一个你》 · 完整版 · 我的世界从此多了一个你 · 完整讲读</title>
+      <description>《我的世界从此多了一个你》是林梢二零一七年出版的短篇爱情故事集，收录八个关于暗恋、错过、等待与重逢的故事。全书以温柔的笔触刻画普通人在爱情里的卑微与勇敢：阿宝从初中起为暗恋的学长攒运气，棒棒为肉夹馍小哥放弃英国留学，董小姐为年少时一段未完成的感情逃了一辈子。林梢不写爱情的奇迹，只写爱情在日常生活里的模样——是手电筒、烤红薯、深夜的一条短信、图书馆窗边的对坐，是记得对方不吃辣，是在坏掉的路灯下递出光亮。它不教你快速脱单，而是一次关于勇气的提醒：喜欢从来不是犯错，真正让人遗憾的是，明明心动，却从未让自己抵达。</description>
+      <pubDate>Wed, 02 Sep 2026 17:33:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260902-episode-20260902-5667cf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我的世界从此多了一个你》是林梢二零一七年出版的短篇爱情故事集，收录八个关于暗恋、错过、等待与重逢的故事。全书以温柔的笔触刻画普通人在爱情里的卑微与勇敢：阿宝从初中起为暗恋的学长攒运气，棒棒为肉夹馍小哥放弃英国留学，董小姐为年少时一段未完成的感情逃了一辈子。林梢不写爱情的奇迹，只写爱情在日常生活里的模样——是手电筒、烤红薯、深夜的一条短信、图书馆窗边的对坐，是记得对方不吃辣，是在坏掉的路灯下递出光亮。它不教你快速脱单，而是一次关于勇气的提醒：喜欢从来不是犯错，真正让人遗憾的是，明明心动，却从未让自己抵达。</itunes:summary>
+      <itunes:duration>00:24:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260902/episode-20260902-5667cf.mp3" length="23633325" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
