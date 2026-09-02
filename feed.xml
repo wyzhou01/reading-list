@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 02 Sep 2026 17:27:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 17:33:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18155,6 +18155,17 @@
       <itunes:duration>00:29:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260902/episode-20260902-2e33da.mp3" length="28501293" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《古玩笔记》 · 完整版 · 古玩笔记_-_齐州三爷 · 完整讲读</title>
+      <description>《古玩笔记》是齐州三爷记述其祖父口传的民国古玩行传奇故事集，二零一六年十月由上海社会科学院出版社出版，共三篇二十三万两千字。三个故事时间线从一九二一年北平一路延至一九四五年南京，分别述及北霸天黑四爷强买假古董、琉璃厂古玩商人的家国恩怨，以及南京栖霞寺千年佛头的乱世护宝传奇。书里对琉璃厂、大栅栏、隆福寺、打小鼓、鬼市、当铺等老北京古玩行的行当分层与规矩生态描绘尤为细致，辅以乱世小人物在刀兵下的慈悲与坚守，传奇与历史真实之间的张力贯穿始终，是一本兼具行规考据与家国情怀的特色之作。</description>
+      <pubDate>Wed, 02 Sep 2026 17:33:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260902-episode-20260902-c1df68</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《古玩笔记》是齐州三爷记述其祖父口传的民国古玩行传奇故事集，二零一六年十月由上海社会科学院出版社出版，共三篇二十三万两千字。三个故事时间线从一九二一年北平一路延至一九四五年南京，分别述及北霸天黑四爷强买假古董、琉璃厂古玩商人的家国恩怨，以及南京栖霞寺千年佛头的乱世护宝传奇。书里对琉璃厂、大栅栏、隆福寺、打小鼓、鬼市、当铺等老北京古玩行的行当分层与规矩生态描绘尤为细致，辅以乱世小人物在刀兵下的慈悲与坚守，传奇与历史真实之间的张力贯穿始终，是一本兼具行规考据与家国情怀的特色之作。</itunes:summary>
+      <itunes:duration>00:29:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260902/episode-20260902-c1df68.mp3" length="28163373" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
