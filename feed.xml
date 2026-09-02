@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 02 Sep 2026 17:50:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 17:55:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18210,6 +18210,17 @@
       <itunes:duration>00:25:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260902/episode-20260902-62af3a.mp3" length="24299949" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《四十九日祭》 · 完整版 · 四十九日祭 · 完整讲读</title>
+      <description>《四十九日祭》是严歌苓继《金陵十三钗》之后的又一部力作，以一九四六年南京审判日本战犯为切入点，通过秦淮妓女玉墨、国民党工程师孟繁明、女学生书娟等多重视角，重构一九三七年冬天南京大屠杀中十三位妓女替女学生赴死的悲壮往事。全书八十八万四千字，三十七集加尾声，以法庭辩论与回忆交织的结构，让原告、被告、证人在审判台上轮番发声，提出“战争摧毁的不只是生命，更是活下来的人&apos;做自己&apos;的权利“这一核心命题，是南京大屠杀题材文学中不可绕过的经典。</description>
+      <pubDate>Wed, 02 Sep 2026 17:55:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260902-episode-20260902-f50b79</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《四十九日祭》是严歌苓继《金陵十三钗》之后的又一部力作，以一九四六年南京审判日本战犯为切入点，通过秦淮妓女玉墨、国民党工程师孟繁明、女学生书娟等多重视角，重构一九三七年冬天南京大屠杀中十三位妓女替女学生赴死的悲壮往事。全书八十八万四千字，三十七集加尾声，以法庭辩论与回忆交织的结构，让原告、被告、证人在审判台上轮番发声，提出“战争摧毁的不只是生命，更是活下来的人&apos;做自己&apos;的权利“这一核心命题，是南京大屠杀题材文学中不可绕过的经典。</itunes:summary>
+      <itunes:duration>00:27:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260902/episode-20260902-f50b79.mp3" length="26716845" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
