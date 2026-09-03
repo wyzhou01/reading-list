@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 03 Sep 2026 18:21:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 18:32:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18298,6 +18298,17 @@
       <itunes:duration>00:33:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260903/episode-20260903-a7a7c9.mp3" length="31722669" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《天崩地裂三百年（上）》 · 完整版 · 天崩地裂三百年（上） · 完整讲读</title>
+      <description>《天崩地裂三百年》全景式讲述两晋南北朝这三百二十三年的乱世史。柯云路以通俗又不失严谨的笔法，串起西晋、十六国、东晋、南北朝四十多个政权的兴衰交替，揭示门阀政治与皇权衰微的恶性循环、胡汉冲突与民族大融合的双面性、枭雄权臣的崛起逻辑，以及南北对峙中英雄悲剧背后的结构性痼疾。从司马氏代魏到杨坚灭陈，听完这期节目，你会看清三件事——司马氏凭什么代魏、门阀政治如何把西晋掏空、五胡乱华背后那些枭雄的真面目。</description>
+      <pubDate>Thu, 03 Sep 2026 18:32:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260903-episode-20260903-db75c4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《天崩地裂三百年》全景式讲述两晋南北朝这三百二十三年的乱世史。柯云路以通俗又不失严谨的笔法，串起西晋、十六国、东晋、南北朝四十多个政权的兴衰交替，揭示门阀政治与皇权衰微的恶性循环、胡汉冲突与民族大融合的双面性、枭雄权臣的崛起逻辑，以及南北对峙中英雄悲剧背后的结构性痼疾。从司马氏代魏到杨坚灭陈，听完这期节目，你会看清三件事——司马氏凭什么代魏、门阀政治如何把西晋掏空、五胡乱华背后那些枭雄的真面目。</itunes:summary>
+      <itunes:duration>00:33:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260903/episode-20260903-db75c4.mp3" length="32140077" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
