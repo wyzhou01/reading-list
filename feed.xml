@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 03 Sep 2026 18:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 18:12:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18276,6 +18276,17 @@
       <itunes:duration>00:28:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260903/episode-20260903-bcd7cf.mp3" length="27272109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《晚安，我亲爱的人》 · 完整版 · 晚安，我亲爱的人_-_午歌 · 完整讲读</title>
+      <description>《晚安，我亲爱的人》是八零后作家午歌的都市情感短篇集，以一场车祸开场，把爱情、亲情、友情与青春漂泊，安放在病房、电梯井、酒吧和异乡的合租房里。书中那些看似轻巧的段子——大胖子与白净护士的红烧肉之恋、电梯维修工与搭档的生死之别、校园兄弟二十年的离散与重逢——剥开来看，都是笑中带泪的人生真相。午歌延续了汪曾祺以来的市井幽默传统，又融入了新媒体时代的强共鸣节奏，写的是会为房租发愁、为爱情失眠、为家人隐瞒病痛的普通人。十二年过去，这本书依然值得今天的我们去读，因为它回答了一个朴素的问题：在一切都速朽的时代，我们该如何去爱？答案藏在六个字里——晚安，我亲爱的人。</description>
+      <pubDate>Thu, 03 Sep 2026 18:12:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260903-episode-20260903-536fc2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《晚安，我亲爱的人》是八零后作家午歌的都市情感短篇集，以一场车祸开场，把爱情、亲情、友情与青春漂泊，安放在病房、电梯井、酒吧和异乡的合租房里。书中那些看似轻巧的段子——大胖子与白净护士的红烧肉之恋、电梯维修工与搭档的生死之别、校园兄弟二十年的离散与重逢——剥开来看，都是笑中带泪的人生真相。午歌延续了汪曾祺以来的市井幽默传统，又融入了新媒体时代的强共鸣节奏，写的是会为房租发愁、为爱情失眠、为家人隐瞒病痛的普通人。十二年过去，这本书依然值得今天的我们去读，因为它回答了一个朴素的问题：在一切都速朽的时代，我们该如何去爱？答案藏在六个字里——晚安，我亲爱的人。</itunes:summary>
+      <itunes:duration>00:19:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260903/episode-20260903-536fc2.mp3" length="18279981" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
