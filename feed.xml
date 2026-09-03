@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 02 Sep 2026 17:55:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 17:21:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18221,6 +18221,17 @@
       <itunes:duration>00:27:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260902/episode-20260902-f50b79.mp3" length="26716845" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《地狱》 · 完整版 · 地狱_-_(美)丹·布朗 · 完整讲读</title>
+      <description>《地狱》是丹·布朗二零一三年出版的长篇惊悚小说。故事讲述哈佛符号学教授罗伯特·兰登在佛罗伦萨醒来,失去记忆,发现自己卷入一场关于人类未来的惊天阴谋:一个自称救世主的科学家,试图通过释放人造瘟疫,将地球人口削减至他认为可持续的水平。小说以但丁《神曲》的九个地狱圈层作为结构与解谜线索,把七百年前的中世纪诗歌与二十一世纪生物科技、人口学伦理、全球治理危机紧紧缠绕在一起。这不是一部普通的悬疑作品,它真正追问的是:当一个看似&quot;理性&quot;的灭世计划摆在面前,一个受过教育的现代人,有没有能力说出那个&quot;不&quot;字。</description>
+      <pubDate>Thu, 03 Sep 2026 17:21:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260903-episode-20260903-f1c71a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《地狱》是丹·布朗二零一三年出版的长篇惊悚小说。故事讲述哈佛符号学教授罗伯特·兰登在佛罗伦萨醒来,失去记忆,发现自己卷入一场关于人类未来的惊天阴谋:一个自称救世主的科学家,试图通过释放人造瘟疫,将地球人口削减至他认为可持续的水平。小说以但丁《神曲》的九个地狱圈层作为结构与解谜线索,把七百年前的中世纪诗歌与二十一世纪生物科技、人口学伦理、全球治理危机紧紧缠绕在一起。这不是一部普通的悬疑作品,它真正追问的是:当一个看似&quot;理性&quot;的灭世计划摆在面前,一个受过教育的现代人,有没有能力说出那个&quot;不&quot;字。</itunes:summary>
+      <itunes:duration>00:22:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260903/episode-20260903-f1c71a.mp3" length="21957165" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
