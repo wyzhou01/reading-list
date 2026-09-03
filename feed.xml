@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 03 Sep 2026 17:21:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 17:31:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18232,6 +18232,17 @@
       <itunes:duration>00:22:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260903/episode-20260903-f1c71a.mp3" length="21957165" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《德鲁克的最后忠告》 · 完整版 · 德鲁克的最后忠告 · 完整讲读</title>
+      <description>《德鲁克的最后忠告》以现代管理学之父彼得・德鲁克晚年思想为核心，阐释了管理与领导的关键：企业要从客户出发制定战略，把创新建立在主动放弃之上，通过使命、信任和责任激活知识型员工，并以有效决策把愿景转化为成果。书中同时强调，首席执行官不是拥有权力的人，而是对组织成果承担责任的人；合作的价值在于让不同专业围绕共同目标行动。进一步地，德鲁克把这种责任延伸到个人：每个人都是自己的首席执行官，应当管理自己的目标、能力、时间和职业选择。这本书不只是管理指南，更是一份关于如何在复杂世界中识别机会、勇敢取舍、持续创造价值的人生忠告。</description>
+      <pubDate>Thu, 03 Sep 2026 17:31:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260903-episode-20260903-16035c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《德鲁克的最后忠告》以现代管理学之父彼得・德鲁克晚年思想为核心，阐释了管理与领导的关键：企业要从客户出发制定战略，把创新建立在主动放弃之上，通过使命、信任和责任激活知识型员工，并以有效决策把愿景转化为成果。书中同时强调，首席执行官不是拥有权力的人，而是对组织成果承担责任的人；合作的价值在于让不同专业围绕共同目标行动。进一步地，德鲁克把这种责任延伸到个人：每个人都是自己的首席执行官，应当管理自己的目标、能力、时间和职业选择。这本书不只是管理指南，更是一份关于如何在复杂世界中识别机会、勇敢取舍、持续创造价值的人生忠告。</itunes:summary>
+      <itunes:duration>00:36:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260903/episode-20260903-16035c.mp3" length="35163309" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
