@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 03 Sep 2026 17:31:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 17:46:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18243,6 +18243,17 @@
       <itunes:duration>00:36:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260903/episode-20260903-16035c.mp3" length="35163309" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《不存在的女儿》 · 完整版 · 不存在的女儿_-_(美)金·爱德华兹 · 完整讲读</title>
+      <description>《不存在的女儿》是金·爱德华兹的处女作。一九六四年的大雪之夜，骨科医生戴维在妻子诺伦临盆时独自接生了一对龙凤胎，却发现女儿患有唐氏症。他让护士卡罗琳把女儿送走，并谎称孩子已夭折。从此这个秘密在五个人的生命里持续了二十五年：他用照相机与暗房仪式反复掩埋那一夜；卡罗琳独自抚养菲比；诺伦带着没有名字的悲伤度日；儿子保罗则跟着母亲的沉默长大。直到戴维离世，真相终于曝光，所有人才在雪融的日子里重新学会面对彼此——包括父亲墓前兄妹俩那场迟到却清澈的合唱。</description>
+      <pubDate>Thu, 03 Sep 2026 17:46:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260903-episode-20260903-3e005a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《不存在的女儿》是金·爱德华兹的处女作。一九六四年的大雪之夜，骨科医生戴维在妻子诺伦临盆时独自接生了一对龙凤胎，却发现女儿患有唐氏症。他让护士卡罗琳把女儿送走，并谎称孩子已夭折。从此这个秘密在五个人的生命里持续了二十五年：他用照相机与暗房仪式反复掩埋那一夜；卡罗琳独自抚养菲比；诺伦带着没有名字的悲伤度日；儿子保罗则跟着母亲的沉默长大。直到戴维离世，真相终于曝光，所有人才在雪融的日子里重新学会面对彼此——包括父亲墓前兄妹俩那场迟到却清澈的合唱。</itunes:summary>
+      <itunes:duration>00:21:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260903/episode-20260903-3e005a.mp3" length="20583213" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
