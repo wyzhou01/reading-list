@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 03 Sep 2026 18:12:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 18:21:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18287,6 +18287,17 @@
       <itunes:duration>00:19:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260903/episode-20260903-536fc2.mp3" length="18279981" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《寂静的春天》 · 完整版 · 寂静的春天V1.1 · 完整讲读</title>
+      <description>蕾切尔·卡逊以科学与文学笔触揭示了化学杀虫剂（尤其是DDT）对自然环境、生物链和人类健康的深远危害。她用整整一章的“明日寓言“描绘了一个没有鸟鸣的春天，从而引出对农药滥用、土壤污染、水源毒化的系统控诉，并提出以生物控制和生态平衡为核心的替代方案。这本书唤醒了全美的环保意识，直接促成美国环境保护署的成立，是现代环境运动的奠基之作。</description>
+      <pubDate>Thu, 03 Sep 2026 18:20:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260903-episode-20260903-a7a7c9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>蕾切尔·卡逊以科学与文学笔触揭示了化学杀虫剂（尤其是DDT）对自然环境、生物链和人类健康的深远危害。她用整整一章的“明日寓言“描绘了一个没有鸟鸣的春天，从而引出对农药滥用、土壤污染、水源毒化的系统控诉，并提出以生物控制和生态平衡为核心的替代方案。这本书唤醒了全美的环保意识，直接促成美国环境保护署的成立，是现代环境运动的奠基之作。</itunes:summary>
+      <itunes:duration>00:33:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260903/episode-20260903-a7a7c9.mp3" length="31722669" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
