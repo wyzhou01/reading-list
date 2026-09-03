@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 03 Sep 2026 17:46:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 17:56:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18254,6 +18254,17 @@
       <itunes:duration>00:21:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260903/episode-20260903-3e005a.mp3" length="20583213" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《尚书直解》 · 完整版 · 尚书直解 · 完整讲读</title>
+      <description>《尚书直解》是明代首辅张居正专为十岁登基的万历皇帝编写的教科书。他用白话逐句讲解《尚书》这部上古政治文献，把尧舜禅让、大禹治水、商汤革命、周公制礼的故事翻译成少年能懂的语言。但这本书的真正价值，不在训诂，而在张居正借古喻今的良苦用心：他讲“敬天“，是为帝王学的权力设边界；他讲“法祖“，是为改革找合法性；他讲“任贤“，是给君主装眼睛。康熙皇帝后来批阅此书，赞叹“篇末俱精实之义，无泛设之词“。今天读它，我们看到的是一个改革家用圣王的故事寄托自己的治平理想，也看到了中国传统政治哲学最核心的三个命题。</description>
+      <pubDate>Thu, 03 Sep 2026 17:56:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260903-episode-20260903-2b61ce</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《尚书直解》是明代首辅张居正专为十岁登基的万历皇帝编写的教科书。他用白话逐句讲解《尚书》这部上古政治文献，把尧舜禅让、大禹治水、商汤革命、周公制礼的故事翻译成少年能懂的语言。但这本书的真正价值，不在训诂，而在张居正借古喻今的良苦用心：他讲“敬天“，是为帝王学的权力设边界；他讲“法祖“，是为改革找合法性；他讲“任贤“，是给君主装眼睛。康熙皇帝后来批阅此书，赞叹“篇末俱精实之义，无泛设之词“。今天读它，我们看到的是一个改革家用圣王的故事寄托自己的治平理想，也看到了中国传统政治哲学最核心的三个命题。</itunes:summary>
+      <itunes:duration>00:26:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260903/episode-20260903-2b61ce.mp3" length="25214253" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
