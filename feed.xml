@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 04 Sep 2026 17:28:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 17:39:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18353,6 +18353,17 @@
       <itunes:duration>00:28:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260904/episode-20260904-f5d831.mp3" length="26958381" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《绿山墙的安妮》 · 完整版 · 绿山墙的安妮（作家榜经典文库） · 完整讲读</title>
+      <description>《绿山墙的安妮》是加拿大女作家蒙格玛丽一九零八年写成的儿童成长小说，讲述红头发孤儿安妮被爱德华王子岛一对老兄妹领养，在绿山墙农舍长大，从一个孤独爱幻想的小女孩，成长为独立、善良、敢于选择自己人生的女性。一百一十六年来，它被译成几十种语言，感动全球数代读者，因为它讲的不只是一个女孩的成长，更是关于亲情如何被慢慢养出来、想象力如何拯救孤独、独立如何成为女孩一生底气、以及人在世界中如何为自己命名、为自己找到归属的温柔寓言。</description>
+      <pubDate>Fri, 04 Sep 2026 17:39:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260904-episode-20260904-266836</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《绿山墙的安妮》是加拿大女作家蒙格玛丽一九零八年写成的儿童成长小说，讲述红头发孤儿安妮被爱德华王子岛一对老兄妹领养，在绿山墙农舍长大，从一个孤独爱幻想的小女孩，成长为独立、善良、敢于选择自己人生的女性。一百一十六年来，它被译成几十种语言，感动全球数代读者，因为它讲的不只是一个女孩的成长，更是关于亲情如何被慢慢养出来、想象力如何拯救孤独、独立如何成为女孩一生底气、以及人在世界中如何为自己命名、为自己找到归属的温柔寓言。</itunes:summary>
+      <itunes:duration>00:29:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260904/episode-20260904-266836.mp3" length="28424877" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
