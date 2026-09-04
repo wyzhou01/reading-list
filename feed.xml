@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 04 Sep 2026 17:19:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 17:21:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18331,6 +18331,17 @@
       <itunes:duration>00:16:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260904/episode-20260904-eb9094.mp3" length="16130733" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《俗世奇人》 · 完整版 · 俗世奇人（有价值悦读） · 完整讲读</title>
+      <description>《俗世奇人》是冯骥才写给天津卫市井小人物的一封情书。全书精选十八篇短篇小说与十余篇散文,塑造了刷子李、泥人张、苏七块、傻二等一批身怀绝技的民间奇人,讲述他们凭本事吃饭、凭规矩立身的故事。作者用干净利落的笔触,把市井手艺人的尊严、地方文化的烟火气、以及市井江湖的义气与深情,写得活色生香。这本书不仅是对民间手艺的致敬,更是对文化守望的呼吁,提醒读者:真正的高手藏在市井,真正的绝活在指尖,真正的尊严在每一个普通人的日子里。读懂这本书,就懂了中国人的精神底色。</description>
+      <pubDate>Fri, 04 Sep 2026 17:21:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260904-episode-20260904-03820a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《俗世奇人》是冯骥才写给天津卫市井小人物的一封情书。全书精选十八篇短篇小说与十余篇散文,塑造了刷子李、泥人张、苏七块、傻二等一批身怀绝技的民间奇人,讲述他们凭本事吃饭、凭规矩立身的故事。作者用干净利落的笔触,把市井手艺人的尊严、地方文化的烟火气、以及市井江湖的义气与深情,写得活色生香。这本书不仅是对民间手艺的致敬,更是对文化守望的呼吁,提醒读者:真正的高手藏在市井,真正的绝活在指尖,真正的尊严在每一个普通人的日子里。读懂这本书,就懂了中国人的精神底色。</itunes:summary>
+      <itunes:duration>00:20:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260904/episode-20260904-03820a.mp3" length="19275309" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
