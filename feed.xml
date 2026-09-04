@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 04 Sep 2026 17:39:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 17:48:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18364,6 +18364,17 @@
       <itunes:duration>00:29:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260904/episode-20260904-266836.mp3" length="28424877" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《逻辑哲学论》 · 完整版 · 逻辑哲学论_(汉译世界学术名著丛书)_-_维特根斯坦 · 完整讲读</title>
+      <description>《逻辑哲学论》是维特根斯坦写于第一次世界大战战壕中的哲学巨著。本书提出语言与世界共享同一逻辑形式的图像论，将可说的归于事实与科学，将伦理、美学与人生意义归入必须以沉默对待的领域。在语言的尽头，哲学不是学说，而是澄清思想的活动；对于不可说的东西，我们必须沉默。</description>
+      <pubDate>Fri, 04 Sep 2026 17:48:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260904-episode-20260904-32b2b3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《逻辑哲学论》是维特根斯坦写于第一次世界大战战壕中的哲学巨著。本书提出语言与世界共享同一逻辑形式的图像论，将可说的归于事实与科学，将伦理、美学与人生意义归入必须以沉默对待的领域。在语言的尽头，哲学不是学说，而是澄清思想的活动；对于不可说的东西，我们必须沉默。</itunes:summary>
+      <itunes:duration>00:23:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260904/episode-20260904-32b2b3.mp3" length="22388013" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
