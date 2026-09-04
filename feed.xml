@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 03 Sep 2026 18:32:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 17:15:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18309,6 +18309,17 @@
       <itunes:duration>00:33:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260903/episode-20260903-db75c4.mp3" length="32140077" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《不期而遇的温暖》 · 完整版 · 不期而遇的温暖__-_板栗子 · 完整讲读</title>
+      <description>《不期而遇的温暖》是板栗子创作的都市甜宠小说，讲述了数学天才教授祁笑言与小学美术老师杨薇因一场酒后意外闪婚，又因观念差异闪离，最终在工作和生活中不断重逢，从互相嫌弃到带娃重逢、从鸡飞狗跳到甜到掉牙的反差萌爱情故事。这本书以轻松搞笑的文风、甜蜜治愈的反差萌设定，把日常生活里的小欢喜、小摩擦写得妙趣横生，再加上先婚后爱、二婚再恋爱的精彩剧情，让读者在笑声中齁甜到爆。</description>
+      <pubDate>Fri, 04 Sep 2026 17:15:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260904-episode-20260904-81bdc8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《不期而遇的温暖》是板栗子创作的都市甜宠小说，讲述了数学天才教授祁笑言与小学美术老师杨薇因一场酒后意外闪婚，又因观念差异闪离，最终在工作和生活中不断重逢，从互相嫌弃到带娃重逢、从鸡飞狗跳到甜到掉牙的反差萌爱情故事。这本书以轻松搞笑的文风、甜蜜治愈的反差萌设定，把日常生活里的小欢喜、小摩擦写得妙趣横生，再加上先婚后爱、二婚再恋爱的精彩剧情，让读者在笑声中齁甜到爆。</itunes:summary>
+      <itunes:duration>00:31:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260904/episode-20260904-81bdc8.mp3" length="30355245" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
