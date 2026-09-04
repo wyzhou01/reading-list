@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 04 Sep 2026 17:21:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 17:28:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18342,6 +18342,17 @@
       <itunes:duration>00:20:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260904/episode-20260904-03820a.mp3" length="19275309" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《欧洲：1453年以来的争霸之途》 · 完整版 · 欧洲：1453_年以来的争霸之途_（英）西姆斯 · 完整讲读</title>
+      <description>本书以1453年君士坦丁堡陷落为起点，跨越550余年，揭示欧洲历史的核心主线：围绕神圣罗马帝国（及其继承者德国）所在的欧洲大陆中部，各大国如何为争夺霸权、抵御外敌、构建秩序而持续博弈。从哈布斯堡王朝到法国大革命，从拿破仑到希特勒，再到冷战与欧元危机，西姆斯论证欧洲的兴衰、自由的扩展与西方世界的胜利，本质上是一部以德国问题为中心的大国争霸史，并以此警示今日欧洲所面临的内忧外患。</description>
+      <pubDate>Fri, 04 Sep 2026 17:27:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260904-episode-20260904-f5d831</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书以1453年君士坦丁堡陷落为起点，跨越550余年，揭示欧洲历史的核心主线：围绕神圣罗马帝国（及其继承者德国）所在的欧洲大陆中部，各大国如何为争夺霸权、抵御外敌、构建秩序而持续博弈。从哈布斯堡王朝到法国大革命，从拿破仑到希特勒，再到冷战与欧元危机，西姆斯论证欧洲的兴衰、自由的扩展与西方世界的胜利，本质上是一部以德国问题为中心的大国争霸史，并以此警示今日欧洲所面临的内忧外患。</itunes:summary>
+      <itunes:duration>00:28:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260904/episode-20260904-f5d831.mp3" length="26958381" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
