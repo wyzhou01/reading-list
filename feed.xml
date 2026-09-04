@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 04 Sep 2026 17:15:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 17:19:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18320,6 +18320,17 @@
       <itunes:duration>00:31:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260904/episode-20260904-81bdc8.mp3" length="30355245" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《剑桥二十世纪政治思想史》 · 完整版 · 剑桥二十世纪政治思想史 · 完整讲读</title>
+      <description>《剑桥二十世纪政治思想史》是剑桥政治思想史系列的收官之作，以60万字篇幅系统梳理20世纪最重要的政治思潮。本书涵盖自由民主与福利国家的兴衰、马克思主义的演化与分裂、科学与现代主义对政治理论的渗透、新社会运动与差异政治、以及非西方政治思想的现代重构。通过多元视角审视意识形态竞争与历史反思，揭示我们仍活在20世纪思想延长线上的现实，为理解当代政治提供了不可替代的思想地图。</description>
+      <pubDate>Fri, 04 Sep 2026 17:19:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260904-episode-20260904-eb9094</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《剑桥二十世纪政治思想史》是剑桥政治思想史系列的收官之作，以60万字篇幅系统梳理20世纪最重要的政治思潮。本书涵盖自由民主与福利国家的兴衰、马克思主义的演化与分裂、科学与现代主义对政治理论的渗透、新社会运动与差异政治、以及非西方政治思想的现代重构。通过多元视角审视意识形态竞争与历史反思，揭示我们仍活在20世纪思想延长线上的现实，为理解当代政治提供了不可替代的思想地图。</itunes:summary>
+      <itunes:duration>00:16:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260904/episode-20260904-eb9094.mp3" length="16130733" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
