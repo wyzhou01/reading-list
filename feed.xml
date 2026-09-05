@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 13:57:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 13:58:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18463,6 +18463,17 @@
       <itunes:duration>00:25:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-1e83a0.mp3" length="24323757" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一切与创造有关：想象力如何创造人类》 · 完整版 · 一切与创造有关 · 完整讲读</title>
+      <description>《一切与创造有关》是人类学家奥古斯汀·富恩特斯面向大众的总结之作。他借古DNA、化石记录、延伸进化综合研究等前沿成果，提出一个新框架：人类不是更自私，也不是更利他，而是“超级合作者”。七百万年里，让人类从普通灵长类变成卓越物种的，是创新性合作——跨越时空、共享意向、集体想象的能力。本书拆解了关于人性的四种流行误解，讲述了人类如何通过想象力创造宗教、艺术与科学这些“伟大的作品”，也冷静指出：协作密度越高，“我们 vs 他们”的边界就越锋利。人类不是被进化选中的幸运儿，而是七百万年集体创新的继承人。这本书不只讲我们是谁，也讲我们未来还能走多远。</description>
+      <pubDate>Sat, 05 Sep 2026 13:58:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-69991f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一切与创造有关》是人类学家奥古斯汀·富恩特斯面向大众的总结之作。他借古DNA、化石记录、延伸进化综合研究等前沿成果，提出一个新框架：人类不是更自私，也不是更利他，而是“超级合作者”。七百万年里，让人类从普通灵长类变成卓越物种的，是创新性合作——跨越时空、共享意向、集体想象的能力。本书拆解了关于人性的四种流行误解，讲述了人类如何通过想象力创造宗教、艺术与科学这些“伟大的作品”，也冷静指出：协作密度越高，“我们 vs 他们”的边界就越锋利。人类不是被进化选中的幸运儿，而是七百万年集体创新的继承人。这本书不只讲我们是谁，也讲我们未来还能走多远。</itunes:summary>
+      <itunes:duration>00:25:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-69991f.mp3" length="24557229" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
