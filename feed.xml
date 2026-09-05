@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 14:34:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 14:42:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18551,6 +18551,17 @@
       <itunes:duration>00:29:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-9345e6.mp3" length="28068141" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一度青春》 · 完整版 · 一度青春 · 完整讲读</title>
+      <description>《一度青春》是二零一五年诺贝尔文学奖得主帕特里克·莫迪亚诺写于一九六八年的早期代表作。一对二十岁出头的年轻人在巴黎街头相遇，被卷进一连串说不清来路的金钱与秘密，一路奔逃到阿尔卑斯山脚下。十五年后，他们有了孩子、有了自己的房子，却在三十五岁生日蛋糕前忽然意识到：青春从来不是燃烧，是松开；偶然从来不是运气，是一种看不见的引力；而他们早已在不知不觉中，活成了彼此唯一的过去。</description>
+      <pubDate>Sat, 05 Sep 2026 14:42:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-21bcbc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一度青春》是二零一五年诺贝尔文学奖得主帕特里克·莫迪亚诺写于一九六八年的早期代表作。一对二十岁出头的年轻人在巴黎街头相遇，被卷进一连串说不清来路的金钱与秘密，一路奔逃到阿尔卑斯山脚下。十五年后，他们有了孩子、有了自己的房子，却在三十五岁生日蛋糕前忽然意识到：青春从来不是燃烧，是松开；偶然从来不是运气，是一种看不见的引力；而他们早已在不知不觉中，活成了彼此唯一的过去。</itunes:summary>
+      <itunes:duration>00:24:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-21bcbc.mp3" length="23599149" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
