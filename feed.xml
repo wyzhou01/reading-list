@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 16:07:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 16:17:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18760,6 +18760,17 @@
       <itunes:duration>00:20:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-6f2e92.mp3" length="19463469" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《三十七度二》 · 完整版 · 三十七度二(1) · 完整讲读</title>
+      <description>《三十七度二》是法国作家菲利普·迪昂一九八一年的成名作，写一个在偏僻小镇独居、修马桶度日的男人，与突然闯入生活的女人贝蒂之间那个夏天的故事。他们在冰啤酒、香辣肉酱和坏掉的马桶之间相爱，又在失控的节奏和无法对上的拍子里彼此消耗。迪昂用粗粝又诗意的笔法，把孤独、陪伴、欲望与救赎，写成了一场三十七度二的发烧——高于正常体温的那一点点，刚好让人失去理智，却又不至于烧坏一切。这本书不解决任何问题，但它让你在咽下一口啤酒的间隙，重新看见自己正在溜走的生活。</description>
+      <pubDate>Sat, 05 Sep 2026 16:17:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-17ae1f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《三十七度二》是法国作家菲利普·迪昂一九八一年的成名作，写一个在偏僻小镇独居、修马桶度日的男人，与突然闯入生活的女人贝蒂之间那个夏天的故事。他们在冰啤酒、香辣肉酱和坏掉的马桶之间相爱，又在失控的节奏和无法对上的拍子里彼此消耗。迪昂用粗粝又诗意的笔法，把孤独、陪伴、欲望与救赎，写成了一场三十七度二的发烧——高于正常体温的那一点点，刚好让人失去理智，却又不至于烧坏一切。这本书不解决任何问题，但它让你在咽下一口啤酒的间隙，重新看见自己正在溜走的生活。</itunes:summary>
+      <itunes:duration>00:27:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-17ae1f.mp3" length="26293293" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
