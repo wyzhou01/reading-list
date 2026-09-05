@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 13:28:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 13:33:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18408,6 +18408,17 @@
       <itunes:duration>00:28:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-78ecc7.mp3" length="27695661" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《Web安全之深度学习实战》 · 完整版 · Web安全之深度学习实战 · 完整讲读</title>
+      <description>《Web安全之深度学习实战》是百度安全专家刘焱（兜哥）撰写的国内首批系统讲解深度学习在网络安全落地的实战读物。本书以十一类真实场景——验证码识别、垃圾邮件、WebShell检测、DGA域名识别、反信用卡欺诈等——串联起卷积神经网络与循环神经网络的工程化路径，强调“没有最好的算法，只有最合适的算法”，并以OpenSOC框架给出了可复现的大数据安全工程蓝图。七年过去，它依然是安全工程师从规则对抗走向智能化防御的可靠钥匙。</description>
+      <pubDate>Sat, 05 Sep 2026 13:33:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-c76be1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《Web安全之深度学习实战》是百度安全专家刘焱（兜哥）撰写的国内首批系统讲解深度学习在网络安全落地的实战读物。本书以十一类真实场景——验证码识别、垃圾邮件、WebShell检测、DGA域名识别、反信用卡欺诈等——串联起卷积神经网络与循环神经网络的工程化路径，强调“没有最好的算法，只有最合适的算法”，并以OpenSOC框架给出了可复现的大数据安全工程蓝图。七年过去，它依然是安全工程师从规则对抗走向智能化防御的可靠钥匙。</itunes:summary>
+      <itunes:duration>00:22:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-c76be1.mp3" length="21583149" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
