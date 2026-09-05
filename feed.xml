@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 17:29:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 17:37:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18892,6 +18892,17 @@
       <itunes:duration>00:25:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-1c3b66.mp3" length="24028077" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《在历史中寻找中国》 · 完整版 · 在历史中寻找中国_-_刘志伟_孙歌 · 完整讲读</title>
+      <description>《在历史中寻找中国》是刘志伟与孙歌两位学者跨越南北、穿越学科的七次深度对谈。刘志伟从华南田野出发，提出历史的主体应当是人而非国家，国家并非外在强加而是本地社会建构的；孙歌从思想史角度追问“形而下之理”与被绝对化的普遍性想象。二者共同主张，把研究视角从王朝国家转向人的行为，让区域研究成为理解中国的认识论方法，而非中央视角的补充。</description>
+      <pubDate>Sat, 05 Sep 2026 17:37:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-2a8a80</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《在历史中寻找中国》是刘志伟与孙歌两位学者跨越南北、穿越学科的七次深度对谈。刘志伟从华南田野出发，提出历史的主体应当是人而非国家，国家并非外在强加而是本地社会建构的；孙歌从思想史角度追问“形而下之理”与被绝对化的普遍性想象。二者共同主张，把研究视角从王朝国家转向人的行为，让区域研究成为理解中国的认识论方法，而非中央视角的补充。</itunes:summary>
+      <itunes:duration>00:26:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-2a8a80.mp3" length="25449645" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
