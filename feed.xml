@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 18:26:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 18:32:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19026,6 +19026,17 @@
       <itunes:duration>00:41:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-6c3911.mp3" length="40308525" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《奇情寐语》 · 完整版 · 奇情寐语 · 完整讲读</title>
+      <description>《奇情寐语》收录白饭如霜、蔡布布、吴沉水等七位作者的九篇短篇，横跨都市、科幻、悬疑、民国、传奇、奇幻六大类型，但所有故事的底色都是同一个字：情。白饭如霜用梦境与现实的交错，写一个在酒吧里反复重温逝去爱情的都市女子；吴沉水以民国江湖为舞台，演绎书生与强盗、父女与夫妻之间的情义两难；蔡布布则用戏谑笔法包裹一个女书店老板荒诞而心酸的暗恋。这本书不劝人放下，只把那些不肯放手的瞬间端到你面前，让你看见：执念从来不是软弱的证据，而是灵魂仍然滚烫的证据。</description>
+      <pubDate>Sat, 05 Sep 2026 18:32:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-d14c60</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《奇情寐语》收录白饭如霜、蔡布布、吴沉水等七位作者的九篇短篇，横跨都市、科幻、悬疑、民国、传奇、奇幻六大类型，但所有故事的底色都是同一个字：情。白饭如霜用梦境与现实的交错，写一个在酒吧里反复重温逝去爱情的都市女子；吴沉水以民国江湖为舞台，演绎书生与强盗、父女与夫妻之间的情义两难；蔡布布则用戏谑笔法包裹一个女书店老板荒诞而心酸的暗恋。这本书不劝人放下，只把那些不肯放手的瞬间端到你面前，让你看见：执念从来不是软弱的证据，而是灵魂仍然滚烫的证据。</itunes:summary>
+      <itunes:duration>00:23:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-d14c60.mp3" length="22820013" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
