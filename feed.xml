@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 16:26:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 16:28:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18793,6 +18793,17 @@
       <itunes:duration>00:27:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-6ee3d1.mp3" length="26756397" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《三十三年梦》 · 完整版 · 三十三年梦 · 完整讲读</title>
+      <description>《三十三年梦》是台湾作家朱天心以京都为主要场景写下的散文集, 记录她从一九七九年到二零一五年, 三十三次回到同一座城市的步行、相遇与失落. 这不是一本传统游记, 而是一个关于自由、记忆与拒绝的故事. 朱天心与她那一代台湾文学青年, 在不自由的时代里, 以文学、阅读与步行, 守护一种&apos;拒绝标准答案&apos;的自由. 全书以三十三年的时间跨度, 串联起胡兰成、唐诺、侯孝贤、女儿盟盟等生命中的重要他人, 在京都的巷弄、石板路、寺庙与墓地之间, 写下一个不肯上车的人, 如何用双脚, 在喧嚣的时代里, 划下那条负面的、拒绝的界线.</description>
+      <pubDate>Sat, 05 Sep 2026 16:28:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-8a3f61</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《三十三年梦》是台湾作家朱天心以京都为主要场景写下的散文集, 记录她从一九七九年到二零一五年, 三十三次回到同一座城市的步行、相遇与失落. 这不是一本传统游记, 而是一个关于自由、记忆与拒绝的故事. 朱天心与她那一代台湾文学青年, 在不自由的时代里, 以文学、阅读与步行, 守护一种&apos;拒绝标准答案&apos;的自由. 全书以三十三年的时间跨度, 串联起胡兰成、唐诺、侯孝贤、女儿盟盟等生命中的重要他人, 在京都的巷弄、石板路、寺庙与墓地之间, 写下一个不肯上车的人, 如何用双脚, 在喧嚣的时代里, 划下那条负面的、拒绝的界线.</itunes:summary>
+      <itunes:duration>00:27:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-8a3f61.mp3" length="26042541" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
