@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 16:57:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 17:03:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18848,6 +18848,17 @@
       <itunes:duration>00:40:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-174008.mp3" length="38463021" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《三国机密（全两册）》 · 完整版 · 三国机密（全两册） · 完整讲读</title>
+      <description>《三国机密》是马伯庸的代表作，写一个流落民间的皇子刘平在建安五年被迫替代病逝的兄长刘协入宫为帝，从此深陷曹操、袁绍、司马懿、郭嘉等枭雄的棋局。他必须在“守住汉室“与“守住身边人“之间做出抉择，最终用一次次的放弃，把“刘“这个字的内涵从血统重新定义为人心的道义。这是一本关于身份、选择与牺牲的历史悬疑小说，被誉为“三国版的达芬奇密码“。</description>
+      <pubDate>Sat, 05 Sep 2026 17:03:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-ef8764</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《三国机密》是马伯庸的代表作，写一个流落民间的皇子刘平在建安五年被迫替代病逝的兄长刘协入宫为帝，从此深陷曹操、袁绍、司马懿、郭嘉等枭雄的棋局。他必须在“守住汉室“与“守住身边人“之间做出抉择，最终用一次次的放弃，把“刘“这个字的内涵从血统重新定义为人心的道义。这是一本关于身份、选择与牺牲的历史悬疑小说，被誉为“三国版的达芬奇密码“。</itunes:summary>
+      <itunes:duration>00:25:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-ef8764.mp3" length="24554157" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
