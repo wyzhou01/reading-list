@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 14:17:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 14:18:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18507,6 +18507,17 @@
       <itunes:duration>00:33:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-aa88ec.mp3" length="31789485" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《丁庄梦》 · 完整版 · 丁庄梦 - 阎连科 · 完整讲读</title>
+      <description>《丁庄梦》是阎连科用梦境与现实交织写就的乡村艾滋病灾难史诗。河南豫东某贫困村庄在九十年代卷入卖血产业链，十年后热病集中爆发，三年内死伤近百人。爷爷丁水阳在梦境里看清因果，儿子丁辉从血王变成众矢之的，全村人陷入装睡般的集体失语。最终，村庄如枯叶般飘落消亡，唯余一场刻满城市图景的金棺银棺喜葬。本书不控诉，只陈述，让结构性的贫困、无知与沉默，成为每个读者无法回避的镜子。</description>
+      <pubDate>Sat, 05 Sep 2026 14:18:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-2d8f61</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《丁庄梦》是阎连科用梦境与现实交织写就的乡村艾滋病灾难史诗。河南豫东某贫困村庄在九十年代卷入卖血产业链，十年后热病集中爆发，三年内死伤近百人。爷爷丁水阳在梦境里看清因果，儿子丁辉从血王变成众矢之的，全村人陷入装睡般的集体失语。最终，村庄如枯叶般飘落消亡，唯余一场刻满城市图景的金棺银棺喜葬。本书不控诉，只陈述，让结构性的贫困、无知与沉默，成为每个读者无法回避的镜子。</itunes:summary>
+      <itunes:duration>00:35:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-2d8f61.mp3" length="34236717" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
