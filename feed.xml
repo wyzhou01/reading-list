@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 13:33:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 13:34:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18419,6 +18419,17 @@
       <itunes:duration>00:22:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-c76be1.mp3" length="21583149" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一粒糖》 · 完整版 · 一粒糖 · 完整讲读</title>
+      <description>《一粒糖》是丰子恺的散文精选集，写市井烟火，也写天伦护生。从一片云片糕写到一双筷子，从一只白鹅写到一声爆响，他把最不起眼的日常，全写成了值得慢慢看的东西。本书六大主题：瓜子里的国民性、爆响里的艺术哲学、童年里的忏悔、孩子身上的回望、岁月里的&quot;渐&quot;、眼睛里的同情。读这本书，不是学什么大道理，是帮你把眼睛重新打开。</description>
+      <pubDate>Sat, 05 Sep 2026 13:34:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-16e847</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一粒糖》是丰子恺的散文精选集，写市井烟火，也写天伦护生。从一片云片糕写到一双筷子，从一只白鹅写到一声爆响，他把最不起眼的日常，全写成了值得慢慢看的东西。本书六大主题：瓜子里的国民性、爆响里的艺术哲学、童年里的忏悔、孩子身上的回望、岁月里的&quot;渐&quot;、眼睛里的同情。读这本书，不是学什么大道理，是帮你把眼睛重新打开。</itunes:summary>
+      <itunes:duration>00:29:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-16e847.mp3" length="28682541" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
