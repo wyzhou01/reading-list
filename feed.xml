@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 17:44:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 17:48:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18914,6 +18914,17 @@
       <itunes:duration>00:21:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-c95c14.mp3" length="21026733" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《奇点遗民》 · 完整版 · 奇点遗民（刘宇昆短篇小说集） · 完整讲读</title>
+      <description>《奇点遗民》是两届雨果奖得主刘宇昆的首部中文短篇小说集，收录二十二个写于二零零五年至二零一七年间、横跨人工智能、基因工程、虚拟现实与星际远航的故事。在硬核科技外壳下，他写最柔软的家庭情感：被压缩成几个瞬间的记忆，飞向群星的母亲，留下守望的遗民，末日来临前的告别。郝景芳作序盛赞其“用科学的方式做灵魂大问题的追索“。这本书不止是科幻，更是一封写给翻译者与读者的情书：在所有故事都被算法再编译的时代，它温柔地追问——什么值得被守住。</description>
+      <pubDate>Sat, 05 Sep 2026 17:48:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-4481d1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《奇点遗民》是两届雨果奖得主刘宇昆的首部中文短篇小说集，收录二十二个写于二零零五年至二零一七年间、横跨人工智能、基因工程、虚拟现实与星际远航的故事。在硬核科技外壳下，他写最柔软的家庭情感：被压缩成几个瞬间的记忆，飞向群星的母亲，留下守望的遗民，末日来临前的告别。郝景芳作序盛赞其“用科学的方式做灵魂大问题的追索“。这本书不止是科幻，更是一封写给翻译者与读者的情书：在所有故事都被算法再编译的时代，它温柔地追问——什么值得被守住。</itunes:summary>
+      <itunes:duration>00:25:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-4481d1.mp3" length="24755757" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
