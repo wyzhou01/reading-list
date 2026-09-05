@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 13:58:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 14:04:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18474,6 +18474,17 @@
       <itunes:duration>00:25:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-69991f.mp3" length="24557229" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一闪灯花堕》 · 完整版 · 一闪灯花堕 - 西岭雪 · 完整讲读</title>
+      <description>《一闪灯花堕》是作家西岭雪继《西岭雪探秘红楼梦》之后推出的又一部历史探秘小说。作品以清代第一词人纳兰容若之死为谜题，透过一个被纳兰亲手改了名字的卑微歌妓沈菀的眼睛，重新审视康熙二十四年那场“寒疾”背后的皇权、门第与情爱纠葛。全书以“史料打底、想象生花”的写法，把叶赫那拉与爱新觉罗三百年世仇、明珠与索额图的朝堂党争、惠妃卢氏沈菀三位女性的命运，全部缝进一首首耳熟能详的纳兰词里，回答了一个核心问题——纳兰容若为什么会死，以及他为什么必须死。</description>
+      <pubDate>Sat, 05 Sep 2026 14:04:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-e89809</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一闪灯花堕》是作家西岭雪继《西岭雪探秘红楼梦》之后推出的又一部历史探秘小说。作品以清代第一词人纳兰容若之死为谜题，透过一个被纳兰亲手改了名字的卑微歌妓沈菀的眼睛，重新审视康熙二十四年那场“寒疾”背后的皇权、门第与情爱纠葛。全书以“史料打底、想象生花”的写法，把叶赫那拉与爱新觉罗三百年世仇、明珠与索额图的朝堂党争、惠妃卢氏沈菀三位女性的命运，全部缝进一首首耳熟能详的纳兰词里，回答了一个核心问题——纳兰容若为什么会死，以及他为什么必须死。</itunes:summary>
+      <itunes:duration>00:26:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-e89809.mp3" length="25107885" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
