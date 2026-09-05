@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 18:05:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 18:15:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18958,6 +18958,41 @@
       <itunes:duration>00:27:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-78bbdd.mp3" length="26156589" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《神秘的镜像神经元》 · 完整版 · 神秘的镜像神经元 · 完整讲读</title>
+      <description>本书是一本关于祛魅的科学史读物。
+
+一九八八年，意大利神经科学家里佐拉蒂在恒河猴大脑中意外发现了一类特殊细胞：当猴子抓取物体时，这些细胞会放电；当猴子观察他人执行相同动作时，它们也会放电。这就是后来被命名为&quot;镜像神经元&quot;的细胞。
+
+在接下来的二十年里，这一发现被迅速放大：它被说成是心理学的DNA，是共情的基础，是语言的源头，是文明的基石。TED演讲、畅销书、主流媒体争相传播这套理论。
+
+本书作者希科克是加州大学欧文分校的神经科学家，长期研究言语与语言的脑机制。他从自身研究领域出发，对镜像神经元理论进行了长达十年的系统性检验，发现了八个重大异常现象：说不出但能听懂、做不出但能理解、面瘫却能识别情绪、映射可能阻碍恰当反应等。这些反例表明，镜像神经元远不足以支撑那个庞大的解释体系。
+
+本书不仅是一次学术清算，更是一次文化反思：为什么一个并不严谨的理论，能够席卷学术界和大众媒体？背后是M3偏见——人类对单一原因、磁力般吸引、大而全解释的天然偏爱。
+
+最后，作者提出了替代框架——预测性编码理论，介绍了一个更诚实的大脑研究起点：承认复杂，承认未知，在证据面前不断修正。
+
+这是一本关于科学如何自我纠错的书，也是一本教读者在面对漂亮理论时如何保持怀疑的书。</description>
+      <pubDate>Sat, 05 Sep 2026 18:15:36 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-389aae</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是一本关于祛魅的科学史读物。
+
+一九八八年，意大利神经科学家里佐拉蒂在恒河猴大脑中意外发现了一类特殊细胞：当猴子抓取物体时，这些细胞会放电；当猴子观察他人执行相同动作时，它们也会放电。这就是后来被命名为&quot;镜像神经元&quot;的细胞。
+
+在接下来的二十年里，这一发现被迅速放大：它被说成是心理学的DNA，是共情的基础，是语言的源头，是文明的基石。TED演讲、畅销书、主流媒体争相传播这套理论。
+
+本书作者希科克是加州大学欧文分校的神经科学家，长期研究言语与语言的脑机制。他从自身研究领域出发，对镜像神经元理论进行了长达十年的系统性检验，发现了八个重大异常现象：说不出但能听懂、做不出但能理解、面瘫却能识别情绪、映射可能阻碍恰当反应等。这些反例表明，镜像神经元远不足以支撑那个庞大的解释体系。
+
+本书不仅是一次学术清算，更是一次文化反思：为什么一个并不严谨的理论，能够席卷学术界和大众媒体？背后是M3偏见——人类对单一原因、磁力般吸引、大而全解释的天然偏爱。
+
+最后，作者提出了替代框架——预测性编码理论，介绍了一个更诚实的大脑研究起点：承认复杂，承认未知，在证据面前不断修正。
+
+这是一本关于科学如何自我纠错的书，也是一本教读者在面对漂亮理论时如何保持怀疑的书。</itunes:summary>
+      <itunes:duration>00:37:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-389aae.mp3" length="35893293" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
