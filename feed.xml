@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 14:10:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 14:17:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18496,6 +18496,17 @@
       <itunes:duration>00:36:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-2e87c3.mp3" length="35356077" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一寸河山一寸血03：落日孤城》 · 完整版 · 一寸河山一寸血03：落日孤城 · 完整讲读</title>
+      <description>《一寸河山一寸血03：落日孤城》是关河五十州撰写的抗战军事纪实，聚焦一九三七年底至一九三八年的关键战役。从陈纳德来华改造空军讲起，到淞沪会战、台儿庄大捷、禹王山保卫战，全书用扎实史料与生动笔法，还原了正面战场上中国军队以弱胜强的悲壮历程。陈纳德&quot;战斗机制胜论&quot;、高志航&quot;八一四&quot;空战、张冲以迫击炮与白族话机智破敌，一个个细节拼出那个年代的血性与智慧。本书既为浴血奋战的将士正名，也为今天的读者提供了一份关于勇气、牺牲与韧性的精神底色。</description>
+      <pubDate>Sat, 05 Sep 2026 14:17:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-aa88ec</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一寸河山一寸血03：落日孤城》是关河五十州撰写的抗战军事纪实，聚焦一九三七年底至一九三八年的关键战役。从陈纳德来华改造空军讲起，到淞沪会战、台儿庄大捷、禹王山保卫战，全书用扎实史料与生动笔法，还原了正面战场上中国军队以弱胜强的悲壮历程。陈纳德&quot;战斗机制胜论&quot;、高志航&quot;八一四&quot;空战、张冲以迫击炮与白族话机智破敌，一个个细节拼出那个年代的血性与智慧。本书既为浴血奋战的将士正名，也为今天的读者提供了一份关于勇气、牺牲与韧性的精神底色。</itunes:summary>
+      <itunes:duration>00:33:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-aa88ec.mp3" length="31789485" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
