@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 18:42:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 18:52:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19048,6 +19048,17 @@
       <itunes:duration>00:32:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-3d7908.mp3" length="31626285" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《螺丝在拧紧》 · 完整版 · 螺丝在拧紧_(译文经典) · 完整讲读</title>
+      <description>一八九八年，亨利·詹姆斯写下《螺丝在拧紧》：一位年轻女教师独自照看庄园里的两个孩子，声称看见了前任女教师与男仆的鬼魂，并誓死保护孩子不受侵犯。一百多年来，这部中篇引发了英语文学史上最大的争议——鬼究竟存在，还是女教师的精神崩溃？本书以维多利亚时代压抑的性、阶级与权力为底色，用模糊的叙事让读者与女教师同步陷入未知，最终在小男孩的死与女教师的孤绝中戛然而止。詹姆斯真正写的，是“看见“与“否认“的永恒角力——在一个拒绝面对真相的世界，那个敢于说出“我看见了“的人，将付出怎样惨烈的代价。</description>
+      <pubDate>Sat, 05 Sep 2026 18:52:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-b8c2ea</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一八九八年，亨利·詹姆斯写下《螺丝在拧紧》：一位年轻女教师独自照看庄园里的两个孩子，声称看见了前任女教师与男仆的鬼魂，并誓死保护孩子不受侵犯。一百多年来，这部中篇引发了英语文学史上最大的争议——鬼究竟存在，还是女教师的精神崩溃？本书以维多利亚时代压抑的性、阶级与权力为底色，用模糊的叙事让读者与女教师同步陷入未知，最终在小男孩的死与女教师的孤绝中戛然而止。詹姆斯真正写的，是“看见“与“否认“的永恒角力——在一个拒绝面对真相的世界，那个敢于说出“我看见了“的人，将付出怎样惨烈的代价。</itunes:summary>
+      <itunes:duration>00:38:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-b8c2ea.mp3" length="36727725" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
