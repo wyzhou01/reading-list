@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 15:45:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:51:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18738,6 +18738,17 @@
       <itunes:duration>00:26:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-5fdb57.mp3" length="25736877" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《三体（读客版）》 · 完整版 · 三体（读客版） · 完整讲读</title>
+      <description>《三体》是刘慈欣用二十年业余时间写成的硬科幻三部曲。它从文化大革命讲起，把个人伤痛、科学边界、文明猜疑、黑暗森林法则，层层推演到宇宙尽头：地球人向宇宙喊了一声，结果发现宇宙从来不安静。这本书把文明的生存本能推到极致，同时追问——在黑暗森林里，善良是不是一种罪？刘慈欣没给出廉价答案，他只留下一个生态球：几条小鱼，一抹青草，一个愿意把生存让渡给未知的渺小选择。这是中国科幻第一次站到世界舞台中央，也是每个想认真对待宇宙的人，都该读一次的镜子。</description>
+      <pubDate>Sat, 05 Sep 2026 15:50:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-0548f8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《三体》是刘慈欣用二十年业余时间写成的硬科幻三部曲。它从文化大革命讲起，把个人伤痛、科学边界、文明猜疑、黑暗森林法则，层层推演到宇宙尽头：地球人向宇宙喊了一声，结果发现宇宙从来不安静。这本书把文明的生存本能推到极致，同时追问——在黑暗森林里，善良是不是一种罪？刘慈欣没给出廉价答案，他只留下一个生态球：几条小鱼，一抹青草，一个愿意把生存让渡给未知的渺小选择。这是中国科幻第一次站到世界舞台中央，也是每个想认真对待宇宙的人，都该读一次的镜子。</itunes:summary>
+      <itunes:duration>00:25:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-0548f8.mp3" length="24003117" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
