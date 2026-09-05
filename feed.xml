@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 14:18:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 14:26:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18518,6 +18518,17 @@
       <itunes:duration>00:35:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-2d8f61.mp3" length="34236717" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一幅画开启的世界》 · 完整版 · 一幅画开启的世界 · 完整讲读</title>
+      <description>《一幅画开启的世界》是日本动画大师高畑勋在《热风》杂志连载五年的赏画随笔合集。他以门外汉的随性姿态,从一幅画出发,串联起艺术史、电影、文学、风俗与个人记忆。从宋徽宗到毕加索,从磁州窑的鱼钵到印度的民俗画,他示范了一种珍贵的姿态——以自己的眼睛为起点,先随性地爱上某幅画,再为这份爱去做最扎实的研究。这本书既不是艺术史的追溯,也不是名画导览,而是一个爱画之人,夹带着自身的独断与偏见,交出的一份随性的赏画报告。在讲解越来越专业的今天,它提醒我们:欣赏绘画,首先可以轻松随性,以自己的方式和感受为先。</description>
+      <pubDate>Sat, 05 Sep 2026 14:26:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-20d8f3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一幅画开启的世界》是日本动画大师高畑勋在《热风》杂志连载五年的赏画随笔合集。他以门外汉的随性姿态,从一幅画出发,串联起艺术史、电影、文学、风俗与个人记忆。从宋徽宗到毕加索,从磁州窑的鱼钵到印度的民俗画,他示范了一种珍贵的姿态——以自己的眼睛为起点,先随性地爱上某幅画,再为这份爱去做最扎实的研究。这本书既不是艺术史的追溯,也不是名画导览,而是一个爱画之人,夹带着自身的独断与偏见,交出的一份随性的赏画报告。在讲解越来越专业的今天,它提醒我们:欣赏绘画,首先可以轻松随性,以自己的方式和感受为先。</itunes:summary>
+      <itunes:duration>00:28:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-20d8f3.mp3" length="27216429" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
