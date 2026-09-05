@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 18:32:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 18:42:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19037,6 +19037,17 @@
       <itunes:duration>00:23:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-d14c60.mp3" length="22820013" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《文武北洋·风流篇》 · 完整版 · 文武北洋·风流篇 · 完整讲读</title>
+      <description>《文武北洋·风流篇》是李洁用八年故址寻访写就的北洋再评价。他亲自走访杨度、章士钊、李大钊、陈独秀四位代表性文人的故居旧址，配以一手史料，还原他们在清末民初大转型期的真实命运，撕掉后人强涂在&quot;好人&quot;身上的金粉与&quot;坏人&quot;身上的污秽。本书告诉我们：被妖魔化的北洋时代，可能正是古老中华第一次认真学做现代国家的艰难肇始；而国士的真正证书，是由时间颁发的。</description>
+      <pubDate>Sat, 05 Sep 2026 18:42:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-3d7908</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《文武北洋·风流篇》是李洁用八年故址寻访写就的北洋再评价。他亲自走访杨度、章士钊、李大钊、陈独秀四位代表性文人的故居旧址，配以一手史料，还原他们在清末民初大转型期的真实命运，撕掉后人强涂在&quot;好人&quot;身上的金粉与&quot;坏人&quot;身上的污秽。本书告诉我们：被妖魔化的北洋时代，可能正是古老中华第一次认真学做现代国家的艰难肇始；而国士的真正证书，是由时间颁发的。</itunes:summary>
+      <itunes:duration>00:32:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-3d7908.mp3" length="31626285" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
