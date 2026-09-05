@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 13:34:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 13:48:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18430,6 +18430,17 @@
       <itunes:duration>00:29:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-16e847.mp3" length="28682541" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一粒红尘》 · 完整版 · 一粒红尘 · 完整讲读</title>
+      <description>《一粒红尘》是八零后作家独木舟暌违三年的长篇力作，全文二十多万字，由《花火》杂志重磅连载，作家张嘉佳亲笔作序推荐。小说讲述了 S 城女孩叶昭觉的都市漂泊史：她和画家男友简晨烨挤在四十平米的老房子里，洗澡洗到一半停水，跟老鼠同住；她和闺蜜邵清羽开着车满城找房，最后搬进二一零六的新公寓，以为那是阳光照进来的缝隙；她在贫穷、爱情、理想和现实之间反复撕扯，最后发现真正能接住自己的，从来不是某个男人，而是一直在身边的闺蜜。本书最珍贵的地方在于：它不写偶像剧式的灰姑娘，它写的是真正的穷、真正的狼狈、真正在过日子的人。独木舟用一把刀一样的笔触告诉我们，红尘不是用来杀进的，它是浩瀚如海、属于你的那条细而窄的路，你只需要颤颤巍巍、胆战心惊地走下去——一粒红尘，就是我们每一个在都市里摸爬滚打、跌跌撞撞，却仍然没有放弃的自己。</description>
+      <pubDate>Sat, 05 Sep 2026 13:47:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-1f4e49</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一粒红尘》是八零后作家独木舟暌违三年的长篇力作，全文二十多万字，由《花火》杂志重磅连载，作家张嘉佳亲笔作序推荐。小说讲述了 S 城女孩叶昭觉的都市漂泊史：她和画家男友简晨烨挤在四十平米的老房子里，洗澡洗到一半停水，跟老鼠同住；她和闺蜜邵清羽开着车满城找房，最后搬进二一零六的新公寓，以为那是阳光照进来的缝隙；她在贫穷、爱情、理想和现实之间反复撕扯，最后发现真正能接住自己的，从来不是某个男人，而是一直在身边的闺蜜。本书最珍贵的地方在于：它不写偶像剧式的灰姑娘，它写的是真正的穷、真正的狼狈、真正在过日子的人。独木舟用一把刀一样的笔触告诉我们，红尘不是用来杀进的，它是浩瀚如海、属于你的那条细而窄的路，你只需要颤颤巍巍、胆战心惊地走下去——一粒红尘，就是我们每一个在都市里摸爬滚打、跌跌撞撞，却仍然没有放弃的自己。</itunes:summary>
+      <itunes:duration>00:33:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-1f4e49.mp3" length="32309805" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
