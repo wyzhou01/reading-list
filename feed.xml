@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 14:30:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 14:34:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18540,6 +18540,17 @@
       <itunes:duration>00:27:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-b5b6f1.mp3" length="26214573" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一年之痒》 · 完整版 · 一年之痒 · 完整讲读</title>
+      <description>《一年之痒》是政治学教授张鸣的杂文集，收录了他在二零一零年前后发表的时评文章，分社会、教育、文化三大板块。他用嬉笑怒骂的笔法，剖析了群体性暴力、官场雷同话术、大学官本位、传统断裂、乡村自组织等议题。他认为，中国社会“人人心里都住着一匹狼”，根源在于战争思维根深蒂固、群体私刑文化未断、教育官本位化、民间组织资源被压抑。读这本书，不是为了泄愤，而是为了看懂我们身处的社会，是怎么一步步走到今天的，又有哪些老问题还在等这一代人去回答。</description>
+      <pubDate>Sat, 05 Sep 2026 14:34:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-9345e6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一年之痒》是政治学教授张鸣的杂文集，收录了他在二零一零年前后发表的时评文章，分社会、教育、文化三大板块。他用嬉笑怒骂的笔法，剖析了群体性暴力、官场雷同话术、大学官本位、传统断裂、乡村自组织等议题。他认为，中国社会“人人心里都住着一匹狼”，根源在于战争思维根深蒂固、群体私刑文化未断、教育官本位化、民间组织资源被压抑。读这本书，不是为了泄愤，而是为了看懂我们身处的社会，是怎么一步步走到今天的，又有哪些老问题还在等这一代人去回答。</itunes:summary>
+      <itunes:duration>00:29:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-9345e6.mp3" length="28068141" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
