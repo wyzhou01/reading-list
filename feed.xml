@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 17:11:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 17:20:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18870,6 +18870,17 @@
       <itunes:duration>00:30:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-99c55d.mp3" length="29456685" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《合作的进化》 · 完整版 · 合作的进化 · 完整讲读</title>
+      <description>本书是一场关于&apos;合作如何可能&apos;的思想实验。一九八零年，政治学家罗伯特·阿克塞尔罗德举办了两轮&apos;重复囚徒困境&apos;计算机竞赛，结果最简单的程序&apos;一报还一报&apos;两次获胜。它的成功源于四条特性：善良、报复、宽容、清晰。作者由此推导出合作进化的三大条件：交往次数足够多、对未来足够看重、行为足够清晰。从一战堑壕战中的&apos;自己活也让别人活&apos;系统，到生物界的共生现象，再到美国参议院的投票交易，本书用跨学科证据证明：基于回报的合作，完全可以在没有集权、没有天使的自利者之间自发进化出来。最后，作者给出两层行动指南——个体要学会识别值得长期投入的合作对象，制度要通过拉长未来影子、提高背叛成本、增强信息透明度，让合作比背叛更划算。本书的核心启示是：善良不是软弱，合作是聪明人在重复博弈中进化出的最优策略。</description>
+      <pubDate>Sat, 05 Sep 2026 17:20:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-9e86f7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是一场关于&apos;合作如何可能&apos;的思想实验。一九八零年，政治学家罗伯特·阿克塞尔罗德举办了两轮&apos;重复囚徒困境&apos;计算机竞赛，结果最简单的程序&apos;一报还一报&apos;两次获胜。它的成功源于四条特性：善良、报复、宽容、清晰。作者由此推导出合作进化的三大条件：交往次数足够多、对未来足够看重、行为足够清晰。从一战堑壕战中的&apos;自己活也让别人活&apos;系统，到生物界的共生现象，再到美国参议院的投票交易，本书用跨学科证据证明：基于回报的合作，完全可以在没有集权、没有天使的自利者之间自发进化出来。最后，作者给出两层行动指南——个体要学会识别值得长期投入的合作对象，制度要通过拉长未来影子、提高背叛成本、增强信息透明度，让合作比背叛更划算。本书的核心启示是：善良不是软弱，合作是聪明人在重复博弈中进化出的最优策略。</itunes:summary>
+      <itunes:duration>00:31:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-9e86f7.mp3" length="30199725" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
