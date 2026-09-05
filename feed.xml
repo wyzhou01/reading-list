@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 17:37:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 17:44:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18903,6 +18903,17 @@
       <itunes:duration>00:26:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-2a8a80.mp3" length="25449645" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《荆州杀》 · 完整版 · 荆州杀 · 完整讲读</title>
+      <description>赤壁之战后，三国鼎立之势已成，而天下要害尽在荆州。公元219年，东吴大都督周瑜借拜寿之名亲临荆州，暗藏杀机；关羽镇守孤城十二年，骄傲自负，轻敌东吴。本书以周瑜与关羽的双雄对决为主线，铺演借刀杀人、美人计、骄兵之计、影子死士等环环相扣的阴谋阳谋，最终周瑜关羽同归于尽，荆州易主，三国格局由此重塑——正所谓&apos;荆州一落，天下三分&apos;。</description>
+      <pubDate>Sat, 05 Sep 2026 17:44:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-c95c14</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>赤壁之战后，三国鼎立之势已成，而天下要害尽在荆州。公元219年，东吴大都督周瑜借拜寿之名亲临荆州，暗藏杀机；关羽镇守孤城十二年，骄傲自负，轻敌东吴。本书以周瑜与关羽的双雄对决为主线，铺演借刀杀人、美人计、骄兵之计、影子死士等环环相扣的阴谋阳谋，最终周瑜关羽同归于尽，荆州易主，三国格局由此重塑——正所谓&apos;荆州一落，天下三分&apos;。</itunes:summary>
+      <itunes:duration>00:21:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-c95c14.mp3" length="21026733" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
