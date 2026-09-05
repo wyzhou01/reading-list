@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 14:50:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 14:52:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18584,6 +18584,17 @@
       <itunes:duration>00:29:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-4a802d.mp3" length="27868845" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《七王国的骑士》 · 完整版 · 七王国的骑士 · 完整讲读</title>
+      <description>《冰与火之歌》前传，讲述雇佣骑士“高个“邓肯与侍从小男孩伊戈（实为坦格利安王室）在伊耿历209年前后的冒险故事。老人阿兰爵士死后，邓肯带着伊戈参加岑树滩比武大会，卷入河湾地多家族的政治纷争，从无名雇佣骑士逐步成长为真正的骑士，并以一桩不可能完成的誓言踏入寻找“心树“的危险旅程。</description>
+      <pubDate>Sat, 05 Sep 2026 14:52:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-8f2dc6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《冰与火之歌》前传，讲述雇佣骑士“高个“邓肯与侍从小男孩伊戈（实为坦格利安王室）在伊耿历209年前后的冒险故事。老人阿兰爵士死后，邓肯带着伊戈参加岑树滩比武大会，卷入河湾地多家族的政治纷争，从无名雇佣骑士逐步成长为真正的骑士，并以一桩不可能完成的誓言踏入寻找“心树“的危险旅程。</itunes:summary>
+      <itunes:duration>00:28:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-8f2dc6.mp3" length="26912685" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
