@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 17:56:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 18:05:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18947,6 +18947,17 @@
       <itunes:duration>00:25:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-b87934.mp3" length="24754989" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《阿里铁军销售课》 · 完整版 · 阿里铁军销售课 · 完整讲读</title>
+      <description>《阿里铁军销售课》是阿里中供铁军首任校长李立恒亲笔写就的销售实战手册。这支传奇队伍在非典肆虐、市场一片荒芜的年代，靠两条腿跑出了阿里巴巴的早期江山，也孵化出滴滴创始人程维等一批顶尖商业人才。本书的核心主张是：销售不是话术、不是天赋，而是一种可以被训练出来的思维方式和行为习惯。作者以十年一线实战和管理经验，系统拆解了从心态建设、陌生拜访、需求挖掘，到克服签单恐惧、迈向顶级销售的完整路径，提炼出&quot;Top sales十大好习惯&quot;与&quot;五条戒律&quot;。无论你是销售新人、销售管理者，还是正在搭建销售体系的创业者，都能从这套被上万人验证过的方法论中，找到可复制、可落地的成长路径。</description>
+      <pubDate>Sat, 05 Sep 2026 18:05:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-78bbdd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《阿里铁军销售课》是阿里中供铁军首任校长李立恒亲笔写就的销售实战手册。这支传奇队伍在非典肆虐、市场一片荒芜的年代，靠两条腿跑出了阿里巴巴的早期江山，也孵化出滴滴创始人程维等一批顶尖商业人才。本书的核心主张是：销售不是话术、不是天赋，而是一种可以被训练出来的思维方式和行为习惯。作者以十年一线实战和管理经验，系统拆解了从心态建设、陌生拜访、需求挖掘，到克服签单恐惧、迈向顶级销售的完整路径，提炼出&quot;Top sales十大好习惯&quot;与&quot;五条戒律&quot;。无论你是销售新人、销售管理者，还是正在搭建销售体系的创业者，都能从这套被上万人验证过的方法论中，找到可复制、可落地的成长路径。</itunes:summary>
+      <itunes:duration>00:27:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-78bbdd.mp3" length="26156589" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
