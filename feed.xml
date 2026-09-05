@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 14:52:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 14:57:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18595,6 +18595,17 @@
       <itunes:duration>00:28:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-8f2dc6.mp3" length="26912685" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一念桃花源：苏东坡与陶渊明的灵魂对话》 · 完整版 · 一念桃花源 · 完整讲读</title>
+      <description>《一念桃花源》是美国汉学家比尔·波特在七十四岁时，与朋友李昕、殷云重走苏东坡南贬之路的行走记录与诗评。从扬州、惠州、雷州到海南儋州，再到常州，波特用脚步丈量东坡写下和陶诗的一百多个地理坐标，揭开一段跨越七百年的灵魂对话：被贬岭南的苏东坡，如何在陶渊明的诗句中找到活下去的力量。书中不仅有东坡在黄州、惠州、州三段最黑暗岁月里&apos;随遇而安&apos;的细节，更有波特对&apos;沉浸式生活&apos;、盲人按摩、海南泡温泉等当下体验的真实书写。这是一本用脚读诗的书，献给每一个正在或即将跌入自己&apos;黄州惠州儋州&apos;的人。</description>
+      <pubDate>Sat, 05 Sep 2026 14:57:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-65e8f1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一念桃花源》是美国汉学家比尔·波特在七十四岁时，与朋友李昕、殷云重走苏东坡南贬之路的行走记录与诗评。从扬州、惠州、雷州到海南儋州，再到常州，波特用脚步丈量东坡写下和陶诗的一百多个地理坐标，揭开一段跨越七百年的灵魂对话：被贬岭南的苏东坡，如何在陶渊明的诗句中找到活下去的力量。书中不仅有东坡在黄州、惠州、州三段最黑暗岁月里&apos;随遇而安&apos;的细节，更有波特对&apos;沉浸式生活&apos;、盲人按摩、海南泡温泉等当下体验的真实书写。这是一本用脚读诗的书，献给每一个正在或即将跌入自己&apos;黄州惠州儋州&apos;的人。</itunes:summary>
+      <itunes:duration>00:26:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-65e8f1.mp3" length="25689261" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
