@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 15:04:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:11:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18628,6 +18628,17 @@
       <itunes:duration>00:28:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-f4c652.mp3" length="27191469" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《万物生光辉》 · 完整版 · 万物生光辉 - [Ӣ] 吉米·哈利 · 完整讲读</title>
+      <description>《万物生光辉》是英国乡村兽医吉米·哈利于二十世纪五十年代在约克郡行医的真实手札。书中收录了他治愈濒死壮马、为暴躁肥狗小宝设计薯条麻醉术、剖腹取出爱猫阿福胃中毛球，以及用漫长耐心赢得两只野猫信任却在四十八小时内痛失其一的故事。哈利以温柔幽默的笔触呈现了那个没有先进仪器、只凭一辆老爷车与一只药包的年代，兽医如何凭观察、直觉与对动物身体语言的终身阅读完成一次次惊心动魄的诊治。这本书不只是兽医的工作日记，更是一份关于信任、耐心、死亡与陪伴的田园礼赞——它告诉我们，兽医治的不只是动物，也是动物背后的那个人；而最深的医疗，往往不是治愈，而是被一只动物选择成为朋友。</description>
+      <pubDate>Sat, 05 Sep 2026 15:11:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-bab496</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《万物生光辉》是英国乡村兽医吉米·哈利于二十世纪五十年代在约克郡行医的真实手札。书中收录了他治愈濒死壮马、为暴躁肥狗小宝设计薯条麻醉术、剖腹取出爱猫阿福胃中毛球，以及用漫长耐心赢得两只野猫信任却在四十八小时内痛失其一的故事。哈利以温柔幽默的笔触呈现了那个没有先进仪器、只凭一辆老爷车与一只药包的年代，兽医如何凭观察、直觉与对动物身体语言的终身阅读完成一次次惊心动魄的诊治。这本书不只是兽医的工作日记，更是一份关于信任、耐心、死亡与陪伴的田园礼赞——它告诉我们，兽医治的不只是动物，也是动物背后的那个人；而最深的医疗，往往不是治愈，而是被一只动物选择成为朋友。</itunes:summary>
+      <itunes:duration>00:33:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-bab496.mp3" length="31994925" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
