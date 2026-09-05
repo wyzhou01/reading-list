@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 17:48:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 17:52:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18925,6 +18925,17 @@
       <itunes:duration>00:25:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-4481d1.mp3" length="24755757" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《众媒时代》 · 完整版 · 众媒时代 · 完整讲读</title>
+      <description>《众媒时代》是腾讯传媒研究院在二零一五年移动互联网全面爆发的关键节点，推出的一本系统性传媒产业报告。它首次在国内提出&quot;共媒时代&quot;与&quot;智媒时代&quot;两大概念，将共享经济、按需经济等理论框架引入媒体转型讨论。全书围绕介质迁徙、科技入侵、资本博弈、场景革命、共媒生态、智媒未来六大主题，结合皮尤研究中心、思科、谷歌、《纽约时报》等全球一手数据与案例，系统梳理了二零一五年前后全球媒体行业经历的剧烈洗牌，并给出机构媒体从&quot;一到零&quot;的重塑路径与自媒体的生存方法论。十年后回看，这本书几乎所有判断都已应验，它更像是一份提前写就的预言书，值得每一个关注内容产业的人，反复对照、重新审视。</description>
+      <pubDate>Sat, 05 Sep 2026 17:52:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-af141f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《众媒时代》是腾讯传媒研究院在二零一五年移动互联网全面爆发的关键节点，推出的一本系统性传媒产业报告。它首次在国内提出&quot;共媒时代&quot;与&quot;智媒时代&quot;两大概念，将共享经济、按需经济等理论框架引入媒体转型讨论。全书围绕介质迁徙、科技入侵、资本博弈、场景革命、共媒生态、智媒未来六大主题，结合皮尤研究中心、思科、谷歌、《纽约时报》等全球一手数据与案例，系统梳理了二零一五年前后全球媒体行业经历的剧烈洗牌，并给出机构媒体从&quot;一到零&quot;的重塑路径与自媒体的生存方法论。十年后回看，这本书几乎所有判断都已应验，它更像是一份提前写就的预言书，值得每一个关注内容产业的人，反复对照、重新审视。</itunes:summary>
+      <itunes:duration>00:32:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-af141f.mp3" length="31209261" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
