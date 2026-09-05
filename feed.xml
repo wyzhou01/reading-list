@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 13:48:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 13:49:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18441,6 +18441,17 @@
       <itunes:duration>00:33:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-1f4e49.mp3" length="32309805" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一出好戏》 · 完整版 · 一出好戏 · 完整讲读</title>
+      <description>一个陨石末日谣言笼罩下的公司团建之旅，众人意外流落荒岛后，原本的社会秩序迅速崩塌。马进、马小兴、张总、小王等人在孤岛上经历了从求生到权力更迭、从文明退化到人性异化的全过程，演绎了一出现代版的荒岛求生寓言。故事探讨了当文明外衣被剥去后，权力、欲望、爱情与亲情如何在极端环境中被重新定义，以及人在绝境中究竟是坠入兽性还是坚守人性。</description>
+      <pubDate>Sat, 05 Sep 2026 13:49:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-c204d8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一个陨石末日谣言笼罩下的公司团建之旅，众人意外流落荒岛后，原本的社会秩序迅速崩塌。马进、马小兴、张总、小王等人在孤岛上经历了从求生到权力更迭、从文明退化到人性异化的全过程，演绎了一出现代版的荒岛求生寓言。故事探讨了当文明外衣被剥去后，权力、欲望、爱情与亲情如何在极端环境中被重新定义，以及人在绝境中究竟是坠入兽性还是坚守人性。</itunes:summary>
+      <itunes:duration>00:43:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-c204d8.mp3" length="42049197" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
