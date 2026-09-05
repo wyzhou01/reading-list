@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 18:25:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 18:26:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19015,6 +19015,17 @@
       <itunes:duration>00:28:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-eb05fa.mp3" length="26908845" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《品格之路》 · 完整版 · 品格之路_ · 完整讲读</title>
+      <description>《品格之路》是戴维·布鲁克斯对功利主义时代的一次深度反思。他提出&apos;简历美德&apos;与&apos;悼词美德&apos;的分野，借犹太拉比的&apos;亚当一号与亚当二号&apos;之说，描绘了一条始于谦逊、经过自我控制、苦难磨砺、自我否定，最终抵达爱与自我超越的谦卑之路。通过帕金斯、艾森豪威尔、马歇尔、奥古斯丁、乔治·艾略特等八位人物的真实人生，布鲁克斯证明：高尚品格不是天赋，而是与自身缺陷终生搏斗的副产品；幸福，正是这场搏斗的必然回响。</description>
+      <pubDate>Sat, 05 Sep 2026 18:26:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-6c3911</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《品格之路》是戴维·布鲁克斯对功利主义时代的一次深度反思。他提出&apos;简历美德&apos;与&apos;悼词美德&apos;的分野，借犹太拉比的&apos;亚当一号与亚当二号&apos;之说，描绘了一条始于谦逊、经过自我控制、苦难磨砺、自我否定，最终抵达爱与自我超越的谦卑之路。通过帕金斯、艾森豪威尔、马歇尔、奥古斯丁、乔治·艾略特等八位人物的真实人生，布鲁克斯证明：高尚品格不是天赋，而是与自身缺陷终生搏斗的副产品；幸福，正是这场搏斗的必然回响。</itunes:summary>
+      <itunes:duration>00:41:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-6c3911.mp3" length="40308525" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
