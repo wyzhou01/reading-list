@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 15:11:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:14:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18639,6 +18639,17 @@
       <itunes:duration>00:33:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-bab496.mp3" length="31994925" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一抔尘土》 · 完整版 · 一抔尘土（伊夫林·沃作品系列） · 完整讲读</title>
+      <description>《一抔尘土》是英国作家伊夫林·沃写于一九三四年的经典长篇。二十五岁的伦敦青年约翰·比弗靠母亲为生，靠每周六英镑的收入度日，每天睡到很晚，坐在电话机旁等着别人邀请他出席无聊的晚宴。妻子带着儿子离他而去后，他没有振作，反而钻进了伦敦一家廉价旅馆的图书馆里打发余生，最终去了南美洲的丛林，再也没有回来。沃以冷峻又悲悯的笔触，把两次世界大战之间英国上流社会的精神空洞，写成了一首讽刺与哀歌交织的挽歌，悼念一个古老文明的衰亡，也照出每一个用忙碌掩盖空虚、用社交逃避自我的现代人。</description>
+      <pubDate>Sat, 05 Sep 2026 15:14:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-042573</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一抔尘土》是英国作家伊夫林·沃写于一九三四年的经典长篇。二十五岁的伦敦青年约翰·比弗靠母亲为生，靠每周六英镑的收入度日，每天睡到很晚，坐在电话机旁等着别人邀请他出席无聊的晚宴。妻子带着儿子离他而去后，他没有振作，反而钻进了伦敦一家廉价旅馆的图书馆里打发余生，最终去了南美洲的丛林，再也没有回来。沃以冷峻又悲悯的笔触，把两次世界大战之间英国上流社会的精神空洞，写成了一首讽刺与哀歌交织的挽歌，悼念一个古老文明的衰亡，也照出每一个用忙碌掩盖空虚、用社交逃避自我的现代人。</itunes:summary>
+      <itunes:duration>00:31:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-042573.mp3" length="30006189" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
