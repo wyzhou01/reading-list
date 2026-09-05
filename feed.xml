@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 16:17:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 16:17:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18771,6 +18771,17 @@
       <itunes:duration>00:27:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-17ae1f.mp3" length="26293293" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一流的教养》 · 完整版 · 一流的教养 · 完整讲读</title>
+      <description>《一流的教养》用神经生物学告诉我们，十二到二十四岁不是叛逆期，而是孩子大脑长达十多年的大规模重塑期。克拉克夫妇把青春期比作大脑的建筑工地：神经元被大规模修剪、髓鞘加速形成、情绪系统先于控制中心上线，这就是青春期的孩子为什么会上一秒还在笑、下一秒就冲你吼你什么都不知道。从“你管不着”到“我恨我的生活”，二十五句口头禅背后是同一种正在重建的大脑。本书的下半部分直面三大危险信号：物质滥用、自残和自杀，破除了大量致命误解——自残不是想死、谈论自杀不会植入念头、百分之八十的自杀者在动手前都曾经求救过。最终，这本书给出的不是控制孩子的工具，而是一份理解孩子的地图：父母唯一能控制的只有自己，当你改变了自己，一切都会随之改变。</description>
+      <pubDate>Sat, 05 Sep 2026 16:17:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-ca2021</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一流的教养》用神经生物学告诉我们，十二到二十四岁不是叛逆期，而是孩子大脑长达十多年的大规模重塑期。克拉克夫妇把青春期比作大脑的建筑工地：神经元被大规模修剪、髓鞘加速形成、情绪系统先于控制中心上线，这就是青春期的孩子为什么会上一秒还在笑、下一秒就冲你吼你什么都不知道。从“你管不着”到“我恨我的生活”，二十五句口头禅背后是同一种正在重建的大脑。本书的下半部分直面三大危险信号：物质滥用、自残和自杀，破除了大量致命误解——自残不是想死、谈论自杀不会植入念头、百分之八十的自杀者在动手前都曾经求救过。最终，这本书给出的不是控制孩子的工具，而是一份理解孩子的地图：父母唯一能控制的只有自己，当你改变了自己，一切都会随之改变。</itunes:summary>
+      <itunes:duration>00:33:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-ca2021.mp3" length="31906221" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
