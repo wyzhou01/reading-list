@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 16:28:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 16:35:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18804,6 +18804,17 @@
       <itunes:duration>00:27:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-8a3f61.mp3" length="26042541" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一百个理由》 · 完整版 · 一百个理由 · 完整讲读</title>
+      <description>《一百个理由》是中国著名报告文学作家胡平历时十年写就的深度剖析中日关系之作。本书从历史恩怨、文化差异、民族性格、国际格局四个维度，揭示了中日两国既近又远、既对抗又依存的复杂关系。作者提出核心观点：中国能找到一百个理由谴责日本，更能找到一百个理由与日本和平相处；中国要实现民族复兴，必须跨越日本这道心理门槛；日本要成为真正的大国，也绕不过中国这道道义门槛。这本书不仅是理解中日关系的重要读物，更是一部关于如何面对历史、走向未来的深刻启示录。</description>
+      <pubDate>Sat, 05 Sep 2026 16:35:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-d60238</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一百个理由》是中国著名报告文学作家胡平历时十年写就的深度剖析中日关系之作。本书从历史恩怨、文化差异、民族性格、国际格局四个维度，揭示了中日两国既近又远、既对抗又依存的复杂关系。作者提出核心观点：中国能找到一百个理由谴责日本，更能找到一百个理由与日本和平相处；中国要实现民族复兴，必须跨越日本这道心理门槛；日本要成为真正的大国，也绕不过中国这道道义门槛。这本书不仅是理解中日关系的重要读物，更是一部关于如何面对历史、走向未来的深刻启示录。</itunes:summary>
+      <itunes:duration>00:21:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-d60238.mp3" length="20847789" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
