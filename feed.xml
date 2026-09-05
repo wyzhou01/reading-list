@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 14:42:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 14:50:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18573,6 +18573,17 @@
       <itunes:duration>00:34:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-a11a2f.mp3" length="32969901" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一念心安》 · 完整版 · 一念心安 - 妩冰 · 完整讲读</title>
+      <description>《一念心安》是妩冰创作的长篇都市言情小说，讲述了女主角林安生在母亲车祸去世、被亲生父亲——良信集团总裁安景良接回豪门后，经历离婚、流产、挚友入狱、姐姐背叛等一连串命运碾压，却始终没有弄丢自己的故事。她用十几年时间学会了和破碎的原生家庭和解，承认了那份卑微却执念的爱情，最终从一个躲在玩偶脑袋后不敢见人的女孩，成长为一个敢于在几千人面前读出自己秘密的女人。本书不是童话，而是一个普通女孩在废墟里一点点把自己拼回来的全过程。</description>
+      <pubDate>Sat, 05 Sep 2026 14:50:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-4a802d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一念心安》是妩冰创作的长篇都市言情小说，讲述了女主角林安生在母亲车祸去世、被亲生父亲——良信集团总裁安景良接回豪门后，经历离婚、流产、挚友入狱、姐姐背叛等一连串命运碾压，却始终没有弄丢自己的故事。她用十几年时间学会了和破碎的原生家庭和解，承认了那份卑微却执念的爱情，最终从一个躲在玩偶脑袋后不敢见人的女孩，成长为一个敢于在几千人面前读出自己秘密的女人。本书不是童话，而是一个普通女孩在废墟里一点点把自己拼回来的全过程。</itunes:summary>
+      <itunes:duration>00:29:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-4a802d.mp3" length="27868845" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
