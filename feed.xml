@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 18:15:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 18:18:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18993,6 +18993,17 @@
       <itunes:duration>00:37:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-389aae.mp3" length="35893293" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《虚土》 · 完整版 · 虚土 · 完整讲读</title>
+      <description>《虚土》是刘亮程唯一的长篇小说，写一个永远停在五岁的孩子，看虚土庄从喧闹到人走光。这座西北荒漠上的村庄，被一朵云引领落脚，七个人各怀心事地过完一生。叙述者没有身体、没有影子，认不出大人的脸，只认得出他们等东西的姿态。村庄白天是七种停滞——瞎子、赌徒、疯子、守夜人、没出生的孩子、等待的女人、迷失的过客——他们各自用自己的方式反抗被世界过掉。最后一个早晨人全走光，村庄变成一片飘在天上的虚土。这本书写的是时间与停滞，也是出生与从未出生；写的是一个村庄的生灭，也是每个人对“我是否真的活过“的追问。</description>
+      <pubDate>Sat, 05 Sep 2026 18:18:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-cc574b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《虚土》是刘亮程唯一的长篇小说，写一个永远停在五岁的孩子，看虚土庄从喧闹到人走光。这座西北荒漠上的村庄，被一朵云引领落脚，七个人各怀心事地过完一生。叙述者没有身体、没有影子，认不出大人的脸，只认得出他们等东西的姿态。村庄白天是七种停滞——瞎子、赌徒、疯子、守夜人、没出生的孩子、等待的女人、迷失的过客——他们各自用自己的方式反抗被世界过掉。最后一个早晨人全走光，村庄变成一片飘在天上的虚土。这本书写的是时间与停滞，也是出生与从未出生；写的是一个村庄的生灭，也是每个人对“我是否真的活过“的追问。</itunes:summary>
+      <itunes:duration>00:23:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-cc574b.mp3" length="22572717" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
