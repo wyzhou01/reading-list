@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 15:22:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:27:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18672,6 +18672,17 @@
       <itunes:duration>00:28:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-99b5a8.mp3" length="27838125" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《万物简史+趣味生活简史》 · 完整版 · 万物简史+趣味生活简史 · 完整讲读</title>
+      <description>《万物简史+趣味生活简史》是美国作家比尔·布莱森写的两部科普巨著。前半本用幽默笔法讲宇宙大爆炸、地球形成、生命起源、人类进化；后半本从一栋英国乡村教区长寓所的每一个房间出发，揭开电线、砖块、混凝土等日常物件背后的工业文明史。全书核心：你是几十亿年宇宙史和几百年科技史的双重奇迹，也是这颗星球需要谨慎对待的“新物种“。</description>
+      <pubDate>Sat, 05 Sep 2026 15:27:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-17b061</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《万物简史+趣味生活简史》是美国作家比尔·布莱森写的两部科普巨著。前半本用幽默笔法讲宇宙大爆炸、地球形成、生命起源、人类进化；后半本从一栋英国乡村教区长寓所的每一个房间出发，揭开电线、砖块、混凝土等日常物件背后的工业文明史。全书核心：你是几十亿年宇宙史和几百年科技史的双重奇迹，也是这颗星球需要谨慎对待的“新物种“。</itunes:summary>
+      <itunes:duration>00:23:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-17b061.mp3" length="22252461" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
