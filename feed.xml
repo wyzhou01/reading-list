@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 14:42:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 14:42:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18562,6 +18562,17 @@
       <itunes:duration>00:24:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-21bcbc.mp3" length="23599149" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《七声》 · 完整版 · 七声 · 完整讲读</title>
+      <description>《七声》是香港作家葛亮的一部短篇小说集，以少年毛果的视角，写了七个普通人的故事——外祖父母、街坊成洪才、做泥人的尹师傅、底层女工阿霞、香港老人威廉等。他们走在生活的边缘，看上去微不足道，却在烟火缭绕的日子里，活出了一种让人动容的坚韧。本书不写大时代，只写被时代裹挟的普通人；不写传奇，只写真实的悲喜。葛亮用干净的笔触，把那些正在消失的声音、即将被遗忘的人，替我们留了下来。这本书提醒我们：每一个平凡的人，都值得被认真写一次。</description>
+      <pubDate>Sat, 05 Sep 2026 14:42:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-a11a2f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《七声》是香港作家葛亮的一部短篇小说集，以少年毛果的视角，写了七个普通人的故事——外祖父母、街坊成洪才、做泥人的尹师傅、底层女工阿霞、香港老人威廉等。他们走在生活的边缘，看上去微不足道，却在烟火缭绕的日子里，活出了一种让人动容的坚韧。本书不写大时代，只写被时代裹挟的普通人；不写传奇，只写真实的悲喜。葛亮用干净的笔触，把那些正在消失的声音、即将被遗忘的人，替我们留了下来。这本书提醒我们：每一个平凡的人，都值得被认真写一次。</itunes:summary>
+      <itunes:duration>00:34:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-a11a2f.mp3" length="32969901" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
