@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 16:44:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 16:57:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18837,6 +18837,17 @@
       <itunes:duration>00:25:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-c61b94.mp3" length="24620973" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《三国名将：一个历史学家的排行榜》 · 完整版 · 三国名将：一个历史学家的排行榜 · 完整讲读</title>
+      <description>《三国名将：一个历史学家的排行榜》是四川大学教授方北辰在央视百家讲坛三国名将系列讲座的整理增订本。作者以三十余年魏晋南北朝史研究功底，坚持以《三国志》《后汉书》《资治通鉴》等正史为准绳，系统破解《三国演义》留下的种种误读。全书按吴、蜀、魏三国排序，评介十一位三国名将：周瑜、吕蒙、陆逊、朱然、陆抗、诸葛亮、关羽、张飞、赵云、马超、曹操、司马懿、邓艾、张辽、许褚，逐一还原其真实人品、战功与人性复杂面。本书不是戏说三国，而是正本清源；它让我们看到的，不是脸谱化的英雄，而是有血有肉的真实人物。</description>
+      <pubDate>Sat, 05 Sep 2026 16:57:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-174008</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《三国名将：一个历史学家的排行榜》是四川大学教授方北辰在央视百家讲坛三国名将系列讲座的整理增订本。作者以三十余年魏晋南北朝史研究功底，坚持以《三国志》《后汉书》《资治通鉴》等正史为准绳，系统破解《三国演义》留下的种种误读。全书按吴、蜀、魏三国排序，评介十一位三国名将：周瑜、吕蒙、陆逊、朱然、陆抗、诸葛亮、关羽、张飞、赵云、马超、曹操、司马懿、邓艾、张辽、许褚，逐一还原其真实人品、战功与人性复杂面。本书不是戏说三国，而是正本清源；它让我们看到的，不是脸谱化的英雄，而是有血有肉的真实人物。</itunes:summary>
+      <itunes:duration>00:40:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-174008.mp3" length="38463021" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
