@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 14:04:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 14:10:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18485,6 +18485,17 @@
       <itunes:duration>00:26:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-e89809.mp3" length="25107885" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一切皆有价》 · 完整版 · 一切皆有价-（美）爱德华多·波特 · 完整讲读</title>
+      <description>一本从经济学视角重新审视日常生活的通俗读物。作者爱德华多·波特提出&apos;一切皆有价&apos;的核心命题：世间万物——无论是商品、生命、幸福、婚姻，还是信仰、未来——都存在或显或隐的价格。通过大量故事与数据，揭示价格如何塑造人类行为，挑战&apos;人是理性的&apos;这一经济学假设，并探讨当价格失灵时（如同投机性泡沫）社会付出的代价。</description>
+      <pubDate>Sat, 05 Sep 2026 14:10:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-2e87c3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一本从经济学视角重新审视日常生活的通俗读物。作者爱德华多·波特提出&apos;一切皆有价&apos;的核心命题：世间万物——无论是商品、生命、幸福、婚姻，还是信仰、未来——都存在或显或隐的价格。通过大量故事与数据，揭示价格如何塑造人类行为，挑战&apos;人是理性的&apos;这一经济学假设，并探讨当价格失灵时（如同投机性泡沫）社会付出的代价。</itunes:summary>
+      <itunes:duration>00:36:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-2e87c3.mp3" length="35356077" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
