@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 15:51:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 16:07:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18749,6 +18749,17 @@
       <itunes:duration>00:25:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-0548f8.mp3" length="24003117" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一样的海》 · 完整版 · 一样的海 · 完整讲读</title>
+      <description>《一样的海》是以色列诺贝尔文学奖热门人选阿摩司·奥兹最具实验性的长篇代表作。小说以碎片化短章节交织多重视角，讲述了会计师阿尔伯特·达农失去妻子后，与远赴西藏的儿子里科、多年老友贝婷之间跨越以色列、西藏、斯里兰卡、孟加拉的情感纠葛。作品深入探讨失去与记忆、跨地域的人际联系、爱与孤独的永恒交织，以细腻且富有音乐性的文字，引导读者在海浪的节奏中聆听自己的心跳，完成一次寻找自我的心灵之旅。</description>
+      <pubDate>Sat, 05 Sep 2026 16:07:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-6f2e92</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一样的海》是以色列诺贝尔文学奖热门人选阿摩司·奥兹最具实验性的长篇代表作。小说以碎片化短章节交织多重视角，讲述了会计师阿尔伯特·达农失去妻子后，与远赴西藏的儿子里科、多年老友贝婷之间跨越以色列、西藏、斯里兰卡、孟加拉的情感纠葛。作品深入探讨失去与记忆、跨地域的人际联系、爱与孤独的永恒交织，以细腻且富有音乐性的文字，引导读者在海浪的节奏中聆听自己的心跳，完成一次寻找自我的心灵之旅。</itunes:summary>
+      <itunes:duration>00:20:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-6f2e92.mp3" length="19463469" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
