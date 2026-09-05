@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 04 Sep 2026 17:54:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 13:26:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18386,6 +18386,17 @@
       <itunes:duration>00:28:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260904/episode-20260904-eda668.mp3" length="27139245" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《30年后，你拿什么养活自己？2》 · 完整版 · 30年后，你拿什么养活自己？2(1) · 完整讲读</title>
+      <description>《三十年后，你拿什么养活自己？二》是韩国顶级理财规划师高得诚的实战版理财书，用崔小天、宋嘉成、罗富东、吴俊飞、陶志海五个普通工薪族的真实故事，拆解了中产家庭最普遍的财务困局：被负债追着跑、把自住房当投资、把铁饭碗当终身饭票、信宿命不储蓄、把股市当赌场。全书核心是三件事——先清零负债、再用七三法则锁住预算、最后用三大资产（保障资产、退休资产、投资资产）搭建财务安全网。作者最震撼的结论是：每月一千块，三十年复利变成六百万；晚十年开始，损失四百五十万。本书不讲暴富神话，只讲一个普通人如何用正确的金钱观和时间复利，一辈子不缺钱。</description>
+      <pubDate>Sat, 05 Sep 2026 13:26:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-f9a2b4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《三十年后，你拿什么养活自己？二》是韩国顶级理财规划师高得诚的实战版理财书，用崔小天、宋嘉成、罗富东、吴俊飞、陶志海五个普通工薪族的真实故事，拆解了中产家庭最普遍的财务困局：被负债追着跑、把自住房当投资、把铁饭碗当终身饭票、信宿命不储蓄、把股市当赌场。全书核心是三件事——先清零负债、再用七三法则锁住预算、最后用三大资产（保障资产、退休资产、投资资产）搭建财务安全网。作者最震撼的结论是：每月一千块，三十年复利变成六百万；晚十年开始，损失四百五十万。本书不讲暴富神话，只讲一个普通人如何用正确的金钱观和时间复利，一辈子不缺钱。</itunes:summary>
+      <itunes:duration>00:32:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-f9a2b4.mp3" length="31597485" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
