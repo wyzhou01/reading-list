@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 14:57:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:04:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18606,6 +18606,17 @@
       <itunes:duration>00:26:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-65e8f1.mp3" length="25689261" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《万物停止生长时》 · 完整版 · 万物停止生长时_赵志明 · 完整讲读</title>
+      <description>《万物停止生长时》是江苏溧阳作家赵志明的短篇小说代表作，二零一五年由上海文艺出版社出版，收录十一篇以苏南乡村为背景的短篇。从《渔夫和酒鬼的故事》到代后记《到别桥去》，全书以一个正在消失的江南乡村为底色，写猎人淹死、少年钓团鱼、采桑迷路、归乡寻父等旧事，呈现九十年代末至两千年初中国乡村在政策、人口与生活方式剧变下的缓慢凋零。作家蒋一谈在序言中称赵志明为&quot;了不起的说书人&quot;，认为他以现代简约的冷静笔法，延续金宇澄式的传统叙事。这本书既是对一代人乡村记忆的文学定格，也是对每一个漂泊者发出的回乡之问——所谓故乡，从来不是地理意义上的坐标，而是与生养者之间那根还没断的线。</description>
+      <pubDate>Sat, 05 Sep 2026 15:04:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-a779bf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《万物停止生长时》是江苏溧阳作家赵志明的短篇小说代表作，二零一五年由上海文艺出版社出版，收录十一篇以苏南乡村为背景的短篇。从《渔夫和酒鬼的故事》到代后记《到别桥去》，全书以一个正在消失的江南乡村为底色，写猎人淹死、少年钓团鱼、采桑迷路、归乡寻父等旧事，呈现九十年代末至两千年初中国乡村在政策、人口与生活方式剧变下的缓慢凋零。作家蒋一谈在序言中称赵志明为&quot;了不起的说书人&quot;，认为他以现代简约的冷静笔法，延续金宇澄式的传统叙事。这本书既是对一代人乡村记忆的文学定格，也是对每一个漂泊者发出的回乡之问——所谓故乡，从来不是地理意义上的坐标，而是与生养者之间那根还没断的线。</itunes:summary>
+      <itunes:duration>00:41:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-a779bf.mp3" length="39996717" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
