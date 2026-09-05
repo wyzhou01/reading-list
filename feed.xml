@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 18:18:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 18:25:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19004,6 +19004,17 @@
       <itunes:duration>00:23:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-cc574b.mp3" length="22572717" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《不成问题的问题》 · 完整版 · 不成问题的问题 · 完整讲读</title>
+      <description>老舍五部中短篇代表作,聚焦中国式敷衍与认真办事的撕裂。《不成问题的问题》写会做人的农场主任拖垮一座农场;《断魂枪》写老拳师把绝活带进棺材也不肯传人;《月牙儿》写暗娼母女两代逃不出的命;《我这一辈子》写老巡警饿死也不肯丢掉最后一寸体面。五篇小说拼成中国人精神肖像:头是丁务源,脖子是秦妙斋,脊梁是尤大兴,手是沙子龙,脚是那个站了一辈子的老巡警。一本写给每一代中国人的镜子——照出不成问题的问题,照出体面如何被一点点拆掉。</description>
+      <pubDate>Sat, 05 Sep 2026 18:25:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-eb05fa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>老舍五部中短篇代表作,聚焦中国式敷衍与认真办事的撕裂。《不成问题的问题》写会做人的农场主任拖垮一座农场;《断魂枪》写老拳师把绝活带进棺材也不肯传人;《月牙儿》写暗娼母女两代逃不出的命;《我这一辈子》写老巡警饿死也不肯丢掉最后一寸体面。五篇小说拼成中国人精神肖像:头是丁务源,脖子是秦妙斋,脊梁是尤大兴,手是沙子龙,脚是那个站了一辈子的老巡警。一本写给每一代中国人的镜子——照出不成问题的问题,照出体面如何被一点点拆掉。</itunes:summary>
+      <itunes:duration>00:28:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-eb05fa.mp3" length="26908845" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
