@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 16:17:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 16:26:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18782,6 +18782,17 @@
       <itunes:duration>00:33:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-ca2021.mp3" length="31906221" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一生里的某一刻》 · 完整版 · 一生里的某一刻 - 张春 · 完整讲读</title>
+      <description>《一生里的某一刻》是张春在厦门曾厝垵开冰淇淋店&quot;晴天见&quot;期间写下的散文集。书里没有大人物、大事件，只有一只来做窝的燕子、一盆被水泥土害死的花、一个切柠檬切成三公分厚的酒保、一个洗苋菜洗出尊严的女孩。张春用笨拙、温柔、近乎琐碎的笔触，写普通人之间不期而至的善意，写一家不赚钱的小店如何成为很多人的客厅，写消失在旧家具和奖牌里的家人，也写她对苦难、幸福、孤独这些命题的私人回答：苦难没有价值，幸福不是目的地，而是一阵下午三点吹进窗来的白白的风。</description>
+      <pubDate>Sat, 05 Sep 2026 16:26:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-6ee3d1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一生里的某一刻》是张春在厦门曾厝垵开冰淇淋店&quot;晴天见&quot;期间写下的散文集。书里没有大人物、大事件，只有一只来做窝的燕子、一盆被水泥土害死的花、一个切柠檬切成三公分厚的酒保、一个洗苋菜洗出尊严的女孩。张春用笨拙、温柔、近乎琐碎的笔触，写普通人之间不期而至的善意，写一家不赚钱的小店如何成为很多人的客厅，写消失在旧家具和奖牌里的家人，也写她对苦难、幸福、孤独这些命题的私人回答：苦难没有价值，幸福不是目的地，而是一阵下午三点吹进窗来的白白的风。</itunes:summary>
+      <itunes:duration>00:27:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-6ee3d1.mp3" length="26756397" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
