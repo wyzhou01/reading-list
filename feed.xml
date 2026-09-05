@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 15:22:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:22:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18661,6 +18661,17 @@
       <itunes:duration>00:29:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-28f76c.mp3" length="28699437" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一本小小的红色写作书》 · 完整版 · 一本小小的红色写作书 · 完整讲读</title>
+      <description>《一本小小的红色写作书》把实用写作拆成结构、风格、可读性三大支柱，浓缩成二十条放之四海而皆准的原则。结构上强调自上而下、先说结论再用转折词串起骨架；风格上主张用具体例证和个性化故事支撑观点，并通过砍长句、删废词、多用动词让表达更干净有力；可读性上则提醒作者善用排版、标题和修改，让读者用最少力气抓住最多信息。全书以&quot;写作即服务读者&quot;为底层逻辑，既适合学生备考，也适合职场人写邮件和报告。读完之后，你会意识到，写作能力的提升，不靠天赋，靠的是把对读者的尊重，转化为每一次动笔时下意识的选择。</description>
+      <pubDate>Sat, 05 Sep 2026 15:22:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-99b5a8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一本小小的红色写作书》把实用写作拆成结构、风格、可读性三大支柱，浓缩成二十条放之四海而皆准的原则。结构上强调自上而下、先说结论再用转折词串起骨架；风格上主张用具体例证和个性化故事支撑观点，并通过砍长句、删废词、多用动词让表达更干净有力；可读性上则提醒作者善用排版、标题和修改，让读者用最少力气抓住最多信息。全书以&quot;写作即服务读者&quot;为底层逻辑，既适合学生备考，也适合职场人写邮件和报告。读完之后，你会意识到，写作能力的提升，不靠天赋，靠的是把对读者的尊重，转化为每一次动笔时下意识的选择。</itunes:summary>
+      <itunes:duration>00:28:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-99b5a8.mp3" length="27838125" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
