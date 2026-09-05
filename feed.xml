@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 15:04:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:04:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18617,6 +18617,17 @@
       <itunes:duration>00:41:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-a779bf.mp3" length="39996717" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一念，半生》 · 完整版 · 一念，半生 · 完整讲读</title>
+      <description>《一念，半生》收录陈麒凌二十个短篇，写普通人在爱情、婚姻、欲望与责任之间的选择：一支雾中的笛、一盆迟到的兰花、一副失而复得的球拍，都可能牵动半生。小说不只书写错过与重逢，也追问执念和深情的区别。人物并非完美，他们软弱、自私、胆怯，却也在贫困、战争与琐碎生活里承担情义。陈麒凌以朴素而有力量的文字提醒我们：一念未必直接决定一生，真正塑造命运的，是此后每一次凝视、等待与克制。</description>
+      <pubDate>Sat, 05 Sep 2026 15:04:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-f4c652</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一念，半生》收录陈麒凌二十个短篇，写普通人在爱情、婚姻、欲望与责任之间的选择：一支雾中的笛、一盆迟到的兰花、一副失而复得的球拍，都可能牵动半生。小说不只书写错过与重逢，也追问执念和深情的区别。人物并非完美，他们软弱、自私、胆怯，却也在贫困、战争与琐碎生活里承担情义。陈麒凌以朴素而有力量的文字提醒我们：一念未必直接决定一生，真正塑造命运的，是此后每一次凝视、等待与克制。</itunes:summary>
+      <itunes:duration>00:28:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-f4c652.mp3" length="27191469" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
