@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 16:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 16:38:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18815,6 +18815,17 @@
       <itunes:duration>00:21:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-d60238.mp3" length="20847789" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《三千佛塔烟云下：东南亚五国文化纪行》 · 完整版 · 三千佛塔烟云下：东南亚五国文化纪行 · 完整讲读</title>
+      <description>《三千佛塔烟云下：东南亚五国文化纪行》是一部以遗址为坐标的中南半岛两千年史诗。作者独行五国七十处遗迹，从泰国佛统的寺庙门口印度神像与中国神祇的奇妙相遇切入，追溯了印度教、上座部佛教与大乘佛教在半岛的层叠，扶南、真腊、高棉、占婆、缅人、泰人王朝的兴衰更替，以及英法殖民与民族国家建构的双重遗产。全书以「印度支那」一词为线索，揭示了越南的「小中华」、缅甸的「中央帝国翻版」与泰国的「稳定剂」三种现代性路径，为理解一带一路背景下的中国与东盟关系提供了深层钥匙。</description>
+      <pubDate>Sat, 05 Sep 2026 16:38:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-bf41c8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《三千佛塔烟云下：东南亚五国文化纪行》是一部以遗址为坐标的中南半岛两千年史诗。作者独行五国七十处遗迹，从泰国佛统的寺庙门口印度神像与中国神祇的奇妙相遇切入，追溯了印度教、上座部佛教与大乘佛教在半岛的层叠，扶南、真腊、高棉、占婆、缅人、泰人王朝的兴衰更替，以及英法殖民与民族国家建构的双重遗产。全书以「印度支那」一词为线索，揭示了越南的「小中华」、缅甸的「中央帝国翻版」与泰国的「稳定剂」三种现代性路径，为理解一带一路背景下的中国与东盟关系提供了深层钥匙。</itunes:summary>
+      <itunes:duration>00:30:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-bf41c8.mp3" length="29018157" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
