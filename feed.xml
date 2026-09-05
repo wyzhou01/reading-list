@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 15:14:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:22:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18650,6 +18650,17 @@
       <itunes:duration>00:31:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-042573.mp3" length="30006189" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《万物的签名》 · 完整版 · 万物的签名 · 完整讲读</title>
+      <description>《万物的签名》是伊丽莎白·吉尔伯特蛰伏六年写出的史诗长篇，跨越整个十九世纪。主角阿尔玛·惠特克，生于一八零零年，是费城郊外白亩庄园的植物学家，终身未婚，沉迷于研究最古老、最卑微的苔藓。她远赴南太平洋塔希提，与达尔文通信，与神秘同行华莱士相遇。她用一整个世纪的孤独，回答人类关于时间、自然、爱与存在的全部疑问。这本书被视作&quot;女性版的《百年孤独》&quot;，把女性智识生活的可能性，放进男性主导的科学时代里照亮。它告诉我们：人生不必是征服，可以是扎根；不必被所有人记住，只需被一棵树、一本书、一个人，认认真真接住过——那就够了。</description>
+      <pubDate>Sat, 05 Sep 2026 15:22:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-28f76c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《万物的签名》是伊丽莎白·吉尔伯特蛰伏六年写出的史诗长篇，跨越整个十九世纪。主角阿尔玛·惠特克，生于一八零零年，是费城郊外白亩庄园的植物学家，终身未婚，沉迷于研究最古老、最卑微的苔藓。她远赴南太平洋塔希提，与达尔文通信，与神秘同行华莱士相遇。她用一整个世纪的孤独，回答人类关于时间、自然、爱与存在的全部疑问。这本书被视作&quot;女性版的《百年孤独》&quot;，把女性智识生活的可能性，放进男性主导的科学时代里照亮。它告诉我们：人生不必是征服，可以是扎根；不必被所有人记住，只需被一棵树、一本书、一个人，认认真真接住过——那就够了。</itunes:summary>
+      <itunes:duration>00:29:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-28f76c.mp3" length="28699437" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
