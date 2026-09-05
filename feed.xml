@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 13:49:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 13:57:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18452,6 +18452,17 @@
       <itunes:duration>00:43:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-c204d8.mp3" length="42049197" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一遍老爷》 · 完整版 · 一遍老爷 · 完整讲读</title>
+      <description>《一遍老爷》是日本作家朱川人的短篇怪谈集，收录七个发生在山间、海岸与小镇的故事。朱川湊人把日本传统怪谈与少年视角结合，写童年纯真与死亡阴影的交织。小学生骑车进山求神，十一岁女孩被活埋成山神。温柔比尖叫更让人背脊发凉——因为他写的，是那些被大人世界吞掉的孩子，连做鬼，都只能做一个温柔的鬼。</description>
+      <pubDate>Sat, 05 Sep 2026 13:56:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-1e83a0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一遍老爷》是日本作家朱川人的短篇怪谈集，收录七个发生在山间、海岸与小镇的故事。朱川湊人把日本传统怪谈与少年视角结合，写童年纯真与死亡阴影的交织。小学生骑车进山求神，十一岁女孩被活埋成山神。温柔比尖叫更让人背脊发凉——因为他写的，是那些被大人世界吞掉的孩子，连做鬼，都只能做一个温柔的鬼。</itunes:summary>
+      <itunes:duration>00:25:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-1e83a0.mp3" length="24323757" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
