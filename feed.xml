@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 15:27:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:29:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18683,6 +18683,17 @@
       <itunes:duration>00:23:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-17b061.mp3" length="22252461" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一本最危险的书》 · 完整版 · 一本最危险的书 · 完整讲读</title>
+      <description>本书讲述了罗马史家塔西佗《日耳曼尼亚志》这本二十来页的古典小册子，如何在文艺复兴后被德意志知识分子反复误读、不断神化，从一部警示罗马腐败的修辞学作品，演变为德意志民族的精神圣经，最终在纳粹第三帝国被奉为&apos;日耳曼圣经&apos;，成为种族主义与侵略战争的思想源头。克里布斯以古典学者身份还原了这部作品被发掘、翻译、注疏、神话化并最终走向毁灭的两千年危险旅程。</description>
+      <pubDate>Sat, 05 Sep 2026 15:29:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-c56f6d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书讲述了罗马史家塔西佗《日耳曼尼亚志》这本二十来页的古典小册子，如何在文艺复兴后被德意志知识分子反复误读、不断神化，从一部警示罗马腐败的修辞学作品，演变为德意志民族的精神圣经，最终在纳粹第三帝国被奉为&apos;日耳曼圣经&apos;，成为种族主义与侵略战争的思想源头。克里布斯以古典学者身份还原了这部作品被发掘、翻译、注疏、神话化并最终走向毁灭的两千年危险旅程。</itunes:summary>
+      <itunes:duration>00:24:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-c56f6d.mp3" length="23058861" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
