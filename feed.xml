@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 17:20:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 17:29:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18881,6 +18881,17 @@
       <itunes:duration>00:31:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-9e86f7.mp3" length="30199725" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《美学（第二卷）》 · 完整版 · 美学(第2卷)_(汉译世界学术名著丛书)_-_黑格尔 · 完整讲读</title>
+      <description>本期《好好读书》一口气读完黑格尔《美学》第二卷。黑格尔用辩证法和历史哲学，把全世界的艺术史浓缩进象征型、古典型、浪漫型三大阶段：象征型艺术是意义在形象里迷路，古典型艺术在希腊达到意义与形象的完美契合，浪漫型艺术则因基督教带来的内在主体性原则，让精神溢出形象，最终走向解体。黑格尔的结论——艺术让位于哲学和宗教——在一百八十年后的今天，正在被摄影、电影、数字艺术的崛起以另一种方式验证。重读此书，我们不仅是在理解黑格尔，更是在借助他的眼睛，重新审视艺术与人类精神的关系。</description>
+      <pubDate>Sat, 05 Sep 2026 17:29:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-1c3b66</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期《好好读书》一口气读完黑格尔《美学》第二卷。黑格尔用辩证法和历史哲学，把全世界的艺术史浓缩进象征型、古典型、浪漫型三大阶段：象征型艺术是意义在形象里迷路，古典型艺术在希腊达到意义与形象的完美契合，浪漫型艺术则因基督教带来的内在主体性原则，让精神溢出形象，最终走向解体。黑格尔的结论——艺术让位于哲学和宗教——在一百八十年后的今天，正在被摄影、电影、数字艺术的崛起以另一种方式验证。重读此书，我们不仅是在理解黑格尔，更是在借助他的眼睛，重新审视艺术与人类精神的关系。</itunes:summary>
+      <itunes:duration>00:25:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-1c3b66.mp3" length="24028077" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
