@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 14:26:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 14:30:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18529,6 +18529,17 @@
       <itunes:duration>00:28:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-20d8f3.mp3" length="27216429" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《七个被绞死的人》 · 完整版 · 七个被绞死的人 · 完整讲读</title>
+      <description>《七个被绞死的人》是俄国白银时代作家安德烈耶夫的短篇小说集，收录了十一篇极具震撼力的作品。本书以近乎残忍的冷峻笔触，刻画了沙皇统治末期底层人在暴力、压迫、绝望与死亡中的窒息：有在复活节夜里相遇的警察与小偷，有永远陷入战争噩梦的士兵，有被侮辱却无处可逃的家庭，有临刑前写下告白的囚徒，也有讲述自己如何长出毒牙的蛇。安德烈耶夫不提供安慰，也不给出救赎，只是把人类最深的孤独与黑暗摆在读者面前。一百多年过去，这本书写下的个体困境，至今仍在我们身边回响。</description>
+      <pubDate>Sat, 05 Sep 2026 14:30:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-b5b6f1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《七个被绞死的人》是俄国白银时代作家安德烈耶夫的短篇小说集，收录了十一篇极具震撼力的作品。本书以近乎残忍的冷峻笔触，刻画了沙皇统治末期底层人在暴力、压迫、绝望与死亡中的窒息：有在复活节夜里相遇的警察与小偷，有永远陷入战争噩梦的士兵，有被侮辱却无处可逃的家庭，有临刑前写下告白的囚徒，也有讲述自己如何长出毒牙的蛇。安德烈耶夫不提供安慰，也不给出救赎，只是把人类最深的孤独与黑暗摆在读者面前。一百多年过去，这本书写下的个体困境，至今仍在我们身边回响。</itunes:summary>
+      <itunes:duration>00:27:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-b5b6f1.mp3" length="26214573" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
