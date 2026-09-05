@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 15:29:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:36:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18694,6 +18694,17 @@
       <itunes:duration>00:24:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-c56f6d.mp3" length="23058861" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《万能管家吉夫斯（共5册）》 · 完整版 · 万能管家吉夫斯（共5册） · 完整讲读</title>
+      <description>《万能管家吉夫斯》是英国作家 P.G.伍德豪斯五部早期故事的合集，主角是富家少爷伍斯特和他的全能管家吉夫斯。伍斯特成天闯祸，不是被姑妈训斥，就是被朋友拖进荒唐的恋爱与官司；吉夫斯永远慢条斯理，一杯茶、一句话就把所有烂摊子收拾干净。整套书以英式幽默的对话节奏和误会套误会的闹剧结构，写出了二十世纪两次大战之间英国上流社会的最后余晖。它不挖苦、不讽刺、不脏字，仅凭人物的得体与默契，让人在乱世里笑出声来。一百年过去了，吉夫斯告诉全世界读者：只要脑子清醒、态度得体，再大的麻烦，也能优雅地化解。</description>
+      <pubDate>Sat, 05 Sep 2026 15:35:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-86ddc3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《万能管家吉夫斯》是英国作家 P.G.伍德豪斯五部早期故事的合集，主角是富家少爷伍斯特和他的全能管家吉夫斯。伍斯特成天闯祸，不是被姑妈训斥，就是被朋友拖进荒唐的恋爱与官司；吉夫斯永远慢条斯理，一杯茶、一句话就把所有烂摊子收拾干净。整套书以英式幽默的对话节奏和误会套误会的闹剧结构，写出了二十世纪两次大战之间英国上流社会的最后余晖。它不挖苦、不讽刺、不脏字，仅凭人物的得体与默契，让人在乱世里笑出声来。一百年过去了，吉夫斯告诉全世界读者：只要脑子清醒、态度得体，再大的麻烦，也能优雅地化解。</itunes:summary>
+      <itunes:duration>00:32:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-86ddc3.mp3" length="31206573" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
