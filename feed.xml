@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 15:44:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:45:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18727,6 +18727,17 @@
       <itunes:duration>00:28:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-8aac58.mp3" length="27573549" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一株柳树的自白》 · 完整版 · 一株柳树的自白 · 完整讲读</title>
+      <description>《一株柳树的自白》是残雪近十年的短篇小说精选集。残雪是中国当代先锋文学的代表人物，她坚信文学的本质是一种灵魂的操练。这本书收录的故事大多发生在与死亡接壤的神秘地带：乌鸦山的地牢、沙漠深处的地下通道、教师村的花园、医院边缘的玫瑰花坛。在这些故事里，孩子在快要倒塌的空楼里探险，退休教师在邻居的气功气场里迷失，柳树在沙漠中开口说话。残雪通过这些奇异的场景，反复追问同一个问题：灵魂能不能突破身体的边界？沟通能不能在陌生人之间发生？人能不能像一株会说话的柳树那样，拥有同时属于土地和天空的感知？残雪认为，人可以像这样活在艺术当中——活在艺术里，意味着你的身体既是你的，又不完全是你的；它向异界敞开。这本书是写给那些愿意让自己的灵魂被唤醒的人的，也是一份关于如何在精神废弃的时代继续关心灵魂生活的勇气示范。</description>
+      <pubDate>Sat, 05 Sep 2026 15:45:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-5fdb57</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一株柳树的自白》是残雪近十年的短篇小说精选集。残雪是中国当代先锋文学的代表人物，她坚信文学的本质是一种灵魂的操练。这本书收录的故事大多发生在与死亡接壤的神秘地带：乌鸦山的地牢、沙漠深处的地下通道、教师村的花园、医院边缘的玫瑰花坛。在这些故事里，孩子在快要倒塌的空楼里探险，退休教师在邻居的气功气场里迷失，柳树在沙漠中开口说话。残雪通过这些奇异的场景，反复追问同一个问题：灵魂能不能突破身体的边界？沟通能不能在陌生人之间发生？人能不能像一株会说话的柳树那样，拥有同时属于土地和天空的感知？残雪认为，人可以像这样活在艺术当中——活在艺术里，意味着你的身体既是你的，又不完全是你的；它向异界敞开。这本书是写给那些愿意让自己的灵魂被唤醒的人的，也是一份关于如何在精神废弃的时代继续关心灵魂生活的勇气示范。</itunes:summary>
+      <itunes:duration>00:26:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-5fdb57.mp3" length="25736877" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
