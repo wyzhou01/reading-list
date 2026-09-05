@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 13:26:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 13:28:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18397,6 +18397,17 @@
       <itunes:duration>00:32:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-f9a2b4.mp3" length="31597485" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一眼看懂小孩子》 · 完整版 · 一眼看懂小孩子 · 完整讲读</title>
+      <description>《一眼看懂小孩子》系统解析了零到六岁孩子的心理发育过程，将弗洛伊德的幼儿心理发展阶段理论用通俗语言重新讲述。全书围绕口唇期、便便期、生殖器期三大阶段展开，揭示了婴儿吃手的进化意义、两岁孩子说&quot;不&quot;的心理动因、三岁孩子性好奇的社会功能。本书认为爱心需要建立在知识基础之上，父母应理解孩子行为背后的心理机制，而非仅凭本能育儿。书中通过大量真实案例，展示了游戏、想象力和家庭三角关系在孩子性格形成中的关键作用，为父母提供了一套完整的理解孩子的框架。</description>
+      <pubDate>Sat, 05 Sep 2026 13:28:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-78ecc7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一眼看懂小孩子》系统解析了零到六岁孩子的心理发育过程，将弗洛伊德的幼儿心理发展阶段理论用通俗语言重新讲述。全书围绕口唇期、便便期、生殖器期三大阶段展开，揭示了婴儿吃手的进化意义、两岁孩子说&quot;不&quot;的心理动因、三岁孩子性好奇的社会功能。本书认为爱心需要建立在知识基础之上，父母应理解孩子行为背后的心理机制，而非仅凭本能育儿。书中通过大量真实案例，展示了游戏、想象力和家庭三角关系在孩子性格形成中的关键作用，为父母提供了一套完整的理解孩子的框架。</itunes:summary>
+      <itunes:duration>00:28:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-78ecc7.mp3" length="27695661" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
