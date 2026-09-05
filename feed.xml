@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 15:36:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:37:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18705,6 +18705,17 @@
       <itunes:duration>00:32:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-86ddc3.mp3" length="31206573" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一本有趣又有料的科学书》 · 完整版 · 一本有趣又有料的科学书 · 完整讲读</title>
+      <description>《一本有趣又有料的科学书》是大象公会出品的科普问答集，收录五十多篇关于宇宙、地球、生物、人体、社会风俗的冷知识文章。本书用问答形式拆解日常好奇背后的科学脉络，融合天文学、生物学、医学、进化论等多学科视角，涵盖从“一天到底有多长“到“男人为什么长乳头“等看似简单却暗藏深意的问题。每篇文章不止给出结论，更铺开来龙去脉、学科背景与最新研究证据，让冷知识真正变得有用。本期解读带你用九十分钟穿越这本书，看懂日常现象背后的几亿年博弈。</description>
+      <pubDate>Sat, 05 Sep 2026 15:37:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-d71b55</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一本有趣又有料的科学书》是大象公会出品的科普问答集，收录五十多篇关于宇宙、地球、生物、人体、社会风俗的冷知识文章。本书用问答形式拆解日常好奇背后的科学脉络，融合天文学、生物学、医学、进化论等多学科视角，涵盖从“一天到底有多长“到“男人为什么长乳头“等看似简单却暗藏深意的问题。每篇文章不止给出结论，更铺开来龙去脉、学科背景与最新研究证据，让冷知识真正变得有用。本期解读带你用九十分钟穿越这本书，看懂日常现象背后的几亿年博弈。</itunes:summary>
+      <itunes:duration>00:22:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-d71b55.mp3" length="22057389" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
