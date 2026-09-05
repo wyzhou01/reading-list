@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 16:38:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 16:44:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18826,6 +18826,17 @@
       <itunes:duration>00:30:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-bf41c8.mp3" length="29018157" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《三国全史》 · 完整版 · 三国全史 · 完整讲读</title>
+      <description>《三国全史》是作家南门太守耗费二十余年遍查正史,以公元一百四十六年至二百六十五年共一百二十年时间线重写三国的皇皇巨著。它纠正了关羽温酒斩华雄、赤壁决战、草船借箭等被《三国演义》和民间传说广泛误读的经典故事,还原曹操、刘备、孙权、诸葛亮等核心人物的真正面貌与历史抉择,并从司马氏代魏的视角重新审视&quot;三国归晋&quot;的真相。本书不仅是三国爱好者的必读,更示范了一种回到原始史料、按时间线重排、比照不同来源的读史方法,提醒我们在任何时代都应警惕&quot;记错、神化、垄断&quot;三种认知偏见。</description>
+      <pubDate>Sat, 05 Sep 2026 16:44:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-c61b94</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《三国全史》是作家南门太守耗费二十余年遍查正史,以公元一百四十六年至二百六十五年共一百二十年时间线重写三国的皇皇巨著。它纠正了关羽温酒斩华雄、赤壁决战、草船借箭等被《三国演义》和民间传说广泛误读的经典故事,还原曹操、刘备、孙权、诸葛亮等核心人物的真正面貌与历史抉择,并从司马氏代魏的视角重新审视&quot;三国归晋&quot;的真相。本书不仅是三国爱好者的必读,更示范了一种回到原始史料、按时间线重排、比照不同来源的读史方法,提醒我们在任何时代都应警惕&quot;记错、神化、垄断&quot;三种认知偏见。</itunes:summary>
+      <itunes:duration>00:25:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-c61b94.mp3" length="24620973" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
