@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 15:37:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 15:44:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -18716,6 +18716,17 @@
       <itunes:duration>00:22:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-d71b55.mp3" length="22057389" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《三个胡安在海边》 · 完整版 · 三个胡安在海边 · 完整讲读</title>
+      <description>《三个胡安在海边》是青年作家郑宸的纪实小说，以三个大洲之间的离散与重逢为线索，写嘉兴车行会计黎成的留守、北京画家吕伟与专栏作家何光的远行、古巴人胡安与中国朋友京昌的跨越太平洋友谊。郑宸不评判留守与远行的高下，只把普通人念给自己的那句话摊在桌上。黎成念了一辈子我这辈子算是困在这里了，吕伟念的是到下一站再说，胡安念的是在中国学会的四个字：随他去吧。这本书最温柔的一刀，是那张黎成始终没敢收下的画，和那架被孩子们爬出归属感的马车。</description>
+      <pubDate>Sat, 05 Sep 2026 15:44:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260905-episode-20260905-8aac58</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《三个胡安在海边》是青年作家郑宸的纪实小说，以三个大洲之间的离散与重逢为线索，写嘉兴车行会计黎成的留守、北京画家吕伟与专栏作家何光的远行、古巴人胡安与中国朋友京昌的跨越太平洋友谊。郑宸不评判留守与远行的高下，只把普通人念给自己的那句话摊在桌上。黎成念了一辈子我这辈子算是困在这里了，吕伟念的是到下一站再说，胡安念的是在中国学会的四个字：随他去吧。这本书最温柔的一刀，是那张黎成始终没敢收下的画，和那架被孩子们爬出归属感的马车。</itunes:summary>
+      <itunes:duration>00:28:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-8aac58.mp3" length="27573549" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
