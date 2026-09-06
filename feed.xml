@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 06 Sep 2026 17:55:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 18:01:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19125,6 +19125,17 @@
       <itunes:duration>00:28:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260906/episode-20260906-2d28d4.mp3" length="27033261" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《阿咪》 · 完整版 · 阿咪 · 完整讲读</title>
+      <description>本书是丰子恺写猫的小品文集，以深情幽默的笔触记录家中几只爱猫——白象、贪污的猫们、黄猫&quot;猫伯伯&quot;，以及最后登场的阿咪。通过猫的趣事、闹剧与陪伴，展现猫如何化岑寂为热闹、变枯燥为生趣、转懊恼为欢笑，于日常琐碎中体悟人间温情与生命哲思。</description>
+      <pubDate>Sun, 06 Sep 2026 18:01:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260906-episode-20260906-ff1912</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是丰子恺写猫的小品文集，以深情幽默的笔触记录家中几只爱猫——白象、贪污的猫们、黄猫&quot;猫伯伯&quot;，以及最后登场的阿咪。通过猫的趣事、闹剧与陪伴，展现猫如何化岑寂为热闹、变枯燥为生趣、转懊恼为欢笑，于日常琐碎中体悟人间温情与生命哲思。</itunes:summary>
+      <itunes:duration>00:26:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260906/episode-20260906-ff1912.mp3" length="25205037" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
