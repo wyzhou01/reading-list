@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 06 Sep 2026 18:01:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 18:10:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19136,6 +19136,17 @@
       <itunes:duration>00:26:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260906/episode-20260906-ff1912.mp3" length="25205037" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《以读攻读》 · 完整版 · 以读攻读(1) · 完整讲读</title>
+      <description>《以读攻读》是南京大学英语系教授但汉松三十篇文学随笔的结集，示范了何为强力阅读：把重读当作真正的阅读，把文本细读当作攻城拔寨。书中以品钦、罗斯、德里罗、菲茨杰拉德、门罗、李安、杨德昌、安德森等中外大师为战场，借J.希利斯·米勒重读《八月之光》六十年的故事立论，把学院派的文本阐释与公众读者的阅读经验架桥，论证好的阅读没有中间态——它要么发生，要么不发生。在速食阅读的时代，这本书是为深度阅读振臂的一剂清醒药。</description>
+      <pubDate>Sun, 06 Sep 2026 18:10:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260906-episode-20260906-9e690d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《以读攻读》是南京大学英语系教授但汉松三十篇文学随笔的结集，示范了何为强力阅读：把重读当作真正的阅读，把文本细读当作攻城拔寨。书中以品钦、罗斯、德里罗、菲茨杰拉德、门罗、李安、杨德昌、安德森等中外大师为战场，借J.希利斯·米勒重读《八月之光》六十年的故事立论，把学院派的文本阐释与公众读者的阅读经验架桥，论证好的阅读没有中间态——它要么发生，要么不发生。在速食阅读的时代，这本书是为深度阅读振臂的一剂清醒药。</itunes:summary>
+      <itunes:duration>00:31:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260906/episode-20260906-9e690d.mp3" length="30140589" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
