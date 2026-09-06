@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 06 Sep 2026 17:41:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 17:47:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19103,6 +19103,17 @@
       <itunes:duration>00:27:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260906/episode-20260906-56e267.mp3" length="26116269" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《民俗与迷信》 · 完整版 · 大家小书：民俗与迷信（精） · 完整讲读</title>
+      <description>《民俗与迷信》是我国现代民俗学奠基人江绍原一九二六至一九三一年间发表的迷信礼俗小品精选。他用诙谐幽默的小品笔法，研究姓名、性爱、传言、医药等五个主题里的民间迷信。本书的核心主张是：迷信不是笑话，而是中国人日常生活里一层看不见的文化底色；破除迷信，光靠&quot;正确&quot;是不够的，还要回答它为什么&quot;舒服&quot;。读这本书，你会一边笑一边恍然大悟——原来那些你以为早就破除的迷信，至今还藏在生活的每个角落。</description>
+      <pubDate>Sun, 06 Sep 2026 17:47:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260906-episode-20260906-f92612</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《民俗与迷信》是我国现代民俗学奠基人江绍原一九二六至一九三一年间发表的迷信礼俗小品精选。他用诙谐幽默的小品笔法，研究姓名、性爱、传言、医药等五个主题里的民间迷信。本书的核心主张是：迷信不是笑话，而是中国人日常生活里一层看不见的文化底色；破除迷信，光靠&quot;正确&quot;是不够的，还要回答它为什么&quot;舒服&quot;。读这本书，你会一边笑一边恍然大悟——原来那些你以为早就破除的迷信，至今还藏在生活的每个角落。</itunes:summary>
+      <itunes:duration>00:28:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260906/episode-20260906-f92612.mp3" length="27025581" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
