@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 06 Sep 2026 17:32:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 17:41:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19092,6 +19092,17 @@
       <itunes:duration>00:23:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260906/episode-20260906-643771.mp3" length="22177965" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《思想之镜：知识分子与苏联政治变迁（1936—1991）》 · 完整版 · 思想之镜 · 完整讲读</title>
+      <description>《思想之镜》由北京师范大学俄国史专家张建华所著，时间跨度一九三六到一九九一年，是其前作《苏联知识分子群体转型研究（一九一七至一九三六年）》的姊妹篇。本书以思想史与政治史交织的方法，从苏联文化管理体制、书报检查制度、人文社科体系、敌人形象建构、外部观察者、持不同政见者运动和索尔仁尼琴的批判等七条线索，系统呈现了苏联知识分子如何从斯大林宣称的&quot;全新苏维埃知识分子&quot;，一步步走向体制的对立面，并最终成为帝国瓦解的精神先驱。</description>
+      <pubDate>Sun, 06 Sep 2026 17:41:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260906-episode-20260906-56e267</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《思想之镜》由北京师范大学俄国史专家张建华所著，时间跨度一九三六到一九九一年，是其前作《苏联知识分子群体转型研究（一九一七至一九三六年）》的姊妹篇。本书以思想史与政治史交织的方法，从苏联文化管理体制、书报检查制度、人文社科体系、敌人形象建构、外部观察者、持不同政见者运动和索尔仁尼琴的批判等七条线索，系统呈现了苏联知识分子如何从斯大林宣称的&quot;全新苏维埃知识分子&quot;，一步步走向体制的对立面，并最终成为帝国瓦解的精神先驱。</itunes:summary>
+      <itunes:duration>00:27:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260906/episode-20260906-56e267.mp3" length="26116269" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
