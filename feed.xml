@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 06 Sep 2026 18:10:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 18:26:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19147,6 +19147,17 @@
       <itunes:duration>00:31:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260906/episode-20260906-9e690d.mp3" length="30140589" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《甲子3：中国60年民生记录》 · 完整版 · 甲子3：中国60年民生记录 · 完整讲读</title>
+      <description>《甲子3：中国60年民生记录》以1945-1995年六十年为时间轴，选取每十二年一轮的酉、戌、亥三年作为切片，从饮食、居住、休闲、精神追求四个维度，以微观叙事记录中国民生变迁。全书涉及延安保育院的儿童饮食、花冈矿山的劳工苦难、重庆下水道的卫生危机、798艺术区的空间转型、甲A联赛的足球狂热、潘家园的收藏热潮等丰富细节，通过普通人的日常生活，展现国家经济腾飞、社会转型与文化消费兴起的时代脉络，是理解共和国六十年民生史的重要读物。</description>
+      <pubDate>Sun, 06 Sep 2026 18:26:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260906-episode-20260906-ef4167</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《甲子3：中国60年民生记录》以1945-1995年六十年为时间轴，选取每十二年一轮的酉、戌、亥三年作为切片，从饮食、居住、休闲、精神追求四个维度，以微观叙事记录中国民生变迁。全书涉及延安保育院的儿童饮食、花冈矿山的劳工苦难、重庆下水道的卫生危机、798艺术区的空间转型、甲A联赛的足球狂热、潘家园的收藏热潮等丰富细节，通过普通人的日常生活，展现国家经济腾飞、社会转型与文化消费兴起的时代脉络，是理解共和国六十年民生史的重要读物。</itunes:summary>
+      <itunes:duration>00:21:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260906/episode-20260906-ef4167.mp3" length="20991405" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
