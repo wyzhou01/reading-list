@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 06 Sep 2026 17:47:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 17:55:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19114,6 +19114,17 @@
       <itunes:duration>00:28:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260906/episode-20260906-f92612.mp3" length="27025581" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《告别霸权！——全球体系中的权力与影响力》 · 完整版 · 告别霸权! · 完整讲读</title>
+      <description>《告别霸权！》由美国学者西蒙·赖克与理查德·内德·勒博合著。本书打破国际关系学界长期把物质能力等同于权力、把权力等同于影响力的思维定式，提出霸权应被解构为议程设置、经济监管、安全赞助三种职能，并论证这三种职能实际由欧洲、中国、美国分别承担。后冷战时期并不存在真正意义上的霸权国，全球秩序的稳定来自不同主体的分工协作，理解这一点比争论“谁是霸权”更为重要。</description>
+      <pubDate>Sun, 06 Sep 2026 17:55:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260906-episode-20260906-2d28d4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《告别霸权！》由美国学者西蒙·赖克与理查德·内德·勒博合著。本书打破国际关系学界长期把物质能力等同于权力、把权力等同于影响力的思维定式，提出霸权应被解构为议程设置、经济监管、安全赞助三种职能，并论证这三种职能实际由欧洲、中国、美国分别承担。后冷战时期并不存在真正意义上的霸权国，全球秩序的稳定来自不同主体的分工协作，理解这一点比争论“谁是霸权”更为重要。</itunes:summary>
+      <itunes:duration>00:28:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260906/episode-20260906-2d28d4.mp3" length="27033261" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
