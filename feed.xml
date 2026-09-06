@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 06 Sep 2026 17:18:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 17:25:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19070,6 +19070,17 @@
       <itunes:duration>00:23:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260906/episode-20260906-84ce4b.mp3" length="22725549" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《哈佛百年经典（第11卷）：科学论文集》 · 完整版 · 哈佛百年经典第28卷：穆勒文集_卡莱尔文集 · 完整讲读</title>
+      <description>《哈佛百年经典第二十八卷》收录了十九世纪英国思想光谱上两位最具代表性的声音：功利主义哲学家约翰·斯图尔特·穆勒与浪漫主义先驱托马斯·卡莱尔。穆勒以冷静精密的理性主义，为个人自由和最大多数人的幸福写下辩护词，他的《自传》坦承天才教育的代价，《论思想和讨论的自由》则为现代自由主义奠基了不可逾越的伤害原则。卡莱尔则以炽热悲壮的呼喊，控诉工业时代的精神贫乏，他的《爱丁堡就职演说》和《沃尔特·斯科特先生》昭示了一种对伟大人格的崇敬和对劳动异化的洞见。把这两位思想巨擘并置阅读，正是为了回答同一个时代之问：当古老信仰崩塌、机器轰鸣取代了钟声，普通人该如何安放灵魂？一个社会又该如何容纳异见、保留自由？本书不仅是维多利亚时代的精神肖像，更是每一个技术飞跃与精神焦虑并存的时代都必须重读的思想遗嘱。</description>
+      <pubDate>Fri, 04 Sep 2026 17:54:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260906-episode-20260906-eda668</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《哈佛百年经典第二十八卷》收录了十九世纪英国思想光谱上两位最具代表性的声音：功利主义哲学家约翰·斯图尔特·穆勒与浪漫主义先驱托马斯·卡莱尔。穆勒以冷静精密的理性主义，为个人自由和最大多数人的幸福写下辩护词，他的《自传》坦承天才教育的代价，《论思想和讨论的自由》则为现代自由主义奠基了不可逾越的伤害原则。卡莱尔则以炽热悲壮的呼喊，控诉工业时代的精神贫乏，他的《爱丁堡就职演说》和《沃尔特·斯科特先生》昭示了一种对伟大人格的崇敬和对劳动异化的洞见。把这两位思想巨擘并置阅读，正是为了回答同一个时代之问：当古老信仰崩塌、机器轰鸣取代了钟声，普通人该如何安放灵魂？一个社会又该如何容纳异见、保留自由？本书不仅是维多利亚时代的精神肖像，更是每一个技术飞跃与精神焦虑并存的时代都必须重读的思想遗嘱。</itunes:summary>
+      <itunes:duration>00:28:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260906/episode-20260906-eda668.mp3" length="27139245" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
