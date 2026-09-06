@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 05 Sep 2026 18:52:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 17:18:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19059,6 +19059,17 @@
       <itunes:duration>00:38:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260905/episode-20260905-b8c2ea.mp3" length="36727725" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《街头巷尾：十九世纪中国人的市井生活》 · 完整版 · 街头巷尾 · 完整讲读</title>
+      <description>《街头巷尾：十九世纪中国人的市井生活》以清代外销画为载体，分行业生计、民风民俗、玩物杂耍三卷，记录了三百六十行、上百种底层营生。本书不仅是摄影术发明前的中国风物长卷，更通过图像史料的方式，把目光投向宫廷朝堂之外的小手艺人、小商小贩，为温饱而逞一时之技的普通人。它揭示了一个没有政府兜底、却靠手艺、信用、互助、节令运转了上百年的市井生态，为理解近代中国社会提供了独特的视觉入口。</description>
+      <pubDate>Sun, 06 Sep 2026 17:17:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260906-episode-20260906-84ce4b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《街头巷尾：十九世纪中国人的市井生活》以清代外销画为载体，分行业生计、民风民俗、玩物杂耍三卷，记录了三百六十行、上百种底层营生。本书不仅是摄影术发明前的中国风物长卷，更通过图像史料的方式，把目光投向宫廷朝堂之外的小手艺人、小商小贩，为温饱而逞一时之技的普通人。它揭示了一个没有政府兜底、却靠手艺、信用、互助、节令运转了上百年的市井生态，为理解近代中国社会提供了独特的视觉入口。</itunes:summary>
+      <itunes:duration>00:23:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260906/episode-20260906-84ce4b.mp3" length="22725549" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
