@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 06 Sep 2026 17:25:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 17:32:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19081,6 +19081,17 @@
       <itunes:duration>00:28:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260906/episode-20260906-eda668.mp3" length="27139245" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《你不可不知的人性（全二册）》 · 完整版 · 你不可不知的人性（全二册） · 完整讲读</title>
+      <description>《你不可不知的人性》是刘墉处世学的代表作，以二十一个真实故事为底，剖开人性中善与恶如何同时存在。从职场投机、婚恋算计，到家庭伦理、临终探望，每一个故事都像手术刀切到人性的深处。但作者的目的不是教人变冷，而是让人在了解之后生出谅解——了解人性，不是为了算计，是为了在认清丑恶之后，依然愿意向前。</description>
+      <pubDate>Sun, 06 Sep 2026 17:32:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260906-episode-20260906-643771</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《你不可不知的人性》是刘墉处世学的代表作，以二十一个真实故事为底，剖开人性中善与恶如何同时存在。从职场投机、婚恋算计，到家庭伦理、临终探望，每一个故事都像手术刀切到人性的深处。但作者的目的不是教人变冷，而是让人在了解之后生出谅解——了解人性，不是为了算计，是为了在认清丑恶之后，依然愿意向前。</itunes:summary>
+      <itunes:duration>00:23:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260906/episode-20260906-643771.mp3" length="22177965" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
