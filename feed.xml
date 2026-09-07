@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 06 Sep 2026 18:26:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 17:16:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19158,6 +19158,17 @@
       <itunes:duration>00:21:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260906/episode-20260906-ef4167.mp3" length="20991405" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《拿什么拯救中国经济？》 · 完整版 · 拿什么拯救中国经济？ · 完整讲读</title>
+      <description>叶檀以2007年为切入点，回顾改革开放30年来的市场化进程，剖析2008年金融危机后中国经济暴露的深层病兆：央企低效膨胀、国进民退、资本与房地产市场的政策化扭曲、金融机构贱卖、外资超国民待遇等。她主张以对内开放、重建法治化的市场制度作为唯一出路，反对政府过度介入微观经济，强调内生的市场化力量才是中国未来增长的根基。</description>
+      <pubDate>Mon, 07 Sep 2026 17:15:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260907-episode-20260907-e00053</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>叶檀以2007年为切入点，回顾改革开放30年来的市场化进程，剖析2008年金融危机后中国经济暴露的深层病兆：央企低效膨胀、国进民退、资本与房地产市场的政策化扭曲、金融机构贱卖、外资超国民待遇等。她主张以对内开放、重建法治化的市场制度作为唯一出路，反对政府过度介入微观经济，强调内生的市场化力量才是中国未来增长的根基。</itunes:summary>
+      <itunes:duration>00:29:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260907/episode-20260907-e00053.mp3" length="28618797" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
