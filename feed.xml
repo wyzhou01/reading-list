@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 07 Sep 2026 17:16:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 17:16:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19169,6 +19169,17 @@
       <itunes:duration>00:29:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260907/episode-20260907-e00053.mp3" length="28618797" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《爱琴海三部曲1：雅典娜的承诺》 · 完整版 · 爱琴海三部曲1：雅典娜的承诺 · 完整讲读</title>
+      <description>《爱琴海三部曲一：雅典娜的承诺》讲述了半神女孩帕拉斯在僵尸镇郊外经营汽车旅馆的日常。她一边应付美杜莎、人鱼、狼人等神话生物客人的鸡飞狗跳，一边应对神界棋局的暗中角力。当雅典娜亲自现身，提醒她履行多年前许下的承诺时，帕拉斯必须在弟子身份与自我意志之间做出抉择。本书用黑色幽默包裹古老命题，探讨承诺的束缚、权威的规训，以及凡人在神界博弈中如何保留属于自己的清醒。</description>
+      <pubDate>Mon, 07 Sep 2026 17:16:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260907-episode-20260907-64a4af</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《爱琴海三部曲一：雅典娜的承诺》讲述了半神女孩帕拉斯在僵尸镇郊外经营汽车旅馆的日常。她一边应付美杜莎、人鱼、狼人等神话生物客人的鸡飞狗跳，一边应对神界棋局的暗中角力。当雅典娜亲自现身，提醒她履行多年前许下的承诺时，帕拉斯必须在弟子身份与自我意志之间做出抉择。本书用黑色幽默包裹古老命题，探讨承诺的束缚、权威的规训，以及凡人在神界博弈中如何保留属于自己的清醒。</itunes:summary>
+      <itunes:duration>00:26:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260907/episode-20260907-64a4af.mp3" length="25273005" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
