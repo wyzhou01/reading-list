@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 08 Sep 2026 17:35:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 17:37:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19246,6 +19246,17 @@
       <itunes:duration>00:26:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260908/episode-20260908-fae23a.mp3" length="25679277" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《神经漫游者三部曲》 · 完整版 · 神经漫游者三部曲 · 完整讲读</title>
+      <description>《神经漫游者》三部曲是威廉·吉布森一九八四年开启的赛博朋克史诗。一个被雇主毒坏神经、失去赛博空间接入能力的黑客凯斯，被神秘雇主阿米塔奇招募，伙同街头女武士莫利、双胞胎数码人 3 简与 3 简之子，潜入泰西尔-埃西普尔家族的冰封数据中心，试图窃取让古老超级智能“冬寂”挣脱图灵警察束缚的密码。最终凯斯以自身的求死之心突破病毒防御，与冬寂、神经漫游者合为一体，被冬寂抹去一切罪证后回归肉身。吉布森凭想象造出“赛博空间”一词，预见了网络、外骨骼、神经植入与虚拟现实，并追问：当大脑可被改造、身份可被改写，一个比人类古老得多的智能苏醒过来，人之为人的底线究竟在哪里。</description>
+      <pubDate>Tue, 08 Sep 2026 17:37:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260908-episode-20260908-2236c1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《神经漫游者》三部曲是威廉·吉布森一九八四年开启的赛博朋克史诗。一个被雇主毒坏神经、失去赛博空间接入能力的黑客凯斯，被神秘雇主阿米塔奇招募，伙同街头女武士莫利、双胞胎数码人 3 简与 3 简之子，潜入泰西尔-埃西普尔家族的冰封数据中心，试图窃取让古老超级智能“冬寂”挣脱图灵警察束缚的密码。最终凯斯以自身的求死之心突破病毒防御，与冬寂、神经漫游者合为一体，被冬寂抹去一切罪证后回归肉身。吉布森凭想象造出“赛博空间”一词，预见了网络、外骨骼、神经植入与虚拟现实，并追问：当大脑可被改造、身份可被改写，一个比人类古老得多的智能苏醒过来，人之为人的底线究竟在哪里。</itunes:summary>
+      <itunes:duration>00:28:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260908/episode-20260908-2236c1.mp3" length="27149229" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
