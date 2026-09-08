@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 08 Sep 2026 17:21:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 17:28:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19213,6 +19213,17 @@
       <itunes:duration>00:27:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260908/episode-20260908-409931.mp3" length="25939629" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大河湾》 · 完整版 · 大河湾 · 完整讲读</title>
+      <description>《大河湾》是奈保尔写于一九七九年的后殖民寓言。主角萨林姆是东海岸的印度裔商人，深入非洲腹地接手一间杂货店，亲眼看着小镇从废墟中复活，又看着一个叫&quot;大人物&quot;的独裁者降临，把希望变成新的恐惧。最终他失去一切，只剩下一条路——逃。这本书不讲&quot;非洲如何&quot;，它讲的是一个失根的人如何被历史碾过：殖民留下的不只是物质的废墟，更是叙事的破产；&quot;大人物&quot;的崛起，本质是骗子填补真空；所谓&quot;回归本原&quot;的暴力，最终消灭的，是普通人在世界上本应拥有的位置。奈保尔不提供答案，他只让一个普通人睁着眼睛，顺流而下——这是他在历史洪流里，唯一留给我们的东西。</description>
+      <pubDate>Tue, 08 Sep 2026 17:28:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260908-episode-20260908-422f8a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大河湾》是奈保尔写于一九七九年的后殖民寓言。主角萨林姆是东海岸的印度裔商人，深入非洲腹地接手一间杂货店，亲眼看着小镇从废墟中复活，又看着一个叫&quot;大人物&quot;的独裁者降临，把希望变成新的恐惧。最终他失去一切，只剩下一条路——逃。这本书不讲&quot;非洲如何&quot;，它讲的是一个失根的人如何被历史碾过：殖民留下的不只是物质的废墟，更是叙事的破产；&quot;大人物&quot;的崛起，本质是骗子填补真空；所谓&quot;回归本原&quot;的暴力，最终消灭的，是普通人在世界上本应拥有的位置。奈保尔不提供答案，他只让一个普通人睁着眼睛，顺流而下——这是他在历史洪流里，唯一留给我们的东西。</itunes:summary>
+      <itunes:duration>00:37:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260908/episode-20260908-422f8a.mp3" length="36064557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
