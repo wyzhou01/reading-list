@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 08 Sep 2026 17:20:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 17:21:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19202,6 +19202,17 @@
       <itunes:duration>00:25:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260908/episode-20260908-02dbf9.mp3" length="24609837" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《花与树的人文之旅》 · 完整版 · 花与树的人文之旅_(自然感悟丛书) · 完整讲读</title>
+      <description>《花与树的人文之旅》是一本用审美眼光阅读植物的博物文化读物，作者周文翰以旅行者和观察者的身份，从向日葵、松、芭蕉、菩提树等四十余种中外植物切入，把科学知识、历史考据、艺术史、宗教神话巧妙编织在一起。它告诉我们：植物从来不是沉默的背景，而是人类精神史最生动的注脚——同一株松树在罗马、中国、日本被想象成三种完全不同的文化存在，向日葵从美洲原产到梵高画布再到全球榨油作物，经历了五百年的环球旅行。这本书最珍贵的，是它能帮我们换一双眼睛，重新打量窗前那株芭蕉、案头那朵百合、路上那棵老银杏，让每一株熟悉的植物重新变得陌生而辽阔。</description>
+      <pubDate>Tue, 08 Sep 2026 17:21:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260908-episode-20260908-409931</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《花与树的人文之旅》是一本用审美眼光阅读植物的博物文化读物，作者周文翰以旅行者和观察者的身份，从向日葵、松、芭蕉、菩提树等四十余种中外植物切入，把科学知识、历史考据、艺术史、宗教神话巧妙编织在一起。它告诉我们：植物从来不是沉默的背景，而是人类精神史最生动的注脚——同一株松树在罗马、中国、日本被想象成三种完全不同的文化存在，向日葵从美洲原产到梵高画布再到全球榨油作物，经历了五百年的环球旅行。这本书最珍贵的，是它能帮我们换一双眼睛，重新打量窗前那株芭蕉、案头那朵百合、路上那棵老银杏，让每一株熟悉的植物重新变得陌生而辽阔。</itunes:summary>
+      <itunes:duration>00:27:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260908/episode-20260908-409931.mp3" length="25939629" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
