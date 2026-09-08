@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 08 Sep 2026 17:43:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 17:48:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19268,6 +19268,17 @@
       <itunes:duration>00:30:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260908/episode-20260908-8f97f6.mp3" length="29043117" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《记忆，历史，遗忘》 · 完整版 · 记忆，历史，遗忘 · 完整讲读</title>
+      <description>《记忆，历史，遗忘》是法国哲学家保罗·利科晚年的封笔之作。它以现象学为起点，依次拆解了个人记忆、集体记忆、历史书写、遗忘机制与公正记忆的政治学，最终在&quot;艰难的宽恕&quot;中收束。利科指出，记忆的本质是使用而非储存，遗忘不是记忆的敌人而是其延伸，历史学家提供的是关于过去的&quot;表象&quot;而非过去本身。全书落点在于：在承认伤疤的同时拒绝沉溺于仇恨，既不放弃对真实过去的信念，又诚实承认我们永远只能以表象的方式接近它。这是当代人面对历史重负时最需要的一份清醒。</description>
+      <pubDate>Tue, 08 Sep 2026 17:48:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260908-episode-20260908-81a415</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《记忆，历史，遗忘》是法国哲学家保罗·利科晚年的封笔之作。它以现象学为起点，依次拆解了个人记忆、集体记忆、历史书写、遗忘机制与公正记忆的政治学，最终在&quot;艰难的宽恕&quot;中收束。利科指出，记忆的本质是使用而非储存，遗忘不是记忆的敌人而是其延伸，历史学家提供的是关于过去的&quot;表象&quot;而非过去本身。全书落点在于：在承认伤疤的同时拒绝沉溺于仇恨，既不放弃对真实过去的信念，又诚实承认我们永远只能以表象的方式接近它。这是当代人面对历史重负时最需要的一份清醒。</itunes:summary>
+      <itunes:duration>00:30:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260908/episode-20260908-81a415.mp3" length="29512365" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
