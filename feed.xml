@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 07 Sep 2026 17:16:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 17:13:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19180,6 +19180,17 @@
       <itunes:duration>00:26:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260907/episode-20260907-64a4af.mp3" length="25273005" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《趋势戒律：超额收益交易策略》 · 完整版 · 趋势戒律 · 完整讲读</title>
+      <description>《趋势戒律》是迈克尔·柯弗走访全球顶尖趋势跟踪交易者十五年后的心血之作。它系统拆解了趋势跟踪的交易哲学：放弃对市场的预测，承认价格就是事实，通过严格遵循既定系统和资金管理纪律——尤其是单笔交易风险控制在百分之二以内——在看似随机的市场中实现长期正收益。柯弗用大量真实案例与数据，从约翰·亨利击败巴林银行的传奇，到大卫·哈丁、路易斯·培根等低调亿万富翁的崛起，全方位批判了&apos;买入并持有&apos;、基本面信仰、市场预测等传统投资理念的致命缺陷。这本书不讲玄学，不讲模型，只讲实战中真正能让人穿越牛熊、持续盈利的纪律与人性智慧。</description>
+      <pubDate>Tue, 08 Sep 2026 17:13:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260908-episode-20260908-3e3d6d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《趋势戒律》是迈克尔·柯弗走访全球顶尖趋势跟踪交易者十五年后的心血之作。它系统拆解了趋势跟踪的交易哲学：放弃对市场的预测，承认价格就是事实，通过严格遵循既定系统和资金管理纪律——尤其是单笔交易风险控制在百分之二以内——在看似随机的市场中实现长期正收益。柯弗用大量真实案例与数据，从约翰·亨利击败巴林银行的传奇，到大卫·哈丁、路易斯·培根等低调亿万富翁的崛起，全方位批判了&apos;买入并持有&apos;、基本面信仰、市场预测等传统投资理念的致命缺陷。这本书不讲玄学，不讲模型，只讲实战中真正能让人穿越牛熊、持续盈利的纪律与人性智慧。</itunes:summary>
+      <itunes:duration>00:26:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260908/episode-20260908-3e3d6d.mp3" length="25548333" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
