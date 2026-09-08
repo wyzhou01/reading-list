@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 08 Sep 2026 17:29:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 17:35:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19235,6 +19235,17 @@
       <itunes:duration>00:29:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260908/episode-20260908-51afbf.mp3" length="28113837" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《希腊三部曲Ⅲ：众神的花园》 · 完整版 · 希腊三部曲Ⅲ_众神的花园_(湛庐文化心视界)_-_Gerald_Durrell · 完整讲读</title>
+      <description>《众神的花园》是英国博物学家杰拉尔德·达雷尔 &quot;希腊三部曲&quot; 的终篇，写于一九七八年，记录了十岁的小杰瑞二战前夕在地中海科孚岛的最后一段童年时光。在家人的宠爱与希腊老师西奥多的引导下，他骑着驴子、带着狗，穿过橄榄林追逐秃鹰，在废墟里邂逅鼬鼠与睡鼠宝宝，也学会了在鼬鼠面前承认自己的渺小，在妈妈的笑脸里读懂一个家的坚韧。这部作品诞生于达雷尔第一次婚姻破裂之后，字里行间多了一抹温柔的阴影，却让整座童年花园显得更加立体。三十多年后，那个蹲在蜘蛛前的孩子，已经创办了泽西动物园，训练出七百名 &quot;达雷尔军团&quot; 士兵，守护着全人类 &quot;没有声音、没有投票权的大多数&quot;。</description>
+      <pubDate>Tue, 08 Sep 2026 17:34:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260908-episode-20260908-fae23a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《众神的花园》是英国博物学家杰拉尔德·达雷尔 &quot;希腊三部曲&quot; 的终篇，写于一九七八年，记录了十岁的小杰瑞二战前夕在地中海科孚岛的最后一段童年时光。在家人的宠爱与希腊老师西奥多的引导下，他骑着驴子、带着狗，穿过橄榄林追逐秃鹰，在废墟里邂逅鼬鼠与睡鼠宝宝，也学会了在鼬鼠面前承认自己的渺小，在妈妈的笑脸里读懂一个家的坚韧。这部作品诞生于达雷尔第一次婚姻破裂之后，字里行间多了一抹温柔的阴影，却让整座童年花园显得更加立体。三十多年后，那个蹲在蜘蛛前的孩子，已经创办了泽西动物园，训练出七百名 &quot;达雷尔军团&quot; 士兵，守护着全人类 &quot;没有声音、没有投票权的大多数&quot;。</itunes:summary>
+      <itunes:duration>00:26:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260908/episode-20260908-fae23a.mp3" length="25679277" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
