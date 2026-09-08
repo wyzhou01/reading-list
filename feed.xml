@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 08 Sep 2026 17:37:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 17:43:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19257,6 +19257,17 @@
       <itunes:duration>00:28:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260908/episode-20260908-2236c1.mp3" length="27149229" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《病隙碎笔（修订版）》 · 完整版 · 病隙碎笔(修订版) · 完整讲读</title>
+      <description>《病隙碎笔》是史铁生在轮椅上三十余年、于透析机旁写就的随笔集，是一位肉身极度受限之人的灵魂独白。全书以约伯式信心为起点，反复叩问苦难、命运、神明、爱愿与规则——追问爱愿为何高于人间律法，警惕价值相对主义的陷阱，并最终在&quot;寻找即找到&quot;中给出了自己的回答：意义不是被捡到的礼物，而是走出来的路。史铁生用他个人的受难，为这一代尚且健全却同样迷茫的灵魂，提供了一份诚实而深邃的回应。</description>
+      <pubDate>Tue, 08 Sep 2026 17:43:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260908-episode-20260908-8f97f6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《病隙碎笔》是史铁生在轮椅上三十余年、于透析机旁写就的随笔集，是一位肉身极度受限之人的灵魂独白。全书以约伯式信心为起点，反复叩问苦难、命运、神明、爱愿与规则——追问爱愿为何高于人间律法，警惕价值相对主义的陷阱，并最终在&quot;寻找即找到&quot;中给出了自己的回答：意义不是被捡到的礼物，而是走出来的路。史铁生用他个人的受难，为这一代尚且健全却同样迷茫的灵魂，提供了一份诚实而深邃的回应。</itunes:summary>
+      <itunes:duration>00:30:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260908/episode-20260908-8f97f6.mp3" length="29043117" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
