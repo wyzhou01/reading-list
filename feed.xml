@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 08 Sep 2026 17:28:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 17:29:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19224,6 +19224,17 @@
       <itunes:duration>00:37:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260908/episode-20260908-422f8a.mp3" length="36064557" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《二度梅》 · 完整版 · 二度梅(简体版)_(BookDNA中国古典丛书) · 完整讲读</title>
+      <description>《二度梅》是清代惜阴堂主人所著的传统公案言情小说，共四十回，成书于清代中后期。故事发生在唐代肃宗年间，清官梅魁在山东历城任上因弹劾奸相卢杞而遭陷害，全家遭难。夫人邱氏携儿子梅良玉回乡躲避，梅魁只身进京。梅良玉流落江湖改名换姓，历经磨难，最终中状元、娶陈杏元与邹云英，并在冯、陈、邱、邹等忠臣同年故交相助下，扳倒卢杞、黄嵩一党奸臣。梅良玉官至宰相，三房夫人诰命封赏，子孙满堂。天子亲临五凤楼赐婚，全书以大团圆收场。本书以忠奸对立为主线，穿插才子佳人的离奇际遇，宣扬因果报应与忠良家风，是中国传统市井百姓喜爱的精神读本。</description>
+      <pubDate>Tue, 08 Sep 2026 17:29:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260908-episode-20260908-51afbf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《二度梅》是清代惜阴堂主人所著的传统公案言情小说，共四十回，成书于清代中后期。故事发生在唐代肃宗年间，清官梅魁在山东历城任上因弹劾奸相卢杞而遭陷害，全家遭难。夫人邱氏携儿子梅良玉回乡躲避，梅魁只身进京。梅良玉流落江湖改名换姓，历经磨难，最终中状元、娶陈杏元与邹云英，并在冯、陈、邱、邹等忠臣同年故交相助下，扳倒卢杞、黄嵩一党奸臣。梅良玉官至宰相，三房夫人诰命封赏，子孙满堂。天子亲临五凤楼赐婚，全书以大团圆收场。本书以忠奸对立为主线，穿插才子佳人的离奇际遇，宣扬因果报应与忠良家风，是中国传统市井百姓喜爱的精神读本。</itunes:summary>
+      <itunes:duration>00:29:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260908/episode-20260908-51afbf.mp3" length="28113837" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
