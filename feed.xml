@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 08 Sep 2026 17:13:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 17:20:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19191,6 +19191,17 @@
       <itunes:duration>00:26:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260908/episode-20260908-3e3d6d.mp3" length="25548333" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《智能机器的未来》 · 完整版 · 智能机器的未来 · 完整讲读</title>
+      <description>麻省理工学院教授戴维·明德尔以深海搜救、民航驾驶舱、无人机地面站、火星探索四个极端环境为切口,系统拆解了关于机器人与自动化的三个流行幻觉——技术会自动从有人走向无人、机器会接管人类工作、完全自主的机器可以独立运行。他用二十五年的一手访谈和工程实践告诉读者,所谓“自主性”是一个被高估的神话,真正改变世界的是“人在哪里、是谁、在做什么、何时出手”。这本书不预言未来,而是提供一种视角:把每个技术产品放回它真实运行的社会网络里,看清人的角色正在被如何悄悄改写。当下生成式人工智能、人形机器人、自动驾驶全面爆发,这本书尤其值得每一个关心技术、关心工作、关心自身在机器时代位置的普通读者打开。</description>
+      <pubDate>Tue, 08 Sep 2026 17:20:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260908-episode-20260908-02dbf9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>麻省理工学院教授戴维·明德尔以深海搜救、民航驾驶舱、无人机地面站、火星探索四个极端环境为切口,系统拆解了关于机器人与自动化的三个流行幻觉——技术会自动从有人走向无人、机器会接管人类工作、完全自主的机器可以独立运行。他用二十五年的一手访谈和工程实践告诉读者,所谓“自主性”是一个被高估的神话,真正改变世界的是“人在哪里、是谁、在做什么、何时出手”。这本书不预言未来,而是提供一种视角:把每个技术产品放回它真实运行的社会网络里,看清人的角色正在被如何悄悄改写。当下生成式人工智能、人形机器人、自动驾驶全面爆发,这本书尤其值得每一个关心技术、关心工作、关心自身在机器时代位置的普通读者打开。</itunes:summary>
+      <itunes:duration>00:25:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260908/episode-20260908-02dbf9.mp3" length="24609837" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
