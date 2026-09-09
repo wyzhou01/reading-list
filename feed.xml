@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 08 Sep 2026 17:48:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 17:17:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19279,6 +19279,17 @@
       <itunes:duration>00:30:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260908/episode-20260908-81a415.mp3" length="29512365" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《白话夜谭随录》 · 完整版 · 白话夜谭随录 · 完整讲读</title>
+      <description>《白话夜谭随录》是清代满洲旗人和邦额所著志怪短篇集，共四卷，收录一百三十余篇狐鬼花妖故事。本书以人情冷暖为骨，以因果轮回为魂，从&quot;崔秀才&quot;般的真朋友稀缺、&quot;梨花&quot;式的身份与本心错位，到&quot;王塾师&quot;炫耀法术引祸、&quot;藕花&quot;作为性别寓言的弱者悲歌，再到阴司判案式的民间公平诉求，层层揭开人性的明暗两面。和邦额用两百年前的笔，照见我们今天依然上演的世态炎凉——朋友翻脸、身份造假、执念难渡、因果不爽。这不是一本迷信之书，而是一把古人看世界的尺，照的是人心。</description>
+      <pubDate>Wed, 09 Sep 2026 17:17:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260909-episode-20260909-4e2192</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《白话夜谭随录》是清代满洲旗人和邦额所著志怪短篇集，共四卷，收录一百三十余篇狐鬼花妖故事。本书以人情冷暖为骨，以因果轮回为魂，从&quot;崔秀才&quot;般的真朋友稀缺、&quot;梨花&quot;式的身份与本心错位，到&quot;王塾师&quot;炫耀法术引祸、&quot;藕花&quot;作为性别寓言的弱者悲歌，再到阴司判案式的民间公平诉求，层层揭开人性的明暗两面。和邦额用两百年前的笔，照见我们今天依然上演的世态炎凉——朋友翻脸、身份造假、执念难渡、因果不爽。这不是一本迷信之书，而是一把古人看世界的尺，照的是人心。</itunes:summary>
+      <itunes:duration>00:29:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260909/episode-20260909-4e2192.mp3" length="28196781" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
