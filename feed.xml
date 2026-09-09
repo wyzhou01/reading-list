@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 09 Sep 2026 17:17:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 17:25:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19290,6 +19290,17 @@
       <itunes:duration>00:29:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260909/episode-20260909-4e2192.mp3" length="28196781" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《遥远的桥：1944市场花园行动》 · 完整版 · 遥远的桥：1944市场花园行动_-_[美]_科尼利厄斯•瑞恩 · 完整讲读</title>
+      <description>本期为你讲读科尼利厄斯·瑞恩的二战经典《遥远的桥》，还原一九四四年九月那场雄心勃勃却惨烈溃败的「市场花园行动」。从荷兰民众误以为战争即将结束的狂热，到空降兵从英格兰起飞却落入错误区域，从弗罗斯特准将在阿纳姆大桥南端的悲壮死守，到德军装甲师从侧翼包抄——瑞恩以战地记者的笔触，将宏大战略压缩进具体的街道、桥梁与人物命运。九天之后，一万名伞兵只剩两千余人撤出。本期追问：一场纸面近乎完美的计划，因何断裂？当最勇敢的想象力，遇上一连串致命的偶然，普通人又将付出怎样的代价？</description>
+      <pubDate>Wed, 09 Sep 2026 17:25:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260909-episode-20260909-dedd30</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期为你讲读科尼利厄斯·瑞恩的二战经典《遥远的桥》，还原一九四四年九月那场雄心勃勃却惨烈溃败的「市场花园行动」。从荷兰民众误以为战争即将结束的狂热，到空降兵从英格兰起飞却落入错误区域，从弗罗斯特准将在阿纳姆大桥南端的悲壮死守，到德军装甲师从侧翼包抄——瑞恩以战地记者的笔触，将宏大战略压缩进具体的街道、桥梁与人物命运。九天之后，一万名伞兵只剩两千余人撤出。本期追问：一场纸面近乎完美的计划，因何断裂？当最勇敢的想象力，遇上一连串致命的偶然，普通人又将付出怎样的代价？</itunes:summary>
+      <itunes:duration>00:32:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260909/episode-20260909-dedd30.mp3" length="31260717" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
