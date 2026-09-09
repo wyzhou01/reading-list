@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 09 Sep 2026 17:25:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 17:32:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19301,6 +19301,17 @@
       <itunes:duration>00:32:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260909/episode-20260909-dedd30.mp3" length="31260717" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《逻辑学讲义》 · 完整版 · 逻辑学讲义_(汉译世界学术名著丛书)_-_康德(Kant.I.) · 完整讲读</title>
+      <description>本书是康德在哥尼斯堡大学讲授逻辑学二十八次的课堂讲义，由其学生耶舍根据讲稿与批注于一八零零年整理出版，并经康德本人审定，是研究康德逻辑思想最权威的版本。康德在传统形式逻辑基础上，确立了逻辑学的真正定位——它不是工具，而是理性自我立法的法规；它不研究对象的内容，只研究思维的形式条件；它从亚里士多德首创以来在科学论证方面无所增益，却作为评判一切思维正确性的形式法庭而不可替代。康德在传统量、质、关系三类判断之外创设模态一类，将可能与不可能、存在与不存在、必然与偶然三对范畴纳入逻辑范畴表，让逻辑学不得不涉及概念的内容实质，从而为从形式逻辑走向先验逻辑打开了大门。此外，康德以正、反、合方式阐述范畴表中每一类的三项，成为后世辩证法思想的重要源头，费希特沿用此公式贯穿体系，黑格尔以基督教三位一体比拟这一结构。这部讲义既是对两千年来形式逻辑传统的系统总结，更是康德哲学体系大厦的地基。</description>
+      <pubDate>Wed, 09 Sep 2026 17:32:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260909-episode-20260909-1def19</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是康德在哥尼斯堡大学讲授逻辑学二十八次的课堂讲义，由其学生耶舍根据讲稿与批注于一八零零年整理出版，并经康德本人审定，是研究康德逻辑思想最权威的版本。康德在传统形式逻辑基础上，确立了逻辑学的真正定位——它不是工具，而是理性自我立法的法规；它不研究对象的内容，只研究思维的形式条件；它从亚里士多德首创以来在科学论证方面无所增益，却作为评判一切思维正确性的形式法庭而不可替代。康德在传统量、质、关系三类判断之外创设模态一类，将可能与不可能、存在与不存在、必然与偶然三对范畴纳入逻辑范畴表，让逻辑学不得不涉及概念的内容实质，从而为从形式逻辑走向先验逻辑打开了大门。此外，康德以正、反、合方式阐述范畴表中每一类的三项，成为后世辩证法思想的重要源头，费希特沿用此公式贯穿体系，黑格尔以基督教三位一体比拟这一结构。这部讲义既是对两千年来形式逻辑传统的系统总结，更是康德哲学体系大厦的地基。</itunes:summary>
+      <itunes:duration>00:31:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260909/episode-20260909-1def19.mp3" length="30356013" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
