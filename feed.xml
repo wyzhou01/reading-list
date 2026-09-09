@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 09 Sep 2026 17:32:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 17:40:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19312,6 +19312,17 @@
       <itunes:duration>00:31:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260909/episode-20260909-1def19.mp3" length="30356013" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《直到孤独尽头》 · 完整版 · 直到孤独尽头 · 完整讲读</title>
+      <description>《直到孤独尽头》是德国作家贝内迪克特·韦尔斯的首部长篇自传体小说，讲述了一个在十七岁失去双亲的男人，如何在成年后面对一段代代相传的家族创伤。小说从二零一四年的病床出发，沿着记忆的暗流倒回一九八〇年代的法国南部、慕尼黑的寄宿学校和汉堡的摄影暗房。一条在河边溺死的小狗、一台从未被打开的徕卡相机、一封用法语写成的陌生来信，这些碎片拼出了一幅关于孤独、失去与沉默的家族肖像。韦尔斯用五个核心洞察回答了一个问题：当一个家族连续几代都在和孤独、失去、沉默打交道，是否还有可能，从这一代开始，走向不一样的结局？本书在德国出版后登上《明镜》畅销榜，入围德国图书奖，是近十年来德语文学中关于创伤代际遗传最重要的作品之一。</description>
+      <pubDate>Wed, 09 Sep 2026 17:40:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260909-episode-20260909-d6c31b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《直到孤独尽头》是德国作家贝内迪克特·韦尔斯的首部长篇自传体小说，讲述了一个在十七岁失去双亲的男人，如何在成年后面对一段代代相传的家族创伤。小说从二零一四年的病床出发，沿着记忆的暗流倒回一九八〇年代的法国南部、慕尼黑的寄宿学校和汉堡的摄影暗房。一条在河边溺死的小狗、一台从未被打开的徕卡相机、一封用法语写成的陌生来信，这些碎片拼出了一幅关于孤独、失去与沉默的家族肖像。韦尔斯用五个核心洞察回答了一个问题：当一个家族连续几代都在和孤独、失去、沉默打交道，是否还有可能，从这一代开始，走向不一样的结局？本书在德国出版后登上《明镜》畅销榜，入围德国图书奖，是近十年来德语文学中关于创伤代际遗传最重要的作品之一。</itunes:summary>
+      <itunes:duration>00:32:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260909/episode-20260909-d6c31b.mp3" length="30925869" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
