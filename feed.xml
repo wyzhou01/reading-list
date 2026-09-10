@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 10 Sep 2026 17:17:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 17:22:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19345,6 +19345,17 @@
       <itunes:duration>00:24:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260910/episode-20260910-48d566.mp3" length="23063469" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《弹“秦“》 · 完整版 · 弹“秦” · 完整讲读</title>
+      <description>《弹秦》是王杉写的一部通俗战国史，以秦国崛起为主线，把从商鞅变法到秦始皇统一天下的百年历史，拆成了四条主线：商鞅变法奠定制度根基，张仪连横打破六国封锁，范雎远交近攻蚕食邻国，吕不韦、李斯、尉缭、王翦完成最后的通天大计。全书用鲜活的人物和连贯的故事，串起了秦孝公、秦惠文王、秦昭襄王、秦始皇四代君主的接棒传承，回答了一个核心问题：秦国为什么能统一天下。答案不是运气，而是一套精密的制度、外交、战略、人才的系统工程，是一代代君主与天才臣子之间的双向成就。这本书让读者看到，在那个剧烈变动的年代，制度的创新、外交的智慧、人才的选择、君臣的默契，是如何汇聚成一股不可阻挡的力量，最终改写了中国历史的走向。</description>
+      <pubDate>Thu, 10 Sep 2026 17:22:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260910-episode-20260910-aa1893</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《弹秦》是王杉写的一部通俗战国史，以秦国崛起为主线，把从商鞅变法到秦始皇统一天下的百年历史，拆成了四条主线：商鞅变法奠定制度根基，张仪连横打破六国封锁，范雎远交近攻蚕食邻国，吕不韦、李斯、尉缭、王翦完成最后的通天大计。全书用鲜活的人物和连贯的故事，串起了秦孝公、秦惠文王、秦昭襄王、秦始皇四代君主的接棒传承，回答了一个核心问题：秦国为什么能统一天下。答案不是运气，而是一套精密的制度、外交、战略、人才的系统工程，是一代代君主与天才臣子之间的双向成就。这本书让读者看到，在那个剧烈变动的年代，制度的创新、外交的智慧、人才的选择、君臣的默契，是如何汇聚成一股不可阻挡的力量，最终改写了中国历史的走向。</itunes:summary>
+      <itunes:duration>00:29:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260910/episode-20260910-aa1893.mp3" length="28134573" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
