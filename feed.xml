@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 09 Sep 2026 17:40:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 17:16:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19323,6 +19323,17 @@
       <itunes:duration>00:32:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260909/episode-20260909-d6c31b.mp3" length="30925869" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《清朝野史大观》 · 完整版 · 清朝野史大观（全三册） · 完整讲读</title>
+      <description>《清朝野史大观》是清末民初学者小横香室主人编纂的清代史料长编，分十二卷、涵盖清宫遗闻、清朝史料、清人逸事、清代述异等主题。本书将正史不便写的宫闱秘闻、科场黑幕、官场潜规则、文字狱、江湖奇人、僧道方术、风物方言一一收录，呈现皇位传承、中枢运作、思想钳制、官场生态、士林风貌、江湖异人六大主线。本期节目带你穿透正史骨架，看清清代近三百年暗线，识别任何庞大系统崩塌前的松动信号。</description>
+      <pubDate>Thu, 10 Sep 2026 17:15:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260910-episode-20260910-2701a6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《清朝野史大观》是清末民初学者小横香室主人编纂的清代史料长编，分十二卷、涵盖清宫遗闻、清朝史料、清人逸事、清代述异等主题。本书将正史不便写的宫闱秘闻、科场黑幕、官场潜规则、文字狱、江湖奇人、僧道方术、风物方言一一收录，呈现皇位传承、中枢运作、思想钳制、官场生态、士林风貌、江湖异人六大主线。本期节目带你穿透正史骨架，看清清代近三百年暗线，识别任何庞大系统崩塌前的松动信号。</itunes:summary>
+      <itunes:duration>00:29:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260910/episode-20260910-2701a6.mp3" length="28569261" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
