@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 10 Sep 2026 17:22:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 17:26:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19356,6 +19356,17 @@
       <itunes:duration>00:29:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260910/episode-20260910-aa1893.mp3" length="28134573" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《重金属污染——土壤不能承受之痛》 · 完整版 · 重金属污染——土壤不能承受之_痛_（中国故事）_-_财新图书 · 完整讲读</title>
+      <description>《重金属污染——土壤不能承受之痛》是财新记者历时数年深入甘肃白银、内蒙古包头、湘江流域的实地调查。三条线索、三种典型污染路径——污水灌溉、尾矿渗漏、有色金属冶炼——最终在餐桌上汇合，镉、砷、铅等重金属沿着&quot;工业—土壤—粮食—人体&quot;的链条，悄无声息地进入中国人饭碗。书中记下骨痛怪病折磨的村民、上访二十年无果的&quot;癌症村&quot;、沉默六年不公开的全国土壤普查数据，以及学者因研究结论而&quot;后怕&quot;的细节。它不只是一本环境调查，更是一份关于信息不透明、立法滞后、地方与企业责任缺位的时代病历——提醒我们：看不见的污染，才是最危险的污染；不喊疼的土地，才是最需要被守护的土地。</description>
+      <pubDate>Thu, 10 Sep 2026 17:26:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260910-episode-20260910-0c1e09</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《重金属污染——土壤不能承受之痛》是财新记者历时数年深入甘肃白银、内蒙古包头、湘江流域的实地调查。三条线索、三种典型污染路径——污水灌溉、尾矿渗漏、有色金属冶炼——最终在餐桌上汇合，镉、砷、铅等重金属沿着&quot;工业—土壤—粮食—人体&quot;的链条，悄无声息地进入中国人饭碗。书中记下骨痛怪病折磨的村民、上访二十年无果的&quot;癌症村&quot;、沉默六年不公开的全国土壤普查数据，以及学者因研究结论而&quot;后怕&quot;的细节。它不只是一本环境调查，更是一份关于信息不透明、立法滞后、地方与企业责任缺位的时代病历——提醒我们：看不见的污染，才是最危险的污染；不喊疼的土地，才是最需要被守护的土地。</itunes:summary>
+      <itunes:duration>00:29:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260910/episode-20260910-0c1e09.mp3" length="28366893" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
