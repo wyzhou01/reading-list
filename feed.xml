@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 10 Sep 2026 17:38:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 17:39:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19400,6 +19400,17 @@
       <itunes:duration>00:30:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260910/episode-20260910-7a53fb.mp3" length="29644461" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《撒旦探戈》 · 完整版 · 撒旦探戈 · 完整讲读</title>
+      <description>《撒旦探戈》是匈牙利作家克拉斯诺霍尔卡伊·拉斯洛的处女作，一九八五年出版，二零一五年获曼布克国际奖。故事发生在被秋雨淹没的匈牙利村庄，十几个人在废墟中等死，骗子伊利米阿什以救世主姿态出现，带领他们跳起死亡之舞，最后被揭露实为撒旦。而躲在暗处的医生用笔记录这一切，自己也成了蛛网上无法挣脱的虫。全书十二个乐章首尾相连，结构如探戈舞步循环往复。它是一本关于希望如何变成陷阱、窥视者如何成为共谋者、人如何在无望中循环往复的后现代巨著。</description>
+      <pubDate>Thu, 10 Sep 2026 17:39:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260910-episode-20260910-142466</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《撒旦探戈》是匈牙利作家克拉斯诺霍尔卡伊·拉斯洛的处女作，一九八五年出版，二零一五年获曼布克国际奖。故事发生在被秋雨淹没的匈牙利村庄，十几个人在废墟中等死，骗子伊利米阿什以救世主姿态出现，带领他们跳起死亡之舞，最后被揭露实为撒旦。而躲在暗处的医生用笔记录这一切，自己也成了蛛网上无法挣脱的虫。全书十二个乐章首尾相连，结构如探戈舞步循环往复。它是一本关于希望如何变成陷阱、窥视者如何成为共谋者、人如何在无望中循环往复的后现代巨著。</itunes:summary>
+      <itunes:duration>00:25:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260910/episode-20260910-142466.mp3" length="24375981" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
