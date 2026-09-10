@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 10 Sep 2026 17:39:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 17:45:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19411,6 +19411,17 @@
       <itunes:duration>00:25:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260910/episode-20260910-142466.mp3" length="24375981" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《沉默的告白》 · 完整版 · 沉默的告白 · 完整讲读</title>
+      <description>《沉默的告白》讲一个十岁全聋女孩露比，和母亲雅思明飞越大半个地球，去阿拉斯加寻找失踪的野生动物摄影师父亲。等来的，是一场大火、二十四具尸体、和一枚铂金婚戒。母亲执意带着女儿，开车冲进零下几十度的达顿公路，去那个被烧毁的村庄寻找真相。在七天的极夜公路上，语言失效，GPS失灵，母女之间多年的裂缝在严寒中被一点点烤开。当她们终于在雪夜找到父亲冻僵的身体，母亲做了件出人意料的事——她打给了丈夫的情人，说了声谢谢。这本书用聋哑女孩的眼睛，重新定义了什么叫听见：听见，不靠耳朵，靠画面、靠触感、靠体温、靠一个动作。沉默，从来不是空，是被彼此捂热过的、还在跳动的心。</description>
+      <pubDate>Thu, 10 Sep 2026 17:45:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260910-episode-20260910-7e1337</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《沉默的告白》讲一个十岁全聋女孩露比，和母亲雅思明飞越大半个地球，去阿拉斯加寻找失踪的野生动物摄影师父亲。等来的，是一场大火、二十四具尸体、和一枚铂金婚戒。母亲执意带着女儿，开车冲进零下几十度的达顿公路，去那个被烧毁的村庄寻找真相。在七天的极夜公路上，语言失效，GPS失灵，母女之间多年的裂缝在严寒中被一点点烤开。当她们终于在雪夜找到父亲冻僵的身体，母亲做了件出人意料的事——她打给了丈夫的情人，说了声谢谢。这本书用聋哑女孩的眼睛，重新定义了什么叫听见：听见，不靠耳朵，靠画面、靠触感、靠体温、靠一个动作。沉默，从来不是空，是被彼此捂热过的、还在跳动的心。</itunes:summary>
+      <itunes:duration>00:24:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260910/episode-20260910-7e1337.mp3" length="23887533" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
