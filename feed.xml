@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 10 Sep 2026 17:29:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 17:33:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19378,6 +19378,17 @@
       <itunes:duration>00:27:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260910/episode-20260910-9680a1.mp3" length="26502957" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《机器学习系统设计》 · 完整版 · 机器学习系统设计_(图灵程序设计丛书) · 完整讲读</title>
+      <description>《机器学习系统设计》由机器学习博士Willi Richert与计算生物学家Luis Pedro Coelho合著，是一本从Python实战角度切入机器学习工程的桥梁手册。全书围绕八大真实应用场景——文本聚类、主题建模、文本分类、情感分析、回归推荐、音乐体裁识别与图像识别——系统拆解了一个机器学习项目从读取数据、清洗数据、特征工程、模型选择、交叉验证到组合集成的完整流程。书中反复强调三个工程底色：数据先于算法、评估决定成败、偏差方差是罗盘；同时指出多个朴素方法组合往往胜过单一复杂算法，正则化是应对维度灾难的利器，分布式思路早已埋下Spark的雏形。十年过去，这本书所传递的工程思想非但没有过时，反而在大模型时代愈发珍贵。</description>
+      <pubDate>Thu, 10 Sep 2026 17:32:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260910-episode-20260910-861f25</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《机器学习系统设计》由机器学习博士Willi Richert与计算生物学家Luis Pedro Coelho合著，是一本从Python实战角度切入机器学习工程的桥梁手册。全书围绕八大真实应用场景——文本聚类、主题建模、文本分类、情感分析、回归推荐、音乐体裁识别与图像识别——系统拆解了一个机器学习项目从读取数据、清洗数据、特征工程、模型选择、交叉验证到组合集成的完整流程。书中反复强调三个工程底色：数据先于算法、评估决定成败、偏差方差是罗盘；同时指出多个朴素方法组合往往胜过单一复杂算法，正则化是应对维度灾难的利器，分布式思路早已埋下Spark的雏形。十年过去，这本书所传递的工程思想非但没有过时，反而在大模型时代愈发珍贵。</itunes:summary>
+      <itunes:duration>00:29:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260910/episode-20260910-861f25.mp3" length="28114605" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
