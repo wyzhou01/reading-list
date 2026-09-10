@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 10 Sep 2026 17:26:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 17:29:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19367,6 +19367,17 @@
       <itunes:duration>00:29:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260910/episode-20260910-0c1e09.mp3" length="28366893" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《司马懿吃三国》 · 完整版 · 司马懿吃三国_v1.0 · 完整讲读</title>
+      <description>《司马懿吃三国》是一部以司马氏家族视角重述三国史的历史小说，作者李浩白以正史为骨、文学为肉，系统还原了司马懿从河内郡世家子弟、到装瘫拒曹、到熬死诸葛亮、再到高平陵之变独揽大权的一生。书中重点刻画了司马懿与曹操、曹丕、诸葛亮、曹爽等三国群雄的博弈，并以家族传承为暗线，揭示了一个古老门阀如何在汉末乱世中通过几代人的隐忍与布局，最终终结三国、开创晋朝。它不仅补上了三国叙事中司马氏这条暗线，更借古喻今，为当代读者提供了关于耐心、隐忍与家族协作的深刻启示。</description>
+      <pubDate>Thu, 10 Sep 2026 17:29:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260910-episode-20260910-9680a1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《司马懿吃三国》是一部以司马氏家族视角重述三国史的历史小说，作者李浩白以正史为骨、文学为肉，系统还原了司马懿从河内郡世家子弟、到装瘫拒曹、到熬死诸葛亮、再到高平陵之变独揽大权的一生。书中重点刻画了司马懿与曹操、曹丕、诸葛亮、曹爽等三国群雄的博弈，并以家族传承为暗线，揭示了一个古老门阀如何在汉末乱世中通过几代人的隐忍与布局，最终终结三国、开创晋朝。它不仅补上了三国叙事中司马氏这条暗线，更借古喻今，为当代读者提供了关于耐心、隐忍与家族协作的深刻启示。</itunes:summary>
+      <itunes:duration>00:27:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260910/episode-20260910-9680a1.mp3" length="26502957" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
