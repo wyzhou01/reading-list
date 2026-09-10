@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 10 Sep 2026 17:16:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 17:17:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19334,6 +19334,17 @@
       <itunes:duration>00:29:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260910/episode-20260910-2701a6.mp3" length="28569261" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《共赢》 · 完整版 · 共赢 · 完整讲读</title>
+      <description>《共赢》这本书，把人际相处拆成二十五法则，串成五个递进问题：准备、联结、信任、投资、协同。作者约翰·麦克斯维尔是全球畅销过亿的领导力作家，他用半生观察得出一个结论——人生成败的本质，就是人际关系的成败。这一期聚焦准备阶段的五条法则：透镜法则告诉我们人怎么看人，取决于自己是谁；镜子法则要求正人先正己，遇事先反省自己；痛苦法则提醒受害者心态会伤人伤己；榔头法则劝告我们目的正当不等于手段正当；电梯法则点明人与人的相处，要么抬高对方，要么压低对方，听者永远会做选择。下期将进入联结阶段，聊怎么从陌生人变成值得被了解的人。</description>
+      <pubDate>Thu, 10 Sep 2026 17:17:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260910-episode-20260910-48d566</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《共赢》这本书，把人际相处拆成二十五法则，串成五个递进问题：准备、联结、信任、投资、协同。作者约翰·麦克斯维尔是全球畅销过亿的领导力作家，他用半生观察得出一个结论——人生成败的本质，就是人际关系的成败。这一期聚焦准备阶段的五条法则：透镜法则告诉我们人怎么看人，取决于自己是谁；镜子法则要求正人先正己，遇事先反省自己；痛苦法则提醒受害者心态会伤人伤己；榔头法则劝告我们目的正当不等于手段正当；电梯法则点明人与人的相处，要么抬高对方，要么压低对方，听者永远会做选择。下期将进入联结阶段，聊怎么从陌生人变成值得被了解的人。</itunes:summary>
+      <itunes:duration>00:24:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260910/episode-20260910-48d566.mp3" length="23063469" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
