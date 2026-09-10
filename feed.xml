@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 10 Sep 2026 17:33:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 17:38:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19389,6 +19389,17 @@
       <itunes:duration>00:29:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260910/episode-20260910-861f25.mp3" length="28114605" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《精神现象学（下卷）》 · 完整版 · 精神现象学(下册)_(汉译世界学术名著丛书)_-_黑格尔 · 完整讲读</title>
+      <description>《精神现象学》下卷记录了精神从希腊城邦的伦理出发，穿过教化世界的分裂与异化，穿过信仰与启蒙的颠倒，在道德自我确信的空洞中寻找出路，最终在宗教的三种形态中寻求与绝对的和解，并在绝对知识中完成对自身全部形态的概念式把握。黑格尔通过异化、颠倒、自我意识的辩证运动，揭示了精神的成长不是一帆风顺的自我扩张，而是一系列在自我撕裂中不断回归自身的冒险。最终的绝对知识不是某一种具体的知识，而是精神对自身走过的全部形态的回忆与理解，是有限者不断向无限者开放的过程。</description>
+      <pubDate>Thu, 10 Sep 2026 17:38:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260910-episode-20260910-7a53fb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《精神现象学》下卷记录了精神从希腊城邦的伦理出发，穿过教化世界的分裂与异化，穿过信仰与启蒙的颠倒，在道德自我确信的空洞中寻找出路，最终在宗教的三种形态中寻求与绝对的和解，并在绝对知识中完成对自身全部形态的概念式把握。黑格尔通过异化、颠倒、自我意识的辩证运动，揭示了精神的成长不是一帆风顺的自我扩张，而是一系列在自我撕裂中不断回归自身的冒险。最终的绝对知识不是某一种具体的知识，而是精神对自身走过的全部形态的回忆与理解，是有限者不断向无限者开放的过程。</itunes:summary>
+      <itunes:duration>00:30:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260910/episode-20260910-7a53fb.mp3" length="29644461" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
