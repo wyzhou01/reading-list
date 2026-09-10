@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 10 Sep 2026 17:45:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 17:52:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19422,6 +19422,17 @@
       <itunes:duration>00:24:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260910/episode-20260910-7e1337.mp3" length="23887533" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《斯坦福极简经济学》 · 完整版 · 斯坦福极简经济学【mebook.cc】 · 完整讲读</title>
+      <description>《斯坦福极简经济学》是一本写给普通人的经济学入门书。作者蒂莫西·泰勒从微观经济学出发，告诉你市场如何通过分工与价格协调数以万计的陌生人协作；又从机会成本、激励、折现值等概念出发，教你在薪水、储蓄、职业选择中做出更清醒的判断。书的后半进入宏观经济学，讨论政府与市场的边界、增长、通胀、失业、贸易与货币财政政策。全书不站队、不预测、不卖弄，只提供一套思考问题的架构——让你在面对房价、工资、国家大事时，不再只能点头或耸肩，而是能笑着点头、心里有数。</description>
+      <pubDate>Thu, 10 Sep 2026 17:52:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260910-episode-20260910-291bdb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《斯坦福极简经济学》是一本写给普通人的经济学入门书。作者蒂莫西·泰勒从微观经济学出发，告诉你市场如何通过分工与价格协调数以万计的陌生人协作；又从机会成本、激励、折现值等概念出发，教你在薪水、储蓄、职业选择中做出更清醒的判断。书的后半进入宏观经济学，讨论政府与市场的边界、增长、通胀、失业、贸易与货币财政政策。全书不站队、不预测、不卖弄，只提供一套思考问题的架构——让你在面对房价、工资、国家大事时，不再只能点头或耸肩，而是能笑着点头、心里有数。</itunes:summary>
+      <itunes:duration>00:28:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260910/episode-20260910-291bdb.mp3" length="27225645" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
