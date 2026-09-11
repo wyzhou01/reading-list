@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 11 Sep 2026 17:49:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 17:56:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19477,6 +19477,17 @@
       <itunes:duration>00:44:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260911/episode-20260911-a40661.mp3" length="42748461" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《克苏鲁神话Ⅲ》 · 完整版 · 克苏鲁神话Ⅲ · 完整讲读</title>
+      <description>《克苏鲁神话三》收录了洛夫克拉夫特十二篇中短篇小说,核心命题是:真正的恐怖不在鬼怪,而在人类认知边界之外的异质存在,以及文明脚下那层被集体遗忘的远古深渊。洛氏用不可靠的叙述者、克制的笔调和几何学式的冷漠,把恐怖写成一种冷静的哲学——求知是禁忌,艺术是撬棍,城市是盖在深渊上的薄壳。一百年后的今天,当算法正在把一切不可理解之物收编成可消费的内容,这种敬畏反而比任何时代都更刺眼。</description>
+      <pubDate>Fri, 11 Sep 2026 17:56:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260911-episode-20260911-4e6841</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《克苏鲁神话三》收录了洛夫克拉夫特十二篇中短篇小说,核心命题是:真正的恐怖不在鬼怪,而在人类认知边界之外的异质存在,以及文明脚下那层被集体遗忘的远古深渊。洛氏用不可靠的叙述者、克制的笔调和几何学式的冷漠,把恐怖写成一种冷静的哲学——求知是禁忌,艺术是撬棍,城市是盖在深渊上的薄壳。一百年后的今天,当算法正在把一切不可理解之物收编成可消费的内容,这种敬畏反而比任何时代都更刺眼。</itunes:summary>
+      <itunes:duration>00:26:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260911/episode-20260911-4e6841.mp3" length="25319085" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
