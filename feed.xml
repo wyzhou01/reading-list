@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 11 Sep 2026 17:34:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 17:40:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19455,6 +19455,17 @@
       <itunes:duration>00:38:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260911/episode-20260911-75a533.mp3" length="37236909" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《深山夏牧场》 · 完整版 · 深山夏牧场 · 完整讲读</title>
+      <description>《深山夏牧场》是李娟《羊道》三部曲的终篇，记录她在阿尔泰山深处吾塞夏牧场与哈萨克牧民同吃同住同劳动的一整个盛夏。她以极其克制的笔触，写下挑沼泽水、赶羊入圈、给骆驼挂酱油壶做标记、在雨里反复读一封朋友的信、听陶爷爷即兴吟诵巴塔这些细碎却庄严的日常。她不评判游牧文明，只诚实呈现这片林海孤岛上人与人之间的温情、人与自然之间缓慢生长的尊严，以及吾塞孩子们“野蛮而庄严“的成长方式。这本书提醒我们：真正的富足，从来不是拥有很多，而是需要很少；真正的强大，是内心藏着无数秘密，并相信它们会在该出现时一个一个冒出头来。</description>
+      <pubDate>Fri, 11 Sep 2026 17:39:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260911-episode-20260911-cf626a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《深山夏牧场》是李娟《羊道》三部曲的终篇，记录她在阿尔泰山深处吾塞夏牧场与哈萨克牧民同吃同住同劳动的一整个盛夏。她以极其克制的笔触，写下挑沼泽水、赶羊入圈、给骆驼挂酱油壶做标记、在雨里反复读一封朋友的信、听陶爷爷即兴吟诵巴塔这些细碎却庄严的日常。她不评判游牧文明，只诚实呈现这片林海孤岛上人与人之间的温情、人与自然之间缓慢生长的尊严，以及吾塞孩子们“野蛮而庄严“的成长方式。这本书提醒我们：真正的富足，从来不是拥有很多，而是需要很少；真正的强大，是内心藏着无数秘密，并相信它们会在该出现时一个一个冒出头来。</itunes:summary>
+      <itunes:duration>00:21:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260911/episode-20260911-cf626a.mp3" length="21095469" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
