@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 10 Sep 2026 17:52:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 17:20:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19433,6 +19433,17 @@
       <itunes:duration>00:28:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260910/episode-20260910-291bdb.mp3" length="27225645" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《雄猫穆尔的生活观暨乐队指挥克赖斯勒的传记片段》 · 完整版 · 霍夫曼集(01)雄猫穆尔的生活观 · 完整讲读</title>
+      <description>十九世纪初的德国，法官兼音乐家霍夫曼用一本《雄猫穆尔的生活观》，完成了一场文学魔术：一只自负的雄猫一边写回忆录，一边把主人书房的克赖斯勒指挥家传记撕下来垫爪子，两条文本被物理地夹在同一本书里。庸俗与天才、傲慢与脆弱、阁楼与指挥台，从此互为镜像、互为嘲讽，也互为慰藉。这部两百零四年前的元小说，至今仍在替每一个“胸中有一团火却无处安放”的人，发出冷而诚实的笑声。</description>
+      <pubDate>Fri, 11 Sep 2026 17:20:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260911-episode-20260911-73ec72</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>十九世纪初的德国，法官兼音乐家霍夫曼用一本《雄猫穆尔的生活观》，完成了一场文学魔术：一只自负的雄猫一边写回忆录，一边把主人书房的克赖斯勒指挥家传记撕下来垫爪子，两条文本被物理地夹在同一本书里。庸俗与天才、傲慢与脆弱、阁楼与指挥台，从此互为镜像、互为嘲讽，也互为慰藉。这部两百零四年前的元小说，至今仍在替每一个“胸中有一团火却无处安放”的人，发出冷而诚实的笑声。</itunes:summary>
+      <itunes:duration>00:29:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260911/episode-20260911-73ec72.mp3" length="27908013" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
