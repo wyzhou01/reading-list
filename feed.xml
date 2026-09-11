@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 11 Sep 2026 17:20:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 17:34:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19444,6 +19444,17 @@
       <itunes:duration>00:29:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260911/episode-20260911-73ec72.mp3" length="27908013" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《干掉一切对手：看高盛如何算赢世界》 · 完整版 · 干掉一切对手：看高盛如何算赢世界(1) · 完整讲读</title>
+      <description>《干掉一切对手》是财经作家李德林二〇〇九年出版的重磅作品，拆解华尔街巨头高盛百年生存逻辑与猎杀对手的隐秘手法。全书以二〇〇八年金融海啸为起点，揭露雷曼兄弟破产、A I G 千八百亿美元被救背后的高盛身影；剖析高盛如何借政商旋转门把前 C E O 保尔森送进白宫、把持美联储与财政部；并详细还原高盛通过神秘子公司杰润设局猎杀中国航油王陈久霖、深南电、中石油、中石化、中国远洋等中资企业的全过程。李德林用一整本书回答了一个问题：为什么倒下的总是别人，而高盛每一次都能赢？答案是——它永远站在对手看不见的地方挥刀。</description>
+      <pubDate>Fri, 11 Sep 2026 17:34:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260911-episode-20260911-75a533</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《干掉一切对手》是财经作家李德林二〇〇九年出版的重磅作品，拆解华尔街巨头高盛百年生存逻辑与猎杀对手的隐秘手法。全书以二〇〇八年金融海啸为起点，揭露雷曼兄弟破产、A I G 千八百亿美元被救背后的高盛身影；剖析高盛如何借政商旋转门把前 C E O 保尔森送进白宫、把持美联储与财政部；并详细还原高盛通过神秘子公司杰润设局猎杀中国航油王陈久霖、深南电、中石油、中石化、中国远洋等中资企业的全过程。李德林用一整本书回答了一个问题：为什么倒下的总是别人，而高盛每一次都能赢？答案是——它永远站在对手看不见的地方挥刀。</itunes:summary>
+      <itunes:duration>00:38:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260911/episode-20260911-75a533.mp3" length="37236909" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
