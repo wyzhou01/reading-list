@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 11 Sep 2026 17:40:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 17:49:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19466,6 +19466,17 @@
       <itunes:duration>00:21:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260911/episode-20260911-cf626a.mp3" length="21095469" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《读心神探：FBI心理侧写术》 · 完整版 · 读心神探：FBI心理侧写术 · 完整讲读</title>
+      <description>本书是美国联邦调查局行为科学调查支援科元老约翰·道格拉斯亲笔撰写的回忆录，出版于一九九五年。他以二十五年职业生涯中亲历的重大案件为线索，系统阐述了现代犯罪心理侧写术的理论基础与实战方法。从伦敦碎尸者杰克、格林河系列杀人案、亚特兰大儿童谋杀案，到查理·戴维斯等连环强奸杀人犯的深度访谈，道格拉斯揭示了一个核心原则：行为反映个性，罪犯会重复自己。书中既讲述了侧写如何从一个人的孤独摸索发展为可被传承的联邦调查局学科，也坦诚记录了这份工作对侧写师本人造成的心理代价。本书最终落在一个看似简单却深刻的信念上：罪犯是后天造就的，我们需要更多的爱，而不仅仅是更多的警察与监狱。</description>
+      <pubDate>Fri, 11 Sep 2026 17:49:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260911-episode-20260911-a40661</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是美国联邦调查局行为科学调查支援科元老约翰·道格拉斯亲笔撰写的回忆录，出版于一九九五年。他以二十五年职业生涯中亲历的重大案件为线索，系统阐述了现代犯罪心理侧写术的理论基础与实战方法。从伦敦碎尸者杰克、格林河系列杀人案、亚特兰大儿童谋杀案，到查理·戴维斯等连环强奸杀人犯的深度访谈，道格拉斯揭示了一个核心原则：行为反映个性，罪犯会重复自己。书中既讲述了侧写如何从一个人的孤独摸索发展为可被传承的联邦调查局学科，也坦诚记录了这份工作对侧写师本人造成的心理代价。本书最终落在一个看似简单却深刻的信念上：罪犯是后天造就的，我们需要更多的爱，而不仅仅是更多的警察与监狱。</itunes:summary>
+      <itunes:duration>00:44:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260911/episode-20260911-a40661.mp3" length="42748461" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
