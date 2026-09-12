@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 12 Sep 2026 17:21:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 17:24:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19521,6 +19521,17 @@
       <itunes:duration>00:19:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260912/episode-20260912-9297dd.mp3" length="18513837" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《贞观长歌》 · 完整版 · 贞观长歌-周志方 · 完整讲读</title>
+      <description>《贞观长歌》是作家周志方写就的长篇历史小说，以正史为骨架、以人性为血肉，跨越一百二十万字，从武德年间的玄武门之变一路写到李世民的晚年。本期节目用一百分钟带你读完整本书，从六个核心维度拆解贞观时代：储位之争背后的道德困境、贞观治世如何从废墟中一砖一瓦建起、华夷对峙中农耕与游牧两种文明的博弈，以及一个开创盛世的英雄，在兄弟血债、君臣孤独、黄昏无力中所付出的全部代价。这不是一部追怀盛世的浪漫之作，而是一部把英雄还原为人的诚意之作。</description>
+      <pubDate>Sat, 12 Sep 2026 17:24:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260912-episode-20260912-488232</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《贞观长歌》是作家周志方写就的长篇历史小说，以正史为骨架、以人性为血肉，跨越一百二十万字，从武德年间的玄武门之变一路写到李世民的晚年。本期节目用一百分钟带你读完整本书，从六个核心维度拆解贞观时代：储位之争背后的道德困境、贞观治世如何从废墟中一砖一瓦建起、华夷对峙中农耕与游牧两种文明的博弈，以及一个开创盛世的英雄，在兄弟血债、君臣孤独、黄昏无力中所付出的全部代价。这不是一部追怀盛世的浪漫之作，而是一部把英雄还原为人的诚意之作。</itunes:summary>
+      <itunes:duration>00:31:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260912/episode-20260912-488232.mp3" length="30520749" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
