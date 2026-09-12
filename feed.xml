@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 12 Sep 2026 17:24:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 17:29:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19532,6 +19532,17 @@
       <itunes:duration>00:31:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260912/episode-20260912-488232.mp3" length="30520749" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《别走出这一步》 · 完整版 · 别走出这一步 · 完整讲读</title>
+      <description>《别走出这一步》是英国作家 S.J.沃森继《别相信任何人》之后的第二部长篇小说。故事讲述伦敦摄影师朱莉娅，二十年前在柏林目睹爱人马库斯吸毒过量身亡后仓皇逃离，回到伦敦嫁人生子，把妹妹凯特与马库斯的亲生儿子康纳收养为子，用二十年谎言搭建起一座看似完美的中产之家。当凯特在巴黎遇害、马库斯的妹妹安娜以凯特室友身份现身复仇，朱莉娅苦心经营的一切在一周之内彻底崩塌。沃森以柏林一九九七与伦敦当代的双线叙事，揭示谎言如何一步步把人推向深渊，并追问：当血缘与养育之恩冲突，谁才有资格被称为母亲？当我们用谎言搭建整个人生，这座房子还能住多久？</description>
+      <pubDate>Sat, 12 Sep 2026 17:29:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260912-episode-20260912-38d854</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《别走出这一步》是英国作家 S.J.沃森继《别相信任何人》之后的第二部长篇小说。故事讲述伦敦摄影师朱莉娅，二十年前在柏林目睹爱人马库斯吸毒过量身亡后仓皇逃离，回到伦敦嫁人生子，把妹妹凯特与马库斯的亲生儿子康纳收养为子，用二十年谎言搭建起一座看似完美的中产之家。当凯特在巴黎遇害、马库斯的妹妹安娜以凯特室友身份现身复仇，朱莉娅苦心经营的一切在一周之内彻底崩塌。沃森以柏林一九九七与伦敦当代的双线叙事，揭示谎言如何一步步把人推向深渊，并追问：当血缘与养育之恩冲突，谁才有资格被称为母亲？当我们用谎言搭建整个人生，这座房子还能住多久？</itunes:summary>
+      <itunes:duration>00:33:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260912/episode-20260912-38d854.mp3" length="32279469" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
