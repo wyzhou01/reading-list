@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 12 Sep 2026 17:16:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 17:21:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19510,6 +19510,17 @@
       <itunes:duration>00:29:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260912/episode-20260912-0f72f9.mp3" length="27977517" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《莎士比亚四大悲剧》 · 完整版 · 莎士比亚四大悲剧(译文名著精选) · 完整讲读</title>
+      <description>《莎士比亚四大悲剧》收录《哈姆雷特》、《奥赛罗》、《李尔王》、《麦克白斯》四部传世杰作，由孙大雨先生以格律诗体迻译。《哈姆雷特》写复仇者的延宕与哲思，《奥赛罗》写猜疑如何吞噬一段爱情，《李尔王》以分国开场、以毁灭收场，《麦克白斯》刻画野心对英雄的腐蚀。莎士比亚借戏台为镜，照出四百年来人性从未改变的裂缝：权力的腐蚀、信任的脆弱、爱与盲目的拉扯。四部悲剧不只是文学经典，更是一面提醒我们审视自己与时代的镜子。</description>
+      <pubDate>Sat, 12 Sep 2026 17:20:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260912-episode-20260912-9297dd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《莎士比亚四大悲剧》收录《哈姆雷特》、《奥赛罗》、《李尔王》、《麦克白斯》四部传世杰作，由孙大雨先生以格律诗体迻译。《哈姆雷特》写复仇者的延宕与哲思，《奥赛罗》写猜疑如何吞噬一段爱情，《李尔王》以分国开场、以毁灭收场，《麦克白斯》刻画野心对英雄的腐蚀。莎士比亚借戏台为镜，照出四百年来人性从未改变的裂缝：权力的腐蚀、信任的脆弱、爱与盲目的拉扯。四部悲剧不只是文学经典，更是一面提醒我们审视自己与时代的镜子。</itunes:summary>
+      <itunes:duration>00:19:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260912/episode-20260912-9297dd.mp3" length="18513837" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
