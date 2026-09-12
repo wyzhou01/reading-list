@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 12 Sep 2026 17:29:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 17:36:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19543,6 +19543,17 @@
       <itunes:duration>00:33:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260912/episode-20260912-38d854.mp3" length="32279469" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《目睹殡仪馆之诡异事件（全三册）》 · 完整版 · 目睹殡仪馆之诡异事件（全三册） · 完整讲读</title>
+      <description>《目睹殡仪馆之诡异事件》是李非凡二零一零年前后在天涯莲蓬鬼话连载的长篇惊悚小说，被视为中国第一部真正意义上的殡仪馆题材志怪作品。故事发生在湘赣交界的小镇殡仪馆里，主角大嘴、猴子、瓜八和&quot;非凡&quot;这群二十出头的毛头小子，用带脏字的口头禅、占小便宜的烟火气、互相拆台的损友默契，记录下他们在阴阳交界之地亲身撞见的三十三桩邪门事——山路上的夺命凶刹、筷子立水请仙、诈尸、纸人寻亲、鬼打墙、招魂、阴间婚配、婴灵作祟、血手印，直到最后老坟山上坟山鬼乐响起。本书最大的特色是用黑色幽默消解恐惧，用嬉笑怒骂丈量生死边界，是一代小镇青年的青春侧影。</description>
+      <pubDate>Sat, 12 Sep 2026 17:36:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260912-episode-20260912-e8207d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《目睹殡仪馆之诡异事件》是李非凡二零一零年前后在天涯莲蓬鬼话连载的长篇惊悚小说，被视为中国第一部真正意义上的殡仪馆题材志怪作品。故事发生在湘赣交界的小镇殡仪馆里，主角大嘴、猴子、瓜八和&quot;非凡&quot;这群二十出头的毛头小子，用带脏字的口头禅、占小便宜的烟火气、互相拆台的损友默契，记录下他们在阴阳交界之地亲身撞见的三十三桩邪门事——山路上的夺命凶刹、筷子立水请仙、诈尸、纸人寻亲、鬼打墙、招魂、阴间婚配、婴灵作祟、血手印，直到最后老坟山上坟山鬼乐响起。本书最大的特色是用黑色幽默消解恐惧，用嬉笑怒骂丈量生死边界，是一代小镇青年的青春侧影。</itunes:summary>
+      <itunes:duration>00:29:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260912/episode-20260912-e8207d.mp3" length="28055085" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
