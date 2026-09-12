@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 12 Sep 2026 17:36:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 17:36:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19554,6 +19554,17 @@
       <itunes:duration>00:29:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260912/episode-20260912-e8207d.mp3" length="28055085" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《创伤与复原》 · 完整版 · 创伤与复原_(心理创伤疗愈经典畅销丛书) · 完整讲读</title>
+      <description>《创伤与复原》是哈佛医学院教授朱迪思·赫尔曼的创伤心理学奠基之作，她用二十年临床研究证明：不管是家暴、性侵、童年的虐待，还是战争创伤、政治恐怖，幸存者留下的伤痕都遵循同一套规律——过度警觉、记忆侵扰、禁闭畏缩。书中提出的三阶段复原模型——建立安全、回顾与哀悼、重建联系感——已成为全球家暴庇护所、性侵援助热线、人道救援机构的共同指南。她更指出一个常被忽略的事实：创伤的复原从来不只是个人的事，它需要整个社群作为见证；一个让受害者说出真相的社会能让她走出来，一个让受害者闭嘴的社会会让创伤一代一代传下去。</description>
+      <pubDate>Sat, 12 Sep 2026 17:36:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260912-episode-20260912-9ac673</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《创伤与复原》是哈佛医学院教授朱迪思·赫尔曼的创伤心理学奠基之作，她用二十年临床研究证明：不管是家暴、性侵、童年的虐待，还是战争创伤、政治恐怖，幸存者留下的伤痕都遵循同一套规律——过度警觉、记忆侵扰、禁闭畏缩。书中提出的三阶段复原模型——建立安全、回顾与哀悼、重建联系感——已成为全球家暴庇护所、性侵援助热线、人道救援机构的共同指南。她更指出一个常被忽略的事实：创伤的复原从来不只是个人的事，它需要整个社群作为见证；一个让受害者说出真相的社会能让她走出来，一个让受害者闭嘴的社会会让创伤一代一代传下去。</itunes:summary>
+      <itunes:duration>00:32:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260912/episode-20260912-9ac673.mp3" length="30945453" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
