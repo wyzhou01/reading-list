@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 11 Sep 2026 17:56:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 17:14:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19488,6 +19488,17 @@
       <itunes:duration>00:26:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260911/episode-20260911-4e6841.mp3" length="25319085" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《部落的力量》 · 完整版 · 部落的力量 · 完整讲读</title>
+      <description>《部落的力量》揭示了一个常被忽视的事实：所有公司本质上都是二十到一百五十人的部落，部落的本质是语言。作者基于十余年研究、覆盖全球二十四个组织，提出部落文化五阶段模型，从敌对型到创造历史型，每一阶段都有专属的语言、关键点与撬动方式。书中最深刻的洞察是：领袖与部落是双向塑造的，伟大领袖之所以在新环境失败，平庸战略之所以失败多于成功，根源都在这种关系的失衡。这本书不教管理技巧，而是提供一种底层的认知框架，帮助你听见组织的语言，诊断文化阶段，并最终把整个部落往上抬一级。</description>
+      <pubDate>Sat, 12 Sep 2026 17:14:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260912-episode-20260912-31cd2d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《部落的力量》揭示了一个常被忽视的事实：所有公司本质上都是二十到一百五十人的部落，部落的本质是语言。作者基于十余年研究、覆盖全球二十四个组织，提出部落文化五阶段模型，从敌对型到创造历史型，每一阶段都有专属的语言、关键点与撬动方式。书中最深刻的洞察是：领袖与部落是双向塑造的，伟大领袖之所以在新环境失败，平庸战略之所以失败多于成功，根源都在这种关系的失衡。这本书不教管理技巧，而是提供一种底层的认知框架，帮助你听见组织的语言，诊断文化阶段，并最终把整个部落往上抬一级。</itunes:summary>
+      <itunes:duration>00:32:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260912/episode-20260912-31cd2d.mp3" length="30829101" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
