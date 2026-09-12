@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 12 Sep 2026 17:14:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 17:16:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19499,6 +19499,17 @@
       <itunes:duration>00:32:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260912/episode-20260912-31cd2d.mp3" length="30829101" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《殷商舰队玛雅征服史》 · 完整版 · 殷商舰队玛雅征服史(1) · 完整讲读</title>
+      <description>《殷商舰队玛雅征服史》是马伯庸二零零五年发表于天涯社区的伪史代表作。牧野之战后，诸侯攸侯喜率二百名公关专家与一万殷商流亡者从青岛出海，本想绕到西歧背后，却因距离算错一头撞进玛雅世界。青铜投石机对阵玛雅城邦，朝歌式管理学对阵眼不见不为实的丛林哲学。马伯庸用伪史外壳，装进符号学、传播学与现代战争的硬核，揭示所有文明冲突的真相：所谓远征，不过是流亡者与捂眼者之间永无止境的符号战。</description>
+      <pubDate>Sat, 12 Sep 2026 17:16:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260912-episode-20260912-0f72f9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《殷商舰队玛雅征服史》是马伯庸二零零五年发表于天涯社区的伪史代表作。牧野之战后，诸侯攸侯喜率二百名公关专家与一万殷商流亡者从青岛出海，本想绕到西歧背后，却因距离算错一头撞进玛雅世界。青铜投石机对阵玛雅城邦，朝歌式管理学对阵眼不见不为实的丛林哲学。马伯庸用伪史外壳，装进符号学、传播学与现代战争的硬核，揭示所有文明冲突的真相：所谓远征，不过是流亡者与捂眼者之间永无止境的符号战。</itunes:summary>
+      <itunes:duration>00:29:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260912/episode-20260912-0f72f9.mp3" length="27977517" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
