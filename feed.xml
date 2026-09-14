@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 14 Sep 2026 17:48:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 17:54:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19609,6 +19609,17 @@
       <itunes:duration>00:23:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260914/episode-20260914-e68046.mp3" length="22189485" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《落差：如何化解我们内心的失望》 · 完整版 · 落差 · 完整讲读</title>
+      <description>《落差》是法国精神病学家勒朱瓦耶写给所有&quot;以为自己生病了&quot;的普通人的心理自助书。书中提出：抑郁情绪不是抑郁症，它只是期望与现实之间落差的正常反应。作者拆解了经验论、一概而论、自我攻击三种思维陷阱，给出运动、阅读、冥想、饮食、回忆快乐五味天然的抗抑郁药方，核心观点是：每个抑郁的人，本质上都是健康的，只是暂时忘了自己有多健康。</description>
+      <pubDate>Mon, 14 Sep 2026 17:53:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260914-episode-20260914-9cd00d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《落差》是法国精神病学家勒朱瓦耶写给所有&quot;以为自己生病了&quot;的普通人的心理自助书。书中提出：抑郁情绪不是抑郁症，它只是期望与现实之间落差的正常反应。作者拆解了经验论、一概而论、自我攻击三种思维陷阱，给出运动、阅读、冥想、饮食、回忆快乐五味天然的抗抑郁药方，核心观点是：每个抑郁的人，本质上都是健康的，只是暂时忘了自己有多健康。</itunes:summary>
+      <itunes:duration>00:20:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260914/episode-20260914-9cd00d.mp3" length="20022573" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
