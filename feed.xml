@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 14 Sep 2026 17:41:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 17:48:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19598,6 +19598,17 @@
       <itunes:duration>00:38:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260914/episode-20260914-e8b199.mp3" length="36727725" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《读城记》 · 完整版 · 读城记 · 完整讲读</title>
+      <description>《读城记》是文化学者易中天二零零三年写就的中国城市文化随笔，按古都、名邑、圣地、边关、滨城、重镇、商埠、特区八大类型梳理中国城市，并深读北京、上海、广州、厦门、成都、武汉六座城，分别为它们下判词：北京“大气醇和”、上海“开阔雅致”、广州“生猛鲜活”、厦门“美丽温馨”、成都“悠闲洒脱”、武汉“豪爽硬朗”。全书以“外地人”视角追问每座城“为什么是这样”，揭示城市性格由地理、历史、生计、文化长期塑造的逻辑，同时忧心现代化浪潮正在抹平城市个性。今天重读，这本书既是一套中国城市的类型学与性格词典，也是一份关于“千城一面”的早期预言。</description>
+      <pubDate>Mon, 14 Sep 2026 17:48:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260914-episode-20260914-e68046</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《读城记》是文化学者易中天二零零三年写就的中国城市文化随笔，按古都、名邑、圣地、边关、滨城、重镇、商埠、特区八大类型梳理中国城市，并深读北京、上海、广州、厦门、成都、武汉六座城，分别为它们下判词：北京“大气醇和”、上海“开阔雅致”、广州“生猛鲜活”、厦门“美丽温馨”、成都“悠闲洒脱”、武汉“豪爽硬朗”。全书以“外地人”视角追问每座城“为什么是这样”，揭示城市性格由地理、历史、生计、文化长期塑造的逻辑，同时忧心现代化浪潮正在抹平城市个性。今天重读，这本书既是一套中国城市的类型学与性格词典，也是一份关于“千城一面”的早期预言。</itunes:summary>
+      <itunes:duration>00:23:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260914/episode-20260914-e68046.mp3" length="22189485" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
