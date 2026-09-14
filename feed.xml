@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 14 Sep 2026 17:33:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 17:41:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19587,6 +19587,17 @@
       <itunes:duration>00:16:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260914/episode-20260914-f31709.mp3" length="16080045" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《绝非偶然：社会心理学家阿伦森自传》 · 完整版 · 绝非偶然_(湛庐文化•心视界) · 完整讲读</title>
+      <description>《绝非偶然》是美国当代最杰出的社会心理学家埃利奥特·阿伦森在八十岁前后写下的自传，也是一部社会心理学半个世纪的发展史。阿伦森一九三二年生于马萨诸塞州切尔西的贫民区，童年在大萧条中度过，极度腼腆、成绩平平，父亲在他十七岁那年因癌症去世。然而短短十年后，他已成为名校教授，并师从马斯洛、麦克莱兰、费斯廷格三位二十世纪最杰出的心理学家，后来更成为美国心理协会一百一十年历史上，唯一一位包揽杰出研究奖、杰出教学奖和杰出著作奖三项最高荣誉的人。本书既是一位学术大师的成长史，也是一部社会心理学回应二十世纪六七十年代美国剧烈社会变革的行动史——从认知失调理论的诞生，到拼图课堂教学法的发明，再到住房公平、反偏见教育的亲身实践。阿伦森用八十年的亲身经历回答了一个朴素却有力的命题：人的改变绝非偶然，也绝非奇迹，而是准备与时机的交汇，是信念与行动的累积，是每一个「我想成为什么样的人」的问题在当下被诚实回答的总和。</description>
+      <pubDate>Mon, 14 Sep 2026 17:41:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260914-episode-20260914-e8b199</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《绝非偶然》是美国当代最杰出的社会心理学家埃利奥特·阿伦森在八十岁前后写下的自传，也是一部社会心理学半个世纪的发展史。阿伦森一九三二年生于马萨诸塞州切尔西的贫民区，童年在大萧条中度过，极度腼腆、成绩平平，父亲在他十七岁那年因癌症去世。然而短短十年后，他已成为名校教授，并师从马斯洛、麦克莱兰、费斯廷格三位二十世纪最杰出的心理学家，后来更成为美国心理协会一百一十年历史上，唯一一位包揽杰出研究奖、杰出教学奖和杰出著作奖三项最高荣誉的人。本书既是一位学术大师的成长史，也是一部社会心理学回应二十世纪六七十年代美国剧烈社会变革的行动史——从认知失调理论的诞生，到拼图课堂教学法的发明，再到住房公平、反偏见教育的亲身实践。阿伦森用八十年的亲身经历回答了一个朴素却有力的命题：人的改变绝非偶然，也绝非奇迹，而是准备与时机的交汇，是信念与行动的累积，是每一个「我想成为什么样的人」的问题在当下被诚实回答的总和。</itunes:summary>
+      <itunes:duration>00:38:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260914/episode-20260914-e8b199.mp3" length="36727725" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
