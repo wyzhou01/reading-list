@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 14 Sep 2026 17:14:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 17:33:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19576,6 +19576,17 @@
       <itunes:duration>00:33:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260914/episode-20260914-ae2a79.mp3" length="31772589" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《少有人走的路2：勇敢地面对谎言》 · 完整版 · 少有人走的路2 · 完整讲读</title>
+      <description>本书揭示谎言是心理疾病与邪恶的根源，通过乔治、鲁克、雪莉等真实案例，展示压制、缺乏爱与恶性自恋如何从个人蔓延至家庭、社会乃至国家。派克指出，爱与勇气是战胜谎言的唯一道路，只有勇敢面对真相、心怀真爱，才能摆脱恶狼的追逐，实现心智成熟。书中还探讨了父母对子女的压制、亲密关系中的控制、以及国家层面的集体谎言等现象，强调只有通过爱与勇气的双重力量，才能剥开层层伪装，回归真实自我。</description>
+      <pubDate>Mon, 14 Sep 2026 17:32:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260914-episode-20260914-f31709</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书揭示谎言是心理疾病与邪恶的根源，通过乔治、鲁克、雪莉等真实案例，展示压制、缺乏爱与恶性自恋如何从个人蔓延至家庭、社会乃至国家。派克指出，爱与勇气是战胜谎言的唯一道路，只有勇敢面对真相、心怀真爱，才能摆脱恶狼的追逐，实现心智成熟。书中还探讨了父母对子女的压制、亲密关系中的控制、以及国家层面的集体谎言等现象，强调只有通过爱与勇气的双重力量，才能剥开层层伪装，回归真实自我。</itunes:summary>
+      <itunes:duration>00:16:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260914/episode-20260914-f31709.mp3" length="16080045" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
