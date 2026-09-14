@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 12 Sep 2026 17:36:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 17:14:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19565,6 +19565,17 @@
       <itunes:duration>00:32:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260912/episode-20260912-9ac673.mp3" length="30945453" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《明宫奇案》 · 完整版 · 明宫奇案 · 完整讲读</title>
+      <description>《明宫奇案》以万历三十一年顺天乡试为背景，透过国子监太学生沈德符、鱼宝宝、王名世、傅春等小人物的视角，串联起国本之争余波、李贽思想禁毁、蒙古黄金家族盗取火器图、女真间谍渗透等大事件，在考据扎实的晚明历史画卷中追问真相、展现士子情谊，是一部兼具悬疑张力与历史厚度的明代题材佳作。</description>
+      <pubDate>Mon, 14 Sep 2026 17:14:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260914-episode-20260914-ae2a79</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《明宫奇案》以万历三十一年顺天乡试为背景，透过国子监太学生沈德符、鱼宝宝、王名世、傅春等小人物的视角，串联起国本之争余波、李贽思想禁毁、蒙古黄金家族盗取火器图、女真间谍渗透等大事件，在考据扎实的晚明历史画卷中追问真相、展现士子情谊，是一部兼具悬疑张力与历史厚度的明代题材佳作。</itunes:summary>
+      <itunes:duration>00:33:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260914/episode-20260914-ae2a79.mp3" length="31772589" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
