@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 15 Sep 2026 17:23:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 17:29:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19642,6 +19642,17 @@
       <itunes:duration>00:21:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260915/episode-20260915-f92175.mp3" length="20847021" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《美国秩序的根基》 · 完整版 · 美国秩序的根基_-_拉塞尔·柯克 · 完整讲读</title>
+      <description>《美国秩序的根基》是当代美国保守主义思想大师拉塞尔·柯克的代表作,初版于一九七四年,曾深刻影响里根总统的执政理念。柯克用一本书的篇幅,跨越两千五百年,把美利坚合众国的精神根基追溯到四座古老城市:耶路撒冷的希伯来信仰、雅典的希腊理性、罗马的法律与美德、伦敦的普通法与新教伦理。他提出&quot;有秩序的自由&quot;这一核心理念,论证美国秩序的强盛源于基督教信念所派生的德性传统,而非十八世纪启蒙学者的凭空设计。柯克反对激进的意识形态革命,推崇伯克式的审慎变革。本书对美国宪法的主流解释形成挑战,是理解美国文明传统不可绕过的经典之作。</description>
+      <pubDate>Tue, 15 Sep 2026 17:29:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260915-episode-20260915-278ec6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《美国秩序的根基》是当代美国保守主义思想大师拉塞尔·柯克的代表作,初版于一九七四年,曾深刻影响里根总统的执政理念。柯克用一本书的篇幅,跨越两千五百年,把美利坚合众国的精神根基追溯到四座古老城市:耶路撒冷的希伯来信仰、雅典的希腊理性、罗马的法律与美德、伦敦的普通法与新教伦理。他提出&quot;有秩序的自由&quot;这一核心理念,论证美国秩序的强盛源于基督教信念所派生的德性传统,而非十八世纪启蒙学者的凭空设计。柯克反对激进的意识形态革命,推崇伯克式的审慎变革。本书对美国宪法的主流解释形成挑战,是理解美国文明传统不可绕过的经典之作。</itunes:summary>
+      <itunes:duration>00:32:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260915/episode-20260915-278ec6.mp3" length="31350573" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
