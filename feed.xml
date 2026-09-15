@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 15 Sep 2026 17:18:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 17:23:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19631,6 +19631,17 @@
       <itunes:duration>00:34:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260915/episode-20260915-22b5f3.mp3" length="33353901" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《仲夏之死》 · 完整版 · 仲夏之死_-_[日]三岛由纪夫_陈德文译 · 完整讲读</title>
+      <description>《仲夏之死》是三岛由纪夫一九四六年至一九六三年间的短篇自选集，收录《香烟》《宝石 Gestalt 》《春子》《方舟何处渡》《仲夏之死》等代表作。这些作品共同凝视成长、死亡与美本身的暴烈，剖开少年觉醒的孤独、贵族血脉的麻醉、欲望与死亡对真相的劫持。陈德文译本忠实还原了三岛冷峻典雅又近乎残忍的笔触，是理解日本战后美学与三岛精神世界不可绕开的一把钥匙。</description>
+      <pubDate>Tue, 15 Sep 2026 17:22:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260915-episode-20260915-f92175</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《仲夏之死》是三岛由纪夫一九四六年至一九六三年间的短篇自选集，收录《香烟》《宝石 Gestalt 》《春子》《方舟何处渡》《仲夏之死》等代表作。这些作品共同凝视成长、死亡与美本身的暴烈，剖开少年觉醒的孤独、贵族血脉的麻醉、欲望与死亡对真相的劫持。陈德文译本忠实还原了三岛冷峻典雅又近乎残忍的笔触，是理解日本战后美学与三岛精神世界不可绕开的一把钥匙。</itunes:summary>
+      <itunes:duration>00:21:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260915/episode-20260915-f92175.mp3" length="20847021" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
