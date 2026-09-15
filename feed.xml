@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 15 Sep 2026 17:29:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 17:35:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19653,6 +19653,17 @@
       <itunes:duration>00:32:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260915/episode-20260915-278ec6.mp3" length="31350573" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《缓慢的归乡》 · 完整版 · 缓慢的归乡_-_[奥地利]彼得·汉德克.周新建、梁锡江译 · 完整讲读</title>
+      <description>《缓慢的归乡》收录奥地利作家彼得·汉德克同名四部曲的前两部。《缓慢的归乡》写地质学家索尔格从阿拉斯加荒野, 经加利福尼亚大学、纽约, 最终决心返回欧洲、回到孩子身边的心路历程; 《圣山启示录》写叙述者两次前往普罗旺斯追随画家塞尚的足迹, 在自然与艺术的交融中完成一次诗学意义上的归乡。两部作品共同回答了汉德克在七十年代末所面对的那个问题: 在一个充满孤傲与崩溃的时代, 人如何才能与世界重新和解。答案不是回到某个地点, 而是回到那种能让人与世界建立真实关联的能力, 是一种用写实而非虚构的方式, 在自然与艺术之间建立平行结构的持续练习。</description>
+      <pubDate>Tue, 15 Sep 2026 17:35:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260915-episode-20260915-130907</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《缓慢的归乡》收录奥地利作家彼得·汉德克同名四部曲的前两部。《缓慢的归乡》写地质学家索尔格从阿拉斯加荒野, 经加利福尼亚大学、纽约, 最终决心返回欧洲、回到孩子身边的心路历程; 《圣山启示录》写叙述者两次前往普罗旺斯追随画家塞尚的足迹, 在自然与艺术的交融中完成一次诗学意义上的归乡。两部作品共同回答了汉德克在七十年代末所面对的那个问题: 在一个充满孤傲与崩溃的时代, 人如何才能与世界重新和解。答案不是回到某个地点, 而是回到那种能让人与世界建立真实关联的能力, 是一种用写实而非虚构的方式, 在自然与艺术之间建立平行结构的持续练习。</itunes:summary>
+      <itunes:duration>00:27:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260915/episode-20260915-130907.mp3" length="26241069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
