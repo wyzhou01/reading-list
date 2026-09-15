@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 14 Sep 2026 17:54:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 17:18:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19620,6 +19620,17 @@
       <itunes:duration>00:20:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260914/episode-20260914-9cd00d.mp3" length="20022573" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《李泽厚旧说四种：说巫史传统》 · 完整版 · 李泽厚旧说四种：说巫史传统 · 完整讲读</title>
+      <description>李泽厚在《说巫史传统》中提出，中华文明的底层密码不是哲学、不是宗教，而是一条绵延数千年的“巫史传统”。本书由《说巫史传统》《补》《说儒法互用》三篇组成，核心论证是：中国上古大巫师就是最早的政治首领，从颛顼、尧、舜、禹、汤、文王到周公，集神权与王权于一身；巫术礼仪经由“巫—史—礼—仁”四步理性化，最终在孔子手里转化为以亲子之爱为根基的“情本体”，奠定了中国“一个世界”、重情重人、重伦理—政治—宗教三合一的文明底色。进而，儒法互用、礼法交融使情本体在两千年帝制中存活下来。李泽厚临终前追问：在工具理性笼罩的现代社会，传统情本体能否以区分“宗教性私德”与“社会性公德”的方式，参与现代社会的重建？</description>
+      <pubDate>Tue, 15 Sep 2026 17:17:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260915-episode-20260915-22b5f3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>李泽厚在《说巫史传统》中提出，中华文明的底层密码不是哲学、不是宗教，而是一条绵延数千年的“巫史传统”。本书由《说巫史传统》《补》《说儒法互用》三篇组成，核心论证是：中国上古大巫师就是最早的政治首领，从颛顼、尧、舜、禹、汤、文王到周公，集神权与王权于一身；巫术礼仪经由“巫—史—礼—仁”四步理性化，最终在孔子手里转化为以亲子之爱为根基的“情本体”，奠定了中国“一个世界”、重情重人、重伦理—政治—宗教三合一的文明底色。进而，儒法互用、礼法交融使情本体在两千年帝制中存活下来。李泽厚临终前追问：在工具理性笼罩的现代社会，传统情本体能否以区分“宗教性私德”与“社会性公德”的方式，参与现代社会的重建？</itunes:summary>
+      <itunes:duration>00:34:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260915/episode-20260915-22b5f3.mp3" length="33353901" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
