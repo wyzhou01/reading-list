@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 15 Sep 2026 17:35:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 17:41:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19664,6 +19664,17 @@
       <itunes:duration>00:27:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260915/episode-20260915-130907.mp3" length="26241069" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《左拉集（全四册）》 · 完整版 · 左拉集（全四册） · 完整讲读</title>
+      <description>《左拉集》收录法国自然主义文学大师左拉的三部长篇代表作《娜娜》《小酒店》《戴蕾斯·拉甘》与一部中短篇精选《磨坊之役》,基本覆盖他从早年到巅峰的创作全貌。《娜娜》解剖第二帝国上流社会的腐烂,《小酒店》剖开巴黎底层工人家庭的溃烂,《戴蕾斯·拉甘》写通奸者杀夫后的灵魂崩塌,中短篇则呈现十九世纪法国从巴黎街巷到乡间磨坊的欲望、贫穷与人性挣扎。左拉用自然主义笔法,以&quot;遗传+环境&quot;双重决定论,解剖制造欲望与苦难的社会机器。一百四十年过去,这些故事依然刺眼——因为它们照见的,从来都是我们自己这个时代的伤口。</description>
+      <pubDate>Tue, 15 Sep 2026 17:41:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260915-episode-20260915-a3e967</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《左拉集》收录法国自然主义文学大师左拉的三部长篇代表作《娜娜》《小酒店》《戴蕾斯·拉甘》与一部中短篇精选《磨坊之役》,基本覆盖他从早年到巅峰的创作全貌。《娜娜》解剖第二帝国上流社会的腐烂,《小酒店》剖开巴黎底层工人家庭的溃烂,《戴蕾斯·拉甘》写通奸者杀夫后的灵魂崩塌,中短篇则呈现十九世纪法国从巴黎街巷到乡间磨坊的欲望、贫穷与人性挣扎。左拉用自然主义笔法,以&quot;遗传+环境&quot;双重决定论,解剖制造欲望与苦难的社会机器。一百四十年过去,这些故事依然刺眼——因为它们照见的,从来都是我们自己这个时代的伤口。</itunes:summary>
+      <itunes:duration>00:26:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260915/episode-20260915-a3e967.mp3" length="25907373" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
