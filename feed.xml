@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 15 Sep 2026 17:41:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 17:15:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19675,6 +19675,17 @@
       <itunes:duration>00:26:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260915/episode-20260915-a3e967.mp3" length="25907373" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《柏林孤谍》 · 完整版 · 柏林孤谍(1) · 完整讲读</title>
+      <description>一九四九年一月，柏林封锁尚未解除，四十八小时内，反法西斯作家亚力克斯流亡美国多年后回到东柏林，却发现这座城市早已不是他记忆中的模样——妻子是苏联线人，情人替美方工作，老友卷入情报战。他本是被苏联当作宣传样本的归国流亡者，又是美方安插进东柏林的暗桩。当亲情与政治正面相撞，当一段回不去的感情被推到悬崖边，他必须在亲情、爱情与信念之间做出抉择，而勃兰登堡门前那道刚刚画定的界线，注定让他无路可退。</description>
+      <pubDate>Wed, 16 Sep 2026 17:15:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260916-episode-20260916-7c0fe3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九四九年一月，柏林封锁尚未解除，四十八小时内，反法西斯作家亚力克斯流亡美国多年后回到东柏林，却发现这座城市早已不是他记忆中的模样——妻子是苏联线人，情人替美方工作，老友卷入情报战。他本是被苏联当作宣传样本的归国流亡者，又是美方安插进东柏林的暗桩。当亲情与政治正面相撞，当一段回不去的感情被推到悬崖边，他必须在亲情、爱情与信念之间做出抉择，而勃兰登堡门前那道刚刚画定的界线，注定让他无路可退。</itunes:summary>
+      <itunes:duration>00:21:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260916/episode-20260916-7c0fe3.mp3" length="20713005" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
