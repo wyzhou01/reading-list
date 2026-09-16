@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 16 Sep 2026 17:15:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 17:23:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19686,6 +19686,17 @@
       <itunes:duration>00:21:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260916/episode-20260916-7c0fe3.mp3" length="20713005" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《圆环》 · 完整版 · 圆环（汤姆·汉克斯、艾玛·沃森主演同名科幻惊悚电影原著！网络时代的乌托邦，令人憧憬的大数据背后隐藏的巨大商业阴谋！） · 完整讲读</title>
+      <description>《圆环》是戴夫·艾格斯二零一四年的反乌托邦小说。女孩梅逃离家乡小城，进入掌握全球数据的神级科技公司&quot;圆环&quot;，亲口见识了这家以&quot;连接一切&quot;为口号的乌托邦，如何一步步变成控制一切的牢笼。小说借一个被精心设计过的科技天堂，揭示了大数据时代最深的恐怖：当一家企业掌握了你所有的健康数据、政治倾向、社交关系，甚至死亡时间，它就不再是企业，而成了上帝。而上帝，是不需要被监督的。本书与奥威尔《一九八四》、赫胥黎《美丽新世界》并列为科技时代必读书目，至今读来仍像一则精准的预言。</description>
+      <pubDate>Wed, 16 Sep 2026 17:23:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260916-episode-20260916-7780b4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《圆环》是戴夫·艾格斯二零一四年的反乌托邦小说。女孩梅逃离家乡小城，进入掌握全球数据的神级科技公司&quot;圆环&quot;，亲口见识了这家以&quot;连接一切&quot;为口号的乌托邦，如何一步步变成控制一切的牢笼。小说借一个被精心设计过的科技天堂，揭示了大数据时代最深的恐怖：当一家企业掌握了你所有的健康数据、政治倾向、社交关系，甚至死亡时间，它就不再是企业，而成了上帝。而上帝，是不需要被监督的。本书与奥威尔《一九八四》、赫胥黎《美丽新世界》并列为科技时代必读书目，至今读来仍像一则精准的预言。</itunes:summary>
+      <itunes:duration>00:29:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260916/episode-20260916-7780b4.mp3" length="28118445" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
