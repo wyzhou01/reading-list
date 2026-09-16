@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 16 Sep 2026 17:50:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 17:56:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19719,6 +19719,17 @@
       <itunes:duration>00:30:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260916/episode-20260916-3953ab.mp3" length="29286573" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《不朽的钢琴家》 · 完整版 · 不朽的钢琴家_-_哈罗德 · 完整讲读</title>
+      <description>本书是一本跨越两百年的钢琴演奏史，作者勋伯格从一七零九年佛罗伦萨钢琴的诞生讲起，一路写到二十世纪后半叶的古尔德与波利尼。他面对的难题是：录音发明之前，钢琴家的手一离开琴键，声音就永远消失。本书用书信、评论、传闻、乐谱指法作为&quot;骨头碎片&quot;，重建了莫扎特、克莱门蒂、肖邦、李斯特、霍夫曼、霍洛维茨等几十位钢琴家的演奏风格与艺术哲学。它既是一部音乐史，也是一部演奏风格指南，帮助读者理解为什么同一首肖邦在不同钢琴家手中会有如此不同的面貌，并提醒我们：每一个音符背后，都站着一个活生生的人。</description>
+      <pubDate>Wed, 16 Sep 2026 17:56:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260916-episode-20260916-7f4cda</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是一本跨越两百年的钢琴演奏史，作者勋伯格从一七零九年佛罗伦萨钢琴的诞生讲起，一路写到二十世纪后半叶的古尔德与波利尼。他面对的难题是：录音发明之前，钢琴家的手一离开琴键，声音就永远消失。本书用书信、评论、传闻、乐谱指法作为&quot;骨头碎片&quot;，重建了莫扎特、克莱门蒂、肖邦、李斯特、霍夫曼、霍洛维茨等几十位钢琴家的演奏风格与艺术哲学。它既是一部音乐史，也是一部演奏风格指南，帮助读者理解为什么同一首肖邦在不同钢琴家手中会有如此不同的面貌，并提醒我们：每一个音符背后，都站着一个活生生的人。</itunes:summary>
+      <itunes:duration>00:25:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260916/episode-20260916-7f4cda.mp3" length="24856749" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
