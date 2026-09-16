@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 16 Sep 2026 17:42:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 17:50:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19708,6 +19708,17 @@
       <itunes:duration>00:38:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260916/episode-20260916-fdbceb.mp3" length="36822957" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《九州·白雀神龟》 · 完整版 · 九州·白雀神龟v1.0_-_潘海天 · 完整讲读</title>
+      <description>《白雀神龟》是潘海天创作的一部九州世界长篇奇幻小说，以胤朝末年瀚州草原为背景，讲述了蛮族少年瀛台寂从质子到帝王的传奇一生。七岁亲政、十七岁入主北都的瀛台寂，被老师古弥远培养成一枚对抗青阳崛起的关键棋子，却在追求“天下大善“的过程中，亲手毁掉了母亲、爱人、兄弟与弟子，最终二十岁便不知所终。本书以苍凉笔触探讨了命运与抗争、理想主义者的孤独、以及“为天下大善可不计小恶“的伦理之辩，是九州系列中最悲怆的一部帝王传奇。</description>
+      <pubDate>Wed, 16 Sep 2026 17:50:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260916-episode-20260916-3953ab</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《白雀神龟》是潘海天创作的一部九州世界长篇奇幻小说，以胤朝末年瀚州草原为背景，讲述了蛮族少年瀛台寂从质子到帝王的传奇一生。七岁亲政、十七岁入主北都的瀛台寂，被老师古弥远培养成一枚对抗青阳崛起的关键棋子，却在追求“天下大善“的过程中，亲手毁掉了母亲、爱人、兄弟与弟子，最终二十岁便不知所终。本书以苍凉笔触探讨了命运与抗争、理想主义者的孤独、以及“为天下大善可不计小恶“的伦理之辩，是九州系列中最悲怆的一部帝王传奇。</itunes:summary>
+      <itunes:duration>00:30:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260916/episode-20260916-3953ab.mp3" length="29286573" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
