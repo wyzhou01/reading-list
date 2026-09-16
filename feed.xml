@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 16 Sep 2026 17:23:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 17:42:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19697,6 +19697,17 @@
       <itunes:duration>00:29:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260916/episode-20260916-7780b4.mp3" length="28118445" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《选择的悖论：用心理学解读人的经济行为》 · 完整版 · 选择的悖论：用心理学解读人的经济行为 · 完整讲读</title>
+      <description>《选择的悖论》揭示了一个反直觉的真相：选择越多，我们反而越不快乐。施瓦茨通过大量心理学实验，展示了机会成本、后悔、社会比较等心理机制如何操控我们的决策，以及最大化者为何比满足者更痛苦。本书还揭示了享乐适应和期望陷阱如何让新获得的幸福很快消失。施瓦茨提出了11条实用策略，帮助我们在选择过剩的时代学会做选择者而非捡拾者，追求足够好而非最好，从而减轻选择压力，提升幸福感。</description>
+      <pubDate>Wed, 16 Sep 2026 17:42:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260916-episode-20260916-fdbceb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《选择的悖论》揭示了一个反直觉的真相：选择越多，我们反而越不快乐。施瓦茨通过大量心理学实验，展示了机会成本、后悔、社会比较等心理机制如何操控我们的决策，以及最大化者为何比满足者更痛苦。本书还揭示了享乐适应和期望陷阱如何让新获得的幸福很快消失。施瓦茨提出了11条实用策略，帮助我们在选择过剩的时代学会做选择者而非捡拾者，追求足够好而非最好，从而减轻选择压力，提升幸福感。</itunes:summary>
+      <itunes:duration>00:38:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260916/episode-20260916-fdbceb.mp3" length="36822957" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
