@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 16 Sep 2026 17:56:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 17:19:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19730,6 +19730,17 @@
       <itunes:duration>00:25:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260916/episode-20260916-7f4cda.mp3" length="24856749" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《牛津通识读本：维特根斯坦与哲学》 · 完整版 · 牛津通识读本：维特根斯坦与哲学（中文版） · 完整讲读</title>
+      <description>这本《维特根斯坦与哲学》出自英国哲学家格雷林之手，是牛津通识读本中专门介绍维特根斯坦思想主线的一本。维特根斯坦一生只出版了一部《逻辑哲学论》，却在二十世纪西方哲学中占据无可回避的位置。他早期主张语言是世界的图像，逻辑结构决定可说的边界；后期转向语言游戏说，认为意义来自使用而非对应。格雷林沿着生平、早期、后期、晚近地位四条线索，勾勒出维特根斯坦如何从逻辑图像走向语言游戏，并把他放回二十世纪分析哲学的整体地图上，与逻辑实证主义、牛津日常语言学派展开对话。书中还讨论了他晚期《论确实性》在认识论上的贡献。读这本书，你拿到的不是定论，而是一把钥匙：它帮你看清维特根斯坦关心的问题，理解他为何前后说出几乎相反的话，并把这些思考带回我们今天说话、怀疑、生活的方式之中。</description>
+      <pubDate>Thu, 17 Sep 2026 17:17:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260917-episode-20260917-6ae985</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>这本《维特根斯坦与哲学》出自英国哲学家格雷林之手，是牛津通识读本中专门介绍维特根斯坦思想主线的一本。维特根斯坦一生只出版了一部《逻辑哲学论》，却在二十世纪西方哲学中占据无可回避的位置。他早期主张语言是世界的图像，逻辑结构决定可说的边界；后期转向语言游戏说，认为意义来自使用而非对应。格雷林沿着生平、早期、后期、晚近地位四条线索，勾勒出维特根斯坦如何从逻辑图像走向语言游戏，并把他放回二十世纪分析哲学的整体地图上，与逻辑实证主义、牛津日常语言学派展开对话。书中还讨论了他晚期《论确实性》在认识论上的贡献。读这本书，你拿到的不是定论，而是一把钥匙：它帮你看清维特根斯坦关心的问题，理解他为何前后说出几乎相反的话，并把这些思考带回我们今天说话、怀疑、生活的方式之中。</itunes:summary>
+      <itunes:duration>00:33:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260917/episode-20260917-6ae985.mp3" length="32061741" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
