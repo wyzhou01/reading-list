@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 17 Sep 2026 17:36:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 17:46:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19763,6 +19763,17 @@
       <itunes:duration>00:24:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260917/episode-20260917-ef3ec1.mp3" length="23439789" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《超人类革命》 · 完整版 · 超人类革命 · 完整讲读</title>
+      <description>《超人类革命》是法国哲学家吕克·费希写给普通人的清醒剂。书的核心，是回答一个问题——在一个技术可以改写生命的时代，人该如何定义自己？费希梳理了正在美国迅猛崛起的超人类主义运动，从 NBIC 技术融合讲起，穿过医学范式从治疗到增强的转变、衰老与死亡的医学化、超人类主义内部改良派与激进派的根本分裂、生物保守主义的严肃反驳，再到共享经济与零边际成本社会的新经济形态，最后落脚于一个清醒的政治判断：监管，才是超越悲观与乐观的中间道路。这本书不站队，只辨别。它值得每一个关心人类未来的读者认真读一遍。</description>
+      <pubDate>Thu, 17 Sep 2026 17:45:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260917-episode-20260917-10d959</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《超人类革命》是法国哲学家吕克·费希写给普通人的清醒剂。书的核心，是回答一个问题——在一个技术可以改写生命的时代，人该如何定义自己？费希梳理了正在美国迅猛崛起的超人类主义运动，从 NBIC 技术融合讲起，穿过医学范式从治疗到增强的转变、衰老与死亡的医学化、超人类主义内部改良派与激进派的根本分裂、生物保守主义的严肃反驳，再到共享经济与零边际成本社会的新经济形态，最后落脚于一个清醒的政治判断：监管，才是超越悲观与乐观的中间道路。这本书不站队，只辨别。它值得每一个关心人类未来的读者认真读一遍。</itunes:summary>
+      <itunes:duration>00:37:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260917/episode-20260917-10d959.mp3" length="36011565" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
