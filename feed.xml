@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 17 Sep 2026 17:19:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 17:28:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19741,6 +19741,17 @@
       <itunes:duration>00:33:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260917/episode-20260917-6ae985.mp3" length="32061741" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《哈佛百年经典第13卷：17、18世纪英国著名哲学家》 · 完整版 · 哈佛百年经典第13卷：17、18世纪英国著名哲学家 · 完整讲读</title>
+      <description>本卷汇集洛克、贝克莱、休谟三位英国经验主义奠基者的核心著作。洛克以《教育漫话》与《人类理解论》提出&quot;白纸说&quot;，主张心灵通过经验获取观念，德性与智慧皆可由教育塑造；贝克莱在《海拉和菲伦诺的三篇对话》中将观念论推向极端，宣称&quot;存在就是被感知&quot;；休谟在《人类理解研究》中质疑因果必然性与奇迹证据，为近代怀疑主义奠基。三人共同勾勒出十七、十八世纪英国经验论从建构到解构的完整脉络，深刻塑造了康德之后的西方哲学走向，也至今仍启发每一位认真追问观念来源、理性边界与人生教养的人。</description>
+      <pubDate>Thu, 17 Sep 2026 17:27:46 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260917-episode-20260917-1347e7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本卷汇集洛克、贝克莱、休谟三位英国经验主义奠基者的核心著作。洛克以《教育漫话》与《人类理解论》提出&quot;白纸说&quot;，主张心灵通过经验获取观念，德性与智慧皆可由教育塑造；贝克莱在《海拉和菲伦诺的三篇对话》中将观念论推向极端，宣称&quot;存在就是被感知&quot;；休谟在《人类理解研究》中质疑因果必然性与奇迹证据，为近代怀疑主义奠基。三人共同勾勒出十七、十八世纪英国经验论从建构到解构的完整脉络，深刻塑造了康德之后的西方哲学走向，也至今仍启发每一位认真追问观念来源、理性边界与人生教养的人。</itunes:summary>
+      <itunes:duration>00:31:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260917/episode-20260917-1347e7.mp3" length="30131757" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
