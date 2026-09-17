@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 17 Sep 2026 17:46:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 17:53:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19774,6 +19774,17 @@
       <itunes:duration>00:37:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260917/episode-20260917-10d959.mp3" length="36011565" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大英帝国的崛起与衰落》 · 完整版 · 大英帝国的崛起与衰落 · 完整讲读</title>
+      <description>《大英帝国的崛起与衰落》是英国历史学家劳伦斯·詹姆斯写就的一部近六十万字的英帝国通史。从一六零零年东印度公司成立到一九九八年香港回归，本书用近四百年的时间跨度，讲述了这个世界史上最大帝国如何从一群海盗起家的商人，一步步凭借股份公司、烟草贸易、海上霸权与工业革命，撑起一个日不落帝国的全过程；又如何因自身宣扬的法律、自由与宪政，被殖民地人民反过来用作拆掉帝国的武器；最终在二战后的灰烬中，由艾德礼、麦克劳德、麦克米伦等政治家在谈判桌上完成了比法国、葡萄牙、俄罗斯都更体面的和平解体。本书最核心的洞察在于英帝国的双重悖论：一方面它培养了种族傲慢，相信白人有统治其他民族的天然权利；另一方面它又催生了一种道德感——既然帝国是为了“传播文明“而来，那么殖民地人民一旦学会了自由，他们就有权要求独立。这种“自我拆台“的逻辑，正是理解英帝国如何兴起、如何瓦解的关键。读懂这部帝国史，也就读懂了今天全球秩序的底层密码。</description>
+      <pubDate>Thu, 17 Sep 2026 17:53:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260917-episode-20260917-ef2098</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大英帝国的崛起与衰落》是英国历史学家劳伦斯·詹姆斯写就的一部近六十万字的英帝国通史。从一六零零年东印度公司成立到一九九八年香港回归，本书用近四百年的时间跨度，讲述了这个世界史上最大帝国如何从一群海盗起家的商人，一步步凭借股份公司、烟草贸易、海上霸权与工业革命，撑起一个日不落帝国的全过程；又如何因自身宣扬的法律、自由与宪政，被殖民地人民反过来用作拆掉帝国的武器；最终在二战后的灰烬中，由艾德礼、麦克劳德、麦克米伦等政治家在谈判桌上完成了比法国、葡萄牙、俄罗斯都更体面的和平解体。本书最核心的洞察在于英帝国的双重悖论：一方面它培养了种族傲慢，相信白人有统治其他民族的天然权利；另一方面它又催生了一种道德感——既然帝国是为了“传播文明“而来，那么殖民地人民一旦学会了自由，他们就有权要求独立。这种“自我拆台“的逻辑，正是理解英帝国如何兴起、如何瓦解的关键。读懂这部帝国史，也就读懂了今天全球秩序的底层密码。</itunes:summary>
+      <itunes:duration>00:28:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260917/episode-20260917-ef2098.mp3" length="27555885" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
