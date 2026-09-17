@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 17 Sep 2026 17:28:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 17:36:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19752,6 +19752,17 @@
       <itunes:duration>00:31:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260917/episode-20260917-1347e7.mp3" length="30131757" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《李碧华经典小说集》 · 完整版 · 李碧华经典小说集 · 完整讲读</title>
+      <description>《李碧华经典小说集》收录了《霸王别姬》《胭脂扣》《青蛇》《潘金莲之前世今生》《生死桥》等代表作。横跨一九八零至一九九〇年代香港电影的黄金期，李碧华以现代意识重写古典传奇，写梨园、烟花、江湖、宫廷，却处处透着香港人对身份与命运的焦虑。书的主题是宿命与轮回，人物在前世今生间纠缠不休。她笔下的女人个个刚烈——程蝶衣笑着死，如花等了五十三年，潘金莲转世算账，青蛇质疑白蛇的痴情。女人狠起来不是为赢，是为一个交代；男人多是逃兵，转身就能活下去。她写的不是歌颂爱情，而是把爱情当鸦片来写——明知道有毒，明知道烧身，还是要抽。看完这本书你会懂：人活到最后，都在唱一出折子戏，只肯露最好看的那一段，中间血泪全藏起来。而那些不肯下台的人，才是李碧华真正想写的。</description>
+      <pubDate>Thu, 17 Sep 2026 17:36:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260917-episode-20260917-ef3ec1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《李碧华经典小说集》收录了《霸王别姬》《胭脂扣》《青蛇》《潘金莲之前世今生》《生死桥》等代表作。横跨一九八零至一九九〇年代香港电影的黄金期，李碧华以现代意识重写古典传奇，写梨园、烟花、江湖、宫廷，却处处透着香港人对身份与命运的焦虑。书的主题是宿命与轮回，人物在前世今生间纠缠不休。她笔下的女人个个刚烈——程蝶衣笑着死，如花等了五十三年，潘金莲转世算账，青蛇质疑白蛇的痴情。女人狠起来不是为赢，是为一个交代；男人多是逃兵，转身就能活下去。她写的不是歌颂爱情，而是把爱情当鸦片来写——明知道有毒，明知道烧身，还是要抽。看完这本书你会懂：人活到最后，都在唱一出折子戏，只肯露最好看的那一段，中间血泪全藏起来。而那些不肯下台的人，才是李碧华真正想写的。</itunes:summary>
+      <itunes:duration>00:24:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260917/episode-20260917-ef3ec1.mp3" length="23439789" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
