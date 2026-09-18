@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 18 Sep 2026 17:57:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 18:08:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19917,6 +19917,17 @@
       <itunes:duration>00:31:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260918/episode-20260918-a12da7.mp3" length="30068781" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《雅克团》 · 完整版 · 梅里美集(03)雅克团 · 完整讲读</title>
+      <description>《雅克团》是法国作家梅里美创作的诗体历史剧，以十四世纪百年战争为背景，再现一三五八年法国扎克雷起义的血泪史。剧本通过狼人结义、浪人骑士劫掠、贵族修道院权力交易、农民起义与镇压等三十六场戏，写出了底层农民在饥荒、战争、贵族欺压下的绝境反抗，也写出了骑士道义的虚伪、玻璃天花板的不公、阶级暴力代际传递的冷酷。梅里美不站队，只摆事实，让六百年前的压迫结构在今天依然刺眼。读这部戏，不是为了怀古，是为了看清我们自己正站在哪一边。</description>
+      <pubDate>Fri, 18 Sep 2026 18:08:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260918-episode-20260918-91d5cf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《雅克团》是法国作家梅里美创作的诗体历史剧，以十四世纪百年战争为背景，再现一三五八年法国扎克雷起义的血泪史。剧本通过狼人结义、浪人骑士劫掠、贵族修道院权力交易、农民起义与镇压等三十六场戏，写出了底层农民在饥荒、战争、贵族欺压下的绝境反抗，也写出了骑士道义的虚伪、玻璃天花板的不公、阶级暴力代际传递的冷酷。梅里美不站队，只摆事实，让六百年前的压迫结构在今天依然刺眼。读这部戏，不是为了怀古，是为了看清我们自己正站在哪一边。</itunes:summary>
+      <itunes:duration>00:36:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260918/episode-20260918-91d5cf.mp3" length="35124909" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
