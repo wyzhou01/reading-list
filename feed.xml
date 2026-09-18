@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 18 Sep 2026 17:39:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 17:42:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19873,6 +19873,17 @@
       <itunes:duration>00:31:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260918/episode-20260918-ffb912.mp3" length="30288045" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《天使，望故乡》 · 完整版 · 天使，望故乡_-_托马斯·沃尔夫 · 完整讲读</title>
+      <description>《天使，望故乡》是美国作家托马斯·沃尔夫的处女作，一九二九年出版后震动全美。小说讲述了南方少年尤金·甘特在父亲——一个郁郁不得志的石雕匠——和精明强干的母亲之间长大，从北卡罗来纳州的阿尔特蒙山间一路走到哈佛与纽约的故事。贯穿全书的三个意象——一块石头、一片树叶、一扇没有找到的门——象征着整整一代迷惘青年在旧信仰崩塌、新秩序未成形时代的集体饥饿。沃尔夫以滚烫、近乎失控的长句独白，写出了一个关于“逃离与回不去”的精神史诗，被誉为“迷惘的一代”之后美国南方文学复兴的先声，也是每一个离开家乡又永远回不去的人的精神寓言。</description>
+      <pubDate>Fri, 18 Sep 2026 17:42:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260918-episode-20260918-c56955</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《天使，望故乡》是美国作家托马斯·沃尔夫的处女作，一九二九年出版后震动全美。小说讲述了南方少年尤金·甘特在父亲——一个郁郁不得志的石雕匠——和精明强干的母亲之间长大，从北卡罗来纳州的阿尔特蒙山间一路走到哈佛与纽约的故事。贯穿全书的三个意象——一块石头、一片树叶、一扇没有找到的门——象征着整整一代迷惘青年在旧信仰崩塌、新秩序未成形时代的集体饥饿。沃尔夫以滚烫、近乎失控的长句独白，写出了一个关于“逃离与回不去”的精神史诗，被誉为“迷惘的一代”之后美国南方文学复兴的先声，也是每一个离开家乡又永远回不去的人的精神寓言。</itunes:summary>
+      <itunes:duration>00:30:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260918/episode-20260918-c56955.mp3" length="29244717" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
