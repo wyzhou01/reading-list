@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 18 Sep 2026 17:33:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 17:39:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19862,6 +19862,17 @@
       <itunes:duration>00:26:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260918/episode-20260918-9dff7f.mp3" length="25312557" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《内向者优势》 · 完整版 · 内向者优势 · 完整讲读</title>
+      <description>《内向者优势》由美国心理治疗师玛蒂·兰妮所著，是一本为内向者而写的性格指南。兰妮结合自身经历与五十多位受访者的真实故事，从生理学、神经科学、心理学角度论证：内向是一种有生理基础的正常气质，不是缺陷。本书围绕三大板块展开：第一部分澄清&quot;内向是什么、为何被误解&quot;，指出内向与外向在内向/外向连续体上平等，只是获取能量的方式不同；第二部分聚焦婚姻、家庭、社交与工作四大场景，给出可操作的扬长避短策略，例如在婚姻中把&quot;我需要安静&quot;翻译为&quot;我需要充电&quot;，在职场争取专属的安静时间、用书面沟通替代即兴发言；第三部分提出三个P原则——个人节奏、个人优先级、个人边界，帮助内向者按自己的天性创造&quot;正好合适的&quot;生活。这本书既不是鼓励内向者强行变得外向，也不是冷冰冰的学术报告，而是温柔地告诉每一个觉得&quot;自己不合群&quot;的人：你没有毛病，你只是性格内向而已。当你接受这份安静的天赋，并学会用适合自己的方式生活，这个世界也会因此变得更加完整。</description>
+      <pubDate>Fri, 18 Sep 2026 17:39:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260918-episode-20260918-ffb912</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《内向者优势》由美国心理治疗师玛蒂·兰妮所著，是一本为内向者而写的性格指南。兰妮结合自身经历与五十多位受访者的真实故事，从生理学、神经科学、心理学角度论证：内向是一种有生理基础的正常气质，不是缺陷。本书围绕三大板块展开：第一部分澄清&quot;内向是什么、为何被误解&quot;，指出内向与外向在内向/外向连续体上平等，只是获取能量的方式不同；第二部分聚焦婚姻、家庭、社交与工作四大场景，给出可操作的扬长避短策略，例如在婚姻中把&quot;我需要安静&quot;翻译为&quot;我需要充电&quot;，在职场争取专属的安静时间、用书面沟通替代即兴发言；第三部分提出三个P原则——个人节奏、个人优先级、个人边界，帮助内向者按自己的天性创造&quot;正好合适的&quot;生活。这本书既不是鼓励内向者强行变得外向，也不是冷冰冰的学术报告，而是温柔地告诉每一个觉得&quot;自己不合群&quot;的人：你没有毛病，你只是性格内向而已。当你接受这份安静的天赋，并学会用适合自己的方式生活，这个世界也会因此变得更加完整。</itunes:summary>
+      <itunes:duration>00:31:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260918/episode-20260918-ffb912.mp3" length="30288045" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
