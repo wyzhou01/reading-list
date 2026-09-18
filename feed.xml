@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 18 Sep 2026 17:24:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 17:25:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19829,6 +19829,17 @@
       <itunes:duration>00:26:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260918/episode-20260918-a6c907.mp3" length="25332525" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《木锡镇》 · 完整版 · 木锡镇(1) · 完整讲读</title>
+      <description>《木锡镇》是鬼马星二零零九年出版的悬疑小说，也是她酷法医系列的重要作品。一个男人在六间客房的小旅馆里凭空消失，调查这起失踪案的青年狄亮是一个夜盲患者，他白天做木雕、替警察父亲维持治安，到了晚上却完全失去光明。随着狄亮的调查推进，他渐渐发现失踪者王海南八年前曾肇事导致一对夫妇死亡，而凶手正是当年孤女程惜言，她在王海南常去的米团店里下毒复仇。在一个看不见的夜里，狄亮凭声音认出了假装成女教师的王海南，亲手勒死了他，并在地下室里把人和两个箱子一起烧成灰烬。整本书用盲人视角颠覆了读者对不可能犯罪的常规认知，核心追问是：当法律无法惩罚真正的凶手，一个普通人有没有权利自己去执行那份惩罚，而执行者恰恰是一个在黑暗里训练了半辈子的人。</description>
+      <pubDate>Fri, 18 Sep 2026 17:25:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260918-episode-20260918-c86660</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《木锡镇》是鬼马星二零零九年出版的悬疑小说，也是她酷法医系列的重要作品。一个男人在六间客房的小旅馆里凭空消失，调查这起失踪案的青年狄亮是一个夜盲患者，他白天做木雕、替警察父亲维持治安，到了晚上却完全失去光明。随着狄亮的调查推进，他渐渐发现失踪者王海南八年前曾肇事导致一对夫妇死亡，而凶手正是当年孤女程惜言，她在王海南常去的米团店里下毒复仇。在一个看不见的夜里，狄亮凭声音认出了假装成女教师的王海南，亲手勒死了他，并在地下室里把人和两个箱子一起烧成灰烬。整本书用盲人视角颠覆了读者对不可能犯罪的常规认知，核心追问是：当法律无法惩罚真正的凶手，一个普通人有没有权利自己去执行那份惩罚，而执行者恰恰是一个在黑暗里训练了半辈子的人。</itunes:summary>
+      <itunes:duration>00:27:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260918/episode-20260918-c86660.mp3" length="26392365" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
