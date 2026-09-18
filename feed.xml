@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 18 Sep 2026 17:18:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 17:20:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19807,6 +19807,17 @@
       <itunes:duration>00:33:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260918/episode-20260918-f16032.mp3" length="32152365" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《第二次机器革命》 · 完整版 · 第二次机器革命_-_[美]埃里克·布莱恩约弗森 · 完整讲读</title>
+      <description>《第二次机器革命》是麻省理工两位经济学家布莱恩约弗森和麦卡菲在二零一四年写下的数字经济路线图。书中提出，人类正处在由指数级算力、数字化、组合式创新三大力量同时引爆的转折点上，机器从延伸肌肉转向替代大脑，人机关系从互补走向替代，由此带来生产率悖论、GDP 失灵、财富大分化与赢家通吃格局。作者主张，教育必须从批量制造转向激发人的独特能力，税收、竞争政策、社会保障要同步重构，个人与企业要主动与机器竞赛而非对抗，技术红利究竟是福祉还是灾难，最终取决于人类自己的选择。</description>
+      <pubDate>Fri, 18 Sep 2026 17:20:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260918-episode-20260918-25b381</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《第二次机器革命》是麻省理工两位经济学家布莱恩约弗森和麦卡菲在二零一四年写下的数字经济路线图。书中提出，人类正处在由指数级算力、数字化、组合式创新三大力量同时引爆的转折点上，机器从延伸肌肉转向替代大脑，人机关系从互补走向替代，由此带来生产率悖论、GDP 失灵、财富大分化与赢家通吃格局。作者主张，教育必须从批量制造转向激发人的独特能力，税收、竞争政策、社会保障要同步重构，个人与企业要主动与机器竞赛而非对抗，技术红利究竟是福祉还是灾难，最终取决于人类自己的选择。</itunes:summary>
+      <itunes:duration>00:27:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260918/episode-20260918-25b381.mp3" length="26865837" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
