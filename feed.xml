@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 18 Sep 2026 17:49:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 17:57:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19906,6 +19906,17 @@
       <itunes:duration>00:32:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260918/episode-20260918-2bf18b.mp3" length="31354029" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《别让你的眼神出卖你：全方位看懂人心的FBI识人术》 · 完整版 · 别让你的眼神出卖你：全方位看懂人心的FBI识人术 · 完整讲读</title>
+      <description>《别让你的眼神出卖你》以美国联邦调查局的识人方法为主线，系统讲解如何通过外貌、表情、姿势、生活习惯、肢体语言、言语交谈、撒谎破绽与设陷试探八个维度，读懂他人的真实意图与心理状态。本书由知墨编著，人民邮电出版社出版，是面向普通读者的通俗心理学读物。书中结合 FBI 资深探员乔·纳瓦罗的七三法则、行为心理学与犯罪心理学知识，配合大量真实案例，把原本只在刑侦领域使用的技术，搬到了职场谈判、人际交往与亲密关系等日常场景。读完之后，你会发现识人术的本质不是变成看穿所有人的超人，而是学会用更耐心的观察、更克制的心态，去识别身边人真实的样子。</description>
+      <pubDate>Fri, 18 Sep 2026 17:57:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260918-episode-20260918-a12da7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《别让你的眼神出卖你》以美国联邦调查局的识人方法为主线，系统讲解如何通过外貌、表情、姿势、生活习惯、肢体语言、言语交谈、撒谎破绽与设陷试探八个维度，读懂他人的真实意图与心理状态。本书由知墨编著，人民邮电出版社出版，是面向普通读者的通俗心理学读物。书中结合 FBI 资深探员乔·纳瓦罗的七三法则、行为心理学与犯罪心理学知识，配合大量真实案例，把原本只在刑侦领域使用的技术，搬到了职场谈判、人际交往与亲密关系等日常场景。读完之后，你会发现识人术的本质不是变成看穿所有人的超人，而是学会用更耐心的观察、更克制的心态，去识别身边人真实的样子。</itunes:summary>
+      <itunes:duration>00:31:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260918/episode-20260918-a12da7.mp3" length="30068781" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
