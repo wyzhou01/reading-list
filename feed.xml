@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 18 Sep 2026 17:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 17:24:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19818,6 +19818,17 @@
       <itunes:duration>00:27:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260918/episode-20260918-25b381.mp3" length="26865837" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《永乐风云(第4卷)：万代千秋》 · 完整版 · 永乐风云(第4卷)：万代千秋_-_殷明 · 完整讲读</title>
+      <description>《永乐风云》第四卷《万代千秋》，以明成祖朱棣晚年为核心舞台，把镜头对准永乐二十二年的三大终局博弈——白莲教起义背后的汉王阴谋、紫禁城三殿被赵王付之一炬的惊天宫变、以及永乐五征漠北途中龙驭上宾后太子朱高炽以一封假军报智取赵王的权力收网。作家殷明用小说笔法还原了盛世表象下的权力暗战：汉王勾结纪纲走私精铁资敌瓦剌、赵王暗中蓄势觎大位、白莲圣母唐赛儿案牵出惊天内幕、建文下落终于查明。读懂这一卷，便读懂了一个伟大帝王在暮年如何处理继承危机，也读懂了大明皇权如何从刀光剑影中完成交接。</description>
+      <pubDate>Fri, 18 Sep 2026 17:24:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260918-episode-20260918-a6c907</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《永乐风云》第四卷《万代千秋》，以明成祖朱棣晚年为核心舞台，把镜头对准永乐二十二年的三大终局博弈——白莲教起义背后的汉王阴谋、紫禁城三殿被赵王付之一炬的惊天宫变、以及永乐五征漠北途中龙驭上宾后太子朱高炽以一封假军报智取赵王的权力收网。作家殷明用小说笔法还原了盛世表象下的权力暗战：汉王勾结纪纲走私精铁资敌瓦剌、赵王暗中蓄势觎大位、白莲圣母唐赛儿案牵出惊天内幕、建文下落终于查明。读懂这一卷，便读懂了一个伟大帝王在暮年如何处理继承危机，也读懂了大明皇权如何从刀光剑影中完成交接。</itunes:summary>
+      <itunes:duration>00:26:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260918/episode-20260918-a6c907.mp3" length="25332525" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
