@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 18 Sep 2026 17:25:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 17:31:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19840,6 +19840,17 @@
       <itunes:duration>00:27:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260918/episode-20260918-c86660.mp3" length="26392365" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《近代史新论》 · 完整版 · 近代史新论 · 完整讲读</title>
+      <description>《近代史新论》是华东师范大学教授夏东元年近九十时亲自编定的学术自选集。全书以&quot;中国资本主义的酝酿、发生、发展&quot;为一百一十年近代史的主线，以一八九八年戊戌变法为分段线，重新审视洋务运动、戊戌变法、辛亥革命等重大事件，并重新评价奕䜣、李鸿章、盛宣怀、郑观应等近代人物。书中既有理论建构，又有个案研究，集中体现了作者&quot;坚实的马克思主义理论、第一手原始资料、广泛的社会实践&quot;三者融会贯通的治学精神，以及&quot;史学的生命力在于创新&quot;的核心主张。</description>
+      <pubDate>Fri, 18 Sep 2026 17:31:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260918-episode-20260918-829487</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《近代史新论》是华东师范大学教授夏东元年近九十时亲自编定的学术自选集。全书以&quot;中国资本主义的酝酿、发生、发展&quot;为一百一十年近代史的主线，以一八九八年戊戌变法为分段线，重新审视洋务运动、戊戌变法、辛亥革命等重大事件，并重新评价奕䜣、李鸿章、盛宣怀、郑观应等近代人物。书中既有理论建构，又有个案研究，集中体现了作者&quot;坚实的马克思主义理论、第一手原始资料、广泛的社会实践&quot;三者融会贯通的治学精神，以及&quot;史学的生命力在于创新&quot;的核心主张。</itunes:summary>
+      <itunes:duration>00:36:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260918/episode-20260918-829487.mp3" length="34779309" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
