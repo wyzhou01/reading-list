@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 18 Sep 2026 18:08:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 18:14:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19928,6 +19928,17 @@
       <itunes:duration>00:36:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260918/episode-20260918-91d5cf.mp3" length="35124909" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《阿尔萨斯的一年》 · 完整版 · 阿尔萨斯的一年_-_申赋渔，申杭之 · 完整讲读</title>
+      <description>《阿尔萨斯的一年》是资深媒体人申赋渔与十二岁女儿申杭之共同完成的非虚构作品。2010 年代初，一家三口旅居法国，父亲在阿尔萨斯首府斯特拉斯堡做常驻记者，母亲做访问学者，女儿在当地中学读书。一年间，父女二人交替书写：用记者的眼睛看古战场、农民大游行、叙利亚难民、边缘互助组织 ADMR、市长一天处理几十件琐事的颗粒度治理；用十二岁女孩的眼睛看异国校园、电饭煲当锅煮面条的狼狈、被战争改写命运的同龄人。本书既是一个中国家庭在异国生存的现场笔记，也是对法国市镇基层治理、欧洲历史与边缘人群的近距离素描。它让我们看到，衡量一个社会的尺度，不是它的 GDP，而是它愿意为“没有用的人”花多少力气。</description>
+      <pubDate>Fri, 18 Sep 2026 18:14:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260918-episode-20260918-cebefe</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《阿尔萨斯的一年》是资深媒体人申赋渔与十二岁女儿申杭之共同完成的非虚构作品。2010 年代初，一家三口旅居法国，父亲在阿尔萨斯首府斯特拉斯堡做常驻记者，母亲做访问学者，女儿在当地中学读书。一年间，父女二人交替书写：用记者的眼睛看古战场、农民大游行、叙利亚难民、边缘互助组织 ADMR、市长一天处理几十件琐事的颗粒度治理；用十二岁女孩的眼睛看异国校园、电饭煲当锅煮面条的狼狈、被战争改写命运的同龄人。本书既是一个中国家庭在异国生存的现场笔记，也是对法国市镇基层治理、欧洲历史与边缘人群的近距离素描。它让我们看到，衡量一个社会的尺度，不是它的 GDP，而是它愿意为“没有用的人”花多少力气。</itunes:summary>
+      <itunes:duration>00:32:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260918/episode-20260918-cebefe.mp3" length="31332909" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
