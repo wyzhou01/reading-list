@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 18 Sep 2026 17:31:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 17:33:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19851,6 +19851,17 @@
       <itunes:duration>00:36:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260918/episode-20260918-829487.mp3" length="34779309" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大家小书：唐代社会概略》 · 完整版 · 大家小书：唐代社会概略 · 完整讲读</title>
+      <description>《唐代社会概略》是广西学者黄现璠一九三六年出版的史学名作，也是中国第一部以社会史视角系统研究唐代的著作。全书仅十万字，却以阶级、风俗、借贷、交通四个维度剖开一个鲜活的唐代：黄现璠首创“以诗证史“的治史方法，把唐诗与正史互证；他笔下的“阶级“既吸收唯物史观，又保留中国传统“阶层“的双重含义；他写贱民的不幸、娼妓的泪水、借贷背后的资本与道德、驿传系统的精密与人情，把大唐从诗酒繁华里拉回到泥土与血肉之中。这本“大家小书“历经近九十年仍在不断再版，黄现璠先生治史六十余年的严谨、自律与温度，在这部开山之作里一览无余。重读它，不仅是重读一个王朝，更是重读一种“温故而知新“的精神。</description>
+      <pubDate>Fri, 18 Sep 2026 17:33:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260918-episode-20260918-9dff7f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《唐代社会概略》是广西学者黄现璠一九三六年出版的史学名作，也是中国第一部以社会史视角系统研究唐代的著作。全书仅十万字，却以阶级、风俗、借贷、交通四个维度剖开一个鲜活的唐代：黄现璠首创“以诗证史“的治史方法，把唐诗与正史互证；他笔下的“阶级“既吸收唯物史观，又保留中国传统“阶层“的双重含义；他写贱民的不幸、娼妓的泪水、借贷背后的资本与道德、驿传系统的精密与人情，把大唐从诗酒繁华里拉回到泥土与血肉之中。这本“大家小书“历经近九十年仍在不断再版，黄现璠先生治史六十余年的严谨、自律与温度，在这部开山之作里一览无余。重读它，不仅是重读一个王朝，更是重读一种“温故而知新“的精神。</itunes:summary>
+      <itunes:duration>00:26:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260918/episode-20260918-9dff7f.mp3" length="25312557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
