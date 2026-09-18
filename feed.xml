@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 18 Sep 2026 17:42:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 17:46:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19884,6 +19884,17 @@
       <itunes:duration>00:30:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260918/episode-20260918-c56955.mp3" length="29244717" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《恐龙文明三部曲·远望》 · 完整版 · 恐龙文明三部曲_-_[加]_罗伯特·j·索耶 · 完整讲读</title>
+      <description>加拿大作家罗伯特·索耶的《远望》，是恐龙文明三部曲的开篇。少年恐龙阿夫塞在宫廷占星师学徒期间，用自制的远望镜发现头顶的类星体“上帝之脸”将在五百年内炸成超新星，整个文明必须造方舟逃离母星。他顶着宫廷保守派的打压，把一个没人敢说的预言，变成了一份有时间表、有路线图的救亡工程。整套三部曲借恐龙的视角，串起三个现代人绕不开的偏见：对权威的迷信、对未知的恐惧、对“他们”的排斥，呼吁每一个读者抬头观察、敢于说出、愿意承担。</description>
+      <pubDate>Fri, 18 Sep 2026 17:46:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260918-episode-20260918-92f1c5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>加拿大作家罗伯特·索耶的《远望》，是恐龙文明三部曲的开篇。少年恐龙阿夫塞在宫廷占星师学徒期间，用自制的远望镜发现头顶的类星体“上帝之脸”将在五百年内炸成超新星，整个文明必须造方舟逃离母星。他顶着宫廷保守派的打压，把一个没人敢说的预言，变成了一份有时间表、有路线图的救亡工程。整套三部曲借恐龙的视角，串起三个现代人绕不开的偏见：对权威的迷信、对未知的恐惧、对“他们”的排斥，呼吁每一个读者抬头观察、敢于说出、愿意承担。</itunes:summary>
+      <itunes:duration>00:34:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260918/episode-20260918-92f1c5.mp3" length="33297069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
