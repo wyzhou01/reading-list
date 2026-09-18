@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 18 Sep 2026 17:46:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 17:49:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19895,6 +19895,17 @@
       <itunes:duration>00:34:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260918/episode-20260918-92f1c5.mp3" length="33297069" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《吴敬琏谈钱荒（中国故事）》 · 完整版 · 吴敬琏谈钱荒_(中国故事) · 完整讲读</title>
+      <description>《吴敬琏谈钱荒》汇集吴敬琏二零一三至二零一四年关于改革顶层设计、增长方式转型、房地产泡沫、人民币国际化的核心判断。全书以二零一三年银行间市场钱荒为切口，直指旧增长模式的不可持续：投资报酬递减、货币超发、杠杆率攀升、影子银行野蛮生长、地方政府投资冲动。书中系统阐释&quot;双重体制并存&quot;的体制根源，提出全面深化改革必须依靠&quot;最小一揽子&quot;配套方案，覆盖财税、金融、社保与国企改革，并强调去杠杆需用市场办法。这是一份穿透短期波动、直指长期矛盾的改革诊断书，为理解中国经济转型逻辑提供不可替代的洞察。</description>
+      <pubDate>Fri, 18 Sep 2026 17:49:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260918-episode-20260918-2bf18b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《吴敬琏谈钱荒》汇集吴敬琏二零一三至二零一四年关于改革顶层设计、增长方式转型、房地产泡沫、人民币国际化的核心判断。全书以二零一三年银行间市场钱荒为切口，直指旧增长模式的不可持续：投资报酬递减、货币超发、杠杆率攀升、影子银行野蛮生长、地方政府投资冲动。书中系统阐释&quot;双重体制并存&quot;的体制根源，提出全面深化改革必须依靠&quot;最小一揽子&quot;配套方案，覆盖财税、金融、社保与国企改革，并强调去杠杆需用市场办法。这是一份穿透短期波动、直指长期矛盾的改革诊断书，为理解中国经济转型逻辑提供不可替代的洞察。</itunes:summary>
+      <itunes:duration>00:32:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260918/episode-20260918-2bf18b.mp3" length="31354029" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
