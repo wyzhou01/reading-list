@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 18 Sep 2026 17:14:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 17:18:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19796,6 +19796,17 @@
       <itunes:duration>00:21:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260918/episode-20260918-c850fa.mp3" length="20684589" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《寻找死亡的男人》 · 完整版 · 寻找死亡的男人 · 完整讲读</title>
+      <description>德国作家马丁·瓦尔泽的晚年之作《寻找死亡的男人》，讲述七十二岁的特奥·沙特在合伙人背叛、公司一夜清零之后，给一位从未谋面的虚构作家写下二十八封信。他借絮语式的书信，把对&quot;美即正义&quot;的愤怒、对衰老的不甘、对死亡的迷恋、对情人与妻子的摇摆、对自杀论坛网友紫菀的同盟与失去，全部倒进文字。这不是一本让人舒服的书，却诚实得近乎残忍：它承认人是脆弱的、会背叛的、是会被背叛的；它承认活下去的理由常常只是&quot;还没想好怎么死&quot;。瓦尔泽用十四万字示范了——敢承认自己不敢死的人，就是人。</description>
+      <pubDate>Fri, 18 Sep 2026 17:18:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260918-episode-20260918-f16032</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>德国作家马丁·瓦尔泽的晚年之作《寻找死亡的男人》，讲述七十二岁的特奥·沙特在合伙人背叛、公司一夜清零之后，给一位从未谋面的虚构作家写下二十八封信。他借絮语式的书信，把对&quot;美即正义&quot;的愤怒、对衰老的不甘、对死亡的迷恋、对情人与妻子的摇摆、对自杀论坛网友紫菀的同盟与失去，全部倒进文字。这不是一本让人舒服的书，却诚实得近乎残忍：它承认人是脆弱的、会背叛的、是会被背叛的；它承认活下去的理由常常只是&quot;还没想好怎么死&quot;。瓦尔泽用十四万字示范了——敢承认自己不敢死的人，就是人。</itunes:summary>
+      <itunes:duration>00:33:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260918/episode-20260918-f16032.mp3" length="32152365" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
