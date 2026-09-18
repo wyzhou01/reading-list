@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 18 Sep 2026 18:14:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 18:20:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19939,6 +19939,17 @@
       <itunes:duration>00:32:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260918/episode-20260918-cebefe.mp3" length="31332909" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《SQL入门经典（第5版）》 · 完整版 · SQL入门经典(第5版)_ · 完整讲读</title>
+      <description>本期节目用九十分钟时间,精读《SQL入门经典》第五版。这本由Ryan Stephens、Ron Plew、Arie D. Jones三位美国数据库专家合著、人民邮电出版社引进的入门书,全书九大部分、二十四个章节,从SQL历史和ANSI标准讲起,系统覆盖建库建表、数据类型、完整性约束、增删改查、操作符过滤、汇总函数、排序分组、字符与日期函数、多表结合、子查询、集合运算、索引机制、性能优化、事务控制、用户安全、视图异名、系统目录、高级主题以及SQL在企业、互联网、内部网中的扩展应用。本书最大的特点是明确区分ANSI SQL标准与MySQL、Oracle、SQL Server三大厂商实现之间的差异,书后附录提供三大数据库的安装指南、范例建表语句和习题答案。节目提炼出三大核心洞察:索引不是越多越好而是越准越好,SQL性能优化的本质是在和优化器博弈,从单条语句到事务是从能跑到敢用的跨越。学完这本书,你不会立刻成为数据库专家,但会拥有完整的知识地图,从此面对任何数据库问题都有方向可查。</description>
+      <pubDate>Fri, 18 Sep 2026 18:20:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260918-episode-20260918-88774f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期节目用九十分钟时间,精读《SQL入门经典》第五版。这本由Ryan Stephens、Ron Plew、Arie D. Jones三位美国数据库专家合著、人民邮电出版社引进的入门书,全书九大部分、二十四个章节,从SQL历史和ANSI标准讲起,系统覆盖建库建表、数据类型、完整性约束、增删改查、操作符过滤、汇总函数、排序分组、字符与日期函数、多表结合、子查询、集合运算、索引机制、性能优化、事务控制、用户安全、视图异名、系统目录、高级主题以及SQL在企业、互联网、内部网中的扩展应用。本书最大的特点是明确区分ANSI SQL标准与MySQL、Oracle、SQL Server三大厂商实现之间的差异,书后附录提供三大数据库的安装指南、范例建表语句和习题答案。节目提炼出三大核心洞察:索引不是越多越好而是越准越好,SQL性能优化的本质是在和优化器博弈,从单条语句到事务是从能跑到敢用的跨越。学完这本书,你不会立刻成为数据库专家,但会拥有完整的知识地图,从此面对任何数据库问题都有方向可查。</itunes:summary>
+      <itunes:duration>00:22:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260918/episode-20260918-88774f.mp3" length="22059309" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
