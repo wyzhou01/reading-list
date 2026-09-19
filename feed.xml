@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 19 Sep 2026 17:24:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 17:30:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19972,6 +19972,17 @@
       <itunes:duration>00:45:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260919/episode-20260919-8e638a.mp3" length="44088237" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《披着羊皮的狼：如何与控制型人格相处》 · 完整版 · 披着羊皮的狼(1) · 完整讲读</title>
+      <description>《披着羊皮的狼》由美国临床心理学家乔治·K·西蒙所著，是隐性-攻击型人格研究的经典之作。本书系统拆解了控制型人格的八大欺骗策略，揭示操控者以柔弱外表包装攻击、以受害者姿态反客为主的心理机制，并通过大量真实案例给出识别工具与应对步骤，帮助长期困惑、疲惫、自我怀疑的读者，看清身边那些披着羊皮的关系究竟发生了什么，重新拿回属于自己的感受与边界。</description>
+      <pubDate>Sat, 19 Sep 2026 17:30:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260919-episode-20260919-47d1ed</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《披着羊皮的狼》由美国临床心理学家乔治·K·西蒙所著，是隐性-攻击型人格研究的经典之作。本书系统拆解了控制型人格的八大欺骗策略，揭示操控者以柔弱外表包装攻击、以受害者姿态反客为主的心理机制，并通过大量真实案例给出识别工具与应对步骤，帮助长期困惑、疲惫、自我怀疑的读者，看清身边那些披着羊皮的关系究竟发生了什么，重新拿回属于自己的感受与边界。</itunes:summary>
+      <itunes:duration>00:29:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260919/episode-20260919-47d1ed.mp3" length="28675629" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
