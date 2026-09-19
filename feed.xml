@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 19 Sep 2026 17:36:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 17:45:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19994,6 +19994,17 @@
       <itunes:duration>00:24:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260919/episode-20260919-8881fb.mp3" length="23268909" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《陌生人溺水》 · 完整版 · 陌生人溺水 · 完整讲读</title>
+      <description>《陌生人溺水》是一本关于极端利他主义的非虚构作品。作者拉里莎·麦克法夸尔通过一群被道德本身吸引、自发走向道德极端的普通人——放弃美国舒适生活去尼加拉瓜培训接生员的多萝西、创办麻风病避难所的夫妇、为素食奉献一生的活动家——追问一个被忽略的问题：当道德成为人生的最高价值，人性是否反而被扭曲。这些行善者把整个生命奉献给减轻陌生人的苦难，也为此疏远家人、放弃享乐、承受怀疑。麦克法夸尔没有站在任何一边，既不赞美也不批评，只是冷静地记录他们的选择、挣扎与代价。书的核心追问是——道德是否应该成为人生的最高法庭，那种对陌生人的关注，究竟该被看见，还是该被忽略。</description>
+      <pubDate>Sat, 19 Sep 2026 17:45:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260919-episode-20260919-a0c17e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《陌生人溺水》是一本关于极端利他主义的非虚构作品。作者拉里莎·麦克法夸尔通过一群被道德本身吸引、自发走向道德极端的普通人——放弃美国舒适生活去尼加拉瓜培训接生员的多萝西、创办麻风病避难所的夫妇、为素食奉献一生的活动家——追问一个被忽略的问题：当道德成为人生的最高价值，人性是否反而被扭曲。这些行善者把整个生命奉献给减轻陌生人的苦难，也为此疏远家人、放弃享乐、承受怀疑。麦克法夸尔没有站在任何一边，既不赞美也不批评，只是冷静地记录他们的选择、挣扎与代价。书的核心追问是——道德是否应该成为人生的最高法庭，那种对陌生人的关注，究竟该被看见，还是该被忽略。</itunes:summary>
+      <itunes:duration>00:44:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260919/episode-20260919-a0c17e.mp3" length="42794541" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
