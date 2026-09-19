@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 19 Sep 2026 17:30:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 17:36:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19983,6 +19983,17 @@
       <itunes:duration>00:29:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260919/episode-20260919-47d1ed.mp3" length="28675629" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《知行合一王阳明（1472—1529）》 · 完整版 · 知行合一王阳明（1472—1529） · 完整讲读</title>
+      <description>《知行合一王阳明（1472—1529）》由度阴山所著，以王阳明创建的心学为线索，重走他从少年立志、龙场悟道，到南赣剿匪、平定宁王、广西戡乱的一生。书中拆解了心学三大支柱——心即理、知行合一、致良知，并强调一切功夫都必须在“事上磨炼“。王阳明用一生证明：强大内心的终极武器不在外物，而在每个人心中那一点光明的良知；真知必能行，知而不行等于未知；只要在关键时刻听从内心的第一判断，就能在混沌世界里找到属于自己的方向。</description>
+      <pubDate>Sat, 19 Sep 2026 17:36:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260919-episode-20260919-8881fb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《知行合一王阳明（1472—1529）》由度阴山所著，以王阳明创建的心学为线索，重走他从少年立志、龙场悟道，到南赣剿匪、平定宁王、广西戡乱的一生。书中拆解了心学三大支柱——心即理、知行合一、致良知，并强调一切功夫都必须在“事上磨炼“。王阳明用一生证明：强大内心的终极武器不在外物，而在每个人心中那一点光明的良知；真知必能行，知而不行等于未知；只要在关键时刻听从内心的第一判断，就能在混沌世界里找到属于自己的方向。</itunes:summary>
+      <itunes:duration>00:24:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260919/episode-20260919-8881fb.mp3" length="23268909" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
