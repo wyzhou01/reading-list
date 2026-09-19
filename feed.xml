@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 19 Sep 2026 17:15:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 17:24:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19961,6 +19961,17 @@
       <itunes:duration>00:25:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260919/episode-20260919-132b6c.mp3" length="24238893" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《外星人防御计划——地外文明搜寻史话》 · 完整版 · 外星人防御计划 · 完整讲读</title>
+      <description>汪洁的《外星人防御计划》用十二万字梳理了人类搜寻地外文明的一百五十年：从一八七七年夏帕雷利的火星运河，到二十世纪六十年代的小绿人信号，从德雷克公式的乐观估算到费米悖论的沉重追问，从先驱者镀金铝板到旅行者金唱片的主动喊话，最终用一份行星防御计划纲要，把科幻与硬科学拧成了一股绳。这本书既是科普，也是思辨，更是一份关于人类在宇宙中孤独与否的诚实答卷：外星人大概率存在，但至今未曾来访。在不确定性面前，重要的不是答案本身，而是我们如何提出问题、如何面对未知、如何在仰望星空的同时，保留一份清醒与谦卑。</description>
+      <pubDate>Sat, 19 Sep 2026 17:24:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260919-episode-20260919-8e638a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>汪洁的《外星人防御计划》用十二万字梳理了人类搜寻地外文明的一百五十年：从一八七七年夏帕雷利的火星运河，到二十世纪六十年代的小绿人信号，从德雷克公式的乐观估算到费米悖论的沉重追问，从先驱者镀金铝板到旅行者金唱片的主动喊话，最终用一份行星防御计划纲要，把科幻与硬科学拧成了一股绳。这本书既是科普，也是思辨，更是一份关于人类在宇宙中孤独与否的诚实答卷：外星人大概率存在，但至今未曾来访。在不确定性面前，重要的不是答案本身，而是我们如何提出问题、如何面对未知、如何在仰望星空的同时，保留一份清醒与谦卑。</itunes:summary>
+      <itunes:duration>00:45:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260919/episode-20260919-8e638a.mp3" length="44088237" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
