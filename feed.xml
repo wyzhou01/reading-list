@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 18 Sep 2026 18:20:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 17:15:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -19950,6 +19950,17 @@
       <itunes:duration>00:22:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260918/episode-20260918-88774f.mp3" length="22059309" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《魔王》 · 完整版 · 魔王 · 完整讲读</title>
+      <description>《魔王》是伊坂幸太郎二零零四年写下的政治寓言。工薪族安藤偶然获得&quot;借人之口&quot;的力量，借同事的嘴质问科长，借陌生老人的嘴骂占座的年轻人。他的弟弟润也借给调查猛禽的组织一亿两千五百万日元，消失在东京街头。女友诗织则看见了润也没看见的鲜红荒野。三条线交织，指向同一个问题：在法西斯主义的当代回响中，普通人的言语与沉默，还有没有重量？伊坂的答案是：做那个把裙子拉好的魔王。</description>
+      <pubDate>Sat, 19 Sep 2026 17:15:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260919-episode-20260919-132b6c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《魔王》是伊坂幸太郎二零零四年写下的政治寓言。工薪族安藤偶然获得&quot;借人之口&quot;的力量，借同事的嘴质问科长，借陌生老人的嘴骂占座的年轻人。他的弟弟润也借给调查猛禽的组织一亿两千五百万日元，消失在东京街头。女友诗织则看见了润也没看见的鲜红荒野。三条线交织，指向同一个问题：在法西斯主义的当代回响中，普通人的言语与沉默，还有没有重量？伊坂的答案是：做那个把裙子拉好的魔王。</itunes:summary>
+      <itunes:duration>00:25:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260919/episode-20260919-132b6c.mp3" length="24238893" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
