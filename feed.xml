@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 20 Sep 2026 17:57:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 18:09:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20093,6 +20093,17 @@
       <itunes:duration>00:25:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260920/episode-20260920-09a4a5.mp3" length="24923181" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《暗处》 · 完整版 · 暗处（阿修罗系列） · 完整讲读</title>
+      <description>《暗处》是吉莉安·弗琳二〇〇九年的长篇处女作，以一九八五年堪萨斯一场屠杀家畜的世界新闻现场为核心，通过母亲佩蒂、长子班恩与幸存幼女丽比三重视角，交错还原事发前十小时的真相。全书冷峻剖析幸存者的内疚、代际暴力的复制、记忆的不可靠，以及媒体对受害者身份的剥削：三十一岁的丽比在捐款耗尽后，被迫直面那段被自己尘封二十四年的惨案记忆。</description>
+      <pubDate>Sun, 20 Sep 2026 18:08:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260920-episode-20260920-560e53</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《暗处》是吉莉安·弗琳二〇〇九年的长篇处女作，以一九八五年堪萨斯一场屠杀家畜的世界新闻现场为核心，通过母亲佩蒂、长子班恩与幸存幼女丽比三重视角，交错还原事发前十小时的真相。全书冷峻剖析幸存者的内疚、代际暴力的复制、记忆的不可靠，以及媒体对受害者身份的剥削：三十一岁的丽比在捐款耗尽后，被迫直面那段被自己尘封二十四年的惨案记忆。</itunes:summary>
+      <itunes:duration>00:42:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260920/episode-20260920-560e53.mp3" length="40833069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
