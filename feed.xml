@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 20 Sep 2026 17:17:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 17:27:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20016,6 +20016,17 @@
       <itunes:duration>00:28:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260920/episode-20260920-63d213.mp3" length="27312429" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《城市化转型与土地陷阱》 · 完整版 · 城市化转型与土地陷阱 · 完整讲读</title>
+      <description>《城市化转型与土地陷阱》是中国经济学家华生研究中国土地制度与城镇化路径的代表作。本书提出“中等收入陷阱”本质上是一场城市化转型陷阱，中国要跨越这一阶段，关键在于让人的城市化与土地的城市化同步推进。全书围绕土地财政异化、土地开发权分配、小产权房治理、增减挂钩与地票试验、美日韩台经验借鉴、新型城镇化总体构想六大议题，剖析中国城乡土地权利的结构性矛盾，并提出土地增值收益应回归城市化主体、地方政府须走出卖地依赖、户籍土地财政须联动改革的核心主张。本书为理解中国楼市调控、户籍改革与城乡融合提供了统一的分析框架，至今仍具现实针对性。</description>
+      <pubDate>Sun, 20 Sep 2026 17:27:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260920-episode-20260920-d6782e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《城市化转型与土地陷阱》是中国经济学家华生研究中国土地制度与城镇化路径的代表作。本书提出“中等收入陷阱”本质上是一场城市化转型陷阱，中国要跨越这一阶段，关键在于让人的城市化与土地的城市化同步推进。全书围绕土地财政异化、土地开发权分配、小产权房治理、增减挂钩与地票试验、美日韩台经验借鉴、新型城镇化总体构想六大议题，剖析中国城乡土地权利的结构性矛盾，并提出土地增值收益应回归城市化主体、地方政府须走出卖地依赖、户籍土地财政须联动改革的核心主张。本书为理解中国楼市调控、户籍改革与城乡融合提供了统一的分析框架，至今仍具现实针对性。</itunes:summary>
+      <itunes:duration>00:31:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260920/episode-20260920-d6782e.mp3" length="30052269" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
