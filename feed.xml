@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 20 Sep 2026 17:46:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 17:52:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20071,6 +20071,17 @@
       <itunes:duration>00:25:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260920/episode-20260920-c46d64.mp3" length="24540333" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《水之肌》 · 完整版 · 水之肌 · 完整讲读</title>
+      <description>《水之肌》是日本社会派推理宗师松本清张于一九七八年出版的短篇小说集，收录《指》《水之肌》《不在家事件》《三亿日元事件》《凝视》五篇作品。本书以经济高速增长期的日本为舞台，透过女性之间的隐秘纠葛、收费停车场女管理员被合上眼皮的无头悬案、三亿日元运钞车被拦截的惊天奇案等故事，用冷静到近乎残忍的笔触剖开光鲜表面下的孤独与挣扎，揭示犯罪不是天才的诡计，而是社会病灶的爆发。</description>
+      <pubDate>Sun, 20 Sep 2026 17:52:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260920-episode-20260920-9a8441</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《水之肌》是日本社会派推理宗师松本清张于一九七八年出版的短篇小说集，收录《指》《水之肌》《不在家事件》《三亿日元事件》《凝视》五篇作品。本书以经济高速增长期的日本为舞台，透过女性之间的隐秘纠葛、收费停车场女管理员被合上眼皮的无头悬案、三亿日元运钞车被拦截的惊天奇案等故事，用冷静到近乎残忍的笔触剖开光鲜表面下的孤独与挣扎，揭示犯罪不是天才的诡计，而是社会病灶的爆发。</itunes:summary>
+      <itunes:duration>00:26:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260920/episode-20260920-9a8441.mp3" length="25445421" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
