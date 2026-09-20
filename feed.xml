@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 20 Sep 2026 17:39:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 17:45:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20049,6 +20049,17 @@
       <itunes:duration>00:31:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260920/episode-20260920-87d3eb.mp3" length="30353325" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《好兆头》 · 完整版 · 好兆头 · 完整讲读</title>
+      <description>《好兆头》是尼尔·盖曼与特里·普拉切特合著的奇幻小说。一群本该毁灭世界的神魔，因为一个修女的疏忽而错换了婴儿；堕天使克鲁利与守望者亚茨拉菲尔，这两个在地狱与天堂混了几千年的老家伙，早已爱上了地球的种种美好。最终，敌基督——一个骑自行车长大的英国男孩——拒绝启动天启，世界在荒诞与温柔中被挽救。这本书用英式幽默告诉我们：善恶并非绝对，宏大叙事并非牢不可破，真正决定人类命运的，是每一个具体的、渺小的、却真实的选择。</description>
+      <pubDate>Sun, 20 Sep 2026 17:44:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260920-episode-20260920-fdf159</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《好兆头》是尼尔·盖曼与特里·普拉切特合著的奇幻小说。一群本该毁灭世界的神魔，因为一个修女的疏忽而错换了婴儿；堕天使克鲁利与守望者亚茨拉菲尔，这两个在地狱与天堂混了几千年的老家伙，早已爱上了地球的种种美好。最终，敌基督——一个骑自行车长大的英国男孩——拒绝启动天启，世界在荒诞与温柔中被挽救。这本书用英式幽默告诉我们：善恶并非绝对，宏大叙事并非牢不可破，真正决定人类命运的，是每一个具体的、渺小的、却真实的选择。</itunes:summary>
+      <itunes:duration>00:26:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260920/episode-20260920-fdf159.mp3" length="25860525" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
