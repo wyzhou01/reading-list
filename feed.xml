@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 20 Sep 2026 18:15:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 18:22:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20115,6 +20115,17 @@
       <itunes:duration>00:31:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260920/episode-20260920-f7c2b7.mp3" length="29983149" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《乌鸦之城：伦敦，伦敦塔与乌鸦的故事》 · 完整版 · 乌鸦之城：伦敦，伦敦塔与乌鸦的故事 · 完整讲读</title>
+      <description>《乌鸦之城》是一部关于伦敦塔渡鸦的微观历史。美国学者博里亚·萨克斯历时近十年,翻遍档案、比对古籍、走访驯鸦官,揭露了一个惊人的事实:&quot;渡鸦离塔,大英帝国便将覆亡&quot;这则被广为传诵的预言,并非来自遥远的中世纪,而是十九世纪维多利亚时代被英国人自己编织出来的现代神话,其源头可追溯至十三世纪威尔士史诗中的巨人王布兰。书中以侦探式笔法,追溯了渡鸦从中世纪食尸的清道夫,到查尔斯二世时期几乎被斩尽杀绝的麻烦鸟,再到二战时被市民奉为希望象征的&quot;布兰后裔&quot;,最终升格为二十一世纪皇家宠物的三次身份跃迁。萨克斯借这一案例,深入剖析了&quot;创发的传统&quot;与&quot;伪民俗&quot;的运作机制,揭示人类如何一次次为同一只黑鸟赋予&quot;幸存者&quot;的隐喻,以及国家认同如何建立在被遗忘的真实之上。</description>
+      <pubDate>Sun, 20 Sep 2026 18:22:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260920-episode-20260920-64a465</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《乌鸦之城》是一部关于伦敦塔渡鸦的微观历史。美国学者博里亚·萨克斯历时近十年,翻遍档案、比对古籍、走访驯鸦官,揭露了一个惊人的事实:&quot;渡鸦离塔,大英帝国便将覆亡&quot;这则被广为传诵的预言,并非来自遥远的中世纪,而是十九世纪维多利亚时代被英国人自己编织出来的现代神话,其源头可追溯至十三世纪威尔士史诗中的巨人王布兰。书中以侦探式笔法,追溯了渡鸦从中世纪食尸的清道夫,到查尔斯二世时期几乎被斩尽杀绝的麻烦鸟,再到二战时被市民奉为希望象征的&quot;布兰后裔&quot;,最终升格为二十一世纪皇家宠物的三次身份跃迁。萨克斯借这一案例,深入剖析了&quot;创发的传统&quot;与&quot;伪民俗&quot;的运作机制,揭示人类如何一次次为同一只黑鸟赋予&quot;幸存者&quot;的隐喻,以及国家认同如何建立在被遗忘的真实之上。</itunes:summary>
+      <itunes:duration>00:24:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260920/episode-20260920-64a465.mp3" length="23424045" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
