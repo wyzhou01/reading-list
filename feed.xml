@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 20 Sep 2026 18:22:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 18:28:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20126,6 +20126,17 @@
       <itunes:duration>00:24:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260920/episode-20260920-64a465.mp3" length="23424045" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《寂寞的撒旦》 · 完整版 · 寂寞的撒旦_-_沐童 · 完整讲读</title>
+      <description>《寂寞的撒旦》是八零后作家沐童二〇〇七年发表的长篇小说，以多声部第一人称独白的形式，讲述四个年轻人在北京和伦敦之间的情感纠葛：一个女学生爱上已婚老师，两个男孩之间发生暧昧情愫。作者通过四条彼此交织又互相隔绝的叙事线，揭示这一代都市青年的精神困境——童年创伤如何在成年后改写爱欲模式，寂寞如何伪装成爱情，传统道德在新的情感形态面前的失效。序言由中国作家王干撰写，他将本书与张贤亮的《男人的一半是女人》对照，指出从“爱的渴望”到“爱的无聊”、从《资本论》到《北回归线》的时代变迁。小说承袭钱钟书、纳博科夫、昆德拉的纯文学传统，以结构本身模拟意识的错位与隔绝，是八零后文学中一部具有精神分析深度的代表作。</description>
+      <pubDate>Sun, 20 Sep 2026 18:28:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260920-episode-20260920-4d9c6b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《寂寞的撒旦》是八零后作家沐童二〇〇七年发表的长篇小说，以多声部第一人称独白的形式，讲述四个年轻人在北京和伦敦之间的情感纠葛：一个女学生爱上已婚老师，两个男孩之间发生暧昧情愫。作者通过四条彼此交织又互相隔绝的叙事线，揭示这一代都市青年的精神困境——童年创伤如何在成年后改写爱欲模式，寂寞如何伪装成爱情，传统道德在新的情感形态面前的失效。序言由中国作家王干撰写，他将本书与张贤亮的《男人的一半是女人》对照，指出从“爱的渴望”到“爱的无聊”、从《资本论》到《北回归线》的时代变迁。小说承袭钱钟书、纳博科夫、昆德拉的纯文学传统，以结构本身模拟意识的错位与隔绝，是八零后文学中一部具有精神分析深度的代表作。</itunes:summary>
+      <itunes:duration>00:32:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260920/episode-20260920-4d9c6b.mp3" length="31457325" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
