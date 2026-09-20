@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 20 Sep 2026 17:27:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 17:32:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20027,6 +20027,17 @@
       <itunes:duration>00:31:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260920/episode-20260920-d6782e.mp3" length="30052269" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《山村复仇记》 · 完整版 · 山村复仇记 · 完整讲读</title>
+      <description>《山村复仇记》是广西出版的第一部长篇小说，作者刘玉峰根据自己一九五零年在阳朔福利区担任区长时亲身经历的剿匪斗争创作而成。当年二十二岁的他，带着十五个脱产干部，在群山之中击溃盘据多年的土匪武装，他本人身中两枪，在桂林住了一百一十天医院。一九五二年他用二十个昼夜写下初稿，却因种种原因直到一九六三年才得以出版，期间书稿六次易手、两赴上海修改。文化大革命中此书被打成大毒草，作者被批斗两个月，一九八零年再版后发行十八万五千册，被誉为南有《山村复仇记》北有《林海雪原》。这本书把剿匪与土改交织的群众运动写得惊心动魄又真实可感，是带着漓江水汽和硝烟味道的红色经典。</description>
+      <pubDate>Sun, 20 Sep 2026 17:32:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260920-episode-20260920-7db4b2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《山村复仇记》是广西出版的第一部长篇小说，作者刘玉峰根据自己一九五零年在阳朔福利区担任区长时亲身经历的剿匪斗争创作而成。当年二十二岁的他，带着十五个脱产干部，在群山之中击溃盘据多年的土匪武装，他本人身中两枪，在桂林住了一百一十天医院。一九五二年他用二十个昼夜写下初稿，却因种种原因直到一九六三年才得以出版，期间书稿六次易手、两赴上海修改。文化大革命中此书被打成大毒草，作者被批斗两个月，一九八零年再版后发行十八万五千册，被誉为南有《山村复仇记》北有《林海雪原》。这本书把剿匪与土改交织的群众运动写得惊心动魄又真实可感，是带着漓江水汽和硝烟味道的红色经典。</itunes:summary>
+      <itunes:duration>00:24:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260920/episode-20260920-7db4b2.mp3" length="23576877" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
