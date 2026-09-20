@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 20 Sep 2026 17:52:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 17:57:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20082,6 +20082,17 @@
       <itunes:duration>00:26:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260920/episode-20260920-9a8441.mp3" length="25445421" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《唐开国》 · 完整版 · 唐开国 · 完整讲读</title>
+      <description>《唐开国》是一部重新理解隋唐交替的史学通俗读物。作者于赓哲用关陇贵族集团这条主线，把隋炀帝的暴政重新解读为一场激进改革的失败，把李唐的胜利解读为顺势者的胜利，把大唐的繁荣解读为站在隋朝制度遗产上的继承与纠偏。读完这本书你会明白：隋炀帝的战略眼光其实超越了他的时代，他真正败在操之过急；李渊的胜利不在于多能打，而在于他懂得隐忍等待；贞观之治的灵魂不是雄主圣明，而是法治精神和对民力的克制。</description>
+      <pubDate>Sun, 20 Sep 2026 17:57:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260920-episode-20260920-09a4a5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《唐开国》是一部重新理解隋唐交替的史学通俗读物。作者于赓哲用关陇贵族集团这条主线，把隋炀帝的暴政重新解读为一场激进改革的失败，把李唐的胜利解读为顺势者的胜利，把大唐的繁荣解读为站在隋朝制度遗产上的继承与纠偏。读完这本书你会明白：隋炀帝的战略眼光其实超越了他的时代，他真正败在操之过急；李渊的胜利不在于多能打，而在于他懂得隐忍等待；贞观之治的灵魂不是雄主圣明，而是法治精神和对民力的克制。</itunes:summary>
+      <itunes:duration>00:25:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260920/episode-20260920-09a4a5.mp3" length="24923181" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
