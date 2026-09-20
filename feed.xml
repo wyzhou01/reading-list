@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 20 Sep 2026 17:45:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 17:46:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20060,6 +20060,17 @@
       <itunes:duration>00:26:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260920/episode-20260920-fdf159.mp3" length="25860525" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《自然哲学的数学原理》 · 完整版 · 自然哲学的数学原理_(汉译世界学术名著丛书)_-_牛顿 · 完整讲读</title>
+      <description>《自然哲学的数学原理》是牛顿一六八七年出版的拉丁文巨著，首次用严格的数学语言将万有引力定律与三大运动定律统一起来，证明了苹果落地与月亮运行遵循同一条法则。本书分三卷：第一卷建立公理化的力学体系，第二卷在流体阻力的废墟上驱逐笛卡儿漩涡理论，第三卷将数学框架应用于太阳系、潮汐、岁差与彗星轨道。第三卷提出的四条“研究哲学的规则“，奠定了现代科学方法论的基础，主张一切现象须由可验证的数学命题解释，拒绝虚构假说。广义相对论出现之前，《原理》定义了物理学的语法；即便在今天，工程计算、航天轨道与潮汐预报仍在其框架内运行。重读此书，意义不在公式本身，而在那种克制而严谨的思维方式。</description>
+      <pubDate>Sun, 20 Sep 2026 17:46:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260920-episode-20260920-c46d64</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《自然哲学的数学原理》是牛顿一六八七年出版的拉丁文巨著，首次用严格的数学语言将万有引力定律与三大运动定律统一起来，证明了苹果落地与月亮运行遵循同一条法则。本书分三卷：第一卷建立公理化的力学体系，第二卷在流体阻力的废墟上驱逐笛卡儿漩涡理论，第三卷将数学框架应用于太阳系、潮汐、岁差与彗星轨道。第三卷提出的四条“研究哲学的规则“，奠定了现代科学方法论的基础，主张一切现象须由可验证的数学命题解释，拒绝虚构假说。广义相对论出现之前，《原理》定义了物理学的语法；即便在今天，工程计算、航天轨道与潮汐预报仍在其框架内运行。重读此书，意义不在公式本身，而在那种克制而严谨的思维方式。</itunes:summary>
+      <itunes:duration>00:25:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260920/episode-20260920-c46d64.mp3" length="24540333" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
