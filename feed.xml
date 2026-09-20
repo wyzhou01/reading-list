@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 20 Sep 2026 18:28:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 18:35:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20137,6 +20137,17 @@
       <itunes:duration>00:32:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260920/episode-20260920-4d9c6b.mp3" length="31457325" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《呼叫助产士》 · 完整版 · 呼叫助产士 · 完整讲读</title>
+      <description>《呼叫助产士》是英国助产士珍妮弗·沃斯在七十七岁高龄写下的回忆录,记录了她二十岁出头时在五十年代伦敦东区码头区做助产士的亲身经历。那个已经消失的工人阶级世界里,人们挤在破败的两居室里,女性一生要生养十三个孩子,接生要靠没有电话、没有同伴、只有一辆自行车的助产士。珍妮和一群发愿清贫、贞洁、顺从的圣公会修女一起,在深夜两点的煤气灯下迎接新生命,目睹死亡,也见证爱。这本书不只是个人记忆,更是一份珍贵的社会档案——它记下了一个工人阶级的伦敦,一段几乎被遗忘的修女为助产士立法奔走三十年的历史,以及一个年轻女人如何在苦难中长出信仰的过程。二零零二年出版后被BBC改编为同名剧集,跨越十三年成为英国最受观众喜爱的剧集之一,使这部关于生命、尊严与爱的往事在二十一世纪被重新发现。</description>
+      <pubDate>Sun, 20 Sep 2026 18:35:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260920-episode-20260920-a5b0c9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《呼叫助产士》是英国助产士珍妮弗·沃斯在七十七岁高龄写下的回忆录,记录了她二十岁出头时在五十年代伦敦东区码头区做助产士的亲身经历。那个已经消失的工人阶级世界里,人们挤在破败的两居室里,女性一生要生养十三个孩子,接生要靠没有电话、没有同伴、只有一辆自行车的助产士。珍妮和一群发愿清贫、贞洁、顺从的圣公会修女一起,在深夜两点的煤气灯下迎接新生命,目睹死亡,也见证爱。这本书不只是个人记忆,更是一份珍贵的社会档案——它记下了一个工人阶级的伦敦,一段几乎被遗忘的修女为助产士立法奔走三十年的历史,以及一个年轻女人如何在苦难中长出信仰的过程。二零零二年出版后被BBC改编为同名剧集,跨越十三年成为英国最受观众喜爱的剧集之一,使这部关于生命、尊严与爱的往事在二十一世纪被重新发现。</itunes:summary>
+      <itunes:duration>00:34:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260920/episode-20260920-a5b0c9.mp3" length="33285933" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
