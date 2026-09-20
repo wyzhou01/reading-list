@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 19 Sep 2026 17:45:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 17:17:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20005,6 +20005,17 @@
       <itunes:duration>00:44:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260919/episode-20260919-a0c17e.mp3" length="42794541" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《国色天香》 · 完整版 · 国色天香(简体版)_(BookDNA中国古典丛书) · 完整讲读</title>
+      <description>《国色天香》是明代吴敬圻编纂的文言短篇小说集，全书十卷二十篇。前半部以乱世爱情为主线，蒋世隆与黄瑞兰在烽火中相遇，以诗词试探心迹，历经离散方得团圆。后半部转入寓言辩论，散人、清虚、丽香、飞白、玄明、高士等符号人物展开关于才、色、名、位的荒诞争论，借庄子式的思辨解构世俗价值的虚妄。末篇以《毛女乌龟传》的戏谑寓言收束全书，由情入美，由美入才，由才入道。全书文辞绮丽，诗词穿插，是晚明文言传奇成熟期的代表作，既保留了唐传奇的雅致，又融入了市民文学的诙谐，是认识明代文人精神世界的一部重要文本。</description>
+      <pubDate>Sun, 20 Sep 2026 17:17:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260920-episode-20260920-63d213</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《国色天香》是明代吴敬圻编纂的文言短篇小说集，全书十卷二十篇。前半部以乱世爱情为主线，蒋世隆与黄瑞兰在烽火中相遇，以诗词试探心迹，历经离散方得团圆。后半部转入寓言辩论，散人、清虚、丽香、飞白、玄明、高士等符号人物展开关于才、色、名、位的荒诞争论，借庄子式的思辨解构世俗价值的虚妄。末篇以《毛女乌龟传》的戏谑寓言收束全书，由情入美，由美入才，由才入道。全书文辞绮丽，诗词穿插，是晚明文言传奇成熟期的代表作，既保留了唐传奇的雅致，又融入了市民文学的诙谐，是认识明代文人精神世界的一部重要文本。</itunes:summary>
+      <itunes:duration>00:28:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260920/episode-20260920-63d213.mp3" length="27312429" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
