@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 20 Sep 2026 18:35:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 18:45:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20148,6 +20148,17 @@
       <itunes:duration>00:34:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260920/episode-20260920-a5b0c9.mp3" length="33285933" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《热泪》 · 完整版 · 热泪 · 完整讲读</title>
+      <description>《热泪》讲述了一个普通女孩卓星月，因为与蓝洋企业董事长公子杨决的悬殊爱情被家族碾压，独自搭乘红眼航班飞往一千八百公里外的热带小岛巴荷岛，从最底层的猫舍清洁工做起，在偏见与孤独中蜕变的故事。书里把异地恋的信任、阶层、放手、旁观者的嘴、温柔的第三者等难题一一拆解，最终让两个真心相爱的人在星月之国的荧光海滩重逢。这本书既是作者四年异地恋的真实记录，也是献给所有相信爱能跨越距离的人的一封情书。</description>
+      <pubDate>Sun, 20 Sep 2026 18:45:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260920-episode-20260920-8fff76</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《热泪》讲述了一个普通女孩卓星月，因为与蓝洋企业董事长公子杨决的悬殊爱情被家族碾压，独自搭乘红眼航班飞往一千八百公里外的热带小岛巴荷岛，从最底层的猫舍清洁工做起，在偏见与孤独中蜕变的故事。书里把异地恋的信任、阶层、放手、旁观者的嘴、温柔的第三者等难题一一拆解，最终让两个真心相爱的人在星月之国的荧光海滩重逢。这本书既是作者四年异地恋的真实记录，也是献给所有相信爱能跨越距离的人的一封情书。</itunes:summary>
+      <itunes:duration>00:36:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260920/episode-20260920-8fff76.mp3" length="34936749" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
