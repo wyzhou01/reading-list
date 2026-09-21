@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 21 Sep 2026 17:19:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 17:22:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20192,6 +20192,17 @@
       <itunes:duration>00:24:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260921/episode-20260921-0bdb0c.mp3" length="23931693" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《反思史学与史学反思》 · 完整版 · 反思史学与史学反思_-_王明珂 · 完整讲读</title>
+      <description>王明珂在《反思史学与史学反思》中提出，历史记忆是被社会情境生产的文本，而文本又反过来强化它所诞生的情境。通过&quot;在文献中作田野&quot;这一方法，作者把历史学与人类学打通，主张读懂一段历史，不能只看它&quot;说了什么&quot;，更要看出它&quot;用哪种格式在说&quot;——格式本身是权力的痕迹。他提出&quot;历史心性&quot;&quot;文类&quot;&quot;根基历史记忆&quot;等概念，揭示所谓族群认同、原住民少数民族标签、汉族炎黄子孙叙事，都是被特定历史情境选择、建构、不断重写的产物。反思性研究的目的，不是推翻所有历史，而是练就一双火眼金睛，让我们在踩下锐石时能真切感觉到痛，并有力量把脚抽回来。</description>
+      <pubDate>Mon, 21 Sep 2026 17:22:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260921-episode-20260921-6cbff3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>王明珂在《反思史学与史学反思》中提出，历史记忆是被社会情境生产的文本，而文本又反过来强化它所诞生的情境。通过&quot;在文献中作田野&quot;这一方法，作者把历史学与人类学打通，主张读懂一段历史，不能只看它&quot;说了什么&quot;，更要看出它&quot;用哪种格式在说&quot;——格式本身是权力的痕迹。他提出&quot;历史心性&quot;&quot;文类&quot;&quot;根基历史记忆&quot;等概念，揭示所谓族群认同、原住民少数民族标签、汉族炎黄子孙叙事，都是被特定历史情境选择、建构、不断重写的产物。反思性研究的目的，不是推翻所有历史，而是练就一双火眼金睛，让我们在踩下锐石时能真切感觉到痛，并有力量把脚抽回来。</itunes:summary>
+      <itunes:duration>00:34:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260921/episode-20260921-6cbff3.mp3" length="32763693" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
