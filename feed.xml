@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 20 Sep 2026 18:47:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 17:13:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20170,6 +20170,17 @@
       <itunes:duration>00:25:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260920/episode-20260920-9e41dc.mp3" length="24436269" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《哈佛百年经典（第25卷）：埃涅阿斯纪》 · 完整版 · 哈佛百年经典第32卷：文学与哲学名家随笔 · 完整讲读</title>
+      <description>《哈佛百年经典第三十二卷》汇集蒙田、圣伯夫、莱辛、席勒、康德、马志尼等七位欧洲文哲大家的随笔。从蒙田对死亡与友谊的沉思，到圣伯夫对经典的追问；从席勒用审美拯救被功利撕裂的现代人，到康德为道德奠定理性的根基；再到马志尼把诗人视为民族的先知。这本书不是消遣读物，而是一座人类精神的小型博物馆，回答一个永恒的问题——人该如何活着，才算真正活过。</description>
+      <pubDate>Fri, 18 Sep 2026 17:13:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260921-episode-20260921-c850fa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《哈佛百年经典第三十二卷》汇集蒙田、圣伯夫、莱辛、席勒、康德、马志尼等七位欧洲文哲大家的随笔。从蒙田对死亡与友谊的沉思，到圣伯夫对经典的追问；从席勒用审美拯救被功利撕裂的现代人，到康德为道德奠定理性的根基；再到马志尼把诗人视为民族的先知。这本书不是消遣读物，而是一座人类精神的小型博物馆，回答一个永恒的问题——人该如何活着，才算真正活过。</itunes:summary>
+      <itunes:duration>00:21:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260921/episode-20260921-c850fa.mp3" length="20684589" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
