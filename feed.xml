@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 21 Sep 2026 17:39:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 17:40:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20247,6 +20247,17 @@
       <itunes:duration>00:23:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260921/episode-20260921-be3ce6.mp3" length="22896045" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《废墟的花朵》 · 完整版 · 废墟的花朵_-_[法国]帕特里克·莫迪亚诺 · 完整讲读</title>
+      <description>《废墟的花朵》是帕特里克·莫迪亚诺一九九零年的作品，以一九三三年巴黎拉丁区福塞—圣雅克路一桩双尸自杀案为引子，叙述者沿死者当晚可能走过的路线重返二十五年未归的旧城区，由此牵扯出自己二十岁那年的青春记忆、一个长期冒用他人身份潜伏在大学城的&quot;假帕切科&quot;、以及父亲那段暧昧不清的过往。整部小说没有给出案件真相，也没有解开任何谜团，只是一次又一次的行走、回忆与辨认。莫迪亚诺借这座阴雨绵绵的巴黎告诉我们：城市本身就是一座废墟，身份可以被冒用、被隐藏、被时间抹去，父辈的阴影会像幽灵一样纠缠着每一个试图逃离的人。可就在你以为一切都被毁了的时候，废墟之中，仍有一朵花——那是某只歪着脑袋看你、会一字不漏听你说话的小猎犬，是某位丹麦女人一拍柜台的&quot;给小老弟来杯威士忌&quot;，是那些你以为早就消失、却仍在街角等你回头认出来的人与时刻。寻找的本身，比结果更重要。</description>
+      <pubDate>Mon, 21 Sep 2026 17:40:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260921-episode-20260921-b3f6bd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《废墟的花朵》是帕特里克·莫迪亚诺一九九零年的作品，以一九三三年巴黎拉丁区福塞—圣雅克路一桩双尸自杀案为引子，叙述者沿死者当晚可能走过的路线重返二十五年未归的旧城区，由此牵扯出自己二十岁那年的青春记忆、一个长期冒用他人身份潜伏在大学城的&quot;假帕切科&quot;、以及父亲那段暧昧不清的过往。整部小说没有给出案件真相，也没有解开任何谜团，只是一次又一次的行走、回忆与辨认。莫迪亚诺借这座阴雨绵绵的巴黎告诉我们：城市本身就是一座废墟，身份可以被冒用、被隐藏、被时间抹去，父辈的阴影会像幽灵一样纠缠着每一个试图逃离的人。可就在你以为一切都被毁了的时候，废墟之中，仍有一朵花——那是某只歪着脑袋看你、会一字不漏听你说话的小猎犬，是某位丹麦女人一拍柜台的&quot;给小老弟来杯威士忌&quot;，是那些你以为早就消失、却仍在街角等你回头认出来的人与时刻。寻找的本身，比结果更重要。</itunes:summary>
+      <itunes:duration>00:28:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260921/episode-20260921-b3f6bd.mp3" length="27179565" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
