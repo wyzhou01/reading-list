@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 21 Sep 2026 17:46:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 17:55:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20269,6 +20269,17 @@
       <itunes:duration>00:24:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260921/episode-20260921-460088.mp3" length="23216685" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《情种起源：浪漫爱情的本质和化学》 · 完整版 · 情种起源：浪漫爱情的本质和化学_-_海伦·费舍尔 · 完整讲读</title>
+      <description>海伦·费舍尔的《情种起源》把浪漫爱情放进演化生物学和脑科学的双重镜头下重新审视。她通过跨文化问卷与功能磁共振扫描实验，提出爱由三条独立又交织的大脑网络构成：性欲靠睾酯驱动让人寻找伴侣，浪漫爱情靠多巴胺与去甲肾上腺素让人聚焦于某个特定的人，依附靠催产素与加压素让人愿意与对方长相厮守。本书追溯了浪漫爱情约四百万年前随人类直立行走与分娩困境而演化的历程，也坦诚呈现了失恋背后的戒断反应、激情消退的神经机制，以及让爱在长期关系中延续的可能路径。这是一本把诗与实验并置、把狂喜与绝望共同书写的浪漫爱情博物志。</description>
+      <pubDate>Mon, 21 Sep 2026 17:55:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260921-episode-20260921-27a64f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>海伦·费舍尔的《情种起源》把浪漫爱情放进演化生物学和脑科学的双重镜头下重新审视。她通过跨文化问卷与功能磁共振扫描实验，提出爱由三条独立又交织的大脑网络构成：性欲靠睾酯驱动让人寻找伴侣，浪漫爱情靠多巴胺与去甲肾上腺素让人聚焦于某个特定的人，依附靠催产素与加压素让人愿意与对方长相厮守。本书追溯了浪漫爱情约四百万年前随人类直立行走与分娩困境而演化的历程，也坦诚呈现了失恋背后的戒断反应、激情消退的神经机制，以及让爱在长期关系中延续的可能路径。这是一本把诗与实验并置、把狂喜与绝望共同书写的浪漫爱情博物志。</itunes:summary>
+      <itunes:duration>00:25:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260921/episode-20260921-27a64f.mp3" length="24648237" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
