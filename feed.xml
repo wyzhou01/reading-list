@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 21 Sep 2026 17:33:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 17:39:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20236,6 +20236,17 @@
       <itunes:duration>00:25:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260921/episode-20260921-46530d.mp3" length="24220077" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《哲学的艺术》 · 完整版 · 哲学的艺术_(小经典) · 完整讲读</title>
+      <description>《哲学的艺术》是十九世纪法国诗人夏尔·波德莱尔的艺术批评文集，从笑的本质与漫画的奥秘出发，深入探讨为艺术而艺术的纯粹追求，剖析工业革命浪潮下美与资本的激烈对峙，并在浪漫主义的精神遗产中提炼出想象力的至高地位。波德莱尔直面一八五五年与一八五九年两届巴黎沙龙的画作与雕塑，以诗人之眼、批评家之笔追问：在一个一切都被量产、被功利衡量、被技术碾压的时代，美还能否守得住它的位置？本书主张艺术家要捍卫纯粹的美的追求，批评家应像艺术家一样思考。这部上承德国浪漫派、下启现代主义的小经典，至今仍是每一个不愿被时代同化者的必读书。</description>
+      <pubDate>Mon, 21 Sep 2026 17:39:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260921-episode-20260921-be3ce6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《哲学的艺术》是十九世纪法国诗人夏尔·波德莱尔的艺术批评文集，从笑的本质与漫画的奥秘出发，深入探讨为艺术而艺术的纯粹追求，剖析工业革命浪潮下美与资本的激烈对峙，并在浪漫主义的精神遗产中提炼出想象力的至高地位。波德莱尔直面一八五五年与一八五九年两届巴黎沙龙的画作与雕塑，以诗人之眼、批评家之笔追问：在一个一切都被量产、被功利衡量、被技术碾压的时代，美还能否守得住它的位置？本书主张艺术家要捍卫纯粹的美的追求，批评家应像艺术家一样思考。这部上承德国浪漫派、下启现代主义的小经典，至今仍是每一个不愿被时代同化者的必读书。</itunes:summary>
+      <itunes:duration>00:23:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260921/episode-20260921-be3ce6.mp3" length="22896045" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
