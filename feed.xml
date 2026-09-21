@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 21 Sep 2026 18:02:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 18:07:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20291,6 +20291,17 @@
       <itunes:duration>00:23:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260921/episode-20260921-5575eb.mp3" length="22966701" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《天空上三公尺》 · 完整版 · 天空上三公尺_-_[意]_菲德里柯·穆恰_Federico_Moccia · 完整讲读</title>
+      <description>《天空上三公尺》是意大利作家菲德里柯·穆恰一九九二年出版的青春小说，讲述罗马街头少年斯特与好学生贝比跨越阶层的初恋故事。斯特外号&quot;第一名&quot;，是骑着改装摩托车呼啸街头的混混；贝比是坐着父亲奔驰车、背着拉丁文课本的乖乖女。两人在一次红灯前的相遇中一见钟情，展开了一段撕裂阶层、几乎要把人烧成灰烬的初恋。然而挚友卡洛的意外死亡、贝比父亲的沉默反对、两个罗马之间那道看不见的墙，最终把这段感情推向了终结。多年后，斯特问自己：&quot;我还能回到比天空高三公尺的地方吗？&quot;他知道回不去了，但那段飞起来的日子，会在他余生的每一个红灯前、每一首定情歌里，重新让他短暂地飞一下。这本书卖出两百万册，被译为数十种语言，是一代欧洲年轻人的集体记忆。</description>
+      <pubDate>Mon, 21 Sep 2026 18:07:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260921-episode-20260921-d33991</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《天空上三公尺》是意大利作家菲德里柯·穆恰一九九二年出版的青春小说，讲述罗马街头少年斯特与好学生贝比跨越阶层的初恋故事。斯特外号&quot;第一名&quot;，是骑着改装摩托车呼啸街头的混混；贝比是坐着父亲奔驰车、背着拉丁文课本的乖乖女。两人在一次红灯前的相遇中一见钟情，展开了一段撕裂阶层、几乎要把人烧成灰烬的初恋。然而挚友卡洛的意外死亡、贝比父亲的沉默反对、两个罗马之间那道看不见的墙，最终把这段感情推向了终结。多年后，斯特问自己：&quot;我还能回到比天空高三公尺的地方吗？&quot;他知道回不去了，但那段飞起来的日子，会在他余生的每一个红灯前、每一首定情歌里，重新让他短暂地飞一下。这本书卖出两百万册，被译为数十种语言，是一代欧洲年轻人的集体记忆。</itunes:summary>
+      <itunes:duration>00:27:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260921/episode-20260921-d33991.mp3" length="26420781" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
