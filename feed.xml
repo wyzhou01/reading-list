@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 21 Sep 2026 18:07:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 18:16:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20302,6 +20302,17 @@
       <itunes:duration>00:27:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260921/episode-20260921-d33991.mp3" length="26420781" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《台前幕后郭德纲（中国故事）》 · 完整版 · 台前幕后郭德纲（中国故事） · 完整讲读</title>
+      <description>本期节目深度解读《人物》杂志二零一三年发表的郭德纲长文特写《台前幕后郭德纲》。从四十岁郭德纲面对央视春晚的反问“谁敢确定”切入，拆解他身上三块拼图：庙堂与江湖的张力、师徒伦理作为生命的代价、金钱观背后的市场哲学。延伸到疾恶如仇作为生存姿态、修身齐家作为最终归处。读懂一个传统艺人，在体制、市场和算法的夹缝里，靠什么活着。</description>
+      <pubDate>Mon, 21 Sep 2026 18:16:36 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260921-episode-20260921-d089e4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期节目深度解读《人物》杂志二零一三年发表的郭德纲长文特写《台前幕后郭德纲》。从四十岁郭德纲面对央视春晚的反问“谁敢确定”切入，拆解他身上三块拼图：庙堂与江湖的张力、师徒伦理作为生命的代价、金钱观背后的市场哲学。延伸到疾恶如仇作为生存姿态、修身齐家作为最终归处。读懂一个传统艺人，在体制、市场和算法的夹缝里，靠什么活着。</itunes:summary>
+      <itunes:duration>00:43:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260921/episode-20260921-d089e4.mp3" length="41631405" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
