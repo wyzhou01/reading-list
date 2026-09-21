@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 21 Sep 2026 17:22:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 17:28:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20203,6 +20203,17 @@
       <itunes:duration>00:34:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260921/episode-20260921-6cbff3.mp3" length="32763693" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《沉冤录》 · 完整版 · 沉冤录 · 完整讲读</title>
+      <description>《沉冤录》以清代八大经典案件为线索，从咸丰年间四川合州命案起笔，至晚清苏报案收束，串起传统中国走向近代化的法治困境与觉醒。书中剖析了基层官僚破案压力、刑讯逼供、书吏衙役的权力寻租、官场党争内耗如何把普通人逼入绝境，也展现了媒体监督、律师制度、现代法庭如何艰难叩开中国法律的大门。这本书既是一部严谨的明清政治法律史读物，也是一部悬念迭起的案件簿，透过八个有血有肉的人物命运，揭示出清代冤案的生成机制、官僚体制的运作逻辑，以及近代法律观念转型的艰难历程。</description>
+      <pubDate>Mon, 21 Sep 2026 17:28:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260921-episode-20260921-c257e0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《沉冤录》以清代八大经典案件为线索，从咸丰年间四川合州命案起笔，至晚清苏报案收束，串起传统中国走向近代化的法治困境与觉醒。书中剖析了基层官僚破案压力、刑讯逼供、书吏衙役的权力寻租、官场党争内耗如何把普通人逼入绝境，也展现了媒体监督、律师制度、现代法庭如何艰难叩开中国法律的大门。这本书既是一部严谨的明清政治法律史读物，也是一部悬念迭起的案件簿，透过八个有血有肉的人物命运，揭示出清代冤案的生成机制、官僚体制的运作逻辑，以及近代法律观念转型的艰难历程。</itunes:summary>
+      <itunes:duration>00:28:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260921/episode-20260921-c257e0.mp3" length="27040173" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
