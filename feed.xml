@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 21 Sep 2026 17:55:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 18:02:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20280,6 +20280,17 @@
       <itunes:duration>00:25:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260921/episode-20260921-27a64f.mp3" length="24648237" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《吸引：与人成功交流的科学》 · 完整版 · 吸引 · 完整讲读</title>
+      <description>《吸引：与人成功交流的科学》作者瓦妮莎·范·爱德华兹，曾是重度社交焦虑患者，后创立人际科学实验室。她把心理学、神经科学和行为学的研究，拆成十四个可上手的技巧。全书按时间维度分成三部分：最初五分钟怎么留下让人眼前一亮的第一印象，包括社交地图、开场白、非语言信号、对话层次；最初五小时怎么快速看透一个人的性格；最初五天怎么把点头之交变成一辈子的朋友。本书的核心主张是：人际交往有套路，也有方法；你不必假装外向，只需找到属于自己的位置，用真实而非完美的方式与人连接。</description>
+      <pubDate>Mon, 21 Sep 2026 18:02:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260921-episode-20260921-5575eb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《吸引：与人成功交流的科学》作者瓦妮莎·范·爱德华兹，曾是重度社交焦虑患者，后创立人际科学实验室。她把心理学、神经科学和行为学的研究，拆成十四个可上手的技巧。全书按时间维度分成三部分：最初五分钟怎么留下让人眼前一亮的第一印象，包括社交地图、开场白、非语言信号、对话层次；最初五小时怎么快速看透一个人的性格；最初五天怎么把点头之交变成一辈子的朋友。本书的核心主张是：人际交往有套路，也有方法；你不必假装外向，只需找到属于自己的位置，用真实而非完美的方式与人连接。</itunes:summary>
+      <itunes:duration>00:23:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260921/episode-20260921-5575eb.mp3" length="22966701" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
