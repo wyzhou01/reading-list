@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 21 Sep 2026 17:40:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 17:46:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20258,6 +20258,17 @@
       <itunes:duration>00:28:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260921/episode-20260921-b3f6bd.mp3" length="27179565" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《德国的科学》 · 完整版 · 德国的科学_(汉译世界学术名著丛书)_-_皮埃尔·迪昂 · 完整讲读</title>
+      <description>一九一五年春天，凡尔登绞肉机正在吞噬一代法国青年，物理学家皮埃尔·迪昂在波尔多大学连讲四次，回答一个问题：德国科学强在哪里，又危险在哪里。他诊断：德国演绎心智的力量在把链条走到极致，危险在第一块砖就是歪的；法国几何学精神的骄傲在严密，盲区在丢掉了帕斯卡的机敏精神。最后他给出一句石破天惊的金句——我们总和即德国佬全体——并指出：真正的科学天才不知道地理地域也不知道国家地域，他唯一的处所是人类心智。一百年后读它，这本用战时温度锻造的永久性思想著作，依然锋利。</description>
+      <pubDate>Mon, 21 Sep 2026 17:46:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260921-episode-20260921-460088</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九一五年春天，凡尔登绞肉机正在吞噬一代法国青年，物理学家皮埃尔·迪昂在波尔多大学连讲四次，回答一个问题：德国科学强在哪里，又危险在哪里。他诊断：德国演绎心智的力量在把链条走到极致，危险在第一块砖就是歪的；法国几何学精神的骄傲在严密，盲区在丢掉了帕斯卡的机敏精神。最后他给出一句石破天惊的金句——我们总和即德国佬全体——并指出：真正的科学天才不知道地理地域也不知道国家地域，他唯一的处所是人类心智。一百年后读它，这本用战时温度锻造的永久性思想著作，依然锋利。</itunes:summary>
+      <itunes:duration>00:24:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260921/episode-20260921-460088.mp3" length="23216685" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
