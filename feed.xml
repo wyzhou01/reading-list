@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 21 Sep 2026 17:15:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 17:19:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20181,6 +20181,17 @@
       <itunes:duration>00:21:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260921/episode-20260921-c850fa.mp3" length="20684589" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《第十年的情人节》 · 完整版 · 第十年的情人节 · 完整讲读</title>
+      <description>《第十年的情人节》是东野圭吾二零零六年推出的短篇集，收录了八个以节日为背景的故事——正月、情人节、女儿节、圣诞节——用冷硬的推理外壳包裹住遗憾、亲情与日常奇迹。从神社前被袭的镇长到十年后在情人节重逢的恋人，从被偷走的圣诞礼物到让父亲耗尽唯一一次机会、只为把儿子送回自己人生轨道的水晶念珠，东野圭吾在极短的篇幅里，完成了一次关于“在场“的温柔提醒：奇迹不会在节日早晨自己降临，它只会安静地藏在每一个你愿意先出手的瞬间。</description>
+      <pubDate>Mon, 21 Sep 2026 17:19:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260921-episode-20260921-0bdb0c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《第十年的情人节》是东野圭吾二零零六年推出的短篇集，收录了八个以节日为背景的故事——正月、情人节、女儿节、圣诞节——用冷硬的推理外壳包裹住遗憾、亲情与日常奇迹。从神社前被袭的镇长到十年后在情人节重逢的恋人，从被偷走的圣诞礼物到让父亲耗尽唯一一次机会、只为把儿子送回自己人生轨道的水晶念珠，东野圭吾在极短的篇幅里，完成了一次关于“在场“的温柔提醒：奇迹不会在节日早晨自己降临，它只会安静地藏在每一个你愿意先出手的瞬间。</itunes:summary>
+      <itunes:duration>00:24:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260921/episode-20260921-0bdb0c.mp3" length="23931693" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
