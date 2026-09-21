@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 21 Sep 2026 17:32:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 17:33:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20225,6 +20225,17 @@
       <itunes:duration>00:34:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260921/episode-20260921-eee421.mp3" length="32917293" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《云端杀机（Kill Decision）》 · 完整版 · 丹尼尔·苏亚雷斯_-_云端杀机 · 完整讲读</title>
+      <description>《云端杀机》是丹尼尔·苏亚雷斯二零一四年的技术惊悚小说，简体中文版由清华大学出版社于二零一五年七月出版。昆虫学家麦克金尼在追踪一种神秘切叶蚁的过程中，意外卷入一场致命自主武器的失控危机：一家美国私人公司研发出模仿蚂蚁群体智能的微型杀人机器，并以麦田中的普通人为目标进行实战测试。麦克金尼与退伍军人奥丁联手追查，从田纳西的农场一路杀回加州的实验室与华盛顿的权力走廊，最终揭露了军工复合体、资本游说与技术黑箱三者合谋的真相。小说以一场未完成的国际协议谈判作结，留下一群乌鸦在田头注视着人类回家的背影。苏亚雷斯用昆虫学家的冷静视角，向读者提出了二十一世纪最尖锐的伦理问题：当杀人的决定权被交给机器，谁来为死亡负责？</description>
+      <pubDate>Mon, 21 Sep 2026 17:33:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260921-episode-20260921-46530d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《云端杀机》是丹尼尔·苏亚雷斯二零一四年的技术惊悚小说，简体中文版由清华大学出版社于二零一五年七月出版。昆虫学家麦克金尼在追踪一种神秘切叶蚁的过程中，意外卷入一场致命自主武器的失控危机：一家美国私人公司研发出模仿蚂蚁群体智能的微型杀人机器，并以麦田中的普通人为目标进行实战测试。麦克金尼与退伍军人奥丁联手追查，从田纳西的农场一路杀回加州的实验室与华盛顿的权力走廊，最终揭露了军工复合体、资本游说与技术黑箱三者合谋的真相。小说以一场未完成的国际协议谈判作结，留下一群乌鸦在田头注视着人类回家的背影。苏亚雷斯用昆虫学家的冷静视角，向读者提出了二十一世纪最尖锐的伦理问题：当杀人的决定权被交给机器，谁来为死亡负责？</itunes:summary>
+      <itunes:duration>00:25:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260921/episode-20260921-46530d.mp3" length="24220077" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
