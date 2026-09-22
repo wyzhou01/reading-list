@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 22 Sep 2026 07:26:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 07:28:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20357,6 +20357,17 @@
       <itunes:duration>00:29:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-2e22eb.mp3" length="28442541" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一战简史：帝国幻觉》 · 完整版 · 一战简史：帝国幻觉-诺曼·斯通 · 完整讲读</title>
+      <description>英国历史学家诺曼·斯通的《一战简史：帝国幻觉》，用近五个小时篇幅，重新定义第一次世界大战：不写英雄，不写将军，写的是威廉二世的海军幻觉、恩维尔的高加索梦、英俄法的要道争夺，如何把欧洲文明推进绞肉机。斯通指出，那些喊着保家卫国口号的欧洲列强，做的全是殖民霸权的垂死挣扎。四年战争打掉九百多万条命，没有解决任何问题，反而把沙俄、奥斯曼、奥匈三个老帝国一起送进了坟墓。海峡、要道、石油、民族主义、军事-工业复合体——这些关键词不仅定义了一战，也定义了今天的世界。读懂一九一四年，就是读懂2026年世界新闻的底片。</description>
+      <pubDate>Tue, 22 Sep 2026 07:28:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260922-episode-20260922-5526f6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>英国历史学家诺曼·斯通的《一战简史：帝国幻觉》，用近五个小时篇幅，重新定义第一次世界大战：不写英雄，不写将军，写的是威廉二世的海军幻觉、恩维尔的高加索梦、英俄法的要道争夺，如何把欧洲文明推进绞肉机。斯通指出，那些喊着保家卫国口号的欧洲列强，做的全是殖民霸权的垂死挣扎。四年战争打掉九百多万条命，没有解决任何问题，反而把沙俄、奥斯曼、奥匈三个老帝国一起送进了坟墓。海峡、要道、石油、民族主义、军事-工业复合体——这些关键词不仅定义了一战，也定义了今天的世界。读懂一九一四年，就是读懂2026年世界新闻的底片。</itunes:summary>
+      <itunes:duration>00:42:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-5526f6.mp3" length="40595373" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
