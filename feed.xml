@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 22 Sep 2026 17:37:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 17:43:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20588,6 +20588,17 @@
       <itunes:duration>00:36:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-5ba71d.mp3" length="35108781" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《庆祝无意义》 · 完整版 · 庆祝无意义_-_[捷克]米兰昆德拉 · 完整讲读</title>
+      <description>《庆祝无意义》是米兰·昆德拉的最后一部小说，写于二零一三年。全书只有三段，以巴黎与卢森堡公园为舞台，串起肚脐情色的时代变迁、斯大林与赫鲁晓夫的浴室传说、加里宁因尿急而被迫给一座德国城市命名的荒诞、以及一个为求死而错杀救助者的女人。昆德拉借那喀索斯的镜子、木偶剧的合法性、卡格里克的无意义情场战术，反复叩问一个命题：无意义不是缺陷，而是生存的本质；识破它需要勇气，爱上它需要更大的勇气。</description>
+      <pubDate>Tue, 22 Sep 2026 17:43:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260922-episode-20260922-0831a3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《庆祝无意义》是米兰·昆德拉的最后一部小说，写于二零一三年。全书只有三段，以巴黎与卢森堡公园为舞台，串起肚脐情色的时代变迁、斯大林与赫鲁晓夫的浴室传说、加里宁因尿急而被迫给一座德国城市命名的荒诞、以及一个为求死而错杀救助者的女人。昆德拉借那喀索斯的镜子、木偶剧的合法性、卡格里克的无意义情场战术，反复叩问一个命题：无意义不是缺陷，而是生存的本质；识破它需要勇气，爱上它需要更大的勇气。</itunes:summary>
+      <itunes:duration>00:25:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-0831a3.mp3" length="24603693" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
