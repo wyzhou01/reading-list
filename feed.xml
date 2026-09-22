@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 22 Sep 2026 17:43:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 17:50:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20599,6 +20599,17 @@
       <itunes:duration>00:25:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-0831a3.mp3" length="24603693" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大唐悬疑录4：大明宫密码》 · 完整版 · 大唐悬疑录4：大明宫密码 · 完整讲读</title>
+      <description>《大唐悬疑录四：大明宫密码》是唐隐&apos;大唐悬疑录&apos;系列的第四部，以唐宪宗元和年间的迎佛骨大典与宪宗暴卒为背景。少年段成式卷入一场横跨大明宫的惊天阴谋，与裴玄静、崔淼等人一路追查真相，最终将答案藏进唐传奇《辛公平上仙》的故事里。全书熔唐代正史、野史笔记与悬疑推理于一炉，以少年书写者、被嵌入的传奇文本与二十六年后的政治清算三重视角，重新演绎了这桩被史官刻意隐去的宫廷惨案，是一把打开盛唐宫廷暗门的钥匙。</description>
+      <pubDate>Tue, 22 Sep 2026 17:50:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260922-episode-20260922-ebadfd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大唐悬疑录四：大明宫密码》是唐隐&apos;大唐悬疑录&apos;系列的第四部，以唐宪宗元和年间的迎佛骨大典与宪宗暴卒为背景。少年段成式卷入一场横跨大明宫的惊天阴谋，与裴玄静、崔淼等人一路追查真相，最终将答案藏进唐传奇《辛公平上仙》的故事里。全书熔唐代正史、野史笔记与悬疑推理于一炉，以少年书写者、被嵌入的传奇文本与二十六年后的政治清算三重视角，重新演绎了这桩被史官刻意隐去的宫廷惨案，是一把打开盛唐宫廷暗门的钥匙。</itunes:summary>
+      <itunes:duration>00:35:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-ebadfd.mp3" length="34268205" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
