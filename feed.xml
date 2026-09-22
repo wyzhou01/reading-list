@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 21 Sep 2026 18:25:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 07:19:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20324,6 +20324,17 @@
       <itunes:duration>00:32:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260921/episode-20260921-088cbb.mp3" length="30850989" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一战秘史（修订版）》 · 完整版 · 一战秘史（修订版） - G. J. Meyer · 完整讲读</title>
+      <description>《一战秘史》是 G. J. 梅尔写给普通人的一战通识读物。它用一个被拆毁的世界这个书名点出全书的核心：一战不仅摧毁了德意志、奥匈、俄罗斯、奥斯曼四个帝国，更彻底拆毁了十九世纪的旧秩序。作者用全球视野，从一九一四年萨拉热窝的枪声出发，一路写到一九一八年战争结束，不仅讲战场上死了多少人，更讲决定几亿人命运的人在战争之前、之中、之后想什么、做错了什么。梅尔让我们看到，工业革命把战场变成效率更高的屠宰机，堑壕战让一代欧洲青年被集体碾过；而真正摧毁旧世界的，不是一两个疯子，而是一群理性人做出的理性选择。一战的真正遗产不是条约和赔款，而是用几千万生命买来的一个反出口：后来所有试图建立世界秩序的人，都必须先回答一个问题，怎样避免一九一四年那样的灾难。</description>
+      <pubDate>Tue, 22 Sep 2026 07:19:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260922-episode-20260922-c2aed7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一战秘史》是 G. J. 梅尔写给普通人的一战通识读物。它用一个被拆毁的世界这个书名点出全书的核心：一战不仅摧毁了德意志、奥匈、俄罗斯、奥斯曼四个帝国，更彻底拆毁了十九世纪的旧秩序。作者用全球视野，从一九一四年萨拉热窝的枪声出发，一路写到一九一八年战争结束，不仅讲战场上死了多少人，更讲决定几亿人命运的人在战争之前、之中、之后想什么、做错了什么。梅尔让我们看到，工业革命把战场变成效率更高的屠宰机，堑壕战让一代欧洲青年被集体碾过；而真正摧毁旧世界的，不是一两个疯子，而是一群理性人做出的理性选择。一战的真正遗产不是条约和赔款，而是用几千万生命买来的一个反出口：后来所有试图建立世界秩序的人，都必须先回答一个问题，怎样避免一九一四年那样的灾难。</itunes:summary>
+      <itunes:duration>00:22:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-c2aed7.mp3" length="22013997" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
