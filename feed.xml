@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 22 Sep 2026 08:40:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 08:50:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20456,6 +20456,17 @@
       <itunes:duration>00:21:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-30d5dd.mp3" length="20872749" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《三毛作品精选（共6册）》 · 完整版 · 三毛作品精选（共6册） · 完整讲读</title>
+      <description>《三毛作品精选（共六册）》收录三毛最重要六部作品：从少女二毛的敏感迷惘（《雨季不再来》），到撒哈拉沙漠与荷西的炽热生活（《撒哈拉的故事》《稻草人手记》《温柔的夜》），再到荷西离世后的哀悼与重生（《梦里花落知多少》），最后是她独自踏遍中南美的远行足迹（《万水千山走遍》）。这一套书贯穿三毛从叛逆少女、自由流浪者、丧夫哀者到独自远行者的精神蜕变，呈现一个真诚、不放弃对生活热爱的女子的生命全貌。三毛的文字朴素而热烈，她不写宏大叙事，只写沙漠里的一杯茶、异乡人的一次握手、失去爱人后的一个夜晚。这种真诚，让她的作品跨越时代，至今仍打动无数读者。</description>
+      <pubDate>Tue, 22 Sep 2026 08:50:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260922-episode-20260922-1c32f2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《三毛作品精选（共六册）》收录三毛最重要六部作品：从少女二毛的敏感迷惘（《雨季不再来》），到撒哈拉沙漠与荷西的炽热生活（《撒哈拉的故事》《稻草人手记》《温柔的夜》），再到荷西离世后的哀悼与重生（《梦里花落知多少》），最后是她独自踏遍中南美的远行足迹（《万水千山走遍》）。这一套书贯穿三毛从叛逆少女、自由流浪者、丧夫哀者到独自远行者的精神蜕变，呈现一个真诚、不放弃对生活热爱的女子的生命全貌。三毛的文字朴素而热烈，她不写宏大叙事，只写沙漠里的一杯茶、异乡人的一次握手、失去爱人后的一个夜晚。这种真诚，让她的作品跨越时代，至今仍打动无数读者。</itunes:summary>
+      <itunes:duration>00:28:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-1c32f2.mp3" length="27815469" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
