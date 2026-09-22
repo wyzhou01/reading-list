@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 22 Sep 2026 08:08:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 08:18:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20412,6 +20412,17 @@
       <itunes:duration>00:26:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-3fa50b.mp3" length="25127853" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《七月冰八月雪》 · 完整版 · 七月冰八月雪 (悬疑世界系列图书) · 完整讲读</title>
+      <description>《七月冰八月雪》是五十一号先生（洪本波）二零一二年出版的悬疑爱情小说，归入悬疑世界系列。刑警彭七月在一九四五年的乱世中，许下承诺要迎娶门第悬殊的大小姐。七十年的光阴、三段时空——一九四五的乱世与初恋、一九六六的冤案与文革、二代冰的上海滩与轮回——一桩命案、一个家族的惊天秘密。他用冷冻精子、人工授精、跨越九十七岁的一场婚纱照，把承诺兑现。书里有三条时间线：冰心事件、阴阳婚、3693轮回；三个女人：冰心、晶莹、艾思；一个暗号：三六九三。科技可以补偿人性的缺憾，但科技永远不能制造爱——爱只能来自那一跪、那六十五年、那一声&apos;雪儿&apos;。</description>
+      <pubDate>Tue, 22 Sep 2026 08:18:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260922-episode-20260922-78c672</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《七月冰八月雪》是五十一号先生（洪本波）二零一二年出版的悬疑爱情小说，归入悬疑世界系列。刑警彭七月在一九四五年的乱世中，许下承诺要迎娶门第悬殊的大小姐。七十年的光阴、三段时空——一九四五的乱世与初恋、一九六六的冤案与文革、二代冰的上海滩与轮回——一桩命案、一个家族的惊天秘密。他用冷冻精子、人工授精、跨越九十七岁的一场婚纱照，把承诺兑现。书里有三条时间线：冰心事件、阴阳婚、3693轮回；三个女人：冰心、晶莹、艾思；一个暗号：三六九三。科技可以补偿人性的缺憾，但科技永远不能制造爱——爱只能来自那一跪、那六十五年、那一声&apos;雪儿&apos;。</itunes:summary>
+      <itunes:duration>00:35:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-78c672.mp3" length="33606957" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
