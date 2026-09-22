@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 22 Sep 2026 08:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 08:57:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20467,6 +20467,17 @@
       <itunes:duration>00:28:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-1c32f2.mp3" length="27815469" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《三生三世 十里桃花》 · 完整版 · 三生三世 十里桃花 · 完整讲读</title>
+      <description>《三生三世 十里桃花》是唐七公子所著的远古仙侠长卷。故事讲述凡人素素被天族太子夜华带上九重天，却被设计剜去双眼、跳下诛仙台；三百年后，她化身青丘帝姬白浅，与同一个人再续前缘。围绕三生三世的轮回虐恋与宿命中重逢，作品深入探讨了身份落差下的情感错位与误解、卑微换爱的代价、以及放下执念、不负当下的成长。最终，唯有卸下执念与卑微，方能真正认出彼此——&quot;我爱你，与你是谁无关&quot;。</description>
+      <pubDate>Tue, 22 Sep 2026 08:57:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260922-episode-20260922-07a09a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《三生三世 十里桃花》是唐七公子所著的远古仙侠长卷。故事讲述凡人素素被天族太子夜华带上九重天，却被设计剜去双眼、跳下诛仙台；三百年后，她化身青丘帝姬白浅，与同一个人再续前缘。围绕三生三世的轮回虐恋与宿命中重逢，作品深入探讨了身份落差下的情感错位与误解、卑微换爱的代价、以及放下执念、不负当下的成长。最终，唯有卸下执念与卑微，方能真正认出彼此——&quot;我爱你，与你是谁无关&quot;。</itunes:summary>
+      <itunes:duration>00:30:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-07a09a.mp3" length="29327277" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
