@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 22 Sep 2026 09:24:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 09:29:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20522,6 +20522,17 @@
       <itunes:duration>00:26:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-455f7d.mp3" length="25292205" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《三联生活周刊 2015年15期》 · 完整版 · 三联生活周刊 2015年15期 · 完整讲读</title>
+      <description>本期《三联生活周刊》以“绘本，陪伴与成长”为封面专题，从十九世纪英国插画家凯迪克到中国原创绘本人蔡皋、熊亮、董亚楠，追溯绘本一百三十年的演变与中国原创的破土。同时覆盖也门撤侨、中东局势、房地产与存款保险、中概股、奢侈品与昆曲市场化、伍尔夫与乔伊斯的文学回响，以及一篇关于厦门女孩与父亲重返鼓浪屿的温柔散文。它是一份对二零一五年春天的完整切片，也是一封写给童年、传统与地方记忆的慢信。</description>
+      <pubDate>Tue, 22 Sep 2026 09:29:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260922-episode-20260922-957065</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期《三联生活周刊》以“绘本，陪伴与成长”为封面专题，从十九世纪英国插画家凯迪克到中国原创绘本人蔡皋、熊亮、董亚楠，追溯绘本一百三十年的演变与中国原创的破土。同时覆盖也门撤侨、中东局势、房地产与存款保险、中概股、奢侈品与昆曲市场化、伍尔夫与乔伊斯的文学回响，以及一篇关于厦门女孩与父亲重返鼓浪屿的温柔散文。它是一份对二零一五年春天的完整切片，也是一封写给童年、传统与地方记忆的慢信。</itunes:summary>
+      <itunes:duration>00:30:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-957065.mp3" length="28956717" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
