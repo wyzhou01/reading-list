@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 22 Sep 2026 09:04:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 09:08:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20489,6 +20489,17 @@
       <itunes:duration>00:26:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-b05abe.mp3" length="25233069" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《三联生活周刊 2015年10期》 · 完整版 · 三联生活周刊 2015年10期 · 完整讲读</title>
+      <description>《三联生活周刊》二零一五年第十期以图灵诞辰和人工智能的再度兴起为封面话题，回望二战密码战场与好莱坞对天才的消费，同时把目光投向抗生素危机的全球困境、柏林电影节的艺术争议、城市化背后的环境污染与工人欠薪等议题。从科技预言到街角橙子香，从奥斯卡奖杯到流水线上的叹息，这一期试图在宏大叙事与个体经验之间寻找平衡。七十年后再读图灵的追问，答案依然悬而未决。</description>
+      <pubDate>Tue, 22 Sep 2026 09:08:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260922-episode-20260922-d13c44</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《三联生活周刊》二零一五年第十期以图灵诞辰和人工智能的再度兴起为封面话题，回望二战密码战场与好莱坞对天才的消费，同时把目光投向抗生素危机的全球困境、柏林电影节的艺术争议、城市化背后的环境污染与工人欠薪等议题。从科技预言到街角橙子香，从奥斯卡奖杯到流水线上的叹息，这一期试图在宏大叙事与个体经验之间寻找平衡。七十年后再读图灵的追问，答案依然悬而未决。</itunes:summary>
+      <itunes:duration>00:28:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-d13c44.mp3" length="27237933" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
