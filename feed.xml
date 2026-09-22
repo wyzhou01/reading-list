@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 22 Sep 2026 09:29:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 09:40:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20533,6 +20533,17 @@
       <itunes:duration>00:30:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-957065.mp3" length="28956717" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《三联生活周刊 2015年19期·茶之道：山场、活水与茶境》 · 完整版 · 三联生活周刊 2015年19期 · 完整讲读</title>
+      <description>本期《三联生活周刊》以《茶之道：山场、活水与茶境》为专题，编辑部用三年走访中国主要茶山，提出&quot;茶本主义&quot;核心理念——回归茶汤本身，而非追逐仪式与器物的表层光环。从武夷岩茶、黄山毛峰、霍山黄芽，到松萝茶、蒙顶山茶、六堡茶，山场的精细影响决定一杯茶的滋味；山泉活水则是激发茶香的最后一环。专题反其道而行去韩国寻访茶道，在大壶大碗、古朴自然的饮法中，恍惚看见唐代的影子。林谷芳先生在卷首追问：茶，究竟是心之安放，还是物之追逐？并立起&quot;于人情分、于艺丘壑、于道安顿&quot;三根坐标，拆掉&quot;以多为足、以外逐为乐、以繁复为尚、以稀有为尚、以表现为得&quot;五条病根。此外，本期还收录央企重组、老龄化、安倍外交、苹果股市神话、读者来信等时代切片。一杯茶里，藏着中国传统文化最深的密码，也照见我们每一个人在这个喧嚣时代里，该如何安放自己的心。</description>
+      <pubDate>Tue, 22 Sep 2026 09:40:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260922-episode-20260922-4fe40f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期《三联生活周刊》以《茶之道：山场、活水与茶境》为专题，编辑部用三年走访中国主要茶山，提出&quot;茶本主义&quot;核心理念——回归茶汤本身，而非追逐仪式与器物的表层光环。从武夷岩茶、黄山毛峰、霍山黄芽，到松萝茶、蒙顶山茶、六堡茶，山场的精细影响决定一杯茶的滋味；山泉活水则是激发茶香的最后一环。专题反其道而行去韩国寻访茶道，在大壶大碗、古朴自然的饮法中，恍惚看见唐代的影子。林谷芳先生在卷首追问：茶，究竟是心之安放，还是物之追逐？并立起&quot;于人情分、于艺丘壑、于道安顿&quot;三根坐标，拆掉&quot;以多为足、以外逐为乐、以繁复为尚、以稀有为尚、以表现为得&quot;五条病根。此外，本期还收录央企重组、老龄化、安倍外交、苹果股市神话、读者来信等时代切片。一杯茶里，藏着中国传统文化最深的密码，也照见我们每一个人在这个喧嚣时代里，该如何安放自己的心。</itunes:summary>
+      <itunes:duration>00:23:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-4fe40f.mp3" length="22146093" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
