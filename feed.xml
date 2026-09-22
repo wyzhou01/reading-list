@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 22 Sep 2026 09:14:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 09:24:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20511,6 +20511,17 @@
       <itunes:duration>00:35:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-8d82c9.mp3" length="34026285" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《三联生活周刊 2015年14期》 · 完整版 · 三联生活周刊 2015年14期 · 完整讲读</title>
+      <description>本期《三联生活周刊》以《我是歌手》第三季为切片，借由“社交货币”理论剖开中国真人秀大爆炸的传播机制：它用三十位编剧和一千多分钟素材，烘焙出九十多分钟的“高唤醒”情绪；用五百位大众评审的仪式感，把悬念钉在每周一次的揭晓里；同时把电视台、歌手、经纪公司、赞助商、观众的利益缝合进同一档节目。歌手李健用诺基亚手机与“让我沉思一会儿”，在精密机器里撬出了一条反向缝隙。本期同时纵览印尼佐科维多多胜选、福建肉身佛衰京跨国追索、中国制造2025规划与一张三代中国家庭餐桌的微观更替，是一份2015年中国社会从娱乐到政治、从产业到烟火气的多维切片，也是一份至今仍不过时的、关于“如何在一台加速运转的机器里，做一个安静的变量”的观察样本。</description>
+      <pubDate>Tue, 22 Sep 2026 09:24:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260922-episode-20260922-455f7d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期《三联生活周刊》以《我是歌手》第三季为切片，借由“社交货币”理论剖开中国真人秀大爆炸的传播机制：它用三十位编剧和一千多分钟素材，烘焙出九十多分钟的“高唤醒”情绪；用五百位大众评审的仪式感，把悬念钉在每周一次的揭晓里；同时把电视台、歌手、经纪公司、赞助商、观众的利益缝合进同一档节目。歌手李健用诺基亚手机与“让我沉思一会儿”，在精密机器里撬出了一条反向缝隙。本期同时纵览印尼佐科维多多胜选、福建肉身佛衰京跨国追索、中国制造2025规划与一张三代中国家庭餐桌的微观更替，是一份2015年中国社会从娱乐到政治、从产业到烟火气的多维切片，也是一份至今仍不过时的、关于“如何在一台加速运转的机器里，做一个安静的变量”的观察样本。</itunes:summary>
+      <itunes:duration>00:26:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-455f7d.mp3" length="25292205" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
