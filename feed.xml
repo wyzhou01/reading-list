@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 22 Sep 2026 07:58:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 08:08:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20401,6 +20401,17 @@
       <itunes:duration>00:32:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-d78eff.mp3" length="31308333" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《七堂思维成长课》 · 完整版 · 七堂思维成长课 · 完整讲读</title>
+      <description>《七堂思维成长课》原名 How to Have a Good Day，是前麦肯锡资深咨询顾问卡罗琳·韦布基于十二年组织文化变革经验与六百篇行为科学研究写成的职场自助书。全书围绕目标、效率、社交、决策、沟通、调节、精力七节课，给出一套把行为科学转化为日常微小行动的指南。核心主张是，高质量的一天不是靠运气，而是靠设计；只要掌握大脑双系统、发现与防守之轴、精神与身体环路三大原理，调整目标设定、专注节奏、人际场域和复原方式，就能让每一天的效率和愉悦感显著提升。本书适合被会议、消息、内耗消耗的现代知识工作者阅读，提供了一份立刻可用、每天都能实践的好日子操作手册。</description>
+      <pubDate>Tue, 22 Sep 2026 08:08:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260922-episode-20260922-3fa50b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《七堂思维成长课》原名 How to Have a Good Day，是前麦肯锡资深咨询顾问卡罗琳·韦布基于十二年组织文化变革经验与六百篇行为科学研究写成的职场自助书。全书围绕目标、效率、社交、决策、沟通、调节、精力七节课，给出一套把行为科学转化为日常微小行动的指南。核心主张是，高质量的一天不是靠运气，而是靠设计；只要掌握大脑双系统、发现与防守之轴、精神与身体环路三大原理，调整目标设定、专注节奏、人际场域和复原方式，就能让每一天的效率和愉悦感显著提升。本书适合被会议、消息、内耗消耗的现代知识工作者阅读，提供了一份立刻可用、每天都能实践的好日子操作手册。</itunes:summary>
+      <itunes:duration>00:26:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-3fa50b.mp3" length="25127853" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
