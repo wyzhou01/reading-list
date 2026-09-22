@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 22 Sep 2026 17:29:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 17:37:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20577,6 +20577,17 @@
       <itunes:duration>00:41:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-0b458f.mp3" length="39803565" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《愿你被温柔爱过》 · 完整版 · 愿你被温柔爱过_-_苏珊·奥尔琳（Susan_Orlean） · 完整讲读</title>
+      <description>《愿你被温柔爱过》讲述了任丁丁——一只一九一八年生于法国战壕、由美国士兵李·邓肯带回美国的小狗——如何成为默片时代的好莱坞巨星，又如何在死后通过一代又一代后代延续传奇一百年。苏珊·奥尔琳用她标志性的非虚构笔法，串起了一段跨越百年的故事：一个失去父亲的孤儿，把全部的爱与人生意义押在一个狗名上；一个被母亲抛弃的田纳西女人，把全部生活用来守护那个名字的血脉；一个不爱讲话的祖父，把一只塑料任丁丁放在书桌上，作为对孙辈最珍贵的馈赠。全书追问的核心问题只有一个：你真正爱过的东西，是不是真的会永远活下去？奥尔琳的答案是：不一定。但如果你在爱的那一刻是完整的，那一刻就是永存的。</description>
+      <pubDate>Tue, 22 Sep 2026 17:37:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260922-episode-20260922-5ba71d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《愿你被温柔爱过》讲述了任丁丁——一只一九一八年生于法国战壕、由美国士兵李·邓肯带回美国的小狗——如何成为默片时代的好莱坞巨星，又如何在死后通过一代又一代后代延续传奇一百年。苏珊·奥尔琳用她标志性的非虚构笔法，串起了一段跨越百年的故事：一个失去父亲的孤儿，把全部的爱与人生意义押在一个狗名上；一个被母亲抛弃的田纳西女人，把全部生活用来守护那个名字的血脉；一个不爱讲话的祖父，把一只塑料任丁丁放在书桌上，作为对孙辈最珍贵的馈赠。全书追问的核心问题只有一个：你真正爱过的东西，是不是真的会永远活下去？奥尔琳的答案是：不一定。但如果你在爱的那一刻是完整的，那一刻就是永存的。</itunes:summary>
+      <itunes:duration>00:36:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-5ba71d.mp3" length="35108781" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
