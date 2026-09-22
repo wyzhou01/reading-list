@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 22 Sep 2026 07:19:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 07:20:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20335,6 +20335,17 @@
       <itunes:duration>00:22:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-c2aed7.mp3" length="22013997" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《午夜将至：核战边缘的肯尼迪、赫鲁晓夫与卡斯特罗》 · 完整版 · Michael Dobbs - 午夜将至：核战边缘的肯尼迪、赫鲁晓夫与卡斯特罗 · 完整讲读</title>
+      <description>《午夜将至》是迈克尔·多布斯关于一九六二年古巴导弹危机的非虚构作品。作者用两年时间,跑遍六个国家,挖出上百份新解密档案,采访一百多位亲历老兵,首次将美、苏、古三方材料交叉比对,揭示了多个鲜为人知的关键细节:苏联曾计划用核巡航导弹攻击关塔那摩基地、U-2 侦察机迷航险些被击落、苏联核弹头在古巴的具体储存位置等。多布斯打破肯尼迪阵营塑造的英雄神话,指出人类最终从核战边缘幸免,并非依赖制度理性,而是依赖若干关键人物在最后关头做出的、无法事先计划的偶然克制。这本书既是冷战史研究的重要补充,也是关于档案、记忆与历史叙事之间关系的深度反思。</description>
+      <pubDate>Tue, 22 Sep 2026 07:20:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260922-episode-20260922-093078</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《午夜将至》是迈克尔·多布斯关于一九六二年古巴导弹危机的非虚构作品。作者用两年时间,跑遍六个国家,挖出上百份新解密档案,采访一百多位亲历老兵,首次将美、苏、古三方材料交叉比对,揭示了多个鲜为人知的关键细节:苏联曾计划用核巡航导弹攻击关塔那摩基地、U-2 侦察机迷航险些被击落、苏联核弹头在古巴的具体储存位置等。多布斯打破肯尼迪阵营塑造的英雄神话,指出人类最终从核战边缘幸免,并非依赖制度理性,而是依赖若干关键人物在最后关头做出的、无法事先计划的偶然克制。这本书既是冷战史研究的重要补充,也是关于档案、记忆与历史叙事之间关系的深度反思。</itunes:summary>
+      <itunes:duration>00:35:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-093078.mp3" length="34349997" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
