@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 22 Sep 2026 09:08:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 09:14:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20500,6 +20500,17 @@
       <itunes:duration>00:28:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-d13c44.mp3" length="27237933" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《三联生活周刊 2015年12期》 · 完整版 · 三联生活周刊 2015年12期 · 完整讲读</title>
+      <description>二零一五年第十二期《三联生活周刊》以一只马桶盖为切口，用宋晓军的视角把中国制造、军民融合、产业升级三条线索串联起来；同期还扫描了硅谷的飞行汽车与奇点神话、古巴解冻、德国老龄化、耶鲁走向亚洲、不丹世界末位足球队等国际议题，并记录了基层公务员的耗尽、农村相亲的婚事之难、公开课彩排的造假等社会万象。本期用六块拼图呈现了中国站在产业、制度、人三条线交叉点上的二零一五年图景，为理解中国制造升级、科技产业趋势与那个年份的知识界思考方式，留下一份值得细读的文本。</description>
+      <pubDate>Tue, 22 Sep 2026 09:14:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260922-episode-20260922-8d82c9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>二零一五年第十二期《三联生活周刊》以一只马桶盖为切口，用宋晓军的视角把中国制造、军民融合、产业升级三条线索串联起来；同期还扫描了硅谷的飞行汽车与奇点神话、古巴解冻、德国老龄化、耶鲁走向亚洲、不丹世界末位足球队等国际议题，并记录了基层公务员的耗尽、农村相亲的婚事之难、公开课彩排的造假等社会万象。本期用六块拼图呈现了中国站在产业、制度、人三条线交叉点上的二零一五年图景，为理解中国制造升级、科技产业趋势与那个年份的知识界思考方式，留下一份值得细读的文本。</itunes:summary>
+      <itunes:duration>00:35:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-8d82c9.mp3" length="34026285" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
