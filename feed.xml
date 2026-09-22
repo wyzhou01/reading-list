@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 22 Sep 2026 07:45:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 07:49:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20379,6 +20379,17 @@
       <itunes:duration>00:27:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-1a75c4.mp3" length="25991085" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一步一如来：拉萨圣境旅人书》 · 完整版 · 一步一如来_拉萨圣境旅人书 - 林聪 · 完整讲读</title>
+      <description>《一步一如来：拉萨圣境旅人书》是林聪耗时五年写就的拉萨朝圣百科指南。作者二十年间入藏一百次、进拉萨三十次，记录下四十九处朝圣地点和一百个鲜为人知的老典故。书中系统讲解了藏传佛教朝圣的仪轨——祈祷、礼佛、绕拜、供养，并以囊廓、八廓、林廓三条转经路为线索，串起大昭寺、布达拉宫、色拉寺、哲蚌寺、甘丹寺、扎耶巴洞窟群等重要圣地，配以两百张珍贵图片。这本书不止是一本旅游指南，更是一份关于“朝圣如何成为修行”的心灵手册，提醒每一位读者：朝圣的起点不是到达，而是你决定放下自我、迈出第一步的那个瞬间。</description>
+      <pubDate>Tue, 22 Sep 2026 07:49:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260922-episode-20260922-dce0f6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一步一如来：拉萨圣境旅人书》是林聪耗时五年写就的拉萨朝圣百科指南。作者二十年间入藏一百次、进拉萨三十次，记录下四十九处朝圣地点和一百个鲜为人知的老典故。书中系统讲解了藏传佛教朝圣的仪轨——祈祷、礼佛、绕拜、供养，并以囊廓、八廓、林廓三条转经路为线索，串起大昭寺、布达拉宫、色拉寺、哲蚌寺、甘丹寺、扎耶巴洞窟群等重要圣地，配以两百张珍贵图片。这本书不止是一本旅游指南，更是一份关于“朝圣如何成为修行”的心灵手册，提醒每一位读者：朝圣的起点不是到达，而是你决定放下自我、迈出第一步的那个瞬间。</itunes:summary>
+      <itunes:duration>00:26:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-dce0f6.mp3" length="25748397" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
