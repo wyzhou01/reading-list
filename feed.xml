@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 22 Sep 2026 07:20:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 07:26:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20346,6 +20346,17 @@
       <itunes:duration>00:35:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-093078.mp3" length="34349997" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《南方女王》 · 完整版 · [西]阿图罗·佩雷斯·雷维特-南方女王 · 完整讲读</title>
+      <description>《南方女王》是西班牙作家阿图罗·佩雷斯-雷维特二零零二年的现象级小说,讲述锡那罗亚女孩特蕾莎·门多萨在男友——飞行员格罗·达维拉被仇家杀害后,从墨西哥逃亡至西班牙,用十二年时间在男性主导的毒品世界里建起自己的商业帝国,最终又被迫回到库利亚坎接受审判的故事。雷维特以战地记者的第一人称视角,横跨三大洲采访,把缉毒档案、监狱见闻、海上追逐揉进这个虚构又近乎真实的女人身上,撕开了科里多式江湖叙事的浪漫外衣,暴露出所谓&quot;传奇&quot;背后,是一个累得只想找根烟抽的普通女人。</description>
+      <pubDate>Tue, 22 Sep 2026 07:26:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260922-episode-20260922-2e22eb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《南方女王》是西班牙作家阿图罗·佩雷斯-雷维特二零零二年的现象级小说,讲述锡那罗亚女孩特蕾莎·门多萨在男友——飞行员格罗·达维拉被仇家杀害后,从墨西哥逃亡至西班牙,用十二年时间在男性主导的毒品世界里建起自己的商业帝国,最终又被迫回到库利亚坎接受审判的故事。雷维特以战地记者的第一人称视角,横跨三大洲采访,把缉毒档案、监狱见闻、海上追逐揉进这个虚构又近乎真实的女人身上,撕开了科里多式江湖叙事的浪漫外衣,暴露出所谓&quot;传奇&quot;背后,是一个累得只想找根烟抽的普通女人。</itunes:summary>
+      <itunes:duration>00:29:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-2e22eb.mp3" length="28442541" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
