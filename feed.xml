@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 22 Sep 2026 08:24:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 08:32:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20434,6 +20434,17 @@
       <itunes:duration>00:32:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-6a42ec.mp3" length="31629741" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《三大师传 - [奥]茨威格》 · 完整版 · 三大师传 - [奥]茨威格 · 完整讲读</title>
+      <description>《三大师传》是茨威格在一九一九年写就的文学评论经典。他将巴尔扎克、狄更斯、陀思妥耶夫斯基并列为十九世纪绝无仅有的三位伟大长篇小说家，因为他们各自创造了一整个世界——巴尔扎克的世界是社会，狄更斯的世界是家庭，陀思妥耶夫斯基的世界是个人也是众人。他们笔下的人物已经活进我们的日常语言，我们用他们的角色来命名身边的人。开此书时正值一战，茨威格顶住民族主义逆流，把敌对国家的三位作家请上神坛，彰显他作为欧洲人的清醒。三个人的创作各有天地，他们的命运也告诉我们——天才要不要融入时代？融入有融入的代价，不融入有不融入的代价，最累也最像拔河的是反过来统治时代。这是一本写给所有写作者、创造者、内容人的小书，也是一把衡量伟大的尺。一百年过去，尺子依然立着。</description>
+      <pubDate>Tue, 22 Sep 2026 08:32:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260922-episode-20260922-b99a35</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《三大师传》是茨威格在一九一九年写就的文学评论经典。他将巴尔扎克、狄更斯、陀思妥耶夫斯基并列为十九世纪绝无仅有的三位伟大长篇小说家，因为他们各自创造了一整个世界——巴尔扎克的世界是社会，狄更斯的世界是家庭，陀思妥耶夫斯基的世界是个人也是众人。他们笔下的人物已经活进我们的日常语言，我们用他们的角色来命名身边的人。开此书时正值一战，茨威格顶住民族主义逆流，把敌对国家的三位作家请上神坛，彰显他作为欧洲人的清醒。三个人的创作各有天地，他们的命运也告诉我们——天才要不要融入时代？融入有融入的代价，不融入有不融入的代价，最累也最像拔河的是反过来统治时代。这是一本写给所有写作者、创造者、内容人的小书，也是一把衡量伟大的尺。一百年过去，尺子依然立着。</itunes:summary>
+      <itunes:duration>00:32:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-b99a35.mp3" length="30799149" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
