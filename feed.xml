@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 22 Sep 2026 07:28:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 07:45:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20368,6 +20368,17 @@
       <itunes:duration>00:42:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-5526f6.mp3" length="40595373" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一条狗的使命》 · 完整版 · 一条狗的使命 · 完整讲读</title>
+      <description>《一条狗的使命》讲了一只小狗用四辈子学会“如何回到最初那个男孩身边“的故事。它第一次活在伊森童年，学会了爱；第二次变成搜救犬，学会了救人；第三次陪伴伊森走完最后一程。它告诉我们：活着的意义不是轰轰烈烈，是“在“；爱不需要理由，陪伴就是使命；每一次看似白费的活着，都会在未来的某一刻，以意想不到的方式重新长出来。一只狗用四辈子才学会的事，我们一辈子就可以做到——让你在乎的人知道，他不是一个人。</description>
+      <pubDate>Tue, 22 Sep 2026 07:45:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260922-episode-20260922-1a75c4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一条狗的使命》讲了一只小狗用四辈子学会“如何回到最初那个男孩身边“的故事。它第一次活在伊森童年，学会了爱；第二次变成搜救犬，学会了救人；第三次陪伴伊森走完最后一程。它告诉我们：活着的意义不是轰轰烈烈，是“在“；爱不需要理由，陪伴就是使命；每一次看似白费的活着，都会在未来的某一刻，以意想不到的方式重新长出来。一只狗用四辈子才学会的事，我们一辈子就可以做到——让你在乎的人知道，他不是一个人。</itunes:summary>
+      <itunes:duration>00:27:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-1a75c4.mp3" length="25991085" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
