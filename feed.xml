@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 22 Sep 2026 08:57:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 09:04:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20478,6 +20478,17 @@
       <itunes:duration>00:30:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-07a09a.mp3" length="29327277" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《三生三世十里桃花》 · 完整版 · 三生三世十里桃花（影视同期纪念版） - 唐七 · 完整讲读</title>
+      <description>《三生三世十里桃花》是唐七的仙侠言情代表作，以青丘帝姬白浅与天族太子夜华跨越三生三世的轮回爱情为主线。前世白浅封印记忆化为凡人素素，在俊疾山救下夜华并与之成婚，却被带上九重天后遭素锦天妃陷害，被夜华亲手剜去双眼、生下孩子后含恨跳下诛仙台。封印因戾气劈开，前尘记忆恢复，她才知自己并非凡人。三百年后，夜华奉命迎娶青丘白浅为妻，掀开盖头才惊觉，他要娶的天后，竟就是他以为早已灰飞烟灭的素素。这部小说以误会与信任崩塌为戏剧核心，将天命情劫、爱恨执念与自我成长熔于一炉，构建出一个苍茫绮丽的东方仙侠宇宙，是后世仙侠言情作品的创作范本。</description>
+      <pubDate>Tue, 22 Sep 2026 09:04:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260922-episode-20260922-b05abe</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《三生三世十里桃花》是唐七的仙侠言情代表作，以青丘帝姬白浅与天族太子夜华跨越三生三世的轮回爱情为主线。前世白浅封印记忆化为凡人素素，在俊疾山救下夜华并与之成婚，却被带上九重天后遭素锦天妃陷害，被夜华亲手剜去双眼、生下孩子后含恨跳下诛仙台。封印因戾气劈开，前尘记忆恢复，她才知自己并非凡人。三百年后，夜华奉命迎娶青丘白浅为妻，掀开盖头才惊觉，他要娶的天后，竟就是他以为早已灰飞烟灭的素素。这部小说以误会与信任崩塌为戏剧核心，将天命情劫、爱恨执念与自我成长熔于一炉，构建出一个苍茫绮丽的东方仙侠宇宙，是后世仙侠言情作品的创作范本。</itunes:summary>
+      <itunes:duration>00:26:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-b05abe.mp3" length="25233069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
