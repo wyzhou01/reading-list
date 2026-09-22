@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 22 Sep 2026 17:16:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 17:29:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20566,6 +20566,17 @@
       <itunes:duration>00:33:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-2f4126.mp3" length="31759533" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《鱼河岸小店》 · 完整版 · 鱼河岸小店 · 完整讲读</title>
+      <description>《鱼河岸小店》是日本作家西加奈子写给2011年东日本大地震的一封长信。胖乎乎的养母肉子，带着十一岁的养女喜久子，从大阪的小酒吧颠沛到北陆的小渔港，在一间叫“鱼河岸“的烤肉店里相依为命。这本书不讲逆袭，不讲奇迹，只讲一个被生活反复按在地上却还在笑的女人，和一个被迫早早长大的女孩，如何靠谐音笑话、不倒翁被褥、列车便当和一块最金贵的板腱，把每一个难堪的日子，过成一句“写作&apos;手&apos;&apos;旦&apos;&apos;心&apos;，读作&apos;担心&apos;“。轻盈，却不轻飘；讲市井，讲成长，也讲灾难之后，我们为什么还要认真吃一顿饭。</description>
+      <pubDate>Tue, 22 Sep 2026 17:29:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260922-episode-20260922-0b458f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《鱼河岸小店》是日本作家西加奈子写给2011年东日本大地震的一封长信。胖乎乎的养母肉子，带着十一岁的养女喜久子，从大阪的小酒吧颠沛到北陆的小渔港，在一间叫“鱼河岸“的烤肉店里相依为命。这本书不讲逆袭，不讲奇迹，只讲一个被生活反复按在地上却还在笑的女人，和一个被迫早早长大的女孩，如何靠谐音笑话、不倒翁被褥、列车便当和一块最金贵的板腱，把每一个难堪的日子，过成一句“写作&apos;手&apos;&apos;旦&apos;&apos;心&apos;，读作&apos;担心&apos;“。轻盈，却不轻飘；讲市井，讲成长，也讲灾难之后，我们为什么还要认真吃一顿饭。</itunes:summary>
+      <itunes:duration>00:41:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-0b458f.mp3" length="39803565" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
