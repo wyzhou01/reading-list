@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 22 Sep 2026 07:49:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 07:58:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20390,6 +20390,17 @@
       <itunes:duration>00:26:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-dce0f6.mp3" length="25748397" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《七十二堂写作课：夏丏尊叶圣陶教你写文章》 · 完整版 · 七十二堂写作课 · 完整讲读</title>
+      <description>《七十二堂写作课》源自一九三五年叶圣陶与夏丏尊合编的初中语文教材《国文百八课》，因抗战爆发只出版了七十二课。本书把七十二篇文话单独抽出，揭示写作的底层功夫：从形式入手，区分记述、叙述、说明、议论四种基本模具，要求文章里有作者自己的意见，并讲清立脚点的选择、叙述的顺序，以及文言与语体的演变和语言文字的基本规则。它告诉我们写作是一门科学、一门手艺，文章的形式是可以拆解、可以学习、可以练好的。本书被推崇为中文写作教育史上最具规范意义的写作指南之一。</description>
+      <pubDate>Tue, 22 Sep 2026 07:58:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260922-episode-20260922-d78eff</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《七十二堂写作课》源自一九三五年叶圣陶与夏丏尊合编的初中语文教材《国文百八课》，因抗战爆发只出版了七十二课。本书把七十二篇文话单独抽出，揭示写作的底层功夫：从形式入手，区分记述、叙述、说明、议论四种基本模具，要求文章里有作者自己的意见，并讲清立脚点的选择、叙述的顺序，以及文言与语体的演变和语言文字的基本规则。它告诉我们写作是一门科学、一门手艺，文章的形式是可以拆解、可以学习、可以练好的。本书被推崇为中文写作教育史上最具规范意义的写作指南之一。</itunes:summary>
+      <itunes:duration>00:32:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-d78eff.mp3" length="31308333" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
