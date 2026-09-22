@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 22 Sep 2026 08:18:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 08:24:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20423,6 +20423,17 @@
       <itunes:duration>00:35:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-78c672.mp3" length="33606957" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《三侠剑》 · 完整版 · 三侠剑(简体版) · 完整讲读</title>
+      <description>《三侠剑》是清末民初评书艺人张杰鑫创作的长篇侠义评书，以康熙年间十三省总镖局总镖头胜英为核心，串联起镖行规矩与绿林规矩的冲突、正邪人物的恩怨纠葛与师徒群像的成长熬炼。胜英以三只金镖、一口鱼鳞紫金刀，屈己从人、戴罪立功，从夜探二郎山救范家姑娘，到莲花湖连环设局，再到九龙山水师营与巨寇对峙，在镖行与绿林两股道之间艰难周旋。整部书以旧派评书的叙事节奏，重江湖规矩、重师徒辈分、重绿林道义、重忠义报恩，为读者留下一幅市井与江湖交织的群像画卷，至今读来，仍是照见人心的旧镜子。</description>
+      <pubDate>Tue, 22 Sep 2026 08:24:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260922-episode-20260922-6a42ec</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《三侠剑》是清末民初评书艺人张杰鑫创作的长篇侠义评书，以康熙年间十三省总镖局总镖头胜英为核心，串联起镖行规矩与绿林规矩的冲突、正邪人物的恩怨纠葛与师徒群像的成长熬炼。胜英以三只金镖、一口鱼鳞紫金刀，屈己从人、戴罪立功，从夜探二郎山救范家姑娘，到莲花湖连环设局，再到九龙山水师营与巨寇对峙，在镖行与绿林两股道之间艰难周旋。整部书以旧派评书的叙事节奏，重江湖规矩、重师徒辈分、重绿林道义、重忠义报恩，为读者留下一幅市井与江湖交织的群像画卷，至今读来，仍是照见人心的旧镜子。</itunes:summary>
+      <itunes:duration>00:32:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-6a42ec.mp3" length="31629741" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
