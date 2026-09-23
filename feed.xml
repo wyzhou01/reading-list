@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 23 Sep 2026 17:41:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 17:48:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20687,6 +20687,17 @@
       <itunes:duration>00:28:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260923/episode-20260923-53cf1a.mp3" length="26957613" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《不忍细看的大汉史》 · 完整版 · 不忍细看的大汉史(1) · 完整讲读</title>
+      <description>《不忍细看的大汉史》是墨竹写的一部通俗汉代断代史，全书九章，用讲故事的方式把西汉和东汉四百年的兴亡脉络串成了一条完整的时间线。从刘邦斩蛇起义、楚汉争霸讲起，途经文景之治的休养生息、汉武帝的赫赫武功、昭宣中兴、王莽篡汉、光武中兴，最后讲到东汉末年的外戚宦官专权、军阀混战与曹丕篡汉。这本书的最大特点，是把帝王将相的故事和背后的权谋逻辑讲得清楚，不陷入考据的细节，却能让普通读者听完一集就建立起完整的时间线和大局观，是快速了解汉朝全貌、搞懂帝国兴亡周期律的一个友好入口。</description>
+      <pubDate>Wed, 23 Sep 2026 17:48:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260923-episode-20260923-fff8e7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《不忍细看的大汉史》是墨竹写的一部通俗汉代断代史，全书九章，用讲故事的方式把西汉和东汉四百年的兴亡脉络串成了一条完整的时间线。从刘邦斩蛇起义、楚汉争霸讲起，途经文景之治的休养生息、汉武帝的赫赫武功、昭宣中兴、王莽篡汉、光武中兴，最后讲到东汉末年的外戚宦官专权、军阀混战与曹丕篡汉。这本书的最大特点，是把帝王将相的故事和背后的权谋逻辑讲得清楚，不陷入考据的细节，却能让普通读者听完一集就建立起完整的时间线和大局观，是快速了解汉朝全貌、搞懂帝国兴亡周期律的一个友好入口。</itunes:summary>
+      <itunes:duration>00:27:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260923/episode-20260923-fff8e7.mp3" length="26873901" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
