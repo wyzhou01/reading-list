@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 23 Sep 2026 17:26:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 17:33:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20643,6 +20643,17 @@
       <itunes:duration>00:24:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260923/episode-20260923-53e125.mp3" length="23977773" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大学的精神》 · 完整版 · 大学的精神 · 完整讲读</title>
+      <description>《大学的精神》是《三联生活周刊》四位资深主笔亲赴哈佛、耶鲁、斯坦福、麻省理工、牛津、剑桥、海德堡七所世界顶尖名校后写下的深度专题报道。它不是一份排名榜单，而是一次对大学灵魂的追问：哈佛如何成为映照美国的镜子，耶鲁如何锻造领袖，斯坦福如何孵化硅谷，麻省理工如何让想象飞翔，牛津剑桥如何在八百年时光里守护一种学问的精神。在功利化与内卷愈演愈烈的今天，它给中国读者、家长与青年提供了一个珍贵的提醒：教育的终极目的，不是把人送进名校，而是让一个人在离开学校后，仍然保有学习和思考的能力，仍然保有对世界的好奇与对自我的诚实。</description>
+      <pubDate>Wed, 23 Sep 2026 17:32:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260923-episode-20260923-83c63a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大学的精神》是《三联生活周刊》四位资深主笔亲赴哈佛、耶鲁、斯坦福、麻省理工、牛津、剑桥、海德堡七所世界顶尖名校后写下的深度专题报道。它不是一份排名榜单，而是一次对大学灵魂的追问：哈佛如何成为映照美国的镜子，耶鲁如何锻造领袖，斯坦福如何孵化硅谷，麻省理工如何让想象飞翔，牛津剑桥如何在八百年时光里守护一种学问的精神。在功利化与内卷愈演愈烈的今天，它给中国读者、家长与青年提供了一个珍贵的提醒：教育的终极目的，不是把人送进名校，而是让一个人在离开学校后，仍然保有学习和思考的能力，仍然保有对世界的好奇与对自我的诚实。</itunes:summary>
+      <itunes:duration>00:33:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260923/episode-20260923-83c63a.mp3" length="32348589" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
