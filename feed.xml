@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 23 Sep 2026 17:33:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 17:38:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20665,6 +20665,17 @@
       <itunes:duration>00:31:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260923/episode-20260923-a5bc72.mp3" length="30415149" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《瓶中美人》 · 完整版 · 瓶中美人_(人生百态-现代小说系列) · 完整讲读</title>
+      <description>《瓶中美人》是西尔维娅·普拉斯唯一的长篇小说。女主人公爱瑟·葛林伍德，十九岁，从新英格兰乡下带着全额奖学金走进纽约时尚杂志社，照片登上了杂志，银片马甲、马丁尼、猛男环绕，所有人都以为她赢了人生。可她自己只觉得像一辆没人驾驶的路面电车，被动地颠簸在旅馆、办公室、旅馆之间，脑袋里一片极度的空。书里，普拉斯用冷峻又温柔的笔，写了一个女孩怎么被社会的&quot;完美&quot;剧本压碎——被期待成功、漂亮、被爱，却没人告诉她内心是一座空洞的城市时该怎么把自己填满。小说跟随着爱瑟从纽约的霓虹灯下走进疗养院的病床上，写她经历电休克、经历好友琼恩的上吊自杀、经历差点嫁给一个她不爱的数学教授、经历与诺兰医生漫长的心理分析，最终在出院面谈前，穿着红色羊毛套装、擦亮黑鞋，安静地坐在会议室外面，等着医生叫她的名字。这不是一本关于&quot;疯了&quot;的书，是一本关于&quot;空洞&quot;的书，关于&quot;碎裂&quot;的书，关于一个人在碎裂之后，能不能把自己拼回来的书。普拉斯没有给我们答案，她只给了我们一面镜子，照出我们自己心里那个不敢承认的空洞，然后留下三个字：我存在，我存在，我存在。</description>
+      <pubDate>Wed, 23 Sep 2026 17:38:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260923-episode-20260923-09f78e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《瓶中美人》是西尔维娅·普拉斯唯一的长篇小说。女主人公爱瑟·葛林伍德，十九岁，从新英格兰乡下带着全额奖学金走进纽约时尚杂志社，照片登上了杂志，银片马甲、马丁尼、猛男环绕，所有人都以为她赢了人生。可她自己只觉得像一辆没人驾驶的路面电车，被动地颠簸在旅馆、办公室、旅馆之间，脑袋里一片极度的空。书里，普拉斯用冷峻又温柔的笔，写了一个女孩怎么被社会的&quot;完美&quot;剧本压碎——被期待成功、漂亮、被爱，却没人告诉她内心是一座空洞的城市时该怎么把自己填满。小说跟随着爱瑟从纽约的霓虹灯下走进疗养院的病床上，写她经历电休克、经历好友琼恩的上吊自杀、经历差点嫁给一个她不爱的数学教授、经历与诺兰医生漫长的心理分析，最终在出院面谈前，穿着红色羊毛套装、擦亮黑鞋，安静地坐在会议室外面，等着医生叫她的名字。这不是一本关于&quot;疯了&quot;的书，是一本关于&quot;空洞&quot;的书，关于&quot;碎裂&quot;的书，关于一个人在碎裂之后，能不能把自己拼回来的书。普拉斯没有给我们答案，她只给了我们一面镜子，照出我们自己心里那个不敢承认的空洞，然后留下三个字：我存在，我存在，我存在。</itunes:summary>
+      <itunes:duration>00:23:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260923/episode-20260923-09f78e.mp3" length="22467501" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
