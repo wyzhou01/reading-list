@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 23 Sep 2026 17:13:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 17:19:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20621,6 +20621,17 @@
       <itunes:duration>00:29:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260923/episode-20260923-8cd5c9.mp3" length="28255917" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《跟任何人都聊得来》 · 完整版 · 跟任何人都聊得来(1) · 完整讲读</title>
+      <description>《跟任何人都聊得来》是沟通力培训师迈克·贝克特尔的经典之作。本书打破外向至上的迷思，告诉我们做真实的自己就已经够好，内向与外向各有其不可替代的沟通优势。围绕坚持个性、充分准备、保持好奇、从他人视角出发这四大核心，作者层层拆解了好奇心培养、倾听修炼、提问技巧、压力转化、移动互联时代沟通等具体技能，强调真正的人际连接来自真诚地在意对方。读这本书，你会停止表演别人，做回你自己，然后用你自己的方式，建立你与这个世界之间真实而温暖的关系。</description>
+      <pubDate>Wed, 23 Sep 2026 17:19:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260923-episode-20260923-e05b4a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《跟任何人都聊得来》是沟通力培训师迈克·贝克特尔的经典之作。本书打破外向至上的迷思，告诉我们做真实的自己就已经够好，内向与外向各有其不可替代的沟通优势。围绕坚持个性、充分准备、保持好奇、从他人视角出发这四大核心，作者层层拆解了好奇心培养、倾听修炼、提问技巧、压力转化、移动互联时代沟通等具体技能，强调真正的人际连接来自真诚地在意对方。读这本书，你会停止表演别人，做回你自己，然后用你自己的方式，建立你与这个世界之间真实而温暖的关系。</itunes:summary>
+      <itunes:duration>00:33:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260923/episode-20260923-e05b4a.mp3" length="32386605" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
