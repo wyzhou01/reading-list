@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 23 Sep 2026 17:38:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 17:41:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20676,6 +20676,17 @@
       <itunes:duration>00:23:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260923/episode-20260923-09f78e.mp3" length="22467501" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中产阶级史》 · 完整版 · 中产阶级史 · 完整讲读</title>
+      <description>《中产阶级史》是英国历史作家劳伦斯·詹姆斯撰写的一部贯穿七百年的社会史，从一三五零年写到二十一世纪初，详细记录了中产阶级如何从贵族与平民之间的夹缝中崛起，最终成为英国三分之二人口的主流力量。书中指出，中产阶级的真正本事不是赚钱，而是制造规则——他们通过消费主义、专业崛起与教育体系，将原本金字塔型的社会一步步压平成橄榄型。詹姆斯用翔实的史料揭示了一个核心悖论：中产阶级在公共领域倡导平等，在私人领域却顽固地维护身份等级。这本书不仅是英国社会史，也是一面镜子，照出我们今天每一个普通人的身份焦虑从哪里来，又将往哪里去。</description>
+      <pubDate>Wed, 23 Sep 2026 17:41:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260923-episode-20260923-53cf1a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《中产阶级史》是英国历史作家劳伦斯·詹姆斯撰写的一部贯穿七百年的社会史，从一三五零年写到二十一世纪初，详细记录了中产阶级如何从贵族与平民之间的夹缝中崛起，最终成为英国三分之二人口的主流力量。书中指出，中产阶级的真正本事不是赚钱，而是制造规则——他们通过消费主义、专业崛起与教育体系，将原本金字塔型的社会一步步压平成橄榄型。詹姆斯用翔实的史料揭示了一个核心悖论：中产阶级在公共领域倡导平等，在私人领域却顽固地维护身份等级。这本书不仅是英国社会史，也是一面镜子，照出我们今天每一个普通人的身份焦虑从哪里来，又将往哪里去。</itunes:summary>
+      <itunes:duration>00:28:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260923/episode-20260923-53cf1a.mp3" length="26957613" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
