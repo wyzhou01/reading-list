@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 22 Sep 2026 17:50:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 17:13:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20610,6 +20610,17 @@
       <itunes:duration>00:35:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260922/episode-20260922-ebadfd.mp3" length="34268205" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《被淹没和被拯救的》 · 完整版 · 被淹没和被拯救的 · 完整讲读</title>
+      <description>《被淹没和被拯救的》是意大利犹太化学家普里莫·莱维——奥斯维辛幸存者——的遗作。他以八章篇幅剖析极权体制下的灰色地带、幸存者的羞耻与良心、见证的限度与责任、暴力的无用循环，以及这场灾难为何不是古代史。莱维拒绝非黑即白的道德简化，主张以诚实而清醒的记忆去抵抗遗忘，警告读者：它发生过，所以还会发生。</description>
+      <pubDate>Wed, 23 Sep 2026 17:12:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260923-episode-20260923-8cd5c9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《被淹没和被拯救的》是意大利犹太化学家普里莫·莱维——奥斯维辛幸存者——的遗作。他以八章篇幅剖析极权体制下的灰色地带、幸存者的羞耻与良心、见证的限度与责任、暴力的无用循环，以及这场灾难为何不是古代史。莱维拒绝非黑即白的道德简化，主张以诚实而清醒的记忆去抵抗遗忘，警告读者：它发生过，所以还会发生。</itunes:summary>
+      <itunes:duration>00:29:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260923/episode-20260923-8cd5c9.mp3" length="28255917" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
