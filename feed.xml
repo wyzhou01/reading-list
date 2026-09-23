@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 23 Sep 2026 17:33:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 17:33:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20654,6 +20654,17 @@
       <itunes:duration>00:33:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260923/episode-20260923-83c63a.mp3" length="32348589" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《道德和宗教的两个来源》 · 完整版 · 道德和宗教的两个来源 · 完整讲读</title>
+      <description>一百年前，诺贝尔文学奖得主、法国哲学家亨利·柏格森在七十三岁高龄发表了封笔之作《道德和宗教的两个来源》。他提出，道德源于社会义务与少数英雄的个人抱负，宗教则分为维护秩序的静态宗教与解放灵魂的动态宗教。柏格森警告，人类亲手创造的理智与机械化力量，正在把自身碾碎，唯有神秘主义之爱才能唤醒生命冲动，让人类完成宇宙的基本天职——创造神灵。在人工智能重塑生活的今天，重读柏格森，是对生命意义的一次重新校准。</description>
+      <pubDate>Wed, 23 Sep 2026 17:33:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260923-episode-20260923-a5bc72</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一百年前，诺贝尔文学奖得主、法国哲学家亨利·柏格森在七十三岁高龄发表了封笔之作《道德和宗教的两个来源》。他提出，道德源于社会义务与少数英雄的个人抱负，宗教则分为维护秩序的静态宗教与解放灵魂的动态宗教。柏格森警告，人类亲手创造的理智与机械化力量，正在把自身碾碎，唯有神秘主义之爱才能唤醒生命冲动，让人类完成宇宙的基本天职——创造神灵。在人工智能重塑生活的今天，重读柏格森，是对生命意义的一次重新校准。</itunes:summary>
+      <itunes:duration>00:31:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260923/episode-20260923-a5bc72.mp3" length="30415149" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
