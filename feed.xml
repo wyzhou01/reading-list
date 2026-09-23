@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 23 Sep 2026 17:19:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 17:25:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20632,6 +20632,17 @@
       <itunes:duration>00:33:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260923/episode-20260923-e05b4a.mp3" length="32386605" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《复仇者的秘密》 · 完整版 · 复仇者的秘密 · 完整讲读</title>
+      <description>《复仇者的秘密》是周业娅二零一七年出版的都市悬疑小说。C城城北的一场半夜大火，烧死了一对年轻情侣，男主角的同事君釉寒被卷入调查，由此牵出一桩跨越二十年的家族复仇迷局：四大家族的隐秘恩怨，孤儿院出身的孪生姐妹，被养母精心培育成复仇工具的悲惨命运。整本书用一场大火，烧出了复仇的代价与身份血缘的错位，最终告诉我们：废墟上真正能活下去的，从来不是复仇者，而是那些选择把噩梦变成保护别人本能的普通人。</description>
+      <pubDate>Wed, 23 Sep 2026 17:24:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260923-episode-20260923-53e125</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《复仇者的秘密》是周业娅二零一七年出版的都市悬疑小说。C城城北的一场半夜大火，烧死了一对年轻情侣，男主角的同事君釉寒被卷入调查，由此牵出一桩跨越二十年的家族复仇迷局：四大家族的隐秘恩怨，孤儿院出身的孪生姐妹，被养母精心培育成复仇工具的悲惨命运。整本书用一场大火，烧出了复仇的代价与身份血缘的错位，最终告诉我们：废墟上真正能活下去的，从来不是复仇者，而是那些选择把噩梦变成保护别人本能的普通人。</itunes:summary>
+      <itunes:duration>00:24:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260923/episode-20260923-53e125.mp3" length="23977773" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
