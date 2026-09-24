@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 24 Sep 2026 17:26:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 17:32:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20720,6 +20720,17 @@
       <itunes:duration>00:26:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260924/episode-20260924-8d37ec.mp3" length="25677741" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《鲍勃·迪伦：诗人之歌》 · 完整版 · 鲍勃·迪伦：诗人之歌 · 完整讲读</title>
+      <description>《鲍勃·迪伦：诗人之歌》是法国作家让-多米尼克·布里埃写就的迪伦传记，与市面上三百多本迪伦传记不同的是，这本书的作者是一个从十六岁起就追随着迪伦歌声的亲历者。他从迪伦五百多首歌词入手，逐字翻译、研究、比对，配合大量访谈与自传，写出了一个法国少年眼中的美国神话。全书跨越迪伦六十余年的艺术生涯，从明尼苏达矿区小镇的少年岁月，到格林尼治村的民谣岁月，到一九六六年摩托车事故后的漫长沉默，到一九七九年的信仰转向，再到二〇一六年诺贝尔文学奖的争议时刻。布里埃用亲历者的深情与研究者的冷静，讲述了一个艺术家如何在时代洪流中拒绝随波逐流、如何在每个十年都重新定义自己。最终，这本书告诉我们：忠诚于自己的勇气，比忠诚于任何风格、任何立场都更稀有，也更难得。</description>
+      <pubDate>Thu, 24 Sep 2026 17:32:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260924-episode-20260924-1c61e2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《鲍勃·迪伦：诗人之歌》是法国作家让-多米尼克·布里埃写就的迪伦传记，与市面上三百多本迪伦传记不同的是，这本书的作者是一个从十六岁起就追随着迪伦歌声的亲历者。他从迪伦五百多首歌词入手，逐字翻译、研究、比对，配合大量访谈与自传，写出了一个法国少年眼中的美国神话。全书跨越迪伦六十余年的艺术生涯，从明尼苏达矿区小镇的少年岁月，到格林尼治村的民谣岁月，到一九六六年摩托车事故后的漫长沉默，到一九七九年的信仰转向，再到二〇一六年诺贝尔文学奖的争议时刻。布里埃用亲历者的深情与研究者的冷静，讲述了一个艺术家如何在时代洪流中拒绝随波逐流、如何在每个十年都重新定义自己。最终，这本书告诉我们：忠诚于自己的勇气，比忠诚于任何风格、任何立场都更稀有，也更难得。</itunes:summary>
+      <itunes:duration>00:29:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260924/episode-20260924-1c61e2.mp3" length="27912621" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
