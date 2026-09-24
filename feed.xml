@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 24 Sep 2026 18:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 18:37:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20819,6 +20819,17 @@
       <itunes:duration>00:27:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260924/episode-20260924-903e0f.mp3" length="26782509" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《从大都到上都：在古道上重新发现中国》 · 完整版 · 从大都到上都：在古道上重新发现中国 · 完整讲读</title>
+      <description>北大历史学者罗新五十三岁那年，用十五天、四百五十公里，从大都（北京）徒步走到上都（内蒙古锡林郭勒），重走元代皇帝的辇路东道。这本书把田野考察、历史考证、个人回忆、行走感受融为一体，记录的不只是一次徒步，更是一位学院知识分子用脚步破解“书斋与现实脱节”的自我拯救。他提出“从旅游者到旅行者”的身份转变，主张在速度时代里“有意识地慢下来”，在数字洪流中找回身体的在场与认知的重量。一本当代中国罕见的行走之书，也是一封写给所有“知道却未曾经历”的人的邀请函。</description>
+      <pubDate>Thu, 24 Sep 2026 18:37:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260924-episode-20260924-42abf6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>北大历史学者罗新五十三岁那年，用十五天、四百五十公里，从大都（北京）徒步走到上都（内蒙古锡林郭勒），重走元代皇帝的辇路东道。这本书把田野考察、历史考证、个人回忆、行走感受融为一体，记录的不只是一次徒步，更是一位学院知识分子用脚步破解“书斋与现实脱节”的自我拯救。他提出“从旅游者到旅行者”的身份转变，主张在速度时代里“有意识地慢下来”，在数字洪流中找回身体的在场与认知的重量。一本当代中国罕见的行走之书，也是一封写给所有“知道却未曾经历”的人的邀请函。</itunes:summary>
+      <itunes:duration>00:25:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260924/episode-20260924-42abf6.mp3" length="24668205" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
