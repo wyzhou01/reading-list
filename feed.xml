@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 24 Sep 2026 17:38:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 17:45:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20742,6 +20742,17 @@
       <itunes:duration>00:23:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260924/episode-20260924-12e1af.mp3" length="22821549" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《江湖外史》 · 完整版 · 江湖外史 · 完整讲读</title>
+      <description>《江湖外史》是王怜花（蔡恒平）写于二〇〇一年到二〇〇二年的随笔集，借萧峰、令狐冲、韦小宝、李寻欢、妙僧无花、西门吹雪等金庸古龙笔下的人物，认真追问一代人应该怎样活、怎样爱、怎样在市场时代找到自己的位置。全书以八十年代北大的青春记忆为底色，把金庸古龙和博尔赫斯、海子、亦舒、萨特、本雅明并置而谈，既是向汉语写作传统的致敬，也是对市场时代文学命运的提前悲鸣。王怜花自称&apos;汉语手工艺人&apos;，他给出的不是答案，是三个人生范本：无花的宁碎不瓦，令狐冲的有所不为，韦小宝的讨价还价。一本让读者在某个冬夜灵魂慢慢泡软的书。</description>
+      <pubDate>Thu, 24 Sep 2026 17:45:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260924-episode-20260924-89ea48</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《江湖外史》是王怜花（蔡恒平）写于二〇〇一年到二〇〇二年的随笔集，借萧峰、令狐冲、韦小宝、李寻欢、妙僧无花、西门吹雪等金庸古龙笔下的人物，认真追问一代人应该怎样活、怎样爱、怎样在市场时代找到自己的位置。全书以八十年代北大的青春记忆为底色，把金庸古龙和博尔赫斯、海子、亦舒、萨特、本雅明并置而谈，既是向汉语写作传统的致敬，也是对市场时代文学命运的提前悲鸣。王怜花自称&apos;汉语手工艺人&apos;，他给出的不是答案，是三个人生范本：无花的宁碎不瓦，令狐冲的有所不为，韦小宝的讨价还价。一本让读者在某个冬夜灵魂慢慢泡软的书。</itunes:summary>
+      <itunes:duration>00:28:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260924/episode-20260924-89ea48.mp3" length="27701421" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
