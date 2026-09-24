@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 24 Sep 2026 17:57:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 18:15:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20775,6 +20775,17 @@
       <itunes:duration>00:36:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260924/episode-20260924-65f0d2.mp3" length="35395245" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《史上第一混乱（7册全）》 · 完整版 · 史上第一混乱（7册全） · 完整讲读</title>
+      <description>人界轴倒了之后各朝代并行，萧强（外号小强）被老神仙刘老六忽悠成为&apos;仙境&apos;主人，接待从古代穿越来的历史名人客户。他开着加神风术的金杯车穿梭于现代与古代之间，伙同死党颜景生、包子，和荆轲、关羽、岳飞、刘邦、秦始皇、李白等一群历史名人嬉笑怒闹，帮阎王&apos;平事&apos;，维持天道运转。全书语言爆笑嘲讽，群英荟萃，堪称一场荒诞的时光总动员。</description>
+      <pubDate>Thu, 24 Sep 2026 18:15:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260924-episode-20260924-b14d85</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>人界轴倒了之后各朝代并行，萧强（外号小强）被老神仙刘老六忽悠成为&apos;仙境&apos;主人，接待从古代穿越来的历史名人客户。他开着加神风术的金杯车穿梭于现代与古代之间，伙同死党颜景生、包子，和荆轲、关羽、岳飞、刘邦、秦始皇、李白等一群历史名人嬉笑怒闹，帮阎王&apos;平事&apos;，维持天道运转。全书语言爆笑嘲讽，群英荟萃，堪称一场荒诞的时光总动员。</itunes:summary>
+      <itunes:duration>00:49:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260924/episode-20260924-b14d85.mp3" length="47810349" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
