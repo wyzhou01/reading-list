@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 24 Sep 2026 18:25:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 18:30:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20808,6 +20808,17 @@
       <itunes:duration>00:28:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260924/episode-20260924-939c47.mp3" length="27401901" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《千门之千手观音》 · 完整版 · 千门之千手观音_ · 完整讲读</title>
+      <description>《千门之千手观音》是高阳千门系列的承上启下之作。主角付可在内蒙古马场遭千手观音金身袭击，由此牵出千门内部的权力博弈与佛道两教的千年恩怨。作者借古喻今，把商业谍战、家族纷争、宗教暗线揉进江湖故事，构建了一套跨越两千五百五十五年的隐秘江湖史观。书中千门八将的组织哲学、不见刀光的行事境界、复归虔门的信仰追求三层叠在一起，构成一套关于谋略、克制与本初的完整人生操作系统。读者读完不仅看到一个江湖门派的恩怨情仇，更会重新思考信仰、变质与复归的永恒命题。</description>
+      <pubDate>Thu, 24 Sep 2026 18:29:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260924-episode-20260924-903e0f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《千门之千手观音》是高阳千门系列的承上启下之作。主角付可在内蒙古马场遭千手观音金身袭击，由此牵出千门内部的权力博弈与佛道两教的千年恩怨。作者借古喻今，把商业谍战、家族纷争、宗教暗线揉进江湖故事，构建了一套跨越两千五百五十五年的隐秘江湖史观。书中千门八将的组织哲学、不见刀光的行事境界、复归虔门的信仰追求三层叠在一起，构成一套关于谋略、克制与本初的完整人生操作系统。读者读完不仅看到一个江湖门派的恩怨情仇，更会重新思考信仰、变质与复归的永恒命题。</itunes:summary>
+      <itunes:duration>00:27:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260924/episode-20260924-903e0f.mp3" length="26782509" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
