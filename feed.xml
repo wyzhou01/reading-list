@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 23 Sep 2026 17:48:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 17:19:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20698,6 +20698,17 @@
       <itunes:duration>00:27:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260923/episode-20260923-fff8e7.mp3" length="26873901" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《诸王之城——寻找米那提力斯》 · 完整版 · 诸王之城：寻找米那提力斯 · 完整讲读</title>
+      <description>《诸王之城——寻找米那提力斯》是德国研究者施密特的跨学科考证著作。他从托尔金《指环王》中的米那提力斯城堡出发，追溯传说原型，结合考古、语言学、族谱学，论证德国图林根州科斯波达城堡即传说中安德尔克拉格城堡的原型——匈奴战争时期弗里吉亚骑兵驻守的据点。弗里吉亚人不仅守护了中欧文明，更将其堡垒建造技术传入东欧，奠定了从乌拉尔山到匈牙利的斯拉夫防御体系。弗里吉亚自由斗士的精神跨越千年，从法国大革命的红旗到蓝精灵的小红帽，从未熄灭。这本书用一座城堡的考古故事，回答了一个大问题：文明的火种，如何在一群普通人手中代代相传。</description>
+      <pubDate>Thu, 24 Sep 2026 17:19:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260924-episode-20260924-cf4c8c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《诸王之城——寻找米那提力斯》是德国研究者施密特的跨学科考证著作。他从托尔金《指环王》中的米那提力斯城堡出发，追溯传说原型，结合考古、语言学、族谱学，论证德国图林根州科斯波达城堡即传说中安德尔克拉格城堡的原型——匈奴战争时期弗里吉亚骑兵驻守的据点。弗里吉亚人不仅守护了中欧文明，更将其堡垒建造技术传入东欧，奠定了从乌拉尔山到匈牙利的斯拉夫防御体系。弗里吉亚自由斗士的精神跨越千年，从法国大革命的红旗到蓝精灵的小红帽，从未熄灭。这本书用一座城堡的考古故事，回答了一个大问题：文明的火种，如何在一群普通人手中代代相传。</itunes:summary>
+      <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260924/episode-20260924-cf4c8c.mp3" length="28805805" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
