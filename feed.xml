@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 24 Sep 2026 17:45:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 17:48:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20753,6 +20753,17 @@
       <itunes:duration>00:28:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260924/episode-20260924-89ea48.mp3" length="27701421" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《傅山的交往和应酬（增订本）》 · 完整版 · 傅山的交往和应酬（增订本） · 完整讲读</title>
+      <description>《傅山的交往和应酬（增订本）》是白谦慎先生的艺术社会史名作，以明末清初大书家傅山为切片，通过傅山与仕清官员魏一鳌、收藏家戴廷栻的交往个案，揭示了应酬书法作为明清文人艺术结构性现象的存在。本书最核心的贡献有二：一是提出“应酬”作为分析中国书画创作的关键范畴，颠覆了“心画”式的纯粹艺术观；二是提出“修辞”这一方法论概念，提醒研究者正视题跋、套话、赞语中言不由衷的一面。增订本新增的“外篇”引入布迪厄“文化资本”理论，分析傅山如何在明清鼎革后以书画、医术、易学等文化资本换取经济与社会资本，重建自己的社会身份。本书是中国艺术社会史的奠基之作，对理解中国古代艺术品的生成机制，至今仍有方法论的锋利价值。</description>
+      <pubDate>Thu, 24 Sep 2026 17:48:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260924-episode-20260924-c530ac</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《傅山的交往和应酬（增订本）》是白谦慎先生的艺术社会史名作，以明末清初大书家傅山为切片，通过傅山与仕清官员魏一鳌、收藏家戴廷栻的交往个案，揭示了应酬书法作为明清文人艺术结构性现象的存在。本书最核心的贡献有二：一是提出“应酬”作为分析中国书画创作的关键范畴，颠覆了“心画”式的纯粹艺术观；二是提出“修辞”这一方法论概念，提醒研究者正视题跋、套话、赞语中言不由衷的一面。增订本新增的“外篇”引入布迪厄“文化资本”理论，分析傅山如何在明清鼎革后以书画、医术、易学等文化资本换取经济与社会资本，重建自己的社会身份。本书是中国艺术社会史的奠基之作，对理解中国古代艺术品的生成机制，至今仍有方法论的锋利价值。</itunes:summary>
+      <itunes:duration>00:31:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260924/episode-20260924-c530ac.mp3" length="30019245" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
