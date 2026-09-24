@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 24 Sep 2026 18:23:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 18:25:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20797,6 +20797,17 @@
       <itunes:duration>00:33:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260924/episode-20260924-17a1b8.mp3" length="32178477" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《劫持》 · 完整版 · 劫持 · 完整讲读</title>
+      <description>本书《劫持》由美国临床治疗师玛丽·K·斯温格尔基于十八年临床观察撰写，系统揭示了数字媒介如何劫持人类大脑、亲密关系与儿童发育。从α脑波的消逝到多巴胺回路的劫持，从限制反比定律到关键期的错过，作者用神经科学、发展心理学与临床案例给出完整判断框架：在屏幕之外，孩子需要的是在场、耐心与安静的陪伴。这是一本写给所有关心下一代的人的警醒之书。</description>
+      <pubDate>Thu, 24 Sep 2026 18:25:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260924-episode-20260924-939c47</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书《劫持》由美国临床治疗师玛丽·K·斯温格尔基于十八年临床观察撰写，系统揭示了数字媒介如何劫持人类大脑、亲密关系与儿童发育。从α脑波的消逝到多巴胺回路的劫持，从限制反比定律到关键期的错过，作者用神经科学、发展心理学与临床案例给出完整判断框架：在屏幕之外，孩子需要的是在场、耐心与安静的陪伴。这是一本写给所有关心下一代的人的警醒之书。</itunes:summary>
+      <itunes:duration>00:28:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260924/episode-20260924-939c47.mp3" length="27401901" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
