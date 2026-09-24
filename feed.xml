@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 24 Sep 2026 18:37:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 18:44:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20830,6 +20830,17 @@
       <itunes:duration>00:25:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260924/episode-20260924-42abf6.mp3" length="24668205" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《凯特的选择》 · 完整版 · 凯特的选择_(未读·文艺家) · 完整讲读</title>
+      <description>《凯特的选择》是美国小说大师安·泰勒对莎士比亚《驯悍记》的当代改写。二十九岁的凯特是巴尔的摩一个中产家庭的“万能螺丝钉”，她的整个人生被父亲和妹妹的需求填满。直到父亲为了留住签证即将过期的俄籍研究助理，安排她嫁给这个男人，凯特才第一次被迫面对一个问题：她自己到底想要什么？安·泰勒用这部温柔而克制的作品，提出了一个跨越四百年的命题：一个从未为自己活过的人，要怎么学会为自己而活。这不是一个关于婚姻的故事，这是一个关于“我”怎么从“我们”里慢慢长出来的故事。</description>
+      <pubDate>Thu, 24 Sep 2026 18:44:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260924-episode-20260924-c23eb8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《凯特的选择》是美国小说大师安·泰勒对莎士比亚《驯悍记》的当代改写。二十九岁的凯特是巴尔的摩一个中产家庭的“万能螺丝钉”，她的整个人生被父亲和妹妹的需求填满。直到父亲为了留住签证即将过期的俄籍研究助理，安排她嫁给这个男人，凯特才第一次被迫面对一个问题：她自己到底想要什么？安·泰勒用这部温柔而克制的作品，提出了一个跨越四百年的命题：一个从未为自己活过的人，要怎么学会为自己而活。这不是一个关于婚姻的故事，这是一个关于“我”怎么从“我们”里慢慢长出来的故事。</itunes:summary>
+      <itunes:duration>00:36:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260924/episode-20260924-c23eb8.mp3" length="34567341" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
