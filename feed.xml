@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 24 Sep 2026 18:44:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 18:50:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20841,6 +20841,17 @@
       <itunes:duration>00:36:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260924/episode-20260924-c23eb8.mp3" length="34567341" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《今日简史：人类命运大议题》 · 完整版 · 今日简史 · 完整讲读</title>
+      <description>《今日简史》是尤瓦尔·赫拉利继《人类简史》《未来简史》之后的第三部作品。写于二零一八年，全球政治与技术双重震荡之际：英国脱欧、特朗普上台、假新闻泛滥、人工智能与基因技术加速渗透日常。赫拉利指出，自由主义故事正在失去人心，信息技术和生物技术双重革命即将颠覆就业、自由、平等三大支柱，数十亿人可能变得无足轻重。本书以二十一个议题展开，不提供答案，只邀请读者参与这场关乎人类未来的辩论。</description>
+      <pubDate>Thu, 24 Sep 2026 18:50:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260924-episode-20260924-8812b0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《今日简史》是尤瓦尔·赫拉利继《人类简史》《未来简史》之后的第三部作品。写于二零一八年，全球政治与技术双重震荡之际：英国脱欧、特朗普上台、假新闻泛滥、人工智能与基因技术加速渗透日常。赫拉利指出，自由主义故事正在失去人心，信息技术和生物技术双重革命即将颠覆就业、自由、平等三大支柱，数十亿人可能变得无足轻重。本书以二十一个议题展开，不提供答案，只邀请读者参与这场关乎人类未来的辩论。</itunes:summary>
+      <itunes:duration>00:25:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260924/episode-20260924-8812b0.mp3" length="24524973" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
