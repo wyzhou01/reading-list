@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 24 Sep 2026 18:15:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 18:23:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20786,6 +20786,17 @@
       <itunes:duration>00:49:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260924/episode-20260924-b14d85.mp3" length="47810349" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《无可慰藉》 · 完整版 · 无可慰藉 · 完整讲读</title>
+      <description>《无可慰藉》是石黑一雄最具实验性的小说。钢琴家瑞德应邀前往一座中欧小城，准备用一场演奏会帮助当地人走出困境。然而四天三夜，他接连陷入无法脱身的小忙：陪老人找女儿、听经理聊剪报册、帮陌生人见故交。每一次示好都变成客套，每一次可能的和解都被下一个“忙“挤走。演奏会始终没能上演，所有人的困境依旧悬而未决。石黑一雄用梦境与现实交织的笔法，写出了一个“沟通无限时代却无人能解孤独“的当代寓言。这部小说不是让我们旁观孤独，而是让我们亲身体验一次“被困住“的感觉，并提醒我们：所有真正的修复，都始于那个你一直想说、却没说出口的瞬间。</description>
+      <pubDate>Thu, 24 Sep 2026 18:23:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260924-episode-20260924-17a1b8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《无可慰藉》是石黑一雄最具实验性的小说。钢琴家瑞德应邀前往一座中欧小城，准备用一场演奏会帮助当地人走出困境。然而四天三夜，他接连陷入无法脱身的小忙：陪老人找女儿、听经理聊剪报册、帮陌生人见故交。每一次示好都变成客套，每一次可能的和解都被下一个“忙“挤走。演奏会始终没能上演，所有人的困境依旧悬而未决。石黑一雄用梦境与现实交织的笔法，写出了一个“沟通无限时代却无人能解孤独“的当代寓言。这部小说不是让我们旁观孤独，而是让我们亲身体验一次“被困住“的感觉，并提醒我们：所有真正的修复，都始于那个你一直想说、却没说出口的瞬间。</itunes:summary>
+      <itunes:duration>00:33:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260924/episode-20260924-17a1b8.mp3" length="32178477" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
