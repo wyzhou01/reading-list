@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 24 Sep 2026 17:19:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 17:26:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20709,6 +20709,17 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260924/episode-20260924-cf4c8c.mp3" length="28805805" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《都挺好》 · 完整版 · 都挺好 · 完整讲读</title>
+      <description>《都挺好》是浙商女作家阿耐的长篇家事小说，撕开中国式家庭体面背后的脓疮：一对夫妻与三个儿女之间三十年算不清的旧账。铁腕母亲、隐形父亲、长子的愚孝、次子的啃老、小女儿的出走与归位，重男轻女、啃老养老、女性自救、亲情绑架与代际创伤，每一个切口都刺中中国家庭最深的痛。阿耐用四十多万字告诉我们：家，从来不是讲理的地方；可家，也是我们这代人，唯一能回去的地方。</description>
+      <pubDate>Thu, 24 Sep 2026 17:26:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260924-episode-20260924-8d37ec</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《都挺好》是浙商女作家阿耐的长篇家事小说，撕开中国式家庭体面背后的脓疮：一对夫妻与三个儿女之间三十年算不清的旧账。铁腕母亲、隐形父亲、长子的愚孝、次子的啃老、小女儿的出走与归位，重男轻女、啃老养老、女性自救、亲情绑架与代际创伤，每一个切口都刺中中国家庭最深的痛。阿耐用四十多万字告诉我们：家，从来不是讲理的地方；可家，也是我们这代人，唯一能回去的地方。</itunes:summary>
+      <itunes:duration>00:26:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260924/episode-20260924-8d37ec.mp3" length="25677741" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
