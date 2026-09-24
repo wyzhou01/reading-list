@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 24 Sep 2026 17:32:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 17:38:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20731,6 +20731,17 @@
       <itunes:duration>00:29:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260924/episode-20260924-1c61e2.mp3" length="27912621" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《重建的世界：梅特涅、卡斯尔雷与和平问题，1812—1822》 · 完整版 · 重建的世界_-_亨利·基辛格(Henry_Kissinger) · 完整讲读</title>
+      <description>《重建的世界》是基辛格二十五岁写就的博士论文，也是他整个学术生涯的起点。他回到一八一二年至一八二二年这关键的十年，看英国外交大臣卡斯尔雷与奥地利外交大臣梅特涅如何在拿破仑帝国崩溃的废墟上，搭建起一套延续近百年的欧洲秩序。基辛格的中心论断是：稳定的秩序源于普遍接受的合法性框架，而非单纯追求和平；革命国家因为质疑体系本身而让外交失效；均势只能限制侵略规模，却无法根除冲突；真正的政治家把个人洞见转化为持久制度。这本书不是维也纳会议的通史，而是两位外交家如何把革命的废墟变成可运转体系的工作记录。它告诉我们，稳定不是和平的结果，而是合法性的结果。这一洞见在今天读来依然锋利。</description>
+      <pubDate>Thu, 24 Sep 2026 17:38:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260924-episode-20260924-12e1af</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《重建的世界》是基辛格二十五岁写就的博士论文，也是他整个学术生涯的起点。他回到一八一二年至一八二二年这关键的十年，看英国外交大臣卡斯尔雷与奥地利外交大臣梅特涅如何在拿破仑帝国崩溃的废墟上，搭建起一套延续近百年的欧洲秩序。基辛格的中心论断是：稳定的秩序源于普遍接受的合法性框架，而非单纯追求和平；革命国家因为质疑体系本身而让外交失效；均势只能限制侵略规模，却无法根除冲突；真正的政治家把个人洞见转化为持久制度。这本书不是维也纳会议的通史，而是两位外交家如何把革命的废墟变成可运转体系的工作记录。它告诉我们，稳定不是和平的结果，而是合法性的结果。这一洞见在今天读来依然锋利。</itunes:summary>
+      <itunes:duration>00:23:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260924/episode-20260924-12e1af.mp3" length="22821549" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
