@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 24 Sep 2026 17:48:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 17:57:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20764,6 +20764,17 @@
       <itunes:duration>00:31:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260924/episode-20260924-c530ac.mp3" length="30019245" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《跳出盒子：领导与自欺的管理寓言》 · 完整版 · 跳出盒子 · 完整讲读</title>
+      <description>《跳出盒子》用一个管理寓言, 揭开了组织中最普遍却最隐蔽的问题: 自欺. 书中指出, 我们看待自己和他人时, 都会陷入一种扭曲的眼光, 这种眼光让我们看不见自己的问题, 反而把责任推给他人, 最终和对方串通起来, 把彼此锁进互相敌视的死循环. 跳出这种困局的方法, 不是学更多技巧, 而是彻底翻转看待他人的方式, 设身处地地为他人着想, 从指责转向询问, 从审判转向理解. 这本书献给所有在沟通中感到无力、在关系中感到困惑的人, 它告诉我们, 真正的改变, 始于看见自己的无知.</description>
+      <pubDate>Thu, 24 Sep 2026 17:57:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260924-episode-20260924-65f0d2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《跳出盒子》用一个管理寓言, 揭开了组织中最普遍却最隐蔽的问题: 自欺. 书中指出, 我们看待自己和他人时, 都会陷入一种扭曲的眼光, 这种眼光让我们看不见自己的问题, 反而把责任推给他人, 最终和对方串通起来, 把彼此锁进互相敌视的死循环. 跳出这种困局的方法, 不是学更多技巧, 而是彻底翻转看待他人的方式, 设身处地地为他人着想, 从指责转向询问, 从审判转向理解. 这本书献给所有在沟通中感到无力、在关系中感到困惑的人, 它告诉我们, 真正的改变, 始于看见自己的无知.</itunes:summary>
+      <itunes:duration>00:36:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260924/episode-20260924-65f0d2.mp3" length="35395245" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
