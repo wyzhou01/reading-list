@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 25 Sep 2026 17:32:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 17:39:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20896,6 +20896,17 @@
       <itunes:duration>00:32:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260925/episode-20260925-51637a.mp3" length="30880941" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《视若无睹的中国2：中国特色》 · 完整版 · 视若无睹的中国2：中国特色（中国故事·许纪霖眼中中国的变化）_-_许纪霖等 · 完整讲读</title>
+      <description>《视若无睹的中国2：中国特色》收录许纪霖、柯伟林、伯德孟、朱其、徐淑卿等中外学者的观察，从思想史、政治史、城市史与文化批评多个维度，剖析中国道路与现代性的复杂关系。许纪霖借维特根斯坦的&quot;家族类似&quot;理论，提出中国现代性应在普世价值与中国本位之间寻找新的平衡；柯伟林从工程国家与国际主义视角，揭示中国特色的政治逻辑与历史延续性；伯德孟与徐淑卿从外来者与本土者的双重目光，记录北京城市更新中残留的文化记忆与贵气；朱其则剖析中国社会的隐形文化结构与传统基因。这是一份写于中国崛起关键期的诊断书，也是理解当代中国不可绕过的思想坐标。</description>
+      <pubDate>Fri, 25 Sep 2026 17:38:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260925-episode-20260925-c28e21</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《视若无睹的中国2：中国特色》收录许纪霖、柯伟林、伯德孟、朱其、徐淑卿等中外学者的观察，从思想史、政治史、城市史与文化批评多个维度，剖析中国道路与现代性的复杂关系。许纪霖借维特根斯坦的&quot;家族类似&quot;理论，提出中国现代性应在普世价值与中国本位之间寻找新的平衡；柯伟林从工程国家与国际主义视角，揭示中国特色的政治逻辑与历史延续性；伯德孟与徐淑卿从外来者与本土者的双重目光，记录北京城市更新中残留的文化记忆与贵气；朱其则剖析中国社会的隐形文化结构与传统基因。这是一份写于中国崛起关键期的诊断书，也是理解当代中国不可绕过的思想坐标。</itunes:summary>
+      <itunes:duration>00:32:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260925/episode-20260925-c28e21.mp3" length="31574445" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
