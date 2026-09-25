@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 25 Sep 2026 17:26:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 17:32:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20885,6 +20885,17 @@
       <itunes:duration>00:22:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260925/episode-20260925-6c5d40.mp3" length="21664557" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《时光之轮06-混沌之王》 · 完整版 · 时光之轮06-混沌之王 · 完整讲读</title>
+      <description>《时光之轮》第六卷《混沌之王》，是整个系列的转折点。兰德击败雷威辛，九名两仪师向他跪拜，白塔分裂为沙力达流亡评议会与爱莉达篡夺的玉座。奈妮薇用远古银手镯探索静断的治疗，艾雯在梦境中对抗暗帝的阴影，狄芒德跪在末日深渊听见闇主的声音。本卷真正讲的，是预言应验之后，胜利的孤独与秩序重组的代价。</description>
+      <pubDate>Fri, 25 Sep 2026 17:32:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260925-episode-20260925-51637a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《时光之轮》第六卷《混沌之王》，是整个系列的转折点。兰德击败雷威辛，九名两仪师向他跪拜，白塔分裂为沙力达流亡评议会与爱莉达篡夺的玉座。奈妮薇用远古银手镯探索静断的治疗，艾雯在梦境中对抗暗帝的阴影，狄芒德跪在末日深渊听见闇主的声音。本卷真正讲的，是预言应验之后，胜利的孤独与秩序重组的代价。</itunes:summary>
+      <itunes:duration>00:32:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260925/episode-20260925-51637a.mp3" length="30880941" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
