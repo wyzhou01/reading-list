@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 24 Sep 2026 18:50:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 17:16:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20852,6 +20852,17 @@
       <itunes:duration>00:25:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260924/episode-20260924-8812b0.mp3" length="24524973" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《阿尔芒丝》 · 完整版 · 阿尔芒丝 · 完整讲读</title>
+      <description>《阿尔芒丝》是法国作家司汤达一八二七年写成的第一部长篇小说，也是他&apos;个性与社会环境冲突&apos;这一母题的起点。小说以复辟王朝时期为背景，讲述了贵族青年奥克塔夫与表妹阿尔芒丝的爱情悲剧：一个受过启蒙思想哺育、心怀理想的年轻人，却被迫活在一个虚伪、倒退、空洞的贵族社会里，最终在敏感、自尊与身体隐秘的多重折磨下，假托奔赴希腊独立战争，于驶近希腊海岸的船上服毒自尽。这部作品不仅诞生了&apos;世纪病&apos;这一文学概念，更埋下了《红与黑》《帕尔马修道院》的核心命题，是理解司汤达乃至整个法国浪漫主义的关键文本。</description>
+      <pubDate>Fri, 25 Sep 2026 17:16:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260925-episode-20260925-6ca372</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《阿尔芒丝》是法国作家司汤达一八二七年写成的第一部长篇小说，也是他&apos;个性与社会环境冲突&apos;这一母题的起点。小说以复辟王朝时期为背景，讲述了贵族青年奥克塔夫与表妹阿尔芒丝的爱情悲剧：一个受过启蒙思想哺育、心怀理想的年轻人，却被迫活在一个虚伪、倒退、空洞的贵族社会里，最终在敏感、自尊与身体隐秘的多重折磨下，假托奔赴希腊独立战争，于驶近希腊海岸的船上服毒自尽。这部作品不仅诞生了&apos;世纪病&apos;这一文学概念，更埋下了《红与黑》《帕尔马修道院》的核心命题，是理解司汤达乃至整个法国浪漫主义的关键文本。</itunes:summary>
+      <itunes:duration>00:27:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260925/episode-20260925-6ca372.mp3" length="26691501" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
