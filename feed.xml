@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 25 Sep 2026 17:16:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 17:21:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20863,6 +20863,17 @@
       <itunes:duration>00:27:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260925/episode-20260925-6ca372.mp3" length="26691501" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《夜巡》 · 完整版 · 夜巡(1) · 完整讲读</title>
+      <description>《夜巡》是二零一四年诺贝尔文学奖得主帕特里克·莫迪亚诺一九六九年写成的代表作。一九四一年夏夜的占领时期巴黎，主人公坐在烟雾弥漫的客厅里，对面是占领者的警察头目。他手里那本黄色记事本，记满了地下抵抗者的地址，而他一边出卖他们，一边开车穿过夏夜去保护两个他要保护的人——一个红棕色头发的盲人，一个学钢琴的小姑娘。本书的核心追问，不是占领时期的历史，而是每一个人都会有的那种内部分裂：你如何在自己憎恶的对象和自己同情的对象之间，等同于两者？莫迪亚诺给出的答案是：你永远开着车，永远被身后五十米的四辆车跟踪，永远到一个叫不出名字的地方下车。身份不是要被发现的东西，而是要在深夜里一直穿行其中的那条路。</description>
+      <pubDate>Fri, 25 Sep 2026 17:21:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260925-episode-20260925-50675d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《夜巡》是二零一四年诺贝尔文学奖得主帕特里克·莫迪亚诺一九六九年写成的代表作。一九四一年夏夜的占领时期巴黎，主人公坐在烟雾弥漫的客厅里，对面是占领者的警察头目。他手里那本黄色记事本，记满了地下抵抗者的地址，而他一边出卖他们，一边开车穿过夏夜去保护两个他要保护的人——一个红棕色头发的盲人，一个学钢琴的小姑娘。本书的核心追问，不是占领时期的历史，而是每一个人都会有的那种内部分裂：你如何在自己憎恶的对象和自己同情的对象之间，等同于两者？莫迪亚诺给出的答案是：你永远开着车，永远被身后五十米的四辆车跟踪，永远到一个叫不出名字的地方下车。身份不是要被发现的东西，而是要在深夜里一直穿行其中的那条路。</itunes:summary>
+      <itunes:duration>00:28:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260925/episode-20260925-50675d.mp3" length="27408045" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
