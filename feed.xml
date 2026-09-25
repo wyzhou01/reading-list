@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 25 Sep 2026 17:21:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 17:26:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20874,6 +20874,17 @@
       <itunes:duration>00:28:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260925/episode-20260925-50675d.mp3" length="27408045" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《小说面面观》 · 完整版 · 小说面面观 · 完整讲读</title>
+      <description>《小说面面观》是英国作家 E·M·福斯特一九二七年在剑桥大学克拉克讲座的讲稿集结，也是英语世界最经典的小说批评入门书之一。福斯特以小说家而非学者的身份，把小说这件看似平常的艺术拆开来讲：从故事与情节的分野、扁平人物与圆形人物的区分，到幻想、预言、模式与节奏这些小说通往深处的路径，再到叙事视角这一章。九十分钟的讲解，我们跟福斯特一起把小说的六个面一一走过，看清小说到底是怎么运作的，并最终明白：根本不存在放之四海皆准的小说艺术，只有每一位小说家为自己作品量身定做的艺术。这本薄薄的小书，今天仍然能让每一个普通读者重新打量自己读过或正在写的故事。</description>
+      <pubDate>Fri, 25 Sep 2026 17:26:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260925-episode-20260925-6c5d40</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《小说面面观》是英国作家 E·M·福斯特一九二七年在剑桥大学克拉克讲座的讲稿集结，也是英语世界最经典的小说批评入门书之一。福斯特以小说家而非学者的身份，把小说这件看似平常的艺术拆开来讲：从故事与情节的分野、扁平人物与圆形人物的区分，到幻想、预言、模式与节奏这些小说通往深处的路径，再到叙事视角这一章。九十分钟的讲解，我们跟福斯特一起把小说的六个面一一走过，看清小说到底是怎么运作的，并最终明白：根本不存在放之四海皆准的小说艺术，只有每一位小说家为自己作品量身定做的艺术。这本薄薄的小书，今天仍然能让每一个普通读者重新打量自己读过或正在写的故事。</itunes:summary>
+      <itunes:duration>00:22:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260925/episode-20260925-6c5d40.mp3" length="21664557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
