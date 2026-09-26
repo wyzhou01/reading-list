@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 26 Sep 2026 17:55:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 18:02:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21050,6 +21050,17 @@
       <itunes:duration>00:27:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260926/episode-20260926-d2ae18.mp3" length="26584365" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《林海雪原》 · 完整版 · 林海雪原 · 完整讲读</title>
+      <description>《林海雪原》是曲波根据一九四六年东北剿匪亲身经历写成的小说。一支三十六人的解放军小分队，深入零下四十度的林海雪原，剿灭盘踞深山的惯匪与国民党残部，谱写出杨子荣、少剑波、高波、白茹等一群真实人物的英雄史诗。它不只是一部剿匪传奇，更是一曲关于爱、牺牲、集体主义和革命英雄主义的颂歌，被视为新中国十七年长篇小说的代表作之一，影响了好几代中国人。今天再读，它教会我们两件事：一是人可以不为升官发财，只为比自己更大的事押上命；二是血肉之躯的勇敢，是任何口号换不来的火种。</description>
+      <pubDate>Sat, 26 Sep 2026 18:02:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260926-episode-20260926-ec3260</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《林海雪原》是曲波根据一九四六年东北剿匪亲身经历写成的小说。一支三十六人的解放军小分队，深入零下四十度的林海雪原，剿灭盘踞深山的惯匪与国民党残部，谱写出杨子荣、少剑波、高波、白茹等一群真实人物的英雄史诗。它不只是一部剿匪传奇，更是一曲关于爱、牺牲、集体主义和革命英雄主义的颂歌，被视为新中国十七年长篇小说的代表作之一，影响了好几代中国人。今天再读，它教会我们两件事：一是人可以不为升官发财，只为比自己更大的事押上命；二是血肉之躯的勇敢，是任何口号换不来的火种。</itunes:summary>
+      <itunes:duration>00:30:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260926/episode-20260926-ec3260.mp3" length="28901421" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
