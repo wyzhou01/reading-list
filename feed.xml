@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 25 Sep 2026 17:39:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 17:15:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20907,6 +20907,17 @@
       <itunes:duration>00:32:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260925/episode-20260925-c28e21.mp3" length="31574445" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《婚姻中的陌生人》 · 完整版 · 婚姻中的陌生人 · 完整讲读</title>
+      <description>《婚姻中的陌生人》是塞尔维亚电影大师埃米尔·库斯图里卡的小说集，由余华作序推荐。全书收录六部中短篇，从一九七零年代的少年时光写到一九九二年前后的波黑战争，再到世纪之交的贝尔格莱德。作者以缺席的父亲、崇高的母亲、痞子与冒充者、变奏与退场、蛇的怀抱、记忆与遗忘六块拼图，反复书写一片被战争撕裂、又被笑声缝补的巴尔干。库斯图里卡用恶作剧与深情并置、悲剧与喜剧共生的笔法告诉读者：爱是生命的配方，我写的所有故事都是爱情故事。</description>
+      <pubDate>Sat, 26 Sep 2026 17:14:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260926-episode-20260926-ba1f74</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《婚姻中的陌生人》是塞尔维亚电影大师埃米尔·库斯图里卡的小说集，由余华作序推荐。全书收录六部中短篇，从一九七零年代的少年时光写到一九九二年前后的波黑战争，再到世纪之交的贝尔格莱德。作者以缺席的父亲、崇高的母亲、痞子与冒充者、变奏与退场、蛇的怀抱、记忆与遗忘六块拼图，反复书写一片被战争撕裂、又被笑声缝补的巴尔干。库斯图里卡用恶作剧与深情并置、悲剧与喜剧共生的笔法告诉读者：爱是生命的配方，我写的所有故事都是爱情故事。</itunes:summary>
+      <itunes:duration>00:34:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260926/episode-20260926-ba1f74.mp3" length="32692653" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
