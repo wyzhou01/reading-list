@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 26 Sep 2026 17:31:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 17:35:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20973,6 +20973,17 @@
       <itunes:duration>00:25:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260926/episode-20260926-2710a9.mp3" length="24946989" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《数学那些事儿：思想、发现、人物和历史》 · 完整版 · 数学那些事儿：思想、发现、人物和历史 · 完整讲读</title>
+      <description>本期用九十分钟完整解读数学史家威廉·邓纳姆的代表作《数学那些事儿：思想、发现、人物和历史》。这本书按英文字母 A 到 Z 排列，每章围绕一个数学主题展开，从算术基本定理、伯努利试验、欧拉费马等人物，到微积分、罗素悖论、复数等重大定理，把数学五千年的思想脉络与人物轶事一网打尽。邓纳姆反对堆公式灌术语，主张把伟大定理放回故事里讲，把证明思路拆成小步子走。本书一九九四年由美国出版商协会评为年度最佳数学书，二零一一年由冯速翻译、人民邮电出版社引入中国。听完这一期，你会发现数学不是计算，而是想象力；不是已完成的目录，而是还在被书写的当代故事。</description>
+      <pubDate>Sat, 26 Sep 2026 17:35:36 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260926-episode-20260926-0cd431</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期用九十分钟完整解读数学史家威廉·邓纳姆的代表作《数学那些事儿：思想、发现、人物和历史》。这本书按英文字母 A 到 Z 排列，每章围绕一个数学主题展开，从算术基本定理、伯努利试验、欧拉费马等人物，到微积分、罗素悖论、复数等重大定理，把数学五千年的思想脉络与人物轶事一网打尽。邓纳姆反对堆公式灌术语，主张把伟大定理放回故事里讲，把证明思路拆成小步子走。本书一九九四年由美国出版商协会评为年度最佳数学书，二零一一年由冯速翻译、人民邮电出版社引入中国。听完这一期，你会发现数学不是计算，而是想象力；不是已完成的目录，而是还在被书写的当代故事。</itunes:summary>
+      <itunes:duration>00:24:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260926/episode-20260926-0cd431.mp3" length="23156397" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
