@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 26 Sep 2026 17:43:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 17:44:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21006,6 +21006,17 @@
       <itunes:duration>00:38:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260926/episode-20260926-bb715d.mp3" length="37362477" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《心是孤独的猎手》 · 完整版 · 心是孤独的猎手_-_（美）卡森·麦卡勒斯 · 完整讲读</title>
+      <description>《心是孤独的猎手》是美国南方文学经典，出版于一九四零年。故事发生在美国南方腹地的一个小镇，两个哑巴——辛格与安东纳波罗斯——形影不离。四个孤独的灵魂：黑人医生科普兰、激进少年布朗特、想当音乐家的女孩米克、迷茫的咖啡馆老板比夫，都把心底最深的秘密说给哑巴辛格听，把他当成知己。可他们不知道，辛格根本听不见，他心里也装着对好友安东纳波罗斯的、深到骨子里的孤独。一九四零年的南方小镇，种族隔离、阶级壁垒、经济萧条，每一个人都被时代压在沉默里。麦卡勒斯用她冷静克制的笔触，写出了人类最普遍、也最难以言说的处境——我就在你面前，你却看不见我。孤独从来不是某个时代的特产，每个说话的机会多了、却被真正听见的机会少了的人，都能在这本书里找到自己。</description>
+      <pubDate>Sat, 26 Sep 2026 17:44:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260926-episode-20260926-116a42</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《心是孤独的猎手》是美国南方文学经典，出版于一九四零年。故事发生在美国南方腹地的一个小镇，两个哑巴——辛格与安东纳波罗斯——形影不离。四个孤独的灵魂：黑人医生科普兰、激进少年布朗特、想当音乐家的女孩米克、迷茫的咖啡馆老板比夫，都把心底最深的秘密说给哑巴辛格听，把他当成知己。可他们不知道，辛格根本听不见，他心里也装着对好友安东纳波罗斯的、深到骨子里的孤独。一九四零年的南方小镇，种族隔离、阶级壁垒、经济萧条，每一个人都被时代压在沉默里。麦卡勒斯用她冷静克制的笔触，写出了人类最普遍、也最难以言说的处境——我就在你面前，你却看不见我。孤独从来不是某个时代的特产，每个说话的机会多了、却被真正听见的机会少了的人，都能在这本书里找到自己。</itunes:summary>
+      <itunes:duration>00:28:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260926/episode-20260926-116a42.mp3" length="27499821" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
