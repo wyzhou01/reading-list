@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 26 Sep 2026 17:44:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 17:46:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21017,6 +21017,17 @@
       <itunes:duration>00:28:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260926/episode-20260926-116a42.mp3" length="27499821" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《长安三怪探之人狼变》 · 完整版 · 长安三怪探之人狼变_-_独孤门下 · 完整讲读</title>
+      <description>《长安三怪探之人狼变》以唐代长安嘉会坊与延福坊两起开膛破肚的命案开场，民间探案搭档独孤仲平与韦若昭从树上兽毛、金匠曾大头的满屋金锭、越州旧案卷宗一路追查，牵出四年前金吾卫捕头刘全被栽赃处死的冤案、化名千面佛的幕后操盘手，以及由宦官统领、直属皇权的内卫赭衣人。师徒二人与洛阳私探李秀一从互相试探到并肩识破假古董铺的鸿门宴栽赃局，最终在江平死于刑部大牢、庾瓒被迫送出狼皮的真相里发现：真正可怕的不是从树冠扑下的巨狼，而是藏在人心里、会换皮、会隐身、能把整个长安黑白两道拧成绞肉机的那只老狼。全书借一只不存在的兽，撕开盛唐权力夹缝里小人物的挣扎与恩怨。</description>
+      <pubDate>Sat, 26 Sep 2026 17:46:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260926-episode-20260926-23e7a9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《长安三怪探之人狼变》以唐代长安嘉会坊与延福坊两起开膛破肚的命案开场，民间探案搭档独孤仲平与韦若昭从树上兽毛、金匠曾大头的满屋金锭、越州旧案卷宗一路追查，牵出四年前金吾卫捕头刘全被栽赃处死的冤案、化名千面佛的幕后操盘手，以及由宦官统领、直属皇权的内卫赭衣人。师徒二人与洛阳私探李秀一从互相试探到并肩识破假古董铺的鸿门宴栽赃局，最终在江平死于刑部大牢、庾瓒被迫送出狼皮的真相里发现：真正可怕的不是从树冠扑下的巨狼，而是藏在人心里、会换皮、会隐身、能把整个长安黑白两道拧成绞肉机的那只老狼。全书借一只不存在的兽，撕开盛唐权力夹缝里小人物的挣扎与恩怨。</itunes:summary>
+      <itunes:duration>00:23:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260926/episode-20260926-23e7a9.mp3" length="22906797" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
