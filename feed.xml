@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 26 Sep 2026 17:29:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 17:31:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20962,6 +20962,17 @@
       <itunes:duration>00:28:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260926/episode-20260926-329c66.mp3" length="27135405" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《蜜月旅行》 · 完整版 · 蜜月旅行 · 完整讲读</title>
+      <description>诺奖得主莫迪亚诺的《蜜月旅行》，以一个纪录片导演在米兰机场听到陌生法国女人自杀为引子，写他在巴黎周边旧酒店、动物园、苏尔特大道之间，拼凑一对战前相识、盛夏失踪的夫妇——英格丽特与里果——的全部轮廓。整本书是一场关于记忆、逃离与时间的中年独白：失踪成了隐居术，夏日成了镜子，旅行成了不抵达的迁徙，而所谓的蜜月，则是一场没有火光的燃烧。它延续了莫迪亚诺标志性的“寻人—失踪—追忆”母题，是《暗店街》侦探外壳与《青春咖啡馆》情感内核的连接之作，也预示了《地平线》里那种对记忆的考古式凝视。</description>
+      <pubDate>Sat, 26 Sep 2026 17:31:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260926-episode-20260926-2710a9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>诺奖得主莫迪亚诺的《蜜月旅行》，以一个纪录片导演在米兰机场听到陌生法国女人自杀为引子，写他在巴黎周边旧酒店、动物园、苏尔特大道之间，拼凑一对战前相识、盛夏失踪的夫妇——英格丽特与里果——的全部轮廓。整本书是一场关于记忆、逃离与时间的中年独白：失踪成了隐居术，夏日成了镜子，旅行成了不抵达的迁徙，而所谓的蜜月，则是一场没有火光的燃烧。它延续了莫迪亚诺标志性的“寻人—失踪—追忆”母题，是《暗店街》侦探外壳与《青春咖啡馆》情感内核的连接之作，也预示了《地平线》里那种对记忆的考古式凝视。</itunes:summary>
+      <itunes:duration>00:25:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260926/episode-20260926-2710a9.mp3" length="24946989" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
