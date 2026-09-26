@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 26 Sep 2026 17:15:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 17:20:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20918,6 +20918,17 @@
       <itunes:duration>00:34:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260926/episode-20260926-ba1f74.mp3" length="32692653" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《历史的本色：晚清民国的政治、社会与文化》 · 完整版 · 历史的本色：晚清民国的政治、社会与文化_-_桑兵 · 完整讲读</title>
+      <description>《历史的本色》是中山大学历史系桑兵教授二十多年专题研究的论文结集。核心主张是反对用后来西方的分科观念去肢解中国近代史，主张回到历史本来不分科的状态，透过政治、社会与文化的交错视野看清晚清民国转型的本相。书中以科举废除、北洋军阀话语的生成、孙中山与科举制的关系、华南概念的演化等具体案例，示范了一种贯通式专题研究的方法，提示读者：每一个看似常识的近代史术语，都值得追问它是从哪里、由谁、出于什么目的被推出来的。</description>
+      <pubDate>Sat, 26 Sep 2026 17:20:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260926-episode-20260926-42585f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《历史的本色》是中山大学历史系桑兵教授二十多年专题研究的论文结集。核心主张是反对用后来西方的分科观念去肢解中国近代史，主张回到历史本来不分科的状态，透过政治、社会与文化的交错视野看清晚清民国转型的本相。书中以科举废除、北洋军阀话语的生成、孙中山与科举制的关系、华南概念的演化等具体案例，示范了一种贯通式专题研究的方法，提示读者：每一个看似常识的近代史术语，都值得追问它是从哪里、由谁、出于什么目的被推出来的。</itunes:summary>
+      <itunes:duration>00:31:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260926/episode-20260926-42585f.mp3" length="29978541" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
