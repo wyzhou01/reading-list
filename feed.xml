@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 26 Sep 2026 18:02:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 18:09:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21061,6 +21061,17 @@
       <itunes:duration>00:30:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260926/episode-20260926-ec3260.mp3" length="28901421" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《汶川地震168小时》 · 完整版 · 汶川地震168小时 · 完整讲读</title>
+      <description>《汶川地震一百六十八小时》是国内第一本以震中映秀为核心、以震后黄金救援期一百六十八小时为时间线骨架的长篇非虚构作品。作者张良用四年时间深入采访上百位幸存者、救援人员和记者，从地质视角拆解龙门山断裂带三千年一次的暴力，从组织视角记录被道路、通讯、调度反复打折的“黄金七十二小时“，从个体视角写下废墟上每一根抠出血的手指、每一双跪在碎石上的膝盖、每一声被盖住的敲击。本书不是怀旧，也不是消费苦难，而是用二十万字的笨功夫，把抽象的救灾数字，掰回成具体的、带着体温的人。读懂这一百六十八小时，我们就读懂了灾难，也读懂了人在面对大地与命运时，唯一能拿出来的武器——不忍心。</description>
+      <pubDate>Sat, 26 Sep 2026 18:09:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260926-episode-20260926-d47136</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《汶川地震一百六十八小时》是国内第一本以震中映秀为核心、以震后黄金救援期一百六十八小时为时间线骨架的长篇非虚构作品。作者张良用四年时间深入采访上百位幸存者、救援人员和记者，从地质视角拆解龙门山断裂带三千年一次的暴力，从组织视角记录被道路、通讯、调度反复打折的“黄金七十二小时“，从个体视角写下废墟上每一根抠出血的手指、每一双跪在碎石上的膝盖、每一声被盖住的敲击。本书不是怀旧，也不是消费苦难，而是用二十万字的笨功夫，把抽象的救灾数字，掰回成具体的、带着体温的人。读懂这一百六十八小时，我们就读懂了灾难，也读懂了人在面对大地与命运时，唯一能拿出来的武器——不忍心。</itunes:summary>
+      <itunes:duration>00:30:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260926/episode-20260926-d47136.mp3" length="29723565" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
