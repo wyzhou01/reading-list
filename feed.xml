@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 26 Sep 2026 17:26:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 17:29:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20951,6 +20951,17 @@
       <itunes:duration>00:27:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260926/episode-20260926-648ab8.mp3" length="26130861" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《寻找阿拉斯加》 · 完整版 · 寻找阿拉斯加(1) · 完整讲读</title>
+      <description>约翰·格林的《寻找阿拉斯加》讲了一个十六岁少年迈尔斯，离开空荡的佛罗里达欢送派对，前往亚拉巴马寄宿学校寻找「伟大的可能性」的故事。他在那里遇见上校、阿拉斯加、拓海，经历密集的友谊、恶作剧、酒精与第一次恋爱。一月十日夜里，阿拉斯加酒醉开车出门，再也没有回来。格林拒绝告诉我们那是意外还是蓄谋，他把整本书的重心放在幸存者——三个少年在之后的一百三十六天里，如何与无法回答的问题共处，如何彼此原谅，如何学会在没有答案的迷宫里继续活下去。拉伯雷、玻利瓦尔、爱迪生三句遗言，构成了少年们从边缘走向复原的全部语法。</description>
+      <pubDate>Sat, 26 Sep 2026 17:29:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260926-episode-20260926-329c66</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>约翰·格林的《寻找阿拉斯加》讲了一个十六岁少年迈尔斯，离开空荡的佛罗里达欢送派对，前往亚拉巴马寄宿学校寻找「伟大的可能性」的故事。他在那里遇见上校、阿拉斯加、拓海，经历密集的友谊、恶作剧、酒精与第一次恋爱。一月十日夜里，阿拉斯加酒醉开车出门，再也没有回来。格林拒绝告诉我们那是意外还是蓄谋，他把整本书的重心放在幸存者——三个少年在之后的一百三十六天里，如何与无法回答的问题共处，如何彼此原谅，如何学会在没有答案的迷宫里继续活下去。拉伯雷、玻利瓦尔、爱迪生三句遗言，构成了少年们从边缘走向复原的全部语法。</itunes:summary>
+      <itunes:duration>00:28:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260926/episode-20260926-329c66.mp3" length="27135405" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
