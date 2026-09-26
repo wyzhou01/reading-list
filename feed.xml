@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 26 Sep 2026 17:22:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 17:26:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20940,6 +20940,17 @@
       <itunes:duration>00:37:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260926/episode-20260926-555a39.mp3" length="36167469" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《走读西湖》 · 完整版 · 走读西湖 · 完整讲读</title>
+      <description>《走读西湖》是茅盾文学奖得主王旭烽的人文地理走读笔记。她以散文的笔，把西湖当作一部立体书院，分作六大板块：从湖西的风雅，到湖上的精华，再到湖光山色、英魂栖所、宗教胜境、杭州文事。杨孟瑛修堤的官场博弈、苏东坡治湖的眉目之笔、孤山文澜阁的四库全书、岳王庙前的秋茶香、飞来峰的佛头与凤凰寺阿老丁的礼拜——六块拼图拼出西湖的千年侧影。她主张，西湖不是风景，是书院；山水终究是人心的外化，西湖是中国人心中一个共同的家园。</description>
+      <pubDate>Sat, 26 Sep 2026 17:25:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260926-episode-20260926-648ab8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《走读西湖》是茅盾文学奖得主王旭烽的人文地理走读笔记。她以散文的笔，把西湖当作一部立体书院，分作六大板块：从湖西的风雅，到湖上的精华，再到湖光山色、英魂栖所、宗教胜境、杭州文事。杨孟瑛修堤的官场博弈、苏东坡治湖的眉目之笔、孤山文澜阁的四库全书、岳王庙前的秋茶香、飞来峰的佛头与凤凰寺阿老丁的礼拜——六块拼图拼出西湖的千年侧影。她主张，西湖不是风景，是书院；山水终究是人心的外化，西湖是中国人心中一个共同的家园。</itunes:summary>
+      <itunes:duration>00:27:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260926/episode-20260926-648ab8.mp3" length="26130861" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
