@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 26 Sep 2026 17:39:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 17:43:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20995,6 +20995,17 @@
       <itunes:duration>00:29:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260926/episode-20260926-cfdfb3.mp3" length="28666413" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《随性而至》 · 完整版 · 随性而至 · 完整讲读</title>
+      <description>毛姆晚年的六篇散文随笔合集：忆奥古斯都·海尔这位代表旧日绅士生活方式的乡间贵族；剖析苏巴郎与伯克两位历史人物矛盾性格与艺术/写作如何成为其灵魂救赎之路；探讨侦探小说的式微与现代文学的可读性议题；以哲学家与作家对话的方式思考美的本质；并以冷眼旁观之姿回忆亨利·詹姆斯、威尔斯等小说家的交往印象。</description>
+      <pubDate>Sat, 26 Sep 2026 17:43:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260926-episode-20260926-bb715d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>毛姆晚年的六篇散文随笔合集：忆奥古斯都·海尔这位代表旧日绅士生活方式的乡间贵族；剖析苏巴郎与伯克两位历史人物矛盾性格与艺术/写作如何成为其灵魂救赎之路；探讨侦探小说的式微与现代文学的可读性议题；以哲学家与作家对话的方式思考美的本质；并以冷眼旁观之姿回忆亨利·詹姆斯、威尔斯等小说家的交往印象。</itunes:summary>
+      <itunes:duration>00:38:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260926/episode-20260926-bb715d.mp3" length="37362477" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
