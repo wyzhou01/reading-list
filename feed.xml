@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 26 Sep 2026 17:46:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 17:50:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21028,6 +21028,17 @@
       <itunes:duration>00:23:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260926/episode-20260926-23e7a9.mp3" length="22906797" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《北大授课：中华文化四十七讲》 · 完整版 · 北大授课：中华文化四十七讲 · 完整讲读</title>
+      <description>《北大授课：中华文化四十七讲》是余秋雨在北大、台大开设的中华文化史课程实录。全书以“高坡滚石型“结构展开，前期深耕先秦与汉代——老子、孔子、屈原、司马迁——奠定中华文化的精神魂魄；后期大步掠过两千年的走廊，直奔五四。余秋雨把传统教材批判为“枯燥文本“，把戏谑讲史警惕为“戏谑文本“，转而用文化人格代替文化成品，重新衡量中华文化的真正脊梁。配合两岸青年的“闪问“，这本书既是一份文化史，也是一份对当代精神价值的诊断书：在“成功““民意““国学“三个伪坐标的夹击中，重新找到我们是谁。</description>
+      <pubDate>Sat, 26 Sep 2026 17:50:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260926-episode-20260926-2fcfd5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《北大授课：中华文化四十七讲》是余秋雨在北大、台大开设的中华文化史课程实录。全书以“高坡滚石型“结构展开，前期深耕先秦与汉代——老子、孔子、屈原、司马迁——奠定中华文化的精神魂魄；后期大步掠过两千年的走廊，直奔五四。余秋雨把传统教材批判为“枯燥文本“，把戏谑讲史警惕为“戏谑文本“，转而用文化人格代替文化成品，重新衡量中华文化的真正脊梁。配合两岸青年的“闪问“，这本书既是一份文化史，也是一份对当代精神价值的诊断书：在“成功““民意““国学“三个伪坐标的夹击中，重新找到我们是谁。</itunes:summary>
+      <itunes:duration>00:23:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260926/episode-20260926-2fcfd5.mp3" length="22805805" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
