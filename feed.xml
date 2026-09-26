@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 26 Sep 2026 17:50:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 17:55:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21039,6 +21039,17 @@
       <itunes:duration>00:23:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260926/episode-20260926-2fcfd5.mp3" length="22805805" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《猎鲨游戏之十重人格女孩》 · 完整版 · 猎鲨游戏之十重人格女孩 · 完整讲读</title>
+      <description>心理医生齐宣在诊所迎来一位自称性成瘾的“双重人格女孩“黄芪，由此卷入一桩横跨十年的连环复仇案。随着人格层层剥开、过去惨案浮出水面，齐宣与亦敌亦友的谈心被迫直面自己最深的心结：母亲早逝的创伤、共情伦理的边界、以及复仇与救赎的代价。全书以“猎鲨“为隐喻，剖开解离性人格障碍、斯德哥尔摩综合征、创伤性应激障碍等议题，最终揭示——人心深处的暗礁从来不会孤立存在，医者无法自医，而承认自己也是鲨鱼，才是活下去的起点。</description>
+      <pubDate>Sat, 26 Sep 2026 17:55:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260926-episode-20260926-d2ae18</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>心理医生齐宣在诊所迎来一位自称性成瘾的“双重人格女孩“黄芪，由此卷入一桩横跨十年的连环复仇案。随着人格层层剥开、过去惨案浮出水面，齐宣与亦敌亦友的谈心被迫直面自己最深的心结：母亲早逝的创伤、共情伦理的边界、以及复仇与救赎的代价。全书以“猎鲨“为隐喻，剖开解离性人格障碍、斯德哥尔摩综合征、创伤性应激障碍等议题，最终揭示——人心深处的暗礁从来不会孤立存在，医者无法自医，而承认自己也是鲨鱼，才是活下去的起点。</itunes:summary>
+      <itunes:duration>00:27:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260926/episode-20260926-d2ae18.mp3" length="26584365" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
