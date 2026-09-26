@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 26 Sep 2026 17:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 17:22:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -20929,6 +20929,17 @@
       <itunes:duration>00:31:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260926/episode-20260926-42585f.mp3" length="29978541" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《阴影中的军队：黑水公司和他的平民勇士》 · 完整版 · 阴影中的军队_黑水公司和他的平民勇士_-_[美]埃里克·普林斯 · 完整讲读</title>
+      <description>《阴影中的军队》是黑水公司创始人埃里克·普林斯的亲笔自述，回顾了他从密歇根州的荷兰裔企业家之子，到海豹突击队队员，再到创立全球最大私人军事承包商的二十年历程。九一一之后，美国将军队人数从二百五十万缩减到一百三十万，将大量战场任务外包给黑水这类私营公司，承包商人数一度超过二十万，合同金额超过一千五百亿美元。普林斯详细讲述了黑水在费卢杰、伊拉克全境和阿富汗的作战经历，解释他如何把家族企业的清教徒气质和特种部队的个人英雄主义，转化为一家市值数十亿美元的战争承包公司。书中也回应了尼苏尔广场枪击事件、与中情局的深度绑定、以及二〇一三年公司更名出售的始末。这本书既是来自风暴中心的内部档案，也是一份立场鲜明的辩护词，替承包商喊出“他们不是雇佣兵，是爱国者”的口号。无论读者认同与否，这种来自风暴中心的内部视角，世上仅此一本。</description>
+      <pubDate>Sat, 26 Sep 2026 17:22:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260926-episode-20260926-555a39</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《阴影中的军队》是黑水公司创始人埃里克·普林斯的亲笔自述，回顾了他从密歇根州的荷兰裔企业家之子，到海豹突击队队员，再到创立全球最大私人军事承包商的二十年历程。九一一之后，美国将军队人数从二百五十万缩减到一百三十万，将大量战场任务外包给黑水这类私营公司，承包商人数一度超过二十万，合同金额超过一千五百亿美元。普林斯详细讲述了黑水在费卢杰、伊拉克全境和阿富汗的作战经历，解释他如何把家族企业的清教徒气质和特种部队的个人英雄主义，转化为一家市值数十亿美元的战争承包公司。书中也回应了尼苏尔广场枪击事件、与中情局的深度绑定、以及二〇一三年公司更名出售的始末。这本书既是来自风暴中心的内部档案，也是一份立场鲜明的辩护词，替承包商喊出“他们不是雇佣兵，是爱国者”的口号。无论读者认同与否，这种来自风暴中心的内部视角，世上仅此一本。</itunes:summary>
+      <itunes:duration>00:37:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260926/episode-20260926-555a39.mp3" length="36167469" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
