@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 27 Sep 2026 17:16:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 17:22:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21094,6 +21094,17 @@
       <itunes:duration>00:32:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260927/episode-20260927-2d851e.mp3" length="31121709" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《恶棍列传》 · 完整版 · 恶棍列传 · 完整讲读</title>
+      <description>《恶棍列传》是博尔赫斯一九三三至一九三四年间写下的八个短篇，以巴洛克式的戏仿笔法重写莫雷尔、汤姆·卡斯特罗、郑寡妇、蒙克·伊斯曼等横跨五大洲四百年的&quot;恶棍&quot;。本书真正的主角不是恶棍，而是&quot;讲述&quot;这件事本身：每一个故事都在拆解历史与文学的边界，暴露叙述者如何用庄严的笔法把虚构装扮成真实，又用明目张胆的破绽邀请读者参与虚构。博尔赫斯用八个恶棍搭起一座迷宫，入口是故事，出口是读者自己——一把能识别所有叙事的墨水镜。这本薄薄的小书，是博尔赫斯登上世界文坛的起点，也是一份写给所有后来者的免责声明：真正的文学不给你答案，它让你长出问问题的能力。</description>
+      <pubDate>Sun, 27 Sep 2026 17:21:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260927-episode-20260927-be6a15</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《恶棍列传》是博尔赫斯一九三三至一九三四年间写下的八个短篇，以巴洛克式的戏仿笔法重写莫雷尔、汤姆·卡斯特罗、郑寡妇、蒙克·伊斯曼等横跨五大洲四百年的&quot;恶棍&quot;。本书真正的主角不是恶棍，而是&quot;讲述&quot;这件事本身：每一个故事都在拆解历史与文学的边界，暴露叙述者如何用庄严的笔法把虚构装扮成真实，又用明目张胆的破绽邀请读者参与虚构。博尔赫斯用八个恶棍搭起一座迷宫，入口是故事，出口是读者自己——一把能识别所有叙事的墨水镜。这本薄薄的小书，是博尔赫斯登上世界文坛的起点，也是一份写给所有后来者的免责声明：真正的文学不给你答案，它让你长出问问题的能力。</itunes:summary>
+      <itunes:duration>00:26:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260927/episode-20260927-be6a15.mp3" length="25709229" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
