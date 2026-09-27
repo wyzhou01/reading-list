@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 27 Sep 2026 17:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 17:39:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21160,6 +21160,17 @@
       <itunes:duration>00:30:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260927/episode-20260927-86518c.mp3" length="28917165" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《西藏生死恋》 · 完整版 · 西藏生死恋 · 完整讲读</title>
+      <description>《西藏生死恋》是羽芊写给藏北羌塘草原的一封长信。故事从少女措姆骑马去接复员恋人公扎、却在途中被带崽母熊袭击身亡讲起，引出一对恋人跨越生死的思念与信仰。文革的烈火同时撕裂了草原，寺庙被砸，活佛扎多宁死不屈。公扎带着失去挚爱的伤口在后半生慢慢学着与过去和解，最终遇到江南姑娘风。风用二十多年的陪伴，把一种近乎信仰的爱献给了这个心里永远装着别人的男人。羽芊以辽阔的笔触，写出了无常、等待、放手的草原哲学，也写出了藏文化在时代变迁中的坚守与流动。</description>
+      <pubDate>Sun, 27 Sep 2026 17:39:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260927-episode-20260927-bb048a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《西藏生死恋》是羽芊写给藏北羌塘草原的一封长信。故事从少女措姆骑马去接复员恋人公扎、却在途中被带崽母熊袭击身亡讲起，引出一对恋人跨越生死的思念与信仰。文革的烈火同时撕裂了草原，寺庙被砸，活佛扎多宁死不屈。公扎带着失去挚爱的伤口在后半生慢慢学着与过去和解，最终遇到江南姑娘风。风用二十多年的陪伴，把一种近乎信仰的爱献给了这个心里永远装着别人的男人。羽芊以辽阔的笔触，写出了无常、等待、放手的草原哲学，也写出了藏文化在时代变迁中的坚守与流动。</itunes:summary>
+      <itunes:duration>00:30:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260927/episode-20260927-bb048a.mp3" length="29602221" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
