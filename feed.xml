@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 27 Sep 2026 17:43:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 17:46:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21182,6 +21182,17 @@
       <itunes:duration>00:27:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260927/episode-20260927-76b69c.mp3" length="26718381" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大卫·考坡菲》 · 完整版 · 大卫·考坡菲（译文名著典藏） · 完整讲读</title>
+      <description>《大卫·考坡菲》是狄更斯最偏爱的作品，也是一部半自传体小说。主人公大卫童年丧父，被虐待、被送进黑仓库做童工，却靠一支笔从底层爬起，最终成为作家，并与懂他的爱格妮结为伴侣。全书借大卫的成长，对照了底层人民的纯朴与资产者的冷酷，揭示了维多利亚时代金钱支配婚姻的真相，寄托了狄更斯以仁爱、宽恕改良社会的人道主义理想。一七〇年后重读，每个人仍能在这本书里，看见自己长大的样子。</description>
+      <pubDate>Sun, 27 Sep 2026 17:46:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260927-episode-20260927-3f706d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大卫·考坡菲》是狄更斯最偏爱的作品，也是一部半自传体小说。主人公大卫童年丧父，被虐待、被送进黑仓库做童工，却靠一支笔从底层爬起，最终成为作家，并与懂他的爱格妮结为伴侣。全书借大卫的成长，对照了底层人民的纯朴与资产者的冷酷，揭示了维多利亚时代金钱支配婚姻的真相，寄托了狄更斯以仁爱、宽恕改良社会的人道主义理想。一七〇年后重读，每个人仍能在这本书里，看见自己长大的样子。</itunes:summary>
+      <itunes:duration>00:19:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260927/episode-20260927-3f706d.mp3" length="18625197" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
