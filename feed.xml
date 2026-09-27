@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 27 Sep 2026 18:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 18:07:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21215,6 +21215,17 @@
       <itunes:duration>00:31:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260927/episode-20260927-df50a6.mp3" length="29884077" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《今天过得怎么样》 · 完整版 · 今天过得怎么样 · 完整讲读</title>
+      <description>索尔·贝娄的《今天过得怎么样》收录三篇中短篇。《堂表亲戚们》写一个犹太家族几代人的责任与债务,一个体面律师为一个犯罪表弟写信求情,在家族记忆与现代法律之间挣扎。《泽特兰人格见证》写一个被诊断为精神分裂的人,在鉴定席上拒绝签字,坚持说他看到的就是他看到的,谁是房间里唯一清醒的人。《今天过得怎么样》写一个老作家在芝加哥街头走一天,只回答一个问题,人老了之后,还剩下什么。三篇合在一起,贝娄追问的是同一个命题,现代人,在责任、诊断、时间三把刀下,如何还站着。本书不厚,但它很重。</description>
+      <pubDate>Sun, 27 Sep 2026 18:07:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260927-episode-20260927-de4f4e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>索尔·贝娄的《今天过得怎么样》收录三篇中短篇。《堂表亲戚们》写一个犹太家族几代人的责任与债务,一个体面律师为一个犯罪表弟写信求情,在家族记忆与现代法律之间挣扎。《泽特兰人格见证》写一个被诊断为精神分裂的人,在鉴定席上拒绝签字,坚持说他看到的就是他看到的,谁是房间里唯一清醒的人。《今天过得怎么样》写一个老作家在芝加哥街头走一天,只回答一个问题,人老了之后,还剩下什么。三篇合在一起,贝娄追问的是同一个命题,现代人,在责任、诊断、时间三把刀下,如何还站着。本书不厚,但它很重。</itunes:summary>
+      <itunes:duration>00:27:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260927/episode-20260927-de4f4e.mp3" length="26366637" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
