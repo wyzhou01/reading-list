@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 27 Sep 2026 18:07:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 18:14:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21226,6 +21226,17 @@
       <itunes:duration>00:27:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260927/episode-20260927-de4f4e.mp3" length="26366637" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《温和地走进宋词的凉夜》 · 完整版 · 温和地走进宋词的凉夜_(中国最美语文系列) · 完整讲读</title>
+      <description>《温和地走进宋词的凉夜》以词人为线索，串起从晚唐到南宋的中国情感史。本书揭示：词本是配燕乐演唱的文学体裁，承担起诗体裁无法容纳的私密情感；词人的命运与词风深度绑定，李煜的亡国之痛、辛弃疾的壮志难酬、李清照的颠沛流离，让那些词句从书本跳出来成为我们的感受；宋词不仅是风花雪月，更是中国人在最黑暗的夜里不肯熄灭的心火。一个半小时，跟随三十多位词人，走完宋词全程。</description>
+      <pubDate>Sun, 27 Sep 2026 18:14:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260927-episode-20260927-f6d80c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《温和地走进宋词的凉夜》以词人为线索，串起从晚唐到南宋的中国情感史。本书揭示：词本是配燕乐演唱的文学体裁，承担起诗体裁无法容纳的私密情感；词人的命运与词风深度绑定，李煜的亡国之痛、辛弃疾的壮志难酬、李清照的颠沛流离，让那些词句从书本跳出来成为我们的感受；宋词不仅是风花雪月，更是中国人在最黑暗的夜里不肯熄灭的心火。一个半小时，跟随三十多位词人，走完宋词全程。</itunes:summary>
+      <itunes:duration>00:32:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260927/episode-20260927-f6d80c.mp3" length="31083693" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
