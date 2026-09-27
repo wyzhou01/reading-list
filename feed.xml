@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 27 Sep 2026 17:33:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 17:35:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21149,6 +21149,17 @@
       <itunes:duration>00:28:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260927/episode-20260927-67e11b.mp3" length="27212589" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《阵雨中的车站》 · 完整版 · 阵雨中的车站_-_[日]川端康成 · 完整讲读</title>
+      <description>《阵雨中的车站》收录了川端康成从十六岁到三十岁前后的早期作品，写于大正末年到昭和初年，正是日本传统乡村瓦解、西方现代都市涌入的过渡期。本书以《拾骨》开篇，记录十八岁的川端在祖父火化后独自躺在山坡上、鼻血涌出的真实感受；其后《帽子事件》在不忍池观月桥上展开一场夏日傍晚的街头骚动，《脆弱的器皿》借一尊瓷观音倒塌的梦境，写少女身体的易碎与情欲的毁灭，《蝗虫与金琵琶》在大学河堤的灯笼光里捕捉少年青春期的第一次心动，《焚烧门松》则在昭和初年的温泉小镇，记录传统节日在城市边缘的最后一燃。这些篇目保留了川端成名之前最生猛、最直观的少年感官与生死体验，是理解《雪国》《千只鹤》乃至整个日本式物哀美学的关键原点。</description>
+      <pubDate>Sun, 27 Sep 2026 17:35:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260927-episode-20260927-86518c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《阵雨中的车站》收录了川端康成从十六岁到三十岁前后的早期作品，写于大正末年到昭和初年，正是日本传统乡村瓦解、西方现代都市涌入的过渡期。本书以《拾骨》开篇，记录十八岁的川端在祖父火化后独自躺在山坡上、鼻血涌出的真实感受；其后《帽子事件》在不忍池观月桥上展开一场夏日傍晚的街头骚动，《脆弱的器皿》借一尊瓷观音倒塌的梦境，写少女身体的易碎与情欲的毁灭，《蝗虫与金琵琶》在大学河堤的灯笼光里捕捉少年青春期的第一次心动，《焚烧门松》则在昭和初年的温泉小镇，记录传统节日在城市边缘的最后一燃。这些篇目保留了川端成名之前最生猛、最直观的少年感官与生死体验，是理解《雪国》《千只鹤》乃至整个日本式物哀美学的关键原点。</itunes:summary>
+      <itunes:duration>00:30:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260927/episode-20260927-86518c.mp3" length="28917165" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
