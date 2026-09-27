@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 26 Sep 2026 18:09:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 17:13:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21072,6 +21072,17 @@
       <itunes:duration>00:30:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260926/episode-20260926-d47136.mp3" length="29723565" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《北海道物语》 · 完整版 · 北海道物语(1) · 完整讲读</title>
+      <description>《北海道物语》是渡边淳一一九七四年的作品，讲述四十五岁的分公司经理塔野在札幌的七个月婚外恋。他原本邀约夜总会女郎美树，对方却带来女大学生绘梨子，故事真正的主角由此登场。塔野在北海道的雪夜与这个比他女儿还小的女孩相恋，却始终在激情与良心之间摇摆。最终调令下达，他必须返回东京，绘梨子以毫无怨言的微笑送别。这部小说看似是一个中年浪漫故事，实则是渡边淳一对男性幻想的一次冷静解剖——绘梨子被塑造得过于完美，恰恰因为她承载的不是爱情，而是一个男人对“最后一次心动“的全部想象。</description>
+      <pubDate>Sun, 27 Sep 2026 17:13:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260927-episode-20260927-c55992</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《北海道物语》是渡边淳一一九七四年的作品，讲述四十五岁的分公司经理塔野在札幌的七个月婚外恋。他原本邀约夜总会女郎美树，对方却带来女大学生绘梨子，故事真正的主角由此登场。塔野在北海道的雪夜与这个比他女儿还小的女孩相恋，却始终在激情与良心之间摇摆。最终调令下达，他必须返回东京，绘梨子以毫无怨言的微笑送别。这部小说看似是一个中年浪漫故事，实则是渡边淳一对男性幻想的一次冷静解剖——绘梨子被塑造得过于完美，恰恰因为她承载的不是爱情，而是一个男人对“最后一次心动“的全部想象。</itunes:summary>
+      <itunes:duration>00:29:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260927/episode-20260927-c55992.mp3" length="28135341" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
