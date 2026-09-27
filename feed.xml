@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 27 Sep 2026 17:22:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 17:23:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21105,6 +21105,17 @@
       <itunes:duration>00:26:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260927/episode-20260927-be6a15.mp3" length="25709229" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《诊疗椅上的谎言》 · 完整版 · 诊疗椅上的谎言 · 完整讲读</title>
+      <description>《诊疗椅上的谎言》是欧文·亚隆唯一一本专门谈心理治疗伦理的小说。年轻的欧内斯特、资深的马歇尔、元老西摩、创立学派的赛斯，四位治疗师在同一片汪洋上航行，海妖在深处唱歌。亚隆借荷马史诗的典故告诉读者：治疗师必须把自己绑在桅杆上，才能抵御来访者的诱惑与自身的反移情。书里反复追问：当治疗师享受权力、用专业术语翻译来访者的痛苦、把表演当成洞察，他们与来访者的关系，会走向哪里？全书以诚实为绳索，揭示了心理治疗行业最深的秘密——不是技术救来访者，是治疗师这个人本身，而这个人，必须先绑住自己。</description>
+      <pubDate>Sun, 27 Sep 2026 17:23:36 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260927-episode-20260927-4c6c5a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《诊疗椅上的谎言》是欧文·亚隆唯一一本专门谈心理治疗伦理的小说。年轻的欧内斯特、资深的马歇尔、元老西摩、创立学派的赛斯，四位治疗师在同一片汪洋上航行，海妖在深处唱歌。亚隆借荷马史诗的典故告诉读者：治疗师必须把自己绑在桅杆上，才能抵御来访者的诱惑与自身的反移情。书里反复追问：当治疗师享受权力、用专业术语翻译来访者的痛苦、把表演当成洞察，他们与来访者的关系，会走向哪里？全书以诚实为绳索，揭示了心理治疗行业最深的秘密——不是技术救来访者，是治疗师这个人本身，而这个人，必须先绑住自己。</itunes:summary>
+      <itunes:duration>00:37:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260927/episode-20260927-4c6c5a.mp3" length="35599149" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
