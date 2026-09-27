@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 27 Sep 2026 17:27:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 17:28:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21127,6 +21127,17 @@
       <itunes:duration>00:22:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260927/episode-20260927-af7a4e.mp3" length="21259437" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《哈佛百年经典第19卷：奥德赛》 · 完整版 · 哈佛百年经典第19卷：奥德赛 · 完整讲读</title>
+      <description>《奥德赛》是古希腊诗人荷马（或其身后的行吟传统）留下的西方文学源头之作，讲述特洛伊战后英雄奥德修斯历经十年漂流归乡的故事。全书以智慧与勇气的双重考验为骨架，呈现了奥德修斯在独眼巨人、女巫瑟茜、塞壬海妖、卡鲁普索与冥界之间的试炼，也呈现了他在伊萨卡王宫中乔装归来、父子相认、与妻子裴奈罗珮联手诛杀求婚者的终局。这部史诗为后世贡献了漫游与回归的母题，提供了一系列身份、忠诚与命运交织的故事原型，从罗马史诗到但丁《神曲》再到乔伊斯《尤利西斯》，两千七百年来始终在西方文学的潮汐里回响。</description>
+      <pubDate>Sun, 27 Sep 2026 17:28:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260927-episode-20260927-44edc6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《奥德赛》是古希腊诗人荷马（或其身后的行吟传统）留下的西方文学源头之作，讲述特洛伊战后英雄奥德修斯历经十年漂流归乡的故事。全书以智慧与勇气的双重考验为骨架，呈现了奥德修斯在独眼巨人、女巫瑟茜、塞壬海妖、卡鲁普索与冥界之间的试炼，也呈现了他在伊萨卡王宫中乔装归来、父子相认、与妻子裴奈罗珮联手诛杀求婚者的终局。这部史诗为后世贡献了漫游与回归的母题，提供了一系列身份、忠诚与命运交织的故事原型，从罗马史诗到但丁《神曲》再到乔伊斯《尤利西斯》，两千七百年来始终在西方文学的潮汐里回响。</itunes:summary>
+      <itunes:duration>00:23:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260927/episode-20260927-44edc6.mp3" length="22624557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
