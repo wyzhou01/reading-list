@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 27 Sep 2026 17:51:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 18:00:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21204,6 +21204,17 @@
       <itunes:duration>00:25:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260927/episode-20260927-e894b5.mp3" length="24477741" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《唐人小说》 · 完整版 · 唐人小说 · 完整讲读</title>
+      <description>《唐人小说》是汪辟疆先生一九二九年校录的唐传奇经典选本，以上下两卷收录《古镜记》《南柯太守传》《李娃传》《莺莺传》《虬髯客传》等单篇传奇，以及《玄怪录》《续玄怪录》《传奇》《三水小牍》等专著名篇。本书不仅是唐传奇爱好者的案头必备，更是一部唐代社会风俗志与后世戏曲源头考。汪先生在每篇之后所附详尽按语，考订作者略历、故事来源、版本异同及元明杂剧本事演变，兼具文献校录与学术导读之功。一百年过去，这部书依然是读懂唐传奇、读懂中国小说史的必由之门。</description>
+      <pubDate>Sun, 27 Sep 2026 18:00:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260927-episode-20260927-df50a6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《唐人小说》是汪辟疆先生一九二九年校录的唐传奇经典选本，以上下两卷收录《古镜记》《南柯太守传》《李娃传》《莺莺传》《虬髯客传》等单篇传奇，以及《玄怪录》《续玄怪录》《传奇》《三水小牍》等专著名篇。本书不仅是唐传奇爱好者的案头必备，更是一部唐代社会风俗志与后世戏曲源头考。汪先生在每篇之后所附详尽按语，考订作者略历、故事来源、版本异同及元明杂剧本事演变，兼具文献校录与学术导读之功。一百年过去，这部书依然是读懂唐传奇、读懂中国小说史的必由之门。</itunes:summary>
+      <itunes:duration>00:31:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260927/episode-20260927-df50a6.mp3" length="29884077" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
