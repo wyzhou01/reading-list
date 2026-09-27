@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 27 Sep 2026 17:28:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 17:33:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21138,6 +21138,17 @@
       <itunes:duration>00:23:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260927/episode-20260927-44edc6.mp3" length="22624557" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《狼厅》 · 完整版 · 狼厅 · 完整讲读</title>
+      <description>《狼厅》是英国女作家希拉里·曼特尔获二〇〇九年布克奖的史诗巨著，以十六世纪都铎王朝为背景，透过政治家托马斯·克伦威尔的第三人称内心独白，再现他从铁匠之子到亨利八世之下权臣、再到断头台囚徒的三十五年人生。本期节目用一百二十分钟拆解全书六块核心拼图：权力的本质是交易，崛起的代价是踩恩人尸骨，改革的代价是良心的撕裂，历史小说是替死者代言的艺术，阶层跃迁是一张写满代价的清单，普通人靠日复一日的工作撬动历史。这既是一部亨利八世宗教改革的政治史，也是一个底层草根用血肉换权力的阶层跃迁史，更是一本关于忠诚、背叛与毁灭的人性启示录。</description>
+      <pubDate>Sun, 27 Sep 2026 17:33:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260927-episode-20260927-67e11b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《狼厅》是英国女作家希拉里·曼特尔获二〇〇九年布克奖的史诗巨著，以十六世纪都铎王朝为背景，透过政治家托马斯·克伦威尔的第三人称内心独白，再现他从铁匠之子到亨利八世之下权臣、再到断头台囚徒的三十五年人生。本期节目用一百二十分钟拆解全书六块核心拼图：权力的本质是交易，崛起的代价是踩恩人尸骨，改革的代价是良心的撕裂，历史小说是替死者代言的艺术，阶层跃迁是一张写满代价的清单，普通人靠日复一日的工作撬动历史。这既是一部亨利八世宗教改革的政治史，也是一个底层草根用血肉换权力的阶层跃迁史，更是一本关于忠诚、背叛与毁灭的人性启示录。</itunes:summary>
+      <itunes:duration>00:28:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260927/episode-20260927-67e11b.mp3" length="27212589" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
