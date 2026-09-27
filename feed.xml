@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 27 Sep 2026 17:39:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 17:43:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21171,6 +21171,17 @@
       <itunes:duration>00:30:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260927/episode-20260927-bb048a.mp3" length="29602221" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《泰戈尔集(02)-饥饿的石头_中短篇小说集》 · 完整版 · 泰戈尔集(02)-饥饿的石头_中短篇小说集 · 完整讲读</title>
+      <description>本集深度解读泰戈尔中短篇小说集《饥饿的石头》。通过六个核心维度——殖民创伤下的笑声、底层苦难的石头记忆、女性把病痛当作嫁妆的尊严、市井人情冷暖、宗教与种姓缝隙里的挣扎、小人物徒劳却高贵的反抗——还原一个诗人在小说里如何把神性归还给人性。泰戈尔不呐喊、不控诉，只是静静地看、静静地写。每一篇短小的小说里，都藏着一个被命运压弯却依然在呼吸的灵魂。这本书不仅是孟加拉的镜子，也是我们自己的镜子。</description>
+      <pubDate>Sun, 27 Sep 2026 17:43:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260927-episode-20260927-76b69c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本集深度解读泰戈尔中短篇小说集《饥饿的石头》。通过六个核心维度——殖民创伤下的笑声、底层苦难的石头记忆、女性把病痛当作嫁妆的尊严、市井人情冷暖、宗教与种姓缝隙里的挣扎、小人物徒劳却高贵的反抗——还原一个诗人在小说里如何把神性归还给人性。泰戈尔不呐喊、不控诉，只是静静地看、静静地写。每一篇短小的小说里，都藏着一个被命运压弯却依然在呼吸的灵魂。这本书不仅是孟加拉的镜子，也是我们自己的镜子。</itunes:summary>
+      <itunes:duration>00:27:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260927/episode-20260927-76b69c.mp3" length="26718381" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
