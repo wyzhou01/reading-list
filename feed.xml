@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 27 Sep 2026 17:46:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 17:51:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21193,6 +21193,17 @@
       <itunes:duration>00:19:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260927/episode-20260927-3f706d.mp3" length="18625197" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《好奇心：保持对未知世界永不停息的热情》 · 完整版 · 好奇心：保持对未知世界永不停息的热情 · 完整讲读</title>
+      <description>《好奇心》这本书提出了一个让人后背发凉的判断——我们这个时代正在批量生产一种新型的浅薄，名叫消遣性好奇。它像糖一样甜，却不给你任何营养。而真正让我们变聪明、变深刻、变不可替代的，是另一种好奇，叫认识性好奇。它需要你坐下来，忍住痒，钻进去。书里用一个英国电视制作人劳埃德的故事证明——一个最成功的人，都曾经把自己最深的好奇心活活饿死，然后花了六年时间才把它养回来。文艺复兴让好奇心从禁忌变成了美德，互联网却正在把它重新收回私有。教育在训练学生抢答而不是发问，经济学家说我们已经进入了“大停滞”，科技让深度思考变成了奢侈品。三股力量合流，正在悄悄消耗人类几百年攒起来的好奇心资本。这本书给出了七种重建好奇心的方法，核心其实只有一个：你愿意为不知道的多少，再多坐一会儿。</description>
+      <pubDate>Sun, 27 Sep 2026 17:51:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260927-episode-20260927-e894b5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《好奇心》这本书提出了一个让人后背发凉的判断——我们这个时代正在批量生产一种新型的浅薄，名叫消遣性好奇。它像糖一样甜，却不给你任何营养。而真正让我们变聪明、变深刻、变不可替代的，是另一种好奇，叫认识性好奇。它需要你坐下来，忍住痒，钻进去。书里用一个英国电视制作人劳埃德的故事证明——一个最成功的人，都曾经把自己最深的好奇心活活饿死，然后花了六年时间才把它养回来。文艺复兴让好奇心从禁忌变成了美德，互联网却正在把它重新收回私有。教育在训练学生抢答而不是发问，经济学家说我们已经进入了“大停滞”，科技让深度思考变成了奢侈品。三股力量合流，正在悄悄消耗人类几百年攒起来的好奇心资本。这本书给出了七种重建好奇心的方法，核心其实只有一个：你愿意为不知道的多少，再多坐一会儿。</itunes:summary>
+      <itunes:duration>00:25:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260927/episode-20260927-e894b5.mp3" length="24477741" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
