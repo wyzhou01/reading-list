@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 27 Sep 2026 17:23:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 17:27:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21116,6 +21116,17 @@
       <itunes:duration>00:37:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260927/episode-20260927-4c6c5a.mp3" length="35599149" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《九州·无尽长门(共2册)》 · 完整版 · 九州·无尽长门(共2册) · 完整讲读</title>
+      <description>九州奇幻悬疑长篇《无尽长门》以多桩跨越数十年的连环命案为线索，串起血翼鸟灭门、王室毒杀、名医惨案与神秘长门修会的千年秘密。主角在追查中发现，所有案件都指向同一批企图改写九州格局的幕后推手，以及一场掩埋千年的惊天骗局。从被逐出师门的年轻人，到雨中活埋同伴的长门僧，再到暴风雨中孤独守望的羽皇风奕鸣，唐缺用悬疑、历史、宗教与权谋的多重织网，拷问信仰与私欲的边界：当一个号称能带你看见终极的组织，可能本身就是骗局的一部分时，谁还敢说自己看清了真相？</description>
+      <pubDate>Sun, 27 Sep 2026 17:27:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260927-episode-20260927-af7a4e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>九州奇幻悬疑长篇《无尽长门》以多桩跨越数十年的连环命案为线索，串起血翼鸟灭门、王室毒杀、名医惨案与神秘长门修会的千年秘密。主角在追查中发现，所有案件都指向同一批企图改写九州格局的幕后推手，以及一场掩埋千年的惊天骗局。从被逐出师门的年轻人，到雨中活埋同伴的长门僧，再到暴风雨中孤独守望的羽皇风奕鸣，唐缺用悬疑、历史、宗教与权谋的多重织网，拷问信仰与私欲的边界：当一个号称能带你看见终极的组织，可能本身就是骗局的一部分时，谁还敢说自己看清了真相？</itunes:summary>
+      <itunes:duration>00:22:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260927/episode-20260927-af7a4e.mp3" length="21259437" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
