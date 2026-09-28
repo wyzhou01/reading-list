@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 28 Sep 2026 17:17:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 17:22:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21259,6 +21259,17 @@
       <itunes:duration>00:23:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260928/episode-20260928-e0baec.mp3" length="22702893" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《镜·沧月出道15周年纪念珍藏版（全六册）》 · 完整版 · 镜·沧月出道15周年纪念珍藏版（全六册） · 完整讲读</title>
+      <description>《镜·沧月出道十五周年纪念珍藏版》收录《双城》《破军》《龙战》《辟天》《神寂》与外传《织梦者》六卷，构建了一个以云荒大陆为舞台的东方奇幻史诗。全书围绕空桑、鲛人、冰族三大种族的千年缠斗，讲述宿命轮回的不可抗力、毁灭与守护的二元共生、权力与牺牲交织的悲剧。从雪山盲眼傀儡师苏摩的归国之旅，到空桑王朝白塔之巅的守望者，沧月以东方神话为骨、希腊悲剧为魂，让每一方势力都既是受害者也是加害者。纪念版既是对作者创作生涯的回顾，也是对一代读者青春记忆的珍藏。重读这部近二十年前的奇幻经典，照见的依然是我们自己心里那个在宿命与自由之间反复挣扎的人。</description>
+      <pubDate>Mon, 28 Sep 2026 17:22:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260928-episode-20260928-8bc0c3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《镜·沧月出道十五周年纪念珍藏版》收录《双城》《破军》《龙战》《辟天》《神寂》与外传《织梦者》六卷，构建了一个以云荒大陆为舞台的东方奇幻史诗。全书围绕空桑、鲛人、冰族三大种族的千年缠斗，讲述宿命轮回的不可抗力、毁灭与守护的二元共生、权力与牺牲交织的悲剧。从雪山盲眼傀儡师苏摩的归国之旅，到空桑王朝白塔之巅的守望者，沧月以东方神话为骨、希腊悲剧为魂，让每一方势力都既是受害者也是加害者。纪念版既是对作者创作生涯的回顾，也是对一代读者青春记忆的珍藏。重读这部近二十年前的奇幻经典，照见的依然是我们自己心里那个在宿命与自由之间反复挣扎的人。</itunes:summary>
+      <itunes:duration>00:24:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260928/episode-20260928-8bc0c3.mp3" length="23912493" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
