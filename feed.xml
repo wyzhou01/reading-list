@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 27 Sep 2026 18:14:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 17:15:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21237,6 +21237,17 @@
       <itunes:duration>00:32:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260927/episode-20260927-f6d80c.mp3" length="31083693" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《虎牙》 · 完整版 · 虎牙 · 完整讲读</title>
+      <description>《虎牙》是汤姆·克兰西二零零三年写就的瑞安系列代际之作。九一一之后，美国亟需一种超越法庭、超越国会、能在炸弹装上卡车之前就把恐怖分子干掉的「先发制人」能力。老瑞安已从 CIA 副局长坐进椭圆形办公室，他签署成立了一支只听总统、不受监督的秘密小队「学院」，并交棒给儿子小杰克与外甥多米尼克、布莱恩。三个二十岁出头的年轻人，携毒针、移动硬盘与跨平台操作系统，在罗马街头、在欧洲小巷，用最不像战争的方式，完成了最像战争的任务。本书借一次家族式的反恐行动，把先发制人的哲学、代际交接的人事、科技武装的技术捆在同一支毒针上，提出了一个至今仍在被争论的问题：当主权国家允许一只没有笼子的老虎在夜里巡逻，谁来保证它不会咬错人？</description>
+      <pubDate>Mon, 28 Sep 2026 17:15:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260928-episode-20260928-21911d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《虎牙》是汤姆·克兰西二零零三年写就的瑞安系列代际之作。九一一之后，美国亟需一种超越法庭、超越国会、能在炸弹装上卡车之前就把恐怖分子干掉的「先发制人」能力。老瑞安已从 CIA 副局长坐进椭圆形办公室，他签署成立了一支只听总统、不受监督的秘密小队「学院」，并交棒给儿子小杰克与外甥多米尼克、布莱恩。三个二十岁出头的年轻人，携毒针、移动硬盘与跨平台操作系统，在罗马街头、在欧洲小巷，用最不像战争的方式，完成了最像战争的任务。本书借一次家族式的反恐行动，把先发制人的哲学、代际交接的人事、科技武装的技术捆在同一支毒针上，提出了一个至今仍在被争论的问题：当主权国家允许一只没有笼子的老虎在夜里巡逻，谁来保证它不会咬错人？</itunes:summary>
+      <itunes:duration>00:28:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260928/episode-20260928-21911d.mp3" length="27474477" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
