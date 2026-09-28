@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 28 Sep 2026 17:41:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 17:45:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21341,6 +21341,17 @@
       <itunes:duration>00:27:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260928/episode-20260928-f168f3.mp3" length="26385453" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《长日留痕》 · 完整版 · 长日留痕_-_石黑一雄 · 完整讲读</title>
+      <description>《长日留痕》是石黑一雄一九八九年布克奖代表作。一位英国老男管家史蒂文斯，在一九五六年夏天驾着新主人的福特轿车，独自穿行英格兰西部乡间，借六天假期回望自己三十多年的仆役人生。他服务过的达林顿勋爵，曾以个人外交方式参与欧洲事务，无意中为纳粹崛起铺过路；他倾慕过的女管家肯顿小姐，在二十年前一个下午等他一句挽留而不得，嫁人远去。整本书表面是一次驾车旅行，内里却是一个英国人用“尊严“二字压住所有情感、用“伟大绅士“四字遮住所有疑问的漫长一生。石黑一雄用极克制的笔法写出了英式压抑美学的极致：一个人如何把职业体面活成人生枷锁，把盲目忠诚活成历史帮凶，把“假装在忙“活成终身错过。在全书最后那个亮起灯的码头上，史蒂文斯终于迟钝地、笨拙地承认——他这一生，是可以笑的。</description>
+      <pubDate>Mon, 28 Sep 2026 17:45:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260928-episode-20260928-3007f6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《长日留痕》是石黑一雄一九八九年布克奖代表作。一位英国老男管家史蒂文斯，在一九五六年夏天驾着新主人的福特轿车，独自穿行英格兰西部乡间，借六天假期回望自己三十多年的仆役人生。他服务过的达林顿勋爵，曾以个人外交方式参与欧洲事务，无意中为纳粹崛起铺过路；他倾慕过的女管家肯顿小姐，在二十年前一个下午等他一句挽留而不得，嫁人远去。整本书表面是一次驾车旅行，内里却是一个英国人用“尊严“二字压住所有情感、用“伟大绅士“四字遮住所有疑问的漫长一生。石黑一雄用极克制的笔法写出了英式压抑美学的极致：一个人如何把职业体面活成人生枷锁，把盲目忠诚活成历史帮凶，把“假装在忙“活成终身错过。在全书最后那个亮起灯的码头上，史蒂文斯终于迟钝地、笨拙地承认——他这一生，是可以笑的。</itunes:summary>
+      <itunes:duration>00:31:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260928/episode-20260928-3007f6.mp3" length="30045741" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
