@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 28 Sep 2026 17:27:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 17:30:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21281,6 +21281,17 @@
       <itunes:duration>00:37:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260928/episode-20260928-af8c63.mp3" length="35967789" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《驯子记》 · 完整版 · 驯子记 · 完整讲读</title>
+      <description>《驯子记》是苏童二〇〇四年出版的短篇集，收录《肉联厂的春天》《桂花连锁集团》《驯子记》《群众来信》四个中篇。故事围绕两个挣扎在体制里的小人物展开：崇拜外交家的青年金桥被分配到肉联厂盖章杀猪，他想讨要一份&quot;豁免权&quot;却处处碰壁；底层妇女曾千美患癌住院，49 天写下 49 封群众来信整顿医院医风，最后死在手术台上。苏童用冷静残忍的笔调，写出小人物在荒诞现实里的尊严——理想被压碎、尊严被碾过，但他们仍选择站着，站着要豁免权，站着写群众来信，站着去死。这不是一本让人爽快的书，却是一本让你不得不面对生活的书。</description>
+      <pubDate>Mon, 28 Sep 2026 17:30:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260928-episode-20260928-3ece19</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《驯子记》是苏童二〇〇四年出版的短篇集，收录《肉联厂的春天》《桂花连锁集团》《驯子记》《群众来信》四个中篇。故事围绕两个挣扎在体制里的小人物展开：崇拜外交家的青年金桥被分配到肉联厂盖章杀猪，他想讨要一份&quot;豁免权&quot;却处处碰壁；底层妇女曾千美患癌住院，49 天写下 49 封群众来信整顿医院医风，最后死在手术台上。苏童用冷静残忍的笔调，写出小人物在荒诞现实里的尊严——理想被压碎、尊严被碾过，但他们仍选择站着，站着要豁免权，站着写群众来信，站着去死。这不是一本让人爽快的书，却是一本让你不得不面对生活的书。</itunes:summary>
+      <itunes:duration>00:25:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260928/episode-20260928-3ece19.mp3" length="24397101" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
