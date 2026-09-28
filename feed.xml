@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 28 Sep 2026 17:36:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 17:36:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21303,6 +21303,33 @@
       <itunes:duration>00:24:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260928/episode-20260928-50f7cc.mp3" length="23815725" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《跟各国人都聊得来》 · 完整版 · 跟各国人都聊的来 · 完整讲读</title>
+      <description>本书作者本尼·刘易斯是爱尔兰语家，二十一岁时学语言屡战屡败，二十七岁却能用十二种语言和全世界的人谈笑风生。他用亲身经历证明：学不会外语，不是因为你不行，而是因为你还在用错误的借口把自己挡在门外。
+
+全书拆解了二十个最常见的借口——年纪太大、没有天赋、没时间、没钱、当地人不理我——并从神经科学、二语习得理论、真实案例逐一反驳。他提出“三个月流利法”：第一天就开口说外语，用热情代替天赋，用交流代替死记硬背，用免费工具代替昂贵课程。
+
+他系统讲解了如何高效记词（关键字联想、间隔重复、音乐记忆），如何足不出户自造语言环境（沙发客、Italki、本地聚会、媒体沉浸），如何第一天就开口（改换措辞、杰克·斯帕罗法则、碰杯法则），以及如何从流利走向精通。
+
+这本书教的不是某一门语言，而是任何人都能复用的语言学习操作系统。
+
+核心信念只有一句：语言不是用来了解的，是要用来生活的。</description>
+      <pubDate>Mon, 28 Sep 2026 17:36:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260928-episode-20260928-3a205d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书作者本尼·刘易斯是爱尔兰语家，二十一岁时学语言屡战屡败，二十七岁却能用十二种语言和全世界的人谈笑风生。他用亲身经历证明：学不会外语，不是因为你不行，而是因为你还在用错误的借口把自己挡在门外。
+
+全书拆解了二十个最常见的借口——年纪太大、没有天赋、没时间、没钱、当地人不理我——并从神经科学、二语习得理论、真实案例逐一反驳。他提出“三个月流利法”：第一天就开口说外语，用热情代替天赋，用交流代替死记硬背，用免费工具代替昂贵课程。
+
+他系统讲解了如何高效记词（关键字联想、间隔重复、音乐记忆），如何足不出户自造语言环境（沙发客、Italki、本地聚会、媒体沉浸），如何第一天就开口（改换措辞、杰克·斯帕罗法则、碰杯法则），以及如何从流利走向精通。
+
+这本书教的不是某一门语言，而是任何人都能复用的语言学习操作系统。
+
+核心信念只有一句：语言不是用来了解的，是要用来生活的。</itunes:summary>
+      <itunes:duration>00:29:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260928/episode-20260928-3a205d.mp3" length="28736301" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
