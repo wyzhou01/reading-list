@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 28 Sep 2026 17:30:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 17:36:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21292,6 +21292,17 @@
       <itunes:duration>00:25:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260928/episode-20260928-3ece19.mp3" length="24397101" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《玻璃钥匙》 · 完整版 · 玻璃钥匙_(哈米特长篇小说系列) · 完整讲读</title>
+      <description>《玻璃钥匙》是冷硬派大师达希尔·哈米特一九三一年写就的经典。故事发生在一座被黑金政治浸透的港口城市，侦探内德·博蒙特替政客保罗·麦维格追查情敌泰勒·亨利的命案，却发现凶手就藏在这座城市权力金字塔的最顶端。博蒙特在友谊、真相、爱情之间游走，最终用背叛换来了自由，带着泰勒的姐姐珍妮特逃离了那座城市。这本书跟钱德勒的《漫长的告别》并称为冷硬派双璧，它不仅是一部侦探小说，更是一部关于权力、忠诚、背叛与人性的解剖书。哈米特用他冷硬的笔触告诉我们：权力的代价是失去&quot;可以说不&quot;的资格；硬汉的&quot;硬&quot;是把自己打成碎片再拼回来；爱情与友情在背叛中开出的花，永远带着玻璃的刺。</description>
+      <pubDate>Mon, 28 Sep 2026 17:35:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260928-episode-20260928-50f7cc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《玻璃钥匙》是冷硬派大师达希尔·哈米特一九三一年写就的经典。故事发生在一座被黑金政治浸透的港口城市，侦探内德·博蒙特替政客保罗·麦维格追查情敌泰勒·亨利的命案，却发现凶手就藏在这座城市权力金字塔的最顶端。博蒙特在友谊、真相、爱情之间游走，最终用背叛换来了自由，带着泰勒的姐姐珍妮特逃离了那座城市。这本书跟钱德勒的《漫长的告别》并称为冷硬派双璧，它不仅是一部侦探小说，更是一部关于权力、忠诚、背叛与人性的解剖书。哈米特用他冷硬的笔触告诉我们：权力的代价是失去&quot;可以说不&quot;的资格；硬汉的&quot;硬&quot;是把自己打成碎片再拼回来；爱情与友情在背叛中开出的花，永远带着玻璃的刺。</itunes:summary>
+      <itunes:duration>00:24:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260928/episode-20260928-50f7cc.mp3" length="23815725" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
