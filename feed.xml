@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 28 Sep 2026 17:15:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 17:17:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21248,6 +21248,17 @@
       <itunes:duration>00:28:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260928/episode-20260928-21911d.mp3" length="27474477" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《斗牛士之名》 · 完整版 · 斗牛士之名 · 完整讲读</title>
+      <description>《斗牛士之名》是智利作家路易斯·塞普尔维达的黑色悬疑长篇，讲述一九四一年两个柏林警察在党卫军地下室发现六十三枚金币后分道扬镳，一人逃往世界尽头的火地岛，一人困守柏林四十年的故事。小说以二战与冷战为经纬，串起柏林、汉堡、圣地亚哥与火地岛，是一部关于背叛与友谊、极权与流亡、老去与复仇的悲歌，也是献给所有被迫在异国他乡熬过余生之人的致敬之作。</description>
+      <pubDate>Mon, 28 Sep 2026 17:17:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260928-episode-20260928-e0baec</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《斗牛士之名》是智利作家路易斯·塞普尔维达的黑色悬疑长篇，讲述一九四一年两个柏林警察在党卫军地下室发现六十三枚金币后分道扬镳，一人逃往世界尽头的火地岛，一人困守柏林四十年的故事。小说以二战与冷战为经纬，串起柏林、汉堡、圣地亚哥与火地岛，是一部关于背叛与友谊、极权与流亡、老去与复仇的悲歌，也是献给所有被迫在异国他乡熬过余生之人的致敬之作。</itunes:summary>
+      <itunes:duration>00:23:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260928/episode-20260928-e0baec.mp3" length="22702893" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
