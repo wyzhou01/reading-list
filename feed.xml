@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 28 Sep 2026 17:36:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 17:41:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21330,6 +21330,17 @@
       <itunes:duration>00:29:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260928/episode-20260928-3a205d.mp3" length="28736301" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《龙砚：绝命追踪83天》 · 完整版 · 龙砚：绝命追踪83天(1) · 完整讲读</title>
+      <description>民国初年，神算子韩方与徒弟玉成接袁世凯密旨，限期两个月寻找失踪四百年的明代镇殿之宝——盘龙砚。三方势力角逐：袁世凯欲借龙砚保帝位，西方古董贩子与日本间谍妄图将其盗运出境。师徒二人历经古玩街暗战、深宅密室机关、空棺之谜与地窖红蛇，九死一生。八十三天后恰与袁世凯称帝时长相同，龙砚最终被找到，并未献给袁氏，而是藏于九龙山民间，封建帝制亦随之覆灭。</description>
+      <pubDate>Mon, 28 Sep 2026 17:41:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260928-episode-20260928-f168f3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>民国初年，神算子韩方与徒弟玉成接袁世凯密旨，限期两个月寻找失踪四百年的明代镇殿之宝——盘龙砚。三方势力角逐：袁世凯欲借龙砚保帝位，西方古董贩子与日本间谍妄图将其盗运出境。师徒二人历经古玩街暗战、深宅密室机关、空棺之谜与地窖红蛇，九死一生。八十三天后恰与袁世凯称帝时长相同，龙砚最终被找到，并未献给袁氏，而是藏于九龙山民间，封建帝制亦随之覆灭。</itunes:summary>
+      <itunes:duration>00:27:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260928/episode-20260928-f168f3.mp3" length="26385453" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
