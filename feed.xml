@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 28 Sep 2026 17:22:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 17:27:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21270,6 +21270,17 @@
       <itunes:duration>00:24:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260928/episode-20260928-8bc0c3.mp3" length="23912493" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《圈子圈套2：迷局篇》 · 完整版 · 圈子圈套2：迷局篇 · 完整讲读</title>
+      <description>《圈子圈套二：迷局篇》是王强写的中国职场商战小说。主角洪钧升任维西尔中国区总经理后，因轻信盟友、与老板韦恩正面对抗，被总部一封邮件肢解——香港、华南、台湾、华东被昔日盟友瓜分，他手中只剩&quot;中国其他省份&quot;的空壳头衔。本书通过洪钧的坠落，揭示了跨国公司中国高管层的明争暗斗：盟友因利益翻转、老板视下属为可替换的棋子、对手趁火打劫。王强用真实到近乎残酷的笔触，写出了&quot;职场没有永远的朋友，只有永远的利益&quot;这一铁律，以及人在谷底时唯一真正属于自己的——等你回家的那个人。</description>
+      <pubDate>Mon, 28 Sep 2026 17:27:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260928-episode-20260928-af8c63</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《圈子圈套二：迷局篇》是王强写的中国职场商战小说。主角洪钧升任维西尔中国区总经理后，因轻信盟友、与老板韦恩正面对抗，被总部一封邮件肢解——香港、华南、台湾、华东被昔日盟友瓜分，他手中只剩&quot;中国其他省份&quot;的空壳头衔。本书通过洪钧的坠落，揭示了跨国公司中国高管层的明争暗斗：盟友因利益翻转、老板视下属为可替换的棋子、对手趁火打劫。王强用真实到近乎残酷的笔触，写出了&quot;职场没有永远的朋友，只有永远的利益&quot;这一铁律，以及人在谷底时唯一真正属于自己的——等你回家的那个人。</itunes:summary>
+      <itunes:duration>00:37:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260928/episode-20260928-af8c63.mp3" length="35967789" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
