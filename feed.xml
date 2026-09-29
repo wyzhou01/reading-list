@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 29 Sep 2026 17:42:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 17:51:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21396,6 +21396,17 @@
       <itunes:duration>00:42:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-da4bb7.mp3" length="40346925" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《光与暗的生灵》 · 完整版 · 光与暗的生灵 · 完整讲读</title>
+      <description>《光与暗的生灵》是泽拉兹尼的经典奇幻作品，讲述主角（曾为千年王子/无名之仆）在死亡之家服侍阿努比斯千年后，被派往中间世界执行任务、召集五位大天使对抗黑暗之神。他穿越生死之家、火之家等界域，与各路神灵、魔怪、将军、巫女相遇，历经阴谋、爱情与战争，最终发现自己的真实身份与命运，完成从无名仆人到荷鲁斯化身的成长与救赎。</description>
+      <pubDate>Tue, 29 Sep 2026 17:51:46 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260929-episode-20260929-9a6aba</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《光与暗的生灵》是泽拉兹尼的经典奇幻作品，讲述主角（曾为千年王子/无名之仆）在死亡之家服侍阿努比斯千年后，被派往中间世界执行任务、召集五位大天使对抗黑暗之神。他穿越生死之家、火之家等界域，与各路神灵、魔怪、将军、巫女相遇，历经阴谋、爱情与战争，最终发现自己的真实身份与命运，完成从无名仆人到荷鲁斯化身的成长与救赎。</itunes:summary>
+      <itunes:duration>00:19:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-9a6aba.mp3" length="19143213" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
