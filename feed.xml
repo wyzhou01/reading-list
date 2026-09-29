@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 28 Sep 2026 17:45:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 17:14:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21352,6 +21352,17 @@
       <itunes:duration>00:31:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260928/episode-20260928-3007f6.mp3" length="30045741" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《走夜路请放声歌唱》 · 完整版 · 走夜路请放声歌唱 · 完整讲读</title>
+      <description>《走夜路请放声歌唱》是李娟最私人的一本书。它不写阿勒泰的风景，写她自己——写童年、写成长、写孤独、写失去。书里有一个挖不到萝卜的冬天，有一个发动全村找她的母亲，有一个冰天雪地里等了她很多年的电话亭。李娟用最轻的笔，写最重的事。她告诉我们：黑夜也可以大声歌唱，不一定要唱得好听，只要还在唱，就还没有被打败。这是一本关于在孤独中活下去的书，也是一本关于写作如何成为生命依傍的书。它适合每一个在黑夜里走过路的人。</description>
+      <pubDate>Tue, 29 Sep 2026 17:14:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260929-episode-20260929-8ea0e0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《走夜路请放声歌唱》是李娟最私人的一本书。它不写阿勒泰的风景，写她自己——写童年、写成长、写孤独、写失去。书里有一个挖不到萝卜的冬天，有一个发动全村找她的母亲，有一个冰天雪地里等了她很多年的电话亭。李娟用最轻的笔，写最重的事。她告诉我们：黑夜也可以大声歌唱，不一定要唱得好听，只要还在唱，就还没有被打败。这是一本关于在孤独中活下去的书，也是一本关于写作如何成为生命依傍的书。它适合每一个在黑夜里走过路的人。</itunes:summary>
+      <itunes:duration>00:30:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-8ea0e0.mp3" length="28965933" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
