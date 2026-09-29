@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 29 Sep 2026 17:14:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 17:24:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21363,6 +21363,17 @@
       <itunes:duration>00:30:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-8ea0e0.mp3" length="28965933" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《带你去旅行》 · 完整版 · 带你去旅行 · 完整讲读</title>
+      <description>《带你去旅行》是资深媒体人葛威基于同名文化旅行节目撰写的城市文化读本，二零一六年由北京联合出版公司出版，全书约十三万一千字。不同于一般攻略书，它以电影、美食、音乐三条线索走访洛杉矶、芝加哥、纽约、伦敦、利物浦等城市，邀请李健、林依轮、曲婉婷、姜昕等明星嘉宾分享私人记忆，重新定义“为何而游”。全书主张，旅行的意义不是抵达，而是“在别处生活”；城市的伟大不在于地标，而在于它如何承载普通人的欲望、失败与梦想，并用百年的耐心允许人成为自己。</description>
+      <pubDate>Tue, 29 Sep 2026 17:23:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260929-episode-20260929-780c43</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《带你去旅行》是资深媒体人葛威基于同名文化旅行节目撰写的城市文化读本，二零一六年由北京联合出版公司出版，全书约十三万一千字。不同于一般攻略书，它以电影、美食、音乐三条线索走访洛杉矶、芝加哥、纽约、伦敦、利物浦等城市，邀请李健、林依轮、曲婉婷、姜昕等明星嘉宾分享私人记忆，重新定义“为何而游”。全书主张，旅行的意义不是抵达，而是“在别处生活”；城市的伟大不在于地标，而在于它如何承载普通人的欲望、失败与梦想，并用百年的耐心允许人成为自己。</itunes:summary>
+      <itunes:duration>00:31:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-780c43.mp3" length="30519981" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
