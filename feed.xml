@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 29 Sep 2026 17:24:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 17:33:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21374,6 +21374,17 @@
       <itunes:duration>00:31:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-780c43.mp3" length="30519981" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《东西之道：《道德经》与西方哲学》 · 完整版 · 东西之道 · 完整讲读</title>
+      <description>《东西之道》是德国哲学家汉斯·格奥尔格·梅勒的代表作，跳出用西方术语硬套中国哲学的百年惯例，从《道德经》内部的语义资源出发，在政治、战争、性别、死亡四大主题上与西方主流哲学硬核对决。梅勒把《道德经》读作一部没有作者、没有开头、没有结尾的“超文本”，核心意象是虚空之德，最高的政治原则是无为而治。在战争哲学上，《道德经》反对“致命武器”型的军事传统，主张将军最厉害的本事是让战争不发生。在性别哲学上，《道德经》把雌性当作天地的根，阴是不在场的力量。在死亡哲学上，《道德经》不讲凝视死亡，而讲看穿执着，用刍狗的意象表达一种不感情用事的慈。全书最终通向一个根本的判断：人，不是宇宙的中心。这是一套反人类中心主义的宇宙观，也是后人文主义哲学在当代的回响。</description>
+      <pubDate>Tue, 29 Sep 2026 17:33:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260929-episode-20260929-5b87bb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《东西之道》是德国哲学家汉斯·格奥尔格·梅勒的代表作，跳出用西方术语硬套中国哲学的百年惯例，从《道德经》内部的语义资源出发，在政治、战争、性别、死亡四大主题上与西方主流哲学硬核对决。梅勒把《道德经》读作一部没有作者、没有开头、没有结尾的“超文本”，核心意象是虚空之德，最高的政治原则是无为而治。在战争哲学上，《道德经》反对“致命武器”型的军事传统，主张将军最厉害的本事是让战争不发生。在性别哲学上，《道德经》把雌性当作天地的根，阴是不在场的力量。在死亡哲学上，《道德经》不讲凝视死亡，而讲看穿执着，用刍狗的意象表达一种不感情用事的慈。全书最终通向一个根本的判断：人，不是宇宙的中心。这是一套反人类中心主义的宇宙观，也是后人文主义哲学在当代的回响。</itunes:summary>
+      <itunes:duration>00:36:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-5b87bb.mp3" length="35034669" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
