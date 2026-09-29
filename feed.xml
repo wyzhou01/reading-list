@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 29 Sep 2026 17:33:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 17:42:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21385,6 +21385,17 @@
       <itunes:duration>00:36:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-5b87bb.mp3" length="35034669" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《价值为纲：华为公司财经管理纲要》 · 完整版 · 价值为纲：华为公司财经管理纲要 · 完整讲读</title>
+      <description>本书系统披露华为三十年财经管理哲学：从&apos;为客户服务是存在的唯一理由&apos;的经营目的，到&apos;扩张与控制&apos;的灰度平衡；从全球一千五百名项目财务的端到端嵌入，到责任中心体系对价值创造的全员度量；从&apos;全球七乘二十四小时循环结账&apos;的数字化跃迁，到&apos;几千亿美元不出差错&apos;的工匠精神。孟晚舟亲述财经团队从&apos;非常落后&apos;走到&apos;有点先进&apos;的完整路径，揭示华为如何在高速扩张中不翻车、在激烈竞争中保持长期有效增长。对于任何想理解华为如何在规模与秩序之间找到平衡的管理者，本书是不可绕过的原典。</description>
+      <pubDate>Tue, 29 Sep 2026 17:42:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260929-episode-20260929-da4bb7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书系统披露华为三十年财经管理哲学：从&apos;为客户服务是存在的唯一理由&apos;的经营目的，到&apos;扩张与控制&apos;的灰度平衡；从全球一千五百名项目财务的端到端嵌入，到责任中心体系对价值创造的全员度量；从&apos;全球七乘二十四小时循环结账&apos;的数字化跃迁，到&apos;几千亿美元不出差错&apos;的工匠精神。孟晚舟亲述财经团队从&apos;非常落后&apos;走到&apos;有点先进&apos;的完整路径，揭示华为如何在高速扩张中不翻车、在激烈竞争中保持长期有效增长。对于任何想理解华为如何在规模与秩序之间找到平衡的管理者，本书是不可绕过的原典。</itunes:summary>
+      <itunes:duration>00:42:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-da4bb7.mp3" length="40346925" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
