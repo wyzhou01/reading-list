@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 03:22:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 03:26:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21693,6 +21693,17 @@
       <itunes:duration>00:30:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-ea9978.mp3" length="29437101" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《射雕英雄传》 · 完整版 · 射雕英雄传（明河版）初版 · 完整讲读</title>
+      <description>《射雕英雄傳》是金庸一九五七年至一九五九年創作的武俠經典,以南宋末年為背景,講述憨厚少年郭靖從大漠到中原、從無名小卒成長為一代大俠的傳奇。金庸把家國情懷、歷史厚重、江湖義氣熔於一爐,塑造了郭靖、黃蓉、洪七公、歐陽鋒等經典人物,寫出亂世之中普通人如何守住良心、做出抉擇。明河社修訂初版經金庸親自修訂,是目前最權威的定本,值得每一個華人重讀。</description>
+      <pubDate>Wed, 30 Sep 2026 03:26:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260929-episode-20260929-79ce66</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《射雕英雄傳》是金庸一九五七年至一九五九年創作的武俠經典,以南宋末年為背景,講述憨厚少年郭靖從大漠到中原、從無名小卒成長為一代大俠的傳奇。金庸把家國情懷、歷史厚重、江湖義氣熔於一爐,塑造了郭靖、黃蓉、洪七公、歐陽鋒等經典人物,寫出亂世之中普通人如何守住良心、做出抉擇。明河社修訂初版經金庸親自修訂,是目前最權威的定本,值得每一個華人重讀。</itunes:summary>
+      <itunes:duration>00:24:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-79ce66.mp3" length="23342637" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
