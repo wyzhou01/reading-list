@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 16:51:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:51:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22124,6 +22124,17 @@
       <itunes:duration>00:31:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-9a4072.mp3" length="29818797" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《惶然录》 · 完整版 · 惶然录 · 完整讲读</title>
+      <description>《惶然录》是葡萄牙诗人佩索阿以虚拟小会计索阿雷斯之名写下的随笔集，写于一九一三至一九二零年间，记录了一位里斯本助理会计在日常账本与精神漫游之间的永恒撕扯。全书以平庸的办公室生活为底色，探讨自我的分裂与多重性、梦想与牢笼的辩证、自由的囚禁、写作的救赎，以及共在的市民式悲悯。佩索阿借一个卑微的小职员之口，担当起全人类的精神重量——他告诉我们，平庸不等于虚无，囚禁不等于失败，只要还能思考、还能感受、还能对一支廉价香烟生出柔情，我们就仍然是完整的。这是一部关于在最低处仰望的人的经典之书，值得每一位现代职场人在深夜的失眠里反复翻阅。</description>
+      <pubDate>Wed, 30 Sep 2026 16:51:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260930-episode-20260930-29cf4f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《惶然录》是葡萄牙诗人佩索阿以虚拟小会计索阿雷斯之名写下的随笔集，写于一九一三至一九二零年间，记录了一位里斯本助理会计在日常账本与精神漫游之间的永恒撕扯。全书以平庸的办公室生活为底色，探讨自我的分裂与多重性、梦想与牢笼的辩证、自由的囚禁、写作的救赎，以及共在的市民式悲悯。佩索阿借一个卑微的小职员之口，担当起全人类的精神重量——他告诉我们，平庸不等于虚无，囚禁不等于失败，只要还能思考、还能感受、还能对一支廉价香烟生出柔情，我们就仍然是完整的。这是一部关于在最低处仰望的人的经典之书，值得每一位现代职场人在深夜的失眠里反复翻阅。</itunes:summary>
+      <itunes:duration>00:28:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-29cf4f.mp3" length="26919981" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
