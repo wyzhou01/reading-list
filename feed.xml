@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 03:05:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 03:07:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21561,6 +21561,17 @@
       <itunes:duration>00:23:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-b230bd.mp3" length="22832685" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《星空暗流》 · 完整版 · 星空暗流_-_（美）艾萨克·阿西莫夫 · 完整讲读</title>
+      <description>《星空暗流》是阿西莫夫一九五二年的作品。它借一个失忆的厂工愚可之口，揭开了蓟荋与爆前新星之间的因果关系，从而撬动了萨克人垄断整个银河经济的根基。阿西莫夫把基地系列的宏大叙事，与侦探悬疑结构结合在了一起，借愚可与瓦罗娜的关系，探讨了身份、记忆与家园的真正含义。这是一封写给银河的人道主义情书，也是一则关于知识、垄断与良知的寓言。</description>
+      <pubDate>Wed, 30 Sep 2026 03:07:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260929-episode-20260929-e579e2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《星空暗流》是阿西莫夫一九五二年的作品。它借一个失忆的厂工愚可之口，揭开了蓟荋与爆前新星之间的因果关系，从而撬动了萨克人垄断整个银河经济的根基。阿西莫夫把基地系列的宏大叙事，与侦探悬疑结构结合在了一起，借愚可与瓦罗娜的关系，探讨了身份、记忆与家园的真正含义。这是一封写给银河的人道主义情书，也是一则关于知识、垄断与良知的寓言。</itunes:summary>
+      <itunes:duration>00:28:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-e579e2.mp3" length="27216813" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
