@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 03:08:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 03:11:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21583,6 +21583,17 @@
       <itunes:duration>00:36:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-b546f0.mp3" length="35320365" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《麦田里的中国王子》 · 完整版 · 长铗_-_麦田里的中国王子 · 完整讲读</title>
+      <description>《麦田里的中国王子》是科幻作家长铗的早期选本，集中展示了他用中国古风嫁接硬科幻的大胆实验。书中既有《麦田里的中国王子》这样的哥特悬疑，让一个英国贵族用东方智慧把古堡改造成麦田里的乐器；也有《西女国》这样的反乌托邦史诗，思考一个建立于直觉之上的母系社会能否与理性文明平起平坐；更有《昆仑》这样的文明史秘闻，揭示一段被体制吞噬的星际接触记忆。这本书不仅示范了一条少有人走的科幻路径，更提出了一系列超越时代的命题：理性与直觉的边界、文明形态的多样可能、东西方文化的真正碰撞。读这本书，你会看到一个年轻写作者的大胆实验，也会看到他为我们留下的思想遗产。</description>
+      <pubDate>Wed, 30 Sep 2026 03:10:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260929-episode-20260929-a3f8eb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《麦田里的中国王子》是科幻作家长铗的早期选本，集中展示了他用中国古风嫁接硬科幻的大胆实验。书中既有《麦田里的中国王子》这样的哥特悬疑，让一个英国贵族用东方智慧把古堡改造成麦田里的乐器；也有《西女国》这样的反乌托邦史诗，思考一个建立于直觉之上的母系社会能否与理性文明平起平坐；更有《昆仑》这样的文明史秘闻，揭示一段被体制吞噬的星际接触记忆。这本书不仅示范了一条少有人走的科幻路径，更提出了一系列超越时代的命题：理性与直觉的边界、文明形态的多样可能、东西方文化的真正碰撞。读这本书，你会看到一个年轻写作者的大胆实验，也会看到他为我们留下的思想遗产。</itunes:summary>
+      <itunes:duration>00:28:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-a3f8eb.mp3" length="27416493" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
