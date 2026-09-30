@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 16:05:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:07:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21849,6 +21849,17 @@
       <itunes:duration>00:27:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-999ea9.mp3" length="26125101" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《菜根谭》 · 完整版 · 菜根谭(明刻本+清刻本) · 完整讲读</title>
+      <description>《菜根谭》是明代还初道人洪应明写下的语录体格言集，融合儒、释、道三家智慧，谈修身、处世、在纷扰中守住本心。书分明刻本前后两集与清刻本修身、应酬、评议、闲适、概论五类两大版本系统传世。本期从版本流变入手，深入解读其动静相宜、独处观心、以忍耐处世的核心心法，揭示这部四百年前的清言集如何在今天依然为人提供一套以人为本、调和出世的处世哲学。</description>
+      <pubDate>Wed, 30 Sep 2026 16:07:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260930-episode-20260930-11ddc0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《菜根谭》是明代还初道人洪应明写下的语录体格言集，融合儒、释、道三家智慧，谈修身、处世、在纷扰中守住本心。书分明刻本前后两集与清刻本修身、应酬、评议、闲适、概论五类两大版本系统传世。本期从版本流变入手，深入解读其动静相宜、独处观心、以忍耐处世的核心心法，揭示这部四百年前的清言集如何在今天依然为人提供一套以人为本、调和出世的处世哲学。</itunes:summary>
+      <itunes:duration>00:21:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-11ddc0.mp3" length="20642733" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
