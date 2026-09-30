@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 03:13:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 03:14:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21616,6 +21616,17 @@
       <itunes:duration>00:48:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-d8181a.mp3" length="46192941" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《暗瞳》 · 完整版 · 暗瞳_-_刘宏 · 完整讲读</title>
+      <description>《暗瞳》是刘宏创作的商业谍战长篇小说，从一九九六年南方胶黏剂窃密案起笔，写到二零零八年北京黑衣蜘蛛侠事件，再铺陈到全球情报巨头围猎中国市场的博弈。主人公方城，从普通青年蜕变为情报高手，最终与幕后大佬汉密尔正面对决。这本书第一次以小说的形式，系统呈现了全球商业谍战的完整生态，涉及以色列摩萨德、美国《经济间谍法》、欧洲冒险顾问团等真实原型，被称为中国版的&apos;商界教科书&apos;与&apos;谍战小说&apos;的罕见结合。</description>
+      <pubDate>Wed, 30 Sep 2026 03:14:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260929-episode-20260929-25efb5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《暗瞳》是刘宏创作的商业谍战长篇小说，从一九九六年南方胶黏剂窃密案起笔，写到二零零八年北京黑衣蜘蛛侠事件，再铺陈到全球情报巨头围猎中国市场的博弈。主人公方城，从普通青年蜕变为情报高手，最终与幕后大佬汉密尔正面对决。这本书第一次以小说的形式，系统呈现了全球商业谍战的完整生态，涉及以色列摩萨德、美国《经济间谍法》、欧洲冒险顾问团等真实原型，被称为中国版的&apos;商界教科书&apos;与&apos;谍战小说&apos;的罕见结合。</itunes:summary>
+      <itunes:duration>00:30:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-25efb5.mp3" length="29215917" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
