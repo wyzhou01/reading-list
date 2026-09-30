@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 02:47:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 02:48:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21451,6 +21451,17 @@
       <itunes:duration>00:27:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-0583c8.mp3" length="26856621" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我要渐渐忘记这个世界了》 · 完整版 · 我要渐渐忘记这个世界了_-_罗恩·科尔曼 · 完整讲读</title>
+      <description>《我要渐渐忘记这个世界了》是英国作家罗恩·科尔曼二零一四年的作品,讲一位三十出头的年轻母亲克莱尔,在女儿刚出生不久时被确诊为早发性阿尔茨海默症。她没有被打垮,而是用一本&quot;记忆之书&quot;,把丈夫、女儿和自己的每一个重要瞬间都写下来——写下凯特琳出生的那一天,写下埃丝特喜欢番茄酱的意式宽面,写下她和格雷戈第一次见面的笨拙,也写下自己在确诊后逐渐混乱的每一个今天。书中最让人心碎的,是她说&quot;我最先失去的,不是女儿,是丈夫&quot;——因为感受爱的能力,比记住爱,消失得更早。这不是一本医学书,也不是苦情戏,它用一本笔记本的结构,讲清楚了一件事:人不是靠脑子活着的,是靠留下的痕迹活着的。当记忆注定消失,爱还剩下什么?这本书给出的答案是:爱,会变成你写下的、留下的、被翻开的那些纸。只要有人翻开,你就在。</description>
+      <pubDate>Wed, 30 Sep 2026 02:48:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260929-episode-20260929-23e21d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我要渐渐忘记这个世界了》是英国作家罗恩·科尔曼二零一四年的作品,讲一位三十出头的年轻母亲克莱尔,在女儿刚出生不久时被确诊为早发性阿尔茨海默症。她没有被打垮,而是用一本&quot;记忆之书&quot;,把丈夫、女儿和自己的每一个重要瞬间都写下来——写下凯特琳出生的那一天,写下埃丝特喜欢番茄酱的意式宽面,写下她和格雷戈第一次见面的笨拙,也写下自己在确诊后逐渐混乱的每一个今天。书中最让人心碎的,是她说&quot;我最先失去的,不是女儿,是丈夫&quot;——因为感受爱的能力,比记住爱,消失得更早。这不是一本医学书,也不是苦情戏,它用一本笔记本的结构,讲清楚了一件事:人不是靠脑子活着的,是靠留下的痕迹活着的。当记忆注定消失,爱还剩下什么?这本书给出的答案是:爱,会变成你写下的、留下的、被翻开的那些纸。只要有人翻开,你就在。</itunes:summary>
+      <itunes:duration>00:25:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-23e21d.mp3" length="24627885" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
