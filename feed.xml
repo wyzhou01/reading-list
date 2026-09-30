@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 16:51:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:57:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22135,6 +22135,17 @@
       <itunes:duration>00:28:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-29cf4f.mp3" length="26919981" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《霸权之后：世界政治经济中的合作与纷争》 · 完整版 · 霸权之后（增订版） · 完整讲读</title>
+      <description>《霸权之后》是美国学者基欧汉一九八四年的经典之作，它挑战了“没有霸主就没有秩序“的霸权稳定论，提出国际机制可以独立于霸权而存在，通过汇聚预期、提供信息、降低交易成本、赋予合法性、改变偏好等功能，在无政府状态下支撑国际合作。本书奠定了新自由制度主义的理论基础，是战后国际关系学被引用最多的著作之一。它对理解今天多极化世界中的规则之争、全球治理改革、以及中国与国际制度的关系，仍具有不可替代的指导意义。</description>
+      <pubDate>Wed, 30 Sep 2026 16:57:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260930-episode-20260930-1b8b01</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《霸权之后》是美国学者基欧汉一九八四年的经典之作，它挑战了“没有霸主就没有秩序“的霸权稳定论，提出国际机制可以独立于霸权而存在，通过汇聚预期、提供信息、降低交易成本、赋予合法性、改变偏好等功能，在无政府状态下支撑国际合作。本书奠定了新自由制度主义的理论基础，是战后国际关系学被引用最多的著作之一。它对理解今天多极化世界中的规则之争、全球治理改革、以及中国与国际制度的关系，仍具有不可替代的指导意义。</itunes:summary>
+      <itunes:duration>00:30:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-1b8b01.mp3" length="29756973" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
