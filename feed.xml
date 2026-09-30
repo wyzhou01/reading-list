@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 03:56:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 04:05:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21794,6 +21794,17 @@
       <itunes:duration>00:36:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-c2e2c5.mp3" length="34904493" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《微观历史：1957-1965》 · 完整版 · 微观历史：1957-1965 · 完整讲读</title>
+      <description>《微观历史：一九五七到一九六五年》是祝伟坡先生尘封半个世纪的私人日记，记录了一个对党忠诚的青年知识分子亲历反右、大跃进、人民公社化、整风整社和四清运动的全过程。八本日记侥幸逃过文革浩劫，五十年后由作者八旬高龄亲自整理出版。本书最珍贵之处，在于作者既不回避自己当年的狂热与伤害，也不掩饰事后迟来的痛苦与反思；它让我们看到，真诚与荒诞如何在同一个人身上共生，也让我们看到，一整代中国知识分子的精神地形图，是怎样由具体的日子、具体的饭局、具体的犹豫一点点堆叠而成。</description>
+      <pubDate>Wed, 30 Sep 2026 04:05:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260929-episode-20260929-9e18fd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《微观历史：一九五七到一九六五年》是祝伟坡先生尘封半个世纪的私人日记，记录了一个对党忠诚的青年知识分子亲历反右、大跃进、人民公社化、整风整社和四清运动的全过程。八本日记侥幸逃过文革浩劫，五十年后由作者八旬高龄亲自整理出版。本书最珍贵之处，在于作者既不回避自己当年的狂热与伤害，也不掩饰事后迟来的痛苦与反思；它让我们看到，真诚与荒诞如何在同一个人身上共生，也让我们看到，一整代中国知识分子的精神地形图，是怎样由具体的日子、具体的饭局、具体的犹豫一点点堆叠而成。</itunes:summary>
+      <itunes:duration>00:29:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-9e18fd.mp3" length="28528557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
