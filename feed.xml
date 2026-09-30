@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 02:59:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 03:03:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21539,6 +21539,17 @@
       <itunes:duration>00:30:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-46cab8.mp3" length="29756973" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《玩命直播》 · 完整版 · 玩命直播--[美]珍妮·莱恩 · 完整讲读</title>
+      <description>《玩命直播》是美国青少年文学作家珍妮·莱恩二零一七年出版的悬疑小说，灵感来自外甥女整日抱手机的画面。故事讲述高中生薇因一时冲动，加入了一场手机直播的试胆任务，以为只是好玩，却一步步陷入被偷拍、被跟踪、被威胁的深渊。小说以紧凑的节奏，撕开了真人秀时代的遮羞布，直指隐私边界、窥视伦理、青少年身份认同三大议题。它不只是一本好看的青少年小说，更是一面提前写好的警示录，提醒每一个活在镜头下的我们：当全世界都在为你打分，你还能否守护住那个真实的自己？</description>
+      <pubDate>Wed, 30 Sep 2026 03:03:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260929-episode-20260929-71b0fc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《玩命直播》是美国青少年文学作家珍妮·莱恩二零一七年出版的悬疑小说，灵感来自外甥女整日抱手机的画面。故事讲述高中生薇因一时冲动，加入了一场手机直播的试胆任务，以为只是好玩，却一步步陷入被偷拍、被跟踪、被威胁的深渊。小说以紧凑的节奏，撕开了真人秀时代的遮羞布，直指隐私边界、窥视伦理、青少年身份认同三大议题。它不只是一本好看的青少年小说，更是一面提前写好的警示录，提醒每一个活在镜头下的我们：当全世界都在为你打分，你还能否守护住那个真实的自己？</itunes:summary>
+      <itunes:duration>00:22:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-71b0fc.mp3" length="21489069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
