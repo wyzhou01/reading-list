@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 02:59:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 02:59:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21517,6 +21517,17 @@
       <itunes:duration>00:28:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-c6466d.mp3" length="27445677" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《有顶天家族·二代目归来》 · 完整版 · 二代目归来 · 完整讲读</title>
+      <description>《有顶天家族·二代目归来》是森见登美彦时隔十年推出的续作。下鸭神社纠之森的狸猫三男矢三郎，穿梭在京都的伪英国饭店、伪满洲列车、伪南蛮船屋之间，一边追查被天狗首领煮成火锅的父亲的下落，一边守护着那个动辄要把狸猫下锅的初恋弁天。留学归国的鞍马天狗二代目，脱下象征力量的羽衣，甘愿做个落魄的英二世子。这本书用狸猫的坚韧与天狗的骄傲相互映照，伪装与真实彼此穿插，写出一场无望却温柔的京都奇幻对决。在所有飞速前进的时代洪流里，它温柔地提醒我们：所谓伪装，从来不是为了欺骗；所谓骄傲，是哪怕输得一塌糊涂，也依然选择站着。</description>
+      <pubDate>Wed, 30 Sep 2026 02:59:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260929-episode-20260929-2dfc34</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《有顶天家族·二代目归来》是森见登美彦时隔十年推出的续作。下鸭神社纠之森的狸猫三男矢三郎，穿梭在京都的伪英国饭店、伪满洲列车、伪南蛮船屋之间，一边追查被天狗首领煮成火锅的父亲的下落，一边守护着那个动辄要把狸猫下锅的初恋弁天。留学归国的鞍马天狗二代目，脱下象征力量的羽衣，甘愿做个落魄的英二世子。这本书用狸猫的坚韧与天狗的骄傲相互映照，伪装与真实彼此穿插，写出一场无望却温柔的京都奇幻对决。在所有飞速前进的时代洪流里，它温柔地提醒我们：所谓伪装，从来不是为了欺骗；所谓骄傲，是哪怕输得一塌糊涂，也依然选择站着。</itunes:summary>
+      <itunes:duration>00:22:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-2dfc34.mp3" length="21714477" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
