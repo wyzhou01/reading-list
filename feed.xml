@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 02:54:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 02:57:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21506,6 +21506,17 @@
       <itunes:duration>00:25:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-8cd780.mp3" length="24383277" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《烟月不知人事改：宋词中的悲欢离合》 · 完整版 · 烟月不知人事改_宋词中的悲欢离合_-_白落梅 · 完整讲读</title>
+      <description>白落梅的《烟月不知人事改》，用散文化的笔法，把北宋初期到南宋末的八卷四十二首宋词，还原成了一段段可以安放现代人心事的生命故事。本书以情感主题贯穿全书，从李重元的梨花雨开始，写尽等待与离别；从李煜、宋徽宗的亡国之痛，写尽故国与漂泊；从欧阳修、秦观、晏几道的词里，写尽情痴与遗憾；从贺铸、蒋捷、吴文英的词里，写尽流光与年华；从姜夔、林逋、柳永的词里，写尽深情与隐逸；从周邦彦、辛弃疾、岳飞的词里，写尽知音与相逢；最后以苏轼、陆游、辛弃疾的清欢之作收束，写尽通透与放下。这是一本把宋词当作生命故事来读的作品，在十五年里被反复推荐。它不是学术考证，而是用柔美的语言，告诉我们——宋词从未走远，它只是在等一个愿意在月下听它的人。在这个节奏越来越快的时代，白落梅给了我们一段可以慢下来的时光，让我们相信，那些千年前的句子，依然可以安放我们今天的情绪。</description>
+      <pubDate>Wed, 30 Sep 2026 02:57:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260929-episode-20260929-c6466d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>白落梅的《烟月不知人事改》，用散文化的笔法，把北宋初期到南宋末的八卷四十二首宋词，还原成了一段段可以安放现代人心事的生命故事。本书以情感主题贯穿全书，从李重元的梨花雨开始，写尽等待与离别；从李煜、宋徽宗的亡国之痛，写尽故国与漂泊；从欧阳修、秦观、晏几道的词里，写尽情痴与遗憾；从贺铸、蒋捷、吴文英的词里，写尽流光与年华；从姜夔、林逋、柳永的词里，写尽深情与隐逸；从周邦彦、辛弃疾、岳飞的词里，写尽知音与相逢；最后以苏轼、陆游、辛弃疾的清欢之作收束，写尽通透与放下。这是一本把宋词当作生命故事来读的作品，在十五年里被反复推荐。它不是学术考证，而是用柔美的语言，告诉我们——宋词从未走远，它只是在等一个愿意在月下听它的人。在这个节奏越来越快的时代，白落梅给了我们一段可以慢下来的时光，让我们相信，那些千年前的句子，依然可以安放我们今天的情绪。</itunes:summary>
+      <itunes:duration>00:28:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-c6466d.mp3" length="27445677" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
