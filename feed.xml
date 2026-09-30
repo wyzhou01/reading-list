@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 03:07:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 03:08:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21572,6 +21572,17 @@
       <itunes:duration>00:28:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-e579e2.mp3" length="27216813" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《十二月》 · 完整版 · 十二月_-_亚历山大·克鲁格 · 完整讲读</title>
+      <description>《十二月》是德国作家亚历山大·克鲁格与画家格哈德·里希特合作的奇特小书，三十九则短篇各自标注十二月的某一天，时间却横跨一九三一年至二零零九年。书里有冰风暴中的东线战场、克里姆林宫最后的黄昏、圣殿山地底沉睡千年的冰龙、拿破仑流落苏富比的犬齿、外交官与天体物理学家在酒店大厅里的对话。克鲁格用碎片编织历史，用神话照进现实，让儿童的眼睛去穿透极权的雪，让私人记忆去刺穿宏大叙事。日历被拆碎，时间的线性被打破，冰层底下露出的是二十世纪人类的处境。</description>
+      <pubDate>Wed, 30 Sep 2026 03:08:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260929-episode-20260929-b546f0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《十二月》是德国作家亚历山大·克鲁格与画家格哈德·里希特合作的奇特小书，三十九则短篇各自标注十二月的某一天，时间却横跨一九三一年至二零零九年。书里有冰风暴中的东线战场、克里姆林宫最后的黄昏、圣殿山地底沉睡千年的冰龙、拿破仑流落苏富比的犬齿、外交官与天体物理学家在酒店大厅里的对话。克鲁格用碎片编织历史，用神话照进现实，让儿童的眼睛去穿透极权的雪，让私人记忆去刺穿宏大叙事。日历被拆碎，时间的线性被打破，冰层底下露出的是二十世纪人类的处境。</itunes:summary>
+      <itunes:duration>00:36:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-b546f0.mp3" length="35320365" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
