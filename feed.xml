@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 16:41:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:41:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22047,6 +22047,17 @@
       <itunes:duration>00:32:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-9dd144.mp3" length="30953517" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《白昼的死角》 · 完整版 · 白昼的死角_-_[日]高木彬光 · 完整讲读</title>
+      <description>高木彬光一九六零年推理小说《白昼的死角》，讲述天才犯罪者鹤冈七郎亲口向推理作家坦白的犯罪实录。鹤冈七郎是东大法律系高材生，专门研究法律盲点，半天内建立数亿资本的空壳公司并让它凭空消失，半年内骗遍某国大使馆全体人员。这部作品诞生于战后日本社会派崛起、本格派转型的关键年代，既保留诡计精巧，又融入法庭、人性、社会矛盾的深度反思。高木彬光借作家、检察官、犯罪者三重视角，抛出一个永恒之问：法律和正义之间，是否存在一条永远照不到阳光的缝隙？</description>
+      <pubDate>Wed, 30 Sep 2026 16:41:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260930-episode-20260930-c23432</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>高木彬光一九六零年推理小说《白昼的死角》，讲述天才犯罪者鹤冈七郎亲口向推理作家坦白的犯罪实录。鹤冈七郎是东大法律系高材生，专门研究法律盲点，半天内建立数亿资本的空壳公司并让它凭空消失，半年内骗遍某国大使馆全体人员。这部作品诞生于战后日本社会派崛起、本格派转型的关键年代，既保留诡计精巧，又融入法庭、人性、社会矛盾的深度反思。高木彬光借作家、检察官、犯罪者三重视角，抛出一个永恒之问：法律和正义之间，是否存在一条永远照不到阳光的缝隙？</itunes:summary>
+      <itunes:duration>00:38:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-c23432.mp3" length="37377837" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
