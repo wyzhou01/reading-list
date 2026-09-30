@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 03:14:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 03:15:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21627,6 +21627,17 @@
       <itunes:duration>00:30:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-25efb5.mp3" length="29215917" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《十夜之梦——夏目漱石随笔集》 · 完整版 · 十夜之梦_夏目漱石随笔集 · 完整讲读</title>
+      <description>《十夜之梦》是夏目漱石临终前两年的集中写作，收录了十个梦境、若干随笔与回忆散文。这本书既是梦境实验，也是一次向内的精神手术。漱石借梦谈生死，借个人主义谈自我，借文艺观谈东西方，借回忆谈人如何在时间中留下痕迹。本期一百二十分钟，我们一口气读完这本小书，看一个日本人如何用梦挖自己、用文章交代自己的骨架，并追问一百年前的叩问——我是谁、我该如何活——在今天仍不过时。</description>
+      <pubDate>Wed, 30 Sep 2026 03:15:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260929-episode-20260929-8f3563</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《十夜之梦》是夏目漱石临终前两年的集中写作，收录了十个梦境、若干随笔与回忆散文。这本书既是梦境实验，也是一次向内的精神手术。漱石借梦谈生死，借个人主义谈自我，借文艺观谈东西方，借回忆谈人如何在时间中留下痕迹。本期一百二十分钟，我们一口气读完这本小书，看一个日本人如何用梦挖自己、用文章交代自己的骨架，并追问一百年前的叩问——我是谁、我该如何活——在今天仍不过时。</itunes:summary>
+      <itunes:duration>00:24:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-8f3563.mp3" length="23587245" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
