@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 02:52:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 02:54:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21495,6 +21495,17 @@
       <itunes:duration>00:27:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-40c57a.mp3" length="26047533" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《战起1938》 · 完整版 · 战起1938_-_疯丢子 · 完整讲读</title>
+      <description>《战起一九三八》是疯丢子创作的女性穿越抗战长篇。一九三八年水晶之夜，中国少女秦恬穿越到纳粹德国，没有金手指，仅凭一点点未来知识和不肯放弃的心，在德军、犹太难民、抵抗组织间周旋，救治战俘，守护爱人。小说以冷静克制的笔触，书写普通人在二战洪流中的生存、尊严与爱，是中文网络文学中最深刻书写犹太二战题材的作品之一。</description>
+      <pubDate>Wed, 30 Sep 2026 02:54:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260929-episode-20260929-8cd780</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《战起一九三八》是疯丢子创作的女性穿越抗战长篇。一九三八年水晶之夜，中国少女秦恬穿越到纳粹德国，没有金手指，仅凭一点点未来知识和不肯放弃的心，在德军、犹太难民、抵抗组织间周旋，救治战俘，守护爱人。小说以冷静克制的笔触，书写普通人在二战洪流中的生存、尊严与爱，是中文网络文学中最深刻书写犹太二战题材的作品之一。</itunes:summary>
+      <itunes:duration>00:25:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-8cd780.mp3" length="24383277" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
