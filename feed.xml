@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 04:05:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:02:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21805,6 +21805,17 @@
       <itunes:duration>00:29:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-9e18fd.mp3" length="28528557" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大家小书：宋词赏析》 · 完整版 · 大家小书：宋词赏析（精）_(大家小书精装本) · 完整讲读</title>
+      <description>沈祖棻《宋词赏析》是程千帆整理的讲课笔记，示范了一种&quot;字字求解&quot;的读词门径：从字句训诂入手，考证典故史实，把握词人情感脉络，解析意境与修辞技巧。本书从无名氏《菩萨蛮》讲到李清照《声声慢》，又附姜夔、张炎两家词小札。沈先生以女词人的才情与渊博学问，把宋词里最精妙的字句一层层剥开给读者看，既不做空洞的翻译，也不做过度阐释，只把作品当作完整的艺术品来对待。这本小书的核心，是教人一种看字的方式——愿意在平常的字上停下来，愿意承认语言本身的美。读她这本书，你会学到：好的宋词，不是用来懂的，而是用来待的。</description>
+      <pubDate>Wed, 30 Sep 2026 16:02:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260930-episode-20260930-8c9f2f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>沈祖棻《宋词赏析》是程千帆整理的讲课笔记，示范了一种&quot;字字求解&quot;的读词门径：从字句训诂入手，考证典故史实，把握词人情感脉络，解析意境与修辞技巧。本书从无名氏《菩萨蛮》讲到李清照《声声慢》，又附姜夔、张炎两家词小札。沈先生以女词人的才情与渊博学问，把宋词里最精妙的字句一层层剥开给读者看，既不做空洞的翻译，也不做过度阐释，只把作品当作完整的艺术品来对待。这本小书的核心，是教人一种看字的方式——愿意在平常的字上停下来，愿意承认语言本身的美。读她这本书，你会学到：好的宋词，不是用来懂的，而是用来待的。</itunes:summary>
+      <itunes:duration>00:20:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-8c9f2f.mp3" length="19229997" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
