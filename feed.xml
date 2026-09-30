@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 17:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 17:16:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22168,6 +22168,17 @@
       <itunes:duration>00:35:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-78ff26.mp3" length="34073517" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《泡沫之夏3》 · 完整版 · 泡沫之夏3 · 完整讲读</title>
+      <description>《泡沫之夏三》是明晓溪二零一三年的终章之作。洛熙远走异国，尹澄突发重病，尹夏沫为救弟弟被迫答应与欧辰结婚。婚礼前夜，洛熙雨中追到医院，亲耳听到她说出那句话，淋雨高烧两日。尹澄最终离世，留下满墙画作。多年后，尹夏沫追到机场，对欧辰说出那句迟到的我爱你，并诞下两人的孩子。书名虽叫泡沫，可泡沫虽易碎，新的泡沫却执拗地飞向天空。这是八零九零后关于爱、占有、放手与告别的成长寓言。</description>
+      <pubDate>Wed, 30 Sep 2026 17:16:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260930-episode-20260930-8df121</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《泡沫之夏三》是明晓溪二零一三年的终章之作。洛熙远走异国，尹澄突发重病，尹夏沫为救弟弟被迫答应与欧辰结婚。婚礼前夜，洛熙雨中追到医院，亲耳听到她说出那句话，淋雨高烧两日。尹澄最终离世，留下满墙画作。多年后，尹夏沫追到机场，对欧辰说出那句迟到的我爱你，并诞下两人的孩子。书名虽叫泡沫，可泡沫虽易碎，新的泡沫却执拗地飞向天空。这是八零九零后关于爱、占有、放手与告别的成长寓言。</itunes:summary>
+      <itunes:duration>00:25:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-8df121.mp3" length="24123309" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
