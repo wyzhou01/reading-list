@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 03:11:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 03:13:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21605,6 +21605,17 @@
       <itunes:duration>00:25:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-5fb586.mp3" length="24321069" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《子不语》 · 完整版 · 子不语_-_[清]袁枚 · 完整讲读</title>
+      <description>《子不语》是清代文人袁枚编撰的志怪小说集，收录三百多篇短篇故事，涵盖鬼神、精怪、奇人、幻术四大主题。袁枚以近乎新闻报道的冷静笔调，记录民间口耳相传的奇闻异事，既保留了古人对神秘世界的想象，也隐晦地讽刺社会现实、批判贪官污吏、表达对边缘群体的同情。这部书与《聊斋志异》齐名，但风格更加朴素随意，是研究清代民间信仰、风俗习惯和价值观念的重要文献。</description>
+      <pubDate>Wed, 30 Sep 2026 03:13:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260929-episode-20260929-d8181a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《子不语》是清代文人袁枚编撰的志怪小说集，收录三百多篇短篇故事，涵盖鬼神、精怪、奇人、幻术四大主题。袁枚以近乎新闻报道的冷静笔调，记录民间口耳相传的奇闻异事，既保留了古人对神秘世界的想象，也隐晦地讽刺社会现实、批判贪官污吏、表达对边缘群体的同情。这部书与《聊斋志异》齐名，但风格更加朴素随意，是研究清代民间信仰、风俗习惯和价值观念的重要文献。</itunes:summary>
+      <itunes:duration>00:48:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-d8181a.mp3" length="46192941" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
