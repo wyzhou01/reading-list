@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 03:31:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 03:38:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21715,6 +21715,17 @@
       <itunes:duration>00:26:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-f73edb.mp3" length="25769133" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《山中的糖果》 · 完整版 · 山中的糖果_-_邓安庆 · 完整讲读</title>
+      <description>《山中的糖果》是邓安庆写给所有离乡者的散文集。全书分亲人记、世间记、回乡记三辑，以湖北长江边小村庄为起点，写姑姑的冻疮与米汤、写漂泊中的陌生人、写一次次回家看到父母衰老的痛。没有宏大叙事，只有最朴素柔软的笔触，写出乡村女性的肉身苦难、游子的身份撕裂，以及「每一次回家都像一次告别」的不可逆之失。这本书不是写给某一个村庄的，而是写给所有回不去的人——写给每一个在异乡闻到饭香会心口疼的人，每一个拨了一半电话又挂掉的人，每一个发现自己在父母家已是客人的人。</description>
+      <pubDate>Wed, 30 Sep 2026 03:38:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260929-episode-20260929-be8a07</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《山中的糖果》是邓安庆写给所有离乡者的散文集。全书分亲人记、世间记、回乡记三辑，以湖北长江边小村庄为起点，写姑姑的冻疮与米汤、写漂泊中的陌生人、写一次次回家看到父母衰老的痛。没有宏大叙事，只有最朴素柔软的笔触，写出乡村女性的肉身苦难、游子的身份撕裂，以及「每一次回家都像一次告别」的不可逆之失。这本书不是写给某一个村庄的，而是写给所有回不去的人——写给每一个在异乡闻到饭香会心口疼的人，每一个拨了一半电话又挂掉的人，每一个发现自己在父母家已是客人的人。</itunes:summary>
+      <itunes:duration>00:33:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-be8a07.mp3" length="31700397" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
