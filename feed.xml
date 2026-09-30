@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 03:17:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 03:20:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21649,6 +21649,17 @@
       <itunes:duration>00:23:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-eb05ad.mp3" length="22856109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《宋词素描》 · 完整版 · 宋词素描_-_曾冬 · 完整讲读</title>
+      <description>《宋词素描》是曾冬对近百首经典宋词进行的散文再创作。从王禹偁到吴文英，覆盖宋词三百年历程。作者不翻译，只&apos;重建现场&apos;——把原词的意象延展成有画面、有声音、有温度的完整场景。婉约与豪放在这本书里不是两套风格，而是同一个灵魂在面对不同处境时的两种声音。最终，曾冬让宋词从&apos;课本里的诗&apos;，重新走成了&apos;日子里的心事&apos;。</description>
+      <pubDate>Wed, 30 Sep 2026 03:20:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260929-episode-20260929-191c41</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《宋词素描》是曾冬对近百首经典宋词进行的散文再创作。从王禹偁到吴文英，覆盖宋词三百年历程。作者不翻译，只&apos;重建现场&apos;——把原词的意象延展成有画面、有声音、有温度的完整场景。婉约与豪放在这本书里不是两套风格，而是同一个灵魂在面对不同处境时的两种声音。最终，曾冬让宋词从&apos;课本里的诗&apos;，重新走成了&apos;日子里的心事&apos;。</itunes:summary>
+      <itunes:duration>00:34:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-191c41.mp3" length="32908461" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
