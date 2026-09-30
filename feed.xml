@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 03:22:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 03:22:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21682,6 +21682,17 @@
       <itunes:duration>00:36:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-fe7139.mp3" length="34921005" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《博尔赫斯诗选（陈东彪译）》 · 完整版 · 博尔赫斯诗选_-_陈东彪译 · 完整讲读</title>
+      <description>本节目系统解读陈东彪中译《博尔赫斯诗选》，覆盖诗人一九二三年至一九六七年共一百零二首作品的完整脉络。从双语成长的家族背景、一九一四年旅欧的战争流亡，到一九三八年失明的转折、再到一九六七年与迪·乔瓦尼合作英译选集的晚年定本，节目勾勒出诗人四十四年的写作全景。围绕镜子、迷宫、经典对话与失明四个核心意象，剖析博尔赫斯如何从早期极端主义的巴罗克炫技，转向素朴透明的晚年诗风；如何把时间从河流改写成迷宫，把经典从供在书架上的范本改为同桌喝咖啡的对手；如何用失明把世界从外部搬进内部，逼出一种极度透明的口述诗艺。最终呈现一个被小说名声长期遮蔽的诗人博尔赫斯——一个用四十四年反复改写同一本诗集、用素朴的比喻与时间较量的人。</description>
+      <pubDate>Wed, 30 Sep 2026 03:22:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260929-episode-20260929-ea9978</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本节目系统解读陈东彪中译《博尔赫斯诗选》，覆盖诗人一九二三年至一九六七年共一百零二首作品的完整脉络。从双语成长的家族背景、一九一四年旅欧的战争流亡，到一九三八年失明的转折、再到一九六七年与迪·乔瓦尼合作英译选集的晚年定本，节目勾勒出诗人四十四年的写作全景。围绕镜子、迷宫、经典对话与失明四个核心意象，剖析博尔赫斯如何从早期极端主义的巴罗克炫技，转向素朴透明的晚年诗风；如何把时间从河流改写成迷宫，把经典从供在书架上的范本改为同桌喝咖啡的对手；如何用失明把世界从外部搬进内部，逼出一种极度透明的口述诗艺。最终呈现一个被小说名声长期遮蔽的诗人博尔赫斯——一个用四十四年反复改写同一本诗集、用素朴的比喻与时间较量的人。</itunes:summary>
+      <itunes:duration>00:30:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-ea9978.mp3" length="29437101" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
