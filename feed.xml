@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 16:35:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:38:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22025,6 +22025,17 @@
       <itunes:duration>00:37:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-7dc7f1.mp3" length="35881389" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《弗兰克斯坦(当代的普罗米修斯)》 · 完整版 · 弗兰克斯坦(当代的普罗米修斯)(外研社双语读库) · 完整讲读</title>
+      <description>《弗兰克斯坦，或当代的普罗米修斯》是玛丽·沃斯通克拉夫特·雪莱一八一八年发表的长篇小说，被公认为世界上第一部真正意义上的科幻小说。全书由三条叙述线交织而成：北极探险家沃尔顿写给姐姐的信、科学家维克多·弗兰克斯坦对自己造人过程的回忆、以及被造出来的怪物讲述自己如何学会语言、渴望被接纳、最终堕入仇恨与毁灭的故事。玛丽写这部小说时年仅十九岁，灵感源自一八一六年夏天在日内瓦与拜伦、雪莱等人围炉讲鬼故事的夜晚，以及她随后做的一个关于一个苍白学者跪在自己造物面前的噩梦。小说借古希腊普罗米修斯偷火的神话，质问科学僭越的边界、造物者的伦理责任、被抛弃者的悲剧命运，以及创造与被创造之间那种不可逃避的镜像关系。两百年过去，这部小说依然是人工智能、基因编辑、合成生物学等当代科技绕不过去的伦理寓言。</description>
+      <pubDate>Wed, 30 Sep 2026 16:38:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260930-episode-20260930-d56397</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《弗兰克斯坦，或当代的普罗米修斯》是玛丽·沃斯通克拉夫特·雪莱一八一八年发表的长篇小说，被公认为世界上第一部真正意义上的科幻小说。全书由三条叙述线交织而成：北极探险家沃尔顿写给姐姐的信、科学家维克多·弗兰克斯坦对自己造人过程的回忆、以及被造出来的怪物讲述自己如何学会语言、渴望被接纳、最终堕入仇恨与毁灭的故事。玛丽写这部小说时年仅十九岁，灵感源自一八一六年夏天在日内瓦与拜伦、雪莱等人围炉讲鬼故事的夜晚，以及她随后做的一个关于一个苍白学者跪在自己造物面前的噩梦。小说借古希腊普罗米修斯偷火的神话，质问科学僭越的边界、造物者的伦理责任、被抛弃者的悲剧命运，以及创造与被创造之间那种不可逃避的镜像关系。两百年过去，这部小说依然是人工智能、基因编辑、合成生物学等当代科技绕不过去的伦理寓言。</itunes:summary>
+      <itunes:duration>00:47:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-d56397.mp3" length="45295149" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
