@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 16:23:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:24:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21937,6 +21937,17 @@
       <itunes:duration>00:22:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-d6bac4.mp3" length="21646893" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《汉尼拔》 · 完整版 · 汉尼拔_-_（美）托马斯哈里斯 · 完整讲读</title>
+      <description>《汉尼拔》是托马斯·哈里斯的第三部莱克特小说，时间线紧接《沉默的羔羊》。史达琳已成 FBI 王牌，却被腐败上司停职缴枪；财阀梅森·韦尔热因八年前被莱克特博士毁容，调动黑帮、警察、司法三层力量跨国围猎。史达琳在最后关头闯入活人喂猪的现场，反被莱克特救走，两人从追捕者与逃犯，变成逃亡路上的情人。哈里斯借这出黑暗寓言，揭露美国 FBI、司法部、意大利警界与学术界的黑幕，拷问制度之恶、金钱之恶与童年创伤之恶孰更可怕，最终指向一个温柔的答案：最深最深的救赎，是被允许忘掉；一个被碾过的人，依然保有不出卖的能力，这才是人之为人的最后一道底线。</description>
+      <pubDate>Wed, 30 Sep 2026 16:24:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260930-episode-20260930-4c1317</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《汉尼拔》是托马斯·哈里斯的第三部莱克特小说，时间线紧接《沉默的羔羊》。史达琳已成 FBI 王牌，却被腐败上司停职缴枪；财阀梅森·韦尔热因八年前被莱克特博士毁容，调动黑帮、警察、司法三层力量跨国围猎。史达琳在最后关头闯入活人喂猪的现场，反被莱克特救走，两人从追捕者与逃犯，变成逃亡路上的情人。哈里斯借这出黑暗寓言，揭露美国 FBI、司法部、意大利警界与学术界的黑幕，拷问制度之恶、金钱之恶与童年创伤之恶孰更可怕，最终指向一个温柔的答案：最深最深的救赎，是被允许忘掉；一个被碾过的人，依然保有不出卖的能力，这才是人之为人的最后一道底线。</itunes:summary>
+      <itunes:duration>00:36:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-4c1317.mp3" length="34936365" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
