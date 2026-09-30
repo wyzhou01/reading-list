@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 03:22:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 03:22:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21671,6 +21671,17 @@
       <itunes:duration>00:32:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-c2a431.mp3" length="31533357" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《闻香榭2：玉露无心》 · 完整版 · 闻香榭2：玉露无心 · 完整讲读</title>
+      <description>《闻香榭2:玉露无心》以唐代神都洛阳为舞台,讲述胭脂铺子闻香榭的老板娘婉娘,携小伙计方沫儿、文清及黄三,被卷入一场横跨十二年的阴谋。表面是龙门老汉撞见龙王、邙岭少女小桃约会时化为白骨两桩怪事,实则是世袭开国侯鳌公为汲取水族灵力、控制洛阳米行而制造天灾;其背后是水族为跃龙门付出的牺牲,以及逴龙文因以十二年锁龙潭冰火煎熬换取苍生平安的代价。全书以千年雪莲灵虚露、灵虚镜等香道灵力为兵器,在古风灵异与悬疑温情之间,写就了一则关于善恶因果、牺牲救赎与迟来相认的东方故事。</description>
+      <pubDate>Wed, 30 Sep 2026 03:22:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260929-episode-20260929-fe7139</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《闻香榭2:玉露无心》以唐代神都洛阳为舞台,讲述胭脂铺子闻香榭的老板娘婉娘,携小伙计方沫儿、文清及黄三,被卷入一场横跨十二年的阴谋。表面是龙门老汉撞见龙王、邙岭少女小桃约会时化为白骨两桩怪事,实则是世袭开国侯鳌公为汲取水族灵力、控制洛阳米行而制造天灾;其背后是水族为跃龙门付出的牺牲,以及逴龙文因以十二年锁龙潭冰火煎熬换取苍生平安的代价。全书以千年雪莲灵虚露、灵虚镜等香道灵力为兵器,在古风灵异与悬疑温情之间,写就了一则关于善恶因果、牺牲救赎与迟来相认的东方故事。</itunes:summary>
+      <itunes:duration>00:36:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-fe7139.mp3" length="34921005" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
