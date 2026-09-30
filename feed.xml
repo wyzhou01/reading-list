@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 16:32:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:33:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22003,6 +22003,17 @@
       <itunes:duration>00:27:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-276ffe.mp3" length="26400045" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《共悟红楼》 · 完整版 · 共悟红楼_-_刘再复 · 完整讲读</title>
+      <description>《共悟红楼》是刘再复与女儿刘剑梅关于《红楼梦》的长篇对话录。书中提出&quot;红楼归位&quot;，主张把研究从历史学、考古学拉回文学与心灵本身。其核心洞见包括：以&quot;悟证&quot;超越&quot;考证&quot;的阅读法门；&quot;青春本体&quot;论，把少女生命视为《红楼梦》的最高价值；围绕&quot;女儿性&quot;与&quot;女人性&quot;的女性主义反思；曹雪芹作为&quot;荒诞哲学家&quot;的现代哲学内涵；以及曹雪芹与陀思妥耶夫斯基的灵魂对照，揭示&quot;拯救&quot;与&quot;逍遥&quot;两种不同的精神出路。全书既是一部红学新作，也是一位流亡学者的精神自传。</description>
+      <pubDate>Wed, 30 Sep 2026 16:33:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260930-episode-20260930-3814d6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《共悟红楼》是刘再复与女儿刘剑梅关于《红楼梦》的长篇对话录。书中提出&quot;红楼归位&quot;，主张把研究从历史学、考古学拉回文学与心灵本身。其核心洞见包括：以&quot;悟证&quot;超越&quot;考证&quot;的阅读法门；&quot;青春本体&quot;论，把少女生命视为《红楼梦》的最高价值；围绕&quot;女儿性&quot;与&quot;女人性&quot;的女性主义反思；曹雪芹作为&quot;荒诞哲学家&quot;的现代哲学内涵；以及曹雪芹与陀思妥耶夫斯基的灵魂对照，揭示&quot;拯救&quot;与&quot;逍遥&quot;两种不同的精神出路。全书既是一部红学新作，也是一位流亡学者的精神自传。</itunes:summary>
+      <itunes:duration>00:31:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-3814d6.mp3" length="30459693" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
