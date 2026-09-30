@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 16:24:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:25:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21948,6 +21948,17 @@
       <itunes:duration>00:36:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-4c1317.mp3" length="34936365" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《货币哲学》 · 完整版 · 货币哲学（全三册） · 完整讲读</title>
+      <description>《货币哲学》是德国社会学家格奥尔格·西梅尔一九零零年写就的文化社会学巨著。本期节目从现代人的孤独、关系的脆弱与文化的同质化出发，剖析西梅尔的核心洞见：货币不只是经济工具，更是塑造人际关系、生活风格、价值秩序与精神世界的结构性力量。它带来自由的承诺，也带来主体性的折算；它夷平差异，也夷平深度。西梅尔提醒我们，在货币逻辑无处不在的时代，唯有主动保持心理距离，守住那些不能被折算之物，人才不致被价格彻底定义。</description>
+      <pubDate>Wed, 30 Sep 2026 16:25:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260930-episode-20260930-f65ad0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《货币哲学》是德国社会学家格奥尔格·西梅尔一九零零年写就的文化社会学巨著。本期节目从现代人的孤独、关系的脆弱与文化的同质化出发，剖析西梅尔的核心洞见：货币不只是经济工具，更是塑造人际关系、生活风格、价值秩序与精神世界的结构性力量。它带来自由的承诺，也带来主体性的折算；它夷平差异，也夷平深度。西梅尔提醒我们，在货币逻辑无处不在的时代，唯有主动保持心理距离，守住那些不能被折算之物，人才不致被价格彻底定义。</itunes:summary>
+      <itunes:duration>00:27:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-f65ad0.mp3" length="26448429" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
