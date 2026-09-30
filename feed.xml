@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 16:19:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:23:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21926,6 +21926,17 @@
       <itunes:duration>00:31:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-450033.mp3" length="30152493" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《莎士比亚悲剧选》 · 完整版 · 莎士比亚悲剧选--封面是历史剧选 · 完整讲读</title>
+      <description>说不尽的莎士比亚。本书精选《罗密欧与朱丽叶》《汉姆莱脱》《奥瑟罗》《李尔王》《麦克佩斯》五部悲剧，由朱生豪移译，方平先生撰写长序。从青春与家族的撕裂，到迟疑与复仇的吞噬，从嫉妒对信任的绞杀，到权力对自我的腐蚀，再到野心失控后的疯狂——莎翁用诗的语言，把人性最深处的挣扎写得透彻。四百多年过去，他的悲剧仍是照见我们自己的镜子。翻开这本书，是打开自己心里一个房间。</description>
+      <pubDate>Wed, 30 Sep 2026 16:23:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260930-episode-20260930-d6bac4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>说不尽的莎士比亚。本书精选《罗密欧与朱丽叶》《汉姆莱脱》《奥瑟罗》《李尔王》《麦克佩斯》五部悲剧，由朱生豪移译，方平先生撰写长序。从青春与家族的撕裂，到迟疑与复仇的吞噬，从嫉妒对信任的绞杀，到权力对自我的腐蚀，再到野心失控后的疯狂——莎翁用诗的语言，把人性最深处的挣扎写得透彻。四百多年过去，他的悲剧仍是照见我们自己的镜子。翻开这本书，是打开自己心里一个房间。</itunes:summary>
+      <itunes:duration>00:22:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-d6bac4.mp3" length="21646893" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
