@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 16:31:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:32:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21992,6 +21992,17 @@
       <itunes:duration>00:34:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-b28708.mp3" length="33530925" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《爱恨不如期：遗世独立张爱玲》 · 完整版 · 爱恨不如期 · 完整讲读</title>
+      <description>本期以张爱玲文学研究者月下的《爱恨不如期：遗世独立张爱玲》为底本，用九十分钟时间，把张爱玲拆成六块拼图：宿命、选择、纯粹、苍凉、孤独、被背叛的遗嘱。从《倾城之恋》写到了《小团圆》，从二十三岁的上海写到了七十五岁的洛杉矶。九十五年前她看见的世界，今天我们还在看；九十五年前她戳穿的人心，今天我们还在被戳穿。这，就是纯粹的胜利。</description>
+      <pubDate>Wed, 30 Sep 2026 16:32:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260930-episode-20260930-276ffe</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期以张爱玲文学研究者月下的《爱恨不如期：遗世独立张爱玲》为底本，用九十分钟时间，把张爱玲拆成六块拼图：宿命、选择、纯粹、苍凉、孤独、被背叛的遗嘱。从《倾城之恋》写到了《小团圆》，从二十三岁的上海写到了七十五岁的洛杉矶。九十五年前她看见的世界，今天我们还在看；九十五年前她戳穿的人心，今天我们还在被戳穿。这，就是纯粹的胜利。</itunes:summary>
+      <itunes:duration>00:27:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-276ffe.mp3" length="26400045" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
