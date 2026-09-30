@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 16:16:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:17:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21904,6 +21904,17 @@
       <itunes:duration>00:35:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-b420f8.mp3" length="33665325" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《瑕疵》 · 完整版 · 瑕疵 · 完整讲读</title>
+      <description>《瑕疵》是寐语者风格的都市情感长篇，讲女主胡佳瑶在名存实亡的商业联姻中隐忍蛰伏，亲手把公司推上市，挣脱病态婚姻，最终与真爱姜梵修成正果并生下三胞胎。全文八十六章，把婚姻里的隐忍、商场上的博弈、女性的自我觉醒三条线拧成一股，写出一个普通女人如何不靠任何男人、只靠自己的咬牙撑过去，活成自己答案的故事。</description>
+      <pubDate>Wed, 30 Sep 2026 16:16:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260930-episode-20260930-17935f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《瑕疵》是寐语者风格的都市情感长篇，讲女主胡佳瑶在名存实亡的商业联姻中隐忍蛰伏，亲手把公司推上市，挣脱病态婚姻，最终与真爱姜梵修成正果并生下三胞胎。全文八十六章，把婚姻里的隐忍、商场上的博弈、女性的自我觉醒三条线拧成一股，写出一个普通女人如何不靠任何男人、只靠自己的咬牙撑过去，活成自己答案的故事。</itunes:summary>
+      <itunes:duration>00:26:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-17935f.mp3" length="25320621" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
