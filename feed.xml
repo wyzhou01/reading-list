@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 02:45:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 02:46:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21429,6 +21429,17 @@
       <itunes:duration>00:24:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-6151b3.mp3" length="23114925" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《光在地球之时……⑦「空蝉」》 · 完整版 · [野村美月].光在地球之时……⑦「空蝉」 · 完整讲读</title>
+      <description>《光在地球之时》第七集《空蝉》：已变成幽灵的少年光，与挚友是光一同拜访教会，想要解开深爱的义母藤乃对他的真实心意。在那里，他们遇见了左眼角有泪痣、自称怀了天使之子的清秀少女蝉谷空。一面要保护空与她的孩子，一面要面对学校里四起的流言，一面还要去探寻光死亡的真相。禁忌之恋、独自孕育的新生命、被隐瞒的死亡真相，三条线交织成一首关于「不知道」与「守护」的哀歌。</description>
+      <pubDate>Wed, 30 Sep 2026 02:46:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260929-episode-20260929-236e07</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《光在地球之时》第七集《空蝉》：已变成幽灵的少年光，与挚友是光一同拜访教会，想要解开深爱的义母藤乃对他的真实心意。在那里，他们遇见了左眼角有泪痣、自称怀了天使之子的清秀少女蝉谷空。一面要保护空与她的孩子，一面要面对学校里四起的流言，一面还要去探寻光死亡的真相。禁忌之恋、独自孕育的新生命、被隐瞒的死亡真相，三条线交织成一首关于「不知道」与「守护」的哀歌。</itunes:summary>
+      <itunes:duration>00:28:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-236e07.mp3" length="27236781" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
