@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 16:41:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:43:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22058,6 +22058,17 @@
       <itunes:duration>00:38:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-c23432.mp3" length="37377837" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《辞职，去旅行！》 · 完整版 · 辞职，去旅行！-蔻蔻梁 · 完整讲读</title>
+      <description>《辞职，去旅行！》是前媒体人蔻蔻梁在二零零九年晕倒住院后写下的一部嬉笑怒骂型旅行文学。她用一辆原装进口甲壳虫的钱换来的一百二十万字，记录了从欧洲到莫斯科、再到环球八十天的真实狼狈与英雄主义。这本书不讲攻略、不画大饼，只示范了一个普通上班族如何从坏旅伴的围剿、时刻表的暴击、智商的摩擦中杀出来，并用嬉笑怒骂把自己重新装回去。如果你也困在格子间里，又还没迈出第一步，这本书就是给你的。</description>
+      <pubDate>Wed, 30 Sep 2026 16:43:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260930-episode-20260930-8ca1eb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《辞职，去旅行！》是前媒体人蔻蔻梁在二零零九年晕倒住院后写下的一部嬉笑怒骂型旅行文学。她用一辆原装进口甲壳虫的钱换来的一百二十万字，记录了从欧洲到莫斯科、再到环球八十天的真实狼狈与英雄主义。这本书不讲攻略、不画大饼，只示范了一个普通上班族如何从坏旅伴的围剿、时刻表的暴击、智商的摩擦中杀出来，并用嬉笑怒骂把自己重新装回去。如果你也困在格子间里，又还没迈出第一步，这本书就是给你的。</itunes:summary>
+      <itunes:duration>00:29:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-8ca1eb.mp3" length="28729389" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
