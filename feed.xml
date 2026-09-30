@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 16:17:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:19:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21915,6 +21915,17 @@
       <itunes:duration>00:26:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-17935f.mp3" length="25320621" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大机场》 · 完整版 · 大机场 · 完整讲读</title>
+      <description>《大机场》是作家周明生耗时十年走访考证后写就的抗战大后方草根群像志。故事以一九四四年的四川新津为背景，二十万川蜀民工为给美军 B 二九 战略轰炸机修建跑道，在九十个工日内，以锄头、扁担、鸡公车硬生生推出万亩跑道。小说把镜头压到泥土之上，聚焦烟贩小翠、女学生孙静姝、民工熊莽娃儿、袍哥中队长黑旋风这些最不起眼的人物，在他们身上呈现袍哥江湖与民族大义的撕裂、中美并肩抗日背后跨越文化的碰撞与默契，以及日机轰炸下&apos;明天再压&apos;的草根韧性。它填补了抗战题材中大后方机场修建的空白，告诉我们：一个民族被逼到悬崖边上时，撑住它的从来不是九霄云外的传奇，而是川西坝子每一锹黄土里默默扛起的脊梁。</description>
+      <pubDate>Wed, 30 Sep 2026 16:19:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260930-episode-20260930-450033</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大机场》是作家周明生耗时十年走访考证后写就的抗战大后方草根群像志。故事以一九四四年的四川新津为背景，二十万川蜀民工为给美军 B 二九 战略轰炸机修建跑道，在九十个工日内，以锄头、扁担、鸡公车硬生生推出万亩跑道。小说把镜头压到泥土之上，聚焦烟贩小翠、女学生孙静姝、民工熊莽娃儿、袍哥中队长黑旋风这些最不起眼的人物，在他们身上呈现袍哥江湖与民族大义的撕裂、中美并肩抗日背后跨越文化的碰撞与默契，以及日机轰炸下&apos;明天再压&apos;的草根韧性。它填补了抗战题材中大后方机场修建的空白，告诉我们：一个民族被逼到悬崖边上时，撑住它的从来不是九霄云外的传奇，而是川西坝子每一锹黄土里默默扛起的脊梁。</itunes:summary>
+      <itunes:duration>00:31:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-450033.mp3" length="30152493" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
