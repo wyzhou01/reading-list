@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 03:03:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 03:05:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21550,6 +21550,17 @@
       <itunes:duration>00:22:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-71b0fc.mp3" length="21489069" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《通往印度次大陆》 · 完整版 · 通往印度次大陆_-_[德]赫尔曼·黑塞 · 完整讲读</title>
+      <description>《通往印度次大陆》是德国作家赫尔曼·黑塞一九一一年乘船前往亚洲时写下的旅行散文集。从热那亚出发，途经苏伊士、锡兰、苏门答腊、新加坡、印度尼西亚，黑塞用诗化的语言记录了椰林、月光与殖民港口的喧嚣，也记录下一个欧洲知识分子的精神流放。漂泊者与定居者谁更自由？凝视者与被凝视者之间隔着什么？家乡是地图上的一个点，还是你正在投入的那件事？黑塞在海上反复叩问这些问题，并借一位勘探工程师之口给出了答案：家乡只存在于你工作并从事有价值之事的地方。一本关于漂泊与归属、东方与西方、凝视与自省的经典旅行随笔。</description>
+      <pubDate>Wed, 30 Sep 2026 03:05:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260929-episode-20260929-b230bd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《通往印度次大陆》是德国作家赫尔曼·黑塞一九一一年乘船前往亚洲时写下的旅行散文集。从热那亚出发，途经苏伊士、锡兰、苏门答腊、新加坡、印度尼西亚，黑塞用诗化的语言记录了椰林、月光与殖民港口的喧嚣，也记录下一个欧洲知识分子的精神流放。漂泊者与定居者谁更自由？凝视者与被凝视者之间隔着什么？家乡是地图上的一个点，还是你正在投入的那件事？黑塞在海上反复叩问这些问题，并借一位勘探工程师之口给出了答案：家乡只存在于你工作并从事有价值之事的地方。一本关于漂泊与归属、东方与西方、凝视与自省的经典旅行随笔。</itunes:summary>
+      <itunes:duration>00:23:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-b230bd.mp3" length="22832685" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
