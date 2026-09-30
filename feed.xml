@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 16:14:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:16:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21882,6 +21882,17 @@
       <itunes:duration>00:26:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-40302e.mp3" length="25827501" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《谈谈方法》 · 完整版 · 谈谈方法_(汉译世界学术名著丛书)_-_笛卡尔 · 完整讲读</title>
+      <description>《谈谈方法》是笛卡尔一六三七年以法文写成的自传式方法论小册子，副标题为&apos;谈谈正确运用自己的理性在各门学问里寻求真理的方法&apos;。全书六万字，分六部分，附《几何学》《折光学》《气象学》三篇科学附录。笛卡尔以自身经历为线索，先提出四条方法规则：接受清楚明白的真理、从最复杂处分解到最简单处、由简到繁逐步重建、全部过堂不留死角。他随后以三十年战争中的军旅生活与三大样本（道德学、医学、法学）为经验基础，指出传统学问之不可靠，转而提出普遍怀疑的方法论——&apos;在一生中有一次对一切稍有可疑之处的事情统统加以怀疑&apos;，目的是把浮土和沙子挖掉，露出下面的磐石。怀疑到底，他发现撼不掉的事实是&apos;我正在怀疑&apos;本身，由此得出&apos;我思故我在&apos;这一不可怀疑的基点，确立主体性哲学的奠基礼。在此基础上他划分了心灵与形体两种实体，前者属性是思想，后者属性是广延，由此确立心物二元论，并以此为骨架勾画出整个近代科学的机械论蓝图。最后他以上帝的存在证明（本体论证明与因果证明）为心物之间的桥梁，但这位上帝已非中世纪行奇迹的统治者，而是科学可靠性的担保人、天意的化身、自然规律的别名。全书既是近代哲学的宣言书，也是近代科学世界观的第一张完整图纸，深刻塑造了此后四百年的主体性、理性主义、二元论与科学方法论。</description>
+      <pubDate>Wed, 30 Sep 2026 16:16:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260930-episode-20260930-e231ec</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《谈谈方法》是笛卡尔一六三七年以法文写成的自传式方法论小册子，副标题为&apos;谈谈正确运用自己的理性在各门学问里寻求真理的方法&apos;。全书六万字，分六部分，附《几何学》《折光学》《气象学》三篇科学附录。笛卡尔以自身经历为线索，先提出四条方法规则：接受清楚明白的真理、从最复杂处分解到最简单处、由简到繁逐步重建、全部过堂不留死角。他随后以三十年战争中的军旅生活与三大样本（道德学、医学、法学）为经验基础，指出传统学问之不可靠，转而提出普遍怀疑的方法论——&apos;在一生中有一次对一切稍有可疑之处的事情统统加以怀疑&apos;，目的是把浮土和沙子挖掉，露出下面的磐石。怀疑到底，他发现撼不掉的事实是&apos;我正在怀疑&apos;本身，由此得出&apos;我思故我在&apos;这一不可怀疑的基点，确立主体性哲学的奠基礼。在此基础上他划分了心灵与形体两种实体，前者属性是思想，后者属性是广延，由此确立心物二元论，并以此为骨架勾画出整个近代科学的机械论蓝图。最后他以上帝的存在证明（本体论证明与因果证明）为心物之间的桥梁，但这位上帝已非中世纪行奇迹的统治者，而是科学可靠性的担保人、天意的化身、自然规律的别名。全书既是近代哲学的宣言书，也是近代科学世界观的第一张完整图纸，深刻塑造了此后四百年的主体性、理性主义、二元论与科学方法论。</itunes:summary>
+      <itunes:duration>00:32:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-e231ec.mp3" length="31657389" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
