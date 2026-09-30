@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 16:16:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:16:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21893,6 +21893,17 @@
       <itunes:duration>00:32:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-e231ec.mp3" length="31657389" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《汉人》 · 完整版 · 汉人_-_肖仁福 · 完整讲读</title>
+      <description>《汉人》是湖南作家肖仁福创作的一部历史小说，以汉武帝元狩二年霍光在平阳城初遇兄长霍去病为起点，跨越近六十年，一直写到汉宣帝中兴。全书围绕寒门子弟霍光的一生，通过他如何凭能力与机遇位极人臣、辅佐昭帝、废昌邑王、立宣帝、创造昭宣盛世等重大事件，重新回答了一个文化命题——咱们为什么叫汉人。肖仁福在后记中点明，霍光身上体现了汉朝真正的时代精神：没有高贵血统、没有显赫家世，凭能力和忠诚就能位极人臣。汉朝第一次让草根百姓看到了自身的价值，让&quot;将相本无种&quot;从梦想变成现实。然而霍光死后满门被斩，让作者在书写这份辉煌时充满惶恐与不安。</description>
+      <pubDate>Wed, 30 Sep 2026 16:16:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260930-episode-20260930-b420f8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《汉人》是湖南作家肖仁福创作的一部历史小说，以汉武帝元狩二年霍光在平阳城初遇兄长霍去病为起点，跨越近六十年，一直写到汉宣帝中兴。全书围绕寒门子弟霍光的一生，通过他如何凭能力与机遇位极人臣、辅佐昭帝、废昌邑王、立宣帝、创造昭宣盛世等重大事件，重新回答了一个文化命题——咱们为什么叫汉人。肖仁福在后记中点明，霍光身上体现了汉朝真正的时代精神：没有高贵血统、没有显赫家世，凭能力和忠诚就能位极人臣。汉朝第一次让草根百姓看到了自身的价值，让&quot;将相本无种&quot;从梦想变成现实。然而霍光死后满门被斩，让作者在书写这份辉煌时充满惶恐与不安。</itunes:summary>
+      <itunes:duration>00:35:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-b420f8.mp3" length="33665325" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
