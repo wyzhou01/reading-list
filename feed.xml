@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 03:20:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 03:22:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21660,6 +21660,17 @@
       <itunes:duration>00:34:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-191c41.mp3" length="32908461" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《望古神话之《白蛇疾闻录》》 · 完整版 · 望古神话之《白蛇疾闻录》 · 完整讲读</title>
+      <description>《望古神话之白蛇疾闻录》把家喻户晓的白蛇传重新拆解，放进一个以&quot;乾&quot;为核心的神话宇宙。乾是人类集体意志的具现，把历史上的灭绝级灾难抽离为神话世界。千年后，临安瘟疫横行，被镇压的雄蛇即将复活，白素贞与许仙携手救世。书中探讨了规矩与逍遥的博弈、人妖共存的可能，以及牺牲与救赎的代价。最终，许仙与白素贞撑着一把破伞下山——救世的从来不是英雄，是那些愿意为一把破伞撑住的人。</description>
+      <pubDate>Wed, 30 Sep 2026 03:22:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260929-episode-20260929-c2a431</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《望古神话之白蛇疾闻录》把家喻户晓的白蛇传重新拆解，放进一个以&quot;乾&quot;为核心的神话宇宙。乾是人类集体意志的具现，把历史上的灭绝级灾难抽离为神话世界。千年后，临安瘟疫横行，被镇压的雄蛇即将复活，白素贞与许仙携手救世。书中探讨了规矩与逍遥的博弈、人妖共存的可能，以及牺牲与救赎的代价。最终，许仙与白素贞撑着一把破伞下山——救世的从来不是英雄，是那些愿意为一把破伞撑住的人。</itunes:summary>
+      <itunes:duration>00:32:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-c2a431.mp3" length="31533357" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
