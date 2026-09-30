@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 03:43:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 03:44:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21737,6 +21737,41 @@
       <itunes:duration>00:14:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-4d1904.mp3" length="14098221" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《江湖三十年2》 · 完整版 · 江湖三十年2_(江湖三十年系列)_-_李幺傻 · 完整讲读</title>
+      <description>《江湖三十年》第二卷，李幺傻著，二零一五年六月由中国友谊出版公司发行。
+
+本书以第一人称回忆录的形式，记录了作者少年时被拐卖、逃出后流落江湖的真实经历。
+
+故事发生在中国最动荡的年代：军阀混战，日军入侵，土匪横行。
+
+书中既有深山老林中的生死逃亡——用马蜂窝当武器、用蜘蛛当诱饵抓鸡、靠七根火柴撑过整个冬天；
+
+也有镖客押镖途中与日军周旋的家国往事。
+
+这不是武侠小说里的快意恩仇，是真实的血腥与算计。
+
+这是一个少年在乱世中，被迫长大的全过程。</description>
+      <pubDate>Wed, 30 Sep 2026 03:44:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260929-episode-20260929-525e55</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《江湖三十年》第二卷，李幺傻著，二零一五年六月由中国友谊出版公司发行。
+
+本书以第一人称回忆录的形式，记录了作者少年时被拐卖、逃出后流落江湖的真实经历。
+
+故事发生在中国最动荡的年代：军阀混战，日军入侵，土匪横行。
+
+书中既有深山老林中的生死逃亡——用马蜂窝当武器、用蜘蛛当诱饵抓鸡、靠七根火柴撑过整个冬天；
+
+也有镖客押镖途中与日军周旋的家国往事。
+
+这不是武侠小说里的快意恩仇，是真实的血腥与算计。
+
+这是一个少年在乱世中，被迫长大的全过程。</itunes:summary>
+      <itunes:duration>00:34:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-525e55.mp3" length="33309741" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
