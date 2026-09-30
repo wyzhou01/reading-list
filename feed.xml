@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 16:45:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:47:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22091,6 +22091,17 @@
       <itunes:duration>00:25:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-00078a.mp3" length="24902829" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《红龙》 · 完整版 · 红龙_-_（美）托马斯·哈里斯 · 完整讲读</title>
+      <description>《红龙》是托马斯·哈里斯一九八一年的犯罪小说，也是汉尼拔·莱克特系列的第一部。退隐的FBI探员威尔·格雷厄姆被老上司杰克·克劳福德从佛罗里达召回，重新进入那个他曾经差点死在里面的精神世界，去追捕一个在满月夜屠戮两户家庭的连环杀手&quot;牙仙&quot;。格雷厄姆靠着能钻进凶手思维的能力一步步逼近真凶，却不得不再次向关在巴尔的摩最高级别牢房里的精神病学博士汉尼拔·莱克特求援，由此付出了一道贯穿腹部的旧疤、家庭的撕裂，以及再也没能真正回到阳光下船厂修理发动机的余生。本书真正的主角不是凶手，不是英雄，而是被所有人当成工具使用的莱克特——他是主考官，考的是每一个人敢不敢直视自己心里那一滴与怪物共生的血。</description>
+      <pubDate>Wed, 30 Sep 2026 16:47:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260930-episode-20260930-d30d8e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《红龙》是托马斯·哈里斯一九八一年的犯罪小说，也是汉尼拔·莱克特系列的第一部。退隐的FBI探员威尔·格雷厄姆被老上司杰克·克劳福德从佛罗里达召回，重新进入那个他曾经差点死在里面的精神世界，去追捕一个在满月夜屠戮两户家庭的连环杀手&quot;牙仙&quot;。格雷厄姆靠着能钻进凶手思维的能力一步步逼近真凶，却不得不再次向关在巴尔的摩最高级别牢房里的精神病学博士汉尼拔·莱克特求援，由此付出了一道贯穿腹部的旧疤、家庭的撕裂，以及再也没能真正回到阳光下船厂修理发动机的余生。本书真正的主角不是凶手，不是英雄，而是被所有人当成工具使用的莱克特——他是主考官，考的是每一个人敢不敢直视自己心里那一滴与怪物共生的血。</itunes:summary>
+      <itunes:duration>00:31:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-d30d8e.mp3" length="30344493" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
