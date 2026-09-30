@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 03:11:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 03:11:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21594,6 +21594,17 @@
       <itunes:duration>00:28:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-a3f8eb.mp3" length="27416493" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《碎脸》 · 完整版 · 碎脸_-_鬼谷女 · 完整讲读</title>
+      <description>《碎脸——鬼谷女》以一座医学院为舞台，讲述了一九七七年至二零零四年间，围绕&quot;405宿舍十二女生坠楼案&quot;和那把镶嵌红黑钻石的宽背梳子，跨越两代人的悬疑往事。工农兵学员蒋育虹在解剖实验室一夜精神失常，此后月光、碎脸、美乐等符号缠绕着一代代医学生。女生欧阳倩为追寻真相主动入住 405，叶馨则在爱情与肿瘤面前经历生死。最终谜底指向一个被隐瞒了四十年的家族秘密，而贯穿全书的核心追问是：信与不信，究竟是不是生与死的分界线。</description>
+      <pubDate>Wed, 30 Sep 2026 03:11:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260929-episode-20260929-5fb586</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《碎脸——鬼谷女》以一座医学院为舞台，讲述了一九七七年至二零零四年间，围绕&quot;405宿舍十二女生坠楼案&quot;和那把镶嵌红黑钻石的宽背梳子，跨越两代人的悬疑往事。工农兵学员蒋育虹在解剖实验室一夜精神失常，此后月光、碎脸、美乐等符号缠绕着一代代医学生。女生欧阳倩为追寻真相主动入住 405，叶馨则在爱情与肿瘤面前经历生死。最终谜底指向一个被隐瞒了四十年的家族秘密，而贯穿全书的核心追问是：信与不信，究竟是不是生与死的分界线。</itunes:summary>
+      <itunes:duration>00:25:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-5fb586.mp3" length="24321069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
