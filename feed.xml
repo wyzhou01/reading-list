@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 02:48:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 02:49:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21462,6 +21462,17 @@
       <itunes:duration>00:25:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-23e21d.mp3" length="24627885" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《泰戈尔集(06)花钏女·泰戈尔戏剧选》 · 完整版 · 泰戈尔集(06)花钏女·泰戈尔戏剧选 · 完整讲读</title>
+      <description>《花钏女：泰戈尔戏剧选》收录泰戈尔一九一八至一九二六年间创作的六部代表性剧作：《花钏女》《牺牲》《摩克多塔拉》《国王》《邮局》《马丽妮》。从女扮男装的公主反追英雄阿周那，到寡妇在殉葬旧俗前的回望；从以瀑布之名直指殖民与种姓的象征剧，到理想君主砍断自己旗帜的觉醒之刃；从病中孩子给国王写信的童心绝响，到追问超越世俗之爱与母性的女性群像。泰戈尔以诗剧的形制，将爱欲觉醒与传统撕裂、个体自由与体制规训、童心相信与成人妥协的命题熔于一炉。这些写于百年之前的戏，今天读来依然像镜子，照出我们每个人身上那些尚未觉醒、仍在被旧俗规训、已经失去相信能力的部分。</description>
+      <pubDate>Wed, 30 Sep 2026 02:49:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260929-episode-20260929-20332e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《花钏女：泰戈尔戏剧选》收录泰戈尔一九一八至一九二六年间创作的六部代表性剧作：《花钏女》《牺牲》《摩克多塔拉》《国王》《邮局》《马丽妮》。从女扮男装的公主反追英雄阿周那，到寡妇在殉葬旧俗前的回望；从以瀑布之名直指殖民与种姓的象征剧，到理想君主砍断自己旗帜的觉醒之刃；从病中孩子给国王写信的童心绝响，到追问超越世俗之爱与母性的女性群像。泰戈尔以诗剧的形制，将爱欲觉醒与传统撕裂、个体自由与体制规训、童心相信与成人妥协的命题熔于一炉。这些写于百年之前的戏，今天读来依然像镜子，照出我们每个人身上那些尚未觉醒、仍在被旧俗规训、已经失去相信能力的部分。</itunes:summary>
+      <itunes:duration>00:16:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-20332e.mp3" length="15770541" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
