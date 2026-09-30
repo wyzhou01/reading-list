@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 03:38:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 03:43:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21726,6 +21726,17 @@
       <itunes:duration>00:33:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-be8a07.mp3" length="31700397" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《零年：1945》 · 完整版 · 零年：1945_(理想国译丛)_[荷]伊恩·布鲁玛 · 完整讲读</title>
+      <description>《零年：1945》全景呈现战后从欧洲至亚洲的情欲解放、饥饿复仇、合作记忆、去殖民化浪潮及新秩序萌芽，细腻描绘普通民众、领袖与跨国机构的抉择与纠葛，揭示胜利光环背后的道德暧昧与人性多面；同时关注去纳粹化与再教育的矛盾、原子弹冲击与冷战萌芽，以及亚洲民族自决的呐喊，为读者提供跨学科的历史视角，帮助理解当代世界的形成。</description>
+      <pubDate>Wed, 30 Sep 2026 03:43:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260929-episode-20260929-4d1904</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《零年：1945》全景呈现战后从欧洲至亚洲的情欲解放、饥饿复仇、合作记忆、去殖民化浪潮及新秩序萌芽，细腻描绘普通民众、领袖与跨国机构的抉择与纠葛，揭示胜利光环背后的道德暧昧与人性多面；同时关注去纳粹化与再教育的矛盾、原子弹冲击与冷战萌芽，以及亚洲民族自决的呐喊，为读者提供跨学科的历史视角，帮助理解当代世界的形成。</itunes:summary>
+      <itunes:duration>00:14:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-4d1904.mp3" length="14098221" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
