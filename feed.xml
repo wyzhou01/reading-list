@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 16:50:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:51:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22113,6 +22113,17 @@
       <itunes:duration>00:25:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-deb37a.mp3" length="24257709" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《后汉通俗演义》 · 完整版 · 后汉通俗演义 · 完整讲读</title>
+      <description>《后汉通俗演义》是蔡东藩《历朝通俗演义》的第二种，写于一九二六年，从王莽篡汉起笔，到晋王司马炎篡魏收束，包揽东汉到三国二百多年的兴亡更替。蔡东藩以&quot;事必纪实，语不求深&quot;为宗旨，在正史骨架之上，以演义笔法，把后汉亡国的链条一环环拆解给读者看。他不把亡国责任一股脑推给宦官方镇，而是紧扣女宠、外戚、宦官、方镇四根藤蔓，论证&quot;木朽生虫，墙裂进蚁&quot;的结构性逻辑。本书既不像正史那么艰深，也不像戏说那么离谱，是想认真了解东汉到三国历史、又啃不动大部头正史读者的绝佳入门书。</description>
+      <pubDate>Wed, 30 Sep 2026 16:51:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260930-episode-20260930-9a4072</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《后汉通俗演义》是蔡东藩《历朝通俗演义》的第二种，写于一九二六年，从王莽篡汉起笔，到晋王司马炎篡魏收束，包揽东汉到三国二百多年的兴亡更替。蔡东藩以&quot;事必纪实，语不求深&quot;为宗旨，在正史骨架之上，以演义笔法，把后汉亡国的链条一环环拆解给读者看。他不把亡国责任一股脑推给宦官方镇，而是紧扣女宠、外戚、宦官、方镇四根藤蔓，论证&quot;木朽生虫，墙裂进蚁&quot;的结构性逻辑。本书既不像正史那么艰深，也不像戏说那么离谱，是想认真了解东汉到三国历史、又啃不动大部头正史读者的绝佳入门书。</itunes:summary>
+      <itunes:duration>00:31:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-9a4072.mp3" length="29818797" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
