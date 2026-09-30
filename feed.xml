@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 16:43:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:45:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22080,6 +22080,17 @@
       <itunes:duration>00:47:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-ae32fc.mp3" length="45396909" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《恶的美学历程》 · 完整版 · 恶的美学历程 · 完整讲读</title>
+      <description>《恶的美学历程》是一部跨越十八世纪末到二十世纪末的文学批评史。作者彼得-特拉夫顿·扬追踪恶如何从宗教形而上学中的罪，变成现代文学里独立的美学对象。核心线索有六：一、神正论框架坍塌，恶滑入心理学；二、启蒙驱逐魔鬼，文学接管恶的再现；三、黑格尔判定恶乏味无意义，现代派反把无意义做成正面标志；四、丑、恶心、震惊进入审美范畴，恶不再需要美来背书；五、奥斯维辛之后，恶的美学转向不可消费形态；六、后现代把恶变成艺术自我反思的策略。读这本书学到的，不是恶的历史，而是一种能力——在面对任何极端事件时，先辨认出背后那套运转了三百年的美学框架。</description>
+      <pubDate>Wed, 30 Sep 2026 16:45:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260930-episode-20260930-00078a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《恶的美学历程》是一部跨越十八世纪末到二十世纪末的文学批评史。作者彼得-特拉夫顿·扬追踪恶如何从宗教形而上学中的罪，变成现代文学里独立的美学对象。核心线索有六：一、神正论框架坍塌，恶滑入心理学；二、启蒙驱逐魔鬼，文学接管恶的再现；三、黑格尔判定恶乏味无意义，现代派反把无意义做成正面标志；四、丑、恶心、震惊进入审美范畴，恶不再需要美来背书；五、奥斯维辛之后，恶的美学转向不可消费形态；六、后现代把恶变成艺术自我反思的策略。读这本书学到的，不是恶的历史，而是一种能力——在面对任何极端事件时，先辨认出背后那套运转了三百年的美学框架。</itunes:summary>
+      <itunes:duration>00:25:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-00078a.mp3" length="24902829" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
