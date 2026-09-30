@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 16:38:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:41:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22036,6 +22036,17 @@
       <itunes:duration>00:47:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-d56397.mp3" length="45295149" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《雪人》 · 完整版 · 雪人-【挪威】尤·奈斯博 · 完整讲读</title>
+      <description>《雪人》是挪威作家尤·奈斯博二零零七年出版的哈利·霍尔警探系列第七部。初雪降临奥斯陆，一封署名雪人的信揭开连环杀人案，每具尸体旁都站着一个笑容诡异的雪人。警探哈利追踪真相，发现凶手是一个在十三岁那年，亲手杀死出轨母亲的医生马地亚。马地亚专挑背叛家庭的母亲下手，用仪式化的谋杀治疗自己因身份危机而扭曲的内心。奈斯博借雪人这个意象，写童年创伤如何把人逼成怪物，写正义与复仇的边界，写我们每个人心里都可能堆过的那座雪人。</description>
+      <pubDate>Wed, 30 Sep 2026 16:41:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260930-episode-20260930-9dd144</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《雪人》是挪威作家尤·奈斯博二零零七年出版的哈利·霍尔警探系列第七部。初雪降临奥斯陆，一封署名雪人的信揭开连环杀人案，每具尸体旁都站着一个笑容诡异的雪人。警探哈利追踪真相，发现凶手是一个在十三岁那年，亲手杀死出轨母亲的医生马地亚。马地亚专挑背叛家庭的母亲下手，用仪式化的谋杀治疗自己因身份危机而扭曲的内心。奈斯博借雪人这个意象，写童年创伤如何把人逼成怪物，写正义与复仇的边界，写我们每个人心里都可能堆过的那座雪人。</itunes:summary>
+      <itunes:duration>00:32:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-9dd144.mp3" length="30953517" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
