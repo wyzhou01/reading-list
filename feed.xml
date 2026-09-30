@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 16:07:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:09:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21860,6 +21860,17 @@
       <itunes:duration>00:21:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-11ddc0.mp3" length="20642733" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《无尽绿》 · 完整版 · 无尽绿_-_宋乐天 · 完整讲读</title>
+      <description>《无尽绿》是浙江写作者宋乐天用近十年时间写就的浙江风土笔记。作者以业余而认真的田野之眼，把紫云英、清明果、青、乌糯米饭、桑叶、西湖荷叶莲蓬等浙东乡村与杭州城里常见的植物与食物，从书本请回泥土：考据做清明果究竟该用哪种草，记述乌糯米饭为何以乌饭树叶蒸出，追踪一代代江南母亲如何把&quot;立夏吃乌糯米饭&quot;这一类时序仪式传给子女。全书兼具博物志的扎实与散文回忆的深情，既补足了城市化大潮中普通人事迹的缺位，也示范了人在城乡之间如何维系与土地的那根线。</description>
+      <pubDate>Wed, 30 Sep 2026 16:09:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260930-episode-20260930-763c1c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《无尽绿》是浙江写作者宋乐天用近十年时间写就的浙江风土笔记。作者以业余而认真的田野之眼，把紫云英、清明果、青、乌糯米饭、桑叶、西湖荷叶莲蓬等浙东乡村与杭州城里常见的植物与食物，从书本请回泥土：考据做清明果究竟该用哪种草，记述乌糯米饭为何以乌饭树叶蒸出，追踪一代代江南母亲如何把&quot;立夏吃乌糯米饭&quot;这一类时序仪式传给子女。全书兼具博物志的扎实与散文回忆的深情，既补足了城市化大潮中普通人事迹的缺位，也示范了人在城乡之间如何维系与土地的那根线。</itunes:summary>
+      <itunes:duration>00:39:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-763c1c.mp3" length="38179629" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
