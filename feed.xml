@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 16:13:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:14:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21871,6 +21871,17 @@
       <itunes:duration>00:39:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-763c1c.mp3" length="38179629" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《陶渊明批评》 · 完整版 · 大家小书：陶渊明批评_(大家小书精装本) · 完整讲读</title>
+      <description>本期节目详解萧望卿《陶渊明批评》，一本一九四七年由开明书店出版、被埋没七十年的陶学经典。萧望卿是西南联大与清华园走出的青年学者，师从朱自清、闻一多，本书是他用西方新批评方法研究中国古典诗歌的开创之作。书中第一次提出“玄言诗”概念，第一次从音调、节奏、意象的内部去分析陶诗，第一次大胆指出陶渊明四言诗不如五言诗的偏见。朱自清为之作序，吴小如撰文评论，一时好评如潮。本期将带你走进陶渊明的诗艺深处，看他如何用最朴素的田家语，写出了中国诗歌里最干净的一片田园。</description>
+      <pubDate>Wed, 30 Sep 2026 16:14:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260930-episode-20260930-40302e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期节目详解萧望卿《陶渊明批评》，一本一九四七年由开明书店出版、被埋没七十年的陶学经典。萧望卿是西南联大与清华园走出的青年学者，师从朱自清、闻一多，本书是他用西方新批评方法研究中国古典诗歌的开创之作。书中第一次提出“玄言诗”概念，第一次从音调、节奏、意象的内部去分析陶诗，第一次大胆指出陶渊明四言诗不如五言诗的偏见。朱自清为之作序，吴小如撰文评论，一时好评如潮。本期将带你走进陶渊明的诗艺深处，看他如何用最朴素的田家语，写出了中国诗歌里最干净的一片田园。</itunes:summary>
+      <itunes:duration>00:26:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-40302e.mp3" length="25827501" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
