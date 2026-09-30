@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 03:49:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 03:56:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21783,6 +21783,17 @@
       <itunes:duration>00:30:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-c30f7a.mp3" length="28895277" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《布谷鸟的呼唤》 · 完整版 · 布谷鸟的呼唤 · 完整讲读</title>
+      <description>伦敦梅菲尔区，超级名模卢拉·兰德里从顶楼阳台坠落身亡。媒体三天定论：精神崩溃，自杀身亡。没人愿意多看一眼。但她的哥哥不相信，他找到了一个失去半条腿的前军人侦探斯特莱克，和他临时雇来的女秘书罗宾。三个人从一通电话、一封邮件、一张旧报纸开始，把这个被草率结案的阳台，从头查到了三十年前威尔士的采石场。原来，所谓“崩溃“背后，是一个关于替代、血缘、童年的三十年悲剧。J.K.罗琳以男性笔名出道，写下这本书，只为了让我们学会一件事：在每个人下结论之前，先把案子查完。</description>
+      <pubDate>Wed, 30 Sep 2026 03:56:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260929-episode-20260929-c2e2c5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>伦敦梅菲尔区，超级名模卢拉·兰德里从顶楼阳台坠落身亡。媒体三天定论：精神崩溃，自杀身亡。没人愿意多看一眼。但她的哥哥不相信，他找到了一个失去半条腿的前军人侦探斯特莱克，和他临时雇来的女秘书罗宾。三个人从一通电话、一封邮件、一张旧报纸开始，把这个被草率结案的阳台，从头查到了三十年前威尔士的采石场。原来，所谓“崩溃“背后，是一个关于替代、血缘、童年的三十年悲剧。J.K.罗琳以男性笔名出道，写下这本书，只为了让我们学会一件事：在每个人下结论之前，先把案子查完。</itunes:summary>
+      <itunes:duration>00:36:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-c2e2c5.mp3" length="34904493" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
