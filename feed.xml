@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 02:52:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 02:52:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21484,6 +21484,17 @@
       <itunes:duration>00:27:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-700fe8.mp3" length="26784429" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中国古代房内考》 · 完整版 · 中国古代房内考-[荷]_高罗佩 · 完整讲读</title>
+      <description>中国古代房内考是高罗佩用十五种语言、三十年远东积累写成的一部汉学巨著，第一次系统梳理了中国古代从殷商到明末三千年性观念、性习俗、房中术与春宫艺术的演变。高罗佩以健康为基准而非压抑为基准重读史料，得出一个反主流的洞察——古代中国人的性观念其实是健康而坦荡的，礼教禁欲并非“自古以来“，而是唐宋之际的产物，到清代被政治权力推到极端。本书既是西方汉学的里程碑，也是后来中国身体史、性别史研究的起点，今天重读它，对我们重新审视自己的身体观依然意义深远。</description>
+      <pubDate>Wed, 30 Sep 2026 02:52:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260929-episode-20260929-40c57a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>中国古代房内考是高罗佩用十五种语言、三十年远东积累写成的一部汉学巨著，第一次系统梳理了中国古代从殷商到明末三千年性观念、性习俗、房中术与春宫艺术的演变。高罗佩以健康为基准而非压抑为基准重读史料，得出一个反主流的洞察——古代中国人的性观念其实是健康而坦荡的，礼教禁欲并非“自古以来“，而是唐宋之际的产物，到清代被政治权力推到极端。本书既是西方汉学的里程碑，也是后来中国身体史、性别史研究的起点，今天重读它，对我们重新审视自己的身体观依然意义深远。</itunes:summary>
+      <itunes:duration>00:27:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-40c57a.mp3" length="26047533" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
