@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 16:33:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:35:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22014,6 +22014,17 @@
       <itunes:duration>00:31:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-3814d6.mp3" length="30459693" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《赋税甲天下：明清江南社会经济探析》 · 完整版 · 赋税甲天下 · 完整讲读</title>
+      <description>明清江南税粮居天下之半，却仍持续繁荣，原因何在？南京大学范金民教授的《赋税甲天下》以三十年研究回应这一悖论：重赋逼出商品化，商品化催生市镇网络；士人宗族稳住乡村秩序，会馆公所与洞庭、徽州、无锡商帮稳住城市与贸易秩序；江南商人把丝绸、棉布、书籍一路卖到日本长崎港，深度嵌入东亚市场。一本区域社会经济史专著，呈现的是市场驱动、组织创新与跨区域网络如何共同支撑起一个区域的长期繁荣。</description>
+      <pubDate>Wed, 30 Sep 2026 16:35:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260930-episode-20260930-7dc7f1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>明清江南税粮居天下之半，却仍持续繁荣，原因何在？南京大学范金民教授的《赋税甲天下》以三十年研究回应这一悖论：重赋逼出商品化，商品化催生市镇网络；士人宗族稳住乡村秩序，会馆公所与洞庭、徽州、无锡商帮稳住城市与贸易秩序；江南商人把丝绸、棉布、书籍一路卖到日本长崎港，深度嵌入东亚市场。一本区域社会经济史专著，呈现的是市场驱动、组织创新与跨区域网络如何共同支撑起一个区域的长期繁荣。</itunes:summary>
+      <itunes:duration>00:37:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-7dc7f1.mp3" length="35881389" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
