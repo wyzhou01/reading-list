@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 16:25:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:26:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21959,6 +21959,17 @@
       <itunes:duration>00:27:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-f65ad0.mp3" length="26448429" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《付出与收获：不为人知的真实故事》 · 完整版 · 付出与收获：不为人知的真实故事_-_[美]马克·席勒 · 完整讲读</title>
+      <description>《付出与收获》是一个白手起家的阿根廷裔美国企业家马克·席勒的真实回忆录。一九九四年冬天，他在迈阿密被自己一手提拔的下属绑架，被囚禁整整三十天，遭受烧伤、电击、殴打与精神摧残，最终奇迹生还。这本书不讲英雄主义，讲一个普通人在极端苦难里如何靠数裂缝、演戏、拆时间这些小动作撑到最后。他没有把苦难包装成励志神话，而是诚实地记录下一个被伤害过的人如何真正放下、如何重新回家过普通日子。它是一本关于精神韧性、宽恕与自我救赎的工具书，留给所有在黑暗里的人。</description>
+      <pubDate>Wed, 30 Sep 2026 16:26:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260930-episode-20260930-3e59a1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《付出与收获》是一个白手起家的阿根廷裔美国企业家马克·席勒的真实回忆录。一九九四年冬天，他在迈阿密被自己一手提拔的下属绑架，被囚禁整整三十天，遭受烧伤、电击、殴打与精神摧残，最终奇迹生还。这本书不讲英雄主义，讲一个普通人在极端苦难里如何靠数裂缝、演戏、拆时间这些小动作撑到最后。他没有把苦难包装成励志神话，而是诚实地记录下一个被伤害过的人如何真正放下、如何重新回家过普通日子。它是一本关于精神韧性、宽恕与自我救赎的工具书，留给所有在黑暗里的人。</itunes:summary>
+      <itunes:duration>00:38:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-3e59a1.mp3" length="37414317" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
