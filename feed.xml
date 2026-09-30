@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 02:59:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 02:59:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21528,6 +21528,17 @@
       <itunes:duration>00:22:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-2dfc34.mp3" length="21714477" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《责任的重负》 · 完整版 · 责任的重负_-_[美]托尼·朱特 · 完整讲读</title>
+      <description>本书由三篇讲稿构成，写布鲁姆、加缪、阿隆三位法国知识分子在二十世纪的命运抉择。朱特以&quot;责任&quot;为核心概念，重新审视法国知识界在大革命遗产、反法西斯主义、阿尔及利亚战争、冷战等关键时刻的集体站队与道德失守，指出真正的责任不等于政治介入，而是一种拒绝被任何阵营收编、为自己的判断承担后果的能力。在政治极化、话语站队的今天，这本书是对每一个发言者的警醒。</description>
+      <pubDate>Wed, 30 Sep 2026 02:59:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260929-episode-20260929-46cab8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书由三篇讲稿构成，写布鲁姆、加缪、阿隆三位法国知识分子在二十世纪的命运抉择。朱特以&quot;责任&quot;为核心概念，重新审视法国知识界在大革命遗产、反法西斯主义、阿尔及利亚战争、冷战等关键时刻的集体站队与道德失守，指出真正的责任不等于政治介入，而是一种拒绝被任何阵营收编、为自己的判断承担后果的能力。在政治极化、话语站队的今天，这本书是对每一个发言者的警醒。</itunes:summary>
+      <itunes:duration>00:30:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-46cab8.mp3" length="29756973" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
