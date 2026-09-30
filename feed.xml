@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 16:27:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:31:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21981,6 +21981,17 @@
       <itunes:duration>00:29:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-9d1baa.mp3" length="28747437" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《问中医几度秋凉》 · 完整版 · 问中医几度秋凉_-_艾宁 · 完整讲读</title>
+      <description>《问中医几度秋凉》是一位出身中医世家的“叛逆者”女儿，用四十年的旁观与回忆写下的对中医最深情的叩问。书中以母亲“三根手指走天下”的行医往事、女儿这一代的现代中医学艺为线索，夹叙夹议地探讨了中医“说病”与西医“找病”的根本分歧、天人合一的整体观、师承背诵背后那不可外包的生活方式，以及现代人被“过度卫生”“过度医疗”制造出来的过敏症与菌群失调。在中医复兴与争议并起的今天，这本书不讲道理，只摆事实，让中医的思维方式，借着一个家庭三代人的命运，静静地显影出来。</description>
+      <pubDate>Wed, 30 Sep 2026 16:31:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260930-episode-20260930-b28708</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《问中医几度秋凉》是一位出身中医世家的“叛逆者”女儿，用四十年的旁观与回忆写下的对中医最深情的叩问。书中以母亲“三根手指走天下”的行医往事、女儿这一代的现代中医学艺为线索，夹叙夹议地探讨了中医“说病”与西医“找病”的根本分歧、天人合一的整体观、师承背诵背后那不可外包的生活方式，以及现代人被“过度卫生”“过度医疗”制造出来的过敏症与菌群失调。在中医复兴与争议并起的今天，这本书不讲道理，只摆事实，让中医的思维方式，借着一个家庭三代人的命运，静静地显影出来。</itunes:summary>
+      <itunes:duration>00:34:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-b28708.mp3" length="33530925" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
