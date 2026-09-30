@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 16:47:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:50:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22102,6 +22102,17 @@
       <itunes:duration>00:31:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-d30d8e.mp3" length="30344493" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《雕心引（上下册）》 · 完整版 · 雕心引（上下册） · 完整讲读</title>
+      <description>《雕心引》是淡樱二零一六年完结的古言小说，全书二十三章，约四十余万字，分上下两册。女主阿殷是恭城小门小户的庶女，自幼不被父亲疼爱，母亲为让弟弟进名校，竟将她许给心上人做妾。阿殷用一颗假水痘毁掉容貌，亲手搅黄婚事，带着丫鬟搬进祖父留下的山间小屋，靠六把刻刀走上核雕之路。她从恭城起步，经绥州拜师，最终进入永平核雕界最高殿堂，收获事业与爱情。本书真正想探讨的，是一个封建时代女性的自我救赎——当爹娘都靠不住时，一个女人能不能凭一门手艺，为自己撑起一片天。</description>
+      <pubDate>Wed, 30 Sep 2026 16:50:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260930-episode-20260930-deb37a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《雕心引》是淡樱二零一六年完结的古言小说，全书二十三章，约四十余万字，分上下两册。女主阿殷是恭城小门小户的庶女，自幼不被父亲疼爱，母亲为让弟弟进名校，竟将她许给心上人做妾。阿殷用一颗假水痘毁掉容貌，亲手搅黄婚事，带着丫鬟搬进祖父留下的山间小屋，靠六把刻刀走上核雕之路。她从恭城起步，经绥州拜师，最终进入永平核雕界最高殿堂，收获事业与爱情。本书真正想探讨的，是一个封建时代女性的自我救赎——当爹娘都靠不住时，一个女人能不能凭一门手艺，为自己撑起一片天。</itunes:summary>
+      <itunes:duration>00:25:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-deb37a.mp3" length="24257709" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
