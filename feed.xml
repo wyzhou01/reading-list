@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 02:41:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 02:45:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21418,6 +21418,17 @@
       <itunes:duration>00:25:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-9e41dc.mp3" length="24436269" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《吉檀迦利》 · 完整版 · 泰戈尔集(01)吉檀迦利 · 完整讲读</title>
+      <description>泰戈尔《吉檀迦利》是亚洲首部获诺贝尔文学奖的诗集,一百零三首英文诗,讲的是“一个有限的人,如何在劳作、自然、爱与死亡中,向那位无限的神缓缓靠近”。本书以无名之神为对象,跨越六个乐章——序曲、泛神颂、追求颂、欢乐颂、死亡颂、尾声,构建出一部关于虔敬、渴望与合一的交响乐。它最深的启示,不在于神在哪里,而在于你要轻看日常:神在劳作里、在爱里、在死亡里。本书带你重新定义“神圣”这个词——神圣不在天上,神圣在你今天要做的那碗饭、那句问候、那个拥抱里。如果你愿意相信,这本书为你打开一扇门;如果你暂时不愿意,它也给你留一扇窗。</description>
+      <pubDate>Wed, 30 Sep 2026 02:45:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260929-episode-20260929-6151b3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>泰戈尔《吉檀迦利》是亚洲首部获诺贝尔文学奖的诗集,一百零三首英文诗,讲的是“一个有限的人,如何在劳作、自然、爱与死亡中,向那位无限的神缓缓靠近”。本书以无名之神为对象,跨越六个乐章——序曲、泛神颂、追求颂、欢乐颂、死亡颂、尾声,构建出一部关于虔敬、渴望与合一的交响乐。它最深的启示,不在于神在哪里,而在于你要轻看日常:神在劳作里、在爱里、在死亡里。本书带你重新定义“神圣”这个词——神圣不在天上,神圣在你今天要做的那碗饭、那句问候、那个拥抱里。如果你愿意相信,这本书为你打开一扇门;如果你暂时不愿意,它也给你留一扇窗。</itunes:summary>
+      <itunes:duration>00:24:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-6151b3.mp3" length="23114925" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
