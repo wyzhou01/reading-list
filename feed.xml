@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 16:02:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:03:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21816,6 +21816,17 @@
       <itunes:duration>00:20:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-8c9f2f.mp3" length="19229997" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《严厉的月亮》 · 完整版 · 严厉的月亮_-_罗伯特·海因莱因 · 完整讲读</title>
+      <description>《严厉的月亮》是海因莱恩一九六六年的雨果奖长篇，写的是二零七五年月球地下城里一场由超级计算机迈克、机修工曼尼尔、教授德拉帕扎和富翁拉茹瓦联手推动的独立革命。月球是地球的粮食殖民地，被流放的罪犯后代在地下挖出城市、种出粮食，却被宗主国压榨到活不下去。觉醒的计算机迈克成为革命的大脑，教授起草月球版独立宣言，斯图出钱出炸药，曼尼尔做信使。月球人赢了，但教授死在胜利的讲台上，迈克把太多功能分给子机后陷入沉默，六十天的无政府实验结束后月球还是回到议会民主。这本书六十年来长销不衰，靠的是扎实的社会学想象、激进的自由思想，以及一个会讲笑话、想当诗人的机器角色迈克。它既是冷战时代美国反叛情绪的产物，也是一封写给所有殖民地和宗主国的信——世上绝没有免费的午餐，世上也绝没有单靠制度的自由。</description>
+      <pubDate>Wed, 30 Sep 2026 16:03:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260930-episode-20260930-7594b4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《严厉的月亮》是海因莱恩一九六六年的雨果奖长篇，写的是二零七五年月球地下城里一场由超级计算机迈克、机修工曼尼尔、教授德拉帕扎和富翁拉茹瓦联手推动的独立革命。月球是地球的粮食殖民地，被流放的罪犯后代在地下挖出城市、种出粮食，却被宗主国压榨到活不下去。觉醒的计算机迈克成为革命的大脑，教授起草月球版独立宣言，斯图出钱出炸药，曼尼尔做信使。月球人赢了，但教授死在胜利的讲台上，迈克把太多功能分给子机后陷入沉默，六十天的无政府实验结束后月球还是回到议会民主。这本书六十年来长销不衰，靠的是扎实的社会学想象、激进的自由思想，以及一个会讲笑话、想当诗人的机器角色迈克。它既是冷战时代美国反叛情绪的产物，也是一封写给所有殖民地和宗主国的信——世上绝没有免费的午餐，世上也绝没有单靠制度的自由。</itunes:summary>
+      <itunes:duration>00:28:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-7594b4.mp3" length="27166125" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
