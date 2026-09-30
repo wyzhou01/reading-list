@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 16:43:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:43:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22069,6 +22069,17 @@
       <itunes:duration>00:29:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-8ca1eb.mp3" length="28729389" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《博弈与社会》 · 完整版 · 博弈与社会_-_张维迎 · 完整讲读</title>
+      <description>本书以通俗语言系统介绍博弈论的核心方法与结论，并用其分析社会合作、制度与文化问题。全书围绕&quot;人类如何更好合作&quot;这一主题，从囚徒困境、纳什均衡、多重均衡、动态博弈、重复博弈、不完全信息、机制设计、演化博弈等理论出发，探讨产权、法律、社会规范、声誉、品牌、政府管制等制度安排如何帮助人类走出囚徒困境，并最终回到轴心时代思想家与儒家文化，揭示制度企业家在塑造合作秩序中的关键作用。</description>
+      <pubDate>Wed, 30 Sep 2026 16:43:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260930-episode-20260930-ae32fc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书以通俗语言系统介绍博弈论的核心方法与结论，并用其分析社会合作、制度与文化问题。全书围绕&quot;人类如何更好合作&quot;这一主题，从囚徒困境、纳什均衡、多重均衡、动态博弈、重复博弈、不完全信息、机制设计、演化博弈等理论出发，探讨产权、法律、社会规范、声誉、品牌、政府管制等制度安排如何帮助人类走出囚徒困境，并最终回到轴心时代思想家与儒家文化，揭示制度企业家在塑造合作秩序中的关键作用。</itunes:summary>
+      <itunes:duration>00:47:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-ae32fc.mp3" length="45396909" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
