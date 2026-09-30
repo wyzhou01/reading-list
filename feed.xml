@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 16:26:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:27:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21970,6 +21970,17 @@
       <itunes:duration>00:38:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-3e59a1.mp3" length="37414317" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大西洋的跨越：进步时代的社会政治》 · 完整版 · 大西洋的跨越 · 完整讲读</title>
+      <description>《大西洋的跨越》是普林斯顿历史学家罗杰斯一九九八年出版的代表作，用档案还原了一段被遗忘的历史：一八七零年代到一九四零年代，美国并非孤立于世界之外，而是深度嵌入一张跨大西洋的社会政策网络。进步时代的改革者通过留学生、城市代表团、合作社、国际会议等渠道，向英国、德国、法国学习工人保险、模范住房、合作社、城市规划等方案，再在新大陆的土壤上改造、试用、立法。罗杰斯借此解构了美国例外主义叙事，揭示国家干预主义的兴起其实是跨国思想流通的产物。一九九八年出版背景是冷战后美国例外论回潮，本书因此具有强烈的现实关怀：提醒读者，进步时代那种跨境学习、富有创造性的改革想象力，正是今天我们正在丢失的遗产。</description>
+      <pubDate>Wed, 30 Sep 2026 16:27:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260930-episode-20260930-9d1baa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大西洋的跨越》是普林斯顿历史学家罗杰斯一九九八年出版的代表作，用档案还原了一段被遗忘的历史：一八七零年代到一九四零年代，美国并非孤立于世界之外，而是深度嵌入一张跨大西洋的社会政策网络。进步时代的改革者通过留学生、城市代表团、合作社、国际会议等渠道，向英国、德国、法国学习工人保险、模范住房、合作社、城市规划等方案，再在新大陆的土壤上改造、试用、立法。罗杰斯借此解构了美国例外主义叙事，揭示国家干预主义的兴起其实是跨国思想流通的产物。一九九八年出版背景是冷战后美国例外论回潮，本书因此具有强烈的现实关怀：提醒读者，进步时代那种跨境学习、富有创造性的改革想象力，正是今天我们正在丢失的遗产。</itunes:summary>
+      <itunes:duration>00:29:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-9d1baa.mp3" length="28747437" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
