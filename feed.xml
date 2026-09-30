@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 03:15:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 03:17:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -21638,6 +21638,17 @@
       <itunes:duration>00:24:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-8f3563.mp3" length="23587245" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《糖与香料》 · 完整版 · 糖与香料（备受争议的畅销罪案小说，惊悚超越《沉默的羔羊》，法语版译名《性欲倒错》 · 完整讲读</title>
+      <description>《糖与香料》是英国作家萨菲娜·德福奇最具争议的犯罪惊悚小说。它以十岁糖尿病女孩丽贝卡·梅多斯被绑架杀害为引子，撕开了恋童癖产业链的运作机制：一个伪装成学术研究的变态夫妇雷米与托马斯，用“田野调查”包装施害行为，用“病理分析”洗掉罪恶，托马斯则负责诱骗和“供货”。母亲克莱尔在崩溃中觉醒，从绝望的受害者家属蜕变为冷静的复仇者，联合同样被伤害的孩子丹尼，顺藤摸瓜找出凶手。本书比《沉默的羔羊》更残忍：它不仅追问“谁是凶手”，更追问“程序设计者是谁”“产业链如何运转”“谁在为这一切买单”。它直指儿童保护体制的失效、学术伦理的失守、公众的集体冷漠，逼着每个读者直面人性的暗面，反思我们每个人的旁观与共谋。</description>
+      <pubDate>Wed, 30 Sep 2026 03:17:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260929-episode-20260929-eb05ad</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《糖与香料》是英国作家萨菲娜·德福奇最具争议的犯罪惊悚小说。它以十岁糖尿病女孩丽贝卡·梅多斯被绑架杀害为引子，撕开了恋童癖产业链的运作机制：一个伪装成学术研究的变态夫妇雷米与托马斯，用“田野调查”包装施害行为，用“病理分析”洗掉罪恶，托马斯则负责诱骗和“供货”。母亲克莱尔在崩溃中觉醒，从绝望的受害者家属蜕变为冷静的复仇者，联合同样被伤害的孩子丹尼，顺藤摸瓜找出凶手。本书比《沉默的羔羊》更残忍：它不仅追问“谁是凶手”，更追问“程序设计者是谁”“产业链如何运转”“谁在为这一切买单”。它直指儿童保护体制的失效、学术伦理的失守、公众的集体冷漠，逼着每个读者直面人性的暗面，反思我们每个人的旁观与共谋。</itunes:summary>
+      <itunes:duration>00:23:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260929/episode-20260929-eb05ad.mp3" length="22856109" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
