@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 17:17:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 17:21:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22641,6 +22641,17 @@
       <itunes:duration>00:28:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-3e7012.mp3" length="26918829" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《寄意故乡》 · 完整版 · 寄意故乡-汪曾祺 · 完整讲读</title>
+      <description>《寄意故乡》是汪曾祺六十岁后写就的散文自选集，回望江苏高邮的童年、家族与水乡风物。全书分【自报家门】【一辈古人】【淡淡秋光】【故乡食事】【老学闲抄】五辑，以平淡冲和的笔触写祖父的咸鸭蛋、祖母的腌菜坛子、寺庙里的和尚、市井中的手艺人。他把大悲悯藏进小物件，把深刻藏进最日常的细节。本期用六个核心拼图拆解汪曾祺——水是血脉，眼睛是童年，师承是根骨，儒家是底色，语言是信仰，留白是哲学——回答一个问题：为什么一个高邮小城少年，能写出中国人最需要的、那种健康而温暖的东西。</description>
+      <pubDate>Thu, 01 Oct 2026 17:21:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-0cd211</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《寄意故乡》是汪曾祺六十岁后写就的散文自选集，回望江苏高邮的童年、家族与水乡风物。全书分【自报家门】【一辈古人】【淡淡秋光】【故乡食事】【老学闲抄】五辑，以平淡冲和的笔触写祖父的咸鸭蛋、祖母的腌菜坛子、寺庙里的和尚、市井中的手艺人。他把大悲悯藏进小物件，把深刻藏进最日常的细节。本期用六个核心拼图拆解汪曾祺——水是血脉，眼睛是童年，师承是根骨，儒家是底色，语言是信仰，留白是哲学——回答一个问题：为什么一个高邮小城少年，能写出中国人最需要的、那种健康而温暖的东西。</itunes:summary>
+      <itunes:duration>00:24:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-0cd211.mp3" length="23927469" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
