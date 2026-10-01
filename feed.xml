@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 14:56:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 15:00:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22289,6 +22289,17 @@
       <itunes:duration>00:28:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-f95fe8.mp3" length="27658029" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《地海传奇六部曲》 · 完整版 · 地海传奇六部曲v2.0 · 完整讲读</title>
+      <description>《地海传奇》六部曲由美国女作家厄休拉·勒古恩历时三十三年写就，与托尔金《魔戒》、刘易斯《纳尼亚》并称现代英语奇幻三大基石。本书以山野少年格得获得真名为起点，讲述他成为大法师、面对自己阴影、签下龙族之约、与王共治、并最终带着衰老身体回到弓忒岛高崖的完整一生。横跨东西方文明、贯穿生死门槛，地海拒绝廉价的英雄叙事，反复叩问真名、平衡、代价、权力与死亡——万物有平衡，生死是门，故事是螺旋，活人必须亲手推开每一扇门。</description>
+      <pubDate>Thu, 01 Oct 2026 15:00:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-772fef</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《地海传奇》六部曲由美国女作家厄休拉·勒古恩历时三十三年写就，与托尔金《魔戒》、刘易斯《纳尼亚》并称现代英语奇幻三大基石。本书以山野少年格得获得真名为起点，讲述他成为大法师、面对自己阴影、签下龙族之约、与王共治、并最终带着衰老身体回到弓忒岛高崖的完整一生。横跨东西方文明、贯穿生死门槛，地海拒绝廉价的英雄叙事，反复叩问真名、平衡、代价、权力与死亡——万物有平衡，生死是门，故事是螺旋，活人必须亲手推开每一扇门。</itunes:summary>
+      <itunes:duration>00:26:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-772fef.mp3" length="25253805" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
