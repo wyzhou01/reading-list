@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 16:20:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:23:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22377,6 +22377,17 @@
       <itunes:duration>00:32:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-1fdf37.mp3" length="31118637" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《红蕖留梦：叶嘉莹谈诗忆往》 · 完整版 · 红蕖留梦 · 完整讲读</title>
+      <description>《红蕖留梦》是叶嘉莹首部正式授权的口述自传，由学生张候萍历时十年记录整理，以叶先生自己的诗词旧作为线索，回溯家世、少年、恩师顾随、漂泊北美、归根南开的一百年人生。漂泊之外，叶嘉莹提出【弱德之美】这一词学创新，将欧美文学理论与古典诗心感悟相融，让早期中国文学中的小词在今天重新焕发生命。更以【以诗词激发生命，为新一代人的顺利演化而不断释放、播下种种文化的暗物质】的终生志愿，告诉世人：诗词不能让你赢，但可以让你不死。</description>
+      <pubDate>Thu, 01 Oct 2026 16:23:46 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-9417e0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《红蕖留梦》是叶嘉莹首部正式授权的口述自传，由学生张候萍历时十年记录整理，以叶先生自己的诗词旧作为线索，回溯家世、少年、恩师顾随、漂泊北美、归根南开的一百年人生。漂泊之外，叶嘉莹提出【弱德之美】这一词学创新，将欧美文学理论与古典诗心感悟相融，让早期中国文学中的小词在今天重新焕发生命。更以【以诗词激发生命，为新一代人的顺利演化而不断释放、播下种种文化的暗物质】的终生志愿，告诉世人：诗词不能让你赢，但可以让你不死。</itunes:summary>
+      <itunes:duration>00:19:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-9417e0.mp3" length="18570285" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
