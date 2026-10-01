@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 16:38:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:44:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22465,6 +22465,17 @@
       <itunes:duration>00:24:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-8e2aa4.mp3" length="23888301" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《你是我最好的遇见》 · 完整版 · 你是我最好的遇见_(悦读纪·暖伤纪) · 完整讲读</title>
+      <description>《你是我最好的遇见》是简暗二零一二年的代表作，讲述傅剑玲在好友杜雅墓前重逢旧同学葛离，由此牵出她与少年韦宗泽跨越十年的错过与重逢。小说以校园记忆、霸凌创伤、闺蜜情谊、长线爱情四条线索交织，用细腻克制的笔触还原一代人的青春——被霸凌少年的倔强成长，闺蜜之间的伤痕与陪伴，错过的人怎样在世俗生活里跌跌撞撞地学会爱，最终与自己过去的伤痛和解。这不是一段童话般的爱情，是写给所有经历过错过、伤害、重逢的人的中年寓言。</description>
+      <pubDate>Thu, 01 Oct 2026 16:44:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-7a7ffb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《你是我最好的遇见》是简暗二零一二年的代表作，讲述傅剑玲在好友杜雅墓前重逢旧同学葛离，由此牵出她与少年韦宗泽跨越十年的错过与重逢。小说以校园记忆、霸凌创伤、闺蜜情谊、长线爱情四条线索交织，用细腻克制的笔触还原一代人的青春——被霸凌少年的倔强成长，闺蜜之间的伤痕与陪伴，错过的人怎样在世俗生活里跌跌撞撞地学会爱，最终与自己过去的伤痛和解。这不是一段童话般的爱情，是写给所有经历过错过、伤害、重逢的人的中年寓言。</itunes:summary>
+      <itunes:duration>00:22:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-7a7ffb.mp3" length="21911853" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
