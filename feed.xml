@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 14:53:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 14:53:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22245,6 +22245,17 @@
       <itunes:duration>00:23:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-9bd1e8.mp3" length="22592685" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《看不见的森林：林中自然笔记》 · 完整版 · 看不见的森林：林中自然笔记-精校版-1.0 · 完整讲读</title>
+      <description>美国生物学家戴维·哈斯凯尔在田纳西州坎伯兰高原一片老龄林中，选定一块直径一米的“坛城“，用一整年的时间反复造访、记录。从寒冬的地衣、落叶，到春日的蝾螈与花朵，再到盛夏的萤火虫、真菌，直至深秋的迁徙之鸟与地下生物。他以科学家的严谨与诗人的笔触，在方寸之地揭示森林运行的奥秘，证明“一粒沙中见世界“的古老命题——微小之处，藏着整个生命的脉动。</description>
+      <pubDate>Thu, 01 Oct 2026 14:53:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-f7298f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>美国生物学家戴维·哈斯凯尔在田纳西州坎伯兰高原一片老龄林中，选定一块直径一米的“坛城“，用一整年的时间反复造访、记录。从寒冬的地衣、落叶，到春日的蝾螈与花朵，再到盛夏的萤火虫、真菌，直至深秋的迁徙之鸟与地下生物。他以科学家的严谨与诗人的笔触，在方寸之地揭示森林运行的奥秘，证明“一粒沙中见世界“的古老命题——微小之处，藏着整个生命的脉动。</itunes:summary>
+      <itunes:duration>00:29:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-f7298f.mp3" length="28361901" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
