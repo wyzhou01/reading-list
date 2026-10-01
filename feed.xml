@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 17:07:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 17:11:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22586,6 +22586,17 @@
       <itunes:duration>00:27:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-24c680.mp3" length="26404653" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《热的解析理论》 · 完整版 · 热的解析理论_(科学素养文库.科学元典丛书)_-_(法)傅立叶 · 完整讲读</title>
+      <description>《热的解析理论》是法国数学家傅立叶于1822年出版的划时代巨著。本书以热传导问题为切入点,系统建立了热传导方程,首创了求解偏微分方程的分离变量法,并证明了任意函数均可展开为三角级数。这三大发现不仅解决了困扰学界百年的热学难题,更开创了数学物理学这一全新学科。傅立叶的方法被欧姆、泊松、高斯等人广泛应用于电学等领域,其级数思想更成为现代信号处理、量子力学等领域的基石。这本被麦克斯韦誉为&apos;一首伟大的数学的诗&apos;的不朽之作,是科学元典,更是人类智识史上的丰碑。</description>
+      <pubDate>Thu, 01 Oct 2026 17:11:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-a8b380</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《热的解析理论》是法国数学家傅立叶于1822年出版的划时代巨著。本书以热传导问题为切入点,系统建立了热传导方程,首创了求解偏微分方程的分离变量法,并证明了任意函数均可展开为三角级数。这三大发现不仅解决了困扰学界百年的热学难题,更开创了数学物理学这一全新学科。傅立叶的方法被欧姆、泊松、高斯等人广泛应用于电学等领域,其级数思想更成为现代信号处理、量子力学等领域的基石。这本被麦克斯韦誉为&apos;一首伟大的数学的诗&apos;的不朽之作,是科学元典,更是人类智识史上的丰碑。</itunes:summary>
+      <itunes:duration>00:31:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-a8b380.mp3" length="30235053" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
