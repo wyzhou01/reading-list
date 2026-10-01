@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 16:51:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:56:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22520,6 +22520,17 @@
       <itunes:duration>00:28:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-0aa64e.mp3" length="26954925" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《漫行巴尔干》 · 完整版 · 漫行巴尔干_(译言古登堡计划)_-_[美]_弗兰西丝金斯利哈钦森 · 完整讲读</title>
+      <description>《漫行巴尔干》是美国女作家弗兰西丝·金斯利·哈钦森一九〇九年出版的旅行记，记录一九〇八年春她与三位同伴驾驶汽车、自意大利的里雅斯特至维也纳、四十八天穿越巴尔干两千三百七十二公里的旅程。本书以细腻笔触与近百张原版照片，呈现一战前夕达尔马提亚、黑山、黑塞哥维那与波斯尼亚的山海之美与多民族共存的鲜活图景，亦是早期女性汽车旅行者珍贵的开拓记录，由李浚帆等翻译，二〇一五年由中信出版社推出首个中译本。</description>
+      <pubDate>Thu, 01 Oct 2026 16:56:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-eb552d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《漫行巴尔干》是美国女作家弗兰西丝·金斯利·哈钦森一九〇九年出版的旅行记，记录一九〇八年春她与三位同伴驾驶汽车、自意大利的里雅斯特至维也纳、四十八天穿越巴尔干两千三百七十二公里的旅程。本书以细腻笔触与近百张原版照片，呈现一战前夕达尔马提亚、黑山、黑塞哥维那与波斯尼亚的山海之美与多民族共存的鲜活图景，亦是早期女性汽车旅行者珍贵的开拓记录，由李浚帆等翻译，二〇一五年由中信出版社推出首个中译本。</itunes:summary>
+      <itunes:duration>00:29:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-eb552d.mp3" length="28443309" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
