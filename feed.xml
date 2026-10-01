@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 15:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 15:00:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22300,6 +22300,17 @@
       <itunes:duration>00:26:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-772fef.mp3" length="25253805" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《科幻世界译文版200906·精魂火祭·下》 · 完整版 · 科幻世界译文版_200906（《精魂火祭·下》） · 完整讲读</title>
+      <description>《精魂火祭·下》是加拿大暗黑奇幻作家 R. 萨尔迪逊的史诗长篇下部，承续上部宫廷权谋的暗流。高地之王单顿在法师科斯塔司的长期暗蚀下日渐暴虐，王后格薇洛法与长子鲁里克察觉异常却无力回天，被遗忘千年的远古灾厄噬灵鸟伊卡提在小镇郊外大量孵化，文明面临远超王朝倾覆的毁灭威胁。作品借宫廷悲剧与远古灾厄的双线交织，拷问权力对人的腐蚀、亲缘感知的脆弱、以及被掩埋的过往如何悄然归来。</description>
+      <pubDate>Thu, 01 Oct 2026 15:00:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-bc4a54</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《精魂火祭·下》是加拿大暗黑奇幻作家 R. 萨尔迪逊的史诗长篇下部，承续上部宫廷权谋的暗流。高地之王单顿在法师科斯塔司的长期暗蚀下日渐暴虐，王后格薇洛法与长子鲁里克察觉异常却无力回天，被遗忘千年的远古灾厄噬灵鸟伊卡提在小镇郊外大量孵化，文明面临远超王朝倾覆的毁灭威胁。作品借宫廷悲剧与远古灾厄的双线交织，拷问权力对人的腐蚀、亲缘感知的脆弱、以及被掩埋的过往如何悄然归来。</itunes:summary>
+      <itunes:duration>00:28:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-bc4a54.mp3" length="27484845" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
