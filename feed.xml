@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 16:36:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:38:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22443,6 +22443,17 @@
       <itunes:duration>00:25:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-7cd447.mp3" length="24345645" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《没有什么了不起》 · 完整版 · 没有什么了不起-蔡澜 · 完整讲读</title>
+      <description>《没有什么了不起》是蔡澜八十多年人生经验的散文结集。他做过四十年电影监制，吃遍天下美食，交过金庸、倪匡、古龙、黄霑这样的朋友。本书不讲大道理，只讲三件事：怎么把心安住、怎么把饭吃好、怎么把朋友交真。他用抄经、微笑、一碗豆腐、一次旅行、一句一切又打什么紧，把豁达洒脱揉进日常。在焦虑蔓延的时代，这本书像一杯凉茶，提醒你：人生没那么重，放下就好。没什么了不起。</description>
+      <pubDate>Thu, 01 Oct 2026 16:38:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-200d37</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《没有什么了不起》是蔡澜八十多年人生经验的散文结集。他做过四十年电影监制，吃遍天下美食，交过金庸、倪匡、古龙、黄霑这样的朋友。本书不讲大道理，只讲三件事：怎么把心安住、怎么把饭吃好、怎么把朋友交真。他用抄经、微笑、一碗豆腐、一次旅行、一句一切又打什么紧，把豁达洒脱揉进日常。在焦虑蔓延的时代，这本书像一杯凉茶，提醒你：人生没那么重，放下就好。没什么了不起。</itunes:summary>
+      <itunes:duration>00:25:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-200d37.mp3" length="24762285" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
