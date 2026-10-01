@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 16:11:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:11:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22333,6 +22333,17 @@
       <itunes:duration>00:25:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-9e41dc.mp3" length="24436269" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《世界文明之旅·创造发展卷》 · 完整版 · 世界文明之旅·创造发展卷_-_林之满 · 完整讲读</title>
+      <description>《世界文明之旅·创造发展卷》是林之满先生面向青少年读者的通识科普读物，把人类几千年的创造与发展线索整合到同一条时间线上：从吉萨金字塔、吴哥窟、婆罗浮屠、泰姬陵等亚洲非洲古代遗迹，到古代埃及、希腊、罗马、中世纪、文艺复兴与近现代教育制度的演进，再到勾股定理、万有引力、电磁感应、原子核、激光、纳米等科学发现，最后到造纸术、电报、雷达、青霉素、原子弹、互联网等改变世界的科技发明。本书的最大价值不在于罗列多少发明，而在于用同一条时间线，把分散在世界各大洲的文明遗址、教育制度、科学原理与重大发明整合进同一套阅读框架，帮助青少年读者建立一种难得的纵深感——看清人类是如何从金字塔一路走到互联网的。本期节目将带你一起拼完六块核心拼图，看清人类创造史的真正驱动力，理解文明的本质不是我们创造了什么，而是我们愿意替下一代人多扛一点什么。</description>
+      <pubDate>Thu, 01 Oct 2026 16:11:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-cb8b2b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《世界文明之旅·创造发展卷》是林之满先生面向青少年读者的通识科普读物，把人类几千年的创造与发展线索整合到同一条时间线上：从吉萨金字塔、吴哥窟、婆罗浮屠、泰姬陵等亚洲非洲古代遗迹，到古代埃及、希腊、罗马、中世纪、文艺复兴与近现代教育制度的演进，再到勾股定理、万有引力、电磁感应、原子核、激光、纳米等科学发现，最后到造纸术、电报、雷达、青霉素、原子弹、互联网等改变世界的科技发明。本书的最大价值不在于罗列多少发明，而在于用同一条时间线，把分散在世界各大洲的文明遗址、教育制度、科学原理与重大发明整合进同一套阅读框架，帮助青少年读者建立一种难得的纵深感——看清人类是如何从金字塔一路走到互联网的。本期节目将带你一起拼完六块核心拼图，看清人类创造史的真正驱动力，理解文明的本质不是我们创造了什么，而是我们愿意替下一代人多扛一点什么。</itunes:summary>
+      <itunes:duration>00:30:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-cb8b2b.mp3" length="29402925" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
