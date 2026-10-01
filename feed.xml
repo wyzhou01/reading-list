@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 17:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 17:30:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22696,6 +22696,17 @@
       <itunes:duration>00:30:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-e472c4.mp3" length="29344173" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《魔鬼的牧师》 · 完整版 · 魔鬼的牧师 · 完整讲读</title>
+      <description>《魔鬼的牧师》是理查德·道金斯跨越二十五年的科学散文集，围绕真理的标准、进化与基因模因、对宗教迷信和后现代主义的批判、以及理性教育的传承四大主题展开。书名取自达尔文的隐喻：自然这本巨著看似笨拙、浪费、粗浅且极为残忍，却偏偏雕出了鲨鱼与猎豹的完美。道金斯以清晰优雅又充满勇气的笔触提醒读者，科学不仅是认识世界的方式，更是一种道德责任；在一个伪科学泛滥的时代，人人都该把怀疑的火种亲手交到下一代手中。</description>
+      <pubDate>Thu, 01 Oct 2026 17:30:36 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-f01db4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《魔鬼的牧师》是理查德·道金斯跨越二十五年的科学散文集，围绕真理的标准、进化与基因模因、对宗教迷信和后现代主义的批判、以及理性教育的传承四大主题展开。书名取自达尔文的隐喻：自然这本巨著看似笨拙、浪费、粗浅且极为残忍，却偏偏雕出了鲨鱼与猎豹的完美。道金斯以清晰优雅又充满勇气的笔触提醒读者，科学不仅是认识世界的方式，更是一种道德责任；在一个伪科学泛滥的时代，人人都该把怀疑的火种亲手交到下一代手中。</itunes:summary>
+      <itunes:duration>00:26:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-f01db4.mp3" length="25449261" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
