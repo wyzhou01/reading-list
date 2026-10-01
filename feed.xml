@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 16:38:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:38:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22454,6 +22454,17 @@
       <itunes:duration>00:25:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-200d37.mp3" length="24762285" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《人类2.0：在硅谷探索科技未来》 · 完整版 · 人类2·0：在硅谷探索科技未来 · 完整讲读</title>
+      <description>《人类2.0》是一位硅谷老兵对当下十种前沿科技的冷静盘点。作者皮埃罗用历史学家的眼光，跳出炒作和恐惧，提醒我们：单项技术大多已到成熟期，真正的革命藏在它们的交融里。大数据缺杀手级应用，AI缺常识，纳米缺理由，VR和3D打印缺普通人工具……理解每一项技术缺失的那一块，比预测它的辉煌更重要。读这本书，不是为了预测明天，而是为了看清我们正站在哪里——以及我们想要走向哪里。</description>
+      <pubDate>Thu, 01 Oct 2026 16:38:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-8e2aa4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《人类2.0》是一位硅谷老兵对当下十种前沿科技的冷静盘点。作者皮埃罗用历史学家的眼光，跳出炒作和恐惧，提醒我们：单项技术大多已到成熟期，真正的革命藏在它们的交融里。大数据缺杀手级应用，AI缺常识，纳米缺理由，VR和3D打印缺普通人工具……理解每一项技术缺失的那一块，比预测它的辉煌更重要。读这本书，不是为了预测明天，而是为了看清我们正站在哪里——以及我们想要走向哪里。</itunes:summary>
+      <itunes:duration>00:24:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-8e2aa4.mp3" length="23888301" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
