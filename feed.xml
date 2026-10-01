@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 14:53:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 14:54:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22256,6 +22256,17 @@
       <itunes:duration>00:29:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-f7298f.mp3" length="28361901" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《荆棘与白骨的王国（全四册）》 · 完整版 · 荆棘与白骨的王国（全四册） · 完整讲读</title>
+      <description>《荆棘与白骨的王国》是格里格·凯斯横扫奇幻圈的成人史诗巨作。天降女王维吉尼亚·戴尔劈开暴君司皋斯罗羿的咒语枷锁，率被奴役千年的人类建立新纪元；但推翻只是起点。她的孩子威廉坐上玉髓王座后，王后安妮在圣血会与教廷的阴谋中挣扎求生，侏儒孤儿埃斯帕背负血海深仇，穿越维特里安的凶险旅程。王权、神权、巫术三方角力，复仇、信仰、身份全面撕裂。本书追问的是最冷硬的问题：推翻暴君之后，普通人能得到自由吗？复仇的尽头是解脱还是更深的深渊？信仰到底是救赎的绳索，还是权力的工具？这是一部属于推翻之后的世代必读的奇幻史诗。</description>
+      <pubDate>Thu, 01 Oct 2026 14:54:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-5a7fde</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《荆棘与白骨的王国》是格里格·凯斯横扫奇幻圈的成人史诗巨作。天降女王维吉尼亚·戴尔劈开暴君司皋斯罗羿的咒语枷锁，率被奴役千年的人类建立新纪元；但推翻只是起点。她的孩子威廉坐上玉髓王座后，王后安妮在圣血会与教廷的阴谋中挣扎求生，侏儒孤儿埃斯帕背负血海深仇，穿越维特里安的凶险旅程。王权、神权、巫术三方角力，复仇、信仰、身份全面撕裂。本书追问的是最冷硬的问题：推翻暴君之后，普通人能得到自由吗？复仇的尽头是解脱还是更深的深渊？信仰到底是救赎的绳索，还是权力的工具？这是一部属于推翻之后的世代必读的奇幻史诗。</itunes:summary>
+      <itunes:duration>00:26:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-5a7fde.mp3" length="25040301" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
