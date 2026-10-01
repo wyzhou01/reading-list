@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 03:20:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 04:39:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22212,6 +22212,17 @@
       <itunes:duration>00:35:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-ee1d6e.mp3" length="33907629" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《从幕府到职官：清季外官制的转型与困扰》 · 完整版 · 从幕府到职官 · 完整讲读</title>
+      <description>《从幕府到职官》考察清季外官制度由幕府、幕友与局所向近代职官体系转型的曲折过程。全书贯通人员、机构、权限与财政，追踪督抚衙门分科治事、直省会议厅、三司两道、府厅州县改制及行政公费调整，展现晚清在中央集权与地方分权、传统经验与西式制度之间的持续博弈。它说明，制度移植不能止于改名和设机构；只有明确责任、协调权力、接续财政并促使旧机制退出，国家行政能力才可能真正形成。</description>
+      <pubDate>Thu, 01 Oct 2026 04:39:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260930-episode-20260930-994c61</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《从幕府到职官》考察清季外官制度由幕府、幕友与局所向近代职官体系转型的曲折过程。全书贯通人员、机构、权限与财政，追踪督抚衙门分科治事、直省会议厅、三司两道、府厅州县改制及行政公费调整，展现晚清在中央集权与地方分权、传统经验与西式制度之间的持续博弈。它说明，制度移植不能止于改名和设机构；只有明确责任、协调权力、接续财政并促使旧机制退出，国家行政能力才可能真正形成。</itunes:summary>
+      <itunes:duration>00:36:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-994c61.mp3" length="35488941" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
