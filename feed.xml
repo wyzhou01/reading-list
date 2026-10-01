@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 17:30:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 17:37:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22707,6 +22707,17 @@
       <itunes:duration>00:26:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-f01db4.mp3" length="25449261" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《无数次崩塌》 · 完整版 · 无数次崩塌（中国故事）_-_姜红叶 · 完整讲读</title>
+      <description>《无数次崩塌》收录《人物》杂志对张元、贾樟柯、赖声川、娄烨、宁浩五位中国第六代导演的深度长篇访谈，记录他们如何在体制与商业的双重夹击下，一次次被禁、被市场抛弃、被舆论钉在耻辱柱上，又一次次把摄影机重新扛起来。从张元的酒瘾与地下放映，到贾樟柯的县城与暴力，从赖声川的剧场乌托邦，到娄烨的不撒谎的镜头，再到宁浩在十五亿票房和工人阶级之间的撕扯——这是一份关于中国独立电影二十年命运的证词，也是一面给所有不甘心只做工具的创作者的镜子。崩塌不是一次，重建不是复原，摄影机对准的&quot;真&quot;，是这群人共同的底线。</description>
+      <pubDate>Thu, 01 Oct 2026 17:37:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-6f0125</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《无数次崩塌》收录《人物》杂志对张元、贾樟柯、赖声川、娄烨、宁浩五位中国第六代导演的深度长篇访谈，记录他们如何在体制与商业的双重夹击下，一次次被禁、被市场抛弃、被舆论钉在耻辱柱上，又一次次把摄影机重新扛起来。从张元的酒瘾与地下放映，到贾樟柯的县城与暴力，从赖声川的剧场乌托邦，到娄烨的不撒谎的镜头，再到宁浩在十五亿票房和工人阶级之间的撕扯——这是一份关于中国独立电影二十年命运的证词，也是一面给所有不甘心只做工具的创作者的镜子。崩塌不是一次，重建不是复原，摄影机对准的&quot;真&quot;，是这群人共同的底线。</itunes:summary>
+      <itunes:duration>00:26:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-6f0125.mp3" length="25073325" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
