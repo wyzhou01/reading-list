@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 17:07:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 17:07:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22575,6 +22575,17 @@
       <itunes:duration>00:40:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-e82622.mp3" length="39096621" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《另一个波琳家的女孩》 · 完整版 · 另一个波琳家的女孩_-_[Ӣ]_菲利帕·格里高利 · 完整讲读</title>
+      <description>《另一个波琳家的女孩》以都铎王朝亨利八世时期的英格兰为背景，透过妹妹玛丽·波琳的视角，重新讲述那段被史书忽略的宫廷往事。作者菲利帕·格里高利聚焦于波琳姐妹面对家族晋升压力时既爱又恨的复杂关系，揭示宫廷如何把女性变成家族交易的筹码。全书最核心的洞察在于：被牺牲的人反而保留了最接近真相的证词，因为他们没有什么需要粉饰。这部作品重新定义了历史小说的女性视角，至今仍提醒我们，权力、性别与姐妹关系的命题从未过时。</description>
+      <pubDate>Thu, 01 Oct 2026 17:07:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-24c680</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《另一个波琳家的女孩》以都铎王朝亨利八世时期的英格兰为背景，透过妹妹玛丽·波琳的视角，重新讲述那段被史书忽略的宫廷往事。作者菲利帕·格里高利聚焦于波琳姐妹面对家族晋升压力时既爱又恨的复杂关系，揭示宫廷如何把女性变成家族交易的筹码。全书最核心的洞察在于：被牺牲的人反而保留了最接近真相的证词，因为他们没有什么需要粉饰。这部作品重新定义了历史小说的女性视角，至今仍提醒我们，权力、性别与姐妹关系的命题从未过时。</itunes:summary>
+      <itunes:duration>00:27:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-24c680.mp3" length="26404653" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
