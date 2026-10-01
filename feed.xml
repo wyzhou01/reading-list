@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 16:23:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:26:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22388,6 +22388,17 @@
       <itunes:duration>00:19:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-9417e0.mp3" length="18570285" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《极简生活：简而美地活》 · 完整版 · 极简生活：简而美地活 · 完整讲读</title>
+      <description>《极简生活: 简而美地活》是日本生活美学作家有川真由美的代表作, 在断舍离风潮盛行的背景下出版, 主张从物品、空间、金钱、时间、人际关系、心态六个维度, 给生活做减法。全书不讲玄学, 只讲一个核心: 你真正拥有的, 不是你买了多少东西, 而是你把多少时间, 过成了你自己想要的样子。当你能主动选择留下什么, 而非被动接受塞过来什么, 少, 就变成了一种奢侈, 一种清醒, 一种真正意义上的富足。</description>
+      <pubDate>Thu, 01 Oct 2026 16:26:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-382e19</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《极简生活: 简而美地活》是日本生活美学作家有川真由美的代表作, 在断舍离风潮盛行的背景下出版, 主张从物品、空间、金钱、时间、人际关系、心态六个维度, 给生活做减法。全书不讲玄学, 只讲一个核心: 你真正拥有的, 不是你买了多少东西, 而是你把多少时间, 过成了你自己想要的样子。当你能主动选择留下什么, 而非被动接受塞过来什么, 少, 就变成了一种奢侈, 一种清醒, 一种真正意义上的富足。</itunes:summary>
+      <itunes:duration>00:27:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-382e19.mp3" length="26549805" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
