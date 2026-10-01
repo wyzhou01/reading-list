@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 17:28:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 17:30:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22685,6 +22685,17 @@
       <itunes:duration>00:30:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-4dc91c.mp3" length="28945581" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《鄂圖曼帝國的殞落：第一次世界大戰在中東》 · 完整版 · 鄂圖曼帝國的殞落：第一次世界大戰在中東(kobo) · 完整讲读</title>
+      <description>《鄂圖曼帝國的殞落》由牛津大學中東史教授歐金·羅根所著，以鄂圖曼為主體視角重建一九一四至一九二〇年的中東戰場，翻轉以歐洲為中心的一戰敘事。本書從一九〇八年青年土耳其革命寫起，歷經帝國參戰、達達尼爾與加里波利戰役、亞美尼亞滅種大屠殺、美索不達米亞與巴勒斯坦戰場、阿拉伯起義，直至一九一八年休戰與帝國解體。書中細膩梳理英法俄三國如何透過秘密協議瓜分鄂圖曼疆土，以及各民族如何在歐洲殖民主義策動下起身建國。這不僅是一部帝國夕陽的掙扎史，更是理解當代以巴衝突、庫爾德問題、中東國界爭端必讀的根源之作。</description>
+      <pubDate>Thu, 01 Oct 2026 17:29:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-e472c4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《鄂圖曼帝國的殞落》由牛津大學中東史教授歐金·羅根所著，以鄂圖曼為主體視角重建一九一四至一九二〇年的中東戰場，翻轉以歐洲為中心的一戰敘事。本書從一九〇八年青年土耳其革命寫起，歷經帝國參戰、達達尼爾與加里波利戰役、亞美尼亞滅種大屠殺、美索不達米亞與巴勒斯坦戰場、阿拉伯起義，直至一九一八年休戰與帝國解體。書中細膩梳理英法俄三國如何透過秘密協議瓜分鄂圖曼疆土，以及各民族如何在歐洲殖民主義策動下起身建國。這不僅是一部帝國夕陽的掙扎史，更是理解當代以巴衝突、庫爾德問題、中東國界爭端必讀的根源之作。</itunes:summary>
+      <itunes:duration>00:30:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-e472c4.mp3" length="29344173" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
