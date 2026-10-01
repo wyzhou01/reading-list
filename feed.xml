@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 14:54:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 14:56:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22267,6 +22267,17 @@
       <itunes:duration>00:26:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-5a7fde.mp3" length="25040301" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《NLP原理与教练式领导力》 · 完整版 · NLP原理与教练式领导力 · 完整讲读</title>
+      <description>本书是首都经济贸易大学徐斌教授带领的本土团队撰写的NLP与教练式领导力专著,核心贡献是原创的教练登山模型——以登山为喻,把企业战略放在山顶,把团队关系放在山腰,把员工内心动力放在山脚,三层联动,向上支撑战略落地,向下激发个体潜能。书中系统梳理了NLP原理、倾听归类提问直觉观察五大教练能力,以及教练技术在冲突、战略、绩效、决策四大管理场景中的实战应用。对于想要从命令式领导转型为教练式领导的管理者而言,这本书是中文世界里最系统、最完整的入门加进阶读物。</description>
+      <pubDate>Thu, 01 Oct 2026 14:56:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-bccfa4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是首都经济贸易大学徐斌教授带领的本土团队撰写的NLP与教练式领导力专著,核心贡献是原创的教练登山模型——以登山为喻,把企业战略放在山顶,把团队关系放在山腰,把员工内心动力放在山脚,三层联动,向上支撑战略落地,向下激发个体潜能。书中系统梳理了NLP原理、倾听归类提问直觉观察五大教练能力,以及教练技术在冲突、战略、绩效、决策四大管理场景中的实战应用。对于想要从命令式领导转型为教练式领导的管理者而言,这本书是中文世界里最系统、最完整的入门加进阶读物。</itunes:summary>
+      <itunes:duration>00:33:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-bccfa4.mp3" length="32369325" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
