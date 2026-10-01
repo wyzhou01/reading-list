@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 17:21:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 17:22:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22652,6 +22652,17 @@
       <itunes:duration>00:24:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-0cd211.mp3" length="23927469" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《逝年如水：周有光百年口述》 · 完整版 · 逝年如水：周有光百年口述 · 完整讲读</title>
+      <description>《逝年如水:周有光百年口述》是汉语拼音之父周有光在九十一岁高龄时的三十余盘录音,由女儿录入文字后于二零一五年出版。本书跨越太平天国、辛亥革命、五四运动、抗日战争、国共内战、文革与改革开放,亲历二十世纪中国几乎所有重大转折,更全景展现一个江南世家子弟如何从经济学跨界到汉字研究、又如何主持把中国标准做成国际标准的事实。一百年风云,浓缩在一位百岁老人的松弛漫谈里,既是世纪知识分子的精神档案,也是【平视苦难、终身学习、晚年再出发】的方法论手册。</description>
+      <pubDate>Thu, 01 Oct 2026 17:22:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-b9156b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《逝年如水:周有光百年口述》是汉语拼音之父周有光在九十一岁高龄时的三十余盘录音,由女儿录入文字后于二零一五年出版。本书跨越太平天国、辛亥革命、五四运动、抗日战争、国共内战、文革与改革开放,亲历二十世纪中国几乎所有重大转折,更全景展现一个江南世家子弟如何从经济学跨界到汉字研究、又如何主持把中国标准做成国际标准的事实。一百年风云,浓缩在一位百岁老人的松弛漫谈里,既是世纪知识分子的精神档案,也是【平视苦难、终身学习、晚年再出发】的方法论手册。</itunes:summary>
+      <itunes:duration>00:36:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-b9156b.mp3" length="34823469" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
