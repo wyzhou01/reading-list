@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 16:30:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:32:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22410,6 +22410,17 @@
       <itunes:duration>00:28:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-e3d772.mp3" length="27358509" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《人与土地（增补本）》 · 完整版 · 人与土地（增补本） · 完整讲读</title>
+      <description>《人与土地》是阮义忠在一九七四到一九八六年间走遍台湾农村所拍下的八十六帧影像，按成长、劳动、信仰、归宿四大单元编排。这本增补本的特殊之处在于，作者不仅用镜头捕捉瞬间，更以深情的文字补上前因后果与内心感动。透过稻田、灶台、溪畔、庙口、海边与墓园的画面，他留住了农人的尊严、孩童的天真、信仰的虔诚与亲情的温度。在城市化狂奔的今天，重读这本书，是一次对土地、对亲情、对信仰的郑重回望，也是一份迟到的、对人与土地之间依存关系的挽留。</description>
+      <pubDate>Thu, 01 Oct 2026 16:31:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-13bd09</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《人与土地》是阮义忠在一九七四到一九八六年间走遍台湾农村所拍下的八十六帧影像，按成长、劳动、信仰、归宿四大单元编排。这本增补本的特殊之处在于，作者不仅用镜头捕捉瞬间，更以深情的文字补上前因后果与内心感动。透过稻田、灶台、溪畔、庙口、海边与墓园的画面，他留住了农人的尊严、孩童的天真、信仰的虔诚与亲情的温度。在城市化狂奔的今天，重读这本书，是一次对土地、对亲情、对信仰的郑重回望，也是一份迟到的、对人与土地之间依存关系的挽留。</itunes:summary>
+      <itunes:duration>00:28:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-13bd09.mp3" length="27679149" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
