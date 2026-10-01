@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 16:50:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:51:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22509,6 +22509,17 @@
       <itunes:duration>00:14:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-2beba7.mp3" length="14062125" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《苏丝黄的世界》 · 完整版 · 苏丝黄的世界_-_（英）梅森（Mason,R.） · 完整讲读</title>
+      <description>1950年代香港，英国青年画家罗伯特在渡轮上偶遇富商之女黄美玲（苏丝黄），两人从隔阂到相爱，冲破文化、阶层与贞洁传统的藩篱结婚。婚后罗伯特深入湾仔酒吧街，与苏丝黄和一群吧女、水手日夜相处，见证底层女性的悲欢、梦想与挣扎，最终随苏丝黄回乡见公婆，踏上人生新旅程。一部交织异国情愫、文化碰撞与市井悲欢的半自传经典。</description>
+      <pubDate>Thu, 01 Oct 2026 16:51:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-0aa64e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>1950年代香港，英国青年画家罗伯特在渡轮上偶遇富商之女黄美玲（苏丝黄），两人从隔阂到相爱，冲破文化、阶层与贞洁传统的藩篱结婚。婚后罗伯特深入湾仔酒吧街，与苏丝黄和一群吧女、水手日夜相处，见证底层女性的悲欢、梦想与挣扎，最终随苏丝黄回乡见公婆，踏上人生新旅程。一部交织异国情愫、文化碰撞与市井悲欢的半自传经典。</itunes:summary>
+      <itunes:duration>00:28:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-0aa64e.mp3" length="26954925" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
