@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 16:11:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:17:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22344,6 +22344,17 @@
       <itunes:duration>00:30:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-cb8b2b.mp3" length="29402925" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《素年锦时》 · 完整版 · 素年锦时_-_安妮宝贝 · 完整讲读</title>
+      <description>【素年锦时】是安妮宝贝二〇〇七年出版的散文集，以春夏秋冬分章，谈身世、童年、南方、写作、孤立、争议，是她从早期激烈边缘的青春书写走向和解与日常的关键节点。书后附三万字小说【月棠记】，首次正面书写婚姻与孩子，也是中国第一本正式出版的有声书文本来源。重读这本书，我们看见一个童年反复被送养的女童，如何用十年时间把自己重新认领回来；看见一个曾经激烈极端的女作家，如何学会安静地说话、节制地表达、与世界达成和解。【素年锦时】四个字，是一份送给所有【曾经激烈、如今愿意和解】的人的礼物：和解不是一次性事件，和解是一年一年朴素地活下来。</description>
+      <pubDate>Thu, 01 Oct 2026 16:17:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-5103cf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>【素年锦时】是安妮宝贝二〇〇七年出版的散文集，以春夏秋冬分章，谈身世、童年、南方、写作、孤立、争议，是她从早期激烈边缘的青春书写走向和解与日常的关键节点。书后附三万字小说【月棠记】，首次正面书写婚姻与孩子，也是中国第一本正式出版的有声书文本来源。重读这本书，我们看见一个童年反复被送养的女童，如何用十年时间把自己重新认领回来；看见一个曾经激烈极端的女作家，如何学会安静地说话、节制地表达、与世界达成和解。【素年锦时】四个字，是一份送给所有【曾经激烈、如今愿意和解】的人的礼物：和解不是一次性事件，和解是一年一年朴素地活下来。</itunes:summary>
+      <itunes:duration>00:38:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-5103cf.mp3" length="37041837" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
