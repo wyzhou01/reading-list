@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 16:17:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:20:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22366,6 +22366,17 @@
       <itunes:duration>00:25:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-4f15dd.mp3" length="24517293" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《世说新语》 · 完整版 · 世说新语_(国学典藏)_-_[南朝宋]刘义庆著_[南朝梁]刘孝标注_徐传武_校点 · 完整讲读</title>
+      <description>《世说新语》是南朝宋临川王刘义庆主导编纂的笔记小说集，记录东汉末至南北朝约三百年间名士言行，分三十六门一千一百三十则，梁刘孝标注征引四百余种现已散佚的典籍，兼具文学、史学、语言学三重价值。本期通过德行、言语、文学、政事、方正、识鉴等核心门类，解析何谓魏晋风度、何谓清谈误国、何谓名士风骨，带你看懂那群醉卧竹林、扪虱而谈的男人背后，藏着怎样的时代精神与精神代价。</description>
+      <pubDate>Thu, 01 Oct 2026 16:20:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-1fdf37</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《世说新语》是南朝宋临川王刘义庆主导编纂的笔记小说集，记录东汉末至南北朝约三百年间名士言行，分三十六门一千一百三十则，梁刘孝标注征引四百余种现已散佚的典籍，兼具文学、史学、语言学三重价值。本期通过德行、言语、文学、政事、方正、识鉴等核心门类，解析何谓魏晋风度、何谓清谈误国、何谓名士风骨，带你看懂那群醉卧竹林、扪虱而谈的男人背后，藏着怎样的时代精神与精神代价。</itunes:summary>
+      <itunes:duration>00:32:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-1fdf37.mp3" length="31118637" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
