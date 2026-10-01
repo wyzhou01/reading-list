@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 17:11:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 17:14:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22597,6 +22597,17 @@
       <itunes:duration>00:31:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-a8b380.mp3" length="30235053" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《如何进行快速思考》 · 完整版 · 如何进行思考（快速思考_视觉思考_创意思维_目标思考）_-_【英】查尔斯菲利普斯_著_郭 · 完整讲读</title>
+      <description>《如何进行思考》把压力下的冷静拆解成四把可练习的钥匙：情绪调节、时间切片、外部支架、空间建构。通过初、中、高三级共五十道限时谜题，作者引导读者在结构化压力下反复激活神经回路、加速突触连结，并用终章开放式实战训练把封闭题目里的快速思考能力迁移到真实混乱场景，最终让冷静判断变成一种可重复的生理技能。</description>
+      <pubDate>Thu, 01 Oct 2026 17:14:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-e046a0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《如何进行思考》把压力下的冷静拆解成四把可练习的钥匙：情绪调节、时间切片、外部支架、空间建构。通过初、中、高三级共五十道限时谜题，作者引导读者在结构化压力下反复激活神经回路、加速突触连结，并用终章开放式实战训练把封闭题目里的快速思考能力迁移到真实混乱场景，最终让冷静判断变成一种可重复的生理技能。</itunes:summary>
+      <itunes:duration>00:32:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-e046a0.mp3" length="31453485" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
