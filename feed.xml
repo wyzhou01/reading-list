@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 16:26:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:30:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22399,6 +22399,17 @@
       <itunes:duration>00:27:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-382e19.mp3" length="26549805" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《红雨：一个中国县域七个世纪的暴力史》 · 完整版 · 红雨：一个中国县域七个世纪的暴力史_-_[美]罗威廉 · 完整讲读</title>
+      <description>美国历史学家罗威廉以湖北麻城为个案，用七个世纪的长时段视角，剖析中国乡村暴力文化的形成与延续机制。本书跳出传统革命史的政治动员叙事，转而追问一个地方的暴脾气为何能跨越元末红巾军、明末白莲教、清初三藩之乱、太平天国、国共内战直至文革而一以贯之。作者发现，麻城暴力文化的根基，是山寨、保甲、团练等地方军事化机制与英雄好汉传统、水浒反叛文化的长期耦合：红色符号把暴力包装成驱魔正义，阎罗式语言把敌人妖魔化以便彻底铲除，地方历史书写则通过县志、宗谱、传说、戏剧不断重塑集体记忆，使暴力成为代代相传的默认选项。罗威廉提醒读者，理解中国革命不能只看上层意识形态，也要看见底层心性、地方制度与文化符号如何为某种历史的到来做好充分准备。</description>
+      <pubDate>Thu, 01 Oct 2026 16:30:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-e3d772</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>美国历史学家罗威廉以湖北麻城为个案，用七个世纪的长时段视角，剖析中国乡村暴力文化的形成与延续机制。本书跳出传统革命史的政治动员叙事，转而追问一个地方的暴脾气为何能跨越元末红巾军、明末白莲教、清初三藩之乱、太平天国、国共内战直至文革而一以贯之。作者发现，麻城暴力文化的根基，是山寨、保甲、团练等地方军事化机制与英雄好汉传统、水浒反叛文化的长期耦合：红色符号把暴力包装成驱魔正义，阎罗式语言把敌人妖魔化以便彻底铲除，地方历史书写则通过县志、宗谱、传说、戏剧不断重塑集体记忆，使暴力成为代代相传的默认选项。罗威廉提醒读者，理解中国革命不能只看上层意识形态，也要看见底层心性、地方制度与文化符号如何为某种历史的到来做好充分准备。</itunes:summary>
+      <itunes:duration>00:28:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-e3d772.mp3" length="27358509" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
