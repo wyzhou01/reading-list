@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 16:17:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:17:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22355,6 +22355,17 @@
       <itunes:duration>00:38:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-5103cf.mp3" length="37041837" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《时间，这永恒的雕刻家·遗存篇》 · 完整版 · 时间这永恒的雕刻家·遗存篇_-_尤瑟纳尔 · 完整讲读</title>
+      <description>本书是法国首位法兰西学院女院士玛格丽特·尤瑟纳尔晚年的散文评论集。她以历史学家的冷静回望欧洲古堡、名人遗迹与人文景观，把城堡、史料、地点视为思想的容器，辨析历史与小说的关系、永恒与瞬间的辩证、神话作为表达绝对的方式。她借贝德的诺森伯兰故事、舍农索与榭浓韶城堡、哈德良与泽农两位普罗米修斯式的主人公，示范了一种在没落与怀疑之中仍保持尊严的写作姿态：拆除孤立经验，激活沉睡史料，重建事物的永恒形式。对于在算法时代渴望纵深感的中国读者，这本书既是练习凝视时间厚度的范本，也是一座与齐物论暗中相通的跨文化桥梁。</description>
+      <pubDate>Thu, 01 Oct 2026 16:17:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-4f15dd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是法国首位法兰西学院女院士玛格丽特·尤瑟纳尔晚年的散文评论集。她以历史学家的冷静回望欧洲古堡、名人遗迹与人文景观，把城堡、史料、地点视为思想的容器，辨析历史与小说的关系、永恒与瞬间的辩证、神话作为表达绝对的方式。她借贝德的诺森伯兰故事、舍农索与榭浓韶城堡、哈德良与泽农两位普罗米修斯式的主人公，示范了一种在没落与怀疑之中仍保持尊严的写作姿态：拆除孤立经验，激活沉睡史料，重建事物的永恒形式。对于在算法时代渴望纵深感的中国读者，这本书既是练习凝视时间厚度的范本，也是一座与齐物论暗中相通的跨文化桥梁。</itunes:summary>
+      <itunes:duration>00:25:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-4f15dd.mp3" length="24517293" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
