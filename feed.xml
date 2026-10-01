@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 17:03:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 17:07:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22564,6 +22564,17 @@
       <itunes:duration>00:23:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-53cdac.mp3" length="22899117" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《诗经今注今译》 · 完整版 · 诗经今注今译（精制多看，新修版，带生僻字拼音） · 完整讲读</title>
+      <description>《诗经今注今译》是打开中国第一部诗歌总集的钥匙。本书精选《诗经》名篇，加以注释、译文与赏析，让两千多年前的古老诗句走进普通读者的视野。全书分风雅颂三部分，涵盖西周初年至春秋中叶五百多年的诗作。书中既有【关关雎鸠】的纯粹爱情，也有【桃之夭夭】的婚礼祝福；既有【采采芣苢】的劳动欢歌，也有【昔我往矣，杨柳依依】的戍边哀愁；既有【靡不有初，鲜克有终】的人生感叹，也有【周虽旧邦，其命维新】的革新呐喊。它用最朴素的文字，写出了中国人最本真的情感模式，是每一个想要了解中华文化源头的读者，不应该绕开的经典。</description>
+      <pubDate>Thu, 01 Oct 2026 17:06:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-e82622</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《诗经今注今译》是打开中国第一部诗歌总集的钥匙。本书精选《诗经》名篇，加以注释、译文与赏析，让两千多年前的古老诗句走进普通读者的视野。全书分风雅颂三部分，涵盖西周初年至春秋中叶五百多年的诗作。书中既有【关关雎鸠】的纯粹爱情，也有【桃之夭夭】的婚礼祝福；既有【采采芣苢】的劳动欢歌，也有【昔我往矣，杨柳依依】的戍边哀愁；既有【靡不有初，鲜克有终】的人生感叹，也有【周虽旧邦，其命维新】的革新呐喊。它用最朴素的文字，写出了中国人最本真的情感模式，是每一个想要了解中华文化源头的读者，不应该绕开的经典。</itunes:summary>
+      <itunes:duration>00:40:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-e82622.mp3" length="39096621" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
