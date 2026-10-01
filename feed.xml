@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 16:32:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:32:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22421,6 +22421,17 @@
       <itunes:duration>00:28:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-13bd09.mp3" length="27679149" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《汉语和汉语研究十五讲（第二版）》 · 完整版 · 汉语和汉语研究十五讲（第二版） · 完整讲读</title>
+      <description>《汉语和汉语研究十五讲》是北京大学陆俭明、沈阳两位先生合著的当代汉语语言学通识经典。本书以十五讲篇幅,串起结构、变换、特征、配价、空语类、移位、约束、指向、认知、语用、类型、韵律等十五种理论视角,系统展示了汉语研究与当代语言学理论结合的全貌。第二版全面重写,新增韵律、制图、构式语法、信息结构等前沿内容。本书教给读者的不是零散的语法知识,而是一整套【分析汉语】的思路和方法——让你看懂汉语这门语言,也看懂语言学家是如何思考汉语的。</description>
+      <pubDate>Thu, 01 Oct 2026 16:32:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-224ed9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《汉语和汉语研究十五讲》是北京大学陆俭明、沈阳两位先生合著的当代汉语语言学通识经典。本书以十五讲篇幅,串起结构、变换、特征、配价、空语类、移位、约束、指向、认知、语用、类型、韵律等十五种理论视角,系统展示了汉语研究与当代语言学理论结合的全貌。第二版全面重写,新增韵律、制图、构式语法、信息结构等前沿内容。本书教给读者的不是零散的语法知识,而是一整套【分析汉语】的思路和方法——让你看懂汉语这门语言,也看懂语言学家是如何思考汉语的。</itunes:summary>
+      <itunes:duration>00:29:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-224ed9.mp3" length="28336557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
