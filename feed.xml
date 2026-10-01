@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 16:58:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:59:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22542,6 +22542,17 @@
       <itunes:duration>00:27:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-9f65e5.mp3" length="26146221" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《克罗诺皮奥与法玛的故事》 · 完整版 · 克罗诺皮奥与法玛的故事_-_胡里奥•科塔萨尔 · 完整讲读</title>
+      <description>《克罗诺皮奥与法玛的故事》是阿根廷作家胡里奥·科塔萨尔的代表作之一，用荒诞与游戏的方式抵抗日常的麻木。书分两部分：《指南手册》以一本正经的笔法拆解哭泣、上楼梯、看画、给手表上发条等日常动作，揭示习惯如何把人困在透明的粘团块里；《奇特职业》通过洪堡大街上一家人的奇异实践，演示如何在游戏中重写既定秩序。书中创造了三种小生物——率性而为的绿色克罗诺皮奥、讲究秩序的红色法玛、妥协现实的黑色艾斯贝兰萨——读者可以在其中辨认自己。科塔萨尔认为，幽默与革命并不对立，荒诞是日常的反面解药，重写生活的最小单位就是游戏。六十多年来，全世界的科塔萨尔读者自称克罗诺皮奥，这本书至今提醒每一个被习惯磨平的人：抬头看一眼，楼上还有一层。</description>
+      <pubDate>Thu, 01 Oct 2026 16:59:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-02f634</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《克罗诺皮奥与法玛的故事》是阿根廷作家胡里奥·科塔萨尔的代表作之一，用荒诞与游戏的方式抵抗日常的麻木。书分两部分：《指南手册》以一本正经的笔法拆解哭泣、上楼梯、看画、给手表上发条等日常动作，揭示习惯如何把人困在透明的粘团块里；《奇特职业》通过洪堡大街上一家人的奇异实践，演示如何在游戏中重写既定秩序。书中创造了三种小生物——率性而为的绿色克罗诺皮奥、讲究秩序的红色法玛、妥协现实的黑色艾斯贝兰萨——读者可以在其中辨认自己。科塔萨尔认为，幽默与革命并不对立，荒诞是日常的反面解药，重写生活的最小单位就是游戏。六十多年来，全世界的科塔萨尔读者自称克罗诺皮奥，这本书至今提醒每一个被习惯磨平的人：抬头看一眼，楼上还有一层。</itunes:summary>
+      <itunes:duration>00:39:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-02f634.mp3" length="37770669" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
