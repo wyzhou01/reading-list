@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 17:22:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 17:25:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22663,6 +22663,17 @@
       <itunes:duration>00:36:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-b9156b.mp3" length="34823469" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《本司汀》 · 完整版 · 本司汀 · 完整讲读</title>
+      <description>《本司汀》是八零后女作家张艳华创作的长篇科幻爱情小说，写于二零一五年那个神庙被炸毁又神秘复原的年份。故事从上海普通女孩雨果的朝九晚五被一名不请自来的联邦调查局探员打破开始——一个被遗忘的女神、一具来历不明的人造身体、一段跨越地球与西里斯帝星的爱情。本书借女性视角，把科幻外壳与爱情内核缝合，既不像硬科幻堆砌术语，也不像纯言情只谈风月，而是叩问一个古老命题——人造之物，可不可以被爱？又值不值得被爱？</description>
+      <pubDate>Thu, 01 Oct 2026 17:25:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-477506</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《本司汀》是八零后女作家张艳华创作的长篇科幻爱情小说，写于二零一五年那个神庙被炸毁又神秘复原的年份。故事从上海普通女孩雨果的朝九晚五被一名不请自来的联邦调查局探员打破开始——一个被遗忘的女神、一具来历不明的人造身体、一段跨越地球与西里斯帝星的爱情。本书借女性视角，把科幻外壳与爱情内核缝合，既不像硬科幻堆砌术语，也不像纯言情只谈风月，而是叩问一个古老命题——人造之物，可不可以被爱？又值不值得被爱？</itunes:summary>
+      <itunes:duration>00:30:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-477506.mp3" length="29297325" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
