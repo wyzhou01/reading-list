@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 16:47:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:50:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22498,6 +22498,17 @@
       <itunes:duration>00:30:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-cf3e3e.mp3" length="29165997" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《僵尸世界大战》 · 完整版 · 僵尸世界大战_-_Max_Brooks · 完整讲读</title>
+      <description>《僵尸世界大战》是麦克斯·布鲁克斯的末日寓言巨作，以联合国战后调查员的视角，记录十年前那场几乎灭绝人类的活死人战争。本书采用口述史形式，跨越五大洲十几个国家，从中国乡村的零号病人到以色列全民防线，从北美潜艇到日本守护协会，从战后货币警察到鲸鱼的挽歌，深刻揭示了人类在制度崩溃、技术失灵、信任崩塌时的真实选择。它不是打怪爽文，而是一部关于人性、记忆与文明的严肃启示录。</description>
+      <pubDate>Thu, 01 Oct 2026 16:50:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-2beba7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《僵尸世界大战》是麦克斯·布鲁克斯的末日寓言巨作，以联合国战后调查员的视角，记录十年前那场几乎灭绝人类的活死人战争。本书采用口述史形式，跨越五大洲十几个国家，从中国乡村的零号病人到以色列全民防线，从北美潜艇到日本守护协会，从战后货币警察到鲸鱼的挽歌，深刻揭示了人类在制度崩溃、技术失灵、信任崩塌时的真实选择。它不是打怪爽文，而是一部关于人性、记忆与文明的严肃启示录。</itunes:summary>
+      <itunes:duration>00:14:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-2beba7.mp3" length="14062125" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
