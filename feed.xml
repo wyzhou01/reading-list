@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 14:48:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 14:53:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22234,6 +22234,17 @@
       <itunes:duration>00:24:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-7e1337.mp3" length="23887533" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《吕氏春秋译注（修订本）》 · 完整版 · 吕氏春秋译注(修订本)_(博雅文渊阁) · 完整讲读</title>
+      <description>《吕氏春秋》是两千两百年前秦相吕不韦召集三千门客集体编纂的治国纲领，全书二十余万言，分十二纪、八览、六论，共一百六十篇，是先秦杂家学派唯一保留下来的完整著作。本书以道家精气说为根基，兼采儒墨法阴阳各家之长，系统阐述了虚君实臣、民本德治、胜与持的辩证、察人察微察今等政治哲学，提出【天下非一人之天下也，天下之天下也】的民本思想。秦王政未采纳其纲领，专用法术势，终致秦帝国二世而亡，验证了吕不韦【胜非其难者也，持之其难者也】的预言。本书是先秦典籍中唯一确切可知写作年代的一部，至今读来，仍振聋发聩。</description>
+      <pubDate>Thu, 01 Oct 2026 14:53:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-9bd1e8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《吕氏春秋》是两千两百年前秦相吕不韦召集三千门客集体编纂的治国纲领，全书二十余万言，分十二纪、八览、六论，共一百六十篇，是先秦杂家学派唯一保留下来的完整著作。本书以道家精气说为根基，兼采儒墨法阴阳各家之长，系统阐述了虚君实臣、民本德治、胜与持的辩证、察人察微察今等政治哲学，提出【天下非一人之天下也，天下之天下也】的民本思想。秦王政未采纳其纲领，专用法术势，终致秦帝国二世而亡，验证了吕不韦【胜非其难者也，持之其难者也】的预言。本书是先秦典籍中唯一确切可知写作年代的一部，至今读来，仍振聋发聩。</itunes:summary>
+      <itunes:duration>00:23:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-9bd1e8.mp3" length="22592685" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
