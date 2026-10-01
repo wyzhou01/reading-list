@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 17:14:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 17:16:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22619,6 +22619,17 @@
       <itunes:duration>00:30:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-fbc4fe.mp3" length="28974381" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《岛在湾流中》 · 完整版 · 岛在湾流中_-_[美]海明威 · 完整讲读</title>
+      <description>《岛在湾流中》是海明威的最后一部长篇遗作，写于一九五零至一九五一年间，去世后十九年才出版。画家托马斯·赫德森住在巴哈马的比美尼岛，三个儿子来岛上欢聚五周后两个小的死于车祸，大的又在英国空军执行任务时牺牲。海明威用最克制的语言，写了一个屡遭厄运却始终屹立的硬汉故事，把父亲之爱、艺术家身份与战争责任、加勒比海反潜作战全部揉进一本书里。一个核心问题贯穿始终：人被打倒了，能不能不认输？海明威的回答是：把该画的画画完，把该打的仗打完，不认输。</description>
+      <pubDate>Thu, 01 Oct 2026 17:16:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-0c8438</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《岛在湾流中》是海明威的最后一部长篇遗作，写于一九五零至一九五一年间，去世后十九年才出版。画家托马斯·赫德森住在巴哈马的比美尼岛，三个儿子来岛上欢聚五周后两个小的死于车祸，大的又在英国空军执行任务时牺牲。海明威用最克制的语言，写了一个屡遭厄运却始终屹立的硬汉故事，把父亲之爱、艺术家身份与战争责任、加勒比海反潜作战全部揉进一本书里。一个核心问题贯穿始终：人被打倒了，能不能不认输？海明威的回答是：把该画的画画完，把该打的仗打完，不认输。</itunes:summary>
+      <itunes:duration>00:32:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-0c8438.mp3" length="31588269" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
