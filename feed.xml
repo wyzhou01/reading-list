@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 16:59:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 17:03:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22553,6 +22553,17 @@
       <itunes:duration>00:39:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-02f634.mp3" length="37770669" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《灵魂的暗夜》 · 完整版 · 灵魂的暗夜 · 完整讲读</title>
+      <description>《灵魂的暗夜》是荷兰心灵导师帕梅拉·克里柏亲历严重抑郁与精神崩溃后的真实记录。她以日记、亲友回忆与约书亚等指导灵的传导讯息，呈现从深渊走向苏醒的全过程。书中把崩溃视为旧模式脱落与意识觉醒的契机，搭建起常规医疗与灵性疗愈之间的桥梁，提醒每一位读者：痛苦是入口，恐惧是门户，绝望深处正酝酿着新生。</description>
+      <pubDate>Thu, 01 Oct 2026 17:03:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-53cdac</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《灵魂的暗夜》是荷兰心灵导师帕梅拉·克里柏亲历严重抑郁与精神崩溃后的真实记录。她以日记、亲友回忆与约书亚等指导灵的传导讯息，呈现从深渊走向苏醒的全过程。书中把崩溃视为旧模式脱落与意识觉醒的契机，搭建起常规医疗与灵性疗愈之间的桥梁，提醒每一位读者：痛苦是入口，恐惧是门户，绝望深处正酝酿着新生。</itunes:summary>
+      <itunes:duration>00:23:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-53cdac.mp3" length="22899117" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
