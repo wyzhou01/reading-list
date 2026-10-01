@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 16:45:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:47:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22487,6 +22487,17 @@
       <itunes:duration>00:30:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-1525af.mp3" length="29734317" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《深蓝告别》 · 完整版 · 深蓝告别 · 完整讲读</title>
+      <description>一九四五年，中士戴维·巴里从缅甸带回一笔巨款；二十年后，他的女儿凯西带着线索找到游侠侦探崔维斯·麦基。麦基住在五十二英尺大船【缺角同花】上，靠替人追讨被夺走的东西收取一半报酬度日。他循线追查，卷入佛州、巴哈马一带的毒品走私与权贵阴谋，最终在加勒比小岛上短兵相接，夺回了本属于凯西的财富，却失去了深爱的露易丝。麦克唐纳用同一抹深蓝，把告别、贪婪、忠诚与代价串在一起，写出一首关于游侠孤独的忧郁之歌。</description>
+      <pubDate>Thu, 01 Oct 2026 16:46:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-cf3e3e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九四五年，中士戴维·巴里从缅甸带回一笔巨款；二十年后，他的女儿凯西带着线索找到游侠侦探崔维斯·麦基。麦基住在五十二英尺大船【缺角同花】上，靠替人追讨被夺走的东西收取一半报酬度日。他循线追查，卷入佛州、巴哈马一带的毒品走私与权贵阴谋，最终在加勒比小岛上短兵相接，夺回了本属于凯西的财富，却失去了深爱的露易丝。麦克唐纳用同一抹深蓝，把告别、贪婪、忠诚与代价串在一起，写出一首关于游侠孤独的忧郁之歌。</itunes:summary>
+      <itunes:duration>00:30:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-cf3e3e.mp3" length="29165997" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
