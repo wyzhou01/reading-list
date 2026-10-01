@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 16:44:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:45:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22476,6 +22476,17 @@
       <itunes:duration>00:22:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-7a7ffb.mp3" length="21911853" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《老北京杂吧地：天桥的记忆与诠释》 · 完整版 · 老北京杂吧地：天桥的记忆与诠释_-_岳永逸 · 完整讲读</title>
+      <description>《老北京杂吧地：天桥的记忆与诠释》是民俗学者岳永逸耗时十二年的心血之作。它跳出了天安门式的精英大历史框架，把目光投向北京凸字城被遗忘的下半截——天桥。从明清祭天的石拱桥到晚清民国的三教九流云集之地，岳永逸追溯了天桥的演变，解析了撂地艺人的生存技艺，记录了乞丐游民的江湖秩序，梳理了不同时代中外文人如何反复记忆与重塑这个杂吧地。全书既是学术严谨的民俗志，也是有温度的老北京风物志，最终召唤我们用理解的眼光，看见那些被主流叙事遮蔽的平民声音与城市生命力。</description>
+      <pubDate>Thu, 01 Oct 2026 16:45:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-1525af</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《老北京杂吧地：天桥的记忆与诠释》是民俗学者岳永逸耗时十二年的心血之作。它跳出了天安门式的精英大历史框架，把目光投向北京凸字城被遗忘的下半截——天桥。从明清祭天的石拱桥到晚清民国的三教九流云集之地，岳永逸追溯了天桥的演变，解析了撂地艺人的生存技艺，记录了乞丐游民的江湖秩序，梳理了不同时代中外文人如何反复记忆与重塑这个杂吧地。全书既是学术严谨的民俗志，也是有温度的老北京风物志，最终召唤我们用理解的眼光，看见那些被主流叙事遮蔽的平民声音与城市生命力。</itunes:summary>
+      <itunes:duration>00:30:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-1525af.mp3" length="29734317" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
