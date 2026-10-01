@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 30 Sep 2026 17:16:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 00:56:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22179,6 +22179,17 @@
       <itunes:duration>00:25:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-8df121.mp3" length="24123309" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大家小书：中国古典诗歌讲稿》 · 完整版 · 大家小书：中国古典诗歌讲稿 · 完整讲读</title>
+      <description>《大家小书：中国古典诗歌讲稿》由浦江清先生讲述，家人浦汉明、彭书麟整理。全书从《诗经》、楚辞、词曲和元代散曲入手，追踪中国古典诗歌的体制源流与体裁演变，再结合屈原、陶渊明、李白、杜甫、苏轼、辛弃疾、关汉卿等人的创作，分析诗歌的语言节奏、音乐性、比兴传统，以及诗人与时代社会的关系。书中既讨论诗歌如何从乐舞中生成，也说明个人抒情、城市书写、戏曲语言如何逐步展开。通过作家评析与作品细读，读者能够重新理解古典诗歌不只是辞藻和意境的集合，更是汉语发声、历史记忆与人生处境彼此交织的艺术。</description>
+      <pubDate>Thu, 01 Oct 2026 00:56:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260930-episode-20260930-cc203b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大家小书：中国古典诗歌讲稿》由浦江清先生讲述，家人浦汉明、彭书麟整理。全书从《诗经》、楚辞、词曲和元代散曲入手，追踪中国古典诗歌的体制源流与体裁演变，再结合屈原、陶渊明、李白、杜甫、苏轼、辛弃疾、关汉卿等人的创作，分析诗歌的语言节奏、音乐性、比兴传统，以及诗人与时代社会的关系。书中既讨论诗歌如何从乐舞中生成，也说明个人抒情、城市书写、戏曲语言如何逐步展开。通过作家评析与作品细读，读者能够重新理解古典诗歌不只是辞藻和意境的集合，更是汉语发声、历史记忆与人生处境彼此交织的艺术。</itunes:summary>
+      <itunes:duration>00:29:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-cc203b.mp3" length="27875757" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
