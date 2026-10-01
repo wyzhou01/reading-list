@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 16:56:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:58:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22531,6 +22531,17 @@
       <itunes:duration>00:29:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-eb552d.mp3" length="28443309" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《葡萄酒：流淌的文化》 · 完整版 · 葡萄酒：流淌的文化 · 完整讲读</title>
+      <description>《葡萄酒：流淌的文化》是文含写给中国读者的入门指南。书分四部分：初识讲清葡萄酒的历史、官方定义、产地与风土逻辑；品味用三分钟学会品酒，详解红白世界的代表品种与送礼、宴请、自饮的选酒门道；赏鉴环游法国、意大利、西班牙、德国、美国、澳大利亚、南非七大产酒国；拮选覆盖桃红、冰酒、贵腐等特色酒款、餐酒搭配与侍酒礼仪。这本书的最大价值，是让每一个想在饭局上不露怯、想给朋友挑瓶好酒的人，都能从零开始，读懂葡萄、土地与杯中风土。</description>
+      <pubDate>Thu, 01 Oct 2026 16:58:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-9f65e5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《葡萄酒：流淌的文化》是文含写给中国读者的入门指南。书分四部分：初识讲清葡萄酒的历史、官方定义、产地与风土逻辑；品味用三分钟学会品酒，详解红白世界的代表品种与送礼、宴请、自饮的选酒门道；赏鉴环游法国、意大利、西班牙、德国、美国、澳大利亚、南非七大产酒国；拮选覆盖桃红、冰酒、贵腐等特色酒款、餐酒搭配与侍酒礼仪。这本书的最大价值，是让每一个想在饭局上不露怯、想给朋友挑瓶好酒的人，都能从零开始，读懂葡萄、土地与杯中风土。</itunes:summary>
+      <itunes:duration>00:27:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-9f65e5.mp3" length="26146221" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
