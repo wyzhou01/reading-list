@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 17:25:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 17:28:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22674,6 +22674,17 @@
       <itunes:duration>00:30:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-477506.mp3" length="29297325" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《情迷马约卡之夜》 · 完整版 · 情迷马约卡之夜 · 完整讲读</title>
+      <description>《情迷马约卡之夜》是一位中国资深乐评人于二零零五年独行欧洲音乐版图的现场散文集。作者以记者与乐迷的双重身份，穿行于巴塞罗那、马约卡、威尼斯、维罗纳、维也纳、萨尔茨堡、拜罗伊特之间，把加泰罗尼亚音乐宫的烛光四重奏、维罗纳竞技场的露天歌剧、萨尔茨堡教堂的莫扎特弥撒、拜罗伊特森林舞台的瓦格纳、维也纳新年音乐会的全球转播，一一记录在案。这本书不仅是中国乐迷最早的系统性欧洲观剧指南，更是在追问一个深层问题：音乐如何长进一座城市的骨头里？答案藏在维也纳皇室乐师两百年延续的师徒谱系里，藏在拜罗伊特瓦格纳亲手设计的森林剧院里，盖在萨尔茨堡每一场为莫扎特而做的弥撒曲里。对于今天的读者，这本书既是一扇通往欧洲音乐现场的窗，也是一面照见中国城市音乐传统的镜。</description>
+      <pubDate>Thu, 01 Oct 2026 17:28:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-4dc91c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《情迷马约卡之夜》是一位中国资深乐评人于二零零五年独行欧洲音乐版图的现场散文集。作者以记者与乐迷的双重身份，穿行于巴塞罗那、马约卡、威尼斯、维罗纳、维也纳、萨尔茨堡、拜罗伊特之间，把加泰罗尼亚音乐宫的烛光四重奏、维罗纳竞技场的露天歌剧、萨尔茨堡教堂的莫扎特弥撒、拜罗伊特森林舞台的瓦格纳、维也纳新年音乐会的全球转播，一一记录在案。这本书不仅是中国乐迷最早的系统性欧洲观剧指南，更是在追问一个深层问题：音乐如何长进一座城市的骨头里？答案藏在维也纳皇室乐师两百年延续的师徒谱系里，藏在拜罗伊特瓦格纳亲手设计的森林剧院里，盖在萨尔茨堡每一场为莫扎特而做的弥撒曲里。对于今天的读者，这本书既是一扇通往欧洲音乐现场的窗，也是一面照见中国城市音乐传统的镜。</itunes:summary>
+      <itunes:duration>00:30:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-4dc91c.mp3" length="28945581" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
