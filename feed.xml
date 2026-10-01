@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 17:16:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 17:17:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22630,6 +22630,17 @@
       <itunes:duration>00:32:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-0c8438.mp3" length="31588269" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《理由》 · 完整版 · 理由_-_[日]_宫部美雪 · 完整讲读</title>
+      <description>一九九六年东京, 一个暴雨之夜, 三十五层塔楼二十层的一户人家, 四口人被杀, 凶手从窗口坠亡。日本社会派推理作家宫部美雪以这桩看似简单的灭门血案为起点, 用一整本书追问一个沉重的命题:家庭和血缘, 究竟是一种责任, 还是一种无法挣脱的枷锁。小说串起四个普通家庭的崩溃与挣扎:被杀的砂川一家、凶手八代佑司那个从小被收养却始终找不到归属感的少年、藏匿证人的片仓旅馆一家、以及围绕案件议论纷纷的邻居们。宫部美雪不靠诡异的密室取胜, 而是用人性最幽暗的角落, 照见我们每一个人都可能面对的困境。最终, 她借片仓母女深夜厨房里的一段对话, 给出了贯穿全书的答案:无家可归, 和自由, 是完全不一样的。</description>
+      <pubDate>Thu, 01 Oct 2026 17:16:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-3e7012</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九九六年东京, 一个暴雨之夜, 三十五层塔楼二十层的一户人家, 四口人被杀, 凶手从窗口坠亡。日本社会派推理作家宫部美雪以这桩看似简单的灭门血案为起点, 用一整本书追问一个沉重的命题:家庭和血缘, 究竟是一种责任, 还是一种无法挣脱的枷锁。小说串起四个普通家庭的崩溃与挣扎:被杀的砂川一家、凶手八代佑司那个从小被收养却始终找不到归属感的少年、藏匿证人的片仓旅馆一家、以及围绕案件议论纷纷的邻居们。宫部美雪不靠诡异的密室取胜, 而是用人性最幽暗的角落, 照见我们每一个人都可能面对的困境。最终, 她借片仓母女深夜厨房里的一段对话, 给出了贯穿全书的答案:无家可归, 和自由, 是完全不一样的。</itunes:summary>
+      <itunes:duration>00:28:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-3e7012.mp3" length="26918829" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
