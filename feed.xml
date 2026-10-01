@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 00:56:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 00:57:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22190,6 +22190,17 @@
       <itunes:duration>00:29:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-cc203b.mp3" length="27875757" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《杜撰集》 · 完整版 · 杜撰集 · 完整讲读</title>
+      <description>《杜撰集》是博尔赫斯早期短篇小说的代表作合集，以形而上学的侦探故事、梦境与现实的交织、以及对时间、身份与无限等主题的思辨著称。集中收录了《博闻强记的富内斯》《死亡与指南针》《南方》《凤凰教派》《结局》等经典篇目，呈现了作家对迷宫、镜像、宿命与杜撰本身的迷恋，每一篇都在现实与虚构的边界上构筑一个精密而令人不安的智识迷宫。</description>
+      <pubDate>Thu, 01 Oct 2026 00:57:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260930-episode-20260930-2495a7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《杜撰集》是博尔赫斯早期短篇小说的代表作合集，以形而上学的侦探故事、梦境与现实的交织、以及对时间、身份与无限等主题的思辨著称。集中收录了《博闻强记的富内斯》《死亡与指南针》《南方》《凤凰教派》《结局》等经典篇目，呈现了作家对迷宫、镜像、宿命与杜撰本身的迷恋，每一篇都在现实与虚构的边界上构筑一个精密而令人不安的智识迷宫。</itunes:summary>
+      <itunes:duration>00:33:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-2495a7.mp3" length="32129325" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
