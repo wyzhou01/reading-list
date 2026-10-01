@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 00:57:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 03:20:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22201,6 +22201,17 @@
       <itunes:duration>00:33:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-2495a7.mp3" length="32129325" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《道林·格雷的画像》 · 完整版 · 道林·格雷的画像_-_王尔德 · 完整讲读</title>
+      <description>《道林·格雷的画像》是十九世纪爱尔兰作家王尔德唯一的长篇小说, 讲述了美貌少年道林·格雷许下心愿, 让画像替自己承受岁月与罪恶, 脸庞永葆青春, 灵魂却一步步堕入纵欲、背叛与谋杀。故事最终以悲剧收场——道林刺向画像的一刀, 倒下的却是自己。本书既是维多利亚晚期哥特小说的巅峰, 也是现代心理小说的先驱。它用一面&apos;灵魂的镜子&apos;, 拷问每一个活在滤镜与伪装中的人: 你愿不愿意, 抬头看一眼真实的自己?</description>
+      <pubDate>Thu, 01 Oct 2026 03:20:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20260930-episode-20260930-ee1d6e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《道林·格雷的画像》是十九世纪爱尔兰作家王尔德唯一的长篇小说, 讲述了美貌少年道林·格雷许下心愿, 让画像替自己承受岁月与罪恶, 脸庞永葆青春, 灵魂却一步步堕入纵欲、背叛与谋杀。故事最终以悲剧收场——道林刺向画像的一刀, 倒下的却是自己。本书既是维多利亚晚期哥特小说的巅峰, 也是现代心理小说的先驱。它用一面&apos;灵魂的镜子&apos;, 拷问每一个活在滤镜与伪装中的人: 你愿不愿意, 抬头看一眼真实的自己?</itunes:summary>
+      <itunes:duration>00:35:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20260930/episode-20260930-ee1d6e.mp3" length="33907629" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
