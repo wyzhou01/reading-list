@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 17:37:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 17:41:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22718,6 +22718,17 @@
       <itunes:duration>00:26:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-6f0125.mp3" length="25073325" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《释梦（升级版）》 · 完整版 · 释梦（升级版）_-_62个人心理 · 完整讲读</title>
+      <description>《释梦》是国内心理学家朱建军写给普通读者的释梦工具书。书中提出一个核心观点：梦是潜意识写给你的信，是另一种真实，释梦是连接逻辑思维与原始认知的桥梁。书里既有理论骨架，又有象征词典、案例示范、释梦同心圆、命题做梦、清醒梦训练等可上手的工具。读完后你不会再把梦当成迷信或噪音，而是会用一种新的方式听懂自己、理解别人、改善生活。在睡不好的时代，梦可能是你最诚实的倾听者。</description>
+      <pubDate>Thu, 01 Oct 2026 17:41:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-794d63</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《释梦》是国内心理学家朱建军写给普通读者的释梦工具书。书中提出一个核心观点：梦是潜意识写给你的信，是另一种真实，释梦是连接逻辑思维与原始认知的桥梁。书里既有理论骨架，又有象征词典、案例示范、释梦同心圆、命题做梦、清醒梦训练等可上手的工具。读完后你不会再把梦当成迷信或噪音，而是会用一种新的方式听懂自己、理解别人、改善生活。在睡不好的时代，梦可能是你最诚实的倾听者。</itunes:summary>
+      <itunes:duration>00:35:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-794d63.mp3" length="34256301" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
