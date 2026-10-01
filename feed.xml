@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 14:56:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 14:56:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22278,6 +22278,17 @@
       <itunes:duration>00:33:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-bccfa4.mp3" length="32369325" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《欧阳修词集》 · 完整版 · 欧阳修词集 · 完整讲读</title>
+      <description>本书为北宋文坛盟主欧阳修现存词作二百四十二首的整理本，按调编排，附有历代评论与本事系年。欧词上承花间与南唐冯延巳、晏殊的宰相之词，下启苏东坡的豪放疏朗与秦少游的深婉缠绵，是中国词史从花间走向两宋的关键一环。本书通过解读欧词在文体破壁、贬谪与归隐、雅俗并存、词史奠基等维度的多重意义，揭示一位被低估的一代词人如何用小词为后世打开词史新天地。</description>
+      <pubDate>Thu, 01 Oct 2026 14:56:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-f95fe8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书为北宋文坛盟主欧阳修现存词作二百四十二首的整理本，按调编排，附有历代评论与本事系年。欧词上承花间与南唐冯延巳、晏殊的宰相之词，下启苏东坡的豪放疏朗与秦少游的深婉缠绵，是中国词史从花间走向两宋的关键一环。本书通过解读欧词在文体破壁、贬谪与归隐、雅俗并存、词史奠基等维度的多重意义，揭示一位被低估的一代词人如何用小词为后世打开词史新天地。</itunes:summary>
+      <itunes:duration>00:28:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-f95fe8.mp3" length="27658029" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
