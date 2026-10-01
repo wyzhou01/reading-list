@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 17:41:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 17:45:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22729,6 +22729,17 @@
       <itunes:duration>00:35:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-794d63.mp3" length="34256301" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《肯尼亚，很甜》 · 完整版 · 肯尼亚，很甜_-_袁田 · 完整讲读</title>
+      <description>《肯尼亚，很甜》是袁田在肯尼亚独自行走九十天的私人手记。一个中国女孩，从内罗毕的穆宗古身份困境出发，穿越马赛马拉的角马迁徙、上国荒漠的桑布鲁部落、印度洋的拉穆海岸，最终落脚于基贝拉贫民窟做志愿者。袁田用介入而非观光的姿态，写出了一个被联合国称为极度危险的首都、被猎奇叙事反复消费的马赛族群、以及被西方援助逻辑反复遮蔽的本地苦难。她提出一个反讽的命题：肯尼亚的甜，是把苦涩一并吞下之后的甜。走过、历经过、付出过，才能把一个地方咽进身体，成为身份的一部分。</description>
+      <pubDate>Thu, 01 Oct 2026 17:45:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-91f423</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《肯尼亚，很甜》是袁田在肯尼亚独自行走九十天的私人手记。一个中国女孩，从内罗毕的穆宗古身份困境出发，穿越马赛马拉的角马迁徙、上国荒漠的桑布鲁部落、印度洋的拉穆海岸，最终落脚于基贝拉贫民窟做志愿者。袁田用介入而非观光的姿态，写出了一个被联合国称为极度危险的首都、被猎奇叙事反复消费的马赛族群、以及被西方援助逻辑反复遮蔽的本地苦难。她提出一个反讽的命题：肯尼亚的甜，是把苦涩一并吞下之后的甜。走过、历经过、付出过，才能把一个地方咽进身体，成为身份的一部分。</itunes:summary>
+      <itunes:duration>00:30:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-91f423.mp3" length="29145261" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
