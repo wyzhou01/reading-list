@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 17:09:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:13:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23378,6 +23378,17 @@
       <itunes:duration>00:28:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-75a4cc.mp3" length="27242925" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《现实感：观念及其历史研究》 · 完整版 · 现实感 · 完整讲读</title>
+      <description>《现实感》是思想史家以赛亚·伯林的九篇文章合集, 围绕观念及其历史展开. 伯林批判历史决定论的诱惑, 捍卫政治实践中不可化约的判断力, 揭示康德与启蒙运动内部的民族主义暗流, 通过泰戈尔区分善良的与毁灭性的民族意识, 并对浪漫主义革命做出公允的诊断: 它解放了主观性, 也为二十世纪的灾难提供了思想资源. 全书共同底色是对一元论真理观的警惕, 对人类生活复杂性的尊重, 对任何整齐公式的怀疑. 在今天, 这套思路有助于拆解那些穿着科学外衣的宏大预测, 恢复对具体经验的感知能力, 重建一种清醒、谦逊、有责任感的现实感.</description>
+      <pubDate>Fri, 02 Oct 2026 17:12:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-a580a3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《现实感》是思想史家以赛亚·伯林的九篇文章合集, 围绕观念及其历史展开. 伯林批判历史决定论的诱惑, 捍卫政治实践中不可化约的判断力, 揭示康德与启蒙运动内部的民族主义暗流, 通过泰戈尔区分善良的与毁灭性的民族意识, 并对浪漫主义革命做出公允的诊断: 它解放了主观性, 也为二十世纪的灾难提供了思想资源. 全书共同底色是对一元论真理观的警惕, 对人类生活复杂性的尊重, 对任何整齐公式的怀疑. 在今天, 这套思路有助于拆解那些穿着科学外衣的宏大预测, 恢复对具体经验的感知能力, 重建一种清醒、谦逊、有责任感的现实感.</itunes:summary>
+      <itunes:duration>00:33:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-a580a3.mp3" length="32200365" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
