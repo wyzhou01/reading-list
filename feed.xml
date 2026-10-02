@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 02:11:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 02:13:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22872,6 +22872,17 @@
       <itunes:duration>00:24:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-0488ef.mp3" length="23925933" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我曾侍候过英国国王》 · 完整版 · 我曾侍候过英国国王_-_[捷克]赫拉巴尔_ · 完整讲读</title>
+      <description>《我曾侍候过英国国王》是捷克作家博胡米尔·赫拉巴尔于一九七一年夏天在林间小木屋里一气呵成的代表作。小说用一个干巴小个子餐厅服务员的视角，把捷克斯洛伐克自二战前到五十年代初期约半个世纪的市井浮世绘串成了一条线。从金色布拉格旅馆的学徒岁月，到天堂艳楼的花瓣印心；从纳粹占领时期的炼狱，到战后百万富翁拘留营的荒唐；最后落到林间小木屋，与猫狗羊驹相伴的晚年。小说以小个子在各类饭店的所见所闻为线索，串起资本家、地方官、艳楼小姐、法国女郎、密探、将军、外国皇帝等各色人等，更亲临纳粹人种培育中心与利吉采大惨案。金钱能买到美人，能买到诗，能买到一晚上的好梦，可金钱买不到时代。小人物在时代齿轮下翻滚，绕了一大圈，最终都要回归自然——这就是这部用说书形式与点彩派笔触画成的色彩浓烈又偏暗的中欧市井浮世绘想要告诉我们的全部。</description>
+      <pubDate>Fri, 02 Oct 2026 02:13:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-bb8473</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我曾侍候过英国国王》是捷克作家博胡米尔·赫拉巴尔于一九七一年夏天在林间小木屋里一气呵成的代表作。小说用一个干巴小个子餐厅服务员的视角，把捷克斯洛伐克自二战前到五十年代初期约半个世纪的市井浮世绘串成了一条线。从金色布拉格旅馆的学徒岁月，到天堂艳楼的花瓣印心；从纳粹占领时期的炼狱，到战后百万富翁拘留营的荒唐；最后落到林间小木屋，与猫狗羊驹相伴的晚年。小说以小个子在各类饭店的所见所闻为线索，串起资本家、地方官、艳楼小姐、法国女郎、密探、将军、外国皇帝等各色人等，更亲临纳粹人种培育中心与利吉采大惨案。金钱能买到美人，能买到诗，能买到一晚上的好梦，可金钱买不到时代。小人物在时代齿轮下翻滚，绕了一大圈，最终都要回归自然——这就是这部用说书形式与点彩派笔触画成的色彩浓烈又偏暗的中欧市井浮世绘想要告诉我们的全部。</itunes:summary>
+      <itunes:duration>00:32:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-bb8473.mp3" length="30879789" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
