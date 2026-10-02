@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 17:34:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:36:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23521,6 +23521,17 @@
       <itunes:duration>00:27:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-0f06db.mp3" length="26348973" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《斯通与骑士伙伴》 · 完整版 · 斯通与骑士伙伴_-_V.S.奈保尔 · 完整讲读</title>
+      <description>《斯通与骑士伙伴》是奈保尔一九七四年写就的现代都市寓言。伦敦小公司图书管理员斯通先生，六十二岁、单身、害羞，在汤姆林森夫妇的年度晚宴上结识寡居的斯普林格太太，被她把猫与奶酪的糗事占为己有，第一次体验到【被听见】。随后他被卷入一场名为【骑士伙伴】的荒唐公关升迁骗局，成为公司对外宣传的吉祥物。妻子玛格丽特决意离开，妹妹奥莉薇与同事温珀私奔并怀孕，温珀借此平步青云，斯通先生却困在原地。交通大罢工之日，他在伦敦街头独自长走，回家时发现那只绿眼睛的猫又出现了。一部关于中年孤独、情欲虚妄、秩序崩塌与沉默尊严的冷峻长篇。</description>
+      <pubDate>Fri, 02 Oct 2026 17:36:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-6f3dd2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《斯通与骑士伙伴》是奈保尔一九七四年写就的现代都市寓言。伦敦小公司图书管理员斯通先生，六十二岁、单身、害羞，在汤姆林森夫妇的年度晚宴上结识寡居的斯普林格太太，被她把猫与奶酪的糗事占为己有，第一次体验到【被听见】。随后他被卷入一场名为【骑士伙伴】的荒唐公关升迁骗局，成为公司对外宣传的吉祥物。妻子玛格丽特决意离开，妹妹奥莉薇与同事温珀私奔并怀孕，温珀借此平步青云，斯通先生却困在原地。交通大罢工之日，他在伦敦街头独自长走，回家时发现那只绿眼睛的猫又出现了。一部关于中年孤独、情欲虚妄、秩序崩塌与沉默尊严的冷峻长篇。</itunes:summary>
+      <itunes:duration>00:36:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-6f3dd2.mp3" length="34795821" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
