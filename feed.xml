@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 02:22:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 02:23:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22949,6 +22949,17 @@
       <itunes:duration>00:28:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-6aa228.mp3" length="26896173" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《政治秩序的起源》 · 完整版 · 政治秩序的起源_［美］弗朗西斯·福_山 · 完整讲读</title>
+      <description>《政治秩序的起源》是弗朗西斯·福山沉淀二十年后的重磅之作，回答一个底层问题：支撑现代自由民主制的政治制度，究竟是怎么一步步演化出来的？福山把古今中外的政治制度拆成三大组件——国家、法治、负责制政府，认为能把这三样稳定拼在一起的国家，才是现代政治的奇迹。中国早熟地建成了强大的中央集权国家，却缺乏法治与负责制；印度通过宗教与种姓制发展出限制国家权力的法治雏形，却始终没能集权；欧洲因教廷与国王的权力拉扯，意外拼出了负责制政府的核心组件——议会。福山还提出，政治制度与生物进化类似，变异与选择无时无刻不在发生；当制度僵化或家族化时，便发生衰败。今天重读这本书，会发现它的预言惊人地准——民主衰退、国家能力回归、技术对治理的冲击，全在书中伏笔之中。无论你是关心国家治理的公务员、思考创业环境的商人，还是想理解世界格局的普通听众，这本书都能给你一套看穿政治表象的底层框架。</description>
+      <pubDate>Fri, 02 Oct 2026 02:23:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-39bd0d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《政治秩序的起源》是弗朗西斯·福山沉淀二十年后的重磅之作，回答一个底层问题：支撑现代自由民主制的政治制度，究竟是怎么一步步演化出来的？福山把古今中外的政治制度拆成三大组件——国家、法治、负责制政府，认为能把这三样稳定拼在一起的国家，才是现代政治的奇迹。中国早熟地建成了强大的中央集权国家，却缺乏法治与负责制；印度通过宗教与种姓制发展出限制国家权力的法治雏形，却始终没能集权；欧洲因教廷与国王的权力拉扯，意外拼出了负责制政府的核心组件——议会。福山还提出，政治制度与生物进化类似，变异与选择无时无刻不在发生；当制度僵化或家族化时，便发生衰败。今天重读这本书，会发现它的预言惊人地准——民主衰退、国家能力回归、技术对治理的冲击，全在书中伏笔之中。无论你是关心国家治理的公务员、思考创业环境的商人，还是想理解世界格局的普通听众，这本书都能给你一套看穿政治表象的底层框架。</itunes:summary>
+      <itunes:duration>00:27:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-39bd0d.mp3" length="26241069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
