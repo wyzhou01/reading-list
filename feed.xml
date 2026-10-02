@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 02:43:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 02:44:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23037,6 +23037,17 @@
       <itunes:duration>00:20:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-7c6fec.mp3" length="19859373" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《勇士之城》 · 完整版 · 勇士之城（上下）_-_贾东岩_李文强_张帆_著 · 完整讲读</title>
+      <description>《勇士之城》以一九四三年冬湖南棠德保卫战为背景，讲述了五千虎贲将士与棠德城内警察联手抗日的悲壮故事。主角何平安本是一位身怀绝技却甘于平淡的小警察，灾民围城、城门紧闭的危急关头，他打开城门放人入城，由此被卷入战局中心。小说以小人物觉醒为主线，穿插他与沈家二小姐沈湘菱从误解到相守的爱情，与刘世铭从对手到生死兄弟的友情，以及城外的虎贲将士、城内的县长警察、各路土匪与侵略者的多方博弈，在血与火之间展现普通人的勇气、牺牲与家国情怀，是一部向抗战中所有无名英雄致敬的诚意之作。</description>
+      <pubDate>Fri, 02 Oct 2026 02:44:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-fc3690</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《勇士之城》以一九四三年冬湖南棠德保卫战为背景，讲述了五千虎贲将士与棠德城内警察联手抗日的悲壮故事。主角何平安本是一位身怀绝技却甘于平淡的小警察，灾民围城、城门紧闭的危急关头，他打开城门放人入城，由此被卷入战局中心。小说以小人物觉醒为主线，穿插他与沈家二小姐沈湘菱从误解到相守的爱情，与刘世铭从对手到生死兄弟的友情，以及城外的虎贲将士、城内的县长警察、各路土匪与侵略者的多方博弈，在血与火之间展现普通人的勇气、牺牲与家国情怀，是一部向抗战中所有无名英雄致敬的诚意之作。</itunes:summary>
+      <itunes:duration>00:28:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-fc3690.mp3" length="27199533" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
