@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 03:15:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 03:26:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23191,6 +23191,17 @@
       <itunes:duration>00:26:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-66c43b.mp3" length="25676973" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《焚舟纪·染血之室与其他故事》 · 完整版 · 焚舟纪·染血之室与其他故事_-_安吉拉·卡特 · 完整讲读</title>
+      <description>《焚舟纪·染血之室与其他故事》是英国女性主义作家安吉拉·卡特的短篇小说集，收录五篇颠覆经典童话的黑暗寓言。卡特以华丽而锋利的诗意语言，解构婚姻制度中的性别经济学、镜映认同中的自我困境、身体政治中的血液禁忌，以及野性与文明的边界冲突。在《染血之室》中，十七岁的新娘在童话婚礼中逐渐觉醒；在《狼女艾丽斯》中，被狼群养大的少女在文明与本能间寻找身份归属。这些故事共同指向一个核心命题：童话从未消失，它只是换了皮肤继续讲述；而每一位读者，都可以在被颠覆的叙事中找到夺回主体性的力量。</description>
+      <pubDate>Fri, 02 Oct 2026 03:26:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-8362b7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《焚舟纪·染血之室与其他故事》是英国女性主义作家安吉拉·卡特的短篇小说集，收录五篇颠覆经典童话的黑暗寓言。卡特以华丽而锋利的诗意语言，解构婚姻制度中的性别经济学、镜映认同中的自我困境、身体政治中的血液禁忌，以及野性与文明的边界冲突。在《染血之室》中，十七岁的新娘在童话婚礼中逐渐觉醒；在《狼女艾丽斯》中，被狼群养大的少女在文明与本能间寻找身份归属。这些故事共同指向一个核心命题：童话从未消失，它只是换了皮肤继续讲述；而每一位读者，都可以在被颠覆的叙事中找到夺回主体性的力量。</itunes:summary>
+      <itunes:duration>00:31:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-8362b7.mp3" length="29803053" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
