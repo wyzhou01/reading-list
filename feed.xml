@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 01:05:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 01:07:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22784,6 +22784,17 @@
       <itunes:duration>00:31:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-c387e2.mp3" length="29894445" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《愿所有美好如期而至》 · 完整版 · 愿所有美好如期而至 · 完整讲读</title>
+      <description>本期节目精读十点读书出品的《愿所有美好如期而至》。这本书收录二十位作者关于爱、成长与坚持的散文。从十点读书创始人的序言讲起，串起六个核心拼图：跨越阶层的搏杀、被人群排斥后的独处、柴米油盐里的守护、社交失意者靠手艺重建自我、与错过之人平静告别、相由心生与自我塑造。读完这本书你会明白，生活的意义不是等来的，是你用每一天的温柔、坚持、在场，一步步走出来的。所有美好如期而至的前提，是你自己先活成一个美好愿意降落的模样。</description>
+      <pubDate>Fri, 02 Oct 2026 01:06:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-eb7bae</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期节目精读十点读书出品的《愿所有美好如期而至》。这本书收录二十位作者关于爱、成长与坚持的散文。从十点读书创始人的序言讲起，串起六个核心拼图：跨越阶层的搏杀、被人群排斥后的独处、柴米油盐里的守护、社交失意者靠手艺重建自我、与错过之人平静告别、相由心生与自我塑造。读完这本书你会明白，生活的意义不是等来的，是你用每一天的温柔、坚持、在场，一步步走出来的。所有美好如期而至的前提，是你自己先活成一个美好愿意降落的模样。</itunes:summary>
+      <itunes:duration>00:33:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-eb7bae.mp3" length="32255661" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
