@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 02:30:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 02:36:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22993,6 +22993,17 @@
       <itunes:duration>00:28:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-124c95.mp3" length="27201069" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《先生馔：梁实秋唐鲁孙的民国食单》 · 完整版 · 先生馔：梁实秋唐鲁孙的民国食单 · 完整讲读</title>
+      <description>《先生馔：梁实秋唐鲁孙的民国食单》是戴爱群编著、二零一六年三联书店出版的一部特殊饮食读物。它把梁实秋、唐鲁孙两位民国文人在台湾写下的旧京饮馔美文，由鲁菜名厨张少刚一一复原为二十六道可操作的菜品，再由陶艺家高振宇提供手工器皿盛装、配以释文，形成一部复古菜谱与文化随感合一的作品。本书特色在于：一是把文学里的美食变成餐桌上的现实，搭建起文字与厨房的桥梁；二是对每道菜的源流展开考据，引入《随园食单》《调鼎集》等清代文献进行比对，凸显饮食的语境；三是以高振宇的器皿释文呈现日用器物之美，呼应【用是器皿的灵魂】的理念；四是在自序中直言复古的保守意义，对当下餐饮界一味求新的流弊【泼一瓢冷水】。它让我们看见：在讲求创新的时代，认认真真把一道老菜做回来，本身就是一种创造。</description>
+      <pubDate>Fri, 02 Oct 2026 02:36:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-9ceee4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《先生馔：梁实秋唐鲁孙的民国食单》是戴爱群编著、二零一六年三联书店出版的一部特殊饮食读物。它把梁实秋、唐鲁孙两位民国文人在台湾写下的旧京饮馔美文，由鲁菜名厨张少刚一一复原为二十六道可操作的菜品，再由陶艺家高振宇提供手工器皿盛装、配以释文，形成一部复古菜谱与文化随感合一的作品。本书特色在于：一是把文学里的美食变成餐桌上的现实，搭建起文字与厨房的桥梁；二是对每道菜的源流展开考据，引入《随园食单》《调鼎集》等清代文献进行比对，凸显饮食的语境；三是以高振宇的器皿释文呈现日用器物之美，呼应【用是器皿的灵魂】的理念；四是在自序中直言复古的保守意义，对当下餐饮界一味求新的流弊【泼一瓢冷水】。它让我们看见：在讲求创新的时代，认认真真把一道老菜做回来，本身就是一种创造。</itunes:summary>
+      <itunes:duration>00:28:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-9ceee4.mp3" length="27729453" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
