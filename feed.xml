@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 02:51:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 02:51:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23070,6 +23070,17 @@
       <itunes:duration>00:30:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-f5342b.mp3" length="28861101" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《帝国政界往事》 · 完整版 · 帝国政界往事：公元1127年大宋实录+大明王朝纪事+大清是如何拿下天下的上册+下册(全新 · 完整讲读</title>
+      <description>《帝国政界往事》是李亚平写的三朝权力博弈通俗史，把大宋、大明、大清的帝王心术、臣子命运、宫斗暗战一气贯通。核心观点是——专制皇权的笼子里，好人注定悲惨，坏人注定呼风有雨，帝王越想集权反而越积贫弱。大宋【卧榻之侧不容他人酣睡】的基因，造就了宋徽宗式的浪漫败家；大明朱元璋式的【杀】字诀，反噬出崇祯式的刚愎自用；大清女真人学会的【用】字诀，则让她们七十年吞下中原。这套书最犀利的，是它不评判好坏，只摆事实讲逻辑——读懂这三朝兴亡，就是读懂我们身边那些看不见的规则。</description>
+      <pubDate>Fri, 02 Oct 2026 02:51:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-61af17</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《帝国政界往事》是李亚平写的三朝权力博弈通俗史，把大宋、大明、大清的帝王心术、臣子命运、宫斗暗战一气贯通。核心观点是——专制皇权的笼子里，好人注定悲惨，坏人注定呼风有雨，帝王越想集权反而越积贫弱。大宋【卧榻之侧不容他人酣睡】的基因，造就了宋徽宗式的浪漫败家；大明朱元璋式的【杀】字诀，反噬出崇祯式的刚愎自用；大清女真人学会的【用】字诀，则让她们七十年吞下中原。这套书最犀利的，是它不评判好坏，只摆事实讲逻辑——读懂这三朝兴亡，就是读懂我们身边那些看不见的规则。</itunes:summary>
+      <itunes:duration>00:25:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-61af17.mp3" length="24060717" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
