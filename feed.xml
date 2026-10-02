@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 17:36:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:37:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23543,6 +23543,17 @@
       <itunes:duration>00:28:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-86ff5b.mp3" length="27291693" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《风沙星辰》 · 完整版 · 风沙星辰_-_[法]_安东尼德圣埃克苏佩里_Antoine_de_Saint_Exupéry · 完整讲读</title>
+      <description>《风沙星辰》是法国飞行员作家圣埃克苏佩里在二战前夕写下的散文集，记录了他和同伴们在云海、沙漠、安第斯山脉上空与死亡擦肩的瞬间。全书以飞行员的视角，丈量了大地、星空与人在自然面前的渺小与尊严，书写了飞行员之间超越功利的精神友谊，并尖锐批判了被布尔乔亚式的安逸所磨灭的渴望。圣埃克苏佩里用诗一般的语言，召唤每一个读者，去唤醒自己身体里那颗被谋杀的莫扎特。</description>
+      <pubDate>Fri, 02 Oct 2026 17:37:36 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-e6fb96</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《风沙星辰》是法国飞行员作家圣埃克苏佩里在二战前夕写下的散文集，记录了他和同伴们在云海、沙漠、安第斯山脉上空与死亡擦肩的瞬间。全书以飞行员的视角，丈量了大地、星空与人在自然面前的渺小与尊严，书写了飞行员之间超越功利的精神友谊，并尖锐批判了被布尔乔亚式的安逸所磨灭的渴望。圣埃克苏佩里用诗一般的语言，召唤每一个读者，去唤醒自己身体里那颗被谋杀的莫扎特。</itunes:summary>
+      <itunes:duration>00:29:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-e6fb96.mp3" length="28627245" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
