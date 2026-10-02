@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 17:29:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:31:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23499,6 +23499,17 @@
       <itunes:duration>00:25:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-f0452c.mp3" length="24296109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《画骨（全两册）（新版）》 · 完整版 · 画骨（全两册）（新版） · 完整讲读</title>
+      <description>《画骨》是一部横亘万年的古风仙侠虐恋，言情作家苏诀的代表作。小说以一间名为明月居的画骨馆为切口，讲述店长达万年不变俊美面庞的云初末，与徒弟云皎、幽冥魔君银时月之间，因一幅画骨而牵扯出神魔大战旧事、轮回执念与万年羁绊的故事。全文以六块拼图为脉络，从明月居的幌子、车迟国的死局、师徒二人的苟且，到银时月的执念、执刀人的身份、神女峰的决战，层层揭开大魔女战姝妤转世之谜。五十九万字的篇幅，既有上古洪荒的苍凉，也有师徒日常的烟火温度，最终落点是——有些羁绊，需要用整个生命去画，去重写，去不悔。</description>
+      <pubDate>Fri, 02 Oct 2026 17:31:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-42695a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《画骨》是一部横亘万年的古风仙侠虐恋，言情作家苏诀的代表作。小说以一间名为明月居的画骨馆为切口，讲述店长达万年不变俊美面庞的云初末，与徒弟云皎、幽冥魔君银时月之间，因一幅画骨而牵扯出神魔大战旧事、轮回执念与万年羁绊的故事。全文以六块拼图为脉络，从明月居的幌子、车迟国的死局、师徒二人的苟且，到银时月的执念、执刀人的身份、神女峰的决战，层层揭开大魔女战姝妤转世之谜。五十九万字的篇幅，既有上古洪荒的苍凉，也有师徒日常的烟火温度，最终落点是——有些羁绊，需要用整个生命去画，去重写，去不悔。</itunes:summary>
+      <itunes:duration>00:25:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-42695a.mp3" length="24675885" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
