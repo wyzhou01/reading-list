@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 01:30:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 02:11:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22861,6 +22861,17 @@
       <itunes:duration>00:30:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-094894.mp3" length="29286957" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《坏道》 · 完整版 · 坏道_-_priest · 完整讲读</title>
+      <description>《坏道》是 priest 的刑侦悬疑代表作。刑警金钟仁在恋人、心理医生卞白贤的协助下,追查专挑漂亮八九岁孩子下手的连环杀手柯如悔。全书以【人类生来有读心术,杀戮是看穿者的终极救赎】这一惊悚设定为核心,借刑侦、心理分析与善恶思辨,追问人心深渊的边界、信任与猜疑的临界点,以及善与恶究竟是天生对立还是互相滋生。priest 用冷静克制的笔触,把每一个人物放在道德灰色地带反复拷问,最终给出一种近乎倔强的答案——即便阳光找不到的地方遍生污秽,我们依然选择生活在阳光下。</description>
+      <pubDate>Fri, 02 Oct 2026 02:11:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-0488ef</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《坏道》是 priest 的刑侦悬疑代表作。刑警金钟仁在恋人、心理医生卞白贤的协助下,追查专挑漂亮八九岁孩子下手的连环杀手柯如悔。全书以【人类生来有读心术,杀戮是看穿者的终极救赎】这一惊悚设定为核心,借刑侦、心理分析与善恶思辨,追问人心深渊的边界、信任与猜疑的临界点,以及善与恶究竟是天生对立还是互相滋生。priest 用冷静克制的笔触,把每一个人物放在道德灰色地带反复拷问,最终给出一种近乎倔强的答案——即便阳光找不到的地方遍生污秽,我们依然选择生活在阳光下。</itunes:summary>
+      <itunes:duration>00:24:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-0488ef.mp3" length="23925933" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
