@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 03:07:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 03:08:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23136,6 +23136,17 @@
       <itunes:duration>00:29:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-8a01b3.mp3" length="28369581" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《影子恋人》 · 完整版 · 影子恋人_-_人海中 · 完整讲读</title>
+      <description>《影子恋人》原名《常欢》，是言情作家人海中的代表作，由顾漫与明晓溪联袂推荐。故事讲述内地小城女孩常欢考入上海名校，为生存辗转于家教与兼职之间，在葡萄酒廊【思凡】遇见温文尔雅的严子非，一见倾心。却不知他心中住着已牺牲的女警察程谨，常欢不知不觉成为影子。原生家庭的创伤、对【被爱】的饥渴、替身爱情的残忍与救赎，在二零零零年前后的上海交织成一曲纯爱悲歌。这不仅是一个关于初恋的故事，更是一段关于自我、关于放下、关于【让你自己变得非常好】的成长史。</description>
+      <pubDate>Fri, 02 Oct 2026 03:08:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-dee7a9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《影子恋人》原名《常欢》，是言情作家人海中的代表作，由顾漫与明晓溪联袂推荐。故事讲述内地小城女孩常欢考入上海名校，为生存辗转于家教与兼职之间，在葡萄酒廊【思凡】遇见温文尔雅的严子非，一见倾心。却不知他心中住着已牺牲的女警察程谨，常欢不知不觉成为影子。原生家庭的创伤、对【被爱】的饥渴、替身爱情的残忍与救赎，在二零零零年前后的上海交织成一曲纯爱悲歌。这不仅是一个关于初恋的故事，更是一段关于自我、关于放下、关于【让你自己变得非常好】的成长史。</itunes:summary>
+      <itunes:duration>00:37:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-dee7a9.mp3" length="36311469" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
