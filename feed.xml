@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 17:22:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:23:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23433,6 +23433,17 @@
       <itunes:duration>00:31:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-0ed802.mp3" length="29912493" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我二十九岁的夏天》 · 完整版 · 我二十九岁的夏天 · 完整讲读</title>
+      <description>《我二十九岁的夏天》是建筑师、画家、散文写作者有鹿的自传体散文集，以春、夏、秋、冬四章，写二〇一三年她二十九岁在上海一家小型建筑事务所实习的半年。一只楼梯下被拴住的黄狸猫被她带回了家，与她相伴又告别；交往五年的男朋友在她没来得及起床看一树白花的清晨永远离开了。她在深夜加班后独自走回住处的路上，重新开始失眠，开始重读村上春树，开始用一支最便宜的白自动铅笔写字，开始用几张劣质画布画画。这是一本关于孤独、失语、相遇与告别的书，写一个年轻人如何用自己的双手，安放所有说不出口的爱。</description>
+      <pubDate>Fri, 02 Oct 2026 17:23:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-514955</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我二十九岁的夏天》是建筑师、画家、散文写作者有鹿的自传体散文集，以春、夏、秋、冬四章，写二〇一三年她二十九岁在上海一家小型建筑事务所实习的半年。一只楼梯下被拴住的黄狸猫被她带回了家，与她相伴又告别；交往五年的男朋友在她没来得及起床看一树白花的清晨永远离开了。她在深夜加班后独自走回住处的路上，重新开始失眠，开始重读村上春树，开始用一支最便宜的白自动铅笔写字，开始用几张劣质画布画画。这是一本关于孤独、失语、相遇与告别的书，写一个年轻人如何用自己的双手，安放所有说不出口的爱。</itunes:summary>
+      <itunes:duration>00:30:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-514955.mp3" length="29735085" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
