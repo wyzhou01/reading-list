@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 17:23:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:23:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23444,6 +23444,17 @@
       <itunes:duration>00:30:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-514955.mp3" length="29735085" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《生活中的毒理学》 · 完整版 · 生活中的毒理学_-_Steven_G._Gilbert · 完整讲读</title>
+      <description>《生活中的毒理学》是美国毒理学家史蒂芬·G·吉尔伯特的零基础入门经典。它把晦涩的毒理学术语翻译成普通人可用的判断力：以【剂量决定毒性】为核心，提出风险等于危害乘以暴露、个体敏感性、暴露途径、剂量-反应曲线、历史与监管反馈环六大基石。从神农尝百草到博帕尔事件，从咖啡因到儿童铅暴露，本书用一杯咖啡、一盆花、一次喷洒的距离，帮助读者建立识别健康风险、做出明智决策的框架——既不陷入恐慌，也不替化学品辩护，而是带着剂量这把刻度，看清每一次呼吸、每一口水背后的科学逻辑。</description>
+      <pubDate>Fri, 02 Oct 2026 17:23:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-5bbd66</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《生活中的毒理学》是美国毒理学家史蒂芬·G·吉尔伯特的零基础入门经典。它把晦涩的毒理学术语翻译成普通人可用的判断力：以【剂量决定毒性】为核心，提出风险等于危害乘以暴露、个体敏感性、暴露途径、剂量-反应曲线、历史与监管反馈环六大基石。从神农尝百草到博帕尔事件，从咖啡因到儿童铅暴露，本书用一杯咖啡、一盆花、一次喷洒的距离，帮助读者建立识别健康风险、做出明智决策的框架——既不陷入恐慌，也不替化学品辩护，而是带着剂量这把刻度，看清每一次呼吸、每一口水背后的科学逻辑。</itunes:summary>
+      <itunes:duration>00:21:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-5bbd66.mp3" length="20656173" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
