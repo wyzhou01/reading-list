@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 03:08:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 03:10:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23147,6 +23147,17 @@
       <itunes:duration>00:37:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-dee7a9.mp3" length="36311469" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《地下世界》 · 完整版 · 地下世界 · 完整讲读</title>
+      <description>《地下世界》是唐·德里罗一九九七年出版的史诗巨著,以一九五一年纽约一场棒球季后赛开场,那颗飞出的棒球在五十年间被反复转手,见证了冷战阴影、蘑菇云恐惧、消费主义垃圾、语言图像化与互联网编码。小说的真正主角不是人,而是时代的地下层——填埋场、广告牌、电视画面、加密数据。德·德里罗用爵士乐般的碎片结构,把肯尼迪遇刺、越战升级、苏联解体、核武器数据库拼成一幅后现代美国的精神全景图。当修女在屏幕上点击进入氢弹主页、当胡佛局长与她在数据流中超链接,人最终被转化为脉冲。这是二十世纪后半叶最深刻的寓言:一切神圣与恐惧,最终都被系统收编。</description>
+      <pubDate>Fri, 02 Oct 2026 03:10:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-5065da</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《地下世界》是唐·德里罗一九九七年出版的史诗巨著,以一九五一年纽约一场棒球季后赛开场,那颗飞出的棒球在五十年间被反复转手,见证了冷战阴影、蘑菇云恐惧、消费主义垃圾、语言图像化与互联网编码。小说的真正主角不是人,而是时代的地下层——填埋场、广告牌、电视画面、加密数据。德·德里罗用爵士乐般的碎片结构,把肯尼迪遇刺、越战升级、苏联解体、核武器数据库拼成一幅后现代美国的精神全景图。当修女在屏幕上点击进入氢弹主页、当胡佛局长与她在数据流中超链接,人最终被转化为脉冲。这是二十世纪后半叶最深刻的寓言:一切神圣与恐惧,最终都被系统收编。</itunes:summary>
+      <itunes:duration>00:25:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-5065da.mp3" length="24709293" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
