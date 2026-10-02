@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 00:59:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 00:59:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22762,6 +22762,17 @@
       <itunes:duration>00:27:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-6e6c28.mp3" length="26856621" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《东京人（上）》 · 完整版 · 东京人（上）_-_[日]川端康成 · 完整讲读</title>
+      <description>《东京人》是川端康成一九五四到一九五六年间在《中央公论》连载的长篇小说，与《雪国》《千只鹤》并称战后三部曲。背景是昭和二十年代到三十年代初的东京——刚从二战废墟里喘过气、涌动着一股奇异活力的年代。全书以重组家庭为中心：四十三岁的珠宝钟表中间商敬子，带着前夫留下的两个孩子；落魄的出版社老板俊三，带着与肺病前妻所生的继女弓子。两个中年人同居一栋敬子出资盖起的房子，门上钉着两个姓名牌。然而俊三酗酒、失眠、事业濒危，甚至要拿房子做抵押；前妻京子病愈归来的那天，敬子不得不从自家后门溜走。十九岁的弓子夹在两个母亲之间，最终选择离家出走，去寻找【自己的生活】。川端康成用克制到极致的笔触，写出了战后小市民在经济焦虑、伦理困境与情欲暗流中的摇晃——血缘不是家，门牌不是家，唯一能让人安身立命的，是你自己愿不愿意承认：你就是自己的生活。</description>
+      <pubDate>Fri, 02 Oct 2026 00:59:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-5c80dc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《东京人》是川端康成一九五四到一九五六年间在《中央公论》连载的长篇小说，与《雪国》《千只鹤》并称战后三部曲。背景是昭和二十年代到三十年代初的东京——刚从二战废墟里喘过气、涌动着一股奇异活力的年代。全书以重组家庭为中心：四十三岁的珠宝钟表中间商敬子，带着前夫留下的两个孩子；落魄的出版社老板俊三，带着与肺病前妻所生的继女弓子。两个中年人同居一栋敬子出资盖起的房子，门上钉着两个姓名牌。然而俊三酗酒、失眠、事业濒危，甚至要拿房子做抵押；前妻京子病愈归来的那天，敬子不得不从自家后门溜走。十九岁的弓子夹在两个母亲之间，最终选择离家出走，去寻找【自己的生活】。川端康成用克制到极致的笔触，写出了战后小市民在经济焦虑、伦理困境与情欲暗流中的摇晃——血缘不是家，门牌不是家，唯一能让人安身立命的，是你自己愿不愿意承认：你就是自己的生活。</itunes:summary>
+      <itunes:duration>00:31:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-5c80dc.mp3" length="30663981" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
