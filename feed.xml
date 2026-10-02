@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 03:12:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 03:15:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23169,6 +23169,17 @@
       <itunes:duration>00:19:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-8f670d.mp3" length="18831789" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《假如这是真的》 · 完整版 · 假如这是真的_-_【法】马克·李维 · 完整讲读</title>
+      <description>一九九六年的旧金山，年轻女医生劳伦在一场车祸后陷入深度昏迷，心脏停止跳动长达十分钟。昏迷期间，陌生律师阿瑟以不可思议的方式进入了她的梦境，两人在意识深处相爱、告别。当劳伦奇迹般苏醒，她却失去了车祸前的全部记忆，对着守护在病床前的阿瑟问出那句残忍的“你是谁“。这本书用梦境与现实交织的方式，温柔地追问了一个永恒的问题：当爱跨越了意识与肉体的界限，当遗忘带走了所有共同的记忆，当不可思议的事情真实地发生——我们究竟该选择相信，还是转身离开？阿瑟最后给出了他的答案：他愿意从零开始，向这个陌生人重新讲述他们曾经拥有的一切。这不是一个关于奇迹如何发生的故事，而是一个关于奇迹如何被选择、被守护、被允许继续存在的故事。</description>
+      <pubDate>Fri, 02 Oct 2026 03:15:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-d095d5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九九六年的旧金山，年轻女医生劳伦在一场车祸后陷入深度昏迷，心脏停止跳动长达十分钟。昏迷期间，陌生律师阿瑟以不可思议的方式进入了她的梦境，两人在意识深处相爱、告别。当劳伦奇迹般苏醒，她却失去了车祸前的全部记忆，对着守护在病床前的阿瑟问出那句残忍的“你是谁“。这本书用梦境与现实交织的方式，温柔地追问了一个永恒的问题：当爱跨越了意识与肉体的界限，当遗忘带走了所有共同的记忆，当不可思议的事情真实地发生——我们究竟该选择相信，还是转身离开？阿瑟最后给出了他的答案：他愿意从零开始，向这个陌生人重新讲述他们曾经拥有的一切。这不是一个关于奇迹如何发生的故事，而是一个关于奇迹如何被选择、被守护、被允许继续存在的故事。</itunes:summary>
+      <itunes:duration>00:27:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-d095d5.mp3" length="25924269" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
