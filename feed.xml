@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 17:47:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:50:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23598,6 +23598,17 @@
       <itunes:duration>00:31:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-802d08.mp3" length="30602925" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《时光之轮11：迷梦之刃》 · 完整版 · 时光之轮11-迷梦之刃 · 完整讲读</title>
+      <description>《时光之轮》第十一卷《迷梦之刃》将多线叙事推向最终汇合：加拉德以圣光裁决公开指控弑母仇人瓦达，点燃圣光之子哗变的火种；佩维拉率六名红宗两仪师深入黑塔，与殉道使建立制度化的约缚关系；麦特筹备光之奇妙，佩林率伊蒙村人西迁迎战煞妖者。整本书的核心隐喻，是命运如迷梦之刃——胜利的甜美与失败的苦涩，皆在一刀之间；真正的选择，不在于输赢，而在于是否愿意承担切开旧秩序的代价。</description>
+      <pubDate>Fri, 02 Oct 2026 17:50:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-072804</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《时光之轮》第十一卷《迷梦之刃》将多线叙事推向最终汇合：加拉德以圣光裁决公开指控弑母仇人瓦达，点燃圣光之子哗变的火种；佩维拉率六名红宗两仪师深入黑塔，与殉道使建立制度化的约缚关系；麦特筹备光之奇妙，佩林率伊蒙村人西迁迎战煞妖者。整本书的核心隐喻，是命运如迷梦之刃——胜利的甜美与失败的苦涩，皆在一刀之间；真正的选择，不在于输赢，而在于是否愿意承担切开旧秩序的代价。</itunes:summary>
+      <itunes:duration>00:31:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-072804.mp3" length="30176301" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
