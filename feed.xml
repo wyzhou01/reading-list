@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 17:16:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:18:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23411,6 +23411,17 @@
       <itunes:duration>00:32:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-f0f16b.mp3" length="31378605" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《琅琊榜》 · 完整版 · 琅琊榜_-_海宴 · 完整讲读</title>
+      <description>海宴所著的《琅琊榜》是一部以北魏为背景的权谋长篇小说，讲述了赤焰军少帅林殊在家族被灭、身中火寒之毒后，化名梅长苏，以病弱之躯在江左盟主的身份中韬光养晦十二年，最终以麒麟才子的身份重返金陵，与靖王萧景琰一同搅动朝堂风云、为七万忠魂昭雪真相的复仇史诗。这部小说以极为克制的笔法，写忠奸博弈、写兄弟情义、写家国天下、写人性在权力面前的种种模样，被公认为网络历史权谋小说的巅峰之作。</description>
+      <pubDate>Fri, 02 Oct 2026 17:18:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-760cd3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>海宴所著的《琅琊榜》是一部以北魏为背景的权谋长篇小说，讲述了赤焰军少帅林殊在家族被灭、身中火寒之毒后，化名梅长苏，以病弱之躯在江左盟主的身份中韬光养晦十二年，最终以麒麟才子的身份重返金陵，与靖王萧景琰一同搅动朝堂风云、为七万忠魂昭雪真相的复仇史诗。这部小说以极为克制的笔法，写忠奸博弈、写兄弟情义、写家国天下、写人性在权力面前的种种模样，被公认为网络历史权谋小说的巅峰之作。</itunes:summary>
+      <itunes:duration>00:23:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-760cd3.mp3" length="22593069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
