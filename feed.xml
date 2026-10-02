@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 02:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 02:21:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22916,6 +22916,17 @@
       <itunes:duration>00:25:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-3749c3.mp3" length="24355245" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《拜月的狐儿：雪漠的情诗或道歌》 · 完整版 · 拜月的狐儿：雪漠的情诗或道歌 · 完整讲读</title>
+      <description>《拜月的狐儿：雪漠的情诗或道歌》是雪漠第一部公开出版的诗集，分四辑呈现：辑一写爱情与人生感悟，辑二记录印度佛教八大圣地朝圣见闻，辑三改写自古印度八十四位大成就者的歌，辑四用禅意诗逐分阐释《金刚经》三十二分。从情诗到道歌，从凡俗到超越，全书贯穿寻觅、向往、永恒、超越四个主题。在当代华语文学里，很少有人能把情诗和道歌这样放在一起写。这本书告诉我们，一个修行者的心灵可以有多饱满，也可以有多温柔。真正的文化是一种气息，能让生活的罗网消失，让人生翻开全新的一页。</description>
+      <pubDate>Fri, 02 Oct 2026 02:21:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-f23f2e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《拜月的狐儿：雪漠的情诗或道歌》是雪漠第一部公开出版的诗集，分四辑呈现：辑一写爱情与人生感悟，辑二记录印度佛教八大圣地朝圣见闻，辑三改写自古印度八十四位大成就者的歌，辑四用禅意诗逐分阐释《金刚经》三十二分。从情诗到道歌，从凡俗到超越，全书贯穿寻觅、向往、永恒、超越四个主题。在当代华语文学里，很少有人能把情诗和道歌这样放在一起写。这本书告诉我们，一个修行者的心灵可以有多饱满，也可以有多温柔。真正的文化是一种气息，能让生活的罗网消失，让人生翻开全新的一页。</itunes:summary>
+      <itunes:duration>00:26:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-f23f2e.mp3" length="25446189" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
