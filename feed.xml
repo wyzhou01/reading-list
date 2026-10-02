@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 03:36:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 15:48:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23213,6 +23213,17 @@
       <itunes:duration>00:29:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-c7ac31.mp3" length="28320045" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我的一生：伊莎朵拉·邓肯自传》 · 完整版 · 伊莎朵拉·邓肯自传_-_（美）邓肯 · 完整讲读</title>
+      <description>《我的一生》是现代舞蹈之母伊莎朵拉·邓肯在生命最后阶段写下的回忆录。从旧金山贫民窟的童年，讲到伦敦的舞台、雅典的卫城、莫斯科的苏维埃学校。她用一生回答一个问题：女人能否按自己的方式去活。她打破了芭蕾舞的紧身衣与足尖鞋，主张舞蹈应源于自然与心灵；她十二岁立誓反婚姻，却在四十四岁与俄国诗人叶塞宁结婚；她在欧洲功成名就之后，转向希腊尝试重建古希腊舞蹈学校，最终失败；她又把最后的热情献给苏联的共产主义教育实验，最终又一次幻灭。邓肯的一生，是理想主义者反复押上全部身家、又反复被现实打回原形的真实记录，也是一部关于自由、爱、失去与重生的女性史诗。</description>
+      <pubDate>Fri, 02 Oct 2026 15:47:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-cdfead</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我的一生》是现代舞蹈之母伊莎朵拉·邓肯在生命最后阶段写下的回忆录。从旧金山贫民窟的童年，讲到伦敦的舞台、雅典的卫城、莫斯科的苏维埃学校。她用一生回答一个问题：女人能否按自己的方式去活。她打破了芭蕾舞的紧身衣与足尖鞋，主张舞蹈应源于自然与心灵；她十二岁立誓反婚姻，却在四十四岁与俄国诗人叶塞宁结婚；她在欧洲功成名就之后，转向希腊尝试重建古希腊舞蹈学校，最终失败；她又把最后的热情献给苏联的共产主义教育实验，最终又一次幻灭。邓肯的一生，是理想主义者反复押上全部身家、又反复被现实打回原形的真实记录，也是一部关于自由、爱、失去与重生的女性史诗。</itunes:summary>
+      <itunes:duration>00:30:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-cdfead.mp3" length="29513133" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
