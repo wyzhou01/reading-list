@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 17:01:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:04:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23356,6 +23356,17 @@
       <itunes:duration>00:21:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-ba0ea0.mp3" length="20595501" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《环形世界》 · 完整版 · 环形世界_-_[美]_拉里·尼文 · 完整讲读</title>
+      <description>《环形世界》是拉里·尼文于一九七零年出版的星云奖获奖作品。年已双百的地球人路易·吴厌倦了千篇一律的生活，受一名耍木偶人邀请加入四人探险队，飞向两百光年外的未知星域。他们在一颗陌生的恒星周围，发现了远古文明建造的、比地球还要广袤的巨型人造天体环形世界。这片超级大陆已千疮百孔、濒临崩溃。尼文用硬科幻笔法，探讨了人类探索欲、巨型工程背后的文明兴衰，以及运气、命运与不同物种共存的永恒命题。</description>
+      <pubDate>Fri, 02 Oct 2026 17:04:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-da0bc2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《环形世界》是拉里·尼文于一九七零年出版的星云奖获奖作品。年已双百的地球人路易·吴厌倦了千篇一律的生活，受一名耍木偶人邀请加入四人探险队，飞向两百光年外的未知星域。他们在一颗陌生的恒星周围，发现了远古文明建造的、比地球还要广袤的巨型人造天体环形世界。这片超级大陆已千疮百孔、濒临崩溃。尼文用硬科幻笔法，探讨了人类探索欲、巨型工程背后的文明兴衰，以及运气、命运与不同物种共存的永恒命题。</itunes:summary>
+      <itunes:duration>00:24:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-da0bc2.mp3" length="23534253" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
