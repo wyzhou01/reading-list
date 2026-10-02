@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 18:11:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 18:23:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23686,6 +23686,17 @@
       <itunes:duration>00:23:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-1d2274.mp3" length="22198701" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《去中国的小船》 · 完整版 · 去中国的小船 · 完整讲读</title>
+      <description>《去中国的小船》是村上春树一九八三年的第一部短篇集，收录七个短篇，是他后来所有长篇的种子。书中核心是一个日本少年与三个中国人相遇的故事——跛脚的中国老师、在仓库打工的中国女孩、做百科事典推销的旧日同窗——村上借他们怀有对中国人淡淡的愧疚和原罪意识，写出记忆与遗忘的错位、城市中人的孤独漂泊、用最轻的笔写最重的主题的本事。七个短篇从不同方向，把村上的&quot;轻&quot;推到极致：从考古学式的记忆追问，到涩谷坡路与悉尼绿色大街的孤独形态，到一片看不见的穷婶母、三年没穿上的葬礼西装、最后一片草坪——村上用最干净的句子，写出了人心里那些说不出口的话、做不成的事、找不回的人。本期九十分钟，我们用六块拼图拆开这本书：三个中国人背后的愧疚、城市孤独感的四种形态、村上用轻写重的极致、记忆本身的不可靠、对中国的复杂感情、用最轻的笔写最说不出口的事。</description>
+      <pubDate>Fri, 02 Oct 2026 18:23:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-db0f19</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《去中国的小船》是村上春树一九八三年的第一部短篇集，收录七个短篇，是他后来所有长篇的种子。书中核心是一个日本少年与三个中国人相遇的故事——跛脚的中国老师、在仓库打工的中国女孩、做百科事典推销的旧日同窗——村上借他们怀有对中国人淡淡的愧疚和原罪意识，写出记忆与遗忘的错位、城市中人的孤独漂泊、用最轻的笔写最重的主题的本事。七个短篇从不同方向，把村上的&quot;轻&quot;推到极致：从考古学式的记忆追问，到涩谷坡路与悉尼绿色大街的孤独形态，到一片看不见的穷婶母、三年没穿上的葬礼西装、最后一片草坪——村上用最干净的句子，写出了人心里那些说不出口的话、做不成的事、找不回的人。本期九十分钟，我们用六块拼图拆开这本书：三个中国人背后的愧疚、城市孤独感的四种形态、村上用轻写重的极致、记忆本身的不可靠、对中国的复杂感情、用最轻的笔写最说不出口的事。</itunes:summary>
+      <itunes:duration>00:36:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-db0f19.mp3" length="34936749" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
