@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 16:44:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 16:45:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23290,6 +23290,17 @@
       <itunes:duration>00:28:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-936925.mp3" length="27657261" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《灰烬余火2：暗夜火炬》 · 完整版 · 灰烬余火2：暗夜火炬 · 完整讲读</title>
+      <description>《灰烬余火2：暗夜火炬》是萨巴·塔希尔【烬火】系列的第二部，讲述学者族少女拉娅与假面人战士埃利亚斯逃离塞拉墓城、北上千里营救拉娅哥哥代林的逃亡史诗。在三线交织的叙事中，塔希尔用五十七章的篇幅探讨身份对立如何撕裂恋人、诅咒如何塑造命运、以及一个女孩如何在所有退路都被切断的黑暗里举起火炬。这部反乌托邦奇幻作品既是关于族群偏见与帝国暴政的隐喻，也是一封写给所有读者的情书——塔希尔称他们为小火星。本期节目将带你走进墓城尸骨、塞拉火光、北国冰原与寂灭之地，从七个核心洞察，看见小火星如何一步步变成火炬。</description>
+      <pubDate>Fri, 02 Oct 2026 16:45:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-eb6924</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《灰烬余火2：暗夜火炬》是萨巴·塔希尔【烬火】系列的第二部，讲述学者族少女拉娅与假面人战士埃利亚斯逃离塞拉墓城、北上千里营救拉娅哥哥代林的逃亡史诗。在三线交织的叙事中，塔希尔用五十七章的篇幅探讨身份对立如何撕裂恋人、诅咒如何塑造命运、以及一个女孩如何在所有退路都被切断的黑暗里举起火炬。这部反乌托邦奇幻作品既是关于族群偏见与帝国暴政的隐喻，也是一封写给所有读者的情书——塔希尔称他们为小火星。本期节目将带你走进墓城尸骨、塞拉火光、北国冰原与寂灭之地，从七个核心洞察，看见小火星如何一步步变成火炬。</itunes:summary>
+      <itunes:duration>00:34:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-eb6924.mp3" length="33063981" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
