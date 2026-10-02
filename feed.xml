@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 02:21:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 02:22:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22927,6 +22927,17 @@
       <itunes:duration>00:26:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-f23f2e.mp3" length="25446189" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《金字塔》 · 完整版 · 伊斯梅尔·卡达莱作品 · 完整讲读</title>
+      <description>阿尔巴尼亚作家卡达莱借古埃及法老胡夫修建金字塔的故事，写下了一部关于专制权力如何运作的现代寓言。小说揭示：金字塔不仅是坟墓，更是权力的支柱——它的真正功能是吸纳过剩财富、改造国家为齿轮机器、抹杀工匠主体，并最终通过季节化的怀疑与季节化的语言，把整个民族压缩进一座自洽的封闭系统。卡达莱以骷髅塔与玻璃作结，宣告一切极权终将被时间翻拍成透明片——巍峨是表象，易碎才是真相。</description>
+      <pubDate>Fri, 02 Oct 2026 02:22:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-0ff526</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>阿尔巴尼亚作家卡达莱借古埃及法老胡夫修建金字塔的故事，写下了一部关于专制权力如何运作的现代寓言。小说揭示：金字塔不仅是坟墓，更是权力的支柱——它的真正功能是吸纳过剩财富、改造国家为齿轮机器、抹杀工匠主体，并最终通过季节化的怀疑与季节化的语言，把整个民族压缩进一座自洽的封闭系统。卡达莱以骷髅塔与玻璃作结，宣告一切极权终将被时间翻拍成透明片——巍峨是表象，易碎才是真相。</itunes:summary>
+      <itunes:duration>00:23:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-0ff526.mp3" length="22974381" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
