@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 03:03:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 03:07:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23125,6 +23125,17 @@
       <itunes:duration>00:28:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-da59b8.mp3" length="27624621" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《沿途的向阳花》 · 完整版 · 沿途的向阳花_-_殷宏超（毅义非凡） · 完整讲读</title>
+      <description>《沿途的向阳花》是一本写于二零一五年的中国青年骑行文学。作者殷宏超在人生最颓废的夜晚，被一位曼谷姑娘的拥抱改写，决定从成都骑行五千公里、穿越中国西南与东南亚，去当面致谢。这本书不是旅行攻略，也不是浪漫爱情宣言，而是一个迷茫青年在路上的诚实变迁史——他写孤独、写际遇、写陌生人的善意、写异域他者如何让他重新发现自己，更写消费主义时代里，诗与远方如何被包装成最昂贵也最廉价的麻醉剂。最终他承认，真正改变他的不是五千公里的公里数，而是他愿意把眼前的生活再认真看一遍的耐心。这是一本关于旅行作为生命变迁方式、而非逃避当下图腾的书。</description>
+      <pubDate>Fri, 02 Oct 2026 03:07:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-8a01b3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《沿途的向阳花》是一本写于二零一五年的中国青年骑行文学。作者殷宏超在人生最颓废的夜晚，被一位曼谷姑娘的拥抱改写，决定从成都骑行五千公里、穿越中国西南与东南亚，去当面致谢。这本书不是旅行攻略，也不是浪漫爱情宣言，而是一个迷茫青年在路上的诚实变迁史——他写孤独、写际遇、写陌生人的善意、写异域他者如何让他重新发现自己，更写消费主义时代里，诗与远方如何被包装成最昂贵也最廉价的麻醉剂。最终他承认，真正改变他的不是五千公里的公里数，而是他愿意把眼前的生活再认真看一遍的耐心。这是一本关于旅行作为生命变迁方式、而非逃避当下图腾的书。</itunes:summary>
+      <itunes:duration>00:29:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-8a01b3.mp3" length="28369581" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
