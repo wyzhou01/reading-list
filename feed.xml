@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 17:36:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:36:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23532,6 +23532,17 @@
       <itunes:duration>00:36:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-6f3dd2.mp3" length="34795821" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《盛唐领土争夺战》 · 完整版 · 盛唐领土争夺战 · 完整讲读</title>
+      <description>本期《好好读书》深度讲读贺磊所著《盛唐领土争夺战》。天宝六年，安西副都护高仙芝率军千里奔袭小勃律，翻越帕米尔高原、强攻连云堡、奇袭娑夷桥，活捉小勃律国王苏失利之。这场战役背后，是大唐与吐蕃在西域长达七十年的拉锯，是安西军与吐蕃恩兰家族骑兵的生死博弈，也是名将高仙芝一战封神后被卷入石堡城失利与太子党疑云的全过程。书中以酣畅笔墨复原连云堡攻防、坦驹岭追击、西凉团夜袭野狼滩等关键细节，塑造了李天郎、席元庆、李嗣业、袁德等一批血肉丰满的人物。本期讲读将带你看透这场西域血战的战略价值、丝路文明冲突，以及天宝年间由盛转衰的政治暗流，读懂名将沉浮背后的三重门——石堡城的战略之门、太子党的政治之门、棋子宿命的命运之门。</description>
+      <pubDate>Fri, 02 Oct 2026 17:36:46 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-86ff5b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期《好好读书》深度讲读贺磊所著《盛唐领土争夺战》。天宝六年，安西副都护高仙芝率军千里奔袭小勃律，翻越帕米尔高原、强攻连云堡、奇袭娑夷桥，活捉小勃律国王苏失利之。这场战役背后，是大唐与吐蕃在西域长达七十年的拉锯，是安西军与吐蕃恩兰家族骑兵的生死博弈，也是名将高仙芝一战封神后被卷入石堡城失利与太子党疑云的全过程。书中以酣畅笔墨复原连云堡攻防、坦驹岭追击、西凉团夜袭野狼滩等关键细节，塑造了李天郎、席元庆、李嗣业、袁德等一批血肉丰满的人物。本期讲读将带你看透这场西域血战的战略价值、丝路文明冲突，以及天宝年间由盛转衰的政治暗流，读懂名将沉浮背后的三重门——石堡城的战略之门、太子党的政治之门、棋子宿命的命运之门。</itunes:summary>
+      <itunes:duration>00:28:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-86ff5b.mp3" length="27291693" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
