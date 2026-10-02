@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 02:29:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 02:29:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22971,6 +22971,17 @@
       <itunes:duration>00:27:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-8528c3.mp3" length="26089389" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《孤筏重洋》 · 完整版 · 孤筏重洋（精制精排） · 完整讲读</title>
+      <description>一九四七年，挪威生物学者托尔·海尔达尔为验证波利尼西亚人祖先来自南美的假说，率五名同伴按印第安古法建造木筏康提基号，自秘鲁卡亚俄港漂流西行，历时一百零一天、横渡四千三百海里，成功抵达图阿莫土群岛。本书以严谨的航海日志、生动的场景描写和深厚的跨文化情谊，记录了这场震惊世界的科学探险，揭示了石器时代人类跨洋迁徙的可能，也颂扬了为真理勇往直前的探索精神与不同文明之间相互理解、相互成全的友谊。</description>
+      <pubDate>Fri, 02 Oct 2026 02:29:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-b384bf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九四七年，挪威生物学者托尔·海尔达尔为验证波利尼西亚人祖先来自南美的假说，率五名同伴按印第安古法建造木筏康提基号，自秘鲁卡亚俄港漂流西行，历时一百零一天、横渡四千三百海里，成功抵达图阿莫土群岛。本书以严谨的航海日志、生动的场景描写和深厚的跨文化情谊，记录了这场震惊世界的科学探险，揭示了石器时代人类跨洋迁徙的可能，也颂扬了为真理勇往直前的探索精神与不同文明之间相互理解、相互成全的友谊。</itunes:summary>
+      <itunes:duration>00:29:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-b384bf.mp3" length="27865389" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
