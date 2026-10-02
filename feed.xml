@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 16:52:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 16:52:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23323,6 +23323,17 @@
       <itunes:duration>00:25:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-629222.mp3" length="24681645" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《七侠五义》 · 完整版 · 七侠五义_(中国古典小说普及文库) · 完整讲读</title>
+      <description>《七侠五义》是清代石玉昆创作的侠义公案小说，融合清官断案与武侠传奇。全书以狸猫换太子开篇，描写包拯从民间少年成长为开封府尹，与南侠展昭、五鼠等侠客共同扫除庞太师、襄阳王等奸恶，展现清官与侠客互补共建正义的主题。作品情节曲折、语言生动，对后世武侠与公案文学影响深远。</description>
+      <pubDate>Fri, 02 Oct 2026 16:52:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-4e3938</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《七侠五义》是清代石玉昆创作的侠义公案小说，融合清官断案与武侠传奇。全书以狸猫换太子开篇，描写包拯从民间少年成长为开封府尹，与南侠展昭、五鼠等侠客共同扫除庞太师、襄阳王等奸恶，展现清官与侠客互补共建正义的主题。作品情节曲折、语言生动，对后世武侠与公案文学影响深远。</itunes:summary>
+      <itunes:duration>00:19:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-4e3938.mp3" length="19062573" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
