@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 16:51:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 16:52:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23312,6 +23312,17 @@
       <itunes:duration>00:27:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-d0f432.mp3" length="26860077" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《唐宋历史评论（第二辑）》 · 完整版 · 唐宋历史评论（第二辑） · 完整讲读</title>
+      <description>《唐宋历史评论》第二辑由包伟民和刘后滨主编,集中呈现唐宋史研究的前沿动态。本辑聚焦三大主题:一是史料运用与新材料方法论,荣新江、邓小南等学者结合归义军、徐谓礼文书等案例,提出『新材料的价值由旧材料烘托』『从日常材料读出新意』等核心理念;二是政治史与制度史研究,孙英刚从佛教政治符号角度重审武则天称帝,孟宪实梳理关陇集团到李武韦杨的演变,刘后滨推进政务运行实态研究,黄宽重以南宋朱熹按劾唐仲友事件展现地方政治的复杂性;三是学术传承,设有刘浦江教授纪念专栏。本书示范了一种『向下、向外、向实、向边缘』的研究转向,是观察当代唐宋史研究方法论的重要窗口。</description>
+      <pubDate>Fri, 02 Oct 2026 16:52:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-629222</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《唐宋历史评论》第二辑由包伟民和刘后滨主编,集中呈现唐宋史研究的前沿动态。本辑聚焦三大主题:一是史料运用与新材料方法论,荣新江、邓小南等学者结合归义军、徐谓礼文书等案例,提出『新材料的价值由旧材料烘托』『从日常材料读出新意』等核心理念;二是政治史与制度史研究,孙英刚从佛教政治符号角度重审武则天称帝,孟宪实梳理关陇集团到李武韦杨的演变,刘后滨推进政务运行实态研究,黄宽重以南宋朱熹按劾唐仲友事件展现地方政治的复杂性;三是学术传承,设有刘浦江教授纪念专栏。本书示范了一种『向下、向外、向实、向边缘』的研究转向,是观察当代唐宋史研究方法论的重要窗口。</itunes:summary>
+      <itunes:duration>00:25:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-629222.mp3" length="24681645" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
