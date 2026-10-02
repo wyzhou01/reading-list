@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 17:18:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:22:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23422,6 +23422,17 @@
       <itunes:duration>00:23:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-760cd3.mp3" length="22593069" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《他方世界（全二册）》 · 完整版 · 他方世界（全二册） · 完整讲读</title>
+      <description>英国作家 A·S·拜雅特的奇幻长篇《他方世界》全二册，以一个没落贵族守夜为引，揭开跨越世代的家族秘史：失踪的婴儿、幻想朋友莱拉克、王子奥伯龙，以及黑森林里一场超越生死的盛大欢宴。史墨基徒步穿越地图上找不到的支线，前往边境森林迎娶黛莉·艾丽斯，却发现这场婚礼同时是一场重逢——两个垂死的家族在梦境与现实的边界处重新聚首，借由神话、塔林、纸牌、林林精灵与凡人共同走向那场【盛宴】。本书承接《百年孤独》的家族编年体与《指环王》的奇幻世界建构，提醒读者：真正值得抵达的地方，从不会出现在最快的路线上；真正值得沉浸的故事，需要你愿意相信，世界的某处真的存在一栋灯火通明、敞着大门的房子。</description>
+      <pubDate>Fri, 02 Oct 2026 17:22:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-0ed802</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>英国作家 A·S·拜雅特的奇幻长篇《他方世界》全二册，以一个没落贵族守夜为引，揭开跨越世代的家族秘史：失踪的婴儿、幻想朋友莱拉克、王子奥伯龙，以及黑森林里一场超越生死的盛大欢宴。史墨基徒步穿越地图上找不到的支线，前往边境森林迎娶黛莉·艾丽斯，却发现这场婚礼同时是一场重逢——两个垂死的家族在梦境与现实的边界处重新聚首，借由神话、塔林、纸牌、林林精灵与凡人共同走向那场【盛宴】。本书承接《百年孤独》的家族编年体与《指环王》的奇幻世界建构，提醒读者：真正值得抵达的地方，从不会出现在最快的路线上；真正值得沉浸的故事，需要你愿意相信，世界的某处真的存在一栋灯火通明、敞着大门的房子。</itunes:summary>
+      <itunes:duration>00:31:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-0ed802.mp3" length="29912493" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
