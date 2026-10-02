@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 17:04:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:09:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23367,6 +23367,17 @@
       <itunes:duration>00:24:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-da0bc2.mp3" length="23534253" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《五美缘》 · 完整版 · 五美缘(简体版)_(BookDNA中国古典丛书) · 完整讲读</title>
+      <description>明代钱塘才子冯旭误入钱府花园，与钱月英一见钟情，遭权臣之子花文芳陷害入狱、险些丧命，后在林璋、常万青等忠良义士救助下洗冤，高中状元、征西立功，最终迎娶钱月英、赵翠秀、钱落霞、姚蕙兰、哈飞英五位佳人，一门显贵、团圆结局。</description>
+      <pubDate>Fri, 02 Oct 2026 17:08:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-75a4cc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>明代钱塘才子冯旭误入钱府花园，与钱月英一见钟情，遭权臣之子花文芳陷害入狱、险些丧命，后在林璋、常万青等忠良义士救助下洗冤，高中状元、征西立功，最终迎娶钱月英、赵翠秀、钱落霞、姚蕙兰、哈飞英五位佳人，一门显贵、团圆结局。</itunes:summary>
+      <itunes:duration>00:28:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-75a4cc.mp3" length="27242925" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
