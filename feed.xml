@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 17:43:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:44:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23576,6 +23576,17 @@
       <itunes:duration>00:25:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-c5de03.mp3" length="24671661" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《神探莱姆·04.石猴子》 · 完整版 · 神探莱姆·04.石猴子_v1.0 · 完整讲读</title>
+      <description>本书是杰夫里·迪弗神探莱姆系列的第四部《石猴子》。瘫痪的刑侦顾问莱姆凭借一只从法国带回的手提箱，锁定了一艘载有二十余名中国偷渡客的货船。蛇头【幽灵】伪装船长企图拒捕，最终在货舱爆炸中与船只一同沉没。探员萨克斯独自深入沉船救出偷渡者，莱姆则远程指挥全局。案件之外，莱姆放弃手术、决定接受命运，并与萨克斯共同决定收养被解救的孤儿宝儿。小说以福州市井到纽约港湾的跨国走私为背景，写尽灰色地带中的人性选择与轮椅上的爱情。</description>
+      <pubDate>Fri, 02 Oct 2026 17:44:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-bb94e3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是杰夫里·迪弗神探莱姆系列的第四部《石猴子》。瘫痪的刑侦顾问莱姆凭借一只从法国带回的手提箱，锁定了一艘载有二十余名中国偷渡客的货船。蛇头【幽灵】伪装船长企图拒捕，最终在货舱爆炸中与船只一同沉没。探员萨克斯独自深入沉船救出偷渡者，莱姆则远程指挥全局。案件之外，莱姆放弃手术、决定接受命运，并与萨克斯共同决定收养被解救的孤儿宝儿。小说以福州市井到纽约港湾的跨国走私为背景，写尽灰色地带中的人性选择与轮椅上的爱情。</itunes:summary>
+      <itunes:duration>00:25:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-bb94e3.mp3" length="24804525" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
