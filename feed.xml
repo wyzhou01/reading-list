@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 17:41:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:43:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23565,6 +23565,17 @@
       <itunes:duration>00:29:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-5e651d.mp3" length="27987885" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《时光之轮04-暗影渐起》 · 完整版 · 时光之轮04-暗影渐起 · 完整讲读</title>
+      <description>《时光之轮》第四部《暗影渐起》是美国作家罗伯特·乔丹史诗奇幻系列的关键转折点。牧羊人兰德·亚瑟在鲁迪恩荒漠中直面暗帝，夺取了传说中超法器凯兰铎，击败暗帝却让兰飞尔逃脱。回到艾卡戴岩台后，他以卡亚肯身份宣布艾伊尔部族追随自己，却导致预言中的分裂——沙度等部族四散逃离。与此同时，明潜入白塔，将兰德的讯息和三位两仪师即将同日死亡的预言告知玉座史汪，揭开了白塔内部黑宗潜伏与权力斗争的序幕。本书以凯瑞安王宫的毁灭、兰德与弃光魔将亚斯莫丁的结盟、以及他和艾伊尔人、塔瓦隆两仪师、护法之间复杂关系的重塑为线索，探讨了命运与选择、权力与责任的代价、信任与背叛、预言与自由意志等核心命题，是理解整个系列的关键之作。</description>
+      <pubDate>Fri, 02 Oct 2026 17:43:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-c5de03</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《时光之轮》第四部《暗影渐起》是美国作家罗伯特·乔丹史诗奇幻系列的关键转折点。牧羊人兰德·亚瑟在鲁迪恩荒漠中直面暗帝，夺取了传说中超法器凯兰铎，击败暗帝却让兰飞尔逃脱。回到艾卡戴岩台后，他以卡亚肯身份宣布艾伊尔部族追随自己，却导致预言中的分裂——沙度等部族四散逃离。与此同时，明潜入白塔，将兰德的讯息和三位两仪师即将同日死亡的预言告知玉座史汪，揭开了白塔内部黑宗潜伏与权力斗争的序幕。本书以凯瑞安王宫的毁灭、兰德与弃光魔将亚斯莫丁的结盟、以及他和艾伊尔人、塔瓦隆两仪师、护法之间复杂关系的重塑为线索，探讨了命运与选择、权力与责任的代价、信任与背叛、预言与自由意志等核心命题，是理解整个系列的关键之作。</itunes:summary>
+      <itunes:duration>00:25:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-c5de03.mp3" length="24671661" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
