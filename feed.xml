@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 17:51:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:55:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23631,6 +23631,17 @@
       <itunes:duration>00:34:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-f45890.mp3" length="32855085" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《同情者》 · 完整版 · 同情者 · 完整讲读</title>
+      <description>《同情者》是阮清越的普利策奖小说，讲述一个潜伏在南越将军身边、为北越效力的双面间谍，在一九七五年西贡陷落时协助将军逃往美国，此后以难民身份在洛杉矶生活，却在两个世界之间持续撕裂。小说以黑色幽默笔法追问身份的双重性、战争的创伤记忆、难民在美国的文化失语与被工具化，揭示宏大叙事如何简化真实的人，并把麦克风交还给被历史遗忘的人。一本关于间谍的小说，同时也是一本关于【谁有资格讲述战争】的元小说。</description>
+      <pubDate>Fri, 02 Oct 2026 17:54:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-f74996</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《同情者》是阮清越的普利策奖小说，讲述一个潜伏在南越将军身边、为北越效力的双面间谍，在一九七五年西贡陷落时协助将军逃往美国，此后以难民身份在洛杉矶生活，却在两个世界之间持续撕裂。小说以黑色幽默笔法追问身份的双重性、战争的创伤记忆、难民在美国的文化失语与被工具化，揭示宏大叙事如何简化真实的人，并把麦克风交还给被历史遗忘的人。一本关于间谍的小说，同时也是一本关于【谁有资格讲述战争】的元小说。</itunes:summary>
+      <itunes:duration>00:29:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-f74996.mp3" length="28016301" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
