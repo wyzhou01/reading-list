@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 02:51:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 02:54:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23081,6 +23081,17 @@
       <itunes:duration>00:25:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-61af17.mp3" length="24060717" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《晚饭花集》 · 完整版 · 汪曾祺集：晚饭花集 · 完整讲读</title>
+      <description>《汪曾祺集：晚饭花集》是汪曾祺一九八一年到一九八三年间所写的三十余篇短篇小说的合集，以【抒情现实主义】的笔法，写高邮、北京旧日市井里最不起眼的小人物——卖西瓜的京剧导演、土地祠里守夜的地保、帮邻里写状子的老学究、倒仓后改了行的戏班子学徒。汪曾祺自谦，调色盘里没有颜色，只有浅得像清水一样的淡墨，加一点菠菜汁。他追求溶奇崛于平淡、纳外来于传统，故而以【事不过三】的节奏、参差错落的三篇一组结构，让小人物的悲欢在马缨花香、耳垂后的红痣、三合油的韭菜花味道里，化作一点【白菊花茶一样的寂寞】、一点【柔软而充实】的怅惘。这是一本为中【怯】、中【淡】、无足珍贵的人而写的书，也是一本让每一个普通读者读完后，会在晚饭后闻到一丛什么花的书。</description>
+      <pubDate>Fri, 02 Oct 2026 02:54:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-ca4344</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《汪曾祺集：晚饭花集》是汪曾祺一九八一年到一九八三年间所写的三十余篇短篇小说的合集，以【抒情现实主义】的笔法，写高邮、北京旧日市井里最不起眼的小人物——卖西瓜的京剧导演、土地祠里守夜的地保、帮邻里写状子的老学究、倒仓后改了行的戏班子学徒。汪曾祺自谦，调色盘里没有颜色，只有浅得像清水一样的淡墨，加一点菠菜汁。他追求溶奇崛于平淡、纳外来于传统，故而以【事不过三】的节奏、参差错落的三篇一组结构，让小人物的悲欢在马缨花香、耳垂后的红痣、三合油的韭菜花味道里，化作一点【白菊花茶一样的寂寞】、一点【柔软而充实】的怅惘。这是一本为中【怯】、中【淡】、无足珍贵的人而写的书，也是一本让每一个普通读者读完后，会在晚饭后闻到一丛什么花的书。</itunes:summary>
+      <itunes:duration>00:33:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-ca4344.mp3" length="31853997" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
