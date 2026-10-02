@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 17:50:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:50:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23609,6 +23609,17 @@
       <itunes:duration>00:31:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-072804.mp3" length="30176301" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《儒学嬗变与魏晋文风建构》 · 完整版 · 儒学嬗变与魏晋文风建构_(国家社科基金后期资助项目) · 完整讲读</title>
+      <description>本书以魏晋儒学与文学互动关系为研究对象，从儒运兴替、文士个案、文艺批评应用三个维度，系统揭示魏晋文学如何摆脱两汉以来作为儒学附庸的地位，走向与儒学并峙互融的历史进程。通过剖析二十一位魏晋文士的儒学底色与文风特色，阐明儒家情性说、诗教观、《周易》文艺观、自然观等命题如何在玄学盛行的时代以新样态渗入文坛，弥补了儒学与文学关系研究中魏晋一段的空白，为理解唐宋文风演进提供了关键线索。</description>
+      <pubDate>Fri, 02 Oct 2026 17:50:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-ab5052</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书以魏晋儒学与文学互动关系为研究对象，从儒运兴替、文士个案、文艺批评应用三个维度，系统揭示魏晋文学如何摆脱两汉以来作为儒学附庸的地位，走向与儒学并峙互融的历史进程。通过剖析二十一位魏晋文士的儒学底色与文风特色，阐明儒家情性说、诗教观、《周易》文艺观、自然观等命题如何在玄学盛行的时代以新样态渗入文坛，弥补了儒学与文学关系研究中魏晋一段的空白，为理解唐宋文风演进提供了关键线索。</itunes:summary>
+      <itunes:duration>00:33:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-ab5052.mp3" length="31888557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
