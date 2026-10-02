@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 15:50:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 15:57:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23235,6 +23235,17 @@
       <itunes:duration>00:41:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-da335d.mp3" length="39444909" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《孤独者之歌》 · 完整版 · 孤独者之歌 · 完整讲读</title>
+      <description>《孤独者之歌》是赫尔曼·黑塞晚年的散文自传集，收录十二篇写于一九一一年至一九五三年间的回忆。从卡尔夫的童年神性体验、墨尔布隆神学校的精神崩溃，到一九一一年的印度朝圣、二战后的巴登疗养与争议，黑塞以坦诚又带反讽的笔触，剖白一个终生在率真与绝望两极之间摆荡的灵魂。在这部被西奥多·齐奥科斯基称为一部伟大忏悔录的断简里，黑塞提出了贯穿他全部作品的三重奏——从率真，经由绝望，到达嘲讽，最终进入精神的无时领域。它既是理解黑塞全部小说的钥匙，也是一位诺奖得主留给所有在世俗标准与内心召唤之间撕扯之人的陪伴。</description>
+      <pubDate>Fri, 02 Oct 2026 15:57:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-e6bcda</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《孤独者之歌》是赫尔曼·黑塞晚年的散文自传集，收录十二篇写于一九一一年至一九五三年间的回忆。从卡尔夫的童年神性体验、墨尔布隆神学校的精神崩溃，到一九一一年的印度朝圣、二战后的巴登疗养与争议，黑塞以坦诚又带反讽的笔触，剖白一个终生在率真与绝望两极之间摆荡的灵魂。在这部被西奥多·齐奥科斯基称为一部伟大忏悔录的断简里，黑塞提出了贯穿他全部作品的三重奏——从率真，经由绝望，到达嘲讽，最终进入精神的无时领域。它既是理解黑塞全部小说的钥匙，也是一位诺奖得主留给所有在世俗标准与内心召唤之间撕扯之人的陪伴。</itunes:summary>
+      <itunes:duration>00:31:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-e6bcda.mp3" length="29947821" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
