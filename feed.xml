@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 17:50:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:51:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23620,6 +23620,17 @@
       <itunes:duration>00:33:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-ab5052.mp3" length="31888557" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《第一声礼炮》 · 完整版 · 第一声礼炮_-_[美]巴巴拉·W·塔奇曼 · 完整讲读</title>
+      <description>《第一声礼炮》是普利策奖得主巴巴拉·塔奇曼的代表作，聚焦美国独立战争中常被忽视的加勒比海战场。1776年11月，美国商船【安德鲁·多利亚】号抵达荷兰属地圣尤斯特歇斯岛，岛上的荷兰总督鸣礼炮回应，象征美国独立地位首次获得外国官方承认。塔奇曼用十余年走访档案馆，还原这段被尘封的海上史诗：从大陆会议建立美国海军的疯狂决议，到罗德尼洗劫圣尤斯特歇斯岛的报复，再到约克镇投降的终局。她不仅写战争，更写人——投机取巧的英国海军大臣桑德威奇、超越国界借钱的法国元帅比隆公爵、被裙带制约却凭本事吃饭的霍普金斯家族。本书不仅是美国海军史、外交史的重要补充，更是关于小国生存、偏见与远见的深刻寓言。历史从不等待那些瞻前顾后的人，它只奖赏那些在关键时刻敢于出手的人。</description>
+      <pubDate>Fri, 02 Oct 2026 17:51:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-f45890</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《第一声礼炮》是普利策奖得主巴巴拉·塔奇曼的代表作，聚焦美国独立战争中常被忽视的加勒比海战场。1776年11月，美国商船【安德鲁·多利亚】号抵达荷兰属地圣尤斯特歇斯岛，岛上的荷兰总督鸣礼炮回应，象征美国独立地位首次获得外国官方承认。塔奇曼用十余年走访档案馆，还原这段被尘封的海上史诗：从大陆会议建立美国海军的疯狂决议，到罗德尼洗劫圣尤斯特歇斯岛的报复，再到约克镇投降的终局。她不仅写战争，更写人——投机取巧的英国海军大臣桑德威奇、超越国界借钱的法国元帅比隆公爵、被裙带制约却凭本事吃饭的霍普金斯家族。本书不仅是美国海军史、外交史的重要补充，更是关于小国生存、偏见与远见的深刻寓言。历史从不等待那些瞻前顾后的人，它只奖赏那些在关键时刻敢于出手的人。</itunes:summary>
+      <itunes:duration>00:34:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-f45890.mp3" length="32855085" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
