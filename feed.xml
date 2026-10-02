@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 16:58:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:01:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23345,6 +23345,17 @@
       <itunes:duration>00:24:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-dbe24e.mp3" length="23116077" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《九州·龙渊》 · 完整版 · 九州·龙渊 · 完整讲读</title>
+      <description>《九州·龙渊》是唐缺的九州短篇小说集，收录《夜宴》《召亡游戏》《鸦巢夜谈》《龙渊》《昔时因》《绿原雪》六部中短篇。本书以悬疑推理为骨，奇幻设定为皮，在九州世界观下破解南淮富商灭门案、用招魂仪式召唤亡魂、用多年长夜的秘密对话拷问记忆，并跨越真实与虚构的边界完成元小说实验。死亡、记忆、执念，在六种诡计里纠缠成一团。</description>
+      <pubDate>Fri, 02 Oct 2026 17:01:46 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-ba0ea0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《九州·龙渊》是唐缺的九州短篇小说集，收录《夜宴》《召亡游戏》《鸦巢夜谈》《龙渊》《昔时因》《绿原雪》六部中短篇。本书以悬疑推理为骨，奇幻设定为皮，在九州世界观下破解南淮富商灭门案、用招魂仪式召唤亡魂、用多年长夜的秘密对话拷问记忆，并跨越真实与虚构的边界完成元小说实验。死亡、记忆、执念，在六种诡计里纠缠成一团。</itunes:summary>
+      <itunes:duration>00:21:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-ba0ea0.mp3" length="20595501" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
