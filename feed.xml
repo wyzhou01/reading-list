@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 17:31:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:34:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23510,6 +23510,17 @@
       <itunes:duration>00:25:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-42695a.mp3" length="24675885" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《你内心的无能为力，来自对世界的恐惧》 · 完整版 · 你内心的无能为力，来自对世界的恐惧 · 完整讲读</title>
+      <description>《你内心的无能为力，来自对世界的恐惧》是美国精神科医生乔瑟夫·史兰德的代表作。他从业二十多年，提出一套名为最佳状态疗法的认知重构方法，核心只有一句话：你此刻已经做到最好。他把人的状态拆成生物、自我认知、家庭、社会四个领域，指出恐惧不是病灶，而是被误读的求生本能。当我们不再用疾病标签定义自己，而是承认当下已经在尽全力，就能用自我尊重替代自我攻击，从而挣脱恐惧对行动力的压制。本书不是励志书，而是一本教我们与恐惧共处的临床笔记。</description>
+      <pubDate>Fri, 02 Oct 2026 17:34:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-0f06db</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《你内心的无能为力，来自对世界的恐惧》是美国精神科医生乔瑟夫·史兰德的代表作。他从业二十多年，提出一套名为最佳状态疗法的认知重构方法，核心只有一句话：你此刻已经做到最好。他把人的状态拆成生物、自我认知、家庭、社会四个领域，指出恐惧不是病灶，而是被误读的求生本能。当我们不再用疾病标签定义自己，而是承认当下已经在尽全力，就能用自我尊重替代自我攻击，从而挣脱恐惧对行动力的压制。本书不是励志书，而是一本教我们与恐惧共处的临床笔记。</itunes:summary>
+      <itunes:duration>00:27:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-0f06db.mp3" length="26348973" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
