@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 01:07:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 01:07:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22795,6 +22795,17 @@
       <itunes:duration>00:33:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-eb7bae.mp3" length="32255661" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中华儒学课》 · 完整版 · 中华儒学课_-_颜明德 · 完整讲读</title>
+      <description>《中华儒学课》是颜明德编著的一部儒学普及读物，二零一六年三月由现代出版社出版。全书围绕德、礼、仁、民、忠、让、智、温、恭、宽十个主题，每节从一个流传已久的说法出发，翻出四书五经等先秦原典原文，逐条拆解被后世御用化解读所歪曲的儒家本意。本书的核心特色在于两点：第一是回归先秦原典，回到孔子、孟子和荀子的原意，刻意区别于后世被御用化的解读；第二是立足当代，把儒家的修身准则与今天的人际关系、处世态度对接起来。读这本书的意义在于，它帮助读者摆脱对儒学的刻板印象，重新发现一套关于人格修养、社会治理和为人处世的古老智慧，并把这些智慧转化为今天可以践行的生活准则。</description>
+      <pubDate>Fri, 02 Oct 2026 01:07:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-6c1abd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《中华儒学课》是颜明德编著的一部儒学普及读物，二零一六年三月由现代出版社出版。全书围绕德、礼、仁、民、忠、让、智、温、恭、宽十个主题，每节从一个流传已久的说法出发，翻出四书五经等先秦原典原文，逐条拆解被后世御用化解读所歪曲的儒家本意。本书的核心特色在于两点：第一是回归先秦原典，回到孔子、孟子和荀子的原意，刻意区别于后世被御用化的解读；第二是立足当代，把儒家的修身准则与今天的人际关系、处世态度对接起来。读这本书的意义在于，它帮助读者摆脱对儒学的刻板印象，重新发现一套关于人格修养、社会治理和为人处世的古老智慧，并把这些智慧转化为今天可以践行的生活准则。</itunes:summary>
+      <itunes:duration>00:30:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-6c1abd.mp3" length="28874925" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
