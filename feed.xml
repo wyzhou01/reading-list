@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 02:29:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 02:30:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22982,6 +22982,17 @@
       <itunes:duration>00:29:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-b384bf.mp3" length="27865389" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《俄罗斯套娃》 · 完整版 · 俄罗斯套娃_-_[阿根廷]比奥伊·卡萨雷斯 · 完整讲读</title>
+      <description>《俄罗斯套娃》是阿根廷作家比奥伊·卡萨雷斯晚年创作的短篇小说集，收录七则与温泉疗养、火车旅行、乡间庄园相关的轻盈轶事。主人公多为敏感而孱弱的男性旅人，他们穿梭于艳遇、间谍与侦探迷局之间，却在每一则故事的底部撞见形而上学的硬核：情爱关系的可替代性、旅行作为灵魂解放的隐喻、奇幻颜料突入现实画布、侦探套路的形而上学戏仿。本期节目将用九十分钟逐一拆解四个核心洞察，剥开这只套娃，看清里面还套着几只。</description>
+      <pubDate>Fri, 02 Oct 2026 02:30:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-124c95</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《俄罗斯套娃》是阿根廷作家比奥伊·卡萨雷斯晚年创作的短篇小说集，收录七则与温泉疗养、火车旅行、乡间庄园相关的轻盈轶事。主人公多为敏感而孱弱的男性旅人，他们穿梭于艳遇、间谍与侦探迷局之间，却在每一则故事的底部撞见形而上学的硬核：情爱关系的可替代性、旅行作为灵魂解放的隐喻、奇幻颜料突入现实画布、侦探套路的形而上学戏仿。本期节目将用九十分钟逐一拆解四个核心洞察，剥开这只套娃，看清里面还套着几只。</itunes:summary>
+      <itunes:duration>00:28:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-124c95.mp3" length="27201069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
