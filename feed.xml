@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 17:13:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:15:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23389,6 +23389,17 @@
       <itunes:duration>00:33:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-a580a3.mp3" length="32200365" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《人鱼沉睡之家》 · 完整版 · 人鱼沉睡之家_-_[日]东野圭吾 · 完整讲读</title>
+      <description>《人鱼沉睡之家》是东野圭吾出道三十周年的纪念之作。故事讲述了一个喜欢游泳和弹钢琴的小女孩瑞穗，在游泳池意外溺水后被判定为脑死亡，但心脏仍在跳动。母亲薰子拒绝接受这一判定，用尽一切方法守护女儿沉睡的身体；与此同时，她与丈夫和昌之间原本就濒临破裂的婚姻，在这场漫长的守护里被彻底撕碎。当最前沿的脑机接口技术与器官移植介入这个家庭，他们被迫面对一个无法回避的拷问：医学的奇迹背后，谁来承担代价？爱一个人，到底有没有边界？本期音频，我们将围绕脑死亡的界定、母爱的疯狂、科技介入生命的代价、家庭关系的裂痕四个核心问题，一起读完这本让人揪心的小说。</description>
+      <pubDate>Fri, 02 Oct 2026 17:15:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-dee716</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《人鱼沉睡之家》是东野圭吾出道三十周年的纪念之作。故事讲述了一个喜欢游泳和弹钢琴的小女孩瑞穗，在游泳池意外溺水后被判定为脑死亡，但心脏仍在跳动。母亲薰子拒绝接受这一判定，用尽一切方法守护女儿沉睡的身体；与此同时，她与丈夫和昌之间原本就濒临破裂的婚姻，在这场漫长的守护里被彻底撕碎。当最前沿的脑机接口技术与器官移植介入这个家庭，他们被迫面对一个无法回避的拷问：医学的奇迹背后，谁来承担代价？爱一个人，到底有没有边界？本期音频，我们将围绕脑死亡的界定、母爱的疯狂、科技介入生命的代价、家庭关系的裂痕四个核心问题，一起读完这本让人揪心的小说。</itunes:summary>
+      <itunes:duration>00:27:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-dee716.mp3" length="26305965" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
