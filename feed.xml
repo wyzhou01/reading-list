@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 17:55:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:56:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23642,6 +23642,17 @@
       <itunes:duration>00:29:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-f74996.mp3" length="28016301" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《第二语言学习》 · 完整版 · 第二语言学习（当代中国心理科学文库）_-_王瑞明_杨静_李利 · 完整讲读</title>
+      <description>《第二语言学习》以年龄效应、脑机制、双语记忆表征、词汇与句法加工、语言转换、认知迁移、个体差异、汉语推广为线索，构建了从理论到应用的完整体系。本书既梳理了关键期假说、双语脑可塑性等国际经典议题，又以汉语为母语背景，提供了本土化的实证证据与教学建议。对于外语研究者、汉语国际教育从业者、被外语折磨又不愿放弃的终身学习者，这是一份难得的、可被反复验证的认知地图。</description>
+      <pubDate>Fri, 02 Oct 2026 17:56:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-935628</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《第二语言学习》以年龄效应、脑机制、双语记忆表征、词汇与句法加工、语言转换、认知迁移、个体差异、汉语推广为线索，构建了从理论到应用的完整体系。本书既梳理了关键期假说、双语脑可塑性等国际经典议题，又以汉语为母语背景，提供了本土化的实证证据与教学建议。对于外语研究者、汉语国际教育从业者、被外语折磨又不愿放弃的终身学习者，这是一份难得的、可被反复验证的认知地图。</itunes:summary>
+      <itunes:duration>00:25:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-935628.mp3" length="24417453" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
