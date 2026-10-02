@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 17:44:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:47:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23587,6 +23587,17 @@
       <itunes:duration>00:25:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-bb94e3.mp3" length="24804525" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《稻盛和夫经典系列（套装共3册）》 · 完整版 · 稻盛和夫经典系列（套装共3册） · 完整讲读</title>
+      <description>稻盛和夫经典三册——《活法》《稻盛和夫自传》《思维方式》——熔铸一位经营之圣八十年的人生哲学与经营智慧。原点是一句看似简单却被多数人遗忘的话：作为人，何谓正确。算法是人生方程式：思维方式乘以热情乘以能力，思维方式决定方向，是正负皆可的唯一变量。本书系统讲述九种善的思维方式——胸怀大志、积极向上、不惜努力、诚实正直、钻研创新、愈挫愈勇、心灵纯粹、保持谦虚、利人利世，并以日航重建的奇迹证明：善的思维方式不仅可以扭转个人命运，更可以唤起超越人智的宇宙之力。全书核心指向——以利他之心与宇宙意志同频，方能在变局中立于不败。</description>
+      <pubDate>Fri, 02 Oct 2026 17:47:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-802d08</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>稻盛和夫经典三册——《活法》《稻盛和夫自传》《思维方式》——熔铸一位经营之圣八十年的人生哲学与经营智慧。原点是一句看似简单却被多数人遗忘的话：作为人，何谓正确。算法是人生方程式：思维方式乘以热情乘以能力，思维方式决定方向，是正负皆可的唯一变量。本书系统讲述九种善的思维方式——胸怀大志、积极向上、不惜努力、诚实正直、钻研创新、愈挫愈勇、心灵纯粹、保持谦虚、利人利世，并以日航重建的奇迹证明：善的思维方式不仅可以扭转个人命运，更可以唤起超越人智的宇宙之力。全书核心指向——以利他之心与宇宙意志同频，方能在变局中立于不败。</itunes:summary>
+      <itunes:duration>00:31:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-802d08.mp3" length="30602925" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
