@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 02:58:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 02:58:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23103,6 +23103,17 @@
       <itunes:duration>00:23:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-733a4f.mp3" length="22908333" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《形同陌路的时刻》 · 完整版 · 形同陌路的时刻_-_[奥地利]彼得·汉德克.付天海、刘学慧译 · 完整讲读</title>
+      <description>本书收录奥地利作家彼得·汉德克一九七三、一九九二、一九九七年创作的三部代表性剧作：《不理性的人终将消亡》《形同陌路的时刻》《筹划生命的永恒》。三剧从个体异化写到群体疏离，再写到战争废墟上的救赎幻象，共同勾勒一位二十世纪后半叶德语文学巨擘长达二十五年的精神轨迹。一九七三年的《不理性的人终将消亡》讲述功成名就的企业家陷入不可自拔的异化状态，最终以脑袋撞向石壁告别绝望人生。一九九二年的《形同陌路的时刻》延续早期实验风格，以无言语的世界舞台呈现十多个擦肩而过却无人开口的群体孤独。一九九七年的《筹划生命的永恒》直接回应南斯拉夫战火，透过被围困飞地、国王幻想与女叙述者悖论，探讨在故事不再被书写的时代，作家如何用继续叙述来筹划那不可企及的永恒。</description>
+      <pubDate>Fri, 02 Oct 2026 02:58:46 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-b31bf4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书收录奥地利作家彼得·汉德克一九七三、一九九二、一九九七年创作的三部代表性剧作：《不理性的人终将消亡》《形同陌路的时刻》《筹划生命的永恒》。三剧从个体异化写到群体疏离，再写到战争废墟上的救赎幻象，共同勾勒一位二十世纪后半叶德语文学巨擘长达二十五年的精神轨迹。一九七三年的《不理性的人终将消亡》讲述功成名就的企业家陷入不可自拔的异化状态，最终以脑袋撞向石壁告别绝望人生。一九九二年的《形同陌路的时刻》延续早期实验风格，以无言语的世界舞台呈现十多个擦肩而过却无人开口的群体孤独。一九九七年的《筹划生命的永恒》直接回应南斯拉夫战火，透过被围困飞地、国王幻想与女叙述者悖论，探讨在故事不再被书写的时代，作家如何用继续叙述来筹划那不可企及的永恒。</itunes:summary>
+      <itunes:duration>00:29:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-b31bf4.mp3" length="28407597" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
