@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 17:28:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:29:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23488,6 +23488,17 @@
       <itunes:duration>00:28:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-2ce0f3.mp3" length="27147693" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《刘邦：汉民族文化的伟大开拓者》 · 完整版 · 刘邦：汉民族文化的伟大开拓者 · 完整讲读</title>
+      <description>本书以《史记》《汉书》为底本，重新解读刘邦这位【从平民到皇帝】的中国历史第一人。作者洪亮亮跳出【真龙天子】与【无赖流氓】的两极叙事，着力挖掘刘邦身上【勇担责任、待人真诚、善于学习、知人善任】等被忽视的优秀品质，并将之与项羽、韩信进行三角对比。全书走过刘邦四十九岁起兵、五十四岁称帝、晚年平叛托孤的完整历程，揭示他胜在【整合力】而非个人魅力，胜在【宁弯不折】的韧性而非英雄光环。重读刘邦，是在一个阶层跃迁依然艰难的时代，为每一个普通人找到一面【如何成事】的真实镜子。</description>
+      <pubDate>Fri, 02 Oct 2026 17:29:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-f0452c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书以《史记》《汉书》为底本，重新解读刘邦这位【从平民到皇帝】的中国历史第一人。作者洪亮亮跳出【真龙天子】与【无赖流氓】的两极叙事，着力挖掘刘邦身上【勇担责任、待人真诚、善于学习、知人善任】等被忽视的优秀品质，并将之与项羽、韩信进行三角对比。全书走过刘邦四十九岁起兵、五十四岁称帝、晚年平叛托孤的完整历程，揭示他胜在【整合力】而非个人魅力，胜在【宁弯不折】的韧性而非英雄光环。重读刘邦，是在一个阶层跃迁依然艰难的时代，为每一个普通人找到一面【如何成事】的真实镜子。</itunes:summary>
+      <itunes:duration>00:25:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-f0452c.mp3" length="24296109" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
