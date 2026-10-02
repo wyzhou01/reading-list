@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 02:22:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 02:22:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22938,6 +22938,17 @@
       <itunes:duration>00:23:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-0ff526.mp3" length="22974381" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《奥斯维辛：一部历史》 · 完整版 · 奥斯维辛：一部历史_(理想国译丛_17) · 完整讲读</title>
+      <description>本书由英国历史学家劳伦斯·里斯基于其执导的B B C纪录片改编而成。他用十多年时间采访了奥斯维辛最后一任指挥官的前任秘书、前党卫队看守、匈牙利犹太人救援者等上百位当事人，还原了奥斯维辛从一九四零年关押三十名德国刑事犯的【隔离】营，演变为五年内屠杀超过一百万人的【死亡工厂】的全过程。本书核心论点在于，纳粹灭绝并非希特勒一人的总蓝图，而是官僚体系在战争压力下【累积式激进】的结果，下层纳粹的【创造力】与日益激进化是元凶。里斯同时警告：参与奥斯维辛的不是少数恶魔，而是无数心智正常的普通人，他们知道德国在作恶，并心安理得地执行。这一警告针对的是我们每个人——把恶归于【他们】，建议我们能从中得到安慰，但里斯让我们恰恰不要这种安慰。</description>
+      <pubDate>Fri, 02 Oct 2026 02:22:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-6aa228</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书由英国历史学家劳伦斯·里斯基于其执导的B B C纪录片改编而成。他用十多年时间采访了奥斯维辛最后一任指挥官的前任秘书、前党卫队看守、匈牙利犹太人救援者等上百位当事人，还原了奥斯维辛从一九四零年关押三十名德国刑事犯的【隔离】营，演变为五年内屠杀超过一百万人的【死亡工厂】的全过程。本书核心论点在于，纳粹灭绝并非希特勒一人的总蓝图，而是官僚体系在战争压力下【累积式激进】的结果，下层纳粹的【创造力】与日益激进化是元凶。里斯同时警告：参与奥斯维辛的不是少数恶魔，而是无数心智正常的普通人，他们知道德国在作恶，并心安理得地执行。这一警告针对的是我们每个人——把恶归于【他们】，建议我们能从中得到安慰，但里斯让我们恰恰不要这种安慰。</itunes:summary>
+      <itunes:duration>00:28:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-6aa228.mp3" length="26896173" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
