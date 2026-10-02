@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 17:23:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:24:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23455,6 +23455,17 @@
       <itunes:duration>00:21:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-5bbd66.mp3" length="20656173" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《未亡日》 · 完整版 · 未亡日 · 完整讲读</title>
+      <description>《未亡日》是藤萍二零一六年出版的长篇末世科幻网文，共六卷一百三十余章、近三百万字。故事讲述警校教官聂雍因重伤被冷冻一百三十一年后苏醒，发现地球已被变异人、辐射巨兽、星际异族与海底文明重塑，他在废土中组建队伍，卷入人类、灰星异族与维度存在之间的存亡战争。本书以宏大世界观与细腻人物刻画见长，在废土求生外壳下探讨孤独、认知重建与文明惯性，是华语网文里难得的兼具爽点节奏与深层命题的长篇巨制。</description>
+      <pubDate>Fri, 02 Oct 2026 17:24:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-b9799d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《未亡日》是藤萍二零一六年出版的长篇末世科幻网文，共六卷一百三十余章、近三百万字。故事讲述警校教官聂雍因重伤被冷冻一百三十一年后苏醒，发现地球已被变异人、辐射巨兽、星际异族与海底文明重塑，他在废土中组建队伍，卷入人类、灰星异族与维度存在之间的存亡战争。本书以宏大世界观与细腻人物刻画见长，在废土求生外壳下探讨孤独、认知重建与文明惯性，是华语网文里难得的兼具爽点节奏与深层命题的长篇巨制。</itunes:summary>
+      <itunes:duration>00:32:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-b9799d.mp3" length="30745005" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
