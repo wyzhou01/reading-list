@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 02:23:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 02:29:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22960,6 +22960,17 @@
       <itunes:duration>00:27:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-39bd0d.mp3" length="26241069" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《数学女孩》 · 完整版 · 数学女孩1 · 完整讲读</title>
+      <description>《数学女孩》是日本作家结城浩写给所有【害怕数学】和【曾经喜欢过数学】的人的一封长信。故事从高一樱花树下的一个数列谜题开始，三个高中生——我、米尔嘉、泰朵拉——在一间图书室里，用斐波那契数列写情书，用生成函数搭桥梁，用微分和差分在离散与连续两个世界之间往返，用泰勒展开逼近圆周率，用调和数和 ζ 函数触碰无穷，最终在分拆数那一章里完成了一次关于【如何为未知寻找好的上界】的朝圣。这本书最独特的地方，不是它讲了多高深的定理，而是它把定理放回了被发现时的那个场景——几个少年围着一张桌子，一支铅笔，一张草稿纸，一边聊着喜欢的人，一边写着公式。它让人相信，数学从来不是天才的特权，而是一种可以一群人一起玩的游戏。当我们这个时代的知识传播越来越被【五分钟讲完】【学会就变强】所统治，这本书依然固执地邀请你：慢下来，为一个定义写两小时草稿，找一个愿意陪你推导的人，做一只可以在两个世界之间跳跃的青蛙。</description>
+      <pubDate>Fri, 02 Oct 2026 02:29:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-8528c3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《数学女孩》是日本作家结城浩写给所有【害怕数学】和【曾经喜欢过数学】的人的一封长信。故事从高一樱花树下的一个数列谜题开始，三个高中生——我、米尔嘉、泰朵拉——在一间图书室里，用斐波那契数列写情书，用生成函数搭桥梁，用微分和差分在离散与连续两个世界之间往返，用泰勒展开逼近圆周率，用调和数和 ζ 函数触碰无穷，最终在分拆数那一章里完成了一次关于【如何为未知寻找好的上界】的朝圣。这本书最独特的地方，不是它讲了多高深的定理，而是它把定理放回了被发现时的那个场景——几个少年围着一张桌子，一支铅笔，一张草稿纸，一边聊着喜欢的人，一边写着公式。它让人相信，数学从来不是天才的特权，而是一种可以一群人一起玩的游戏。当我们这个时代的知识传播越来越被【五分钟讲完】【学会就变强】所统治，这本书依然固执地邀请你：慢下来，为一个定义写两小时草稿，找一个愿意陪你推导的人，做一只可以在两个世界之间跳跃的青蛙。</itunes:summary>
+      <itunes:duration>00:27:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-8528c3.mp3" length="26089389" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
