@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 16:45:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 16:51:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23301,6 +23301,17 @@
       <itunes:duration>00:34:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-eb6924.mp3" length="33063981" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《燃眉追击》 · 完整版 · 燃眉追击_(汤姆·克兰西军事系列) · 完整讲读</title>
+      <description>《燃眉追击》是汤姆·克兰西一九八九年出版的军事小说，讲述美国总统授权中情局对哥伦比亚大毒枭发动代号演艺船行动的越境突袭。小说以近乎教科书式的笔触，深入国家决策与特种执行的每一个齿轮，揭示秘密战争在政治、人格、道德、人员、友军、真相六个层面留下的代价。这不仅是一场丛林战斗，更是一堂关于大国博弈中秘密与伦理的持久课。</description>
+      <pubDate>Fri, 02 Oct 2026 16:51:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-d0f432</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《燃眉追击》是汤姆·克兰西一九八九年出版的军事小说，讲述美国总统授权中情局对哥伦比亚大毒枭发动代号演艺船行动的越境突袭。小说以近乎教科书式的笔触，深入国家决策与特种执行的每一个齿轮，揭示秘密战争在政治、人格、道德、人员、友军、真相六个层面留下的代价。这不仅是一场丛林战斗，更是一堂关于大国博弈中秘密与伦理的持久课。</itunes:summary>
+      <itunes:duration>00:27:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-d0f432.mp3" length="26860077" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
