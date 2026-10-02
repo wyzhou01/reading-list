@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 17:57:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 18:03:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23675,6 +23675,17 @@
       <itunes:duration>00:29:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-e20021.mp3" length="28474797" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《冥河的摆渡者——康德的《判断力批判》》 · 完整版 · 冥河的摆渡者：康德的《判断力批判》_-_邓晓芒 · 完整讲读</title>
+      <description>本书为邓晓芒逐章导读康德《判断力批判》的经典之作。邓晓芒指出，理解第三批判的关键在于哲学人类学立场——判断力不是连接两大领域的简单桥梁，而是为自身立法的第三种能力。审美判断力与目的论判断力在人类心灵中实现了内在有机统一，最终指向康德终生追问的总问题【人是什么】。</description>
+      <pubDate>Fri, 02 Oct 2026 18:03:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-1d2274</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书为邓晓芒逐章导读康德《判断力批判》的经典之作。邓晓芒指出，理解第三批判的关键在于哲学人类学立场——判断力不是连接两大领域的简单桥梁，而是为自身立法的第三种能力。审美判断力与目的论判断力在人类心灵中实现了内在有机统一，最终指向康德终生追问的总问题【人是什么】。</itunes:summary>
+      <itunes:duration>00:23:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-1d2274.mp3" length="22198701" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
