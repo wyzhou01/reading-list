@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 17:37:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:41:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23554,6 +23554,17 @@
       <itunes:duration>00:29:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-e6fb96.mp3" length="28627245" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《你是我最美的相遇》 · 完整版 · 你是我最美的相遇_-_林笛儿 · 完整讲读</title>
+      <description>《你是我最美的相遇》是林笛儿二零一二年的都市言情代表作，讲述播音系女孩叶枫和央视新闻主播夏奕阳跨越近十年的爱情故事。叶枫十七岁戴着一嘴牙套走进夏奕阳的视线，却在出国前不告而别；六年后她在爱丁堡做导游，他在世界气候大会的直播间里攥着写有她地址的纸条；又过十年，她在金话筒颁奖典礼上被他亲手扶住，两人终于在全国观众面前承认彼此。错过、重逢、误解、试探，林笛儿把媒体人的职业、秘密和面子，藏在一个爱情故事里，替所有在聚光灯下拼命发光却忘了为爱卸下铠甲的人，留下了一份关于诚实的示范。</description>
+      <pubDate>Fri, 02 Oct 2026 17:41:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-5e651d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《你是我最美的相遇》是林笛儿二零一二年的都市言情代表作，讲述播音系女孩叶枫和央视新闻主播夏奕阳跨越近十年的爱情故事。叶枫十七岁戴着一嘴牙套走进夏奕阳的视线，却在出国前不告而别；六年后她在爱丁堡做导游，他在世界气候大会的直播间里攥着写有她地址的纸条；又过十年，她在金话筒颁奖典礼上被他亲手扶住，两人终于在全国观众面前承认彼此。错过、重逢、误解、试探，林笛儿把媒体人的职业、秘密和面子，藏在一个爱情故事里，替所有在聚光灯下拼命发光却忘了为爱卸下铠甲的人，留下了一份关于诚实的示范。</itunes:summary>
+      <itunes:duration>00:29:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-5e651d.mp3" length="27987885" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
