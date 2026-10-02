@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 01:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 01:16:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22828,6 +22828,17 @@
       <itunes:duration>00:35:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-49adc8.mp3" length="33679149" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中国历史风云录》 · 完整版 · 中国历史风云录_16版 · 完整讲读</title>
+      <description>本书是日籍华裔作家陈舜臣面向普通读者撰写的中国通史，从神话时代讲到近代，以考古发现与神话碎片为切入点，串联夏商周三代至明清的王朝兴亡。作者以日本汉学家的外部视角，借助甲骨文、仰韶龙山考古、内藤湖南与傅斯年的东西学说，重新审视夏王朝是否真实存在、尧舜禅让是否为后世建构等关键命题，揭示中国神话片段性的成因与文明连续性的底层逻辑，是一次跨文化理解中国历史的典范之作。</description>
+      <pubDate>Fri, 02 Oct 2026 01:16:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-516e06</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是日籍华裔作家陈舜臣面向普通读者撰写的中国通史，从神话时代讲到近代，以考古发现与神话碎片为切入点，串联夏商周三代至明清的王朝兴亡。作者以日本汉学家的外部视角，借助甲骨文、仰韶龙山考古、内藤湖南与傅斯年的东西学说，重新审视夏王朝是否真实存在、尧舜禅让是否为后世建构等关键命题，揭示中国神话片段性的成因与文明连续性的底层逻辑，是一次跨文化理解中国历史的典范之作。</itunes:summary>
+      <itunes:duration>00:25:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-516e06.mp3" length="24923949" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
