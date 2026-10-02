@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 01 Oct 2026 17:45:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 00:58:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22740,6 +22740,17 @@
       <itunes:duration>00:30:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-91f423.mp3" length="29145261" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《地缘看世界-第二部分-上_春秋》 · 完整版 · 地缘看世界-第二部分-上_春秋_-_温骏轩 · 完整讲读</title>
+      <description>《地缘看世界》第二部分《中央之国的形成》以地缘视角解读中华文明的起源与春秋霸局。作者温骏轩不从帝王将相讲起，而是从黄土高原、华北平原、山东丘陵、长江中下游等地理单元入手，剖析东西两大族群的合流、关中盆地的胜出、崤函通道的战略意义、山西高原的防御悖论，以及春秋五霸分布背后的地理逻辑。书中贯穿一个核心观点：中国的历史剧本早在炎黄时代就被山川形势写定，几千年来王朝兴衰、族群融合、战争胜负，都可以在地形与气候的结构中找到答案。这是一部兼具可读性与解释力的通俗地缘史，至今仍是理解中国地缘结构的入门佳作。</description>
+      <pubDate>Fri, 02 Oct 2026 00:58:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-8b2b13</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《地缘看世界》第二部分《中央之国的形成》以地缘视角解读中华文明的起源与春秋霸局。作者温骏轩不从帝王将相讲起，而是从黄土高原、华北平原、山东丘陵、长江中下游等地理单元入手，剖析东西两大族群的合流、关中盆地的胜出、崤函通道的战略意义、山西高原的防御悖论，以及春秋五霸分布背后的地理逻辑。书中贯穿一个核心观点：中国的历史剧本早在炎黄时代就被山川形势写定，几千年来王朝兴衰、族群融合、战争胜负，都可以在地形与气候的结构中找到答案。这是一部兼具可读性与解释力的通俗地缘史，至今仍是理解中国地缘结构的入门佳作。</itunes:summary>
+      <itunes:duration>00:25:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-8b2b13.mp3" length="24850221" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
