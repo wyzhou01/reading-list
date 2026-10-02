@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 01:14:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 01:15:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22817,6 +22817,17 @@
       <itunes:duration>00:27:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-384bd8.mp3" length="25963053" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《希腊漫话》 · 完整版 · 大家小书：希腊漫话 · 完整讲读</title>
+      <description>《希腊漫话》是罗念生 1941 年在抗战烽火中写成的古希腊文化散文集。本书分上下两编：上编是他在希腊游学时的游记与抒情，把两千多年前的马拉松战役、温泉关死守、萨拉米海战写成鼓舞中国抗战的【史话】；下编系统介绍古希腊教育、雕刻与戏剧的成就。他一生翻译了埃斯库罗斯、索福克勒斯、欧里庇得斯三大悲剧诗人与阿里斯托芬、米南德的喜剧，是把古希腊戏剧翻译得最完整、最典雅的中文学者。 1988 年获雅典科学院【最高文学艺术奖】，是非希腊公民中获此奖的第三人。本书是一把钥匙，帮读者打开古希腊精神七大侧面——求健康、好学、创造、爱美、人文、中庸、爱自由——并理解这台两千五百年前就开机的【情感发电机】，今天为何仍在塑造我们的世界。</description>
+      <pubDate>Fri, 02 Oct 2026 01:14:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-49adc8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《希腊漫话》是罗念生 1941 年在抗战烽火中写成的古希腊文化散文集。本书分上下两编：上编是他在希腊游学时的游记与抒情，把两千多年前的马拉松战役、温泉关死守、萨拉米海战写成鼓舞中国抗战的【史话】；下编系统介绍古希腊教育、雕刻与戏剧的成就。他一生翻译了埃斯库罗斯、索福克勒斯、欧里庇得斯三大悲剧诗人与阿里斯托芬、米南德的喜剧，是把古希腊戏剧翻译得最完整、最典雅的中文学者。 1988 年获雅典科学院【最高文学艺术奖】，是非希腊公民中获此奖的第三人。本书是一把钥匙，帮读者打开古希腊精神七大侧面——求健康、好学、创造、爱美、人文、中庸、爱自由——并理解这台两千五百年前就开机的【情感发电机】，今天为何仍在塑造我们的世界。</itunes:summary>
+      <itunes:duration>00:35:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-49adc8.mp3" length="33679149" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
