@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 17:15:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:16:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23400,6 +23400,17 @@
       <itunes:duration>00:27:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-dee716.mp3" length="26305965" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《恍如隔世》 · 完整版 · 恍如隔世 · 完整讲读</title>
+      <description>《恍如隔世》是英国作家克里斯托弗·普里斯特的架空历史代表作。故事里，约瑟夫·索耶在坠机后陷入【清晰幻象】，不停在英德和平与战争肆虐的两条时间线之间切换。他在和平里抱起刚出生的儿子，却被另一个人顶替了父亲的位置；他在战争里与丘吉尔会面，却连自己究竟是乔还是杰克都分不清。普里斯特用这位皇家空军上校被劈成两半的一生，拷问了一个比《高堡奇人》更私人的问题：当和平要靠一个人的幻象来维持，他还能活多久？以及——当战争结束，活着的人真的还完整吗？这是一本关于第二次世界大战的最伟大的幻想小说，也是一面照见我们每一个被劈成两半的现代人的镜子。</description>
+      <pubDate>Fri, 02 Oct 2026 17:16:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-f0f16b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《恍如隔世》是英国作家克里斯托弗·普里斯特的架空历史代表作。故事里，约瑟夫·索耶在坠机后陷入【清晰幻象】，不停在英德和平与战争肆虐的两条时间线之间切换。他在和平里抱起刚出生的儿子，却被另一个人顶替了父亲的位置；他在战争里与丘吉尔会面，却连自己究竟是乔还是杰克都分不清。普里斯特用这位皇家空军上校被劈成两半的一生，拷问了一个比《高堡奇人》更私人的问题：当和平要靠一个人的幻象来维持，他还能活多久？以及——当战争结束，活着的人真的还完整吗？这是一本关于第二次世界大战的最伟大的幻想小说，也是一面照见我们每一个被劈成两半的现代人的镜子。</itunes:summary>
+      <itunes:duration>00:32:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-f0f16b.mp3" length="31378605" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
