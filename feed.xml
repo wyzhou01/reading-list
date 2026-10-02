@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 17:57:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:57:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23664,6 +23664,17 @@
       <itunes:duration>00:29:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-92bc6a.mp3" length="27922221" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《入土不安（域外聊斋书系）》 · 完整版 · 入土不安（域外聊斋书系） · 完整讲读</title>
+      <description>《入土不安》是人民文学出版社【域外聊斋书系】中的一部欧美惊悚短篇小说精选，收录爱伦·坡、霍桑、莫泊桑、卡夫卡、福克纳、海明威、博尔赫斯等十四位名家的惊悚经典，按年代编排，呈现出一条惊悚文学的演变史。本书真正的核心不是【世界上有什么可怕的东西】，而是【人为什么会觉得可怕】。从十九世纪的鬼怪、城堡、超自然事件，到二十世纪的焦虑、异化、内心恐惧，惊悚文学完成了一次重大转向——从【世界之可怕】走向【自身之怪异】。罪疚、孤独、异化，是惊悚文学的三种底色，对应的是现代人在宗教崩塌、传统解体、战争阴影下的精神处境。这本书既是惊悚文学爱好者的精选读本，也是了解欧美文学心理化进程的入门钥匙。</description>
+      <pubDate>Fri, 02 Oct 2026 17:57:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-e20021</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《入土不安》是人民文学出版社【域外聊斋书系】中的一部欧美惊悚短篇小说精选，收录爱伦·坡、霍桑、莫泊桑、卡夫卡、福克纳、海明威、博尔赫斯等十四位名家的惊悚经典，按年代编排，呈现出一条惊悚文学的演变史。本书真正的核心不是【世界上有什么可怕的东西】，而是【人为什么会觉得可怕】。从十九世纪的鬼怪、城堡、超自然事件，到二十世纪的焦虑、异化、内心恐惧，惊悚文学完成了一次重大转向——从【世界之可怕】走向【自身之怪异】。罪疚、孤独、异化，是惊悚文学的三种底色，对应的是现代人在宗教崩塌、传统解体、战争阴影下的精神处境。这本书既是惊悚文学爱好者的精选读本，也是了解欧美文学心理化进程的入门钥匙。</itunes:summary>
+      <itunes:duration>00:29:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-e20021.mp3" length="28474797" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
