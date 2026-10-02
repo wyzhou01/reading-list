@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 03:26:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 03:36:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23202,6 +23202,17 @@
       <itunes:duration>00:31:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-8362b7.mp3" length="29803053" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《焚舟纪·烟火》 · 完整版 · 焚舟纪·烟火_-_[英]安吉拉·卡特 · 完整讲读</title>
+      <description>《焚舟纪·烟火》是英国女性主义作家安吉拉·卡特一九七二年的短篇作品集,记录了一场发生在东京的跨文化恋情如何被转化为文学创作。她用哥特与幻奇的笔法,剖开他者感、压抑机制与女性主体的困境,展示了书写如何从痛苦中赎回主体性。这本书既是跨文化恋情的幻灭记录,也是女性觉醒的寓言,至今仍以锋利的文本提醒读者:你看到的他者,永远是你自己投过去的影子。</description>
+      <pubDate>Fri, 02 Oct 2026 03:36:36 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-c7ac31</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《焚舟纪·烟火》是英国女性主义作家安吉拉·卡特一九七二年的短篇作品集,记录了一场发生在东京的跨文化恋情如何被转化为文学创作。她用哥特与幻奇的笔法,剖开他者感、压抑机制与女性主体的困境,展示了书写如何从痛苦中赎回主体性。这本书既是跨文化恋情的幻灭记录,也是女性觉醒的寓言,至今仍以锋利的文本提醒读者:你看到的他者,永远是你自己投过去的影子。</itunes:summary>
+      <itunes:duration>00:29:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-c7ac31.mp3" length="28320045" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
