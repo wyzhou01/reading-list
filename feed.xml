@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 17:56:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:57:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23653,6 +23653,17 @@
       <itunes:duration>00:25:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-935628.mp3" length="24417453" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《浪：一个为自由而浪迹天涯者的自述》 · 完整版 · 浪：一个为自由而浪迹天涯者的自述 · 完整讲读</title>
+      <description>《浪》是德籍华人关愚谦写于八十岁的一部血泪自传。一九六六年文革中，他盗用一本日本护照从北京出逃，飞至开罗后入狱一年半，最终辗转至德国汉堡，在汉堡大学执教四十年。书中他以亲历者与忏悔者的双重身份，把个人命运与二十世纪中国的剧烈震荡缝在一起，写尽了一个中国知识分子在反右、文革、流亡与归家之间的全部悲欢。他用一本书回答了一个问题：在个人被时代碾压的时候，人到底有没有选择？答案是：有的，哪怕只是一个抽屉里的瞬间判断，哪怕只是在异国的铁窗里学一门阿拉伯文，哪怕只是在阿尔斯特湖畔散步四十年。这些微小的、持续的、不肯认命的动作，就是人对抗时代洪流最朴素的方式。</description>
+      <pubDate>Fri, 02 Oct 2026 17:57:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-92bc6a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《浪》是德籍华人关愚谦写于八十岁的一部血泪自传。一九六六年文革中，他盗用一本日本护照从北京出逃，飞至开罗后入狱一年半，最终辗转至德国汉堡，在汉堡大学执教四十年。书中他以亲历者与忏悔者的双重身份，把个人命运与二十世纪中国的剧烈震荡缝在一起，写尽了一个中国知识分子在反右、文革、流亡与归家之间的全部悲欢。他用一本书回答了一个问题：在个人被时代碾压的时候，人到底有没有选择？答案是：有的，哪怕只是一个抽屉里的瞬间判断，哪怕只是在异国的铁窗里学一门阿拉伯文，哪怕只是在阿尔斯特湖畔散步四十年。这些微小的、持续的、不肯认命的动作，就是人对抗时代洪流最朴素的方式。</itunes:summary>
+      <itunes:duration>00:29:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-92bc6a.mp3" length="27922221" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
