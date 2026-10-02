@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 02:13:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 02:14:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -22883,6 +22883,17 @@
       <itunes:duration>00:32:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-bb8473.mp3" length="30879789" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《政论·昌言》 · 完整版 · 中华经典名著全本全注全译丛书：政论_昌言 · 完整讲读</title>
+      <description>东汉末年桓灵之际,王朝从骨髓烂到皮肉,朝廷外戚阉党轮流把持,豪族兼并土地至赤贫寡人,选举形同虚设,道德教化变成空话。崔寔在《政论》中提出【重赏深罚、明著法术】的乱世重方政策,把德教比作治世的粮食与肉,把刑法比作乱世的药石,主张乱世必须用药石救人,不能再用空谈害命。仲长统在《昌言》中把治乱循环算到底,把豪族、清议、选举一一拆穿,提出限田均税、改革选举等主张,最终却承认【乱世长而化世短】,走向【逍遥一世,睥睨天地】的归隐。本期读完这两部批判经典,看清王朝危机的所有病灶,以及那个时代所有读书人在危墙前的两种姿态。</description>
+      <pubDate>Fri, 02 Oct 2026 02:14:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-2876e0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>东汉末年桓灵之际,王朝从骨髓烂到皮肉,朝廷外戚阉党轮流把持,豪族兼并土地至赤贫寡人,选举形同虚设,道德教化变成空话。崔寔在《政论》中提出【重赏深罚、明著法术】的乱世重方政策,把德教比作治世的粮食与肉,把刑法比作乱世的药石,主张乱世必须用药石救人,不能再用空谈害命。仲长统在《昌言》中把治乱循环算到底,把豪族、清议、选举一一拆穿,提出限田均税、改革选举等主张,最终却承认【乱世长而化世短】,走向【逍遥一世,睥睨天地】的归隐。本期读完这两部批判经典,看清王朝危机的所有病灶,以及那个时代所有读书人在危墙前的两种姿态。</itunes:summary>
+      <itunes:duration>00:29:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-2876e0.mp3" length="28276269" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
