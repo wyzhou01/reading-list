@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 15:48:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 15:50:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23224,6 +23224,17 @@
       <itunes:duration>00:30:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-cdfead.mp3" length="29513133" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《夜上海》 · 完整版 · 夜上海 · 完整讲读</title>
+      <description>《夜上海》是美国作家尼克·莫尼斯写的一部以一九三六年上海为背景的历史小说。一位美国黑人古典钢琴师托马斯·格林被音乐经纪人林鸣从西雅图带到上海，成为国王乐队的领班。托马斯在上海的弄堂里安顿下来，在舞厅里用琴声赢得了这座城市的认可。杜月笙身边的女人宋玉花，受过良好教育，却在公开场合为杜月笙服务的同时，把心里最重要的一切藏在了只有她自己进得去的地方。在爵士乐的掩护下，托马斯和宋玉花因乐结缘，也因乱世走向终局。本书把爵士乐、上海黑帮、抗日暗战、跨族恋情四个看似不相干的元素，编进同一段旋律，回答了一个问题：在秩序崩塌的乱世里，一个普通人要如何选择，才能把命运握在自己手里。</description>
+      <pubDate>Fri, 02 Oct 2026 15:50:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-da335d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《夜上海》是美国作家尼克·莫尼斯写的一部以一九三六年上海为背景的历史小说。一位美国黑人古典钢琴师托马斯·格林被音乐经纪人林鸣从西雅图带到上海，成为国王乐队的领班。托马斯在上海的弄堂里安顿下来，在舞厅里用琴声赢得了这座城市的认可。杜月笙身边的女人宋玉花，受过良好教育，却在公开场合为杜月笙服务的同时，把心里最重要的一切藏在了只有她自己进得去的地方。在爵士乐的掩护下，托马斯和宋玉花因乐结缘，也因乱世走向终局。本书把爵士乐、上海黑帮、抗日暗战、跨族恋情四个看似不相干的元素，编进同一段旋律，回答了一个问题：在秩序崩塌的乱世里，一个普通人要如何选择，才能把命运握在自己手里。</itunes:summary>
+      <itunes:duration>00:41:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-da335d.mp3" length="39444909" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
