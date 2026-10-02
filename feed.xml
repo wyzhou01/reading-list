@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 02:46:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 02:51:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23059,6 +23059,17 @@
       <itunes:duration>00:24:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-f43a9d.mp3" length="23297325" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《十字架·红玫瑰（Roadside Crosses）》 · 完整版 · 十字架·红玫瑰_Roadside_Crosses · 完整讲读</title>
+      <description>杰夫里·迪弗的《十字架·红玫瑰》讲述十七岁少女塔米·福斯特被匿名绑进后备箱推入涨潮海水的案件，身势学女警探凯瑟琳·丹斯通过路边十字架与暗红玫瑰两条线索，把一对被长期欺凌的少年凶手从网络匿名论坛中锁定。本书借加州蒙特雷的刑侦现场，深刻揭示了互联网匿名与现实暴力之间被模糊的边界，并追问：当屏幕后的人决定让谁去死，我们每个人在评论区的每一次沉默，是共谋，还是救赎。</description>
+      <pubDate>Fri, 02 Oct 2026 02:51:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-f5342b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>杰夫里·迪弗的《十字架·红玫瑰》讲述十七岁少女塔米·福斯特被匿名绑进后备箱推入涨潮海水的案件，身势学女警探凯瑟琳·丹斯通过路边十字架与暗红玫瑰两条线索，把一对被长期欺凌的少年凶手从网络匿名论坛中锁定。本书借加州蒙特雷的刑侦现场，深刻揭示了互联网匿名与现实暴力之间被模糊的边界，并追问：当屏幕后的人决定让谁去死，我们每个人在评论区的每一次沉默，是共谋，还是救赎。</itunes:summary>
+      <itunes:duration>00:30:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-f5342b.mp3" length="28861101" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
