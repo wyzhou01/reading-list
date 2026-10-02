@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 02:36:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 02:37:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23004,6 +23004,17 @@
       <itunes:duration>00:28:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-9ceee4.mp3" length="27729453" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《少爷》 · 完整版 · 少爷_-_夏目漱石 · 完整讲读</title>
+      <description>《少爷》是夏目漱石一九零六年发表的中篇小说，讲述一个脾气火爆的东京青年，被派到九州乡下中学当数学老师，结果一头栽进同事间的派系斗争和虚伪算计里头的故事。他看不惯那些当面笑嘻嘻背后捅刀的小人，于是跟一个外号豪猪的朋友联手，把红衬衫教头和古贺这些伪君子挨个揍了一遍，最后大摇大摆回了东京。全书口语体，嬉笑怒骂皆成文章，透过一个嫉恶如仇的少年视角，把明治社会那些伪善、派阀、人情冷暖全给抖落了出来。一百多年过去了，书里揭露的派系政治和人情算计，搁今天依然毫不过时。</description>
+      <pubDate>Fri, 02 Oct 2026 02:37:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261001-episode-20261001-28b2c1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《少爷》是夏目漱石一九零六年发表的中篇小说，讲述一个脾气火爆的东京青年，被派到九州乡下中学当数学老师，结果一头栽进同事间的派系斗争和虚伪算计里头的故事。他看不惯那些当面笑嘻嘻背后捅刀的小人，于是跟一个外号豪猪的朋友联手，把红衬衫教头和古贺这些伪君子挨个揍了一遍，最后大摇大摆回了东京。全书口语体，嬉笑怒骂皆成文章，透过一个嫉恶如仇的少年视角，把明治社会那些伪善、派阀、人情冷暖全给抖落了出来。一百多年过去了，书里揭露的派系政治和人情算计，搁今天依然毫不过时。</itunes:summary>
+      <itunes:duration>00:26:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261001/episode-20261001-28b2c1.mp3" length="25857837" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
