@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 02 Oct 2026 17:28:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:28:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23477,6 +23477,17 @@
       <itunes:duration>00:21:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-0beaf3.mp3" length="21030573" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《会评本水浒全传》 · 完整版 · 会评本水浒全传V0.5 · 完整讲读</title>
+      <description>汇评本水浒全传，把金圣叹、李贽、袁无涯、王望如、余象斗五家批语汇集于一书，呈现同一部水浒的五种读法。前三块拼图分别讨论：一百零八人各各不同的性格美学，金圣叹所谓人有其性情有其气质的写人境界；宋江的分裂人格，金圣叹读为假道学真强盗，李贽读为忠义之烈；水浒的因文生事与三种叙事的终局权之争。后三块拼图收束于招安与忠义的最大悖论：体制外的好汉如何被体制吞噬，李逵临死前一声叹罢罢罢，刺穿了几百年的忠义叙事。读这本书，不是为了下一个结论，而是为了听见所有还在响的声音。</description>
+      <pubDate>Fri, 02 Oct 2026 17:28:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-2ce0f3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>汇评本水浒全传，把金圣叹、李贽、袁无涯、王望如、余象斗五家批语汇集于一书，呈现同一部水浒的五种读法。前三块拼图分别讨论：一百零八人各各不同的性格美学，金圣叹所谓人有其性情有其气质的写人境界；宋江的分裂人格，金圣叹读为假道学真强盗，李贽读为忠义之烈；水浒的因文生事与三种叙事的终局权之争。后三块拼图收束于招安与忠义的最大悖论：体制外的好汉如何被体制吞噬，李逵临死前一声叹罢罢罢，刺穿了几百年的忠义叙事。读这本书，不是为了下一个结论，而是为了听见所有还在响的声音。</itunes:summary>
+      <itunes:duration>00:28:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-2ce0f3.mp3" length="27147693" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
