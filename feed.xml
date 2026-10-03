@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 19:56:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 20:02:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24236,6 +24236,17 @@
       <itunes:duration>00:27:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-f9c9e9.mp3" length="26562093" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《四大名捕外传·方邪真故事01：杀楚》 · 完整版 · 四大名捕外传•方邪真故事01：杀楚 · 完整讲读</title>
+      <description>《杀楚》是温瑞安一九八六年写就的《四大名捕外传》开篇之作,亦是白衣剑客方邪真的正式登场。故事从洛阳古道一间茶寮开始:落拓捕快追命与白衣书生方邪真因【杀楚】二字相遇,目睹兰亭池家少主池日暮被一群死士伏击,二人先后出手,救下池日暮,也卷入了洛阳四公子争【洛阳王】的暗流。方邪真身负百仇门血仇,化名投靠兰亭池家,与文胆刘是之从合作走向决裂,最终在竹林中亲手了结这位野心家。全书以诗入武,以意象杀人,提出了一个跨越时代的命题:当一个身负血仇的人投身他并不完全认同的阵营,该不该躬身入局?温瑞安借方邪真之口给出答案——【答案总是在人生的前面,疑问都留在后头】。这一卷奠定了兰亭池家、洛阳四公子、百仇门与不愁门的整片江湖版图,亦是方邪真从孤独剑客走向群像江湖的起点。</description>
+      <pubDate>Sat, 03 Oct 2026 20:02:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-dc1212</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《杀楚》是温瑞安一九八六年写就的《四大名捕外传》开篇之作,亦是白衣剑客方邪真的正式登场。故事从洛阳古道一间茶寮开始:落拓捕快追命与白衣书生方邪真因【杀楚】二字相遇,目睹兰亭池家少主池日暮被一群死士伏击,二人先后出手,救下池日暮,也卷入了洛阳四公子争【洛阳王】的暗流。方邪真身负百仇门血仇,化名投靠兰亭池家,与文胆刘是之从合作走向决裂,最终在竹林中亲手了结这位野心家。全书以诗入武,以意象杀人,提出了一个跨越时代的命题:当一个身负血仇的人投身他并不完全认同的阵营,该不该躬身入局?温瑞安借方邪真之口给出答案——【答案总是在人生的前面,疑问都留在后头】。这一卷奠定了兰亭池家、洛阳四公子、百仇门与不愁门的整片江湖版图,亦是方邪真从孤独剑客走向群像江湖的起点。</itunes:summary>
+      <itunes:duration>00:29:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-dc1212.mp3" length="28278189" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
