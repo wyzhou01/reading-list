@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 16:36:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 16:44:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23961,6 +23961,17 @@
       <itunes:duration>00:39:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-431082.mp3" length="37645485" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《罗茜计划：遇见一个合适的人有多难》 · 完整版 · 罗茜计划：遇见一个合适的人有多难 · 完整讲读</title>
+      <description>《罗茜计划》讲述遗传学副教授唐·蒂尔曼——一位阿斯伯格综合征患者——把寻找人生伴侣当作科研课题立项推进的故事。他设计问卷、筛选候选人，却七次相亲全部失败。在帮学生罗茜寻找生父的过程中，唐被一系列计划外的事件击中，最终与罗茜坠入爱河。这本书以冷幽默拆解现代人用条件清单择偶的执念，揭示神经多样性不是缺陷而是不同的接口，探讨科学能解释血缘却无法解释意义的边界，并指出友谊是爱情的真正预演。它给出的核心启示是：所谓合适的另一半，从来不在清单上，而在那些无法被计划的意外里。</description>
+      <pubDate>Sat, 03 Oct 2026 16:44:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-e6e32e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《罗茜计划》讲述遗传学副教授唐·蒂尔曼——一位阿斯伯格综合征患者——把寻找人生伴侣当作科研课题立项推进的故事。他设计问卷、筛选候选人，却七次相亲全部失败。在帮学生罗茜寻找生父的过程中，唐被一系列计划外的事件击中，最终与罗茜坠入爱河。这本书以冷幽默拆解现代人用条件清单择偶的执念，揭示神经多样性不是缺陷而是不同的接口，探讨科学能解释血缘却无法解释意义的边界，并指出友谊是爱情的真正预演。它给出的核心启示是：所谓合适的另一半，从来不在清单上，而在那些无法被计划的意外里。</itunes:summary>
+      <itunes:duration>00:29:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-e6e32e.mp3" length="28345005" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
