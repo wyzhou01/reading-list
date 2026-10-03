@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 16:28:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 16:36:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23950,6 +23950,17 @@
       <itunes:duration>00:26:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-97427d.mp3" length="25012269" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《武则天：从三岁到八十二岁（第3部）》 · 完整版 · 武则天_：从三岁到八十二岁 · 完整讲读</title>
+      <description>《武则天：从三岁到八十二岁.3》是王晓磊所著武则天传记系列的第三部，聚焦公元六百五十五年至高宗朝后期的惊心动魄史。本书完整讲述了武则天从昭仪到皇后再到帝后共治的政治崛起之路：王皇后与萧淑妃被废杀、长孙无忌集团被清洗、帝后共掌朝政的建立，以及险些被废后的生死危机。作者用小说笔法写正史，既考据严谨又可读性强，是近年来最好读的武则天传记之一。本书不仅是一部个人奋斗史，更是一部关于权力、婚姻、女性突破天花板的政治寓言。</description>
+      <pubDate>Sat, 03 Oct 2026 16:36:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-431082</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《武则天：从三岁到八十二岁.3》是王晓磊所著武则天传记系列的第三部，聚焦公元六百五十五年至高宗朝后期的惊心动魄史。本书完整讲述了武则天从昭仪到皇后再到帝后共治的政治崛起之路：王皇后与萧淑妃被废杀、长孙无忌集团被清洗、帝后共掌朝政的建立，以及险些被废后的生死危机。作者用小说笔法写正史，既考据严谨又可读性强，是近年来最好读的武则天传记之一。本书不仅是一部个人奋斗史，更是一部关于权力、婚姻、女性突破天花板的政治寓言。</itunes:summary>
+      <itunes:duration>00:39:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-431082.mp3" length="37645485" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
