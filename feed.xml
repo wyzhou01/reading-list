@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 20:59:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 21:04:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24324,6 +24324,17 @@
       <itunes:duration>00:35:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-301024.mp3" length="33974061" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《假面山庄杀人事件》 · 完整版 · 假面山庄(1) · 完整讲读</title>
+      <description>《假面山庄》是东野圭吾一九九○年的本格推理中篇，写的是一场为时两个小时的&apos;假绑匪、真审判&apos;。高之为了娶筱雪绘，掉包了未婚妻朋美的止痛药为安眠药，朋美临死前察觉真相后自杀。朋美的家人为自证杀机、替女复仇，雇佣专业演员伪装抢匪，把别墅封闭成与世隔绝的孤岛，逼高之在众人面前自证其恶。面具、密室、叙述性诡计三层谜题环环相扣，结尾揭示亡妻至死仍把真正的止痛药放回盒中、替凶手掩盖罪行的反转，把&apos;人心比犯罪更难解&apos;这句话写到了极致。</description>
+      <pubDate>Sat, 03 Oct 2026 21:04:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-5792be</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《假面山庄》是东野圭吾一九九○年的本格推理中篇，写的是一场为时两个小时的&apos;假绑匪、真审判&apos;。高之为了娶筱雪绘，掉包了未婚妻朋美的止痛药为安眠药，朋美临死前察觉真相后自杀。朋美的家人为自证杀机、替女复仇，雇佣专业演员伪装抢匪，把别墅封闭成与世隔绝的孤岛，逼高之在众人面前自证其恶。面具、密室、叙述性诡计三层谜题环环相扣，结尾揭示亡妻至死仍把真正的止痛药放回盒中、替凶手掩盖罪行的反转，把&apos;人心比犯罪更难解&apos;这句话写到了极致。</itunes:summary>
+      <itunes:duration>00:10:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-5792be.mp3" length="10341933" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
