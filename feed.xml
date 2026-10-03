@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 18:28:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 18:35:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24115,6 +24115,17 @@
       <itunes:duration>00:33:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-c4f555.mp3" length="32581293" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《说出日本人的每一天：日语会话4000句》 · 完整版 · 说出日本人的每一天：日语会话4000句 · 完整讲读</title>
+      <description>《说出日本人的每一天：日语会话4000句》是程楠编著、中国纺织出版社二零一五年出版的日语口语工具书。区别于传统教材按语法难度编排，它以人、衣、食、住、行、教育、工作、寒暄、事务、娱乐、自然、社会、生老病死十三个生活主题切分全书，每个主题下再按子模块和关键词罗列日本人日常真实会说的话，每句配中文翻译与假名注音，支持关键词检索快速调用。本书定位为零基础到中高级通用的口语弹药库，尤其适合卡在【不敢开口】与【说错场合】之间的中级学习者。即便在AI语言工具泛滥的今天，这本由双语作者亲身验证的【场景化句子手册】，依然是日语口语学习领域结构最清晰、性价比最高的工具书之一。</description>
+      <pubDate>Sat, 03 Oct 2026 18:35:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-398892</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《说出日本人的每一天：日语会话4000句》是程楠编著、中国纺织出版社二零一五年出版的日语口语工具书。区别于传统教材按语法难度编排，它以人、衣、食、住、行、教育、工作、寒暄、事务、娱乐、自然、社会、生老病死十三个生活主题切分全书，每个主题下再按子模块和关键词罗列日本人日常真实会说的话，每句配中文翻译与假名注音，支持关键词检索快速调用。本书定位为零基础到中高级通用的口语弹药库，尤其适合卡在【不敢开口】与【说错场合】之间的中级学习者。即便在AI语言工具泛滥的今天，这本由双语作者亲身验证的【场景化句子手册】，依然是日语口语学习领域结构最清晰、性价比最高的工具书之一。</itunes:summary>
+      <itunes:duration>00:25:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-398892.mp3" length="24077229" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
