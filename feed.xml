@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 21:04:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 21:13:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24335,6 +24335,17 @@
       <itunes:duration>00:10:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-5792be.mp3" length="10341933" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《谁翻乐府凄凉曲》 · 完整版 · 谁翻乐府凄凉曲 · 完整讲读</title>
+      <description>《谁翻乐府凄凉曲》是满族作家叶广芩的家族自传体小说，讲述她的同父异母姐姐——大格格金舜锦——的故事。金舜锦出身正白旗和硕贝勒后裔的京剧世家，一九四三年在沦陷的北平以程派青衣轰动票友界，报纸登大照、电台请清唱，旋即销声匿迹。小说以金家戏楼胡同的藻井、花梨木雕、谭派老生、梅派青衣、铜锤花脸为背景，串联起十四個子女在辛亥、沦陷、内战中的四分五裂、三位母亲的命运倾轧、大姐的孤傲与最终的【有始无终】。叶广芩以小妹妹的旁观视角，用克制的笔调把整个八旗世家最后的京华风雅、旧式伦理、戏曲家教，写成了一份隔了几十年的回望与抢救。这是一本关于记忆、离散与文化断层的小说，也是一份替所有【划过夜空的人】补上一个结局的家族档案。</description>
+      <pubDate>Sat, 03 Oct 2026 21:13:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-222059</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《谁翻乐府凄凉曲》是满族作家叶广芩的家族自传体小说，讲述她的同父异母姐姐——大格格金舜锦——的故事。金舜锦出身正白旗和硕贝勒后裔的京剧世家，一九四三年在沦陷的北平以程派青衣轰动票友界，报纸登大照、电台请清唱，旋即销声匿迹。小说以金家戏楼胡同的藻井、花梨木雕、谭派老生、梅派青衣、铜锤花脸为背景，串联起十四個子女在辛亥、沦陷、内战中的四分五裂、三位母亲的命运倾轧、大姐的孤傲与最终的【有始无终】。叶广芩以小妹妹的旁观视角，用克制的笔调把整个八旗世家最后的京华风雅、旧式伦理、戏曲家教，写成了一份隔了几十年的回望与抢救。这是一本关于记忆、离散与文化断层的小说，也是一份替所有【划过夜空的人】补上一个结局的家族档案。</itunes:summary>
+      <itunes:duration>00:41:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-222059.mp3" length="39607725" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
