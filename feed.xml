@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 15:59:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 16:07:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23906,6 +23906,17 @@
       <itunes:duration>00:33:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-ab1319.mp3" length="31766829" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《隐藏的意识》 · 完整版 · 隐藏的意识 · 完整讲读</title>
+      <description>《隐藏的意识》是一份关于潜意识如何塑造日常决策的科学地图。心理学教授约翰·巴奇用四十年的实验证明: 过去在暗中给你装上程序, 现在在你眼前悄悄推你一把, 未来用一副你看不见的眼镜把你此刻的世界重新染色——而你, 几乎从不知道这一切正在发生。这本书既不是玄学, 也不是鸡汤, 它教你如何承认无意识的存在, 然后用【预先承诺】和【反思性回顾】这两道减速带, 重新握住一点点原本就属于你的选择权。</description>
+      <pubDate>Sat, 03 Oct 2026 16:06:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-a91b25</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《隐藏的意识》是一份关于潜意识如何塑造日常决策的科学地图。心理学教授约翰·巴奇用四十年的实验证明: 过去在暗中给你装上程序, 现在在你眼前悄悄推你一把, 未来用一副你看不见的眼镜把你此刻的世界重新染色——而你, 几乎从不知道这一切正在发生。这本书既不是玄学, 也不是鸡汤, 它教你如何承认无意识的存在, 然后用【预先承诺】和【反思性回顾】这两道减速带, 重新握住一点点原本就属于你的选择权。</itunes:summary>
+      <itunes:duration>00:27:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-a91b25.mp3" length="26806317" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
