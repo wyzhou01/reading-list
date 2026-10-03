@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 17:38:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 17:45:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24049,6 +24049,17 @@
       <itunes:duration>00:24:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-e4e322.mp3" length="23150637" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《游剑江湖》 · 完整版 · 游剑江湖 · 完整讲读</title>
+      <description>《游剑江湖》是梁羽生先生的代表作之一，讲述了杭州侠女云紫萝与孟元超、杨牧、缪长风三个男人之间的爱恨纠葛。云紫萝与孟元超真心相爱，却因时局异世他嫁杨牧，郁郁寡欢。杨牧为报复投靠清廷，最终身败名裂。缪长风默默守护云紫萝，却从不开口。云紫萝为救孟元超与缪长风，最终献出生命。本书以反清复明为背景，写尽了乱世的无奈、爱情的千百种形态与牺牲的千百种形态，是梁羽生中后期最重要的作品之一。</description>
+      <pubDate>Sat, 03 Oct 2026 17:44:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-47de87</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《游剑江湖》是梁羽生先生的代表作之一，讲述了杭州侠女云紫萝与孟元超、杨牧、缪长风三个男人之间的爱恨纠葛。云紫萝与孟元超真心相爱，却因时局异世他嫁杨牧，郁郁寡欢。杨牧为报复投靠清廷，最终身败名裂。缪长风默默守护云紫萝，却从不开口。云紫萝为救孟元超与缪长风，最终献出生命。本书以反清复明为背景，写尽了乱世的无奈、爱情的千百种形态与牺牲的千百种形态，是梁羽生中后期最重要的作品之一。</itunes:summary>
+      <itunes:duration>00:20:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-47de87.mp3" length="19789869" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
