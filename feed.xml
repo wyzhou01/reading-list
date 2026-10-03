@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 16:07:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 16:14:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23917,6 +23917,17 @@
       <itunes:duration>00:27:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-a91b25.mp3" length="26806317" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《哈佛百年经典第23卷：伊丽莎白时期戏剧（卷2）》 · 完整版 · 哈佛百年经典第23卷：伊丽莎白时期戏剧（卷2） · 完整讲读</title>
+      <description>本期九十分钟解读《哈佛百年经典第二十三卷：伊丽莎白时期戏剧第二卷》。卷中收录德克、琼森、博蒙特、弗莱彻、韦伯斯特、曼森格五位剧作家的代表作，呈现伊丽莎白时代剧场的整体面貌。德克的《鞋匠的节日》展现伦敦平民的烟火气；琼森的《炼金术士》揭穿席卷上流社会的骗局；博蒙特与弗莱彻的《菲拉斯特》将王权与忠诚扔进阴谋的绞肉机；韦伯斯特的《玛尔菲公爵夫人》写尽贵族女性的悲歌；曼森格的《旧债新还》呈现新旧时代交替时人心的撕扯。这五块拼图共同构成莎士比亚同代人的完整画卷。节目同时指出艾略特编选卷时的偏见——五位剧作家皆为男性，女性剧作家被系统性地排除在外。节目最后留下两个今天就能用上的行动：寻找一位被遗忘的女剧作家作品来读，把这九十分钟分享给挚友。</description>
+      <pubDate>Sat, 03 Oct 2026 16:14:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-a15e04</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期九十分钟解读《哈佛百年经典第二十三卷：伊丽莎白时期戏剧第二卷》。卷中收录德克、琼森、博蒙特、弗莱彻、韦伯斯特、曼森格五位剧作家的代表作，呈现伊丽莎白时代剧场的整体面貌。德克的《鞋匠的节日》展现伦敦平民的烟火气；琼森的《炼金术士》揭穿席卷上流社会的骗局；博蒙特与弗莱彻的《菲拉斯特》将王权与忠诚扔进阴谋的绞肉机；韦伯斯特的《玛尔菲公爵夫人》写尽贵族女性的悲歌；曼森格的《旧债新还》呈现新旧时代交替时人心的撕扯。这五块拼图共同构成莎士比亚同代人的完整画卷。节目同时指出艾略特编选卷时的偏见——五位剧作家皆为男性，女性剧作家被系统性地排除在外。节目最后留下两个今天就能用上的行动：寻找一位被遗忘的女剧作家作品来读，把这九十分钟分享给挚友。</itunes:summary>
+      <itunes:duration>00:23:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-a15e04.mp3" length="22308141" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
