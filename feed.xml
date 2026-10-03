@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 17:59:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 18:10:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24082,6 +24082,17 @@
       <itunes:duration>00:37:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-a86a4b.mp3" length="36365229" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《古镇迷雾》 · 完整版 · 古镇迷雾_(推理罪工场) · 完整讲读</title>
+      <description>《古镇迷雾》是杨耀峰创作的基层县域推理小说集。以刑警队长沈重与民间侦探藩斯明为双线。从狗曲崖一具被官方大塌方遗漏的尸骨撕开口子。延伸至七千万资金迷局。公墓异象。金星楼命案。直至凤凰花园爆炸案。冷峻笔触解剖权力与利益勾连下的真相遮蔽。执念与爱情如何一步步走向毁灭。以及直觉推理与证据在刑侦方法论上的交锋。在中国基层县域的官场生态与人性暗流中。寻找守望者的位置。</description>
+      <pubDate>Sat, 03 Oct 2026 18:10:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-860aab</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《古镇迷雾》是杨耀峰创作的基层县域推理小说集。以刑警队长沈重与民间侦探藩斯明为双线。从狗曲崖一具被官方大塌方遗漏的尸骨撕开口子。延伸至七千万资金迷局。公墓异象。金星楼命案。直至凤凰花园爆炸案。冷峻笔触解剖权力与利益勾连下的真相遮蔽。执念与爱情如何一步步走向毁灭。以及直觉推理与证据在刑侦方法论上的交锋。在中国基层县域的官场生态与人性暗流中。寻找守望者的位置。</itunes:summary>
+      <itunes:duration>00:32:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-860aab.mp3" length="30830253" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
