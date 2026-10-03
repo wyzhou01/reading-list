@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 19:12:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 19:28:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24181,6 +24181,17 @@
       <itunes:duration>00:37:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-9d410e.mp3" length="35992749" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《北洋大时代》 · 完整版 · 北洋大时代_-_陈钦 · 完整讲读</title>
+      <description>《北洋大时代》由历史学者陈钦所著，以三十五万字的篇幅系统还原了1895年至1928年间北洋时期的历史真相。本书揭示了北洋军阀并非单一标签所能概括的政治动物，他们在乱世中探索现代化道路，在列强压迫下坚守民族气节，在思想启蒙中推动社会进步。通过大量原始档案与口述史料，本书为袁世凯、段祺瑞、曹锟、吴佩孚等争议人物正名，指出北洋时期是中国民族资本发展的黄金时期，诞生了第一部民主宪法和亚洲首次真正的民主选举。这段历史不仅是军阀混战，更是中国近代化的一次壮阔实验。</description>
+      <pubDate>Sat, 03 Oct 2026 19:28:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-ec2236</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《北洋大时代》由历史学者陈钦所著，以三十五万字的篇幅系统还原了1895年至1928年间北洋时期的历史真相。本书揭示了北洋军阀并非单一标签所能概括的政治动物，他们在乱世中探索现代化道路，在列强压迫下坚守民族气节，在思想启蒙中推动社会进步。通过大量原始档案与口述史料，本书为袁世凯、段祺瑞、曹锟、吴佩孚等争议人物正名，指出北洋时期是中国民族资本发展的黄金时期，诞生了第一部民主宪法和亚洲首次真正的民主选举。这段历史不仅是军阀混战，更是中国近代化的一次壮阔实验。</itunes:summary>
+      <itunes:duration>00:31:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-ec2236.mp3" length="30343725" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
