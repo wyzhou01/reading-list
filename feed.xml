@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 03:21:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 03:27:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23785,6 +23785,17 @@
       <itunes:duration>00:31:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-d8accc.mp3" length="29816493" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《数学沉思录：古今数学思想的发展与演变》 · 完整版 · 数学沉思录：古今数学思想的发展与演变_(图灵新知)_-_[美]_李维 · 完整讲读</title>
+      <description>《数学沉思录》由天体物理学家马里奥·李维所著，跨越两千余年数学史，从毕达哥拉斯的神秘主义讲到非欧几何、哥德尔不完备性定理与混沌理论。本书以生动笔触回应核心谜题——维格纳所说的数学无理由的有效性——追问数学究竟是被发现的永恒真理，还是人类发明的思维工具。在展示数学与物理学、天文学惊人契合的同时，李维也坦然承认数学的边界，启发读者在认识世界的过程中，既要敬畏数学的力量，也要保持对未知的谦卑。</description>
+      <pubDate>Sat, 03 Oct 2026 03:27:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-5bc41c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《数学沉思录》由天体物理学家马里奥·李维所著，跨越两千余年数学史，从毕达哥拉斯的神秘主义讲到非欧几何、哥德尔不完备性定理与混沌理论。本书以生动笔触回应核心谜题——维格纳所说的数学无理由的有效性——追问数学究竟是被发现的永恒真理，还是人类发明的思维工具。在展示数学与物理学、天文学惊人契合的同时，李维也坦然承认数学的边界，启发读者在认识世界的过程中，既要敬畏数学的力量，也要保持对未知的谦卑。</itunes:summary>
+      <itunes:duration>00:29:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-5bc41c.mp3" length="28098477" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
