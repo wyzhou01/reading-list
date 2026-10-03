@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 17:45:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 17:50:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24060,6 +24060,17 @@
       <itunes:duration>00:20:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-47de87.mp3" length="19789869" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《新手谋杀案》 · 完整版 · 新手谋杀案（书呆子系列小说） · 完整讲读</title>
+      <description>《新手谋杀案》是计算机先驱杰拉尔德·温伯格的侦探作品，讲述退休密码破译专家乔什·罗斯蒙特在慢跑时意外发现一具被献祭的女孩尸体，从而卷入一场涉及十亿美元、连环炸弹和模糊逻辑的惊天大案。乔什召集一群精通数学的少年学生组成【书呆子侦探小队】，与掌握模糊逻辑的反派展开殊死较量，最终凭借代际协作与团队智慧化解危机。本书借侦探外壳探讨技术时代的核心命题——当天才没有道德约束，普通人该如何自处；当我们身处一个被密码与算法包裹的世界，理性思考与团队传承如何成为最锋利的武器。出版于计算机走向大众的临界点，这本书在三十多年后依然是对每一个生活在数字时代的人的锋利提醒。</description>
+      <pubDate>Sat, 03 Oct 2026 17:50:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-6a0d11</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《新手谋杀案》是计算机先驱杰拉尔德·温伯格的侦探作品，讲述退休密码破译专家乔什·罗斯蒙特在慢跑时意外发现一具被献祭的女孩尸体，从而卷入一场涉及十亿美元、连环炸弹和模糊逻辑的惊天大案。乔什召集一群精通数学的少年学生组成【书呆子侦探小队】，与掌握模糊逻辑的反派展开殊死较量，最终凭借代际协作与团队智慧化解危机。本书借侦探外壳探讨技术时代的核心命题——当天才没有道德约束，普通人该如何自处；当我们身处一个被密码与算法包裹的世界，理性思考与团队传承如何成为最锋利的武器。出版于计算机走向大众的临界点，这本书在三十多年后依然是对每一个生活在数字时代的人的锋利提醒。</itunes:summary>
+      <itunes:duration>00:21:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-6a0d11.mp3" length="20520621" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
