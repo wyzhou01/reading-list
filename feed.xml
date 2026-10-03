@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 17:06:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 17:16:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24005,6 +24005,17 @@
       <itunes:duration>00:19:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-126b2d.mp3" length="18323373" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《诗与政治：20世纪上海公共文化中的女子越剧》 · 完整版 · 诗与政治：20世纪上海公共文化中的女子越剧_-_姜进 · 完整讲读</title>
+      <description>《诗与政治: 20世纪上海公共文化中的女子越剧》是华东师范大学历史学教授姜进撰写的史学专著。本书以女子越剧为案例, 追溯这一源自浙江嵊县的方言小戏, 如何在二十世纪三十到八十年代的上海, 借助方言生态、女性观众网络与新文艺青年的结盟, 击败京剧成为沪上第一大剧种, 又如何借助戏曲电影走向全国, 并在战后的政治风浪、文革的摧毁与改革开放的市场冲击下, 一步步从大众文化变成小众文艺。作者综合口述史料、报刊档案与剧本分析, 呈现越剧女演员、女观众、戏院经营者、票社与中共地下党共同塑造的以女性为主体的都市公共文化, 反思民族国家叙事对大众文化与女性文化的系统性遮蔽, 主张把立足点转移到普通人的日常生活, 才能看到一个更完整的中国近现代史。</description>
+      <pubDate>Sat, 03 Oct 2026 17:16:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-837c4d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《诗与政治: 20世纪上海公共文化中的女子越剧》是华东师范大学历史学教授姜进撰写的史学专著。本书以女子越剧为案例, 追溯这一源自浙江嵊县的方言小戏, 如何在二十世纪三十到八十年代的上海, 借助方言生态、女性观众网络与新文艺青年的结盟, 击败京剧成为沪上第一大剧种, 又如何借助戏曲电影走向全国, 并在战后的政治风浪、文革的摧毁与改革开放的市场冲击下, 一步步从大众文化变成小众文艺。作者综合口述史料、报刊档案与剧本分析, 呈现越剧女演员、女观众、戏院经营者、票社与中共地下党共同塑造的以女性为主体的都市公共文化, 反思民族国家叙事对大众文化与女性文化的系统性遮蔽, 主张把立足点转移到普通人的日常生活, 才能看到一个更完整的中国近现代史。</itunes:summary>
+      <itunes:duration>00:34:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-837c4d.mp3" length="32873517" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
