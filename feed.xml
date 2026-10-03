@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 20:19:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 20:27:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24269,6 +24269,17 @@
       <itunes:duration>00:22:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-807061.mp3" length="21432237" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《黑背鱼之谜》 · 完整版 · 黑背鱼之谜(1) · 完整讲读</title>
+      <description>《黑背鱼之谜》是鬼马星酷法医系列第二季，以法医谷平视角切入一桩横跨二十年的复仇迷局：黑帮老大常豹收到黑背鱼卡片后遭割喉挖心、堂弟阿冒成为连环杀手唯一留下的活口。谷平在追查中发现，黑背鱼的真实身份竟与二十年前失踪的两个孩子、整形医生陈展庭、弟弟曾树的同学叶琪紧密相连。当所有真相闭环时，复仇者陈展庭最终选择朝自己开枪。小说借法医之眼审视复仇的代价，也借亲情与信任的裂缝，照见每个普通人如何在血腥里学着跟至亲好好相处。</description>
+      <pubDate>Sat, 03 Oct 2026 20:27:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-37a102</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《黑背鱼之谜》是鬼马星酷法医系列第二季，以法医谷平视角切入一桩横跨二十年的复仇迷局：黑帮老大常豹收到黑背鱼卡片后遭割喉挖心、堂弟阿冒成为连环杀手唯一留下的活口。谷平在追查中发现，黑背鱼的真实身份竟与二十年前失踪的两个孩子、整形医生陈展庭、弟弟曾树的同学叶琪紧密相连。当所有真相闭环时，复仇者陈展庭最终选择朝自己开枪。小说借法医之眼审视复仇的代价，也借亲情与信任的裂缝，照见每个普通人如何在血腥里学着跟至亲好好相处。</itunes:summary>
+      <itunes:duration>00:29:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-37a102.mp3" length="28495917" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
