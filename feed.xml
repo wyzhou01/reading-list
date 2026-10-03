@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 18:41:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 18:48:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24137,6 +24137,17 @@
       <itunes:duration>00:27:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-aec12a.mp3" length="26673837" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《被打断的近代化：晚清探隐》 · 完整版 · 被打断的近代化 · 完整讲读</title>
+      <description>《被打断的近代化》是独立研究者黄波写给晚清的一份别样传记。他不写鸦片战争本身，而写镇江副都统海龄杀良民又殉国的尴尬；不写甲午战场的炮火，而写李鸿章在马关谈判桌上的进退两难；不正面写庚子事变，而写慈禧太后逃难归来后开启的新政。书分四辑，从尴尬人物、转型小事件、历史公案到后晚清民国初年，透过日记、文集、笔记等一手史料，还原一个正在悄悄转型却最终被打断的晚清社会。作者追问两个核心问题：晚清社会转型走到了哪一步？这种转型为什么会被打断？在他看来，清政府的改革大门并未关闭，转型已深入米价、报刊、刑律、谘议局等毛细血管；可激进情绪、利益包装和权威真空三股力量联手，把本可和平走到终点的近代化硬生生打断。这是一部拒绝戏说、拒绝宏大叙事、只求把真相说清楚的历史随笔集。</description>
+      <pubDate>Sat, 03 Oct 2026 18:48:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-47ad0e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《被打断的近代化》是独立研究者黄波写给晚清的一份别样传记。他不写鸦片战争本身，而写镇江副都统海龄杀良民又殉国的尴尬；不写甲午战场的炮火，而写李鸿章在马关谈判桌上的进退两难；不正面写庚子事变，而写慈禧太后逃难归来后开启的新政。书分四辑，从尴尬人物、转型小事件、历史公案到后晚清民国初年，透过日记、文集、笔记等一手史料，还原一个正在悄悄转型却最终被打断的晚清社会。作者追问两个核心问题：晚清社会转型走到了哪一步？这种转型为什么会被打断？在他看来，清政府的改革大门并未关闭，转型已深入米价、报刊、刑律、谘议局等毛细血管；可激进情绪、利益包装和权威真空三股力量联手，把本可和平走到终点的近代化硬生生打断。这是一部拒绝戏说、拒绝宏大叙事、只求把真相说清楚的历史随笔集。</itunes:summary>
+      <itunes:duration>00:26:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-47ad0e.mp3" length="25616685" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
