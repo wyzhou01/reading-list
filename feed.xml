@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 16:52:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 16:58:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23983,6 +23983,17 @@
       <itunes:duration>00:33:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-f94034.mp3" length="32353965" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《法国大革命讲稿》 · 完整版 · 法国大革命讲稿_(汉译世界学术名著丛书)_-_阿克顿 · 完整讲读</title>
+      <description>本书是十九世纪英国历史学家阿克顿爵士在剑桥大学讲授法国大革命的讲稿合集。阿克顿以保守主义立场冷峻剖析一七八九至一七九五年间法国从财政危机走向君主制崩溃、最终陷入恐怖统治的内在逻辑。他追溯冉森派、多马、费纳隆、孟德斯鸠、杜尔哥、卢梭等思想家的观念谱系，揭示革命并非凭空而降的流星，而是长期思想运动的必然结果。他特别强调教会在革命中的脆弱地位、旧秩序内部的精神瓦解，以及雅各宾派道德专政的极权倾向。本书不仅是一部精炼的革命史，更是一部关于权力本质与自由秩序的政治哲学沉思，至今读来依然锋利。</description>
+      <pubDate>Sat, 03 Oct 2026 16:58:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-a82fa8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是十九世纪英国历史学家阿克顿爵士在剑桥大学讲授法国大革命的讲稿合集。阿克顿以保守主义立场冷峻剖析一七八九至一七九五年间法国从财政危机走向君主制崩溃、最终陷入恐怖统治的内在逻辑。他追溯冉森派、多马、费纳隆、孟德斯鸠、杜尔哥、卢梭等思想家的观念谱系，揭示革命并非凭空而降的流星，而是长期思想运动的必然结果。他特别强调教会在革命中的脆弱地位、旧秩序内部的精神瓦解，以及雅各宾派道德专政的极权倾向。本书不仅是一部精炼的革命史，更是一部关于权力本质与自由秩序的政治哲学沉思，至今读来依然锋利。</itunes:summary>
+      <itunes:duration>00:27:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-a82fa8.mp3" length="26163117" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
