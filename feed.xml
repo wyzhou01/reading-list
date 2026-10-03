@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 19:47:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 19:56:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24225,6 +24225,17 @@
       <itunes:duration>00:27:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-e7e811.mp3" length="26750637" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《臥虎藏龍（鶴鐵五部曲04）》 · 完整版 · 鶴鐵五部曲04：臥虎藏龍v1.1_-_王度廬 · 完整讲读</title>
+      <description>《臥虎藏龍》是王度廬一九四一年發表的悲劇俠情代表作，講述九門提督千金玉嬌龍自幼習武、夜盜寶劍，卻始終掙脫不了封建倫紀的內在枷鎖的故事。她與大漠悍匪羅小虎私定終身，卻在門第觀念、家族孝道與自我囚禁的三重撕扯下，最終一夜溫存後揮鞭而去，如神龍之尾不知所終。本書打破傳統武俠善惡對立的窠臼，開創【性格——心理悲劇】一脈，被尊為近代武俠悲情小說的開山宗師，亦是李安同名奧斯卡電影的原著底本。</description>
+      <pubDate>Sat, 03 Oct 2026 19:56:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-f9c9e9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《臥虎藏龍》是王度廬一九四一年發表的悲劇俠情代表作，講述九門提督千金玉嬌龍自幼習武、夜盜寶劍，卻始終掙脫不了封建倫紀的內在枷鎖的故事。她與大漠悍匪羅小虎私定終身，卻在門第觀念、家族孝道與自我囚禁的三重撕扯下，最終一夜溫存後揮鞭而去，如神龍之尾不知所終。本書打破傳統武俠善惡對立的窠臼，開創【性格——心理悲劇】一脈，被尊為近代武俠悲情小說的開山宗師，亦是李安同名奧斯卡電影的原著底本。</itunes:summary>
+      <itunes:duration>00:27:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-f9c9e9.mp3" length="26562093" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
