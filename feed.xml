@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 15:51:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 15:59:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23895,6 +23895,17 @@
       <itunes:duration>00:24:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-81d220.mp3" length="23147565" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《哲学与宗教的永恒同盟：谢林《哲学与宗教》释义》 · 完整版 · 哲学与宗教的永恒同盟：谢林《哲学与宗教》释义 · 完整讲读</title>
+      <description>本书为北京大学先刚教授对谢林一八零四年《哲学与宗教》的逐章释义。在这本被误读为谢林堕落之始的著作里，谢林其实在论证一个惊人的命题：哲学与宗教必须结成永恒的同盟。他从绝对同一性出发，阐明有限事物源于绝对者的自我认知欲求，灵魂的回归则须经历罪恶、死亡与自我意识的觉醒。先刚教授在细致释义的同时，也为谢林翻案，驳斥了卢卡奇从谢林到希特勒的非理性主义论断。哲学与宗教的关系，远比今天人们想象的复杂而丰富；二者的和解，是人类精神生活最迫切的需要。</description>
+      <pubDate>Sat, 03 Oct 2026 15:59:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-ab1319</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书为北京大学先刚教授对谢林一八零四年《哲学与宗教》的逐章释义。在这本被误读为谢林堕落之始的著作里，谢林其实在论证一个惊人的命题：哲学与宗教必须结成永恒的同盟。他从绝对同一性出发，阐明有限事物源于绝对者的自我认知欲求，灵魂的回归则须经历罪恶、死亡与自我意识的觉醒。先刚教授在细致释义的同时，也为谢林翻案，驳斥了卢卡奇从谢林到希特勒的非理性主义论断。哲学与宗教的关系，远比今天人们想象的复杂而丰富；二者的和解，是人类精神生活最迫切的需要。</itunes:summary>
+      <itunes:duration>00:33:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-ab1319.mp3" length="31766829" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
