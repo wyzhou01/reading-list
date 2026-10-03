@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 19:28:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 19:34:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24192,6 +24192,17 @@
       <itunes:duration>00:31:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-ec2236.mp3" length="30343725" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《真幌站前多田便利屋》 · 完整版 · 真幌站前多田便利屋_-_[日]_三浦紫苑 · 完整讲读</title>
+      <description>《真幌站前多田便利屋》是日本作家三浦紫苑二〇〇六年出版的直木奖获奖作品，也是真幌三部曲的第一部。故事发生在虚构的真幌市，离婚独居的便利屋老板多田启介在公交站捡回高中同学行天春彦，两个各怀伤疤的中年男人以杂活为名守护着这座城市里没能开口求援的人。本书以轻盈的日常包裹深重的命题，讲述了忘却与记住的辩证、伤痛者之间的相互救赎，以及幸福如何换副模样一次次重来。</description>
+      <pubDate>Sat, 03 Oct 2026 19:34:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-fd7606</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《真幌站前多田便利屋》是日本作家三浦紫苑二〇〇六年出版的直木奖获奖作品，也是真幌三部曲的第一部。故事发生在虚构的真幌市，离婚独居的便利屋老板多田启介在公交站捡回高中同学行天春彦，两个各怀伤疤的中年男人以杂活为名守护着这座城市里没能开口求援的人。本书以轻盈的日常包裹深重的命题，讲述了忘却与记住的辩证、伤痛者之间的相互救赎，以及幸福如何换副模样一次次重来。</itunes:summary>
+      <itunes:duration>00:24:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-fd7606.mp3" length="23547693" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
