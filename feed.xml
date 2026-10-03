@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 16:58:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 17:06:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23994,6 +23994,17 @@
       <itunes:duration>00:27:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-a82fa8.mp3" length="26163117" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《水泥花园》 · 完整版 · 水泥花园 · 完整讲读</title>
+      <description>《水泥花园》是伊恩·麦克尤恩一九七八年发表的代表作。故事讲述父母相继去世后，四个未成年孩子为不被打散，将母亲遗体用水泥封入地窖的铁柜，从此把家变成与世隔绝的孤岛，在封闭空间里重建秩序、面对成长与禁忌。小说用十五岁少年杰克的第一人称视角，以冷静克制的笔法写出了家庭解体后秩序的脆弱、伦理在孤岛上的失灵，以及叙述者本身的不可靠。这本书是对成长残酷性的精准解剖，也是对封闭空间中人性能走多远的极致测试。</description>
+      <pubDate>Sat, 03 Oct 2026 17:05:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-126b2d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《水泥花园》是伊恩·麦克尤恩一九七八年发表的代表作。故事讲述父母相继去世后，四个未成年孩子为不被打散，将母亲遗体用水泥封入地窖的铁柜，从此把家变成与世隔绝的孤岛，在封闭空间里重建秩序、面对成长与禁忌。小说用十五岁少年杰克的第一人称视角，以冷静克制的笔法写出了家庭解体后秩序的脆弱、伦理在孤岛上的失灵，以及叙述者本身的不可靠。这本书是对成长残酷性的精准解剖，也是对封闭空间中人性能走多远的极致测试。</itunes:summary>
+      <itunes:duration>00:19:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-126b2d.mp3" length="18323373" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
