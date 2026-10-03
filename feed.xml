@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 18:10:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 18:20:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24093,6 +24093,17 @@
       <itunes:duration>00:32:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-860aab.mp3" length="30830253" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《华杉讲透《孟子》》 · 完整版 · 华杉讲透孟子(1) · 完整讲读</title>
+      <description>本书以《华杉讲透〈孟子〉》为底本，系统整理朱熹、张居正、王阳明、焦循四位先贤的注解，从梁惠王到公孙丑，从滕文公到告子，再到尽心篇，紧扣三条主线——王道与霸道的根本之辨、良知与浩然之气的内在修炼、士君子的人格成就。作者华杉以现代管理者的视角，把孟子两千年前的仁政、民本、识人、用士、修身功夫，转化为可操作的处世准则。本书既是案头的原典参考，也是修身、处事、为政的行动指南。它告诉我们：在充满算计的时代，做一个心安又有力量的人，是可能的。</description>
+      <pubDate>Sat, 03 Oct 2026 18:20:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-3c470c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书以《华杉讲透〈孟子〉》为底本，系统整理朱熹、张居正、王阳明、焦循四位先贤的注解，从梁惠王到公孙丑，从滕文公到告子，再到尽心篇，紧扣三条主线——王道与霸道的根本之辨、良知与浩然之气的内在修炼、士君子的人格成就。作者华杉以现代管理者的视角，把孟子两千年前的仁政、民本、识人、用士、修身功夫，转化为可操作的处世准则。本书既是案头的原典参考，也是修身、处事、为政的行动指南。它告诉我们：在充满算计的时代，做一个心安又有力量的人，是可能的。</itunes:summary>
+      <itunes:duration>00:35:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-3c470c.mp3" length="34249773" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
