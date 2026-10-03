@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 17:50:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 17:59:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24071,6 +24071,17 @@
       <itunes:duration>00:21:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-6a0d11.mp3" length="20520621" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《李白与杜甫》 · 完整版 · 李白与杜甫v1.0 · 完整讲读</title>
+      <description>《李白与杜甫》是郭沫若晚年封笔之作，名义上评述李杜，实际上借古喻今，剖析中国知识分子的精神困境。本书颠覆了千年来【抑李扬杜】的格局，明确提出【扬李抑杜】的立场，从家世、宗教、政治、仕途、婚姻、商业等全方位维度，立体还原两位诗人的真实人生。郭沫若用恩格斯批评歌德与黑格尔【没能脱去德国的庸人气味】的话，揭示李杜身上【中国的庸人气味】：李白伪造皇室血统的攀附、杜甫一辈子干谒求官的急切、李白求道的功利、杜甫信佛的逃避——皆是中国封建知识分子在体制下的挣扎。本书的核心命题是：李杜并称，李白不输，杜甫不神；这两位诗人不是仙，也不是圣，他们只是两个带着庸人气味的杰出诗人，而这种庸人气味，正是造就他们诗歌伟大性的反面土壤。</description>
+      <pubDate>Sat, 03 Oct 2026 17:59:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-a86a4b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《李白与杜甫》是郭沫若晚年封笔之作，名义上评述李杜，实际上借古喻今，剖析中国知识分子的精神困境。本书颠覆了千年来【抑李扬杜】的格局，明确提出【扬李抑杜】的立场，从家世、宗教、政治、仕途、婚姻、商业等全方位维度，立体还原两位诗人的真实人生。郭沫若用恩格斯批评歌德与黑格尔【没能脱去德国的庸人气味】的话，揭示李杜身上【中国的庸人气味】：李白伪造皇室血统的攀附、杜甫一辈子干谒求官的急切、李白求道的功利、杜甫信佛的逃避——皆是中国封建知识分子在体制下的挣扎。本书的核心命题是：李杜并称，李白不输，杜甫不神；这两位诗人不是仙，也不是圣，他们只是两个带着庸人气味的杰出诗人，而这种庸人气味，正是造就他们诗歌伟大性的反面土壤。</itunes:summary>
+      <itunes:duration>00:37:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-a86a4b.mp3" length="36365229" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
