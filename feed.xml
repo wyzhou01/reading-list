@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 18:56:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 19:04:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24159,6 +24159,17 @@
       <itunes:duration>00:22:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-5594f2.mp3" length="21262125" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《环城大道》 · 完整版 · 环城大道(1) · 完整讲读</title>
+      <description>《环城大道》是二零一四年诺贝尔文学奖得主帕特里克·莫迪亚诺于一九七二年出版的代表作。叙述者以假名【塞尔日·亚历山大】潜入巴黎郊外的一家酒吧，追踪自己那位自称男爵、实为江湖骗子的父亲。小说围绕一张泛黄的老照片展开，穿插占领时期的巴黎、战后的黑市交易、外籍军团老兵，以及一整个由虚假身份构成的小圈子。莫迪亚诺以极致的克制与极致的温柔，写出了一个儿子对父亲的辨认与不理解，写出了【记忆】与【身份】之间那道永远无法跨越的鸿沟，也写出了一个人在发现自己追随了一辈子的那个人其实是个陌生人的那一刻，所必须做出的、唯一的选择——【这是我父亲】。</description>
+      <pubDate>Sat, 03 Oct 2026 19:04:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-9e368d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《环城大道》是二零一四年诺贝尔文学奖得主帕特里克·莫迪亚诺于一九七二年出版的代表作。叙述者以假名【塞尔日·亚历山大】潜入巴黎郊外的一家酒吧，追踪自己那位自称男爵、实为江湖骗子的父亲。小说围绕一张泛黄的老照片展开，穿插占领时期的巴黎、战后的黑市交易、外籍军团老兵，以及一整个由虚假身份构成的小圈子。莫迪亚诺以极致的克制与极致的温柔，写出了一个儿子对父亲的辨认与不理解，写出了【记忆】与【身份】之间那道永远无法跨越的鸿沟，也写出了一个人在发现自己追随了一辈子的那个人其实是个陌生人的那一刻，所必须做出的、唯一的选择——【这是我父亲】。</itunes:summary>
+      <itunes:duration>00:28:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-9e368d.mp3" length="27117741" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
