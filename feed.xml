@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 19:40:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 19:47:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24214,6 +24214,17 @@
       <itunes:duration>00:26:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-4dae40.mp3" length="25114797" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《火星崛起》 · 完整版 · 火星崛起（全球共燃，中国首发！）（《哈利波特》以来，已经很多年没有出现过这种全球 · 完整讲读</title>
+      <description>《火星崛起》是皮尔斯·布朗二零一四年的处女作，二零一六年由江苏凤凰文艺出版社引进中国，是火星三部曲的第一部。十六岁的红种少年戴罗，亲眼目睹父亲被绞死、妻子被凌辱杀害，他被切开骨骼、重塑皮肤，以假身份打入金种人的学院。他用愤怒当火，用伪装当剑，踩着背叛与代价向上攀爬。但当他终于接近权力顶端，才看清革命的队伍里挤满了投机者，理想撞上现实政治，碎成了泥。皮尔斯·布朗用二十七岁的笔，写出了一部关于切开、伪装与幻灭的反乌托邦史诗。这本书不给你童话，只给你一面镜子——照出每个想翻越阶层的人，必须回答的三个问题：你愿意切开自己吗？你愿意交出什么？当梦碎了一地，你还愿意继续走吗？</description>
+      <pubDate>Sat, 03 Oct 2026 19:47:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-e7e811</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《火星崛起》是皮尔斯·布朗二零一四年的处女作，二零一六年由江苏凤凰文艺出版社引进中国，是火星三部曲的第一部。十六岁的红种少年戴罗，亲眼目睹父亲被绞死、妻子被凌辱杀害，他被切开骨骼、重塑皮肤，以假身份打入金种人的学院。他用愤怒当火，用伪装当剑，踩着背叛与代价向上攀爬。但当他终于接近权力顶端，才看清革命的队伍里挤满了投机者，理想撞上现实政治，碎成了泥。皮尔斯·布朗用二十七岁的笔，写出了一部关于切开、伪装与幻灭的反乌托邦史诗。这本书不给你童话，只给你一面镜子——照出每个想翻越阶层的人，必须回答的三个问题：你愿意切开自己吗？你愿意交出什么？当梦碎了一地，你还愿意继续走吗？</itunes:summary>
+      <itunes:duration>00:27:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-e7e811.mp3" length="26750637" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
