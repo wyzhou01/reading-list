@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 15:01:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 15:08:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23829,6 +23829,17 @@
       <itunes:duration>00:34:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-20ce61.mp3" length="33593901" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《流浪者史诗》 · 完整版 · 流浪者史诗 · 完整讲读</title>
+      <description>《流浪者史诗》是美国作家米切纳一九六三年出版的长篇小说。一九四六年冬天，美国外交官马克·米勒被派往阿富汗，追查一位失踪的十四岁美国少女杰斯帕。她瞒着家人嫁给了普什图部落头领之子，遁入了科契游牧民族的迁徙洪流。米勒从喀布尔出发，穿越战乱、部落与沙漠，一路走向坎大哈以南的阿布尔营地。全书以官府、后官、沙漠、旅舍四个空间结构全书，借一个异乡人的眼睛，写出了现代文明与部落传统的剧烈碰撞：当现代文明以进步之名闯入古老土地，谁有权决定另一种生活方式是落后？米切纳用他在二战中走过的真实土地，给我们留下了一个冷静而深沉的答案——一个被找到的失踪者，拒绝被拯救。</description>
+      <pubDate>Sat, 03 Oct 2026 15:08:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-8599ef</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《流浪者史诗》是美国作家米切纳一九六三年出版的长篇小说。一九四六年冬天，美国外交官马克·米勒被派往阿富汗，追查一位失踪的十四岁美国少女杰斯帕。她瞒着家人嫁给了普什图部落头领之子，遁入了科契游牧民族的迁徙洪流。米勒从喀布尔出发，穿越战乱、部落与沙漠，一路走向坎大哈以南的阿布尔营地。全书以官府、后官、沙漠、旅舍四个空间结构全书，借一个异乡人的眼睛，写出了现代文明与部落传统的剧烈碰撞：当现代文明以进步之名闯入古老土地，谁有权决定另一种生活方式是落后？米切纳用他在二战中走过的真实土地，给我们留下了一个冷静而深沉的答案——一个被找到的失踪者，拒绝被拯救。</itunes:summary>
+      <itunes:duration>00:22:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-8599ef.mp3" length="21792813" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
