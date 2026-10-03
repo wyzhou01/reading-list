@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 19:04:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 19:12:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24170,6 +24170,17 @@
       <itunes:duration>00:28:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-9e368d.mp3" length="27117741" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《知乎成长自选集是一本如果你不读，我不读，就没有人会读的书》 · 完整版 · 知乎盐系列_21_知乎成长自选集是一本如果你不读，我不读，就没有人会读的书_ · 完整讲读</title>
+      <description>《知乎成长自选集是一本如果你不读，我不读，就没有人会读的书》是一本用段子笔法追问日常的杂谈集。作者成长借维特根斯坦、周有光、安迪·沃霍尔、段建宇等人，重新打量键盘、美、城市、消费、政治、艺术等最不起眼的事物。全书贯穿反本质主义与复制批判，反对急着下定义，主张先把问题搅浑再看清边界。十四篇文章拼出的，是一种在效率时代拒绝输赢、好好生活的慢姿态。</description>
+      <pubDate>Sat, 03 Oct 2026 19:12:36 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-9d410e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《知乎成长自选集是一本如果你不读，我不读，就没有人会读的书》是一本用段子笔法追问日常的杂谈集。作者成长借维特根斯坦、周有光、安迪·沃霍尔、段建宇等人，重新打量键盘、美、城市、消费、政治、艺术等最不起眼的事物。全书贯穿反本质主义与复制批判，反对急着下定义，主张先把问题搅浑再看清边界。十四篇文章拼出的，是一种在效率时代拒绝输赢、好好生活的慢姿态。</itunes:summary>
+      <itunes:duration>00:37:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-9d410e.mp3" length="35992749" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
