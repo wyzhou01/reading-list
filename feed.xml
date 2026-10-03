@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 03:27:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 03:36:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23796,6 +23796,17 @@
       <itunes:duration>00:29:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-5bc41c.mp3" length="28098477" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《陪安娜穿过漫漫长夜》 · 完整版 · 陪安娜穿过漫漫长夜_-_[美国]加瑞尔·萨维.杨向荣译 · 完整讲读</title>
+      <description>《陪安娜穿过漫漫长夜》讲述了七岁的语言学安娜一在父亲被带走后的清晨，靠着父亲教给她的七种语言，遇见一位会七种语言的燕子男，并在他跨语言的守护下穿过被占领的波兰的故事。这是一本关于语言即身份、语言即生存的书，也是一段没有血缘的陌生人之间彼此守护的旅程。在那个身份被剥夺、语言被武器化的黑暗时代，安娜最终学会了三件事：在该沉默的时候沉默，在该提问的时候提问，像燕子一样轻盈地变换身份。这些，是乱世里最坚固的庇护所。</description>
+      <pubDate>Sat, 03 Oct 2026 03:36:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-e73472</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《陪安娜穿过漫漫长夜》讲述了七岁的语言学安娜一在父亲被带走后的清晨，靠着父亲教给她的七种语言，遇见一位会七种语言的燕子男，并在他跨语言的守护下穿过被占领的波兰的故事。这是一本关于语言即身份、语言即生存的书，也是一段没有血缘的陌生人之间彼此守护的旅程。在那个身份被剥夺、语言被武器化的黑暗时代，安娜最终学会了三件事：在该沉默的时候沉默，在该提问的时候提问，像燕子一样轻盈地变换身份。这些，是乱世里最坚固的庇护所。</itunes:summary>
+      <itunes:duration>00:30:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-e73472.mp3" length="29018541" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
