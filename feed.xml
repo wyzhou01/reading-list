@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 20:43:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 20:50:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24302,6 +24302,17 @@
       <itunes:duration>00:32:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-4c4b1c.mp3" length="30836781" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《连接感：如何应对亲密关系中的焦虑》 · 完整版 · 连接感(1) · 完整讲读</title>
+      <description>《连接感：如何应对亲密关系中的焦虑》由临床心理学家丽萨·罗伯邦与卡洛琳·戴奇合著，系统揭示了焦虑如何在亲密关系中制造鸿沟，并提供了一套从个人调节到关系修复的完整路径。核心观点是：必须先管理好自身焦虑，再去修复关系。全书分三部分：第一部分讲解焦虑的类型、触发点、情绪堤坝及暂停法等日常压力预防技术；第二部分聚焦伴侣间的沟通重建，提出镜像、确认、同理心三个关键沟通动词；第三部分探讨从共生依赖走向健康的相互依存，强调每周关系检视等长期维护习惯。书中反复强调一个核心心法：熟能持久——所有技巧都需要反复练习，才能真正内化为关系中的新常态。这本书适合在亲密关系中受焦虑困扰的人，也适合想要理解和支持焦虑伴侣的人。</description>
+      <pubDate>Sat, 03 Oct 2026 20:50:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-9189d2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《连接感：如何应对亲密关系中的焦虑》由临床心理学家丽萨·罗伯邦与卡洛琳·戴奇合著，系统揭示了焦虑如何在亲密关系中制造鸿沟，并提供了一套从个人调节到关系修复的完整路径。核心观点是：必须先管理好自身焦虑，再去修复关系。全书分三部分：第一部分讲解焦虑的类型、触发点、情绪堤坝及暂停法等日常压力预防技术；第二部分聚焦伴侣间的沟通重建，提出镜像、确认、同理心三个关键沟通动词；第三部分探讨从共生依赖走向健康的相互依存，强调每周关系检视等长期维护习惯。书中反复强调一个核心心法：熟能持久——所有技巧都需要反复练习，才能真正内化为关系中的新常态。这本书适合在亲密关系中受焦虑困扰的人，也适合想要理解和支持焦虑伴侣的人。</itunes:summary>
+      <itunes:duration>00:28:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-9189d2.mp3" length="27212589" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
