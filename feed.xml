@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 18:48:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 18:56:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24148,6 +24148,17 @@
       <itunes:duration>00:26:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-47ad0e.mp3" length="25616685" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《濹东绮谭》 · 完整版 · 濹东绮谭 · 完整讲读</title>
+      <description>《濹东绮谭》是日本唯美派作家永井荷风一九三七年发表的中篇小说, 以战时东京为背景, 讲述一位隐居作家在隅田川畔与昔日艺妓阿雪的散步闲谈。小说借江户怀古之情, 写尽古典美在战时阴影下的脆弱; 借主人公对警察的戏弄、对国策宣传的冷笑, 完成一场无声的反战反俗宣言。这不是一本让人愉快的书, 却是一本在喧嚣时代里教人如何保持独立判断的书。</description>
+      <pubDate>Sat, 03 Oct 2026 18:56:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-5594f2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《濹东绮谭》是日本唯美派作家永井荷风一九三七年发表的中篇小说, 以战时东京为背景, 讲述一位隐居作家在隅田川畔与昔日艺妓阿雪的散步闲谈。小说借江户怀古之情, 写尽古典美在战时阴影下的脆弱; 借主人公对警察的戏弄、对国策宣传的冷笑, 完成一场无声的反战反俗宣言。这不是一本让人愉快的书, 却是一本在喧嚣时代里教人如何保持独立判断的书。</itunes:summary>
+      <itunes:duration>00:22:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-5594f2.mp3" length="21262125" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
