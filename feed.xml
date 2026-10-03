@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 15:19:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 15:27:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23851,6 +23851,17 @@
       <itunes:duration>00:37:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-37a2a6.mp3" length="35630637" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《斜杠青年：如何开启你的多重身份》 · 完整版 · 斜杠青年 · 完整讲读</title>
+      <description>《斜杠青年》由从金融行业转型的知识服务从业者苏珊 Kuang 撰写，出版于二零一六年，正值中国移动互联网与知识付费浪潮兴起的转折期。书中提出斜杠青年的核心并非多重收入或多重身份，而是一种敢于按自己方式去生活的姿态与能力。作者从时代背景切入，剖析传统雇佣关系为何失效，阐述无边界人生的底层逻辑，并系统给出自我投资、刻意练习、兴趣变现、多管道现金流等可操作方法。书中强调自控力与持续精进是根基，呼吁摆脱单一外部评价体系与从众心理，最终指向此刻就要幸福、内外一致的生活哲学。对于不想被单一职业定义、不愿把人生押在一条路上的年轻人，这本书仍提供了一整套重新理解工作与生活的思维方式。</description>
+      <pubDate>Sat, 03 Oct 2026 15:27:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-506dfe</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《斜杠青年》由从金融行业转型的知识服务从业者苏珊 Kuang 撰写，出版于二零一六年，正值中国移动互联网与知识付费浪潮兴起的转折期。书中提出斜杠青年的核心并非多重收入或多重身份，而是一种敢于按自己方式去生活的姿态与能力。作者从时代背景切入，剖析传统雇佣关系为何失效，阐述无边界人生的底层逻辑，并系统给出自我投资、刻意练习、兴趣变现、多管道现金流等可操作方法。书中强调自控力与持续精进是根基，呼吁摆脱单一外部评价体系与从众心理，最终指向此刻就要幸福、内外一致的生活哲学。对于不想被单一职业定义、不愿把人生押在一条路上的年轻人，这本书仍提供了一整套重新理解工作与生活的思维方式。</itunes:summary>
+      <itunes:duration>00:30:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-506dfe.mp3" length="28844205" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
