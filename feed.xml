@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 20:12:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 20:19:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24258,6 +24258,17 @@
       <itunes:duration>00:36:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-9e2e46.mp3" length="35477805" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《亚拉巴马之歌》 · 完整版 · 亚拉巴马之歌 · 完整讲读</title>
+      <description>《亚拉巴马之歌》是法国作家吉勒·勒鲁瓦于二零零七年推出的一部文学传记,以美国爵士时代传奇女性泽尔达·塞尔为第一人称,用第二人称视角,重新讲述了菲茨杰拉德夫妇的故事。泽尔达十八岁在蒙哥马利舞会上遇到二十一岁的中尉司各特·菲茨杰拉德,此生便被困在天才丈夫的光环之下。她画画、写作、跳舞、飞行,试图在每一个领域证明自己,却被丈夫剽窃日记、挪用人生。一九三零年起,她多次进出精神病院,一九四八年死于海兰医院的一场大火。这本书采用一九一八年与一九四零年双线跳跃的结构,让十八岁的泽尔达与四十岁的泽尔达隔岸对望,追问一个普世问题:当一个女人把自己交出去,去成就一个男人的神话,她失去的,究竟是什么。</description>
+      <pubDate>Sat, 03 Oct 2026 20:19:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-807061</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《亚拉巴马之歌》是法国作家吉勒·勒鲁瓦于二零零七年推出的一部文学传记,以美国爵士时代传奇女性泽尔达·塞尔为第一人称,用第二人称视角,重新讲述了菲茨杰拉德夫妇的故事。泽尔达十八岁在蒙哥马利舞会上遇到二十一岁的中尉司各特·菲茨杰拉德,此生便被困在天才丈夫的光环之下。她画画、写作、跳舞、飞行,试图在每一个领域证明自己,却被丈夫剽窃日记、挪用人生。一九三零年起,她多次进出精神病院,一九四八年死于海兰医院的一场大火。这本书采用一九一八年与一九四零年双线跳跃的结构,让十八岁的泽尔达与四十岁的泽尔达隔岸对望,追问一个普世问题:当一个女人把自己交出去,去成就一个男人的神话,她失去的,究竟是什么。</itunes:summary>
+      <itunes:duration>00:22:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-807061.mp3" length="21432237" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
