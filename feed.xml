@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 20:50:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 20:59:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24313,6 +24313,17 @@
       <itunes:duration>00:28:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-9189d2.mp3" length="27212589" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《再见，宝贝》 · 完整版 · 再见，宝贝_(雷蒙德·钱德勒作品) · 完整讲读</title>
+      <description>《再见，宝贝》是雷蒙德·钱德勒一九四〇年的硬汉派侦探小说。退职酒女维尔玛·瓦伦诺失踪，私家侦探菲利普·马洛受雇寻人，却一脚踏入战后洛杉矶最阴暗的地下河：地下赌场、黑人街区、敲诈团伙、一段用八年牢狱都浇不灭的畸形爱情。他挨打、被下药、被追杀，最后拼出一个他自己都不完全相信的真相——维尔玛为何宁可自尽，也不愿让那个找了她八年的男人再蹲一次牢。钱德勒用一座在阳光下腐烂的城市，一份没有标准答案的真相，和一个注定孤独的硬汉，定义了后世所有的硬汉侦探。</description>
+      <pubDate>Sat, 03 Oct 2026 20:59:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-301024</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《再见，宝贝》是雷蒙德·钱德勒一九四〇年的硬汉派侦探小说。退职酒女维尔玛·瓦伦诺失踪，私家侦探菲利普·马洛受雇寻人，却一脚踏入战后洛杉矶最阴暗的地下河：地下赌场、黑人街区、敲诈团伙、一段用八年牢狱都浇不灭的畸形爱情。他挨打、被下药、被追杀，最后拼出一个他自己都不完全相信的真相——维尔玛为何宁可自尽，也不愿让那个找了她八年的男人再蹲一次牢。钱德勒用一座在阳光下腐烂的城市，一份没有标准答案的真相，和一个注定孤独的硬汉，定义了后世所有的硬汉侦探。</itunes:summary>
+      <itunes:duration>00:35:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-301024.mp3" length="33974061" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
