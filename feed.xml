@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 16:44:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 16:52:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23972,6 +23972,17 @@
       <itunes:duration>00:29:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-e6e32e.mp3" length="28345005" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《清亡启示录》 · 完整版 · 清亡启示录 · 完整讲读</title>
+      <description>《清亡启示录》是一本解读晚清最后十几年改革为何失败的随笔集。马勇指出，大清亡于皇族内阁加铁路国有加新军倒戈的三连击，核心问题在于改革不到位——满洲贵族作为最大既得利益集团，结构上无法完成真正的权力再分配。从这个案例出发，马勇回望辛亥以来一百年的中国政治史，得出一个贯穿始终的判断：政治承诺只有在兑现之后才算数，中国从帝制走向共和需要漫长的转型期，但方向不变、决心不变。</description>
+      <pubDate>Sat, 03 Oct 2026 16:52:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-f94034</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《清亡启示录》是一本解读晚清最后十几年改革为何失败的随笔集。马勇指出，大清亡于皇族内阁加铁路国有加新军倒戈的三连击，核心问题在于改革不到位——满洲贵族作为最大既得利益集团，结构上无法完成真正的权力再分配。从这个案例出发，马勇回望辛亥以来一百年的中国政治史，得出一个贯穿始终的判断：政治承诺只有在兑现之后才算数，中国从帝制走向共和需要漫长的转型期，但方向不变、决心不变。</itunes:summary>
+      <itunes:duration>00:33:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-f94034.mp3" length="32353965" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
