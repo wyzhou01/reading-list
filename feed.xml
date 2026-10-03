@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 17:30:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 17:38:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24038,6 +24038,17 @@
       <itunes:duration>00:23:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-b4d74a.mp3" length="23008173" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《贝姨》 · 完整版 · 巴尔扎克集(03)贝姨 · 完整讲读</title>
+      <description>《贝姨》是巴尔扎克《人间喜剧》中的重要长篇，写于一八四六年，背景设于一八三八年的七月王朝巴黎。于洛男爵是共和时代的功臣、陆军部的要员，却因疯狂的情欲一步步败坏家财与名誉，最终侵吞军款、身败名裂；其兄于洛元帅因此饮弹自尽。男爵夫人阿德丽纳十八年独守空房，以圣洁的操守支撑着摇摇欲坠的家庭。乡下投亲的丑姑娘贝特被人轻视，心底埋下复仇的种子，凭借隐忍与精明一步步接近权力核心，却在自己编织的复仇网中走向毁灭。玛纳弗太太瓦莱莉以姿色为资本周旋于多个男人之间，最终惨死于怪病。小说以一个贵族之家的崩塌为手术台，将情欲、金钱、复仇三把刀一一切开，揭示了七月王朝上层社会道德溃烂的全貌，被誉为巴尔扎克四十年代最优秀的长篇小说之一。</description>
+      <pubDate>Sat, 03 Oct 2026 17:38:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-e4e322</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《贝姨》是巴尔扎克《人间喜剧》中的重要长篇，写于一八四六年，背景设于一八三八年的七月王朝巴黎。于洛男爵是共和时代的功臣、陆军部的要员，却因疯狂的情欲一步步败坏家财与名誉，最终侵吞军款、身败名裂；其兄于洛元帅因此饮弹自尽。男爵夫人阿德丽纳十八年独守空房，以圣洁的操守支撑着摇摇欲坠的家庭。乡下投亲的丑姑娘贝特被人轻视，心底埋下复仇的种子，凭借隐忍与精明一步步接近权力核心，却在自己编织的复仇网中走向毁灭。玛纳弗太太瓦莱莉以姿色为资本周旋于多个男人之间，最终惨死于怪病。小说以一个贵族之家的崩塌为手术台，将情欲、金钱、复仇三把刀一一切开，揭示了七月王朝上层社会道德溃烂的全貌，被誉为巴尔扎克四十年代最优秀的长篇小说之一。</itunes:summary>
+      <itunes:duration>00:24:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-e4e322.mp3" length="23150637" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
