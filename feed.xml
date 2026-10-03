@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 20:34:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 20:43:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24291,6 +24291,17 @@
       <itunes:duration>00:31:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-f2a969.mp3" length="30601773" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《街角的老北京》 · 完整版 · 街角的老北京 · 完整讲读</title>
+      <description>《街角的老北京》是八零后北京人卢文龙写给老北京的一封情书。从三黄一黑的烤白薯、白水羊头的水牛角，到卤煮小肠陈的宫廷身世、什刹海烤肉季从雨来散到文吃武吃的百年商号史，他把老北京市井的零嘴儿、地名、商号与节气风俗，用最地道的北京话和最俏皮的歇后语，一笔一笔写下来。在北京城市化飞速推进的当口，这本书把那些即将消失的吆喝、吃食、规矩与温情留了下来——它不教你历史，只请你蹲下来，听一声悠长的吆喝。</description>
+      <pubDate>Sat, 03 Oct 2026 20:43:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-4c4b1c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《街角的老北京》是八零后北京人卢文龙写给老北京的一封情书。从三黄一黑的烤白薯、白水羊头的水牛角，到卤煮小肠陈的宫廷身世、什刹海烤肉季从雨来散到文吃武吃的百年商号史，他把老北京市井的零嘴儿、地名、商号与节气风俗，用最地道的北京话和最俏皮的歇后语，一笔一笔写下来。在北京城市化飞速推进的当口，这本书把那些即将消失的吆喝、吃食、规矩与温情留了下来——它不教你历史，只请你蹲下来，听一声悠长的吆喝。</itunes:summary>
+      <itunes:duration>00:32:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-4c4b1c.mp3" length="30836781" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
