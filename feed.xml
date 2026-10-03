@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 20:02:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 20:12:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24247,6 +24247,17 @@
       <itunes:duration>00:29:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-dc1212.mp3" length="28278189" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《共和中的帝制》 · 完整版 · 共和中的帝制 · 完整讲读</title>
+      <description>本书以一九一七年张勋复辟这一持续仅十二天的历史事件为切口，跳出教科书式的善恶对立叙事，重新审视民国初年制度转型的深层困境。作者张鸣用扎实史料还原了复辟前后的真实现场：府院之争背后的半总统制制度陷阱，北洋派系的权力算计，督军团政治的运行规则，以及北京市民听闻皇帝归来时自发挂起龙旗的真实民意。书中深入剖析张勋这一【空头督军】的农民企业家底色，指出复辟参与者并非道德败坏之人，而是近代中国道路探索中文化保守主义的一次尝试。本书的价值在于对简化历史叙事说不，揭示民意、权力与传统惯性在制度转型中的复杂纠葛，为理解近代中国提供了一份冷静而厚重的反思。</description>
+      <pubDate>Sat, 03 Oct 2026 20:12:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-9e2e46</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书以一九一七年张勋复辟这一持续仅十二天的历史事件为切口，跳出教科书式的善恶对立叙事，重新审视民国初年制度转型的深层困境。作者张鸣用扎实史料还原了复辟前后的真实现场：府院之争背后的半总统制制度陷阱，北洋派系的权力算计，督军团政治的运行规则，以及北京市民听闻皇帝归来时自发挂起龙旗的真实民意。书中深入剖析张勋这一【空头督军】的农民企业家底色，指出复辟参与者并非道德败坏之人，而是近代中国道路探索中文化保守主义的一次尝试。本书的价值在于对简化历史叙事说不，揭示民意、权力与传统惯性在制度转型中的复杂纠葛，为理解近代中国提供了一份冷静而厚重的反思。</itunes:summary>
+      <itunes:duration>00:36:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-9e2e46.mp3" length="35477805" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
