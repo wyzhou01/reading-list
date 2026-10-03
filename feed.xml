@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 17:24:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 17:30:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24027,6 +24027,17 @@
       <itunes:duration>00:25:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-2085b5.mp3" length="24832557" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《物质深处：粒子物理学的摄人之美》 · 完整版 · 物质深处：粒子物理学的摄人之美 · 完整讲读</title>
+      <description>《物质深处》是一部写给普通读者的粒子物理学指南，作者舒姆用清晰而生动的笔触，讲述了人类如何用一百年时间，从麦克斯韦统一电磁场、爱因斯坦相对论、量子力学一路走到标准模型与希格斯玻色子的发现。全书以四种自然力的统一图景为线索，揭示对称性与规范理论如何成为物理学家手中的指南针，最终搭建起包含十七种基本粒子与三种相互作用的精密框架。书中还展望了大一统与超对称等激动人心的前沿猜想，让读者体会到，为什么标准模型至今仍是人类理解自然的最佳范式。</description>
+      <pubDate>Sat, 03 Oct 2026 17:30:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-b4d74a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《物质深处》是一部写给普通读者的粒子物理学指南，作者舒姆用清晰而生动的笔触，讲述了人类如何用一百年时间，从麦克斯韦统一电磁场、爱因斯坦相对论、量子力学一路走到标准模型与希格斯玻色子的发现。全书以四种自然力的统一图景为线索，揭示对称性与规范理论如何成为物理学家手中的指南针，最终搭建起包含十七种基本粒子与三种相互作用的精密框架。书中还展望了大一统与超对称等激动人心的前沿猜想，让读者体会到，为什么标准模型至今仍是人类理解自然的最佳范式。</itunes:summary>
+      <itunes:duration>00:23:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-b4d74a.mp3" length="23008173" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
