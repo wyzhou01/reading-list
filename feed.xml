@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 15:46:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 15:51:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23884,6 +23884,17 @@
       <itunes:duration>00:24:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-d949e8.mp3" length="23722797" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《妻妾成群》 · 完整版 · 妻妾成群 · 完整讲读</title>
+      <description>《妻妾成群》是苏童的代表作，以民国为底色，写旧家庭一夫多妻制下女性的命运。十九岁的女学生颂莲嫁入陈家为妾，在大太太毓如、二太太卓云、三太太梅珊的倾轧中逐渐清醒又逐渐被吞噬，最终走向花园里那口【死人井】。同名中篇之外，《妇女生活》以娴、芝、箫三代女性承接时代与情感的挤压，《园艺》借一桩谋杀案揭开孔家的隐秘与孔令瑶藏在白绸旗袍下的狐臭。苏童接续张爱玲一脉，却比她更冷更狠，他写井、写狐臭、写花垒里的尸首，把旧式家庭对女性的压抑写成一种【结构性窒息】。全书不控诉、不煽情，只是冷峻地呈现：压迫最深的形态不是看得见的鞭打，而是看不见的、被所有人共同保守的沉默。</description>
+      <pubDate>Sat, 03 Oct 2026 15:51:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-81d220</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《妻妾成群》是苏童的代表作，以民国为底色，写旧家庭一夫多妻制下女性的命运。十九岁的女学生颂莲嫁入陈家为妾，在大太太毓如、二太太卓云、三太太梅珊的倾轧中逐渐清醒又逐渐被吞噬，最终走向花园里那口【死人井】。同名中篇之外，《妇女生活》以娴、芝、箫三代女性承接时代与情感的挤压，《园艺》借一桩谋杀案揭开孔家的隐秘与孔令瑶藏在白绸旗袍下的狐臭。苏童接续张爱玲一脉，却比她更冷更狠，他写井、写狐臭、写花垒里的尸首，把旧式家庭对女性的压抑写成一种【结构性窒息】。全书不控诉、不煽情，只是冷峻地呈现：压迫最深的形态不是看得见的鞭打，而是看不见的、被所有人共同保守的沉默。</itunes:summary>
+      <itunes:duration>00:24:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-81d220.mp3" length="23147565" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
