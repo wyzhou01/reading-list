@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 15:08:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 15:19:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23840,6 +23840,17 @@
       <itunes:duration>00:22:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-8599ef.mp3" length="21792813" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《日本文化史》 · 完整版 · 日本文化史 · 完整讲读</title>
+      <description>《日本文化史》是日本战后思想史的重要代表作,由著名历史学家、教科书诉讼案原告家永三郎撰写,一九五九年初版,一九八二年大幅修订再版。本书首次以【生产方式决定文化基础】的唯物史观视角,系统梳理日本从一万年前绳纹时代到江户末年的文化通史,提出从【创造者】【被创造内容】【享受者】三方面把握每一时代的文化生态。作者强调,文化不是孤立的精神产物,而是特定生产方式与社会结构的回响;海外文化的引入从来不是单向传播,而是日本社会基于自身需要的主动选择;文化既属于被创造的时代,也属于被享受的时代;民族文化传统既有可贵的延续性,也需在今天被冷静甄别。这本写于战后思想大转折年代的老书,至今仍能为我们理解文化与时代、文化与民族、文化与世界的关系,提供一套冷静而清醒的思考工具。</description>
+      <pubDate>Sat, 03 Oct 2026 15:19:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-37a2a6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《日本文化史》是日本战后思想史的重要代表作,由著名历史学家、教科书诉讼案原告家永三郎撰写,一九五九年初版,一九八二年大幅修订再版。本书首次以【生产方式决定文化基础】的唯物史观视角,系统梳理日本从一万年前绳纹时代到江户末年的文化通史,提出从【创造者】【被创造内容】【享受者】三方面把握每一时代的文化生态。作者强调,文化不是孤立的精神产物,而是特定生产方式与社会结构的回响;海外文化的引入从来不是单向传播,而是日本社会基于自身需要的主动选择;文化既属于被创造的时代,也属于被享受的时代;民族文化传统既有可贵的延续性,也需在今天被冷静甄别。这本写于战后思想大转折年代的老书,至今仍能为我们理解文化与时代、文化与民族、文化与世界的关系,提供一套冷静而清醒的思考工具。</itunes:summary>
+      <itunes:duration>00:37:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-37a2a6.mp3" length="35630637" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
