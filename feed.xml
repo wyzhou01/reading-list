@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 17:16:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 17:24:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24016,6 +24016,17 @@
       <itunes:duration>00:34:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-837c4d.mp3" length="32873517" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《半生》 · 完整版 · 半生_-_V.S.奈保尔 · 完整讲读</title>
+      <description>《半生》是 V.S. 奈保尔二〇〇一年的作品。一个印度无名祭司的后裔，因为三十年代英国作家毛姆在游记中随手写下的几页文字，被强加了一个精神原型的角色，从此再也没能走出那个角色。他的儿子威利·詹德兰把这段家族故事讲给下一代听，同时也在回忆自己：从印度茶室里的无声纠缠，到非洲庄园里的依附生活，再到伦敦公寓里的半生觉醒。奈保尔用冷静的笔法，写出一种身份被他人塑造、又被自己慢慢接受的循环，也写出殖民地知识分子在觉醒边缘认清自己一事无成的艰难时刻。这本书追问的不是宏大叙事，而是普通人在历史洪流里，如何被一段偶然的文字、一段错位的关系、一场遥远又切近的战争，悄悄定下了一生的形状。</description>
+      <pubDate>Sat, 03 Oct 2026 17:24:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-2085b5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《半生》是 V.S. 奈保尔二〇〇一年的作品。一个印度无名祭司的后裔，因为三十年代英国作家毛姆在游记中随手写下的几页文字，被强加了一个精神原型的角色，从此再也没能走出那个角色。他的儿子威利·詹德兰把这段家族故事讲给下一代听，同时也在回忆自己：从印度茶室里的无声纠缠，到非洲庄园里的依附生活，再到伦敦公寓里的半生觉醒。奈保尔用冷静的笔法，写出一种身份被他人塑造、又被自己慢慢接受的循环，也写出殖民地知识分子在觉醒边缘认清自己一事无成的艰难时刻。这本书追问的不是宏大叙事，而是普通人在历史洪流里，如何被一段偶然的文字、一段错位的关系、一场遥远又切近的战争，悄悄定下了一生的形状。</itunes:summary>
+      <itunes:duration>00:25:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-2085b5.mp3" length="24832557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
