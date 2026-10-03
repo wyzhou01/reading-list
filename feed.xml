@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 18:35:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 18:41:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24126,6 +24126,17 @@
       <itunes:duration>00:25:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-398892.mp3" length="24077229" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《国家篇·法律篇》 · 完整版 · 国家篇•法律篇_(汉译世界学术名著丛书)_-_西塞罗 · 完整讲读</title>
+      <description>两千多年前，古罗马最伟大的政治家兼演说家西塞罗，在共和国滑向崩溃的前夜写下了《国家篇》与《法律篇》两部对话录，奠定了西方政治法律传统中关于国家、正义、自然法、政体、礼俗的核心命题。一个国家可以没有法律，但不可以没有正义；真正的法律源自永恒的自然法，而非任何主权者的命令；最好的政体是君主、贵族、民主三种力量相互制衡的混合政体；立法者既要仰望星空的永恒理性，也要俯察罗马街头的具体礼俗——这两者从不矛盾。西塞罗本人最终被暴君割下头颅，但他写下的文字比那一日的暴君更长久。这本书是从古希腊到中世纪一千多年间，唯一系统讨论政治哲学的重要文本；它既是治国指南，也是关于人在宇宙中位置的角色定位。</description>
+      <pubDate>Sat, 03 Oct 2026 18:41:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-aec12a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>两千多年前，古罗马最伟大的政治家兼演说家西塞罗，在共和国滑向崩溃的前夜写下了《国家篇》与《法律篇》两部对话录，奠定了西方政治法律传统中关于国家、正义、自然法、政体、礼俗的核心命题。一个国家可以没有法律，但不可以没有正义；真正的法律源自永恒的自然法，而非任何主权者的命令；最好的政体是君主、贵族、民主三种力量相互制衡的混合政体；立法者既要仰望星空的永恒理性，也要俯察罗马街头的具体礼俗——这两者从不矛盾。西塞罗本人最终被暴君割下头颅，但他写下的文字比那一日的暴君更长久。这本书是从古希腊到中世纪一千多年间，唯一系统讨论政治哲学的重要文本；它既是治国指南，也是关于人在宇宙中位置的角色定位。</itunes:summary>
+      <itunes:duration>00:27:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-aec12a.mp3" length="26673837" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
