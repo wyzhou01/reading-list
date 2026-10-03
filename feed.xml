@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 19:34:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 19:40:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24203,6 +24203,17 @@
       <itunes:duration>00:24:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-fd7606.mp3" length="23547693" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《花雨枪》 · 完整版 · 花雨枪_-_夏生 · 完整讲读</title>
+      <description>《花雨枪》是理工科作家夏生写的一部明末南明悬疑爱情小说。安成年间，锦衣卫校尉薛怀安自幼在剑桥由牛顿抚养，带着验尸、解剖、代数的理科思维回到永宁港，与北方逃难来的哑女初荷相遇。一个用科学破案，一个背负灭门血仇，两人一边破解连环奇案，一边在海商、阉党、英国东印度公司交织的乱世里相互靠近。本书最大的特色是把【科学 X 江湖】硬生生焊在一起，既有严谨的验尸细节与代数推演，也有南明永宁港海防的厚重历史，更有一段跨越乱世、用三个时间单位兑现的爱情。</description>
+      <pubDate>Sat, 03 Oct 2026 19:40:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-4dae40</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《花雨枪》是理工科作家夏生写的一部明末南明悬疑爱情小说。安成年间，锦衣卫校尉薛怀安自幼在剑桥由牛顿抚养，带着验尸、解剖、代数的理科思维回到永宁港，与北方逃难来的哑女初荷相遇。一个用科学破案，一个背负灭门血仇，两人一边破解连环奇案，一边在海商、阉党、英国东印度公司交织的乱世里相互靠近。本书最大的特色是把【科学 X 江湖】硬生生焊在一起，既有严谨的验尸细节与代数推演，也有南明永宁港海防的厚重历史，更有一段跨越乱世、用三个时间单位兑现的爱情。</itunes:summary>
+      <itunes:duration>00:26:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-4dae40.mp3" length="25114797" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
