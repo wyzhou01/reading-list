@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 03:12:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 03:21:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23774,6 +23774,17 @@
       <itunes:duration>00:24:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-cfe1e9.mp3" length="23631789" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《天堂收音机》 · 完整版 · 天堂收音机 · 完整讲读</title>
+      <description>《天堂收音机》是日本作家万城目学的一部温柔寓言。三十八岁的话痨DJ阿克回到日本沿海老家小镇后，离奇地被挂在一棵杉树尖上，化身为只在听众想象中播放的【想象电台】主持人。他用声音与收听者共同构建回忆、告别与传承，以猴子乐队、新城之鼠乐队、鲍勃·马利、莫扎特等跨越时空的音乐为媒介，串联起童年秘密、家庭亏欠与生命告别。当他终于讲完所有想说的话，一只白鹡鸰向黑暗飞去，他像方舟一样缓缓飘向彼岸。这是一封写给所有被音乐治愈过的人的漫长情书，也是一份关于想象力极限与生命告别的治愈练习。</description>
+      <pubDate>Sat, 03 Oct 2026 03:20:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261002-episode-20261002-d8accc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《天堂收音机》是日本作家万城目学的一部温柔寓言。三十八岁的话痨DJ阿克回到日本沿海老家小镇后，离奇地被挂在一棵杉树尖上，化身为只在听众想象中播放的【想象电台】主持人。他用声音与收听者共同构建回忆、告别与传承，以猴子乐队、新城之鼠乐队、鲍勃·马利、莫扎特等跨越时空的音乐为媒介，串联起童年秘密、家庭亏欠与生命告别。当他终于讲完所有想说的话，一只白鹡鸰向黑暗飞去，他像方舟一样缓缓飘向彼岸。这是一封写给所有被音乐治愈过的人的漫长情书，也是一份关于想象力极限与生命告别的治愈练习。</itunes:summary>
+      <itunes:duration>00:31:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-d8accc.mp3" length="29816493" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
