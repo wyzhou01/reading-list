@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 16:14:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 16:22:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23928,6 +23928,17 @@
       <itunes:duration>00:23:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-a15e04.mp3" length="22308141" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《实验医学研究导论》 · 完整版 · 实验医学研究导论_(汉译世界学术名著丛书)_-_克洛德·贝尔纳 · 完整讲读</title>
+      <description>《实验医学研究导论》是十九世纪法国生理学家克洛德·贝尔纳写于 1865 年的科学方法论经典，被视为与笛卡儿《方法论》、培根《新工具》并列的科学方法论奠基之作。本书分三篇，系统阐述了实验医学的哲学基础、生物实验的特殊性，以及实验方法在生理学、病理学、治疗学中的具体应用。贝尔纳提出，医学要摆脱各种空想体系的束缚，回到严格的实验推理；医学必须建在生理学之上，治疗必须建在病理学之上；实验者必须既相信自己的直觉观念，又永远对观念保持怀疑。他强调活体有机体的极端复杂性使医学实验比物理化学实验困难得多，也因此更加不可或缺。今天读这本书，不仅能理解现代医学如何从经验走向科学，更能学到一种独立思考、怀疑权威、用事实说话的精神底色。</description>
+      <pubDate>Sat, 03 Oct 2026 16:22:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-0ed516</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《实验医学研究导论》是十九世纪法国生理学家克洛德·贝尔纳写于 1865 年的科学方法论经典，被视为与笛卡儿《方法论》、培根《新工具》并列的科学方法论奠基之作。本书分三篇，系统阐述了实验医学的哲学基础、生物实验的特殊性，以及实验方法在生理学、病理学、治疗学中的具体应用。贝尔纳提出，医学要摆脱各种空想体系的束缚，回到严格的实验推理；医学必须建在生理学之上，治疗必须建在病理学之上；实验者必须既相信自己的直觉观念，又永远对观念保持怀疑。他强调活体有机体的极端复杂性使医学实验比物理化学实验困难得多，也因此更加不可或缺。今天读这本书，不仅能理解现代医学如何从经验走向科学，更能学到一种独立思考、怀疑权威、用事实说话的精神底色。</itunes:summary>
+      <itunes:duration>00:39:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-0ed516.mp3" length="38095149" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
