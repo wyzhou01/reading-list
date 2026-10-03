@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 16:22:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 16:28:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23939,6 +23939,17 @@
       <itunes:duration>00:39:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-0ed516.mp3" length="38095149" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《冒号课堂：编程范式与OOP思想》 · 完整版 · 冒号课堂：编程范式与OOP思想 · 完整讲读</title>
+      <description>《冒号课堂：编程范式与OOP思想》是一本用对话体写成的编程思想书。作者郑晖以数学系背景跨界转入软件行业，借冒号、问号、句号、引号、逗号、叹号六位标点人物之师徒问答，把命令范式、声明范式、对象范式、并发范式这些抽象概念拆解成可感的课堂讨论。全书分13课，上篇梳理编程语言与范式的世界观，下篇深入面向对象的抽象、封装、继承、多态、设计原则与模式，强调【知识之上是思想，思想之上是精神】。它的独特贡献不在罗列语法，而在把抽象、原则、模式三层编织成一张从道到术的统一网络，让读者从码农蜕变为思想者。对于任何想跳出语法层面、理解编程思想与设计之道的有经验的程序员，这是一本值得反复品读的修炼心法。</description>
+      <pubDate>Sat, 03 Oct 2026 16:28:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-97427d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《冒号课堂：编程范式与OOP思想》是一本用对话体写成的编程思想书。作者郑晖以数学系背景跨界转入软件行业，借冒号、问号、句号、引号、逗号、叹号六位标点人物之师徒问答，把命令范式、声明范式、对象范式、并发范式这些抽象概念拆解成可感的课堂讨论。全书分13课，上篇梳理编程语言与范式的世界观，下篇深入面向对象的抽象、封装、继承、多态、设计原则与模式，强调【知识之上是思想，思想之上是精神】。它的独特贡献不在罗列语法，而在把抽象、原则、模式三层编织成一张从道到术的统一网络，让读者从码农蜕变为思想者。对于任何想跳出语法层面、理解编程思想与设计之道的有经验的程序员，这是一本值得反复品读的修炼心法。</itunes:summary>
+      <itunes:duration>00:26:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-97427d.mp3" length="25012269" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
