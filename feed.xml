@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 03:36:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 14:51:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -23807,6 +23807,17 @@
       <itunes:duration>00:30:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261002/episode-20261002-e73472.mp3" length="29018541" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《战地厨师》 · 完整版 · 战地厨师(1) · 完整讲读</title>
+      <description>《战地厨师》是日本作家深绿野分创作的二战题材小说，透过美国一〇一空降师炊事兵蒂姆的视角，重走诺曼底空降、荷兰雪原、巴斯通战役等人生节点。蒂姆原本只是个因为家里穷、为吃饱饭才参军的小镇少年，却在最残酷的战场上，用一口锅、一把铲子，把一群互不相识的人变成了生死兄弟。本书没有把战争写成英雄史诗，而是把镜头对准最不起眼的炊事兵、对准战壕里的一口锅、对准战后很久都无法愈合的创伤。它告诉我们，战争最深的代价不是阵亡名单，而是那些带着看不见的伤活下来的人。而我们能做的，是认真对待每一顿饭，认真对待身边每一个人。</description>
+      <pubDate>Sat, 03 Oct 2026 14:51:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-a5fc4e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《战地厨师》是日本作家深绿野分创作的二战题材小说，透过美国一〇一空降师炊事兵蒂姆的视角，重走诺曼底空降、荷兰雪原、巴斯通战役等人生节点。蒂姆原本只是个因为家里穷、为吃饱饭才参军的小镇少年，却在最残酷的战场上，用一口锅、一把铲子，把一群互不相识的人变成了生死兄弟。本书没有把战争写成英雄史诗，而是把镜头对准最不起眼的炊事兵、对准战壕里的一口锅、对准战后很久都无法愈合的创伤。它告诉我们，战争最深的代价不是阵亡名单，而是那些带着看不见的伤活下来的人。而我们能做的，是认真对待每一顿饭，认真对待身边每一个人。</itunes:summary>
+      <itunes:duration>00:29:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-a5fc4e.mp3" length="28322349" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
