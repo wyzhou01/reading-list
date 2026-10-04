@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 20:24:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 20:30:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25402,6 +25402,17 @@
       <itunes:duration>00:31:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-951f16.mp3" length="30536109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中国奇异档案记录（第2季）》 · 完整版 · 中国奇异档案记录（第2季） · 完整讲读</title>
+      <description>《中国奇异档案记录》第二季是一本以中国本土奇异事件为题材的悬疑读物，分历史未解悬案、当代怪诞事件、考古谜团、科学界神秘事件、未知生物目击五大篇章，记录了四十多桩真实发生却无法被现有科学完全解释的奇案，如长江断流、鄱阳湖老爷庙沉船、湘西落花洞女、封门村灵异事件、香尸传奇、太岁与水怪等。作者在每个事件后附上多角度推理与猜想，把民间传说、地方志、目击证词、现代科学解释交叉比对，既不轻信也不轻否，在科学与玄学之间搭起一座桥梁。</description>
+      <pubDate>Sun, 04 Oct 2026 20:29:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-7b39f7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《中国奇异档案记录》第二季是一本以中国本土奇异事件为题材的悬疑读物，分历史未解悬案、当代怪诞事件、考古谜团、科学界神秘事件、未知生物目击五大篇章，记录了四十多桩真实发生却无法被现有科学完全解释的奇案，如长江断流、鄱阳湖老爷庙沉船、湘西落花洞女、封门村灵异事件、香尸传奇、太岁与水怪等。作者在每个事件后附上多角度推理与猜想，把民间传说、地方志、目击证词、现代科学解释交叉比对，既不轻信也不轻否，在科学与玄学之间搭起一座桥梁。</itunes:summary>
+      <itunes:duration>00:25:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-7b39f7.mp3" length="24695469" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
