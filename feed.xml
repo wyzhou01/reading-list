@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 15:36:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 15:45:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24907,6 +24907,17 @@
       <itunes:duration>00:24:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-3f7747.mp3" length="23319213" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《直布罗陀水手》 · 完整版 · 直布罗陀水手_-_[法]玛格丽特·杜拉斯 · 完整讲读</title>
+      <description>本书是法国作家玛格丽特·杜拉斯一九五二年的小说《直布罗陀水手》。战后欧洲，一个在殖民部抄写证件的男人辞掉无聊差事，与神秘慵懒的女人安娜登上驶向非洲的游艇。他们一路漫游、打猎、纠缠，男人执着地寻找一个消失在直布罗陀的负伤水手，试图在安娜身上验证那块看不见的伤疤。杜拉斯用极简、疏离、充满沉默的笔触，写出了欲望如何在猜疑中被确认又被打碎，写出了现代人漂泊无根的精神肖像，也写出了爱情最深处的悖论——一旦穿透那个谜，爱就消失。这是一本关于虚无、欲望、漂泊与沉默的小说，七十年后依然击中每一个在麻木中度日的现代人。</description>
+      <pubDate>Sun, 04 Oct 2026 15:45:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-067841</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是法国作家玛格丽特·杜拉斯一九五二年的小说《直布罗陀水手》。战后欧洲，一个在殖民部抄写证件的男人辞掉无聊差事，与神秘慵懒的女人安娜登上驶向非洲的游艇。他们一路漫游、打猎、纠缠，男人执着地寻找一个消失在直布罗陀的负伤水手，试图在安娜身上验证那块看不见的伤疤。杜拉斯用极简、疏离、充满沉默的笔触，写出了欲望如何在猜疑中被确认又被打碎，写出了现代人漂泊无根的精神肖像，也写出了爱情最深处的悖论——一旦穿透那个谜，爱就消失。这是一本关于虚无、欲望、漂泊与沉默的小说，七十年后依然击中每一个在麻木中度日的现代人。</itunes:summary>
+      <itunes:duration>00:34:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-067841.mp3" length="32801709" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
