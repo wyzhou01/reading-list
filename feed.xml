@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 19:28:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 19:35:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25303,6 +25303,17 @@
       <itunes:duration>00:27:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-3357a3.mp3" length="26577453" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《诡案罪（全八册）》 · 完整版 · 诡案罪（全八册） · 完整讲读</title>
+      <description>《诡案罪》全八册是九滴水写给青阳市的一封悬疑长信。档案室新人借着科长老范留下的陈年旧卷宗，把宾馆密室投毒案、危桥坠亡案、致命快递案、旅途迷踪案、噩梦杀局、冒名顶替案、魔术杀人案、惊天大案一桩一桩翻出来。每一桩【不可能犯罪】的背后，都站着一个被贪欲、被执念、被复仇、被羞辱彻底吞没的普通人。密室不是从门窗开始的，密室是从人心的暗处开始的。破案的不是天才，是愿意把一份档案翻到底的笨人。</description>
+      <pubDate>Sun, 04 Oct 2026 19:35:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-5b55e7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《诡案罪》全八册是九滴水写给青阳市的一封悬疑长信。档案室新人借着科长老范留下的陈年旧卷宗，把宾馆密室投毒案、危桥坠亡案、致命快递案、旅途迷踪案、噩梦杀局、冒名顶替案、魔术杀人案、惊天大案一桩一桩翻出来。每一桩【不可能犯罪】的背后，都站着一个被贪欲、被执念、被复仇、被羞辱彻底吞没的普通人。密室不是从门窗开始的，密室是从人心的暗处开始的。破案的不是天才，是愿意把一份档案翻到底的笨人。</itunes:summary>
+      <itunes:duration>00:33:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-5b55e7.mp3" length="32230317" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
