@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 04:43:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 04:50:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24467,6 +24467,17 @@
       <itunes:duration>00:26:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-5dd552.mp3" length="25096365" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《镇河》 · 完整版 · 镇河v1.0_-_我爱吃山竹 · 完整讲读</title>
+      <description>《镇河》是网络作家【我爱吃山竹】创作的东方玄幻小说，讲述成精两千多年的镇河铁牛冯褚，从山西文水县徒步走到江之县，以肉身镇压百年洪水，并在与恒安总裁裴琛的跨物种之恋中，最终为守护万里山河魂归大海的故事。本书以民俗志怪缝合现代都市的写法，探讨了守护、牺牲、责任与宿命的主题，是近年网文神性叙事与现实关怀结合的代表作品。</description>
+      <pubDate>Sun, 04 Oct 2026 04:50:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-fe819e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《镇河》是网络作家【我爱吃山竹】创作的东方玄幻小说，讲述成精两千多年的镇河铁牛冯褚，从山西文水县徒步走到江之县，以肉身镇压百年洪水，并在与恒安总裁裴琛的跨物种之恋中，最终为守护万里山河魂归大海的故事。本书以民俗志怪缝合现代都市的写法，探讨了守护、牺牲、责任与宿命的主题，是近年网文神性叙事与现实关怀结合的代表作品。</itunes:summary>
+      <itunes:duration>00:26:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-fe819e.mp3" length="25264557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
