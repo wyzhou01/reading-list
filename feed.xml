@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 09:02:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 09:10:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24852,6 +24852,17 @@
       <itunes:duration>00:26:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-3a67e4.mp3" length="25651245" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《书旅人》 · 完整版 · 书旅人 · 完整讲读</title>
+      <description>本期《好好读书》精读作家歌手钟立风的《书旅人》。全书围绕读书即旅行、旅行即读书这一核心观念展开，通过苏丁砸碎画框升起炉火、霍桑笔下离家二十年的威克菲尔德、钱德勒不在乎凶手是谁、村上春树写到三分之二才知道凶手等故事，揭示艺术要杀死旧我、写作要敢于不知道、旅行要在零位移里完成出走的内核。后半部分继续展开：旧书肆是城市的袖珍版，海滨城市是打开的书页；鲍勃·迪伦、莱昂纳德·科恩、裴维尔让文学与音乐彼此呼应；洱海边的弹拨者把书页与琴弦编在一起。钟立风提醒我们：真正的艺术体验是一种跨媒介的共游，平淡生活中闪现的惊奇，就是诗诞生的瞬间。</description>
+      <pubDate>Sun, 04 Oct 2026 09:10:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-727794</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期《好好读书》精读作家歌手钟立风的《书旅人》。全书围绕读书即旅行、旅行即读书这一核心观念展开，通过苏丁砸碎画框升起炉火、霍桑笔下离家二十年的威克菲尔德、钱德勒不在乎凶手是谁、村上春树写到三分之二才知道凶手等故事，揭示艺术要杀死旧我、写作要敢于不知道、旅行要在零位移里完成出走的内核。后半部分继续展开：旧书肆是城市的袖珍版，海滨城市是打开的书页；鲍勃·迪伦、莱昂纳德·科恩、裴维尔让文学与音乐彼此呼应；洱海边的弹拨者把书页与琴弦编在一起。钟立风提醒我们：真正的艺术体验是一种跨媒介的共游，平淡生活中闪现的惊奇，就是诗诞生的瞬间。</itunes:summary>
+      <itunes:duration>00:29:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-727794.mp3" length="27869997" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
