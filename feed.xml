@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 18:23:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 18:28:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25193,6 +25193,17 @@
       <itunes:duration>00:33:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-202029.mp3" length="32077485" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《亲和力》 · 完整版 · 歌德集(05)亲和力 · 完整讲读</title>
+      <description>《亲和力》是歌德花甲之年完成的多义悲剧，借一对贵族夫妻与一对旧日恋人的四角纠葛，借化学亲和力之隐喻，揭示激情与婚姻秩序的不可调和。小说道德立场冷峻而无反面人物，以玻璃杯、字母、画作等物象预言命运，最终以奥狄莉绝食、爱德华殉情收场，呈现断念哲学下的人性深渊。</description>
+      <pubDate>Sun, 04 Oct 2026 18:28:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-e50bc4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《亲和力》是歌德花甲之年完成的多义悲剧，借一对贵族夫妻与一对旧日恋人的四角纠葛，借化学亲和力之隐喻，揭示激情与婚姻秩序的不可调和。小说道德立场冷峻而无反面人物，以玻璃杯、字母、画作等物象预言命运，最终以奥狄莉绝食、爱德华殉情收场，呈现断念哲学下的人性深渊。</itunes:summary>
+      <itunes:duration>00:26:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-e50bc4.mp3" length="25256109" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
