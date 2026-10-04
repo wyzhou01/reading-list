@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 15:45:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 15:55:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24918,6 +24918,17 @@
       <itunes:duration>00:34:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-067841.mp3" length="32801709" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《穿堂风》 · 完整版 · 穿堂风 · 完整讲读</title>
+      <description>《穿堂风》是曹文轩二零一七年出版的少年小说, 写了一个被全村嫌弃的小偷之子橡树, 在一个毒太阳的夏天里, 怎样用奔跑和沉默, 把自己从泥潭里拽了出来。橡树的爸爸在牢里, 妈妈去世了, 只剩双目失明的奶奶。他心里被贴上了贼的标签, 全村的孩子都躲着他。但草棚下穿堂风的女孩乌童, 用一整个夏天的张望和一句你也来吧, 把他拉回了人群。这本书讲的是孤独, 讲的是标签, 讲的是尊严, 讲的是允许。曹文轩借穿堂风这三个字, 想告诉所有大人, 一个孩子心里的那扇门, 必须有人愿意打开。允许一个做过错事的孩子重新开始, 是这个世界上, 最稀缺的风。</description>
+      <pubDate>Sun, 04 Oct 2026 15:55:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-d990ca</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《穿堂风》是曹文轩二零一七年出版的少年小说, 写了一个被全村嫌弃的小偷之子橡树, 在一个毒太阳的夏天里, 怎样用奔跑和沉默, 把自己从泥潭里拽了出来。橡树的爸爸在牢里, 妈妈去世了, 只剩双目失明的奶奶。他心里被贴上了贼的标签, 全村的孩子都躲着他。但草棚下穿堂风的女孩乌童, 用一整个夏天的张望和一句你也来吧, 把他拉回了人群。这本书讲的是孤独, 讲的是标签, 讲的是尊严, 讲的是允许。曹文轩借穿堂风这三个字, 想告诉所有大人, 一个孩子心里的那扇门, 必须有人愿意打开。允许一个做过错事的孩子重新开始, 是这个世界上, 最稀缺的风。</itunes:summary>
+      <itunes:duration>00:30:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-d990ca.mp3" length="28936749" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
