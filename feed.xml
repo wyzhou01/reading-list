@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 07:06:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 07:15:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24676,6 +24676,17 @@
       <itunes:duration>00:34:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-fd78d0.mp3" length="32852397" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《道德经全鉴（第2版）》 · 完整版 · 道德经全鉴（第2版）_(国学全鉴系列) · 完整讲读</title>
+      <description>《道德经全鉴》是中国纺织出版社《国学全鉴系列》中的一种，由东篱子解译。本书以通俗易懂的语言，对老子《道德经》八十一章进行逐章解读，配以恰当的典故例证，深入剖析其处世智慧。核心围绕一个【道】字展开，通过【有无】【祸福】【坚柔】【曲直】【简繁】【无为】【动静】【虚实】【巧拙】九组对立统一的辩证关系，讲解修身、养心、处世、待人、谋事、为上、避祸七大处世方略。本书将五千年前的哲学诗化经典，转化为今天上班、带孩子、谈判、社交时能直接拿来用的智慧，让读者从身边事物的细枝末节中体会老子【道法自然】与【无为而治】的思想精髓，达到借古鉴今、古为今用的目的。</description>
+      <pubDate>Sun, 04 Oct 2026 07:14:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-bbdcd3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《道德经全鉴》是中国纺织出版社《国学全鉴系列》中的一种，由东篱子解译。本书以通俗易懂的语言，对老子《道德经》八十一章进行逐章解读，配以恰当的典故例证，深入剖析其处世智慧。核心围绕一个【道】字展开，通过【有无】【祸福】【坚柔】【曲直】【简繁】【无为】【动静】【虚实】【巧拙】九组对立统一的辩证关系，讲解修身、养心、处世、待人、谋事、为上、避祸七大处世方略。本书将五千年前的哲学诗化经典，转化为今天上班、带孩子、谈判、社交时能直接拿来用的智慧，让读者从身边事物的细枝末节中体会老子【道法自然】与【无为而治】的思想精髓，达到借古鉴今、古为今用的目的。</itunes:summary>
+      <itunes:duration>00:28:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-bbdcd3.mp3" length="27505197" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
