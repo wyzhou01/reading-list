@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 05:45:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 05:56:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24555,6 +24555,17 @@
       <itunes:duration>00:27:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-9585bc.mp3" length="26876205" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《阿努比斯之门》 · 完整版 · 阿努比斯之门 · 完整讲读</title>
+      <description>一八〇二年伦敦，美国学者道尔为了一份古怪的两万美元工作飞抵雾都，本想研究柯勒律治，却被一八〇二年的吉普赛营地吸入——阿美诺皮斯·菲齐正用《托特之书》与主人的血瓶召唤阿努比斯。仪式失败，菲齐附身出逃，被造来监督他的罗曼奈利分身追杀；道尔穿越时间结识了无名的浪漫主义诗人威廉·艾希布雷斯，两人共享一艘船、一本古书、一首跳过了《昨日》的披头士歌单。三十五年后，一八四六年的沼泽边，艾希布雷斯亲手刺死了那个寻找他三十五年的卡，划向未知的命运归宿。鲍尔斯以戏谑又阴郁的笔调追问：当神已退场、巫术也已失效，普通人该用什么填补信仰的真空？答案是酒、雪茄、一本会吞噬光线的古书，和一首还没唱完的披头士。</description>
+      <pubDate>Sun, 04 Oct 2026 05:56:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-e01973</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一八〇二年伦敦，美国学者道尔为了一份古怪的两万美元工作飞抵雾都，本想研究柯勒律治，却被一八〇二年的吉普赛营地吸入——阿美诺皮斯·菲齐正用《托特之书》与主人的血瓶召唤阿努比斯。仪式失败，菲齐附身出逃，被造来监督他的罗曼奈利分身追杀；道尔穿越时间结识了无名的浪漫主义诗人威廉·艾希布雷斯，两人共享一艘船、一本古书、一首跳过了《昨日》的披头士歌单。三十五年后，一八四六年的沼泽边，艾希布雷斯亲手刺死了那个寻找他三十五年的卡，划向未知的命运归宿。鲍尔斯以戏谑又阴郁的笔调追问：当神已退场、巫术也已失效，普通人该用什么填补信仰的真空？答案是酒、雪茄、一本会吞噬光线的古书，和一首还没唱完的披头士。</itunes:summary>
+      <itunes:duration>00:32:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-e01973.mp3" length="30908205" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
