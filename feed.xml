@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 17:34:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 17:42:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25116,6 +25116,17 @@
       <itunes:duration>00:25:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-2d7021.mp3" length="24749613" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《澳门史1557-1999》 · 完整版 · 澳门史1557-1999 · 完整讲读</title>
+      <description>《澳门史》是一部由美国学者杰弗里·冈恩撰写的澳门通史，以全球史视角叙述了澳门从一五五七年葡萄牙人登岸到一九九九年主权移交的四百五十年历史。本书揭示了澳门作为东西方文明交汇点的独特地位，剖析了葡萄牙殖民统治与中国主权之间长期存在的灰色地带，并深入探讨了博彩经济的崛起、中葡文化的融合以及【一国两制】的历史根源。冈恩用丰富的一手档案资料和跨文化研究方法，呈现了这座小城在葡萄牙旗帜与中国管辖之间反复周旋的生存智慧，是理解澳门例外论不可多得的奠基之作。</description>
+      <pubDate>Sun, 04 Oct 2026 17:42:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-68e07a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《澳门史》是一部由美国学者杰弗里·冈恩撰写的澳门通史，以全球史视角叙述了澳门从一五五七年葡萄牙人登岸到一九九九年主权移交的四百五十年历史。本书揭示了澳门作为东西方文明交汇点的独特地位，剖析了葡萄牙殖民统治与中国主权之间长期存在的灰色地带，并深入探讨了博彩经济的崛起、中葡文化的融合以及【一国两制】的历史根源。冈恩用丰富的一手档案资料和跨文化研究方法，呈现了这座小城在葡萄牙旗帜与中国管辖之间反复周旋的生存智慧，是理解澳门例外论不可多得的奠基之作。</itunes:summary>
+      <itunes:duration>00:26:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-68e07a.mp3" length="25225389" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
