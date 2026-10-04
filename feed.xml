@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 06:49:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 06:58:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24654,6 +24654,17 @@
       <itunes:duration>00:32:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-9c2cdb.mp3" length="30953517" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《哲学、科学、神学诸意识形态（启示与理性）》 · 完整版 · 哲学、科学、神学诸意识形态_(启示与理性) · 完整讲读</title>
+      <description>《哲学、科学、神学诸意识形态》第六辑，由萌萌学术工作室主编，二零一六年三联书店出版。本书以施特劳斯《海德格尔式存在主义导言》为思想史入口，诊断现代理性主义的精神危机，并把危机根源追溯至海德格尔对古典理性的拆解。编者主张，要走出危机必须完成从后现代向古典的转身，重新打开两希文明的源头。本辑涵盖希腊城邦与苏格拉底之死、耶路撒冷哭墙与苦路的现场行记、亚里士多德《诗术》肃剧定义、《左传》释言句式、《史记·五帝本纪》治气教化等中西跨文本细读，最终回答现代人何以为人的古典之问。</description>
+      <pubDate>Sun, 04 Oct 2026 06:58:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-f834d8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《哲学、科学、神学诸意识形态》第六辑，由萌萌学术工作室主编，二零一六年三联书店出版。本书以施特劳斯《海德格尔式存在主义导言》为思想史入口，诊断现代理性主义的精神危机，并把危机根源追溯至海德格尔对古典理性的拆解。编者主张，要走出危机必须完成从后现代向古典的转身，重新打开两希文明的源头。本辑涵盖希腊城邦与苏格拉底之死、耶路撒冷哭墙与苦路的现场行记、亚里士多德《诗术》肃剧定义、《左传》释言句式、《史记·五帝本纪》治气教化等中西跨文本细读，最终回答现代人何以为人的古典之问。</itunes:summary>
+      <itunes:duration>00:28:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-f834d8.mp3" length="27020973" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
