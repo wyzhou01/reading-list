@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 06:23:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 06:29:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24610,6 +24610,17 @@
       <itunes:duration>00:32:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-5bdefe.mp3" length="30933933" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《新批判主义》 · 完整版 · 新批判主义_-_邓晓芒 · 完整讲读</title>
+      <description>本书是邓晓芒亲自编订的论文与访谈合集，系统呈现其新批判主义思想纲领。针对九十年代以来的新保守主义思潮，作者主张继承以鲁迅为最高代表的五四自我批判精神，从现象学、实践本体论与存在主义视角重构马克思主义哲学，提出建立马克思主义精神现象学的理论构想。全书围绕三条继承线（怀疑与批判、自我忏悔、对进化论的超越）、对五四局限性的三重反思（民粹主义、个人主义与人道主义的冲突、实用理性），以及中西人格结构比较与文学现象学本体论展开，旨在为中国现代性问题提供一套可操作的批判技艺，为每个人精神现象的全面实现奠定哲学地基。</description>
+      <pubDate>Sun, 04 Oct 2026 06:29:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-a27182</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是邓晓芒亲自编订的论文与访谈合集，系统呈现其新批判主义思想纲领。针对九十年代以来的新保守主义思潮，作者主张继承以鲁迅为最高代表的五四自我批判精神，从现象学、实践本体论与存在主义视角重构马克思主义哲学，提出建立马克思主义精神现象学的理论构想。全书围绕三条继承线（怀疑与批判、自我忏悔、对进化论的超越）、对五四局限性的三重反思（民粹主义、个人主义与人道主义的冲突、实用理性），以及中西人格结构比较与文学现象学本体论展开，旨在为中国现代性问题提供一套可操作的批判技艺，为每个人精神现象的全面实现奠定哲学地基。</itunes:summary>
+      <itunes:duration>00:31:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-a27182.mp3" length="29855277" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
