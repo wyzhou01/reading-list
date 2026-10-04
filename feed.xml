@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 03:41:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 03:51:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24379,6 +24379,17 @@
       <itunes:duration>00:24:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-188775.mp3" length="23762733" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《行为心理学》 · 完整版 · 行为心理学 · 完整讲读</title>
+      <description>《行为心理学》是约翰·华生行为主义理论的系统总结。本书以【刺激—反应】公式为核心，把心理学从飘忽不定的意识研究中解放出来，转而研究可直接观测的行为本身。华生主张人格是习惯系统的产物，情绪、思维、言语都可以被还原为条件反射，从而提出了极端的环境决定论。本书既是行为心理学诞生的宣言，也是二十世纪最具影响力的心理学著作之一，今天再读它，依然能帮助我们用一把新的手术刀，重新审视自己每一天的选择与习惯。</description>
+      <pubDate>Sun, 04 Oct 2026 03:51:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-405506</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《行为心理学》是约翰·华生行为主义理论的系统总结。本书以【刺激—反应】公式为核心，把心理学从飘忽不定的意识研究中解放出来，转而研究可直接观测的行为本身。华生主张人格是习惯系统的产物，情绪、思维、言语都可以被还原为条件反射，从而提出了极端的环境决定论。本书既是行为心理学诞生的宣言，也是二十世纪最具影响力的心理学著作之一，今天再读它，依然能帮助我们用一把新的手术刀，重新审视自己每一天的选择与习惯。</itunes:summary>
+      <itunes:duration>00:28:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-405506.mp3" length="27681069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
