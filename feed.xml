@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 19:35:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 19:40:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25314,6 +25314,17 @@
       <itunes:duration>00:33:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-5b55e7.mp3" length="32230317" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《镜狱岛事件》 · 完整版 · 镜狱岛事件 · 完整讲读</title>
+      <description>本格推理小说《镜狱岛事件》，讲的是数学家侦探陈爝与小说家韩晋登上一座孤岛精神病院，调查连环密室杀人案的故事。失忆的女病人 Alice 在镜像对称的医院里寻找自己的身份，陈爝用数学逻辑拆解建筑诡计，最终揭开愚人船历史、建筑迷宫、二重身心理与企业控制交织的深层谜团。这本书追问的终极问题是——谁才是真正的疯子？</description>
+      <pubDate>Sun, 04 Oct 2026 19:40:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-6a9afc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本格推理小说《镜狱岛事件》，讲的是数学家侦探陈爝与小说家韩晋登上一座孤岛精神病院，调查连环密室杀人案的故事。失忆的女病人 Alice 在镜像对称的医院里寻找自己的身份，陈爝用数学逻辑拆解建筑诡计，最终揭开愚人船历史、建筑迷宫、二重身心理与企业控制交织的深层谜团。这本书追问的终极问题是——谁才是真正的疯子？</itunes:summary>
+      <itunes:duration>00:20:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-6a9afc.mp3" length="19576749" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
