@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 06:14:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 06:23:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24599,6 +24599,17 @@
       <itunes:duration>00:33:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-f2aed4.mp3" length="31802925" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《火之幻影》 · 完整版 · 火之幻影 · 完整讲读</title>
+      <description>《火之幻影》是日本推理作家仁木悦子一九七一年的代表作。哥哥一郎病重卧床七年，临终前托付弟弟省吾前往神户，查清父亲叶村康风五十年前据传贪污中国革命资金三万日元的真相。省吾调职神户，追查一九一零年革命党人吴练海的踪迹，逐步揭开父亲其实是替罪羊的隐情。可随着调查深入，省吾发现嫂子和侄女才是整场复仇的执棋者——她们为保全家族名誉，精心编织了一个跨越半世纪的圈套，最终以毒酒送走了无辜的知情者老妇人诹访子。真相大白之际，省吾才看清自己不过是被引导的幻影，所谓的正义不过是另一场精心策划的谋杀。</description>
+      <pubDate>Sun, 04 Oct 2026 06:23:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-5bdefe</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《火之幻影》是日本推理作家仁木悦子一九七一年的代表作。哥哥一郎病重卧床七年，临终前托付弟弟省吾前往神户，查清父亲叶村康风五十年前据传贪污中国革命资金三万日元的真相。省吾调职神户，追查一九一零年革命党人吴练海的踪迹，逐步揭开父亲其实是替罪羊的隐情。可随着调查深入，省吾发现嫂子和侄女才是整场复仇的执棋者——她们为保全家族名誉，精心编织了一个跨越半世纪的圈套，最终以毒酒送走了无辜的知情者老妇人诹访子。真相大白之际，省吾才看清自己不过是被引导的幻影，所谓的正义不过是另一场精心策划的谋杀。</itunes:summary>
+      <itunes:duration>00:32:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-5bdefe.mp3" length="30933933" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
