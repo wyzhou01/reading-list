@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 07:28:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 07:37:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24709,6 +24709,17 @@
       <itunes:duration>00:27:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-23d05c.mp3" length="26133165" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我生有涯愿无尽——漱溟自述文录》 · 完整版 · 我生有涯愿无尽--漱溟自述文录 · 完整讲读</title>
+      <description>本书是梁漱溟晚年自述文录，由其子梁培宽前后五次编选而成，记录他从清末到改革开放的九十五年人生。全书以第一人称讲述一个体弱多病的孩子，如何凭一片向上心自学成材，从未念过大学却登上北大讲席，又如何从人生问题出发走入中国问题，在山东邹平搞乡村建设实验，在国共内战中奔走和平，在批孔运动中坚守心志。书中五本主要著作构成一个从人生出发到中国问题再回到人生的圆圈，而贯穿其中的，是儒家知识分子的入世担当与向上自强。今日读它，仍能给陷于焦虑与内卷的现代人一份清醒：人生有限，愿无尽；学问与行动，本是一体。</description>
+      <pubDate>Sun, 04 Oct 2026 07:37:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-924408</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是梁漱溟晚年自述文录，由其子梁培宽前后五次编选而成，记录他从清末到改革开放的九十五年人生。全书以第一人称讲述一个体弱多病的孩子，如何凭一片向上心自学成材，从未念过大学却登上北大讲席，又如何从人生问题出发走入中国问题，在山东邹平搞乡村建设实验，在国共内战中奔走和平，在批孔运动中坚守心志。书中五本主要著作构成一个从人生出发到中国问题再回到人生的圆圈，而贯穿其中的，是儒家知识分子的入世担当与向上自强。今日读它，仍能给陷于焦虑与内卷的现代人一份清醒：人生有限，愿无尽；学问与行动，本是一体。</itunes:summary>
+      <itunes:duration>00:38:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-924408.mp3" length="36559533" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
