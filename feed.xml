@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 16:28:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 16:37:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24984,6 +24984,17 @@
       <itunes:duration>00:27:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-22bdbc.mp3" length="26835501" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《天涯客》 · 完整版 · 天涯客_-_priest · 完整讲读</title>
+      <description>《天涯客》是 priest 写于二零一四年前后的一部古风武侠小说,后被改编为电视剧《山河令》。故事讲天窗首领周子舒自废武功、叛离庙堂,与鬼谷谷主温客行在江湖中相逢。两条线一正一反,一个从庙堂逃出求自由,一个从地狱爬出求复仇,最终成为彼此的知己。三十年前的旧怨像一只看不见的手,把新一代人一个一个拽下深渊——而跳出深渊的方法,不是一次性的壮举,而是一次接一次的、反复的、可能摔死在半路上的选择,关键是,你愿不愿意在跳的时候,身边有个人陪。</description>
+      <pubDate>Sun, 04 Oct 2026 16:37:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-bbe7e3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《天涯客》是 priest 写于二零一四年前后的一部古风武侠小说,后被改编为电视剧《山河令》。故事讲天窗首领周子舒自废武功、叛离庙堂,与鬼谷谷主温客行在江湖中相逢。两条线一正一反,一个从庙堂逃出求自由,一个从地狱爬出求复仇,最终成为彼此的知己。三十年前的旧怨像一只看不见的手,把新一代人一个一个拽下深渊——而跳出深渊的方法,不是一次性的壮举,而是一次接一次的、反复的、可能摔死在半路上的选择,关键是,你愿不愿意在跳的时候,身边有个人陪。</itunes:summary>
+      <itunes:duration>00:27:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-bbe7e3.mp3" length="26027181" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
