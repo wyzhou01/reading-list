@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 03:35:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 03:41:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24368,6 +24368,17 @@
       <itunes:duration>00:31:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-93276e.mp3" length="30433197" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《耶路撒冷告白》 · 完整版 · 耶路撒冷告白 · 完整讲读</title>
+      <description>《耶路撒冷告白》是孟加拉裔英国广播公司记者利皮卡·佩拉汉的回忆录，记录她二零零五年到二零一三年间带着三个孩子在巴以之间的生活。她用产房、候诊室、育婴室、飞机座位这些微观现场，切开了被新闻头条覆盖的巴以冲突，证明身份可以被改写、仇恨的对面站着同一种疲惫的母亲、冲突里永远藏着巧克力的温度。八年之后她悟到，和平不是改变他人，而是改变自己，是对一座城市、对每一个你不认识的人，宣告自己享有权利。</description>
+      <pubDate>Sun, 04 Oct 2026 03:41:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-188775</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《耶路撒冷告白》是孟加拉裔英国广播公司记者利皮卡·佩拉汉的回忆录，记录她二零零五年到二零一三年间带着三个孩子在巴以之间的生活。她用产房、候诊室、育婴室、飞机座位这些微观现场，切开了被新闻头条覆盖的巴以冲突，证明身份可以被改写、仇恨的对面站着同一种疲惫的母亲、冲突里永远藏着巧克力的温度。八年之后她悟到，和平不是改变他人，而是改变自己，是对一座城市、对每一个你不认识的人，宣告自己享有权利。</itunes:summary>
+      <itunes:duration>00:24:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-188775.mp3" length="23762733" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
