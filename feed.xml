@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 16:22:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 16:28:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24973,6 +24973,17 @@
       <itunes:duration>00:30:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-fbc4fe.mp3" length="28974381" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《物理学理论的目的与结构》 · 完整版 · 物理学理论的目的与结构_(汉译世界学术名著丛书)_-_皮埃尔·迪昂 · 完整讲读</title>
+      <description>《物理学理论的目的与结构》是法国物理学家、科学史家皮埃尔·迪昂写于一九〇六年的科学哲学经典。迪昂提出物理学理论不是对实在的说明，而是对自然定律的描述与分类；理论检验是整体性的，单一实验无法推翻孤立假设；理论追求自然分类，其逻辑秩序是实在秩序的反映；物理学作为一门经验科学，与形而上学、神学彻底分离，保持方法与目的的自主；理论建构依赖卓识判断，而非纯逻辑。本书孕育了维也纳学派与逻辑经验论，深刻影响了波普尔、库恩、奎因等后世科学哲学家，其整体论与秩序实在论至今仍是科学哲学讨论的核心议题。</description>
+      <pubDate>Sun, 04 Oct 2026 16:28:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-22bdbc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《物理学理论的目的与结构》是法国物理学家、科学史家皮埃尔·迪昂写于一九〇六年的科学哲学经典。迪昂提出物理学理论不是对实在的说明，而是对自然定律的描述与分类；理论检验是整体性的，单一实验无法推翻孤立假设；理论追求自然分类，其逻辑秩序是实在秩序的反映；物理学作为一门经验科学，与形而上学、神学彻底分离，保持方法与目的的自主；理论建构依赖卓识判断，而非纯逻辑。本书孕育了维也纳学派与逻辑经验论，深刻影响了波普尔、库恩、奎因等后世科学哲学家，其整体论与秩序实在论至今仍是科学哲学讨论的核心议题。</itunes:summary>
+      <itunes:duration>00:27:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-22bdbc.mp3" length="26835501" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
