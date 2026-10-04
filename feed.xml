@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 19:10:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 19:16:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25270,6 +25270,17 @@
       <itunes:duration>00:26:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-bb7330.mp3" length="24989613" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《权力巅峰的女人》 · 完整版 · 权力巅峰的女人 · 完整讲读</title>
+      <description>《权力巅峰的女人》讲述了从战国秦宣太后到清末慈禧太后，十二位执掌过最高权力的女性故事。她们借助联姻上位、靠儿子继位、借娘家人稳位，却始终走不出女主、儿子、娘家人与皇族男性四方牵制的死循环。本书剥开权力运作的底层逻辑，揭示了男权社会的天花板如何被这些女人一层层凿穿，也让人看清她们胜利背后两千年的女性困境。</description>
+      <pubDate>Sun, 04 Oct 2026 19:16:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-712067</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《权力巅峰的女人》讲述了从战国秦宣太后到清末慈禧太后，十二位执掌过最高权力的女性故事。她们借助联姻上位、靠儿子继位、借娘家人稳位，却始终走不出女主、儿子、娘家人与皇族男性四方牵制的死循环。本书剥开权力运作的底层逻辑，揭示了男权社会的天花板如何被这些女人一层层凿穿，也让人看清她们胜利背后两千年的女性困境。</itunes:summary>
+      <itunes:duration>00:24:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-712067.mp3" length="23117997" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
