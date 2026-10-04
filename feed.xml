@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 17:42:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 17:50:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25127,6 +25127,17 @@
       <itunes:duration>00:26:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-68e07a.mp3" length="25225389" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《九个人》 · 完整版 · 九个人 · 完整讲读</title>
+      <description>《九个人》是复旦教授张新颖用十年时间写就的精神档案，记录沈从文、穆旦、熊秉明、黄永玉等九位出生于一九一零至一九二零年代的师友，在二十世纪中国剧烈变动中，如何在绝境中继续创造、超越受害者身份、并在爱与时间的绵延中完成自我重建。本书不是传记合集，而是一份证明——人，可以不被时代压扁。</description>
+      <pubDate>Sun, 04 Oct 2026 17:50:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-040dbb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《九个人》是复旦教授张新颖用十年时间写就的精神档案，记录沈从文、穆旦、熊秉明、黄永玉等九位出生于一九一零至一九二零年代的师友，在二十世纪中国剧烈变动中，如何在绝境中继续创造、超越受害者身份、并在爱与时间的绵延中完成自我重建。本书不是传记合集，而是一份证明——人，可以不被时代压扁。</itunes:summary>
+      <itunes:duration>00:31:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-040dbb.mp3" length="30169389" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
