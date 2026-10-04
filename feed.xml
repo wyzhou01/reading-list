@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 08:23:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 08:30:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24786,6 +24786,17 @@
       <itunes:duration>00:31:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-d04275.mp3" length="30374829" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《张鸣说历史：朝堂上的戏法》 · 完整版 · 张鸣说历史：朝堂上的戏法(1) · 完整讲读</title>
+      <description>《朝堂上的戏法》是张鸣的历史随笔集，分上下两册。上册聚焦古代官场的虚妄与潜规则，从隋炀帝的排场、王莽的古装戏、宋徽宗的神仙梦，到立仗马的沉默、故宫的高墙，再到言官的真话假话、门客与天子门生的得与失，每一篇都不长，却篇篇见筋骨。下册转向个人记忆，写童年、写文革中的美术老师、写被开除的往事、写与《读书》的缘分，一个学者的私人记忆也成了时代变迁的注脚。嬉笑怒骂，却有一根硬骨头——不说假话。当我们看懂了古代戏台上的种种把戏，或许也能照见身边那些似曾相识的场景。戏法人人会变，戏法背后的那只看不见的手，从来没有离开过。</description>
+      <pubDate>Sun, 04 Oct 2026 08:30:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-e6dfa5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《朝堂上的戏法》是张鸣的历史随笔集，分上下两册。上册聚焦古代官场的虚妄与潜规则，从隋炀帝的排场、王莽的古装戏、宋徽宗的神仙梦，到立仗马的沉默、故宫的高墙，再到言官的真话假话、门客与天子门生的得与失，每一篇都不长，却篇篇见筋骨。下册转向个人记忆，写童年、写文革中的美术老师、写被开除的往事、写与《读书》的缘分，一个学者的私人记忆也成了时代变迁的注脚。嬉笑怒骂，却有一根硬骨头——不说假话。当我们看懂了古代戏台上的种种把戏，或许也能照见身边那些似曾相识的场景。戏法人人会变，戏法背后的那只看不见的手，从来没有离开过。</itunes:summary>
+      <itunes:duration>00:28:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-e6dfa5.mp3" length="27740973" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
