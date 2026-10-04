@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 18:48:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 18:53:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25237,6 +25237,17 @@
       <itunes:duration>00:29:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-7aa0fe.mp3" length="28555437" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《于无声处》 · 完整版 · 于无声处 · 完整讲读</title>
+      <description>《于无声处》讲述了国家安全侦察员马东从一九八三年潜入渤东二〇二厂，到二零一零年代与境外间谍头目雅各布正面对决的三十年暗战。围绕蓝鱼、蓝鲸两项水下潜射导弹工程，他与总工程师冯景年、其女冯书雅、战友杜哲、王禹等人并肩作战，先后识破间谍查理、茹珂的渗透与背叛，守护了我国最核心的军工机密。这不仅是一部惊心动魄的反间谍小说，更是一曲献给和平年代无名英雄的深情颂歌——他们没有勋章，没有名字，却用一生的沉默，把黑暗挡在我们看不到的地方。</description>
+      <pubDate>Sun, 04 Oct 2026 18:53:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-97e102</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《于无声处》讲述了国家安全侦察员马东从一九八三年潜入渤东二〇二厂，到二零一零年代与境外间谍头目雅各布正面对决的三十年暗战。围绕蓝鱼、蓝鲸两项水下潜射导弹工程，他与总工程师冯景年、其女冯书雅、战友杜哲、王禹等人并肩作战，先后识破间谍查理、茹珂的渗透与背叛，守护了我国最核心的军工机密。这不仅是一部惊心动魄的反间谍小说，更是一曲献给和平年代无名英雄的深情颂歌——他们没有勋章，没有名字，却用一生的沉默，把黑暗挡在我们看不到的地方。</itunes:summary>
+      <itunes:duration>00:27:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-97e102.mp3" length="26577069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
