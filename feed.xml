@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 04:29:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 04:37:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24445,6 +24445,17 @@
       <itunes:duration>00:22:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-90a3a5.mp3" length="21859629" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《回访历史：新东欧之旅》 · 完整版 · 回访历史 · 完整讲读</title>
+      <description>《回访历史：新东欧之旅》是伊娃·霍夫曼一九九〇至一九九一年间横跨波兰、捷克、匈牙利、罗马尼亚、保加利亚五国的非虚构观察录。这位十三岁离开波兰的作家，以旁观者与返乡者双重身份，记录了共产主义崩溃后普通人重建日常、重新学习自由的过程。书中既有市井、乡村、工厂的微观叙事，也触及犹太人、吉卜赛人、土耳其裔等少数民族的夹缝处境；既拒绝把东欧当成西方投射的乌托邦屏幕，也拒绝把它当成反乌托邦的标本。它最终指向一个更深的命题：东欧不是我们的投射，而是一面让我们重新看清自己的镜子。在我们这个同样身处巨变的时代，这本书依然是关于记忆、身份与道德抉择，最克制、最清醒、也最珍贵的参照之一。</description>
+      <pubDate>Sun, 04 Oct 2026 04:37:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-86f594</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《回访历史：新东欧之旅》是伊娃·霍夫曼一九九〇至一九九一年间横跨波兰、捷克、匈牙利、罗马尼亚、保加利亚五国的非虚构观察录。这位十三岁离开波兰的作家，以旁观者与返乡者双重身份，记录了共产主义崩溃后普通人重建日常、重新学习自由的过程。书中既有市井、乡村、工厂的微观叙事，也触及犹太人、吉卜赛人、土耳其裔等少数民族的夹缝处境；既拒绝把东欧当成西方投射的乌托邦屏幕，也拒绝把它当成反乌托邦的标本。它最终指向一个更深的命题：东欧不是我们的投射，而是一面让我们重新看清自己的镜子。在我们这个同样身处巨变的时代，这本书依然是关于记忆、身份与道德抉择，最克制、最清醒、也最珍贵的参照之一。</itunes:summary>
+      <itunes:duration>00:35:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-86f594.mp3" length="33800109" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
