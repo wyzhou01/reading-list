@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 19:57:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 20:03:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25358,6 +25358,17 @@
       <itunes:duration>00:21:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-0beaf3.mp3" length="21030573" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《英译中国现代散文选4》 · 完整版 · 英译中国现代散文选4 · 完整讲读</title>
+      <description>《英译中国现代散文选》第四辑是张培基自编自译的汉英对照读本,收录夏丏尊、张恨水、冰心、庐隐、梁实秋、萧乾、季羡林、吴冠中、林海音等三十余位中国现代作家散文名篇,按作家生年排序,每篇附作者简介与详尽注释。这些作家多出生于十九世纪末,经历了五四、抗战与解放后的变迁,以白话散文写下怀旧、自省与社会观察。文章谈白马湖寒风、八十岁学日语、上海菜市场的容忍、毁画的眼泪、困在十七层的鸽子,场景私密却沉重。英译在保持原文温度的同时,以英文的并置与虚拟态补回中文的语气,既是文学读本,也是翻译教学范本,让母语在异语中重新安家。</description>
+      <pubDate>Sun, 04 Oct 2026 20:03:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-695be5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《英译中国现代散文选》第四辑是张培基自编自译的汉英对照读本,收录夏丏尊、张恨水、冰心、庐隐、梁实秋、萧乾、季羡林、吴冠中、林海音等三十余位中国现代作家散文名篇,按作家生年排序,每篇附作者简介与详尽注释。这些作家多出生于十九世纪末,经历了五四、抗战与解放后的变迁,以白话散文写下怀旧、自省与社会观察。文章谈白马湖寒风、八十岁学日语、上海菜市场的容忍、毁画的眼泪、困在十七层的鸽子,场景私密却沉重。英译在保持原文温度的同时,以英文的并置与虚拟态补回中文的语气,既是文学读本,也是翻译教学范本,让母语在异语中重新安家。</itunes:summary>
+      <itunes:duration>00:20:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-695be5.mp3" length="19465005" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
