@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 16:45:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 16:54:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25006,6 +25006,17 @@
       <itunes:duration>00:26:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-dad859.mp3" length="25787181" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《巴黎隐士》 · 完整版 · 巴黎隐士 · 完整讲读</title>
+      <description>《巴黎隐士》是卡尔维诺的遗孀从他标记为【自传作品】的档案中整理出的十九篇文章，时间跨越他一生最重要的三个阶段：法西斯统治下参与地下抗德、加入与退出共产党，一九五九至六零年首访美国的私人日记，以及多次重要访谈。读这本书，我们得以绕过作品的迷宫，走进这位后现代奇幻大师的精神肖像：他是科学家家庭的【家中败类】，是二十岁被卷进游击战的青年，是用三张地图（巴黎、纽约、圣雷莫）构建内在世界的成熟作家，是以孤独为工作方法的独我主义者，是先咬舌头三次才发言的政治观察者，是把自己提到与伽利略同高的轻盈大师。本书填补了卡尔维诺没有完整传记的空白，让我们看见在轻盈文字背后，那一种更大的重量与孤绝。</description>
+      <pubDate>Sun, 04 Oct 2026 16:54:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-cd6aaa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《巴黎隐士》是卡尔维诺的遗孀从他标记为【自传作品】的档案中整理出的十九篇文章，时间跨越他一生最重要的三个阶段：法西斯统治下参与地下抗德、加入与退出共产党，一九五九至六零年首访美国的私人日记，以及多次重要访谈。读这本书，我们得以绕过作品的迷宫，走进这位后现代奇幻大师的精神肖像：他是科学家家庭的【家中败类】，是二十岁被卷进游击战的青年，是用三张地图（巴黎、纽约、圣雷莫）构建内在世界的成熟作家，是以孤独为工作方法的独我主义者，是先咬舌头三次才发言的政治观察者，是把自己提到与伽利略同高的轻盈大师。本书填补了卡尔维诺没有完整传记的空白，让我们看见在轻盈文字背后，那一种更大的重量与孤绝。</itunes:summary>
+      <itunes:duration>00:38:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-cd6aaa.mp3" length="36645933" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
