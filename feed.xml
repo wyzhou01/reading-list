@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 06:36:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 06:42:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24632,6 +24632,17 @@
       <itunes:duration>00:28:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-b649b1.mp3" length="27511725" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《醒世恒言（绣像珍藏本）》 · 完整版 · 醒世恒言（绣像珍藏本） · 完整讲读</title>
+      <description>《醒世恒言》是明代冯梦龙编撰的白话短篇小说集，与《喻世明言》《警世通言》并称【三言】，刻于天启七年。本书收录四十篇故事，绝大多数源自宋元明旧作，经冯梦龙润色重塑。全书围绕善恶到头终有报，只争来早与来迟这一核心立意，以恒字为纲，写尽了小人物的本事与骨气、市民阶层的发家与真情、冤狱奇祸的离合悲欢、神仙妖狐的因果报应。本期节目带读者一口气走完这四十篇故事，从《两县令竞义婚孤女》的阴德善报，到《卖油郎独占花魁》的市井真情，再到《十五贯戏言成巧祸》的公案奇冤，最后落到《马当神风送滕王阁》的才子仙缘。冯梦龙借通俗文学为晚明世道人心开出一剂良药，也为后世留下了一份永恒的劝诫。</description>
+      <pubDate>Sun, 04 Oct 2026 06:42:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-fe0efb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《醒世恒言》是明代冯梦龙编撰的白话短篇小说集，与《喻世明言》《警世通言》并称【三言】，刻于天启七年。本书收录四十篇故事，绝大多数源自宋元明旧作，经冯梦龙润色重塑。全书围绕善恶到头终有报，只争来早与来迟这一核心立意，以恒字为纲，写尽了小人物的本事与骨气、市民阶层的发家与真情、冤狱奇祸的离合悲欢、神仙妖狐的因果报应。本期节目带读者一口气走完这四十篇故事，从《两县令竞义婚孤女》的阴德善报，到《卖油郎独占花魁》的市井真情，再到《十五贯戏言成巧祸》的公案奇冤，最后落到《马当神风送滕王阁》的才子仙缘。冯梦龙借通俗文学为晚明世道人心开出一剂良药，也为后世留下了一份永恒的劝诫。</itunes:summary>
+      <itunes:duration>00:19:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-fe0efb.mp3" length="18586029" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
