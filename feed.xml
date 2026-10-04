@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 15:29:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 15:36:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24896,6 +24896,17 @@
       <itunes:duration>00:27:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-4b7730.mp3" length="26013357" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《红楼梦脂评汇校本》 · 完整版 · 红楼梦脂评汇校本_-_曹雪芹_吴铭恩_汇校_脂砚斋 · 完整讲读</title>
+      <description>《红楼梦脂评汇校本》是曹雪芹原作与脂砚斋批语的首次系统合璧,由吴铭恩以甲戌本与庚辰本为底本汇校而成。本期节目用九十分钟讲透这部未完巨著:从甄士隐与贾雨村的名字密码,到绛珠仙草还泪的神话深意;从第五回红楼梦十二支曲的谶语预言,到后四十回里宝黛钗三人的爱情主线与家族崩局。从木石前盟的泪债,到金玉良缘的守拙;从金陵十二钗的薄命判词,到飞鸟各投林的白茫茫大地真干净。一场用十年眼泪写就的红楼大梦,一次跨越三百年的还泪之旅。</description>
+      <pubDate>Sun, 04 Oct 2026 15:36:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-3f7747</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《红楼梦脂评汇校本》是曹雪芹原作与脂砚斋批语的首次系统合璧,由吴铭恩以甲戌本与庚辰本为底本汇校而成。本期节目用九十分钟讲透这部未完巨著:从甄士隐与贾雨村的名字密码,到绛珠仙草还泪的神话深意;从第五回红楼梦十二支曲的谶语预言,到后四十回里宝黛钗三人的爱情主线与家族崩局。从木石前盟的泪债,到金玉良缘的守拙;从金陵十二钗的薄命判词,到飞鸟各投林的白茫茫大地真干净。一场用十年眼泪写就的红楼大梦,一次跨越三百年的还泪之旅。</itunes:summary>
+      <itunes:duration>00:24:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-3f7747.mp3" length="23319213" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
