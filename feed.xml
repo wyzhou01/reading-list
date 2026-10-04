@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 07:23:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 07:28:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24698,6 +24698,17 @@
       <itunes:duration>00:31:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-106919.mp3" length="30099501" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《论清朝三大权臣的自我修养》 · 完整版 · 论清朝三大权臣的自我修养 · 完整讲读</title>
+      <description>《论清朝三大权臣的自我修养》以左宗棠、曾国藩、李鸿章三位晚清重臣为研究对象，深度剖析他们在内忧外患、派系倾轧、舆论围攻的重压下，如何凭借野心、迂回、人脉、修养、变通这五块拼图，从逆境中扶摇直上，最终成为封疆大吏或一代名臣。这本书不讲丰功伟绩，只讲生存智慧——在重压之下，他们是怎么扛住、怎么反击、怎么一步步爬上权力顶峰的。对于想要了解晚清历史、喜欢人物传记、关注官场文化与处世哲学的读者来说，这本书既是一面镜子，也是一本工具书——读完之后，你会重新理解压力、野心、人脉、修养的真正含义。</description>
+      <pubDate>Sun, 04 Oct 2026 07:28:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-23d05c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《论清朝三大权臣的自我修养》以左宗棠、曾国藩、李鸿章三位晚清重臣为研究对象，深度剖析他们在内忧外患、派系倾轧、舆论围攻的重压下，如何凭借野心、迂回、人脉、修养、变通这五块拼图，从逆境中扶摇直上，最终成为封疆大吏或一代名臣。这本书不讲丰功伟绩，只讲生存智慧——在重压之下，他们是怎么扛住、怎么反击、怎么一步步爬上权力顶峰的。对于想要了解晚清历史、喜欢人物传记、关注官场文化与处世哲学的读者来说，这本书既是一面镜子，也是一本工具书——读完之后，你会重新理解压力、野心、人脉、修养的真正含义。</itunes:summary>
+      <itunes:duration>00:27:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-23d05c.mp3" length="26133165" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
