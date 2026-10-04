@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 08:56:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 09:02:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24841,6 +24841,17 @@
       <itunes:duration>00:25:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-b62077.mp3" length="24205485" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《铁道之旅：19世纪空间与时间的工业化》 · 完整版 · 铁道之旅 · 完整讲读</title>
+      <description>《铁道之旅》是德国文化史家希弗尔布施的经典,初版于一九七七年,英译本序言由作者本人撰写于二零一四年。本书从车厢窗户、包厢座椅、运行时刻表里,读出了十九世纪现代人的诞生全过程:蒸汽机活塞的往复运动如何重写了动力,全景窗如何制造了眩晕,包厢如何训练出孤独,铁路事故如何重写了神经,防刺激盾如何成为现代意识的标配,火车站与百货公司如何共同重塑了城市神经。本书承接本雅明、埃利亚斯、吉迪恩的文化史传统,被视为技术史与新文化史的奠基之作,至今仍然预见了我们对速度、通勤、屏幕、创伤后应激的许多困惑,值得我们回到十九世纪的车厢里,找到那个最初的源头。</description>
+      <pubDate>Sun, 04 Oct 2026 09:02:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-3a67e4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《铁道之旅》是德国文化史家希弗尔布施的经典,初版于一九七七年,英译本序言由作者本人撰写于二零一四年。本书从车厢窗户、包厢座椅、运行时刻表里,读出了十九世纪现代人的诞生全过程:蒸汽机活塞的往复运动如何重写了动力,全景窗如何制造了眩晕,包厢如何训练出孤独,铁路事故如何重写了神经,防刺激盾如何成为现代意识的标配,火车站与百货公司如何共同重塑了城市神经。本书承接本雅明、埃利亚斯、吉迪恩的文化史传统,被视为技术史与新文化史的奠基之作,至今仍然预见了我们对速度、通勤、屏幕、创伤后应激的许多困惑,值得我们回到十九世纪的车厢里,找到那个最初的源头。</itunes:summary>
+      <itunes:duration>00:26:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-3a67e4.mp3" length="25651245" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
