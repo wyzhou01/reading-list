@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 16:12:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 16:19:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24951,6 +24951,17 @@
       <itunes:duration>00:30:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-a4b576.mp3" length="29503917" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《密使》 · 完整版 · 密使 · 完整讲读</title>
+      <description>一九三九年，伪装成普通商人的密使 D 孤身抵达多佛尔，身负替战乱故国购买煤炭的秘密任务。他在伦敦的七天里，穿过海关的盘查、酒馆的烟雾、旅馆的夜，遇见一个叫罗丝·库伦的年轻姑娘，一边试图完成使命，一边在孤独、怀疑与麻木中挣扎。格雷厄姆·格林借这个非典型的间谍故事，写出了一个人在危险中活得太久之后，怀疑如何长进皮肤，信任如何彻底崩塌，战争如何把普通人的情感活活切掉，并最终在爱欲、死亡与忠诚之间那条细细的红线上，给读者留下一个没有答案的问题。</description>
+      <pubDate>Sun, 04 Oct 2026 16:19:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-49b3f2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九三九年，伪装成普通商人的密使 D 孤身抵达多佛尔，身负替战乱故国购买煤炭的秘密任务。他在伦敦的七天里，穿过海关的盘查、酒馆的烟雾、旅馆的夜，遇见一个叫罗丝·库伦的年轻姑娘，一边试图完成使命，一边在孤独、怀疑与麻木中挣扎。格雷厄姆·格林借这个非典型的间谍故事，写出了一个人在危险中活得太久之后，怀疑如何长进皮肤，信任如何彻底崩塌，战争如何把普通人的情感活活切掉，并最终在爱欲、死亡与忠诚之间那条细细的红线上，给读者留下一个没有答案的问题。</itunes:summary>
+      <itunes:duration>00:30:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-49b3f2.mp3" length="29459757" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
