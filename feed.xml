@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 20:17:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 20:24:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25391,6 +25391,17 @@
       <itunes:duration>00:31:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-c44486.mp3" length="30674349" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《拉丁美洲被切开的血管》 · 完整版 · 拉丁美洲被切开的血管 · 完整讲读</title>
+      <description>《拉丁美洲被切开的血管》是乌拉圭作家爱德华多·加莱亚诺于一九七一年出版的经典之作，以爱情小说与海盗小说的笔法，系统拆解了五百年来西方殖民主义与新殖民主义对拉美的系统性掠夺。从波托西的银矿、加勒比的蔗糖园、亚马孙的铁矿到委内瑞拉的石油，作者揭示了一个残酷的结构：拉美的每一次所谓发展，都伴随着一条被切开的血管。北方换了面孔，但掠夺从未停止。本书以翔实的数据与文献，戳破了西方中心史观的神话，夺回了被遮蔽的记忆，被誉为拉美左翼的必读经典。它不仅是拉美的血泪史，更是理解整个南方世界、读懂今日全球不平等秩序的清醒剂。</description>
+      <pubDate>Sun, 04 Oct 2026 20:24:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-951f16</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《拉丁美洲被切开的血管》是乌拉圭作家爱德华多·加莱亚诺于一九七一年出版的经典之作，以爱情小说与海盗小说的笔法，系统拆解了五百年来西方殖民主义与新殖民主义对拉美的系统性掠夺。从波托西的银矿、加勒比的蔗糖园、亚马孙的铁矿到委内瑞拉的石油，作者揭示了一个残酷的结构：拉美的每一次所谓发展，都伴随着一条被切开的血管。北方换了面孔，但掠夺从未停止。本书以翔实的数据与文献，戳破了西方中心史观的神话，夺回了被遮蔽的记忆，被誉为拉美左翼的必读经典。它不仅是拉美的血泪史，更是理解整个南方世界、读懂今日全球不平等秩序的清醒剂。</itunes:summary>
+      <itunes:duration>00:31:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-951f16.mp3" length="30536109" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
