@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 20:45:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 20:52:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25435,6 +25435,17 @@
       <itunes:duration>00:25:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-6d641a.mp3" length="24123693" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《职业伦理与公民道德》 · 完整版 · 职业伦理与公民道德_(汉译世界学术名著丛书·15辑)_-_爱弥儿·涂尔干 · 完整讲读</title>
+      <description>本书是法国社会学奠基人涂尔干晚年在索邦大学的讲义，由外甥莫斯与土耳其学者库巴利接力整理出版。涂尔干指出，道德不是个人良感的独白，而是社会生活的结晶。现代社会的道德由两大支柱构成：职业群体中的职业伦理与国家政治中的公民道德。他上承《社会分工论》的团结理论，从罗马法团追溯至中世纪行会，论证职业伦理如何在分工社会中成为道德的真实载体；同时重新界定了国家、主权、民主与爱国主义，批判契约论把国家抽象为凌驾于人群之上的机器，强调国家本身也是一种群体，民主的本质是各职业群体代表议事而非原子化个人意志相加。本书既是涂尔干诊断现代人原子化、孤独感的诊断书，也为职业精神衰落与现代政治失灵开出了最早的政治哲学处方。</description>
+      <pubDate>Sun, 04 Oct 2026 20:52:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-2d698c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是法国社会学奠基人涂尔干晚年在索邦大学的讲义，由外甥莫斯与土耳其学者库巴利接力整理出版。涂尔干指出，道德不是个人良感的独白，而是社会生活的结晶。现代社会的道德由两大支柱构成：职业群体中的职业伦理与国家政治中的公民道德。他上承《社会分工论》的团结理论，从罗马法团追溯至中世纪行会，论证职业伦理如何在分工社会中成为道德的真实载体；同时重新界定了国家、主权、民主与爱国主义，批判契约论把国家抽象为凌驾于人群之上的机器，强调国家本身也是一种群体，民主的本质是各职业群体代表议事而非原子化个人意志相加。本书既是涂尔干诊断现代人原子化、孤独感的诊断书，也为职业精神衰落与现代政治失灵开出了最早的政治哲学处方。</itunes:summary>
+      <itunes:duration>00:34:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-2d698c.mp3" length="32673453" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
