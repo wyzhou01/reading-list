@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 17:50:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 17:56:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25138,6 +25138,17 @@
       <itunes:duration>00:31:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-040dbb.mp3" length="30169389" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《李白诗集（安旗 阎琦著）》 · 完整版 · 李白诗集_-_安旗 · 完整讲读</title>
+      <description>这一期好好读书，我们读一本由安旗和阎琦两位学者编著的《李白诗集》。全书上编为八篇研究文章，下编为按生平排列的一百四十首诗作选注，兼具学术严谨与可读性。本期围绕三条主线展开：身世与生平之谜——李白究竟生于中亚碎叶还是蜀中，陇西李暠九世孙之说是否可靠，至今仍是学界未解之谜；精神之魂——批判、游仙、饮酒三类核心诗作背后，是他对自由、功业与生命本身的追问；诗艺与悲剧——李白把一生怀才不遇的悲剧消化进诗里，所以才有《行路难》《将进酒》《临路歌》这些千古之作。一千多年过去了，李白的魅力在于他留下的不是一份遗产，而是一面镜子，映出我们每个人与时代、与自己、与理想的全部关系。</description>
+      <pubDate>Sun, 04 Oct 2026 17:56:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-148d33</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>这一期好好读书，我们读一本由安旗和阎琦两位学者编著的《李白诗集》。全书上编为八篇研究文章，下编为按生平排列的一百四十首诗作选注，兼具学术严谨与可读性。本期围绕三条主线展开：身世与生平之谜——李白究竟生于中亚碎叶还是蜀中，陇西李暠九世孙之说是否可靠，至今仍是学界未解之谜；精神之魂——批判、游仙、饮酒三类核心诗作背后，是他对自由、功业与生命本身的追问；诗艺与悲剧——李白把一生怀才不遇的悲剧消化进诗里，所以才有《行路难》《将进酒》《临路歌》这些千古之作。一千多年过去了，李白的魅力在于他留下的不是一份遗产，而是一面镜子，映出我们每个人与时代、与自己、与理想的全部关系。</itunes:summary>
+      <itunes:duration>00:23:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-148d33.mp3" length="22733229" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
