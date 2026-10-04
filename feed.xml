@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 18:53:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 19:02:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25248,6 +25248,17 @@
       <itunes:duration>00:27:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-97e102.mp3" length="26577069" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《鲁滨孙历险记》 · 完整版 · 鲁滨孙历险记（译文名著典藏） · 完整讲读</title>
+      <description>《鲁滨孙历险记》是英国作家笛福1719年出版的长篇小说，讲述一个中产市民三次出海、流落奥里诺科河口附近荒岛二十八年的故事。鲁滨孙在毫无现代工具的条件下，靠双手和理性开凿岩洞、种植大麦、驯养山羊、烧制陶器、编造藤篮，把一片蛮荒改造成可以安居的小天地，并在孤岛上完成了一次深刻的精神转变，从一个只靠双手干活的人，变成一个靠信仰支撑劳动的人。小说第一次以普通人的视角，把一个人在完全与世隔绝的环境里从零开始重建生活的过程写得惊心动魄又极具真实感，被后世尊为英国小说乃至欧洲小说的奠基之作。它的续集更让发家致富后的鲁滨孙一路走到中国南方和北方，又从陆路穿越西伯利亚回到英国，为三百年前一个英国人眼中的世界留下一份既开阔又带偏见的奇特记录。</description>
+      <pubDate>Sun, 04 Oct 2026 19:02:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-ee1a8a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《鲁滨孙历险记》是英国作家笛福1719年出版的长篇小说，讲述一个中产市民三次出海、流落奥里诺科河口附近荒岛二十八年的故事。鲁滨孙在毫无现代工具的条件下，靠双手和理性开凿岩洞、种植大麦、驯养山羊、烧制陶器、编造藤篮，把一片蛮荒改造成可以安居的小天地，并在孤岛上完成了一次深刻的精神转变，从一个只靠双手干活的人，变成一个靠信仰支撑劳动的人。小说第一次以普通人的视角，把一个人在完全与世隔绝的环境里从零开始重建生活的过程写得惊心动魄又极具真实感，被后世尊为英国小说乃至欧洲小说的奠基之作。它的续集更让发家致富后的鲁滨孙一路走到中国南方和北方，又从陆路穿越西伯利亚回到英国，为三百年前一个英国人眼中的世界留下一份既开阔又带偏见的奇特记录。</itunes:summary>
+      <itunes:duration>00:35:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-ee1a8a.mp3" length="33969453" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
