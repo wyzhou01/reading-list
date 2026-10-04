@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 16:54:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 16:59:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25017,6 +25017,17 @@
       <itunes:duration>00:38:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-cd6aaa.mp3" length="36645933" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《曼德施塔姆夫人回忆录》 · 完整版 · 曼德施塔姆夫人回忆录 · 完整讲读</title>
+      <description>《曼德施塔姆夫人回忆录》是苏联诗人遗孀娜杰日达以三十年逃亡背诵所写下的证词。全书记述了诗人奥西普·曼德施塔姆一九三四年与一九三八年两次被捕、流放并最终死于海参崴附近集中营的全过程，重现了一个极权时代里诗歌与权力、与个人命运、与记忆之间的殊死搏斗。它是遗孀悼亡之书，是大恐怖的文学审判书，也是一位女性用记忆守护另一个人的心灵史。</description>
+      <pubDate>Sun, 04 Oct 2026 16:59:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-17c279</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《曼德施塔姆夫人回忆录》是苏联诗人遗孀娜杰日达以三十年逃亡背诵所写下的证词。全书记述了诗人奥西普·曼德施塔姆一九三四年与一九三八年两次被捕、流放并最终死于海参崴附近集中营的全过程，重现了一个极权时代里诗歌与权力、与个人命运、与记忆之间的殊死搏斗。它是遗孀悼亡之书，是大恐怖的文学审判书，也是一位女性用记忆守护另一个人的心灵史。</itunes:summary>
+      <itunes:duration>00:20:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-17c279.mp3" length="19849005" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
