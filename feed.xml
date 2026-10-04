@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 18:04:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 18:13:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25160,6 +25160,17 @@
       <itunes:duration>00:32:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-d75ac7.mp3" length="31519917" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《论平等》 · 完整版 · 论平等_(汉译世界学术名著丛书)_-_皮埃尔·勒鲁 · 完整讲读</title>
+      <description>《论平等》是十九世纪法国哲学家皮埃尔·勒鲁的代表作，原本是《新百科全书》的一篇词条，却以专著的深度系统论证了平等是社会唯一基础。勒鲁以基督教三位一体为框架，把自由、平等、博爱解释为人性三大侧面——行动、感情、认识——的对应表达，强调三者缺一不可，而平等是其余两者的根基。他尖锐指出，在革命后的法国社会里，作为事实的平等和作为原则的平等之间，存在着天壤之别。他批判了资产阶级自由的虚伪性，主张通过协商与渐进改良建立以平等为核心的兄弟般互助社会。本书是空想社会主义的代表作，真诚却局限：勒鲁看到了问题，却没有找到通向答案的道路。今天重读这本书，是因为平等问题远未过时，我们依然活在天壤之别的两端，依然需要思考：自由、平等、博爱这三个词，如何真正合而为一。</description>
+      <pubDate>Sun, 04 Oct 2026 18:13:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-81c19c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《论平等》是十九世纪法国哲学家皮埃尔·勒鲁的代表作，原本是《新百科全书》的一篇词条，却以专著的深度系统论证了平等是社会唯一基础。勒鲁以基督教三位一体为框架，把自由、平等、博爱解释为人性三大侧面——行动、感情、认识——的对应表达，强调三者缺一不可，而平等是其余两者的根基。他尖锐指出，在革命后的法国社会里，作为事实的平等和作为原则的平等之间，存在着天壤之别。他批判了资产阶级自由的虚伪性，主张通过协商与渐进改良建立以平等为核心的兄弟般互助社会。本书是空想社会主义的代表作，真诚却局限：勒鲁看到了问题，却没有找到通向答案的道路。今天重读这本书，是因为平等问题远未过时，我们依然活在天壤之别的两端，依然需要思考：自由、平等、博爱这三个词，如何真正合而为一。</itunes:summary>
+      <itunes:duration>00:32:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-81c19c.mp3" length="31396653" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
