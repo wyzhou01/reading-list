@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 03:26:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 03:35:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24357,6 +24357,17 @@
       <itunes:duration>00:20:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-9c641a.mp3" length="19513005" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《将来的你，一定会感谢现在拼命的自己》 · 完整版 · 将来的你，一定会感谢现在拼命的自己_-_汤木 · 完整讲读</title>
+      <description>《将来的你，一定会感谢现在拼命的自己》是汤木写给迷茫年轻人的成长指南。全书围绕九个关键词——方向、胸怀、习惯、人际、诚信、自律、心态、坚持、行动——用古今中外的小故事，把老掉牙的大道理重新讲给这一代年轻人听。它不贩卖焦虑，也不灌鸡汤，只是反复提醒一件事：你今天的样子，决定你明天的样子。方向比努力更重要，习惯决定命运，心态决定状态，行动决定结果。十年过去，年轻人的迷茫一点没变，这本书里的朴素道理，依然是治疗迷茫最好的药。听完这一期，你也许不会立刻改变什么，但你至少会开始想一个问题：我现在走的这条路，是我真正想去的方向吗？</description>
+      <pubDate>Sun, 04 Oct 2026 03:35:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-93276e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《将来的你，一定会感谢现在拼命的自己》是汤木写给迷茫年轻人的成长指南。全书围绕九个关键词——方向、胸怀、习惯、人际、诚信、自律、心态、坚持、行动——用古今中外的小故事，把老掉牙的大道理重新讲给这一代年轻人听。它不贩卖焦虑，也不灌鸡汤，只是反复提醒一件事：你今天的样子，决定你明天的样子。方向比努力更重要，习惯决定命运，心态决定状态，行动决定结果。十年过去，年轻人的迷茫一点没变，这本书里的朴素道理，依然是治疗迷茫最好的药。听完这一期，你也许不会立刻改变什么，但你至少会开始想一个问题：我现在走的这条路，是我真正想去的方向吗？</itunes:summary>
+      <itunes:duration>00:31:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-93276e.mp3" length="30433197" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
