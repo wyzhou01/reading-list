@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 19:40:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 19:46:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25325,6 +25325,17 @@
       <itunes:duration>00:20:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-6a9afc.mp3" length="19576749" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《木匠手记》 · 完整版 · 木匠手记 · 完整讲读</title>
+      <description>本书是美国作家尼娜·麦克劳林从记者转型为木匠的真实记录。做了七年网站总编辑后，她厌倦了屏幕前的虚度光阴，裸辞拜师学艺，跟着女木匠玛丽从零开始。在一次次测量、切割、敲打中，她用双手把木板变成书架、把废墟变成浴室、把恐惧变成手艺，重新塑造了自己。本书既是职业变形记，也是关于勇气、专注与重塑生活的温柔沉思。</description>
+      <pubDate>Sun, 04 Oct 2026 19:46:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-9b8070</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是美国作家尼娜·麦克劳林从记者转型为木匠的真实记录。做了七年网站总编辑后，她厌倦了屏幕前的虚度光阴，裸辞拜师学艺，跟着女木匠玛丽从零开始。在一次次测量、切割、敲打中，她用双手把木板变成书架、把废墟变成浴室、把恐惧变成手艺，重新塑造了自己。本书既是职业变形记，也是关于勇气、专注与重塑生活的温柔沉思。</itunes:summary>
+      <itunes:duration>00:24:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-9b8070.mp3" length="23874861" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
