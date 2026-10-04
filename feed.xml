@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 08:06:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 08:13:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24764,6 +24764,17 @@
       <itunes:duration>00:32:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-35d601.mp3" length="31628589" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《天朝·洋奴·万邦协和》 · 完整版 · 天朝_洋奴_万邦协和(1) · 完整讲读</title>
+      <description>《天朝 洋奴 万邦协和》是傅斯年文章选集，由光明日报出版社于二零一二年十月出版，分为执柄大义、北大讲义、新潮西潮三编，集中展现这位五四之子兼具士人风骨、史家严谨与现代知识分子独立精神的一生。本书从他对两千年专制历史的冷峻洞察、对日寇侵华的精准预判，到轰走孔祥熙宋子文的檄文、再到史学即史料学的学术革命与先秦诸子的地方性研究，最后落到永远在野的政治自觉——一个手无寸铁的书生，凭什么把两任行政院长轰下台，凭的是不向权势低头的浩然正气。重读傅斯年，重读一种敢说真话、永不妥协的精神遗产。</description>
+      <pubDate>Sun, 04 Oct 2026 08:13:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-5e3239</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《天朝 洋奴 万邦协和》是傅斯年文章选集，由光明日报出版社于二零一二年十月出版，分为执柄大义、北大讲义、新潮西潮三编，集中展现这位五四之子兼具士人风骨、史家严谨与现代知识分子独立精神的一生。本书从他对两千年专制历史的冷峻洞察、对日寇侵华的精准预判，到轰走孔祥熙宋子文的檄文、再到史学即史料学的学术革命与先秦诸子的地方性研究，最后落到永远在野的政治自觉——一个手无寸铁的书生，凭什么把两任行政院长轰下台，凭的是不向权势低头的浩然正气。重读傅斯年，重读一种敢说真话、永不妥协的精神遗产。</itunes:summary>
+      <itunes:duration>00:32:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-5e3239.mp3" length="31256109" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
