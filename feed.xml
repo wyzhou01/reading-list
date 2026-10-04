@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 16:04:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 16:12:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24940,6 +24940,17 @@
       <itunes:duration>00:34:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-c3ef47.mp3" length="33545901" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《冈底斯遗书(1)》 · 完整版 · 冈底斯遗书(1) · 完整讲读</title>
+      <description>《冈底斯遗书》是陈庆港的一部融合纪实、悬疑与心灵书写的非虚构作品。二十年前，一群年轻人在西藏阿里签下一份共赴神山的合同；二十年后，拉萨药王山下出现身份不明的死者，口袋里藏着那份合同的名单。作者借两段相隔二十年的阿里之行，把生死、罪罚、神性消退与现代性入侵编织在一起，追问在神退场的今天，人如何面对自己的深渊。</description>
+      <pubDate>Sun, 04 Oct 2026 16:12:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-a4b576</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《冈底斯遗书》是陈庆港的一部融合纪实、悬疑与心灵书写的非虚构作品。二十年前，一群年轻人在西藏阿里签下一份共赴神山的合同；二十年后，拉萨药王山下出现身份不明的死者，口袋里藏着那份合同的名单。作者借两段相隔二十年的阿里之行，把生死、罪罚、神性消退与现代性入侵编织在一起，追问在神退场的今天，人如何面对自己的深渊。</itunes:summary>
+      <itunes:duration>00:30:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-a4b576.mp3" length="29503917" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
