@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 20:37:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 20:45:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25424,6 +25424,17 @@
       <itunes:duration>00:33:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-ffaf8e.mp3" length="32103981" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《完美的藍》 · 完整版 · 完美的藍 · 完整讲读</title>
+      <description>宮部美雪首部長篇小說。敘事者是一隻名叫阿正的退役警犬，以牠的第一人稱視角講述蓮見偵探事務所接到的一樁委託：尋找失蹤少年進也。隨著調查深入，揭開了一家製藥公司在棒球場上對少年球員進行人體實驗的駭人黑幕，以及進也之兄克彥為守護弟弟而犧牲的真相。作品以獨特的犬類視角溫柔又犀利地審視人性，探討正義、家庭羈絆與社會之惡。</description>
+      <pubDate>Sun, 04 Oct 2026 20:45:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-6d641a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>宮部美雪首部長篇小說。敘事者是一隻名叫阿正的退役警犬，以牠的第一人稱視角講述蓮見偵探事務所接到的一樁委託：尋找失蹤少年進也。隨著調查深入，揭開了一家製藥公司在棒球場上對少年球員進行人體實驗的駭人黑幕，以及進也之兄克彥為守護弟弟而犧牲的真相。作品以獨特的犬類視角溫柔又犀利地審視人性，探討正義、家庭羈絆與社會之惡。</itunes:summary>
+      <itunes:duration>00:25:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-6d641a.mp3" length="24123693" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
