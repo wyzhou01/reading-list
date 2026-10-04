@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 17:13:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 17:15:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25050,6 +25050,17 @@
       <itunes:duration>00:25:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-30398a.mp3" length="24608301" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《唧唧复唧唧》 · 完整版 · 唧唧复唧唧_-_王路 · 完整讲读</title>
+      <description>《唧唧复唧唧》是当代散文作者王路的第二本散文集，二〇一五年由北京联合出版公司出版，按孔子诗可以兴、可以观、可以群、可以怨的划分编排为四卷。全书以记忆衰退、租房被骗、写作成瘾、亲人老去这些当代都市青年的日常切入口，探讨人在世间如何安顿身心这一核心命题。王路的文字清淡而有古意，能将跷二郎腿、修单车、吃早餐这些最不起眼的日常细节与《论语》《庄子》《诗经》《红楼梦》的智慧打通，让儒道与世情、传统与当代在笔下交融。贯穿全书的核心观念是：事情的意义从来不取决于大小，而取决于我们面对事情的态度；无论幸运还是厄运，都可以看作上天对人的成全；只要不苟且地面对每一件小事，生活就没有真的亏待你。</description>
+      <pubDate>Sun, 04 Oct 2026 17:14:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-27d0bb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《唧唧复唧唧》是当代散文作者王路的第二本散文集，二〇一五年由北京联合出版公司出版，按孔子诗可以兴、可以观、可以群、可以怨的划分编排为四卷。全书以记忆衰退、租房被骗、写作成瘾、亲人老去这些当代都市青年的日常切入口，探讨人在世间如何安顿身心这一核心命题。王路的文字清淡而有古意，能将跷二郎腿、修单车、吃早餐这些最不起眼的日常细节与《论语》《庄子》《诗经》《红楼梦》的智慧打通，让儒道与世情、传统与当代在笔下交融。贯穿全书的核心观念是：事情的意义从来不取决于大小，而取决于我们面对事情的态度；无论幸运还是厄运，都可以看作上天对人的成全；只要不苟且地面对每一件小事，生活就没有真的亏待你。</itunes:summary>
+      <itunes:duration>00:29:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-27d0bb.mp3" length="28454061" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
