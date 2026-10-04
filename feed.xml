@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 09:17:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 15:22:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24874,6 +24874,17 @@
       <itunes:duration>00:26:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-1e74a9.mp3" length="25776429" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《雅舍小品》 · 完整版 · 雅舍小品_-_梁实秋 · 完整讲读</title>
+      <description>《雅舍小品》是梁实秋先生在抗战时期于重庆北碚一间简陋茅屋中写下的散文集。本书以从容雍容的笔调，谈时间、谈习惯、谈骂人、谈友谊、谈请客送礼、谈市井百态、谈北平吃食、谈故人往事。梁先生笔下无大事，却能在鸡毛蒜皮的日常里写出大学问。本期分六块拼图解读：从【时间即生命】的时间观，到【分寸感】的修养论，再到【双向的爱】，继而以【冷眼】看世相、以【烟火】品味道、以【故人】温记忆。八十年过去，这本书仍是中国人共通的生活智慧——不教你升官发财，却教你在任何处境下，把日子过出一点滋味来。</description>
+      <pubDate>Sun, 04 Oct 2026 15:22:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-04bab7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《雅舍小品》是梁实秋先生在抗战时期于重庆北碚一间简陋茅屋中写下的散文集。本书以从容雍容的笔调，谈时间、谈习惯、谈骂人、谈友谊、谈请客送礼、谈市井百态、谈北平吃食、谈故人往事。梁先生笔下无大事，却能在鸡毛蒜皮的日常里写出大学问。本期分六块拼图解读：从【时间即生命】的时间观，到【分寸感】的修养论，再到【双向的爱】，继而以【冷眼】看世相、以【烟火】品味道、以【故人】温记忆。八十年过去，这本书仍是中国人共通的生活智慧——不教你升官发财，却教你在任何处境下，把日子过出一点滋味来。</itunes:summary>
+      <itunes:duration>00:27:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-04bab7.mp3" length="26167725" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
