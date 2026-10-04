@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 08:49:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 08:56:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24830,6 +24830,17 @@
       <itunes:duration>00:32:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-90b2fb.mp3" length="30801453" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《拿破仑传》 · 完整版 · 拿破仑传_(名人传记系列) · 完整讲读</title>
+      <description>德国作家埃米尔·路德维希的《拿破仑传》，是近百年来最经典的拿破仑传记。本书突破史料堆砌的写法，钻进这位英雄的内心——从科西嘉岛的家庭阴影、巴黎军校的精神炼狱，到土伦港的一战成名、意大利的连胜神话，再到埃及远征、雾月政变、自我加冕、远征俄国的崩塌，最后到滑铁卢与圣赫勒拿岛的流放。全书核心命题是拿破仑自己反复强调的那句话：统治世界的是想象力。这本书是一个关于个人意志与命运碰撞的永恒寓言：孤独是野心的燃料，想象力是最锋利的武器，权力顶峰的另一面是绝对的孤独，而流放也无法摧毁一个拒绝承认失败的人。今天读这本书，我们不是在复制拿破仑的征服，而是在他的命运里看见自己的野心、孤独、爱与幻灭。</description>
+      <pubDate>Sun, 04 Oct 2026 08:55:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-b62077</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>德国作家埃米尔·路德维希的《拿破仑传》，是近百年来最经典的拿破仑传记。本书突破史料堆砌的写法，钻进这位英雄的内心——从科西嘉岛的家庭阴影、巴黎军校的精神炼狱，到土伦港的一战成名、意大利的连胜神话，再到埃及远征、雾月政变、自我加冕、远征俄国的崩塌，最后到滑铁卢与圣赫勒拿岛的流放。全书核心命题是拿破仑自己反复强调的那句话：统治世界的是想象力。这本书是一个关于个人意志与命运碰撞的永恒寓言：孤独是野心的燃料，想象力是最锋利的武器，权力顶峰的另一面是绝对的孤独，而流放也无法摧毁一个拒绝承认失败的人。今天读这本书，我们不是在复制拿破仑的征服，而是在他的命运里看见自己的野心、孤独、爱与幻灭。</itunes:summary>
+      <itunes:duration>00:25:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-b62077.mp3" length="24205485" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
