@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 07:51:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 07:57:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24742,6 +24742,17 @@
       <itunes:duration>00:28:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-ea6a71.mp3" length="27771309" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《道德的谱系》 · 完整版 · 道德的谱系 · 完整讲读</title>
+      <description>尼采在《道德的谱系》中用谱系学方法, 重新审视了西方两千年的道德传统。他指出, 善与恶并非天经地义, 而是主人道德与奴隶道德权力博弈的产物; 良心的谴责本质上是一种内化的自我惩罚机制, 它源于攻击性本能无法向外释放后的本能内转; 而禁欲主义理想, 则是这种自我惩罚的最高形式, 它通过否定生命来缓解人的痛苦, 至今仍支配着现代人的灵魂。尼采的最终主张是: 重估一切价值, 成为你自己。</description>
+      <pubDate>Sun, 04 Oct 2026 07:57:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-dea261</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>尼采在《道德的谱系》中用谱系学方法, 重新审视了西方两千年的道德传统。他指出, 善与恶并非天经地义, 而是主人道德与奴隶道德权力博弈的产物; 良心的谴责本质上是一种内化的自我惩罚机制, 它源于攻击性本能无法向外释放后的本能内转; 而禁欲主义理想, 则是这种自我惩罚的最高形式, 它通过否定生命来缓解人的痛苦, 至今仍支配着现代人的灵魂。尼采的最终主张是: 重估一切价值, 成为你自己。</itunes:summary>
+      <itunes:duration>00:27:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-dea261.mp3" length="26280621" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
