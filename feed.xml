@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 20:03:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 20:09:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25369,6 +25369,17 @@
       <itunes:duration>00:20:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-695be5.mp3" length="19465005" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《宋案重审》 · 完整版 · 宋案重审_(近世中国) · 完整讲读</title>
+      <description>《宋案重审》是北京大学历史学系教授尚小明积十余年心力完成的宋案研究专著。作者埋进北京市档案馆与北大历史学系保存的袁世凯秘档、共进会档案全宗等原始材料，对宋案四大关键人物袁世凯、赵秉钧、洪述祖、应夔丞的亲疏关系与言行做精细考辨，最终得出与百年通行结论截然不同的判断：刺宋的直接主谋不是袁世凯也不是赵秉钧，而是内务部秘书洪述祖。本书不仅重构了一九一三年三月二十日上海沪宁火车站刺宋案的全部真相，更揭示了民初政治从宪政试验走向武力对决的深层机制。</description>
+      <pubDate>Sun, 04 Oct 2026 20:09:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-ca644f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《宋案重审》是北京大学历史学系教授尚小明积十余年心力完成的宋案研究专著。作者埋进北京市档案馆与北大历史学系保存的袁世凯秘档、共进会档案全宗等原始材料，对宋案四大关键人物袁世凯、赵秉钧、洪述祖、应夔丞的亲疏关系与言行做精细考辨，最终得出与百年通行结论截然不同的判断：刺宋的直接主谋不是袁世凯也不是赵秉钧，而是内务部秘书洪述祖。本书不仅重构了一九一三年三月二十日上海沪宁火车站刺宋案的全部真相，更揭示了民初政治从宪政试验走向武力对决的深层机制。</itunes:summary>
+      <itunes:duration>00:26:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-ca644f.mp3" length="25836717" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
