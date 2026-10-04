@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 04:01:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 04:07:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24401,6 +24401,17 @@
       <itunes:duration>00:34:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-fda5df.mp3" length="32650413" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《不乖的哲学家》 · 完整版 · 不乖的哲学家 · 完整讲读</title>
+      <description>《不乖的哲学家》是法国作家罗朗·古内尔的一部丛林冒险小说，讲述纽约大学哲学教师桑德罗在妻子于亚马孙遇难后，辞去教职、雇佣前雇佣兵小队重返原始部落的故事。小说用桑德罗与女祭司艾丽扬达跨越文明的相遇，拆解了哲学与生活的脱节，质问文明对自然的亏欠能否被一场仪式洗清，最终给出了激进答案：身体比语言更接近真理，复仇与救赎必须合二为一，现代人只有先用肉身还清对直觉的欠债，才有资格重新开口说话。</description>
+      <pubDate>Sun, 04 Oct 2026 04:07:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-51105b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《不乖的哲学家》是法国作家罗朗·古内尔的一部丛林冒险小说，讲述纽约大学哲学教师桑德罗在妻子于亚马孙遇难后，辞去教职、雇佣前雇佣兵小队重返原始部落的故事。小说用桑德罗与女祭司艾丽扬达跨越文明的相遇，拆解了哲学与生活的脱节，质问文明对自然的亏欠能否被一场仪式洗清，最终给出了激进答案：身体比语言更接近真理，复仇与救赎必须合二为一，现代人只有先用肉身还清对直觉的欠债，才有资格重新开口说话。</itunes:summary>
+      <itunes:duration>00:21:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-51105b.mp3" length="20999853" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
