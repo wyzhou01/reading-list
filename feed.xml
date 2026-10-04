@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 04:37:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 04:43:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24456,6 +24456,17 @@
       <itunes:duration>00:35:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-86f594.mp3" length="33800109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《孩子是脚，教育是鞋》 · 完整版 · 孩子是脚，教育是鞋 · 完整讲读</title>
+      <description>《孩子是脚，教育是鞋》是芭学园创办人李跃儿写给所有教育者的一本清醒剂。书中以「孩子是脚、教育是鞋」为核心隐喻，系统阐述了华德福取向与中国古典哲学融合的幼儿教育范式。围绕建构完整人格这一核心目标，芭学园提出了道德自律、智力自主、生存能力三大教育目标，以及支持孩子一生幸福的十五项具体目标。全书从教育理念、教师素养、环境创设、课程内容四大维度，详细拆解了手工、晨圈、故事、生成课程、远郊活动等经典课程形态，强调教师作为「制鞋匠」的专业角色，主张用丰富的生活化环境替代知识灌输，让孩子在尊重规律的教育中建构起能够应对未来生活的心智模式与人格基础。这本书既是中国本土化幼儿教育实践的重要文本，也为每一位被应试焦虑困住的家长和老师，提供了一份珍贵的参照与行动指南。</description>
+      <pubDate>Sun, 04 Oct 2026 04:43:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-5dd552</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《孩子是脚，教育是鞋》是芭学园创办人李跃儿写给所有教育者的一本清醒剂。书中以「孩子是脚、教育是鞋」为核心隐喻，系统阐述了华德福取向与中国古典哲学融合的幼儿教育范式。围绕建构完整人格这一核心目标，芭学园提出了道德自律、智力自主、生存能力三大教育目标，以及支持孩子一生幸福的十五项具体目标。全书从教育理念、教师素养、环境创设、课程内容四大维度，详细拆解了手工、晨圈、故事、生成课程、远郊活动等经典课程形态，强调教师作为「制鞋匠」的专业角色，主张用丰富的生活化环境替代知识灌输，让孩子在尊重规律的教育中建构起能够应对未来生活的心智模式与人格基础。这本书既是中国本土化幼儿教育实践的重要文本，也为每一位被应试焦虑困住的家长和老师，提供了一份珍贵的参照与行动指南。</itunes:summary>
+      <itunes:duration>00:26:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-5dd552.mp3" length="25096365" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
