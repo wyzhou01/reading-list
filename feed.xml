@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 19:46:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 19:55:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25336,6 +25336,17 @@
       <itunes:duration>00:24:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-9b8070.mp3" length="23874861" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中国的男人和女人》 · 完整版 · 中国的男人和女人 · 完整讲读</title>
+      <description>易中天《中国的男人和女人》系统梳理中国传统性别文化。书分八章，从戏曲里的奶油小生、江湖好汉，到贤妻良母、弱女子；从神圣的性、禁忌的贞节，到明媒正娶的夫妻、等级森严的姬妾婢，再到青楼娼妓与偷情情人，最后落到田间地头的荤话闲话。作者用随笔体笔法，揭露中国传统社会如何把男人女性化、去势化，把女人牺牲化、分层化，用六块拼图拼出一套压抑人性的性别秩序。这套秩序并未随时间消失，只是换了形式继续活在文化深处。读这本书，是为了打破&quot;男人就该这样、女人就该那样&quot;的隐形框框，夺回塑造自己的权利。</description>
+      <pubDate>Sun, 04 Oct 2026 19:55:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-36b1ee</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>易中天《中国的男人和女人》系统梳理中国传统性别文化。书分八章，从戏曲里的奶油小生、江湖好汉，到贤妻良母、弱女子；从神圣的性、禁忌的贞节，到明媒正娶的夫妻、等级森严的姬妾婢，再到青楼娼妓与偷情情人，最后落到田间地头的荤话闲话。作者用随笔体笔法，揭露中国传统社会如何把男人女性化、去势化，把女人牺牲化、分层化，用六块拼图拼出一套压抑人性的性别秩序。这套秩序并未随时间消失，只是换了形式继续活在文化深处。读这本书，是为了打破&quot;男人就该这样、女人就该那样&quot;的隐形框框，夺回塑造自己的权利。</itunes:summary>
+      <itunes:duration>00:29:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-36b1ee.mp3" length="28409133" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
