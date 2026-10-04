@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 15:22:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 15:29:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24885,6 +24885,17 @@
       <itunes:duration>00:27:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-04bab7.mp3" length="26167725" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《顾客为什么购买（升级版）》 · 完整版 · 顾客为什么购买(1) · 完整讲读</title>
+      <description>《顾客为什么购买》是一部零售业实地研究的奠基之作。作者帕科·昂德希尔带领团队用二十年时间、五万小时录像带，记录下顾客在商店里的每一个细微动作，揭示出购物行为背后被商家普遍忽视的隐秘规律。书中提出，【顾客】其实是一个伪概念——男人、女人、老人、孩子在同一商场里有着截然不同的行为模式和决策机制：男人讨厌被打断，女人承担着多线程的家庭采购任务，老人需要被尊重的方便，孩子则是最老练的感官营销对象。从缓冲地带的设置、广告牌的字体大小，到收银台的心理学，再到性别与年龄带来的购物差异，昂德希尔用大量一手数据证明，零售业的胜负不取决于商品，而取决于对人性的理解。这本书既适合零售商优化店面，也适合普通人看穿消费陷阱，更适合互联网时代的产品经理，把对线下动线的洞察迁移到线上流程的设计之中。</description>
+      <pubDate>Sun, 04 Oct 2026 15:29:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-4b7730</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《顾客为什么购买》是一部零售业实地研究的奠基之作。作者帕科·昂德希尔带领团队用二十年时间、五万小时录像带，记录下顾客在商店里的每一个细微动作，揭示出购物行为背后被商家普遍忽视的隐秘规律。书中提出，【顾客】其实是一个伪概念——男人、女人、老人、孩子在同一商场里有着截然不同的行为模式和决策机制：男人讨厌被打断，女人承担着多线程的家庭采购任务，老人需要被尊重的方便，孩子则是最老练的感官营销对象。从缓冲地带的设置、广告牌的字体大小，到收银台的心理学，再到性别与年龄带来的购物差异，昂德希尔用大量一手数据证明，零售业的胜负不取决于商品，而取决于对人性的理解。这本书既适合零售商优化店面，也适合普通人看穿消费陷阱，更适合互联网时代的产品经理，把对线下动线的洞察迁移到线上流程的设计之中。</itunes:summary>
+      <itunes:duration>00:27:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-4b7730.mp3" length="26013357" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
