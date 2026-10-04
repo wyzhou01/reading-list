@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 20:52:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 20:59:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25446,6 +25446,17 @@
       <itunes:duration>00:34:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-2d698c.mp3" length="32673453" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《來自新世界》 · 完整版 · 来自新世界 · 完整讲读</title>
+      <description>《来自新世界》是贵志祐介构思二十五年写就的反乌托邦巨作。神栖66町的人类获得了咒力，却也必须面对远超武器的危险——人类自身的攻击性。为防止社会崩溃，町民发展出攻击抑制与愧死机制，并通过抹除记忆、改写历史来维持秩序。少女早季在完美的童年里逐渐发现真相：业魔、恶鬼、化鼠，无一不是被社会定义的牺牲品。当那个夏天来临，她必须做出抉择——是继续成为共犯，还是打破秩序，哪怕让所有人承受危险。这部横扫日本科幻大奖的作品，是一封写给千年后人类的万言书，叩问每一个看似完美的社会，背后究竟隐藏着怎样的代价。</description>
+      <pubDate>Sun, 04 Oct 2026 20:59:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-7ebf28</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《来自新世界》是贵志祐介构思二十五年写就的反乌托邦巨作。神栖66町的人类获得了咒力，却也必须面对远超武器的危险——人类自身的攻击性。为防止社会崩溃，町民发展出攻击抑制与愧死机制，并通过抹除记忆、改写历史来维持秩序。少女早季在完美的童年里逐渐发现真相：业魔、恶鬼、化鼠，无一不是被社会定义的牺牲品。当那个夏天来临，她必须做出抉择——是继续成为共犯，还是打破秩序，哪怕让所有人承受危险。这部横扫日本科幻大奖的作品，是一封写给千年后人类的万言书，叩问每一个看似完美的社会，背后究竟隐藏着怎样的代价。</itunes:summary>
+      <itunes:duration>00:26:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-7ebf28.mp3" length="24996141" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
