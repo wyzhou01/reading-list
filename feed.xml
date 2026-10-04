@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 09:10:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 09:17:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24863,6 +24863,17 @@
       <itunes:duration>00:29:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-727794.mp3" length="27869997" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《丙申故事集》 · 完整版 · 丙申故事集 · 完整讲读</title>
+      <description>《丙申故事集》是作家弋舟以二零一六年丙申年为时间坐标写下的五篇小说集。从西北戈壁到北京玻璃大厦，从失去一只乳房的女人到失去声音的失语者，弋舟写的是一群普通人在逃离、丧失与重建之间与世界的重逢。白骨、酸曲儿、劝退、巨型鱼缸、杯水，这些意象构成了一幅精神边疆的全景图。这本书讲的不是大事件，而是大事件缺席的年份里，普通人如何与残缺共存，如何在认清生活的真相之后，依然愿意与之重逢。</description>
+      <pubDate>Sun, 04 Oct 2026 09:17:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-1e74a9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《丙申故事集》是作家弋舟以二零一六年丙申年为时间坐标写下的五篇小说集。从西北戈壁到北京玻璃大厦，从失去一只乳房的女人到失去声音的失语者，弋舟写的是一群普通人在逃离、丧失与重建之间与世界的重逢。白骨、酸曲儿、劝退、巨型鱼缸、杯水，这些意象构成了一幅精神边疆的全景图。这本书讲的不是大事件，而是大事件缺席的年份里，普通人如何与残缺共存，如何在认清生活的真相之后，依然愿意与之重逢。</itunes:summary>
+      <itunes:duration>00:26:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-1e74a9.mp3" length="25776429" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
