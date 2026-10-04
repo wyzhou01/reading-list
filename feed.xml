@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 05:22:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 05:30:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24522,6 +24522,17 @@
       <itunes:duration>00:28:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-7a6386.mp3" length="27500973" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我忏悔》 · 完整版 · 我忏悔 · 完整讲读</title>
+      <description>《我忏悔》是西班牙作家乔莫·卡夫雷用八年时间写成的长篇小说，以一把小提琴为线索，跨越十四世纪宗教裁判所、十七世纪阿尔卑斯山区大火、十八世纪克雷莫纳制琴工坊、二战奥斯维辛集中营，到二十世纪巴塞罗那一个老人的书房。六十岁的阿德里亚坐在父亲遗留的书房里，对着一个不在场的收信人，写下他用一辈子回避的真相。全书交织罪责与沉默、物件的宿命、父辈的阴影、跨世纪的罪恶、忏悔的真正含义五条线索，最终追问每个人与上一代人之间的亏欠。</description>
+      <pubDate>Sun, 04 Oct 2026 05:30:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-f21a79</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我忏悔》是西班牙作家乔莫·卡夫雷用八年时间写成的长篇小说，以一把小提琴为线索，跨越十四世纪宗教裁判所、十七世纪阿尔卑斯山区大火、十八世纪克雷莫纳制琴工坊、二战奥斯维辛集中营，到二十世纪巴塞罗那一个老人的书房。六十岁的阿德里亚坐在父亲遗留的书房里，对着一个不在场的收信人，写下他用一辈子回避的真相。全书交织罪责与沉默、物件的宿命、父辈的阴影、跨世纪的罪恶、忏悔的真正含义五条线索，最终追问每个人与上一代人之间的亏欠。</itunes:summary>
+      <itunes:duration>00:28:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-f21a79.mp3" length="27818541" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
