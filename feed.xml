@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 08:13:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 08:23:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24775,6 +24775,17 @@
       <itunes:duration>00:32:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-5e3239.mp3" length="31256109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《律政先锋》 · 完整版 · 律政先锋 · 完整讲读</title>
+      <description>《律政先锋》是英国作家蒂姆·维卡里的一部法庭悬疑小说，讲述了约克郡女律师萨拉·纽比在替儿子辩护、婚姻破裂之后，因一块来历不明的手骨，重新卷入一桩十八年前的悬案。她在追寻别人真相的同时，被一步步拉回自己十六岁那年雨夜的创伤现场。小说跨越十五年，把法庭、刑侦与一个女人的家庭命运拧在一起，层层剥开真相的代价、家庭的重量，以及一个人究竟要付出多少，才能从过去的阴影里走出来。</description>
+      <pubDate>Sun, 04 Oct 2026 08:23:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-d04275</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《律政先锋》是英国作家蒂姆·维卡里的一部法庭悬疑小说，讲述了约克郡女律师萨拉·纽比在替儿子辩护、婚姻破裂之后，因一块来历不明的手骨，重新卷入一桩十八年前的悬案。她在追寻别人真相的同时，被一步步拉回自己十六岁那年雨夜的创伤现场。小说跨越十五年，把法庭、刑侦与一个女人的家庭命运拧在一起，层层剥开真相的代价、家庭的重量，以及一个人究竟要付出多少，才能从过去的阴影里走出来。</itunes:summary>
+      <itunes:duration>00:31:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-d04275.mp3" length="30374829" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
