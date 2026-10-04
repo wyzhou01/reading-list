@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 16:37:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 16:45:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24995,6 +24995,17 @@
       <itunes:duration>00:27:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-bbe7e3.mp3" length="26027181" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《东汉生死观》 · 完整版 · 东汉生死观 · 完整讲读</title>
+      <description>餘英時《東漢生死觀》通過打通思想史與社會史，系統揭示了佛教傳入前中國本土來世信仰的完整面貌。全書圍繞東漢時期的雙軌追求展開：一邊是士人階層的養生長術、形神哲學辯論與【命】【壽】的重新界定，另一邊是民間的神仙崇拜、魂魄二元論與梁父蒿里的雙陰間結構。書中指出，這套本土信仰並非佛教地獄觀的對立面，而是為其在中國的本土化提供了關鍵的對接接口。時隔六十年，本書仍是理解中國人深層心理結構與打通雅俗治學方法的經典之作。</description>
+      <pubDate>Sun, 04 Oct 2026 16:45:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-dad859</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>餘英時《東漢生死觀》通過打通思想史與社會史，系統揭示了佛教傳入前中國本土來世信仰的完整面貌。全書圍繞東漢時期的雙軌追求展開：一邊是士人階層的養生長術、形神哲學辯論與【命】【壽】的重新界定，另一邊是民間的神仙崇拜、魂魄二元論與梁父蒿里的雙陰間結構。書中指出，這套本土信仰並非佛教地獄觀的對立面，而是為其在中國的本土化提供了關鍵的對接接口。時隔六十年，本書仍是理解中國人深層心理結構與打通雅俗治學方法的經典之作。</itunes:summary>
+      <itunes:duration>00:26:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-dad859.mp3" length="25787181" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
