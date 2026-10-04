@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 03:51:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 04:01:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24390,6 +24390,17 @@
       <itunes:duration>00:28:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-405506.mp3" length="27681069" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《德国式英雄》 · 完整版 · 德国式英雄_-_[英]杰克·希金斯【雨浪·重排】 · 完整讲读</title>
+      <description>《德国式英雄》是英国作家杰克·希金斯一九七五年的二战惊悚小说，全球销量超过五千万册。一九四三年十一月，十四名德国空降兵秘密潜入英国本土，企图绑架正在乡间度假的首相丘吉尔。然而作者在三十年后发现，丘吉尔当晚根本不在那里——整个行动从一开始就是一场精心设计的骗局。小说最深的颠覆在于，它揭示了国家如何通过档案销毁和集体沉默来抹去一段历史，也重新定义了战争中的英雄主义：在错误的一边、却依然值得尊敬的人。这是一本关于记忆、沉默与选择的书。</description>
+      <pubDate>Sun, 04 Oct 2026 04:01:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-fda5df</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《德国式英雄》是英国作家杰克·希金斯一九七五年的二战惊悚小说，全球销量超过五千万册。一九四三年十一月，十四名德国空降兵秘密潜入英国本土，企图绑架正在乡间度假的首相丘吉尔。然而作者在三十年后发现，丘吉尔当晚根本不在那里——整个行动从一开始就是一场精心设计的骗局。小说最深的颠覆在于，它揭示了国家如何通过档案销毁和集体沉默来抹去一段历史，也重新定义了战争中的英雄主义：在错误的一边、却依然值得尊敬的人。这是一本关于记忆、沉默与选择的书。</itunes:summary>
+      <itunes:duration>00:34:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-fda5df.mp3" length="32650413" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
