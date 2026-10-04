@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 16:59:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 17:07:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25028,6 +25028,17 @@
       <itunes:duration>00:20:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-17c279.mp3" length="19849005" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《机器70年》 · 完整版 · 机器70年 · 完整讲读</title>
+      <description>《机器七十年》把互联网、大数据、人工智能放回七十年乃至更长的文明史中，揭示出这场变革的真正引擎是人类对效率的永恒追求。本书围绕六个核心洞察展开：我们已全面进入数字化生存，注意力成为最稀缺的资源，数据霸权正在重新分配世界权力，网络治理的边界前所未有地模糊，而人工智能与人类的关系，已经到了必须正面回答的时刻。它不是预言未来的书，而是帮我们建立一种长周期视角，冷静理解技术如何重塑社会、权力与人本身。</description>
+      <pubDate>Sun, 04 Oct 2026 17:07:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-474218</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《机器七十年》把互联网、大数据、人工智能放回七十年乃至更长的文明史中，揭示出这场变革的真正引擎是人类对效率的永恒追求。本书围绕六个核心洞察展开：我们已全面进入数字化生存，注意力成为最稀缺的资源，数据霸权正在重新分配世界权力，网络治理的边界前所未有地模糊，而人工智能与人类的关系，已经到了必须正面回答的时刻。它不是预言未来的书，而是帮我们建立一种长周期视角，冷静理解技术如何重塑社会、权力与人本身。</itunes:summary>
+      <itunes:duration>00:29:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-474218.mp3" length="28707885" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
