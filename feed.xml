@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 04:07:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 04:14:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24412,6 +24412,17 @@
       <itunes:duration>00:21:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-51105b.mp3" length="20999853" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《道德的演化》 · 完整版 · 道德的演化（人文与社会译丛）_-_理查德•乔伊斯 · 完整讲读</title>
+      <description>《道德的演化》是新西兰哲学家理查德·乔伊斯跨学科探讨道德基础的代表作。本书综合演化生物学、心理学与哲学的最新成果，论证人类做出道德判断的能力具有适应性演化基础：助他行为的自然选择、道德语言的概念结构、道德情感的内在机制以及道德感本身的适应性起源。在系统梳理这些证据之后，乔伊斯直面一个根本追问：如果道德真是演化产物，它还具有客观性吗？他在第五章扮演道德的演化辩护者，在第六章扮演道德的演化拆解者，最终在结语中给出审慎的回答：怀疑演化而来的道德客观性，并不等于堕入虚无主义；我们依然可以——也应当——与这颗适应的心灵一起，严肃地活下去。</description>
+      <pubDate>Sun, 04 Oct 2026 04:14:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-14a5ec</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《道德的演化》是新西兰哲学家理查德·乔伊斯跨学科探讨道德基础的代表作。本书综合演化生物学、心理学与哲学的最新成果，论证人类做出道德判断的能力具有适应性演化基础：助他行为的自然选择、道德语言的概念结构、道德情感的内在机制以及道德感本身的适应性起源。在系统梳理这些证据之后，乔伊斯直面一个根本追问：如果道德真是演化产物，它还具有客观性吗？他在第五章扮演道德的演化辩护者，在第六章扮演道德的演化拆解者，最终在结语中给出审慎的回答：怀疑演化而来的道德客观性，并不等于堕入虚无主义；我们依然可以——也应当——与这颗适应的心灵一起，严肃地活下去。</itunes:summary>
+      <itunes:duration>00:31:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-14a5ec.mp3" length="30210477" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
