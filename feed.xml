@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 19:55:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 19:57:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25347,6 +25347,17 @@
       <itunes:duration>00:29:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-36b1ee.mp3" length="28409133" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《摩诃婆罗多（六）》 · 完整版 · 摩诃婆罗多（全六册）_-_[印]毗耶娑 · 完整讲读</title>
+      <description>《摩诃婆罗多》是印度最古老的史诗，全书十万余颂，以俱卢族与般度族的王位之争为主线，展开一场关于正法、命运与人性的千年追问。毗耶娑并非一人，而是几代吟游诗人的总称。史诗成书于公元前四世纪至公元四世纪间，由八千颂的《胜利之歌》一路扩充而成。本期解读全书六册：从黑公主的屈辱、阿周那的抉择、《薄伽梵歌》的智慧，到毗湿摩之死、夜袭的残忍、和平篇的反思，最终在升天篇给出答案——真正的胜利，不是活着或当王，而是在两难面前做出无愧的选择。这部史诗既藏着种姓与男权的偏见，也留下了黑公主、妙贤、维杜罗等普通人守正法的故事，至今仍是一面照见自己的镜子。</description>
+      <pubDate>Fri, 02 Oct 2026 17:28:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-0beaf3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《摩诃婆罗多》是印度最古老的史诗，全书十万余颂，以俱卢族与般度族的王位之争为主线，展开一场关于正法、命运与人性的千年追问。毗耶娑并非一人，而是几代吟游诗人的总称。史诗成书于公元前四世纪至公元四世纪间，由八千颂的《胜利之歌》一路扩充而成。本期解读全书六册：从黑公主的屈辱、阿周那的抉择、《薄伽梵歌》的智慧，到毗湿摩之死、夜袭的残忍、和平篇的反思，最终在升天篇给出答案——真正的胜利，不是活着或当王，而是在两难面前做出无愧的选择。这部史诗既藏着种姓与男权的偏见，也留下了黑公主、妙贤、维杜罗等普通人守正法的故事，至今仍是一面照见自己的镜子。</itunes:summary>
+      <itunes:duration>00:21:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-0beaf3.mp3" length="21030573" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
