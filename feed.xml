@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 18:36:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 18:41:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25215,6 +25215,17 @@
       <itunes:duration>00:35:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-98de3d.mp3" length="34529325" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《昼行灯闲话》 · 完整版 · 昼行灯闲话_-_李长声 · 完整讲读</title>
+      <description>《昼行灯闲话》是旅日作家李长声的一本知日散文集,从榻榻米、缘廊、桃太郎、活吃龙虾、枯山水、浮世绘,到川端康成、村上春树与日本出版业,看似散漫闲话,却处处藏着一位中国读书人沉静而清醒的眼光。李长声大半辈子客居东瀛,既不站队,也不急眼,只把日常切片拿来闲话一番。他写日本,不猎奇、不标签,只从一杯酒、一碗面、一块榻榻米里,照见文化的暧昧与精微。在他看来,真正写得出闲话的人,不能眼里只有丑恶,也不能只有美好,而要把日本当成日本,不把它当成中国副本。这本书既是个人的旅日心史,也是一份难得的知日指南——教人放下成见,承认理解不了,反而比硬下结论更接近真相。</description>
+      <pubDate>Sun, 04 Oct 2026 18:41:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-b6a6d7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《昼行灯闲话》是旅日作家李长声的一本知日散文集,从榻榻米、缘廊、桃太郎、活吃龙虾、枯山水、浮世绘,到川端康成、村上春树与日本出版业,看似散漫闲话,却处处藏着一位中国读书人沉静而清醒的眼光。李长声大半辈子客居东瀛,既不站队,也不急眼,只把日常切片拿来闲话一番。他写日本,不猎奇、不标签,只从一杯酒、一碗面、一块榻榻米里,照见文化的暧昧与精微。在他看来,真正写得出闲话的人,不能眼里只有丑恶,也不能只有美好,而要把日本当成日本,不把它当成中国副本。这本书既是个人的旅日心史,也是一份难得的知日指南——教人放下成见,承认理解不了,反而比硬下结论更接近真相。</itunes:summary>
+      <itunes:duration>00:21:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-b6a6d7.mp3" length="20823597" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
