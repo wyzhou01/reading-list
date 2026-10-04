@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 20:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 20:37:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25413,6 +25413,17 @@
       <itunes:duration>00:25:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-7b39f7.mp3" length="24695469" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《帝国的凛冬：银子、辫子和面子》 · 完整版 · 帝国的凛冬 · 完整讲读</title>
+      <description>《帝国的凛冬：银子、辫子和面子》以通俗笔法重述道光、咸丰两朝近代史。作者冬雪心境抓住白银外流导致的财政崩溃、朝贡体系崩塌的天朝心态、与太平天国所揭示的满汉统治合法性流失这三条主线，配以虎门销烟、三元里抗英、镇江血战、火烧圆明园等关键场景，再现大清帝国在西方冲击下从抗拒到溃败的全过程。结尾落在祺祥政变，重新布线的晚清权力结构为后来的洋务运动埋下伏笔。一根烟枪、一条辫子、一张老脸面——三大切口串起一个古老帝国走向近代化的阵痛与警醒。</description>
+      <pubDate>Sun, 04 Oct 2026 20:37:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-ffaf8e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《帝国的凛冬：银子、辫子和面子》以通俗笔法重述道光、咸丰两朝近代史。作者冬雪心境抓住白银外流导致的财政崩溃、朝贡体系崩塌的天朝心态、与太平天国所揭示的满汉统治合法性流失这三条主线，配以虎门销烟、三元里抗英、镇江血战、火烧圆明园等关键场景，再现大清帝国在西方冲击下从抗拒到溃败的全过程。结尾落在祺祥政变，重新布线的晚清权力结构为后来的洋务运动埋下伏笔。一根烟枪、一条辫子、一张老脸面——三大切口串起一个古老帝国走向近代化的阵痛与警醒。</itunes:summary>
+      <itunes:duration>00:33:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-ffaf8e.mp3" length="32103981" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
