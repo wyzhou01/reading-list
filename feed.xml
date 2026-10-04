@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 18:41:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 18:48:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25226,6 +25226,17 @@
       <itunes:duration>00:21:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-b6a6d7.mp3" length="20823597" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《去墨脱》 · 完整版 · 去墨脱 · 完整讲读</title>
+      <description>《去墨脱》是《三联生活周刊》关于西藏墨脱的深度报道合集，从地理、历史、宗教、修路、族群、爱情六个维度，记录了这座隐秘莲花圣地的百年变迁。书中既有雅鲁藏布江大拐弯的壮阔与百年测绘的主权警示，也有墨脱公路半个世纪屡建屡毁的悲壮筑路史、门巴族与珞巴族刀耕火种的生活记忆、援藏干部冀文正十六年坚守的见证，以及重庆姑娘与戍边军人因墨脱路结缘的雪山爱情。隐秘从未真正消失，它只是在等一个恰当的时节，缓慢地、一点点地打开。</description>
+      <pubDate>Sun, 04 Oct 2026 18:48:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-7aa0fe</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《去墨脱》是《三联生活周刊》关于西藏墨脱的深度报道合集，从地理、历史、宗教、修路、族群、爱情六个维度，记录了这座隐秘莲花圣地的百年变迁。书中既有雅鲁藏布江大拐弯的壮阔与百年测绘的主权警示，也有墨脱公路半个世纪屡建屡毁的悲壮筑路史、门巴族与珞巴族刀耕火种的生活记忆、援藏干部冀文正十六年坚守的见证，以及重庆姑娘与戍边军人因墨脱路结缘的雪山爱情。隐秘从未真正消失，它只是在等一个恰当的时节，缓慢地、一点点地打开。</itunes:summary>
+      <itunes:duration>00:29:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-7aa0fe.mp3" length="28555437" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
