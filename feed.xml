@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 17:27:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 17:27:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25094,6 +25094,17 @@
       <itunes:duration>00:26:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-a67288.mp3" length="25140141" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《公正：该如何做是好》 · 完整版 · 公正：该如何做是好 · 完整讲读</title>
+      <description>《公正：该如何做是好？》是哈佛政治哲学家桑德尔的代表作，以飓风查理后的冰块价格、器官买卖、紫心勋章归属等真实事件为切口，系统梳理功利主义、自由至上主义、康德道义论、罗尔斯公平正义、亚里士多德德性论五种公正观的内在逻辑与道德前提。桑德尔揭示了一个被现代性压抑却从未消失的维度：关于良善生活与共同善的追问。福利与自由并非中立的工具，它们已经塑造了具体的政治路线；而中立本身，也是一种立场。本书邀请每一位读者跳出非此即彼的框架，在具体议题中重新看见德性论的声音，重建关于共同生活的政治想象。</description>
+      <pubDate>Sun, 04 Oct 2026 17:27:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-67d404</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《公正：该如何做是好？》是哈佛政治哲学家桑德尔的代表作，以飓风查理后的冰块价格、器官买卖、紫心勋章归属等真实事件为切口，系统梳理功利主义、自由至上主义、康德道义论、罗尔斯公平正义、亚里士多德德性论五种公正观的内在逻辑与道德前提。桑德尔揭示了一个被现代性压抑却从未消失的维度：关于良善生活与共同善的追问。福利与自由并非中立的工具，它们已经塑造了具体的政治路线；而中立本身，也是一种立场。本书邀请每一位读者跳出非此即彼的框架，在具体议题中重新看见德性论的声音，重建关于共同生活的政治想象。</itunes:summary>
+      <itunes:duration>00:23:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-67d404.mp3" length="22432557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
