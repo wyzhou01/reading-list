@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 05:00:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 05:07:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24489,6 +24489,17 @@
       <itunes:duration>00:22:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-f197e8.mp3" length="21810093" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《诗词赏析七讲》 · 完整版 · 诗词赏析七讲 · 完整讲读</title>
+      <description>《诗词赏析七讲》是四川大学周啸天教授的古典诗词入门读物。全书以识字、知人、论世、诗法、会意、吟诵、比较七种层次，构建了一套完整的诗词赏析方法论。周啸天强调诗教即美育，认为读诗的目的不是人人都当诗人，而是人人都成为诗性的人。他把诗心与佛心深度勾连，提炼出兴会、正见、慈悲三位一体的诗学精神，指出诗在审美之外，更承担着化解人生痛苦、使人按美的规律去创造的功用。这本书既是中文系学生的入门指南，也是古典诗词爱好者的案头必备。</description>
+      <pubDate>Sun, 04 Oct 2026 05:07:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-906ca2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《诗词赏析七讲》是四川大学周啸天教授的古典诗词入门读物。全书以识字、知人、论世、诗法、会意、吟诵、比较七种层次，构建了一套完整的诗词赏析方法论。周啸天强调诗教即美育，认为读诗的目的不是人人都当诗人，而是人人都成为诗性的人。他把诗心与佛心深度勾连，提炼出兴会、正见、慈悲三位一体的诗学精神，指出诗在审美之外，更承担着化解人生痛苦、使人按美的规律去创造的功用。这本书既是中文系学生的入门指南，也是古典诗词爱好者的案头必备。</itunes:summary>
+      <itunes:duration>00:28:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-906ca2.mp3" length="27577389" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
