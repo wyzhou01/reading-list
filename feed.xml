@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 17:56:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 18:04:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25149,6 +25149,17 @@
       <itunes:duration>00:23:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-148d33.mp3" length="22733229" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《微言大义：晚清民国留言簿》 · 完整版 · 微言大义_晚清民国留言簿_-_纪陶然 · 完整讲读</title>
+      <description>《微言大义：晚清民国留言簿》由纪陶然编撰，从一八四零到一九四九年的浩繁史料中，辑录遗闻轶事八百则。全书以《世说新语》的笔记体为骨架，按主题分为四个篇章，着重还原话语的语境与历史效果，让读者体会当时情形与人物心境。从李鸿章到鲁迅，从胡林翼到弘一法师，从秋瑾到杨靖宇，本书既写撑住民族底线的脊梁，也写权力中心的庸人与蛀虫，既写灰色地带的人性挣扎，也写穿透迷雾的历史洞察。一百一十年后重读，那些话语里藏着的问题，至今仍在回响。</description>
+      <pubDate>Sun, 04 Oct 2026 18:04:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-d75ac7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《微言大义：晚清民国留言簿》由纪陶然编撰，从一八四零到一九四九年的浩繁史料中，辑录遗闻轶事八百则。全书以《世说新语》的笔记体为骨架，按主题分为四个篇章，着重还原话语的语境与历史效果，让读者体会当时情形与人物心境。从李鸿章到鲁迅，从胡林翼到弘一法师，从秋瑾到杨靖宇，本书既写撑住民族底线的脊梁，也写权力中心的庸人与蛀虫，既写灰色地带的人性挣扎，也写穿透迷雾的历史洞察。一百一十年后重读，那些话语里藏着的问题，至今仍在回响。</itunes:summary>
+      <itunes:duration>00:32:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-d75ac7.mp3" length="31519917" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
