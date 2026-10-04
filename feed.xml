@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 18:28:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 18:36:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25204,6 +25204,17 @@
       <itunes:duration>00:26:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-e50bc4.mp3" length="25256109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《宗教与科学》 · 完整版 · 宗教与科学(多看注释版)_-_[英]罗素 · 完整讲读</title>
+      <description>本书是英国哲学家罗素于一九五七年定稿的《宗教与科学》。罗素把宗教拆解为教会、教义、个人道德法规三位一体，指出科学与宗教的冲突本质上是权威与观察两种方法论的冲突。他从哥白尼的日心说讲到达尔文的进化论，从灵魂学说讲到决定论，从神秘主义讲到二十世纪德国和俄国的新宗教，论证了科学结论永远是暂时的，但科学方法却让人保持修正错误的能力。罗素最深的警告是：如果学术自由被剥夺，新的中世纪就会以国家机器的面目再次降临。这是一本八十多年前的小书，至今读来仍然让人警醒。</description>
+      <pubDate>Sun, 04 Oct 2026 18:36:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-98de3d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是英国哲学家罗素于一九五七年定稿的《宗教与科学》。罗素把宗教拆解为教会、教义、个人道德法规三位一体，指出科学与宗教的冲突本质上是权威与观察两种方法论的冲突。他从哥白尼的日心说讲到达尔文的进化论，从灵魂学说讲到决定论，从神秘主义讲到二十世纪德国和俄国的新宗教，论证了科学结论永远是暂时的，但科学方法却让人保持修正错误的能力。罗素最深的警告是：如果学术自由被剥夺，新的中世纪就会以国家机器的面目再次降临。这是一本八十多年前的小书，至今读来仍然让人警醒。</itunes:summary>
+      <itunes:duration>00:35:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-98de3d.mp3" length="34529325" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
