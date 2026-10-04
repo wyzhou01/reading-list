@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 03 Oct 2026 21:13:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 03:26:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24346,6 +24346,17 @@
       <itunes:duration>00:41:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-222059.mp3" length="39607725" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《故道白云（佛陀传）》 · 完整版 · 故道白云(佛陀传)－一行禅师V1.0 · 完整讲读</title>
+      <description>《故道白云》是当今最具影响力的禅宗僧人一行禅师以小说笔法写就的佛陀传记，透过看牛童缚悉底的视角，完整呈现释迦牟尼从出生、出家、苦修、悟道、弘法直至涅槃的八十年人生。本书最大特色在于把佛陀从神坛拉回人间，让他重新成为一个会困惑、会痛苦、会为人子、为人父的凡人，再从这个凡人身上看见每个人觉醒的可能。本期为你完整串讲全书核心教义与生平故事，从看牛童的视角看佛陀如何走出王宫、如何在菩提树下证悟、如何用四十余年把觉醒的光带到整个恒河流域，以及他如何在八十岁时留下以法为灯的最后遗教。这不是一本宗教书，这是一本关于如何把觉照带回洗碗、走路、吃饭、睡觉之间的书。</description>
+      <pubDate>Sun, 04 Oct 2026 03:26:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-9c641a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《故道白云》是当今最具影响力的禅宗僧人一行禅师以小说笔法写就的佛陀传记，透过看牛童缚悉底的视角，完整呈现释迦牟尼从出生、出家、苦修、悟道、弘法直至涅槃的八十年人生。本书最大特色在于把佛陀从神坛拉回人间，让他重新成为一个会困惑、会痛苦、会为人子、为人父的凡人，再从这个凡人身上看见每个人觉醒的可能。本期为你完整串讲全书核心教义与生平故事，从看牛童的视角看佛陀如何走出王宫、如何在菩提树下证悟、如何用四十余年把觉醒的光带到整个恒河流域，以及他如何在八十岁时留下以法为灯的最后遗教。这不是一本宗教书，这是一本关于如何把觉照带回洗碗、走路、吃饭、睡觉之间的书。</itunes:summary>
+      <itunes:duration>00:20:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-9c641a.mp3" length="19513005" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
