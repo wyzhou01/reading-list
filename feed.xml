@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 05:39:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 05:45:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24544,6 +24544,17 @@
       <itunes:duration>00:32:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-d22d96.mp3" length="31262253" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《笛卡尔的错误：情绪、推理和大脑》 · 完整版 · 笛卡尔的错误 · 完整讲读</title>
+      <description>本书是神经科学家达马西奥的代表作《笛卡尔的错误》。他从菲尼亚斯·盖奇等额叶损伤病人的真实病例出发，用二十多年的临床证据，提出革命性的【躯体标记假设】：身体会在每个选项上悄悄打分，情绪不是理性的敌人，而是理性回路的一部分。由此挑战西方传统中根深叶固的心身二元论，主张心智存在于躯体并为躯体而存在。本书催生了神经经济学，重塑了人们对决策、道德、审美与意识的理解，是这个越来越被算法主导的时代里，重新理解人类智能的必读之作。</description>
+      <pubDate>Sun, 04 Oct 2026 05:45:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-9585bc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是神经科学家达马西奥的代表作《笛卡尔的错误》。他从菲尼亚斯·盖奇等额叶损伤病人的真实病例出发，用二十多年的临床证据，提出革命性的【躯体标记假设】：身体会在每个选项上悄悄打分，情绪不是理性的敌人，而是理性回路的一部分。由此挑战西方传统中根深叶固的心身二元论，主张心智存在于躯体并为躯体而存在。本书催生了神经经济学，重塑了人们对决策、道德、审美与意识的理解，是这个越来越被算法主导的时代里，重新理解人类智能的必读之作。</itunes:summary>
+      <itunes:duration>00:27:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-9585bc.mp3" length="26876205" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
