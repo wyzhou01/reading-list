@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 05:59:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 06:06:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24577,6 +24577,17 @@
       <itunes:duration>00:30:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-c30f7a.mp3" length="28895277" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《自由选择（珍藏版）》 · 完整版 · 自由选择（珍藏版） · 完整讲读</title>
+      <description>《自由选择》是诺贝尔经济学奖得主米尔顿·弗里德曼与夫人罗丝的代表作,初版于一九八零年,一九九零年增补再版。本书以十章篇幅,系统阐述了自由市场的自发秩序、政府管制的代价、福利国家的局限、货币政策的祸害,并提出了以宪法修正案限制政府扩张的路径。书中以大萧条、滞胀、教育垄断、消费者保护与工会特权等鲜活案例,论证了一个核心命题:个人自由既是目的,也是手段;市场的力量,远胜任何精心设计的政府干预。</description>
+      <pubDate>Sun, 04 Oct 2026 06:06:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-8fd204</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《自由选择》是诺贝尔经济学奖得主米尔顿·弗里德曼与夫人罗丝的代表作,初版于一九八零年,一九九零年增补再版。本书以十章篇幅,系统阐述了自由市场的自发秩序、政府管制的代价、福利国家的局限、货币政策的祸害,并提出了以宪法修正案限制政府扩张的路径。书中以大萧条、滞胀、教育垄断、消费者保护与工会特权等鲜活案例,论证了一个核心命题:个人自由既是目的,也是手段;市场的力量,远胜任何精心设计的政府干预。</itunes:summary>
+      <itunes:duration>00:30:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-8fd204.mp3" length="29598765" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
