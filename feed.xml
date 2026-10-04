@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 08:36:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 08:42:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24808,6 +24808,17 @@
       <itunes:duration>00:23:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-c1da36.mp3" length="22960173" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《慢下来，静下来》 · 完整版 · 慢下来，静下来_-_王志艳 · 完整讲读</title>
+      <description>《慢下来，静下来》是青年作家王志艳二零一五年出版的生活哲学读本，以木心《从前慢》为引子，针对快节奏时代普遍存在的焦虑、失眠、亚健康等【全民加速】症候，提出九章心法：做悠客、归零、不急躁、静心、淡定、简约、知足、自由、惜生活。书中融汇周润发、金庸、徐霞客、黄公望、周迅等古今人物的故事，结合约翰·列侬、梭罗、一行禅师等东西方哲人的观点，既承中国古典【淡泊明志】的意境，又含现代心理学的洞察。九年来它被无数读者视为【焦虑自救手册】，在屏幕时间再度攀升、【内卷】成为热词的今天，书中关于放慢脚步、清空内心、知足常乐的提醒，依然像一剂清凉的药，给每一个疲惫的现代人带来源源不断的慰藉与方向。</description>
+      <pubDate>Sun, 04 Oct 2026 08:42:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-5568c0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《慢下来，静下来》是青年作家王志艳二零一五年出版的生活哲学读本，以木心《从前慢》为引子，针对快节奏时代普遍存在的焦虑、失眠、亚健康等【全民加速】症候，提出九章心法：做悠客、归零、不急躁、静心、淡定、简约、知足、自由、惜生活。书中融汇周润发、金庸、徐霞客、黄公望、周迅等古今人物的故事，结合约翰·列侬、梭罗、一行禅师等东西方哲人的观点，既承中国古典【淡泊明志】的意境，又含现代心理学的洞察。九年来它被无数读者视为【焦虑自救手册】，在屏幕时间再度攀升、【内卷】成为热词的今天，书中关于放慢脚步、清空内心、知足常乐的提醒，依然像一剂清凉的药，给每一个疲惫的现代人带来源源不断的慰藉与方向。</itunes:summary>
+      <itunes:duration>00:24:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-5568c0.mp3" length="23893293" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
