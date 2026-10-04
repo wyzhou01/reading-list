@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 17:27:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 17:34:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25105,6 +25105,17 @@
       <itunes:duration>00:23:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-67d404.mp3" length="22432557" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《理性之谜》 · 完整版 · 理性之谜 · 完整讲读</title>
+      <description>本书由两位认知科学家提出“理性互动论“：人类理性并非用于孤独地推演真理，而是进化出来用于社交互动的工具——为自己辩护和揭穿他人。理性在独自思考时往往松懈偏颇，而在人际交锋中才变得敏锐严格，由此解释了人类认知的双面性、推理偏见的来源，以及科学共同体通过争论纠错的机制。</description>
+      <pubDate>Sun, 04 Oct 2026 17:33:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-2d7021</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书由两位认知科学家提出“理性互动论“：人类理性并非用于孤独地推演真理，而是进化出来用于社交互动的工具——为自己辩护和揭穿他人。理性在独自思考时往往松懈偏颇，而在人际交锋中才变得敏锐严格，由此解释了人类认知的双面性、推理偏见的来源，以及科学共同体通过争论纠错的机制。</itunes:summary>
+      <itunes:duration>00:25:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-2d7021.mp3" length="24749613" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
