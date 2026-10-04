@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 04:14:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 04:22:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24423,6 +24423,17 @@
       <itunes:duration>00:31:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-14a5ec.mp3" length="30210477" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《康哲夫传奇（幻国之刃·炽天使）》 · 完整版 · 康哲夫传奇_-_乔靖夫 · 完整讲读</title>
+      <description>《康哲夫传奇》是香港作家乔靖夫一九九六年写下的两部曲武侠间谍小说。主角康哲夫是中央情报局培养的职业杀手，剑术高超却立誓不再杀人，足迹遍布东京新宿、非洲丛林、瑞士雪山，以及以北韩为蓝本的虚构独裁王国高罗国。整部作品用剑斗、跳伞、政治阴谋与异国孤独，刻画了一个在暴力与爱之间撕裂、在宿命与自由之间挣扎的永恒流浪者。一九九六年原版后记与二零零五年、九一一事件后的修订版后记，揭示了乔靖夫对【感情才是人类最可怕武器】这一主题的持续追问。</description>
+      <pubDate>Sun, 04 Oct 2026 04:22:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-8beff4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《康哲夫传奇》是香港作家乔靖夫一九九六年写下的两部曲武侠间谍小说。主角康哲夫是中央情报局培养的职业杀手，剑术高超却立誓不再杀人，足迹遍布东京新宿、非洲丛林、瑞士雪山，以及以北韩为蓝本的虚构独裁王国高罗国。整部作品用剑斗、跳伞、政治阴谋与异国孤独，刻画了一个在暴力与爱之间撕裂、在宿命与自由之间挣扎的永恒流浪者。一九九六年原版后记与二零零五年、九一一事件后的修订版后记，揭示了乔靖夫对【感情才是人类最可怕武器】这一主题的持续追问。</itunes:summary>
+      <itunes:duration>00:30:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-8beff4.mp3" length="29239341" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
