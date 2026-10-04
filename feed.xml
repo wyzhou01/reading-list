@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 08:30:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 08:36:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24797,6 +24797,17 @@
       <itunes:duration>00:28:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-e6dfa5.mp3" length="27740973" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《王安石变法》 · 完整版 · 王安石变法：易中天中华史18 · 完整讲读</title>
+      <description>《王安石变法》是易中天中华史第十八卷，以犀利通俗的笔法重读北宋熙宁变法。书中跳出忠奸史观，从国家主义、政府万能、理想至上、道德唯一四个维度剖析这场改革为何走向悲剧：王安石以道德理想绑架权力，以朝廷垄断挤压民间活力，把方向错置的决心当作改革本身，最终在青苗、市易、免役等法令中制造出比积贫积弱更深重的灾难。本书不仅是一份宋代政治史的复盘，更是一份写给所有改革时代的现代寓言。</description>
+      <pubDate>Sun, 04 Oct 2026 08:36:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-c1da36</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《王安石变法》是易中天中华史第十八卷，以犀利通俗的笔法重读北宋熙宁变法。书中跳出忠奸史观，从国家主义、政府万能、理想至上、道德唯一四个维度剖析这场改革为何走向悲剧：王安石以道德理想绑架权力，以朝廷垄断挤压民间活力，把方向错置的决心当作改革本身，最终在青苗、市易、免役等法令中制造出比积贫积弱更深重的灾难。本书不仅是一份宋代政治史的复盘，更是一份写给所有改革时代的现代寓言。</itunes:summary>
+      <itunes:duration>00:23:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-c1da36.mp3" length="22960173" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
