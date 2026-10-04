@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 18:16:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 18:23:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25182,6 +25182,17 @@
       <itunes:duration>00:26:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-f73edb.mp3" length="25769133" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《不能没有你》 · 完整版 · 不能没有你_-_人海中 · 完整讲读</title>
+      <description>《不能没有你》是人海中（毛培蕾）的都市商战与女性情感长篇小说。讲述了九十年代制药厂下岗工人家庭出身的女孩董知微，在母亲失明、初恋背叛、学历被歧视的三重打击下，靠夜大学位与极强的韧性，从一个小秘书一路成长为商界枭雄袁景瑞身边不可或缺的伴侣，最终与他组成家庭、两家老人共坐一桌的温暖故事。小说不写豪门悬浮，只写两个同样从底层爬起来的人如何相互接住，是写给每一个在城市里独自打拼的人的一封长信：苦难不值得感谢，但熬过苦难的自己，值得。</description>
+      <pubDate>Sun, 04 Oct 2026 18:23:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-202029</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《不能没有你》是人海中（毛培蕾）的都市商战与女性情感长篇小说。讲述了九十年代制药厂下岗工人家庭出身的女孩董知微，在母亲失明、初恋背叛、学历被歧视的三重打击下，靠夜大学位与极强的韧性，从一个小秘书一路成长为商界枭雄袁景瑞身边不可或缺的伴侣，最终与他组成家庭、两家老人共坐一桌的温暖故事。小说不写豪门悬浮，只写两个同样从底层爬起来的人如何相互接住，是写给每一个在城市里独自打拼的人的一封长信：苦难不值得感谢，但熬过苦难的自己，值得。</itunes:summary>
+      <itunes:duration>00:33:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-202029.mp3" length="32077485" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
