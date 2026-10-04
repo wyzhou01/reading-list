@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 17:15:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 17:21:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25061,6 +25061,17 @@
       <itunes:duration>00:29:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-27d0bb.mp3" length="28454061" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《未央·沉浮：修订版上下册》 · 完整版 · 未央·沉浮：修订版上下册 · 完整讲读</title>
+      <description>《未央·沉浮》以西汉初年为背景，讲述官家女子萧清漪因家族获罪沦落永巷五年，后被吕后特赦，送入未央宫服侍年幼的皇后。她以清醒、规矩、耐心在吕后、文帝、景帝、武帝四朝中一路沉浮，最终与代王刘恒结盟，助其登基，自己也两握虎符，成为西汉最荣耀的太皇太后。小说以宫斗为皮，以生存哲学为骨，把一个普通女性在男权政治里的智慧与挣扎，写得荡气回肠。</description>
+      <pubDate>Sun, 04 Oct 2026 17:20:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-6ba9ac</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《未央·沉浮》以西汉初年为背景，讲述官家女子萧清漪因家族获罪沦落永巷五年，后被吕后特赦，送入未央宫服侍年幼的皇后。她以清醒、规矩、耐心在吕后、文帝、景帝、武帝四朝中一路沉浮，最终与代王刘恒结盟，助其登基，自己也两握虎符，成为西汉最荣耀的太皇太后。小说以宫斗为皮，以生存哲学为骨，把一个普通女性在男权政治里的智慧与挣扎，写得荡气回肠。</itunes:summary>
+      <itunes:duration>00:27:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-6ba9ac.mp3" length="26455341" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
