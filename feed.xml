@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 07:44:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 07:51:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24731,6 +24731,17 @@
       <itunes:duration>00:28:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-76f3c6.mp3" length="26975277" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《安昌河悬疑文集（X报告+亡者书）》 · 完整版 · 安昌河悬疑文集（套装共2册） · 完整讲读</title>
+      <description>《安昌河悬疑文集》收录《X报告》与《亡者书》两部作品。《X报告》以电视台记者视角，记录拍摄民间中医专题节目的始末，在揭秘与反揭秘之间，勾勒出江湖郎中的隐秘生态与媒体人的生存困境。《亡者书》则以棺材匠家族、短命者六福、薛玉的谜局为主线，在悬疑与宿命的交织中，探讨死亡、命运与救赎的沉重命题。两部作品，一部写江湖的荒诞，一部写宿命的挣扎，共同追问人为何而生、人又为何而死，在真假虚实之间，书写底层小人物的悲欢离合。</description>
+      <pubDate>Sun, 04 Oct 2026 07:51:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-ea6a71</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《安昌河悬疑文集》收录《X报告》与《亡者书》两部作品。《X报告》以电视台记者视角，记录拍摄民间中医专题节目的始末，在揭秘与反揭秘之间，勾勒出江湖郎中的隐秘生态与媒体人的生存困境。《亡者书》则以棺材匠家族、短命者六福、薛玉的谜局为主线，在悬疑与宿命的交织中，探讨死亡、命运与救赎的沉重命题。两部作品，一部写江湖的荒诞，一部写宿命的挣扎，共同追问人为何而生、人又为何而死，在真假虚实之间，书写底层小人物的悲欢离合。</itunes:summary>
+      <itunes:duration>00:28:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-ea6a71.mp3" length="27771309" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
