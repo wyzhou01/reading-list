@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 15:55:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 16:04:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24929,6 +24929,17 @@
       <itunes:duration>00:30:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-d990ca.mp3" length="28936749" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《成功的真谛》 · 完整版 · 成功的真谛(1) · 完整讲读</title>
+      <description>稻盛和夫在《成功的真谛》中提出，企业的根本不是战略或财务，而是经营者的心性。看不见的内心决定看得见的经营成果——企业文化本质上是全体员工意愿的集合体，而意愿要发挥作用必须强烈、持久、发自内心深处。稻盛把人的内心分为本能、理性、良心三层，认为只有源自良心的意愿才能让企业持久繁荣。他提出「动机至善、私心了无、过程至善、不问结果」的决策框架，用创办第二电电击败 NTT 垄断的亲身经历加以验证。书的终章引用《阴骘录》的立命之学，结合佛家六波罗蜜的修行，论证命运可以通过想好事、做好事来改写，人生的目的在于让灵魂比降生时更纯净。</description>
+      <pubDate>Sun, 04 Oct 2026 16:04:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-c3ef47</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>稻盛和夫在《成功的真谛》中提出，企业的根本不是战略或财务，而是经营者的心性。看不见的内心决定看得见的经营成果——企业文化本质上是全体员工意愿的集合体，而意愿要发挥作用必须强烈、持久、发自内心深处。稻盛把人的内心分为本能、理性、良心三层，认为只有源自良心的意愿才能让企业持久繁荣。他提出「动机至善、私心了无、过程至善、不问结果」的决策框架，用创办第二电电击败 NTT 垄断的亲身经历加以验证。书的终章引用《阴骘录》的立命之学，结合佛家六波罗蜜的修行，论证命运可以通过想好事、做好事来改写，人生的目的在于让灵魂比降生时更纯净。</itunes:summary>
+      <itunes:duration>00:34:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-c3ef47.mp3" length="33545901" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
