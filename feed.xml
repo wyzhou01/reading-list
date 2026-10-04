@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 04:22:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 04:29:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24434,6 +24434,17 @@
       <itunes:duration>00:30:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-8beff4.mp3" length="29239341" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《吉田医生哈佛求学记》 · 完整版 · 吉田医生哈佛求学记(1) · 完整讲读</title>
+      <description>《吉田医生哈佛求学记》是日本妇产科医生吉田穗波的真实留学记录。她带着三个年幼的女儿、丈夫和父母远赴哈佛，在时间被压到极限的状态下完成学业。书中提出六条核心方法：把没时间当作机会而非阻碍、所有想做的事并联推进而非串行选择、用提高时间密度替代延长物理时间、借助他人力量并坦然接受帮助、允许自己不完美地推进、把先迈出第一步作为所有改变的起点。这本书不讲女超人式的成功学，而讲一个普通女人如何在每一次求助、每一次跌倒、每一次再出发中，把困境翻过来用，活出每一天的厚度。</description>
+      <pubDate>Sun, 04 Oct 2026 04:29:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-90a3a5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《吉田医生哈佛求学记》是日本妇产科医生吉田穗波的真实留学记录。她带着三个年幼的女儿、丈夫和父母远赴哈佛，在时间被压到极限的状态下完成学业。书中提出六条核心方法：把没时间当作机会而非阻碍、所有想做的事并联推进而非串行选择、用提高时间密度替代延长物理时间、借助他人力量并坦然接受帮助、允许自己不完美地推进、把先迈出第一步作为所有改变的起点。这本书不讲女超人式的成功学，而讲一个普通女人如何在每一次求助、每一次跌倒、每一次再出发中，把困境翻过来用，活出每一天的厚度。</itunes:summary>
+      <itunes:duration>00:22:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-90a3a5.mp3" length="21859629" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
