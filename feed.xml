@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 05:30:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 05:39:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24533,6 +24533,17 @@
       <itunes:duration>00:28:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-f21a79.mp3" length="27818541" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《开元天宝遗事（外七种）》 · 完整版 · 开元天宝遗事（外七种）（历代笔记小说大观） · 完整讲读</title>
+      <description>《历代笔记小说大观》合集，收录五代王仁裕《开元天宝遗事》及其他七种唐五代笔记小说。集中记述唐玄宗开元、天宝年间宫中琐闻、风俗习尚、奇物异宝、文人轶事与朝野掌故，尤以明皇、杨贵妃及诸王贵族的奢靡生活为多。后半部分为《桂苑丛谈》中的传奇故事、史遗轶闻，涵盖王积薪棋艺、郑采娘转世、陆羽身世等奇诡传说，是了解盛唐气象与中唐社会风貌的重要文献。</description>
+      <pubDate>Sun, 04 Oct 2026 05:39:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-d22d96</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《历代笔记小说大观》合集，收录五代王仁裕《开元天宝遗事》及其他七种唐五代笔记小说。集中记述唐玄宗开元、天宝年间宫中琐闻、风俗习尚、奇物异宝、文人轶事与朝野掌故，尤以明皇、杨贵妃及诸王贵族的奢靡生活为多。后半部分为《桂苑丛谈》中的传奇故事、史遗轶闻，涵盖王积薪棋艺、郑采娘转世、陆羽身世等奇诡传说，是了解盛唐气象与中唐社会风貌的重要文献。</itunes:summary>
+      <itunes:duration>00:32:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-d22d96.mp3" length="31262253" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
