@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 17:07:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 17:13:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25039,6 +25039,17 @@
       <itunes:duration>00:29:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-474218.mp3" length="28707885" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《倒转红轮——俄国知识分子的心路回溯》 · 完整版 · 倒转红轮(1) · 完整讲读</title>
+      <description>《倒转红轮》是金雁三十年俄国知识分子研究的结晶。她用长时段叙事方法，把从阿瓦库姆到索尔仁尼琴的俄国思想史梳理为十章长卷，重点剖析平民与贵族知识分子的代际断裂、第三种人的兴衰、以及苏联体制下知识分子的彻底消亡。书中既包含十大怪现象的成因追溯，也包含对路标派、高尔基转向等经典谜题的深度解答。对于关注思想史与知识与权力关系的读者，这是一部不可多得的立体之作。</description>
+      <pubDate>Sun, 04 Oct 2026 17:13:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-30398a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《倒转红轮》是金雁三十年俄国知识分子研究的结晶。她用长时段叙事方法，把从阿瓦库姆到索尔仁尼琴的俄国思想史梳理为十章长卷，重点剖析平民与贵族知识分子的代际断裂、第三种人的兴衰、以及苏联体制下知识分子的彻底消亡。书中既包含十大怪现象的成因追溯，也包含对路标派、高尔基转向等经典谜题的深度解答。对于关注思想史与知识与权力关系的读者，这是一部不可多得的立体之作。</itunes:summary>
+      <itunes:duration>00:25:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-30398a.mp3" length="24608301" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
