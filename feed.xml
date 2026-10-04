@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 17:22:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 17:27:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25083,6 +25083,17 @@
       <itunes:duration>00:25:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-385c7f.mp3" length="24116013" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《外星人已潜伏地球5000年》 · 完整版 · 外星人已潜伏地球5000年(1) · 完整讲读</title>
+      <description>本书《外星人已潜伏地球5000年》（Alien Agenda）是美国调查记者吉姆·马尔斯一九九七年出版的UFO通俗读物经典。作者走访五百多位目击者、追踪八十余宗接触案例、查阅FBI绝密档案，把从远古神话到一九九零年代的UFO证据串成一条横跨五千年的故事线。书中提出六大核心洞察：一、远古文明的神话、《吠陀》中的维玛纳斯飞行器、纳斯卡线条、马耳他十字等遗迹，都是外星人干预人类文明的考古证据；二、月球的功能可能是被刻意放置在地球轨道上的【监控站】；三、美国政府通过【庄严-12】等秘密组织，系统性掩盖外星接触真相长达七十年；四、外星人绑架地球人进行医学实验和意识扫描，目的可能不是伤害而是加速人类意识进化；五、远程观测者揭示外星人将自己定位为【医生】，地球在他们眼中是一位需要救治的【绝症病人】。这本书的价值不在于给出答案，而在于呈现一份完整的证据清单——它让我们看到，围绕UFO的争论远比对峙本身更古老、更复杂。</description>
+      <pubDate>Sun, 04 Oct 2026 17:27:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-a67288</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书《外星人已潜伏地球5000年》（Alien Agenda）是美国调查记者吉姆·马尔斯一九九七年出版的UFO通俗读物经典。作者走访五百多位目击者、追踪八十余宗接触案例、查阅FBI绝密档案，把从远古神话到一九九零年代的UFO证据串成一条横跨五千年的故事线。书中提出六大核心洞察：一、远古文明的神话、《吠陀》中的维玛纳斯飞行器、纳斯卡线条、马耳他十字等遗迹，都是外星人干预人类文明的考古证据；二、月球的功能可能是被刻意放置在地球轨道上的【监控站】；三、美国政府通过【庄严-12】等秘密组织，系统性掩盖外星接触真相长达七十年；四、外星人绑架地球人进行医学实验和意识扫描，目的可能不是伤害而是加速人类意识进化；五、远程观测者揭示外星人将自己定位为【医生】，地球在他们眼中是一位需要救治的【绝症病人】。这本书的价值不在于给出答案，而在于呈现一份完整的证据清单——它让我们看到，围绕UFO的争论远比对峙本身更古老、更复杂。</itunes:summary>
+      <itunes:duration>00:26:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-a67288.mp3" length="25140141" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
