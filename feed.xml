@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 20:09:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 20:17:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25380,6 +25380,17 @@
       <itunes:duration>00:26:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-ca644f.mp3" length="25836717" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《逃离》 · 完整版 · 逃离 · 完整讲读</title>
+      <description>《逃离》是加拿大作家艾丽丝·门罗二〇〇四年出版的短篇小说集，由八个相互呼应又各自独立的故事组成，每一篇都以安大略小镇上的女性为主角，写她们在婚姻、友情、社区与自我之间那几次短暂却命定的挣脱。卡拉在雨夜里跟着邻居的车奔向多伦多，又在服务区哭着折返；贾米森太太和她的丈夫盖伊，坐在自家的审判席上，把卡拉的故事一锤定音；南希在丈夫死后那份【尽量不去知道得那么多】的文书面前，余生都不得赦免。门罗从不告诉你谁对谁错，她只是把生活的某一刻切开，让你看见里面那些原本不该被看见的东西。她一辈子只写小地方、只写普通人、只写日常，可正是这种【只】，让她写出了每个人都逃不掉的东西：你想挣脱的，往往正是你后来发现自己回不去的。这本书，也是她二〇一三年拿到诺贝尔文学奖之前最狠、最难读、也最成熟的一本。读它，不会让你学会怎么逃，但会让你看清自己其实还在哪道栅栏里。</description>
+      <pubDate>Sun, 04 Oct 2026 20:17:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-c44486</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《逃离》是加拿大作家艾丽丝·门罗二〇〇四年出版的短篇小说集，由八个相互呼应又各自独立的故事组成，每一篇都以安大略小镇上的女性为主角，写她们在婚姻、友情、社区与自我之间那几次短暂却命定的挣脱。卡拉在雨夜里跟着邻居的车奔向多伦多，又在服务区哭着折返；贾米森太太和她的丈夫盖伊，坐在自家的审判席上，把卡拉的故事一锤定音；南希在丈夫死后那份【尽量不去知道得那么多】的文书面前，余生都不得赦免。门罗从不告诉你谁对谁错，她只是把生活的某一刻切开，让你看见里面那些原本不该被看见的东西。她一辈子只写小地方、只写普通人、只写日常，可正是这种【只】，让她写出了每个人都逃不掉的东西：你想挣脱的，往往正是你后来发现自己回不去的。这本书，也是她二〇一三年拿到诺贝尔文学奖之前最狠、最难读、也最成熟的一本。读它，不会让你学会怎么逃，但会让你看清自己其实还在哪道栅栏里。</itunes:summary>
+      <itunes:duration>00:31:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-c44486.mp3" length="30674349" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
