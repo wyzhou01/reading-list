@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 17:21:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 17:22:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25072,6 +25072,17 @@
       <itunes:duration>00:27:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-6ba9ac.mp3" length="26455341" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《你的第一本哲学书》 · 完整版 · 你的第一本哲学书 · 完整讲读</title>
+      <description>《你的第一本哲学书》是美国哲学家托马斯·内格尔写给普通读者的哲学入门，以九个最根本的问题——外部世界是否存在、他人的意识、身与心的关系、词语的意义、自由意志、道德基础、不公正、死亡、人生意义——逐一展开追问。全书不提供标准答案，而是邀请读者直面困惑，在怀疑中重新审视那些最熟悉、最直觉的观念。这本不到五万字的小书，是一扇通往独立思考的门，也是一份在不确定中依然行动的邀请。</description>
+      <pubDate>Sun, 04 Oct 2026 17:22:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-385c7f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《你的第一本哲学书》是美国哲学家托马斯·内格尔写给普通读者的哲学入门，以九个最根本的问题——外部世界是否存在、他人的意识、身与心的关系、词语的意义、自由意志、道德基础、不公正、死亡、人生意义——逐一展开追问。全书不提供标准答案，而是邀请读者直面困惑，在怀疑中重新审视那些最熟悉、最直觉的观念。这本不到五万字的小书，是一扇通往独立思考的门，也是一份在不确定中依然行动的邀请。</itunes:summary>
+      <itunes:duration>00:25:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-385c7f.mp3" length="24116013" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
