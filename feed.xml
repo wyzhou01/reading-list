@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 05:56:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 05:59:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24566,6 +24566,17 @@
       <itunes:duration>00:32:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-e01973.mp3" length="30908205" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《韩非子》 · 完整版 · 韩非子直解（甲子版）〇俞志慧.浙江文艺.2000.独自成俑 · 完整讲读</title>
+      <description>《韩非子直解》是俞志慧先生对先秦法家集大成者韩非五十五篇著作的逐篇注释与翻译，附一篇长篇前言《韩非思想平议》。本书不只是训诂之作，更是一部对韩非人性恶、法术势三位一体、君主专制学说的系统反思：追溯韩非思想源于深宫生活经验与荀子性恶论、老子无为说的改造；揭示&quot;以刑去刑&quot;在逻辑与历史上的失效；同情其人却毫不原谅其学说。本书直面法家与现代法治的本质区别，既是法家研究的学术入门书，也是一面映照人性幽暗与权力迷思的镜子。</description>
+      <pubDate>Wed, 30 Sep 2026 03:49:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-c30f7a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《韩非子直解》是俞志慧先生对先秦法家集大成者韩非五十五篇著作的逐篇注释与翻译，附一篇长篇前言《韩非思想平议》。本书不只是训诂之作，更是一部对韩非人性恶、法术势三位一体、君主专制学说的系统反思：追溯韩非思想源于深宫生活经验与荀子性恶论、老子无为说的改造；揭示&quot;以刑去刑&quot;在逻辑与历史上的失效；同情其人却毫不原谅其学说。本书直面法家与现代法治的本质区别，既是法家研究的学术入门书，也是一面映照人性幽暗与权力迷思的镜子。</itunes:summary>
+      <itunes:duration>00:30:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-c30f7a.mp3" length="28895277" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
