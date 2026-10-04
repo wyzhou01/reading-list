@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 19:16:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 19:22:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25281,6 +25281,17 @@
       <itunes:duration>00:24:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-712067.mp3" length="23117997" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《如何在爱中修行》 · 完整版 · 如何在爱中修行 · 完整讲读</title>
+      <description>《如何在爱中修行》是美国心灵作家芭芭拉·安吉丽思的代表作之一，核心主张是爱不是孤立行为而是一种每时每刻的选择。作者认为爱情消失的真正原因不是对方也不是命运，而是我们自己在亲密关系中悄悄退回了孩童模式——不表达需要、不表达感受、却期待对方能猜中。书里围绕四个层面展开：营造爱情、解决冲突、经营性爱、走出过去创伤。融合了脑部三层结构、人格退化、依恋模式的研究成果，给出重复法、情书法、力量转化法等具体可操作的工具。它不是写给感情一帆风顺的人，而是写给那些已经感到失望、想要爱情长久保鲜、又愿意从内在修行来改变的人。</description>
+      <pubDate>Sun, 04 Oct 2026 19:22:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-1e7653</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《如何在爱中修行》是美国心灵作家芭芭拉·安吉丽思的代表作之一，核心主张是爱不是孤立行为而是一种每时每刻的选择。作者认为爱情消失的真正原因不是对方也不是命运，而是我们自己在亲密关系中悄悄退回了孩童模式——不表达需要、不表达感受、却期待对方能猜中。书里围绕四个层面展开：营造爱情、解决冲突、经营性爱、走出过去创伤。融合了脑部三层结构、人格退化、依恋模式的研究成果，给出重复法、情书法、力量转化法等具体可操作的工具。它不是写给感情一帆风顺的人，而是写给那些已经感到失望、想要爱情长久保鲜、又愿意从内在修行来改变的人。</itunes:summary>
+      <itunes:duration>00:30:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-1e7653.mp3" length="29085357" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
