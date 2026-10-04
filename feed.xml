@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 07:15:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 07:23:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24687,6 +24687,17 @@
       <itunes:duration>00:28:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-bbdcd3.mp3" length="27505197" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《法国史》 · 完整版 · 法国史_(大国历史) · 完整讲读</title>
+      <description>《法国史》是法国记者兼历史学家皮埃尔·米盖尔写的一部通俗大国传记，全书从史前高卢一直写到戴高乐时代的法兰西第五共和国。本书用流畅的新闻笔法，把高卢罗马、中世纪王国、绝对君主制、大革命、工业革命、殖民扩张与两次世界大战等大事件串成一条主线，并明确提出巴黎不等于法兰西，对外省的生活与文化给予相当篇幅。透过本书，读者可以把握住理解法国史的三条核心线索：法兰西这个国家是如何一点点拼出来的，王权与革命之间如何反复拉锯，巴黎与外省、中央集权与地方多样性之间如何永恒博弈。一九七六年首版的这本经典入门读物，今天读来依然是搭建法国史框架的最可靠选择。</description>
+      <pubDate>Sun, 04 Oct 2026 07:23:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-106919</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《法国史》是法国记者兼历史学家皮埃尔·米盖尔写的一部通俗大国传记，全书从史前高卢一直写到戴高乐时代的法兰西第五共和国。本书用流畅的新闻笔法，把高卢罗马、中世纪王国、绝对君主制、大革命、工业革命、殖民扩张与两次世界大战等大事件串成一条主线，并明确提出巴黎不等于法兰西，对外省的生活与文化给予相当篇幅。透过本书，读者可以把握住理解法国史的三条核心线索：法兰西这个国家是如何一点点拼出来的，王权与革命之间如何反复拉锯，巴黎与外省、中央集权与地方多样性之间如何永恒博弈。一九七六年首版的这本经典入门读物，今天读来依然是搭建法国史框架的最可靠选择。</itunes:summary>
+      <itunes:duration>00:31:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-106919.mp3" length="30099501" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
