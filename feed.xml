@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 06:42:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 06:49:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24643,6 +24643,17 @@
       <itunes:duration>00:19:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-fe0efb.mp3" length="18586029" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《死于威尼斯（译文经典）》 · 完整版 · 死于威尼斯（译文经典） · 完整讲读</title>
+      <description>本期节目为你拆解诺贝尔文学奖得主托马斯·曼的经典合集《死于威尼斯》。阿申巴赫是欧洲最自律的作家，五十岁那年，他在墓地外偶遇一个俊美如希腊雕像的波兰少年塔齐奥，从此一步步走向崩溃。他放下写作奔赴威尼斯，在瘟疫蔓延时拒绝离开，最终死在海滩。托马斯·曼把他写成唯美主义最极端的牺牲品——沉溺于美的人，最终会被美吞噬。同书中的另一部中篇《特里斯坦》则刻画了另一位作家史平奈尔，他把所有情感都【素材化】，从未真正沉溺，所以【活着】。两部作品合在一起，叩问一个尖锐命题：当艺术家沉溺于美，他究竟是在升华自我，还是在走向毁灭？答案就在这一期。</description>
+      <pubDate>Sun, 04 Oct 2026 06:49:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261003-episode-20261003-9c2cdb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期节目为你拆解诺贝尔文学奖得主托马斯·曼的经典合集《死于威尼斯》。阿申巴赫是欧洲最自律的作家，五十岁那年，他在墓地外偶遇一个俊美如希腊雕像的波兰少年塔齐奥，从此一步步走向崩溃。他放下写作奔赴威尼斯，在瘟疫蔓延时拒绝离开，最终死在海滩。托马斯·曼把他写成唯美主义最极端的牺牲品——沉溺于美的人，最终会被美吞噬。同书中的另一部中篇《特里斯坦》则刻画了另一位作家史平奈尔，他把所有情感都【素材化】，从未真正沉溺，所以【活着】。两部作品合在一起，叩问一个尖锐命题：当艺术家沉溺于美，他究竟是在升华自我，还是在走向毁灭？答案就在这一期。</itunes:summary>
+      <itunes:duration>00:32:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-9c2cdb.mp3" length="30953517" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
