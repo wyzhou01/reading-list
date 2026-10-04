@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 06:58:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 07:06:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24665,6 +24665,17 @@
       <itunes:duration>00:28:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261003/episode-20261003-f834d8.mp3" length="27020973" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《离经叛道：不按常理出牌的人如何改变世界》 · 完整版 · 离经叛道：不按常理出牌的人如何改变世界 · 完整讲读</title>
+      <description>《离经叛道》由沃顿商学院教授亚当·格兰特所著，副标题是《不按常理出牌的人如何改变世界》。全书围绕一个核心问题展开：创新究竟是天生的禀赋，还是可以被后天学会的方法？格兰特用严谨的实验和丰富的案例，把创新拆解为五块可被学习的拼图——打破默认值、识别真正原创的想法、把握时机、向上级说出真实想法、建立跨界联盟，以及管控创新过程中的焦虑与愤怒。他证明，那些改变世界的人不是比我们更勇敢，而是比我们更懂得把勇气拆解成步骤。书中有几个反直觉的洞见：神童因为渴望成就而故步自封，乐观的总统反而把经济搞砸，真正的联盟往往建立在共同的反对之上，最有效的发声方式是找到替你说话的人而不是自己说。这本书适合每一个心里有不同寻常想法、却还没迈出第一步的读者。</description>
+      <pubDate>Sun, 04 Oct 2026 07:05:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-fd78d0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《离经叛道》由沃顿商学院教授亚当·格兰特所著，副标题是《不按常理出牌的人如何改变世界》。全书围绕一个核心问题展开：创新究竟是天生的禀赋，还是可以被后天学会的方法？格兰特用严谨的实验和丰富的案例，把创新拆解为五块可被学习的拼图——打破默认值、识别真正原创的想法、把握时机、向上级说出真实想法、建立跨界联盟，以及管控创新过程中的焦虑与愤怒。他证明，那些改变世界的人不是比我们更勇敢，而是比我们更懂得把勇气拆解成步骤。书中有几个反直觉的洞见：神童因为渴望成就而故步自封，乐观的总统反而把经济搞砸，真正的联盟往往建立在共同的反对之上，最有效的发声方式是找到替你说话的人而不是自己说。这本书适合每一个心里有不同寻常想法、却还没迈出第一步的读者。</itunes:summary>
+      <itunes:duration>00:34:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-fd78d0.mp3" length="32852397" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
