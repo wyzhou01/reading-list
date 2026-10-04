@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 08:42:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 08:49:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -24819,6 +24819,17 @@
       <itunes:duration>00:24:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-5568c0.mp3" length="23893293" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《猫鼠游戏》 · 完整版 · 猫鼠游戏_-_[美]_弗兰克·阿巴格内尔___[美]_斯坦·雷丁 · 完整讲读</title>
+      <description>《猫鼠游戏》是美国传奇骗子弗兰克・阿巴格内尔的亲笔自传。他十五岁从破碎家庭出走，先后冒充泛美航空飞行员、儿科医生、律师，从全球银行骗走超过两百五十万美元，在二十多个国家的追捕下逃亡五年。书中坦白伪造支票、冒充身份的全部手法，也诚实剖析了一个低犯罪倾向者为何会犯下大案的心理动机。最终他在法国、瑞典、美国相继入狱，出狱后成为联邦调查局反诈骗顾问，成立公司教企业与银行识破伪造支票和身份盗用。半个世纪过去，这本书仍在提醒每一个读者：冒用他人身份十分简单，一个人随时随地都能变成另一个人，技术让犯罪变得更容易、更快捷、更无耻，也更难追踪，警惕自己每一次对外表的轻信，是这个时代每个人都该补上的必修课。</description>
+      <pubDate>Sun, 04 Oct 2026 08:49:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261004-episode-20261004-90b2fb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《猫鼠游戏》是美国传奇骗子弗兰克・阿巴格内尔的亲笔自传。他十五岁从破碎家庭出走，先后冒充泛美航空飞行员、儿科医生、律师，从全球银行骗走超过两百五十万美元，在二十多个国家的追捕下逃亡五年。书中坦白伪造支票、冒充身份的全部手法，也诚实剖析了一个低犯罪倾向者为何会犯下大案的心理动机。最终他在法国、瑞典、美国相继入狱，出狱后成为联邦调查局反诈骗顾问，成立公司教企业与银行识破伪造支票和身份盗用。半个世纪过去，这本书仍在提醒每一个读者：冒用他人身份十分简单，一个人随时随地都能变成另一个人，技术让犯罪变得更容易、更快捷、更无耻，也更难追踪，警惕自己每一次对外表的轻信，是这个时代每个人都该补上的必修课。</itunes:summary>
+      <itunes:duration>00:32:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-90b2fb.mp3" length="30801453" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
