@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 11:38:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 11:47:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25578,6 +25578,17 @@
       <itunes:duration>00:22:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-26fdb2.mp3" length="21552813" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大萝卜和难挑的鳄梨》 · 完整版 · 大萝卜和难挑的鳄梨_-_[日本]村上春树 · 完整讲读</title>
+      <description>《大萝卜和难挑的鳄梨》是村上春树时隔十年回归杂志的随笔合集。五十二篇短文，谈卷心菜的料理、汉堡包的一美元、罗马的鸣笛、威尼斯的雨天与音乐。村上用小说家的眼光，从日常微小事物里提炼出一种慢悠悠的趣味：随笔对他而言像乌龙茶，目标直指全日本最美味；写作则像一件看不见的衣裳，在扛不住的夜晚陪人度过。这本小书没有宏大叙事，只有一个老朋友式的闲聊，却在卷心菜的颓惫里，藏着关于生活本来面目的答案。</description>
+      <pubDate>Mon, 05 Oct 2026 11:47:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-3db660</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大萝卜和难挑的鳄梨》是村上春树时隔十年回归杂志的随笔合集。五十二篇短文，谈卷心菜的料理、汉堡包的一美元、罗马的鸣笛、威尼斯的雨天与音乐。村上用小说家的眼光，从日常微小事物里提炼出一种慢悠悠的趣味：随笔对他而言像乌龙茶，目标直指全日本最美味；写作则像一件看不见的衣裳，在扛不住的夜晚陪人度过。这本小书没有宏大叙事，只有一个老朋友式的闲聊，却在卷心菜的颓惫里，藏着关于生活本来面目的答案。</itunes:summary>
+      <itunes:duration>00:25:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-3db660.mp3" length="24721965" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
