@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 22:25:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 22:34:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26216,6 +26216,17 @@
       <itunes:duration>00:30:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-3f4c22.mp3" length="28897965" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《香农传》 · 完整版 · 香农传 · 完整讲读</title>
+      <description>《香农传》讲述了信息论之父克劳德·香农的完整一生。从密歇根小镇的电栅栏电报少年，到发表【信息时代大宪章】的贝尔实验室科学家，再到三十二岁急流勇退、骑着独轮车在走廊里穿梭的科学顽童，香农用一篇硕士论文撬动了整个数字时代，又用一辈子证明了一件事：好奇心是世界上唯一不会贬值的货币。这本书把科学严谨与人物温度结合在一起，还原了一个我们天天使用却从未谋面的奠基人。</description>
+      <pubDate>Mon, 05 Oct 2026 22:34:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-5f12db</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《香农传》讲述了信息论之父克劳德·香农的完整一生。从密歇根小镇的电栅栏电报少年，到发表【信息时代大宪章】的贝尔实验室科学家，再到三十二岁急流勇退、骑着独轮车在走廊里穿梭的科学顽童，香农用一篇硕士论文撬动了整个数字时代，又用一辈子证明了一件事：好奇心是世界上唯一不会贬值的货币。这本书把科学严谨与人物温度结合在一起，还原了一个我们天天使用却从未谋面的奠基人。</itunes:summary>
+      <itunes:duration>00:29:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-5f12db.mp3" length="28242093" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
