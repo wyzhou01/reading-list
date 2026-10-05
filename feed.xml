@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 11:32:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 11:38:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25567,6 +25567,17 @@
       <itunes:duration>00:24:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-1130ce.mp3" length="23427501" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《真实的幸福》 · 完整版 · 真实的幸福_-_马丁·塞利格曼 · 完整讲读</title>
+      <description>《真实的幸福》是积极心理学之父马丁·塞利格曼的代表作。它颠覆了过去五十年只关注心理疾病的心理学传统，首次系统提出心理学也应研究人类的优势和美德。书中用修女自传、杜乡微笑等经典研究证明幸福可以预测长寿与婚姻美满，区分了愉悦的生活、美好的生活与有意义的生活三个层级，给出了跨越文化的六种美德与二十四项优势清单，并指出优势只有被每天刻意使用才能转化为持久的幸福。最终，塞利格曼用非零博弈思想和阿西莫夫的科幻故事，给无神论者找到了一种世俗化的生命意义——参与到知识、力量与美德不断增长的历程中去，与比自己更宏大的东西连接。</description>
+      <pubDate>Mon, 05 Oct 2026 11:38:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-26fdb2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《真实的幸福》是积极心理学之父马丁·塞利格曼的代表作。它颠覆了过去五十年只关注心理疾病的心理学传统，首次系统提出心理学也应研究人类的优势和美德。书中用修女自传、杜乡微笑等经典研究证明幸福可以预测长寿与婚姻美满，区分了愉悦的生活、美好的生活与有意义的生活三个层级，给出了跨越文化的六种美德与二十四项优势清单，并指出优势只有被每天刻意使用才能转化为持久的幸福。最终，塞利格曼用非零博弈思想和阿西莫夫的科幻故事，给无神论者找到了一种世俗化的生命意义——参与到知识、力量与美德不断增长的历程中去，与比自己更宏大的东西连接。</itunes:summary>
+      <itunes:duration>00:22:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-26fdb2.mp3" length="21552813" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
