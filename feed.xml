@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 17:29:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 17:37:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26018,6 +26018,17 @@
       <itunes:duration>00:27:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-d37ea6.mp3" length="26765997" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《晃来晃去的人》 · 完整版 · 晃来晃去的人_(经典印象小说名作坊)_-_[美]索尔·贝娄_&amp;amp;amp;_蒲隆 · 完整讲读</title>
+      <description>本期节目解读索尔·贝娄的早期日记体小说《晃来晃去的人》。一九四二年冬天，二十七岁的加拿大犹太青年约瑟夫在芝加哥公寓里枯坐七个月，等待一张入伍通知书。这本不到十万字的小说，记录了一个等待参军的灵魂如何被无所事事掏空，如何在自我凝视中崩溃，又如何最终选择让外力来解除自由的刑罚。贝娄用絮语般的内心独白，把一个不打仗的士兵推到读者面前，写出了现代人最深的困境：当自由砸到你头上，你反而被它压垮。这部被诺贝尔奖得主本人羞于提起的作品，正是美国战后内心独白小说的开山之作。</description>
+      <pubDate>Mon, 05 Oct 2026 17:37:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-37bddf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期节目解读索尔·贝娄的早期日记体小说《晃来晃去的人》。一九四二年冬天，二十七岁的加拿大犹太青年约瑟夫在芝加哥公寓里枯坐七个月，等待一张入伍通知书。这本不到十万字的小说，记录了一个等待参军的灵魂如何被无所事事掏空，如何在自我凝视中崩溃，又如何最终选择让外力来解除自由的刑罚。贝娄用絮语般的内心独白，把一个不打仗的士兵推到读者面前，写出了现代人最深的困境：当自由砸到你头上，你反而被它压垮。这部被诺贝尔奖得主本人羞于提起的作品，正是美国战后内心独白小说的开山之作。</itunes:summary>
+      <itunes:duration>00:23:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-37bddf.mp3" length="22106157" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
