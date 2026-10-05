@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 16:40:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 16:49:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25941,6 +25941,17 @@
       <itunes:duration>00:28:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-e579e2.mp3" length="27216813" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《幻色江户历》 · 完整版 · 幻色江户历_-_[日]宫部美雪 · 完整讲读</title>
+      <description>《幻色江户历》是日本作家宫部美雪一九九四年出版的短篇连作集，以十二个月令为题，串起十二则独立又互有呼应的江户庶民故事。全书笔触横跨诅咒、商斗、复仇与温情，写尽市井小民的悲欢离合，亦深入描绘女性在封建夹缝中如何用自己的脑子、手与信用撑起属于自己的天空。从岁末注连绳里藏着母亲头发的女儿，到初午卧病却仍盼望着参拜稻荷神社的工匠妻子，再到屋顶撒下碎纸大雪、为母复仇的供宿下女，宫部美雪用十二扇窗窥见江户社会的四季流转，呈现一个烟火与怨念并存、温柔与决绝交织的浮世世界，是进入江户风土人情最易入口的经典之选。</description>
+      <pubDate>Mon, 05 Oct 2026 16:49:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-0fabb2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《幻色江户历》是日本作家宫部美雪一九九四年出版的短篇连作集，以十二个月令为题，串起十二则独立又互有呼应的江户庶民故事。全书笔触横跨诅咒、商斗、复仇与温情，写尽市井小民的悲欢离合，亦深入描绘女性在封建夹缝中如何用自己的脑子、手与信用撑起属于自己的天空。从岁末注连绳里藏着母亲头发的女儿，到初午卧病却仍盼望着参拜稻荷神社的工匠妻子，再到屋顶撒下碎纸大雪、为母复仇的供宿下女，宫部美雪用十二扇窗窥见江户社会的四季流转，呈现一个烟火与怨念并存、温柔与决绝交织的浮世世界，是进入江户风土人情最易入口的经典之选。</itunes:summary>
+      <itunes:duration>00:26:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-0fabb2.mp3" length="25548717" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
