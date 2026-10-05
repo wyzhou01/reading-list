@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 22:34:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 22:39:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26227,6 +26227,17 @@
       <itunes:duration>00:29:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-5f12db.mp3" length="28242093" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《阿图医生（第二季）》 · 完整版 · 阿图医生（第二季） · 完整讲读</title>
+      <description>《阿图医生》第二季,是美国哈佛外科医生阿图·葛文德的非虚构作品,讲述他在医院、战场、刑场、印度贫民窟等极端场景中见证的真实故事。全书围绕一个核心命题展开:在充满不确定性的世界里,普通人如何做到更好?作者没有给出高深的理论,而是提炼出五条朴素却锋利的精进之道——即兴发问、不抱怨、勤于统计、笔耕不辍、勇于求变。他用洗手这件小事,说明系统改进的力量;用战场的标准化流程,说明团队默契的重要性;用刑场的伦理困境,说明职业精神的人性化底色;用印度产妇的就医恐惧,说明医学进步不仅是技术,更是尊重。这本书写给所有不甘平庸的人——无论你是医生、律师、工程师,还是刚刚踏入职场的新人。它告诉你:卓越不是天才的灵感,而是日复一日的笨功夫;伟大的改变,都从一件件小事开始。</description>
+      <pubDate>Mon, 05 Oct 2026 22:39:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-e1ec0d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《阿图医生》第二季,是美国哈佛外科医生阿图·葛文德的非虚构作品,讲述他在医院、战场、刑场、印度贫民窟等极端场景中见证的真实故事。全书围绕一个核心命题展开:在充满不确定性的世界里,普通人如何做到更好?作者没有给出高深的理论,而是提炼出五条朴素却锋利的精进之道——即兴发问、不抱怨、勤于统计、笔耕不辍、勇于求变。他用洗手这件小事,说明系统改进的力量;用战场的标准化流程,说明团队默契的重要性;用刑场的伦理困境,说明职业精神的人性化底色;用印度产妇的就医恐惧,说明医学进步不仅是技术,更是尊重。这本书写给所有不甘平庸的人——无论你是医生、律师、工程师,还是刚刚踏入职场的新人。它告诉你:卓越不是天才的灵感,而是日复一日的笨功夫;伟大的改变,都从一件件小事开始。</itunes:summary>
+      <itunes:duration>00:27:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-e1ec0d.mp3" length="26201901" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
