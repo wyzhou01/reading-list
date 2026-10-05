@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 11:53:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 12:02:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25600,6 +25600,17 @@
       <itunes:duration>00:23:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-005c60.mp3" length="22850733" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《当美拯救我们：星期二的哲学课》 · 完整版 · 当美拯救我们 · 完整讲读</title>
+      <description>《当美拯救我们》是法国哲学教授夏尔·佩潘在周二哲学研讨会上的思考结晶。他从康德的审美判断力出发，提出美是内心冲突的暂时停歇，是反思性判断的发生，是直觉被重新唤醒的时刻。在规则加速失效、专家不断出错、外包日益严重的今天，美变得前所未有的重要。它赋予我们力量、自由与相信自我的能力，陪我们走过死亡、创伤与占有欲，教会我们不占有的爱。这是一本写给每一个普通人的书，写给堵在路上、累到想哭、却因为一首歌差点落泪的你。</description>
+      <pubDate>Mon, 05 Oct 2026 12:02:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-7f94a2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《当美拯救我们》是法国哲学教授夏尔·佩潘在周二哲学研讨会上的思考结晶。他从康德的审美判断力出发，提出美是内心冲突的暂时停歇，是反思性判断的发生，是直觉被重新唤醒的时刻。在规则加速失效、专家不断出错、外包日益严重的今天，美变得前所未有的重要。它赋予我们力量、自由与相信自我的能力，陪我们走过死亡、创伤与占有欲，教会我们不占有的爱。这是一本写给每一个普通人的书，写给堵在路上、累到想哭、却因为一首歌差点落泪的你。</itunes:summary>
+      <itunes:duration>00:26:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-7f94a2.mp3" length="25821741" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
