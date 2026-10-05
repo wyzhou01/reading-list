@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 14:44:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 14:54:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25798,6 +25798,17 @@
       <itunes:duration>00:32:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-892ad5.mp3" length="31398957" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《横刀》 · 完整版 · 横刀v1.0_-_城郭如旧 · 完整讲读</title>
+      <description>《横刀》这部武侠长篇，把故事架在架空的历史时空里，皇权更迭、江湖门派、锦衣卫、镖局、杀手组织悉数登场。无相禅斗是个穷得叮当响的小门派，全派上下也就师父、师叔、师兄、徒弟胡离四个人。徒弟胡离揣着一把被江湖人嘲笑了半辈子的【不得好死刀】，被一场十六年前的贪墨巨案卷了进去，从雁然城的市井街头一路走到北国雪山。梁王地宫的宝藏地图、乘月楼的杀牌、朝廷里的权臣空降仁爱（串台警告），所有的线索缠在一起，缠了十六年，最后由一个毛头小子亲手解开。本书最动人之处在于，它老老实实地写了一个小人物怎么在乱世里活下去，没有给他开金手指，每一点成长都是被现实逼出来的。最后那句点题的话——刀口是江湖，刀柄是心——是整本书最重的秤砣。</description>
+      <pubDate>Mon, 05 Oct 2026 14:54:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-2c00bb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《横刀》这部武侠长篇，把故事架在架空的历史时空里，皇权更迭、江湖门派、锦衣卫、镖局、杀手组织悉数登场。无相禅斗是个穷得叮当响的小门派，全派上下也就师父、师叔、师兄、徒弟胡离四个人。徒弟胡离揣着一把被江湖人嘲笑了半辈子的【不得好死刀】，被一场十六年前的贪墨巨案卷了进去，从雁然城的市井街头一路走到北国雪山。梁王地宫的宝藏地图、乘月楼的杀牌、朝廷里的权臣空降仁爱（串台警告），所有的线索缠在一起，缠了十六年，最后由一个毛头小子亲手解开。本书最动人之处在于，它老老实实地写了一个小人物怎么在乱世里活下去，没有给他开金手指，每一点成长都是被现实逼出来的。最后那句点题的话——刀口是江湖，刀柄是心——是整本书最重的秤砣。</itunes:summary>
+      <itunes:duration>00:33:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-2c00bb.mp3" length="32582061" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
