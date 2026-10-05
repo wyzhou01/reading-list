@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 23:12:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 23:19:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26293,6 +26293,17 @@
       <itunes:duration>00:26:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-9d8a98.mp3" length="25281453" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《米娅，快跑》 · 完整版 · 米娅，快跑 · 完整讲读</title>
+      <description>《米娅，快跑》是一个北大女生在外企丛林里跑了七年的真实故事。她靠厚脸皮和好运气误打误撞考进当年最难考的外企QT，亲眼看见这家美国公司如何用五星级酒店和KPI神话把一群聪明人训练成精密零件，又在事业巅峰看清了消费主义的真相，递上辞呈转身离开。本书用近乎冷酷的笔调剥开了外企的糖衣：从面试的表演学、办公室的潜规则、男女同事的丛林博弈，到高管把中国当成三十几个国家联合体的傲慢。米娅最终明白，所有看上去自由飞翔的外企人，不过是商场里被转来转去的大雁道具；真正的出走，不是逃离，而是奔向一个自己愿意为之负责的方向。</description>
+      <pubDate>Mon, 05 Oct 2026 23:19:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-27a867</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《米娅，快跑》是一个北大女生在外企丛林里跑了七年的真实故事。她靠厚脸皮和好运气误打误撞考进当年最难考的外企QT，亲眼看见这家美国公司如何用五星级酒店和KPI神话把一群聪明人训练成精密零件，又在事业巅峰看清了消费主义的真相，递上辞呈转身离开。本书用近乎冷酷的笔调剥开了外企的糖衣：从面试的表演学、办公室的潜规则、男女同事的丛林博弈，到高管把中国当成三十几个国家联合体的傲慢。米娅最终明白，所有看上去自由飞翔的外企人，不过是商场里被转来转去的大雁道具；真正的出走，不是逃离，而是奔向一个自己愿意为之负责的方向。</itunes:summary>
+      <itunes:duration>00:36:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-27a867.mp3" length="35079597" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
