@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 23:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 23:12:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26282,6 +26282,17 @@
       <itunes:duration>00:22:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-119f81.mp3" length="21967917" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《那个不为人知的故事》 · 完整版 · 那个不为人知的故事_-_Twentine · 完整讲读</title>
+      <description>《那个不为人知的故事》是Twentine创作的一部现实向爱情小说，讲述缉毒警察陈铭生与文物修复师杨昭之间一段沉默而克制的爱情。陈铭生卧底十年，身体残破，最终牺牲；杨昭在等待中熬过四年，最终选择离开生去找他。Twentine用她特有的笔法，写出了两个不会表达的人如何相爱，也写出了爱一个人就是不允许他被遗忘。这本书不追求爽感，不追求反转，它只讲一个故事——一个不为人知的故事，如何在最后，变得完整。</description>
+      <pubDate>Mon, 05 Oct 2026 23:12:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-9d8a98</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《那个不为人知的故事》是Twentine创作的一部现实向爱情小说，讲述缉毒警察陈铭生与文物修复师杨昭之间一段沉默而克制的爱情。陈铭生卧底十年，身体残破，最终牺牲；杨昭在等待中熬过四年，最终选择离开生去找他。Twentine用她特有的笔法，写出了两个不会表达的人如何相爱，也写出了爱一个人就是不允许他被遗忘。这本书不追求爽感，不追求反转，它只讲一个故事——一个不为人知的故事，如何在最后，变得完整。</itunes:summary>
+      <itunes:duration>00:26:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-9d8a98.mp3" length="25281453" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
