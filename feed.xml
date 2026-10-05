@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 11:26:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 11:32:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25556,6 +25556,17 @@
       <itunes:duration>00:23:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-27e958.mp3" length="22901421" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《算术基础》 · 完整版 · 算术基础_(汉译世界学术名著丛书)_-_G.弗雷格 · 完整讲读</title>
+      <description>《算术基础》是德国哲学家弗雷格于一八八四年出版的一部小书,薄薄不到两百页,却奠定了现代数理逻辑的基础。本书副标题为【对于数这个概念的一种逻辑数学的研究】,核心任务只有一个:为数这个概念找到严格的逻辑定义,然后从这一定义出发,推出算术的基本定律。弗雷格在书中批判了三种流行的数的观念——把数看作外在事物的属性、心理的主观表象、或者集合本身。他提出,数是对象的逻辑谓词,而数的定义必须诉诸概念之间的等数关系,也就是今天所说的一一对应。更重要的是,弗雷格论证了算术真理是分析的、先验的,不依赖经验,也不依赖心理,而是从逻辑和定义中必然推出。这是对康德哲学的重大推进,也是对当时盛行的心理主义的根本反驳。著名哲学家达米特曾说,这本书是写下的几乎最完美的唯一一部哲学著作。</description>
+      <pubDate>Mon, 05 Oct 2026 11:32:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-1130ce</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《算术基础》是德国哲学家弗雷格于一八八四年出版的一部小书,薄薄不到两百页,却奠定了现代数理逻辑的基础。本书副标题为【对于数这个概念的一种逻辑数学的研究】,核心任务只有一个:为数这个概念找到严格的逻辑定义,然后从这一定义出发,推出算术的基本定律。弗雷格在书中批判了三种流行的数的观念——把数看作外在事物的属性、心理的主观表象、或者集合本身。他提出,数是对象的逻辑谓词,而数的定义必须诉诸概念之间的等数关系,也就是今天所说的一一对应。更重要的是,弗雷格论证了算术真理是分析的、先验的,不依赖经验,也不依赖心理,而是从逻辑和定义中必然推出。这是对康德哲学的重大推进,也是对当时盛行的心理主义的根本反驳。著名哲学家达米特曾说,这本书是写下的几乎最完美的唯一一部哲学著作。</itunes:summary>
+      <itunes:duration>00:24:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-1130ce.mp3" length="23427501" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
