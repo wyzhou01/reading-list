@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 15:51:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 15:57:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25875,6 +25875,17 @@
       <itunes:duration>00:31:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-f9f981.mp3" length="30107181" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《生命的未来》 · 完整版 · 生命的未来 · 完整讲读</title>
+      <description>《生命的未来》是美国生物学家爱德华·威尔逊的代表作，以给一百五十年前瓦尔登湖畔的梭罗写信的形式，揭示了人类正面临的第六次物种大灭绝危机。威尔逊指出，地球生命之网薄如蝉翼却厚到我们看不见，多数物种人类尚未命名却正在以百倍速度消失；人类正卡在自我设置的人口、消费、资源三重瓶颈中；唯有唤醒人类最古老的亲生命性本能，用科学、经济、道德三位一体的方案，才能突破瓶颈，守护地球生命的未来。</description>
+      <pubDate>Mon, 05 Oct 2026 15:57:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-7b4f0b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《生命的未来》是美国生物学家爱德华·威尔逊的代表作，以给一百五十年前瓦尔登湖畔的梭罗写信的形式，揭示了人类正面临的第六次物种大灭绝危机。威尔逊指出，地球生命之网薄如蝉翼却厚到我们看不见，多数物种人类尚未命名却正在以百倍速度消失；人类正卡在自我设置的人口、消费、资源三重瓶颈中；唯有唤醒人类最古老的亲生命性本能，用科学、经济、道德三位一体的方案，才能突破瓶颈，守护地球生命的未来。</itunes:summary>
+      <itunes:duration>00:27:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-7b4f0b.mp3" length="26530221" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
