@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 12:33:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 12:40:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25644,6 +25644,17 @@
       <itunes:duration>00:26:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-bddfb1.mp3" length="25021101" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《行为经济学要义》 · 完整版 · 行为经济学要义 · 完整讲读</title>
+      <description>汪丁丁《行为经济学要义》以稀缺性、不确定性、复杂性三阶段框架，重述行为经济学的演进逻辑：实验、仿真、脑成像三大研究方法借人格维度趋于融合；个体层面的需求假说被拓展为更具普遍性的行为科学版本；当决策被嵌入社会网络，一般均衡与博弈均衡将出现网络局部差异，演化理论由此登场。全书以张五常方法论为对话对象，为行为经济学寻找兼具简单性、统一性、可证伪性的分析框架。</description>
+      <pubDate>Mon, 05 Oct 2026 12:40:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-84e02c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>汪丁丁《行为经济学要义》以稀缺性、不确定性、复杂性三阶段框架，重述行为经济学的演进逻辑：实验、仿真、脑成像三大研究方法借人格维度趋于融合；个体层面的需求假说被拓展为更具普遍性的行为科学版本；当决策被嵌入社会网络，一般均衡与博弈均衡将出现网络局部差异，演化理论由此登场。全书以张五常方法论为对话对象，为行为经济学寻找兼具简单性、统一性、可证伪性的分析框架。</itunes:summary>
+      <itunes:duration>00:27:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-84e02c.mp3" length="26786349" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
