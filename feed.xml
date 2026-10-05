@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 16:49:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 16:57:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25952,6 +25952,17 @@
       <itunes:duration>00:26:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-0fabb2.mp3" length="25548717" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我不惧怕成为这样强硬的姑娘》 · 完整版 · 我不惧怕成为这样强硬的姑娘 · 完整讲读</title>
+      <description>《我不惧怕成为这样强硬的姑娘》是九零后女孩刘媛媛的成长自述。她出身河北农村普通家庭, 一度胖到一百三十斤、长痘、被诬陷不敢辩解, 却凭强悍的自控力与执行力考入北大法律系研究生, 毕业后创业。本书不讲空泛鸡汤, 而是把她的时间管理、自控力训练、目标拆解五步法、寒门心态与原生家庭自卑和解的方法, 一项一项摊开。她教读者如何戒掉晚睡、如何让勤奋打败懒惰、如何把大目标拆成可执行的小任务、如何在别人睡觉时起跑。核心主张是: 自控是系统不是意志, 主动是技能不是天赋, 强悍是活法不是人设。献给每一个出身普通、想要改变却不知从何下手的年轻人。</description>
+      <pubDate>Mon, 05 Oct 2026 16:57:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-02c41f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我不惧怕成为这样强硬的姑娘》是九零后女孩刘媛媛的成长自述。她出身河北农村普通家庭, 一度胖到一百三十斤、长痘、被诬陷不敢辩解, 却凭强悍的自控力与执行力考入北大法律系研究生, 毕业后创业。本书不讲空泛鸡汤, 而是把她的时间管理、自控力训练、目标拆解五步法、寒门心态与原生家庭自卑和解的方法, 一项一项摊开。她教读者如何戒掉晚睡、如何让勤奋打败懒惰、如何把大目标拆成可执行的小任务、如何在别人睡觉时起跑。核心主张是: 自控是系统不是意志, 主动是技能不是天赋, 强悍是活法不是人设。献给每一个出身普通、想要改变却不知从何下手的年轻人。</itunes:summary>
+      <itunes:duration>00:33:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-02c41f.mp3" length="31811373" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
