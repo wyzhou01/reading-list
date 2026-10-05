@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 18:56:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 19:06:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26139,6 +26139,17 @@
       <itunes:duration>00:27:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-e7e811.mp3" length="26750637" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《书滋味》 · 完整版 · 书滋味_-_王鼎钧 · 完整讲读</title>
+      <description>《书滋味》是台湾散文大家王鼎钧晚年随笔的精华结集，以阅读与写作为双线，谈论书如何塑造一个人。全书以《一九四九三棱镜》开篇，借《巨流河》《大江大海》《文学江湖》三本回忆录的互文，反思一九四九这一历史符号的重量；以《家和人和写文章》展示文学家庭如何代代接力；以《四馀读书记》重提古人读书的边角时光；以长文《我所知道的比喻》论述比喻从修辞走向象征的可能。贯穿全书的，是王鼎钧对慢读与深写的执念：好文章不是把话说尽，而是把话藏起来；好读者不是读完就过，而是愿意为不与自己血肉相连的苦难留一滴泪。这本书写给愿意在字里行间听出弦外之音的人，也写给每一个想在这个喧嚣时代守住一点安静之光的人。</description>
+      <pubDate>Mon, 05 Oct 2026 19:06:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-b4117a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《书滋味》是台湾散文大家王鼎钧晚年随笔的精华结集，以阅读与写作为双线，谈论书如何塑造一个人。全书以《一九四九三棱镜》开篇，借《巨流河》《大江大海》《文学江湖》三本回忆录的互文，反思一九四九这一历史符号的重量；以《家和人和写文章》展示文学家庭如何代代接力；以《四馀读书记》重提古人读书的边角时光；以长文《我所知道的比喻》论述比喻从修辞走向象征的可能。贯穿全书的，是王鼎钧对慢读与深写的执念：好文章不是把话说尽，而是把话藏起来；好读者不是读完就过，而是愿意为不与自己血肉相连的苦难留一滴泪。这本书写给愿意在字里行间听出弦外之音的人，也写给每一个想在这个喧嚣时代守住一点安静之光的人。</itunes:summary>
+      <itunes:duration>00:27:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-b4117a.mp3" length="26330925" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
