@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 16:57:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 17:07:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25963,6 +25963,17 @@
       <itunes:duration>00:33:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-02c41f.mp3" length="31811373" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《倾我所有去生活》 · 完整版 · 倾我所有去生活_-_苏美 · 完整讲读</title>
+      <description>《倾我所有去生活》是苏美 2014 年出版的散文集，记录了她与丈夫耳东陈在西安读研时期穷得衣食无忧的日子，以及从西安到上海、从上海回望新疆的迁徙轨迹。全书用嬉笑怒骂的笔法，拆解了贫穷、爱情、亲情、女性身份、博客写作等议题。她不诉苦、不煽情、不歌颂苦难，却在一个悲观者的位置上，示范了如何用幽默抵御虚无、用认真地浅薄对抗永恒的空虚。</description>
+      <pubDate>Mon, 05 Oct 2026 17:07:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-74fb0a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《倾我所有去生活》是苏美 2014 年出版的散文集，记录了她与丈夫耳东陈在西安读研时期穷得衣食无忧的日子，以及从西安到上海、从上海回望新疆的迁徙轨迹。全书用嬉笑怒骂的笔法，拆解了贫穷、爱情、亲情、女性身份、博客写作等议题。她不诉苦、不煽情、不歌颂苦难，却在一个悲观者的位置上，示范了如何用幽默抵御虚无、用认真地浅薄对抗永恒的空虚。</itunes:summary>
+      <itunes:duration>00:31:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-74fb0a.mp3" length="30255789" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
