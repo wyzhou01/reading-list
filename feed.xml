@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 10:31:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 10:37:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25468,6 +25468,17 @@
       <itunes:duration>00:28:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-648467.mp3" length="26975277" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《深度粉销》 · 完整版 · 深度粉销 · 完整讲读</title>
+      <description>《深度粉销》是丁丁提出的中国第一套系统化粉丝营销理论。本书直面传统深度分销失灵的行业焦虑,重新定义粉丝——粉丝是支持者,不是用户、不是客户、不是流量。从深度分销、流量为王到深度粉销,中国营销经历三大阶段,贯穿媒介变革与向商业本质的回归。核心方法论是粉丝营销三角法则:圈层(找到同温层)、情感(把人当目的)、参与感(让用户成为共建者),三者缺一不可。全书进一步将粉丝思维从营销端扩展到员工粉丝化、渠道粉丝化,构成全粉丝价值链,并以小米、江小白、樊登读书会、AKB48、鹿晗粉丝团等案例落地,最终指向一个判断:粉丝将成为品牌最贵的资产,无粉丝不品牌,得粉丝者得天下。</description>
+      <pubDate>Mon, 05 Oct 2026 10:37:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-fa8125</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《深度粉销》是丁丁提出的中国第一套系统化粉丝营销理论。本书直面传统深度分销失灵的行业焦虑,重新定义粉丝——粉丝是支持者,不是用户、不是客户、不是流量。从深度分销、流量为王到深度粉销,中国营销经历三大阶段,贯穿媒介变革与向商业本质的回归。核心方法论是粉丝营销三角法则:圈层(找到同温层)、情感(把人当目的)、参与感(让用户成为共建者),三者缺一不可。全书进一步将粉丝思维从营销端扩展到员工粉丝化、渠道粉丝化,构成全粉丝价值链,并以小米、江小白、樊登读书会、AKB48、鹿晗粉丝团等案例落地,最终指向一个判断:粉丝将成为品牌最贵的资产,无粉丝不品牌,得粉丝者得天下。</itunes:summary>
+      <itunes:duration>00:26:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-fa8125.mp3" length="25235757" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
