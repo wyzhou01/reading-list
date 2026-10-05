@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 10:37:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 10:44:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25479,6 +25479,17 @@
       <itunes:duration>00:26:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-fa8125.mp3" length="25235757" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《她的国》 · 完整版 · 她的国_-_寇研 · 完整讲读</title>
+      <description>《她的国》（寇研著，哈尔滨出版社，二零一六年）是当代女性文化随笔集。全书从爱情里的力学、女神的打开方式、情欲的隐喻、半世界暧昧半世界孤独四个维度，以女性视角重新讲述伍尔夫、毕加索的女人们、海伦、卡萨诺瓦、福柯等历史人物的传奇，编织出属于自己的国度。寇研用文字建造这个国度，抵抗存在的荒凉，也回应欲望与精神、身体与思想、传奇与日常之间的张力。</description>
+      <pubDate>Mon, 05 Oct 2026 10:44:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-23ab47</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《她的国》（寇研著，哈尔滨出版社，二零一六年）是当代女性文化随笔集。全书从爱情里的力学、女神的打开方式、情欲的隐喻、半世界暧昧半世界孤独四个维度，以女性视角重新讲述伍尔夫、毕加索的女人们、海伦、卡萨诺瓦、福柯等历史人物的传奇，编织出属于自己的国度。寇研用文字建造这个国度，抵抗存在的荒凉，也回应欲望与精神、身体与思想、传奇与日常之间的张力。</itunes:summary>
+      <itunes:duration>00:31:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-23ab47.mp3" length="29959341" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
