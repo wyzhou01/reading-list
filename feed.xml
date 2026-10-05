@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 19:28:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 19:36:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26183,6 +26183,17 @@
       <itunes:duration>00:29:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-9d62eb.mp3" length="28455597" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《爱是一种选择》 · 完整版 · 爱是一种选择 · 完整讲读</title>
+      <description>《爱是一种选择》系统提出了&quot;拖累症&quot;这一心理学概念：它是一种通过控制他人、事物或行为来填补内心空洞的模式，常见于酗酒者家庭及其代际传承中。拖累症患者往往自我评价低、把快乐完全寄托于他人、过度承担责任、用否认代替面对真相，其本质是情感储爱槽长期未被填满。书中将其分为十大特征、三个起因（情感空虚、失落的童年、强迫行为）与三大延续因素（沉溺、否认、愤怒的滚雪球效应），并通过家庭角色的分配揭示它如何侵蚀婚姻、亲子与代际关系。最终，作者给出康复的十个阶段和三种日常保养方式，强调康复不是一次性事件，而是持续的、像维护汽车一样的日常选择。全书核心：爱不是牺牲到失去自己，而是健康的互相扶持；人可以打破代际循环，把孩子从自己的痛苦中解救出来。</description>
+      <pubDate>Mon, 05 Oct 2026 19:36:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-4f5411</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《爱是一种选择》系统提出了&quot;拖累症&quot;这一心理学概念：它是一种通过控制他人、事物或行为来填补内心空洞的模式，常见于酗酒者家庭及其代际传承中。拖累症患者往往自我评价低、把快乐完全寄托于他人、过度承担责任、用否认代替面对真相，其本质是情感储爱槽长期未被填满。书中将其分为十大特征、三个起因（情感空虚、失落的童年、强迫行为）与三大延续因素（沉溺、否认、愤怒的滚雪球效应），并通过家庭角色的分配揭示它如何侵蚀婚姻、亲子与代际关系。最终，作者给出康复的十个阶段和三种日常保养方式，强调康复不是一次性事件，而是持续的、像维护汽车一样的日常选择。全书核心：爱不是牺牲到失去自己，而是健康的互相扶持；人可以打破代际循环，把孩子从自己的痛苦中解救出来。</itunes:summary>
+      <itunes:duration>00:36:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-4f5411.mp3" length="34798509" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
