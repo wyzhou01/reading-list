@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 18:40:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 18:46:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26106,6 +26106,17 @@
       <itunes:duration>00:25:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-730aed.mp3" length="24046125" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《法国中尉的女人》 · 完整版 · 法国中尉的女人 · 完整讲读</title>
+      <description>《法国中尉的女人》是约翰·福尔斯一九六九年出版的后现代小说，以一八六七年英国莱姆湾为背景，讲述绅士查尔斯与神秘女子萨拉之间一段打破维多利亚道德的相遇。萨拉被全镇唤作【法国中尉的女人】，她用一道目光、一封密信和一次出逃，将查尔斯从体面的订婚人生中拖出。福尔斯没有给出单一结局，而是设置了三个彼此矛盾的版本，让读者在上帝缺席的世界里，亲手为查尔斯的命运负责。小说表面是维多利亚婚外情故事，骨子里却是一场严肃的存在主义实验：自由意志如何可能？凝视如何被反转？人能否在不确定中为自己每一个选择承担后果？这部小说因此被视为后现代文学的早期范本，与《第二十二条军规》《五号屠宰场》并称，时至今日仍在追问同一个问题：我这一生，是我自己的选择，还是别人为我选好的？</description>
+      <pubDate>Mon, 05 Oct 2026 18:46:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-46d8cd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《法国中尉的女人》是约翰·福尔斯一九六九年出版的后现代小说，以一八六七年英国莱姆湾为背景，讲述绅士查尔斯与神秘女子萨拉之间一段打破维多利亚道德的相遇。萨拉被全镇唤作【法国中尉的女人】，她用一道目光、一封密信和一次出逃，将查尔斯从体面的订婚人生中拖出。福尔斯没有给出单一结局，而是设置了三个彼此矛盾的版本，让读者在上帝缺席的世界里，亲手为查尔斯的命运负责。小说表面是维多利亚婚外情故事，骨子里却是一场严肃的存在主义实验：自由意志如何可能？凝视如何被反转？人能否在不确定中为自己每一个选择承担后果？这部小说因此被视为后现代文学的早期范本，与《第二十二条军规》《五号屠宰场》并称，时至今日仍在追问同一个问题：我这一生，是我自己的选择，还是别人为我选好的？</itunes:summary>
+      <itunes:duration>00:34:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-46d8cd.mp3" length="32797101" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
