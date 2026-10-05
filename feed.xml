@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 22:52:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 23:00:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26260,6 +26260,17 @@
       <itunes:duration>00:29:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-4bcf72.mp3" length="28486317" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《遗族》 · 完整版 · 遗族 · 完整讲读</title>
+      <description>《遗族》是缪热二零一五年出版的乡村悬疑民俗小说，以川渝上河坝村为舞台，讲述女知青林知妹儿吊死于乱葬岗香樟树、尾椎骨处多出一截异物而引出的横跨三代人的恩怨。小说把三条线拧在一起：乡村灵异与民俗怪谈（三不近、捡金匠、风水金井）、上山下乡知青的历史伤痕、关于遗族血脉的上古秘辛。一纸迁坟令让最神秘的土堆即将开挖，沉默守墓人王传子守口如瓶，而当年吊死的女人竟以女乞丐姿态重现村口。小说在悬疑外壳下藏着对乡土中国隐秘秩序的凝视——白石子悬浮那一刻，牛顿万有引力定律失效，旧的碎了，新的还没立起来，这是整个乡土中国在现代化大动脉切过时留下的最后一声狼嚎。</description>
+      <pubDate>Mon, 05 Oct 2026 23:00:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-94e08a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《遗族》是缪热二零一五年出版的乡村悬疑民俗小说，以川渝上河坝村为舞台，讲述女知青林知妹儿吊死于乱葬岗香樟树、尾椎骨处多出一截异物而引出的横跨三代人的恩怨。小说把三条线拧在一起：乡村灵异与民俗怪谈（三不近、捡金匠、风水金井）、上山下乡知青的历史伤痕、关于遗族血脉的上古秘辛。一纸迁坟令让最神秘的土堆即将开挖，沉默守墓人王传子守口如瓶，而当年吊死的女人竟以女乞丐姿态重现村口。小说在悬疑外壳下藏着对乡土中国隐秘秩序的凝视——白石子悬浮那一刻，牛顿万有引力定律失效，旧的碎了，新的还没立起来，这是整个乡土中国在现代化大动脉切过时留下的最后一声狼嚎。</itunes:summary>
+      <itunes:duration>00:32:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-94e08a.mp3" length="31074861" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
