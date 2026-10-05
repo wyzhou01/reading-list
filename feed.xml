@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 13:09:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 13:17:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25677,6 +25677,17 @@
       <itunes:duration>00:31:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-8aea57.mp3" length="29995437" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《鱼羊野史·第四卷》 · 完整版 · 鱼羊野史•第四卷 · 完整讲读</title>
+      <description>《鱼羊野史·第四卷》是高晓松二零一三年在东方卫视节目《晓松说——历史上的今天》的文字未删减版,覆盖七月初一至八月三十一日共六十二天。他以每天一两件大事为引子,信马由缰地聊政治、军事、科技、文艺、体育与天文地理,杂七杂八、无门无类,勾勒出理工称霸时代普通人靠自由图谱的野史叙事。书中贯穿他核心的历史观,即整个人类文明的进步,应该由科学和艺术两轨交替解释,从不同时共襄盛举。他借巴黎那一代硬汉作家、借齐国、借盛唐、借仁宋、借明朝、借一战,反复校准一把判断时代好坏的尺——那一天普通人的内心还有没有多余的空间可以喘气。一本轻松的野史日历,一本不太轻松的人类文明双轨史。</description>
+      <pubDate>Mon, 05 Oct 2026 13:17:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-4f9844</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《鱼羊野史·第四卷》是高晓松二零一三年在东方卫视节目《晓松说——历史上的今天》的文字未删减版,覆盖七月初一至八月三十一日共六十二天。他以每天一两件大事为引子,信马由缰地聊政治、军事、科技、文艺、体育与天文地理,杂七杂八、无门无类,勾勒出理工称霸时代普通人靠自由图谱的野史叙事。书中贯穿他核心的历史观,即整个人类文明的进步,应该由科学和艺术两轨交替解释,从不同时共襄盛举。他借巴黎那一代硬汉作家、借齐国、借盛唐、借仁宋、借明朝、借一战,反复校准一把判断时代好坏的尺——那一天普通人的内心还有没有多余的空间可以喘气。一本轻松的野史日历,一本不太轻松的人类文明双轨史。</itunes:summary>
+      <itunes:duration>00:26:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-4f9844.mp3" length="25545261" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
