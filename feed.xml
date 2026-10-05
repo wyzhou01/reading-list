@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 13:51:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 13:59:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25732,6 +25732,17 @@
       <itunes:duration>00:25:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-64976e.mp3" length="24802605" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《阎锡山回忆录》 · 完整版 · 阎锡山回忆录_-_阎锡山 · 完整讲读</title>
+      <description>《阎锡山回忆录》是阎锡山口述早年经历的整理稿，止于袁世凯称帝退位。书中以亲历者视角讲述清末民初的时代剧变：从一九零三八年赴日留学、加入同盟会，到一九一一年领导太原起义一夜成功，再到袁世凯称帝前后的政局与人性观察。阎锡山以一个旧军人的身份，剖析了清王朝专制政体如何阻碍物质进步，孙中山平均地权思想如何落地为具体的土地政策，铁血丈夫团如何把留日士官生编织为革命网络，以及朝鲜亡国之痛如何成为山西革命的清醒剂。这部书是辛亥革命史与民国初年政治史的不可绕过的原始文献，也是理解中国近现代转型核心问题的关键钥匙。</description>
+      <pubDate>Mon, 05 Oct 2026 13:59:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-972dd6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《阎锡山回忆录》是阎锡山口述早年经历的整理稿，止于袁世凯称帝退位。书中以亲历者视角讲述清末民初的时代剧变：从一九零三八年赴日留学、加入同盟会，到一九一一年领导太原起义一夜成功，再到袁世凯称帝前后的政局与人性观察。阎锡山以一个旧军人的身份，剖析了清王朝专制政体如何阻碍物质进步，孙中山平均地权思想如何落地为具体的土地政策，铁血丈夫团如何把留日士官生编织为革命网络，以及朝鲜亡国之痛如何成为山西革命的清醒剂。这部书是辛亥革命史与民国初年政治史的不可绕过的原始文献，也是理解中国近现代转型核心问题的关键钥匙。</itunes:summary>
+      <itunes:duration>00:27:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-972dd6.mp3" length="26302125" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
