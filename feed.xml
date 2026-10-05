@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 13:26:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 13:37:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25699,6 +25699,17 @@
       <itunes:duration>00:28:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-edded5.mp3" length="27024429" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《逻辑十九讲》 · 完整版 · 逻辑十九讲(1) · 完整讲读</title>
+      <description>《逻辑十九讲》是美国新思想运动之父阿特金森写给普通人的逻辑学入门经典。它把学院派的黑话化作日常语言：怎么把活说清楚、怎么过活不被骗。它牵出一根清晰的推理主线——抽象、概括、判断、推理四步骤；归纳、演绎两台引擎；三段论这条用了千年的人类论证高速路；以及因果错位、双关偷换、以偏概全这三枚最常见的隐形地雷。在信息爆炸、观点满天飞的时代，读这本书，是给思维装一套干净的杀毒软件。</description>
+      <pubDate>Mon, 05 Oct 2026 13:37:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-57a013</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《逻辑十九讲》是美国新思想运动之父阿特金森写给普通人的逻辑学入门经典。它把学院派的黑话化作日常语言：怎么把活说清楚、怎么过活不被骗。它牵出一根清晰的推理主线——抽象、概括、判断、推理四步骤；归纳、演绎两台引擎；三段论这条用了千年的人类论证高速路；以及因果错位、双关偷换、以偏概全这三枚最常见的隐形地雷。在信息爆炸、观点满天飞的时代，读这本书，是给思维装一套干净的杀毒软件。</itunes:summary>
+      <itunes:duration>00:28:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-57a013.mp3" length="27502509" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
