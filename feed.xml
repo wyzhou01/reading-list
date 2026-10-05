@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 16:06:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 16:16:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25897,6 +25897,17 @@
       <itunes:duration>00:32:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-07cad1.mp3" length="30811821" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我们的1978（中国故事）》 · 完整版 · 我们的1978（中国故事）_-_梁晓声 · 完整讲读</title>
+      <description>《我们的1978》收录十余位亲历者对1978年的私人回忆,涵盖《中国青年》停刊风波、北影制片厂平反、天安门诗抄整理、七七级与七八级大学生命运、真理标准大讨论等关键事件。从朱伟、高西庆、李辉、徐友渔、韩东、梁晓声、汪文风等人的多声部叙事中,呈现改革开放精神原点上个体生命的真实处境:既有思想解放的激昂,也有宿舍里偷偷试戴免费避孕套的荒诞;既有一通电话改变命运的神奇,也有清查与平反的痛楚。这本书让1978年不再只是教科书上的一个年份,而是由无数具体的人在无数具体时刻做出的选择所共同塑造的大时代现场。</description>
+      <pubDate>Mon, 05 Oct 2026 16:15:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-b81e83</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我们的1978》收录十余位亲历者对1978年的私人回忆,涵盖《中国青年》停刊风波、北影制片厂平反、天安门诗抄整理、七七级与七八级大学生命运、真理标准大讨论等关键事件。从朱伟、高西庆、李辉、徐友渔、韩东、梁晓声、汪文风等人的多声部叙事中,呈现改革开放精神原点上个体生命的真实处境:既有思想解放的激昂,也有宿舍里偷偷试戴免费避孕套的荒诞;既有一通电话改变命运的神奇,也有清查与平反的痛楚。这本书让1978年不再只是教科书上的一个年份,而是由无数具体的人在无数具体时刻做出的选择所共同塑造的大时代现场。</itunes:summary>
+      <itunes:duration>00:20:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-b81e83.mp3" length="20064429" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
