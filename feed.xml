@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 15:41:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 15:51:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25864,6 +25864,17 @@
       <itunes:duration>00:28:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-725a19.mp3" length="27342765" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《伊人如月水一方：《诗经》中的女子情怀》 · 完整版 · 伊人如月水一方：《诗经》中的女子情怀_-_王玉洁 · 完整讲读</title>
+      <description>《伊人如月水一方》是王玉洁（笔名清透风痕）以女性视角细读《诗经》十五国风四十余篇的散文随笔集。从《关雎》的初恋到《氓》的决绝，从《凯风》的母爱到《月出》的月下美人，王玉洁用清新飘逸的文笔，将三千年前黄河流域女子的爱情、婚姻、思念与命运娓娓道来。她补上了常被忽视的女性视角，让那些被千年注解遮蔽的女子重新复活。这是一本让人读懂《诗经》之美的温柔之书。</description>
+      <pubDate>Mon, 05 Oct 2026 15:51:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-f9f981</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《伊人如月水一方》是王玉洁（笔名清透风痕）以女性视角细读《诗经》十五国风四十余篇的散文随笔集。从《关雎》的初恋到《氓》的决绝，从《凯风》的母爱到《月出》的月下美人，王玉洁用清新飘逸的文笔，将三千年前黄河流域女子的爱情、婚姻、思念与命运娓娓道来。她补上了常被忽视的女性视角，让那些被千年注解遮蔽的女子重新复活。这是一本让人读懂《诗经》之美的温柔之书。</itunes:summary>
+      <itunes:duration>00:31:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-f9f981.mp3" length="30107181" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
