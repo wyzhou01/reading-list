@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 04 Oct 2026 20:59:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 10:31:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25457,6 +25457,17 @@
       <itunes:duration>00:26:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261004/episode-20261004-7ebf28.mp3" length="24996141" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《两面之词：关于革命问题的通信》 · 完整版 · 两面之词：关于革命问题的通信 · 完整讲读</title>
+      <description>《两面之词》是法国革命理论家德布雷与中国哲学家赵汀阳之间的书信对话集。两人围绕革命悖论、技术失控、道德危机、东西方相互误读等当代议题，展开了一场跨越中西的坦诚辩论。德布雷从亲身参与古巴革命的反思出发，揭示革命的破坏性总是大于其建设性；赵汀阳则从中国古典智慧出发，主张以道家流水式的渐进变革取代激进革命。两位思想家共同指出：现代性的核心危机是意义的丧失，技术革命与市场扩张正在悄悄重塑人的主体性；而东西方之间最大的问题，是互为镜像的偏见。真正的对话，不是用对方的语言同化对方，而是承认彼此的不可化约性。这本书不提供答案，但每一个追问，都指向我们这个时代最需要的东西：在不确定的世界里，仍然保持清醒的判断与独立的思考。</description>
+      <pubDate>Mon, 05 Oct 2026 10:30:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-648467</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《两面之词》是法国革命理论家德布雷与中国哲学家赵汀阳之间的书信对话集。两人围绕革命悖论、技术失控、道德危机、东西方相互误读等当代议题，展开了一场跨越中西的坦诚辩论。德布雷从亲身参与古巴革命的反思出发，揭示革命的破坏性总是大于其建设性；赵汀阳则从中国古典智慧出发，主张以道家流水式的渐进变革取代激进革命。两位思想家共同指出：现代性的核心危机是意义的丧失，技术革命与市场扩张正在悄悄重塑人的主体性；而东西方之间最大的问题，是互为镜像的偏见。真正的对话，不是用对方的语言同化对方，而是承认彼此的不可化约性。这本书不提供答案，但每一个追问，都指向我们这个时代最需要的东西：在不确定的世界里，仍然保持清醒的判断与独立的思考。</itunes:summary>
+      <itunes:duration>00:28:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-648467.mp3" length="26975277" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
