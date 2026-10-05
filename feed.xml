@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 13:59:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 14:05:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25743,6 +25743,17 @@
       <itunes:duration>00:27:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-972dd6.mp3" length="26302125" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《哈佛百年经典（第5卷）》 · 完整版 · 哈佛百年经典第18卷：切利尼自传 · 完整讲读</title>
+      <description>《哈佛百年经典第十八卷：切利尼自传》是十六世纪意大利文艺复兴巨匠本韦努托·切利尼在五十八岁后口述给一名十四岁少年的自传。它记录了这位佛罗伦萨金匠与雕塑家从一五零零年出生到一五六二年的传奇人生：他师从多位大师学艺，他亲手参与一五二七年罗马大劫掠的巷战，他为教皇铸造勋章、为法国国王打造盐碟与神像，他坐过地牢、被人投毒、被指控偷窃，最终他用青铜浇铸了至今仍矗立于领主广场的传世名作《珀耳修斯》。本书与圣奥古斯丁、卢梭的《忏悔录》及佩皮斯的《日记》并列为西方自传文学的巅峰，主编查尔斯·艾略特甚至断言它超越了前三者。它不仅是一部关于米开朗琪罗时代艺坛生态的鲜活记录，更是一部关于手艺人如何在权力世袭制度下挣扎、愤怒、不肯低头的血泪账——它让我们看到，一个完整的人，不必为自己的矛盾而道歉。</description>
+      <pubDate>Sun, 04 Oct 2026 07:43:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-76f3c6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《哈佛百年经典第十八卷：切利尼自传》是十六世纪意大利文艺复兴巨匠本韦努托·切利尼在五十八岁后口述给一名十四岁少年的自传。它记录了这位佛罗伦萨金匠与雕塑家从一五零零年出生到一五六二年的传奇人生：他师从多位大师学艺，他亲手参与一五二七年罗马大劫掠的巷战，他为教皇铸造勋章、为法国国王打造盐碟与神像，他坐过地牢、被人投毒、被指控偷窃，最终他用青铜浇铸了至今仍矗立于领主广场的传世名作《珀耳修斯》。本书与圣奥古斯丁、卢梭的《忏悔录》及佩皮斯的《日记》并列为西方自传文学的巅峰，主编查尔斯·艾略特甚至断言它超越了前三者。它不仅是一部关于米开朗琪罗时代艺坛生态的鲜活记录，更是一部关于手艺人如何在权力世袭制度下挣扎、愤怒、不肯低头的血泪账——它让我们看到，一个完整的人，不必为自己的矛盾而道歉。</itunes:summary>
+      <itunes:duration>00:28:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-76f3c6.mp3" length="26975277" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
