@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 14:33:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 14:44:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25787,6 +25787,17 @@
       <itunes:duration>00:26:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-41cb8f.mp3" length="25594029" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《现代情诗的古典底蕴》 · 完整版 · 现代情诗的古典底蕴 · 完整讲读</title>
+      <description>本书《现代情诗的古典底蕴》由陆红颖耗费八年写成，从五四时期至九十年代，系统梳理中国现代情诗对古典诗词传统的纵向承衍。书中以情诗为切入点，打通古今中西，揭示才子佳人言情范式、青楼歌妓创作机制、神话原型三大古典支柱如何在五四时期隐性延续，又如何在新月派与现代派的两次创作高潮中，与西方诗艺深度融合。台湾诗坛的古今融合流脉，亦获系统梳理。本书填补了现代诗学研究偏重西方冲击的空白，至今仍是理解中国现代诗歌精神血脉的必读之作。</description>
+      <pubDate>Mon, 05 Oct 2026 14:44:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-892ad5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书《现代情诗的古典底蕴》由陆红颖耗费八年写成，从五四时期至九十年代，系统梳理中国现代情诗对古典诗词传统的纵向承衍。书中以情诗为切入点，打通古今中西，揭示才子佳人言情范式、青楼歌妓创作机制、神话原型三大古典支柱如何在五四时期隐性延续，又如何在新月派与现代派的两次创作高潮中，与西方诗艺深度融合。台湾诗坛的古今融合流脉，亦获系统梳理。本书填补了现代诗学研究偏重西方冲击的空白，至今仍是理解中国现代诗歌精神血脉的必读之作。</itunes:summary>
+      <itunes:duration>00:32:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-892ad5.mp3" length="31398957" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
