@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 14:23:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 14:33:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25776,6 +25776,17 @@
       <itunes:duration>00:23:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-d4bea7.mp3" length="22672941" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《通往大国之路：中国的知识重建和文明复兴》 · 完整版 · 通往大国之路：中国的知识重建和文明复兴(1) · 完整讲读</title>
+      <description>《通往大国之路：中国的知识重建和文明复兴》是郑永年写于二零一二年的代表作。这本书系统回答了一个核心追问：硬实力已经崛起三十年的中国，为什么始终缺乏与自身体量相匹配的国际话语权？郑永年的回答是：缺失的不是声音，而是知识体系。他指出，中国学术界自五四以来习惯借用西方概念解释中国，结果是曲解了自己，也加深了中西方相互的误读。知识分子真正的使命是解释中国，而不是改造中国；中国能否为世界提供另一种文化选择，取决于能否完成三个解放——从对西方的迷信、对传统的过度批判、从意识形态的束缚中解放出来。本书把宏大的软实力议题，落到道德重建、高等教育、智库建设三件具体的事情上，是一份面向中国知识界的清醒处方。读懂这本书，就是读懂中国崛起表象之下，那道尚未完成的、最难的内功。</description>
+      <pubDate>Mon, 05 Oct 2026 14:33:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-41cb8f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《通往大国之路：中国的知识重建和文明复兴》是郑永年写于二零一二年的代表作。这本书系统回答了一个核心追问：硬实力已经崛起三十年的中国，为什么始终缺乏与自身体量相匹配的国际话语权？郑永年的回答是：缺失的不是声音，而是知识体系。他指出，中国学术界自五四以来习惯借用西方概念解释中国，结果是曲解了自己，也加深了中西方相互的误读。知识分子真正的使命是解释中国，而不是改造中国；中国能否为世界提供另一种文化选择，取决于能否完成三个解放——从对西方的迷信、对传统的过度批判、从意识形态的束缚中解放出来。本书把宏大的软实力议题，落到道德重建、高等教育、智库建设三件具体的事情上，是一份面向中国知识界的清醒处方。读懂这本书，就是读懂中国崛起表象之下，那道尚未完成的、最难的内功。</itunes:summary>
+      <itunes:duration>00:26:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-41cb8f.mp3" length="25594029" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
