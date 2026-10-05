@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 17:07:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 17:13:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25974,6 +25974,17 @@
       <itunes:duration>00:31:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-74fb0a.mp3" length="30255789" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《走红：如何打造个人品牌》 · 完整版 · 走红：如何打造个人品牌 · 完整讲读</title>
+      <description>《走红：如何打造个人品牌》出版于二零一八年，由长期从事数字营销的杰瑞米·戈德曼与阿里·扎格特合著。全书围绕一个核心命题展开：在社交媒体时代，每个人都是一家企业，必须成为自己的首席品牌官。两位作者结合领英、推特崛起期的现场观察，从定位、内容、平台、真实性、多面性、危机应对、品牌重塑、反馈机制、长期维护九个维度，搭建了一套完整的个人品牌操作系统。书中既包含秋叶等中国读者熟悉的本土案例，也有大量来自美国创业者与职场人士的一手经验。在服务业全面崛起、跳槽成为新常态、技术拉平竞争门槛的背景下，这本书提供了一个从未过时的底层框架：先看清自己，再让别人看清你。</description>
+      <pubDate>Mon, 05 Oct 2026 17:13:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-6dda60</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《走红：如何打造个人品牌》出版于二零一八年，由长期从事数字营销的杰瑞米·戈德曼与阿里·扎格特合著。全书围绕一个核心命题展开：在社交媒体时代，每个人都是一家企业，必须成为自己的首席品牌官。两位作者结合领英、推特崛起期的现场观察，从定位、内容、平台、真实性、多面性、危机应对、品牌重塑、反馈机制、长期维护九个维度，搭建了一套完整的个人品牌操作系统。书中既包含秋叶等中国读者熟悉的本土案例，也有大量来自美国创业者与职场人士的一手经验。在服务业全面崛起、跳槽成为新常态、技术拉平竞争门槛的背景下，这本书提供了一个从未过时的底层框架：先看清自己，再让别人看清你。</itunes:summary>
+      <itunes:duration>00:26:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-6dda60.mp3" length="25519917" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
