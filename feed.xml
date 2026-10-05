@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 17:13:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 17:15:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25985,6 +25985,17 @@
       <itunes:duration>00:26:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-6dda60.mp3" length="25519917" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《社会关系与空间结构》 · 完整版 · 社会关系与空间结构_(时空社会学译丛) · 完整讲读</title>
+      <description>本书是时空社会学译丛的核心读本,围绕空间的社会生产这一主题,系统收录了大卫·哈维、多琳·梅西、爱德华·索雅、安东尼·吉登斯等顶级学者的经典论述。它要回答的核心问题是:空间并非社会生活展开的静态容器,而是社会关系生产和再生产的媒介。书中四个相互衔接的领域——实在论的科学哲学、马克思与非马克思社会理论中的空间意涵、阶级与空间结构化、时间地理学与情境化社会理论——共同推动了一场社会科学内部的范式更新。对于今天的中国读者而言,这本书既是理解东中西部梯度差异、数亿农民工迁徙、全球化与本土化交织的理论透镜,也是激发我们用本土经验去修正与重写既有框架的思想起点。</description>
+      <pubDate>Mon, 05 Oct 2026 17:15:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-36bc02</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是时空社会学译丛的核心读本,围绕空间的社会生产这一主题,系统收录了大卫·哈维、多琳·梅西、爱德华·索雅、安东尼·吉登斯等顶级学者的经典论述。它要回答的核心问题是:空间并非社会生活展开的静态容器,而是社会关系生产和再生产的媒介。书中四个相互衔接的领域——实在论的科学哲学、马克思与非马克思社会理论中的空间意涵、阶级与空间结构化、时间地理学与情境化社会理论——共同推动了一场社会科学内部的范式更新。对于今天的中国读者而言,这本书既是理解东中西部梯度差异、数亿农民工迁徙、全球化与本土化交织的理论透镜,也是激发我们用本土经验去修正与重写既有框架的思想起点。</itunes:summary>
+      <itunes:duration>00:28:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-36bc02.mp3" length="27520557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
