@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 22:45:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 22:52:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26249,6 +26249,17 @@
       <itunes:duration>00:25:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-24dbaa.mp3" length="24437421" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《神秘博士：死亡之城》 · 完整版 · 神秘博士：死亡之城_-_道格拉斯·亚当斯 · 完整讲读</title>
+      <description>《神秘博士：死亡之城》由道格拉斯·亚当斯与詹姆斯·高斯合著，改编自一九七九年同名电视剧。本书穿越佛罗伦萨、巴黎、文艺复兴与二战之间，讲述最后一个杰加洛斯人斯卡罗斯化身伯爵，试图将《蒙娜丽莎》切割拍卖，以几百万年的时间跨度为燃料完成一项疯狂的实验，却被博士与罗曼娜阻止。全书以英式冷笑话与荒诞幽默包裹了三个严肃追问：时间能不能被打包出售，艺术能不能被切割转让，身份能不能被外部脚本定义。读完这本书，你会被逗笑，更会在某个星期二的下午，悄悄做出属于你自己的选择。</description>
+      <pubDate>Mon, 05 Oct 2026 22:52:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-4bcf72</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《神秘博士：死亡之城》由道格拉斯·亚当斯与詹姆斯·高斯合著，改编自一九七九年同名电视剧。本书穿越佛罗伦萨、巴黎、文艺复兴与二战之间，讲述最后一个杰加洛斯人斯卡罗斯化身伯爵，试图将《蒙娜丽莎》切割拍卖，以几百万年的时间跨度为燃料完成一项疯狂的实验，却被博士与罗曼娜阻止。全书以英式冷笑话与荒诞幽默包裹了三个严肃追问：时间能不能被打包出售，艺术能不能被切割转让，身份能不能被外部脚本定义。读完这本书，你会被逗笑，更会在某个星期二的下午，悄悄做出属于你自己的选择。</itunes:summary>
+      <itunes:duration>00:29:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-4bcf72.mp3" length="28486317" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
