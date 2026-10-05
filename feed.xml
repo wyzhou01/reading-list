@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 14:05:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 14:15:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25754,6 +25754,17 @@
       <itunes:duration>00:28:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-76f3c6.mp3" length="26975277" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《不可不知的非洲史》 · 完整版 · 不可不知的非洲史 · 完整讲读</title>
+      <description>《不可不知的非洲史》是杨益先生面向普通读者写就的一部非洲通史普及读物。全书以讲故事的方式, 串联起从三百多万年前露西站立起来的东非草原, 到二十一世纪初非洲联盟成立的漫长岁月, 涵盖古埃及的辉煌、迦太基的霸业、阿拉伯帝国的扩张、大西洋奴隶贸易的血泪、欧洲列强瓜分非洲的狂潮、独立浪潮中的两种路径、冷战阴影下的独裁梦魇, 以及世纪之交仍在苦难中前行的希望。这本书揭示了一个被新闻报道和流行偏见严重遮蔽的真实非洲: 它既是全人类的摇篮, 也是被掠夺最深的伤员; 既有灿烂的文明遗产, 也有深重的殖民创伤。读懂非洲, 才能读懂人类文明的完整图景, 也才能理解我们今天所处的全球化世界, 究竟从何而来, 又该往何处去。</description>
+      <pubDate>Mon, 05 Oct 2026 14:15:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-9fdca0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《不可不知的非洲史》是杨益先生面向普通读者写就的一部非洲通史普及读物。全书以讲故事的方式, 串联起从三百多万年前露西站立起来的东非草原, 到二十一世纪初非洲联盟成立的漫长岁月, 涵盖古埃及的辉煌、迦太基的霸业、阿拉伯帝国的扩张、大西洋奴隶贸易的血泪、欧洲列强瓜分非洲的狂潮、独立浪潮中的两种路径、冷战阴影下的独裁梦魇, 以及世纪之交仍在苦难中前行的希望。这本书揭示了一个被新闻报道和流行偏见严重遮蔽的真实非洲: 它既是全人类的摇篮, 也是被掠夺最深的伤员; 既有灿烂的文明遗产, 也有深重的殖民创伤。读懂非洲, 才能读懂人类文明的完整图景, 也才能理解我们今天所处的全球化世界, 究竟从何而来, 又该往何处去。</itunes:summary>
+      <itunes:duration>00:30:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-9fdca0.mp3" length="29576109" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
