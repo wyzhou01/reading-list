@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 15:11:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 15:19:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25831,6 +25831,17 @@
       <itunes:duration>00:30:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-4b7b79.mp3" length="29071533" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《北宋晚期的政治体制与政治文化》 · 完整版 · 北宋晚期的政治体制与政治文化 · 完整讲读</title>
+      <description>本书以北宋哲宗、徽宗朝（1085—1125）为研究对象，跳出党争—腐败—亡国的传统解释框架，从政治体制与政治文化两个视角重新梳理北宋后期的政治演变。中枢层面深入剖析垂帘、御笔、应奉等制度运作；思想层面揭示司马光政治主张、新旧话语与士大夫政治理想的异化过程，呈现北宋晚期政治自身的逻辑与连续性。</description>
+      <pubDate>Mon, 05 Oct 2026 15:19:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-b14804</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书以北宋哲宗、徽宗朝（1085—1125）为研究对象，跳出党争—腐败—亡国的传统解释框架，从政治体制与政治文化两个视角重新梳理北宋后期的政治演变。中枢层面深入剖析垂帘、御笔、应奉等制度运作；思想层面揭示司马光政治主张、新旧话语与士大夫政治理想的异化过程，呈现北宋晚期政治自身的逻辑与连续性。</itunes:summary>
+      <itunes:duration>00:29:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-b14804.mp3" length="28405677" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
