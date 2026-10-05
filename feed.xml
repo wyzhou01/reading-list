@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 15:19:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 15:31:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25842,6 +25842,17 @@
       <itunes:duration>00:29:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-b14804.mp3" length="28405677" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《知性改进论》 · 完整版 · 知性改进论_(汉译世界学术名著丛书)_-_斯宾诺莎 · 完整讲读</title>
+      <description>《知性改进论》是斯宾诺莎写于1661到1662年冬春之间的未完成手稿，也是他中心著作《伦理学》的导言。本书以伦理目的开篇，探讨如何追求人人可分享的真善至善，继而提出著名的四种知识分类，主张以理性直观所获得的清楚明晰的真观念为方法起点，建立起符合客观对象的认识体系。斯宾诺莎继承并批判了培根的经验主义与笛卡尔的几何学方法，强调真观念必须符合对象、自然万物互相关联、知性与想象有本质区别，并以界说作为推演的根据。三百多年来，这部小书始终是近代方法论与认识论的奠基之作，至今仍提醒我们：真正的知识，从对自身观念的诚实追问开始。</description>
+      <pubDate>Mon, 05 Oct 2026 15:31:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-106a0c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《知性改进论》是斯宾诺莎写于1661到1662年冬春之间的未完成手稿，也是他中心著作《伦理学》的导言。本书以伦理目的开篇，探讨如何追求人人可分享的真善至善，继而提出著名的四种知识分类，主张以理性直观所获得的清楚明晰的真观念为方法起点，建立起符合客观对象的认识体系。斯宾诺莎继承并批判了培根的经验主义与笛卡尔的几何学方法，强调真观念必须符合对象、自然万物互相关联、知性与想象有本质区别，并以界说作为推演的根据。三百多年来，这部小书始终是近代方法论与认识论的奠基之作，至今仍提醒我们：真正的知识，从对自身观念的诚实追问开始。</itunes:summary>
+      <itunes:duration>00:31:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-106a0c.mp3" length="29913645" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
