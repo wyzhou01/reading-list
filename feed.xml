@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 15:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 15:11:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25820,6 +25820,17 @@
       <itunes:duration>00:24:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-76cd73.mp3" length="23326509" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《异闻秘录》 · 完整版 · 异闻秘录_(时间的轨迹-不可遗忘的历史系列) · 完整讲读</title>
+      <description>本书由《看历史》杂志编选，是一部对中外历史细节进行另类解读的历史普及读物。它不追求颠覆经典，但敢于质疑常识，通过富兰克林风筝实验的真实考辨、柴郡主身世的正史梳理、大明第八次远航的考古新证、斧声烛影的悬案剖析等十余个故事，呈现历史真相与民间传说的博弈。全书传递的核心立场是：历史从来不是一成不变的，任何看似理所当然的叙述都值得被追问；它提供的不仅是一堆有趣的掌故，更是一种看待历史的方法，那便是对言之凿凿的常识保持一份好奇与审慎。</description>
+      <pubDate>Mon, 05 Oct 2026 15:11:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-4b7b79</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书由《看历史》杂志编选，是一部对中外历史细节进行另类解读的历史普及读物。它不追求颠覆经典，但敢于质疑常识，通过富兰克林风筝实验的真实考辨、柴郡主身世的正史梳理、大明第八次远航的考古新证、斧声烛影的悬案剖析等十余个故事，呈现历史真相与民间传说的博弈。全书传递的核心立场是：历史从来不是一成不变的，任何看似理所当然的叙述都值得被追问；它提供的不仅是一堆有趣的掌故，更是一种看待历史的方法，那便是对言之凿凿的常识保持一份好奇与审慎。</itunes:summary>
+      <itunes:duration>00:30:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-4b7b79.mp3" length="29071533" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
