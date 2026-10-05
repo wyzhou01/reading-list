@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 23:48:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 23:55:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26348,6 +26348,17 @@
       <itunes:duration>00:27:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-8115cd.mp3" length="26671917" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《龍眠》 · 完整版 · 龍眠 · 完整讲读</title>
+      <description>《龍眠》是宮部美雪一九九九年發表的社會派推理小說。記者高阪昭吾在一個颱風之夜，撿到自稱擁有讀心異能的高中少年稻村慎司，兩人因此捲入一連串孩童失蹤與連環殺人案件。慎司的能力並非禮物，而是沉重的代價——每一次讀心都伴隨身體的崩潰，每一次試圖說出真相都面臨語言的失效。圍繞在他身邊的普通人織田直也選擇挺身而出，最終犧牲；高阪則以「在場」的方式守護著慎司。宮部美雪用一個帶有奇幻色彩的推理故事，探問「為他人而活」的道德邊界，並以「體內沉睡之龍」為意象，留下溫柔而殘酷的人性寓言。</description>
+      <pubDate>Mon, 05 Oct 2026 23:55:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-645262</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《龍眠》是宮部美雪一九九九年發表的社會派推理小說。記者高阪昭吾在一個颱風之夜，撿到自稱擁有讀心異能的高中少年稻村慎司，兩人因此捲入一連串孩童失蹤與連環殺人案件。慎司的能力並非禮物，而是沉重的代價——每一次讀心都伴隨身體的崩潰，每一次試圖說出真相都面臨語言的失效。圍繞在他身邊的普通人織田直也選擇挺身而出，最終犧牲；高阪則以「在場」的方式守護著慎司。宮部美雪用一個帶有奇幻色彩的推理故事，探問「為他人而活」的道德邊界，並以「體內沉睡之龍」為意象，留下溫柔而殘酷的人性寓言。</itunes:summary>
+      <itunes:duration>00:30:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-645262.mp3" length="29726637" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
