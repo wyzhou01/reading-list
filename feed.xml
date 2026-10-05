@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 12:40:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 12:51:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25655,6 +25655,17 @@
       <itunes:duration>00:27:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-84e02c.mp3" length="26786349" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《日本第一：对美国的启示》 · 完整版 · 日本第一 · 完整讲读</title>
+      <description>《日本第一》是哈佛社会学家傅高义一九七九年写下的反思之书。面对滞胀中的美国，他用二十年田野调查揭示：日本虽资源匮乏，却在教育、治安、福利、企业管理、政府治理等后工业化核心难题上，交出了比美国更出色的答卷。日本成功的根源不在国民性，而在组织能力：知识精英凝聚共识、官僚体系引导产业、政企良性配合、大企业以不解雇换忠诚、教育均等筑造社区中流砥柱、福利克制避免养懒汉群。本书预言了美国制造业空心化与日本失去的三十年，至今仍是中美两国精英反思治理范式的奠基之作。</description>
+      <pubDate>Mon, 05 Oct 2026 12:51:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-45e601</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《日本第一》是哈佛社会学家傅高义一九七九年写下的反思之书。面对滞胀中的美国，他用二十年田野调查揭示：日本虽资源匮乏，却在教育、治安、福利、企业管理、政府治理等后工业化核心难题上，交出了比美国更出色的答卷。日本成功的根源不在国民性，而在组织能力：知识精英凝聚共识、官僚体系引导产业、政企良性配合、大企业以不解雇换忠诚、教育均等筑造社区中流砥柱、福利克制避免养懒汉群。本书预言了美国制造业空心化与日本失去的三十年，至今仍是中美两国精英反思治理范式的奠基之作。</itunes:summary>
+      <itunes:duration>00:37:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-45e601.mp3" length="35640621" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
