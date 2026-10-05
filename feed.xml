@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 13:17:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 13:26:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25688,6 +25688,17 @@
       <itunes:duration>00:26:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-4f9844.mp3" length="25545261" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《光速成长：职场的正确打开方式》 · 完整版 · 光速成长：职场的正确打开方式 · 完整讲读</title>
+      <description>《光速成长：职场的正确打开方式》是清华毕业生林晅基于自己公众号三年职场文章整理而成的实操指南，覆盖求职、入职、跳槽、自我管理六大板块。本期节目拆解其中六大核心拼图：职业选择从实习期就要开始做准备、求职是技术活而不是撞运气、邮件是职场底层操作系统、跳槽是定向投资而非逃避、消费习惯在前五年固化阶层位置、自我投资比消费更重要。每一块都给出今天就能用的具体动作。这本书不灌鸡汤，只讲操作，是职场新人前五年最值得反复翻的生存手册。</description>
+      <pubDate>Mon, 05 Oct 2026 13:26:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-edded5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《光速成长：职场的正确打开方式》是清华毕业生林晅基于自己公众号三年职场文章整理而成的实操指南，覆盖求职、入职、跳槽、自我管理六大板块。本期节目拆解其中六大核心拼图：职业选择从实习期就要开始做准备、求职是技术活而不是撞运气、邮件是职场底层操作系统、跳槽是定向投资而非逃避、消费习惯在前五年固化阶层位置、自我投资比消费更重要。每一块都给出今天就能用的具体动作。这本书不灌鸡汤，只讲操作，是职场新人前五年最值得反复翻的生存手册。</itunes:summary>
+      <itunes:duration>00:28:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-edded5.mp3" length="27024429" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
