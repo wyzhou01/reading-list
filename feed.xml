@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 17:21:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 17:29:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26007,6 +26007,17 @@
       <itunes:duration>00:27:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-5b24bd.mp3" length="26763309" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《野兽花园（Garden Of Beast）》 · 完整版 · 野兽花园_Garden_Of_Beast · 完整讲读</title>
+      <description>一九三六年夏天，柏林奥运会前夕。一个美国纽扣人保罗·舒曼被海军情报处派往柏林，暗杀德国重新武装的关键人物莱茵哈德·恩斯特。代价是一张洗清前科的出狱牌和一万美元。杰夫里·迪弗用十二天的时间，写一个普通人如何在纳粹德国的齿轮下，凭良心做出选择。故事没有歌颂英雄，而是冷静地呈现：当群体陷入狂热，敢不敢开口说那个【不】字。</description>
+      <pubDate>Mon, 05 Oct 2026 17:29:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-d37ea6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九三六年夏天，柏林奥运会前夕。一个美国纽扣人保罗·舒曼被海军情报处派往柏林，暗杀德国重新武装的关键人物莱茵哈德·恩斯特。代价是一张洗清前科的出狱牌和一万美元。杰夫里·迪弗用十二天的时间，写一个普通人如何在纳粹德国的齿轮下，凭良心做出选择。故事没有歌颂英雄，而是冷静地呈现：当群体陷入狂热，敢不敢开口说那个【不】字。</itunes:summary>
+      <itunes:duration>00:27:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-d37ea6.mp3" length="26765997" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
