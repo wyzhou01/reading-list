@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 22:19:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 22:25:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26205,6 +26205,17 @@
       <itunes:duration>00:29:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-203a5c.mp3" length="28397613" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《内在成长》 · 完整版 · 内在成长 · 完整讲读</title>
+      <description>本期《好好读书》解读心理学家塔玛·琼斯基的《内在成长：心智成熟的四个思维习惯》。本书指出，焦虑并非性格缺陷，而是大脑中负责监测危险的杏仁核在用石器时代的规则处理现代生活，由此引发灾难化思维、对他人的误读，以及对自己和他人不切实际的期待。琼斯基提出四个思维习惯：识别杏仁核的过度警报并切换到理性轨道；区分第一情境与第二情境，停止把可能当成很可能；精确解释他人的行为，看见他的人生剧本而非投射恶意；以及调整不切实际的期待，建立心智弹性。本书不教压抑情绪，而是教你重新认识大脑如何工作，把灾难化的猜想变成精确的判断，把对他人的期待变成可行的请求，最终夺回生活的主导权。</description>
+      <pubDate>Mon, 05 Oct 2026 22:25:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-3f4c22</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期《好好读书》解读心理学家塔玛·琼斯基的《内在成长：心智成熟的四个思维习惯》。本书指出，焦虑并非性格缺陷，而是大脑中负责监测危险的杏仁核在用石器时代的规则处理现代生活，由此引发灾难化思维、对他人的误读，以及对自己和他人不切实际的期待。琼斯基提出四个思维习惯：识别杏仁核的过度警报并切换到理性轨道；区分第一情境与第二情境，停止把可能当成很可能；精确解释他人的行为，看见他的人生剧本而非投射恶意；以及调整不切实际的期待，建立心智弹性。本书不教压抑情绪，而是教你重新认识大脑如何工作，把灾难化的猜想变成精确的判断，把对他人的期待变成可行的请求，最终夺回生活的主导权。</itunes:summary>
+      <itunes:duration>00:30:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-3f4c22.mp3" length="28897965" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
