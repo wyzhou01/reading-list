@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 12:02:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 12:11:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25611,6 +25611,17 @@
       <itunes:duration>00:26:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-7f94a2.mp3" length="25821741" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《用安静改变世界》 · 完整版 · 用安静改变世界 · 完整讲读</title>
+      <description>拉塞尔·西蒙斯的《用安静改变世界》不是一本神秘学读物，也不是一本神位迷信小册子，而是一份写给普通都市人的冥想入门指南。这位从皇后区街头一路走到身价三亿的嘻哈教父，把亲身经历摊开在桌上告诉你：他之所以能走到今天，靠的并不是灯红酒绿、嗑药狂欢，而是每天早上那二十分钟的安静。书里你会读到活在当下的全貌、自我设限的全貌、焦虑的全貌、杂念的全貌，以及如何把这些东西变成每天能用的肌肉。它不会许诺你成功，它只会告诉你：想走得远，先得静得下来。在这本节奏越来越快、内耗越来越普遍的今天重新翻读，你会发现——它不是过时的，它更贴切了。</description>
+      <pubDate>Mon, 05 Oct 2026 12:10:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-895a7a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>拉塞尔·西蒙斯的《用安静改变世界》不是一本神秘学读物，也不是一本神位迷信小册子，而是一份写给普通都市人的冥想入门指南。这位从皇后区街头一路走到身价三亿的嘻哈教父，把亲身经历摊开在桌上告诉你：他之所以能走到今天，靠的并不是灯红酒绿、嗑药狂欢，而是每天早上那二十分钟的安静。书里你会读到活在当下的全貌、自我设限的全貌、焦虑的全貌、杂念的全貌，以及如何把这些东西变成每天能用的肌肉。它不会许诺你成功，它只会告诉你：想走得远，先得静得下来。在这本节奏越来越快、内耗越来越普遍的今天重新翻读，你会发现——它不是过时的，它更贴切了。</itunes:summary>
+      <itunes:duration>00:28:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-895a7a.mp3" length="27476781" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
