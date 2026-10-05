@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 11:47:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 11:53:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25589,6 +25589,17 @@
       <itunes:duration>00:25:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-3db660.mp3" length="24721965" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《春分之后》 · 完整版 · 春分之后_-_(日)夏目漱石 · 完整讲读</title>
+      <description>明治青年田川敬太郎刚毕业，满脑子橡胶园、海豹岛、章鱼搏斗，正经事一件没干，却把听别人吹牛当成探索世界的方式。《春分之后》以他为线索，串起室友森本的荒唐往事、实干家田口与高等游民松本的针锋相对，以及须永和千代子口中一段心碎的婴儿夭折。敬太郎始终没有亲手上场，却在一场旁观式的冒险里，照见了实干、游荡、放任三种活法的根本分歧。漱石借这个只肯用耳朵活着的青年，写下一百一十年前最精准的判决书：你所得到的一切关于人世的经验，统统都是听来的，并非亲历。这既是他的不足，也是他最后的幸运。</description>
+      <pubDate>Mon, 05 Oct 2026 11:53:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-005c60</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>明治青年田川敬太郎刚毕业，满脑子橡胶园、海豹岛、章鱼搏斗，正经事一件没干，却把听别人吹牛当成探索世界的方式。《春分之后》以他为线索，串起室友森本的荒唐往事、实干家田口与高等游民松本的针锋相对，以及须永和千代子口中一段心碎的婴儿夭折。敬太郎始终没有亲手上场，却在一场旁观式的冒险里，照见了实干、游荡、放任三种活法的根本分歧。漱石借这个只肯用耳朵活着的青年，写下一百一十年前最精准的判决书：你所得到的一切关于人世的经验，统统都是听来的，并非亲历。这既是他的不足，也是他最后的幸运。</itunes:summary>
+      <itunes:duration>00:23:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-005c60.mp3" length="22850733" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
