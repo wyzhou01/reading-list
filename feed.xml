@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 17:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 17:59:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26040,6 +26040,17 @@
       <itunes:duration>00:24:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-389b42.mp3" length="23556525" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《摩天大楼》 · 完整版 · 摩天大楼 · 完整讲读</title>
+      <description>陈雪的长篇小说《摩天大楼》以一栋象征中产阶级巴别塔的台北高层公寓为舞台，讲述了咖啡店长钟美宝陈尸房中的悬疑故事。二十位住户依次登场自白，形成罗生门式的众声喧哗。推理外壳之下，小说追问：知道了为什么，是否就能抵消罪恶？美宝是被继父性侵的恶魔的女儿，她的创伤在代际传递，她的爱欲在窒息式性游戏里走向自我毁灭。而卑微的管理员谢保罗，以无须回报的爱，留下了走出迷宫的最后一条围巾。大楼不仅是后现代异托邦，更是平庸之恶的共犯结构，每一户人家共享着同一口呼吸与同一份沉默。陈雪以百分之百的诚实，策动了一宗无从破解的谋杀，斩断了言说与真理之间的联系，却在最冷的一笔里，留下了最温柔的救赎可能。</description>
+      <pubDate>Mon, 05 Oct 2026 17:59:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-60bb65</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>陈雪的长篇小说《摩天大楼》以一栋象征中产阶级巴别塔的台北高层公寓为舞台，讲述了咖啡店长钟美宝陈尸房中的悬疑故事。二十位住户依次登场自白，形成罗生门式的众声喧哗。推理外壳之下，小说追问：知道了为什么，是否就能抵消罪恶？美宝是被继父性侵的恶魔的女儿，她的创伤在代际传递，她的爱欲在窒息式性游戏里走向自我毁灭。而卑微的管理员谢保罗，以无须回报的爱，留下了走出迷宫的最后一条围巾。大楼不仅是后现代异托邦，更是平庸之恶的共犯结构，每一户人家共享着同一口呼吸与同一份沉默。陈雪以百分之百的诚实，策动了一宗无从破解的谋杀，斩断了言说与真理之间的联系，却在最冷的一笔里，留下了最温柔的救赎可能。</itunes:summary>
+      <itunes:duration>00:32:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-60bb65.mp3" length="31238445" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
