@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 22:39:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 22:45:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26238,6 +26238,17 @@
       <itunes:duration>00:27:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-e1ec0d.mp3" length="26201901" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《被嫌弃的松子的一生》 · 完整版 · 被嫌弃的松子的一生_山田宗树 · 完整讲读</title>
+      <description>《被嫌弃的松子的一生》是山田宗树二零零三年获第十八届横沟正史推理小说大奖的作品，讲述川尻松子从中学教师、浴场红牌、囚犯到被陌生人殴打致死的悲剧一生。她一生拼命爱别人却从未被爱，只因童年时被父亲忽视，她用一辈子重复童年那个渴望被看见的小女孩。本书借一个日本无缘死的社会新闻，照出每一个缺爱的人如何把自己燃尽的命运。</description>
+      <pubDate>Mon, 05 Oct 2026 22:44:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-24dbaa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《被嫌弃的松子的一生》是山田宗树二零零三年获第十八届横沟正史推理小说大奖的作品，讲述川尻松子从中学教师、浴场红牌、囚犯到被陌生人殴打致死的悲剧一生。她一生拼命爱别人却从未被爱，只因童年时被父亲忽视，她用一辈子重复童年那个渴望被看见的小女孩。本书借一个日本无缘死的社会新闻，照出每一个缺爱的人如何把自己燃尽的命运。</itunes:summary>
+      <itunes:duration>00:25:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-24dbaa.mp3" length="24437421" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
