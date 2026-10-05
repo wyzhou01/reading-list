@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 18:24:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 18:33:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26084,6 +26084,17 @@
       <itunes:duration>00:32:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-02efa2.mp3" length="31520685" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《彭大将军》 · 完整版 · 彭大将军 · 完整讲读</title>
+      <description>《彭大将军》是关河五十州写的彭德怀全景式传记。作者以纪实笔法，从井冈山突围讲起，一路写到长征、百团大战、抗美援朝，最终停在文革中这位元帅含冤辞世、骨灰被迫化名「王川」秘密保存的悲剧结尾。全书两条线交织：一条是战功线，呈现彭德怀靠「战场感觉」和破釜沉舟式的勇战风格屡建奇功的传奇经历；另一条是人性线，写他的火爆脾气、对战友的护短，以及在政治场域里的天真与固执。本书最打动人的地方不在于颂扬一位战神，而在于把一个真实的人——他的能力、他的局限、他无法逃脱的时代困境——完整地摆在读者面前。读懂彭德怀的一生，也就是读懂二十世纪中国政治与军事的深层逻辑。</description>
+      <pubDate>Mon, 05 Oct 2026 18:33:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-d879bc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《彭大将军》是关河五十州写的彭德怀全景式传记。作者以纪实笔法，从井冈山突围讲起，一路写到长征、百团大战、抗美援朝，最终停在文革中这位元帅含冤辞世、骨灰被迫化名「王川」秘密保存的悲剧结尾。全书两条线交织：一条是战功线，呈现彭德怀靠「战场感觉」和破釜沉舟式的勇战风格屡建奇功的传奇经历；另一条是人性线，写他的火爆脾气、对战友的护短，以及在政治场域里的天真与固执。本书最打动人的地方不在于颂扬一位战神，而在于把一个真实的人——他的能力、他的局限、他无法逃脱的时代困境——完整地摆在读者面前。读懂彭德怀的一生，也就是读懂二十世纪中国政治与军事的深层逻辑。</itunes:summary>
+      <itunes:duration>00:31:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-d879bc.mp3" length="30445101" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
