@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 19:21:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 19:28:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26172,6 +26172,17 @@
       <itunes:duration>00:28:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-98e49b.mp3" length="27496749" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《十日谈》 · 完整版 · 十日谈（译文名著典藏） · 完整讲读</title>
+      <description>这部诞生于一三四八年前后的意大利小说，是欧洲文艺复兴运动的奠基之作。七位小姐和三位青年在佛罗伦萨瘟疫中避难于郊外别墅，每人每天讲述一个故事，十天讲完一百个。本期通过六个核心洞察解读这部【人曲】：反教会权威与反禁欲主义、女性视角的觉醒、人的尊严的重新定义、文学结构上的创新、对普通人的现实主义还原，以及对世俗幸福的坚定主张。它在中世纪的神坛废墟上立起了【人】的第一座纪念碑，七百年后读来依然振聋发聩。</description>
+      <pubDate>Mon, 05 Oct 2026 19:28:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-9d62eb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>这部诞生于一三四八年前后的意大利小说，是欧洲文艺复兴运动的奠基之作。七位小姐和三位青年在佛罗伦萨瘟疫中避难于郊外别墅，每人每天讲述一个故事，十天讲完一百个。本期通过六个核心洞察解读这部【人曲】：反教会权威与反禁欲主义、女性视角的觉醒、人的尊严的重新定义、文学结构上的创新、对普通人的现实主义还原，以及对世俗幸福的坚定主张。它在中世纪的神坛废墟上立起了【人】的第一座纪念碑，七百年后读来依然振聋发聩。</itunes:summary>
+      <itunes:duration>00:29:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-9d62eb.mp3" length="28455597" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
