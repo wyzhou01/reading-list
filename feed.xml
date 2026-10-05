@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 17:37:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 17:50:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26029,6 +26029,17 @@
       <itunes:duration>00:23:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-37bddf.mp3" length="22106157" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《江湖三十年3：生死局中局》 · 完整版 · 江湖三十年3：生死局中局_(江湖三十年系列)-李幺傻 · 完整讲读</title>
+      <description>《江湖三十年》第三卷是李幺傻民国江湖传奇系列的代表作，以大西北镖路为背景，讲述了镖师呆狗在沙漠戈壁中遭遇日本特务追杀、丐帮叛徒暗算、翻戏党骗局与情感迷局的连环生死劫。作者用一层套一层的局中局结构，把江湖的险恶与侠义、温柔与冷酷，写得淋漓尽致。从鸳鸯壶到防不胜防，这本书不仅是一面映照乱世人性的镜子，更是对每一个在现代社会里依然相信江湖的读者的一记警钟。</description>
+      <pubDate>Mon, 05 Oct 2026 17:50:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-389b42</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《江湖三十年》第三卷是李幺傻民国江湖传奇系列的代表作，以大西北镖路为背景，讲述了镖师呆狗在沙漠戈壁中遭遇日本特务追杀、丐帮叛徒暗算、翻戏党骗局与情感迷局的连环生死劫。作者用一层套一层的局中局结构，把江湖的险恶与侠义、温柔与冷酷，写得淋漓尽致。从鸳鸯壶到防不胜防，这本书不仅是一面映照乱世人性的镜子，更是对每一个在现代社会里依然相信江湖的读者的一记警钟。</itunes:summary>
+      <itunes:duration>00:24:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-389b42.mp3" length="23556525" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
