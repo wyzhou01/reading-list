@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 17:15:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 17:21:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25996,6 +25996,17 @@
       <itunes:duration>00:28:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-36bc02.mp3" length="27520557" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《给塞伦娜的信》 · 完整版 · 给塞伦娜的信_(汉译世界学术名著丛书)_-_约翰·托兰德 · 完整讲读</title>
+      <description>《给塞伦娜的信》是十八世纪英国自由思想家约翰·托兰德写给普鲁士王后夏洛蒂的五封书信，集中批判了宗教与哲学中的传统偏见。全书追溯灵魂不朽观念在埃及的起源，揭示偶像崇拜下人创造神的秘密，系统论证物质自身具有的能动性，并驳斥斯宾诺莎等哲学家对物质与运动的割裂理解。这部一七零四年的作品将宗教批判延伸为政治批判，描绘了一幅万物皆变皆流的辩证宇宙图景，几十年后被法国启蒙运动主将霍尔巴赫译为法文，畅行欧洲，是理解十八世纪启蒙精神与现代性起源的钥匙。</description>
+      <pubDate>Mon, 05 Oct 2026 17:21:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-5b24bd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《给塞伦娜的信》是十八世纪英国自由思想家约翰·托兰德写给普鲁士王后夏洛蒂的五封书信，集中批判了宗教与哲学中的传统偏见。全书追溯灵魂不朽观念在埃及的起源，揭示偶像崇拜下人创造神的秘密，系统论证物质自身具有的能动性，并驳斥斯宾诺莎等哲学家对物质与运动的割裂理解。这部一七零四年的作品将宗教批判延伸为政治批判，描绘了一幅万物皆变皆流的辩证宇宙图景，几十年后被法国启蒙运动主将霍尔巴赫译为法文，畅行欧洲，是理解十八世纪启蒙精神与现代性起源的钥匙。</itunes:summary>
+      <itunes:duration>00:27:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-5b24bd.mp3" length="26763309" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
