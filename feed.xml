@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 15:31:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 15:41:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25853,6 +25853,17 @@
       <itunes:duration>00:31:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-106a0c.mp3" length="29913645" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《托尔斯泰集04-三死等：托尔斯泰中短篇小说选》 · 完整版 · 托尔斯泰集04-三死等_托尔斯泰中短篇小说选 · 完整讲读</title>
+      <description>《托尔斯泰中短篇小说选》精选十篇代表作，跨越作家早中晚三个精神阶段。从克里米亚战争前线的塞瓦斯托波尔，到贵族青年的精神漫游，到《三死》里一棵树与一个农妇、一位农人的三种死法，到《霍尔斯托梅尔》里一匹深色马对人类社会的冷峻凝视，到《伊万·伊利奇之死》里一个官僚在病榻上被迫直面灵魂的追问，到《克莱采奏鸣曲》里一个男人在婚姻废墟上对情欲与道德的残酷清算，最后到《谢尔盖神父》里一个修士走过怀疑、崩塌、流浪后抵达的那个朴素而真实的信仰。托尔斯泰用六十年的笔，逼问每一个读者同一个问题：一个人怎样才能真正地活着。不是活得体面，不是活得成功，是活得像他自己，死得像他自己。这是人类精神史上绕不开的一座丰碑，今天读来仍有刺痛人的力量。</description>
+      <pubDate>Mon, 05 Oct 2026 15:41:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-725a19</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《托尔斯泰中短篇小说选》精选十篇代表作，跨越作家早中晚三个精神阶段。从克里米亚战争前线的塞瓦斯托波尔，到贵族青年的精神漫游，到《三死》里一棵树与一个农妇、一位农人的三种死法，到《霍尔斯托梅尔》里一匹深色马对人类社会的冷峻凝视，到《伊万·伊利奇之死》里一个官僚在病榻上被迫直面灵魂的追问，到《克莱采奏鸣曲》里一个男人在婚姻废墟上对情欲与道德的残酷清算，最后到《谢尔盖神父》里一个修士走过怀疑、崩塌、流浪后抵达的那个朴素而真实的信仰。托尔斯泰用六十年的笔，逼问每一个读者同一个问题：一个人怎样才能真正地活着。不是活得体面，不是活得成功，是活得像他自己，死得像他自己。这是人类精神史上绕不开的一座丰碑，今天读来仍有刺痛人的力量。</itunes:summary>
+      <itunes:duration>00:28:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-725a19.mp3" length="27342765" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
