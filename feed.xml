@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 17:59:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 18:06:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26051,6 +26051,17 @@
       <itunes:duration>00:32:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-60bb65.mp3" length="31238445" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《乱世潜流：民族主义与民国政治》 · 完整版 · 乱世潜流_民族主义与民国政治_(中华史学丛书) · 完整讲读</title>
+      <description>《乱世潜流:民族主义与民国政治》是罗志田教授关于近代中国思想史与政治史相互作用的论文集。本书的核心论点是:民族主义从来不只是反抗外侮的救国口号,更是国家建构的重要面向;在民国内政与外交日益交织的语境下,各政治力量对民族主义的策略性运用,深刻影响了民国政局的走向。从「二十一条」到北伐,从地方意识与统一观念的辩证,到济南事件与中美关系的转折,本书用六块拼图重构了一段被忽视的肌理:民族主义的两面、政治力量的工具化运用、地方与统一的辩证、外国在华势力的嵌入性、研究失败一方的史学自觉。最终提示我们:任何看似强烈的情绪,背后都有更复杂的结构;任何看似稳固的同盟,背后都有更脆弱的张力。这是一本在反思革命叙事、重塑民国史血肉的时期写就的严肃著作。</description>
+      <pubDate>Mon, 05 Oct 2026 18:06:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-57873e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《乱世潜流:民族主义与民国政治》是罗志田教授关于近代中国思想史与政治史相互作用的论文集。本书的核心论点是:民族主义从来不只是反抗外侮的救国口号,更是国家建构的重要面向;在民国内政与外交日益交织的语境下,各政治力量对民族主义的策略性运用,深刻影响了民国政局的走向。从「二十一条」到北伐,从地方意识与统一观念的辩证,到济南事件与中美关系的转折,本书用六块拼图重构了一段被忽视的肌理:民族主义的两面、政治力量的工具化运用、地方与统一的辩证、外国在华势力的嵌入性、研究失败一方的史学自觉。最终提示我们:任何看似强烈的情绪,背后都有更复杂的结构;任何看似稳固的同盟,背后都有更脆弱的张力。这是一本在反思革命叙事、重塑民国史血肉的时期写就的严肃著作。</itunes:summary>
+      <itunes:duration>00:27:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-57873e.mp3" length="25961901" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
