@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 16:16:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 16:29:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25908,6 +25908,17 @@
       <itunes:duration>00:20:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-b81e83.mp3" length="20064429" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《狭义与广义相对论浅说》 · 完整版 · 狭义与广义相对论浅说_-_爱因斯坦 · 完整讲读</title>
+      <description>本期节目用一百二十分钟, 带你读完爱因斯坦亲笔撰写的《狭义与广义相对论浅说》。, 从迈克尔孙-莫雷实验的零结果出发, 我们跟随爱因斯坦用两条原理重建了时间、空间、同时性与长度, 用质能关系式揭示了质量即能量的本质。, 在此基础上, 我们沿广义相对论走入引力即时空弯曲的图景, 并最终抵达爱因斯坦关于宇宙几何的终极思考, 有限而无界, 没有独立于物质的空间背景。, 这本书一百年来再版十五次以上, 是科学元典中最易读、也最具颠覆性的一本。, 它不仅是物理学的入门, 更是一次对常识的彻底清算, 听完节目, 你将拥有二十世纪最伟大的世界观。, 文末附两条今天就能用的练习, 帮你把相对论的直觉真正放进生活。</description>
+      <pubDate>Mon, 05 Oct 2026 16:29:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-ee251c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期节目用一百二十分钟, 带你读完爱因斯坦亲笔撰写的《狭义与广义相对论浅说》。, 从迈克尔孙-莫雷实验的零结果出发, 我们跟随爱因斯坦用两条原理重建了时间、空间、同时性与长度, 用质能关系式揭示了质量即能量的本质。, 在此基础上, 我们沿广义相对论走入引力即时空弯曲的图景, 并最终抵达爱因斯坦关于宇宙几何的终极思考, 有限而无界, 没有独立于物质的空间背景。, 这本书一百年来再版十五次以上, 是科学元典中最易读、也最具颠覆性的一本。, 它不仅是物理学的入门, 更是一次对常识的彻底清算, 听完节目, 你将拥有二十世纪最伟大的世界观。, 文末附两条今天就能用的练习, 帮你把相对论的直觉真正放进生活。</itunes:summary>
+      <itunes:duration>00:29:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-ee251c.mp3" length="28458669" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
