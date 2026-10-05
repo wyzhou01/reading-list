@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 10:58:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 11:06:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25512,6 +25512,17 @@
       <itunes:duration>00:25:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-5d99f1.mp3" length="24656301" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《克兰福德镇》 · 完整版 · 克兰福德镇_-_[英]伊丽莎白盖斯凯 · 完整讲读</title>
+      <description>《克兰福德镇》是英国作家盖斯凯尔夫人的代表作。十九世纪初的英格兰偏远小镇上，住着一群家道中落却死守体面的中老年女性。她们从不谈钱，互相维护贵族遗风。退役军官布朗上尉坦荡闯入，当街承认自己贫穷，撕开了小镇心照不宣的体面秩序。此后银行破产、骗局上演、旧日恋情揭开，多年不和也在一场魔术演出与一顿午宴中被悄悄化解。盖斯凯尔以幽默温情的笔触，写出了维多利亚时代乡村女性的闺阁礼仪，体面与贫穷之间的微妙拉扯，以及旧秩序在现代冲击下如何出现裂缝、又如何在人情互助中被一一修补。</description>
+      <pubDate>Mon, 05 Oct 2026 11:06:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-53ca39</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《克兰福德镇》是英国作家盖斯凯尔夫人的代表作。十九世纪初的英格兰偏远小镇上，住着一群家道中落却死守体面的中老年女性。她们从不谈钱，互相维护贵族遗风。退役军官布朗上尉坦荡闯入，当街承认自己贫穷，撕开了小镇心照不宣的体面秩序。此后银行破产、骗局上演、旧日恋情揭开，多年不和也在一场魔术演出与一顿午宴中被悄悄化解。盖斯凯尔以幽默温情的笔触，写出了维多利亚时代乡村女性的闺阁礼仪，体面与贫穷之间的微妙拉扯，以及旧秩序在现代冲击下如何出现裂缝、又如何在人情互助中被一一修补。</itunes:summary>
+      <itunes:duration>00:26:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-53ca39.mp3" length="25762989" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
