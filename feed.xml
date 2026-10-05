@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 16:29:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 16:36:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25919,6 +25919,17 @@
       <itunes:duration>00:29:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-ee251c.mp3" length="28458669" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《人性的弱点：如何赢得友谊并影响他人》 · 完整版 · 人性的弱点：如何赢得友谊并影响他人 · 完整讲读</title>
+      <description>《人性的弱点》是戴尔·卡耐基一九三六年写就的人际关系经典,核心观点是:人际交往的本质是利他。全书围绕四大主题展开:不批评、不争辩的沟通智慧,真诚赞美与换位思考的实操方法,获取赞同与影响他人的具体法则,以及让家庭幸福的七条黄金法则。卡耐基用十五年时间研究心理学著作、伟人传记,结合课堂教学经验,告诉我们:人际关系不是天赋,而是一项可以学习的技能。一个人的成功,百分之八十五取决于人际交往能力,只有百分之十五来自专业知识。重读这本书,不是学几个小窍门,而是重新理解一个朴素的道理——你想让别人怎么对待你,先去怎样对待别人。</description>
+      <pubDate>Mon, 05 Oct 2026 16:36:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-7966d6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《人性的弱点》是戴尔·卡耐基一九三六年写就的人际关系经典,核心观点是:人际交往的本质是利他。全书围绕四大主题展开:不批评、不争辩的沟通智慧,真诚赞美与换位思考的实操方法,获取赞同与影响他人的具体法则,以及让家庭幸福的七条黄金法则。卡耐基用十五年时间研究心理学著作、伟人传记,结合课堂教学经验,告诉我们:人际关系不是天赋,而是一项可以学习的技能。一个人的成功,百分之八十五取决于人际交往能力,只有百分之十五来自专业知识。重读这本书,不是学几个小窍门,而是重新理解一个朴素的道理——你想让别人怎么对待你,先去怎样对待别人。</itunes:summary>
+      <itunes:duration>00:25:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-7966d6.mp3" length="24451245" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
