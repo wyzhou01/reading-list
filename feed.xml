@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 11:12:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 11:20:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25534,6 +25534,17 @@
       <itunes:duration>00:33:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-412e8c.mp3" length="32230701" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《注意力曲线》 · 完整版 · 注意力曲线 · 完整讲读</title>
+      <description>《注意力曲线》是精神科医生帕拉迪诺三十年临床经验的结晶，核心概念【注意力专区】指出：刺激太少人会无聊，刺激太多人会焦虑，只有处于恰当的中间地带才能真正专注。作者从运动心理学借鉴【倒U形曲线】模型，把运动员在赛场上的专注策略移植到普通人的工作桌前，提出八组调节钥匙，分情绪、心理、行为三个维度，帮助他们应对数字时代持续性部分的注意力坍塌。本书不仅是一份注意力管理指南，更是一份数字时代的清醒宣言：注意力是稀缺的货币，学会管理它，你就能在注意力经济中成为富有的人。</description>
+      <pubDate>Mon, 05 Oct 2026 11:20:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-9e7f1b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《注意力曲线》是精神科医生帕拉迪诺三十年临床经验的结晶，核心概念【注意力专区】指出：刺激太少人会无聊，刺激太多人会焦虑，只有处于恰当的中间地带才能真正专注。作者从运动心理学借鉴【倒U形曲线】模型，把运动员在赛场上的专注策略移植到普通人的工作桌前，提出八组调节钥匙，分情绪、心理、行为三个维度，帮助他们应对数字时代持续性部分的注意力坍塌。本书不仅是一份注意力管理指南，更是一份数字时代的清醒宣言：注意力是稀缺的货币，学会管理它，你就能在注意力经济中成为富有的人。</itunes:summary>
+      <itunes:duration>00:22:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-9e7f1b.mp3" length="21240237" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
