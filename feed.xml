@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 14:15:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 14:23:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25765,6 +25765,17 @@
       <itunes:duration>00:30:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-9fdca0.mp3" length="29576109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《空中杀人现场》 · 完整版 · 空中杀人现场 · 完整讲读</title>
+      <description>新日航空姐早濑英子（小A）在执行航班任务时，遭遇了一系列与乘客相关的离奇案件：从外站过夜时目睹客人妻子被勒死，到航班上怪乘客频频出现，再到她自己险遭车祸袭击。凭借冷静观察与推理，小A从一张送别会照片中揪出真凶——同事田口，也彻底理清了自己与前男友塚原之间的嫌疑。本作是西村京太郎以航空业为舞台的推理短篇集。</description>
+      <pubDate>Mon, 05 Oct 2026 14:23:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-d4bea7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>新日航空姐早濑英子（小A）在执行航班任务时，遭遇了一系列与乘客相关的离奇案件：从外站过夜时目睹客人妻子被勒死，到航班上怪乘客频频出现，再到她自己险遭车祸袭击。凭借冷静观察与推理，小A从一张送别会照片中揪出真凶——同事田口，也彻底理清了自己与前男友塚原之间的嫌疑。本作是西村京太郎以航空业为舞台的推理短篇集。</itunes:summary>
+      <itunes:duration>00:23:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-d4bea7.mp3" length="22672941" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
