@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 23:26:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 23:33:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26315,6 +26315,17 @@
       <itunes:duration>00:28:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-3cd86e.mp3" length="27827373" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《胚胎奇谭》 · 完整版 · 胚胎奇谭_-_[日]_山白朝子 · 完整讲读</title>
+      <description>《胚胎奇谭》是日本作家山白朝子——也就是乙一——的怪谈短篇集。全书由九个故事组成，皆由一位名叫和泉蜡庵的迷路旅行作家串联。他所到之处，规则悄然改写：未足月的胎儿离开母体依然存活，一颗青金石拖垮一家三代人，村子里每样东西都长人脸，一座不存在的桥上能遇见已死的故人。山白朝子用极度克制的笔法，把恐怖藏在日常的裂缝里，不给解释，让读者自己在脑中补完。这本书的厉害之处不在于吓你，而在于合上书之后，你再看窗外的世界，会觉得它跟十分钟前不一样了。</description>
+      <pubDate>Mon, 05 Oct 2026 23:33:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-95a398</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《胚胎奇谭》是日本作家山白朝子——也就是乙一——的怪谈短篇集。全书由九个故事组成，皆由一位名叫和泉蜡庵的迷路旅行作家串联。他所到之处，规则悄然改写：未足月的胎儿离开母体依然存活，一颗青金石拖垮一家三代人，村子里每样东西都长人脸，一座不存在的桥上能遇见已死的故人。山白朝子用极度克制的笔法，把恐怖藏在日常的裂缝里，不给解释，让读者自己在脑中补完。这本书的厉害之处不在于吓你，而在于合上书之后，你再看窗外的世界，会觉得它跟十分钟前不一样了。</itunes:summary>
+      <itunes:duration>00:27:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-95a398.mp3" length="26510253" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
