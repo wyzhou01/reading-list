@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 15:57:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 16:06:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25886,6 +25886,17 @@
       <itunes:duration>00:27:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-7b4f0b.mp3" length="26530221" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《悠悠南北朝：宋齐北魏的纷争史》 · 完整版 · 悠悠南北朝：宋齐北魏的纷争史 · 完整讲读</title>
+      <description>一千五百年前的长江两岸，南朝与北朝对峙了将近两百年的时间。这本《悠悠南北朝》，讲的就是这段历史的开端。作者陈素用流畅的笔触，讲述了从北魏崛起、刘宋代晋、萧齐代宋、北魏汉化改革，一直到萧衍代齐的完整历程，揭示了南北文化差异的真正源头：今日中国南方人之所以细腻温婉、北方人之所以豪爽直率，是南北朝三百年的民族大迁徙与文化大融合塑造的结果。这本书不仅是一段历史的再现，更是一面映照今日中国多元一体格局的镜子。</description>
+      <pubDate>Mon, 05 Oct 2026 16:06:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-07cad1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一千五百年前的长江两岸，南朝与北朝对峙了将近两百年的时间。这本《悠悠南北朝》，讲的就是这段历史的开端。作者陈素用流畅的笔触，讲述了从北魏崛起、刘宋代晋、萧齐代宋、北魏汉化改革，一直到萧衍代齐的完整历程，揭示了南北文化差异的真正源头：今日中国南方人之所以细腻温婉、北方人之所以豪爽直率，是南北朝三百年的民族大迁徙与文化大融合塑造的结果。这本书不仅是一段历史的再现，更是一面映照今日中国多元一体格局的镜子。</itunes:summary>
+      <itunes:duration>00:32:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-07cad1.mp3" length="30811821" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
