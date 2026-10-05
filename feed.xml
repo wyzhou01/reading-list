@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 12:23:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 12:33:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25633,6 +25633,17 @@
       <itunes:duration>00:34:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-b28d77.mp3" length="33337005" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《行者玄奘3：西域雪山》 · 完整版 · 行者玄奘3：西域雪山 · 完整讲读</title>
+      <description>这是一本用小说笔法重写玄奘西行的小说, 讲的是玄奘离开长安一年后, 翻越天山凌山的那段生死之旅。作者昌如以极具画面感的文字, 重现了丝绸之路上已经消失的毒泉、迷雾沼泽、沙妖、雪国少女、暴雪凌山等奇绝风景与人文奇观。书里的玄奘不再是那个冷静的记录者, 而是一个会疲惫、会愧疚、会在雪山上头痛欲裂的真人。整部书用六块拼图——苦、慈悲、活在当下、信仰、同行、铭记——回答了一个核心问题: 一个人, 究竟要付出多大的代价, 才能走出自己的舒适区, 去追寻一个更高的真理? 翻开这本书, 你看到的不仅是玄奘翻越凌山, 更是一个人如何在风雪中, 把自己活成了一束光。</description>
+      <pubDate>Mon, 05 Oct 2026 12:33:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-bddfb1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>这是一本用小说笔法重写玄奘西行的小说, 讲的是玄奘离开长安一年后, 翻越天山凌山的那段生死之旅。作者昌如以极具画面感的文字, 重现了丝绸之路上已经消失的毒泉、迷雾沼泽、沙妖、雪国少女、暴雪凌山等奇绝风景与人文奇观。书里的玄奘不再是那个冷静的记录者, 而是一个会疲惫、会愧疚、会在雪山上头痛欲裂的真人。整部书用六块拼图——苦、慈悲、活在当下、信仰、同行、铭记——回答了一个核心问题: 一个人, 究竟要付出多大的代价, 才能走出自己的舒适区, 去追寻一个更高的真理? 翻开这本书, 你看到的不仅是玄奘翻越凌山, 更是一个人如何在风雪中, 把自己活成了一束光。</itunes:summary>
+      <itunes:duration>00:26:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-bddfb1.mp3" length="25021101" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
