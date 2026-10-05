@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 23:33:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 23:41:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26326,6 +26326,17 @@
       <itunes:duration>00:27:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-95a398.mp3" length="26510253" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《风马牛（全三册）》 · 完整版 · 风马牛（全三册）(1) · 完整讲读</title>
+      <description>《风马牛》是福建电视台记者孙原三十年行走与思考的文字结晶，分三册收录百余篇散文随笔。从华盛顿没有街头广告的天空、长崎的中国之窗，到帕米尔高原的雄鹰与泸沽湖的母光，再到闽西山野里猎人卓雨露崩了屋顶的高压锅，孙原用镜头与笔触呈现了异域与故土、飞翔与蹲守、行走与温度之间的辩证。本书既是一位新闻人的人文观察，也是一份关于「如何既让灵魂飞翔又能在地上踏实行走」的生命答卷。文学评论家李以建以「人文合一」四字评价其境界，认为在当代作家中几乎寥若晨星。读这本书，你将在屏幕与算法切割一切的时代，重新学会用灵魂的温度去触碰世事冷暖。</description>
+      <pubDate>Mon, 05 Oct 2026 23:41:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-ed1c61</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《风马牛》是福建电视台记者孙原三十年行走与思考的文字结晶，分三册收录百余篇散文随笔。从华盛顿没有街头广告的天空、长崎的中国之窗，到帕米尔高原的雄鹰与泸沽湖的母光，再到闽西山野里猎人卓雨露崩了屋顶的高压锅，孙原用镜头与笔触呈现了异域与故土、飞翔与蹲守、行走与温度之间的辩证。本书既是一位新闻人的人文观察，也是一份关于「如何既让灵魂飞翔又能在地上踏实行走」的生命答卷。文学评论家李以建以「人文合一」四字评价其境界，认为在当代作家中几乎寥若晨星。读这本书，你将在屏幕与算法切割一切的时代，重新学会用灵魂的温度去触碰世事冷暖。</itunes:summary>
+      <itunes:duration>00:26:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-ed1c61.mp3" length="25283757" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
