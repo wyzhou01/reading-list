@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 13:37:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 13:45:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25710,6 +25710,17 @@
       <itunes:duration>00:28:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-57a013.mp3" length="27502509" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《圣诞男孩》 · 完整版 · 圣诞男孩 · 完整讲读</title>
+      <description>《圣诞男孩》是英国作家马特·海格写给所有人的童话。一个芬兰男孩尼古拉斯，出生在圣诞节，妈妈早亡，爸爸远行，独自熬过冰冷的冬天，被妖精带入神奇的北方。他一路失去，一路相信，最后在妖精世界明白了给予的真谛，戴上爸爸的旧红帽，成为了圣诞老伯。这是一本关于失去、相信与给予的书。它告诉每一个大人，相信本身就是魔法，给予就是另一种魔法。当你被世界伤过、当你觉得自己什么都没有，魔法会从你的相信里、善良里、不放弃里，长出来。</description>
+      <pubDate>Mon, 05 Oct 2026 13:44:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-2ea386</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《圣诞男孩》是英国作家马特·海格写给所有人的童话。一个芬兰男孩尼古拉斯，出生在圣诞节，妈妈早亡，爸爸远行，独自熬过冰冷的冬天，被妖精带入神奇的北方。他一路失去，一路相信，最后在妖精世界明白了给予的真谛，戴上爸爸的旧红帽，成为了圣诞老伯。这是一本关于失去、相信与给予的书。它告诉每一个大人，相信本身就是魔法，给予就是另一种魔法。当你被世界伤过、当你觉得自己什么都没有，魔法会从你的相信里、善良里、不放弃里，长出来。</itunes:summary>
+      <itunes:duration>00:25:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-2ea386.mp3" length="24933165" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
