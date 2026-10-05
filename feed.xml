@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 18:33:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 18:40:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26095,6 +26095,17 @@
       <itunes:duration>00:31:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-d879bc.mp3" length="30445101" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《2小时品牌素养》 · 完整版 · 2小时品牌素养 · 完整讲读</title>
+      <description>《二小时品牌素养》由特劳特中国合伙人邓德隆撰写，是中国第一本系统介绍定位理论的实战读本。书中揭示了中国企业家最常陷入的七大品牌观念误区，回顾了品牌战略从产品时代、形象时代到定位时代的三次演变，给出了抢先占位、关联定位、为竞争对手重新定位三种抢占心智资源的方法，并详述了定位之后如何进行系统整合。通过王老吉七年从一亿元做到一百六十亿元的完整案例，本书为中国企业从中国制造迈向中国品牌指出了三条世界级品牌战略出路。</description>
+      <pubDate>Mon, 05 Oct 2026 18:40:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-730aed</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《二小时品牌素养》由特劳特中国合伙人邓德隆撰写，是中国第一本系统介绍定位理论的实战读本。书中揭示了中国企业家最常陷入的七大品牌观念误区，回顾了品牌战略从产品时代、形象时代到定位时代的三次演变，给出了抢先占位、关联定位、为竞争对手重新定位三种抢占心智资源的方法，并详述了定位之后如何进行系统整合。通过王老吉七年从一亿元做到一百六十亿元的完整案例，本书为中国企业从中国制造迈向中国品牌指出了三条世界级品牌战略出路。</itunes:summary>
+      <itunes:duration>00:25:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-730aed.mp3" length="24046125" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
