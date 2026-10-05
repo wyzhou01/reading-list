@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 18:13:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 18:24:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26073,6 +26073,17 @@
       <itunes:duration>00:20:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-800605.mp3" length="19987245" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《河流之声》 · 完整版 · 河流之声 · 完整讲读</title>
+      <description>《河流之声》是加泰罗尼亚作家乔莫·卡夫雷二〇〇四年出版的长篇杰作，背景设定在西班牙内战后的独裁时期。小说以嵌套叙事讲述了一桩被掩埋六十年的少年谋杀案：当蒂娜老师在即将拆除的小学黑板夹层中发现四本笔记簿，她逐步揭开了一个画家教师如何沉默、一个十四岁男孩如何枉死、一个权贵家族如何脱罪的全过程。这本书追问的核心问题是：当罪行以代际方式延续，沉默如何成为共谋，迟来的清算又能否真正完成历史伤疤的告解。</description>
+      <pubDate>Mon, 05 Oct 2026 18:24:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-02efa2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《河流之声》是加泰罗尼亚作家乔莫·卡夫雷二〇〇四年出版的长篇杰作，背景设定在西班牙内战后的独裁时期。小说以嵌套叙事讲述了一桩被掩埋六十年的少年谋杀案：当蒂娜老师在即将拆除的小学黑板夹层中发现四本笔记簿，她逐步揭开了一个画家教师如何沉默、一个十四岁男孩如何枉死、一个权贵家族如何脱罪的全过程。这本书追问的核心问题是：当罪行以代际方式延续，沉默如何成为共谋，迟来的清算又能否真正完成历史伤疤的告解。</itunes:summary>
+      <itunes:duration>00:32:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-02efa2.mp3" length="31520685" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
