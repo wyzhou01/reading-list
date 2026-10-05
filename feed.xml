@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 18:46:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 18:54:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26117,6 +26117,17 @@
       <itunes:duration>00:34:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-46d8cd.mp3" length="32797101" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《显克维奇选集8：十字军骑士》 · 完整版 · 显克维奇选集8：十字军骑士 · 完整讲读</title>
+      <description>波兰作家显克维奇的史诗巨著《十字军骑士》, 以一三九九年到一四一零年的真实历史为背景, 讲述了小贵族马奇科叔侄在条顿骑士团侵扰下的苦难、流浪、复仇与成长, 并最终汇入格隆瓦尔德大决战的洪流。小说通过尤兰德一家的惨遭凌辱、兹比什科从毛头小子到真正骑士的蜕变, 揭露了十字军骑士团的贪婪虚伪, 阐释了弱小民族反抗强权侵略的正义性, 同时以尤兰德最终选择恕道释放仇人, 深刻探讨了基督教恕道与血亲复仇的冲突, 是波兰中小学生必读的民族史诗, 也是每一个想要体会弱小民族如何咬牙活下来的人, 不可不读的百年经典。</description>
+      <pubDate>Mon, 05 Oct 2026 18:54:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-be2371</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>波兰作家显克维奇的史诗巨著《十字军骑士》, 以一三九九年到一四一零年的真实历史为背景, 讲述了小贵族马奇科叔侄在条顿骑士团侵扰下的苦难、流浪、复仇与成长, 并最终汇入格隆瓦尔德大决战的洪流。小说通过尤兰德一家的惨遭凌辱、兹比什科从毛头小子到真正骑士的蜕变, 揭露了十字军骑士团的贪婪虚伪, 阐释了弱小民族反抗强权侵略的正义性, 同时以尤兰德最终选择恕道释放仇人, 深刻探讨了基督教恕道与血亲复仇的冲突, 是波兰中小学生必读的民族史诗, 也是每一个想要体会弱小民族如何咬牙活下来的人, 不可不读的百年经典。</itunes:summary>
+      <itunes:duration>00:30:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-be2371.mp3" length="28810797" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
