@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 12:51:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 13:09:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25666,6 +25666,17 @@
       <itunes:duration>00:37:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-45e601.mp3" length="35640621" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《走向多元文化的全球史》 · 完整版 · 走向多元文化的全球史 · 完整讲读</title>
+      <description>《走向多元文化的全球史:郑和下西洋(一四零五至一四三三)及中国与印度洋世界的关系》由加拿大华裔学者陈忠平主编,收录十一篇来自亚非欧美澳五大洲学者的最新研究,从网络理论、海洋文化、史料考辨、环境史、外交关系、文史交叉六个角度,重新审视郑和七下西洋这一被现代全球史叙事边缘化的重大历史事件。本书用严谨的史料考辨回应了郑和发现美洲等学术争议,揭示了郑和船队在印度洋世界建立的朝贡—贸易并行网络及其对早期全球化的深远贡献,论证了开放性航海知识体系与多元文化传统如何共同支撑起这场人类航海史上的空前壮举,并由此倡导一种超越欧洲中心论与华夏中心论的多元文化全球史书写。</description>
+      <pubDate>Mon, 05 Oct 2026 13:09:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-8aea57</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《走向多元文化的全球史:郑和下西洋(一四零五至一四三三)及中国与印度洋世界的关系》由加拿大华裔学者陈忠平主编,收录十一篇来自亚非欧美澳五大洲学者的最新研究,从网络理论、海洋文化、史料考辨、环境史、外交关系、文史交叉六个角度,重新审视郑和七下西洋这一被现代全球史叙事边缘化的重大历史事件。本书用严谨的史料考辨回应了郑和发现美洲等学术争议,揭示了郑和船队在印度洋世界建立的朝贡—贸易并行网络及其对早期全球化的深远贡献,论证了开放性航海知识体系与多元文化传统如何共同支撑起这场人类航海史上的空前壮举,并由此倡导一种超越欧洲中心论与华夏中心论的多元文化全球史书写。</itunes:summary>
+      <itunes:duration>00:31:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-8aea57.mp3" length="29995437" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
