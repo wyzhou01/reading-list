@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 10:53:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 10:58:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25501,6 +25501,17 @@
       <itunes:duration>00:27:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-4504d8.mp3" length="26256045" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《上帝与黄金》 · 完整版 · 上帝与黄金 · 完整讲读</title>
+      <description>本书以三百年英美战略史为线索，剖析美国实力的宗教、商业与制度根源。米德指出，英语国家凭借独特的新教伦理、对市场与变化的天然亲和以及对海洋与金融的娴熟驾驭，在大国竞争中屡战屡胜。但与此同时，英美所推动的市场扩张与技术加速，本身就在不断制造新的冲突与动荡。所谓历史的终结，并非辉格叙事所想象的和平天堂，而是一个远比预期更剧烈、更难预测的未来。本书既是关于美国霸权的深层史，也是对一切线性进步叙事的冷峻警告。</description>
+      <pubDate>Mon, 05 Oct 2026 10:58:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-5d99f1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书以三百年英美战略史为线索，剖析美国实力的宗教、商业与制度根源。米德指出，英语国家凭借独特的新教伦理、对市场与变化的天然亲和以及对海洋与金融的娴熟驾驭，在大国竞争中屡战屡胜。但与此同时，英美所推动的市场扩张与技术加速，本身就在不断制造新的冲突与动荡。所谓历史的终结，并非辉格叙事所想象的和平天堂，而是一个远比预期更剧烈、更难预测的未来。本书既是关于美国霸权的深层史，也是对一切线性进步叙事的冷峻警告。</itunes:summary>
+      <itunes:duration>00:25:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-5d99f1.mp3" length="24656301" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
