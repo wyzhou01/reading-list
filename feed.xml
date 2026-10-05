@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 23:41:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 23:48:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26337,6 +26337,17 @@
       <itunes:duration>00:26:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-ed1c61.mp3" length="25283757" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《分心也有好婚姻》 · 完整版 · 分心也有好婚姻(1) · 完整讲读</title>
+      <description>《分心也有好婚姻》是一本从【注意力】角度切入婚姻危机的书。哈佛精神科医生哈洛韦尔指出,现代人被科技训练成了随时切换的机器,持续关注的能力被严重削弱,而爱恰恰需要这种持续关注。书里提出六个核心命题:爱需要注意力、忙碌偷走注意力、分心不是病是被生活挤压的天赋、吵架本质是翻译失败、外遇源于影子人格无处安放、婚姻气场靠小动作的复利。哈洛韦尔本人就是分心者,他用三十年临床经验告诉你:关系变冷,常常不是爱没了,是你的脑子已经给不出持续的注意力了。修复的关键不是改掉分心,而是重新框架你看待分心的方式。</description>
+      <pubDate>Mon, 05 Oct 2026 23:48:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-8115cd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《分心也有好婚姻》是一本从【注意力】角度切入婚姻危机的书。哈佛精神科医生哈洛韦尔指出,现代人被科技训练成了随时切换的机器,持续关注的能力被严重削弱,而爱恰恰需要这种持续关注。书里提出六个核心命题:爱需要注意力、忙碌偷走注意力、分心不是病是被生活挤压的天赋、吵架本质是翻译失败、外遇源于影子人格无处安放、婚姻气场靠小动作的复利。哈洛韦尔本人就是分心者,他用三十年临床经验告诉你:关系变冷,常常不是爱没了,是你的脑子已经给不出持续的注意力了。修复的关键不是改掉分心,而是重新框架你看待分心的方式。</itunes:summary>
+      <itunes:duration>00:27:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-8115cd.mp3" length="26671917" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
