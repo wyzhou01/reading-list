@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 11:06:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 11:12:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -25523,6 +25523,17 @@
       <itunes:duration>00:26:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-53ca39.mp3" length="25762989" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《离异与回归：传统文化与近代化关系试析（增订版）》 · 完整版 · 离异与回归：传统文化与近代化关系试析(增订版)_(当代中国人文大系) · 完整讲读</title>
+      <description>《离异与回归》是辛亥革命研究泰斗章开沅先生以毕生治史功力写成的一部文化沉思录。全书以清末女性单士厘的真实故事开篇，揭示近代中国人在面对西方文明冲击时，所经历的从器物到制度再到文化的层层觉醒，以及随之而来的种种曲折与失机。书中提出离异与回归这对极富解释力的分析范畴，主张离异不可无根、回归不可返古，并通过对俄日现代化的比较、辛亥革命遗产的剖析、孙中山与传统文化关系的梳理、耶鲁馆藏容闳文献的钩沉，系统探讨中国走向近代化的文化历程。增订版另附六篇附录，记录作者数十年间与教会大学史、辛亥革命史研究结缘的学术心路。这部立此存照的小书，不仅是一代学人的心路实录，更是每一位现代中国人在文化认同上仍可参酌的精神指南。</description>
+      <pubDate>Mon, 05 Oct 2026 11:11:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-412e8c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《离异与回归》是辛亥革命研究泰斗章开沅先生以毕生治史功力写成的一部文化沉思录。全书以清末女性单士厘的真实故事开篇，揭示近代中国人在面对西方文明冲击时，所经历的从器物到制度再到文化的层层觉醒，以及随之而来的种种曲折与失机。书中提出离异与回归这对极富解释力的分析范畴，主张离异不可无根、回归不可返古，并通过对俄日现代化的比较、辛亥革命遗产的剖析、孙中山与传统文化关系的梳理、耶鲁馆藏容闳文献的钩沉，系统探讨中国走向近代化的文化历程。增订版另附六篇附录，记录作者数十年间与教会大学史、辛亥革命史研究结缘的学术心路。这部立此存照的小书，不仅是一代学人的心路实录，更是每一位现代中国人在文化认同上仍可参酌的精神指南。</itunes:summary>
+      <itunes:duration>00:33:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-412e8c.mp3" length="32230701" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
