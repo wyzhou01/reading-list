@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 02:09:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 02:16:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26546,6 +26546,17 @@
       <itunes:duration>00:23:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-7b14bb.mp3" length="22553901" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《猫城七日》 · 完整版 · 猫城七日 · 完整讲读</title>
+      <description>《猫城七日》是李娟首部长篇小说，讲述中年摄影师石明亮三十年后的冬夜，携辛老头骨灰与孤儿阿圆，重返封闭群山中的故乡猫城。七日之间，他穿过雨夜八三镇，重访四方美人街与九号墙门，揭开春分之夜的诀别真相：留洋工程师被巨石压死毙命于隧道终点百米处，猫城人反转为对死者的污名化传言，封闭了那条受诅咒的捷径；年轻医生苏碧宇因墙门被合住才被迫流落民间，三十年后才说出的那三个字，成了即决别的全部理由。石明亮穿越群山废墟，最终走入黑暗隧道告别猫城。</description>
+      <pubDate>Tue, 06 Oct 2026 02:16:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-244f3b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《猫城七日》是李娟首部长篇小说，讲述中年摄影师石明亮三十年后的冬夜，携辛老头骨灰与孤儿阿圆，重返封闭群山中的故乡猫城。七日之间，他穿过雨夜八三镇，重访四方美人街与九号墙门，揭开春分之夜的诀别真相：留洋工程师被巨石压死毙命于隧道终点百米处，猫城人反转为对死者的污名化传言，封闭了那条受诅咒的捷径；年轻医生苏碧宇因墙门被合住才被迫流落民间，三十年后才说出的那三个字，成了即决别的全部理由。石明亮穿越群山废墟，最终走入黑暗隧道告别猫城。</itunes:summary>
+      <itunes:duration>00:24:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-244f3b.mp3" length="23844909" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
