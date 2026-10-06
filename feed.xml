@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 18:02:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 18:07:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26865,6 +26865,17 @@
       <itunes:duration>00:23:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-9bb22c.mp3" length="22818093" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《不完美，才美》 · 完整版 · 不完美，才美(1) · 完整讲读</title>
+      <description>《不止是海蓝》是海蓝博士以几十年医学与心理学积淀写就的成长指南。她在书中提出一个颠覆性的观点：幸福不是得到你想要的，而是与你不想要的和平共处。全书从【接纳痛苦】讲起，拆解负面偏好的进化根源，给出静观与自我关怀两大底层工具；继而深入亲密关系、亲子教养与职场三大场景，揭示关系的本质是照见自己而非满足自己，养育的核心是父母先活成你自己而非用力过猛，工作不应是谋杀生命而应成就生命。书中穿插大量真实案例，从汶川地震的生死创伤到日常的房贷焦虑，从非洲难民的信仰力量到灰姑娘综合征的爱情幻觉，最终落点在一个朴素却深刻的命题——接纳自己的不完美，那是自己完整的一部分。读完这本书，你会明白：真正的幸福，不在你追不到的远方，而在你愿不愿意停止对自己开战。</description>
+      <pubDate>Tue, 06 Oct 2026 18:07:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-27f40d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《不止是海蓝》是海蓝博士以几十年医学与心理学积淀写就的成长指南。她在书中提出一个颠覆性的观点：幸福不是得到你想要的，而是与你不想要的和平共处。全书从【接纳痛苦】讲起，拆解负面偏好的进化根源，给出静观与自我关怀两大底层工具；继而深入亲密关系、亲子教养与职场三大场景，揭示关系的本质是照见自己而非满足自己，养育的核心是父母先活成你自己而非用力过猛，工作不应是谋杀生命而应成就生命。书中穿插大量真实案例，从汶川地震的生死创伤到日常的房贷焦虑，从非洲难民的信仰力量到灰姑娘综合征的爱情幻觉，最终落点在一个朴素却深刻的命题——接纳自己的不完美，那是自己完整的一部分。读完这本书，你会明白：真正的幸福，不在你追不到的远方，而在你愿不愿意停止对自己开战。</itunes:summary>
+      <itunes:duration>00:26:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-27f40d.mp3" length="25261485" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
