@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 18:32:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 18:32:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26942,6 +26942,17 @@
       <itunes:duration>00:25:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-12ecec.mp3" length="24863277" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《灵魂破译师》 · 完整版 · 灵魂破译师 · 完整讲读</title>
+      <description>《灵魂破译师》是李林麒二零一七年出版的心理悬疑长篇小说，讲述重度抑郁症患者唐平在精神病院吞下安眠药、试图跳楼后，遇到不按常理出牌的心理医生萧白，二人卷入吸血鬼抛尸案、影子杀人事件、多重人格少女雨默的身世谜团。小说借犯罪心理画像、催眠疗法、弗洛伊德生本能与死本能等心理学概念，探讨心灵创伤与自我救赎、真实与虚幻的边界、爱究竟是本能还是选择等议题，留下一句振聋发聩的提醒：真正能治病的不是医生，也不是药，而是病人自己。</description>
+      <pubDate>Tue, 06 Oct 2026 18:32:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-62ecd1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《灵魂破译师》是李林麒二零一七年出版的心理悬疑长篇小说，讲述重度抑郁症患者唐平在精神病院吞下安眠药、试图跳楼后，遇到不按常理出牌的心理医生萧白，二人卷入吸血鬼抛尸案、影子杀人事件、多重人格少女雨默的身世谜团。小说借犯罪心理画像、催眠疗法、弗洛伊德生本能与死本能等心理学概念，探讨心灵创伤与自我救赎、真实与虚幻的边界、爱究竟是本能还是选择等议题，留下一句振聋发聩的提醒：真正能治病的不是医生，也不是药，而是病人自己。</itunes:summary>
+      <itunes:duration>00:29:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-62ecd1.mp3" length="28601517" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
