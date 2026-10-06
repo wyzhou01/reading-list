@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 20:08:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 20:14:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27184,6 +27184,17 @@
       <itunes:duration>00:26:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-580577.mp3" length="25150893" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《抽烟喝酒防癌书》 · 完整版 · 抽烟喝酒防癌书(1) · 完整讲读</title>
+      <description>《抽烟喝酒防癌书》由医学博士柳垂亮与医学教授李万瑶合著，基于二十余年临床经验，精选七十一个真实病例，拆解抽烟、喝酒、熬夜、偏食等不良习惯与癌症等大病之间的因果链条。本书系统覆盖喉癌、肺癌、肝癌、膀胱癌、脑梗死等常见大病的早期征兆识别、自我检查方法、挂号科别指引与治疗建议，并专章讨论老年人、儿童、孕妇及家族病史人群的防癌重点，旨在帮助普通读者读懂身体信号，及早干预，避免小病拖成大病。</description>
+      <pubDate>Tue, 06 Oct 2026 20:14:36 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-9bd3ae</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《抽烟喝酒防癌书》由医学博士柳垂亮与医学教授李万瑶合著，基于二十余年临床经验，精选七十一个真实病例，拆解抽烟、喝酒、熬夜、偏食等不良习惯与癌症等大病之间的因果链条。本书系统覆盖喉癌、肺癌、肝癌、膀胱癌、脑梗死等常见大病的早期征兆识别、自我检查方法、挂号科别指引与治疗建议，并专章讨论老年人、儿童、孕妇及家族病史人群的防癌重点，旨在帮助普通读者读懂身体信号，及早干预，避免小病拖成大病。</itunes:summary>
+      <itunes:duration>00:29:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-9bd3ae.mp3" length="28548141" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
