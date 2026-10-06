@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 22:46:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 22:53:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27404,6 +27404,17 @@
       <itunes:duration>00:20:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-8845cd.mp3" length="19452333" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《乌克兰拖拉机简史》 · 完整版 · 乌克兰拖拉机简史 · 完整讲读</title>
+      <description>《乌克兰拖拉机简史》是玛卡琳·柳薇卡的处女作。它用一个英国乌克兰移民家庭的鸡飞狗跳，串起一整部民族的离散史诗。八十四岁的鳏夫父亲，在妻子去世两年后，要迎娶三十六岁的离异乌克兰金发女郎。娜杰日达与姐姐薇拉为几千元遗产反目成仇；母亲楼梯下那间对抗大饥荒幽灵的储藏室，成为两代乌克兰女性无言的战场；父亲口中的拖拉机史，藏着乌克兰百年被自身机械反复犁过的创伤。小说用荒诞喜剧的外壳，刺中每个离家之人最深的家庭创痛与身份焦虑。</description>
+      <pubDate>Tue, 06 Oct 2026 22:53:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-d5c32b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《乌克兰拖拉机简史》是玛卡琳·柳薇卡的处女作。它用一个英国乌克兰移民家庭的鸡飞狗跳，串起一整部民族的离散史诗。八十四岁的鳏夫父亲，在妻子去世两年后，要迎娶三十六岁的离异乌克兰金发女郎。娜杰日达与姐姐薇拉为几千元遗产反目成仇；母亲楼梯下那间对抗大饥荒幽灵的储藏室，成为两代乌克兰女性无言的战场；父亲口中的拖拉机史，藏着乌克兰百年被自身机械反复犁过的创伤。小说用荒诞喜剧的外壳，刺中每个离家之人最深的家庭创痛与身份焦虑。</itunes:summary>
+      <itunes:duration>00:35:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-d5c32b.mp3" length="34156077" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
