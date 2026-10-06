@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 22:21:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 22:30:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27360,6 +27360,17 @@
       <itunes:duration>00:26:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-e4b3a0.mp3" length="25738413" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《高效能人士的第八个习惯：从效能迈向卓越》 · 完整版 · 高效能人士的第八个习惯_-_史蒂芬·柯维 · 完整讲读</title>
+      <description>《高效能人士的第八个习惯》是史蒂芬·柯维继《七个习惯》之后的续作，回答了一个时代之问：当世界进入知识时代与智慧时代，仅仅高效已经不够，我们需要的是什么？柯维给出的答案是【第八个习惯】——找到你自己的心声，并激励他人去寻找他们的心声。本书从全球劳动力的普遍痛苦写起，剖析了组织中信任崩塌、责任失落的深层原因；继而提出解决方案，用六块拼图勾勒出从个人觉醒到领导力觉醒，再到体系觉醒的完整路径。心声由天赋、热情、需求、良知四要素构成，它不是抽象的使命，而是对一份具体需要的回应。柯维借孟加拉小额贷款之父尤纳斯的故事说明：卓越诞生于你看见一个具体的人，并决定为他做点什么的那一刻。本书既是给管理者的领导力指南，也是给每一个普通人的觉醒手册，历经二十年依然切中要害。</description>
+      <pubDate>Tue, 06 Oct 2026 22:30:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-caf627</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《高效能人士的第八个习惯》是史蒂芬·柯维继《七个习惯》之后的续作，回答了一个时代之问：当世界进入知识时代与智慧时代，仅仅高效已经不够，我们需要的是什么？柯维给出的答案是【第八个习惯】——找到你自己的心声，并激励他人去寻找他们的心声。本书从全球劳动力的普遍痛苦写起，剖析了组织中信任崩塌、责任失落的深层原因；继而提出解决方案，用六块拼图勾勒出从个人觉醒到领导力觉醒，再到体系觉醒的完整路径。心声由天赋、热情、需求、良知四要素构成，它不是抽象的使命，而是对一份具体需要的回应。柯维借孟加拉小额贷款之父尤纳斯的故事说明：卓越诞生于你看见一个具体的人，并决定为他做点什么的那一刻。本书既是给管理者的领导力指南，也是给每一个普通人的觉醒手册，历经二十年依然切中要害。</itunes:summary>
+      <itunes:duration>00:29:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-caf627.mp3" length="28032813" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
