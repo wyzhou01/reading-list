@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 16:45:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 16:57:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26722,6 +26722,17 @@
       <itunes:duration>00:20:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-41f58c.mp3" length="19900461" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《孤独的赢家》 · 完整版 · 孤独的赢家_-_[巴西]_保罗·柯艾略 · 完整讲读</title>
+      <description>《孤独的赢家》是巴西作家保罗·柯艾略于二千零八年出版的长篇小说，以法国戛纳电影节为背景，用二十四小时的时间结构，讲述了俄国外交商伊戈尔·马勒夫因两年前妻子伊娃的背叛，从莫斯科飞到戛纳企图复仇的故事。伊戈尔带着一把刻着十字的伯莱塔手枪，计划在电影节期间制造一起公开事件，向伊娃传递他愿意不计前嫌、欢迎她回来的信息。柯艾略用冷峻笔触拆解了上流社会的虚荣、孤独、算计与脆弱，让伊戈尔在街边卖手工艺品的姑娘奥莉薇娅、酒店女服务生克里斯蒂、派对造型师伊曼爱、十九岁少女杰思敏身上看见了爱的另一面：他最终放下了枪，明白爱只是教会一个人如何放手、如何记住、如何成为赢家。</description>
+      <pubDate>Tue, 06 Oct 2026 16:57:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-332302</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《孤独的赢家》是巴西作家保罗·柯艾略于二千零八年出版的长篇小说，以法国戛纳电影节为背景，用二十四小时的时间结构，讲述了俄国外交商伊戈尔·马勒夫因两年前妻子伊娃的背叛，从莫斯科飞到戛纳企图复仇的故事。伊戈尔带着一把刻着十字的伯莱塔手枪，计划在电影节期间制造一起公开事件，向伊娃传递他愿意不计前嫌、欢迎她回来的信息。柯艾略用冷峻笔触拆解了上流社会的虚荣、孤独、算计与脆弱，让伊戈尔在街边卖手工艺品的姑娘奥莉薇娅、酒店女服务生克里斯蒂、派对造型师伊曼爱、十九岁少女杰思敏身上看见了爱的另一面：他最终放下了枪，明白爱只是教会一个人如何放手、如何记住、如何成为赢家。</itunes:summary>
+      <itunes:duration>00:36:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-332302.mp3" length="34746669" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
