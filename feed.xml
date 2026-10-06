@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 03:44:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 03:51:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26689,6 +26689,17 @@
       <itunes:duration>00:26:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-9696ec.mp3" length="25349421" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《看戏一得——吴小如戏曲随笔》 · 完整版 · 看戏一得：吴小如戏曲随笔 · 完整讲读</title>
+      <description>《看戏一得——吴小如戏曲随笔》是北大教授吴小如六十余年京剧评论的结集，以剧目为经、演员为纬、师承为纲、文献考证为底线，纵向梳理富连成科班喜连成至元字科六科学员的表演艺术与师承源流，横向覆盖老生、花脸、武生、小生、旦行、丑行六大行当代表人物的艺评；后半部分直面电视振兴、剧目失实、票价门槛、剧场生态等当代议题，以【服从真理、每下判断皆有来历】的严谨笔法，为京剧在二十一世纪的命运留下一面冷静的镜子。</description>
+      <pubDate>Tue, 06 Oct 2026 03:51:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-cd4143</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《看戏一得——吴小如戏曲随笔》是北大教授吴小如六十余年京剧评论的结集，以剧目为经、演员为纬、师承为纲、文献考证为底线，纵向梳理富连成科班喜连成至元字科六科学员的表演艺术与师承源流，横向覆盖老生、花脸、武生、小生、旦行、丑行六大行当代表人物的艺评；后半部分直面电视振兴、剧目失实、票价门槛、剧场生态等当代议题，以【服从真理、每下判断皆有来历】的严谨笔法，为京剧在二十一世纪的命运留下一面冷静的镜子。</itunes:summary>
+      <itunes:duration>00:30:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-cd4143.mp3" length="28867245" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
