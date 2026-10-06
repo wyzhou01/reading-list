@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 20:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 21:10:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27250,6 +27250,17 @@
       <itunes:duration>00:26:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-3fcf50.mp3" length="25841325" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《别让直性子毁了你》 · 完整版 · 别让直性子毁了你 · 完整讲读</title>
+      <description>《别让直性子毁了你》告诉我们：直性子不是率真的代名词，而是缺乏边界感和自我控制的表现。真正的成熟不是压抑天性，而是学会迂回、宽容、示弱与“直而不害”。本书通过大量真实案例，深入剖析直性子的本质、成因及危害，并提供切实可行的改变方法。学会给自己的嘴巴找个“门卫”，在亲密关系中收起锋芒，在职场社交中懂得低头弯腰，把性格中的“直”转化为优势而非障碍。愿每一位读者：性情依旧，但生活更加丰富多彩。</description>
+      <pubDate>Tue, 06 Oct 2026 21:10:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-f905cd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《别让直性子毁了你》告诉我们：直性子不是率真的代名词，而是缺乏边界感和自我控制的表现。真正的成熟不是压抑天性，而是学会迂回、宽容、示弱与“直而不害”。本书通过大量真实案例，深入剖析直性子的本质、成因及危害，并提供切实可行的改变方法。学会给自己的嘴巴找个“门卫”，在亲密关系中收起锋芒，在职场社交中懂得低头弯腰，把性格中的“直”转化为优势而非障碍。愿每一位读者：性情依旧，但生活更加丰富多彩。</itunes:summary>
+      <itunes:duration>00:53:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-f905cd.mp3" length="51219501" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
