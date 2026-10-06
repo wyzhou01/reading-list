@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 01:22:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 01:28:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26491,6 +26491,17 @@
       <itunes:duration>00:26:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-fdc119.mp3" length="25020333" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《光在地球之时……⑨「六条」》 · 完整版 · [野村美月].光在地球之时……⑨「六条」 · 完整讲读</title>
+      <description>《光在地球之时……》第九集《六条》以《源氏物语》六条御息所的怨灵意象为骨架，讲述高中生赤城是光在文化祭后被帆夏、葵同时告白，又收到远在澳洲的初恋夕雨即将回国的简讯，校内同时流传着【赤城是光将在虞美人名下被制裁】的匿名威胁。暗线是帝门一朱——光的弟弟——以女装扮演六条，用蜘蛛之力编织复仇。野村美月以古典文本的现代改写，写嫉妒如何具象化为怨灵、简讯与女装，又如何被友情、初恋与一句【我等你】慢慢中和。</description>
+      <pubDate>Tue, 06 Oct 2026 01:28:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-e7eaed</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《光在地球之时……》第九集《六条》以《源氏物语》六条御息所的怨灵意象为骨架，讲述高中生赤城是光在文化祭后被帆夏、葵同时告白，又收到远在澳洲的初恋夕雨即将回国的简讯，校内同时流传着【赤城是光将在虞美人名下被制裁】的匿名威胁。暗线是帝门一朱——光的弟弟——以女装扮演六条，用蜘蛛之力编织复仇。野村美月以古典文本的现代改写，写嫉妒如何具象化为怨灵、简讯与女装，又如何被友情、初恋与一句【我等你】慢慢中和。</itunes:summary>
+      <itunes:duration>00:21:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-e7eaed.mp3" length="20942253" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
