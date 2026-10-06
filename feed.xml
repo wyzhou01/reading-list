@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 16:57:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 17:04:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26733,6 +26733,17 @@
       <itunes:duration>00:36:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-332302.mp3" length="34746669" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《人格研究》 · 完整版 · 人格研究（当代中国心理科学文库）_-_郭永玉 · 完整讲读</title>
+      <description>《人格研究》是郭永玉教授主编的近百万字学术巨著,系统整合当代人格心理学的研究成果。全书围绕人格特质、人格动力、人格发展、人格与社会文化四大板块,既涵盖大五人格、依恋理论、自我调节、死亡意识等国际前沿议题,又深入厚黑学、儒道佛精神特质、孝文化、中国幸福悖论等本土议题。它不只是描述人性,更回应中国社会的现实命题——从个人幸福、社会公平到世界和平。这本书既是写给专业研究者的学科参考,也是写给每一个想理解自己、理解他人、理解这个时代的普通人。</description>
+      <pubDate>Tue, 06 Oct 2026 17:04:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-a4caa9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《人格研究》是郭永玉教授主编的近百万字学术巨著,系统整合当代人格心理学的研究成果。全书围绕人格特质、人格动力、人格发展、人格与社会文化四大板块,既涵盖大五人格、依恋理论、自我调节、死亡意识等国际前沿议题,又深入厚黑学、儒道佛精神特质、孝文化、中国幸福悖论等本土议题。它不只是描述人性,更回应中国社会的现实命题——从个人幸福、社会公平到世界和平。这本书既是写给专业研究者的学科参考,也是写给每一个想理解自己、理解他人、理解这个时代的普通人。</itunes:summary>
+      <itunes:duration>00:23:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-a4caa9.mp3" length="22346541" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
