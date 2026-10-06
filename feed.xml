@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 17:32:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 17:40:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26810,6 +26810,17 @@
       <itunes:duration>00:34:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-1d1366.mp3" length="32715693" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《饮食谭屑》 · 完整版 · 饮食谭屑 · 完整讲读</title>
+      <description>《饮食谭屑》是东北作家兰楚写的一本关于老关东民间食俗与满族传统饮食的随笔集。全书围绕锅出溜、油炸糕、黏豆包、黄米酒、二人转唱词里的美食、童年动画片里馋人的鸡腿等主题，记录了作者在清贫童年里被食物慰藉的私人记忆，以及在现代快餐冲击下正在式微的传统手作美食。兰楚的文字平淡如白开水，却因为这份平实反而格外入味，是一份给正在消失的老味道写的私人挽歌。</description>
+      <pubDate>Tue, 06 Oct 2026 17:40:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-aed812</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《饮食谭屑》是东北作家兰楚写的一本关于老关东民间食俗与满族传统饮食的随笔集。全书围绕锅出溜、油炸糕、黏豆包、黄米酒、二人转唱词里的美食、童年动画片里馋人的鸡腿等主题，记录了作者在清贫童年里被食物慰藉的私人记忆，以及在现代快餐冲击下正在式微的传统手作美食。兰楚的文字平淡如白开水，却因为这份平实反而格外入味，是一份给正在消失的老味道写的私人挽歌。</itunes:summary>
+      <itunes:duration>00:31:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-aed812.mp3" length="30446637" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
