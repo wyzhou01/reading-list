@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 18:39:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 18:42:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26964,6 +26964,17 @@
       <itunes:duration>00:23:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-0e878f.mp3" length="22266669" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《对于历史，科学家有话说》 · 完整版 · 对于历史，科学家有话说 · 完整讲读</title>
+      <description>本书是当代科学史学者熊卫民教授十余年口述访谈的精选集，通过对郑哲敏、施履吉、沈善炯、邹承鲁、何祚庥等百位科学家与科研管理干部的访谈，再现了二十世纪后半叶中国科学界在政治运动、体制变迁中的浮沉。全书六块核心拼图——天才悲剧、运动创伤、共同体缺失、学术领导缺位、体制性创造力消耗、口述史方法论自觉——共同指向一个核心命题：中国科学始终深深嵌入政治与权力之中。理解这段历史，不仅是为了拒绝遗忘，更是为了为当下的科技体制改革提供镜鉴。</description>
+      <pubDate>Tue, 06 Oct 2026 18:42:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-99a170</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是当代科学史学者熊卫民教授十余年口述访谈的精选集，通过对郑哲敏、施履吉、沈善炯、邹承鲁、何祚庥等百位科学家与科研管理干部的访谈，再现了二十世纪后半叶中国科学界在政治运动、体制变迁中的浮沉。全书六块核心拼图——天才悲剧、运动创伤、共同体缺失、学术领导缺位、体制性创造力消耗、口述史方法论自觉——共同指向一个核心命题：中国科学始终深深嵌入政治与权力之中。理解这段历史，不仅是为了拒绝遗忘，更是为了为当下的科技体制改革提供镜鉴。</itunes:summary>
+      <itunes:duration>00:28:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-99a170.mp3" length="27636909" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
