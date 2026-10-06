@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 22:41:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 22:46:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27393,6 +27393,17 @@
       <itunes:duration>00:29:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-eecccf.mp3" length="28621485" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《看诗不分明》 · 完整版 · 看诗不分明 · 完整讲读</title>
+      <description>《看诗不分明》是当代女作家潘向黎的古诗赏读随笔集。她主张一种业余的、不分明的、断章取义的读诗方式：不查典故，不问作者本意，只抓住那一句击中你的话。从乐府诗里的越女表白、渡易水的荆轲、江南采莲的少女，到唐诗里的极致瞬间，再到杨贵妃与唐代女性时尚，她用女性的敏感与作家的笔触，把古诗从故纸堆里打捞出来，放回到生活的桌面上。这本书的真正主张是：在黑白要分明、爱憎要分明的现代生活里，看诗可以不必分明。允许一首诗在心里长出原诗里没有的枝杈，允许一场美丽的误会温暖你十年八年。读古诗，本质上是一次松一口气的练习。</description>
+      <pubDate>Tue, 06 Oct 2026 22:46:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-8845cd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《看诗不分明》是当代女作家潘向黎的古诗赏读随笔集。她主张一种业余的、不分明的、断章取义的读诗方式：不查典故，不问作者本意，只抓住那一句击中你的话。从乐府诗里的越女表白、渡易水的荆轲、江南采莲的少女，到唐诗里的极致瞬间，再到杨贵妃与唐代女性时尚，她用女性的敏感与作家的笔触，把古诗从故纸堆里打捞出来，放回到生活的桌面上。这本书的真正主张是：在黑白要分明、爱憎要分明的现代生活里，看诗可以不必分明。允许一首诗在心里长出原诗里没有的枝杈，允许一场美丽的误会温暖你十年八年。读古诗，本质上是一次松一口气的练习。</itunes:summary>
+      <itunes:duration>00:20:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-8845cd.mp3" length="19452333" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
