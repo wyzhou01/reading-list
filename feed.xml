@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 18:51:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 18:57:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26997,6 +26997,17 @@
       <itunes:duration>00:25:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-e1781a.mp3" length="24749997" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《有时》 · 完整版 · 有时(1) · 完整讲读</title>
+      <description>《有时》是青年经济学者徐瑾跨越十年写就的文学随笔集，全书二十余篇，以经济学者的结构感进入文学文本，借安娜·卡列尼娜、马尔克斯、盖茨比、小津安二郎、大岛渚、荒木经惟等名字，将人生切成爱之绚丽徒劳、老之卑微枯寂、救赎之虚妄与可能三大主题。徐瑾反复追问文学为何不能简化世界，认为简化是知识的起点，复杂才是理解的终点。本书克制而诚实，不提供答案，只承诺复杂性本身的价值，是一本值得在简化冲动面前一读再读的小书。</description>
+      <pubDate>Tue, 06 Oct 2026 18:57:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-cb1913</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《有时》是青年经济学者徐瑾跨越十年写就的文学随笔集，全书二十余篇，以经济学者的结构感进入文学文本，借安娜·卡列尼娜、马尔克斯、盖茨比、小津安二郎、大岛渚、荒木经惟等名字，将人生切成爱之绚丽徒劳、老之卑微枯寂、救赎之虚妄与可能三大主题。徐瑾反复追问文学为何不能简化世界，认为简化是知识的起点，复杂才是理解的终点。本书克制而诚实，不提供答案，只承诺复杂性本身的价值，是一本值得在简化冲动面前一读再读的小书。</itunes:summary>
+      <itunes:duration>00:30:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-cb1913.mp3" length="28984365" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
