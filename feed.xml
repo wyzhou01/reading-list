@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 22:35:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 22:41:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27382,6 +27382,17 @@
       <itunes:duration>00:22:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-cfa264.mp3" length="21337773" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中原大战：民国军阀的终极逐鹿》 · 完整版 · 中原大战：民国军阀的终极逐鹿(1) · 完整讲读</title>
+      <description>《中原大战：民国军阀的终极逐鹿》是关河五十州写就的近代史通俗读物，以一九二七年北伐为起点，沿着蒋介石、冯玉祥、阎锡山、李宗仁等新旧军阀从合作到决裂的脉络，重点还原一九三零年中原大战爆发前各方势力的合纵连横、战场博弈与幕后外交。通过黄郛的纵横捭阖、冯玉祥的反复倒戈、阎锡山的精于算计以及蒋介石的分化瓦解，本书揭示了这场近代史上规模最大的军阀混战如何重塑民国政治版图，并奠定国民党名义统一的基础。</description>
+      <pubDate>Tue, 06 Oct 2026 22:41:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-eecccf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《中原大战：民国军阀的终极逐鹿》是关河五十州写就的近代史通俗读物，以一九二七年北伐为起点，沿着蒋介石、冯玉祥、阎锡山、李宗仁等新旧军阀从合作到决裂的脉络，重点还原一九三零年中原大战爆发前各方势力的合纵连横、战场博弈与幕后外交。通过黄郛的纵横捭阖、冯玉祥的反复倒戈、阎锡山的精于算计以及蒋介石的分化瓦解，本书揭示了这场近代史上规模最大的军阀混战如何重塑民国政治版图，并奠定国民党名义统一的基础。</itunes:summary>
+      <itunes:duration>00:29:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-eecccf.mp3" length="28621485" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
