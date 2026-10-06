@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 18:32:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 18:39:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26953,6 +26953,17 @@
       <itunes:duration>00:29:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-62ecd1.mp3" length="28601517" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《爱与数学》 · 完整版 · 爱与数学_-_爱德华·弗伦克尔 · 完整讲读</title>
+      <description>《爱与数学》是当代数学家爱德华·弗伦克尔写给普通人的一封长信。他从自己中学时被恩师引入数学殿堂的亲身经历讲起，串联起对称、群论、朗兰兹纲领与数学统一图景，向读者展示了一个远比课本生动的数学世界。本书不仅是一部现代数学的科普经典，更是一部关于自由与判断力的公民读本——弗伦克尔用金融危机的数学根源与消费者物价指数被悄悄改写的真实案例，论证了一个朴素而尖锐的判断：不懂数学，普通人就会在悄无声息中被剥夺。数学的精义在于蕴藏其中的自由——它是大统一理论，是公民的免疫系统，也是一种跨越时代与文化的爱。</description>
+      <pubDate>Tue, 06 Oct 2026 18:39:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-0e878f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《爱与数学》是当代数学家爱德华·弗伦克尔写给普通人的一封长信。他从自己中学时被恩师引入数学殿堂的亲身经历讲起，串联起对称、群论、朗兰兹纲领与数学统一图景，向读者展示了一个远比课本生动的数学世界。本书不仅是一部现代数学的科普经典，更是一部关于自由与判断力的公民读本——弗伦克尔用金融危机的数学根源与消费者物价指数被悄悄改写的真实案例，论证了一个朴素而尖锐的判断：不懂数学，普通人就会在悄无声息中被剥夺。数学的精义在于蕴藏其中的自由——它是大统一理论，是公民的免疫系统，也是一种跨越时代与文化的爱。</itunes:summary>
+      <itunes:duration>00:23:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-0e878f.mp3" length="22266669" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
