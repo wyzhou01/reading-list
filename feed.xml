@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 19:22:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 19:26:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27074,6 +27074,17 @@
       <itunes:duration>00:37:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-477db6.mp3" length="36139821" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《非典型总统特朗普》 · 完整版 · 非典型总统特朗普 · 完整讲读</title>
+      <description>《非典型总统特朗普》由财新传媒出品，系统梳理特朗普从宣布参选到当选总统的全过程，并分析这场政治风暴对中美关系、全球贸易与金融市场的深远冲击。全书分上下两篇：上篇解析特朗普的崛起逻辑、保守主义联盟的坍塌、与里根式供给学派的相似与本质差异；下篇聚焦特朗普当选后的世界重塑，包括中美贸易关系再定位、TPP可能流产对中国的影响、以及全球资产配置面临的不确定性。本书揭示，特朗普现象并非孤立事件，而是全球化红利消退、民粹主义兴起、建制派失能的共同产物，预示着一个由美国主导的稳定秩序正在走向终结。</description>
+      <pubDate>Tue, 06 Oct 2026 19:26:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-45795f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《非典型总统特朗普》由财新传媒出品，系统梳理特朗普从宣布参选到当选总统的全过程，并分析这场政治风暴对中美关系、全球贸易与金融市场的深远冲击。全书分上下两篇：上篇解析特朗普的崛起逻辑、保守主义联盟的坍塌、与里根式供给学派的相似与本质差异；下篇聚焦特朗普当选后的世界重塑，包括中美贸易关系再定位、TPP可能流产对中国的影响、以及全球资产配置面临的不确定性。本书揭示，特朗普现象并非孤立事件，而是全球化红利消退、民粹主义兴起、建制派失能的共同产物，预示着一个由美国主导的稳定秩序正在走向终结。</itunes:summary>
+      <itunes:duration>00:24:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-45795f.mp3" length="23823405" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
