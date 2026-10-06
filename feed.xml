@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 00:59:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 01:08:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26458,6 +26458,17 @@
       <itunes:duration>00:30:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-7a9f6e.mp3" length="29559597" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《十六世纪明代中国之财政与税收》 · 完整版 · 十六世纪明代中国之财政与税收 · 完整讲读</title>
+      <description>黄仁宇的《十六世纪明代中国之财政与税收》是英语世界第一本系统研究明代财政全貌的专著。本期通过三块核心拼图，剖析明代财政的【非系统性】病灶：田赋账实不符、盐课名存实亡、军费吞噬一切，加上张居正改革的成效与人亡政息的局限，揭示一个庞大帝国如何在账目混乱中勉强维持，又如何在白银货币化与军事压力的双重夹击下走向崩溃。黄仁宇用【大历史】的视角告诉我们：混乱不是某个皇帝的失误，而是整个体制的结构性特征；读懂这本四百年前的糊涂账，我们今天面对任何复杂组织，都能看得更深一些。</description>
+      <pubDate>Tue, 06 Oct 2026 01:08:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-725e32</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>黄仁宇的《十六世纪明代中国之财政与税收》是英语世界第一本系统研究明代财政全貌的专著。本期通过三块核心拼图，剖析明代财政的【非系统性】病灶：田赋账实不符、盐课名存实亡、军费吞噬一切，加上张居正改革的成效与人亡政息的局限，揭示一个庞大帝国如何在账目混乱中勉强维持，又如何在白银货币化与军事压力的双重夹击下走向崩溃。黄仁宇用【大历史】的视角告诉我们：混乱不是某个皇帝的失误，而是整个体制的结构性特征；读懂这本四百年前的糊涂账，我们今天面对任何复杂组织，都能看得更深一些。</itunes:summary>
+      <itunes:duration>00:26:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-725e32.mp3" length="25291053" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
