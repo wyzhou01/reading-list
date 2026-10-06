@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 00:51:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 00:59:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26447,6 +26447,17 @@
       <itunes:duration>00:29:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-b6ec73.mp3" length="28386093" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《奥吉·马奇历险记》 · 完整版 · 奥吉·马奇历险记 · 完整讲读</title>
+      <description>《奥吉·马奇历险记》是索尔·贝娄的代表作，也是二十世纪美国小说的经典之一。小说以第一人称讲述了犹太少年奥吉从芝加哥贫民窟走向全世界的故事——他偷过东西，撒过谎，参加过二战，漂泊过墨西哥、非洲、欧洲，谈过刻骨铭心的恋爱。全书融合了成长小说、自传、流浪汉小说与哲理随笔四种传统，以幽默包裹悲凉，探讨了美国身份、犹太移民经验、贫穷与欲望的博弈、爱情与自我欺骗、民主与世界主义的双重理想，以及自我讲述与真相不可穷尽这五组核心命题。这部八百页的长篇巨著，既是一个普通人的一生，也是一部关于美国精神的史诗。</description>
+      <pubDate>Tue, 06 Oct 2026 00:59:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-7a9f6e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《奥吉·马奇历险记》是索尔·贝娄的代表作，也是二十世纪美国小说的经典之一。小说以第一人称讲述了犹太少年奥吉从芝加哥贫民窟走向全世界的故事——他偷过东西，撒过谎，参加过二战，漂泊过墨西哥、非洲、欧洲，谈过刻骨铭心的恋爱。全书融合了成长小说、自传、流浪汉小说与哲理随笔四种传统，以幽默包裹悲凉，探讨了美国身份、犹太移民经验、贫穷与欲望的博弈、爱情与自我欺骗、民主与世界主义的双重理想，以及自我讲述与真相不可穷尽这五组核心命题。这部八百页的长篇巨著，既是一个普通人的一生，也是一部关于美国精神的史诗。</itunes:summary>
+      <itunes:duration>00:30:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-7a9f6e.mp3" length="29559597" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
