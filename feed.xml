@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 21:36:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 21:45:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27283,6 +27283,17 @@
       <itunes:duration>00:31:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-4944c3.mp3" length="29867949" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《逃亡：布尔加科夫剧作集》 · 完整版 · 逃亡：布尔加科夫剧作集 · 完整讲读</title>
+      <description>《逃亡:布尔加科夫剧作集》是中文世界第一部较为完整的布尔加科夫戏剧译本,收录了八部剧作,时间跨度从一九二六年到一九三九年。贯穿全集的是一个永恒主题——人在历史洪流里的逃亡:逃亡战火、逃亡审查、逃亡命运本身。从白卫军军官在内战中的挣扎,到莫里哀与路易十四的正面冲突,再到青年斯大林在高加索雪夜的逃亡,布尔加科夫用喜剧与悲剧的双重笔法,反复追问同一个问题:在一个不允许自由呼吸的时代,艺术家究竟该如何存在。这本书在领域内的地位,可以由巴乌斯托夫斯基的话概括:莫斯科艺术剧院有两位自己的作者——契诃夫和布尔加科夫。今天仍值得读,是因为布尔加科夫笔下的逃亡,恰恰是我们这个时代每一个普通人都会面对的命题。</description>
+      <pubDate>Tue, 06 Oct 2026 21:45:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-a949d0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《逃亡:布尔加科夫剧作集》是中文世界第一部较为完整的布尔加科夫戏剧译本,收录了八部剧作,时间跨度从一九二六年到一九三九年。贯穿全集的是一个永恒主题——人在历史洪流里的逃亡:逃亡战火、逃亡审查、逃亡命运本身。从白卫军军官在内战中的挣扎,到莫里哀与路易十四的正面冲突,再到青年斯大林在高加索雪夜的逃亡,布尔加科夫用喜剧与悲剧的双重笔法,反复追问同一个问题:在一个不允许自由呼吸的时代,艺术家究竟该如何存在。这本书在领域内的地位,可以由巴乌斯托夫斯基的话概括:莫斯科艺术剧院有两位自己的作者——契诃夫和布尔加科夫。今天仍值得读,是因为布尔加科夫笔下的逃亡,恰恰是我们这个时代每一个普通人都会面对的命题。</itunes:summary>
+      <itunes:duration>00:29:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-a949d0.mp3" length="27889197" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
