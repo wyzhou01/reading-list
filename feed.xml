@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 00:43:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 00:51:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26436,6 +26436,17 @@
       <itunes:duration>00:32:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-1aeec4.mp3" length="31504173" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《政治的概念》 · 完整版 · 政治的概念 · 完整讲读</title>
+      <description>《政治的概念》是二十世纪最具争议的政治学经典。施米特在魏玛共和国崩溃前夕提出：政治的唯一标准是划分敌友，主权者的本质是对非常状态作出决断，自由主义以伦理与经济消解政治却反而制造更极端的政治。晚年的《游击队理论》进一步预言了绝对敌对性的现代形态。读这本书，就是直面被礼貌辞令遮蔽的政治真相。</description>
+      <pubDate>Tue, 06 Oct 2026 00:51:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-b6ec73</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《政治的概念》是二十世纪最具争议的政治学经典。施米特在魏玛共和国崩溃前夕提出：政治的唯一标准是划分敌友，主权者的本质是对非常状态作出决断，自由主义以伦理与经济消解政治却反而制造更极端的政治。晚年的《游击队理论》进一步预言了绝对敌对性的现代形态。读这本书，就是直面被礼貌辞令遮蔽的政治真相。</itunes:summary>
+      <itunes:duration>00:29:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-b6ec73.mp3" length="28386093" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
