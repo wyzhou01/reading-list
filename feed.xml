@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 02:47:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 02:54:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26601,6 +26601,17 @@
       <itunes:duration>00:34:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-560555.mp3" length="32737581" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《漫长的告白》 · 完整版 · 漫长的告白_-_（美）翠吉亚妮 · 完整讲读</title>
+      <description>《漫长的告白》是意大利裔美籍作家翠吉亚妮根据祖母真实经历写成的一部跨世纪爱情与移民史诗。一九零五年，十岁的斯诺与恩扎在阿尔卑斯山的修道院相遇，后因斯诺父亲远赴美国谋生且客死他乡，兄弟二人被迫寄身修道院，靠手艺换一口饭吃；恩扎则在矿区小镇替父亲拉扯弟妹，靠一双手和一根针撑起一个家。多年后，斯诺独自前往纽约，从修鞋匠一步步在曼哈顿开出自己的店；恩扎也从阿尔卑斯山辗转抵达美国。两个人在最繁华的街头错过了整整三十年，最终在明尼苏达的风雪里重逢，以一枚金币、一枚戒指、一根缝衣针，缝起了一生的婚姻。一本书，写尽一代意大利移民如何用手艺与牺牲在大西洋两岸扎根，也写尽一个女人如何在别人的需要里，藏起自己的名字。</description>
+      <pubDate>Tue, 06 Oct 2026 02:54:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-6d2a93</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《漫长的告白》是意大利裔美籍作家翠吉亚妮根据祖母真实经历写成的一部跨世纪爱情与移民史诗。一九零五年，十岁的斯诺与恩扎在阿尔卑斯山的修道院相遇，后因斯诺父亲远赴美国谋生且客死他乡，兄弟二人被迫寄身修道院，靠手艺换一口饭吃；恩扎则在矿区小镇替父亲拉扯弟妹，靠一双手和一根针撑起一个家。多年后，斯诺独自前往纽约，从修鞋匠一步步在曼哈顿开出自己的店；恩扎也从阿尔卑斯山辗转抵达美国。两个人在最繁华的街头错过了整整三十年，最终在明尼苏达的风雪里重逢，以一枚金币、一枚戒指、一根缝衣针，缝起了一生的婚姻。一本书，写尽一代意大利移民如何用手艺与牺牲在大西洋两岸扎根，也写尽一个女人如何在别人的需要里，藏起自己的名字。</itunes:summary>
+      <itunes:duration>00:28:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-6d2a93.mp3" length="26984109" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
