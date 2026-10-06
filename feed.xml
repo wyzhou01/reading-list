@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 18:42:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 18:50:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26975,6 +26975,17 @@
       <itunes:duration>00:28:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-99a170.mp3" length="27636909" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《夜半蜘蛛猴》 · 完整版 · 夜半蜘蛛猴_-_村上春树 · 完整讲读</title>
+      <description>《夜半蜘蛛猴》是村名村为广告写的三十多个超短篇合集，看似胡里胡伤、毫无意义，实则藏着他最顽皮也最温柔的一面。半夜两点撬窗进来的蜘蛛猴、追踪十二米半Antithese的伯父、被海龟追着听胡里奥·伊格莱西亚斯的夫妻、反复打错电话的女人、炸面圈化的恋人、把时间穿梭器换走的渡边升……每一个故事都像一个小小的汤盒，打开来不知道会跳出什么。本书有村名村招牌的荒诞与孤独，有打错人的笨拙联结，更有一篇藏在书最深处的《半夜汽笛》——深夜两三点被全世界抛弃的时刻，那一声若有若无的远方汽笛，就是他给的全部答案。</description>
+      <pubDate>Tue, 06 Oct 2026 18:50:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-b84cca</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《夜半蜘蛛猴》是村名村为广告写的三十多个超短篇合集，看似胡里胡伤、毫无意义，实则藏着他最顽皮也最温柔的一面。半夜两点撬窗进来的蜘蛛猴、追踪十二米半Antithese的伯父、被海龟追着听胡里奥·伊格莱西亚斯的夫妻、反复打错电话的女人、炸面圈化的恋人、把时间穿梭器换走的渡边升……每一个故事都像一个小小的汤盒，打开来不知道会跳出什么。本书有村名村招牌的荒诞与孤独，有打错人的笨拙联结，更有一篇藏在书最深处的《半夜汽笛》——深夜两三点被全世界抛弃的时刻，那一声若有若无的远方汽笛，就是他给的全部答案。</itunes:summary>
+      <itunes:duration>00:29:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-b84cca.mp3" length="28647597" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
