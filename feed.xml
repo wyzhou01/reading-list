@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 03:11:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 03:19:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26634,6 +26634,17 @@
       <itunes:duration>00:34:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-24874e.mp3" length="33006381" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大野龍蛇》 · 完整版 · 大野龍蛇（套裝共12册） · 完整讲读</title>
+      <description>《大野龍蛇》是高陽晚期最重要的歷史小說巨著，以乾隆朝為背景，以曹雪芹家族興衰為主軸，穿插富察皇后之死、曹家獲罪抄家等重大事件。本書透過皇權與世家的張力，呈現乾隆盛世華彩之下的政治暗流——帝王如何以【用人用其長】之術操控群臣，以【天威不測】之威壓制世家，以【立威】之名行整人之實。曹家從【詩禮傳家】的巔峰跌入抄家滅族的深淵，曹雪芹眼見家國淪胥、親人流散，卻只能在《紅樓夢》裡以【滿紙荒唐言，一把辛酸淚】作結。高陽此書不僅是對曹家歷史與《紅樓夢》時代背景的全景式還原，更是對中國專制體制下知識分子精神處境最深沉的關懷。</description>
+      <pubDate>Tue, 06 Oct 2026 03:19:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-99096d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大野龍蛇》是高陽晚期最重要的歷史小說巨著，以乾隆朝為背景，以曹雪芹家族興衰為主軸，穿插富察皇后之死、曹家獲罪抄家等重大事件。本書透過皇權與世家的張力，呈現乾隆盛世華彩之下的政治暗流——帝王如何以【用人用其長】之術操控群臣，以【天威不測】之威壓制世家，以【立威】之名行整人之實。曹家從【詩禮傳家】的巔峰跌入抄家滅族的深淵，曹雪芹眼見家國淪胥、親人流散，卻只能在《紅樓夢》裡以【滿紙荒唐言，一把辛酸淚】作結。高陽此書不僅是對曹家歷史與《紅樓夢》時代背景的全景式還原，更是對中國專制體制下知識分子精神處境最深沉的關懷。</itunes:summary>
+      <itunes:duration>00:25:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-99096d.mp3" length="24692781" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
