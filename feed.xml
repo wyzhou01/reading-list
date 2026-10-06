@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 20:23:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 20:31:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27206,6 +27206,17 @@
       <itunes:duration>00:22:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-6d4c44.mp3" length="21798189" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《唐诗小札》 · 完整版 · 唐诗小札_-_刘逸生 · 完整讲读</title>
+      <description>《唐诗小札》是刘逸生先生一九六一年出版的唐诗普及读物，收录八十余首初唐到晚唐诗作的细读。本书不只是简单的诗词赏析，而是把每首诗放回它诞生的历史现场，配以民间传说、风俗掌故与历史典故来读。刘逸生作为资深新闻人，文字兼具知识性与趣味性，让唐诗从案头回到人间。一九八二年获首届全国通俗政治理论读物评选一等奖，至今仍在不断再印。本书的核心启示是——唐诗之美，不在辞藻，而在人；读诗的要诀，不在背诵，而在把诗重新读回它的时代、它的人民、它的烟火之中。</description>
+      <pubDate>Tue, 06 Oct 2026 20:31:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-ad80e5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《唐诗小札》是刘逸生先生一九六一年出版的唐诗普及读物，收录八十余首初唐到晚唐诗作的细读。本书不只是简单的诗词赏析，而是把每首诗放回它诞生的历史现场，配以民间传说、风俗掌故与历史典故来读。刘逸生作为资深新闻人，文字兼具知识性与趣味性，让唐诗从案头回到人间。一九八二年获首届全国通俗政治理论读物评选一等奖，至今仍在不断再印。本书的核心启示是——唐诗之美，不在辞藻，而在人；读诗的要诀，不在背诵，而在把诗重新读回它的时代、它的人民、它的烟火之中。</itunes:summary>
+      <itunes:duration>00:31:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-ad80e5.mp3" length="30638637" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
