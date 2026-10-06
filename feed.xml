@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 03:29:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 03:36:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26667,6 +26667,17 @@
       <itunes:duration>00:27:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-f3124f.mp3" length="26536749" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《黑色佣兵团》 · 完整版 · 黑色佣兵团_-_格伦·库克 · 完整讲读</title>
+      <description>《黑色佣兵团》是格伦·库克一九八四年出版的黑暗奇幻里程碑。故事由随队军医兼编年史官碎嘴以第一人称记述，讲述西方大陆最后一支古老佣兵团在帝国倾覆、千年封印崩碎、豹人复活的大时代里，靠一份四百年的老契约替各方权贵卖命的过程。全书以碎嘴半是戏谑半是绝望的笔调，颠覆了传统奇幻的英雄叙事，把镜头对准一群渺小、贪生、自嘲却极讲规矩的老兵，在乱世里用一支笔、一份忠诚、和兄弟之间的骂街与信任，硬是活成了历史本身。</description>
+      <pubDate>Tue, 06 Oct 2026 03:36:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-fd5efd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《黑色佣兵团》是格伦·库克一九八四年出版的黑暗奇幻里程碑。故事由随队军医兼编年史官碎嘴以第一人称记述，讲述西方大陆最后一支古老佣兵团在帝国倾覆、千年封印崩碎、豹人复活的大时代里，靠一份四百年的老契约替各方权贵卖命的过程。全书以碎嘴半是戏谑半是绝望的笔调，颠覆了传统奇幻的英雄叙事，把镜头对准一群渺小、贪生、自嘲却极讲规矩的老兵，在乱世里用一支笔、一份忠诚、和兄弟之间的骂街与信任，硬是活成了历史本身。</itunes:summary>
+      <itunes:duration>00:28:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-fd5efd.mp3" length="27315117" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
