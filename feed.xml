@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 21:45:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 21:51:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27294,6 +27294,17 @@
       <itunes:duration>00:29:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-a949d0.mp3" length="27889197" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《耳洞》 · 完整版 · 耳洞 · 完整讲读</title>
+      <description>《耳洞》是新生代言情作者笙离的青春长篇代表作,讲述工科女生江止水在南方小城、南京、异国他乡之间,与唐君然十年反复错过的故事。她曾许下约定,每失恋一次就去打一个耳洞,可她始终没有为他打过,最后却为别人的爱情留下了印记。他以为先离开是成全,十年后坐在海边抽烟才明白——原来不是命运在捉弄人,看上去是他先离开,可是过了很久才发现,他其实是留下来的那一个。两个骄傲到骨子里的人,谁都不肯先低头,谁都不肯为爱留痕,谁都不肯为爱留下来,最终都活成了那个被暗恋困在原地的人。这是一本关于中国式暗恋的考古报告,也是给所有【不敢开口】的人留下的最后一句告白。</description>
+      <pubDate>Tue, 06 Oct 2026 21:51:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-29af3b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《耳洞》是新生代言情作者笙离的青春长篇代表作,讲述工科女生江止水在南方小城、南京、异国他乡之间,与唐君然十年反复错过的故事。她曾许下约定,每失恋一次就去打一个耳洞,可她始终没有为他打过,最后却为别人的爱情留下了印记。他以为先离开是成全,十年后坐在海边抽烟才明白——原来不是命运在捉弄人,看上去是他先离开,可是过了很久才发现,他其实是留下来的那一个。两个骄傲到骨子里的人,谁都不肯先低头,谁都不肯为爱留痕,谁都不肯为爱留下来,最终都活成了那个被暗恋困在原地的人。这是一本关于中国式暗恋的考古报告,也是给所有【不敢开口】的人留下的最后一句告白。</itunes:summary>
+      <itunes:duration>00:28:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-29af3b.mp3" length="27142317" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
