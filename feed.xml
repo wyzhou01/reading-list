@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 01:08:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 01:16:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26469,6 +26469,17 @@
       <itunes:duration>00:26:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-725e32.mp3" length="25291053" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《走向共和》 · 完整版 · 走向共和 · 完整讲读</title>
+      <description>《走向共和》是一部用文学笔法重述晚清至民初十三年制度转型的纪实历史。本书以颐和园工程挪走北洋舰队军费为切口，串起李鸿章办洋务、甲午战败、戊戌变法、清末新政、辛亥鼎革、袁世凯称帝、张勋复辟、孙中山创制五权宪法等关键事件，深刻揭示了专制帝国在制度变革中的艰难、代价与反复。全书不塑造简单的英雄与反派，而是把李鸿章、慈禧、光绪、袁世凯、孙中山、康有为、张勋等关键人物置于权力的结构性困局之中，展现个人在专制土壤上嫁接民主制度时的挣扎与局限。读懂这本书，才能读懂为何【共和】从不是一个写在宪法里的词语，而是一场仍在延续的长征。</description>
+      <pubDate>Tue, 06 Oct 2026 01:16:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-ffb8af</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《走向共和》是一部用文学笔法重述晚清至民初十三年制度转型的纪实历史。本书以颐和园工程挪走北洋舰队军费为切口，串起李鸿章办洋务、甲午战败、戊戌变法、清末新政、辛亥鼎革、袁世凯称帝、张勋复辟、孙中山创制五权宪法等关键事件，深刻揭示了专制帝国在制度变革中的艰难、代价与反复。全书不塑造简单的英雄与反派，而是把李鸿章、慈禧、光绪、袁世凯、孙中山、康有为、张勋等关键人物置于权力的结构性困局之中，展现个人在专制土壤上嫁接民主制度时的挣扎与局限。读懂这本书，才能读懂为何【共和】从不是一个写在宪法里的词语，而是一场仍在延续的长征。</itunes:summary>
+      <itunes:duration>00:29:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-ffb8af.mp3" length="28096557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
