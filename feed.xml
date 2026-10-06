@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 02:22:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 02:30:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26568,6 +26568,17 @@
       <itunes:duration>00:26:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-e659f3.mp3" length="25518765" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《金庸传（修订版）》 · 完整版 · 金庸传（修订版） · 完整讲读</title>
+      <description>本书是历史学者傅国涌写的金庸传记修订版。它不只讲一个传奇作家的故事，更把金庸放回二十世纪中国的大时代里：海宁查家五百年的家族沉浮，江南少年的流亡岁月，《明报》从一间小编辑室到日销十万份的创业史，金庸两支笔的隐秘心事。作者独辟蹊径，把金庸从【通俗小说家】拉回到【政治寓言作者】和【文人论政传统】的位置，让我们看见：一个传统中国文人，是如何在二十世纪最剧烈的动荡里，于香港这块弹丸之地白手起家、守护古老的汉语、参与时代记录的。这是一本写给所有想看清金庸其人其世、也想看清二十世纪中国知识分子精神史的读者的书。</description>
+      <pubDate>Tue, 06 Oct 2026 02:30:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-f45938</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是历史学者傅国涌写的金庸传记修订版。它不只讲一个传奇作家的故事，更把金庸放回二十世纪中国的大时代里：海宁查家五百年的家族沉浮，江南少年的流亡岁月，《明报》从一间小编辑室到日销十万份的创业史，金庸两支笔的隐秘心事。作者独辟蹊径，把金庸从【通俗小说家】拉回到【政治寓言作者】和【文人论政传统】的位置，让我们看见：一个传统中国文人，是如何在二十世纪最剧烈的动荡里，于香港这块弹丸之地白手起家、守护古老的汉语、参与时代记录的。这是一本写给所有想看清金庸其人其世、也想看清二十世纪中国知识分子精神史的读者的书。</itunes:summary>
+      <itunes:duration>00:28:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-f45938.mp3" length="27308973" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
