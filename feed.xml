@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 19:46:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 19:50:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27129,6 +27129,17 @@
       <itunes:duration>00:21:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-73c6c0.mp3" length="20448429" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《参禅要义》 · 完整版 · 参禅要义_-_释果如 · 完整讲读</title>
+      <description>《参禅要义》是果如法师二〇〇九年在美国象岗道场主持五天念佛禅的完整记录。法师以《楞严经》为理论根基,系统讲述念佛禅的两种下手功夫——忆念念佛与持名念佛,并融合天台、华严、唯识、净土与禅宗,揭示禅与净如何在一位修行者的身心上合一。全书核心在于『正知见』与『从心地下手』:修行不在时间长短,而在认知清净心的基础上称性起修;面对业障不逃避,以『发菩提心、发奋耻心、发精进心、发恒常心、发悲愿心』五大心态真正承当;身心感应、气动、痛点、境界皆不染着,因为真心从不曾离开。一切法门都是同一心地的门,禅净不二,一真一切真,何处不开悟,哪里没有佛。</description>
+      <pubDate>Tue, 06 Oct 2026 19:48:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-a09c2c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《参禅要义》是果如法师二〇〇九年在美国象岗道场主持五天念佛禅的完整记录。法师以《楞严经》为理论根基,系统讲述念佛禅的两种下手功夫——忆念念佛与持名念佛,并融合天台、华严、唯识、净土与禅宗,揭示禅与净如何在一位修行者的身心上合一。全书核心在于『正知见』与『从心地下手』:修行不在时间长短,而在认知清净心的基础上称性起修;面对业障不逃避,以『发菩提心、发奋耻心、发精进心、发恒常心、发悲愿心』五大心态真正承当;身心感应、气动、痛点、境界皆不染着,因为真心从不曾离开。一切法门都是同一心地的门,禅净不二,一真一切真,何处不开悟,哪里没有佛。</itunes:summary>
+      <itunes:duration>00:36:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-a09c2c.mp3" length="34682541" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
