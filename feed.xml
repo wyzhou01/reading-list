@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 17:22:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 17:23:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26777,6 +26777,17 @@
       <itunes:duration>00:14:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-8105fb.mp3" length="14239149" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《叛徒与隐士：周作人》 · 完整版 · 叛徒与隐士：周作人 · 完整讲读</title>
+      <description>《叛徒与隐士：周作人》是倪墨炎所著的中国第一部周作人评传。这本书用科学态度如实呈现周作人充满矛盾的一生：他是新文化运动的骁将，提出了【人的文学】【妇女的发现】【儿童的发现】等划时代主张，是五四时期仅次于鲁迅的散文大家；他又是一个在时代洪流中走向深渊的悲剧人物，因一九三九年遇刺后的软弱选择，出任伪华北教育总署督办，沦为汉奸。本书详细解剖了周作人从五四先驱到文化汉奸的完整轨迹，以及他在新中国成立后边缘人生十八年的最后岁月。读完这本书，你会看懂：一个有高度、有才华、有软弱、有恐惧的知识分子，是如何在动荡时代里一步步走向深渊，又如何在深渊边上留下最后的译笔。</description>
+      <pubDate>Tue, 06 Oct 2026 17:23:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-781fa3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《叛徒与隐士：周作人》是倪墨炎所著的中国第一部周作人评传。这本书用科学态度如实呈现周作人充满矛盾的一生：他是新文化运动的骁将，提出了【人的文学】【妇女的发现】【儿童的发现】等划时代主张，是五四时期仅次于鲁迅的散文大家；他又是一个在时代洪流中走向深渊的悲剧人物，因一九三九年遇刺后的软弱选择，出任伪华北教育总署督办，沦为汉奸。本书详细解剖了周作人从五四先驱到文化汉奸的完整轨迹，以及他在新中国成立后边缘人生十八年的最后岁月。读完这本书，你会看懂：一个有高度、有才华、有软弱、有恐惧的知识分子，是如何在动荡时代里一步步走向深渊，又如何在深渊边上留下最后的译笔。</itunes:summary>
+      <itunes:duration>00:22:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-781fa3.mp3" length="21677229" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
