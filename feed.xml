@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 00:30:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 00:37:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26414,6 +26414,17 @@
       <itunes:duration>00:25:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-668db6.mp3" length="24073773" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《吉祥纹莲花楼·青龙·白虎》 · 完整版 · 吉祥纹莲花楼·青龙·白虎 · 完整讲读</title>
+      <description>《吉祥纹莲花楼·青龙·白虎》是藤萍最具代表性的武侠长篇系列的第一卷。十六岁便天下第一的剑神李相夷，十一年后变成体弱多病、右手残废、记忆模糊的【李莲花】。三个少年方多病、展云飞、李莲花夜宿青竹山诡异别院，牵出十一年前四顾门与金鸳盟的旧案、东海之约的真相、以及李相夷【死亡】的谜底。藤萍用本格推理、古风悬疑与言情宿命叙事，写透了少年意气的代价——不是赢了才叫赢，是放下执念才叫活。</description>
+      <pubDate>Tue, 06 Oct 2026 00:37:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-a4c3df</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《吉祥纹莲花楼·青龙·白虎》是藤萍最具代表性的武侠长篇系列的第一卷。十六岁便天下第一的剑神李相夷，十一年后变成体弱多病、右手残废、记忆模糊的【李莲花】。三个少年方多病、展云飞、李莲花夜宿青竹山诡异别院，牵出十一年前四顾门与金鸳盟的旧案、东海之约的真相、以及李相夷【死亡】的谜底。藤萍用本格推理、古风悬疑与言情宿命叙事，写透了少年意气的代价——不是赢了才叫赢，是放下执念才叫活。</itunes:summary>
+      <itunes:duration>00:30:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-a4c3df.mp3" length="29516589" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
