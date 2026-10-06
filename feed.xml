@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 20:01:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 20:01:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27162,6 +27162,17 @@
       <itunes:duration>00:34:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-47d44d.mp3" length="33142701" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《终身学习：哈佛毕业后的六堂课》 · 完整版 · 终身学习 · 完整讲读</title>
+      <description>《终身学习》作者黄征宇在三十六岁那年被合伙人劝退后，花五年时间、五十万美元，向全球顶级老师一对一动身学，完成了自己的人生MBA。本书把这趟征途拆成六个维度：健康、情绪、思维、关系、事业、财富。每个维度不是讲方法，而是讲底层操作系统如何重装。这本书出版于二零一八年，正值人工智能浪潮席卷各行各业的转折期。它给出的答案不是某种具体技能，而是一套面对剧变时代的生存策略：把终身学习当成一种英雄征途，把每一次危机都当成重装自己的邀请函。</description>
+      <pubDate>Tue, 06 Oct 2026 20:01:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-e31508</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《终身学习》作者黄征宇在三十六岁那年被合伙人劝退后，花五年时间、五十万美元，向全球顶级老师一对一动身学，完成了自己的人生MBA。本书把这趟征途拆成六个维度：健康、情绪、思维、关系、事业、财富。每个维度不是讲方法，而是讲底层操作系统如何重装。这本书出版于二零一八年，正值人工智能浪潮席卷各行各业的转折期。它给出的答案不是某种具体技能，而是一套面对剧变时代的生存策略：把终身学习当成一种英雄征途，把每一次危机都当成重装自己的邀请函。</itunes:summary>
+      <itunes:duration>00:26:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-e31508.mp3" length="25625133" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
