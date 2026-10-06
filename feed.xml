@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 19:42:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 19:46:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27118,6 +27118,17 @@
       <itunes:duration>00:29:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-168bf3.mp3" length="28410285" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《献给艾米丽的一朵玫瑰》 · 完整版 · 献给艾米丽的一朵玫瑰 · 完整讲读</title>
+      <description>《献给艾米丽的一朵玫瑰》是诺贝尔文学奖得主威廉·福克纳的短篇小说精选集，精选《烧马棚》《献给艾米丽的一朵玫瑰》《干旱的九月》等七篇代表作。作品以美国南方约克纳帕塔法县为舞台，用非线性叙事、意识流与多重声音，写出旧南方贵族的衰败、暴力与荣誉的道德困境，以及个体在崩塌秩序中的尊严反扑。一百年过去，福克纳笔下的南方依然值得进入，因为他写的，是人性中最难愈合的那道伤口。</description>
+      <pubDate>Tue, 06 Oct 2026 19:46:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-73c6c0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《献给艾米丽的一朵玫瑰》是诺贝尔文学奖得主威廉·福克纳的短篇小说精选集，精选《烧马棚》《献给艾米丽的一朵玫瑰》《干旱的九月》等七篇代表作。作品以美国南方约克纳帕塔法县为舞台，用非线性叙事、意识流与多重声音，写出旧南方贵族的衰败、暴力与荣誉的道德困境，以及个体在崩塌秩序中的尊严反扑。一百年过去，福克纳笔下的南方依然值得进入，因为他写的，是人性中最难愈合的那道伤口。</itunes:summary>
+      <itunes:duration>00:21:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-73c6c0.mp3" length="20448429" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
