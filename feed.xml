@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 19:54:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 20:01:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27151,6 +27151,17 @@
       <itunes:duration>00:26:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-5bfd65.mp3" length="25605933" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《好好说话：新鲜有趣的话术精进技巧》 · 完整版 · 好好说话：新鲜有趣的话术精进技巧 · 完整讲读</title>
+      <description>《好好说话：新鲜有趣的话术精进技巧》由《奇葩说》冠军团队撰写，把说话拆成沟通、说服、谈判、演讲、辩论五维，主张说话不是天赋而是可训练的技术，核心是开口前先看清权力关系与语境，用场景化方法把暗伤变成可复制的招式。</description>
+      <pubDate>Tue, 06 Oct 2026 20:01:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-47d44d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《好好说话：新鲜有趣的话术精进技巧》由《奇葩说》冠军团队撰写，把说话拆成沟通、说服、谈判、演讲、辩论五维，主张说话不是天赋而是可训练的技术，核心是开口前先看清权力关系与语境，用场景化方法把暗伤变成可复制的招式。</itunes:summary>
+      <itunes:duration>00:34:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-47d44d.mp3" length="33142701" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
