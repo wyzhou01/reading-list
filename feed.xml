@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 22:30:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 22:35:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27371,6 +27371,17 @@
       <itunes:duration>00:29:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-caf627.mp3" length="28032813" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《太阳黑子》 · 完整版 · 太阳黑子(1) · 完整讲读</title>
+      <description>《太阳黑子》是须一瓜二零一一年发表的犯罪小说，讲述了十七年前闽北西陇灭门血案后，陈比觉、辛小丰、杨自道三个逃亡者在厦门抚养案件唯一幸存者『尾巴』的故事。他们一个开出租车，一个当协警，一个养鱼，小心翼翼地赎罪，直到从闽北调来的刑警伊谷春嗅出了旧案的气息。须一瓜以政法记者出身的冷峻笔触，把罪与罚、爱与救赎、法律与良心的边界一层层剥开：三个男人并非无辜，但他们用十七年的活刑早已完成了地下的审判；他们抚养的遗孤不是赎罪的礼物，而是他们被救赎的唯一理由；而真正的告发者卓生发，是须一瓜塞进书里的一面镜子，照出每一个躲在道德制高点上却从未为自己人生负过责的人。这部小说后被改编为电影《烈日灼心》，邓超、段奕宏、郭涛主演，并获最佳男演员奖。</description>
+      <pubDate>Tue, 06 Oct 2026 22:35:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-cfa264</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《太阳黑子》是须一瓜二零一一年发表的犯罪小说，讲述了十七年前闽北西陇灭门血案后，陈比觉、辛小丰、杨自道三个逃亡者在厦门抚养案件唯一幸存者『尾巴』的故事。他们一个开出租车，一个当协警，一个养鱼，小心翼翼地赎罪，直到从闽北调来的刑警伊谷春嗅出了旧案的气息。须一瓜以政法记者出身的冷峻笔触，把罪与罚、爱与救赎、法律与良心的边界一层层剥开：三个男人并非无辜，但他们用十七年的活刑早已完成了地下的审判；他们抚养的遗孤不是赎罪的礼物，而是他们被救赎的唯一理由；而真正的告发者卓生发，是须一瓜塞进书里的一面镜子，照出每一个躲在道德制高点上却从未为自己人生负过责的人。这部小说后被改编为电影《烈日灼心》，邓超、段奕宏、郭涛主演，并获最佳男演员奖。</itunes:summary>
+      <itunes:duration>00:22:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-cfa264.mp3" length="21337773" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
