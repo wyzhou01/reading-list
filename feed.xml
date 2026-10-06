@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 18:18:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 18:25:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26909,6 +26909,17 @@
       <itunes:duration>00:33:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-96e6d6.mp3" length="32378925" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《人性分解》 · 完整版 · 人性分解_-_Robert_J._Sawyer · 完整讲读</title>
+      <description>《人性分解》是加拿大科幻作家罗伯特·索耶一九九八年出版的长篇。小说以双线并进的方式展开：一面是希瑟与凯尔这对分居夫妇，面对十九岁女儿瑞贝卡突如其来的性侵指控，家庭在真相与谎言之间濒临崩塌；另一面是来自人马座阿尔法星的神秘信号持续十年无法破解，希瑟作为心理学家与凯尔作为计算机教授，试图从算法与人性的双重路径破译外星意识。当外星信号最终被破译，人类发现了一种名为【心理空间】的意识共享网络，它要求每一个参与者承认自己的脆弱，并允许他人进入自己的内在。当外星飞船最终抵达近地轨道，希瑟站在国际空间站里，向一只昆虫般的外星人伸出了掌心向上的手。这本书写于互联网兴起之初，却惊人地预言了脑机接口与神经可塑性的未来，更写出了一个永恒的命题：一个无法理解自己家人的物种，没有资格去理解宇宙。</description>
+      <pubDate>Tue, 06 Oct 2026 18:25:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-49ad44</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《人性分解》是加拿大科幻作家罗伯特·索耶一九九八年出版的长篇。小说以双线并进的方式展开：一面是希瑟与凯尔这对分居夫妇，面对十九岁女儿瑞贝卡突如其来的性侵指控，家庭在真相与谎言之间濒临崩塌；另一面是来自人马座阿尔法星的神秘信号持续十年无法破解，希瑟作为心理学家与凯尔作为计算机教授，试图从算法与人性的双重路径破译外星意识。当外星信号最终被破译，人类发现了一种名为【心理空间】的意识共享网络，它要求每一个参与者承认自己的脆弱，并允许他人进入自己的内在。当外星飞船最终抵达近地轨道，希瑟站在国际空间站里，向一只昆虫般的外星人伸出了掌心向上的手。这本书写于互联网兴起之初，却惊人地预言了脑机接口与神经可塑性的未来，更写出了一个永恒的命题：一个无法理解自己家人的物种，没有资格去理解宇宙。</itunes:summary>
+      <itunes:duration>00:34:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-49ad44.mp3" length="32697261" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
