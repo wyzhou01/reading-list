@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 20:38:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 20:46:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27228,6 +27228,17 @@
       <itunes:duration>00:26:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-dda1f4.mp3" length="25068333" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《未来不迎，过往不恋》 · 完整版 · 未来不迎，过往不恋 · 完整讲读</title>
+      <description>本期《好好读书》为你深度解读青年女作家苏辛的《未来不迎，过往不恋》。这是一本写给后青春间隔年里悬停着的女性的心灵回忆录。苏辛用温柔的笔触，写下如何在执念中走出，如何在无常中安住当下。她拆解了爱自己、苦难、执念、亲情、梦想这五块拼图，告诉你悬停不是失败，而是心灵彻底降落之前的蓄力。这本书的核心信念只有一句话——未来不迎，过往不恋，活在当下，是一条可以走通的路。</description>
+      <pubDate>Tue, 06 Oct 2026 20:46:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-d038c9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期《好好读书》为你深度解读青年女作家苏辛的《未来不迎，过往不恋》。这是一本写给后青春间隔年里悬停着的女性的心灵回忆录。苏辛用温柔的笔触，写下如何在执念中走出，如何在无常中安住当下。她拆解了爱自己、苦难、执念、亲情、梦想这五块拼图，告诉你悬停不是失败，而是心灵彻底降落之前的蓄力。这本书的核心信念只有一句话——未来不迎，过往不恋，活在当下，是一条可以走通的路。</itunes:summary>
+      <itunes:duration>00:36:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-d038c9.mp3" length="35035821" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
