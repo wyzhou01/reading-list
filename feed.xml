@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 19:13:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 19:21:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27052,6 +27052,17 @@
       <itunes:duration>00:31:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-025420.mp3" length="29781549" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《虞美人草》 · 完整版 · 虞美人草_-_夏目漱石 · 完整讲读</title>
+      <description>《虞美人草》是夏目漱石辞去教职、投身职业写作后的第一部长篇连载,以近乎汉诗化的骈俪文体,讲述明治时代一个醉心莎翁与紫色的骄矜女子藤尾,如何在母亲与自身的虚荣驱动下走向毁灭。全书借登山、京都、东京三幕场景,刻画宗近的躁进、甲野的沉默、小野的逃避、糸子的清醒,交织成一幅新旧东西碰撞的精神肖像。一百年来,它因难读而被冷落,却因其对明治知识分子精神困境的精准剖析,始终是理解近代日本心灵史的必读之作。</description>
+      <pubDate>Tue, 06 Oct 2026 19:21:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-f3fcfd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《虞美人草》是夏目漱石辞去教职、投身职业写作后的第一部长篇连载,以近乎汉诗化的骈俪文体,讲述明治时代一个醉心莎翁与紫色的骄矜女子藤尾,如何在母亲与自身的虚荣驱动下走向毁灭。全书借登山、京都、东京三幕场景,刻画宗近的躁进、甲野的沉默、小野的逃避、糸子的清醒,交织成一幅新旧东西碰撞的精神肖像。一百年来,它因难读而被冷落,却因其对明治知识分子精神困境的精准剖析,始终是理解近代日本心灵史的必读之作。</itunes:summary>
+      <itunes:duration>00:23:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-f3fcfd.mp3" length="22679853" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
