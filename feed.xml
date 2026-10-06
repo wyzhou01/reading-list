@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 19:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 19:05:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27019,6 +27019,17 @@
       <itunes:duration>00:30:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-3aadcc.mp3" length="29362221" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《声息》 · 完整版 · 声息 · 完整讲读</title>
+      <description>《声息》是八零后作家夏茗悠写于二零零八年的青春寓言，讲述偶像女子组合SEAL的两位十八岁女孩季明樱与柳溪川在娱乐圈漩涡中的友谊裂变与自我隐匿。季明樱冷漠而敏感，被公司包装为话题女王，却在与好友朱丽叶的深夜电话、与搭档溪川的渐近线式亲密中，逐渐走向崩塌。小说的真正野心不是揭露娱乐圈，而是借偶像工业的隐喻，写出每个青春期的人都在经历的悖论：越是渴望被看见，就越要先把自己藏起来；越是想要被听见，就越要承担暴露的风险。夏茗悠在后记里把这一悖论推到了极致，她把自己的家庭、父亲、自己躲在车厢后座的那个夜晚全部写出来，完成了一次罕见的自我暴露——她让季明樱没能完成的被听见的愿望，在写作中实现。这是一本关于青春期的残酷寓言，也是一封写给所有在舞台上孤独的人的暗号。</description>
+      <pubDate>Tue, 06 Oct 2026 19:05:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-41f958</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《声息》是八零后作家夏茗悠写于二零零八年的青春寓言，讲述偶像女子组合SEAL的两位十八岁女孩季明樱与柳溪川在娱乐圈漩涡中的友谊裂变与自我隐匿。季明樱冷漠而敏感，被公司包装为话题女王，却在与好友朱丽叶的深夜电话、与搭档溪川的渐近线式亲密中，逐渐走向崩塌。小说的真正野心不是揭露娱乐圈，而是借偶像工业的隐喻，写出每个青春期的人都在经历的悖论：越是渴望被看见，就越要先把自己藏起来；越是想要被听见，就越要承担暴露的风险。夏茗悠在后记里把这一悖论推到了极致，她把自己的家庭、父亲、自己躲在车厢后座的那个夜晚全部写出来，完成了一次罕见的自我暴露——她让季明樱没能完成的被听见的愿望，在写作中实现。这是一本关于青春期的残酷寓言，也是一封写给所有在舞台上孤独的人的暗号。</itunes:summary>
+      <itunes:duration>00:34:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-41f958.mp3" length="33143085" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
