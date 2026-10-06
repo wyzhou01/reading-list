@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 18:07:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 18:11:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26876,6 +26876,17 @@
       <itunes:duration>00:26:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-27f40d.mp3" length="25261485" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《雪莱政治论文选》 · 完整版 · 雪莱政治论文选_(汉译世界学术名著丛书)_-_雪莱 · 完整讲读</title>
+      <description>本书收录英国浪漫主义诗人雪莱一生最重要的九篇政治论文与若干政治诗，系统呈现其作为革命家、思想家的另一面。雪莱出身贵族却背叛门第，一八一一年因发表《论无神论的必然性》被牛津开除，此后奔走于爱尔兰、英国、意大利之间，写下《告爱尔兰人民书》《驳自然神论》《关于道德观念的思辨》《为夏洛蒂公主去世告人民书》等锋芒毕露的政论。从无神论宣言到对基督教顺从哲学的驳斥，从议会改革的早熟预测到《希腊》终曲的政治遗嘱，雪莱以辩证的笔法、诗人的激情和哲学的冷峻，为平等社会呐喊。马克思称他为「社会主义的急先锋」，恩格斯称他为「天才的预言家」——这本小书至今仍是理解西方激进思想传统与浪漫主义政治理想主义的关键读本。</description>
+      <pubDate>Tue, 06 Oct 2026 18:11:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-ee0674</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书收录英国浪漫主义诗人雪莱一生最重要的九篇政治论文与若干政治诗，系统呈现其作为革命家、思想家的另一面。雪莱出身贵族却背叛门第，一八一一年因发表《论无神论的必然性》被牛津开除，此后奔走于爱尔兰、英国、意大利之间，写下《告爱尔兰人民书》《驳自然神论》《关于道德观念的思辨》《为夏洛蒂公主去世告人民书》等锋芒毕露的政论。从无神论宣言到对基督教顺从哲学的驳斥，从议会改革的早熟预测到《希腊》终曲的政治遗嘱，雪莱以辩证的笔法、诗人的激情和哲学的冷峻，为平等社会呐喊。马克思称他为「社会主义的急先锋」，恩格斯称他为「天才的预言家」——这本小书至今仍是理解西方激进思想传统与浪漫主义政治理想主义的关键读本。</itunes:summary>
+      <itunes:duration>00:26:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-ee0674.mp3" length="25647405" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
