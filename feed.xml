@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 02:54:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 03:02:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26612,6 +26612,17 @@
       <itunes:duration>00:28:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-6d2a93.mp3" length="26984109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《艺伎回忆录》 · 完整版 · 艺伎回忆录 · 完整讲读</title>
+      <description>本书由美国历史学家阿瑟·高顿根据日本京都祇园退休艺伎新田小百合十八个月的口述整理而成。小百合原名千代，九岁时从日本海边渔村养老町被卖到京都祇园，经历严苛艺伎训练，成长为万众瞩目的第一名伎。故事围绕她的初恋、姐妹反目、被迫成为大人物情人、战火中的漫长等待，以及艺伎文化在二十世纪中的褪色展开，呈现一个女性在男性主导世界里被迫长大、最终夺回叙述权与自身命运的历程。</description>
+      <pubDate>Tue, 06 Oct 2026 03:02:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-3e79c4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书由美国历史学家阿瑟·高顿根据日本京都祇园退休艺伎新田小百合十八个月的口述整理而成。小百合原名千代，九岁时从日本海边渔村养老町被卖到京都祇园，经历严苛艺伎训练，成长为万众瞩目的第一名伎。故事围绕她的初恋、姐妹反目、被迫成为大人物情人、战火中的漫长等待，以及艺伎文化在二十世纪中的褪色展开，呈现一个女性在男性主导世界里被迫长大、最终夺回叙述权与自身命运的历程。</itunes:summary>
+      <itunes:duration>00:28:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-3e79c4.mp3" length="26991789" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
