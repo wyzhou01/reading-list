@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 01:38:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 01:53:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26513,6 +26513,17 @@
       <itunes:duration>00:23:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-1108cf.mp3" length="22953645" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《甲马》 · 完整版 · 甲马 · 完整讲读</title>
+      <description>《甲马》是八零后作家默音的代表作。一九九八年秋天。云南十九岁男孩谢晔。带着一袋核桃和一袋甲马纸。独自坐三天四夜的火车来上海找生母。甲马纸是白族巫俗的一种木刻版画。烧掉它。能看见别人藏在自己骨血里的过往。三段时空交错。一九四一年的昆明。一九七五到一九七九年的云南农场。一九九八年的上海。三代人都试图用甲马纸窥见他人的记忆。每一次干预。都要付出代价。谢晔慢慢发现。他要找的不是妈。他要找的是确认。我是不是被爱着的。书的答案是。记忆可以被烧走。但不能被还原。和解不一定是放下。也可以是承接。你陪着那个人。在她装不下的记忆里。慢慢活下去。这就是《甲马》最温柔、也最重的一句话。</description>
+      <pubDate>Tue, 06 Oct 2026 01:53:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-2549bb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《甲马》是八零后作家默音的代表作。一九九八年秋天。云南十九岁男孩谢晔。带着一袋核桃和一袋甲马纸。独自坐三天四夜的火车来上海找生母。甲马纸是白族巫俗的一种木刻版画。烧掉它。能看见别人藏在自己骨血里的过往。三段时空交错。一九四一年的昆明。一九七五到一九七九年的云南农场。一九九八年的上海。三代人都试图用甲马纸窥见他人的记忆。每一次干预。都要付出代价。谢晔慢慢发现。他要找的不是妈。他要找的是确认。我是不是被爱着的。书的答案是。记忆可以被烧走。但不能被还原。和解不一定是放下。也可以是承接。你陪着那个人。在她装不下的记忆里。慢慢活下去。这就是《甲马》最温柔、也最重的一句话。</itunes:summary>
+      <itunes:duration>00:33:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-2549bb.mp3" length="31769901" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
