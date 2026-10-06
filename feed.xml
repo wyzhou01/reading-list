@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 17:07:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 17:16:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26755,6 +26755,17 @@
       <itunes:duration>00:25:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-2085b5.mp3" length="24832557" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《陶渊明的幽灵》 · 完整版 · 陶渊明的幽灵 · 完整讲读</title>
+      <description>《陶渊明的幽灵》是鲁枢元教授以生态批评视角重读中国古代诗人陶渊明的跨文化专著。全书把人与自然的关系定位为人类的【元问题】，通过追溯陶渊明的质性自然、道家自然哲学及其与海德格尔、卢梭、梭罗、德里达的精神对话，揭示这位千古诗人用躬耕与诗篇给出的生存答案。书中更沉痛指出，在工业化、城市化的滚滚红尘中，陶渊明的精神已【再度死亡】化为幽灵，因而写作本身就是一次跨越时空的【招魂】。本书既是学术研究，也是一声呼唤，召唤被现代性压抑的人类重新学会诗意地栖居在大地上。</description>
+      <pubDate>Tue, 06 Oct 2026 17:16:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-7684ba</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《陶渊明的幽灵》是鲁枢元教授以生态批评视角重读中国古代诗人陶渊明的跨文化专著。全书把人与自然的关系定位为人类的【元问题】，通过追溯陶渊明的质性自然、道家自然哲学及其与海德格尔、卢梭、梭罗、德里达的精神对话，揭示这位千古诗人用躬耕与诗篇给出的生存答案。书中更沉痛指出，在工业化、城市化的滚滚红尘中，陶渊明的精神已【再度死亡】化为幽灵，因而写作本身就是一次跨越时空的【招魂】。本书既是学术研究，也是一声呼唤，召唤被现代性压抑的人类重新学会诗意地栖居在大地上。</itunes:summary>
+      <itunes:duration>00:28:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-7684ba.mp3" length="27623085" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
