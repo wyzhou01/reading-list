@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 19:09:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 19:13:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27041,6 +27041,17 @@
       <itunes:duration>00:24:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-82ab4e.mp3" length="23347629" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《创新者的方法》 · 完整版 · 创新者的方法 · 完整讲读</title>
+      <description>《创新者的方法》由克里斯坦森弟子弗尔与戴尔合著,把设计思维、精益创业、敏捷开发熔合成一套端到端的创新流程,围绕洞见、问题、解决方案、商业模式、关键转向、规模化六个环节,系统化地应对高度不确定性。书中用财捷八千人转型、T台租衣网两周廉价试验替代商业计划书等案例,展示如何在不确定环境下用低成本试验代替冗长规划,通过快速关键转向迭代方向,直至找到可规模化复制的商业模式。六年过去,书里关于规模化、关键转向与组织文化的论述,仍是大公司创新与产品战略的案头必读。</description>
+      <pubDate>Tue, 06 Oct 2026 19:13:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-025420</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《创新者的方法》由克里斯坦森弟子弗尔与戴尔合著,把设计思维、精益创业、敏捷开发熔合成一套端到端的创新流程,围绕洞见、问题、解决方案、商业模式、关键转向、规模化六个环节,系统化地应对高度不确定性。书中用财捷八千人转型、T台租衣网两周廉价试验替代商业计划书等案例,展示如何在不确定环境下用低成本试验代替冗长规划,通过快速关键转向迭代方向,直至找到可规模化复制的商业模式。六年过去,书里关于规模化、关键转向与组织文化的论述,仍是大公司创新与产品战略的案头必读。</itunes:summary>
+      <itunes:duration>00:31:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-025420.mp3" length="29781549" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
