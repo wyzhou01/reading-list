@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 17:51:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 18:00:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26843,6 +26843,17 @@
       <itunes:duration>00:33:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-7723be.mp3" length="32338605" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《神似祖先》 · 完整版 · 神似祖先（视点文丛） · 完整讲读</title>
+      <description>本书是北京大学社会学教授郑也夫十二年阅读生物学的心得结集。核心主张是：人类的身体是穿越几百万年自然选择的祖先的身体，但我们的生存方式已经彻底变了，所以形似祖先不可能，唯有神似祖先可以追求。书中系统讨论了达尔文的学术准备、亲缘选择与互惠利他的进化论基础、美感与笑的进化功能、沉溺快乐与追求伟大之间的张力，以及语言、驯化、部落性等议题。用一句话总结：身体是祖先的身体，但祖先的程序可以重写。</description>
+      <pubDate>Tue, 06 Oct 2026 18:00:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-23feb7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是北京大学社会学教授郑也夫十二年阅读生物学的心得结集。核心主张是：人类的身体是穿越几百万年自然选择的祖先的身体，但我们的生存方式已经彻底变了，所以形似祖先不可能，唯有神似祖先可以追求。书中系统讨论了达尔文的学术准备、亲缘选择与互惠利他的进化论基础、美感与笑的进化功能、沉溺快乐与追求伟大之间的张力，以及语言、驯化、部落性等议题。用一句话总结：身体是祖先的身体，但祖先的程序可以重写。</itunes:summary>
+      <itunes:duration>00:40:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-23feb7.mp3" length="38669997" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
