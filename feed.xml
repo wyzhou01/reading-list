@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 17:16:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 17:22:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26766,6 +26766,17 @@
       <itunes:duration>00:28:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-7684ba.mp3" length="27623085" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《牛津通识读本：后殖民主义与世界格局》 · 完整版 · 牛津通识读本：后殖民主义与世界格局（中文版） · 完整讲读</title>
+      <description>本书以通俗易懂的方式系统阐释后殖民主义的起源、主要理论家（萨义德、斯皮瓦克、巴巴）及其核心概念，涵盖属下阶层的知识、历史与权力、空间与土地、混杂、后殖民女权主义、全球化与翻译等议题，揭示殖民与后殖民语境下权力、文化与身份的交织，并批判新殖民主义的文化渗透。本书还通过具体案例，如甘地、格瓦拉、法农、毛泽东等的实践，展示后殖民理论的现实意义，并对当代全球不平等、文化身份认同及抵抗策略进行深刻反思。。</description>
+      <pubDate>Tue, 06 Oct 2026 17:22:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-8105fb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书以通俗易懂的方式系统阐释后殖民主义的起源、主要理论家（萨义德、斯皮瓦克、巴巴）及其核心概念，涵盖属下阶层的知识、历史与权力、空间与土地、混杂、后殖民女权主义、全球化与翻译等议题，揭示殖民与后殖民语境下权力、文化与身份的交织，并批判新殖民主义的文化渗透。本书还通过具体案例，如甘地、格瓦拉、法农、毛泽东等的实践，展示后殖民理论的现实意义，并对当代全球不平等、文化身份认同及抵抗策略进行深刻反思。。</itunes:summary>
+      <itunes:duration>00:14:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-8105fb.mp3" length="14239149" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
