@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 16:36:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 16:45:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26711,6 +26711,17 @@
       <itunes:duration>00:28:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-c4d257.mp3" length="27433773" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《没有色彩的多崎作和他的巡礼之年》 · 完整版 · 没有色彩的多崎作和他的巡礼之年 · 完整讲读</title>
+      <description>三十六岁的多崎作在十六年前被四位挚友毫无征兆地驱逐，他几乎为此而死。十六年后，他踏上芬兰的巡礼之旅，寻找被抛弃的真相。小说通过他与朋友的重逢、与女友沙罗的对话，探讨了自我认同、关系暴力与心理重建等主题。无色彩不是缺陷，而是接纳自己的起点；沉默的伤害需要被看见才能愈合；真正的治愈不是改变过去，而是完成那段未竟的哀悼。村上春树以细腻的笔触描绘了一个普通人穿越创伤、重新寻找生命分量的过程。</description>
+      <pubDate>Tue, 06 Oct 2026 16:45:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-41f58c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>三十六岁的多崎作在十六年前被四位挚友毫无征兆地驱逐，他几乎为此而死。十六年后，他踏上芬兰的巡礼之旅，寻找被抛弃的真相。小说通过他与朋友的重逢、与女友沙罗的对话，探讨了自我认同、关系暴力与心理重建等主题。无色彩不是缺陷，而是接纳自己的起点；沉默的伤害需要被看见才能愈合；真正的治愈不是改变过去，而是完成那段未竟的哀悼。村上春树以细腻的笔触描绘了一个普通人穿越创伤、重新寻找生命分量的过程。</itunes:summary>
+      <itunes:duration>00:20:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-41f58c.mp3" length="19900461" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
