@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 19:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 19:42:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27107,6 +27107,17 @@
       <itunes:duration>00:25:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-96bdf9.mp3" length="24148653" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《灯下黑》 · 完整版 · 灯下黑 · 完整讲读</title>
+      <description>《灯下黑》是羊行屮异徒行者系列的代表作品，以搭档探案模式串起藏区人獒传说、东越蛇图腾、兰陵王龙凤牌、十万大山蛊术等离奇事件。一对绰号南瓜和月饼的异徒行者，在破解谜团中寻找失踪的兄弟，也在寻找自己。书里没有给出确定的谜底，却写透了一种状态——当你发现身边的每一个人都可能是棋子，每个人都可能是棋手，每个人都可能是被利用又被抛弃的弃子，这种无法自洽的悬疑，才是真正的悬疑。全书最深的一句话：所谓宿命，只是棋盘里微不足道的棋子，被一双无形的手随意摆布。</description>
+      <pubDate>Tue, 06 Oct 2026 19:41:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-168bf3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《灯下黑》是羊行屮异徒行者系列的代表作品，以搭档探案模式串起藏区人獒传说、东越蛇图腾、兰陵王龙凤牌、十万大山蛊术等离奇事件。一对绰号南瓜和月饼的异徒行者，在破解谜团中寻找失踪的兄弟，也在寻找自己。书里没有给出确定的谜底，却写透了一种状态——当你发现身边的每一个人都可能是棋子，每个人都可能是棋手，每个人都可能是被利用又被抛弃的弃子，这种无法自洽的悬疑，才是真正的悬疑。全书最深的一句话：所谓宿命，只是棋盘里微不足道的棋子，被一双无形的手随意摆布。</itunes:summary>
+      <itunes:duration>00:29:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-168bf3.mp3" length="28410285" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
