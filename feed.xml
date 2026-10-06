@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 03:22:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 03:29:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26656,6 +26656,17 @@
       <itunes:duration>00:25:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-9e41dc.mp3" length="24436269" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《心雾重重》 · 完整版 · 心雾重重 · 完整讲读</title>
+      <description>《心雾重重》是日本作家宍户智明创作的心理幻想小说。私人侦探申健祈长期被一种叫作妄想性失忆的症状困扰，脑海中反复出现一位名叫汐的少女。为弄清真相，他与挚友洛平横跨中、日、韩、德四国，卷入跨国组织阿刻索财团与神秘的心雾监控者之间的博弈，逐步揭开自身血统与心雾超自然能力的秘密。本书以悬疑为外壳，以临床心理学为内核，探讨记忆的不可靠性、执念与爱情的本质，以及超自然能力与精神疾病之间的模糊边界。</description>
+      <pubDate>Tue, 06 Oct 2026 03:29:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-f3124f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《心雾重重》是日本作家宍户智明创作的心理幻想小说。私人侦探申健祈长期被一种叫作妄想性失忆的症状困扰，脑海中反复出现一位名叫汐的少女。为弄清真相，他与挚友洛平横跨中、日、韩、德四国，卷入跨国组织阿刻索财团与神秘的心雾监控者之间的博弈，逐步揭开自身血统与心雾超自然能力的秘密。本书以悬疑为外壳，以临床心理学为内核，探讨记忆的不可靠性、执念与爱情的本质，以及超自然能力与精神疾病之间的模糊边界。</itunes:summary>
+      <itunes:duration>00:27:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-f3124f.mp3" length="26536749" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
