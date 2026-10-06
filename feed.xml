@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 22:08:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 22:14:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27338,6 +27338,17 @@
       <itunes:duration>00:26:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-b645a5.mp3" length="24962349" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《海权论》 · 完整版 · 海权论 · 完整讲读</title>
+      <description>《海权论》是美国海军战略家马汉在公元一千八百九十年出版的海权理论奠基之作。马汉系统阐述了海权六要素：地理位置、形态构成、领土范围、人口数量、国民特征、政府特征，并通过分析十七世纪以来的海战案例，揭示了制海权决定战争胜负的根本规律。书中分析了俄、英、美三大玩家在亚洲的博弈，预言了德国崛起对欧洲均势的威胁。马汉专门为美国画出了一张走向世界霸权的路线图：吞并夏威夷、控制中美洲运河、掌控加勒比海、与英国建立海洋同盟。一百多年来，《海权论》始终是各国海军战略家的必读经典，海权六要素、战略支点、海洋同盟这三大思想，深刻塑造了二十世纪以来的世界格局。今天读这本书，仍然能看清海权的本质，看懂世界强国的密码。</description>
+      <pubDate>Tue, 06 Oct 2026 22:14:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-7a5524</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《海权论》是美国海军战略家马汉在公元一千八百九十年出版的海权理论奠基之作。马汉系统阐述了海权六要素：地理位置、形态构成、领土范围、人口数量、国民特征、政府特征，并通过分析十七世纪以来的海战案例，揭示了制海权决定战争胜负的根本规律。书中分析了俄、英、美三大玩家在亚洲的博弈，预言了德国崛起对欧洲均势的威胁。马汉专门为美国画出了一张走向世界霸权的路线图：吞并夏威夷、控制中美洲运河、掌控加勒比海、与英国建立海洋同盟。一百多年来，《海权论》始终是各国海军战略家的必读经典，海权六要素、战略支点、海洋同盟这三大思想，深刻塑造了二十世纪以来的世界格局。今天读这本书，仍然能看清海权的本质，看懂世界强国的密码。</itunes:summary>
+      <itunes:duration>00:29:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-7a5524.mp3" length="28257453" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
