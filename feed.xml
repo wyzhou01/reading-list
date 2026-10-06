@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 17:40:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 17:46:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26821,6 +26821,17 @@
       <itunes:duration>00:31:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-aed812.mp3" length="30446637" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《最长的一天》 · 完整版 · 最长的一天_-_[美]_科尼利厄斯·瑞恩 · 完整讲读</title>
+      <description>《最长的一天》是美籍爱尔兰裔战地记者科尼利厄斯·瑞恩用十年时间、采访三千名亲历者写就的诺曼底登陆纪实经典。一九四四年十一月十二日的二十四小时里，盟军从艾森豪威尔到普通士兵、德军从隆美尔到第三五二师、法国平民，各自在情报迷雾、误判牢笼与个人选择中，共同书写了这场改变二战走向的决定性一战。最终留下的不是胜负，而是每一个幸存者用余生去理解的、他们所失去的那一部分。</description>
+      <pubDate>Tue, 06 Oct 2026 17:46:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-69bcef</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《最长的一天》是美籍爱尔兰裔战地记者科尼利厄斯·瑞恩用十年时间、采访三千名亲历者写就的诺曼底登陆纪实经典。一九四四年十一月十二日的二十四小时里，盟军从艾森豪威尔到普通士兵、德军从隆美尔到第三五二师、法国平民，各自在情报迷雾、误判牢笼与个人选择中，共同书写了这场改变二战走向的决定性一战。最终留下的不是胜负，而是每一个幸存者用余生去理解的、他们所失去的那一部分。</itunes:summary>
+      <itunes:duration>00:34:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-69bcef.mp3" length="33229869" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
