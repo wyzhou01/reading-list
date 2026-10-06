@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 17:31:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 17:32:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26799,6 +26799,17 @@
       <itunes:duration>00:28:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-f15c3b.mp3" length="27064365" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《商君书》 · 完整版 · 商君书--中华经典名著全本全注全译丛书 · 完整讲读</title>
+      <description>《商君书》是战国法家商鞅学派的集体著作，记录了中国历史上最彻底的一次变法思想。本书围绕不法古不修今的变法理论，以壹、农战、法三大支柱，搭建了一套工具理性主义的治国操作系统：统一思想与赏罚，把全国编入农战轨道，以严刑峻法驱动国家这台机器高效运转。它塑造了秦制，奠定了两千年大一统中央集权的底层架构，也埋下了秦二世而亡的隐患。读懂这部书，就懂了中国行政的基因，也懂了工具理性的边界。</description>
+      <pubDate>Tue, 06 Oct 2026 17:32:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-1d1366</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《商君书》是战国法家商鞅学派的集体著作，记录了中国历史上最彻底的一次变法思想。本书围绕不法古不修今的变法理论，以壹、农战、法三大支柱，搭建了一套工具理性主义的治国操作系统：统一思想与赏罚，把全国编入农战轨道，以严刑峻法驱动国家这台机器高效运转。它塑造了秦制，奠定了两千年大一统中央集权的底层架构，也埋下了秦二世而亡的隐患。读懂这部书，就懂了中国行政的基因，也懂了工具理性的边界。</itunes:summary>
+      <itunes:duration>00:34:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-1d1366.mp3" length="32715693" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
