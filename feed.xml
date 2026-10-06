@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 03:36:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 03:44:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26678,6 +26678,17 @@
       <itunes:duration>00:28:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-fd5efd.mp3" length="27315117" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《平家物语》 · 完整版 · 平家物语 · 完整讲读</title>
+      <description>《平家物语》是十三世纪初日本军记物语的最高成就，与《源氏物语》并列为日本两大物语经典。全书十二卷附《灌顶卷》，以平安末期的源平争霸为背景，叙述平清盛一族从崛起、鼎盛到覆灭的悲剧史。贯穿全书的中心主题是【诸行无常、盛者必衰、骄者必败】的佛教命运观。本书特别之处，在于把战争放在无常观的框架下展开：战场几乎不见血，却处处是眼泪；流血的人仿佛被无声送往净土，活下来的人在钟声里消化哀伤。最终安德天皇沉海、平家绝嗣，建礼门院晚年独居大原寂光院，在回忆六道轮回之苦后于紫云中被迎往极乐，呼应开篇祇园精舍的钟声，形成完美的首尾闭环。这部古典名著既书写了武士与皇室的命运抉择，也借女性的眼泪、信仰与尊严，揭示了人如何在崩塌中保持人的样子。</description>
+      <pubDate>Tue, 06 Oct 2026 03:43:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-9696ec</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《平家物语》是十三世纪初日本军记物语的最高成就，与《源氏物语》并列为日本两大物语经典。全书十二卷附《灌顶卷》，以平安末期的源平争霸为背景，叙述平清盛一族从崛起、鼎盛到覆灭的悲剧史。贯穿全书的中心主题是【诸行无常、盛者必衰、骄者必败】的佛教命运观。本书特别之处，在于把战争放在无常观的框架下展开：战场几乎不见血，却处处是眼泪；流血的人仿佛被无声送往净土，活下来的人在钟声里消化哀伤。最终安德天皇沉海、平家绝嗣，建礼门院晚年独居大原寂光院，在回忆六道轮回之苦后于紫云中被迎往极乐，呼应开篇祇园精舍的钟声，形成完美的首尾闭环。这部古典名著既书写了武士与皇室的命运抉择，也借女性的眼泪、信仰与尊严，揭示了人如何在崩塌中保持人的样子。</itunes:summary>
+      <itunes:duration>00:26:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-9696ec.mp3" length="25349421" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
