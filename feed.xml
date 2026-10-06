@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 19:31:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 19:33:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27096,6 +27096,17 @@
       <itunes:duration>00:32:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-802b0a.mp3" length="31298733" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《无中生有的世界：量子力学传奇》 · 完整版 · 无中生有的世界_：_量子力学传奇 · 完整讲读</title>
+      <description>《无中生有的世界：量子力学外传》是国内难得的原创科普佳作，把硬核的物理学史讲成了引人入胜的故事。本书从门捷列夫的元素周期表出发，一路讲述X射线、放射性、黑体辐射、量子论的草创、索尔维会议的巅峰对决、矩阵力学与波动方程的诞生、测不准原理的争议、海森堡的战争抉择、曼哈顿工程的阴影、量子电动力学三杰的贡献，一直延伸到标准模型的圆满收官与超弦理论的最新进展。全书把科学发现与人物命运、历史背景紧紧交织，揭示出量子力学从经典物理危机中诞生的思想史脉络，以及基础物理学与技术应用、核武器、粒子探测之间相互塑造的复杂关系。无论你是理科生还是文科生，只要你曾对这个世界为什么是这样感到过好奇，翻开这本书，你都会有所收获。</description>
+      <pubDate>Tue, 06 Oct 2026 19:32:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-96bdf9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《无中生有的世界：量子力学外传》是国内难得的原创科普佳作，把硬核的物理学史讲成了引人入胜的故事。本书从门捷列夫的元素周期表出发，一路讲述X射线、放射性、黑体辐射、量子论的草创、索尔维会议的巅峰对决、矩阵力学与波动方程的诞生、测不准原理的争议、海森堡的战争抉择、曼哈顿工程的阴影、量子电动力学三杰的贡献，一直延伸到标准模型的圆满收官与超弦理论的最新进展。全书把科学发现与人物命运、历史背景紧紧交织，揭示出量子力学从经典物理危机中诞生的思想史脉络，以及基础物理学与技术应用、核武器、粒子探测之间相互塑造的复杂关系。无论你是理科生还是文科生，只要你曾对这个世界为什么是这样感到过好奇，翻开这本书，你都会有所收获。</itunes:summary>
+      <itunes:duration>00:25:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-96bdf9.mp3" length="24148653" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
