@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 21:29:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 21:36:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27272,6 +27272,17 @@
       <itunes:duration>00:28:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-444eb1.mp3" length="27106221" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《让大象飞》 · 完整版 · 让大象飞 · 完整讲读</title>
+      <description>《让大象飞》是硅谷传奇创业导师史蒂文·霍夫曼的代表作，被并称为理解硅谷创新方法论的两大经典之一。本书把从零到无限可能的创新过程拆成六个环节：寻找方向、准备启航、打造产品、锁定市场、持续创新、高速运转。霍夫曼贯穿全书的核心观点是：创新不是技术发明，而是为用户解决真正问题的体验设计。他用大量硅谷案例告诉你，小处着手、快速验证、敢于失败、持续迭代，是穿越任何技术周期的底层方法。本书既是创业者从零起步的指南，也是成熟企业寻求转型的参考。在今天这个人工智能与产业变革加速的时代，这套硅谷方法论依然不过时。</description>
+      <pubDate>Tue, 06 Oct 2026 21:36:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-4944c3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《让大象飞》是硅谷传奇创业导师史蒂文·霍夫曼的代表作，被并称为理解硅谷创新方法论的两大经典之一。本书把从零到无限可能的创新过程拆成六个环节：寻找方向、准备启航、打造产品、锁定市场、持续创新、高速运转。霍夫曼贯穿全书的核心观点是：创新不是技术发明，而是为用户解决真正问题的体验设计。他用大量硅谷案例告诉你，小处着手、快速验证、敢于失败、持续迭代，是穿越任何技术周期的底层方法。本书既是创业者从零起步的指南，也是成熟企业寻求转型的参考。在今天这个人工智能与产业变革加速的时代，这套硅谷方法论依然不过时。</itunes:summary>
+      <itunes:duration>00:31:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-4944c3.mp3" length="29867949" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
