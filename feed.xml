@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 17:46:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 17:51:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26832,6 +26832,17 @@
       <itunes:duration>00:34:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-69bcef.mp3" length="33229869" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《等等灵魂》 · 完整版 · 等等灵魂_-_李佩甫 · 完整讲读</title>
+      <description>一九九零年,副团职军人任秋风转业回省城,撞破妻子婚外情。他咽下那颗【十一点十一分的子弹】,下海接盘濒临商场,被旧情敌算计、被战友拖下水、被承诺压垮,二十年间从【任旋风】坠成下落不明的逃债人。同期,三个女人——上官云霓出走贵州山村、江雪守着亡人骨灰独守空楼、小陶开一间花店下午只读书——用三种完全不同的方式,回答了【人该怎么活】。李佩甫借一个军人的溃败,写出了物欲年代所有【把承诺当脊梁】者的集体画像,也写出了——【等等灵魂】这四个字,在二零零七年的重量。</description>
+      <pubDate>Tue, 06 Oct 2026 17:51:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-7723be</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九九零年,副团职军人任秋风转业回省城,撞破妻子婚外情。他咽下那颗【十一点十一分的子弹】,下海接盘濒临商场,被旧情敌算计、被战友拖下水、被承诺压垮,二十年间从【任旋风】坠成下落不明的逃债人。同期,三个女人——上官云霓出走贵州山村、江雪守着亡人骨灰独守空楼、小陶开一间花店下午只读书——用三种完全不同的方式,回答了【人该怎么活】。李佩甫借一个军人的溃败,写出了物欲年代所有【把承诺当脊梁】者的集体画像,也写出了——【等等灵魂】这四个字,在二零零七年的重量。</itunes:summary>
+      <itunes:duration>00:33:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-7723be.mp3" length="32338605" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
