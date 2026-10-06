@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 01:16:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 01:22:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26480,6 +26480,17 @@
       <itunes:duration>00:29:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-ffb8af.mp3" length="28096557" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《万历十五年》 · 完整版 · 黄仁宇作品系列 · 完整讲读</title>
+      <description>《万历十五年》是黄仁宇以公元一五八七年为切片写就的明史沉思录。全书以万历皇帝、申时行、张居正、海瑞、戚继光、李贽六位主角的失败命运为线索,揭示出明代政治以道德代替法制的根本症结。一个抽象的道德话语撑不起数目字管理,一个保护落后农业经济的帝国压制了商业与金融的萌芽,个人再伟大也拗不过山穷水尽的制度。这本书既是六个人的悲剧,也是一整个文明的悲剧,而黄仁宇用它留给后来人一面镜子,照见自己。</description>
+      <pubDate>Tue, 06 Oct 2026 01:22:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-fdc119</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《万历十五年》是黄仁宇以公元一五八七年为切片写就的明史沉思录。全书以万历皇帝、申时行、张居正、海瑞、戚继光、李贽六位主角的失败命运为线索,揭示出明代政治以道德代替法制的根本症结。一个抽象的道德话语撑不起数目字管理,一个保护落后农业经济的帝国压制了商业与金融的萌芽,个人再伟大也拗不过山穷水尽的制度。这本书既是六个人的悲剧,也是一整个文明的悲剧,而黄仁宇用它留给后来人一面镜子,照见自己。</itunes:summary>
+      <itunes:duration>00:26:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-fdc119.mp3" length="25020333" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
