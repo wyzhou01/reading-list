@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 18:50:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 18:51:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26986,6 +26986,17 @@
       <itunes:duration>00:29:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-b84cca.mp3" length="28647597" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《现代性的哲学话语》 · 完整版 · 现代性的哲学话语_(人文与社会译丛) · 完整讲读</title>
+      <description>本书是哈贝马斯于一九八五年出版的思想史论战之作，系统梳理了从黑格尔到福柯的现代性批判脉络，并正面回应利奥塔以来的后现代挑战。哈贝马斯把尼采、海德格尔、德里达、巴塔耶、福柯请上辩论席，揭示他们共同的盲点：把以主体为中心的理性等同于理性本身，从而在批判中烧掉了批判得以立足的根基。在此基础上，哈贝马斯提出交往理性作为替代方案，主张理性不在孤立主体内部，而在主体之间的对话中。进而，他提出著名论断——现代性是一项未完成的设计，现代的规范性内核需要在每一次具体实践中被重新实现。这部书既是一部高密度的思想史著作，又是一部立场鲜明的论战之作，为读者理解现代性与后现代主义的争论提供了不可替代的框架。</description>
+      <pubDate>Tue, 06 Oct 2026 18:51:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-e1781a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是哈贝马斯于一九八五年出版的思想史论战之作，系统梳理了从黑格尔到福柯的现代性批判脉络，并正面回应利奥塔以来的后现代挑战。哈贝马斯把尼采、海德格尔、德里达、巴塔耶、福柯请上辩论席，揭示他们共同的盲点：把以主体为中心的理性等同于理性本身，从而在批判中烧掉了批判得以立足的根基。在此基础上，哈贝马斯提出交往理性作为替代方案，主张理性不在孤立主体内部，而在主体之间的对话中。进而，他提出著名论断——现代性是一项未完成的设计，现代的规范性内核需要在每一次具体实践中被重新实现。这部书既是一部高密度的思想史著作，又是一部立场鲜明的论战之作，为读者理解现代性与后现代主义的争论提供了不可替代的框架。</itunes:summary>
+      <itunes:duration>00:25:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-e1781a.mp3" length="24749997" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
