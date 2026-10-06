@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 00:03:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 00:10:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26370,6 +26370,17 @@
       <itunes:duration>00:30:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-0f0925.mp3" length="29505837" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《九州·魅生1·妖颜卷》 · 完整版 · 楚惜刀_-_九州·魅生1·妖颜卷 · 完整讲读</title>
+      <description>《九州·魅生一·妖颜卷》是楚惜刀以八个短篇构筑的古典东方奇诡剧。易容大师紫颜替世间痴男怨女改换容颜，蘼香铺的姽婳以一缕香兑一段命。色相与本心颠倒，易容师看似翻云覆雨，实则吞下无数他人的命运回声。楚惜刀以刺绣般的考据笔法，写尽执念成痴的代价：在颜值与滤镜泛滥的当下，这本书对色相与因果的叩问，比写成的那个年代更加锐利。</description>
+      <pubDate>Tue, 06 Oct 2026 00:10:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-39223d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《九州·魅生一·妖颜卷》是楚惜刀以八个短篇构筑的古典东方奇诡剧。易容大师紫颜替世间痴男怨女改换容颜，蘼香铺的姽婳以一缕香兑一段命。色相与本心颠倒，易容师看似翻云覆雨，实则吞下无数他人的命运回声。楚惜刀以刺绣般的考据笔法，写尽执念成痴的代价：在颜值与滤镜泛滥的当下，这本书对色相与因果的叩问，比写成的那个年代更加锐利。</itunes:summary>
+      <itunes:duration>00:28:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-39223d.mp3" length="27049773" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
