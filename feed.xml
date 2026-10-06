@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 02:30:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 02:39:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26579,6 +26579,17 @@
       <itunes:duration>00:28:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-f45938.mp3" length="27308973" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《茶花女》 · 完整版 · 茶花女（读客版） · 完整讲读</title>
+      <description>《茶花女》是法国作家小仲马于一八四八年出版的经典小说。一八四七年，巴黎名妓玛格丽特·戈蒂埃因肺病去世，留下巨额债务，债主们拍卖她的家具抵债，引来无数贵妇前来看热闹。玛格丽特生前的情人阿尔芒在拍卖会上结识了叙述者，并向他展示了玛格丽特的日记，揭开了她生命最后一段时光的真相。玛格丽特爱上阿尔芒后，决定抛弃过去的一切，与他到乡间同居，过上了她一生中最幸福的生活。然而阿尔芒的父亲以家族名誉和女儿婚事为由，恳求玛格丽特离开阿尔芒。玛格丽特为了成全阿尔芒的家族，独自承担了所有痛苦，谎称自己因无法忍受清贫而离开，又默默承受了阿尔芒的种种报复，最终在肺病与心碎的双重打击下香消玉殒。小仲马通过这部作品，揭示了阶级与真爱的冲突、金钱对人性的腐蚀、女性的牺牲与社会的虚伪，以及真实与谎言的代价。一百七十多年过去，这部小说依然能让无数读者流泪。</description>
+      <pubDate>Tue, 06 Oct 2026 02:39:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-b93b7f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《茶花女》是法国作家小仲马于一八四八年出版的经典小说。一八四七年，巴黎名妓玛格丽特·戈蒂埃因肺病去世，留下巨额债务，债主们拍卖她的家具抵债，引来无数贵妇前来看热闹。玛格丽特生前的情人阿尔芒在拍卖会上结识了叙述者，并向他展示了玛格丽特的日记，揭开了她生命最后一段时光的真相。玛格丽特爱上阿尔芒后，决定抛弃过去的一切，与他到乡间同居，过上了她一生中最幸福的生活。然而阿尔芒的父亲以家族名誉和女儿婚事为由，恳求玛格丽特离开阿尔芒。玛格丽特为了成全阿尔芒的家族，独自承担了所有痛苦，谎称自己因无法忍受清贫而离开，又默默承受了阿尔芒的种种报复，最终在肺病与心碎的双重打击下香消玉殒。小仲马通过这部作品，揭示了阶级与真爱的冲突、金钱对人性的腐蚀、女性的牺牲与社会的虚伪，以及真实与谎言的代价。一百七十多年过去，这部小说依然能让无数读者流泪。</itunes:summary>
+      <itunes:duration>00:37:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-b93b7f.mp3" length="35799981" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
