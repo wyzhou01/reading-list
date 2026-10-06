@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 22:02:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 22:08:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27327,6 +27327,17 @@
       <itunes:duration>00:33:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-0ed1ee.mp3" length="32593965" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《愿景领导者：卓越领导的七大核心法则》 · 完整版 · 愿景领导者 · 完整讲读</title>
+      <description>《愿景领导者》是心灵导师迪帕克·乔普拉为各大企业首席执行官授课八年后写成的领导力著作，提出卓越领导力的七大核心法则——LEADERS：观察倾听、情感联系、运用意识、注重行动、有效授权、明确责任、同步性。作者认为真正的领导力量不来自外部职位，而来自内在的意识与灵魂指引。通过杰里米·穆恩与雷纳塔·布莱克两位真实创业者的故事，全书展示了愿景如何在现实的艰难中一步步落地。这本书在传统商学院的策略执行与东方传统智慧之间架起一座桥，适合所有想从根本处提升领导力的读者。</description>
+      <pubDate>Tue, 06 Oct 2026 22:08:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-b645a5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《愿景领导者》是心灵导师迪帕克·乔普拉为各大企业首席执行官授课八年后写成的领导力著作，提出卓越领导力的七大核心法则——LEADERS：观察倾听、情感联系、运用意识、注重行动、有效授权、明确责任、同步性。作者认为真正的领导力量不来自外部职位，而来自内在的意识与灵魂指引。通过杰里米·穆恩与雷纳塔·布莱克两位真实创业者的故事，全书展示了愿景如何在现实的艰难中一步步落地。这本书在传统商学院的策略执行与东方传统智慧之间架起一座桥，适合所有想从根本处提升领导力的读者。</itunes:summary>
+      <itunes:duration>00:26:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-b645a5.mp3" length="24962349" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
