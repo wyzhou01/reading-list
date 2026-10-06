@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 22:14:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 22:21:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27349,6 +27349,17 @@
       <itunes:duration>00:29:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-7a5524.mp3" length="28257453" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《神經喚術士》 · 完整版 · 神經喚術士(1) · 完整讲读</title>
+      <description>《神經喚術士》是威廉·吉布森一九八四年的科幻經典，催生賽博龐克文類。書中前駭客凱斯被雇主毒毀神經，從母體墜入日本千葉底層，在資本、器官黑市與人工智慧冬寂的夾縫中掙扎，最終用一顆流星鏢砸碎壁式螢幕，拒絕了意識被外包的可能。本書預言了神經接植、跨國企業接管城市、在家鍵入全球金融等場景，是《駭客任務》《攻殼機動隊》的共同源頭。</description>
+      <pubDate>Tue, 06 Oct 2026 22:21:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-e4b3a0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《神經喚術士》是威廉·吉布森一九八四年的科幻經典，催生賽博龐克文類。書中前駭客凱斯被雇主毒毀神經，從母體墜入日本千葉底層，在資本、器官黑市與人工智慧冬寂的夾縫中掙扎，最終用一顆流星鏢砸碎壁式螢幕，拒絕了意識被外包的可能。本書預言了神經接植、跨國企業接管城市、在家鍵入全球金融等場景，是《駭客任務》《攻殼機動隊》的共同源頭。</itunes:summary>
+      <itunes:duration>00:26:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-e4b3a0.mp3" length="25738413" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
