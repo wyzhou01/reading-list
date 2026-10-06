@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 21:54:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 22:02:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27316,6 +27316,17 @@
       <itunes:duration>00:24:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-9be1a5.mp3" length="23486637" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《对德意志民族的演讲》 · 完整版 · 对德意志民族的演讲_(汉译世界学术名著丛书)_-_费希特 · 完整讲读</title>
+      <description>《对德意志民族的演讲》是德国哲学家费希特在拿破仑占领柏林期间发表的十四次演讲集。他提出德意志民族正处在人类历史从利己主义阶段转向理性科学阶段的关键关口，主张以全新的民族教育——即裴斯泰洛齐式的唤醒人格、面向全体成员的教育——取代培养技能、只服务少数阶层的旧教育，并通过德意志语言与民族性格的独特性，承担起把理性王国传遍全人类的世界主义使命。本书既是德意志民族主义的奠基之作，也是把爱国主义与世界主义辩证统一的哲学檄文。</description>
+      <pubDate>Tue, 06 Oct 2026 22:02:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-0ed1ee</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《对德意志民族的演讲》是德国哲学家费希特在拿破仑占领柏林期间发表的十四次演讲集。他提出德意志民族正处在人类历史从利己主义阶段转向理性科学阶段的关键关口，主张以全新的民族教育——即裴斯泰洛齐式的唤醒人格、面向全体成员的教育——取代培养技能、只服务少数阶层的旧教育，并通过德意志语言与民族性格的独特性，承担起把理性王国传遍全人类的世界主义使命。本书既是德意志民族主义的奠基之作，也是把爱国主义与世界主义辩证统一的哲学檄文。</itunes:summary>
+      <itunes:duration>00:33:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-0ed1ee.mp3" length="32593965" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
