@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 01:53:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 02:00:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26524,6 +26524,17 @@
       <itunes:duration>00:33:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-2549bb.mp3" length="31769901" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《舌尖上的记忆（中国故事）》 · 完整版 · 舌尖上的记忆_(中国故事)_-_李辅 · 完整讲读</title>
+      <description>《舌尖上的记忆》是一位七十三岁山西老人李辅的亲历回忆录。他横跨工农兵学官五种身份，以七十年个人吃饭经历为线索，透过饮食看中国现当代史。从抗战时期山西应县夜市的熏肉叫卖声，到统购统销后市场萧条；从一九五八年公共食堂免费吃猫耳朵不知吃到何时结束，到一九六零年挨饿时用树叶充饥、村里天天有人上吊；从省委书记在太原街头抓油条看形势，到京西宾馆夜宵【专门不睡等着吃】。书里没有宏大叙事，只有吃饭这件最平常的事，却折射出大炼钢铁、浮夸风、三年饥荒、文革灾荒、改革开放后的农村巨变与官场吃喝之风的演变。这本书适合每一个想了解自己父母辈、祖辈究竟经历过什么的普通读者，也适合对当代中国政治经济社会变迁感兴趣的人。说到底，我们今天吃什么、怎么吃、从哪里吃，背后都写着来路。</description>
+      <pubDate>Tue, 06 Oct 2026 02:00:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-a68d2a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《舌尖上的记忆》是一位七十三岁山西老人李辅的亲历回忆录。他横跨工农兵学官五种身份，以七十年个人吃饭经历为线索，透过饮食看中国现当代史。从抗战时期山西应县夜市的熏肉叫卖声，到统购统销后市场萧条；从一九五八年公共食堂免费吃猫耳朵不知吃到何时结束，到一九六零年挨饿时用树叶充饥、村里天天有人上吊；从省委书记在太原街头抓油条看形势，到京西宾馆夜宵【专门不睡等着吃】。书里没有宏大叙事，只有吃饭这件最平常的事，却折射出大炼钢铁、浮夸风、三年饥荒、文革灾荒、改革开放后的农村巨变与官场吃喝之风的演变。这本书适合每一个想了解自己父母辈、祖辈究竟经历过什么的普通读者，也适合对当代中国政治经济社会变迁感兴趣的人。说到底，我们今天吃什么、怎么吃、从哪里吃，背后都写着来路。</itunes:summary>
+      <itunes:duration>00:29:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-a68d2a.mp3" length="28330413" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
