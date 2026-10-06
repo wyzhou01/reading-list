@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 01:28:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 01:38:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26502,6 +26502,17 @@
       <itunes:duration>00:21:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-e7eaed.mp3" length="20942253" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《山顶上的男孩》 · 完整版 · 山顶上的男孩(1) · 完整讲读</title>
+      <description>《山顶上的男孩》是法国作家蒂埃里·盖伊的长篇青少年小说，讲述一个德法混血男孩皮埃罗·费舍尔如何在父亲早逝、母亲病故后，被命运一步步推上希特勒私人驾驶座，并在多年后向失聪的童年挚友安歇尔坦白一切的悲剧。故事横跨巴黎、奥尔良孤儿院、慕尼黑与贝格霍夫，再回到巴黎，以一只狐狸与一只狗的手势暗号贯穿始终，拷问平庸之罪、沉默的家庭与言说的勇气。</description>
+      <pubDate>Tue, 06 Oct 2026 01:38:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-1108cf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《山顶上的男孩》是法国作家蒂埃里·盖伊的长篇青少年小说，讲述一个德法混血男孩皮埃罗·费舍尔如何在父亲早逝、母亲病故后，被命运一步步推上希特勒私人驾驶座，并在多年后向失聪的童年挚友安歇尔坦白一切的悲剧。故事横跨巴黎、奥尔良孤儿院、慕尼黑与贝格霍夫，再回到巴黎，以一只狐狸与一只狗的手势暗号贯穿始终，拷问平庸之罪、沉默的家庭与言说的勇气。</itunes:summary>
+      <itunes:duration>00:23:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-1108cf.mp3" length="22953645" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
