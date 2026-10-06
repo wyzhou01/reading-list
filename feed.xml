@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 18:25:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 18:32:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26931,6 +26931,17 @@
       <itunes:duration>00:27:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-145fa0.mp3" length="26626605" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《掌控大趋势》 · 完整版 · 掌控大趋势 · 完整讲读</title>
+      <description>《掌控大趋势》是奈斯比特夫妇趋势研究系列的收官之作。本书回答了《全球大变局》遗留的关键问题：当单一趋势变成多维巨变，普通人该怎么办？作者提出，多中心世界已经成型，人工智能正重塑就业、教育与媒体，女性崛起将成为全球经济增长的最大变量。在系统性、加速化的变革里，唯一不变的，是选择的力量——你不能选择出生的环境，但你可以选择做什么、拥有什么、成为谁。本书不只预测未来，更提供一套在不确定时代为自己定位的坐标系。</description>
+      <pubDate>Tue, 06 Oct 2026 18:31:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-12ecec</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《掌控大趋势》是奈斯比特夫妇趋势研究系列的收官之作。本书回答了《全球大变局》遗留的关键问题：当单一趋势变成多维巨变，普通人该怎么办？作者提出，多中心世界已经成型，人工智能正重塑就业、教育与媒体，女性崛起将成为全球经济增长的最大变量。在系统性、加速化的变革里，唯一不变的，是选择的力量——你不能选择出生的环境，但你可以选择做什么、拥有什么、成为谁。本书不只预测未来，更提供一套在不确定时代为自己定位的坐标系。</itunes:summary>
+      <itunes:duration>00:25:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-12ecec.mp3" length="24863277" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
