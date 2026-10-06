@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 19:21:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 19:22:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27063,6 +27063,17 @@
       <itunes:duration>00:23:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-f3fcfd.mp3" length="22679853" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《原来可以等到你》 · 完整版 · 原来可以等到你_(大鱼文化最美时光)_-_三文愚 · 完整讲读</title>
+      <description>《原来可以等到你》是八零后女作家三文愚的半自传式都市情感长篇。女主角陆晚江在 K T V 醉夜误拨前男友苏闻的旧号，却发现号码早已易主；接起电话的陌生人高以樊，后来走进她的生活，让她学会在【各自幸福】的释怀中重新开始。同时，她的闺蜜杜宝安在一次意外怀孕后，与不靠谱却愿意为她变好的陈元一共同成长。一群在 B 市打拼的八零后女孩，用合租房里的宵夜、会议室里的专业、深夜厨房里的眼泪，写下了一份关于爱情、友情、自我证明的温柔答案。这本书告诉我们：真爱不会消失，它只是换了一种方式重新出现——而在它出现之前，你必须先成为那个【值得被重新找到】的人。</description>
+      <pubDate>Tue, 06 Oct 2026 19:22:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-477db6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《原来可以等到你》是八零后女作家三文愚的半自传式都市情感长篇。女主角陆晚江在 K T V 醉夜误拨前男友苏闻的旧号，却发现号码早已易主；接起电话的陌生人高以樊，后来走进她的生活，让她学会在【各自幸福】的释怀中重新开始。同时，她的闺蜜杜宝安在一次意外怀孕后，与不靠谱却愿意为她变好的陈元一共同成长。一群在 B 市打拼的八零后女孩，用合租房里的宵夜、会议室里的专业、深夜厨房里的眼泪，写下了一份关于爱情、友情、自我证明的温柔答案。这本书告诉我们：真爱不会消失，它只是换了一种方式重新出现——而在它出现之前，你必须先成为那个【值得被重新找到】的人。</itunes:summary>
+      <itunes:duration>00:37:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-477db6.mp3" length="36139821" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
