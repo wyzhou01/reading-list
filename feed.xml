@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 00:21:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 00:30:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26403,6 +26403,17 @@
       <itunes:duration>00:32:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-096b32.mp3" length="31552941" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《甜与权力：糖在近代历史上的地位》 · 完整版 · 甜与权力_糖在近代历史上的地位_(汉译世界学术名著丛书)_-_西敏司 · 完整讲读</title>
+      <description>《甜与权力》是美国人类学家西敏司的经典之作。作者从一粒甘蔗出发，重新讲述了资本主义现代性的诞生史。十七世纪中期以后，欧洲人把加勒比奴隶种植园生产的糖，与中国进口的茶相结合，包装成工人阶级早餐桌上的一杯红茶。糖从奢侈品变成必需品，背后是奴隶劳动、跨大西洋贸易、帝国财政、阶级形成与消费主义兴起的一整套权力机制。西敏司用微观物件切入宏观叙事，把人类学的深描写与历史学的长时段结合，示范了一种从小见大、从日常见权力的看世界方法。四百年过去了，糖的故事仍在继续，今天关于健康、代糖与全球供应链的争论，正是这张权力之网的最新一章。</description>
+      <pubDate>Tue, 06 Oct 2026 00:30:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-668db6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《甜与权力》是美国人类学家西敏司的经典之作。作者从一粒甘蔗出发，重新讲述了资本主义现代性的诞生史。十七世纪中期以后，欧洲人把加勒比奴隶种植园生产的糖，与中国进口的茶相结合，包装成工人阶级早餐桌上的一杯红茶。糖从奢侈品变成必需品，背后是奴隶劳动、跨大西洋贸易、帝国财政、阶级形成与消费主义兴起的一整套权力机制。西敏司用微观物件切入宏观叙事，把人类学的深描写与历史学的长时段结合，示范了一种从小见大、从日常见权力的看世界方法。四百年过去了，糖的故事仍在继续，今天关于健康、代糖与全球供应链的争论，正是这张权力之网的最新一章。</itunes:summary>
+      <itunes:duration>00:25:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-668db6.mp3" length="24073773" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
