@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 17:23:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 17:31:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26788,6 +26788,17 @@
       <itunes:duration>00:22:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-781fa3.mp3" length="21677229" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《天谴行动》 · 完整版 · 天谴行动 · 完整讲读</title>
+      <description>《天谴行动》是加拿大记者乔治·乔纳斯根据以色列前特工阿弗纳口述写成的复仇小说。一九七二年慕尼黑奥运惨案后，以色列总理梅尔下令暗杀十一名巴勒斯坦恐怖分子。阿弗纳率领五人小队踏上不归路，杀掉六人后，自己也开始害怕得睡不着觉。当队友接连神秘死亡，阿弗纳最终选择逃离，去了纽约开出租车。这本书第一次把特工还原成普通人：他们也有恐惧，也被国家叙事绑架，也会在某个深夜怀疑自己。乔纳斯没有给出复仇的答案，只留下一个问题：以暴易暴的尽头，到底是什么？当阿弗纳最终从历史的耗材变成一个普通的出租车司机，他获得的不是勋章，而是一种不必再为任何宏大叙事去杀人的平静。这本书是写给每一个被仇恨绑架过的人的：学会从宏大叙事里把自己拔出来，本身就是一种胜利。</description>
+      <pubDate>Tue, 06 Oct 2026 17:31:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-f15c3b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《天谴行动》是加拿大记者乔治·乔纳斯根据以色列前特工阿弗纳口述写成的复仇小说。一九七二年慕尼黑奥运惨案后，以色列总理梅尔下令暗杀十一名巴勒斯坦恐怖分子。阿弗纳率领五人小队踏上不归路，杀掉六人后，自己也开始害怕得睡不着觉。当队友接连神秘死亡，阿弗纳最终选择逃离，去了纽约开出租车。这本书第一次把特工还原成普通人：他们也有恐惧，也被国家叙事绑架，也会在某个深夜怀疑自己。乔纳斯没有给出复仇的答案，只留下一个问题：以暴易暴的尽头，到底是什么？当阿弗纳最终从历史的耗材变成一个普通的出租车司机，他获得的不是勋章，而是一种不必再为任何宏大叙事去杀人的平静。这本书是写给每一个被仇恨绑架过的人的：学会从宏大叙事里把自己拔出来，本身就是一种胜利。</itunes:summary>
+      <itunes:duration>00:28:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-f15c3b.mp3" length="27064365" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
