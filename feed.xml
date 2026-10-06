@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 20:14:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 20:23:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27195,6 +27195,17 @@
       <itunes:duration>00:29:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-9bd3ae.mp3" length="28548141" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《医学伦理》 · 完整版 · 牛津通识读本：医学伦理（中文版） · 完整讲读</title>
+      <description>《医学伦理》是牛津通识读本中由英国精神科医生兼伦理学者托尼·霍普撰写的一本入门书。它用安乐死、卫生资源分配、辅助生殖、精神病人权利、医学研究等八个真实临床案例，示范如何用思维实验、滑坡论证、三段论等推理工具拆解道德两难。霍普不站队、不鼓吹任何结论，只训练读者在新技术不断制造新难题的时代，保持冷静拆解问题的能力。这是一本教你在生死抉择面前如何放下情绪、靠推理把事情想清楚的书。</description>
+      <pubDate>Tue, 06 Oct 2026 20:23:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-6d4c44</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《医学伦理》是牛津通识读本中由英国精神科医生兼伦理学者托尼·霍普撰写的一本入门书。它用安乐死、卫生资源分配、辅助生殖、精神病人权利、医学研究等八个真实临床案例，示范如何用思维实验、滑坡论证、三段论等推理工具拆解道德两难。霍普不站队、不鼓吹任何结论，只训练读者在新技术不断制造新难题的时代，保持冷静拆解问题的能力。这是一本教你在生死抉择面前如何放下情绪、靠推理把事情想清楚的书。</itunes:summary>
+      <itunes:duration>00:22:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-6d4c44.mp3" length="21798189" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
