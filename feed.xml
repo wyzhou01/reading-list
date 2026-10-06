@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 21:51:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 21:54:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27305,6 +27305,17 @@
       <itunes:duration>00:28:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-29af3b.mp3" length="27142317" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《双骄3：时势造英雄》 · 完整版 · 双骄(《无心法师》后，尼罗全新力作！) · 完整讲读</title>
+      <description>《双骄》是尼罗转型之作，跳出志怪套路，转写民国乱世的人心博弈。民国十二年，北京小伙张家田暗恋落难姑娘叶春好，为接近她混入雷督理府当听差，却发现督理本人也看中了她。一个卑微痴情的小人物，一个权倾一方的军阀，三人被命运推进一段夹杂权力、欲望与成全的三角纠葛。张家田被督理一手提拔，从门房小厮一路做到省府师长，把对叶春好的单相思咽进肚子，换来知遇之恩的阶层跃升。叶春好本是要强独立的女性，却在三姨太太的拉拢与督理的温柔等待中一步步走向金丝笼。尼罗用她标志性的细腻笔触，写出了民国中层阶级在军阀、洋人、租界多重绞索下的集体梦游，也写出了每一个普通人在爱情与权力之间不得不做出的、带着体温的妥协。</description>
+      <pubDate>Fri, 02 Oct 2026 18:29:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-9be1a5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《双骄》是尼罗转型之作，跳出志怪套路，转写民国乱世的人心博弈。民国十二年，北京小伙张家田暗恋落难姑娘叶春好，为接近她混入雷督理府当听差，却发现督理本人也看中了她。一个卑微痴情的小人物，一个权倾一方的军阀，三人被命运推进一段夹杂权力、欲望与成全的三角纠葛。张家田被督理一手提拔，从门房小厮一路做到省府师长，把对叶春好的单相思咽进肚子，换来知遇之恩的阶层跃升。叶春好本是要强独立的女性，却在三姨太太的拉拢与督理的温柔等待中一步步走向金丝笼。尼罗用她标志性的细腻笔触，写出了民国中层阶级在军阀、洋人、租界多重绞索下的集体梦游，也写出了每一个普通人在爱情与权力之间不得不做出的、带着体温的妥协。</itunes:summary>
+      <itunes:duration>00:24:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-9be1a5.mp3" length="23486637" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
