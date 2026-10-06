@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 02:16:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 02:22:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26557,6 +26557,17 @@
       <itunes:duration>00:24:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-244f3b.mp3" length="23844909" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《最后的财富帝国》 · 完整版 · 最后的财富帝国 · 完整讲读</title>
+      <description>《最后的财富帝国》是一部由资深财经记者彼得·查普曼撰写的非虚构作品，系统回顾了雷曼兄弟公司从一八五零年创立到二零零八年破产的一百五十八年兴衰史。全书以一个德裔犹太家族的创业传奇为线索，穿插起美国南北战争、大萧条、二战、登月、二零零八年金融危机等重大历史节点，呈现了一家投行如何从服务实业的棉花经纪商，一步步蜕变为追逐短期利润的金融赌徒，并最终在次贷风暴中轰然崩塌的完整过程。书中揭示了家族企业上市后的治理代价、激励错配诱发的赌博文化、华尔街从金融中介蜕变为自营赌徒的深层逻辑，以及二〇〇八年那场席卷全球的金融海啸是如何由一家公司的破产点燃的。这本书的真正价值，不在于讲述一个已经结束的悲剧，而在于提醒读者：那些吞噬雷曼的暗流，从未真正远离。</description>
+      <pubDate>Tue, 06 Oct 2026 02:22:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-e659f3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《最后的财富帝国》是一部由资深财经记者彼得·查普曼撰写的非虚构作品，系统回顾了雷曼兄弟公司从一八五零年创立到二零零八年破产的一百五十八年兴衰史。全书以一个德裔犹太家族的创业传奇为线索，穿插起美国南北战争、大萧条、二战、登月、二零零八年金融危机等重大历史节点，呈现了一家投行如何从服务实业的棉花经纪商，一步步蜕变为追逐短期利润的金融赌徒，并最终在次贷风暴中轰然崩塌的完整过程。书中揭示了家族企业上市后的治理代价、激励错配诱发的赌博文化、华尔街从金融中介蜕变为自营赌徒的深层逻辑，以及二〇〇八年那场席卷全球的金融海啸是如何由一家公司的破产点燃的。这本书的真正价值，不在于讲述一个已经结束的悲剧，而在于提醒读者：那些吞噬雷曼的暗流，从未真正远离。</itunes:summary>
+      <itunes:duration>00:26:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-e659f3.mp3" length="25518765" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
