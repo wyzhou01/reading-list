@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 02:39:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 02:47:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26590,6 +26590,17 @@
       <itunes:duration>00:37:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-b93b7f.mp3" length="35799981" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《鱼龙变》 · 完整版 · 鱼龙变V1_0 · 完整讲读</title>
+      <description>《鱼龙变》是网文老作者魏岳于二零一七年前后写就的草莽枭雄发迹史。故事从大明景泰年间太行山下被剿灭的山贼头子孟义山写起：一个被武当三个道士打得落花流水的粗汉，揣着一本捡来的《玄阳解》秘籍和一封看不懂的信札，南下洛阳，靠着山贼的狠劲、官场的算计、草莽的人脉，一路从白身做到六品检使。书里侠与法缠斗，盗与官交锋，盘王刀、无骨柔拳、玄阳经、青木掌、巩公剑各显其能；曹拐子夫妇、莫魁、郝大通、伊王、刘礼各怀心事。一百多号角色，构成了一幅鱼龙混杂的乱世浮世绘。这部书不讲大侠拯救苍生，只讲一个粗人如何把身份这层皮扒掉，靠借势、交人、活局、乱局，搅动江湖与庙堂，在秩序崩塌的时代里拼出自己的一套活法。</description>
+      <pubDate>Tue, 06 Oct 2026 02:47:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-560555</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《鱼龙变》是网文老作者魏岳于二零一七年前后写就的草莽枭雄发迹史。故事从大明景泰年间太行山下被剿灭的山贼头子孟义山写起：一个被武当三个道士打得落花流水的粗汉，揣着一本捡来的《玄阳解》秘籍和一封看不懂的信札，南下洛阳，靠着山贼的狠劲、官场的算计、草莽的人脉，一路从白身做到六品检使。书里侠与法缠斗，盗与官交锋，盘王刀、无骨柔拳、玄阳经、青木掌、巩公剑各显其能；曹拐子夫妇、莫魁、郝大通、伊王、刘礼各怀心事。一百多号角色，构成了一幅鱼龙混杂的乱世浮世绘。这部书不讲大侠拯救苍生，只讲一个粗人如何把身份这层皮扒掉，靠借势、交人、活局、乱局，搅动江湖与庙堂，在秩序崩塌的时代里拼出自己的一套活法。</itunes:summary>
+      <itunes:duration>00:34:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-560555.mp3" length="32737581" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
