@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 05 Oct 2026 23:55:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 00:03:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26359,6 +26359,17 @@
       <itunes:duration>00:30:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-645262.mp3" length="29726637" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《集外集》 · 完整版 · 集外集_-_季羡林 · 完整讲读</title>
+      <description>《集外集》收录季羡林一九八八年至二零二零二三年间散在各处的晚年文字，其中最重的一篇，是二〇〇一年底他在三〇一医院住院二十几天后写下的《新纪元文存自序》。这一年他九十一岁，经历了便血、膀胱镜、与恐惧的正面相对，最终把人生意义归于劳作，把生死归于陶渊明式的顺其自然。本书不谈学术理论，只有一位世纪老人对老病、师友、故交和正在变老的自己的全部真心话。</description>
+      <pubDate>Tue, 06 Oct 2026 00:02:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-0f0925</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《集外集》收录季羡林一九八八年至二零二零二三年间散在各处的晚年文字，其中最重的一篇，是二〇〇一年底他在三〇一医院住院二十几天后写下的《新纪元文存自序》。这一年他九十一岁，经历了便血、膀胱镜、与恐惧的正面相对，最终把人生意义归于劳作，把生死归于陶渊明式的顺其自然。本书不谈学术理论，只有一位世纪老人对老病、师友、故交和正在变老的自己的全部真心话。</itunes:summary>
+      <itunes:duration>00:30:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-0f0925.mp3" length="29505837" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
