@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 00:37:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 00:43:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26425,6 +26425,17 @@
       <itunes:duration>00:30:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-a4c3df.mp3" length="29516589" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《水问》 · 完整版 · 水问_-_简媜 · 完整讲读</title>
+      <description>《水问》是台湾散文家简媜早期的代表作,以水为线索,从一名投湖女子的传说起笔,串联起深情与悲剧的辩证、漂泊与栖居的拉扯、山水作为生命智慧、生死豁达与人间深情四重命题。全书以古典意象回应现代人的精神困境,语言诗性而温热,被誉为台湾女性散文中「诗化散文」的典范。它写给所有在爱里受过伤、在路上还在走的人——深情不必以死来句读,豁达不必以无情为代价,人间深情,值得被一壶温热的酒温柔接住。</description>
+      <pubDate>Tue, 06 Oct 2026 00:43:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-1aeec4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《水问》是台湾散文家简媜早期的代表作,以水为线索,从一名投湖女子的传说起笔,串联起深情与悲剧的辩证、漂泊与栖居的拉扯、山水作为生命智慧、生死豁达与人间深情四重命题。全书以古典意象回应现代人的精神困境,语言诗性而温热,被誉为台湾女性散文中「诗化散文」的典范。它写给所有在爱里受过伤、在路上还在走的人——深情不必以死来句读,豁达不必以无情为代价,人间深情,值得被一壶温热的酒温柔接住。</itunes:summary>
+      <itunes:duration>00:32:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-1aeec4.mp3" length="31504173" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
