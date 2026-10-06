@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 18:57:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 19:00:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27008,6 +27008,17 @@
       <itunes:duration>00:30:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-cb1913.mp3" length="28984365" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《从现在出发》 · 完整版 · 从现在出发 · 完整讲读</title>
+      <description>《从现在出发》是陈春花写给大学生的成长指南。她从自己二十五年讲台经验出发，把大学生最常遇到的迷茫、拖延和缺乏动力，拆成四个基本认知和七项修炼。四个认知是：你会取得惊人的成就、人人都能成功、行动是成功的因素、人有无限的心理能量。七项修炼是：永远怀有梦想、要探索更多的东西、保持正确的心态、珍惜时间的价值、学会快乐的沟通、持续激励自己、立即行动。全书反复落在同一句话上：手比头高。人的高度不是思想决定的，人的高度是双手决定的。它不只是一本大学生读物，也是每一个正在重新出发的年轻人可以反复翻阅的方法手册。</description>
+      <pubDate>Tue, 06 Oct 2026 19:00:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-3aadcc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《从现在出发》是陈春花写给大学生的成长指南。她从自己二十五年讲台经验出发，把大学生最常遇到的迷茫、拖延和缺乏动力，拆成四个基本认知和七项修炼。四个认知是：你会取得惊人的成就、人人都能成功、行动是成功的因素、人有无限的心理能量。七项修炼是：永远怀有梦想、要探索更多的东西、保持正确的心态、珍惜时间的价值、学会快乐的沟通、持续激励自己、立即行动。全书反复落在同一句话上：手比头高。人的高度不是思想决定的，人的高度是双手决定的。它不只是一本大学生读物，也是每一个正在重新出发的年轻人可以反复翻阅的方法手册。</itunes:summary>
+      <itunes:duration>00:30:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-3aadcc.mp3" length="29362221" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
