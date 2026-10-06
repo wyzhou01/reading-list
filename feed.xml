@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 21:19:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 21:29:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27261,6 +27261,17 @@
       <itunes:duration>00:53:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-f905cd.mp3" length="51219501" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《奇迹唱片行》 · 完整版 · 奇迹唱片行 · 完整讲读</title>
+      <description>《奇迹唱片行》是英国作家蕾秋·乔伊斯写给音乐、独立小店与专注聆听的一份情书。小说以一九八八到二零零九年间一家只卖黑胶的唱片行为舞台，讲述不识乐谱的老板弗兰克如何凭借天赋般的倾听能力，为每一个走进来的人挑出他当下最需要的那首歌——无论是失恋、失眠、丧亲、还是无从命名的孤独。它既是小镇实体小店被流媒体时代冲击的挽歌，也是陌生人相遇如何在城市肌理中保存人性的温柔证明。合上书，读者会重新学习一件事：放下手边所有的事，心无旁骛地聆听。</description>
+      <pubDate>Tue, 06 Oct 2026 21:29:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-444eb1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《奇迹唱片行》是英国作家蕾秋·乔伊斯写给音乐、独立小店与专注聆听的一份情书。小说以一九八八到二零零九年间一家只卖黑胶的唱片行为舞台，讲述不识乐谱的老板弗兰克如何凭借天赋般的倾听能力，为每一个走进来的人挑出他当下最需要的那首歌——无论是失恋、失眠、丧亲、还是无从命名的孤独。它既是小镇实体小店被流媒体时代冲击的挽歌，也是陌生人相遇如何在城市肌理中保存人性的温柔证明。合上书，读者会重新学习一件事：放下手边所有的事，心无旁骛地聆听。</itunes:summary>
+      <itunes:duration>00:28:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-444eb1.mp3" length="27106221" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
