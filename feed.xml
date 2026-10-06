@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 03:02:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 03:11:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26623,6 +26623,17 @@
       <itunes:duration>00:28:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-3e79c4.mp3" length="26991789" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《最后一役：1945柏林战役》 · 完整版 · 最后一役_-_[美]科尼利厄斯·瑞恩 · 完整讲读</title>
+      <description>《最后一役》是美国战地记者科尼利厄斯·瑞恩关于一九四五年四月十六日至五月十日柏林战役的纪实经典。他采访七百多位亲历者，解密大量档案，以【无一字无出处】的信史原则，复原了这场被作者称为【第二个迦太基】的围城战。书里既有苏军复仇的炮火与暴行，也有盟军停止前进的政治算计；既有希特勒地堡里的最后疯狂，也有柏林平民在地下室里发明出来的【生存的政治学】——吃饭比爱更重要，躲藏比战斗更有尊严，忍受比获得胜利在军事上更为正确。今天读这本书，不是为了记住仇恨，而是为了理解战争如何把人变成野兽，也理解人在地狱之中如何保住最后一丝尊严。</description>
+      <pubDate>Tue, 06 Oct 2026 03:11:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261005-episode-20261005-24874e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《最后一役》是美国战地记者科尼利厄斯·瑞恩关于一九四五年四月十六日至五月十日柏林战役的纪实经典。他采访七百多位亲历者，解密大量档案，以【无一字无出处】的信史原则，复原了这场被作者称为【第二个迦太基】的围城战。书里既有苏军复仇的炮火与暴行，也有盟军停止前进的政治算计；既有希特勒地堡里的最后疯狂，也有柏林平民在地下室里发明出来的【生存的政治学】——吃饭比爱更重要，躲藏比战斗更有尊严，忍受比获得胜利在军事上更为正确。今天读这本书，不是为了记住仇恨，而是为了理解战争如何把人变成野兽，也理解人在地狱之中如何保住最后一丝尊严。</itunes:summary>
+      <itunes:duration>00:34:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-24874e.mp3" length="33006381" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
