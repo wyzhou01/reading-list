@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 19:05:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 19:09:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27030,6 +27030,17 @@
       <itunes:duration>00:34:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-41f958.mp3" length="33143085" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《法国革命论》 · 完整版 · 法国革命论_(汉译世界学术名著丛书)_-_柏克 · 完整讲读</title>
+      <description>本书是英国政治家柏克于一七九〇年针对法国大革命所作的长篇政论。柏克以英国光荣革命的传统为标尺,系统批判法国大革命对王权、教会、贵族与习俗的全面摧毁,提出秩序乃自由之母、传统乃人类最珍贵财富、审慎乃政治家最高德性三大命题,预言革命终将走向以暴易暴并催生新的专制。全书为西方保守主义的奠基之作,亦是对一切激进主义最深刻的警告。</description>
+      <pubDate>Tue, 06 Oct 2026 19:09:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-82ab4e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是英国政治家柏克于一七九〇年针对法国大革命所作的长篇政论。柏克以英国光荣革命的传统为标尺,系统批判法国大革命对王权、教会、贵族与习俗的全面摧毁,提出秩序乃自由之母、传统乃人类最珍贵财富、审慎乃政治家最高德性三大命题,预言革命终将走向以暴易暴并催生新的专制。全书为西方保守主义的奠基之作,亦是对一切激进主义最深刻的警告。</itunes:summary>
+      <itunes:duration>00:24:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-82ab4e.mp3" length="23347629" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
