@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 03:51:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 16:36:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26700,6 +26700,17 @@
       <itunes:duration>00:30:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261005/episode-20261005-cd4143.mp3" length="28867245" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《解读名著系列：煮酒探西游+博弈三国》 · 完整版 · 解读名著系列套书：煮酒探西游+博弈三国 · 完整讲读</title>
+      <description>《解读名著系列：煮酒探西游+博弈三国》不是普通的名著赏析，而是一场用逻辑推理撬开经典文本的解谜实验。吴闲云用放大镜逐字抠《西游记》的矛盾，把取经故事还原成佛道两派的政治博弈；又用博弈论重新拆解三国，把英雄叙事拆成资源、人脉、时机、性格的精密运算。读这套书，你获得的不是标准答案，而是一种【凡事多问一个为什么】的阅读能力，以及一种穿透温情面纱、看清利害格局的思维透镜。</description>
+      <pubDate>Tue, 06 Oct 2026 16:35:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-c4d257</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《解读名著系列：煮酒探西游+博弈三国》不是普通的名著赏析，而是一场用逻辑推理撬开经典文本的解谜实验。吴闲云用放大镜逐字抠《西游记》的矛盾，把取经故事还原成佛道两派的政治博弈；又用博弈论重新拆解三国，把英雄叙事拆成资源、人脉、时机、性格的精密运算。读这套书，你获得的不是标准答案，而是一种【凡事多问一个为什么】的阅读能力，以及一种穿透温情面纱、看清利害格局的思维透镜。</itunes:summary>
+      <itunes:duration>00:28:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-c4d257.mp3" length="27433773" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
