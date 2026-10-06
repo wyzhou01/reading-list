@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 18:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 18:02:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26854,6 +26854,17 @@
       <itunes:duration>00:40:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-23feb7.mp3" length="38669997" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《情绪勒索》 · 完整版 · 情绪勒索 · 完整讲读</title>
+      <description>《情绪勒索》由临床社工师朱迪斯·P·西格尔所著，融合神经科学与三十年临床经验，剖析过度反应的根源——被卡住的童年情绪记忆与左右脑连接的中断。书中拆解了忌妒、排斥、批评、控制四大诱因，剖析了工作与家庭中最容易引爆情绪的场景，并给出从生理调节到认知重写的四步策略，帮读者学会做深思熟虑的反应，而非被情绪劫持。</description>
+      <pubDate>Tue, 06 Oct 2026 18:02:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-9bb22c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《情绪勒索》由临床社工师朱迪斯·P·西格尔所著，融合神经科学与三十年临床经验，剖析过度反应的根源——被卡住的童年情绪记忆与左右脑连接的中断。书中拆解了忌妒、排斥、批评、控制四大诱因，剖析了工作与家庭中最容易引爆情绪的场景，并给出从生理调节到认知重写的四步策略，帮读者学会做深思熟虑的反应，而非被情绪劫持。</itunes:summary>
+      <itunes:duration>00:23:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-9bb22c.mp3" length="22818093" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
