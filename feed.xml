@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 18:11:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 18:18:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -26887,6 +26887,17 @@
       <itunes:duration>00:26:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-ee0674.mp3" length="25647405" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《西决》 · 完整版 · 西决 · 完整讲读</title>
+      <description>《西决》是笛安「龙城三部曲」的第一部，讲述十岁丧父丧母、被三叔三婶收养的孤儿郑西决，如何在北方城市龙城守着一屋子吵吵闹闹的亲人——堂姐郑东霓、堂妹郑南音，以及即将出生的堂弟或堂妹郑北北——走完自己的青春。小说借一个重组家庭的饭桌，写尽了中国式家族里那些说不清道不明的情感：生死相随的浪漫与无法挽回的代价、血浓于水的羁绊如何在日常里被磨损、成长的勇气与徒劳。西决一辈子都没能走出龙城，可他把龙城活成了所有亲人随时可以回头的坐标；东霓拼了命地想飞出去，飞到那个能给这个家带回更多筹码的地方去；南音则用最干净的勇气，跳进了人生最大的火坑。笛安借西决的口说出全书最重要的一句话——最珍贵的力量，其实只能用来浪费。这本书的厉害之处，在于它用一种克制又温情的笔调，写出了每一个在家族里长大的中国人都能在里面看到自己的影子——那些心照不宣的沉默，那些假装看不见的伤痛，还有那个永远守在原地的哥哥或姐姐。</description>
+      <pubDate>Tue, 06 Oct 2026 18:18:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-42a00e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《西决》是笛安「龙城三部曲」的第一部，讲述十岁丧父丧母、被三叔三婶收养的孤儿郑西决，如何在北方城市龙城守着一屋子吵吵闹闹的亲人——堂姐郑东霓、堂妹郑南音，以及即将出生的堂弟或堂妹郑北北——走完自己的青春。小说借一个重组家庭的饭桌，写尽了中国式家族里那些说不清道不明的情感：生死相随的浪漫与无法挽回的代价、血浓于水的羁绊如何在日常里被磨损、成长的勇气与徒劳。西决一辈子都没能走出龙城，可他把龙城活成了所有亲人随时可以回头的坐标；东霓拼了命地想飞出去，飞到那个能给这个家带回更多筹码的地方去；南音则用最干净的勇气，跳进了人生最大的火坑。笛安借西决的口说出全书最重要的一句话——最珍贵的力量，其实只能用来浪费。这本书的厉害之处，在于它用一种克制又温情的笔调，写出了每一个在家族里长大的中国人都能在里面看到自己的影子——那些心照不宣的沉默，那些假装看不见的伤痛，还有那个永远守在原地的哥哥或姐姐。</itunes:summary>
+      <itunes:duration>00:23:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-42a00e.mp3" length="22572717" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
