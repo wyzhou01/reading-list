@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 03:27:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 03:35:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27657,6 +27657,17 @@
       <itunes:duration>00:28:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-9fa28a.mp3" length="27139629" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《洪堡的礼物》 · 完整版 · 洪堡的礼物_-_[美]_索尔·贝娄 · 完整讲读</title>
+      <description>《洪堡的礼物》是索尔·贝娄一九七五年的代表作，也是他一九七六年获诺贝尔文学奖的关键作品。小说以叙述者西特林为主角，讲述诗人洪堡的悲剧命运与西特林的喜剧命运：洪堡是写出传世之作的诗人，最后饿死在小旅馆；西特林是踩着洪堡肩膀爬上财富巅峰的剧作家，却在深夜被同样的恐惧追上。贝娄用嬉笑怒骂的笔法，把艺术理想与物质社会的撕裂，写成了一部让人笑中带泪的喜剧，并立下根本命题：在把一切精神遗产商品化的时代，真正的遗产不能继承，只能重新点燃。</description>
+      <pubDate>Wed, 07 Oct 2026 03:35:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-887238</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《洪堡的礼物》是索尔·贝娄一九七五年的代表作，也是他一九七六年获诺贝尔文学奖的关键作品。小说以叙述者西特林为主角，讲述诗人洪堡的悲剧命运与西特林的喜剧命运：洪堡是写出传世之作的诗人，最后饿死在小旅馆；西特林是踩着洪堡肩膀爬上财富巅峰的剧作家，却在深夜被同样的恐惧追上。贝娄用嬉笑怒骂的笔法，把艺术理想与物质社会的撕裂，写成了一部让人笑中带泪的喜剧，并立下根本命题：在把一切精神遗产商品化的时代，真正的遗产不能继承，只能重新点燃。</itunes:summary>
+      <itunes:duration>00:24:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-887238.mp3" length="23770029" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
