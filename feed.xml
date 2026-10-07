@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 01:25:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 01:32:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27525,6 +27525,17 @@
       <itunes:duration>00:28:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-e1f4e4.mp3" length="27730989" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《重新理解创业》 · 完整版 · 重新理解创业 · 完整讲读</title>
+      <description>《重新理解创业》是一本写给所有创业者的反思之作.作者周航是易到用车创始人,他亲手在中国开启了网约车行业,最后却眼睁睁看着公司易主.失败之后,他没有急着爬起来再战,而是停下来把自己剖开,去湖畔大学学习失败的文化,去雷军身边做投资合伙人,从投资人角度看创业.这本书就是这段向内反思的总成果.它提出三个核心观点:第一,失败不是终点,而是认知升级的起点;第二,战略不是做大做多,而是做小做少做慢,从优秀走向卓越;第三,创业是一场从看到走向看穿、从否定走向理解的漫长旅程.全书十二章,沿着战略、竞争、品牌、流量、钱、领导力、团队、成长、低谷、瓶颈与未来的脉络,把他二十多年的创业经验一刀刀剖开,送给所有正在路上的人.一句话总结:创业不是一场赢家的游戏,而是一场从看到走向看穿、从追求优秀走向追求卓越、从做大做多转向做小做少做慢的漫长修行.</description>
+      <pubDate>Wed, 07 Oct 2026 01:32:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-471b76</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《重新理解创业》是一本写给所有创业者的反思之作.作者周航是易到用车创始人,他亲手在中国开启了网约车行业,最后却眼睁睁看着公司易主.失败之后,他没有急着爬起来再战,而是停下来把自己剖开,去湖畔大学学习失败的文化,去雷军身边做投资合伙人,从投资人角度看创业.这本书就是这段向内反思的总成果.它提出三个核心观点:第一,失败不是终点,而是认知升级的起点;第二,战略不是做大做多,而是做小做少做慢,从优秀走向卓越;第三,创业是一场从看到走向看穿、从否定走向理解的漫长旅程.全书十二章,沿着战略、竞争、品牌、流量、钱、领导力、团队、成长、低谷、瓶颈与未来的脉络,把他二十多年的创业经验一刀刀剖开,送给所有正在路上的人.一句话总结:创业不是一场赢家的游戏,而是一场从看到走向看穿、从追求优秀走向追求卓越、从做大做多转向做小做少做慢的漫长修行.</itunes:summary>
+      <itunes:duration>00:28:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-471b76.mp3" length="26956845" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
