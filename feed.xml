@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 01:32:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 01:43:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27536,6 +27536,17 @@
       <itunes:duration>00:28:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-471b76.mp3" length="26956845" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《裸面》 · 完整版 · 裸面 · 完整讲读</title>
+      <description>《裸面》是美国精神科医师奥弗斯特里特于一九六几年写就的代表作，把故事压进圣诞前夜纽约二十四小时。三条主线绞成一张网：心理医生杰德、被救的黑人少女卡罗琳、疯狂的杀手狄马科。汉森在诊所外被捅死，杰德追查真相，从哈莱姆街头一路卷入新泽西管道工厂的血腥搏斗。奥弗斯特里特一边写紧张的警匪追逐，一边用精神分析术语拆解每一个角色的动机，撕开文明的薄皮。全书没有简单的好人坏人，所有人都在极端压力下露出所谓兽性的本来面目。七十多年过去，这本书仍然刺眼，因为只要社会还有压力、还有不平等，人就随时可能在某个瞬间被逼出那层表皮。</description>
+      <pubDate>Wed, 07 Oct 2026 01:43:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-2dcc57</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《裸面》是美国精神科医师奥弗斯特里特于一九六几年写就的代表作，把故事压进圣诞前夜纽约二十四小时。三条主线绞成一张网：心理医生杰德、被救的黑人少女卡罗琳、疯狂的杀手狄马科。汉森在诊所外被捅死，杰德追查真相，从哈莱姆街头一路卷入新泽西管道工厂的血腥搏斗。奥弗斯特里特一边写紧张的警匪追逐，一边用精神分析术语拆解每一个角色的动机，撕开文明的薄皮。全书没有简单的好人坏人，所有人都在极端压力下露出所谓兽性的本来面目。七十多年过去，这本书仍然刺眼，因为只要社会还有压力、还有不平等，人就随时可能在某个瞬间被逼出那层表皮。</itunes:summary>
+      <itunes:duration>00:32:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-2dcc57.mp3" length="30996525" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
