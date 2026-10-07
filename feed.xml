@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 23:11:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 23:18:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28251,6 +28251,17 @@
       <itunes:duration>00:17:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-4b6c99.mp3" length="16854189" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《龙尾堡》 · 完整版 · 龙尾堡_-_严步青 · 完整讲读</title>
+      <description>陕西作家严步青的长篇小说《龙尾堡》，以清末到解放初期七十余年的关中乡村为舞台，透过严家、郭家两大宗族三代人的命运沉浮，讲述了一个关于秦王镜传说与权力争夺的乡土史诗。小说以拆庙打井的风波开场，穿过辛亥鼎革、民国土匪、日本轰炸、解放战争，一直写到土改的疾风暴雨。书中既有宗族争斗的刀光剑影，也有人性中贪欲与良知的反复纠缠，最终以马云起独坐坡头的一声叹息收束，留下了人活一世不如草木一春的旷世悲歌。</description>
+      <pubDate>Wed, 07 Oct 2026 23:17:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-fb2698</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>陕西作家严步青的长篇小说《龙尾堡》，以清末到解放初期七十余年的关中乡村为舞台，透过严家、郭家两大宗族三代人的命运沉浮，讲述了一个关于秦王镜传说与权力争夺的乡土史诗。小说以拆庙打井的风波开场，穿过辛亥鼎革、民国土匪、日本轰炸、解放战争，一直写到土改的疾风暴雨。书中既有宗族争斗的刀光剑影，也有人性中贪欲与良知的反复纠缠，最终以马云起独坐坡头的一声叹息收束，留下了人活一世不如草木一春的旷世悲歌。</itunes:summary>
+      <itunes:duration>00:29:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-fb2698.mp3" length="28484397" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
