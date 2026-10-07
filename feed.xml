@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 06:18:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 06:27:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27888,6 +27888,17 @@
       <itunes:duration>00:35:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-f7d3b4.mp3" length="33641901" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《青春之歌》 · 完整版 · 青春之歌_-_杨沫 · 完整讲读</title>
+      <description>《青春之歌》是杨沫一九五八年出版的长篇小说，以一九三一年至一九三五年间的北平为背景，讲述小资产阶级女性林道静从个人苦闷走向革命的人生轨迹。林道静被地主父亲抛弃、由继母逼迫婚嫁，逃婚后投奔表哥又扑空，几度濒临绝境，最终在共产党员卢嘉川、林红、江华等人的影响下觉醒，投身一二·九学生运动，成长为一名无产阶级战士。小说以细腻笔触写出知识分子在民族危亡中完成思想改造的真实心理过程，是当代中国红色经典中最具影响力、也最具争议性的作品之一，曾于一九五八年和文革时期两度遭批判，却始终在几代青年读者中持续流传。</description>
+      <pubDate>Wed, 07 Oct 2026 06:27:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-0b2b60</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《青春之歌》是杨沫一九五八年出版的长篇小说，以一九三一年至一九三五年间的北平为背景，讲述小资产阶级女性林道静从个人苦闷走向革命的人生轨迹。林道静被地主父亲抛弃、由继母逼迫婚嫁，逃婚后投奔表哥又扑空，几度濒临绝境，最终在共产党员卢嘉川、林红、江华等人的影响下觉醒，投身一二·九学生运动，成长为一名无产阶级战士。小说以细腻笔触写出知识分子在民族危亡中完成思想改造的真实心理过程，是当代中国红色经典中最具影响力、也最具争议性的作品之一，曾于一九五八年和文革时期两度遭批判，却始终在几代青年读者中持续流传。</itunes:summary>
+      <itunes:duration>00:29:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-0b2b60.mp3" length="28651821" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
