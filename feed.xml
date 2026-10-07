@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 22:44:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 22:55:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28207,6 +28207,17 @@
       <itunes:duration>00:26:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-c1d44e.mp3" length="25465005" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《纳粹医生》 · 完整版 · 纳粹医生 · 完整讲读</title>
+      <description>《纳粹医生》是美国精神病学家罗伯特·杰伊·利夫顿耗时十余年的访谈与研究结晶。他通过对二十九名纳粹医生和八十名受害者的深度访谈，剖析了普通人如何在大屠杀中完成【角色转换】——从日常自我切换为奥斯维辛自我。本书提出三大核心洞察：其一，【治愈—杀害之双重性】揭示医学话语如何被偷换成屠杀工具；其二，【官僚化接力棒】说明大恶无需大恶人，只需普通人各司其职；其三，【囚犯医生的抵抗】展现善在极端处境下的微小可能。全书不是道德谴责，而是试图理解邪恶的运作机制，认为【不去理解】等于主动让悲剧重演。在种族灭绝从未远离的今天，这本书是一面映照人性、也映照我们每个人的镜子。</description>
+      <pubDate>Wed, 07 Oct 2026 22:55:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-29f324</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《纳粹医生》是美国精神病学家罗伯特·杰伊·利夫顿耗时十余年的访谈与研究结晶。他通过对二十九名纳粹医生和八十名受害者的深度访谈，剖析了普通人如何在大屠杀中完成【角色转换】——从日常自我切换为奥斯维辛自我。本书提出三大核心洞察：其一，【治愈—杀害之双重性】揭示医学话语如何被偷换成屠杀工具；其二，【官僚化接力棒】说明大恶无需大恶人，只需普通人各司其职；其三，【囚犯医生的抵抗】展现善在极端处境下的微小可能。全书不是道德谴责，而是试图理解邪恶的运作机制，认为【不去理解】等于主动让悲剧重演。在种族灭绝从未远离的今天，这本书是一面映照人性、也映照我们每个人的镜子。</itunes:summary>
+      <itunes:duration>00:36:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-29f324.mp3" length="34613805" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
