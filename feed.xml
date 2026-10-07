@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 04:01:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 04:13:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27701,6 +27701,17 @@
       <itunes:duration>00:34:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-1f23ac.mp3" length="33523245" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中国好人》 · 完整版 · 中国好人_-_刀尔登 · 完整讲读</title>
+      <description>《中国好人：刀尔登读史》是一本用平恕之心重读古人的笔记集。作者刀尔登从正德皇帝的荒唐、忠臣的愚、君子制造小人的手，到民心因果的迷信、古今人心的相通，再到立言者被规矩自困的吊诡，一层层揭掉贴在历史人物身上的膏药，让读者看见标签底下的活人。全书不立新规矩，不重贴新标签，只示范一种功夫：慢下来，看清楚，再说话。</description>
+      <pubDate>Wed, 07 Oct 2026 04:13:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-80103a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《中国好人：刀尔登读史》是一本用平恕之心重读古人的笔记集。作者刀尔登从正德皇帝的荒唐、忠臣的愚、君子制造小人的手，到民心因果的迷信、古今人心的相通，再到立言者被规矩自困的吊诡，一层层揭掉贴在历史人物身上的膏药，让读者看见标签底下的活人。全书不立新规矩，不重贴新标签，只示范一种功夫：慢下来，看清楚，再说话。</itunes:summary>
+      <itunes:duration>00:32:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-80103a.mp3" length="31662765" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
