@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 04:55:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 05:02:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27767,6 +27767,17 @@
       <itunes:duration>00:37:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-705cbe.mp3" length="36202413" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《血流年》 · 完整版 · 流年三部曲之三：血流年 · 完整讲读</title>
+      <description>《血流年》是刘振权《流年三部曲》的收官之作,以抗日战争时期的平西太行山区为背景,聚焦玉斗古镇保和堂蒋家一家人的命运。长女蒋亭儿是八路军县大队参谋长,她的恋人赵纳书是县大队政委,两人多年相思终于并肩;弟弟蒋克义是国民党中央军特工队长,带兵驻扎平西;妹妹蒋荃也是女八路。小说通过蒋亭儿回家探母这一天的喜庆与不祥,穿插勾八民团反水、勾八之妻小红云的欲望与放荡、长工刘瑞的胆怯与叛逃、生铁牙与牛鼻子两个男人的影子,以及白秀郎上门挑拨粮台旧案等线索,写出了统一战线下国共两党的暗流相争,写出了保和堂家族的离散与亲情,写出了蒋亭儿姐弟的最后一面、蒋亭儿一生的痛悔与遗憾,最后写到一九四五年抗战胜利时玉斗人拖着长腔的那句感叹——闹了半天是日本鬼子投降了。一部把战争的宏大叙事与日常生活水乳交融的抗战题材长篇小说,提醒我们和平从来不是轻飘飘的。</description>
+      <pubDate>Wed, 07 Oct 2026 05:02:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-4ebed9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《血流年》是刘振权《流年三部曲》的收官之作,以抗日战争时期的平西太行山区为背景,聚焦玉斗古镇保和堂蒋家一家人的命运。长女蒋亭儿是八路军县大队参谋长,她的恋人赵纳书是县大队政委,两人多年相思终于并肩;弟弟蒋克义是国民党中央军特工队长,带兵驻扎平西;妹妹蒋荃也是女八路。小说通过蒋亭儿回家探母这一天的喜庆与不祥,穿插勾八民团反水、勾八之妻小红云的欲望与放荡、长工刘瑞的胆怯与叛逃、生铁牙与牛鼻子两个男人的影子,以及白秀郎上门挑拨粮台旧案等线索,写出了统一战线下国共两党的暗流相争,写出了保和堂家族的离散与亲情,写出了蒋亭儿姐弟的最后一面、蒋亭儿一生的痛悔与遗憾,最后写到一九四五年抗战胜利时玉斗人拖着长腔的那句感叹——闹了半天是日本鬼子投降了。一部把战争的宏大叙事与日常生活水乳交融的抗战题材长篇小说,提醒我们和平从来不是轻飘飘的。</itunes:summary>
+      <itunes:duration>00:36:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-4ebed9.mp3" length="35298093" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
