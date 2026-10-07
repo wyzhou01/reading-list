@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 23:39:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 23:47:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28295,6 +28295,17 @@
       <itunes:duration>00:34:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-7c4d67.mp3" length="32766381" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《荨麻开花》 · 完整版 · 荨麻开花 · 完整讲读</title>
+      <description>《荨麻开花》是瑞典一九七四年诺贝尔文学奖得主哈瑞·马丁松的半自传体成长小说,首版于一九三五年。主角马丁六岁被母亲遗弃,在二十世纪初的瑞典南部乡村辗转寄养,受尽冷眼,却在森林与溪流中找到了精神的庇护所。本书是瑞典中学生的必读经典,也是马丁松本人从一个被遗弃的孩子走向诺贝尔奖台的起点。它写孤独,写自然,写一个敏感倔强的少年如何一步步走向大海,走向自己的人生。一百年过去,这部首次完整翻译成中文的长篇小说,依然能让每一个在夜里睡不着的孩子,听见另一个孩子穿越时空的回应。</description>
+      <pubDate>Wed, 07 Oct 2026 23:47:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-e97a39</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《荨麻开花》是瑞典一九七四年诺贝尔文学奖得主哈瑞·马丁松的半自传体成长小说,首版于一九三五年。主角马丁六岁被母亲遗弃,在二十世纪初的瑞典南部乡村辗转寄养,受尽冷眼,却在森林与溪流中找到了精神的庇护所。本书是瑞典中学生的必读经典,也是马丁松本人从一个被遗弃的孩子走向诺贝尔奖台的起点。它写孤独,写自然,写一个敏感倔强的少年如何一步步走向大海,走向自己的人生。一百年过去,这部首次完整翻译成中文的长篇小说,依然能让每一个在夜里睡不着的孩子,听见另一个孩子穿越时空的回应。</itunes:summary>
+      <itunes:duration>00:32:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-e97a39.mp3" length="31472301" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
