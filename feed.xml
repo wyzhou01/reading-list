@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 06:01:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 06:09:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27866,6 +27866,17 @@
       <itunes:duration>00:28:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-5e659b.mp3" length="27256365" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《干校六记》 · 完整版 · 干校六记_-_杨绛 · 完整讲读</title>
+      <description>《干校六记》是杨绛先生写于一九八零年的散文集，记述一九七零年到一九七二年她与钱锺书在河南干校的两年岁月。书中分【下放记别】【凿井记劳】【学圃记闲】【小趋记情】【冒险记幸】【误传记妄】六篇，以温婉淡然、近乎白描的笔法，写别离、写劳动、写种菜、写一只小猫、写夫妻偷偷看病、写误传回京。全书不提控诉、不写怨恨，却以哀而不伤、怨而不怒、句句真话的力量，写出了那个特殊年代知识分子最朴素的精神坚守。胡乔木以十六字评价：【悱恻缠绵，哀而不伤，怨而不怒，句句真话。】这本书不仅是一代知识分子的精神档案，更回答了一个跨时代的命题：在任何困厄中，人如何守住内心的体面与温情。</description>
+      <pubDate>Wed, 07 Oct 2026 06:08:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-35f006</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《干校六记》是杨绛先生写于一九八零年的散文集，记述一九七零年到一九七二年她与钱锺书在河南干校的两年岁月。书中分【下放记别】【凿井记劳】【学圃记闲】【小趋记情】【冒险记幸】【误传记妄】六篇，以温婉淡然、近乎白描的笔法，写别离、写劳动、写种菜、写一只小猫、写夫妻偷偷看病、写误传回京。全书不提控诉、不写怨恨，却以哀而不伤、怨而不怒、句句真话的力量，写出了那个特殊年代知识分子最朴素的精神坚守。胡乔木以十六字评价：【悱恻缠绵，哀而不伤，怨而不怒，句句真话。】这本书不仅是一代知识分子的精神档案，更回答了一个跨时代的命题：在任何困厄中，人如何守住内心的体面与温情。</itunes:summary>
+      <itunes:duration>00:27:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-35f006.mp3" length="26834349" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
