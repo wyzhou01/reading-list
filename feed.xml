@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 05:02:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 05:08:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27778,6 +27778,17 @@
       <itunes:duration>00:36:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-4ebed9.mp3" length="35298093" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《人之彼岸》 · 完整版 · 人之彼岸 · 完整讲读</title>
+      <description>《人之彼岸》是郝景芳二零一七年推出的科幻与科普合集。前半部分用六个故事推演人工智能从程序助手到超级智能的可能未来——分身、完美、神明般的存在逐一登场，叩问身体、身份、情感、自由这些古老命题；后半部分以两篇冷静的科普长文，给出当下教育与学习的诚恳建议。这本书不预言末日，而是提供一面镜子：当我们拼命追赶彼岸的智能时，别忘了守住此岸那些算法无法度量的东西——身体的在场、生活的常识、笨拙却真的爱。</description>
+      <pubDate>Wed, 07 Oct 2026 05:08:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-77fdbe</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《人之彼岸》是郝景芳二零一七年推出的科幻与科普合集。前半部分用六个故事推演人工智能从程序助手到超级智能的可能未来——分身、完美、神明般的存在逐一登场，叩问身体、身份、情感、自由这些古老命题；后半部分以两篇冷静的科普长文，给出当下教育与学习的诚恳建议。这本书不预言末日，而是提供一面镜子：当我们拼命追赶彼岸的智能时，别忘了守住此岸那些算法无法度量的东西——身体的在场、生活的常识、笨拙却真的爱。</itunes:summary>
+      <itunes:duration>00:19:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-77fdbe.mp3" length="18420141" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
