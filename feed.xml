@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 18:37:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 18:47:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28053,6 +28053,17 @@
       <itunes:duration>00:31:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-83f2cf.mp3" length="30127533" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《末日逼近》 · 完整版 · 末日逼近(上下) · 完整讲读</title>
+      <description>斯蒂芬·金一九七八年出版的《末日逼近》以一场美军秘密实验引发的超级流感为开端, 描写百分之九十九人口在数周内消亡后的美国废墟。小说以斯图尔特·雷德曼等人重建新罕布什尔自由之邦为明线, 以神秘黑衣人兰德尔·弗拉格的西征为暗线, 展开一场关于善与恶、自由与秩序的史诗对决。本书不仅是后启示录题材的里程碑, 更是一面照向人性的镜子。半个世纪过去, 每一次公共卫生危机都让它重新登上畅销榜。这是一份写给文明的情书, 也是一份诊断书。</description>
+      <pubDate>Wed, 07 Oct 2026 18:47:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-1cf378</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>斯蒂芬·金一九七八年出版的《末日逼近》以一场美军秘密实验引发的超级流感为开端, 描写百分之九十九人口在数周内消亡后的美国废墟。小说以斯图尔特·雷德曼等人重建新罕布什尔自由之邦为明线, 以神秘黑衣人兰德尔·弗拉格的西征为暗线, 展开一场关于善与恶、自由与秩序的史诗对决。本书不仅是后启示录题材的里程碑, 更是一面照向人性的镜子。半个世纪过去, 每一次公共卫生危机都让它重新登上畅销榜。这是一份写给文明的情书, 也是一份诊断书。</itunes:summary>
+      <itunes:duration>00:30:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-1cf378.mp3" length="29714349" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
