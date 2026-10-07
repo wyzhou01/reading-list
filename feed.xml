@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 02:50:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 03:05:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27624,6 +27624,17 @@
       <itunes:duration>00:37:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-cd2784.mp3" length="35662125" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《沉默也会歌唱》 · 完整版 · 沉默也会歌唱 · 完整讲读</title>
+      <description>《沉默也会歌唱》是作家绿妖的散文随笔集，记录了一位河南县城青年在北京十余年的漂泊与挣扎。全书围绕外省青年在大城市的归属感、故乡作为永不消逝的精神原乡、代际创伤的传递与断裂、阶层固化下普通人如何自处等核心主题展开。绿妖以她特有的省俭文风，书写了饭局上的热气、故乡的味觉、沉默的朋友、以及那个输在起跑线上却用文字一个字一个字救出自己的人生的故事。这本书是写给所有在大城市漂泊、挣扎、寻找归属感的年轻人——沉默也会歌唱，那些说不出口的，都在这本书里找到了出口。</description>
+      <pubDate>Wed, 07 Oct 2026 03:05:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-d721d6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《沉默也会歌唱》是作家绿妖的散文随笔集，记录了一位河南县城青年在北京十余年的漂泊与挣扎。全书围绕外省青年在大城市的归属感、故乡作为永不消逝的精神原乡、代际创伤的传递与断裂、阶层固化下普通人如何自处等核心主题展开。绿妖以她特有的省俭文风，书写了饭局上的热气、故乡的味觉、沉默的朋友、以及那个输在起跑线上却用文字一个字一个字救出自己的人生的故事。这本书是写给所有在大城市漂泊、挣扎、寻找归属感的年轻人——沉默也会歌唱，那些说不出口的，都在这本书里找到了出口。</itunes:summary>
+      <itunes:duration>00:35:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-d721d6.mp3" length="33997101" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
