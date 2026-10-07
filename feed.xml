@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 19:47:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 22:16:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28152,6 +28152,17 @@
       <itunes:duration>00:27:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-58fa66.mp3" length="26678445" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《解密无印良品》 · 完整版 · 解密无印良品 · 完整讲读</title>
+      <description>《解密无印良品》讲述了松井忠三在二〇〇一年接手无印良品后，如何用十几年时间将这家亏损三十八亿日元的公司逆转至连续三年破纪录的全过程。本书的核心主张是：领导者的真正使命不是改变员工，而是创建让员工自动行动的机制。无印良品通过厚达两千页的工作指南MUJIGRAM和业务规范书，把橱窗陈列、商品命名、开店评估等所有依赖个人经验的工作全部标准化，让任何员工都能产出稳定成果。本书适合所有带团队、做管理、希望把努力转化为成果的读者。</description>
+      <pubDate>Wed, 07 Oct 2026 22:16:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-d6b6e4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《解密无印良品》讲述了松井忠三在二〇〇一年接手无印良品后，如何用十几年时间将这家亏损三十八亿日元的公司逆转至连续三年破纪录的全过程。本书的核心主张是：领导者的真正使命不是改变员工，而是创建让员工自动行动的机制。无印良品通过厚达两千页的工作指南MUJIGRAM和业务规范书，把橱窗陈列、商品命名、开店评估等所有依赖个人经验的工作全部标准化，让任何员工都能产出稳定成果。本书适合所有带团队、做管理、希望把努力转化为成果的读者。</itunes:summary>
+      <itunes:duration>00:33:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-d6b6e4.mp3" length="31988013" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
