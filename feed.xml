@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 02:06:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 02:16:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27580,6 +27580,17 @@
       <itunes:duration>00:21:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-5d1e50.mp3" length="20636205" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《历史的进退》 · 完整版 · 历史的进退 · 完整讲读</title>
+      <description>《历史的雷颐》随笔集精选二十六篇，从《夕法》《夏法》讲到《下法》《下下法》，从《下下下法》讲到《下下下下法》。雷颐以法国结构主义大师阿尔都塞的症候阅读法与明末清初浙东学派的经史传统为双重视角，透过奏折、报刊、日记、谈判记录、官方文书等『文本』的空白、犹豫与沉默，重新解读晚清、民国与当代近一百五十年的关键节点。同文馆争论里被遮蔽的倭仁之窘、柔远记里士大夫对鸦片战争的阿Q式自欺、蒲安臣使团里清廷的礼仪死结、芦苇警示里基层的邀功陷阱、芦苇讲义里军队的三支两军困局、芦苇意义里当代工会的行政化错位——这些被宏大叙事所省略的细节，构成了另一部更真实、也更真实的近代史。全书追问的核心问题是：晚清中国为什么总是在该变的时候不变，等到非变不可的时候又一变而激进？雷颐的诊断是：要警惕唯文本阅读，要从文本的空白处读出真相；忘记过去并不能带来和谐，健忘的集体总会不断重复同样的错误。二〇〇九年首次出版，今天重读仍然有现实意义。</description>
+      <pubDate>Wed, 07 Oct 2026 02:16:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-16a17f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《历史的雷颐》随笔集精选二十六篇，从《夕法》《夏法》讲到《下法》《下下法》，从《下下下法》讲到《下下下下法》。雷颐以法国结构主义大师阿尔都塞的症候阅读法与明末清初浙东学派的经史传统为双重视角，透过奏折、报刊、日记、谈判记录、官方文书等『文本』的空白、犹豫与沉默，重新解读晚清、民国与当代近一百五十年的关键节点。同文馆争论里被遮蔽的倭仁之窘、柔远记里士大夫对鸦片战争的阿Q式自欺、蒲安臣使团里清廷的礼仪死结、芦苇警示里基层的邀功陷阱、芦苇讲义里军队的三支两军困局、芦苇意义里当代工会的行政化错位——这些被宏大叙事所省略的细节，构成了另一部更真实、也更真实的近代史。全书追问的核心问题是：晚清中国为什么总是在该变的时候不变，等到非变不可的时候又一变而激进？雷颐的诊断是：要警惕唯文本阅读，要从文本的空白处读出真相；忘记过去并不能带来和谐，健忘的集体总会不断重复同样的错误。二〇〇九年首次出版，今天重读仍然有现实意义。</itunes:summary>
+      <itunes:duration>00:29:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-16a17f.mp3" length="27905325" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
