@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 00:15:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 00:23:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27437,6 +27437,17 @@
       <itunes:duration>00:27:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-32482c.mp3" length="25980717" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《俄罗斯的良心：索尔仁尼琴传》 · 完整版 · 俄罗斯的良心：索尔仁尼琴传 · 完整讲读</title>
+      <description>本书是俄罗斯文学评论家乔治·尼瓦撰写的索尔仁尼琴传记。尼瓦与索尔仁尼琴交往多年，掌握大量第一手材料，将传主放回俄罗斯弥赛亚传统与俄国文学精神谱系之中，呈现其作为作家、思想者与先知的复杂一生。从童年、早年从军、古拉格岁月，到《伊万·杰尼索维奇的一天》震惊世界、《古拉格群岛》震动西方，再到《红轮》潜心写作，最后回到俄罗斯与晚年离世。贯穿索尔仁尼琴一生的，是说真话的决心，是俄罗斯弥赛亚使命的承担，是一个先知以一生为代价的悲剧。</description>
+      <pubDate>Wed, 07 Oct 2026 00:23:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-39cc75</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是俄罗斯文学评论家乔治·尼瓦撰写的索尔仁尼琴传记。尼瓦与索尔仁尼琴交往多年，掌握大量第一手材料，将传主放回俄罗斯弥赛亚传统与俄国文学精神谱系之中，呈现其作为作家、思想者与先知的复杂一生。从童年、早年从军、古拉格岁月，到《伊万·杰尼索维奇的一天》震惊世界、《古拉格群岛》震动西方，再到《红轮》潜心写作，最后回到俄罗斯与晚年离世。贯穿索尔仁尼琴一生的，是说真话的决心，是俄罗斯弥赛亚使命的承担，是一个先知以一生为代价的悲剧。</itunes:summary>
+      <itunes:duration>00:29:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-39cc75.mp3" length="28349997" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
