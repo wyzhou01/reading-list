@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 01:50:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 01:59:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27558,6 +27558,17 @@
       <itunes:duration>00:29:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-a008ba.mp3" length="27996333" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《在星巴克遇见德鲁克》 · 完整版 · 在星巴克遇见德鲁克(1) · 完整讲读</title>
+      <description>《在星巴克遇见德鲁克》是李麦可所著的一本小说体管理学读物，副标题为《和大师一起喝咖啡、谈管理、聊人生》，二零一三年由化学工业出版社出版。故事讲述了一位名校 MBA 毕业的职业经理人李麦可，在两家公司接连失败后，躲到加州一间星巴克，偶遇管理学大师德鲁克，并在五十二次咖啡馆对话中重新理解管理、重新理解人生。全书把德鲁克的核心思想——经营自己的长处、化繁为简、承担责任、有效决策、发挥他人长处、以顾客为中心、在变革中求生——拆解成职场人也能听懂的语言，被许多人视为【最通俗的德鲁克入门书】。</description>
+      <pubDate>Wed, 07 Oct 2026 01:58:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-63eb51</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《在星巴克遇见德鲁克》是李麦可所著的一本小说体管理学读物，副标题为《和大师一起喝咖啡、谈管理、聊人生》，二零一三年由化学工业出版社出版。故事讲述了一位名校 MBA 毕业的职业经理人李麦可，在两家公司接连失败后，躲到加州一间星巴克，偶遇管理学大师德鲁克，并在五十二次咖啡馆对话中重新理解管理、重新理解人生。全书把德鲁克的核心思想——经营自己的长处、化繁为简、承担责任、有效决策、发挥他人长处、以顾客为中心、在变革中求生——拆解成职场人也能听懂的语言，被许多人视为【最通俗的德鲁克入门书】。</itunes:summary>
+      <itunes:duration>00:29:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-63eb51.mp3" length="28186797" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
