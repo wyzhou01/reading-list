@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 23:47:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 23:54:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28306,6 +28306,25 @@
       <itunes:duration>00:32:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-e97a39.mp3" length="31472301" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《微粒社会》 · 完整版 · 微粒社会(1) · 完整讲读</title>
+      <description>《微粒社会》是德国社会学家克里斯多夫·库克里克的重要作品，副标题为《精细解析社会的新图景》。作者以加州四岁糖尿病男孩菲利克斯的数字化管理为线索，揭示了数字化时代最根本的变革——测量的粒度急剧细化。我们正从平均值的时代走向微粒化时代，个体差异前所未有地凸显，平等面临挑战，智能机器重新划分权力格局，社会控制从利用走向解析。
+
+库克里克通过职场传感器、智能算法、生物识别、预测技术等案例，展现解析—解体的双重进程：一方面人类被高度数字化解析，另一方面旧的制度体系面临解体与重构。全书融合了案例分析与哲学思考，讨论了监控、隐私、数据保护、评价型社会、机器智能与人类独特性等议题。
+
+《微粒社会》不仅是对数字化社会的警示，更是关于人类未来形态的深思：我们正在成为更复杂、更敏感、更不可预测，也更自由的【微粒人】。</description>
+      <pubDate>Wed, 07 Oct 2026 23:54:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-71addb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《微粒社会》是德国社会学家克里斯多夫·库克里克的重要作品，副标题为《精细解析社会的新图景》。作者以加州四岁糖尿病男孩菲利克斯的数字化管理为线索，揭示了数字化时代最根本的变革——测量的粒度急剧细化。我们正从平均值的时代走向微粒化时代，个体差异前所未有地凸显，平等面临挑战，智能机器重新划分权力格局，社会控制从利用走向解析。
+
+库克里克通过职场传感器、智能算法、生物识别、预测技术等案例，展现解析—解体的双重进程：一方面人类被高度数字化解析，另一方面旧的制度体系面临解体与重构。全书融合了案例分析与哲学思考，讨论了监控、隐私、数据保护、评价型社会、机器智能与人类独特性等议题。
+
+《微粒社会》不仅是对数字化社会的警示，更是关于人类未来形态的深思：我们正在成为更复杂、更敏感、更不可预测，也更自由的【微粒人】。</itunes:summary>
+      <itunes:duration>00:29:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-71addb.mp3" length="28254381" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
