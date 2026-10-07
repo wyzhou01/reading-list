@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 23:05:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 23:11:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28240,6 +28240,17 @@
       <itunes:duration>00:28:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-f15c3b.mp3" length="27064365" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《东野圭吾新作品精选（共6册）》 · 完整版 · 东野圭吾新作品精选（共6册） · 完整讲读</title>
+      <description>本合集精选东野圭吾六部代表作：《假面山庄》《黎明之街》《浪花少年侦探团》《大雪中的山庄》《美丽的凶器》《造彩虹的人》。作品延续其社会派推理风格，以案件为外壳，深入剖析现代人的身份焦虑、人性算计与命运博弈。东野圭吾笔下的悲剧从来不是孤立的意外，而是身份错位、系统性掠夺与幸存者愧疚共同作用的必然结果。读懂这六部作品，也就读懂了人心深处最精密的那间密室。</description>
+      <pubDate>Wed, 07 Oct 2026 23:11:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-4b6c99</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本合集精选东野圭吾六部代表作：《假面山庄》《黎明之街》《浪花少年侦探团》《大雪中的山庄》《美丽的凶器》《造彩虹的人》。作品延续其社会派推理风格，以案件为外壳，深入剖析现代人的身份焦虑、人性算计与命运博弈。东野圭吾笔下的悲剧从来不是孤立的意外，而是身份错位、系统性掠夺与幸存者愧疚共同作用的必然结果。读懂这六部作品，也就读懂了人心深处最精密的那间密室。</itunes:summary>
+      <itunes:duration>00:17:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-4b6c99.mp3" length="16854189" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
