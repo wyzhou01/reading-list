@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 22:28:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 22:37:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28185,6 +28185,17 @@
       <itunes:duration>00:30:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-556951.mp3" length="29351085" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《写出我心　普通人如何通过写作表达自己》 · 完整版 · 写出我心　普通人如何通过写作表达自己 · 完整讲读</title>
+      <description>《写出我心》是娜塔莉·戈德伯将十年禅修经验融入写作训练的经典之作。书中提出了速写练习的六条铁律：手不停地写、不删除、不纠错、放松控制、不思考、直捣要害，鼓励写作者回到初始的意念，放下社交面具与内在编辑的评判。戈德伯借堆肥的比喻，告诉我们那些看似无用的废料终将在时间中发酵成肥料；借细节的力量，告诉我们别光讲，要展现出来；借片桐大忍禅师的点拨，告诉我们写作即修行。她用三十年教写作的真实经历证明——写作不需要天赋，只需要每天拿起笔，把心里的第一句话勇敢写下来。写作是一条小径，通往我们自己，能把一个人带到从未去过的地方，那个地方的名字叫做心安。</description>
+      <pubDate>Wed, 07 Oct 2026 22:37:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-e10529</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《写出我心》是娜塔莉·戈德伯将十年禅修经验融入写作训练的经典之作。书中提出了速写练习的六条铁律：手不停地写、不删除、不纠错、放松控制、不思考、直捣要害，鼓励写作者回到初始的意念，放下社交面具与内在编辑的评判。戈德伯借堆肥的比喻，告诉我们那些看似无用的废料终将在时间中发酵成肥料；借细节的力量，告诉我们别光讲，要展现出来；借片桐大忍禅师的点拨，告诉我们写作即修行。她用三十年教写作的真实经历证明——写作不需要天赋，只需要每天拿起笔，把心里的第一句话勇敢写下来。写作是一条小径，通往我们自己，能把一个人带到从未去过的地方，那个地方的名字叫做心安。</itunes:summary>
+      <itunes:duration>00:34:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-e10529.mp3" length="33590445" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
