@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 17:50:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 17:57:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27987,6 +27987,17 @@
       <itunes:duration>00:31:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-06d9fa.mp3" length="30039213" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《丰臣家族》 · 完整版 · 丰臣家族 · 完整讲读</title>
+      <description>日本历史小说大家司马辽太郎以九个独立又相互关联的短篇，俯瞰丰臣秀吉及其亲属的一生。从贫农之子到天下人的崛起，到关原之战后权柄移交给德川家康，最终大阪夏之阵丰臣家覆灭——既写统一日本的伟业，也写封建私天下导致的昏庸与毁灭，揭示丰臣政权兴衰的全貌。</description>
+      <pubDate>Wed, 07 Oct 2026 17:57:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-c2edf2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>日本历史小说大家司马辽太郎以九个独立又相互关联的短篇，俯瞰丰臣秀吉及其亲属的一生。从贫农之子到天下人的崛起，到关原之战后权柄移交给德川家康，最终大阪夏之阵丰臣家覆灭——既写统一日本的伟业，也写封建私天下导致的昏庸与毁灭，揭示丰臣政权兴衰的全貌。</itunes:summary>
+      <itunes:duration>00:26:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-c2edf2.mp3" length="25306029" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
