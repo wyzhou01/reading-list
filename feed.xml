@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 00:54:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 01:04:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27492,6 +27492,17 @@
       <itunes:duration>00:30:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-ae6930.mp3" length="29245485" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《个体赋能》 · 完整版 · 个体赋能 · 完整讲读</title>
+      <description>《个体赋能》是王世民写给普通职场人的一份清醒指南，主题依然是职场底层逻辑与加速成长。全书围绕格局、观念、方向、方法、人脉五大底层逻辑展开，每一篇都先抛出具体困境再给出解决路径，是一本典型的【方法论型】职场书。核心观点是：成长速度的差距不来自天赋或运气，而来自方法论与底层逻辑的差距；信任是社会最大的成本也是最大的杠杆，能力是可以通过刻意训练获得的复利资产，人脉的本质是价值交换而非认识多少人；个体赋能的最终目标，是把成长的速度从线性拉成指数。</description>
+      <pubDate>Wed, 07 Oct 2026 01:04:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-908b4c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《个体赋能》是王世民写给普通职场人的一份清醒指南，主题依然是职场底层逻辑与加速成长。全书围绕格局、观念、方向、方法、人脉五大底层逻辑展开，每一篇都先抛出具体困境再给出解决路径，是一本典型的【方法论型】职场书。核心观点是：成长速度的差距不来自天赋或运气，而来自方法论与底层逻辑的差距；信任是社会最大的成本也是最大的杠杆，能力是可以通过刻意训练获得的复利资产，人脉的本质是价值交换而非认识多少人；个体赋能的最终目标，是把成长的速度从线性拉成指数。</itunes:summary>
+      <itunes:duration>00:42:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-908b4c.mp3" length="40591533" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
