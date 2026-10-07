@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 04:32:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 04:37:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27734,6 +27734,17 @@
       <itunes:duration>00:26:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-1704bd.mp3" length="25037997" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《有风吹过厨房》 · 完整版 · 有风吹过厨房 · 完整讲读</title>
+      <description>《有风吹过厨房》是上海美食写作者食家饭的第二本书。她回望公用厨房年代的邻里烟火与一勺糖里的本帮深情，写盐水花生配福尔摩斯的冬夜、写父亲生日那盘无锡玉露水蜜桃、写陶陶外婆整栋楼都闻得到的糟卤、写好妈妈暖锅里颤巍巍的走油肉。一碗汤、一碟果肉、一把茴香，藏着中国人最朴素的家常深情——是食物在料理着我们的人生。</description>
+      <pubDate>Wed, 07 Oct 2026 04:37:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-9e5e0d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《有风吹过厨房》是上海美食写作者食家饭的第二本书。她回望公用厨房年代的邻里烟火与一勺糖里的本帮深情，写盐水花生配福尔摩斯的冬夜、写父亲生日那盘无锡玉露水蜜桃、写陶陶外婆整栋楼都闻得到的糟卤、写好妈妈暖锅里颤巍巍的走油肉。一碗汤、一碟果肉、一把茴香，藏着中国人最朴素的家常深情——是食物在料理着我们的人生。</itunes:summary>
+      <itunes:duration>00:23:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-9e5e0d.mp3" length="22715181" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
