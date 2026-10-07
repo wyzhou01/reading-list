@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 05:46:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 05:54:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27844,6 +27844,17 @@
       <itunes:duration>00:33:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-744c8d.mp3" length="32065581" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《陶偶》 · 完整版 · 陶偶_-_(美)大卫·布林 · 完整讲读</title>
+      <description>《陶偶》是硬科幻作家大卫·布林于一九九〇年代写下的预言。小说讲述私家侦探艾伯特与他的绿色复制偶人，在一个真人与偶人共存的世界里，追查一起涉及复制技术、黑市器官与永生阴谋的连环案件。表层是扣人心弦的硬派侦探故事，内核却是一次关于【我是谁】的哲学拷问：当灵魂可以被复制，当肉身可以像商品一样批量生产，那个独一无二的【我】究竟住在哪里？三十年后，人工智能与生物技术全面爆发，这本书的非但没有过时，反而越来越像一则精准的预言。每一个正在被算法复制、被平台分流的当代人，都该读读这本书。</description>
+      <pubDate>Wed, 07 Oct 2026 05:54:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-0d1fd2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《陶偶》是硬科幻作家大卫·布林于一九九〇年代写下的预言。小说讲述私家侦探艾伯特与他的绿色复制偶人，在一个真人与偶人共存的世界里，追查一起涉及复制技术、黑市器官与永生阴谋的连环案件。表层是扣人心弦的硬派侦探故事，内核却是一次关于【我是谁】的哲学拷问：当灵魂可以被复制，当肉身可以像商品一样批量生产，那个独一无二的【我】究竟住在哪里？三十年后，人工智能与生物技术全面爆发，这本书的非但没有过时，反而越来越像一则精准的预言。每一个正在被算法复制、被平台分流的当代人，都该读读这本书。</itunes:summary>
+      <itunes:duration>00:30:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-0d1fd2.mp3" length="29369517" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
