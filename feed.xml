@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 05:54:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 06:01:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27855,6 +27855,17 @@
       <itunes:duration>00:30:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-0d1fd2.mp3" length="29369517" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《基本穿搭：适用一生的穿衣法则》 · 完整版 · 基本穿搭 · 完整讲读</title>
+      <description>《基本穿搭》是日本私人造型师大山旬写给普通上班族的穿搭入门书。二零十一本书视角朴素：成年人不需要 100 分的时尚感，需要的是不出错、不廉价、不邋遢的 80 分得体感。书分三部分：一、理念篇，告诉读者普通才是成年人的搭配目标，并把尺码、款式、断舍离立为三大原则；二、店铺篇，告诉读者去哪买、买什么、买哪几件，把挑选店铺当作挑选基本款的捷径；三、练习篇，把购物当作练习而非任务，教读者用试穿、店员、笔记建立长期穿搭能力。这本书在日本出版近三十年仍不断重印，原因是它不追潮流、不讲品味，只讲技巧。在所有“靠感觉“的穿搭书里，它是一本老实讲规则的书。</description>
+      <pubDate>Wed, 07 Oct 2026 06:01:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-5e659b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《基本穿搭》是日本私人造型师大山旬写给普通上班族的穿搭入门书。二零十一本书视角朴素：成年人不需要 100 分的时尚感，需要的是不出错、不廉价、不邋遢的 80 分得体感。书分三部分：一、理念篇，告诉读者普通才是成年人的搭配目标，并把尺码、款式、断舍离立为三大原则；二、店铺篇，告诉读者去哪买、买什么、买哪几件，把挑选店铺当作挑选基本款的捷径；三、练习篇，把购物当作练习而非任务，教读者用试穿、店员、笔记建立长期穿搭能力。这本书在日本出版近三十年仍不断重印，原因是它不追潮流、不讲品味，只讲技巧。在所有“靠感觉“的穿搭书里，它是一本老实讲规则的书。</itunes:summary>
+      <itunes:duration>00:28:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-5e659b.mp3" length="27256365" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
