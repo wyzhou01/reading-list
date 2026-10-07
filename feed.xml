@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 05:15:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 05:23:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27800,6 +27800,17 @@
       <itunes:duration>00:27:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-86518b.mp3" length="26520621" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《单读16：新北京人》 · 完整版 · 单读16：新北京人 · 完整讲读</title>
+      <description>《单读十六：新北京人》是吴琦主编的第十六辑《单读》，以新北京人为切入点，集合了皮村文学小组工友的郊区生活、范雨素等打工者的写作、迈克尔·麦尔的胡同观察、黄灿然与陈嘉映的异地书写，以及哈米德·伊斯麦洛夫的莫斯科等跨城经验。本书用文学、随笔、访谈、剧本并置的方式，呈现出一座被技术无限扩张的城市里那些微小却值得被看见的人。它不替城市下定义，而是让城市的内部发出声音，重新理解迁徙、落脚与看见。</description>
+      <pubDate>Wed, 07 Oct 2026 05:23:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-19a3cd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《单读十六：新北京人》是吴琦主编的第十六辑《单读》，以新北京人为切入点，集合了皮村文学小组工友的郊区生活、范雨素等打工者的写作、迈克尔·麦尔的胡同观察、黄灿然与陈嘉映的异地书写，以及哈米德·伊斯麦洛夫的莫斯科等跨城经验。本书用文学、随笔、访谈、剧本并置的方式，呈现出一座被技术无限扩张的城市里那些微小却值得被看见的人。它不替城市下定义，而是让城市的内部发出声音，重新理解迁徙、落脚与看见。</itunes:summary>
+      <itunes:duration>00:25:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-19a3cd.mp3" length="24705069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
