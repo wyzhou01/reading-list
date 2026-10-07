@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 00:23:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 00:31:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27448,6 +27448,17 @@
       <itunes:duration>00:29:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-39cc75.mp3" length="28349997" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《解读中国经济（增订版）》 · 完整版 · 解读中国经济（增订版） · 完整讲读</title>
+      <description>本书是林毅夫基于多年教学与研究，以新结构经济学视角系统解读中国经济发展与转型的著作。从李约瑟之谜切入，回顾近代屈辱与赶超战略的形成，分析改革开放双轨渐进的成绩与遗留问题，剖析国企、金融、农村等具体改革，并回应增长真伪、中国崩溃论、资本账户开放等热点争论，最终提出&apos;有效市场+有为政府&apos;框架与产业政策六步法，为中国未来发展提供理论指引。</description>
+      <pubDate>Wed, 07 Oct 2026 00:31:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-d70c18</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是林毅夫基于多年教学与研究，以新结构经济学视角系统解读中国经济发展与转型的著作。从李约瑟之谜切入，回顾近代屈辱与赶超战略的形成，分析改革开放双轨渐进的成绩与遗留问题，剖析国企、金融、农村等具体改革，并回应增长真伪、中国崩溃论、资本账户开放等热点争论，最终提出&apos;有效市场+有为政府&apos;框架与产业政策六步法，为中国未来发展提供理论指引。</itunes:summary>
+      <itunes:duration>00:31:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-d70c18.mp3" length="29914797" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
