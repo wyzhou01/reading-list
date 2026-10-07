@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 06:09:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 06:18:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27877,6 +27877,17 @@
       <itunes:duration>00:27:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-35f006.mp3" length="26834349" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《冥想5分钟，等于熟睡一小时》 · 完整版 · 冥想5分钟，等于熟睡一小时 · 完整讲读</title>
+      <description>《冥想5分钟，等于熟睡一小时》是哈佛神经心理学家里克·汉森与禅修指导师理查德·蒙迪思的合著经典，二零零九年出版后被译为三十多种语言。本书把佛教两千五百年的冥想智慧与现代脑神经科学相融合，拆解为十课循序渐进的练习，从呼吸冥想、数呼吸、到甜蜜冥想、强化内心、宇宙、自我同情、善意回归、专注，最终走向忘我。核心论点有三：痛苦源于大脑三亿年进化出的三大求生策略，但可以通过冥想重塑神经回路；负面情绪的警报系统可以被识别并关掉；好的体验需要主动延长并锚定才能成为长期底色；最终，连【自我】本身也是一种大脑构建的临时剧本，放下对它的执念才能获得真正的自由。本书最大的价值，是把看似深奥的佛法，转化为普通人每天五分钟就能上手的实操工具——前提是，你愿意真的每天坐下来，闭上眼。</description>
+      <pubDate>Wed, 07 Oct 2026 06:18:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-f7d3b4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《冥想5分钟，等于熟睡一小时》是哈佛神经心理学家里克·汉森与禅修指导师理查德·蒙迪思的合著经典，二零零九年出版后被译为三十多种语言。本书把佛教两千五百年的冥想智慧与现代脑神经科学相融合，拆解为十课循序渐进的练习，从呼吸冥想、数呼吸、到甜蜜冥想、强化内心、宇宙、自我同情、善意回归、专注，最终走向忘我。核心论点有三：痛苦源于大脑三亿年进化出的三大求生策略，但可以通过冥想重塑神经回路；负面情绪的警报系统可以被识别并关掉；好的体验需要主动延长并锚定才能成为长期底色；最终，连【自我】本身也是一种大脑构建的临时剧本，放下对它的执念才能获得真正的自由。本书最大的价值，是把看似深奥的佛法，转化为普通人每天五分钟就能上手的实操工具——前提是，你愿意真的每天坐下来，闭上眼。</itunes:summary>
+      <itunes:duration>00:35:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-f7d3b4.mp3" length="33641901" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
