@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 01:43:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 01:50:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27547,6 +27547,17 @@
       <itunes:duration>00:32:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-2dcc57.mp3" length="30996525" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《哈佛非虚构写作课：怎样讲好一个故事》 · 完整版 · 哈佛非虚构写作课：怎样讲好一个故事 · 完整讲读</title>
+      <description>《哈佛非虚构写作课：怎样讲好一个故事》是哈佛尼曼叙事新闻会议十几年精彩演讲的精选集，五十一位美国顶尖非虚构作者、编辑、出版人把他们在《纽约客》《纽约时报》《时尚先生》等老牌编辑部里积累出来的方法掰开揉碎讲给读者听：从选题到采访，从结构到结尾，从伦理到编辑，从个人手艺到行业生态，搭建出一本非虚构叙事的案头手册。这本书在英语世界相当于非虚构写作的百科全书式现场手册，中文版二零一五年由中国人民大学新闻学院郭庆光教授作序出版。读这本书你会明白，好故事从来不是天生的，它是记者把自己送进现场换来的，是靠把每一环看不见的功夫做扎实才搭出来的。在短视频和即时新闻越来越主导注意力的今天，深度叙事非但没有失去价值，反而成了最稀缺的那一种能力。</description>
+      <pubDate>Wed, 07 Oct 2026 01:50:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-a008ba</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《哈佛非虚构写作课：怎样讲好一个故事》是哈佛尼曼叙事新闻会议十几年精彩演讲的精选集，五十一位美国顶尖非虚构作者、编辑、出版人把他们在《纽约客》《纽约时报》《时尚先生》等老牌编辑部里积累出来的方法掰开揉碎讲给读者听：从选题到采访，从结构到结尾，从伦理到编辑，从个人手艺到行业生态，搭建出一本非虚构叙事的案头手册。这本书在英语世界相当于非虚构写作的百科全书式现场手册，中文版二零一五年由中国人民大学新闻学院郭庆光教授作序出版。读这本书你会明白，好故事从来不是天生的，它是记者把自己送进现场换来的，是靠把每一环看不见的功夫做扎实才搭出来的。在短视频和即时新闻越来越主导注意力的今天，深度叙事非但没有失去价值，反而成了最稀缺的那一种能力。</itunes:summary>
+      <itunes:duration>00:29:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-a008ba.mp3" length="27996333" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
