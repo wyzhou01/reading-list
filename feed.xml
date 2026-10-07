@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 23:29:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 23:39:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28284,6 +28284,17 @@
       <itunes:duration>00:27:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-2adbb8.mp3" length="26310189" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《思考中医》 · 完整版 · 思考中医 · 完整讲读</title>
+      <description>《思考中医》是刘力红在中医经典被边缘化的年代写下的一部回归之作。它从中医博士案头不摆《黄帝内经》的现象切入，系统回应了三个根本问题——中医理论的真正水平在哪里，阴阳的工作机制如何运行，《伤寒论》的六经本质是什么。全书核心判断是：经典不是过去式，而是中医这门学问的根基与制高点。中医的危机不在理论，而在传承；中医的诊断单位不是病名，而是病机；传统文化是理性思考与内证实验的结合，传统与现代是两种完美性的不同呈现。</description>
+      <pubDate>Wed, 07 Oct 2026 23:39:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-7c4d67</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《思考中医》是刘力红在中医经典被边缘化的年代写下的一部回归之作。它从中医博士案头不摆《黄帝内经》的现象切入，系统回应了三个根本问题——中医理论的真正水平在哪里，阴阳的工作机制如何运行，《伤寒论》的六经本质是什么。全书核心判断是：经典不是过去式，而是中医这门学问的根基与制高点。中医的危机不在理论，而在传承；中医的诊断单位不是病名，而是病机；传统文化是理性思考与内证实验的结合，传统与现代是两种完美性的不同呈现。</itunes:summary>
+      <itunes:duration>00:34:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-7c4d67.mp3" length="32766381" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
