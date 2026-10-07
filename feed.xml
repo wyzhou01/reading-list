@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 02:16:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 02:29:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27591,6 +27591,17 @@
       <itunes:duration>00:29:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-16a17f.mp3" length="27905325" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《工作的意义》 · 完整版 · 工作的意义 · 完整讲读</title>
+      <description>这是一本写给所有职场人的神学小书。提摩太·凯勒和凯瑟琳·阿尔斯多夫从创造、堕落、救赎三个维度，重建了一套整全的工作神学。他们告诉我们：工作不是亚当堕落后才出现的诅咒，而是上帝在创造之时就为人预备的礼物；罪的进入让工作从呼召变成祭坛、牢笼和逃避所；而福音有能力把工作重新归位，让人从身份的焦虑里走出来，在每一个看似普通的岗位上，参与上帝对这个世界的更新。如果你曾在深夜里怀疑过工作的意义，这本书会从根基处给你一个不同的答案。</description>
+      <pubDate>Wed, 07 Oct 2026 02:29:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-fc3a93</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>这是一本写给所有职场人的神学小书。提摩太·凯勒和凯瑟琳·阿尔斯多夫从创造、堕落、救赎三个维度，重建了一套整全的工作神学。他们告诉我们：工作不是亚当堕落后才出现的诅咒，而是上帝在创造之时就为人预备的礼物；罪的进入让工作从呼召变成祭坛、牢笼和逃避所；而福音有能力把工作重新归位，让人从身份的焦虑里走出来，在每一个看似普通的岗位上，参与上帝对这个世界的更新。如果你曾在深夜里怀疑过工作的意义，这本书会从根基处给你一个不同的答案。</itunes:summary>
+      <itunes:duration>00:30:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-fc3a93.mp3" length="29662125" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
