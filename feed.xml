@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 04:45:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 04:55:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27756,6 +27756,17 @@
       <itunes:duration>00:32:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-8d6bc8.mp3" length="30730797" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我牙齿的故事》 · 完整版 · 我牙齿的故事 · 完整讲读</title>
+      <description>《我牙齿的故事》是墨西哥作家瓦莱里娅·路易塞利的代表作。主人公高速路曾是果汁厂保安，却自学成拍卖师，把拔下来的二手牙齿冠以世界名人姓名，在拍卖台上编造故事卖出天价。全书以拼贴、戏仿、流浪汉小说体写成，借荒诞之笔追问：艺术与生活的边界在哪里？当文学大师的名字被任意挪用，文化意义还剩下什么？这是一部去神圣化的反成长小说，也是把艺术请下神坛的文学游戏。</description>
+      <pubDate>Wed, 07 Oct 2026 04:55:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-705cbe</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我牙齿的故事》是墨西哥作家瓦莱里娅·路易塞利的代表作。主人公高速路曾是果汁厂保安，却自学成拍卖师，把拔下来的二手牙齿冠以世界名人姓名，在拍卖台上编造故事卖出天价。全书以拼贴、戏仿、流浪汉小说体写成，借荒诞之笔追问：艺术与生活的边界在哪里？当文学大师的名字被任意挪用，文化意义还剩下什么？这是一部去神圣化的反成长小说，也是把艺术请下神坛的文学游戏。</itunes:summary>
+      <itunes:duration>00:37:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-705cbe.mp3" length="36202413" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
