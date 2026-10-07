@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 05:31:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 05:38:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27822,6 +27822,17 @@
       <itunes:duration>00:26:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-e3a823.mp3" length="25021485" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《御剑士传奇三部曲其一：镀金锁链》 · 完整版 · 御剑士传奇三部曲其一：镀金锁链 · 完整讲读</title>
+      <description>《镀金锁奇》是加拿大奇幻大师戴夫·邓肯《御剑士传奇》三部曲的第一部，背景设定在架空欧若亚大陆。十四岁的私生子男孩被祖父送入神秘的训练机构铁堂，经历姓名被夺、尊严被剥、意志被铸的严酷试炼，最终继承【夜幕】之名成为御剑士。御前秘书柯络门借【谋反】罪名扳倒三十年忠臣罗兰，却被其御剑士奎若一剑逼退；首席剑士哈维斯特则在制约仪式上被指派给国王宠妾的弟弟纳丁侯爵，在不甘与承担之间完成最后的成人礼。邓肯以冷峻而诗意的笔法，将宫廷权谋、基于玩命纪律的师徒传承、底层逆袭与灵魂重铸熔于一炉，深刻探讨忠诚的双刃、服从的悖论与【镀金锁链】的永恒隐喻——锁链不会因为镀了金就变轻，唯有砸碎它，你才能成为自己的那把剑。</description>
+      <pubDate>Wed, 07 Oct 2026 05:37:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-0db133</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《镀金锁奇》是加拿大奇幻大师戴夫·邓肯《御剑士传奇》三部曲的第一部，背景设定在架空欧若亚大陆。十四岁的私生子男孩被祖父送入神秘的训练机构铁堂，经历姓名被夺、尊严被剥、意志被铸的严酷试炼，最终继承【夜幕】之名成为御剑士。御前秘书柯络门借【谋反】罪名扳倒三十年忠臣罗兰，却被其御剑士奎若一剑逼退；首席剑士哈维斯特则在制约仪式上被指派给国王宠妾的弟弟纳丁侯爵，在不甘与承担之间完成最后的成人礼。邓肯以冷峻而诗意的笔法，将宫廷权谋、基于玩命纪律的师徒传承、底层逆袭与灵魂重铸熔于一炉，深刻探讨忠诚的双刃、服从的悖论与【镀金锁链】的永恒隐喻——锁链不会因为镀了金就变轻，唯有砸碎它，你才能成为自己的那把剑。</itunes:summary>
+      <itunes:duration>00:35:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-0db133.mp3" length="33612717" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
