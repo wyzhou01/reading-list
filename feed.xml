@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 19:40:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 19:47:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28141,6 +28141,17 @@
       <itunes:duration>00:24:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-25c29e.mp3" length="23869101" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《漫长的惊悚》 · 完整版 · 漫长的惊悚 · 完整讲读</title>
+      <description>《漫长的惊悚》以一九八零年雪夜为引，讲述基层借调干部景予飞被女工许小彗以【为你生了个儿子】为饵、设局欺骗长达数十年的故事。全书剖开信任与欺骗的边界、知识分子的精神软弱、谎言对愧疚的长期寄生，以及一个男人在母亲坟前、在弘一法师【悲欣交集】四字中完成的迟到觉醒。这是一面照见我们每个人心底那块被虚荣与前程恐惧遮蔽之暗区的镜子。</description>
+      <pubDate>Wed, 07 Oct 2026 19:47:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-58fa66</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《漫长的惊悚》以一九八零年雪夜为引，讲述基层借调干部景予飞被女工许小彗以【为你生了个儿子】为饵、设局欺骗长达数十年的故事。全书剖开信任与欺骗的边界、知识分子的精神软弱、谎言对愧疚的长期寄生，以及一个男人在母亲坟前、在弘一法师【悲欣交集】四字中完成的迟到觉醒。这是一面照见我们每个人心底那块被虚荣与前程恐惧遮蔽之暗区的镜子。</itunes:summary>
+      <itunes:duration>00:27:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-58fa66.mp3" length="26678445" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
