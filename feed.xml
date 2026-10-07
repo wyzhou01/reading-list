@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 01:59:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 02:06:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27569,6 +27569,17 @@
       <itunes:duration>00:29:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-63eb51.mp3" length="28186797" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《最初和最终的自由》 · 完整版 · 最初和最终的自由 · 完整讲读</title>
+      <description>本书是克里希那穆提对人类根本困境的深度探讨：为什么我们活在持续的困惑、痛苦与冲突中？全书指出，苦难源于时间的累积、知识的堆砌与自我中心的投射——无论是宗教体系、政治意识形态还是精神导师，都无法带来真正的解脱。克氏强调，只有通过一刻接一刻地对实情的觉察，不逃避、不辩护、不合理化，自我认知才能发生，混乱才能终结，而真正的革命、转变与爱就存在于这种当下直接的觉知中。</description>
+      <pubDate>Wed, 07 Oct 2026 02:06:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-5d1e50</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是克里希那穆提对人类根本困境的深度探讨：为什么我们活在持续的困惑、痛苦与冲突中？全书指出，苦难源于时间的累积、知识的堆砌与自我中心的投射——无论是宗教体系、政治意识形态还是精神导师，都无法带来真正的解脱。克氏强调，只有通过一刻接一刻地对实情的觉察，不逃避、不辩护、不合理化，自我认知才能发生，混乱才能终结，而真正的革命、转变与爱就存在于这种当下直接的觉知中。</itunes:summary>
+      <itunes:duration>00:21:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-5d1e50.mp3" length="20636205" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
