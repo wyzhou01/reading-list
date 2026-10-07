@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 23:18:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 23:24:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28262,6 +28262,17 @@
       <itunes:duration>00:29:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-fb2698.mp3" length="28484397" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《近忧远虑》 · 完整版 · 近忧远虑（光明鸟·主见文丛） · 完整讲读</title>
+      <description>本期《好好读书》, 解读著名历史学者葛剑雄的时评自选集《近忧远虑》。这本书收录了他二零零六年到二零一四年间的公共评论, 聚焦中国城市化进程中的深层病灶: 行政区划扭曲带来的旧城破坏、春运难题背后的户籍壁垒、城市贫民窟的蔓延、地名被随意改写对文化记忆的伤害、灾异应对中暴露的人事失灵, 以及教育公平与学术失范。葛剑雄以历史地理学家的冷眼, 把当下的焦虑放在长时段里审视, 用近忧叩问远虑。九年前的判断, 多数在今天以新的形式再次摆在国人面前。一个历史学家对过去的洞察, 仍然在给我们的现在诊断。</description>
+      <pubDate>Wed, 07 Oct 2026 23:24:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-4858ca</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期《好好读书》, 解读著名历史学者葛剑雄的时评自选集《近忧远虑》。这本书收录了他二零零六年到二零一四年间的公共评论, 聚焦中国城市化进程中的深层病灶: 行政区划扭曲带来的旧城破坏、春运难题背后的户籍壁垒、城市贫民窟的蔓延、地名被随意改写对文化记忆的伤害、灾异应对中暴露的人事失灵, 以及教育公平与学术失范。葛剑雄以历史地理学家的冷眼, 把当下的焦虑放在长时段里审视, 用近忧叩问远虑。九年前的判断, 多数在今天以新的形式再次摆在国人面前。一个历史学家对过去的洞察, 仍然在给我们的现在诊断。</itunes:summary>
+      <itunes:duration>00:26:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-4858ca.mp3" length="25019949" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
