@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 06:27:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 06:34:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27899,6 +27899,17 @@
       <itunes:duration>00:29:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-0b2b60.mp3" length="28651821" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《梅花易数》 · 完整版 · 梅花易数 · 完整讲读</title>
+      <description>本期《好好读书》一次读完《梅花易数》。这本旧题宋代邵雍所著的占卜经典，以【物物一太极】的象数易学为基础，创立了无需蓍草铜钱、万物皆可起卦的占卜体系。节目拆解了它的六块拼图：起卦的【观】、判断的【生克】、底层的【类象】、时序的【气】、中介的【事】、根基的【德】，并直面这套感应式决策模型背后的 M3 偏差——神秘化、循环论证与幸存者偏差。最终指出，《梅花易数》的真正价值不在预言吉凶，而在校准当下：它是一面镜子，不是 oracle。</description>
+      <pubDate>Wed, 07 Oct 2026 06:34:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-7892a2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期《好好读书》一次读完《梅花易数》。这本旧题宋代邵雍所著的占卜经典，以【物物一太极】的象数易学为基础，创立了无需蓍草铜钱、万物皆可起卦的占卜体系。节目拆解了它的六块拼图：起卦的【观】、判断的【生克】、底层的【类象】、时序的【气】、中介的【事】、根基的【德】，并直面这套感应式决策模型背后的 M3 偏差——神秘化、循环论证与幸存者偏差。最终指出，《梅花易数》的真正价值不在预言吉凶，而在校准当下：它是一面镜子，不是 oracle。</itunes:summary>
+      <itunes:duration>00:31:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-7892a2.mp3" length="30594477" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
