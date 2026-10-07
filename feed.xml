@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 05:23:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 05:31:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27811,6 +27811,17 @@
       <itunes:duration>00:25:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-19a3cd.mp3" length="24705069" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《东方快车谋杀案》 · 完整版 · 东方快车谋杀案（精装纪念版） · 完整讲读</title>
+      <description>《东方快车谋杀案》是阿加莎·克里斯蒂一九三四年写成的侦探小说，讲述比利时侦探波洛在暴风雪封路的东方快车上，破解一桩十二刀命案的故事。死者是个绑架过小女孩的逃犯，而车厢里的十二名乘客，全部是那个死去女孩的亲属与挚友——他们用了十二年的耐心，借刀杀人，集体复仇。波洛识破一切后，把两套完整、相反的推论摆在桌上，把选择权交还给那节车厢，自己退出此案。这部作品打破侦探小说的常规，把凶手从一个人变成一群人，把正义从法庭搬上列车，成为关于法外正义、道德困境与封闭空间群像叙事的永恒讨论。</description>
+      <pubDate>Wed, 07 Oct 2026 05:31:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-e3a823</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《东方快车谋杀案》是阿加莎·克里斯蒂一九三四年写成的侦探小说，讲述比利时侦探波洛在暴风雪封路的东方快车上，破解一桩十二刀命案的故事。死者是个绑架过小女孩的逃犯，而车厢里的十二名乘客，全部是那个死去女孩的亲属与挚友——他们用了十二年的耐心，借刀杀人，集体复仇。波洛识破一切后，把两套完整、相反的推论摆在桌上，把选择权交还给那节车厢，自己退出此案。这部作品打破侦探小说的常规，把凶手从一个人变成一群人，把正义从法庭搬上列车，成为关于法外正义、道德困境与封闭空间群像叙事的永恒讨论。</itunes:summary>
+      <itunes:duration>00:26:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-e3a823.mp3" length="25021485" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
