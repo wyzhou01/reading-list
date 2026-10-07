@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 06:38:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 06:47:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27910,6 +27910,17 @@
       <itunes:duration>00:31:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-7892a2.mp3" length="30594477" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《埃克哈特大师文集》 · 完整版 · 埃克哈特大师文集 · 完整讲读</title>
+      <description>《埃克哈特大师文集》收录了这位十三至十四世纪德国多明我会修士的三篇论说与五十九篇德语讲道。本文沿着其【无我】【贫困】【顺从】【内化】四大核心观念展开：在顺从中放弃一切私愿，让上帝为我们要求；在贫困灵心中【少有个人意志】，为上帝的缘故舍弃一切安慰；在一切事物中抓住上帝、以内在的独居代替外在的离群；在黑暗中仍然抓紧那位【不会过去】的上帝。埃克哈特把宗教从仪式主义改写为存在主义——神圣根于存在而非仪式，内在行为远远高于外在行为。教皇斥其为异端，但他的思想在身后被陶勒、绍依塞传承，被路德、叔本华、海德格尔、布洛赫发展，至今仍在为意义稀薄的时代提供一种【内在独居】的古老处方。</description>
+      <pubDate>Wed, 07 Oct 2026 06:47:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-21ce94</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《埃克哈特大师文集》收录了这位十三至十四世纪德国多明我会修士的三篇论说与五十九篇德语讲道。本文沿着其【无我】【贫困】【顺从】【内化】四大核心观念展开：在顺从中放弃一切私愿，让上帝为我们要求；在贫困灵心中【少有个人意志】，为上帝的缘故舍弃一切安慰；在一切事物中抓住上帝、以内在的独居代替外在的离群；在黑暗中仍然抓紧那位【不会过去】的上帝。埃克哈特把宗教从仪式主义改写为存在主义——神圣根于存在而非仪式，内在行为远远高于外在行为。教皇斥其为异端，但他的思想在身后被陶勒、绍依塞传承，被路德、叔本华、海德格尔、布洛赫发展，至今仍在为意义稀薄的时代提供一种【内在独居】的古老处方。</itunes:summary>
+      <itunes:duration>00:29:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-21ce94.mp3" length="28030509" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
