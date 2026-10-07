@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 22:21:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 22:28:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28174,6 +28174,17 @@
       <itunes:duration>00:19:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-f71603.mp3" length="18547629" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《玄武天工》 · 完整版 · 玄武天工 · 完整讲读</title>
+      <description>《玄武天工》是步非烟创作的一部东方玄幻长篇。故事讲述懒散少年阿饱被老魔法师鬼祖从大山中拽出，卷入神、人、魔三族的命运漩涡，与少女顾倾城、龙城等人并肩作战，从荒野深谷一路打到金殿圣庭，最终面对寄生在人类爱情契约中的地母神。全书追问一个古老命题：脆弱的人类之心，到底能不能兑现地久天长的承诺。步非烟借锻造与厨艺这两门平凡技艺，揭示神性并不专属于神，而属于那些愿意把全部自己投入一个动作的人。神明离去之后，人类缔结共和——这便是步非烟给出的答案：脆弱不是弱点，承诺不需要神明锁死，人类的命运，归他们自己。</description>
+      <pubDate>Wed, 07 Oct 2026 22:28:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-556951</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《玄武天工》是步非烟创作的一部东方玄幻长篇。故事讲述懒散少年阿饱被老魔法师鬼祖从大山中拽出，卷入神、人、魔三族的命运漩涡，与少女顾倾城、龙城等人并肩作战，从荒野深谷一路打到金殿圣庭，最终面对寄生在人类爱情契约中的地母神。全书追问一个古老命题：脆弱的人类之心，到底能不能兑现地久天长的承诺。步非烟借锻造与厨艺这两门平凡技艺，揭示神性并不专属于神，而属于那些愿意把全部自己投入一个动作的人。神明离去之后，人类缔结共和——这便是步非烟给出的答案：脆弱不是弱点，承诺不需要神明锁死，人类的命运，归他们自己。</itunes:summary>
+      <itunes:duration>00:30:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-556951.mp3" length="29351085" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
