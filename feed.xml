@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 22:55:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 23:02:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28218,6 +28218,17 @@
       <itunes:duration>00:36:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-29f324.mp3" length="34613805" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《张鸣说历史：重说中国国民性》 · 完整版 · 张鸣说历史：重说中国国民性 · 完整讲读</title>
+      <description>《张鸣说历史：重说中国国民性》是一部由中国人民大学政治学教授张鸣撰写的历史随笔集，二零一四年由北京中文在线首次发布、天津人民出版社推出纸质版。全书分为中国现代国民性迷思、近代人物的劣根性、野史中的另类人性、皇权下的围观政治、文人的性情与矫情、隐性制度六大板块，共六十余篇随笔。作者以常识理性戳破历史课本的伪饰，借临时工权力的前世今生、汉奸汪精卫陈公博的另一副面孔、官场潜规则、租界真相、洋务之弊、文人掌故、皇帝权术等议题，照见中国现代化进程中最深的病灶：引进器物却挡在门外的文明习惯、有专业没文化的学者群像、以及支配帝国运转数千年的隐性逻辑。本书不提供怀旧，只提供照镜子。</description>
+      <pubDate>Wed, 07 Oct 2026 23:02:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-f51d96</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《张鸣说历史：重说中国国民性》是一部由中国人民大学政治学教授张鸣撰写的历史随笔集，二零一四年由北京中文在线首次发布、天津人民出版社推出纸质版。全书分为中国现代国民性迷思、近代人物的劣根性、野史中的另类人性、皇权下的围观政治、文人的性情与矫情、隐性制度六大板块，共六十余篇随笔。作者以常识理性戳破历史课本的伪饰，借临时工权力的前世今生、汉奸汪精卫陈公博的另一副面孔、官场潜规则、租界真相、洋务之弊、文人掌故、皇帝权术等议题，照见中国现代化进程中最深的病灶：引进器物却挡在门外的文明习惯、有专业没文化的学者群像、以及支配帝国运转数千年的隐性逻辑。本书不提供怀旧，只提供照镜子。</itunes:summary>
+      <itunes:duration>00:28:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-f51d96.mp3" length="27784749" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
