@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 00:31:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 00:37:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27459,6 +27459,17 @@
       <itunes:duration>00:31:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-d70c18.mp3" length="29914797" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中国&quot;诗史&quot;传统（修订版）》 · 完整版 · 中国＂诗史＂传统(修订版)_(三联·哈佛燕京学术丛书) · 完整讲读</title>
+      <description>张晖《中国诗史传统》以十余年功力，系统梳理诗史概念自晚唐孟棨《本事诗》发端，历经宋元明清的内涵演变，深入辨析杜甫如何被经典化为诗史典范，并细致考察王夫之、钱谦益、黄宗羲、钱澄之等批评家如何在比兴、情景交融、以诗为史的理论框架中建构诗史传统。修订版新增作者对以诗为史阅读传统的反省，是近二十年来中国文学批评史领域不可绕过的经典之作。</description>
+      <pubDate>Wed, 07 Oct 2026 00:37:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-b18758</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>张晖《中国诗史传统》以十余年功力，系统梳理诗史概念自晚唐孟棨《本事诗》发端，历经宋元明清的内涵演变，深入辨析杜甫如何被经典化为诗史典范，并细致考察王夫之、钱谦益、黄宗羲、钱澄之等批评家如何在比兴、情景交融、以诗为史的理论框架中建构诗史传统。修订版新增作者对以诗为史阅读传统的反省，是近二十年来中国文学批评史领域不可绕过的经典之作。</itunes:summary>
+      <itunes:duration>00:22:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-b18758.mp3" length="21432237" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
