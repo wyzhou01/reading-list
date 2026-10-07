@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 00:37:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 00:45:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27470,6 +27470,17 @@
       <itunes:duration>00:22:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-b18758.mp3" length="21432237" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《疗愈时光：你终将盛放》 · 完整版 · 疗愈时光_-_清流 · 完整讲读</title>
+      <description>本书以毛毛虫化茧成蝶的隐喻开篇，讲述一个人如何从生活的创伤与困境中实现心灵成长。它从身体（睡眠、饮食、触摸）、内在力量（自我、爱、意义）、内在世界（音乐、内在小孩、想象）、关系（亲密关系、动物、自然）、灵性（冥想、自然、爱自己）五个维度，系统介绍了多种自我疗愈的路径，引导人们在关系中直面脆弱、转化痛苦，找到属于自己的生命意义。</description>
+      <pubDate>Wed, 07 Oct 2026 00:45:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-dcb8e4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书以毛毛虫化茧成蝶的隐喻开篇，讲述一个人如何从生活的创伤与困境中实现心灵成长。它从身体（睡眠、饮食、触摸）、内在力量（自我、爱、意义）、内在世界（音乐、内在小孩、想象）、关系（亲密关系、动物、自然）、灵性（冥想、自然、爱自己）五个维度，系统介绍了多种自我疗愈的路径，引导人们在关系中直面脆弱、转化痛苦，找到属于自己的生命意义。</itunes:summary>
+      <itunes:duration>00:30:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-dcb8e4.mp3" length="29557677" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
