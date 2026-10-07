@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 22:16:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 22:21:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28163,6 +28163,17 @@
       <itunes:duration>00:33:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-d6b6e4.mp3" length="31988013" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《神女峰》 · 完整版 · 神女峰 · 完整讲读</title>
+      <description>《神女峰》是苏童一九九七年前后创作的中短篇小说集，收录十八个故事，描绘了南方小镇的市井百态、轮船上的情感纠葛、乡村的荒诞与忧伤。书中无英雄、无大事件，只有开花店的姑娘、寻死的男人、烧伤了脸的求子女人、修钟表的匠人、卖保险的业务员，所有人都在命运的水面下挣扎，尊严被反复折叠。苏童以冷峻而细腻的笔触，写出了一整个时代的溃败——神女峰上那个等待的女人，等了千年，等来的只是长江的江水。这种冷，比悲情更让人后背发凉。</description>
+      <pubDate>Wed, 07 Oct 2026 22:21:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-f71603</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《神女峰》是苏童一九九七年前后创作的中短篇小说集，收录十八个故事，描绘了南方小镇的市井百态、轮船上的情感纠葛、乡村的荒诞与忧伤。书中无英雄、无大事件，只有开花店的姑娘、寻死的男人、烧伤了脸的求子女人、修钟表的匠人、卖保险的业务员，所有人都在命运的水面下挣扎，尊严被反复折叠。苏童以冷峻而细腻的笔触，写出了一整个时代的溃败——神女峰上那个等待的女人，等了千年，等来的只是长江的江水。这种冷，比悲情更让人后背发凉。</itunes:summary>
+      <itunes:duration>00:19:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-f71603.mp3" length="18547629" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
