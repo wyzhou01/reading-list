@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 03:52:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 04:01:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27690,6 +27690,17 @@
       <itunes:duration>00:35:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-b696c8.mp3" length="33779373" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《故事开始了》 · 完整版 · 故事开始了 · 完整讲读</title>
+      <description>《故事开始了》是以色列作家阿摩司·奥兹的文学随笔集，原书入选奥兹在以色列中学、本-古里安大学、波士顿大学以及特拉维夫埃雷茨·以色列博物馆所做的系列讲座讲稿，写于一九九五年到一九九六年之间，中文简体版由译林出版社于二零一二年十二月引进。本书论及冯塔纳、阿格农、果戈理、卡夫卡、莫兰黛、卡佛、马尔克斯、伊兹哈尔、沙卜泰、奥兹本人等十位作家各自代表作的第一句话，把开头视为作者与读者之间的一份隐秘合同。本书围绕六个核心问题展开：开头是合同，开头是作家的特权，开头是创世的僭越，开头是游戏，开头是母语，开头如何塑造小说的命运。奥兹以作家的视角切入经典文本，把文学评论写成了一种创作性的、有质感的、既能进入作品也能参与游戏的话语形态。本书是中文读者进入阿格农、伊兹哈尔、沙卜泰这一脉希伯来文学的一把钥匙，也是每一位愿意把头伸进书页里的读者重新审视自己人生入场方式的镜子。</description>
+      <pubDate>Wed, 07 Oct 2026 04:01:46 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-1f23ac</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《故事开始了》是以色列作家阿摩司·奥兹的文学随笔集，原书入选奥兹在以色列中学、本-古里安大学、波士顿大学以及特拉维夫埃雷茨·以色列博物馆所做的系列讲座讲稿，写于一九九五年到一九九六年之间，中文简体版由译林出版社于二零一二年十二月引进。本书论及冯塔纳、阿格农、果戈理、卡夫卡、莫兰黛、卡佛、马尔克斯、伊兹哈尔、沙卜泰、奥兹本人等十位作家各自代表作的第一句话，把开头视为作者与读者之间的一份隐秘合同。本书围绕六个核心问题展开：开头是合同，开头是作家的特权，开头是创世的僭越，开头是游戏，开头是母语，开头如何塑造小说的命运。奥兹以作家的视角切入经典文本，把文学评论写成了一种创作性的、有质感的、既能进入作品也能参与游戏的话语形态。本书是中文读者进入阿格农、伊兹哈尔、沙卜泰这一脉希伯来文学的一把钥匙，也是每一位愿意把头伸进书页里的读者重新审视自己人生入场方式的镜子。</itunes:summary>
+      <itunes:duration>00:34:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-1f23ac.mp3" length="33523245" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
