@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 18:55:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 19:01:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28075,6 +28075,17 @@
       <itunes:duration>00:28:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-0c41e2.mp3" length="27332397" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《永别了，武器》 · 完整版 · 永别了,武器_(译文名著精选) · 完整讲读</title>
+      <description>《永别了，武器》是海明威一九二九年问世的反战经典，以第一次世界大战为背景，讲述美国青年亨利在意大利前线与英国护士凯瑟琳相识、相爱、最终在瑞士乡间失去一切的悲剧。海明威以新闻体的简洁、重复的音乐性、蚂蚁寓言的诚实，示范了二十世纪美国文学从繁复冗长转向简洁克制的一场革命。全书既是一部战地爱情挽歌，也是一份面对虚无时仍保持诚实、勇敢、忍耐的硬汉宣言——人生只是一场卑鄙的骗局，但你不必因此倒下。</description>
+      <pubDate>Wed, 07 Oct 2026 19:01:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-ed6977</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《永别了，武器》是海明威一九二九年问世的反战经典，以第一次世界大战为背景，讲述美国青年亨利在意大利前线与英国护士凯瑟琳相识、相爱、最终在瑞士乡间失去一切的悲剧。海明威以新闻体的简洁、重复的音乐性、蚂蚁寓言的诚实，示范了二十世纪美国文学从繁复冗长转向简洁克制的一场革命。全书既是一部战地爱情挽歌，也是一份面对虚无时仍保持诚实、勇敢、忍耐的硬汉宣言——人生只是一场卑鄙的骗局，但你不必因此倒下。</itunes:summary>
+      <itunes:duration>00:23:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-ed6977.mp3" length="22739373" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
