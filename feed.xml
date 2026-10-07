@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 17:23:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 17:32:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27954,6 +27954,17 @@
       <itunes:duration>00:36:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-a31cdf.mp3" length="34975149" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《罪恶生涯》 · 完整版 · 罪恶生涯（科莫兰·斯特莱克推理系列） · 完整讲读</title>
+      <description>《罪恶生涯》是J·K·罗琳以笔名罗伯特·加尔布雷思出版的科莫兰·斯特莱克推理系列第三部。一个春日清晨, 退伍军人侦探斯特莱克的秘书罗宾, 在办公室收到一个指名寄给她的快递——里面是一截女人的人腿。这条腿开启了三人对一名连环杀手的追查。凶手曾是军人, 因战时创伤恨他入骨, 用七十年代摇滚乐队蓝牡蛎崇拜的歌词作为杀人注脚。他跟踪罗宾, 计划通过伤害她来向斯特莱克复仇。一边是警方, 一边是凶手, 斯特莱克和罗宾必须在下一条断腿被寄出之前, 找到那个在暗处注视他们的人。</description>
+      <pubDate>Wed, 07 Oct 2026 17:32:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-9dcf34</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《罪恶生涯》是J·K·罗琳以笔名罗伯特·加尔布雷思出版的科莫兰·斯特莱克推理系列第三部。一个春日清晨, 退伍军人侦探斯特莱克的秘书罗宾, 在办公室收到一个指名寄给她的快递——里面是一截女人的人腿。这条腿开启了三人对一名连环杀手的追查。凶手曾是军人, 因战时创伤恨他入骨, 用七十年代摇滚乐队蓝牡蛎崇拜的歌词作为杀人注脚。他跟踪罗宾, 计划通过伤害她来向斯特莱克复仇。一边是警方, 一边是凶手, 斯特莱克和罗宾必须在下一条断腿被寄出之前, 找到那个在暗处注视他们的人。</itunes:summary>
+      <itunes:duration>00:30:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-9dcf34.mp3" length="29753901" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
