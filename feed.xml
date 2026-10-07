@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 02:40:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 02:50:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27613,6 +27613,17 @@
       <itunes:duration>00:31:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-ba41a1.mp3" length="30526125" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《世界历史沉思录》 · 完整版 · 世界历史沉思录 · 完整讲读</title>
+      <description>《世界历史沉思录》是十九世纪瑞士历史学家布克哈特的课堂讲义，由其死后整理出版。本书从历史方法论入手，提出国家、宗教、文化三大潜能及其相互制约的框架，认为危机是历史的常态而非例外；否认伟人神话，认为伟人是被时代挑选的普通人；反对线性进步叙事，强调历史中偶然性的根本作用；最终提出历史研究有其内在限度，历史学的真正价值不在于记录发生了什么，而在于让我们从过去的事物中获得某种永恒的感动。在一个依然相信技术万能的时代，这本薄薄的小书提供了一种跳出民族国家叙事、用美学与人类学而非政治与神学来解读历史的清醒视角。</description>
+      <pubDate>Wed, 07 Oct 2026 02:50:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-cd2784</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《世界历史沉思录》是十九世纪瑞士历史学家布克哈特的课堂讲义，由其死后整理出版。本书从历史方法论入手，提出国家、宗教、文化三大潜能及其相互制约的框架，认为危机是历史的常态而非例外；否认伟人神话，认为伟人是被时代挑选的普通人；反对线性进步叙事，强调历史中偶然性的根本作用；最终提出历史研究有其内在限度，历史学的真正价值不在于记录发生了什么，而在于让我们从过去的事物中获得某种永恒的感动。在一个依然相信技术万能的时代，这本薄薄的小书提供了一种跳出民族国家叙事、用美学与人类学而非政治与神学来解读历史的清醒视角。</itunes:summary>
+      <itunes:duration>00:37:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-cd2784.mp3" length="35662125" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
