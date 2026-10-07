@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 22:37:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 22:44:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28196,6 +28196,17 @@
       <itunes:duration>00:34:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-e10529.mp3" length="33590445" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《操盘手Ⅰ：自由救赎》 · 完整版 · 操盘手Ⅰ：自由救赎 · 完整讲读</title>
+      <description>《操盘手Ⅰ：自由救赎》是中国第一代职业操盘手花荣以自身经历为蓝本写成的小说。全书三十六万字，以主人公乔锋从一九九八年到二〇〇七年的成长为主线，串联起西部机场垄断新股申购的奇谋、郑州绿豆期货的惊心对决、股权分置改革前夜的熊市通杀、二〇〇六至二〇〇七年大牛市的财富狂欢，以及在纽约哈德逊河畔为爱举行的婚礼。书中既写了胆识、时代、韧性、克制、情感与自我这六块操盘手的命运拼图，也写出了一代人在制度变迁与欲望燃烧中，如何在巅峰主动退场、在低谷重新站起，最终完成关于自由与救赎的成长史诗。</description>
+      <pubDate>Wed, 07 Oct 2026 22:44:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-c1d44e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《操盘手Ⅰ：自由救赎》是中国第一代职业操盘手花荣以自身经历为蓝本写成的小说。全书三十六万字，以主人公乔锋从一九九八年到二〇〇七年的成长为主线，串联起西部机场垄断新股申购的奇谋、郑州绿豆期货的惊心对决、股权分置改革前夜的熊市通杀、二〇〇六至二〇〇七年大牛市的财富狂欢，以及在纽约哈德逊河畔为爱举行的婚礼。书中既写了胆识、时代、韧性、克制、情感与自我这六块操盘手的命运拼图，也写出了一代人在制度变迁与欲望燃烧中，如何在巅峰主动退场、在低谷重新站起，最终完成关于自由与救赎的成长史诗。</itunes:summary>
+      <itunes:duration>00:26:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-c1d44e.mp3" length="25465005" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
