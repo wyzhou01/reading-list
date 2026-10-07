@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 04:13:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 04:22:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27712,6 +27712,17 @@
       <itunes:duration>00:32:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-80103a.mp3" length="31662765" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《总统们：民国总统的另一面》 · 完整版 · 总统们：民国总统的另一面 · 完整讲读</title>
+      <description>《总统们：民国总统的另一面》是张程写于二〇一一年的民国人物传记。作者打破脸谱化的写法，把袁世凯、冯国璋、徐世昌、曹锟等被妖魔化或脸谱化的民国总统，还原成有血有肉的人。孙中山既是革命先行者，也是理想主义受困于本土资源的典型；袁世凯既是窃国大盗，也是晚清近代化的顶梁柱；曹锟虽是贿选总统，晚节却拒绝当汉奸。本书的核心追问是：乱世军权与文人政治如何角力？理想主义与权力现实隔着怎样的鸿沟？读完本书你会发现：看清民国总统的另一面，是为了看清我们自己。</description>
+      <pubDate>Wed, 07 Oct 2026 04:22:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-f2a488</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《总统们：民国总统的另一面》是张程写于二〇一一年的民国人物传记。作者打破脸谱化的写法，把袁世凯、冯国璋、徐世昌、曹锟等被妖魔化或脸谱化的民国总统，还原成有血有肉的人。孙中山既是革命先行者，也是理想主义受困于本土资源的典型；袁世凯既是窃国大盗，也是晚清近代化的顶梁柱；曹锟虽是贿选总统，晚节却拒绝当汉奸。本书的核心追问是：乱世军权与文人政治如何角力？理想主义与权力现实隔着怎样的鸿沟？读完本书你会发现：看清民国总统的另一面，是为了看清我们自己。</itunes:summary>
+      <itunes:duration>00:32:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-f2a488.mp3" length="31219629" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
