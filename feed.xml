@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 18:04:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 18:11:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28009,6 +28009,17 @@
       <itunes:duration>00:29:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-243839.mp3" length="28354989" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《九国夜雪·花与月》 · 完整版 · 九国夜雪·花与月_-_水阡墨 · 完整讲读</title>
+      <description>《九国夜雪·花与月》是水阡墨沉寂五年后的回归之作，构建了一个妖与人共存的架空王朝。全书以蝎女阴极登基开端，以一支海岛封魂师入都城平乱为主线，铺展跨越种族与仇恨的群像救赎。小说表面写妖与人，骨子里写的是失乡者如何被另一个失乡者认领，如何在风雪交加的夜里，慢慢拼出一张叫家乡的桌子。</description>
+      <pubDate>Wed, 07 Oct 2026 18:11:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-4597e4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《九国夜雪·花与月》是水阡墨沉寂五年后的回归之作，构建了一个妖与人共存的架空王朝。全书以蝎女阴极登基开端，以一支海岛封魂师入都城平乱为主线，铺展跨越种族与仇恨的群像救赎。小说表面写妖与人，骨子里写的是失乡者如何被另一个失乡者认领，如何在风雪交加的夜里，慢慢拼出一张叫家乡的桌子。</itunes:summary>
+      <itunes:duration>00:24:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-4597e4.mp3" length="23716269" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
