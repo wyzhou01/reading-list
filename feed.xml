@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 18:21:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 18:29:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28031,6 +28031,17 @@
       <itunes:duration>00:32:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-f26b45.mp3" length="31213869" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《想象思维》 · 完整版 · 想象思维 · 完整讲读</title>
+      <description>《想象思维》这本书用一百多个真实发明家的故事，回答了一个看似简单的问题：发明到底是怎么发生的？作者帕甘·肯尼迪把它拆成五种可学习的想象力策略：在挫败中寻找隐藏的消极空间、等待跨界带来的超级邂逅、把大脑当作研发实验室、建立不同领域之间的联系、在行动中反复试错。她走访了经济学家、心理学家、工程师和大量普通人，发现发明从来不是天才的专利，而是被特定问题长期折磨的人——她称之为【领先用户】——最先做出的反应。今天，众筹平台、三维打印、跨境供应链让工具门槛骤降，二十岁的年轻人可以横跨全球，把全世界当作研发部。这本书给出的核心启示是：好点子不是等来的，是可以练出来的；当几百万人同时动手，人类就能像大自然一样，靠无数次小实验去解决那些最大的难题。</description>
+      <pubDate>Wed, 07 Oct 2026 18:29:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-c35b1c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《想象思维》这本书用一百多个真实发明家的故事，回答了一个看似简单的问题：发明到底是怎么发生的？作者帕甘·肯尼迪把它拆成五种可学习的想象力策略：在挫败中寻找隐藏的消极空间、等待跨界带来的超级邂逅、把大脑当作研发实验室、建立不同领域之间的联系、在行动中反复试错。她走访了经济学家、心理学家、工程师和大量普通人，发现发明从来不是天才的专利，而是被特定问题长期折磨的人——她称之为【领先用户】——最先做出的反应。今天，众筹平台、三维打印、跨境供应链让工具门槛骤降，二十岁的年轻人可以横跨全球，把全世界当作研发部。这本书给出的核心启示是：好点子不是等来的，是可以练出来的；当几百万人同时动手，人类就能像大自然一样，靠无数次小实验去解决那些最大的难题。</itunes:summary>
+      <itunes:duration>00:28:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-c35b1c.mp3" length="27784365" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
