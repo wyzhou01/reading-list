@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 17:32:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 17:42:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27965,6 +27965,17 @@
       <itunes:duration>00:30:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-9dcf34.mp3" length="29753901" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《湖上闲思录》 · 完整版 · 钱穆作品：湖上闲思录 · 完整讲读</title>
+      <description>《湖上闲思录》是史学大家钱穆一九四八年在太湖边写下的三十篇文化闲思,核心主张是:人类生命不能只靠自然科学指引,真正的意义与光明要到千百年来人类共同积累的历史文化中去找。他用人文与自然、精神与物质、情与欲、理与气、阴与阳、艺术与科学等三十组对命题,系统论证中国传统文化天人合一、人文本位的价值立场,并呼吁在向西方学习自然科学的同时,就中国固有资源建立独立的人文科学。这本穿越八十多年时光的小书,至今仍在提醒每一个被算法与效率裹挟的现代人:在向前狂奔的路上,别忘了守护身后那点属于内心的萤火。</description>
+      <pubDate>Wed, 07 Oct 2026 17:42:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-9442d3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《湖上闲思录》是史学大家钱穆一九四八年在太湖边写下的三十篇文化闲思,核心主张是:人类生命不能只靠自然科学指引,真正的意义与光明要到千百年来人类共同积累的历史文化中去找。他用人文与自然、精神与物质、情与欲、理与气、阴与阳、艺术与科学等三十组对命题,系统论证中国传统文化天人合一、人文本位的价值立场,并呼吁在向西方学习自然科学的同时,就中国固有资源建立独立的人文科学。这本穿越八十多年时光的小书,至今仍在提醒每一个被算法与效率裹挟的现代人:在向前狂奔的路上,别忘了守护身后那点属于内心的萤火。</itunes:summary>
+      <itunes:duration>00:37:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-9442d3.mp3" length="36160557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
