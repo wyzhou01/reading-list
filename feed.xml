@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 17:15:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 17:23:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27943,6 +27943,17 @@
       <itunes:duration>00:31:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-033033.mp3" length="30567597" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《非富不可：曹仁超给年轻人的投资忠告》 · 完整版 · 非富不可：曹仁超给年轻人的投资忠告 · 完整讲读</title>
+      <description>《非富不可：曹仁超给年轻人的投资忠告》是香港知名投资评论员曹仁超写给八十后、九十后的财富启蒙书。全书围绕知贫方能致富这一核心理念展开，从理财教育、创业精神、楼市判断、股市技巧四个维度，为刚踏入社会的年轻人构建了一套完整的财富思维框架。曹仁超结合自己四十年投资经验，深入剖析日本失落二十年的深层逻辑，预警中国经济转型的机遇与挑战，并提出顺势而为、止蚀保命的投资方法论。本书不是一本选股秘籍，而是一本关于认知、纪律与顺势的人生指南，至今仍对年轻一代具有强烈的现实意义。</description>
+      <pubDate>Wed, 07 Oct 2026 17:22:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-a31cdf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《非富不可：曹仁超给年轻人的投资忠告》是香港知名投资评论员曹仁超写给八十后、九十后的财富启蒙书。全书围绕知贫方能致富这一核心理念展开，从理财教育、创业精神、楼市判断、股市技巧四个维度，为刚踏入社会的年轻人构建了一套完整的财富思维框架。曹仁超结合自己四十年投资经验，深入剖析日本失落二十年的深层逻辑，预警中国经济转型的机遇与挑战，并提出顺势而为、止蚀保命的投资方法论。本书不是一本选股秘籍，而是一本关于认知、纪律与顺势的人生指南，至今仍对年轻一代具有强烈的现实意义。</itunes:summary>
+      <itunes:duration>00:36:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-a31cdf.mp3" length="34975149" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
