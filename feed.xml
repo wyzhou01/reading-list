@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 01:04:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 01:12:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27503,6 +27503,17 @@
       <itunes:duration>00:42:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-908b4c.mp3" length="40591533" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《爱，不释手》 · 完整版 · 爱，不释手 · 完整讲读</title>
+      <description>本书采用双时间线交叉叙事，以母亲玛雅的视角和女儿埃莉的视角交替推进。在佛罗里达的海边，少女埃莉因毒瘾恍惚，在海中救助溺水的弟弟时未能将他带回来，致使男孩溺亡。事发之后，整个家庭陷入崩塌：丈夫斯蒂芬克制而崩溃，儿子本沉默回避，玛雅则不断在女儿房间里守夜、写信、再放手。最终，玛雅陪埃莉重返那片海滩，在拥抱中完成了一次艰难的母女和解。整部作品追问的是，爱一个人到了非要放手不可的时刻，母亲该如何继续活下去。</description>
+      <pubDate>Wed, 07 Oct 2026 01:12:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-2e102a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书采用双时间线交叉叙事，以母亲玛雅的视角和女儿埃莉的视角交替推进。在佛罗里达的海边，少女埃莉因毒瘾恍惚，在海中救助溺水的弟弟时未能将他带回来，致使男孩溺亡。事发之后，整个家庭陷入崩塌：丈夫斯蒂芬克制而崩溃，儿子本沉默回避，玛雅则不断在女儿房间里守夜、写信、再放手。最终，玛雅陪埃莉重返那片海滩，在拥抱中完成了一次艰难的母女和解。整部作品追问的是，爱一个人到了非要放手不可的时刻，母亲该如何继续活下去。</itunes:summary>
+      <itunes:duration>00:24:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-2e102a.mp3" length="23890605" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
