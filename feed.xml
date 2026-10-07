@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 03:44:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 03:52:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27679,6 +27679,17 @@
       <itunes:duration>00:32:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-102987.mp3" length="31238445" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《百年中国侦探小说精选：第四卷_无铃的马帮》 · 完整版 · 百年中国侦探小说精选：第四卷_无铃的马帮_推理书库 · 完整讲读</title>
+      <description>《百年中国侦探小说精选:第四卷·无铃的马帮》由任翔主编,北京师范大学出版社二零一二年出版,入选国家社科基金项目最终成果。本卷收录白桦《无铃的马帮》、海燕《蛛丝马迹》、李迪《一具无名尸体的秘密》等十四部反特、公安、都市悬疑代表作,跨越二十世纪五十至八十年代。全书分为反特、公安、悬疑三大板块,以边疆反特、公安刑侦、都市悬疑三类题材呈现中国现当代侦探小说的风格演变。作家以边疆少数民族与国家安全、历史纵深与现实现场交织的笔法,塑造盘大妈、朱林生、刘处长等扎根现场的破案者形象,呈现中国侦探小说独特的【扎根】美学——它不靠神探的口才,而靠盘大妈奔十五里夜路的脚步;不靠反转的精彩,而靠林生妈【啪一声关上门】的重量。读这一卷,你会看到正义如何为了战胜邪恶而付出代价,也会看到中国侦探小说如何走出与欧美不同的路。</description>
+      <pubDate>Wed, 07 Oct 2026 03:52:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-b696c8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《百年中国侦探小说精选:第四卷·无铃的马帮》由任翔主编,北京师范大学出版社二零一二年出版,入选国家社科基金项目最终成果。本卷收录白桦《无铃的马帮》、海燕《蛛丝马迹》、李迪《一具无名尸体的秘密》等十四部反特、公安、都市悬疑代表作,跨越二十世纪五十至八十年代。全书分为反特、公安、悬疑三大板块,以边疆反特、公安刑侦、都市悬疑三类题材呈现中国现当代侦探小说的风格演变。作家以边疆少数民族与国家安全、历史纵深与现实现场交织的笔法,塑造盘大妈、朱林生、刘处长等扎根现场的破案者形象,呈现中国侦探小说独特的【扎根】美学——它不靠神探的口才,而靠盘大妈奔十五里夜路的脚步;不靠反转的精彩,而靠林生妈【啪一声关上门】的重量。读这一卷,你会看到正义如何为了战胜邪恶而付出代价,也会看到中国侦探小说如何走出与欧美不同的路。</itunes:summary>
+      <itunes:duration>00:35:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-b696c8.mp3" length="33779373" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
