@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 06 Oct 2026 22:53:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 00:09:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27415,6 +27415,17 @@
       <itunes:duration>00:35:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-d5c32b.mp3" length="34156077" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《姜夔词集》 · 完整版 · 姜夔词集_(词系列) · 完整讲读</title>
+      <description>《姜夔词集》是南宋布衣词人姜夔存词八十馀首的精选集，由上海古籍出版社出版、李强导读。本书通过《扬州慢》《暗香》《疏影》等经典作品，展现了这位终身未仕、清贫困顿却终临南渡词坛的【野云孤飞】之才子，如何用【清空骚雅】的独特词风，承载了南宋偏安一隅的家国之痛、江湖漂泊的身世之感、咏物寄情的比兴寄托与合肥恋情的幽约怨悱。本书不仅是姜夔个人的词作精选，更是南宋一代知识分子精神世界的集中体现，为读者理解宋词【清雅一派】的开山之作提供了完整读本。</description>
+      <pubDate>Wed, 07 Oct 2026 00:09:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-ec0707</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《姜夔词集》是南宋布衣词人姜夔存词八十馀首的精选集，由上海古籍出版社出版、李强导读。本书通过《扬州慢》《暗香》《疏影》等经典作品，展现了这位终身未仕、清贫困顿却终临南渡词坛的【野云孤飞】之才子，如何用【清空骚雅】的独特词风，承载了南宋偏安一隅的家国之痛、江湖漂泊的身世之感、咏物寄情的比兴寄托与合肥恋情的幽约怨悱。本书不仅是姜夔个人的词作精选，更是南宋一代知识分子精神世界的集中体现，为读者理解宋词【清雅一派】的开山之作提供了完整读本。</itunes:summary>
+      <itunes:duration>00:41:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-ec0707.mp3" length="39527469" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
