@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 00:45:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 00:54:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27481,6 +27481,17 @@
       <itunes:duration>00:30:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-dcb8e4.mp3" length="29557677" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《孤独的幸存者》 · 完整版 · 孤独的幸存者 · 完整讲读</title>
+      <description>《孤独的幸存者》是美国海军海豹突击队员马库斯·鲁特埃勒亲笔撰写的特种作战亲历记，记录了二零零五年【红翼】行动中他与三名队友在阿富汗兴都库什山脉遭遇伏击、最终三人牺牲一人独活的真实经历。本书不仅再现了海豹突击队残酷的训练、山地侦察作战的惨烈细节，更核心的，是马库斯以幸存者身份所承受的、深重的罪恶感与心灵创伤——每一个夜里都在重播队友临死前的呼喊，每一栋失去儿子的房子前他都是【噩耗的信使】。在此书后半段，马库斯用横跨全美拜访战友家属的旅程完成对死者的纪念，又以重返伊拉克战场的决绝回答了幸存者对活着的兄弟、对国家、对自己的终极责任。本书是一份关于兄弟情谊、战争代价与如何带着伤口继续活下去的、无法被替代的证词。</description>
+      <pubDate>Wed, 07 Oct 2026 00:54:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-ae6930</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《孤独的幸存者》是美国海军海豹突击队员马库斯·鲁特埃勒亲笔撰写的特种作战亲历记，记录了二零零五年【红翼】行动中他与三名队友在阿富汗兴都库什山脉遭遇伏击、最终三人牺牲一人独活的真实经历。本书不仅再现了海豹突击队残酷的训练、山地侦察作战的惨烈细节，更核心的，是马库斯以幸存者身份所承受的、深重的罪恶感与心灵创伤——每一个夜里都在重播队友临死前的呼喊，每一栋失去儿子的房子前他都是【噩耗的信使】。在此书后半段，马库斯用横跨全美拜访战友家属的旅程完成对死者的纪念，又以重返伊拉克战场的决绝回答了幸存者对活着的兄弟、对国家、对自己的终极责任。本书是一份关于兄弟情谊、战争代价与如何带着伤口继续活下去的、无法被替代的证词。</itunes:summary>
+      <itunes:duration>00:30:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-ae6930.mp3" length="29245485" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
