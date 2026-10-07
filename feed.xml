@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 19:01:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 19:07:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28086,6 +28086,17 @@
       <itunes:duration>00:23:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-ed6977.mp3" length="22739373" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《黑与昼三部曲·第一部《黑原》》 · 完整版 · 黑与昼三部曲 · 完整讲读</title>
+      <description>《黑与昼》是刘浩锋历时九年创作的天道主义美学奠基之作，被文学评论家摩罗定为中国百年白话文学史上第一部真正意义上的世界悲剧文学。小说以改革开放三十余年的大转型为底色，通过主人公李成哲从北京古玩城到湘岳市的命运轨迹，将个体爱情悲剧、人文经济政治宗教四大领域的时代变迁、中华文化复兴的世纪命题熔于一炉。全书以天道辩证逻辑为骨架，融汇湖湘文脉、湖湘学派与魏源曾国藩以来的经世传统，直面世纪之交邪教猖獗、正信崩塌的精神危机，无声言说遏制邪教、捍卫民族的历史巨人群体，并以宇宙审美统摄五大文明的精神资源，提出世界文艺复兴的天道主义方案，堪称一部以悲剧形式承载中华文化复兴使命的世界文学实验之作。</description>
+      <pubDate>Wed, 07 Oct 2026 19:07:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-6ce353</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《黑与昼》是刘浩锋历时九年创作的天道主义美学奠基之作，被文学评论家摩罗定为中国百年白话文学史上第一部真正意义上的世界悲剧文学。小说以改革开放三十余年的大转型为底色，通过主人公李成哲从北京古玩城到湘岳市的命运轨迹，将个体爱情悲剧、人文经济政治宗教四大领域的时代变迁、中华文化复兴的世纪命题熔于一炉。全书以天道辩证逻辑为骨架，融汇湖湘文脉、湖湘学派与魏源曾国藩以来的经世传统，直面世纪之交邪教猖獗、正信崩塌的精神危机，无声言说遏制邪教、捍卫民族的历史巨人群体，并以宇宙审美统摄五大文明的精神资源，提出世界文艺复兴的天道主义方案，堪称一部以悲剧形式承载中华文化复兴使命的世界文学实验之作。</itunes:summary>
+      <itunes:duration>00:18:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-6ce353.mp3" length="18058797" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
