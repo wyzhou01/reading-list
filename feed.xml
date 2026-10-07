@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 18:47:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 18:55:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28064,6 +28064,17 @@
       <itunes:duration>00:30:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-1cf378.mp3" length="29714349" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《此刻不要回头》 · 完整版 · 此刻不要回头 · 完整讲读</title>
+      <description>《此刻不要回头》是达芙妮·杜穆里埃一九七一年的短篇集，收录《此刻不要回头》《不要在午夜以后》《边界内外》《十字架之路》《突破》五个故事，全书以莎士比亚互文贯穿。失子夫妻在威尼斯被盲眼通灵者说出女儿还在身边的真相；十一岁女孩午夜目睹母亲跪在阴影里，从此失去信仰；四十六岁外交官与二十出头女演员临终/临演前发现一辈子都在扮演别人的台词；莎剧学者在耶路撒冷重走苦路时才明白自己从未真正活过；年轻女演员在百老汇首演前夜发现自我早已被舞台取代。五个故事拼成同一张拼图：人最深的恐惧不是未知，而是已知的崩溃。本书是杜穆里埃笔法最纯粹的一次集中展示，也是一部用来照见自己的镜子。</description>
+      <pubDate>Wed, 07 Oct 2026 18:55:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-0c41e2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《此刻不要回头》是达芙妮·杜穆里埃一九七一年的短篇集，收录《此刻不要回头》《不要在午夜以后》《边界内外》《十字架之路》《突破》五个故事，全书以莎士比亚互文贯穿。失子夫妻在威尼斯被盲眼通灵者说出女儿还在身边的真相；十一岁女孩午夜目睹母亲跪在阴影里，从此失去信仰；四十六岁外交官与二十出头女演员临终/临演前发现一辈子都在扮演别人的台词；莎剧学者在耶路撒冷重走苦路时才明白自己从未真正活过；年轻女演员在百老汇首演前夜发现自我早已被舞台取代。五个故事拼成同一张拼图：人最深的恐惧不是未知，而是已知的崩溃。本书是杜穆里埃笔法最纯粹的一次集中展示，也是一部用来照见自己的镜子。</itunes:summary>
+      <itunes:duration>00:28:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-0c41e2.mp3" length="27332397" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
