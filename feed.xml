@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 17:42:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 17:50:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27976,6 +27976,17 @@
       <itunes:duration>00:37:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-9442d3.mp3" length="36160557" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《守先待后：思想、格局与传统》 · 完整版 · 守先待后：思想、格局与传统 · 完整讲读</title>
+      <description>《守先待后：思想、格局与传统》是刘仲敬关于文明史的纲领性著作。他用【文明季候论】取代流行的现代化叙事：文明像季节一样从蛮族的燃料燃到埃及的灰烬，烟花最盛时恰恰是衰落之始。本书拆解了法国大革命的立宪主义起源、批判了巴林顿·摩尔式现代化研究的三路径虚妄、揭示了安·兰德思想中未被承认的俄罗斯血统、并以扎实的原始史料重审美国革命中无法回避的种族悖论。在每一个看似必然的衰落时刻之前，都有人把种子悄悄保存下来。守先待后——这是文明的命运，也是每一个拒绝被历史必然性催眠的人，能够做出的清醒选择。</description>
+      <pubDate>Wed, 07 Oct 2026 17:50:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-06d9fa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《守先待后：思想、格局与传统》是刘仲敬关于文明史的纲领性著作。他用【文明季候论】取代流行的现代化叙事：文明像季节一样从蛮族的燃料燃到埃及的灰烬，烟花最盛时恰恰是衰落之始。本书拆解了法国大革命的立宪主义起源、批判了巴林顿·摩尔式现代化研究的三路径虚妄、揭示了安·兰德思想中未被承认的俄罗斯血统、并以扎实的原始史料重审美国革命中无法回避的种族悖论。在每一个看似必然的衰落时刻之前，都有人把种子悄悄保存下来。守先待后——这是文明的命运，也是每一个拒绝被历史必然性催眠的人，能够做出的清醒选择。</itunes:summary>
+      <itunes:duration>00:31:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-06d9fa.mp3" length="30039213" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
