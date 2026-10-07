@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 17:57:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 18:04:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27998,6 +27998,17 @@
       <itunes:duration>00:26:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-c2edf2.mp3" length="25306029" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《盗火》 · 完整版 · 盗火 · 完整讲读</title>
+      <description>《盗火》是史蒂芬·科特勒与杰米·威尔花费四年走访硅谷、海豹突击队、神经科学实验室后写成的通识之作，系统拆解了【出神状态】——也就是心理学所说【心流】——背后的四种力量：心理学训练、神经生物学机制、药理学辅助、技术化触发，并展示了如何把它从个体复制到团队。但全书最冷静的判断藏在第三部分：火可以盗，也可以烧毁房屋。本书既是一份创造力工具箱，也是一份关于理性与放纵边界的伦理提醒。</description>
+      <pubDate>Wed, 07 Oct 2026 18:04:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-243839</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《盗火》是史蒂芬·科特勒与杰米·威尔花费四年走访硅谷、海豹突击队、神经科学实验室后写成的通识之作，系统拆解了【出神状态】——也就是心理学所说【心流】——背后的四种力量：心理学训练、神经生物学机制、药理学辅助、技术化触发，并展示了如何把它从个体复制到团队。但全书最冷静的判断藏在第三部分：火可以盗，也可以烧毁房屋。本书既是一份创造力工具箱，也是一份关于理性与放纵边界的伦理提醒。</itunes:summary>
+      <itunes:duration>00:29:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-243839.mp3" length="28354989" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
