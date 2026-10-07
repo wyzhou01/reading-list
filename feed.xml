@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 06:47:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 06:56:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27921,6 +27921,17 @@
       <itunes:duration>00:29:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-21ce94.mp3" length="28030509" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《桑榆忆往》 · 完整版 · 桑榆忆往_-_程千帆 · 完整讲读</title>
+      <description>《桑榆忆往》是程千帆先生晚年口述的回忆录，由门人张伯伟整理。本书分劳生志略、音旨偶闻、书绅杂录、友朋评议四部分，记述他从私塾到金陵大学、从反右到南京大学再回到讲坛的一生。他经历过私塾的国学底子、名师的代代薪传、十八年的沉默与二十年的爆发，留下了《古诗今选》《两宋文学史》《校雠广义》等二十多种著作。他一辈子秉持的师承精神——传不藏，把独得之秘毫无保留地交给学生——是本书最重的遗产。本书既是一位学者的心灵史，也是二十世纪中国知识分子命运的缩影。</description>
+      <pubDate>Wed, 07 Oct 2026 06:56:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-8016d0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《桑榆忆往》是程千帆先生晚年口述的回忆录，由门人张伯伟整理。本书分劳生志略、音旨偶闻、书绅杂录、友朋评议四部分，记述他从私塾到金陵大学、从反右到南京大学再回到讲坛的一生。他经历过私塾的国学底子、名师的代代薪传、十八年的沉默与二十年的爆发，留下了《古诗今选》《两宋文学史》《校雠广义》等二十多种著作。他一辈子秉持的师承精神——传不藏，把独得之秘毫无保留地交给学生——是本书最重的遗产。本书既是一位学者的心灵史，也是二十世纪中国知识分子命运的缩影。</itunes:summary>
+      <itunes:duration>00:27:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-8016d0.mp3" length="25983021" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
