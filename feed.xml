@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 18:29:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 18:37:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28042,6 +28042,17 @@
       <itunes:duration>00:28:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-c35b1c.mp3" length="27784365" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《野草在歌唱》 · 完整版 · 野草在歌唱_(莱辛作品) · 完整讲读</title>
+      <description>《野草在歌唱》是英国女作家多丽丝·莱辛的处女作，一九五零年出版。故事发生在非洲南部的白人农场，女主人玛丽·特纳婚后困于贫瘠的生活与压抑的婚姻，精神日益崩溃，最终被自家的黑人男仆杀害。莱辛以这桩谋杀案为切口，层层揭开殖民地种族关系的压迫与张力、婚姻与性别困境下女性的窒息、孤独灵魂在异乡荒原上的自我毁灭，写出了一整个人被时代、身份与自身执念碾碎的全过程。这是一面镜子，照出被困住的人如何一步步走向崩塌，也照出今天我们每个人身上的玛丽。</description>
+      <pubDate>Wed, 07 Oct 2026 18:37:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-83f2cf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《野草在歌唱》是英国女作家多丽丝·莱辛的处女作，一九五零年出版。故事发生在非洲南部的白人农场，女主人玛丽·特纳婚后困于贫瘠的生活与压抑的婚姻，精神日益崩溃，最终被自家的黑人男仆杀害。莱辛以这桩谋杀案为切口，层层揭开殖民地种族关系的压迫与张力、婚姻与性别困境下女性的窒息、孤独灵魂在异乡荒原上的自我毁灭，写出了一整个人被时代、身份与自身执念碾碎的全过程。这是一面镜子，照出被困住的人如何一步步走向崩塌，也照出今天我们每个人身上的玛丽。</itunes:summary>
+      <itunes:duration>00:31:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-83f2cf.mp3" length="30127533" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
