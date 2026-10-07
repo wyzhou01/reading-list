@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 05:08:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 05:15:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27789,6 +27789,17 @@
       <itunes:duration>00:19:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-77fdbe.mp3" length="18420141" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《赌金者：长期资本管理公司的升腾与陨落》 · 完整版 · 赌金者：长期资本管理公司的升腾与陨落 · 完整讲读</title>
+      <description>《赌金者》讲述了长期资本管理基金从华尔街神话到一夜崩塌的真实故事。这家汇聚了两位诺贝尔经济学奖得主的对冲基金，曾以四十七亿美元资产撬动一万亿美元风险敞口，却在短短五个星期内几乎拖垮整个金融系统。本书不仅是对一场金融危机的忠实记录，更是对有效市场假说、杠杆幻觉与系统性风险的深刻反思。它告诉我们：当历史规律第一次失灵，建立在历史数据上的任何模型，都会从精密的分析工具，沦为恐慌情绪的放大器。重读这本书，依然能感到脊背发凉——因为历史不会重复，但总会押韵。</description>
+      <pubDate>Wed, 07 Oct 2026 05:15:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-86518b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《赌金者》讲述了长期资本管理基金从华尔街神话到一夜崩塌的真实故事。这家汇聚了两位诺贝尔经济学奖得主的对冲基金，曾以四十七亿美元资产撬动一万亿美元风险敞口，却在短短五个星期内几乎拖垮整个金融系统。本书不仅是对一场金融危机的忠实记录，更是对有效市场假说、杠杆幻觉与系统性风险的深刻反思。它告诉我们：当历史规律第一次失灵，建立在历史数据上的任何模型，都会从精密的分析工具，沦为恐慌情绪的放大器。重读这本书，依然能感到脊背发凉——因为历史不会重复，但总会押韵。</itunes:summary>
+      <itunes:duration>00:27:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-86518b.mp3" length="26520621" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
