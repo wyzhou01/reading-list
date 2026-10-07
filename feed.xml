@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 23:24:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 23:29:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28273,6 +28273,17 @@
       <itunes:duration>00:26:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-4858ca.mp3" length="25019949" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《催眠二十八讲》 · 完整版 · 催眠二十八讲 · 完整讲读</title>
+      <description>《催眠二十八讲》是美国催眠学家库克博士于十九世纪末写给普通人的催眠入门经典。书中系统拆解了催眠的科学原理：注意力被夺取、判断被绕过、暗示转化为自动行为的三步机制，探讨了从浅层放松到深层梦游的七个层次，回顾了从麦斯麦的动物磁力说到布雷德正式命名催眠术的学科正名历程，并用大量真实案例展示了催眠在医疗止痛、商业说服、习惯矫正和自我成长中的应用。库克提醒我们，催眠既非江湖骗术，也非玄学超能力，而是人类与生俱来的一种精神禀赋，可以被学习、被运用、被觉察。这本书的真正价值，在于让我们看清日常决策背后那些隐形的暗示力量，从而从沉睡中醒来，成为自己精神世界清醒的主人。</description>
+      <pubDate>Wed, 07 Oct 2026 23:29:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-2adbb8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《催眠二十八讲》是美国催眠学家库克博士于十九世纪末写给普通人的催眠入门经典。书中系统拆解了催眠的科学原理：注意力被夺取、判断被绕过、暗示转化为自动行为的三步机制，探讨了从浅层放松到深层梦游的七个层次，回顾了从麦斯麦的动物磁力说到布雷德正式命名催眠术的学科正名历程，并用大量真实案例展示了催眠在医疗止痛、商业说服、习惯矫正和自我成长中的应用。库克提醒我们，催眠既非江湖骗术，也非玄学超能力，而是人类与生俱来的一种精神禀赋，可以被学习、被运用、被觉察。这本书的真正价值，在于让我们看清日常决策背后那些隐形的暗示力量，从而从沉睡中醒来，成为自己精神世界清醒的主人。</itunes:summary>
+      <itunes:duration>00:27:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-2adbb8.mp3" length="26310189" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
