@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 05:38:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 05:46:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27833,6 +27833,17 @@
       <itunes:duration>00:35:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-0db133.mp3" length="33612717" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《密西西比》 · 完整版 · 密西西比 · 完整讲读</title>
+      <description>《密西西比》是福克纳的非虚构散文作品选集，由翻译家李文俊选译，收录他一生各时期所写的散文、随笔、演说词、书评、序言与公开信。这些文字写于二十世纪上半叶美国南方种族矛盾尖锐、旧秩序崩塌的巨变之中，记录了一位大师走出虚构世界后的另一副面孔。从一九二七年密西西比河大泛滥到诺贝尔奖演说，从追忆恩师舍伍德·安德森到为被轧死的小狗写给报纸的公开信，福克纳在这些文字里直面故土、种族、战争、师承与死亡，既是南方传统的产物，又是南方痼疾的批判者，展现出一种来自内部的道德力量。</description>
+      <pubDate>Wed, 07 Oct 2026 05:46:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261006-episode-20261006-744c8d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《密西西比》是福克纳的非虚构散文作品选集，由翻译家李文俊选译，收录他一生各时期所写的散文、随笔、演说词、书评、序言与公开信。这些文字写于二十世纪上半叶美国南方种族矛盾尖锐、旧秩序崩塌的巨变之中，记录了一位大师走出虚构世界后的另一副面孔。从一九二七年密西西比河大泛滥到诺贝尔奖演说，从追忆恩师舍伍德·安德森到为被轧死的小狗写给报纸的公开信，福克纳在这些文字里直面故土、种族、战争、师承与死亡，既是南方传统的产物，又是南方痼疾的批判者，展现出一种来自内部的道德力量。</itunes:summary>
+      <itunes:duration>00:33:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-744c8d.mp3" length="32065581" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
