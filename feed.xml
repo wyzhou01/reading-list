@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 19:34:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 19:40:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28130,6 +28130,17 @@
       <itunes:duration>00:40:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-362b10.mp3" length="39295917" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《黑暗领域》 · 完整版 · 黑暗领域(英国推理小说女王震撼人心的三冠王之作,当之无愧的推理大师)_(旋梯书架·薇儿·麦克德米德作品：03) · 完整讲读</title>
+      <description>《黑暗领域》是英国推理女王薇儿·麦克德米德二〇〇八年出版、二〇〇九年斩获安东尼、爱伦·坡、巴里三冠的悬疑巨作。小说以一九八四年苏格兰煤矿区少女卡特·格兰特失踪案为轴，以二〇〇七年悬案警探凯伦·佩莉重启调查为线，穿插年轻母亲米莎为患范可尼贫血症的儿子卢克寻找亲生父亲、寻找匹配骨髓的支线。三条叙事在DNA跨国比对技术的推动下最终合流，撕开撒切尔时代矿工罢工留下的集体创伤，揭示凶手正是米克·普兰蒂斯——而救活卢克的关键，竟来自凶手亲生女儿的骨髓。麦克德米德以冷静笔法追问：当技术足以拆穿一切谎言，真相是否值得被挖出？母爱可以走多远？一个家庭，又能在多少代人的互相保护与互相隐瞒中存活？</description>
+      <pubDate>Wed, 07 Oct 2026 19:40:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-25c29e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《黑暗领域》是英国推理女王薇儿·麦克德米德二〇〇八年出版、二〇〇九年斩获安东尼、爱伦·坡、巴里三冠的悬疑巨作。小说以一九八四年苏格兰煤矿区少女卡特·格兰特失踪案为轴，以二〇〇七年悬案警探凯伦·佩莉重启调查为线，穿插年轻母亲米莎为患范可尼贫血症的儿子卢克寻找亲生父亲、寻找匹配骨髓的支线。三条叙事在DNA跨国比对技术的推动下最终合流，撕开撒切尔时代矿工罢工留下的集体创伤，揭示凶手正是米克·普兰蒂斯——而救活卢克的关键，竟来自凶手亲生女儿的骨髓。麦克德米德以冷静笔法追问：当技术足以拆穿一切谎言，真相是否值得被挖出？母爱可以走多远？一个家庭，又能在多少代人的互相保护与互相隐瞒中存活？</itunes:summary>
+      <itunes:duration>00:24:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-25c29e.mp3" length="23869101" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
