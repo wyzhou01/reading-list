@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 07:43:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 07:59:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28694,6 +28694,17 @@
       <itunes:duration>00:25:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-bdc8fd.mp3" length="24672429" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《秦始皇：诈与力的极致》 · 完整版 · 罗辑思维 - 罗振宇 · 完整讲读</title>
+      <description>《罗辑思维》是罗振宇二零一二年世界末日那天开播的视频脱口秀首季精华合集，写的是一个离开央视的胖子如何在互联网时代用&quot;魅力人格体&quot;活下去。本书横跨死亡哲学、城市化、大国博弈、剩女、反腐、慈善等议题，最终落点是八个字：U盘化生存——自带信息，不装系统，随时插拔，自由协作。它是中文互联网第一代知识型自媒体的代表作，回答了一个核心问题：当单位、铁饭碗、旧秩序全部崩塌，一个肉身凡胎的人，怎么靠独立的个人魅力活下去。</description>
+      <pubDate>Mon, 31 Aug 2026 08:46:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-16ca6c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《罗辑思维》是罗振宇二零一二年世界末日那天开播的视频脱口秀首季精华合集，写的是一个离开央视的胖子如何在互联网时代用&quot;魅力人格体&quot;活下去。本书横跨死亡哲学、城市化、大国博弈、剩女、反腐、慈善等议题，最终落点是八个字：U盘化生存——自带信息，不装系统，随时插拔，自由协作。它是中文互联网第一代知识型自媒体的代表作，回答了一个核心问题：当单位、铁饭碗、旧秩序全部崩塌，一个肉身凡胎的人，怎么靠独立的个人魅力活下去。</itunes:summary>
+      <itunes:duration>00:29:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-16ca6c.mp3" length="27851949" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
