@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 11:57:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 12:04:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29057,6 +29057,17 @@
       <itunes:duration>00:23:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-7fe3e8.mp3" length="22788525" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《变色龙（译文名著精选）》 · 完整版 · 变色龙_(译文名著精选) · 完整讲读</title>
+      <description>上海译文出版社《变色龙》精选契诃夫二十五篇短篇代表作,贯穿早期、中期、晚期三大阶段。早期【契洪特】时期用《变色龙》《胖子和瘦子》《万卡》等冷色幽默,揭穿沙俄官僚的奴性与小市民的势利;中期经历萨哈林岛之行后,以《第六病室》《苦恼》写出整座俄国如监狱的沉默;晚期凭《套中人》《醋栗》《约内奇》三把刀,剖析庸俗如何腐蚀灵魂,并以《带小狗的女人》《新娘》写出觉醒的火种。高尔基称他为庸俗的仇敌,他用最简练的笔,写出最不平常的时代情绪。一百多年过去,他笔下的小人物仍在替我们说话。</description>
+      <pubDate>Thu, 08 Oct 2026 12:04:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-9b4226</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>上海译文出版社《变色龙》精选契诃夫二十五篇短篇代表作,贯穿早期、中期、晚期三大阶段。早期【契洪特】时期用《变色龙》《胖子和瘦子》《万卡》等冷色幽默,揭穿沙俄官僚的奴性与小市民的势利;中期经历萨哈林岛之行后,以《第六病室》《苦恼》写出整座俄国如监狱的沉默;晚期凭《套中人》《醋栗》《约内奇》三把刀,剖析庸俗如何腐蚀灵魂,并以《带小狗的女人》《新娘》写出觉醒的火种。高尔基称他为庸俗的仇敌,他用最简练的笔,写出最不平常的时代情绪。一百多年过去,他笔下的小人物仍在替我们说话。</itunes:summary>
+      <itunes:duration>00:27:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-9b4226.mp3" length="26141613" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
