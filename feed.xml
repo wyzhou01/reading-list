@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 01:13:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 01:22:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28428,6 +28428,17 @@
       <itunes:duration>00:30:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-786a47.mp3" length="29478573" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《玩火的女孩》 · 完整版 · 玩火的女孩 · 完整讲读</title>
+      <description>《玩火的女孩》是斯蒂格·拉森千年三部曲的第二部。被诬陷为三桩谋杀案凶手的莎兰德，一边逃亡，一边追查北欧性贩运网络真相；与此同时，《千禧年》杂志一篇揭露政商勾结的报道引爆全国。两条线索交汇于一个由俄罗斯政客、前国安特工与本土律师组成的暗黑帝国。拉森以记者笔法剖开北欧福利国家光环下的制度性性别暴力：一个女孩从十三岁被父亲锁在铁架床上许下复仇之愿，到二十六岁躺在血泊中握着打开保险栓的手枪，她用一生证明——在一个系统性忽视女性痛苦的世界里，反抗本身就是一种罪行，但沉默也是一种罪行。</description>
+      <pubDate>Thu, 08 Oct 2026 01:22:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-b04e59</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《玩火的女孩》是斯蒂格·拉森千年三部曲的第二部。被诬陷为三桩谋杀案凶手的莎兰德，一边逃亡，一边追查北欧性贩运网络真相；与此同时，《千禧年》杂志一篇揭露政商勾结的报道引爆全国。两条线索交汇于一个由俄罗斯政客、前国安特工与本土律师组成的暗黑帝国。拉森以记者笔法剖开北欧福利国家光环下的制度性性别暴力：一个女孩从十三岁被父亲锁在铁架床上许下复仇之愿，到二十六岁躺在血泊中握着打开保险栓的手枪，她用一生证明——在一个系统性忽视女性痛苦的世界里，反抗本身就是一种罪行，但沉默也是一种罪行。</itunes:summary>
+      <itunes:duration>00:29:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-b04e59.mp3" length="28559661" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
