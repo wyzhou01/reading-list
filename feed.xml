@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 12:17:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 12:25:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29090,6 +29090,17 @@
       <itunes:duration>00:22:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-e7664d.mp3" length="21264813" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我在印度的701天》 · 完整版 · 我在印度的701天 · 完整讲读</title>
+      <description>《我在印度的七百零一天》是四川教师郭菲以国家汉办外派教师身份，前往印度理工学院甘地分校担任首位中文老师的非行纪实散文集。书中以【驻足观望】为底色，从孟买机场被多擦一遍的马桶圈写起，一路写到瓦拉纳西的恒河夜祭与露天火葬、艾哈迈达巴德的季风雨季与贫民窟、IITGN 精英学府的课堂与食堂。书里既有脏乱差的现实，也有圣雄甘地的精神余温；既有种姓制度下的达利特烧尸人，也有月薪两千却笑容用力的底层美术老师。在中印关系敏感的时刻出版，作者克制住情绪化修改的冲动，原汁原味地保留了对这个国度的诚实记录。这本书最大的价值，不是告诉我们印度是什么，而是示范了如何驻足、如何观望、如何在面对异质文明时克制住非黑即白的冲动。</description>
+      <pubDate>Thu, 08 Oct 2026 12:25:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-df5e14</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我在印度的七百零一天》是四川教师郭菲以国家汉办外派教师身份，前往印度理工学院甘地分校担任首位中文老师的非行纪实散文集。书中以【驻足观望】为底色，从孟买机场被多擦一遍的马桶圈写起，一路写到瓦拉纳西的恒河夜祭与露天火葬、艾哈迈达巴德的季风雨季与贫民窟、IITGN 精英学府的课堂与食堂。书里既有脏乱差的现实，也有圣雄甘地的精神余温；既有种姓制度下的达利特烧尸人，也有月薪两千却笑容用力的底层美术老师。在中印关系敏感的时刻出版，作者克制住情绪化修改的冲动，原汁原味地保留了对这个国度的诚实记录。这本书最大的价值，不是告诉我们印度是什么，而是示范了如何驻足、如何观望、如何在面对异质文明时克制住非黑即白的冲动。</itunes:summary>
+      <itunes:duration>00:30:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-df5e14.mp3" length="29189037" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
