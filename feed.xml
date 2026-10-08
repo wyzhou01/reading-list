@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 17:12:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 17:20:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29156,6 +29156,29 @@
       <itunes:duration>00:20:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-dd4f82.mp3" length="19873965" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《逆转》 · 完整版 · 逆转 · 完整讲读</title>
+      <description>《逆转：弱者如何找到优势，反败为胜？》是加拿大作家马尔科姆·格拉德威尔继《引爆点》《异类》《眨眼之间》后的又一部非虚构作品。全书通过九个真实故事，探讨弱者如何在面对强者的困境中寻找突破口。
+
+从古以色列大卫与歌利亚的对决，到硅谷一支不会打篮球的女孩篮球队，再到北爱尔兰的监狱、二战时法国拯救犹太人的小村庄……格拉德威尔用社会学和心理学的研究成果，重新审视了我们对强者与弱者的刻板定义。
+
+全书的核心观点是：巨人们并不像我们想象的那么强大，他们身上的所谓优势往往正是限制；弱者被排除在主流之外的事实，反而能打开新的机会；而当我们面对困境时，最危险的往往不是弱点本身，而是我们对自己弱点的判断。
+
+这本书不是一套让人取胜的技巧指南，而是一种看待困境的方式：弱者真正的强大，不是变得和强者一样强，而是知道什么时候不该跟强者比力气，什么时候可以换一条路，什么时候可以在强者的体系里守住自己的一扇门。</description>
+      <pubDate>Thu, 08 Oct 2026 17:20:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-7779eb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《逆转：弱者如何找到优势，反败为胜？》是加拿大作家马尔科姆·格拉德威尔继《引爆点》《异类》《眨眼之间》后的又一部非虚构作品。全书通过九个真实故事，探讨弱者如何在面对强者的困境中寻找突破口。
+
+从古以色列大卫与歌利亚的对决，到硅谷一支不会打篮球的女孩篮球队，再到北爱尔兰的监狱、二战时法国拯救犹太人的小村庄……格拉德威尔用社会学和心理学的研究成果，重新审视了我们对强者与弱者的刻板定义。
+
+全书的核心观点是：巨人们并不像我们想象的那么强大，他们身上的所谓优势往往正是限制；弱者被排除在主流之外的事实，反而能打开新的机会；而当我们面对困境时，最危险的往往不是弱点本身，而是我们对自己弱点的判断。
+
+这本书不是一套让人取胜的技巧指南，而是一种看待困境的方式：弱者真正的强大，不是变得和强者一样强，而是知道什么时候不该跟强者比力气，什么时候可以换一条路，什么时候可以在强者的体系里守住自己的一扇门。</itunes:summary>
+      <itunes:duration>00:31:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-7779eb.mp3" length="29765421" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
