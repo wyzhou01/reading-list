@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 08:22:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 08:30:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28727,6 +28727,17 @@
       <itunes:duration>00:21:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-06364e.mp3" length="20823213" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《山茶文具店》 · 完整版 · 山茶文具店 · 完整讲读</title>
+      <description>《山茶文具店》是小川糸写给所有已经不会用手写信的人的温柔提醒。书中雨宫鸠子继承外祖母留下的代笔人手艺，在镰仓一座山脚下的小店里替人写吊唁信、分手信、生日信、绝交信——十六封书信背后站着十六种别人活不出的人生。整本书真正讲的其实不是代笔这件事，是郑重这件事——字写得漂亮不重要，心意送到才重要；慢下来不是目的，把心意放进一笔一画里才是目的。读完之后你会明白，有些字是上一代没写完的，下一代替她写下去的时候，字不是那一代写的，字里已经装了上一代的心。</description>
+      <pubDate>Thu, 08 Oct 2026 08:30:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-0b29aa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《山茶文具店》是小川糸写给所有已经不会用手写信的人的温柔提醒。书中雨宫鸠子继承外祖母留下的代笔人手艺，在镰仓一座山脚下的小店里替人写吊唁信、分手信、生日信、绝交信——十六封书信背后站着十六种别人活不出的人生。整本书真正讲的其实不是代笔这件事，是郑重这件事——字写得漂亮不重要，心意送到才重要；慢下来不是目的，把心意放进一笔一画里才是目的。读完之后你会明白，有些字是上一代没写完的，下一代替她写下去的时候，字不是那一代写的，字里已经装了上一代的心。</itunes:summary>
+      <itunes:duration>00:28:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-0b29aa.mp3" length="27189165" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
