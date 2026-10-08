@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 09:19:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 09:26:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28815,6 +28815,17 @@
       <itunes:duration>00:31:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-9aa531.mp3" length="30153645" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《近视怎么办：眼科医生教你正确配镜和治疗》 · 完整版 · 近视怎么办：眼科医生教你正确配镜和治疗 · 完整讲读</title>
+      <description>《近视怎么办》是一本由三甲医院眼科医生芋头撰写的近视科普书，作者既是六百多度高度近视患者，又是资深眼科医生，双重视角下写就三万字干货。书中系统讲解眼球结构、近视成因与分类、散瞳验光与配镜门道、激光手术与 ICL 手术的适用边界、儿童近视防控的三驾马车——低浓度阿托品、角膜塑形镜与户外活动，以及视网膜脱离、飞蚊症、黄斑病变等并发症的识别与应对。核心观点是：近视防控不是高科技军备竞赛，而是日常纪律的长期主义；配得准的足矫框架镜性价比高于绝大多数【高科技镜片】；高度近视患者一辈子都要定期查眼底。</description>
+      <pubDate>Thu, 08 Oct 2026 09:26:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-e1d156</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《近视怎么办》是一本由三甲医院眼科医生芋头撰写的近视科普书，作者既是六百多度高度近视患者，又是资深眼科医生，双重视角下写就三万字干货。书中系统讲解眼球结构、近视成因与分类、散瞳验光与配镜门道、激光手术与 ICL 手术的适用边界、儿童近视防控的三驾马车——低浓度阿托品、角膜塑形镜与户外活动，以及视网膜脱离、飞蚊症、黄斑病变等并发症的识别与应对。核心观点是：近视防控不是高科技军备竞赛，而是日常纪律的长期主义；配得准的足矫框架镜性价比高于绝大多数【高科技镜片】；高度近视患者一辈子都要定期查眼底。</itunes:summary>
+      <itunes:duration>00:27:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-e1d156.mp3" length="26850477" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
