@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 18:28:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 18:35:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29278,6 +29278,17 @@
       <itunes:duration>00:24:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-5c18b8.mp3" length="23695533" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《诸葛亮：蜀汉舵手的历史真相》 · 完整版 · 诸葛亮：蜀汉舵手的历史真相 · 完整讲读</title>
+      <description>《诸葛亮：蜀汉舵手的历史真相》以南门太守的笔触，沿诸葛亮五十四年人生的重大转折点逐段梳理，借《三国志》《华阳国志》《资治通鉴》等正史，还原一个去演义化、去圣贤化、有局限也有担当的真实丞相。本书重点辨析六大争议：自比管乐是否逆统一潮流、隆中对是否先天缺陷、北伐是否不自量力、用人是否排斥异己、关羽之死是否借刀杀人、夷陵之败是否失职。南门太守的结论冷静而克制：诸葛亮治国是良才，军事非其所长；北伐是数学问题，不是战略问题；神坛是历代帝王和士人一块砖一块砖垒起来的；争议的存在，恰恰证明他是真实的。</description>
+      <pubDate>Thu, 08 Oct 2026 18:35:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-0183b5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《诸葛亮：蜀汉舵手的历史真相》以南门太守的笔触，沿诸葛亮五十四年人生的重大转折点逐段梳理，借《三国志》《华阳国志》《资治通鉴》等正史，还原一个去演义化、去圣贤化、有局限也有担当的真实丞相。本书重点辨析六大争议：自比管乐是否逆统一潮流、隆中对是否先天缺陷、北伐是否不自量力、用人是否排斥异己、关羽之死是否借刀杀人、夷陵之败是否失职。南门太守的结论冷静而克制：诸葛亮治国是良才，军事非其所长；北伐是数学问题，不是战略问题；神坛是历代帝王和士人一块砖一块砖垒起来的；争议的存在，恰恰证明他是真实的。</itunes:summary>
+      <itunes:duration>00:27:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-0183b5.mp3" length="26139309" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
