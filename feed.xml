@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 10:49:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 10:58:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28947,6 +28947,17 @@
       <itunes:duration>00:38:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-c23632.mp3" length="37108653" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《西方的妄想》 · 完整版 · 西方的妄想－[法]_达尼－罗伯特·迪富尔 · 完整讲读</title>
+      <description>法国哲学家迪富尔在《西方的妄想》中追问：自笛卡儿与培根喊出【成为自然主人】的口号以来，五百年过去，西方人究竟得到了什么？他从工作、休闲、爱情三个日常切口出发，结合海德格尔【座架】、马克思异化、法兰克福学派与情境主义国际的批判传统，揭示现代人被技术理性全面殖民的真相。工作的意义被生产效率掏空，休闲的自由被消费主义置换为景观体验，爱情则被约会算法与色情工业改写为可量化的情感产品。他主张【减速】，呼吁区分【技术】与【技术学】，重新找回亚里士多德意义上的【好生活】。这本写于欧债危机时期的小说，在人工智能与消费主义愈演愈烈的今天，依然是我们辨认自身处境的一面镜子。</description>
+      <pubDate>Thu, 08 Oct 2026 10:58:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-3a0f10</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>法国哲学家迪富尔在《西方的妄想》中追问：自笛卡儿与培根喊出【成为自然主人】的口号以来，五百年过去，西方人究竟得到了什么？他从工作、休闲、爱情三个日常切口出发，结合海德格尔【座架】、马克思异化、法兰克福学派与情境主义国际的批判传统，揭示现代人被技术理性全面殖民的真相。工作的意义被生产效率掏空，休闲的自由被消费主义置换为景观体验，爱情则被约会算法与色情工业改写为可量化的情感产品。他主张【减速】，呼吁区分【技术】与【技术学】，重新找回亚里士多德意义上的【好生活】。这本写于欧债危机时期的小说，在人工智能与消费主义愈演愈烈的今天，依然是我们辨认自身处境的一面镜子。</itunes:summary>
+      <itunes:duration>00:31:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-3a0f10.mp3" length="30195885" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
