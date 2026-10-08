@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 12:04:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 12:10:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29068,6 +29068,17 @@
       <itunes:duration>00:27:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-9b4226.mp3" length="26141613" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《上帝如何设计世界：爱因斯坦的困惑》 · 完整版 · 上帝如何设计世界：爱因斯坦的困惑 · 完整讲读</title>
+      <description>本书以相对论诞生百年为背景,系统梳理了从牛顿力学、麦克斯韦电磁理论,到爱因斯坦狭义与广义相对论的思想演变,深入浅出地介绍了黎曼几何、弯曲时空、黑洞辐射、大爆炸宇宙学、暗物质、暗能量等前沿议题。作者张天蓉不仅讲解物理结论,更着力还原科学家发现问题、构建理论的思维过程,带读者体会【困惑—猜想—验证】这一科学方法的内核。广义相对论诞生一百年后,它在引力波、黑洞成像、宇宙微波背景等观测中不断被验证,而宇宙的95%仍是未知——上帝的设计图,远未读完。</description>
+      <pubDate>Thu, 08 Oct 2026 12:09:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-417ca3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书以相对论诞生百年为背景,系统梳理了从牛顿力学、麦克斯韦电磁理论,到爱因斯坦狭义与广义相对论的思想演变,深入浅出地介绍了黎曼几何、弯曲时空、黑洞辐射、大爆炸宇宙学、暗物质、暗能量等前沿议题。作者张天蓉不仅讲解物理结论,更着力还原科学家发现问题、构建理论的思维过程,带读者体会【困惑—猜想—验证】这一科学方法的内核。广义相对论诞生一百年后,它在引力波、黑洞成像、宇宙微波背景等观测中不断被验证,而宇宙的95%仍是未知——上帝的设计图,远未读完。</itunes:summary>
+      <itunes:duration>00:29:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-417ca3.mp3" length="28436013" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
