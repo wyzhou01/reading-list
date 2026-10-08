@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 12:25:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 12:35:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29101,6 +29101,17 @@
       <itunes:duration>00:30:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-df5e14.mp3" length="29189037" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《玄之又玄：《道德经》读本》 · 完整版 · 玄之又玄：《道德经》读本 · 完整讲读</title>
+      <description>两千五百年前,老子骑青牛西出函谷关,留下五千字的《道德经》。本书由赵波撰写,中华书局二零一五年出版,以陈鼓应注本为底本,吸收郭店楚简、马王堆帛书等考古成果,把全书八十一章重新归为论道、养生、修身、砭时、治国、治兵六大主题。本期用两小时讲透全书核心:道、无、自然是宇宙本源与价值取向;无为而治是政治哲学的最高境界;柔弱胜刚强是辩证的处世智慧;反战思想是《道德经》被忽视却极深刻的军事辩证法;道家思想更塑造了中国两千五百年的精神底色,从文景之治、贞观之治,到魏晋玄学、宋明新儒家,再到道教与禅宗,《道德经》从未离开中国人的血脉。</description>
+      <pubDate>Thu, 08 Oct 2026 12:35:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-a6dc5f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>两千五百年前,老子骑青牛西出函谷关,留下五千字的《道德经》。本书由赵波撰写,中华书局二零一五年出版,以陈鼓应注本为底本,吸收郭店楚简、马王堆帛书等考古成果,把全书八十一章重新归为论道、养生、修身、砭时、治国、治兵六大主题。本期用两小时讲透全书核心:道、无、自然是宇宙本源与价值取向;无为而治是政治哲学的最高境界;柔弱胜刚强是辩证的处世智慧;反战思想是《道德经》被忽视却极深刻的军事辩证法;道家思想更塑造了中国两千五百年的精神底色,从文景之治、贞观之治,到魏晋玄学、宋明新儒家,再到道教与禅宗,《道德经》从未离开中国人的血脉。</itunes:summary>
+      <itunes:duration>00:33:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-a6dc5f.mp3" length="31802157" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
