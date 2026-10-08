@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 07:36:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 07:43:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28683,6 +28683,17 @@
       <itunes:duration>00:19:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-b79fa0.mp3" length="18662829" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《朝堂之外：北宋东京士人交游》 · 完整版 · 朝堂之外：北宋东京士人交游 · 完整讲读</title>
+      <description>《朝堂之外:北宋东京士人交游》是梁建国跳出宋代政治史惯用的朝堂叙事,以拜谒、走访、宴饮、雅集、送别五种典型场景为骨架,系统考察北宋士人在东京开封的日常交游活动。全书将士人交游与科举制度、党争背景深度勾连,更把宅园、寺观、酒肆、茶坊等都市空间作为交游舞台加以解读,呈现出士人如何在陌生都城里建立社会关系、实现身份认同、完成向上流动。书中以梅尧臣、嘉祐四友、苏轼诸友等鲜活个案,还原了被宏大叙事筛漏的士人日常,为理解北宋士人社会与东京城市史提供了极具方法论自觉的新视角。</description>
+      <pubDate>Thu, 08 Oct 2026 07:43:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-bdc8fd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《朝堂之外:北宋东京士人交游》是梁建国跳出宋代政治史惯用的朝堂叙事,以拜谒、走访、宴饮、雅集、送别五种典型场景为骨架,系统考察北宋士人在东京开封的日常交游活动。全书将士人交游与科举制度、党争背景深度勾连,更把宅园、寺观、酒肆、茶坊等都市空间作为交游舞台加以解读,呈现出士人如何在陌生都城里建立社会关系、实现身份认同、完成向上流动。书中以梅尧臣、嘉祐四友、苏轼诸友等鲜活个案,还原了被宏大叙事筛漏的士人日常,为理解北宋士人社会与东京城市史提供了极具方法论自觉的新视角。</itunes:summary>
+      <itunes:duration>00:25:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-bdc8fd.mp3" length="24672429" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
