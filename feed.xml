@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 09:11:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 09:19:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28804,6 +28804,17 @@
       <itunes:duration>00:30:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-786a47.mp3" length="29478573" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《黑匣子思维：我们如何更理性地犯错》 · 完整版 · 黑匣子思维：我们如何更理性地犯错 · 完整讲读</title>
+      <description>《黑匣子思维》用医疗业与航空业的对比，回答了一个问题：为什么同样是关乎生命安全的行业，前者困在每年四十万可避免死亡的原地，后者却把事故率降到二百四十万分之一？答案不在于医生比飞行员更马虎，而在于组织与认知：航空业用黑匣子与公开调查把每一次失败变成改进的信号，医疗业却长期陷入掩盖、推诿、找替罪羊的闭路循环。萨伊德进一步剖析了阻碍我们从错误中学习的认知机制——先有边缘视域，再有确认偏差，以及资深与权威的反作用力——并指出解药是随机对照试验、边际收益、公开透明与成长型文化。书的核心主张是：我们不需要不犯错的超人，我们需要能从错误中学习的系统。</description>
+      <pubDate>Thu, 08 Oct 2026 09:19:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-9aa531</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《黑匣子思维》用医疗业与航空业的对比，回答了一个问题：为什么同样是关乎生命安全的行业，前者困在每年四十万可避免死亡的原地，后者却把事故率降到二百四十万分之一？答案不在于医生比飞行员更马虎，而在于组织与认知：航空业用黑匣子与公开调查把每一次失败变成改进的信号，医疗业却长期陷入掩盖、推诿、找替罪羊的闭路循环。萨伊德进一步剖析了阻碍我们从错误中学习的认知机制——先有边缘视域，再有确认偏差，以及资深与权威的反作用力——并指出解药是随机对照试验、边际收益、公开透明与成长型文化。书的核心主张是：我们不需要不犯错的超人，我们需要能从错误中学习的系统。</itunes:summary>
+      <itunes:duration>00:31:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-9aa531.mp3" length="30153645" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
