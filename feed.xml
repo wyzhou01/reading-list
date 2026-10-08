@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 00:15:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 00:23:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28362,6 +28362,17 @@
       <itunes:duration>00:25:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-c9e6ec.mp3" length="24599085" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《西风东土：两个世界的挫折》 · 完整版 · 西风东土：两个世界的挫折_-_熊培云 · 完整讲读</title>
+      <description>《西风东土：两个世界的挫折》是熊培云于2014-2015年在日本客座研究期间的访学日记，记录了他对日本政治、历史、社会、媒体及中日关系的多层次观察。作者通过访谈学者、议员、律师、家庭主妇、极右翼等各阶层，追问日本如何走向军国主义、媒体与知识分子的角色以及中日和解的可能。书中提出几个核心概念：人是意义动物而非真理动物；事实与意义是两个不同层面；日本是中国的良药还是毒药取决于态度。作者强调，和解不等于忘记，而是让事实与意义都无处躲藏。本书被视为对中日关系进行深度思考与理解的重要作品。</description>
+      <pubDate>Thu, 08 Oct 2026 00:23:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-8f2959</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《西风东土：两个世界的挫折》是熊培云于2014-2015年在日本客座研究期间的访学日记，记录了他对日本政治、历史、社会、媒体及中日关系的多层次观察。作者通过访谈学者、议员、律师、家庭主妇、极右翼等各阶层，追问日本如何走向军国主义、媒体与知识分子的角色以及中日和解的可能。书中提出几个核心概念：人是意义动物而非真理动物；事实与意义是两个不同层面；日本是中国的良药还是毒药取决于态度。作者强调，和解不等于忘记，而是让事实与意义都无处躲藏。本书被视为对中日关系进行深度思考与理解的重要作品。</itunes:summary>
+      <itunes:duration>00:31:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-8f2959.mp3" length="29778093" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
