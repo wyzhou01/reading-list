@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 10:23:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 10:33:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28914,6 +28914,17 @@
       <itunes:duration>00:18:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-b3ccac.mp3" length="17503149" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《细雪》 · 完整版 · 细雪 · 完整讲读</title>
+      <description>《细雪》是日本唯美主义作家谷崎润一郎的代表作，1943年起在《中央公论》连载，因法西斯禁华停刊后自费印刷二百本分送亲友，战后出版中下卷。小说以大阪没落商家莳冈家四姐妹为主线，写旧世家如何在战时守住赏樱、捕萤、舞蹈、茶道的日常。核心人物雪子接受新式教育却无独立技能，五次相亲屡屡受挫；妙子则凭手艺主动改写命运。谷崎用古典之美对抗战时之恶，被视为《源氏物语》的现代版，与福楼拜作品相比毫不逊色。</description>
+      <pubDate>Thu, 08 Oct 2026 10:33:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-1e37c7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《细雪》是日本唯美主义作家谷崎润一郎的代表作，1943年起在《中央公论》连载，因法西斯禁华停刊后自费印刷二百本分送亲友，战后出版中下卷。小说以大阪没落商家莳冈家四姐妹为主线，写旧世家如何在战时守住赏樱、捕萤、舞蹈、茶道的日常。核心人物雪子接受新式教育却无独立技能，五次相亲屡屡受挫；妙子则凭手艺主动改写命运。谷崎用古典之美对抗战时之恶，被视为《源氏物语》的现代版，与福楼拜作品相比毫不逊色。</itunes:summary>
+      <itunes:duration>00:34:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-1e37c7.mp3" length="33489453" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
