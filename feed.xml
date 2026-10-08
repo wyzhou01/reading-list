@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 08:52:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 08:59:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28771,6 +28771,17 @@
       <itunes:duration>00:23:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-077510.mp3" length="22869933" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《别成为陌生人》 · 完整版 · 别成为陌生人 · 完整讲读</title>
+      <description>《别成为陌生人》是美国作家乔纳森·考泽尔为父亲哈里·考泽尔写下的回忆录。哈里是一位在哈佛大学教学医院任职多年的神经病学家,一九九四年确诊阿尔茨海默病,两年后因摔倒导致认知断崖式下跌,被送进疗养院,二〇〇八年去世。乔纳森以儿子的身份,用十四年的观察与思考,记录父亲从察觉症状、自我诊断、正式确诊,到一步步被偷走记忆的全过程。书中同时回溯三代犹太移民从乌克兰村庄到波士顿的家庭史,穿插父亲与剧作家尤金·奥尼尔之间跨越生死的医患关系,以及一个儿子在距离、愧疚与陪伴中慢慢读懂父亲的过程。这本书不只是一份私人悼词,更是一面镜子,照出每一个家庭都可能面对的告别。</description>
+      <pubDate>Thu, 08 Oct 2026 08:59:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-161b9c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《别成为陌生人》是美国作家乔纳森·考泽尔为父亲哈里·考泽尔写下的回忆录。哈里是一位在哈佛大学教学医院任职多年的神经病学家,一九九四年确诊阿尔茨海默病,两年后因摔倒导致认知断崖式下跌,被送进疗养院,二〇〇八年去世。乔纳森以儿子的身份,用十四年的观察与思考,记录父亲从察觉症状、自我诊断、正式确诊,到一步步被偷走记忆的全过程。书中同时回溯三代犹太移民从乌克兰村庄到波士顿的家庭史,穿插父亲与剧作家尤金·奥尼尔之间跨越生死的医患关系,以及一个儿子在距离、愧疚与陪伴中慢慢读懂父亲的过程。这本书不只是一份私人悼词,更是一面镜子,照出每一个家庭都可能面对的告别。</itunes:summary>
+      <itunes:duration>00:35:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-161b9c.mp3" length="33609261" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
