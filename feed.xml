@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 10:17:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 10:23:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28903,6 +28903,17 @@
       <itunes:duration>00:31:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-87d3eb.mp3" length="30353325" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《城邦暴力团（上）》 · 完整版 · 城邦暴力团（上） · 完整讲读</title>
+      <description>《城邦暴力团》是台湾作家张大春写于二十一世纪初的伪编年史巨著，约八十余万字，以伪注释与伪史料的笔法，把家族秘史、江湖掌故、政治暗桩、台湾戒严时代的黑帮与情治共生关系全部揉进一部虚实莫辨的小说。本卷围绕一把编号十六的【阿鼻轮剑】、一阕十七年前流传下来的艳词字谜、一只在新娘与我里反复出现四次的戒指、以及一张从瀑布里面往外拍的照片展开，揭开漕帮重整、竹联孝堂、安全局、警备总部之间的共生网络。本书最核心的一句话是：虚构与真实之间，从来就没有一条真正的直线——直线是人的发明，而且是不自然的。它教我们如何从一个无法理解的图像里辨认出一个非常微小的细节，并承认：那个细节本身就是整个世界的入口。</description>
+      <pubDate>Thu, 08 Oct 2026 10:23:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-b3ccac</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《城邦暴力团》是台湾作家张大春写于二十一世纪初的伪编年史巨著，约八十余万字，以伪注释与伪史料的笔法，把家族秘史、江湖掌故、政治暗桩、台湾戒严时代的黑帮与情治共生关系全部揉进一部虚实莫辨的小说。本卷围绕一把编号十六的【阿鼻轮剑】、一阕十七年前流传下来的艳词字谜、一只在新娘与我里反复出现四次的戒指、以及一张从瀑布里面往外拍的照片展开，揭开漕帮重整、竹联孝堂、安全局、警备总部之间的共生网络。本书最核心的一句话是：虚构与真实之间，从来就没有一条真正的直线——直线是人的发明，而且是不自然的。它教我们如何从一个无法理解的图像里辨认出一个非常微小的细节，并承认：那个细节本身就是整个世界的入口。</itunes:summary>
+      <itunes:duration>00:18:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-b3ccac.mp3" length="17503149" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
