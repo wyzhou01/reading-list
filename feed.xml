@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 03:50:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 03:59:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28606,6 +28606,17 @@
       <itunes:duration>00:23:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-1be23a.mp3" length="22477101" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《冯国璋：北洋时期最有争议的总统》 · 完整版 · 冯国璋：北洋时期最有争议的总统 · 完整讲读</title>
+      <description>《冯国璋：北洋时期最有争议的总统》是韩仲义所著的直系军阀系列长篇第一部，以史实为依据，用小说的笔法，完整再现了冯国璋从愤然从军、辅佐袁世凯、编练新军、反对帝制、出任副总统、代理大总统、与段祺瑞明争暗斗、坎坷南巡直至病逝的政治命运，并与他和发妻吴氏、继室周砥之间的家庭聚散和情感世界交织在一起。既写了一个人在乱世中的野心与挣扎，也折射出一个时代在帝制崩塌、护国战争、南北分裂中的撕裂与阵痛。一百多年后重读这本书，不只是为了记住一个北洋总统，更是为了理解个人野心、民族自尊与家国情怀之间，那场至今没有停歇的撕扯。</description>
+      <pubDate>Thu, 08 Oct 2026 03:59:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-6c5140</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《冯国璋：北洋时期最有争议的总统》是韩仲义所著的直系军阀系列长篇第一部，以史实为依据，用小说的笔法，完整再现了冯国璋从愤然从军、辅佐袁世凯、编练新军、反对帝制、出任副总统、代理大总统、与段祺瑞明争暗斗、坎坷南巡直至病逝的政治命运，并与他和发妻吴氏、继室周砥之间的家庭聚散和情感世界交织在一起。既写了一个人在乱世中的野心与挣扎，也折射出一个时代在帝制崩塌、护国战争、南北分裂中的撕裂与阵痛。一百多年后重读这本书，不只是为了记住一个北洋总统，更是为了理解个人野心、民族自尊与家国情怀之间，那场至今没有停歇的撕扯。</itunes:summary>
+      <itunes:duration>00:30:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-6c5140.mp3" length="29223981" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
