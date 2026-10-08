@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 03:17:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 03:26:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28562,6 +28562,17 @@
       <itunes:duration>00:24:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-69adeb.mp3" length="23651373" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《冰激凌家族》 · 完整版 · 冰激凌家族 · 完整讲读</title>
+      <description>《冰激凌家族》是荷兰籍意大利裔诗人伊万诺·塔尔米尼尼写下的非虚构家族史诗。从一八八一年太爷爷在阿尔卑斯山麓第一次听说冰激凌，到父亲在八十岁生日前夕对伦敦奥运会上八十三公斤链球女运动员贝蒂·海德勒一见钟情，再到弟弟卢卡独自守着鹿特丹的老店，作者把三代意大利移民在欧洲寻找归属感的一百年，缝进了私人记忆、口述史与诗意散文里。全书没有停留在怀旧，而是用幽默、温情与罕见的诚实，写出了这个家族最深的秘密——他们做出了世界上最好吃的冰激凌，却一辈子没说出那三个字。</description>
+      <pubDate>Thu, 08 Oct 2026 03:26:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-b11ee4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《冰激凌家族》是荷兰籍意大利裔诗人伊万诺·塔尔米尼尼写下的非虚构家族史诗。从一八八一年太爷爷在阿尔卑斯山麓第一次听说冰激凌，到父亲在八十岁生日前夕对伦敦奥运会上八十三公斤链球女运动员贝蒂·海德勒一见钟情，再到弟弟卢卡独自守着鹿特丹的老店，作者把三代意大利移民在欧洲寻找归属感的一百年，缝进了私人记忆、口述史与诗意散文里。全书没有停留在怀旧，而是用幽默、温情与罕见的诚实，写出了这个家族最深的秘密——他们做出了世界上最好吃的冰激凌，却一辈子没说出那三个字。</itunes:summary>
+      <itunes:duration>00:39:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-b11ee4.mp3" length="38308269" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
