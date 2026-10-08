@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 04:28:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 04:36:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28650,6 +28650,17 @@
       <itunes:duration>00:28:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-c1733a.mp3" length="27206061" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《风声鹤唳》 · 完整版 · 风声鹤唳_-_林语堂 · 完整讲读</title>
+      <description>《风声鹤唳》是林语堂用英文写就的抗战长篇,一九四一年在美国出版,中文译名《风声鹤唳》。小说以北平沦陷后的一九三七年为背景,讲述富家子弟姚博雅、落魄奇人老彭、富太太丹妮三人在战争中的精神觉醒。博雅从地图战略的旁观者,走向战场舍身救人;老彭倾家荡产救助难民,成为乱世中慈悲的化身;丹妮则在丈夫战死后,继承姚家财富,把难民屋办成了真正的庇护。林语堂借三人之口追问:面对巨大苦难,人如何成为人?他的答案刻在博雅的墓碑上——为友舍命,人间大爱莫过于斯。这部作品既是抗战叙事,也是一次关于信仰、爱情与行动的深沉追问。</description>
+      <pubDate>Thu, 08 Oct 2026 04:36:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-62f223</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《风声鹤唳》是林语堂用英文写就的抗战长篇,一九四一年在美国出版,中文译名《风声鹤唳》。小说以北平沦陷后的一九三七年为背景,讲述富家子弟姚博雅、落魄奇人老彭、富太太丹妮三人在战争中的精神觉醒。博雅从地图战略的旁观者,走向战场舍身救人;老彭倾家荡产救助难民,成为乱世中慈悲的化身;丹妮则在丈夫战死后,继承姚家财富,把难民屋办成了真正的庇护。林语堂借三人之口追问:面对巨大苦难,人如何成为人?他的答案刻在博雅的墓碑上——为友舍命,人间大爱莫过于斯。这部作品既是抗战叙事,也是一次关于信仰、爱情与行动的深沉追问。</itunes:summary>
+      <itunes:duration>00:23:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-62f223.mp3" length="22940973" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
