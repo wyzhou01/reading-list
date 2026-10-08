@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 19:14:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 19:27:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29355,6 +29355,17 @@
       <itunes:duration>00:30:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-3c814e.mp3" length="28958637" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《悬崖》 · 完整版 · 冈察洛夫集(03)悬崖 · 完整讲读</title>
+      <description>《悬崖》是俄国作家冈察洛夫的第三部长篇小说，描写地主少爷赖斯基从彼得堡回到伏尔加河畔庄园后，在祖母、表妹玛尔芬卡和韦拉三位女性之间寻找人生意义的故事。小说通过赖斯基对艺术的追求、对爱情的迷惘，展现了十九世纪中叶俄国社会传统与现代的激烈碰撞。三位女性形象分别代表了不同的生活道路：祖母守护传统、玛尔芬卡安于平凡、韦拉追求自由却又经历了从幻灭到清醒的精神成长。冈察洛夫以细腻的笔触刻画人物内心，借&quot;悬崖&quot;这一意象隐喻人生的关键抉择时刻，探讨了个人成长、传统继承与精神觉醒等永恒命题。</description>
+      <pubDate>Thu, 08 Oct 2026 19:27:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-9f7101</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《悬崖》是俄国作家冈察洛夫的第三部长篇小说，描写地主少爷赖斯基从彼得堡回到伏尔加河畔庄园后，在祖母、表妹玛尔芬卡和韦拉三位女性之间寻找人生意义的故事。小说通过赖斯基对艺术的追求、对爱情的迷惘，展现了十九世纪中叶俄国社会传统与现代的激烈碰撞。三位女性形象分别代表了不同的生活道路：祖母守护传统、玛尔芬卡安于平凡、韦拉追求自由却又经历了从幻灭到清醒的精神成长。冈察洛夫以细腻的笔触刻画人物内心，借&quot;悬崖&quot;这一意象隐喻人生的关键抉择时刻，探讨了个人成长、传统继承与精神觉醒等永恒命题。</itunes:summary>
+      <itunes:duration>00:15:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-9f7101.mp3" length="14658093" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
