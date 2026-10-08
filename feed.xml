@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 09:42:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 09:51:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28848,6 +28848,17 @@
       <itunes:duration>00:30:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-111ab2.mp3" length="29737005" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《瓦尔登湖》 · 完整版 · 瓦尔登湖_(译文名著精选) · 完整讲读</title>
+      <description>《瓦尔登湖》是美国作家梭罗·亨利·戴维在瓦尔登湖边独居两年两个月后写下的经典之作。这本书表面是一本自然散文集，实际上是一份关于【如何真正活过】的人生答案。梭罗用自己亲手盖木屋、亲手种豆的生活，向被工业社会的喧嚣裹挟的现代人，提出三个世纪的叩问：我们究竟在为什么而忙？我们究竟在为什么而活？我们究竟有没有真正醒过？他主张，外在的简朴、内在的觉醒、定期的孤独、与自然的对话，是一个人从【平静的绝望】里走出来、走向真正清醒生活的四条路。一百八十年过去了，这本书给今天这个更卷、更快、更焦虑的时代，提供了一个安静的、可以走进去喘口气的地方。</description>
+      <pubDate>Thu, 08 Oct 2026 09:51:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-dec881</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《瓦尔登湖》是美国作家梭罗·亨利·戴维在瓦尔登湖边独居两年两个月后写下的经典之作。这本书表面是一本自然散文集，实际上是一份关于【如何真正活过】的人生答案。梭罗用自己亲手盖木屋、亲手种豆的生活，向被工业社会的喧嚣裹挟的现代人，提出三个世纪的叩问：我们究竟在为什么而忙？我们究竟在为什么而活？我们究竟有没有真正醒过？他主张，外在的简朴、内在的觉醒、定期的孤独、与自然的对话，是一个人从【平静的绝望】里走出来、走向真正清醒生活的四条路。一百八十年过去了，这本书给今天这个更卷、更快、更焦虑的时代，提供了一个安静的、可以走进去喘口气的地方。</itunes:summary>
+      <itunes:duration>00:28:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-dec881.mp3" length="27701805" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
