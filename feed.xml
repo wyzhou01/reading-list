@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 09:34:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 09:42:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28837,6 +28837,17 @@
       <itunes:duration>00:35:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-d02f46.mp3" length="33891885" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《简易经》 · 完整版 · 简易经 · 完整讲读</title>
+      <description>《简易经》是作者谷园先生写给普通读者的诚意之作，把《易经》从神秘化的算命古籍还原为一部人生方法论。作者主张简易哲学——从音符、从字母、从最基础的1加1等于2这样的源头去理解复杂人生。全书以乾卦的龙的奋斗开篇，以坤卦的大地启示接续，串联起屯卦的万事开头难、蒙卦的教育目的、需卦的等待、讼卦的先小人后君子等六十四卦事理，把修身、处世、做事、领导、决策、应变六大人生功课一一对应到卦象之中，揭示出《易经》作为中国式励志总源头的精神底色：天行健，君子以自强不息；地势坤，君子以厚德载物。</description>
+      <pubDate>Thu, 08 Oct 2026 09:42:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-111ab2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《简易经》是作者谷园先生写给普通读者的诚意之作，把《易经》从神秘化的算命古籍还原为一部人生方法论。作者主张简易哲学——从音符、从字母、从最基础的1加1等于2这样的源头去理解复杂人生。全书以乾卦的龙的奋斗开篇，以坤卦的大地启示接续，串联起屯卦的万事开头难、蒙卦的教育目的、需卦的等待、讼卦的先小人后君子等六十四卦事理，把修身、处世、做事、领导、决策、应变六大人生功课一一对应到卦象之中，揭示出《易经》作为中国式励志总源头的精神底色：天行健，君子以自强不息；地势坤，君子以厚德载物。</itunes:summary>
+      <itunes:duration>00:30:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-111ab2.mp3" length="29737005" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
