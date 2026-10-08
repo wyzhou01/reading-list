@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 11:09:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 11:15:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28980,6 +28980,17 @@
       <itunes:duration>00:31:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-892f1e.mp3" length="30551469" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《震度0》 · 完整版 · 震度0 · 完整讲读</title>
+      <description>《震度0》是横山秀夫以一九九五年阪神大地震为背景写就的警察小说。地震当日凌晨，六百公里外的N县警本部警务课长不破义仁离奇失踪。本部长椎野、警务部长冬木、警备部长堀川三位干部，在救灾与盘算人事的拉扯中，逐渐暴露出各自的欲望、疲惫与隐秘。横山秀夫用震度0的隐喻，揭开警察体制内部的派系倾轧，也照见每一个中年人在崩塌时刻的沉默与挣扎。不破的缺席，比他的在场更重；那些无声的电话、空缺的位子、无法再装进皮囊里的心事，才是真正久久不散的余震。</description>
+      <pubDate>Thu, 08 Oct 2026 11:15:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-f808cf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《震度0》是横山秀夫以一九九五年阪神大地震为背景写就的警察小说。地震当日凌晨，六百公里外的N县警本部警务课长不破义仁离奇失踪。本部长椎野、警务部长冬木、警备部长堀川三位干部，在救灾与盘算人事的拉扯中，逐渐暴露出各自的欲望、疲惫与隐秘。横山秀夫用震度0的隐喻，揭开警察体制内部的派系倾轧，也照见每一个中年人在崩塌时刻的沉默与挣扎。不破的缺席，比他的在场更重；那些无声的电话、空缺的位子、无法再装进皮囊里的心事，才是真正久久不散的余震。</itunes:summary>
+      <itunes:duration>00:23:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-f808cf.mp3" length="22402989" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
