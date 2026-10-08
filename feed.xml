@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 07 Oct 2026 23:54:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 00:01:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28325,6 +28325,17 @@
       <itunes:duration>00:29:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-71addb.mp3" length="28254381" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《哈尔罗杰历险记：闯入食人国》 · 完整版 · 哈尔罗杰历险记”套书14本_-_（美）威勒德普赖斯_著；_陈晓莉，骆行健，杨伟娴等_译 · 完整讲读</title>
+      <description>《哈尔罗杰历险记》是二十世纪美国作家威勒德·普赖斯写给少年的硬核科普冒险系列，共十四本，跨越非洲、南极、亚马孙、海底火山等真实场景。本期节目解读开篇《闯入食人国》，拆解这套书给少年的六块成长拼图：系统化的兄弟配合、用智慧改写对手规则的脑回路、见过恐惧足够多次后形成的本能直觉、在动手前先听懂对方恐惧的双重翻译能力、站在两个领域交界处的生态位创新、以及祛魅之后重新赋魅的共情能力。一本七十年前的少年冒险书，今天依然能教人怎么蹲下来，看世界站起来回望你。</description>
+      <pubDate>Thu, 08 Oct 2026 00:01:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-5b111b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《哈尔罗杰历险记》是二十世纪美国作家威勒德·普赖斯写给少年的硬核科普冒险系列，共十四本，跨越非洲、南极、亚马孙、海底火山等真实场景。本期节目解读开篇《闯入食人国》，拆解这套书给少年的六块成长拼图：系统化的兄弟配合、用智慧改写对手规则的脑回路、见过恐惧足够多次后形成的本能直觉、在动手前先听懂对方恐惧的双重翻译能力、站在两个领域交界处的生态位创新、以及祛魅之后重新赋魅的共情能力。一本七十年前的少年冒险书，今天依然能教人怎么蹲下来，看世界站起来回望你。</itunes:summary>
+      <itunes:duration>00:21:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-5b111b.mp3" length="21007149" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
