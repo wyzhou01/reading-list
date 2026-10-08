@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 08:30:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 08:39:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28738,6 +28738,17 @@
       <itunes:duration>00:28:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-0b29aa.mp3" length="27189165" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《九州·雪焚城》 · 完整版 · 九州·雪焚城v1.0_-_帕帕安 · 完整讲读</title>
+      <description>《九州·雪焚城》是帕帕安二零零九年至二零一零年前后创作于清韵论坛的九州系列长篇小说。作品以葵花时代辰月教权倾朝野、诸侯被屠戮的乱世为背景,讲述天罗山堂刺客顾小闲与辰月教白衣教长原映雪在敌对阵营间相知相恋、最终双双殒命于焚城大火的凄婉故事。全书以刺客的视角切入,通过权力、宗教、身份、爱情、记忆五重绞杀,呈现出九州世界里最锋利也最悲悯的一面,是九州书迷心中公认的虐文巅峰之作。</description>
+      <pubDate>Thu, 08 Oct 2026 08:39:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-0917bc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《九州·雪焚城》是帕帕安二零零九年至二零一零年前后创作于清韵论坛的九州系列长篇小说。作品以葵花时代辰月教权倾朝野、诸侯被屠戮的乱世为背景,讲述天罗山堂刺客顾小闲与辰月教白衣教长原映雪在敌对阵营间相知相恋、最终双双殒命于焚城大火的凄婉故事。全书以刺客的视角切入,通过权力、宗教、身份、爱情、记忆五重绞杀,呈现出九州世界里最锋利也最悲悯的一面,是九州书迷心中公认的虐文巅峰之作。</itunes:summary>
+      <itunes:duration>00:28:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-0917bc.mp3" length="27121581" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
