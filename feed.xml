@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 04:36:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 04:42:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28661,6 +28661,17 @@
       <itunes:duration>00:23:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-62f223.mp3" length="22940973" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《英国史（全3卷）》 · 完整版 · 英国史（全3卷） · 完整讲读</title>
+      <description>《英国史（全3卷）》是西蒙·沙玛面向公众写就的三卷本英国通史。本书以帝国扩张为贯穿红线，反对辉格史观把英国史写成民主必然胜利的进步叙事，主张真实历史画卷是断裂、暴力、偶然与变革的产物。沙玛一方面重新引入被殖民者视角，把英国史从伦敦中心叙述里解放出来；另一方面强调所谓大不列颠从来不是铁板一块，而是英格兰、苏格兰、威尔士、爱尔兰反复磨合、反复失败的产物。读这套书，不在答案，在重新提问的能力；不在历史知识，在如何用『假如』这个词看世界——理解英国，是为了理解今天的中国与今天的世界。</description>
+      <pubDate>Thu, 08 Oct 2026 04:42:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-1bd064</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《英国史（全3卷）》是西蒙·沙玛面向公众写就的三卷本英国通史。本书以帝国扩张为贯穿红线，反对辉格史观把英国史写成民主必然胜利的进步叙事，主张真实历史画卷是断裂、暴力、偶然与变革的产物。沙玛一方面重新引入被殖民者视角，把英国史从伦敦中心叙述里解放出来；另一方面强调所谓大不列颠从来不是铁板一块，而是英格兰、苏格兰、威尔士、爱尔兰反复磨合、反复失败的产物。读这套书，不在答案，在重新提问的能力；不在历史知识，在如何用『假如』这个词看世界——理解英国，是为了理解今天的中国与今天的世界。</itunes:summary>
+      <itunes:duration>00:25:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-1bd064.mp3" length="24450477" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
