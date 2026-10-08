@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 12:35:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 12:44:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29112,6 +29112,17 @@
       <itunes:duration>00:33:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-a6dc5f.mp3" length="31802157" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《铁鼠之槛（下）》 · 完整版 · 铁鼠之槛（下） · 完整讲读</title>
+      <description>京极夏彦&quot;百鬼夜行&quot;系列之一。围绕禅宗寺院接连发生的离奇命案，以禅宗公案、唯识学、临济·曹洞宗派之争为底色，铺陈一场关于&quot;开悟&quot;与&quot;槛中困境&quot;的精神迷宫。叙述者关口在禅堂内外目睹僧侣与刑警的紧张对峙，京极堂以阴阳师之姿介入，榎木津、鸟口、敦子齐聚古刹仙石楼，最终揭开与&quot;铁鼠&quot;——即偷空佛法的伪禅——这一禅宗公案意象紧密缠绕的血腥真相。</description>
+      <pubDate>Thu, 08 Oct 2026 12:44:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-1c8f14</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>京极夏彦&quot;百鬼夜行&quot;系列之一。围绕禅宗寺院接连发生的离奇命案，以禅宗公案、唯识学、临济·曹洞宗派之争为底色，铺陈一场关于&quot;开悟&quot;与&quot;槛中困境&quot;的精神迷宫。叙述者关口在禅堂内外目睹僧侣与刑警的紧张对峙，京极堂以阴阳师之姿介入，榎木津、鸟口、敦子齐聚古刹仙石楼，最终揭开与&quot;铁鼠&quot;——即偷空佛法的伪禅——这一禅宗公案意象紧密缠绕的血腥真相。</itunes:summary>
+      <itunes:duration>00:32:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-1c8f14.mp3" length="30759981" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
