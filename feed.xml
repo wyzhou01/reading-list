@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 12:58:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 17:12:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29145,6 +29145,17 @@
       <itunes:duration>00:31:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-3d51a7.mp3" length="30063789" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《印度，漂浮的次大陆》 · 完整版 · 印度，漂浮的次大陆-郭建龙 · 完整讲读</title>
+      <description>《印度,漂浮的次大陆》是郭建龙用两个月时间环游印度七十座城市后写下的旅行历史著作。书中指出,印度次大陆在地理上几乎是封闭的飞地,却在历史上成为遭受外来入侵与文化融合最频繁的地区之一。作者沿四条古老通道——开伯尔山口的征服之路、东南海岸的贸易之路、喜马拉雅南麓的佛教之路、东北密林的丛林之路——把印度河文明、雅利安人、佛陀与孔雀帝国、伊斯兰王朝、殖民地与今天的现代印度串成一张大地图。书中反复追问:一个不断被外来者进入的文明,为何始终保留着自己的面孔?答案是印度用吸收代替抵抗,用区域分工代替单一中心,用容忍多元代替追求稳定。这本书打破了对印度的单一想象,既不把它当作古老文明的博物馆,也不只当作高速发展的经济体,而是呈现出一个复杂、矛盾、充满韧性的现代国家。</description>
+      <pubDate>Thu, 08 Oct 2026 17:12:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-dd4f82</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《印度,漂浮的次大陆》是郭建龙用两个月时间环游印度七十座城市后写下的旅行历史著作。书中指出,印度次大陆在地理上几乎是封闭的飞地,却在历史上成为遭受外来入侵与文化融合最频繁的地区之一。作者沿四条古老通道——开伯尔山口的征服之路、东南海岸的贸易之路、喜马拉雅南麓的佛教之路、东北密林的丛林之路——把印度河文明、雅利安人、佛陀与孔雀帝国、伊斯兰王朝、殖民地与今天的现代印度串成一张大地图。书中反复追问:一个不断被外来者进入的文明,为何始终保留着自己的面孔?答案是印度用吸收代替抵抗,用区域分工代替单一中心,用容忍多元代替追求稳定。这本书打破了对印度的单一想象,既不把它当作古老文明的博物馆,也不只当作高速发展的经济体,而是呈现出一个复杂、矛盾、充满韧性的现代国家。</itunes:summary>
+      <itunes:duration>00:20:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-dd4f82.mp3" length="19873965" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
