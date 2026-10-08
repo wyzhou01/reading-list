@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 08:09:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 08:22:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28716,6 +28716,17 @@
       <itunes:duration>00:29:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-4deb83.mp3" length="28175277" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《阿尔法的迷宫》 · 完整版 · 阿尔法的迷宫_-_王稼骏 · 完整讲读</title>
+      <description>《阿尔法的迷宫》是王稼骏的科幻推理长篇。花提港在一场台风中整座消失，仅有童平与麦晴两名少年幸存。昏迷的童平被接入阿尔法虚拟世界，科学家借由他的脑电波追查真相，却发现他在迷宫中反复回到童年那场灯塔捉迷藏。铁鱼、企鹅、草莓三个少年的友谊与背叛，被层层嵌套在虚拟与现实之间，最终被仪器读出的不是案件答案，而是一句草莓我爱你。</description>
+      <pubDate>Thu, 08 Oct 2026 08:22:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-06364e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《阿尔法的迷宫》是王稼骏的科幻推理长篇。花提港在一场台风中整座消失，仅有童平与麦晴两名少年幸存。昏迷的童平被接入阿尔法虚拟世界，科学家借由他的脑电波追查真相，却发现他在迷宫中反复回到童年那场灯塔捉迷藏。铁鱼、企鹅、草莓三个少年的友谊与背叛，被层层嵌套在虚拟与现实之间，最终被仪器读出的不是案件答案，而是一句草莓我爱你。</itunes:summary>
+      <itunes:duration>00:21:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-06364e.mp3" length="20823213" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
