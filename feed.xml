@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 18:41:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 18:46:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29300,6 +29300,17 @@
       <itunes:duration>00:20:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-32edcc.mp3" length="19924653" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《夜雨秋灯录》 · 完整版 · 夜雨秋灯录(简体版)_(BookDNA中国古典丛书) · 完整讲读</title>
+      <description>《夜雨秋灯录》是清代落拓文人宣鼎在咸丰同治年间写成的笔记小说集，分三卷及附录，篇目逾百。它远追《搜神》《述异》，近承《聊斋》，却以晚清市井烟火为底色，写鬼狐花妖而不止怪力乱神，写风月烟粉而不止才子佳人。每一篇末尾的懊侬氏评点，借鬼事写人情，借幽冥照见阳世悲欢。全书以六大拼图构成——市井众生实录、借鬼狐写人情的道德天平、市井烟粉的女性群像、乱世侠义精神、因果报应的命运之网、以小说度人的佛心。在太平天国战火与列强叩关的乱世里，宣鼎用一百多个秋雨打窗、孤灯摇影的瞬间，为普通人在最坏的时代里留下了最真的慈悲。一百多年过去，这部书依然是每一个秋雨之夜最值得一读的枕边书。</description>
+      <pubDate>Thu, 08 Oct 2026 18:46:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-8fb8c5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《夜雨秋灯录》是清代落拓文人宣鼎在咸丰同治年间写成的笔记小说集，分三卷及附录，篇目逾百。它远追《搜神》《述异》，近承《聊斋》，却以晚清市井烟火为底色，写鬼狐花妖而不止怪力乱神，写风月烟粉而不止才子佳人。每一篇末尾的懊侬氏评点，借鬼事写人情，借幽冥照见阳世悲欢。全书以六大拼图构成——市井众生实录、借鬼狐写人情的道德天平、市井烟粉的女性群像、乱世侠义精神、因果报应的命运之网、以小说度人的佛心。在太平天国战火与列强叩关的乱世里，宣鼎用一百多个秋雨打窗、孤灯摇影的瞬间，为普通人在最坏的时代里留下了最真的慈悲。一百多年过去，这部书依然是每一个秋雨之夜最值得一读的枕边书。</itunes:summary>
+      <itunes:duration>00:25:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-8fb8c5.mp3" length="24571053" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
