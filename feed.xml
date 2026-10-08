@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 18:35:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 18:41:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29289,6 +29289,17 @@
       <itunes:duration>00:27:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-0183b5.mp3" length="26139309" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《品牌洗脑（珍藏版）》 · 完整版 · 品牌洗脑（珍藏版）(1) · 完整讲读</title>
+      <description>《品牌洗脑》是全球顶尖营销专家马丁·林斯特龙的代表作，被视为万斯·帕卡德《隐形的说客》的当代升级版。书中拆解了十大洗脑策略：娘胎期品牌植入、恐惧营销、成瘾机制、性暗示、同侪压力、怀旧操控、名气幻觉、健康伪科学、隐私追踪，以及口碑病毒。林斯特龙亲自实验【品牌戒毒】六个月后破功，承认自己也被彻底洗脑。出版于2008年金融危机之后，揭示了数据追踪、神经科学、社交媒体如何把营销武器库推向全新维度。这本书不会让你停止购物，但它会训练你成为一个更精明、更清醒的买家——让你在每一次刷卡前，多出半秒钟的自由。</description>
+      <pubDate>Thu, 08 Oct 2026 18:40:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-32edcc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《品牌洗脑》是全球顶尖营销专家马丁·林斯特龙的代表作，被视为万斯·帕卡德《隐形的说客》的当代升级版。书中拆解了十大洗脑策略：娘胎期品牌植入、恐惧营销、成瘾机制、性暗示、同侪压力、怀旧操控、名气幻觉、健康伪科学、隐私追踪，以及口碑病毒。林斯特龙亲自实验【品牌戒毒】六个月后破功，承认自己也被彻底洗脑。出版于2008年金融危机之后，揭示了数据追踪、神经科学、社交媒体如何把营销武器库推向全新维度。这本书不会让你停止购物，但它会训练你成为一个更精明、更清醒的买家——让你在每一次刷卡前，多出半秒钟的自由。</itunes:summary>
+      <itunes:duration>00:20:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-32edcc.mp3" length="19924653" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
