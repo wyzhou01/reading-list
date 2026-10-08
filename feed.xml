@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 19:27:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 19:33:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29366,6 +29366,17 @@
       <itunes:duration>00:15:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-9f7101.mp3" length="14658093" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《地铁姑娘扎姬》 · 完整版 · 地铁姑娘扎姬 · 完整讲读</title>
+      <description>法国存在主义作家雷蒙·格诺的荒诞小说。巴黎地铁罢工当天，舅舅加布里埃尔在火车站接走八岁的外甥女扎姬，二人与出租车司机夏尔一起穿越看似熟悉实则错位的巴黎。从辨认地标、先贤祠、残废军人院、香烟店开始，整座城市陷入一场现实的崩塌：街区名字错乱、建筑张冠李戴、街道方向颠倒，真实与虚构的边界彻底瓦解。最终在一场夜间的枪战中，神秘的亲王阿隆·阿拉西特现身，一切混乱戛然而止。扎姬始终心心念念的只有一个愿望——坐地铁。</description>
+      <pubDate>Thu, 08 Oct 2026 19:33:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-e0bb53</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>法国存在主义作家雷蒙·格诺的荒诞小说。巴黎地铁罢工当天，舅舅加布里埃尔在火车站接走八岁的外甥女扎姬，二人与出租车司机夏尔一起穿越看似熟悉实则错位的巴黎。从辨认地标、先贤祠、残废军人院、香烟店开始，整座城市陷入一场现实的崩塌：街区名字错乱、建筑张冠李戴、街道方向颠倒，真实与虚构的边界彻底瓦解。最终在一场夜间的枪战中，神秘的亲王阿隆·阿拉西特现身，一切混乱戛然而止。扎姬始终心心念念的只有一个愿望——坐地铁。</itunes:summary>
+      <itunes:duration>00:29:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-e0bb53.mp3" length="28320813" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
