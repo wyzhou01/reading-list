@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 12:44:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 12:50:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29123,6 +29123,17 @@
       <itunes:duration>00:32:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-1c8f14.mp3" length="30759981" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《令人着迷的岛屿》 · 完整版 · 令人着迷的岛屿 · 完整讲读</title>
+      <description>《令人着迷的岛屿》是陈丹燕在爱尔兰海岸线上写下的文化沉思。她以凯尔特文化的边缘气质为镜，反观中国传统的断裂与重建。书中六个核心拼图共同回答了一个问题：被殖民七百年的爱尔兰，失去了母语，却为何仍能让全世界着迷？因为他们守住了曲调、守住了水边的活物、守住了原乡的雪。这本书献给每一个丢失或正在丢失传统的民族——传统不是博物馆里的标本，是酒馆里被人相信的旧旋律。</description>
+      <pubDate>Thu, 08 Oct 2026 12:49:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-554b9b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《令人着迷的岛屿》是陈丹燕在爱尔兰海岸线上写下的文化沉思。她以凯尔特文化的边缘气质为镜，反观中国传统的断裂与重建。书中六个核心拼图共同回答了一个问题：被殖民七百年的爱尔兰，失去了母语，却为何仍能让全世界着迷？因为他们守住了曲调、守住了水边的活物、守住了原乡的雪。这本书献给每一个丢失或正在丢失传统的民族——传统不是博物馆里的标本，是酒馆里被人相信的旧旋律。</itunes:summary>
+      <itunes:duration>00:26:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-554b9b.mp3" length="25066413" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
