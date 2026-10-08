@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 03:09:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 03:17:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28551,6 +28551,17 @@
       <itunes:duration>00:27:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-5929ce.mp3" length="26669997" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《翻译官（影视纪念珍藏版）》 · 完整版 · 翻译官（影视纪念珍藏版） · 完整讲读</title>
+      <description>《翻译官》是缪娟创作的长篇小说，讲述法语系穷学生乔菲与外交学院传奇学长程家阳在偏见与家族重压下相爱相守的故事。乔菲靠夜总会兼职养活自己，偶然撞见在高翻局实习的程家阳，两人因中法贸易促进会结缘。一个在泥里开出的花，一个在云端养大的鹤，阶层差距让这段感情注定不被祝福。同名电视剧二零一六年热播，江苏凤凰文艺出版社推出影视纪念珍藏版。本书借翻译官这一职业的外壳，写出了身份差距中的爱情、翻译行业的高压与孤独，以及中国式家庭里父母以爱之名的阻挠与守护。</description>
+      <pubDate>Thu, 08 Oct 2026 03:16:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-69adeb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《翻译官》是缪娟创作的长篇小说，讲述法语系穷学生乔菲与外交学院传奇学长程家阳在偏见与家族重压下相爱相守的故事。乔菲靠夜总会兼职养活自己，偶然撞见在高翻局实习的程家阳，两人因中法贸易促进会结缘。一个在泥里开出的花，一个在云端养大的鹤，阶层差距让这段感情注定不被祝福。同名电视剧二零一六年热播，江苏凤凰文艺出版社推出影视纪念珍藏版。本书借翻译官这一职业的外壳，写出了身份差距中的爱情、翻译行业的高压与孤独，以及中国式家庭里父母以爱之名的阻挠与守护。</itunes:summary>
+      <itunes:duration>00:24:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-69adeb.mp3" length="23651373" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
