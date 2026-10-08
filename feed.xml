@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 02:16:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 02:25:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28494,6 +28494,17 @@
       <itunes:duration>00:35:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-9792fa.mp3" length="34340397" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大家小书：三国史话（精）》 · 完整版 · 大家小书：三国史话（精） · 完整讲读</title>
+      <description>《三国史话》是史学大家吕思勉一九四三年写就的通俗史话，用正史为《三国演义》祛魅。本书涵盖七个核心洞察：曹操崛起的真实过程、赤壁之战的真相、刘备取益州与孙权取荆州的来龙去脉、为魏武帝和魏延辩诬的史实、从曹操到司马懿的权力演变、姜维与钟会的故事、孙吴定都南京的地理解读。吕先生早在一九五零年代全国性曹操翻案讨论前十多年就提出辩证看待曹操的观点，至今仍是学界主流。这部小中见大的典范之作，不仅还原了真实的三国图景，更传递出求真求实、辩证审慎的治学态度。</description>
+      <pubDate>Thu, 08 Oct 2026 02:25:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-1cc4b7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《三国史话》是史学大家吕思勉一九四三年写就的通俗史话，用正史为《三国演义》祛魅。本书涵盖七个核心洞察：曹操崛起的真实过程、赤壁之战的真相、刘备取益州与孙权取荆州的来龙去脉、为魏武帝和魏延辩诬的史实、从曹操到司马懿的权力演变、姜维与钟会的故事、孙吴定都南京的地理解读。吕先生早在一九五零年代全国性曹操翻案讨论前十多年就提出辩证看待曹操的观点，至今仍是学界主流。这部小中见大的典范之作，不仅还原了真实的三国图景，更传递出求真求实、辩证审慎的治学态度。</itunes:summary>
+      <itunes:duration>00:31:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-1cc4b7.mp3" length="30658221" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
