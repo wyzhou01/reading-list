@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 03:59:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 04:14:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28617,6 +28617,17 @@
       <itunes:duration>00:30:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-6c5140.mp3" length="29223981" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《畜人蛊》 · 完整版 · 畜人蛊 · 完整讲读</title>
+      <description>《畜人蛊》是夜先生二零一零年出版的悬疑短篇集，以【黑金魔头】系列贯穿——煮婴炼蛊的婴音杯、血精碗、堇瞳冠三件古物串起古董黑市的血腥往事；另有六篇独立短篇剖开当代社会的冷漠、疯狂与道德沦丧。全书以宿命论与人性本恶为底色，反复追问【为什么】却永远得不到【因为】，是一本逼人直视欲望、宿命与时间的暗黑邪典之作。</description>
+      <pubDate>Thu, 08 Oct 2026 04:13:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-ff2a13</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《畜人蛊》是夜先生二零一零年出版的悬疑短篇集，以【黑金魔头】系列贯穿——煮婴炼蛊的婴音杯、血精碗、堇瞳冠三件古物串起古董黑市的血腥往事；另有六篇独立短篇剖开当代社会的冷漠、疯狂与道德沦丧。全书以宿命论与人性本恶为底色，反复追问【为什么】却永远得不到【因为】，是一本逼人直视欲望、宿命与时间的暗黑邪典之作。</itunes:summary>
+      <itunes:duration>00:40:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-ff2a13.mp3" length="38772525" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
