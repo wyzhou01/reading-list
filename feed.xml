@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 10:06:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 10:14:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28881,6 +28881,17 @@
       <itunes:duration>00:29:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-32596a.mp3" length="28393773" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《智谋观止》 · 完整版 · 智谋观止_-_怀旧船长 · 完整讲读</title>
+      <description>《智谋观止》从中国数千年历史中精选二十四位古代顶尖谋士，从商周伊尹、姜尚，到唐宋房玄龄、赵普。作者怀旧船长用通俗笔法拆解他们如何帮老板谋天下，又如何在刀光剑影中保全自己。全书核心观点是：智谋不是天赋，而是可以从前人身上学来的本事。书中把谋士分为两类——功成身退的智者与身遭横祸的牛人，作者明确只向前者学习。读懂二十四位高参，就读懂了中国式智慧的六块拼图：懂人性、懂分寸、懂时势、藏锋、立身、传承。</description>
+      <pubDate>Thu, 08 Oct 2026 10:14:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-8fe877</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《智谋观止》从中国数千年历史中精选二十四位古代顶尖谋士，从商周伊尹、姜尚，到唐宋房玄龄、赵普。作者怀旧船长用通俗笔法拆解他们如何帮老板谋天下，又如何在刀光剑影中保全自己。全书核心观点是：智谋不是天赋，而是可以从前人身上学来的本事。书中把谋士分为两类——功成身退的智者与身遭横祸的牛人，作者明确只向前者学习。读懂二十四位高参，就读懂了中国式智慧的六块拼图：懂人性、懂分寸、懂时势、藏锋、立身、传承。</itunes:summary>
+      <itunes:duration>00:30:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-8fe877.mp3" length="29404461" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
