@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 17:43:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 17:52:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29212,6 +29212,17 @@
       <itunes:duration>00:24:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-e92b07.mp3" length="23143341" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我在底层的生活》 · 完整版 · 我在底层的生活 · 完整讲读</title>
+      <description>一位拥有生物学博士学位的中产阶级白人女作家，在1998-2000年间亲自投身美国底层，亲历佛罗里达州女招待、缅因州清洁工、明尼苏达州销售员三份低薪工作，记录自己如何在没有福利兜底、仅有汽车和安全底线的情况下艰难维持收支平衡。本书不仅是个人体验报告，更是一部关于&apos;有工作的穷人&apos;、贫富分化加剧、社会对贫困视而不见的深度调查与反思。</description>
+      <pubDate>Thu, 08 Oct 2026 17:52:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-7391a4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一位拥有生物学博士学位的中产阶级白人女作家，在1998-2000年间亲自投身美国底层，亲历佛罗里达州女招待、缅因州清洁工、明尼苏达州销售员三份低薪工作，记录自己如何在没有福利兜底、仅有汽车和安全底线的情况下艰难维持收支平衡。本书不仅是个人体验报告，更是一部关于&apos;有工作的穷人&apos;、贫富分化加剧、社会对贫困视而不见的深度调查与反思。</itunes:summary>
+      <itunes:duration>00:35:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-7391a4.mp3" length="34378797" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
