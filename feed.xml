@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 00:01:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 00:09:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28336,6 +28336,17 @@
       <itunes:duration>00:21:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-5b111b.mp3" length="21007149" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《行者玄奘2：万里孤征》 · 完整版 · 行者玄奘2：万里孤征 · 完整讲读</title>
+      <description>《行者玄奘二·万里孤征》是昌如所著的历史小说,接续前作讲述玄奘立志西行的真实历险。贞观元年,玄奘抵达大唐西北最后一座边城瓜州,在这里他遇到了马行老板、瓜州刺史独孤达、偷马胡人石磐陀等关键人物。在禁边令之下,所有人都劝他不要西行,可玄奘依然决意孤身犯险,穿越八百里莫贺延碛。这本书以细腻笔触还原了玄奘如何在绝境中坚守信念、用慈悲打动权势、并最终找到愿意与他同行的伙伴,展现了愿力的力量与人性的光辉。</description>
+      <pubDate>Thu, 08 Oct 2026 00:09:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-29081a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《行者玄奘二·万里孤征》是昌如所著的历史小说,接续前作讲述玄奘立志西行的真实历险。贞观元年,玄奘抵达大唐西北最后一座边城瓜州,在这里他遇到了马行老板、瓜州刺史独孤达、偷马胡人石磐陀等关键人物。在禁边令之下,所有人都劝他不要西行,可玄奘依然决意孤身犯险,穿越八百里莫贺延碛。这本书以细腻笔触还原了玄奘如何在绝境中坚守信念、用慈悲打动权势、并最终找到愿意与他同行的伙伴,展现了愿力的力量与人性的光辉。</itunes:summary>
+      <itunes:duration>00:32:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-29081a.mp3" length="31047213" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
