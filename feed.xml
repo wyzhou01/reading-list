@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 01:40:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 01:49:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28461,6 +28461,17 @@
       <itunes:duration>00:27:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-7caa7c.mp3" length="26661549" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《南怀瑾讲国学》 · 完整版 · 南怀瑾讲国学_(大师讲国学文库) · 完整讲读</title>
+      <description>《南怀瑾讲国学》由季风编著，以南怀瑾先生特有的经史参合式讲解，把儒道佛三家的高深法门拉下神坛。先生借【三玄之学】，讲道家之【顺】、儒家之【礼】、哲学之【变】、修养之【养】、文学之【记】、佛家之【空】六块拼图，引导读者在顺应自然、修身养性、为人处世中体悟国学智慧。全书深入浅出、贴近生活，在碎片化阅读盛行的今天，为读者提供了一套安顿身心的活法。</description>
+      <pubDate>Thu, 08 Oct 2026 01:49:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-7618b5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《南怀瑾讲国学》由季风编著，以南怀瑾先生特有的经史参合式讲解，把儒道佛三家的高深法门拉下神坛。先生借【三玄之学】，讲道家之【顺】、儒家之【礼】、哲学之【变】、修养之【养】、文学之【记】、佛家之【空】六块拼图，引导读者在顺应自然、修身养性、为人处世中体悟国学智慧。全书深入浅出、贴近生活，在碎片化阅读盛行的今天，为读者提供了一套安顿身心的活法。</itunes:summary>
+      <itunes:duration>00:29:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-7618b5.mp3" length="28083885" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
