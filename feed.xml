@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 18:05:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 18:13:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29245,6 +29245,17 @@
       <itunes:duration>00:30:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-8ab228.mp3" length="29566893" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《亲爱的小孩》 · 完整版 · 亲爱的小孩 · 完整讲读</title>
+      <description>露西·狄伦的《亲爱的小孩》以四岁自闭症女孩南希在伦敦街头失踪为引子，展开讲述凯特琳与帕特里克婚姻破裂后的家庭修复、南希从沉默中逐渐走出，以及伊娃面对丧偶与过往秘密的心路历程。小说写控制与逃避、愧疚与责任、女性友谊与自我重建，也提醒读者：一个家庭即使破碎，仍有机会重新学会爱。</description>
+      <pubDate>Thu, 08 Oct 2026 18:13:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-d57eec</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>露西·狄伦的《亲爱的小孩》以四岁自闭症女孩南希在伦敦街头失踪为引子，展开讲述凯特琳与帕特里克婚姻破裂后的家庭修复、南希从沉默中逐渐走出，以及伊娃面对丧偶与过往秘密的心路历程。小说写控制与逃避、愧疚与责任、女性友谊与自我重建，也提醒读者：一个家庭即使破碎，仍有机会重新学会爱。</itunes:summary>
+      <itunes:duration>00:22:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-d57eec.mp3" length="21297069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
