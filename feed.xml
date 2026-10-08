@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 00:37:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 00:47:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28395,6 +28395,17 @@
       <itunes:duration>00:25:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-9fc526.mp3" length="24131373" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《哈佛百年经典（第7卷）神曲》 · 完整版 · 哈佛百年经典（第7卷）神曲 · 完整讲读</title>
+      <description>《神曲》是意大利诗人但丁在流亡十九年间写成的史诗，讲述一个被佛罗伦萨放逐的灵魂，如何穿越地狱、攀过炼狱、升入天堂，最终在上帝之光中完成救赎。文本以中世纪神学与哲学为骨架，以对贝雅特丽齐的圣化之爱为血脉，以对教皇与帝国的激烈批判为骨骼，是中世纪文明的百科全书，也是一个流亡者把一生所爱、所恨、所信、所疑，烧成的一束光。它把悔改写成几何学，把上升写成承受力的扩展，把神圣权力堕入地狱的规律，写成人类制度永恒的警告。整部作品的最后一行，落在爱上——是爱，推动太阳和其他一切星辰。</description>
+      <pubDate>Thu, 08 Oct 2026 00:47:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-e4030b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《神曲》是意大利诗人但丁在流亡十九年间写成的史诗，讲述一个被佛罗伦萨放逐的灵魂，如何穿越地狱、攀过炼狱、升入天堂，最终在上帝之光中完成救赎。文本以中世纪神学与哲学为骨架，以对贝雅特丽齐的圣化之爱为血脉，以对教皇与帝国的激烈批判为骨骼，是中世纪文明的百科全书，也是一个流亡者把一生所爱、所恨、所信、所疑，烧成的一束光。它把悔改写成几何学，把上升写成承受力的扩展，把神圣权力堕入地狱的规律，写成人类制度永恒的警告。整部作品的最后一行，落在爱上——是爱，推动太阳和其他一切星辰。</itunes:summary>
+      <itunes:duration>00:39:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-e4030b.mp3" length="38006445" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
