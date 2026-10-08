@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 18:54:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 19:01:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29322,6 +29322,17 @@
       <itunes:duration>00:30:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-fc852b.mp3" length="29204013" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《莱博维茨的赞歌》 · 完整版 · 莱博维茨的赞歌 · 完整讲读</title>
+      <description>《莱博维茨的赞歌》用三段跨越两千年的故事，讲述人类亲手毁掉文明，又用千年时光把碎片拼回去的循环。黑暗时代的修士把看不懂的购物清单当神谕供奉，中世纪的抄写员把说明书当圣经临摹，重拾科学的现代人却再次按下毁灭按钮。米勒借一座修道院预言：技术是中性的，毁灭它的是人；文明不会永生，但抄写员是火种；信仰与理性，是人类在荒诞中自我救赎的两条腿。这是一首写给反复作死却又反复复活的物种的赞歌。</description>
+      <pubDate>Thu, 08 Oct 2026 19:01:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-5144e1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《莱博维茨的赞歌》用三段跨越两千年的故事，讲述人类亲手毁掉文明，又用千年时光把碎片拼回去的循环。黑暗时代的修士把看不懂的购物清单当神谕供奉，中世纪的抄写员把说明书当圣经临摹，重拾科学的现代人却再次按下毁灭按钮。米勒借一座修道院预言：技术是中性的，毁灭它的是人；文明不会永生，但抄写员是火种；信仰与理性，是人类在荒诞中自我救赎的两条腿。这是一首写给反复作死却又反复复活的物种的赞歌。</itunes:summary>
+      <itunes:duration>00:26:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-5144e1.mp3" length="25844013" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
