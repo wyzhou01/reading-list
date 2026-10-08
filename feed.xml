@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 11:15:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 11:21:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28991,6 +28991,17 @@
       <itunes:duration>00:23:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-f808cf.mp3" length="22402989" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《直到那一天》 · 完整版 · 直到那一天 · 完整讲读</title>
+      <description>一九八零年圣诞前夜，一架从伊斯坦布尔飞往巴黎的土耳其航空班机在法国汝拉山区坠毁，一百六十八人当场罹难，唯有三个月大的女婴奇迹生还。十八年后，这个女孩即将成年，却没人知道她究竟是谁——是柯家失去的丽萝，还是被韦家收养的米莉？法国作家米歇尔·普西以这桩真实改编的空难为引，写了一个私家侦探耗尽十八年追查女婴身份的执念故事。他翻遍档案、走访证人，却在真相揭晓的前一夜自我了结。本书既是一部社会派悬疑力作，也是一面映照身份、命运与代际创伤的镜子：当一个人把一生都押在追查上，最终却发现答案其实一直印在那张十八年前的报纸头版上，这种荒诞与悲凉，正是普西想留给每一个读者的最后追问。</description>
+      <pubDate>Thu, 08 Oct 2026 11:21:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-543220</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九八零年圣诞前夜，一架从伊斯坦布尔飞往巴黎的土耳其航空班机在法国汝拉山区坠毁，一百六十八人当场罹难，唯有三个月大的女婴奇迹生还。十八年后，这个女孩即将成年，却没人知道她究竟是谁——是柯家失去的丽萝，还是被韦家收养的米莉？法国作家米歇尔·普西以这桩真实改编的空难为引，写了一个私家侦探耗尽十八年追查女婴身份的执念故事。他翻遍档案、走访证人，却在真相揭晓的前一夜自我了结。本书既是一部社会派悬疑力作，也是一面映照身份、命运与代际创伤的镜子：当一个人把一生都押在追查上，最终却发现答案其实一直印在那张十八年前的报纸头版上，这种荒诞与悲凉，正是普西想留给每一个读者的最后追问。</itunes:summary>
+      <itunes:duration>00:29:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-543220.mp3" length="27908013" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
