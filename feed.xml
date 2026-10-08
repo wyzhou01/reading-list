@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 00:47:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 00:55:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28406,6 +28406,17 @@
       <itunes:duration>00:39:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-e4030b.mp3" length="38006445" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中国十大禁毁小说文库》 · 完整版 · 中国十大禁毁小说文库 · 完整讲读</title>
+      <description>《中国十大禁毁小说文库》收录了明清十部曾遭禁毁的小说。本期节目以六块拼图的方式系统解读——立场（民族情绪、女性处境、道德理想）、笔法（虚实相间的演义传统）、类型（才子佳人、侠义公案、志怪传奇）、被禁原因（政治、道德、文字狱连坐）、被禁之下的保存价值（语言、立场、类型、人格）。结合《双凤奇缘》《天豹图》《樵史演义》《美人书》《五色石》《八洞天》《五凤吟》《锦香亭》《粉妆楼》《锦绣衣》十部作品，呈现一部被压抑却顽强存活的明清精神史。</description>
+      <pubDate>Thu, 08 Oct 2026 00:55:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-76f0f0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《中国十大禁毁小说文库》收录了明清十部曾遭禁毁的小说。本期节目以六块拼图的方式系统解读——立场（民族情绪、女性处境、道德理想）、笔法（虚实相间的演义传统）、类型（才子佳人、侠义公案、志怪传奇）、被禁原因（政治、道德、文字狱连坐）、被禁之下的保存价值（语言、立场、类型、人格）。结合《双凤奇缘》《天豹图》《樵史演义》《美人书》《五色石》《八洞天》《五凤吟》《锦香亭》《粉妆楼》《锦绣衣》十部作品，呈现一部被压抑却顽强存活的明清精神史。</itunes:summary>
+      <itunes:duration>00:22:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-76f0f0.mp3" length="21298605" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
