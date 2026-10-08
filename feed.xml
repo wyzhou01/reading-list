@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 18:20:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 18:28:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29267,6 +29267,17 @@
       <itunes:duration>00:28:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-532da1.mp3" length="27328173" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《白眼狼》 · 完整版 · 白眼狼_-_庸人 · 完整讲读</title>
+      <description>《白眼狼》用一个中年男人横波的崩塌，撕开了这代人最顽固的自我欺骗。他被科学标签鉴定为忠贞的后叶加压型男人，却被朋友妻子一击即溃；他以为亲子血缘等于忠诚，却被亲儿子亲手举报入狱；他骂遍身边所有人都是白眼狼，最后在牢房镜子里看见自己就是那只最大的白眼狼。黑色幽默的外壳下，藏着一代中年男性的精神病历：当 M3 偏见——我永远无辜、我永远忠诚、我永远被亏欠——内化为信仰时，审判的刀终将落回自己头上。</description>
+      <pubDate>Thu, 08 Oct 2026 18:28:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-5c18b8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《白眼狼》用一个中年男人横波的崩塌，撕开了这代人最顽固的自我欺骗。他被科学标签鉴定为忠贞的后叶加压型男人，却被朋友妻子一击即溃；他以为亲子血缘等于忠诚，却被亲儿子亲手举报入狱；他骂遍身边所有人都是白眼狼，最后在牢房镜子里看见自己就是那只最大的白眼狼。黑色幽默的外壳下，藏着一代中年男性的精神病历：当 M3 偏见——我永远无辜、我永远忠诚、我永远被亏欠——内化为信仰时，审判的刀终将落回自己头上。</itunes:summary>
+      <itunes:duration>00:24:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-5c18b8.mp3" length="23695533" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
