@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 02:36:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 02:46:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28516,6 +28516,17 @@
       <itunes:duration>00:28:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-538940.mp3" length="27805485" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《客厅里的绅士》 · 完整版 · 客厅里的绅士 · 完整讲读</title>
+      <description>一九二二年，红遍伦敦剧坛的作家毛姆放下名利，独自远行远东——从缅甸蒲甘到暹罗景栋，从洞里萨湖到越南河内。二十六个日夜的骡背跋涉，他把自己活成一本书。七年之后，他才动笔写下这段回忆。《客厅里的绅士》记的不是风景，是风景之间他遇到的那些人——孤独的英国侨民、酗酒的殖民者、神秘的九月公主、絮叨的袜品商人。它是一本关于不在场的书，一个缺席的主角，一群被时代遗忘的人；它也是毛姆最极端的【风格演练】，用七年时间，把一个作家变成一个沉默的倾听者。读它，我们看到的不只是二十年代的东南亚，更是一位作家对旅行意义本身的沉思。</description>
+      <pubDate>Thu, 08 Oct 2026 02:46:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-98cdbe</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九二二年，红遍伦敦剧坛的作家毛姆放下名利，独自远行远东——从缅甸蒲甘到暹罗景栋，从洞里萨湖到越南河内。二十六个日夜的骡背跋涉，他把自己活成一本书。七年之后，他才动笔写下这段回忆。《客厅里的绅士》记的不是风景，是风景之间他遇到的那些人——孤独的英国侨民、酗酒的殖民者、神秘的九月公主、絮叨的袜品商人。它是一本关于不在场的书，一个缺席的主角，一群被时代遗忘的人；它也是毛姆最极端的【风格演练】，用七年时间，把一个作家变成一个沉默的倾听者。读它，我们看到的不只是二十年代的东南亚，更是一位作家对旅行意义本身的沉思。</itunes:summary>
+      <itunes:duration>00:28:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-98cdbe.mp3" length="26959917" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
