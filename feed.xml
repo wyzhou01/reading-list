@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 23:30:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 23:36:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29410,6 +29410,17 @@
       <itunes:duration>00:25:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-cdccb1.mp3" length="24604077" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《桥的故事》 · 完整版 · 桥的故事 · 完整讲读</title>
+      <description>《桥的故事》是日本艺术史学者中野京子以三十座桥串起的人类文明纵贯史。她以神话中的彩虹桥、恶魔之桥、买味噌之桥与自杀之桥切入奇与怖，以马格德堡水路桥、张家界玻璃桥、阿维尼翁断桥与金门大桥展开惊与史，最终以三岛由纪夫的《走尽的桥》、雷诺阿的《新桥》与肖斯塔科维奇的《列宁格勒》交响曲，揭示桥作为叙事装置如何承载生死、战争、信仰与美学。书中核心命题是：桥从来不只是工程结构，而是连接此岸与彼岸、现实与异界、此刻与彼刻的舞台。在这个算法试图抹平一切差异的时代，重读桥的故事，是重拾跨越的勇气。</description>
+      <pubDate>Thu, 08 Oct 2026 23:36:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-992407</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《桥的故事》是日本艺术史学者中野京子以三十座桥串起的人类文明纵贯史。她以神话中的彩虹桥、恶魔之桥、买味噌之桥与自杀之桥切入奇与怖，以马格德堡水路桥、张家界玻璃桥、阿维尼翁断桥与金门大桥展开惊与史，最终以三岛由纪夫的《走尽的桥》、雷诺阿的《新桥》与肖斯塔科维奇的《列宁格勒》交响曲，揭示桥作为叙事装置如何承载生死、战争、信仰与美学。书中核心命题是：桥从来不只是工程结构，而是连接此岸与彼岸、现实与异界、此刻与彼刻的舞台。在这个算法试图抹平一切差异的时代，重读桥的故事，是重拾跨越的勇气。</itunes:summary>
+      <itunes:duration>00:27:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-992407.mp3" length="26402349" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
