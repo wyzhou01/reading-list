@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 18:13:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 18:20:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29256,6 +29256,17 @@
       <itunes:duration>00:22:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-d57eec.mp3" length="21297069" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《感觉的自然史》 · 完整版 · 感觉的自然史 · 完整讲读</title>
+      <description>《感觉的自然史》是戴安娜·阿克曼的一部感官题材经典之作，她以诗意的笔触融汇神经科学、历史掌故、文学典故与亲身经历，穿越嗅觉、触觉、味觉、听觉、视觉五种感官，揭示感官与记忆、情感、爱与审美的深层联结。在一个感官日益钝化的现代生活中，这本书邀请读者重新唤醒知觉，重新感受生命的质地，重新学会用身体去爱这个丰富而神秘的世界。</description>
+      <pubDate>Thu, 08 Oct 2026 18:20:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-532da1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《感觉的自然史》是戴安娜·阿克曼的一部感官题材经典之作，她以诗意的笔触融汇神经科学、历史掌故、文学典故与亲身经历，穿越嗅觉、触觉、味觉、听觉、视觉五种感官，揭示感官与记忆、情感、爱与审美的深层联结。在一个感官日益钝化的现代生活中，这本书邀请读者重新唤醒知觉，重新感受生命的质地，重新学会用身体去爱这个丰富而神秘的世界。</itunes:summary>
+      <itunes:duration>00:28:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-532da1.mp3" length="27328173" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
