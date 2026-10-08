@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 10:33:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 10:40:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28925,6 +28925,17 @@
       <itunes:duration>00:34:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-1e37c7.mp3" length="33489453" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《醉太平》 · 完整版 · 醉太平_-_朱苏进 · 完整讲读</title>
+      <description>《醉太平》是朱苏进一九九三年写就的军旅政治小说，以南京军区干部院为背景，刻画夏谷、季墨阳、刘达等人在权力升降、真假撕扯、爱情与野心之间的挣扎。全书以太平门、太平湖、太平山、太平酒家四个地名串起一部精神坟场记，通过油与潇洒的辨析、被提拔时的惶惑、三骨酒埋藏二十年的隐喻，揭示了一个 M 型结构里个体命运的必然悲剧：真诚要靠运气，沉默才是常态，升迁即是预演被贬。书中没有英雄也没有坏人，只有一群被体制捏着、又不甘被捏着的活人，至今仍在无数大院、写字楼、互联网公司里原样复刻。</description>
+      <pubDate>Thu, 08 Oct 2026 10:40:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-c199ac</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《醉太平》是朱苏进一九九三年写就的军旅政治小说，以南京军区干部院为背景，刻画夏谷、季墨阳、刘达等人在权力升降、真假撕扯、爱情与野心之间的挣扎。全书以太平门、太平湖、太平山、太平酒家四个地名串起一部精神坟场记，通过油与潇洒的辨析、被提拔时的惶惑、三骨酒埋藏二十年的隐喻，揭示了一个 M 型结构里个体命运的必然悲剧：真诚要靠运气，沉默才是常态，升迁即是预演被贬。书中没有英雄也没有坏人，只有一群被体制捏着、又不甘被捏着的活人，至今仍在无数大院、写字楼、互联网公司里原样复刻。</itunes:summary>
+      <itunes:duration>00:32:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-c199ac.mp3" length="31515693" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
