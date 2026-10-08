@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 10:58:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 11:02:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28958,6 +28958,17 @@
       <itunes:duration>00:31:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-3a0f10.mp3" length="30195885" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《日食》 · 完整版 · 日食_-_孙智正_ · 完整讲读</title>
+      <description>《日食》是孙智正写于二零一六年的长篇小说，讲述十好几个人结伴去看一次日食的故事。全文以絮语式的日常对话为载体，在火车、飞机、骆驼合影、羊汤、蜘蛛网、野草这些看似毫无意义的行程里，探讨人生意义、爱欲、孤独、死亡与永生这些大命题。扉页上写着【写作让人害羞】，整本书以一种不渲染、不煽情、不评判的写作姿态，把人生真正的意义藏在了花生米和芥末豆的闲聊里，藏在了轮子磕地砖缝的声音里，藏在了一束头发从床沿垂下来的细节里。这是一本反算法、反高效、反即时消费的书，它在提醒每一个读者：不要害怕让时间就这样过去，不要害怕和身边的人有一段沉默的、没什么意义的时光——那些时光，最后都会变成你人生里最珍贵的部分。</description>
+      <pubDate>Thu, 08 Oct 2026 11:02:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-39f8cf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《日食》是孙智正写于二零一六年的长篇小说，讲述十好几个人结伴去看一次日食的故事。全文以絮语式的日常对话为载体，在火车、飞机、骆驼合影、羊汤、蜘蛛网、野草这些看似毫无意义的行程里，探讨人生意义、爱欲、孤独、死亡与永生这些大命题。扉页上写着【写作让人害羞】，整本书以一种不渲染、不煽情、不评判的写作姿态，把人生真正的意义藏在了花生米和芥末豆的闲聊里，藏在了轮子磕地砖缝的声音里，藏在了一束头发从床沿垂下来的细节里。这是一本反算法、反高效、反即时消费的书，它在提醒每一个读者：不要害怕让时间就这样过去，不要害怕和身边的人有一段沉默的、没什么意义的时光——那些时光，最后都会变成你人生里最珍贵的部分。</itunes:summary>
+      <itunes:duration>00:27:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-39f8cf.mp3" length="26393517" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
