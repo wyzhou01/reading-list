@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 12:50:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 12:58:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29134,6 +29134,17 @@
       <itunes:duration>00:26:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-554b9b.mp3" length="25066413" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《古典的力量：周国平讲古词曲》 · 完整版 · 古典的力量：周国平讲古词曲 · 完整讲读</title>
+      <description>《古典的力量：周国平讲古词曲》以哲学家的眼睛，重新凝视宋词元曲与中国文人传统。全书分三辑：宋词品鉴、元曲赏析、文人散论。周国平认为，宋词之美在于唯美与音乐性的极致守护，元曲之韵在于对生命本体的热爱，而中国文人的闲情传统则是被忽略的精神自由。从辛弃疾的金戈铁马、李清照的物是人非，到关汉卿的断肠天涯，再到孔子、苏东坡、阮籍、玄奘，周国平用西方哲学训练出的敏锐感受力，触摸东方古典的情致，揭示出中国人面对世界的独特姿态——不是为证明什么活着，而是为充分感受生命的丰富、美好与自由而活着。</description>
+      <pubDate>Thu, 08 Oct 2026 12:57:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-3d51a7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《古典的力量：周国平讲古词曲》以哲学家的眼睛，重新凝视宋词元曲与中国文人传统。全书分三辑：宋词品鉴、元曲赏析、文人散论。周国平认为，宋词之美在于唯美与音乐性的极致守护，元曲之韵在于对生命本体的热爱，而中国文人的闲情传统则是被忽略的精神自由。从辛弃疾的金戈铁马、李清照的物是人非，到关汉卿的断肠天涯，再到孔子、苏东坡、阮籍、玄奘，周国平用西方哲学训练出的敏锐感受力，触摸东方古典的情致，揭示出中国人面对世界的独特姿态——不是为证明什么活着，而是为充分感受生命的丰富、美好与自由而活着。</itunes:summary>
+      <itunes:duration>00:31:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-3d51a7.mp3" length="30063789" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
