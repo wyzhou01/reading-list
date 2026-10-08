@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 04:20:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 04:28:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28639,6 +28639,17 @@
       <itunes:duration>00:22:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-d6209a.mp3" length="22042413" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《风港》 · 完整版 · 风港-乔治_R.R.马丁 · 完整讲读</title>
+      <description>《风港》是乔治·R·R·马丁与丽莎·图托一九八一年合著的低魔奇幻。挖蚌人家的女儿玛丽斯，因六岁那年被飞行者鲁斯托起、让她第一次感受风而燃起飞翔的梦想。她用一生撞破学院对性别的偏见、对平民的封锁，最终成为风港唯一女飞行者，并以一次主动的退场，把飞行的权利留给后人。本书比《冰与火之歌》更早问世，却是马丁所有母题的起点：梦想的代价、秩序的裂缝、自由的真正定义。</description>
+      <pubDate>Thu, 08 Oct 2026 04:28:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-c1733a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《风港》是乔治·R·R·马丁与丽莎·图托一九八一年合著的低魔奇幻。挖蚌人家的女儿玛丽斯，因六岁那年被飞行者鲁斯托起、让她第一次感受风而燃起飞翔的梦想。她用一生撞破学院对性别的偏见、对平民的封锁，最终成为风港唯一女飞行者，并以一次主动的退场，把飞行的权利留给后人。本书比《冰与火之歌》更早问世，却是马丁所有母题的起点：梦想的代价、秩序的裂缝、自由的真正定义。</itunes:summary>
+      <itunes:duration>00:28:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-c1733a.mp3" length="27206061" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
