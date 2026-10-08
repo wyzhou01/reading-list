@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 17:52:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 17:59:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29223,6 +29223,17 @@
       <itunes:duration>00:35:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-7391a4.mp3" length="34378797" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《宗庆后：万有引力原理》 · 完整版 · 宗庆后：万有引力原理 · 完整讲读</title>
+      <description>《宗庆后：万有引力原理》是宗庆后本人授权的权威传记，由迟宇宙历经三年、翻阅娃哈哈近五百万字档案写成。全书四十五万字，记录了他从九斤重的超级婴儿，到十五年农场磨难、蹬三轮送校簿、五十九岁创业的完整人生。他创建娃哈哈，兼并杭罐创造百日奇迹，以联销体、销地产、明星代言等创新掀起民族品牌崛起，与世界五百强达能进行长达十年的尊严之战并最终获胜。本书呈现了一个普通中国企业家如何以勤奋、实业、尊严和创新，为这个时代留下一种坚实而朴素的答案。</description>
+      <pubDate>Thu, 08 Oct 2026 17:59:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-6ec256</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《宗庆后：万有引力原理》是宗庆后本人授权的权威传记，由迟宇宙历经三年、翻阅娃哈哈近五百万字档案写成。全书四十五万字，记录了他从九斤重的超级婴儿，到十五年农场磨难、蹬三轮送校簿、五十九岁创业的完整人生。他创建娃哈哈，兼并杭罐创造百日奇迹，以联销体、销地产、明星代言等创新掀起民族品牌崛起，与世界五百强达能进行长达十年的尊严之战并最终获胜。本书呈现了一个普通中国企业家如何以勤奋、实业、尊严和创新，为这个时代留下一种坚实而朴素的答案。</itunes:summary>
+      <itunes:duration>00:27:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-6ec256.mp3" length="26291373" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
