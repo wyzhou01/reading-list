@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 03:42:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 03:50:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28595,6 +28595,17 @@
       <itunes:duration>00:27:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-b301d5.mp3" length="26727981" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《螺旋之谜》 · 完整版 · 螺旋之谜 · 完整讲读</title>
+      <description>《螺旋之谜》是西班牙作家圣地亚哥·帕哈雷斯的代表作，讲述一位马德里编辑戴维飞到里斯本寻找失约作家莱奥的故事。围绕一桩不可能的死亡、一本错装的托马斯·莫德旧版小说，以及编辑、作家、夫妻、图书管理员之间的秘密，小说用螺旋形的重复叙事，呈现普通人如何在困境中寻找继续活下去的理由。全书最动人的部分，是编辑与作家之间那种愿意陪对方熬过瓶颈期的耐心，是夫妻在叶酸与未来之间拉锯的真心，也是小城图书管理员几十年如一日递出的每一本书。这不是一本讲死亡的书，是一本讲如何继续活下去的书。</description>
+      <pubDate>Thu, 08 Oct 2026 03:50:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-1be23a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《螺旋之谜》是西班牙作家圣地亚哥·帕哈雷斯的代表作，讲述一位马德里编辑戴维飞到里斯本寻找失约作家莱奥的故事。围绕一桩不可能的死亡、一本错装的托马斯·莫德旧版小说，以及编辑、作家、夫妻、图书管理员之间的秘密，小说用螺旋形的重复叙事，呈现普通人如何在困境中寻找继续活下去的理由。全书最动人的部分，是编辑与作家之间那种愿意陪对方熬过瓶颈期的耐心，是夫妻在叶酸与未来之间拉锯的真心，也是小城图书管理员几十年如一日递出的每一本书。这不是一本讲死亡的书，是一本讲如何继续活下去的书。</itunes:summary>
+      <itunes:duration>00:23:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-1be23a.mp3" length="22477101" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
