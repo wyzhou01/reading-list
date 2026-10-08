@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 03:26:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 03:36:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28573,6 +28573,17 @@
       <itunes:duration>00:39:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-b11ee4.mp3" length="38308269" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《宗教情感》 · 完整版 · 宗教情感 · 完整讲读</title>
+      <description>《宗教情感》是十八世纪北美大觉醒运动的产物，也是清教徒神学的巅峰之作。作者乔纳森·爱德华兹针对当时宗教复兴中真假混杂的现象，系统地论述了宗教情感的真伪辨析。他首先指出感觉不能证明信仰，列举了十二种无法证明情感出于恩典的现象；然后从正面提出了真宗教情感的十二个标志，核心论点是圣灵的光照带来生命的彻底更新，真信仰的标志不在于一时的情绪激动，而在于一生之久在圣洁上的持守与彰显。这本书不仅是一部辨伪神学著作，更是宗教心理学的奠基之作，对后世产生了深远影响。</description>
+      <pubDate>Thu, 08 Oct 2026 03:36:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-27fe33</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《宗教情感》是十八世纪北美大觉醒运动的产物，也是清教徒神学的巅峰之作。作者乔纳森·爱德华兹针对当时宗教复兴中真假混杂的现象，系统地论述了宗教情感的真伪辨析。他首先指出感觉不能证明信仰，列举了十二种无法证明情感出于恩典的现象；然后从正面提出了真宗教情感的十二个标志，核心论点是圣灵的光照带来生命的彻底更新，真信仰的标志不在于一时的情绪激动，而在于一生之久在圣洁上的持守与彰显。这本书不仅是一部辨伪神学著作，更是宗教心理学的奠基之作，对后世产生了深远影响。</itunes:summary>
+      <itunes:duration>00:28:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-27fe33.mp3" length="27274413" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
