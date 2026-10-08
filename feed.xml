@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 09:51:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 09:58:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28859,6 +28859,17 @@
       <itunes:duration>00:28:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-dec881.mp3" length="27701805" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《灵心小史》 · 完整版 · 灵心小史 · 完整讲读</title>
+      <description>《灵心小史》是一部由法国加尔默罗会修女小德兰在生命最后一年病榻上写下的自传。她在书中提出【神婴小路】的灵修主张——甘愿做天主花园中一朵不起眼的雏菊，以谦卑、柔顺和单纯的爱在平凡生活中事奉天主。她留下名言：阿基米德没有得到撬动地球的杠杆，而爱的祈祷就是那根杠杆，支点则是天主自身。一百多年来，这本小书被译为六十多种语言，感动全球无数读者，教会她：在最平凡的生活中，活出心灵最深处的伟大、纯净与高贵。</description>
+      <pubDate>Thu, 08 Oct 2026 09:58:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-0d3463</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《灵心小史》是一部由法国加尔默罗会修女小德兰在生命最后一年病榻上写下的自传。她在书中提出【神婴小路】的灵修主张——甘愿做天主花园中一朵不起眼的雏菊，以谦卑、柔顺和单纯的爱在平凡生活中事奉天主。她留下名言：阿基米德没有得到撬动地球的杠杆，而爱的祈祷就是那根杠杆，支点则是天主自身。一百多年来，这本小书被译为六十多种语言，感动全球无数读者，教会她：在最平凡的生活中，活出心灵最深处的伟大、纯净与高贵。</itunes:summary>
+      <itunes:duration>00:25:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-0d3463.mp3" length="24109869" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
