@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 02:55:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 03:09:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28538,6 +28538,19 @@
       <itunes:duration>00:29:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-a1f621.mp3" length="28056621" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《奇鸟行状录》 · 完整版 · 奇鸟行状录 · 完整讲读</title>
+      <description>《奇鸟行状录》是村上春树一九九一年到一九九五年间创作的三卷长篇，以失业的冈田亨寻找突然失踪的妻子久美子为主线，穿插其兄绵谷升的邪恶势力、蒙古战场的剥皮惨剧与一口深不见底的枯井。村上以牧场春望般的笔触追问日本式暴力的传承：诺门坎一代就装进了绵谷升父亲的头脑里，绵谷升父亲再把镜子装进了绵谷升的眼睛里；暴力至今仍在国家机器与个人心底继续运行。本书一九九六年获读卖文学奖，被哈佛教授杰·鲁宾称为村上创作的转折点，也许是他最伟大的作品。
+</description>
+      <pubDate>Thu, 08 Oct 2026 03:09:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-5929ce</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《奇鸟行状录》是村上春树一九九一年到一九九五年间创作的三卷长篇，以失业的冈田亨寻找突然失踪的妻子久美子为主线，穿插其兄绵谷升的邪恶势力、蒙古战场的剥皮惨剧与一口深不见底的枯井。村上以牧场春望般的笔触追问日本式暴力的传承：诺门坎一代就装进了绵谷升父亲的头脑里，绵谷升父亲再把镜子装进了绵谷升的眼睛里；暴力至今仍在国家机器与个人心底继续运行。本书一九九六年获读卖文学奖，被哈佛教授杰·鲁宾称为村上创作的转折点，也许是他最伟大的作品。
+</itunes:summary>
+      <itunes:duration>00:27:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-5929ce.mp3" length="26669997" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
