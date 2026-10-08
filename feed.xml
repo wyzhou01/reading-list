@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 17:37:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 17:43:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29201,6 +29201,17 @@
       <itunes:duration>00:31:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-6bfdd2.mp3" length="29881773" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《日升之处（远行译丛）》 · 完整版 · 日升之处（远行译丛） · 完整讲读</title>
+      <description>《日升之处》是十九世纪英国旅行家 A.W. 金莱克根据一八三六年东方之旅私人书信整理而成的旅行文学经典。在那个欧洲人对东方充满傲慢与偏见的年代，金莱克却用近乎反叛的笔法，宣布自己这本书彻底抛弃地理发现、古文物研究、统计资料与政治议论，只写他个人感受到的真实印象。从贝尔格莱德到开罗、从死海到黎巴嫩山隘，他用幽默、自嘲与坦诚，为我们留下了一个既破败又浪漫、既懒散又骄傲、既滑稽又庄严的奥斯曼世界。这本书不仅是一次十九世纪的中东之旅，更是一种关于我们如何面对陌生、如何承认无知、如何在偏见与好奇心之间保持平衡的永恒提醒。</description>
+      <pubDate>Thu, 08 Oct 2026 17:43:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-e92b07</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《日升之处》是十九世纪英国旅行家 A.W. 金莱克根据一八三六年东方之旅私人书信整理而成的旅行文学经典。在那个欧洲人对东方充满傲慢与偏见的年代，金莱克却用近乎反叛的笔法，宣布自己这本书彻底抛弃地理发现、古文物研究、统计资料与政治议论，只写他个人感受到的真实印象。从贝尔格莱德到开罗、从死海到黎巴嫩山隘，他用幽默、自嘲与坦诚，为我们留下了一个既破败又浪漫、既懒散又骄傲、既滑稽又庄严的奥斯曼世界。这本书不仅是一次十九世纪的中东之旅，更是一种关于我们如何面对陌生、如何承认无知、如何在偏见与好奇心之间保持平衡的永恒提醒。</itunes:summary>
+      <itunes:duration>00:24:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-e92b07.mp3" length="23143341" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
