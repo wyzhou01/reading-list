@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 19:33:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 23:19:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29377,6 +29377,17 @@
       <itunes:duration>00:29:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-e0bb53.mp3" length="28320813" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《再也不怕跟人打交道：一学就会的96个沟通技巧》 · 完整版 · 再也不怕跟人打交道 · 完整讲读</title>
+      <description>本书聚焦人际交往中常被忽视的细微技巧，提出“情绪预测”这一核心能力：人们在开口前，先预判对方的感受，再据此调整自己的言行，从而有效建立并维护人际关系。全书从初次印象、个人魅力、谈话技巧、聚会社交、邀请处理，到沟通进阶、避免失误，以及电子邮件、电话沟通和关系深化，提供了96个可立即实践的方法。书中以大量实验和案例说明，成功者与失败者的差别并不在于外表、财富或智商，而在于是否关注他人感受、给予对方尊重与自尊。本书不承诺让人一夜之间变成沟通大师，但能帮助你更自信、更自如地与人交流。</description>
+      <pubDate>Thu, 08 Oct 2026 23:19:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-11f76b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书聚焦人际交往中常被忽视的细微技巧，提出“情绪预测”这一核心能力：人们在开口前，先预判对方的感受，再据此调整自己的言行，从而有效建立并维护人际关系。全书从初次印象、个人魅力、谈话技巧、聚会社交、邀请处理，到沟通进阶、避免失误，以及电子邮件、电话沟通和关系深化，提供了96个可立即实践的方法。书中以大量实验和案例说明，成功者与失败者的差别并不在于外表、财富或智商，而在于是否关注他人感受、给予对方尊重与自尊。本书不承诺让人一夜之间变成沟通大师，但能帮助你更自信、更自如地与人交流。</itunes:summary>
+      <itunes:duration>00:27:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-11f76b.mp3" length="26499885" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
