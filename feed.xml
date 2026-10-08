@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 00:23:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 00:31:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28373,6 +28373,17 @@
       <itunes:duration>00:31:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-8f2959.mp3" length="29778093" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《别逗了，费曼先生》 · 完整版 · 别逗了，费曼先生 · 完整讲读</title>
+      <description>《别逗了，费曼先生》是诺贝尔物理学奖得主费曼的口述回忆录，由他的打鼓搭档莱顿整理。书中呈现了一个永远好奇、热爱恶作剧、蔑视装腔作刃的灵魂——他十一岁在家修收音机，二十出头造原子弹，三十出头拿诺奖，五十岁在听证席上用一根橡皮圈戳穿挑战者号悲剧。这本书里没有高深的公式，只有一个人怎么把科学当游戏、把人生当冒险的真实故事。他告诉我们：科学家首先是一个好奇的人；他必须保持好奇、保持诚实、保留说【我也不知道】的尊严；奖项只是路过的人，好奇心才是陪你走完人生的人；人生最大的悲哀不是没拿到想要的奖，而是从来没问过自己【我到底想要什么】。</description>
+      <pubDate>Thu, 08 Oct 2026 00:31:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-47db8e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《别逗了，费曼先生》是诺贝尔物理学奖得主费曼的口述回忆录，由他的打鼓搭档莱顿整理。书中呈现了一个永远好奇、热爱恶作剧、蔑视装腔作刃的灵魂——他十一岁在家修收音机，二十出头造原子弹，三十出头拿诺奖，五十岁在听证席上用一根橡皮圈戳穿挑战者号悲剧。这本书里没有高深的公式，只有一个人怎么把科学当游戏、把人生当冒险的真实故事。他告诉我们：科学家首先是一个好奇的人；他必须保持好奇、保持诚实、保留说【我也不知道】的尊严；奖项只是路过的人，好奇心才是陪你走完人生的人；人生最大的悲哀不是没拿到想要的奖，而是从来没问过自己【我到底想要什么】。</itunes:summary>
+      <itunes:duration>00:32:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-47db8e.mp3" length="30821421" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
