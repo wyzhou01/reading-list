@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 23:41:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 23:48:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29432,6 +29432,17 @@
       <itunes:duration>00:22:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-8eadfb.mp3" length="21298221" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《阿加莎的毒药》 · 完整版 · 阿加莎的毒药_(大学新知) · 完整讲读</title>
+      <description>本期节目拆解《阿加莎的毒药》。凯瑟琳·哈卡普用毒物学博士的眼睛，重走了阿加莎·克里斯蒂小说里十种核心毒药背后的真实故事。节目从克里斯蒂一战时期的药房训练讲起，拼出她作为毒药大师的六块拼图：肌肉记忆训练、真实案件取材、诺克斯十诫的边界游戏、剂量与剂型的工具学、检测与反检测的猫鼠游戏、物理化学编织的时间线。哈卡普提醒读者，克里斯蒂的成功不靠天才而靠专业，她用十几年的药房经验把杀人工程变成了精确计算。今天重读这本书，是为了建立对化学、对剂量、对专业的敬畏——真正可怕的从来不是瓶子里的粉末，而是人心里那颗不动感情的心。</description>
+      <pubDate>Thu, 08 Oct 2026 23:48:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-8195da</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期节目拆解《阿加莎的毒药》。凯瑟琳·哈卡普用毒物学博士的眼睛，重走了阿加莎·克里斯蒂小说里十种核心毒药背后的真实故事。节目从克里斯蒂一战时期的药房训练讲起，拼出她作为毒药大师的六块拼图：肌肉记忆训练、真实案件取材、诺克斯十诫的边界游戏、剂量与剂型的工具学、检测与反检测的猫鼠游戏、物理化学编织的时间线。哈卡普提醒读者，克里斯蒂的成功不靠天才而靠专业，她用十几年的药房经验把杀人工程变成了精确计算。今天重读这本书，是为了建立对化学、对剂量、对专业的敬畏——真正可怕的从来不是瓶子里的粉末，而是人心里那颗不动感情的心。</itunes:summary>
+      <itunes:duration>00:35:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-8195da.mp3" length="34327341" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
