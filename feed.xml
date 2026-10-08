@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 09:26:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 09:34:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28826,6 +28826,17 @@
       <itunes:duration>00:27:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-e1d156.mp3" length="26850477" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《吕氏春秋》 · 完整版 · 中华经典藏书（升级版）：吕氏春秋 · 完整讲读</title>
+      <description>《吕氏春秋》是秦相吕不韦在公元前二三九年召集门客编纂的治国方略，全书分为纪、览、论三部分，共一百六十篇，体系之完整在先秦著作中绝无仅有。本书重点剖析六大核心洞察：虚君实臣的政治哲学（君主认知有局限，必须无为）、民本德治的治国方略（赏罚只是辅助）、顺道养生的生命观（富贵会变成灾难）、杂家立场的现实智慧（单一思想无法治理庞大的帝国）、法天地的治国方略（君主不是天地的主人，而是天地节律的仆人）、重农与尊师的教育主张。这套方案精准预言了秦帝国二世而亡的原因——单一法家思想的极端化、个人绝对权力的膨胀、对生命节律的漠视、对农业根基的抽空。听懂这套两千三百年前的治国方案，你才能真正理解秦朝为什么崩塌，也才能思考什么才是长久的治国之道。</description>
+      <pubDate>Thu, 08 Oct 2026 09:34:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-d02f46</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《吕氏春秋》是秦相吕不韦在公元前二三九年召集门客编纂的治国方略，全书分为纪、览、论三部分，共一百六十篇，体系之完整在先秦著作中绝无仅有。本书重点剖析六大核心洞察：虚君实臣的政治哲学（君主认知有局限，必须无为）、民本德治的治国方略（赏罚只是辅助）、顺道养生的生命观（富贵会变成灾难）、杂家立场的现实智慧（单一思想无法治理庞大的帝国）、法天地的治国方略（君主不是天地的主人，而是天地节律的仆人）、重农与尊师的教育主张。这套方案精准预言了秦帝国二世而亡的原因——单一法家思想的极端化、个人绝对权力的膨胀、对生命节律的漠视、对农业根基的抽空。听懂这套两千三百年前的治国方案，你才能真正理解秦朝为什么崩塌，也才能思考什么才是长久的治国之道。</itunes:summary>
+      <itunes:duration>00:35:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-d02f46.mp3" length="33891885" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
