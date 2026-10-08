@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 17:59:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 18:05:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29234,6 +29234,17 @@
       <itunes:duration>00:27:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-6ec256.mp3" length="26291373" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《八十天环游地球》 · 完整版 · 八十天环游地球（译文名著精选） · 完整讲读</title>
+      <description>《八十天环游地球》是法国作家儒勒·凡尔纳一八七二年的经典冒险小说。故事讲述英国绅士菲莱亚斯·福格在改良俱乐部押上半数家产，赌八十天可环游地球一周。他与法国仆人路路通自伦敦出发，东行经苏伊士、孟买、加尔各答、香港、横滨、旧金山、纽约，最终在最后五秒赶回俱乐部，靠迎着太阳走省下的一天绝杀翻盘。书中穿插殉葬救人、侦探错捕、海上风暴、野牛阻路等多重意外，并以近乎零心理描写的白描手法，塑造了福格的极致理性、路路通的热忱忠诚与菲克斯的尴尬反转，呈现了维多利亚时代英国绅士精神、十九世纪交通革命与跨文化相遇的宏大图景，被视为现代科幻冒险小说的奠基之作。</description>
+      <pubDate>Thu, 08 Oct 2026 18:05:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-8ab228</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《八十天环游地球》是法国作家儒勒·凡尔纳一八七二年的经典冒险小说。故事讲述英国绅士菲莱亚斯·福格在改良俱乐部押上半数家产，赌八十天可环游地球一周。他与法国仆人路路通自伦敦出发，东行经苏伊士、孟买、加尔各答、香港、横滨、旧金山、纽约，最终在最后五秒赶回俱乐部，靠迎着太阳走省下的一天绝杀翻盘。书中穿插殉葬救人、侦探错捕、海上风暴、野牛阻路等多重意外，并以近乎零心理描写的白描手法，塑造了福格的极致理性、路路通的热忱忠诚与菲克斯的尴尬反转，呈现了维多利亚时代英国绅士精神、十九世纪交通革命与跨文化相遇的宏大图景，被视为现代科幻冒险小说的奠基之作。</itunes:summary>
+      <itunes:duration>00:30:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-8ab228.mp3" length="29566893" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
