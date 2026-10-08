@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 00:31:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 00:37:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28384,6 +28384,17 @@
       <itunes:duration>00:32:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-47db8e.mp3" length="30821421" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《救命之方》 · 完整版 · 救命之方 · 完整讲读</title>
+      <description>《救命之方》是中医博士罗大伦的科普作品，围绕对症使用经典经方与中成药、家庭常见病的中医调理思路展开。全书前半部分详解三七西洋参粉、炙甘草汤、柴胡加龙骨牡蛎汤、玉灵膏、六味地黄丸、桔梗元参汤等数十个经典方子，覆盖心脑血管养护、女性调理、失眠、感冒、鼻炎、痛风、痔疮等日常病症；后半部分转入随笔，探讨焦虑与身体的关系、尽孝与放下、清晨静默等身心议题。贯穿全书的核心理念是：相信身体本来就有的修复能力，方子只是辅助，错误的情绪与生活方式才是真正的病根。</description>
+      <pubDate>Thu, 08 Oct 2026 00:37:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-9fc526</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《救命之方》是中医博士罗大伦的科普作品，围绕对症使用经典经方与中成药、家庭常见病的中医调理思路展开。全书前半部分详解三七西洋参粉、炙甘草汤、柴胡加龙骨牡蛎汤、玉灵膏、六味地黄丸、桔梗元参汤等数十个经典方子，覆盖心脑血管养护、女性调理、失眠、感冒、鼻炎、痛风、痔疮等日常病症；后半部分转入随笔，探讨焦虑与身体的关系、尽孝与放下、清晨静默等身心议题。贯穿全书的核心理念是：相信身体本来就有的修复能力，方子只是辅助，错误的情绪与生活方式才是真正的病根。</itunes:summary>
+      <itunes:duration>00:25:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-9fc526.mp3" length="24131373" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
