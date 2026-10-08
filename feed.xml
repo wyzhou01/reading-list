@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 00:09:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 00:15:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28347,6 +28347,21 @@
       <itunes:duration>00:32:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-29081a.mp3" length="31047213" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《潜意识：控制你行为的秘密》 · 完整版 · 潜意识：控制你行为的秘密 · 完整讲读</title>
+      <description>《潜意识：控制你行为的秘密》是物理学家、好莱坞编剧列纳德·蒙洛迪诺写给非理解者的当代神经科学读本。借助脑成像、单细胞记录与眼动追踪等新技术，他拼出了一幅【新潜意识】的全景图：潜意识并非弗洛伊德式的黑暗欲望，而是大脑在意识之下运行的庞大模块网络，是理性的隐形根源，是社交判断、阅读判断与自我建构的真正推手。书中以同姓结婚、爆米花实验、可乐悖论、权力脸、内群体效应、错误标注、积极错觉等经典研究为线索，揭示了一个让人既释然又警惕的事实：我们的判断、偏好、偏见与希望，绝大多数并不是自己独自定义出来的。我们以为自己读懂了别人，其实读懂的是别人脸上几条进化遗留下来的旧批注；我们以为自己属于某个中立，其实没有真正中立的视角，所谓的中立只是被内群体效应染色过的滤镜；我们以为我们对自己的评价是客观的，其实那叫积极错觉，而这种错觉恰恰是人类得以穿越五万年寒冷的钥匙。
+
+这本书的真正主题并不在温柔，它在清醒。当你读完它，你不会变得更聪明，但你会变得更不容易被自己误导。而这，正是它最珍贵的礼物。</description>
+      <pubDate>Thu, 08 Oct 2026 00:15:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-c9e6ec</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《潜意识：控制你行为的秘密》是物理学家、好莱坞编剧列纳德·蒙洛迪诺写给非理解者的当代神经科学读本。借助脑成像、单细胞记录与眼动追踪等新技术，他拼出了一幅【新潜意识】的全景图：潜意识并非弗洛伊德式的黑暗欲望，而是大脑在意识之下运行的庞大模块网络，是理性的隐形根源，是社交判断、阅读判断与自我建构的真正推手。书中以同姓结婚、爆米花实验、可乐悖论、权力脸、内群体效应、错误标注、积极错觉等经典研究为线索，揭示了一个让人既释然又警惕的事实：我们的判断、偏好、偏见与希望，绝大多数并不是自己独自定义出来的。我们以为自己读懂了别人，其实读懂的是别人脸上几条进化遗留下来的旧批注；我们以为自己属于某个中立，其实没有真正中立的视角，所谓的中立只是被内群体效应染色过的滤镜；我们以为我们对自己的评价是客观的，其实那叫积极错觉，而这种错觉恰恰是人类得以穿越五万年寒冷的钥匙。
+
+这本书的真正主题并不在温柔，它在清醒。当你读完它，你不会变得更聪明，但你会变得更不容易被自己误导。而这，正是它最珍贵的礼物。</itunes:summary>
+      <itunes:duration>00:25:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-c9e6ec.mp3" length="24599085" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
