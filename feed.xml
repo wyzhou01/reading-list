@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 12:10:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 12:17:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29079,6 +29079,17 @@
       <itunes:duration>00:29:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-417ca3.mp3" length="28436013" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《香水：一个谋杀犯的故事》 · 完整版 · 香水：一个谋杀犯的故事_-_帕·聚斯金德 · 完整讲读</title>
+      <description>十八世纪的巴黎最臭角落，让-巴蒂斯特·格雷诺耶降生了。他天生没有体味，却被上天赐予辨识十万种气味的绝技。为让世界臣服，他杀害二十五名少女，萃取她们体香，制成一瓶征服一切的香水。在万人刑场上，一滴香水让刽子手下跪、暴民高呼他为主。可他因闻不到自己的气味而彻底虚无，最终回到巴黎，被人群分食殆尽。帕·聚斯金德借这个嗅觉天才的极端寓言，刺穿了消费主义的伪善，揭示了天才的异化、资本主义的剥削，以及一个从未被爱过的人，如何穷尽一切也无法被爱。这是一部关于存在本质、欲望与虚无的现代寓言。</description>
+      <pubDate>Thu, 08 Oct 2026 12:17:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-e7664d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>十八世纪的巴黎最臭角落，让-巴蒂斯特·格雷诺耶降生了。他天生没有体味，却被上天赐予辨识十万种气味的绝技。为让世界臣服，他杀害二十五名少女，萃取她们体香，制成一瓶征服一切的香水。在万人刑场上，一滴香水让刽子手下跪、暴民高呼他为主。可他因闻不到自己的气味而彻底虚无，最终回到巴黎，被人群分食殆尽。帕·聚斯金德借这个嗅觉天才的极端寓言，刺穿了消费主义的伪善，揭示了天才的异化、资本主义的剥削，以及一个从未被爱过的人，如何穷尽一切也无法被爱。这是一部关于存在本质、欲望与虚无的现代寓言。</itunes:summary>
+      <itunes:duration>00:22:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-e7664d.mp3" length="21264813" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
