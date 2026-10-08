@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 17:31:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 17:37:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29190,6 +29190,17 @@
       <itunes:duration>00:34:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-8be404.mp3" length="33008685" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《雾中回忆》 · 完整版 · 雾中回忆 · 完整讲读</title>
+      <description>《雾中回忆》是澳大利亚作家凯特·莫顿的代表作。故事从一九九八年一位九十八岁的前女仆格蕾丝收到一位电影导演的来信开始，她被邀请去看一部正在拍摄的电影片场——这部电影的场景，正是八十年前她工作过的英国里弗顿庄园。小说以三层时间结构交织叙事：一九一四至一九二四年格蕾丝作为女仆进入里弗顿庄园、见证诗人罗比·亨特与哈特福德姊妹汉娜与埃米琳之间的禁忌三角恋情、并在湖畔枪响之夜成为关键目击者；一九九八年片场重访，她面对那个被精准复刻却缺少灵魂的复制起居室；以及她暮年时决定是否打破一生沉默、把秘密讲述出来。本书核心主题是记忆与遗忘、阶层差异下的禁忌之爱、秘密与谎言的代际代价，以及一个普通人在成为秘密保管者后所付出的一生的自由。莫顿用细腻的笔触呈现：当善意相加却酿成悲剧、当忠诚被扭曲为控制、当真相被体面共同掩盖时，沉默的真正代价由谁承担。</description>
+      <pubDate>Thu, 08 Oct 2026 17:37:46 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-6bfdd2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《雾中回忆》是澳大利亚作家凯特·莫顿的代表作。故事从一九九八年一位九十八岁的前女仆格蕾丝收到一位电影导演的来信开始，她被邀请去看一部正在拍摄的电影片场——这部电影的场景，正是八十年前她工作过的英国里弗顿庄园。小说以三层时间结构交织叙事：一九一四至一九二四年格蕾丝作为女仆进入里弗顿庄园、见证诗人罗比·亨特与哈特福德姊妹汉娜与埃米琳之间的禁忌三角恋情、并在湖畔枪响之夜成为关键目击者；一九九八年片场重访，她面对那个被精准复刻却缺少灵魂的复制起居室；以及她暮年时决定是否打破一生沉默、把秘密讲述出来。本书核心主题是记忆与遗忘、阶层差异下的禁忌之爱、秘密与谎言的代际代价，以及一个普通人在成为秘密保管者后所付出的一生的自由。莫顿用细腻的笔触呈现：当善意相加却酿成悲剧、当忠诚被扭曲为控制、当真相被体面共同掩盖时，沉默的真正代价由谁承担。</itunes:summary>
+      <itunes:duration>00:31:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-6bfdd2.mp3" length="29881773" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
