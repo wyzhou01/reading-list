@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 01:22:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 01:31:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28439,6 +28439,17 @@
       <itunes:duration>00:29:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-b04e59.mp3" length="28559661" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《黑暗精灵三部曲》 · 完整版 · 黑暗精灵三部曲 · 完整讲读</title>
+      <description>本期《好好读书》一口气讲完R A 萨尔瓦多的《黑暗精灵三部曲》：在以暗杀为晋升之道、以蜘蛛神后罗丝为信仰的魔索布莱城中，崔斯特·杜垩登是家族里那个不该存在的善良婴儿。父亲札克纳梵偷偷为他种下善的种子，他却在地表世界把它长成了一整片森林。从幽暗地域到冰风谷，从逃离魔索布莱城到被矮人王国秘银厅接纳，崔斯特用三十年完成了一件事：在一个不奖励善良的世界里，证明了善良本身就可以是英雄的全部定义。</description>
+      <pubDate>Thu, 08 Oct 2026 01:31:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-312cda</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期《好好读书》一口气讲完R A 萨尔瓦多的《黑暗精灵三部曲》：在以暗杀为晋升之道、以蜘蛛神后罗丝为信仰的魔索布莱城中，崔斯特·杜垩登是家族里那个不该存在的善良婴儿。父亲札克纳梵偷偷为他种下善的种子，他却在地表世界把它长成了一整片森林。从幽暗地域到冰风谷，从逃离魔索布莱城到被矮人王国秘银厅接纳，崔斯特用三十年完成了一件事：在一个不奖励善良的世界里，证明了善良本身就可以是英雄的全部定义。</itunes:summary>
+      <itunes:duration>00:26:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-312cda.mp3" length="25400877" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
