@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 19:09:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 19:14:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29344,6 +29344,17 @@
       <itunes:duration>00:30:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-458cdc.mp3" length="29146413" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《月族：暗月之影》 · 完整版 · 月族：暗月之影 · 完整讲读</title>
+      <description>《月族：暗月之影》是美国作家玛丽莎·梅尔的全球畅销系列开篇之作。故事设定在瘟疫蓝热病肆虐的未来地球，十几岁的赛博格修理工林欣黛因王子的突然造访，被卷入一场关于身份、王位与自由的巨大风暴。她发现自己并非普通孤儿，而是月族失踪的公主。这本书用赛博朋克的外壳，包裹了一个关于身份认同、自由意志与科技伦理的成长寓言，讲述一个边缘少女在被命运推上王座之际，如何夺回定义自己的权力。</description>
+      <pubDate>Thu, 08 Oct 2026 19:14:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-3c814e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《月族：暗月之影》是美国作家玛丽莎·梅尔的全球畅销系列开篇之作。故事设定在瘟疫蓝热病肆虐的未来地球，十几岁的赛博格修理工林欣黛因王子的突然造访，被卷入一场关于身份、王位与自由的巨大风暴。她发现自己并非普通孤儿，而是月族失踪的公主。这本书用赛博朋克的外壳，包裹了一个关于身份认同、自由意志与科技伦理的成长寓言，讲述一个边缘少女在被命运推上王座之际，如何夺回定义自己的权力。</itunes:summary>
+      <itunes:duration>00:30:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-3c814e.mp3" length="28958637" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
