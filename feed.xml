@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 11:21:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 11:28:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29002,6 +29002,17 @@
       <itunes:duration>00:29:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-543220.mp3" length="27908013" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《豆腐匠的哲学》 · 完整版 · 豆腐匠的哲学（雅众·影事04）_-_[日]小津安二郎 · 完整讲读</title>
+      <description>小津安二郎以《豆腐匠的哲学》为名，收入其随笔、对谈、战地手记、作品自谈及《东京物语》完整剧本。本书展现了这位日本电影大师的完整创作轨迹：从中学毕业进入松竹蒲田片场，到成为导演 lifelong 创作生涯中的五十四部作品。全书围绕做电影如做豆腐的核心比喻，探讨匠人式的重复与克制、家庭与人情的微妙变迁、以及余味美学。书中收录大量小津对演员、剧本、摄影、音乐的亲自讨论，以及作为终身未婚者的私人感受，展示了他如何以最低的摄影机位、最简的固定机位、最不煽情的叙事，拍出《东京物语》等不朽的家庭剧经典。本书既是一位电影大师的艺术自述，也是一堂关于如何在有限中追求无限的美学课。</description>
+      <pubDate>Thu, 08 Oct 2026 11:28:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-15e0c6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>小津安二郎以《豆腐匠的哲学》为名，收入其随笔、对谈、战地手记、作品自谈及《东京物语》完整剧本。本书展现了这位日本电影大师的完整创作轨迹：从中学毕业进入松竹蒲田片场，到成为导演 lifelong 创作生涯中的五十四部作品。全书围绕做电影如做豆腐的核心比喻，探讨匠人式的重复与克制、家庭与人情的微妙变迁、以及余味美学。书中收录大量小津对演员、剧本、摄影、音乐的亲自讨论，以及作为终身未婚者的私人感受，展示了他如何以最低的摄影机位、最简的固定机位、最不煽情的叙事，拍出《东京物语》等不朽的家庭剧经典。本书既是一位电影大师的艺术自述，也是一堂关于如何在有限中追求无限的美学课。</itunes:summary>
+      <itunes:duration>00:27:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-15e0c6.mp3" length="26439597" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
