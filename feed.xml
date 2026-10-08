@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 23:48:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 23:54:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29443,6 +29443,17 @@
       <itunes:duration>00:35:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-8195da.mp3" length="34327341" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《花腔》 · 完整版 · 花腔_-_李洱 · 完整讲读</title>
+      <description>《花腔》是李洱耗时十年的长篇力作。知识分子葛任一九四三年消失在中国南方的大荒山，他的死被医生、人犯、法学家三人轮番讲述，每一次讲述都按照讲述者的立场被重新剪辑。李洱用复调叙事和正文副本交织的形式，瓦解了所有单一真相的可能。小说追问的是：当革命、战争、权力轮番碾过一个人的名字之后，记忆还能剩下什么。读懂《花腔》，你就拥有了一把钥匙，可以重新打开所有看似确凿无疑的历史叙事。</description>
+      <pubDate>Thu, 08 Oct 2026 23:54:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-6b1b27</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《花腔》是李洱耗时十年的长篇力作。知识分子葛任一九四三年消失在中国南方的大荒山，他的死被医生、人犯、法学家三人轮番讲述，每一次讲述都按照讲述者的立场被重新剪辑。李洱用复调叙事和正文副本交织的形式，瓦解了所有单一真相的可能。小说追问的是：当革命、战争、权力轮番碾过一个人的名字之后，记忆还能剩下什么。读懂《花腔》，你就拥有了一把钥匙，可以重新打开所有看似确凿无疑的历史叙事。</itunes:summary>
+      <itunes:duration>00:22:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-6b1b27.mp3" length="22005549" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
