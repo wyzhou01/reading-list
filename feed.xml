@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 01:02:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 01:13:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28417,6 +28417,17 @@
       <itunes:duration>00:22:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-76f0f0.mp3" length="21298605" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《杀死一只知更鸟》 · 完整版 · 杀死一只知更鸟史上最受喜爱的小说之一畅销全球的良知启蒙善良与爱不可辜负 · 完整讲读</title>
+      <description>《杀死一只知更鸟》是哈珀·李出版于一九六零年的唯一长篇小说，以一九三〇年代美国亚拉巴马州小镇梅科姆为背景，借童年女孩斯库特的视角，讲述了白人律师阿蒂克斯为被诬告的黑人汤姆辩护的审判及其余波。小说表面写种族不公，实质追问：当全社会认定一个人有罪，正义的代价由谁承担。哈珀·李借阿蒂克斯重新定义「勇敢」——明知会输仍坚持做完——并以「知更鸟」隐喻那些没做错任何事却被剥夺生存权的人：汤姆、布·拉德利、阿瑟·拉德利。本书出版后登《纽约时报》畅销榜八十余周，译为四十多种语言，获普利策小说奖，被列入全美中学必读书目，至今仍是讨论偏见、良心、教养与童年不可绕开的起点。</description>
+      <pubDate>Thu, 08 Oct 2026 01:13:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-786a47</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《杀死一只知更鸟》是哈珀·李出版于一九六零年的唯一长篇小说，以一九三〇年代美国亚拉巴马州小镇梅科姆为背景，借童年女孩斯库特的视角，讲述了白人律师阿蒂克斯为被诬告的黑人汤姆辩护的审判及其余波。小说表面写种族不公，实质追问：当全社会认定一个人有罪，正义的代价由谁承担。哈珀·李借阿蒂克斯重新定义「勇敢」——明知会输仍坚持做完——并以「知更鸟」隐喻那些没做错任何事却被剥夺生存权的人：汤姆、布·拉德利、阿瑟·拉德利。本书出版后登《纽约时报》畅销榜八十余周，译为四十多种语言，获普利策小说奖，被列入全美中学必读书目，至今仍是讨论偏见、良心、教养与童年不可绕开的起点。</itunes:summary>
+      <itunes:duration>00:30:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-786a47.mp3" length="29478573" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
