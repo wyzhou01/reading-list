@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 23:36:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 23:41:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29421,6 +29421,17 @@
       <itunes:duration>00:27:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-992407.mp3" length="26402349" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《春天与阿修罗》 · 完整版 · 春天与阿修罗 · 完整讲读</title>
+      <description>《春天与阿修罗》是宫泽贤治自费出版的第一部诗集, 写于一九二二年到一九二四年。他在盛冈高等农林学校毕业、病肺与失恋交织的二十六岁, 把以太和般若心经、脂肪酸云层和阿修罗之怒、冻土电线和理想乡伊哈特卜, 写进了同一张纸。本书以光学诗学和地质史诗重新定义日本近代诗, 也用一句不畏风雨告诉我们: 春天从未到来, 春天只是有人愿意在冻土上继续写下去。</description>
+      <pubDate>Thu, 08 Oct 2026 23:41:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-8eadfb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《春天与阿修罗》是宫泽贤治自费出版的第一部诗集, 写于一九二二年到一九二四年。他在盛冈高等农林学校毕业、病肺与失恋交织的二十六岁, 把以太和般若心经、脂肪酸云层和阿修罗之怒、冻土电线和理想乡伊哈特卜, 写进了同一张纸。本书以光学诗学和地质史诗重新定义日本近代诗, 也用一句不畏风雨告诉我们: 春天从未到来, 春天只是有人愿意在冻土上继续写下去。</itunes:summary>
+      <itunes:duration>00:22:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-8eadfb.mp3" length="21298221" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
