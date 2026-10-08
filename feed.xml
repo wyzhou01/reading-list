@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 19:01:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 19:09:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29333,6 +29333,17 @@
       <itunes:duration>00:26:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-5144e1.mp3" length="25844013" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《重塑幸福：如何活成你想要的模样》 · 完整版 · 重塑幸福：如何活成你想要的模样 · 完整讲读</title>
+      <description>《重塑幸福：如何活成你想要的模样》是马克·曼森二零一六年的现象级畅销书，全球销量超过一千万册。本书核心主张是：幸福不是解出一道方程式，痛苦和不满足才是人生的常态与底色。作者通过释迦牟尼出走的寓言、失望大熊猫的生物学解释、以及自身经历的诚实分享，提出了六个核心洞察：问题不会被消除，只会被置换；价值观决定你是谁；永远别说【我没有选择】；怀疑自己的脑子；戒掉特权意识；直面死亡，反而让一切变得更简单。这本书不是一碗甜鸡汤，而是一记清醒剂——它邀请读者承认局限、承担选择的责任、从错误中成长，最终活成自己选择的样子。</description>
+      <pubDate>Thu, 08 Oct 2026 19:09:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-458cdc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《重塑幸福：如何活成你想要的模样》是马克·曼森二零一六年的现象级畅销书，全球销量超过一千万册。本书核心主张是：幸福不是解出一道方程式，痛苦和不满足才是人生的常态与底色。作者通过释迦牟尼出走的寓言、失望大熊猫的生物学解释、以及自身经历的诚实分享，提出了六个核心洞察：问题不会被消除，只会被置换；价值观决定你是谁；永远别说【我没有选择】；怀疑自己的脑子；戒掉特权意识；直面死亡，反而让一切变得更简单。这本书不是一碗甜鸡汤，而是一记清醒剂——它邀请读者承认局限、承担选择的责任、从错误中成长，最终活成自己选择的样子。</itunes:summary>
+      <itunes:duration>00:30:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-458cdc.mp3" length="29146413" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
