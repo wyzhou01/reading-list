@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 01:31:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 01:40:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28450,6 +28450,17 @@
       <itunes:duration>00:26:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-312cda.mp3" length="25400877" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《羊道三部曲》 · 完整版 · 羊道三部曲_-_李娟 · 完整讲读</title>
+      <description>《羊道三部曲》是李娟二〇〇七年春天跟随哈萨克牧民扎克拜妈妈一家游牧生活的真实记录。她以克制而深情的笔触，写下从春牧场到前山夏牧场再到深山夏牧场的迁徙、食物、孩童、婚礼与日常劳作。书中没有启蒙姿态，没有猎奇抒情，只有一个外来者蹑手蹑脚地把游牧生活的尊严原原本本交还给它的主人。它提醒我们：人本来可以活得不那么急。</description>
+      <pubDate>Thu, 08 Oct 2026 01:40:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-7caa7c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《羊道三部曲》是李娟二〇〇七年春天跟随哈萨克牧民扎克拜妈妈一家游牧生活的真实记录。她以克制而深情的笔触，写下从春牧场到前山夏牧场再到深山夏牧场的迁徙、食物、孩童、婚礼与日常劳作。书中没有启蒙姿态，没有猎奇抒情，只有一个外来者蹑手蹑脚地把游牧生活的尊严原原本本交还给它的主人。它提醒我们：人本来可以活得不那么急。</itunes:summary>
+      <itunes:duration>00:27:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-7caa7c.mp3" length="26661549" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
