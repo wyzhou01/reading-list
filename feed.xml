@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 04:14:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 04:20:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28628,6 +28628,17 @@
       <itunes:duration>00:40:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-ff2a13.mp3" length="38772525" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《笨人的成圣之道：曾国藩》 · 完整版 · 笨人的成圣之道：曾国藩 · 完整讲读</title>
+      <description>《笨人的成圣之道：曾国藩》由雾满拦江著，厦门大学出版社出版。作者以人性视角讲述曾国藩从一个笨拙、阴沉、记仇的少年，如何成长为平定太平天国、支撑晚清政局的能臣。全书不只是讲成功，也讲一个人如何在权力、战乱和自我欲望之间保持清醒。曾国藩靠的不是天才，而是笨功夫、自省习惯、纪律约束和对人性的持续认识。他无法超脱时代，却努力不把责任推给别人，在蒙昧中活成一个明白人。这本书提醒我们，真正能改变命运的，往往不是灵光一现，而是日复一日的扎实行动。</description>
+      <pubDate>Thu, 08 Oct 2026 04:20:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-d6209a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《笨人的成圣之道：曾国藩》由雾满拦江著，厦门大学出版社出版。作者以人性视角讲述曾国藩从一个笨拙、阴沉、记仇的少年，如何成长为平定太平天国、支撑晚清政局的能臣。全书不只是讲成功，也讲一个人如何在权力、战乱和自我欲望之间保持清醒。曾国藩靠的不是天才，而是笨功夫、自省习惯、纪律约束和对人性的持续认识。他无法超脱时代，却努力不把责任推给别人，在蒙昧中活成一个明白人。这本书提醒我们，真正能改变命运的，往往不是灵光一现，而是日复一日的扎实行动。</itunes:summary>
+      <itunes:duration>00:22:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-d6209a.mp3" length="22042413" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
