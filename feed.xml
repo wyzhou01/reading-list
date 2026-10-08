@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 11:02:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 11:09:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28969,6 +28969,17 @@
       <itunes:duration>00:27:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-39f8cf.mp3" length="26393517" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《全能侦探社》 · 完整版 · 全能侦探社 · 完整讲读</title>
+      <description>《全能侦探社》是道格拉斯·亚当斯一九八七年独立创作的第一部长篇小说。故事由一只失踪的猫、一匹会思考的马、一座歪斜的塔、一首没听过的巴赫串联而成。伦敦最不像样的整体侦探德克·简特利接手猫案，却意外卷入一场横跨整个宇宙的因果风暴；时间学教授雷格能操纵时间，却把人类文明玩到了灭绝边缘；倒霉的程序员理查德以为自己只是在走霉运，最后却发现自己是拯救巴赫和整个人类的关键。整本书用荒诞喜剧包裹一个严肃的存在主义追问——如果万事万物之间确有联系，那么我们如何在看不见联系的世界里，依然选择相信、依然选择活下去。三十多年过去，这本书在今天读起来，依然是最温柔的一种提醒。</description>
+      <pubDate>Thu, 08 Oct 2026 11:08:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-892f1e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《全能侦探社》是道格拉斯·亚当斯一九八七年独立创作的第一部长篇小说。故事由一只失踪的猫、一匹会思考的马、一座歪斜的塔、一首没听过的巴赫串联而成。伦敦最不像样的整体侦探德克·简特利接手猫案，却意外卷入一场横跨整个宇宙的因果风暴；时间学教授雷格能操纵时间，却把人类文明玩到了灭绝边缘；倒霉的程序员理查德以为自己只是在走霉运，最后却发现自己是拯救巴赫和整个人类的关键。整本书用荒诞喜剧包裹一个严肃的存在主义追问——如果万事万物之间确有联系，那么我们如何在看不见联系的世界里，依然选择相信、依然选择活下去。三十多年过去，这本书在今天读起来，依然是最温柔的一种提醒。</itunes:summary>
+      <itunes:duration>00:31:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-892f1e.mp3" length="30551469" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
