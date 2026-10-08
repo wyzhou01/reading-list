@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 02:05:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 02:16:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28483,6 +28483,17 @@
       <itunes:duration>00:25:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-c9be85.mp3" length="24249645" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《行者玄奘：乱世佛子》 · 完整版 · 行者玄奘：乱世佛子_-_昌如 · 完整讲读</title>
+      <description>《行者玄奘：乱世佛子》是昌如所著的长篇传记小说，以小说的笔法还原玄奘真实的一生。全书从凤凰谷的童年讲起，途经少年出家、洛阳求学、长安问道，一直到偷渡出关、西行求法、拒接太宗诏书。书中重点还原了三个被后世误读或忽略的关键：一、玄奘西行的真正动力——他发现中土佛经译本【乱成一锅粥】，带着十七条具体问题踏上西行路；二、佛道之争的政治背景——他不是漠视规则，而是在规则内已走到尽头才铤而走险【私渡】；三、拒接太宗诏书的清醒——他用放弃高官厚禄，换来译经事业的独立。玄奘用一生回答了一个问题：在乱世里，个人理想与时代困境相撞时，普通人究竟能走多远？答案是：哪怕孤身一人，哪怕横穿八百里流沙，哪怕九死一生，也要问心无愧。</description>
+      <pubDate>Thu, 08 Oct 2026 02:16:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-9792fa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《行者玄奘：乱世佛子》是昌如所著的长篇传记小说，以小说的笔法还原玄奘真实的一生。全书从凤凰谷的童年讲起，途经少年出家、洛阳求学、长安问道，一直到偷渡出关、西行求法、拒接太宗诏书。书中重点还原了三个被后世误读或忽略的关键：一、玄奘西行的真正动力——他发现中土佛经译本【乱成一锅粥】，带着十七条具体问题踏上西行路；二、佛道之争的政治背景——他不是漠视规则，而是在规则内已走到尽头才铤而走险【私渡】；三、拒接太宗诏书的清醒——他用放弃高官厚禄，换来译经事业的独立。玄奘用一生回答了一个问题：在乱世里，个人理想与时代困境相撞时，普通人究竟能走多远？答案是：哪怕孤身一人，哪怕横穿八百里流沙，哪怕九死一生，也要问心无愧。</itunes:summary>
+      <itunes:duration>00:35:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-9792fa.mp3" length="34340397" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
