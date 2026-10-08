@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 01:58:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 02:05:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28472,6 +28472,17 @@
       <itunes:duration>00:29:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-7618b5.mp3" length="28083885" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《黑洞不是黑的：霍金BBC里斯讲演》 · 完整版 · 黑洞不是黑的 · 完整讲读</title>
+      <description>本书收录霍金在二零一六年里斯讲座上的两次讲演及合作论文《黑洞上的软毛》。从事件视界与霍金辐射讲起，揭示黑洞并非永久的囚笼；进而直面信息丢失悖论，承认自己输掉了与同事的赌局；最终提出超平移软毛理论，论证信息被编码在视界上，从而在量子力学与广义相对论之间搭起一座桥梁。这是霍金留给世人的思想遗嘱，也是一封写给每一个普通人的宇宙邀请函。</description>
+      <pubDate>Thu, 08 Oct 2026 02:05:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-c9be85</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书收录霍金在二零一六年里斯讲座上的两次讲演及合作论文《黑洞上的软毛》。从事件视界与霍金辐射讲起，揭示黑洞并非永久的囚笼；进而直面信息丢失悖论，承认自己输掉了与同事的赌局；最终提出超平移软毛理论，论证信息被编码在视界上，从而在量子力学与广义相对论之间搭起一座桥梁。这是霍金留给世人的思想遗嘱，也是一封写给每一个普通人的宇宙邀请函。</itunes:summary>
+      <itunes:duration>00:25:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-c9be85.mp3" length="24249645" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
