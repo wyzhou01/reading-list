@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 23:19:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 23:24:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29388,6 +29388,17 @@
       <itunes:duration>00:27:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-11f76b.mp3" length="26499885" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《山河袈裟》 · 完整版 · 山河袈裟 · 完整讲读</title>
+      <description>《山河袈裟》是李修文困顿十年后写下的散文集。他曾因精神危机陷入停滞，转而以编剧、编辑等方式谋生，在寺院、片场、小旅馆与长途火车之间写下所见所闻。二十八篇文章记录了门卫、小贩、快递员、农人、陪护者与一只猴子的生命。他把这些普通人称为人民，将困顿里的写作视为正信与袈裟。全书以羞耻为起点，在不断承认边缘与渺小中，完成了一次向内的归位：人不必成为高高在上的贵族，才值得被讲述与记住。</description>
+      <pubDate>Thu, 08 Oct 2026 23:23:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-eadaf6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《山河袈裟》是李修文困顿十年后写下的散文集。他曾因精神危机陷入停滞，转而以编剧、编辑等方式谋生，在寺院、片场、小旅馆与长途火车之间写下所见所闻。二十八篇文章记录了门卫、小贩、快递员、农人、陪护者与一只猴子的生命。他把这些普通人称为人民，将困顿里的写作视为正信与袈裟。全书以羞耻为起点，在不断承认边缘与渺小中，完成了一次向内的归位：人不必成为高高在上的贵族，才值得被讲述与记住。</itunes:summary>
+      <itunes:duration>00:17:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-eadaf6.mp3" length="17260077" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
