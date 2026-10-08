@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 08:59:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 09:06:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28782,6 +28782,17 @@
       <itunes:duration>00:35:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-161b9c.mp3" length="33609261" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《印度三部曲1：幽暗国度》 · 完整版 · 印度三部曲1：幽暗国度 · 完整讲读</title>
+      <description>《幽暗国度》是奈保尔印度三部曲的第一部，记录他从一九六二年到一九六四年间回到母国印度的所见所感。这位生于加勒比海岛国特立尼达的印度裔作家，用西方训练出的冷峻笔法审视印度，戳破了殖民遗绪、种姓禁锢、阶级鸿沟、独立后的政治喧嚣与精神虚无交织而成的幽暗现实。他穿梭于孟买、加尔各答、克什米尔、贝拿勒斯之间，既是局内人又是局外人，既渴望认同又刻意疏离。最后他判定印度属于黑夜，一个已经死亡的世界，而他自己也成了无家可归的异乡人。这本书不只是一部游记，更是一份无根者用撕裂目光审视母国的精神档案，至今仍是理解后殖民困境与南亚精神脉络的必读之作。</description>
+      <pubDate>Thu, 08 Oct 2026 09:06:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-93760c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《幽暗国度》是奈保尔印度三部曲的第一部，记录他从一九六二年到一九六四年间回到母国印度的所见所感。这位生于加勒比海岛国特立尼达的印度裔作家，用西方训练出的冷峻笔法审视印度，戳破了殖民遗绪、种姓禁锢、阶级鸿沟、独立后的政治喧嚣与精神虚无交织而成的幽暗现实。他穿梭于孟买、加尔各答、克什米尔、贝拿勒斯之间，既是局内人又是局外人，既渴望认同又刻意疏离。最后他判定印度属于黑夜，一个已经死亡的世界，而他自己也成了无家可归的异乡人。这本书不只是一部游记，更是一份无根者用撕裂目光审视母国的精神档案，至今仍是理解后殖民困境与南亚精神脉络的必读之作。</itunes:summary>
+      <itunes:duration>00:27:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-93760c.mp3" length="26221869" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
