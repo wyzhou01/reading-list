@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 18:46:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 18:54:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29311,6 +29311,17 @@
       <itunes:duration>00:25:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-8fb8c5.mp3" length="24571053" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我的兄弟叫顺溜》 · 完整版 · 我的兄弟叫顺溜 · 完整讲读</title>
+      <description>《我的兄弟叫顺溜》是朱苏进创作的抗日题材悲壮成长史。一九四四年苏北,猎户少年顺溜因枪法天赋被新四军六分区司令陈大雷赏识,从此被战争裹挟。他与日军狙击手坂田跨越数章宿命对决,最终在水塔之巅以命换命,击碎石原骨灰、逼降坂田。姐姐为护他嫁与汉奸,他为护姐姐死于自家枪口。这不是英雄无敌的故事,而是天才被牺牲、军法碾碎私情的代价之书。</description>
+      <pubDate>Thu, 08 Oct 2026 18:54:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-fc852b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我的兄弟叫顺溜》是朱苏进创作的抗日题材悲壮成长史。一九四四年苏北,猎户少年顺溜因枪法天赋被新四军六分区司令陈大雷赏识,从此被战争裹挟。他与日军狙击手坂田跨越数章宿命对决,最终在水塔之巅以命换命,击碎石原骨灰、逼降坂田。姐姐为护他嫁与汉奸,他为护姐姐死于自家枪口。这不是英雄无敌的故事,而是天才被牺牲、军法碾碎私情的代价之书。</itunes:summary>
+      <itunes:duration>00:30:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-fc852b.mp3" length="29204013" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
