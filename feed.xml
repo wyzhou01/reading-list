@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 10:40:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 10:49:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28936,6 +28936,17 @@
       <itunes:duration>00:32:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-c199ac.mp3" length="31515693" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《梦的真相》 · 完整版 · 梦的真相 · 完整讲读</title>
+      <description>《梦的真相》是美国科普记者大卫·K.兰德尔因自己梦游撞墙的亲身经历，走访全美顶尖睡眠实验室、军方基地、医院和大学写成的睡眠科学探险书。全书围绕六个核心追问展开：睡眠的本质是什么、剥夺睡眠的代价是什么、现代生活如何偷走睡眠、谁在利用睡眠、睡觉时大脑在做什么、整个社会为少睡付出了什么。书中既有兰迪·加德纳连续十一天不睡觉的历史实验，也有学校因推迟第一节课而提升学生成绩的真实案例，更有睡眠被当成审讯武器、安眠药成为百亿美元产业的冷峻观察。这本书告诉我们，睡眠不是每天空出来的那几个小时，而是大脑的主动工作时间、记忆的加工厂、情绪的回收站，更是我们所有清醒时刻的底座。在一个拒绝睡眠的时代，《梦的真相》是一份迟到的提醒：少睡一夜的代价，从来不是免费的。</description>
+      <pubDate>Thu, 08 Oct 2026 10:49:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-c23632</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《梦的真相》是美国科普记者大卫·K.兰德尔因自己梦游撞墙的亲身经历，走访全美顶尖睡眠实验室、军方基地、医院和大学写成的睡眠科学探险书。全书围绕六个核心追问展开：睡眠的本质是什么、剥夺睡眠的代价是什么、现代生活如何偷走睡眠、谁在利用睡眠、睡觉时大脑在做什么、整个社会为少睡付出了什么。书中既有兰迪·加德纳连续十一天不睡觉的历史实验，也有学校因推迟第一节课而提升学生成绩的真实案例，更有睡眠被当成审讯武器、安眠药成为百亿美元产业的冷峻观察。这本书告诉我们，睡眠不是每天空出来的那几个小时，而是大脑的主动工作时间、记忆的加工厂、情绪的回收站，更是我们所有清醒时刻的底座。在一个拒绝睡眠的时代，《梦的真相》是一份迟到的提醒：少睡一夜的代价，从来不是免费的。</itunes:summary>
+      <itunes:duration>00:38:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-c23632.mp3" length="37108653" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
