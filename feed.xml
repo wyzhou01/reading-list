@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 03:36:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 03:42:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -28584,6 +28584,17 @@
       <itunes:duration>00:28:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-27fe33.mp3" length="27274413" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《偶遇》 · 完整版 · 偶遇 · 完整讲读</title>
+      <description>《偶遇》是主持人陈鲁豫二零一七年的书信集，记录了她与读者两年间的真实通信。她在书中不扮演人生导师，只做一个同样在生活里摸爬滚打的同龄人，听读者讲完，然后告诉他们：我也一样。全书围绕按自己意愿生活、不被外界评价绑架的爱情与职场、在孤独中依然相信爱、为婚姻做准备、敢于放手、成熟的友情六大主题展开，鼓励每个读者接受自己的内向、丧、不合群，承认自己本身就是完整的。它不提供解决方案，只提供陪伴；在情感指南充斥市场的当下，这本书以罕见的诚实，成为一本写给至暗时刻的陪伴手册。</description>
+      <pubDate>Thu, 08 Oct 2026 03:42:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261007-episode-20261007-b301d5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《偶遇》是主持人陈鲁豫二零一七年的书信集，记录了她与读者两年间的真实通信。她在书中不扮演人生导师，只做一个同样在生活里摸爬滚打的同龄人，听读者讲完，然后告诉他们：我也一样。全书围绕按自己意愿生活、不被外界评价绑架的爱情与职场、在孤独中依然相信爱、为婚姻做准备、敢于放手、成熟的友情六大主题展开，鼓励每个读者接受自己的内向、丧、不合群，承认自己本身就是完整的。它不提供解决方案，只提供陪伴；在情感指南充斥市场的当下，这本书以罕见的诚实，成为一本写给至暗时刻的陪伴手册。</itunes:summary>
+      <itunes:duration>00:27:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261007/episode-20261007-b301d5.mp3" length="26727981" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
