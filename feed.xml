@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 07:15:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 07:23:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29993,6 +29993,17 @@
       <itunes:duration>00:24:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-faa183.mp3" length="23895597" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《陆家古宅》 · 完整版 · 陆家古宅 · 完整讲读</title>
+      <description>上海闹市区的陆家宅接连发生无头尸案，警察介入却被村中老人以三十年一次的枯骨诅咒挡回。新人女警叶清萍与搭档林周意外结识背负蝙蝠挂坠的盲女麻姑，由此牵出蝠魔教、鬼谷派、幽灵山庄、千年尸婆等跨越千年的邪教脉络。叶清萍在追查中与神秘青年孙剑秋相遇相知，揭开三十六具和尚枯骨与三十六载轮回诅咒的真相，最终在伊水河畔以一首用鲜血吹奏的《安灵神曲》化解百年因果，让有情人跨越阴阳重逢。</description>
+      <pubDate>Fri, 09 Oct 2026 07:23:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-55ac4a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>上海闹市区的陆家宅接连发生无头尸案，警察介入却被村中老人以三十年一次的枯骨诅咒挡回。新人女警叶清萍与搭档林周意外结识背负蝙蝠挂坠的盲女麻姑，由此牵出蝠魔教、鬼谷派、幽灵山庄、千年尸婆等跨越千年的邪教脉络。叶清萍在追查中与神秘青年孙剑秋相遇相知，揭开三十六具和尚枯骨与三十六载轮回诅咒的真相，最终在伊水河畔以一首用鲜血吹奏的《安灵神曲》化解百年因果，让有情人跨越阴阳重逢。</itunes:summary>
+      <itunes:duration>00:25:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-55ac4a.mp3" length="24056877" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
