@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 07:52:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 08:00:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30037,6 +30037,17 @@
       <itunes:duration>00:35:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-eb6ed3.mp3" length="34272045" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《海浪》 · 完整版 · 海浪_(译文经典) · 完整讲读</title>
+      <description>《海浪》是英国现代主义女作家弗吉尼亚·伍尔夫于一九三一年出版的意识流巅峰之作。全书摒弃传统情节与人物塑造，以九段对应太阳运行的散文诗作为引子，串联六位无姓氏人物从童年到老年的瞬间内心独白。这六个声部如同六个独立又交织的意识切面，在晨昏交替中展现人类对时间、死亡、语言与孤独的永恒追问。沉默的英雄珀西瓦尔始终缺席却无所不在，成为他们共同的精神锚点。最终老年的伯纳德独自面对生命终点，在语言的马上朝死亡发起最后的冲锋，留下了现代人面对不可言说之物时最诚实的姿态。这部诗化、音乐化、抽象化的实验之作，是伍尔夫留给二十世纪文学最奇特也最深邃的遗产。</description>
+      <pubDate>Fri, 09 Oct 2026 08:00:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-e4cce9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《海浪》是英国现代主义女作家弗吉尼亚·伍尔夫于一九三一年出版的意识流巅峰之作。全书摒弃传统情节与人物塑造，以九段对应太阳运行的散文诗作为引子，串联六位无姓氏人物从童年到老年的瞬间内心独白。这六个声部如同六个独立又交织的意识切面，在晨昏交替中展现人类对时间、死亡、语言与孤独的永恒追问。沉默的英雄珀西瓦尔始终缺席却无所不在，成为他们共同的精神锚点。最终老年的伯纳德独自面对生命终点，在语言的马上朝死亡发起最后的冲锋，留下了现代人面对不可言说之物时最诚实的姿态。这部诗化、音乐化、抽象化的实验之作，是伍尔夫留给二十世纪文学最奇特也最深邃的遗产。</itunes:summary>
+      <itunes:duration>00:30:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-e4cce9.mp3" length="29581101" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
