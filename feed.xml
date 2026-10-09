@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 00:37:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 00:41:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29531,6 +29531,17 @@
       <itunes:duration>00:26:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-b7a3a2.mp3" length="25409325" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《怪屋女孩》 · 完整版 · 怪屋女孩_-_[美]兰萨姆里格斯 · 完整讲读</title>
+      <description>《怪屋女孩》讲述了十五岁的雅各布在爷爷临终遗言的指引下，登上神秘小岛，与一群身怀异能的儿童相识、相护，并最终带着他们穿越时光圈回到一九四〇年、奔赴一场无法回避的战争的故事。全书以爷爷反复讲述的睡前故事为线索，揭开所谓「异能儿童」的真相——他们并非拥有魔法，而是大屠杀中幸存的犹太孤儿，他们身上所谓的奇迹，是从一个不允许他们存在的世界里活着走出来本身。书里没有把历史写成奇观，而是把奇观写成了历史；没有把成长写成胜利，而是把成长写成了在看清之后仍然选择承担。</description>
+      <pubDate>Fri, 09 Oct 2026 00:41:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-e778d9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《怪屋女孩》讲述了十五岁的雅各布在爷爷临终遗言的指引下，登上神秘小岛，与一群身怀异能的儿童相识、相护，并最终带着他们穿越时光圈回到一九四〇年、奔赴一场无法回避的战争的故事。全书以爷爷反复讲述的睡前故事为线索，揭开所谓「异能儿童」的真相——他们并非拥有魔法，而是大屠杀中幸存的犹太孤儿，他们身上所谓的奇迹，是从一个不允许他们存在的世界里活着走出来本身。书里没有把历史写成奇观，而是把奇观写成了历史；没有把成长写成胜利，而是把成长写成了在看清之后仍然选择承担。</itunes:summary>
+      <itunes:duration>00:14:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-e778d9.mp3" length="13888941" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
