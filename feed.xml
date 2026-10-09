@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 17:54:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 18:00:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30468,6 +30468,17 @@
       <itunes:duration>00:30:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-e4d0d4.mp3" length="28890285" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《斯人若彩虹》 · 完整版 · 斯人若彩虹 · 完整讲读</title>
+      <description>《斯人若彩虹》是八零后言情作者三文愚第三部长篇小说，讲述妇产科护士倪年与天文爱好者叶鲤宁因一枚印章、一把皮尺、一段迷迭香在什刹海畔灯草胡同相遇，从北京到苏黎世再到香港，以二十年柴米油盐的耐心，把宇宙级浪漫过成朴素深情的故事。同名电台网络、义卖网站9?与铁四角友谊，三条支线共同回应了流量时代一个被忽略的问题：我们究竟需要怎样的爱情？答案是相信善良、相信勇敢、相信爱这件事，永远不能被嘲笑。</description>
+      <pubDate>Fri, 09 Oct 2026 18:00:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-86a043</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《斯人若彩虹》是八零后言情作者三文愚第三部长篇小说，讲述妇产科护士倪年与天文爱好者叶鲤宁因一枚印章、一把皮尺、一段迷迭香在什刹海畔灯草胡同相遇，从北京到苏黎世再到香港，以二十年柴米油盐的耐心，把宇宙级浪漫过成朴素深情的故事。同名电台网络、义卖网站9?与铁四角友谊，三条支线共同回应了流量时代一个被忽略的问题：我们究竟需要怎样的爱情？答案是相信善良、相信勇敢、相信爱这件事，永远不能被嘲笑。</itunes:summary>
+      <itunes:duration>00:31:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-86a043.mp3" length="29922093" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
