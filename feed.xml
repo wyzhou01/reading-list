@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 11:30:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 11:38:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30369,6 +30369,17 @@
       <itunes:duration>00:29:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-371c14.mp3" length="27876909" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《玛丽·安妮》 · 完整版 · 玛丽·安妮 · 完整讲读</title>
+      <description>《玛丽·安妮》是达芙妮·杜穆里埃一九五四年出版的一部传记式小说，改写自十八世纪末摄政时代伦敦的真实人物玛丽·安妮·克拉克的回忆录与议会调查档案。一位舰队街印刷工的继女，从鲍灵客栈巷的贫民窟一路走到格洛斯特广场，做了约克公爵弗雷德里克多年的情人，先后为他生下孩子，又在一八零九年那场著名的议会调查中全身而退。她一生中所有最要紧的事——谋生、谋爱、谋孩子的未来、谋自己的尊严——都是在舰队街学到的小册子语法和贫民窟笑容里撑过去的。杜穆里埃用扣子、鱼和竖琴，写出了一个被正史抹掉的女人的整张地图：被遗忘的人最终留下来的，不是头衔与丑闻，只有那副笑容，和她从街头带出来、至死不肯卸下的语气。</description>
+      <pubDate>Fri, 09 Oct 2026 11:38:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-9956f8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《玛丽·安妮》是达芙妮·杜穆里埃一九五四年出版的一部传记式小说，改写自十八世纪末摄政时代伦敦的真实人物玛丽·安妮·克拉克的回忆录与议会调查档案。一位舰队街印刷工的继女，从鲍灵客栈巷的贫民窟一路走到格洛斯特广场，做了约克公爵弗雷德里克多年的情人，先后为他生下孩子，又在一八零九年那场著名的议会调查中全身而退。她一生中所有最要紧的事——谋生、谋爱、谋孩子的未来、谋自己的尊严——都是在舰队街学到的小册子语法和贫民窟笑容里撑过去的。杜穆里埃用扣子、鱼和竖琴，写出了一个被正史抹掉的女人的整张地图：被遗忘的人最终留下来的，不是头衔与丑闻，只有那副笑容，和她从街头带出来、至死不肯卸下的语气。</itunes:summary>
+      <itunes:duration>00:41:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-9956f8.mp3" length="40093869" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
