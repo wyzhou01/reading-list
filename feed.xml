@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 08:33:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 08:40:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30103,6 +30103,17 @@
       <itunes:duration>00:37:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-5dff7c.mp3" length="35693997" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《红书》 · 完整版 · 红书 · 完整讲读</title>
+      <description>《红书》是瑞士心理学家荣格在一九一三至一九三零年间完成的私人手稿，记录了他与导师弗洛伊德决裂后长达十七年的自我实验。他每天记录梦境、幻想与内心对话，用哲学戏剧形式写下灵魂与神的分裂、对英雄的谋杀、地狱中的献祭，配以亲手绘制的象征图画。荣格后期所有核心理论——阴影、阿尼玛、自性、积极想象、个体化——全部发源于此。这部尘封近一个世纪的作品在二零零九年首次公开出版，是理解二十世纪深层心理学、神话象征与个体精神整合的源头文本，也是一部现代人如何从自我分裂走向自性整合的精神成年礼。</description>
+      <pubDate>Fri, 09 Oct 2026 08:40:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-0a07aa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《红书》是瑞士心理学家荣格在一九一三至一九三零年间完成的私人手稿，记录了他与导师弗洛伊德决裂后长达十七年的自我实验。他每天记录梦境、幻想与内心对话，用哲学戏剧形式写下灵魂与神的分裂、对英雄的谋杀、地狱中的献祭，配以亲手绘制的象征图画。荣格后期所有核心理论——阴影、阿尼玛、自性、积极想象、个体化——全部发源于此。这部尘封近一个世纪的作品在二零零九年首次公开出版，是理解二十世纪深层心理学、神话象征与个体精神整合的源头文本，也是一部现代人如何从自我分裂走向自性整合的精神成年礼。</itunes:summary>
+      <itunes:duration>00:29:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-0a07aa.mp3" length="28660653" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
