@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 00:23:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 00:31:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29509,6 +29509,17 @@
       <itunes:duration>00:22:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-a07abf.mp3" length="21659949" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《芳华》 · 完整版 · 芳华_-_严歌苓 · 完整讲读</title>
+      <description>严歌苓以1970年代部队文工团为背景，透过叙述者萧穗子的视角，讲述&apos;活雷锋&apos;刘峰从被集体崇拜到因&apos;触摸事件&apos;被放逐、最终战死边缘的悲剧。刘峰一生平凡善良，却因这份善良被消费、被遗忘；而当年那个被他触碰的女兵林丁丁、暗恋他多年的小嫚、以及整个红楼中的青春男女，都在时代洪流中被塑造、被碾碎。这是一曲理想主义的挽歌，也是对集体如何吞噬个体最锋利的拷问。</description>
+      <pubDate>Fri, 09 Oct 2026 00:31:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-9da1e8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>严歌苓以1970年代部队文工团为背景，透过叙述者萧穗子的视角，讲述&apos;活雷锋&apos;刘峰从被集体崇拜到因&apos;触摸事件&apos;被放逐、最终战死边缘的悲剧。刘峰一生平凡善良，却因这份善良被消费、被遗忘；而当年那个被他触碰的女兵林丁丁、暗恋他多年的小嫚、以及整个红楼中的青春男女，都在时代洪流中被塑造、被碾碎。这是一曲理想主义的挽歌，也是对集体如何吞噬个体最锋利的拷问。</itunes:summary>
+      <itunes:duration>00:29:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-9da1e8.mp3" length="28393773" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
