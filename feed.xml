@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 10:11:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 10:19:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30235,6 +30235,17 @@
       <itunes:duration>00:33:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-d40695.mp3" length="32526381" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《不诚实的诚实真相》 · 完整版 · 不诚实的诚实真相(1) · 完整讲读</title>
+      <description>《不诚实的诚实真相》是行为经济学家丹·艾瑞里继《怪诞行为学》之后的又一力作，聚焦一个与我们每个人都息息相关的主题——不诚实。通过几十个精心设计的实验，艾瑞里推翻了经济学传统的【理性犯罪模型】，提出一个全新的解释框架：人类的行为受【自我形象维护】与【金钱利益获取】两种相反动因的博弈决定。书中深入剖析了利益冲突、自我耗竭、创造力、穿冒牌服饰等让人更容易撒谎的因素，揭示了【小谎言】比【大骗局】更普遍、危害更大的真相，并给出了大量可操作的制度建设方案。这本书既是写给普通人的一面镜子，让我们看清内心偶尔撒谎的自己；也是写给管理者和政策制定者的一份实用手册，告诉我们如何通过制度设计，让诚实变成一件更容易做到的事。</description>
+      <pubDate>Fri, 09 Oct 2026 10:19:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-bea4c1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《不诚实的诚实真相》是行为经济学家丹·艾瑞里继《怪诞行为学》之后的又一力作，聚焦一个与我们每个人都息息相关的主题——不诚实。通过几十个精心设计的实验，艾瑞里推翻了经济学传统的【理性犯罪模型】，提出一个全新的解释框架：人类的行为受【自我形象维护】与【金钱利益获取】两种相反动因的博弈决定。书中深入剖析了利益冲突、自我耗竭、创造力、穿冒牌服饰等让人更容易撒谎的因素，揭示了【小谎言】比【大骗局】更普遍、危害更大的真相，并给出了大量可操作的制度建设方案。这本书既是写给普通人的一面镜子，让我们看清内心偶尔撒谎的自己；也是写给管理者和政策制定者的一份实用手册，告诉我们如何通过制度设计，让诚实变成一件更容易做到的事。</itunes:summary>
+      <itunes:duration>00:29:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-bea4c1.mp3" length="28348845" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
