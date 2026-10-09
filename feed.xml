@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 10:37:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 10:45:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30279,6 +30279,17 @@
       <itunes:duration>00:12:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-a5e39a.mp3" length="11814573" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《孤城闭》 · 完整版 · 孤城闭v1.0_-_米兰Lady · 完整讲读</title>
+      <description>《孤城闭》是网名米兰Lady的网络历史言情作家以北宋仁宗朝为背景创作的长篇小说，以半部宋代宫廷风俗志的考据笔触，写礼法典制与个体情感的惨烈冲突。内侍梁怀吉八岁入宫，与宗室女赵徽柔在朱墙之内相知相守，却终究敌不过宗法礼教，被生生拆散；与此同时，画学生崔白以不肯屈服于黄氏院体的野逸笔法、状元冯京在婚姻政治与仕途抉择间的进退两难、知制诰胡宿封还词头的微小抵抗，共同构成了一幅盛世之下个体被制度碾压的全景图。书中最动人的不是爱情，而是那些在牢笼里依然不肯整齐的人——他们用落墨前的留白、用一次掷向画面的墨迹、用一封封还的词头，证明孤城从未真正闭过。</description>
+      <pubDate>Fri, 09 Oct 2026 10:45:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-03979f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《孤城闭》是网名米兰Lady的网络历史言情作家以北宋仁宗朝为背景创作的长篇小说，以半部宋代宫廷风俗志的考据笔触，写礼法典制与个体情感的惨烈冲突。内侍梁怀吉八岁入宫，与宗室女赵徽柔在朱墙之内相知相守，却终究敌不过宗法礼教，被生生拆散；与此同时，画学生崔白以不肯屈服于黄氏院体的野逸笔法、状元冯京在婚姻政治与仕途抉择间的进退两难、知制诰胡宿封还词头的微小抵抗，共同构成了一幅盛世之下个体被制度碾压的全景图。书中最动人的不是爱情，而是那些在牢笼里依然不肯整齐的人——他们用落墨前的留白、用一次掷向画面的墨迹、用一封封还的词头，证明孤城从未真正闭过。</itunes:summary>
+      <itunes:duration>00:37:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-03979f.mp3" length="35734701" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
