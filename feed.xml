@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 08:25:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 08:33:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30092,6 +30092,17 @@
       <itunes:duration>00:33:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-d49a20.mp3" length="32105133" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《孝陵卫》 · 完整版 · 孝陵卫 · 完整讲读</title>
+      <description>《孝陵卫》是陆老师笔名陈老师所著、二零一二年江苏人民出版社出版的明朝奇幻悬疑小说，以嘉靖年间一支名为孝陵卫的秘密神鬼部队为舞台，将朱元璋、刘伯温时代的奇术秘辛嫁接到一百多年后的南京。书里涉及的役鬼术、风水术、精怪术、摄魂术、尸魅术五种奇术，均以阴阳五行理论打底，每一门都要数十年苦修、代代家族传承、拿命去填。全书以特工题材、佛道斗法、家族传承三条线拧成一股绳，从鄱阳湖大战郭嵩自刎化鬼射杀陈友谅、刘基被胡惟庸毒杀，到孝陵卫的建立与传承，直至嘉靖年间郭丹鹤为母报仇、寻父归乡的孤绝之路，每一段往事都为后面的故事埋下因果。这部小说出版距今已有十余年，但在明朝奇幻和特工探案爱好者眼中，它依然是一部不可多得的诚意之作。</description>
+      <pubDate>Fri, 09 Oct 2026 08:33:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-5dff7c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《孝陵卫》是陆老师笔名陈老师所著、二零一二年江苏人民出版社出版的明朝奇幻悬疑小说，以嘉靖年间一支名为孝陵卫的秘密神鬼部队为舞台，将朱元璋、刘伯温时代的奇术秘辛嫁接到一百多年后的南京。书里涉及的役鬼术、风水术、精怪术、摄魂术、尸魅术五种奇术，均以阴阳五行理论打底，每一门都要数十年苦修、代代家族传承、拿命去填。全书以特工题材、佛道斗法、家族传承三条线拧成一股绳，从鄱阳湖大战郭嵩自刎化鬼射杀陈友谅、刘基被胡惟庸毒杀，到孝陵卫的建立与传承，直至嘉靖年间郭丹鹤为母报仇、寻父归乡的孤绝之路，每一段往事都为后面的故事埋下因果。这部小说出版距今已有十余年，但在明朝奇幻和特工探案爱好者眼中，它依然是一部不可多得的诚意之作。</itunes:summary>
+      <itunes:duration>00:37:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-5dff7c.mp3" length="35693997" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
