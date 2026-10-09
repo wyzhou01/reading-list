@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 22:30:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 22:37:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30622,6 +30622,17 @@
       <itunes:duration>00:25:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-3fd77d.mp3" length="24168621" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《长安三怪探之牡丹劫》 · 完整版 · 长安三怪探之牡丹劫_-_独孤门下 · 完整讲读</title>
+      <description>《长安三怪探之牡丹劫》讲述太和八年长安金吾卫画师独孤仲平与徒弟韦若昭、江湖捕快李秀一三人联手追查一起跨越洛阳与长安的连环少女失踪案的故事。案件线索指向一个名叫姚琏的年轻画师，他表面上才华横溢、痴情多礼，背地里却是妄想症患者，以南洋媚粉制造妖花幻象，每三个月在初七杀害一名穿白衣的少女献给自己幻想中的银翼仙子。全书借古探外壳探讨了妄想与自欺、师徒间的试探与成全、以及长安西市市井江湖的生存智慧，最终在真相大白的同时，也揭开了独孤仲平自己不为人知的心病与长安这座城市藏人的本事。</description>
+      <pubDate>Fri, 09 Oct 2026 22:37:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-ac8c7e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《长安三怪探之牡丹劫》讲述太和八年长安金吾卫画师独孤仲平与徒弟韦若昭、江湖捕快李秀一三人联手追查一起跨越洛阳与长安的连环少女失踪案的故事。案件线索指向一个名叫姚琏的年轻画师，他表面上才华横溢、痴情多礼，背地里却是妄想症患者，以南洋媚粉制造妖花幻象，每三个月在初七杀害一名穿白衣的少女献给自己幻想中的银翼仙子。全书借古探外壳探讨了妄想与自欺、师徒间的试探与成全、以及长安西市市井江湖的生存智慧，最终在真相大白的同时，也揭开了独孤仲平自己不为人知的心病与长安这座城市藏人的本事。</itunes:summary>
+      <itunes:duration>00:36:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-ac8c7e.mp3" length="35022381" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
