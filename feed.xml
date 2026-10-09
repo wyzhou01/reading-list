@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 03:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 03:08:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29729,6 +29729,17 @@
       <itunes:duration>00:27:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-24e2de.mp3" length="26038701" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《细胞生命的礼赞——一个生物学观察者的手记》 · 完整版 · 刘易斯·托马斯作品（共5册） · 完整讲读</title>
+      <description>《细胞生命的礼赞》是美国医学家刘易斯·托马斯的经典随笔集，一九七四年出版即获美国国家图书奖。二十九篇文章从细胞讲起，延伸至线粒体、蚂蚁、鲸鱼、病毒、整个地球，反复追问一件事：人，并不比一株草、一只蚂蚁高贵。托马斯批判人类沙文主义，揭示万物共生的真相——地球是宇宙间最坚韧的膜，而我们，只是这层膜上最柔弱的部分。半个世纪过去，这本书对基因编辑、人工智能与合成生物学的当下，仍是一记清醒的警钟。</description>
+      <pubDate>Fri, 09 Oct 2026 03:08:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-a413d3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《细胞生命的礼赞》是美国医学家刘易斯·托马斯的经典随笔集，一九七四年出版即获美国国家图书奖。二十九篇文章从细胞讲起，延伸至线粒体、蚂蚁、鲸鱼、病毒、整个地球，反复追问一件事：人，并不比一株草、一只蚂蚁高贵。托马斯批判人类沙文主义，揭示万物共生的真相——地球是宇宙间最坚韧的膜，而我们，只是这层膜上最柔弱的部分。半个世纪过去，这本书对基因编辑、人工智能与合成生物学的当下，仍是一记清醒的警钟。</itunes:summary>
+      <itunes:duration>00:32:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-a413d3.mp3" length="31603629" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
