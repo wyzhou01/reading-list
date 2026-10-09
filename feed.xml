@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 06:43:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 06:51:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29949,6 +29949,17 @@
       <itunes:duration>00:25:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-02c02c.mp3" length="24513837" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《黎曼猜想漫谈》 · 完整版 · 黎曼猜想漫谈 · 完整讲读</title>
+      <description>《黎曼猜想漫谈》是卢昌海撰写的一部兼具学术严谨与大众可读性的中文数学普及佳作。从一八五九年黎曼那篇仅八页的论文讲起，本书跨越一百六十多年，系统梳理了ζ函数的零点分布、素数定理的证明、随机矩阵理论的兴起、广义黎曼猜想与韦伊猜想等核心议题，将从哈代、塞尔伯格到莱文森、孔涅等数代数学家的探索历程编织成一幅完整的科学史诗。本书最动人的，是它揭示了一个&quot;无用的猜想&quot;如何孕育出多个丰盛的数学分支，并教给我们一种与&quot;未完成&quot;共存的智慧——这既是数学的启示，也是人生的启示。</description>
+      <pubDate>Fri, 09 Oct 2026 06:51:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-5a1206</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《黎曼猜想漫谈》是卢昌海撰写的一部兼具学术严谨与大众可读性的中文数学普及佳作。从一八五九年黎曼那篇仅八页的论文讲起，本书跨越一百六十多年，系统梳理了ζ函数的零点分布、素数定理的证明、随机矩阵理论的兴起、广义黎曼猜想与韦伊猜想等核心议题，将从哈代、塞尔伯格到莱文森、孔涅等数代数学家的探索历程编织成一幅完整的科学史诗。本书最动人的，是它揭示了一个&quot;无用的猜想&quot;如何孕育出多个丰盛的数学分支，并教给我们一种与&quot;未完成&quot;共存的智慧——这既是数学的启示，也是人生的启示。</itunes:summary>
+      <itunes:duration>00:29:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-5a1206.mp3" length="28103085" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
