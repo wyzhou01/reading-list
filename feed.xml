@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 23:17:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 23:25:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30699,6 +30699,17 @@
       <itunes:duration>00:14:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-5586e0.mp3" length="14278317" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《托尔金中洲三部曲：精灵宝钻_霍比特人_魔戒三部曲》 · 完整版 · 托尔金中洲三部曲：精灵宝钻_霍比特人_魔戒三部曲_-_[英]J.R.R.托尔金（J.R.R.Tolkien） · 完整讲读</title>
+      <description>《精灵宝钻》加《霍比特人》加《魔戒》三部曲，是英国作家托尔金用六十多年为英语世界写下的完整神话。第一纪元讲述精灵宝钻的诞生与流亡诺多族的战争，第二纪元讲述努门诺尔的沉没，第三纪元讲述霍比特人摧毁魔戒与精灵远航的告别史诗。托尔金通过渺小者承担大任的故事，揭示了贪欲、牺牲与告别的永恒命题。本书是现代奇幻文学的源头，深刻影响了二十世纪以来的世界文。</description>
+      <pubDate>Fri, 09 Oct 2026 23:25:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-2f7e4b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《精灵宝钻》加《霍比特人》加《魔戒》三部曲，是英国作家托尔金用六十多年为英语世界写下的完整神话。第一纪元讲述精灵宝钻的诞生与流亡诺多族的战争，第二纪元讲述努门诺尔的沉没，第三纪元讲述霍比特人摧毁魔戒与精灵远航的告别史诗。托尔金通过渺小者承担大任的故事，揭示了贪欲、牺牲与告别的永恒命题。本书是现代奇幻文学的源头，深刻影响了二十世纪以来的世界文。</itunes:summary>
+      <itunes:duration>00:28:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-2f7e4b.mp3" length="27470637" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
