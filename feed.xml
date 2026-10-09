@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 10:52:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 10:59:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30301,6 +30301,17 @@
       <itunes:duration>00:27:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-f9f98d.mp3" length="26492205" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《金粉世家（下）》 · 完整版 · 金粉世家（下）_(中国现代长篇小说藏本)_-_张恨水 · 完整讲读</title>
+      <description>《金粉世家》是张恨水创作于一九二七年到一九三二年间的长篇小说，上下两册一百一十二回，讲述北洋年间豪门金府由盛而衰、金燕西与冷清秋从结合到离散的全过程。下半部分以总理之死、兄弟分家、夫妻反目、大火焚宅为节点，剖开旧家族制度养而不教的痼疾——金府四兄弟无一立得起来的深层原因，新女性冷清秋在旧家庭夹缝中进退两难的悲剧，以及所有繁华散场后各人的真实成色。作品被誉为民国年间最完整的豪门挽图，至今读来仍是繁华不可恃、真情不可轻的清醒剂。</description>
+      <pubDate>Fri, 09 Oct 2026 10:59:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-607556</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《金粉世家》是张恨水创作于一九二七年到一九三二年间的长篇小说，上下两册一百一十二回，讲述北洋年间豪门金府由盛而衰、金燕西与冷清秋从结合到离散的全过程。下半部分以总理之死、兄弟分家、夫妻反目、大火焚宅为节点，剖开旧家族制度养而不教的痼疾——金府四兄弟无一立得起来的深层原因，新女性冷清秋在旧家庭夹缝中进退两难的悲剧，以及所有繁华散场后各人的真实成色。作品被誉为民国年间最完整的豪门挽图，至今读来仍是繁华不可恃、真情不可轻的清醒剂。</itunes:summary>
+      <itunes:duration>00:30:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-607556.mp3" length="29621805" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
