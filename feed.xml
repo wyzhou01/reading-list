@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 19:29:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 19:35:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30589,6 +30589,17 @@
       <itunes:duration>00:28:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-ae3ed4.mp3" length="27623469" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《爱的自然史》 · 完整版 · 爱的自然史 · 完整讲读</title>
+      <description>戴安娜·阿克曼以博物学家和诗人的双重眼光，横跨历史、文学、生物、神经科学和民俗，追溯&apos;爱&apos;这一人类最古老情感的多重面貌：从古埃及艳后到中世纪骑士浪漫，从脑内化学物质到亲吻的演化，从动物界的求偶仪式到博物馆中的爱之记忆，揭示爱既是神秘的私人体验，也是塑造历史、驱动进化的普遍力量。</description>
+      <pubDate>Fri, 09 Oct 2026 19:35:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-093157</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>戴安娜·阿克曼以博物学家和诗人的双重眼光，横跨历史、文学、生物、神经科学和民俗，追溯&apos;爱&apos;这一人类最古老情感的多重面貌：从古埃及艳后到中世纪骑士浪漫，从脑内化学物质到亲吻的演化，从动物界的求偶仪式到博物馆中的爱之记忆，揭示爱既是神秘的私人体验，也是塑造历史、驱动进化的普遍力量。</itunes:summary>
+      <itunes:duration>00:24:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-093157.mp3" length="23377581" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
