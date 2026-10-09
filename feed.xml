@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 19:40:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 22:30:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30611,6 +30611,17 @@
       <itunes:duration>00:24:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-63eecb.mp3" length="23899437" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《子恺品佛》 · 完整版 · 子恺品佛_-_丰子恺 · 完整讲读</title>
+      <description>丰子恺的散文与漫画合集《子恺品佛》，以孩子的大眼睛、市井里的护生与弘一法师的精神转身三块拼图，串起他对佛法、艺术与日常生活的深切观照。一个艺术家一生坚守的，是从孩子身上学来的、能撤开因果网的眼睛，是把慈悲落实在吃饭穿衣画画看孩子的每时每刻里；弘一法师从风流才子到一代高僧的出家转身，是他终身的精神标尺。九十年来反复被重读，本书提醒我们：护生即护心，赤子之心与人间烟火本不相违。</description>
+      <pubDate>Fri, 09 Oct 2026 22:30:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-3fd77d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>丰子恺的散文与漫画合集《子恺品佛》，以孩子的大眼睛、市井里的护生与弘一法师的精神转身三块拼图，串起他对佛法、艺术与日常生活的深切观照。一个艺术家一生坚守的，是从孩子身上学来的、能撤开因果网的眼睛，是把慈悲落实在吃饭穿衣画画看孩子的每时每刻里；弘一法师从风流才子到一代高僧的出家转身，是他终身的精神标尺。九十年来反复被重读，本书提醒我们：护生即护心，赤子之心与人间烟火本不相违。</itunes:summary>
+      <itunes:duration>00:25:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-3fd77d.mp3" length="24168621" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
