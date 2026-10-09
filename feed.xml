@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 11:44:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 17:13:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30391,6 +30391,17 @@
       <itunes:duration>00:21:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-d594f2.mp3" length="20729901" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《龙：一种未明的生物》 · 完整版 · 龙一种未明的生物 · 完整讲读</title>
+      <description>《龙: 一种未明的动物》是民间研究者马小星耗费十余年心血写就的考证之作. 作者从东北流传的【龙棚】传说与一九四四年松嫩平原坠龙目击事件切入, 系统梳理《汉书》《左传》《周易》等历代文献中的见龙记录, 逐条排除蛇、鳄、蛟、虹等已知候选, 提出【龙或为一种因环境变迁而越来越稀少的真实古老动物】这一让学界一时难有定论的猜想. 全书以田野调查与文献互证为基本方法, 对已成学界通说的【图腾符号组合说】构成一次冷静而孤独的质疑.</description>
+      <pubDate>Fri, 09 Oct 2026 17:13:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-fffad1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《龙: 一种未明的动物》是民间研究者马小星耗费十余年心血写就的考证之作. 作者从东北流传的【龙棚】传说与一九四四年松嫩平原坠龙目击事件切入, 系统梳理《汉书》《左传》《周易》等历代文献中的见龙记录, 逐条排除蛇、鳄、蛟、虹等已知候选, 提出【龙或为一种因环境变迁而越来越稀少的真实古老动物】这一让学界一时难有定论的猜想. 全书以田野调查与文献互证为基本方法, 对已成学界通说的【图腾符号组合说】构成一次冷静而孤独的质疑.</itunes:summary>
+      <itunes:duration>00:22:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-fffad1.mp3" length="21872301" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
