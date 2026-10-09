@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 03:22:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 03:30:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29762,6 +29762,17 @@
       <itunes:duration>00:36:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-3cb668.mp3" length="34995501" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《那些回不去的年少时光（新版）》 · 完整版 · 那些回不去的年少时光(新版)_-_桐华 · 完整讲读</title>
+      <description>《那些回不去的年少时光》是桐华的青春自传体小说，讲述女孩罗琦琦从小被父母忽视、在老师眼里是坏学生，却在不完美的成长中学会坚强，最终赴美成为别人眼中的成功人士。2008年汶川地震那天，她疯狂拨打电话却无人接听，那一刻她突然明白：有些遗憾一旦造成就永远无法弥补。这本书用平静而真实的笔触，讲述了一个女孩如何与过去和解，如何在接受遗憾的同时依然相信未来。出版十余年来稳居畅销榜单，豆瓣评分8.7分，因为它写的不是狗血的堕胎打架，而是每个人都能在罗琦琦身上看到的真实成长疼痛。</description>
+      <pubDate>Fri, 09 Oct 2026 03:30:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-f5eca5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《那些回不去的年少时光》是桐华的青春自传体小说，讲述女孩罗琦琦从小被父母忽视、在老师眼里是坏学生，却在不完美的成长中学会坚强，最终赴美成为别人眼中的成功人士。2008年汶川地震那天，她疯狂拨打电话却无人接听，那一刻她突然明白：有些遗憾一旦造成就永远无法弥补。这本书用平静而真实的笔触，讲述了一个女孩如何与过去和解，如何在接受遗憾的同时依然相信未来。出版十余年来稳居畅销榜单，豆瓣评分8.7分，因为它写的不是狗血的堕胎打架，而是每个人都能在罗琦琦身上看到的真实成长疼痛。</itunes:summary>
+      <itunes:duration>00:14:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-f5eca5.mp3" length="13675821" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
