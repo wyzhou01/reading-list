@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 00:53:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 01:00:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29564,6 +29564,17 @@
       <itunes:duration>00:26:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-3a4e4d.mp3" length="25713837" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《旅美书简》 · 完整版 · 旅美书简_(诺贝尔文学奖获奖者散文丛书) · 完整讲读</title>
+      <description>《旅美书简》是1905年诺贝尔文学奖得主、波兰作家显克维支在1870年代末旅居美国期间写给波兰亲友的书信合集。全书以一个拥有千年文化传统的欧洲知识分子的视角，观察了新大陆的物质繁荣与精神困境，记录了爱尔兰移民、非洲裔、华工、波兰同乡在异乡的生存状态。显克维支既惊叹于美国惊人的工业能力与商业活力，也尖锐批评其缺乏历史厚度、文化浅薄、商业至上、贫富悬殊，更通过对华人移民与波兰移民的细致描写，提出了一个跨越时空的永恒拷问——人在融入新世界的同时，如何守护自己的根。今天重读这本书，我们依然能从他对速度与深度、物质与精神、移民与归属的洞察中，获得对当代生活的清醒启发。</description>
+      <pubDate>Fri, 09 Oct 2026 01:00:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-8b3ab6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《旅美书简》是1905年诺贝尔文学奖得主、波兰作家显克维支在1870年代末旅居美国期间写给波兰亲友的书信合集。全书以一个拥有千年文化传统的欧洲知识分子的视角，观察了新大陆的物质繁荣与精神困境，记录了爱尔兰移民、非洲裔、华工、波兰同乡在异乡的生存状态。显克维支既惊叹于美国惊人的工业能力与商业活力，也尖锐批评其缺乏历史厚度、文化浅薄、商业至上、贫富悬殊，更通过对华人移民与波兰移民的细致描写，提出了一个跨越时空的永恒拷问——人在融入新世界的同时，如何守护自己的根。今天重读这本书，我们依然能从他对速度与深度、物质与精神、移民与归属的洞察中，获得对当代生活的清醒启发。</itunes:summary>
+      <itunes:duration>00:23:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-8b3ab6.mp3" length="22780077" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
