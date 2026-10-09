@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 02:14:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 02:21:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29674,6 +29674,17 @@
       <itunes:duration>00:31:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-9f5bd9.mp3" length="30410541" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《武夫当权：军阀集团的游戏规则》 · 完整版 · 武夫当权：军阀集团的游戏规则（典藏张鸣）(1) · 完整讲读</title>
+      <description>《武夫当权》是张鸣一九八八年硕士论文,也是他学术生涯的起点。书中把军阀当作政治文化现象来解剖,系统讲述了近代军阀维系内部关系的网络与手段:血缘、地缘、业缘的三重套娃,施恩收买的控制艺术,儒学、帮会、教堂、神仙鬼怪各显其能的维系之道。从吴佩孚的儒将做派,到张作霖的绿林心经,从阎锡山的中西杂拌,到冯玉祥的宗教仪式,再到蒋介石的一套维系哲学,张鸣揭示了一个被武夫表象遮蔽的政治文化真相:维系不是软实力,而是军阀集团真正的硬通货。本书既是一部军阀文化研究的先行之作,也是理解近代中国大一统与大离散交替政治文化结构的入门钥匙。</description>
+      <pubDate>Fri, 09 Oct 2026 02:21:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-f259aa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《武夫当权》是张鸣一九八八年硕士论文,也是他学术生涯的起点。书中把军阀当作政治文化现象来解剖,系统讲述了近代军阀维系内部关系的网络与手段:血缘、地缘、业缘的三重套娃,施恩收买的控制艺术,儒学、帮会、教堂、神仙鬼怪各显其能的维系之道。从吴佩孚的儒将做派,到张作霖的绿林心经,从阎锡山的中西杂拌,到冯玉祥的宗教仪式,再到蒋介石的一套维系哲学,张鸣揭示了一个被武夫表象遮蔽的政治文化真相:维系不是软实力,而是军阀集团真正的硬通货。本书既是一部军阀文化研究的先行之作,也是理解近代中国大一统与大离散交替政治文化结构的入门钥匙。</itunes:summary>
+      <itunes:duration>00:23:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-f259aa.mp3" length="22758189" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
