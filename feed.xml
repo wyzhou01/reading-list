@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 09:05:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 09:12:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30147,6 +30147,17 @@
       <itunes:duration>00:39:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-65dfc7.mp3" length="37773357" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《禁断的魔术》 · 完整版 · 禁断的魔术 · 完整讲读</title>
+      <description>《禁断的魔术》是东野圭吾《伽利略》系列的一部。物理学家汤川学的昔日学生古芝伸吾，在姐姐惨死后，用尖端科技造出磁轨炮，瞄准一名政客复仇。汤川学赶到现场，用二十年师生情谊和一记偶然的棒球安打，化解了这场科技与仇恨的对峙。东野圭吾借推理外壳，直击科技伦理的终极之问：当科学握在被仇恨吞噬的人手中，谁来按下终止键？答案不在方程式里，在人心。</description>
+      <pubDate>Fri, 09 Oct 2026 09:11:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-96b5a4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《禁断的魔术》是东野圭吾《伽利略》系列的一部。物理学家汤川学的昔日学生古芝伸吾，在姐姐惨死后，用尖端科技造出磁轨炮，瞄准一名政客复仇。汤川学赶到现场，用二十年师生情谊和一记偶然的棒球安打，化解了这场科技与仇恨的对峙。东野圭吾借推理外壳，直击科技伦理的终极之问：当科学握在被仇恨吞噬的人手中，谁来按下终止键？答案不在方程式里，在人心。</itunes:summary>
+      <itunes:duration>00:21:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-96b5a4.mp3" length="20707629" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
