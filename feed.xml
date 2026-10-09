@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 11:23:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 11:28:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30358,6 +30358,17 @@
       <itunes:duration>00:22:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-c8a1c2.mp3" length="21280941" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《你是人间四月天》 · 完整版 · 你是人间四月天 · 完整讲读</title>
+      <description>《你是人间四月天》收录林徽因散文、家书与建筑学笔记，时间横跨一九三一年至一九五三年。四篇悼念徐志摩的文字展示她在哀恸中的诗人与朋友身份，《山西通信》与《窗子以外》呈现她在田野考察中对民间审美与乡村生活的敏锐观察，《纪念志摩去世四周年》《对残旧的文化生活感到一点苦痛》《究竟是哪一套又在妨害着我们》等文则记录她对文化保护与现实政治的反思；致梁思成、傅恩铭、金岳霖、傅斯年的私人通信，更将一个肺病缠身却仍坚持参与人民英雄纪念碑设计的建筑学家，一个用小数点记录胃口与睡眠、用疚心回应一句称赞、用撒娇维系友情的具体的人，完整推到读者面前。</description>
+      <pubDate>Fri, 09 Oct 2026 11:28:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-371c14</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《你是人间四月天》收录林徽因散文、家书与建筑学笔记，时间横跨一九三一年至一九五三年。四篇悼念徐志摩的文字展示她在哀恸中的诗人与朋友身份，《山西通信》与《窗子以外》呈现她在田野考察中对民间审美与乡村生活的敏锐观察，《纪念志摩去世四周年》《对残旧的文化生活感到一点苦痛》《究竟是哪一套又在妨害着我们》等文则记录她对文化保护与现实政治的反思；致梁思成、傅恩铭、金岳霖、傅斯年的私人通信，更将一个肺病缠身却仍坚持参与人民英雄纪念碑设计的建筑学家，一个用小数点记录胃口与睡眠、用疚心回应一句称赞、用撒娇维系友情的具体的人，完整推到读者面前。</itunes:summary>
+      <itunes:duration>00:29:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-371c14.mp3" length="27876909" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
