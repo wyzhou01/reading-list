@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 01:29:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 01:39:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29619,6 +29619,17 @@
       <itunes:duration>00:25:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-201763.mp3" length="24876717" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我们能做什么》 · 完整版 · 我们能做什么 · 完整讲读</title>
+      <description>《我们能做什么》是胡适一九一九年至一九六一年间文章与演讲的结集, 回答青年苦闷、人生意义、国家出路、知识人角色与信仰问题。核心主张一句话: 不空谈, 先把自己这块材料铸造成器, 再谈救国救民。本书横跨五四、抗战与冷战, 见证一位中国自由主义知识分子一生坚持独立思考、先做好自己再帮别人、用本事不靠口号的实践路线。一百年过去, 喧嚣依旧, 这条格线没过时。</description>
+      <pubDate>Fri, 09 Oct 2026 01:39:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-787ddf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我们能做什么》是胡适一九一九年至一九六一年间文章与演讲的结集, 回答青年苦闷、人生意义、国家出路、知识人角色与信仰问题。核心主张一句话: 不空谈, 先把自己这块材料铸造成器, 再谈救国救民。本书横跨五四、抗战与冷战, 见证一位中国自由主义知识分子一生坚持独立思考、先做好自己再帮别人、用本事不靠口号的实践路线。一百年过去, 喧嚣依旧, 这条格线没过时。</itunes:summary>
+      <itunes:duration>00:29:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-787ddf.mp3" length="28081965" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
