@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 17:33:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 17:38:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30435,6 +30435,17 @@
       <itunes:duration>00:30:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-7a1fe0.mp3" length="29333805" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《厉以宁经济史文集套装》 · 完整版 · 厉以宁经济史文集套装 · 完整讲读</title>
+      <description>厉以宁《希腊古代经济史》以马克思主义经济史观为根底，用上下两册七十余万字的篇幅，重新审视从公元前三千年的爱琴文明到公元三十年托勒密王朝覆灭的整个地中海世界。本书贯穿六大核心观点：雅典并非奴隶制社会而是城邦社会，梭伦改革的关键是产权改革而非民主化，雅典民主因中产阶级缺席而滑向暴民政治，希腊化是希腊与东方双向的文化较量而非单向输出，希腊化三大王朝呈现多元经济成分并存的格局，而希腊化文化最终在与罗马文化的融合中演变为拜占庭文化的源头。这部巨著既是一项重大的理论创新之作，也是为中国读者了解古希腊历史搭建的一座桥梁。</description>
+      <pubDate>Fri, 09 Oct 2026 17:38:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-70ffc4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>厉以宁《希腊古代经济史》以马克思主义经济史观为根底，用上下两册七十余万字的篇幅，重新审视从公元前三千年的爱琴文明到公元三十年托勒密王朝覆灭的整个地中海世界。本书贯穿六大核心观点：雅典并非奴隶制社会而是城邦社会，梭伦改革的关键是产权改革而非民主化，雅典民主因中产阶级缺席而滑向暴民政治，希腊化是希腊与东方双向的文化较量而非单向输出，希腊化三大王朝呈现多元经济成分并存的格局，而希腊化文化最终在与罗马文化的融合中演变为拜占庭文化的源头。这部巨著既是一项重大的理论创新之作，也是为中国读者了解古希腊历史搭建的一座桥梁。</itunes:summary>
+      <itunes:duration>00:16:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-70ffc4.mp3" length="15617325" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
