@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 04:08:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 04:16:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29839,6 +29839,17 @@
       <itunes:duration>00:34:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-459e35.mp3" length="33346221" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《犹大之窗》 · 完整版 · 犹大之窗_-_[美]约翰·狄克森·卡尔 · 完整讲读</title>
+      <description>《犹大之窗》是美国推理黄金时代三巨头之一约翰·狄克森·卡尔的代表作，也是后世公认的密室推理教科书。故事讲述了年轻新郎吉姆·安士伟在拜访未来岳父的夜晚，遭人下药昏迷，醒来后发现岳父已被一支刻有自己指纹的箭射杀。门从内部闩死，铁遮板紧锁，他成了唯一可能的凶手。本书最反常之处在于，它将密室杀人这种本属小说炫技的故事，直接搬进了伦敦中央刑事法院的庭审现场，由脾气古怪的辩护奇才亨利·梅利维尔爵士一步步拆穿看似无懈可击的检方叙事。卡尔一生写密室，他在本书中真正想证明的是：所谓不可能，只在没人追问时成立。真相藏在那截卡在锁孔里的蓝色羽毛中，所有看似滴水不漏的伪装，都有一道裂缝。</description>
+      <pubDate>Fri, 09 Oct 2026 04:16:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-2acddd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《犹大之窗》是美国推理黄金时代三巨头之一约翰·狄克森·卡尔的代表作，也是后世公认的密室推理教科书。故事讲述了年轻新郎吉姆·安士伟在拜访未来岳父的夜晚，遭人下药昏迷，醒来后发现岳父已被一支刻有自己指纹的箭射杀。门从内部闩死，铁遮板紧锁，他成了唯一可能的凶手。本书最反常之处在于，它将密室杀人这种本属小说炫技的故事，直接搬进了伦敦中央刑事法院的庭审现场，由脾气古怪的辩护奇才亨利·梅利维尔爵士一步步拆穿看似无懈可击的检方叙事。卡尔一生写密室，他在本书中真正想证明的是：所谓不可能，只在没人追问时成立。真相藏在那截卡在锁孔里的蓝色羽毛中，所有看似滴水不漏的伪装，都有一道裂缝。</itunes:summary>
+      <itunes:duration>00:27:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-2acddd.mp3" length="26104365" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
