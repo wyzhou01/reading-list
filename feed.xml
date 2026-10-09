@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 02:06:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 02:14:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29663,6 +29663,17 @@
       <itunes:duration>00:25:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-27a095.mp3" length="24680109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《治国策（汉译世界学术名著丛书）》 · 完整版 · 治国策_(汉译世界学术名著丛书)_-_尼扎姆·莫尔克 · 完整讲读</title>
+      <description>《治国策》是十一世纪波斯宰相尼扎姆·莫尔克写给塞尔柱帝国统治者的治国指南，被誉为东方版的《君主论》。全书围绕游牧征服者如何治理定居文明这一核心问题，系统阐述了君臣关系、行政制度、军事管理、司法原则、财政税收、宗教政策与外交纪律。书中提出的双金库制度、节俭原则、对官员的考核机制、军费独立等制度设计，与现代国家治理理念高度契合。尽管书中包含对异端、妇女和犹太人的偏见，但其在制度建设方面的思考至今仍有重要价值。这本书是了解十一世纪中亚、西亚政治经济社会的一手资料，也是世界政治思想史上的重要遗产。</description>
+      <pubDate>Fri, 09 Oct 2026 02:14:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-9f5bd9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《治国策》是十一世纪波斯宰相尼扎姆·莫尔克写给塞尔柱帝国统治者的治国指南，被誉为东方版的《君主论》。全书围绕游牧征服者如何治理定居文明这一核心问题，系统阐述了君臣关系、行政制度、军事管理、司法原则、财政税收、宗教政策与外交纪律。书中提出的双金库制度、节俭原则、对官员的考核机制、军费独立等制度设计，与现代国家治理理念高度契合。尽管书中包含对异端、妇女和犹太人的偏见，但其在制度建设方面的思考至今仍有重要价值。这本书是了解十一世纪中亚、西亚政治经济社会的一手资料，也是世界政治思想史上的重要遗产。</itunes:summary>
+      <itunes:duration>00:31:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-9f5bd9.mp3" length="30410541" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
