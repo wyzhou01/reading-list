@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 01:53:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 02:00:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29652,6 +29652,17 @@
       <itunes:duration>00:24:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-93a76b.mp3" length="23341485" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《岛上的最后一天》 · 完整版 · 岛上的最后一天 · 完整讲读</title>
+      <description>《岛上的最后一天》是美国作家卡米尔·佩简的长篇小说。三十四岁的纽约女白领丽比，在同一天被确诊患上罕见的皮下脂膜炎性 T 细胞淋巴癌，相爱二十年的丈夫却向她坦白自己是同性恋。双重打击下，她拒绝治疗，独自逃往波多黎各的威克斯小岛。在陌生人的善意与一段【允许她什么都不是】的爱情里，她重新审视了死亡、母亲、孤独与爱的意义。这本书不讲如何打败癌症，而是讲一个普通女人在最坏的一天里，如何诚实地活下来。</description>
+      <pubDate>Fri, 09 Oct 2026 02:00:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-27a095</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《岛上的最后一天》是美国作家卡米尔·佩简的长篇小说。三十四岁的纽约女白领丽比，在同一天被确诊患上罕见的皮下脂膜炎性 T 细胞淋巴癌，相爱二十年的丈夫却向她坦白自己是同性恋。双重打击下，她拒绝治疗，独自逃往波多黎各的威克斯小岛。在陌生人的善意与一段【允许她什么都不是】的爱情里，她重新审视了死亡、母亲、孤独与爱的意义。这本书不讲如何打败癌症，而是讲一个普通女人在最坏的一天里，如何诚实地活下来。</itunes:summary>
+      <itunes:duration>00:25:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-27a095.mp3" length="24680109" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
