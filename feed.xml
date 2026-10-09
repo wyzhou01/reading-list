@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 09:12:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 09:19:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30158,6 +30158,17 @@
       <itunes:duration>00:21:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-96b5a4.mp3" length="20707629" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《剧院风情》 · 完整版 · 剧院风情 · 完整讲读</title>
+      <description>《剧院风情》是毛姆一九三七年写就的舞台小说。女主角朱莉娅·兰伯特是伦敦西区的头牌女演员，年届四十六岁，事业登顶却撞上了中年危机——她一头栽进了一段与小自己二十岁的龙套小子汤姆·芬内尔的恋情，把婚姻、把戏台、把自己经营了一辈子的体面，一并押了上去。毛姆用他既刻薄又慈悲的笔，把西区名利场的里里外外翻了个底朝天，让读者跟着这位成熟得近乎危险的女演员，一同走过情欲的灼烧、被抛弃的空洞、与一系列旧账的清算，最终看她把那场私人的心碎，一刀一刀雕进了一部还没写出来的菲德拉新戏。本书最锋利的一刀，是毛姆让朱莉娅在遭儿子冷嘲、被丈夫冷待、被情人抛弃的当口，自己握起紫墨水钢笔，坐到写字台前，从此由被书写的角色，变成了替自己写剧本的人。</description>
+      <pubDate>Fri, 09 Oct 2026 09:19:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-b090d8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《剧院风情》是毛姆一九三七年写就的舞台小说。女主角朱莉娅·兰伯特是伦敦西区的头牌女演员，年届四十六岁，事业登顶却撞上了中年危机——她一头栽进了一段与小自己二十岁的龙套小子汤姆·芬内尔的恋情，把婚姻、把戏台、把自己经营了一辈子的体面，一并押了上去。毛姆用他既刻薄又慈悲的笔，把西区名利场的里里外外翻了个底朝天，让读者跟着这位成熟得近乎危险的女演员，一同走过情欲的灼烧、被抛弃的空洞、与一系列旧账的清算，最终看她把那场私人的心碎，一刀一刀雕进了一部还没写出来的菲德拉新戏。本书最锋利的一刀，是毛姆让朱莉娅在遭儿子冷嘲、被丈夫冷待、被情人抛弃的当口，自己握起紫墨水钢笔，坐到写字台前，从此由被书写的角色，变成了替自己写剧本的人。</itunes:summary>
+      <itunes:duration>00:31:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-b090d8.mp3" length="30369069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
