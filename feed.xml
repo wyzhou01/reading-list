@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 02:46:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 02:52:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29707,6 +29707,17 @@
       <itunes:duration>00:23:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-c755e2.mp3" length="22438701" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《英格兰简史》 · 完整版 · 英格兰简史（英国历史学家詹金斯爵士潜心力作，泰晤士报畅销书，记录公元410年到21世 · 完整讲读</title>
+      <description>《英格兰简史》是英国历史学家西蒙·詹金斯的代表作,以不到三百页的篇幅梳理了从公元410年罗马撤离到21世纪撒切尔时代的英格兰政治史。詹金斯认为,贯穿英格兰史的主线,是王权与民意之间一场持续近一千六百年的拉锯战:撒克逊人血液里的自治传统与诺曼人带来的中央集权传统反复较量,催生了《大宪章》、议会、君主立宪制等一系列制度成果。本书用渐进演化的视角,解释了英国为何能在岛国身份与帝国扩张之间找到平衡,又为何在20世纪走向相对衰落。这本书回答的不仅是历史问题,也是当下英国脱欧、身份认同争论的历史根源。</description>
+      <pubDate>Fri, 09 Oct 2026 02:52:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-c5bf9c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《英格兰简史》是英国历史学家西蒙·詹金斯的代表作,以不到三百页的篇幅梳理了从公元410年罗马撤离到21世纪撒切尔时代的英格兰政治史。詹金斯认为,贯穿英格兰史的主线,是王权与民意之间一场持续近一千六百年的拉锯战:撒克逊人血液里的自治传统与诺曼人带来的中央集权传统反复较量,催生了《大宪章》、议会、君主立宪制等一系列制度成果。本书用渐进演化的视角,解释了英国为何能在岛国身份与帝国扩张之间找到平衡,又为何在20世纪走向相对衰落。这本书回答的不仅是历史问题,也是当下英国脱欧、身份认同争论的历史根源。</itunes:summary>
+      <itunes:duration>00:29:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-c5bf9c.mp3" length="28253997" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
