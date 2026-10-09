@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 06:09:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 06:19:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29905,6 +29905,17 @@
       <itunes:duration>00:34:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-7124b3.mp3" length="33570861" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《存在主义》 · 完整版 · 存在主义 · 完整讲读</title>
+      <description>《存在主义》由高宣扬先生写成，他既是哲学家也是哲学人类学家，师承中国现象学第一代学者熊伟先生，并在法国追随列维斯特劳斯等人深造，是当代中国学界少有能把德法两大哲学传统同时打通的人物。本书最早一九七八年在香港出版，二零一六年由上海交通大学出版社收入高宣扬文集，作为纪念熊伟先生一百零五周年诞辰的献礼之作。它以存在先于本质为核心断言，围绕担忧、自由与死亡三个生存论结构展开，系统讲述了海德格尔与萨特这两座思想高峰，并梳理了存在主义从克尔凯郭尔到加缪、从神学诠释学到新马克思主义的整条辐射线。这本书不只是一本哲学史教科书，更是一部关于人如何在世界中自处、如何与他人共在、如何面对自由与死亡的生存指南。</description>
+      <pubDate>Fri, 09 Oct 2026 06:19:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-ac6373</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《存在主义》由高宣扬先生写成，他既是哲学家也是哲学人类学家，师承中国现象学第一代学者熊伟先生，并在法国追随列维斯特劳斯等人深造，是当代中国学界少有能把德法两大哲学传统同时打通的人物。本书最早一九七八年在香港出版，二零一六年由上海交通大学出版社收入高宣扬文集，作为纪念熊伟先生一百零五周年诞辰的献礼之作。它以存在先于本质为核心断言，围绕担忧、自由与死亡三个生存论结构展开，系统讲述了海德格尔与萨特这两座思想高峰，并梳理了存在主义从克尔凯郭尔到加缪、从神学诠释学到新马克思主义的整条辐射线。这本书不只是一本哲学史教科书，更是一部关于人如何在世界中自处、如何与他人共在、如何面对自由与死亡的生存指南。</itunes:summary>
+      <itunes:duration>00:29:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-ac6373.mp3" length="27881133" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
