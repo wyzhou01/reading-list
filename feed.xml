@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 18:57:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 19:05:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30534,6 +30534,17 @@
       <itunes:duration>00:34:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-4f195b.mp3" length="33263277" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大太监李莲英全传》 · 完整版 · 大太监李莲英全传：从宫廷太监到封建社会最后的权臣 · 完整讲读</title>
+      <description>《大太监李莲英全传》是雅瑟、王牧合著的人物传记，依托《李氏家谱》、墓志、地方县志与晚清宫廷档案，讲述了大太监李莲英从七岁净身入宫、靠揣摩上意一路升迁到晚清权阉之巅的完整经历。本书不仅还原了他在慈禧身边五十余年的起居细节，更将他放进晚清一系列惊天大事的现场——辛酉政变、戊戌变法、八国联军侵华、清帝退位——呈现他在皇权运作中的真实角色。读完本书，我们看到一个把依附权贵做到极致、又因靠山崩塌而一切归零的封建权阉标本，也读懂了封建皇权最深处那套冰冷的主奴逻辑。</description>
+      <pubDate>Fri, 09 Oct 2026 19:05:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-6c0923</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大太监李莲英全传》是雅瑟、王牧合著的人物传记，依托《李氏家谱》、墓志、地方县志与晚清宫廷档案，讲述了大太监李莲英从七岁净身入宫、靠揣摩上意一路升迁到晚清权阉之巅的完整经历。本书不仅还原了他在慈禧身边五十余年的起居细节，更将他放进晚清一系列惊天大事的现场——辛酉政变、戊戌变法、八国联军侵华、清帝退位——呈现他在皇权运作中的真实角色。读完本书，我们看到一个把依附权贵做到极致、又因靠山崩塌而一切归零的封建权阉标本，也读懂了封建皇权最深处那套冰冷的主奴逻辑。</itunes:summary>
+      <itunes:duration>00:33:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-6c0923.mp3" length="31972269" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
