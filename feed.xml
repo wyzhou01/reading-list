@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 00:01:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 00:10:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29465,6 +29465,17 @@
       <itunes:duration>00:30:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-b09a3f.mp3" length="29414445" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《浩晖推理悬疑经典集（10册）》 · 完整版 · 浩晖推理悬疑经典集（10册） · 完整讲读</title>
+      <description>本期精读周浩晖推理悬疑经典集十册,从《暗黑者》四部曲到《邪恶催眠师》三部曲,再到《凶画》《鬼望坡》《摄魂谷》。我们拆解六个核心拼图:私刑与正义的边界、恐惧与执念的心理机制、历史与谎言的隐秘呼应、氛围如何杀人、警察作为一种选择的重量,以及作者如何用二十四万字为南明名将李定国写下迟到三百年的致敬。本书不只是悬疑,更是写给那些被时代遗忘之人的长信。</description>
+      <pubDate>Fri, 09 Oct 2026 00:10:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-2293d9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期精读周浩晖推理悬疑经典集十册,从《暗黑者》四部曲到《邪恶催眠师》三部曲,再到《凶画》《鬼望坡》《摄魂谷》。我们拆解六个核心拼图:私刑与正义的边界、恐惧与执念的心理机制、历史与谎言的隐秘呼应、氛围如何杀人、警察作为一种选择的重量,以及作者如何用二十四万字为南明名将李定国写下迟到三百年的致敬。本书不只是悬疑,更是写给那些被时代遗忘之人的长信。</itunes:summary>
+      <itunes:duration>00:32:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-2293d9.mp3" length="31278765" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
