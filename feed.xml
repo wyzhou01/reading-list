@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 08:57:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 09:05:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30136,6 +30136,17 @@
       <itunes:duration>00:23:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-ebec27.mp3" length="22437165" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《慢》 · 完整版 · 慢_-_米兰·昆德拉 · 完整讲读</title>
+      <description>《慢》是米兰·昆德拉一九九五年用法语写成的短篇哲思小说，以一座改建成酒店的法国城堡为舞台，把十八世纪 T 夫人与骑士缓慢幽会的故事和当代被媒体与欲望裹挟的一群【舞蹈家】并置对位，揭示速度如何让人遗忘自身、传播如何摧毁私密、享乐主义为何陷入乌托邦困境。昆德拉借蓬特万之口发明【舞蹈家】概念，刻画那些向抽象的【全世界】裸露、通过道德柔道争夺舞台的现代名人。在加速与传播已成结构性的今天，这本轻盈的小书是一记冷静的反叛：明日不再来，听众不会有——慢，是一种让生活重新获得形状的能力。</description>
+      <pubDate>Fri, 09 Oct 2026 09:05:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-65dfc7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《慢》是米兰·昆德拉一九九五年用法语写成的短篇哲思小说，以一座改建成酒店的法国城堡为舞台，把十八世纪 T 夫人与骑士缓慢幽会的故事和当代被媒体与欲望裹挟的一群【舞蹈家】并置对位，揭示速度如何让人遗忘自身、传播如何摧毁私密、享乐主义为何陷入乌托邦困境。昆德拉借蓬特万之口发明【舞蹈家】概念，刻画那些向抽象的【全世界】裸露、通过道德柔道争夺舞台的现代名人。在加速与传播已成结构性的今天，这本轻盈的小书是一记冷静的反叛：明日不再来，听众不会有——慢，是一种让生活重新获得形状的能力。</itunes:summary>
+      <itunes:duration>00:39:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-65dfc7.mp3" length="37773357" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
