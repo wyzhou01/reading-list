@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 17:38:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 17:46:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30446,6 +30446,17 @@
       <itunes:duration>00:16:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-70ffc4.mp3" length="15617325" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中古文学的地理意象》 · 完整版 · 中古文学的地理意象（精） · 完整讲读</title>
+      <description>《中古文学的地理意象》是复旦大学历史地理研究所张伟然教授历时十四年写成的跨界著作，2014 年由中华书局出版。本书以唐代为重心，从地理意象入手，复原古人脑子里的文化地图。书中提出感觉文化区优先于形式文化区的方法论主张，并通过《柳毅传》洞庭湖考辨、杜甫与李白诗中江汉地名考释、巫山神女与潇湘意象的地理渊源、以及禽言诗兴起所反映的生态感知深化等具体案例，揭示地理空间如何主动参与中古文学的塑造。本书属于历史文化地理学跨界文学研究的代表性著作，也是当代文学地理学的重要源头之一。</description>
+      <pubDate>Fri, 09 Oct 2026 17:46:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-85ce56</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《中古文学的地理意象》是复旦大学历史地理研究所张伟然教授历时十四年写成的跨界著作，2014 年由中华书局出版。本书以唐代为重心，从地理意象入手，复原古人脑子里的文化地图。书中提出感觉文化区优先于形式文化区的方法论主张，并通过《柳毅传》洞庭湖考辨、杜甫与李白诗中江汉地名考释、巫山神女与潇湘意象的地理渊源、以及禽言诗兴起所反映的生态感知深化等具体案例，揭示地理空间如何主动参与中古文学的塑造。本书属于历史文化地理学跨界文学研究的代表性著作，也是当代文学地理学的重要源头之一。</itunes:summary>
+      <itunes:duration>00:27:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-85ce56.mp3" length="26388525" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
