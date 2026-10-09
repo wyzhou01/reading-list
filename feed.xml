@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 02:52:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 03:00:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29718,6 +29718,17 @@
       <itunes:duration>00:29:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-c5bf9c.mp3" length="28253997" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中国古典哲学概念范畴要论》 · 完整版 · 中国古典哲学概念范畴要论（精）--张岱年 · 完整讲读</title>
+      <description>张岱年《中国古典哲学概念范畴要论》，是一部以概念范畴为纲的中国哲学方法论专著。全书梳理约六十个核心范畴——天、道、气、理、太极、阴阳、五行、仁、义、心、性、知行等——分天道、人道、为学之方三大块，按提出、演变、分化、会综四种动作追溯其两千多年的历史命运。本书揭示，同一个汉字在不同学派、不同时代往往承载不同含义，范畴史的研究正是要保留这种历史张力。它告诉读者：理解中国哲学的基本单位不是命题，而是范畴；读懂一个词，要先认清它是在谁手里、哪个时代、被赋予什么理论重量。</description>
+      <pubDate>Fri, 09 Oct 2026 03:00:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-24e2de</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>张岱年《中国古典哲学概念范畴要论》，是一部以概念范畴为纲的中国哲学方法论专著。全书梳理约六十个核心范畴——天、道、气、理、太极、阴阳、五行、仁、义、心、性、知行等——分天道、人道、为学之方三大块，按提出、演变、分化、会综四种动作追溯其两千多年的历史命运。本书揭示，同一个汉字在不同学派、不同时代往往承载不同含义，范畴史的研究正是要保留这种历史张力。它告诉读者：理解中国哲学的基本单位不是命题，而是范畴；读懂一个词，要先认清它是在谁手里、哪个时代、被赋予什么理论重量。</itunes:summary>
+      <itunes:duration>00:27:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-24e2de.mp3" length="26038701" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
