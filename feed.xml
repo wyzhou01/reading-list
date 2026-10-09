@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 23:25:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 23:30:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30710,6 +30710,17 @@
       <itunes:duration>00:28:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-2f7e4b.mp3" length="27470637" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《黑石的选择》 · 完整版 · 黑石的选择 · 完整讲读</title>
+      <description>《黑石的选择》是黑石集团创始人彼得·彼得森的自传,讲述了一个希腊穷小子如何凭借【比较优势】【思想勤奋】【忠于原则】这些朴素智慧,从卡尼市的咖啡厅收银台一路走到华尔街之巅。书里公开了黑石【永不进行敌意收购】的护城河规矩,也写下了彼得森九十年人生的七堂课:发挥比较优势、拒绝思想懒惰、立即行动、谨慎选领域、忠于原则、平衡生活、着眼长远。这本书既是一个移民的美国梦,也是一部关于【眼前利益 vs 长远利益】的人生决策教科书。</description>
+      <pubDate>Fri, 09 Oct 2026 23:30:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-61e9c7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《黑石的选择》是黑石集团创始人彼得·彼得森的自传,讲述了一个希腊穷小子如何凭借【比较优势】【思想勤奋】【忠于原则】这些朴素智慧,从卡尼市的咖啡厅收银台一路走到华尔街之巅。书里公开了黑石【永不进行敌意收购】的护城河规矩,也写下了彼得森九十年人生的七堂课:发挥比较优势、拒绝思想懒惰、立即行动、谨慎选领域、忠于原则、平衡生活、着眼长远。这本书既是一个移民的美国梦,也是一部关于【眼前利益 vs 长远利益】的人生决策教科书。</itunes:summary>
+      <itunes:duration>00:28:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-61e9c7.mp3" length="27368877" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
