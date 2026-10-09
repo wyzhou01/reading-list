@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 18:43:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 18:48:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30512,6 +30512,17 @@
       <itunes:duration>00:29:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-5e52cc.mp3" length="28012077" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《输赢》 · 完整版 · 输赢(2012全新修订) · 完整讲读</title>
+      <description>《输赢》是中国第一部可用于培训的销售商战小说。外资企业捷科与惠康决战北京，争夺银行总部的超级订单。销售高手周锐从上海空降北京，在内外夹击中突围求生。付遥用十八年外企实战与培训经验，把一桩复杂的大客户销售拆解为摧龙八式：建立信任、发掘需求、立项、设计、呈现价值、赢取承诺、管理期望、回收账款。这本书既是惊心动魄的商战故事，也是中国大客户销售的方法论教科书，更是一面照见输赢真相的人性之镜——销售的本质，是信任与价值创造；输赢之外的代价，才是真正的成长。</description>
+      <pubDate>Fri, 09 Oct 2026 18:48:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-a86a38</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《输赢》是中国第一部可用于培训的销售商战小说。外资企业捷科与惠康决战北京，争夺银行总部的超级订单。销售高手周锐从上海空降北京，在内外夹击中突围求生。付遥用十八年外企实战与培训经验，把一桩复杂的大客户销售拆解为摧龙八式：建立信任、发掘需求、立项、设计、呈现价值、赢取承诺、管理期望、回收账款。这本书既是惊心动魄的商战故事，也是中国大客户销售的方法论教科书，更是一面照见输赢真相的人性之镜——销售的本质，是信任与价值创造；输赢之外的代价，才是真正的成长。</itunes:summary>
+      <itunes:duration>00:27:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-a86a38.mp3" length="26412717" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
