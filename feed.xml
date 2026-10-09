@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 11:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 11:11:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30323,6 +30323,17 @@
       <itunes:duration>00:21:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-60164a.mp3" length="20709933" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《这才是思维》 · 完整版 · 这才是思维 · 完整讲读</title>
+      <description>《这才是思维》是全球创新思维之父爱德华·德博诺的晚年集大成之作。他用一个核心判断——优秀，但还不够——直指人类思维的自满：2400 年来我们没有为大脑开发任何新工具，传统思维只擅长科学与技术，却在人际冲突、社会治理等议题上全面失灵。他提出要在批判性思维之外，补充创造性思维、设计性思维与感知思维三大支柱，并推出水平思考、平行思考、六顶思考帽等可操作的思维工具，把工程师式的手术刀递到每一个普通人手里。书中最后的呼吁简单而坚定——思维是一项应当被写进基本人权、被认真训练的基本权利。</description>
+      <pubDate>Fri, 09 Oct 2026 11:11:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-30d745</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《这才是思维》是全球创新思维之父爱德华·德博诺的晚年集大成之作。他用一个核心判断——优秀，但还不够——直指人类思维的自满：2400 年来我们没有为大脑开发任何新工具，传统思维只擅长科学与技术，却在人际冲突、社会治理等议题上全面失灵。他提出要在批判性思维之外，补充创造性思维、设计性思维与感知思维三大支柱，并推出水平思考、平行思考、六顶思考帽等可操作的思维工具，把工程师式的手术刀递到每一个普通人手里。书中最后的呼吁简单而坚定——思维是一项应当被写进基本人权、被认真训练的基本权利。</itunes:summary>
+      <itunes:duration>00:28:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-30d745.mp3" length="27533613" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
