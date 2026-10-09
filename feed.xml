@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 01:00:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 01:09:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29575,6 +29575,17 @@
       <itunes:duration>00:23:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-8b3ab6.mp3" length="22780077" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《十一月的此刻》 · 完整版 · 十一月的此刻 · 完整讲读</title>
+      <description>《十一月的此刻》是约瑟芬·约翰逊1934年摘得普利策小说奖的处女作，以美国大萧条为背景，讲述霍德玛恩一家回到密苏里州荒弃祖业的农场，在抵押、失业与干旱中挣扎求生的故事。十四岁的少女玛格丽特以沉静内省的笔触，记录了父亲的崩溃、母亲的沉默、姐姐凯琳的愤怒与十岁妹妹茉儿的天真。小说没有宏大叙事，只有削土豆、数蜡烛、给父亲准备生日礼物的日常，以最克制的抒情，写出了信念、失去与忍耐最汹涌的形状。</description>
+      <pubDate>Fri, 09 Oct 2026 01:09:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-fd3ea9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《十一月的此刻》是约瑟芬·约翰逊1934年摘得普利策小说奖的处女作，以美国大萧条为背景，讲述霍德玛恩一家回到密苏里州荒弃祖业的农场，在抵押、失业与干旱中挣扎求生的故事。十四岁的少女玛格丽特以沉静内省的笔触，记录了父亲的崩溃、母亲的沉默、姐姐凯琳的愤怒与十岁妹妹茉儿的天真。小说没有宏大叙事，只有削土豆、数蜡烛、给父亲准备生日礼物的日常，以最克制的抒情，写出了信念、失去与忍耐最汹涌的形状。</itunes:summary>
+      <itunes:duration>00:33:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-fd3ea9.mp3" length="31795245" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
