@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 00:41:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 00:47:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29542,6 +29542,17 @@
       <itunes:duration>00:14:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-e778d9.mp3" length="13888941" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《绘画中的日常》 · 完整版 · 绘画中的日常 · 完整讲读</title>
+      <description>本期节目解读李梦的艺术随笔《绘画中的日常》。作者以雪、雨、花、水、早餐、镜子、母亲、梦境、梯子等二十个日常意象为切口,把西斯莱、梵高、莫奈、董源、范宽、修拉、米罗等东西方名家的画作,一一拉回到我们眼前的柴米油盐中。本书不是一本艺术史入门书,而是一个写作者在多伦多休伦街的安静日子里,用二十篇小文章献给生活的情书。它提醒每一个忙碌的人:美从来都在身边,只是你愿不愿意抬头看它一眼。</description>
+      <pubDate>Fri, 09 Oct 2026 00:47:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-9f46df</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期节目解读李梦的艺术随笔《绘画中的日常》。作者以雪、雨、花、水、早餐、镜子、母亲、梦境、梯子等二十个日常意象为切口,把西斯莱、梵高、莫奈、董源、范宽、修拉、米罗等东西方名家的画作,一一拉回到我们眼前的柴米油盐中。本书不是一本艺术史入门书,而是一个写作者在多伦多休伦街的安静日子里,用二十篇小文章献给生活的情书。它提醒每一个忙碌的人:美从来都在身边,只是你愿不愿意抬头看它一眼。</itunes:summary>
+      <itunes:duration>00:24:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-9f46df.mp3" length="23375277" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
