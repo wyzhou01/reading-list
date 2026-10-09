@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 00:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 00:15:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29476,6 +29476,17 @@
       <itunes:duration>00:32:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-2293d9.mp3" length="31278765" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《星形广场》 · 完整版 · 星形广场 · 完整讲读</title>
+      <description>《星形广场》是帕特里克·莫迪亚诺的处女作，被视为其全部创作的基因。小说写一九四二年巴黎被占领前夕，一个犹太青年什勒米洛维奇在街头游荡，与反犹文人争论，伪造身份、戏弄媒体，并与贵族青年策划荒诞恶作剧。全书以碎片化、梦幻般的叙述交织记忆、传闻与现实，呈现犹太身份认同、归属困境，以及人在历史碾压下用反讽和戏谑进行抵抗的悲剧命运。</description>
+      <pubDate>Fri, 09 Oct 2026 00:15:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-170b77</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《星形广场》是帕特里克·莫迪亚诺的处女作，被视为其全部创作的基因。小说写一九四二年巴黎被占领前夕，一个犹太青年什勒米洛维奇在街头游荡，与反犹文人争论，伪造身份、戏弄媒体，并与贵族青年策划荒诞恶作剧。全书以碎片化、梦幻般的叙述交织记忆、传闻与现实，呈现犹太身份认同、归属困境，以及人在历史碾压下用反讽和戏谑进行抵抗的悲剧命运。</itunes:summary>
+      <itunes:duration>00:23:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-170b77.mp3" length="23001645" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
