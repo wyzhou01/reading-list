@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 03:42:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 03:48:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29795,6 +29795,17 @@
       <itunes:duration>00:14:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-a70afb.mp3" length="13460781" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《耶稣传》 · 完整版 · 耶稣传_(汉译世界学术名著丛书)_-_欧内斯特·勒南 · 完整讲读</title>
+      <description>《耶稣传》是十九世纪法国思想家欧内斯特·勒南的惊世之作。勒南以历史批判与人文主义方法重写耶稣生平，剥去神圣外衣，还原一个完全人性的拿撒勒木匠：他传播纯粹宗教，宣告不依赖祭司与庙宇的心灵信仰；他在客西马尼园动摇，在十字架下献出生命；他死后被门徒的爱重塑为复活的主。本书既是福音书史料批判的早期范本，也是一部探讨一个真实的人如何成为两千年来无数人精神灯塔的思想传记。</description>
+      <pubDate>Fri, 09 Oct 2026 03:48:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-36082c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《耶稣传》是十九世纪法国思想家欧内斯特·勒南的惊世之作。勒南以历史批判与人文主义方法重写耶稣生平，剥去神圣外衣，还原一个完全人性的拿撒勒木匠：他传播纯粹宗教，宣告不依赖祭司与庙宇的心灵信仰；他在客西马尼园动摇，在十字架下献出生命；他死后被门徒的爱重塑为复活的主。本书既是福音书史料批判的早期范本，也是一部探讨一个真实的人如何成为两千年来无数人精神灯塔的思想传记。</itunes:summary>
+      <itunes:duration>00:27:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-36082c.mp3" length="26295597" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
