@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 09:57:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 10:04:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30213,6 +30213,17 @@
       <itunes:duration>00:25:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-b8f922.mp3" length="24395565" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《合理的怀疑：从辛普森案批判美国司法体系》 · 完整版 · 合理的怀疑 · 完整讲读</title>
+      <description>《合理的怀疑》以辛普森案为切片，解剖美国刑事司法体系最深的悖论。德肖维茨，这位亲历辛案辩方梦幻律师团的哈佛教授，用冷静而锋利的笔法揭示：刑事审判追求的不是绝对真相，而是程序之下的可承受正义。当警察可以撒谎、当资源决定辩护质量、当种族经验撕裂陪审共识，法律的克制比真相更重要。这本书不改变你对辛普森是否有罪的判断，但会让你理解，为什么一个让几百万美国人愤怒的判决，在法律上可能是正确而妥适的。</description>
+      <pubDate>Fri, 09 Oct 2026 10:04:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-116b18</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《合理的怀疑》以辛普森案为切片，解剖美国刑事司法体系最深的悖论。德肖维茨，这位亲历辛案辩方梦幻律师团的哈佛教授，用冷静而锋利的笔法揭示：刑事审判追求的不是绝对真相，而是程序之下的可承受正义。当警察可以撒谎、当资源决定辩护质量、当种族经验撕裂陪审共识，法律的克制比真相更重要。这本书不改变你对辛普森是否有罪的判断，但会让你理解，为什么一个让几百万美国人愤怒的判决，在法律上可能是正确而妥适的。</itunes:summary>
+      <itunes:duration>00:27:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-116b18.mp3" length="25929261" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
