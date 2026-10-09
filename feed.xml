@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 19:07:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 19:16:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30556,6 +30556,17 @@
       <itunes:duration>00:25:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-3749c3.mp3" length="24355245" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《打火机与公主裙·荒草园》 · 完整版 · 打火机与公主裙·荒草园 · 完整讲读</title>
+      <description>《打火机与公主裙》是 Twentine 的代表作，故事分上下两部。上部【荒草园】讲的是天才少年李峋与乖乖女朱韵的青春往事。李峋顶着全省高考状元的头衔，染着一头金发，狂傲、毒舌、目中无人，骨子里却是个为保护相依为命的姐姐可以把自己搭进去的人。朱韵是老师眼中的乖学生，温柔、倔强、安静，被班长派去劝李峋上早自习，结果两人在荒草园里相遇、相恋、一起创业。可命运在最得意的时候给了李峋最狠的一刀——他为保护姐姐伤人入狱，被判八年。朱韵等他八年，不是因为傻，是因为她明知道会受伤，还是想站在他身边。这本书讲的从来不是童话，是真实的人性——天才也会犯错，乖顺的人也会叛逆，深爱也可以是一种牺牲。</description>
+      <pubDate>Fri, 09 Oct 2026 19:16:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-26bd76</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《打火机与公主裙》是 Twentine 的代表作，故事分上下两部。上部【荒草园】讲的是天才少年李峋与乖乖女朱韵的青春往事。李峋顶着全省高考状元的头衔，染着一头金发，狂傲、毒舌、目中无人，骨子里却是个为保护相依为命的姐姐可以把自己搭进去的人。朱韵是老师眼中的乖学生，温柔、倔强、安静，被班长派去劝李峋上早自习，结果两人在荒草园里相遇、相恋、一起创业。可命运在最得意的时候给了李峋最狠的一刀——他为保护姐姐伤人入狱，被判八年。朱韵等他八年，不是因为傻，是因为她明知道会受伤，还是想站在他身边。这本书讲的从来不是童话，是真实的人性——天才也会犯错，乖顺的人也会叛逆，深爱也可以是一种牺牲。</itunes:summary>
+      <itunes:duration>00:32:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-26bd76.mp3" length="31066029" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
