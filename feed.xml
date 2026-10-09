@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 00:47:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 00:53:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29553,6 +29553,17 @@
       <itunes:duration>00:24:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-9f46df.mp3" length="23375277" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《荆棘王》 · 完整版 · 荆棘与白骨的王国·卷1·荆棘王 · 完整讲读</title>
+      <description>《荆棘王》是美国作家格里格·凯斯所著奇幻史诗《荆棘与白骨的王国》系列的第一卷，讲述八岁的克洛史尼公主安妮在火梓园下的古墓中偶然发现祖先天降女王维吉尼亚·戴尔的棺椁，由此卷入一场跨越二十二个世纪的宿命漩涡的故事。凯斯借古墓、剑客、女巫集训院与古老神祇的层层交织，拷问反抗与代价的辩证关系：当奴隶用主人的武器推翻主人时，胜利本身便已播下新一轮诅咒的种子。</description>
+      <pubDate>Fri, 09 Oct 2026 00:53:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-3a4e4d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《荆棘王》是美国作家格里格·凯斯所著奇幻史诗《荆棘与白骨的王国》系列的第一卷，讲述八岁的克洛史尼公主安妮在火梓园下的古墓中偶然发现祖先天降女王维吉尼亚·戴尔的棺椁，由此卷入一场跨越二十二个世纪的宿命漩涡的故事。凯斯借古墓、剑客、女巫集训院与古老神祇的层层交织，拷问反抗与代价的辩证关系：当奴隶用主人的武器推翻主人时，胜利本身便已播下新一轮诅咒的种子。</itunes:summary>
+      <itunes:duration>00:26:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-3a4e4d.mp3" length="25713837" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
