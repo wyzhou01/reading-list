@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 04:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 04:08:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29828,6 +29828,17 @@
       <itunes:duration>00:29:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-526338.mp3" length="28447533" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《括苍山恩仇记》 · 完整版 · 括苍山恩仇记 · 完整讲读</title>
+      <description>《括苍山恩仇记》是一部二百二十多万字的章回体长篇历史文化小说，写于一九七四至一九七六年的劳改农场。作者吴越以清末浙南山区太平天国失败后的咸丰同治年间为背景，通过石匠吴家与豪绅林家两代血海深仇的故事，深刻揭示了官逼民反的历史必然、封建专制下善恶人性的复杂，以及山民风骨与女性觉醒的悲壮抗争。六块核心拼图——官逼民反的规律、官绅勾结的骨架、个人觉醒的临界、女性群像的正名、民俗密码的保存，以及作者本人以命相搏的写作本身——共同构成了这部被誉为二十世纪末章回小说压卷之作的精神底色。它不仅是文学经典，更是一面照见当下、警示未来的镜子。</description>
+      <pubDate>Fri, 09 Oct 2026 04:08:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-459e35</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《括苍山恩仇记》是一部二百二十多万字的章回体长篇历史文化小说，写于一九七四至一九七六年的劳改农场。作者吴越以清末浙南山区太平天国失败后的咸丰同治年间为背景，通过石匠吴家与豪绅林家两代血海深仇的故事，深刻揭示了官逼民反的历史必然、封建专制下善恶人性的复杂，以及山民风骨与女性觉醒的悲壮抗争。六块核心拼图——官逼民反的规律、官绅勾结的骨架、个人觉醒的临界、女性群像的正名、民俗密码的保存，以及作者本人以命相搏的写作本身——共同构成了这部被誉为二十世纪末章回小说压卷之作的精神底色。它不仅是文学经典，更是一面照见当下、警示未来的镜子。</itunes:summary>
+      <itunes:duration>00:34:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-459e35.mp3" length="33346221" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
