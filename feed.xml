@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 06:58:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 07:09:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29971,6 +29971,17 @@
       <itunes:duration>00:34:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-fa9b27.mp3" length="32671149" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《谏书稀庵笔记》 · 完整版 · 谏书稀庵笔记(简体版)_(BookDNA中国古典丛书) · 完整讲读</title>
+      <description>《谏书稀庵笔记》是晚清山东潍县进士陈恒庆亲历官场、京华、义和团与乡里之后写成的笔记, 以平易节制之笔, 横切科举、官场、京华、齐鲁四个大块。本书讲解顺着判案、奇案、庚子、潍县四条主线, 把一位外省京官的眼睛、一次庚子年的奇幻大戏、一座滩县的海滩与苇席, 一并读给今天的我们听。</description>
+      <pubDate>Fri, 09 Oct 2026 07:09:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-d73e1f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《谏书稀庵笔记》是晚清山东潍县进士陈恒庆亲历官场、京华、义和团与乡里之后写成的笔记, 以平易节制之笔, 横切科举、官场、京华、齐鲁四个大块。本书讲解顺着判案、奇案、庚子、潍县四条主线, 把一位外省京官的眼睛、一次庚子年的奇幻大戏、一座滩县的海滩与苇席, 一并读给今天的我们听。</itunes:summary>
+      <itunes:duration>00:42:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-d73e1f.mp3" length="41110317" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
