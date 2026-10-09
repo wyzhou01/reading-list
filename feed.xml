@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 17:13:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 17:21:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30402,6 +30402,17 @@
       <itunes:duration>00:22:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-fffad1.mp3" length="21872301" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《未来三部曲》 · 完整版 · 未来三部曲 · 完整讲读</title>
+      <description>阿尔文·托夫勒的《未来三部曲》由《未来的冲击》《第三次浪潮》《权力的转移》构成，跨越二十年出版，预言了从工业文明迈向信息文明的完整图景。《未来的冲击》指出，变革的速度已超过人类的适应能力，短暂性与新奇性正全面重塑个人与组织；《第三次浪潮》宣告一场以信息化、去中心化、个性化为特征的文明更替已经到来；《权力的转移》则揭示，决定胜负的不再是暴力与金钱，而是知识。托夫勒预言的智能手机、远程办公、个性化生产、信息战等景象，今天已成现实。三部曲既是一份未来学预言，更是一套分析变革的元方法论，是读懂二十一世纪的一把钥匙。</description>
+      <pubDate>Fri, 09 Oct 2026 17:21:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-e39e3d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>阿尔文·托夫勒的《未来三部曲》由《未来的冲击》《第三次浪潮》《权力的转移》构成，跨越二十年出版，预言了从工业文明迈向信息文明的完整图景。《未来的冲击》指出，变革的速度已超过人类的适应能力，短暂性与新奇性正全面重塑个人与组织；《第三次浪潮》宣告一场以信息化、去中心化、个性化为特征的文明更替已经到来；《权力的转移》则揭示，决定胜负的不再是暴力与金钱，而是知识。托夫勒预言的智能手机、远程办公、个性化生产、信息战等景象，今天已成现实。三部曲既是一份未来学预言，更是一套分析变革的元方法论，是读懂二十一世纪的一把钥匙。</itunes:summary>
+      <itunes:duration>00:33:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-e39e3d.mp3" length="32562861" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
