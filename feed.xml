@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 10:26:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 10:33:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30257,6 +30257,17 @@
       <itunes:duration>00:29:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-5f24c3.mp3" length="28192173" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《致命绑架》 · 完整版 · 致命绑架 · 完整讲读</title>
+      <description>1996年加州萨克拉门托，少女莉齐深夜独自回家途中遭一名自称&quot;义警&quot;的连环杀手绑架，囚禁于暗室之中。与此同时，FBI特工与警探联手追查近期破案的三起少女被害案，逐步锁定嫌犯。莉齐必须在恐惧中保持冷静、寻找逃脱机会，而外面的世界则围绕着一场与时间赛跑的大搜救展开。这是一部以受害者生存智慧与罪犯心理对峙为主线的犯罪悬疑小说。</description>
+      <pubDate>Fri, 09 Oct 2026 10:33:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-f2fa9e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>1996年加州萨克拉门托，少女莉齐深夜独自回家途中遭一名自称&quot;义警&quot;的连环杀手绑架，囚禁于暗室之中。与此同时，FBI特工与警探联手追查近期破案的三起少女被害案，逐步锁定嫌犯。莉齐必须在恐惧中保持冷静、寻找逃脱机会，而外面的世界则围绕着一场与时间赛跑的大搜救展开。这是一部以受害者生存智慧与罪犯心理对峙为主线的犯罪悬疑小说。</itunes:summary>
+      <itunes:duration>00:33:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-f2fa9e.mp3" length="32352429" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
