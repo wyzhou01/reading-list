@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 18:48:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 18:57:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30523,6 +30523,17 @@
       <itunes:duration>00:27:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-a86a38.mp3" length="26412717" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《你要么出众，要么出局》 · 完整版 · 你要么出众，要么出局 · 完整讲读</title>
+      <description>本书是青年作家李尚龙基于从军校到新东方、再到创业的真实经历写下的成长笔记。核心观点是：在持续变动的时代里，所谓的稳定并不来自一份工作或一段关系，而来自一个人不可替代的能力。作者提出六个命题：弱者依附平台、强者打造平台；警惕精神上的穷人；好朋友是在互相麻烦中长出来的；没有杂质的爱情不掺杂利益计算；在变动的时代里要敢于做出忠于内心的选择。本书适合二十到三十岁、在都市中感到迷茫重复、又不敢迈出第一步的年轻人，不提供励志口号，而提供一套关于舒适区、注意力、关系与选择的思考框架。</description>
+      <pubDate>Fri, 09 Oct 2026 18:57:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-4f195b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是青年作家李尚龙基于从军校到新东方、再到创业的真实经历写下的成长笔记。核心观点是：在持续变动的时代里，所谓的稳定并不来自一份工作或一段关系，而来自一个人不可替代的能力。作者提出六个命题：弱者依附平台、强者打造平台；警惕精神上的穷人；好朋友是在互相麻烦中长出来的；没有杂质的爱情不掺杂利益计算；在变动的时代里要敢于做出忠于内心的选择。本书适合二十到三十岁、在都市中感到迷茫重复、又不敢迈出第一步的年轻人，不提供励志口号，而提供一套关于舒适区、注意力、关系与选择的思考框架。</itunes:summary>
+      <itunes:duration>00:34:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-4f195b.mp3" length="33263277" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
