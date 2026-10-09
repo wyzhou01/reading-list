@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 07:39:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 07:52:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30026,6 +30026,17 @@
       <itunes:duration>00:25:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-88e4c1.mp3" length="24339117" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《后来的事》 · 完整版 · 后来的事_-_[日]_夏目漱石 · 完整讲读</title>
+      <description>《后来的事》是夏目漱石《三四郎》《后来的事》《门》三部曲的第二部，写于一九〇九年。主人公长井代助是明治时代衣食无忧的高等游民，与已婚旧友之妻三千代产生真挚感情。小说追问：当一个人终于看清自己真正想要的是什么，他有没有勇气为此付出一切？夏目漱石没有给出答案，只让代助坐上一辆电车，让一片大红的火海在脑海里燃烧。门第、家族、世俗礼法与个人意志的撕扯，是这本书留给每一个读者的镜子。</description>
+      <pubDate>Fri, 09 Oct 2026 07:52:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-eb6ed3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《后来的事》是夏目漱石《三四郎》《后来的事》《门》三部曲的第二部，写于一九〇九年。主人公长井代助是明治时代衣食无忧的高等游民，与已婚旧友之妻三千代产生真挚感情。小说追问：当一个人终于看清自己真正想要的是什么，他有没有勇气为此付出一切？夏目漱石没有给出答案，只让代助坐上一辆电车，让一片大红的火海在脑海里燃烧。门第、家族、世俗礼法与个人意志的撕扯，是这本书留给每一个读者的镜子。</itunes:summary>
+      <itunes:duration>00:35:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-eb6ed3.mp3" length="34272045" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
