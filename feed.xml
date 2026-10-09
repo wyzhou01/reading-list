@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 01:39:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 01:47:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29630,6 +29630,17 @@
       <itunes:duration>00:29:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-787ddf.mp3" length="28081965" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《爆裂：未来社会的9大生存原则》 · 完整版 · 爆裂：未来社会的9大生存原则 · 完整讲读</title>
+      <description>《爆裂：未来社会的9大生存原则》是麻省理工学院媒体实验室主任伊藤穰一与科技记者杰夫·豪合著的一部时代诊断书。面对 A I 加速、平台崛起、巨头被小团队颠覆的时代，书中提出三个关键词：不对称性、复杂性与不确定性，并由此展开九大原则——涌现优于权威、拉力优于推力、指南针优于地图、风险优于安全、违抗优于服从、实践优于理论、多样性优于能力、韧性优于力量、系统优于个体。这九条原则贯穿一个核心：从命令与控制的旧体制，转向涌现与协作的新体制。书中以深圳硬件供应链、维基百科协作、阿尔法狗击败李世石等大量真实案例，展示了小团队如何撼动大机构、如何在不确定性中保持韧性、如何让系统持续涌现创新。它不预测每一明天，而是为明天真正来临时，提供一组持续适用的行动坐标。</description>
+      <pubDate>Fri, 09 Oct 2026 01:46:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-3e61c3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《爆裂：未来社会的9大生存原则》是麻省理工学院媒体实验室主任伊藤穰一与科技记者杰夫·豪合著的一部时代诊断书。面对 A I 加速、平台崛起、巨头被小团队颠覆的时代，书中提出三个关键词：不对称性、复杂性与不确定性，并由此展开九大原则——涌现优于权威、拉力优于推力、指南针优于地图、风险优于安全、违抗优于服从、实践优于理论、多样性优于能力、韧性优于力量、系统优于个体。这九条原则贯穿一个核心：从命令与控制的旧体制，转向涌现与协作的新体制。书中以深圳硬件供应链、维基百科协作、阿尔法狗击败李世石等大量真实案例，展示了小团队如何撼动大机构、如何在不确定性中保持韧性、如何让系统持续涌现创新。它不预测每一明天，而是为明天真正来临时，提供一组持续适用的行动坐标。</itunes:summary>
+      <itunes:duration>00:34:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-3e61c3.mp3" length="33082797" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
