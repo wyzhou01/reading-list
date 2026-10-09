@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 06:35:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 06:43:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29938,6 +29938,17 @@
       <itunes:duration>00:28:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-04c879.mp3" length="27287469" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《非常之洲：非洲见闻录》 · 完整版 · 非常之洲：非洲见闻录 · 完整讲读</title>
+      <description>《非常之洲：非洲见闻录》是作者王兆桂三十年间三十多次走进非洲、足迹遍及十五国、累计生活十三年的亲历笔记。本书打破【非洲 = 落后】的刻板印象，从鼓乐、诗魂、木雕、伏都教、母系社会等维度展现非洲文明的独特性；通过奴隶堡、贝汉津抗法、中贝棉业公司三年等待等真实细节，重述殖民史与中非交往；并以【说话有礼貌，但也要带上一根结实的棍子】的西非谚语，呈现一种既不居高临下、也不盲目仰望的非洲观——一种承认差异、尊重具体、也带好自己判断的理解方式。</description>
+      <pubDate>Fri, 09 Oct 2026 06:43:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-02c02c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《非常之洲：非洲见闻录》是作者王兆桂三十年间三十多次走进非洲、足迹遍及十五国、累计生活十三年的亲历笔记。本书打破【非洲 = 落后】的刻板印象，从鼓乐、诗魂、木雕、伏都教、母系社会等维度展现非洲文明的独特性；通过奴隶堡、贝汉津抗法、中贝棉业公司三年等待等真实细节，重述殖民史与中非交往；并以【说话有礼貌，但也要带上一根结实的棍子】的西非谚语，呈现一种既不居高临下、也不盲目仰望的非洲观——一种承认差异、尊重具体、也带好自己判断的理解方式。</itunes:summary>
+      <itunes:duration>00:25:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-02c02c.mp3" length="24513837" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
