@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 23:30:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 23:39:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30721,6 +30721,17 @@
       <itunes:duration>00:28:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-61e9c7.mp3" length="27368877" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《先秦史》 · 完整版 · 吕思勉_-_先秦史 · 完整讲读</title>
+      <description>吕思勉先生写于上世纪三十年代的先秦断代史经典，分前后两编：前半按时间顺序讲政治史，从远古传说经夏商周至春秋战国的递嬗；后半按专题讲社会经济文化，涵盖民族、疆域、社会组织、农工商业、衣食住行、政治制度、宗教学术等。吕先生以严密考据和独立史观，对古史材料、年代、民族起源、古代社会形态等问题作了系统梳理，是研习上古史的基本参考书。</description>
+      <pubDate>Fri, 09 Oct 2026 23:39:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-353429</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>吕思勉先生写于上世纪三十年代的先秦断代史经典，分前后两编：前半按时间顺序讲政治史，从远古传说经夏商周至春秋战国的递嬗；后半按专题讲社会经济文化，涵盖民族、疆域、社会组织、农工商业、衣食住行、政治制度、宗教学术等。吕先生以严密考据和独立史观，对古史材料、年代、民族起源、古代社会形态等问题作了系统梳理，是研习上古史的基本参考书。</itunes:summary>
+      <itunes:duration>00:39:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-353429.mp3" length="38118573" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
