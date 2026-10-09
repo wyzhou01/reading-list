@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 11:17:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 11:23:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30345,6 +30345,19 @@
       <itunes:duration>00:29:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-b00e0e.mp3" length="28743213" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《杂草的故事》 · 完整版 · 杂草的故事_-_理查德·梅比 · 完整讲读</title>
+      <description>《杂草的故事》是英国自然文学作家理查德·梅比写就的一本随笔，记录了十二种被人类冠以「杂草」之名的流浪植物如何闯入人类历史与文化。梅比沿着城乡结合部的荒地、采砾场、废车场一路走来，从贯叶泽兰写到末日隐喻般的三尖树，从牛蒡与尼龙搭扣的灵感渊源写到千屈菜跨越大洋后的身份翻转。他反复强调一个核心命题：所谓杂草，不过是长在错误地点的植物；它的身份，由人类的价值判断、领土观念、历史叙事所塑造，跟植物本身没有半点关系。从《创世记》里的荆棘到休斯敦二十三厘米的法律红线，从大翅蓟由纪念品变入侵者再到英国蓝铃花如何被民族化，这本书把杂草的定义史变成一面映照人类身份政治的镜子。在除草越卖力杂草就越昌盛的悖论里，梅比留给我们最重要的不是对抗，而是停下来看一株「被驱逐的植物」三十秒的勇气。
+</description>
+      <pubDate>Fri, 09 Oct 2026 11:22:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-c8a1c2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《杂草的故事》是英国自然文学作家理查德·梅比写就的一本随笔，记录了十二种被人类冠以「杂草」之名的流浪植物如何闯入人类历史与文化。梅比沿着城乡结合部的荒地、采砾场、废车场一路走来，从贯叶泽兰写到末日隐喻般的三尖树，从牛蒡与尼龙搭扣的灵感渊源写到千屈菜跨越大洋后的身份翻转。他反复强调一个核心命题：所谓杂草，不过是长在错误地点的植物；它的身份，由人类的价值判断、领土观念、历史叙事所塑造，跟植物本身没有半点关系。从《创世记》里的荆棘到休斯敦二十三厘米的法律红线，从大翅蓟由纪念品变入侵者再到英国蓝铃花如何被民族化，这本书把杂草的定义史变成一面映照人类身份政治的镜子。在除草越卖力杂草就越昌盛的悖论里，梅比留给我们最重要的不是对抗，而是停下来看一株「被驱逐的植物」三十秒的勇气。
+</itunes:summary>
+      <itunes:duration>00:22:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-c8a1c2.mp3" length="21280941" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
