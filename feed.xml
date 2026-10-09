@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 03:37:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 03:42:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29784,6 +29784,17 @@
       <itunes:duration>00:20:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-173ca5.mp3" length="20126637" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《天命所终：晚清皇朝的崩溃》 · 完整版 · 天命所终：晚清皇朝的崩溃(1) · 完整讲读</title>
+      <description>《天命所终：晚清皇朝的崩溃》是金满楼对清末皇朝与八旗制度的系统性反思。全书跳出帝王将相的传统叙事，把目光投向被忽略的旗人群体：从八旗入关时的二十万铁骑，到清末沦为提笼架鸟的市井闲人；从太平天国的惊涛骇浪，到辛亥革命的口号与暴力。本书揭示大清覆灭的真正原因不是天命捉弄，而是宫荒绝嗣、皇族内斗、八旗腐化、铁杆庄稼养出无用之人等长期人祸的累积。在革命史观盛行的今天，本书重新审视【驱除鞑虏】这一民族主义口号的悖论——它既推动了辛亥革命的成功，也为旗人悲剧埋下伏笔。对于想要理解近代中国转型之痛的读者，这本书既是历史，也是镜鉴。</description>
+      <pubDate>Fri, 09 Oct 2026 03:42:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-a70afb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《天命所终：晚清皇朝的崩溃》是金满楼对清末皇朝与八旗制度的系统性反思。全书跳出帝王将相的传统叙事，把目光投向被忽略的旗人群体：从八旗入关时的二十万铁骑，到清末沦为提笼架鸟的市井闲人；从太平天国的惊涛骇浪，到辛亥革命的口号与暴力。本书揭示大清覆灭的真正原因不是天命捉弄，而是宫荒绝嗣、皇族内斗、八旗腐化、铁杆庄稼养出无用之人等长期人祸的累积。在革命史观盛行的今天，本书重新审视【驱除鞑虏】这一民族主义口号的悖论——它既推动了辛亥革命的成功，也为旗人悲剧埋下伏笔。对于想要理解近代中国转型之痛的读者，这本书既是历史，也是镜鉴。</itunes:summary>
+      <itunes:duration>00:14:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-a70afb.mp3" length="13460781" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
