@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 23:39:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 23:46:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30732,6 +30732,17 @@
       <itunes:duration>00:39:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-353429.mp3" length="38118573" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《十里红妆》 · 完整版 · 十里红妆 · 完整讲读</title>
+      <description>《十里红妆》是一部以浙东深山为背景的民国传奇长篇小说，讲述深山古村风门村蔺家四小姐蔺曼卿，从被父权安排出嫁的红衣少女，历经抗婚出走、目睹爱人牺牲、亲手击毙叛国恋人等三重血色抉择，最终蜕变为新四军独立纵队副大队长的故事。小说借妖精传说、悬棺古藤、云锦杜鹃等神秘意象，深度反思封建礼教、家族桎梏与旧式信仰，同时颂扬在民族大义面前的女性觉醒与革命信仰，探讨了当个人情感与家国抉择不可兼得时，人应当如何安放自己的灵魂。</description>
+      <pubDate>Fri, 09 Oct 2026 23:46:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-55b6d4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《十里红妆》是一部以浙东深山为背景的民国传奇长篇小说，讲述深山古村风门村蔺家四小姐蔺曼卿，从被父权安排出嫁的红衣少女，历经抗婚出走、目睹爱人牺牲、亲手击毙叛国恋人等三重血色抉择，最终蜕变为新四军独立纵队副大队长的故事。小说借妖精传说、悬棺古藤、云锦杜鹃等神秘意象，深度反思封建礼教、家族桎梏与旧式信仰，同时颂扬在民族大义面前的女性觉醒与革命信仰，探讨了当个人情感与家国抉择不可兼得时，人应当如何安放自己的灵魂。</itunes:summary>
+      <itunes:duration>00:32:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-55b6d4.mp3" length="30799149" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
