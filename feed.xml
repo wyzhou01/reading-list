@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 03:15:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 03:22:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29751,6 +29751,17 @@
       <itunes:duration>00:27:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-0ed1fb.mp3" length="26780205" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中国人的气质》 · 完整版 · 中国人的气质_(壹力文库)_-_明恩溥 · 完整讲读</title>
+      <description>《中国人的气质》是美国传教士明恩溥在中国乡村居住二十二年后写成的国民性观察经典。一八九零年以系列文章形式发表，一九零零年结集出版。本书以二十七个章节，从面子、节俭、勤劳等日常伦理切入，进而剖析中国人公私领域的德性矛盾、对时间与精确的淡漠，以及中西文明之间的深层误读。明恩溥的观察虽有传教士视角与文化优越感的局限，但他所提出的许多问题——要面子、缺诚信、公共精神淡漠——至今仍是中国社会的顽疾；而另一些曾被批评的缺点，如不守时、不精细、保守，已被时代改写。这本书不是一幅完整的肖像画，而是一束来自异乡的光，足以让我们在跨时空、跨文化的对视中，重新理解自己是谁。</description>
+      <pubDate>Fri, 09 Oct 2026 03:22:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-3cb668</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《中国人的气质》是美国传教士明恩溥在中国乡村居住二十二年后写成的国民性观察经典。一八九零年以系列文章形式发表，一九零零年结集出版。本书以二十七个章节，从面子、节俭、勤劳等日常伦理切入，进而剖析中国人公私领域的德性矛盾、对时间与精确的淡漠，以及中西文明之间的深层误读。明恩溥的观察虽有传教士视角与文化优越感的局限，但他所提出的许多问题——要面子、缺诚信、公共精神淡漠——至今仍是中国社会的顽疾；而另一些曾被批评的缺点，如不守时、不精细、保守，已被时代改写。这本书不是一幅完整的肖像画，而是一束来自异乡的光，足以让我们在跨时空、跨文化的对视中，重新理解自己是谁。</itunes:summary>
+      <itunes:duration>00:36:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-3cb668.mp3" length="34995501" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
