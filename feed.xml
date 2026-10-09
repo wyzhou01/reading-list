@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 01:09:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 01:15:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29586,6 +29586,17 @@
       <itunes:duration>00:33:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-fd3ea9.mp3" length="31795245" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大猎杀》 · 完整版 · 大猎杀 · 完整讲读</title>
+      <description>《大猎杀》是庄欣用三年时间写就的金融暗战长篇小说，二零一九四年出版以来被金融从业者和普通读者奉为案头必读。小说以跨国巨头鲸鱼公司为主角，讲述其副董事长哈斯联手金融作手福田正义，趁人民币升值之际从实业并购、离岸架构、A股做空三条战线围猎中国金融市场的全过程。本书用跌宕起伏的小说笔法，揭开离岸对冲基金、内线交易、空壳公司、地方政府招商冲动、散户高位接盘等围猎链条，揭示每一个新兴市场在金融开放时必须警惕的猎杀流程。它不是学术专著，却比很多专著更懂金融战争的真实形状；它不是新闻调查，却比很多调查更早画出金融暗战的完整地图。</description>
+      <pubDate>Fri, 09 Oct 2026 01:15:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-d2ac18</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大猎杀》是庄欣用三年时间写就的金融暗战长篇小说，二零一九四年出版以来被金融从业者和普通读者奉为案头必读。小说以跨国巨头鲸鱼公司为主角，讲述其副董事长哈斯联手金融作手福田正义，趁人民币升值之际从实业并购、离岸架构、A股做空三条战线围猎中国金融市场的全过程。本书用跌宕起伏的小说笔法，揭开离岸对冲基金、内线交易、空壳公司、地方政府招商冲动、散户高位接盘等围猎链条，揭示每一个新兴市场在金融开放时必须警惕的猎杀流程。它不是学术专著，却比很多专著更懂金融战争的真实形状；它不是新闻调查，却比很多调查更早画出金融暗战的完整地图。</itunes:summary>
+      <itunes:duration>00:24:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-d2ac18.mp3" length="23751981" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
