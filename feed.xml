@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 19:35:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 19:40:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30600,6 +30600,17 @@
       <itunes:duration>00:24:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-093157.mp3" length="23377581" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《纪德集(06)：刚果之行》 · 完整版 · 纪德集(06)：刚果之行 · 完整讲读</title>
+      <description>一百年前，诺奖得主、法国作家安德烈·纪德受殖民当局邀请深入法属刚果，写下一部被后世视为殖民史病历档案的《刚果之行》。本书以日记体记录沿途所见：强迫劳动撑起殖民机器、酗酒在官员与原住民中蔓延、教育几近真空、森林在大肆砍伐下一片片消失，而那一句【白人越不聪明，黑人显得越愚蠢】至今仍令人脊背发凉。纪德一边享受殖民体制的舒适接待，一边写下它最不堪的细节；一边哀悼【从未被砍过的地方】正在退场，一边用十九世纪欧洲博物馆式的崇高语汇描摹那片土地——这种撕裂，恰恰构成了现代知识分子最早的伦理肖像。一百年过去，书中描述的许多问题并未真正消失，只是换了面孔。本期《好好读书》为你一口气讲完这本殖民史经典，并追问一个跨时代的伦理难题：当我们为远方发声时，我们的存在本身，是见证，还是另一种掠取？</description>
+      <pubDate>Fri, 09 Oct 2026 19:40:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-63eecb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一百年前，诺奖得主、法国作家安德烈·纪德受殖民当局邀请深入法属刚果，写下一部被后世视为殖民史病历档案的《刚果之行》。本书以日记体记录沿途所见：强迫劳动撑起殖民机器、酗酒在官员与原住民中蔓延、教育几近真空、森林在大肆砍伐下一片片消失，而那一句【白人越不聪明，黑人显得越愚蠢】至今仍令人脊背发凉。纪德一边享受殖民体制的舒适接待，一边写下它最不堪的细节；一边哀悼【从未被砍过的地方】正在退场，一边用十九世纪欧洲博物馆式的崇高语汇描摹那片土地——这种撕裂，恰恰构成了现代知识分子最早的伦理肖像。一百年过去，书中描述的许多问题并未真正消失，只是换了面孔。本期《好好读书》为你一口气讲完这本殖民史经典，并追问一个跨时代的伦理难题：当我们为远方发声时，我们的存在本身，是见证，还是另一种掠取？</itunes:summary>
+      <itunes:duration>00:24:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-63eecb.mp3" length="23899437" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
