@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 22:37:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 22:44:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30633,6 +30633,17 @@
       <itunes:duration>00:36:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-ac8c7e.mp3" length="35022381" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《离开的，留下的》 · 完整版 · 离开的，留下的 · 完整讲读</title>
+      <description>《离开的，留下的》是意大利作家埃莱娜·费兰特的“那不勒斯四部曲”第三部，聚焦两位女主人公的中年人生与友谊的撕裂。一边是埃莱娜，从小城区的看门人女儿一路考入高等师范，嫁入米兰知识分子家庭，靠写作在城市里站稳脚跟；一边是莉拉，离开有黑帮背景的肉食店老板丈夫，搬进那不勒斯郊区做香肠厂女工，在最底层重新定义自己。费兰特用冷静的女性视角，剖析阶级跃升背后的身份撕裂、女性自我实现的代价如何在闺蜜间悄悄转移，以及女人与女人之间那种爱恨交织、权力此消彼长的友谊真相。这本书告诉我们：逃离没有用，阶层跃升没有用，因为那个你出身的城区，会永远活在你的骨头里。</description>
+      <pubDate>Fri, 09 Oct 2026 22:44:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-611c42</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《离开的，留下的》是意大利作家埃莱娜·费兰特的“那不勒斯四部曲”第三部，聚焦两位女主人公的中年人生与友谊的撕裂。一边是埃莱娜，从小城区的看门人女儿一路考入高等师范，嫁入米兰知识分子家庭，靠写作在城市里站稳脚跟；一边是莉拉，离开有黑帮背景的肉食店老板丈夫，搬进那不勒斯郊区做香肠厂女工，在最底层重新定义自己。费兰特用冷静的女性视角，剖析阶级跃升背后的身份撕裂、女性自我实现的代价如何在闺蜜间悄悄转移，以及女人与女人之间那种爱恨交织、权力此消彼长的友谊真相。这本书告诉我们：逃离没有用，阶层跃升没有用，因为那个你出身的城区，会永远活在你的骨头里。</itunes:summary>
+      <itunes:duration>00:32:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-611c42.mp3" length="31041837" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
