@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 09:19:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 09:27:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30169,6 +30169,17 @@
       <itunes:duration>00:31:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-b090d8.mp3" length="30369069" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《暗黑神探》 · 完整版 · 暗黑神探 · 完整讲读</title>
+      <description>《暗黑神探》是悬疑小说家何马继《藏地密码》之后潜心五年打造的转型之作，2013年由同心出版社出版。小说以一桩看似普通的酒驾撞人骗保案为引子，牵出一整套横跨股市黑幕、洗钱通道、恐怖组织与模仿【七宗罪】连环杀人案的高智商犯罪网络。破案天才韩峰懒散邋遢、精通法医学痕迹学犯罪心理学，来自神秘【学校】的犯罪天才梁小童心思缜密、善于利用制度缝隙，两人从骗保案一路对决到亚洲地下兵工厂。本书不仅是一场天才之间的巅峰较量，更是对法律监管漏洞、信息披露盲区与跨境司法协作低效的深层审视。韩峰那句【我确实管不了】的叹息，是全书最沉重、也最清醒的注脚。</description>
+      <pubDate>Fri, 09 Oct 2026 09:27:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-400173</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《暗黑神探》是悬疑小说家何马继《藏地密码》之后潜心五年打造的转型之作，2013年由同心出版社出版。小说以一桩看似普通的酒驾撞人骗保案为引子，牵出一整套横跨股市黑幕、洗钱通道、恐怖组织与模仿【七宗罪】连环杀人案的高智商犯罪网络。破案天才韩峰懒散邋遢、精通法医学痕迹学犯罪心理学，来自神秘【学校】的犯罪天才梁小童心思缜密、善于利用制度缝隙，两人从骗保案一路对决到亚洲地下兵工厂。本书不仅是一场天才之间的巅峰较量，更是对法律监管漏洞、信息披露盲区与跨境司法协作低效的深层审视。韩峰那句【我确实管不了】的叹息，是全书最沉重、也最清醒的注脚。</itunes:summary>
+      <itunes:duration>00:25:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-400173.mp3" length="24688173" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
