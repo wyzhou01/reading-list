@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 04:16:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 04:25:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29850,6 +29850,17 @@
       <itunes:duration>00:27:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-2acddd.mp3" length="26104365" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《经商就学胡雪岩》 · 完整版 · 经商就学胡雪岩(1) · 完整讲读</title>
+      <description>《经商就学胡雪岩》是南浦云所著晚清红顶商人胡雪岩的传记，2012年由北京联合出版公司出版。全书三十五万字，以胡雪岩七岁被后母设计抛弃写起，直至光绪十一年破产自尽，完整呈现一个传统商人三十年的起落沉浮。核心讲透三件事：一是钱庄、丝业、药号这些具体生意怎么做；二是官商之间那条危险的钢丝怎么走；三是诚信、人格这些老话题在真实商业利益面前到底值多少钱。这本书不讲野史八卦，而是用生意人和决策者的视角，把一个被戏说扭曲的商人拉回到经营现场重新打量。胡雪岩的命运，是环境塑造人也能毁灭人的活教材。今天读这本书，意义不在学他怎么巴结官员，而在于看清一个聪明人如何被自己选定的道路反噬，以及哪些做事的底层逻辑，一百年过去仍然管用。商格就是人格，这是胡雪岩用破产换回来的一句话。</description>
+      <pubDate>Fri, 09 Oct 2026 04:25:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-b7b1dd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《经商就学胡雪岩》是南浦云所著晚清红顶商人胡雪岩的传记，2012年由北京联合出版公司出版。全书三十五万字，以胡雪岩七岁被后母设计抛弃写起，直至光绪十一年破产自尽，完整呈现一个传统商人三十年的起落沉浮。核心讲透三件事：一是钱庄、丝业、药号这些具体生意怎么做；二是官商之间那条危险的钢丝怎么走；三是诚信、人格这些老话题在真实商业利益面前到底值多少钱。这本书不讲野史八卦，而是用生意人和决策者的视角，把一个被戏说扭曲的商人拉回到经营现场重新打量。胡雪岩的命运，是环境塑造人也能毁灭人的活教材。今天读这本书，意义不在学他怎么巴结官员，而在于看清一个聪明人如何被自己选定的道路反噬，以及哪些做事的底层逻辑，一百年过去仍然管用。商格就是人格，这是胡雪岩用破产换回来的一句话。</itunes:summary>
+      <itunes:duration>00:39:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-b7b1dd.mp3" length="37868973" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
