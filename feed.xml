@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 18:31:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 18:37:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30490,6 +30490,17 @@
       <itunes:duration>00:28:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-32f283.mp3" length="27753645" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《无限的清单》 · 完整版 · 无限的清单（收录众多精彩的文学文本与精美艺术品图片） · 完整讲读</title>
+      <description>《无限的清单》是翁贝托·艾柯晚年的跨学科随笔集，从荷马《伊利亚特》的船名表与阿喀琉斯之盾出发，横跨三千年文学与视觉艺术传统，系统梳理清单、目录、枚举这一族形式的美学与诗学。艾柯区分了【封闭形式】与【开放形式】两种再现模式，指出清单的核心力量在于它借【有限度的列举】召唤【无涯的暗示】——船名表、连祷文、奇珍柜、拉伯雷的夸张、博尔赫斯的百科全书、乔伊斯的意识流，都共享这种【不及备载】的咒语。艾柯也提醒我们，清单既是古老的认知工具，也是现代的修辞策略，读懂它，我们才能重新看待今天这个被歌单、片单、待办、推荐流塑造的世界。</description>
+      <pubDate>Fri, 09 Oct 2026 18:37:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-e976f0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《无限的清单》是翁贝托·艾柯晚年的跨学科随笔集，从荷马《伊利亚特》的船名表与阿喀琉斯之盾出发，横跨三千年文学与视觉艺术传统，系统梳理清单、目录、枚举这一族形式的美学与诗学。艾柯区分了【封闭形式】与【开放形式】两种再现模式，指出清单的核心力量在于它借【有限度的列举】召唤【无涯的暗示】——船名表、连祷文、奇珍柜、拉伯雷的夸张、博尔赫斯的百科全书、乔伊斯的意识流，都共享这种【不及备载】的咒语。艾柯也提醒我们，清单既是古老的认知工具，也是现代的修辞策略，读懂它，我们才能重新看待今天这个被歌单、片单、待办、推荐流塑造的世界。</itunes:summary>
+      <itunes:duration>00:23:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-e976f0.mp3" length="22811565" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
