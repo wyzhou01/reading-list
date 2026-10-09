@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 22:44:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 22:54:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30644,6 +30644,17 @@
       <itunes:duration>00:32:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-611c42.mp3" length="31041837" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《说话的力量：有效说服他人的策略和技巧》 · 完整版 · 说话的力量：有效说服他人的策略和技巧 · 完整讲读</title>
+      <description>《说话的力量》指出，沟通的战场不在说话者的嘴里，而在听者的脑子里。作者弗兰克·伦茨用二十年民调经验与五十万次访谈数据证明：人们记住的从来不是你说了什么，而是他们听到了什么。从遗产税到死亡税、从赌博到博彩、从决定性兵力到绝对优势兵力，每一个真实案例都在揭示同一件事——语言不描述事实，而是激活画面；不改变世界，而是改变世界在人心中的样子。这本书教你如何用数据照亮听者的视角，如何用画面取代概念，如何承认话语一旦出口便不再属于自己。对于任何想让自己的话真正起作用的人，这是必读的方法论。</description>
+      <pubDate>Fri, 09 Oct 2026 22:54:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-7e09ec</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《说话的力量》指出，沟通的战场不在说话者的嘴里，而在听者的脑子里。作者弗兰克·伦茨用二十年民调经验与五十万次访谈数据证明：人们记住的从来不是你说了什么，而是他们听到了什么。从遗产税到死亡税、从赌博到博彩、从决定性兵力到绝对优势兵力，每一个真实案例都在揭示同一件事——语言不描述事实，而是激活画面；不改变世界，而是改变世界在人心中的样子。这本书教你如何用数据照亮听者的视角，如何用画面取代概念，如何承认话语一旦出口便不再属于自己。对于任何想让自己的话真正起作用的人，这是必读的方法论。</itunes:summary>
+      <itunes:duration>00:36:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-7e09ec.mp3" length="35045037" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
