@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 07:09:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 07:15:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29982,6 +29982,17 @@
       <itunes:duration>00:42:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-d73e1f.mp3" length="41110317" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《巨龙躲避者》 · 完整版 · 巨龙躲避者_-_巴斯克_·_卡多索 · 完整讲读</title>
+      <description>在被巨龙统治地表、人类被迫退居地下城邦的阿尔克伊弥亚大陆，少年恩瑞格不甘于地底生活，立志成为地表疾奔者；老练的疾奔队队长塔热贡带领一支队伍冒险寻找东方大城邦的财富，却遭同行背叛，意外屠龙成功。临终前塔热贡将地图、赏金布告与归乡遗愿托付给恩瑞格，少年由此踏上前往西海阿瓦木的漫长旅程。</description>
+      <pubDate>Fri, 09 Oct 2026 07:15:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-faa183</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>在被巨龙统治地表、人类被迫退居地下城邦的阿尔克伊弥亚大陆，少年恩瑞格不甘于地底生活，立志成为地表疾奔者；老练的疾奔队队长塔热贡带领一支队伍冒险寻找东方大城邦的财富，却遭同行背叛，意外屠龙成功。临终前塔热贡将地图、赏金布告与归乡遗愿托付给恩瑞格，少年由此踏上前往西海阿瓦木的漫长旅程。</itunes:summary>
+      <itunes:duration>00:24:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-faa183.mp3" length="23895597" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
