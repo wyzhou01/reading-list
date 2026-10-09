@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 17:46:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 17:54:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30457,6 +30457,17 @@
       <itunes:duration>00:27:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-85ce56.mp3" length="26388525" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《遥远的湖》 · 完整版 · 遥远的湖_-_冯世杰 · 完整讲读</title>
+      <description>《遥远的湖》是冯世杰所著的散文式长篇小说，以少年视角回望从一九五九年除夕到二零零三年的半个世纪。母亲怀抱一生的南湖情结，少年在风雪与狼祸中长大，卑微的人在历史洪流中沉浮。浙江大学出版社二零一一年十一月出版。以时空交错的抒情笔法，再现小人物的爱与遗憾、坚韧与迷惘。</description>
+      <pubDate>Fri, 09 Oct 2026 17:54:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-e4d0d4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《遥远的湖》是冯世杰所著的散文式长篇小说，以少年视角回望从一九五九年除夕到二零零三年的半个世纪。母亲怀抱一生的南湖情结，少年在风雪与狼祸中长大，卑微的人在历史洪流中沉浮。浙江大学出版社二零一一年十一月出版。以时空交错的抒情笔法，再现小人物的爱与遗憾、坚韧与迷惘。</itunes:summary>
+      <itunes:duration>00:30:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-e4d0d4.mp3" length="28890285" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
