@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 23:11:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 23:13:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30677,6 +30677,17 @@
       <itunes:duration>00:36:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-c8e796.mp3" length="34973997" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《哈佛百年经典(第26卷)：爱默生文集》 · 完整版 · 哈佛百年经典（第9卷）见闻与传奇 · 完整讲读</title>
+      <description>《哈佛百年经典》第九卷《见闻与传奇》，收录弗瑞萨德的战场纪实、马洛里的亚瑟王传奇、哈瑞森的伊丽莎白时代社会记录，三段文本拼出英国从中世纪走向近代的完整路径。本期用六块拼图解读：百年战争揭示骑士的暴力本质，圣杯故事是骑士阶层的神话化告别，伊丽莎白时代的菜谱与矿井则标志近代文明的真正诞生。读完这本书，你将理解一个社会的现代化，不在于它有多少英雄，而在于它开始记录自己有多少条猎犬。</description>
+      <pubDate>Fri, 09 Oct 2026 00:37:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-b7a3a2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《哈佛百年经典》第九卷《见闻与传奇》，收录弗瑞萨德的战场纪实、马洛里的亚瑟王传奇、哈瑞森的伊丽莎白时代社会记录，三段文本拼出英国从中世纪走向近代的完整路径。本期用六块拼图解读：百年战争揭示骑士的暴力本质，圣杯故事是骑士阶层的神话化告别，伊丽莎白时代的菜谱与矿井则标志近代文明的真正诞生。读完这本书，你将理解一个社会的现代化，不在于它有多少英雄，而在于它开始记录自己有多少条猎犬。</itunes:summary>
+      <itunes:duration>00:26:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-b7a3a2.mp3" length="25409325" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
