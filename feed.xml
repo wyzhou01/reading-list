@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 09:43:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 09:50:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30191,6 +30191,17 @@
       <itunes:duration>00:36:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-026a51.mp3" length="34622637" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《敦煌：碧海青天》 · 完整版 · 敦煌：碧海青天（中国古代大案探奇录）(1) · 完整讲读</title>
+      <description>《敦煌——碧海青天》是吴蔚《中国古代大案探奇录》系列首部敦煌主题作品,以严谨史实为骨架,聚焦唐文宗大和至会昌年间的朝局风云与万里之外沙州的隐秘传承。甘露之变、会昌禁佛、平定泽潞、牛李党争五大奇案交织;杜茵茵、杜牧、杜湛三代人的口述与回忆,揭开归义军前敦煌汉人世族薪火相传的隐秘史。书名《碧海青天》,既是对所有【大唐孤儿】命运、守望与归乡的隐喻,也是对丝路文明守夜者的致敬。重读此书,既是一回酣畅的悬疑之旅,更是一段回望大唐末世政治、宗教与英雄的宏大叙事。</description>
+      <pubDate>Fri, 09 Oct 2026 09:50:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-008734</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《敦煌——碧海青天》是吴蔚《中国古代大案探奇录》系列首部敦煌主题作品,以严谨史实为骨架,聚焦唐文宗大和至会昌年间的朝局风云与万里之外沙州的隐秘传承。甘露之变、会昌禁佛、平定泽潞、牛李党争五大奇案交织;杜茵茵、杜牧、杜湛三代人的口述与回忆,揭开归义军前敦煌汉人世族薪火相传的隐秘史。书名《碧海青天》,既是对所有【大唐孤儿】命运、守望与归乡的隐喻,也是对丝路文明守夜者的致敬。重读此书,既是一回酣畅的悬疑之旅,更是一段回望大唐末世政治、宗教与英雄的宏大叙事。</itunes:summary>
+      <itunes:duration>00:26:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-008734.mp3" length="25018797" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
