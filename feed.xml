@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 01:47:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 01:53:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29641,6 +29641,17 @@
       <itunes:duration>00:34:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-3e61c3.mp3" length="33082797" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《壮阔的心：藏疆旅行漫记》 · 完整版 · 壮阔的心：藏疆旅行漫记 · 完整讲读</title>
+      <description>《壮阔的心：藏疆旅行漫记》是邢丽君用两次长途自驾、120天、几万公里写就的一部追问之作。她从大连一路向西，走完川藏南线、青藏线、新藏线、川藏北线、滇藏线五条天路，把沿途的雪山圣湖、玄奘鸠摩罗什等历史群像，串成一条追问幸福的线索。本书的核心不在风景，而在信仰：一个在钢筋水泥里迷失的灵魂，如何被辽阔山河重新安顿，又如何把那份安静带回都市。本期解读带你走过这本书，拼出六块拼图，看清这位普通都市女性如何用脚步追回自己的灵魂，找到幸福就在心间的答案。</description>
+      <pubDate>Fri, 09 Oct 2026 01:53:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-93a76b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《壮阔的心：藏疆旅行漫记》是邢丽君用两次长途自驾、120天、几万公里写就的一部追问之作。她从大连一路向西，走完川藏南线、青藏线、新藏线、川藏北线、滇藏线五条天路，把沿途的雪山圣湖、玄奘鸠摩罗什等历史群像，串成一条追问幸福的线索。本书的核心不在风景，而在信仰：一个在钢筋水泥里迷失的灵魂，如何被辽阔山河重新安顿，又如何把那份安静带回都市。本期解读带你走过这本书，拼出六块拼图，看清这位普通都市女性如何用脚步追回自己的灵魂，找到幸福就在心间的答案。</itunes:summary>
+      <itunes:duration>00:24:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-93a76b.mp3" length="23341485" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
