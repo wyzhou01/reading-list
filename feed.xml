@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 02:34:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 02:46:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29696,6 +29696,17 @@
       <itunes:duration>00:31:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-f64445.mp3" length="29839149" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《爱十二梦》 · 完整版 · 爱十二梦 · 完整讲读</title>
+      <description>《爱十二梦》是一部以四季为框架的都市情感短篇集，十二个梦境交织欲望、孤独与救赎。春的催眠、夏的热病、秋的记忆碎片、冬的寒光，映射出现代人在爱中执念与成长的多重面貌，为疲惫生活提供温柔洞察。</description>
+      <pubDate>Fri, 09 Oct 2026 02:45:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-c755e2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《爱十二梦》是一部以四季为框架的都市情感短篇集，十二个梦境交织欲望、孤独与救赎。春的催眠、夏的热病、秋的记忆碎片、冬的寒光，映射出现代人在爱中执念与成长的多重面貌，为疲惫生活提供温柔洞察。</itunes:summary>
+      <itunes:duration>00:23:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-c755e2.mp3" length="22438701" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
