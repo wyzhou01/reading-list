@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 07:23:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 07:33:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30004,6 +30004,17 @@
       <itunes:duration>00:25:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-55ac4a.mp3" length="24056877" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《求索中国（上）》 · 完整版 · 求索中国上 · 完整讲读</title>
+      <description>本书讲述一九五六年至一九六六年中国社会主义建设探索中的曲折历程。从三大改造的急促完成，到反右派斗争扩大化，再到大跃进、人民公社化运动和庐山会议的政治转折，中苏关系从盟友走向决裂，最终为文化大革命埋下伏笔。作者萧冬连以冷静笔触揭示：第一代领导集体本可通过实践与民主逐步探索建设道路，却因反右、大跃进等运动丧失纠错机制，最终陷入【进而无底线、纠而复反】的悲剧循环。</description>
+      <pubDate>Fri, 09 Oct 2026 07:33:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-73bf96</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书讲述一九五六年至一九六六年中国社会主义建设探索中的曲折历程。从三大改造的急促完成，到反右派斗争扩大化，再到大跃进、人民公社化运动和庐山会议的政治转折，中苏关系从盟友走向决裂，最终为文化大革命埋下伏笔。作者萧冬连以冷静笔触揭示：第一代领导集体本可通过实践与民主逐步探索建设道路，却因反右、大跃进等运动丧失纠错机制，最终陷入【进而无底线、纠而复反】的悲剧循环。</itunes:summary>
+      <itunes:duration>00:22:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-73bf96.mp3" length="21373101" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
