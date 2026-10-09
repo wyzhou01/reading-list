@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 05:52:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 06:00:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29883,6 +29883,17 @@
       <itunes:duration>00:15:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-1b6bfc.mp3" length="14734509" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《宋慈大传》 · 完整版 · 宋慈大传_王宏甲 · 完整讲读</title>
+      <description>《宋慈大传》是王宏甲写于宋慈诞生八百三十周年的一部小说与评传合本。前面【洗冤记】以小说笔法写宋慈断案的一生，后面【宋慈评传】为严格史学考证。宋慈是南宋提刑官，写出世界第一部法医学专著《洗冤集录》，被尊为【人类的法医学之父】，比欧洲早几百年。本书通过六块拼图——洗冤之誓、理想与担当、发愤著书、勘检之道、民命之重、不朽的生命——立体呈现这位被遗忘七百年的伟大法官。它告诉我们：对真相的执着，对民命的悲悯，是跨越时代的永恒话题。</description>
+      <pubDate>Fri, 09 Oct 2026 06:00:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-a3ca39</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《宋慈大传》是王宏甲写于宋慈诞生八百三十周年的一部小说与评传合本。前面【洗冤记】以小说笔法写宋慈断案的一生，后面【宋慈评传】为严格史学考证。宋慈是南宋提刑官，写出世界第一部法医学专著《洗冤集录》，被尊为【人类的法医学之父】，比欧洲早几百年。本书通过六块拼图——洗冤之誓、理想与担当、发愤著书、勘检之道、民命之重、不朽的生命——立体呈现这位被遗忘七百年的伟大法官。它告诉我们：对真相的执着，对民命的悲悯，是跨越时代的永恒话题。</itunes:summary>
+      <itunes:duration>00:27:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-a3ca39.mp3" length="26229549" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
