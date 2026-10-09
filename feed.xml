@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 05:41:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 05:49:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29872,6 +29872,17 @@
       <itunes:duration>00:32:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-4de77d.mp3" length="30876333" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《可爱的骨头》 · 完整版 · 可爱的骨头_(未读·文艺家) · 完整讲读</title>
+      <description>《可爱的骨头》是美国作家艾丽斯·西伯德的成名作，讲述了一个十四岁女孩苏茜被邻居杀害后，从天堂的视角俯视人间，看着自己的家庭如何面对这场悲剧。小说以独特的死者叙事视角，探讨了死亡、记忆、创伤与疗愈等永恒主题。书中没有一个传统悬疑小说的正义结局——凶手死于意外，而非法律的制裁。西伯德借此表达了一种更深层的思考：有些伤痛无法通过正义得到弥补，但我们依然可以选择活下去，在记忆与爱中找到继续生活的力量。这部作品自2002年出版以来，已被翻译成三十多种语言，全球销量超过一千万册。</description>
+      <pubDate>Fri, 09 Oct 2026 05:48:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-1b6bfc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《可爱的骨头》是美国作家艾丽斯·西伯德的成名作，讲述了一个十四岁女孩苏茜被邻居杀害后，从天堂的视角俯视人间，看着自己的家庭如何面对这场悲剧。小说以独特的死者叙事视角，探讨了死亡、记忆、创伤与疗愈等永恒主题。书中没有一个传统悬疑小说的正义结局——凶手死于意外，而非法律的制裁。西伯德借此表达了一种更深层的思考：有些伤痛无法通过正义得到弥补，但我们依然可以选择活下去，在记忆与爱中找到继续生活的力量。这部作品自2002年出版以来，已被翻译成三十多种语言，全球销量超过一千万册。</itunes:summary>
+      <itunes:duration>00:15:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-1b6bfc.mp3" length="14734509" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
