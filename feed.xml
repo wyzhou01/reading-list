@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 01:23:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 01:29:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29608,6 +29608,17 @@
       <itunes:duration>00:22:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-31f8fc.mp3" length="22053549" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《不是那种女孩》 · 完整版 · 不是那种女孩 · 完整讲读</title>
+      <description>《不是那种女孩》是莉娜·杜汉姆的散文集, 坦诚记录她从青春期到三十岁在身体、友谊、爱恋、工作、前景五大战场上的狼狈与自救。她不美化暴食、糟糕恋爱、抑郁与失败, 只想告诉你: 直面耻辱是治愈的开始, 不完美才是和现实谈判的唯一筹码。本书是新一代女性拒绝套用好女孩模板的诚实写作范本。</description>
+      <pubDate>Fri, 09 Oct 2026 01:29:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-201763</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《不是那种女孩》是莉娜·杜汉姆的散文集, 坦诚记录她从青春期到三十岁在身体、友谊、爱恋、工作、前景五大战场上的狼狈与自救。她不美化暴食、糟糕恋爱、抑郁与失败, 只想告诉你: 直面耻辱是治愈的开始, 不完美才是和现实谈判的唯一筹码。本书是新一代女性拒绝套用好女孩模板的诚实写作范本。</itunes:summary>
+      <itunes:duration>00:25:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-201763.mp3" length="24876717" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
