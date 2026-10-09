@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 10:45:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 10:52:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30290,6 +30290,17 @@
       <itunes:duration>00:37:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-03979f.mp3" length="35734701" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《葡萄园》 · 完整版 · 葡萄园 · 完整讲读</title>
+      <description>《葡萄园》是托马斯·品钦一九九〇年的长篇，把故事放在一九八四年的加州海岸小镇。一名前六河嬉皮士索伊德·威勒为了保住精神残疾补贴，年年用跳窗户的方式出席自己的公共发疯；他的搭档、女友、旧日联邦探员、六十年代的猫、十六岁的女儿及女儿的暴力游戏迷男友，被一张看不见的监控大网缝合成一组漫画式群像。品钦以黑色幽默解剖里根时代的美国：国家机器用糖玻璃和微笑接管反抗，消费主义把革命读本兑换成主题公园，监控渗入电视与皮肤，浪漫之后一代人被自己的下一代改编为商业内容。本书在冷战刚落幕的当口率先写出了全景监控、流量情绪政治、看不见的联邦大手的当代原型，并在结尾借一台永不关机的电视，把葡萄园放进了每一个读者的客厅。</description>
+      <pubDate>Fri, 09 Oct 2026 10:52:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-f9f98d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《葡萄园》是托马斯·品钦一九九〇年的长篇，把故事放在一九八四年的加州海岸小镇。一名前六河嬉皮士索伊德·威勒为了保住精神残疾补贴，年年用跳窗户的方式出席自己的公共发疯；他的搭档、女友、旧日联邦探员、六十年代的猫、十六岁的女儿及女儿的暴力游戏迷男友，被一张看不见的监控大网缝合成一组漫画式群像。品钦以黑色幽默解剖里根时代的美国：国家机器用糖玻璃和微笑接管反抗，消费主义把革命读本兑换成主题公园，监控渗入电视与皮肤，浪漫之后一代人被自己的下一代改编为商业内容。本书在冷战刚落幕的当口率先写出了全景监控、流量情绪政治、看不见的联邦大手的当代原型，并在结尾借一台永不关机的电视，把葡萄园放进了每一个读者的客厅。</itunes:summary>
+      <itunes:duration>00:27:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-f9f98d.mp3" length="26492205" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
