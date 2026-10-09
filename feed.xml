@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 11:11:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 11:17:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30334,6 +30334,17 @@
       <itunes:duration>00:28:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-30d745.mp3" length="27533613" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《沙海：荒沙诡影》 · 完整版 · 沙海：荒沙诡影 · 完整讲读</title>
+      <description>《沙海》是南派三叔创作的《盗墓笔记》宇宙分支作品，被官方定位为少年篇。主角黎簇是一名普通十七岁高中生，被陌生人在背上刻下七指手掌图案后，被卷入吴邪主导的沙漠探险计划。全书以少年视角重新讲述了庞大而黑暗的盗墓世界，核心谜团是古潼京、汪藏海的遗产、九门家族的分裂与博弈。本书通过黎簇被迫成长这条线，探讨了宿命、人性、时间与阅读世界暗码等深层主题，既是精巧的悬疑探险故事，也是严肃的少年成长小说。</description>
+      <pubDate>Fri, 09 Oct 2026 11:17:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-b00e0e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《沙海》是南派三叔创作的《盗墓笔记》宇宙分支作品，被官方定位为少年篇。主角黎簇是一名普通十七岁高中生，被陌生人在背上刻下七指手掌图案后，被卷入吴邪主导的沙漠探险计划。全书以少年视角重新讲述了庞大而黑暗的盗墓世界，核心谜团是古潼京、汪藏海的遗产、九门家族的分裂与博弈。本书通过黎簇被迫成长这条线，探讨了宿命、人性、时间与阅读世界暗码等深层主题，既是精巧的悬疑探险故事，也是严肃的少年成长小说。</itunes:summary>
+      <itunes:duration>00:29:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-b00e0e.mp3" length="28743213" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
