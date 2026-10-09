@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 00:17:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 00:23:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29498,6 +29498,17 @@
       <itunes:duration>00:33:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-2f4126.mp3" length="31759533" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《每个小小的人都是一个世界》 · 完整版 · 每个小小的人都是一个世界_-_史芸赫 · 完整讲读</title>
+      <description>史芸赫花费七年游历伦敦、费城、华盛顿、香港、纽约、旧金山，采访十二位普通人，写下十二种关于人生答案的叙事。全书从爱之回报、率性、玩乐、乐天、追逐、价值、梦想、安宁、认真、豁达、善良到幸福，把镜头对准那些在异乡扎根、被生活打磨却仍保有光芒的普通人。书中追问幸福是什么，答案不在宏大的远方，而在每一次选择、每一段关系、每一件被用心耕耘的日常里。这是一本关于离散与归属、爱与被爱的书，也是一面镜子，照见每个人内心那个尚未被看见的小小世界。</description>
+      <pubDate>Fri, 09 Oct 2026 00:23:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-a07abf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>史芸赫花费七年游历伦敦、费城、华盛顿、香港、纽约、旧金山，采访十二位普通人，写下十二种关于人生答案的叙事。全书从爱之回报、率性、玩乐、乐天、追逐、价值、梦想、安宁、认真、豁达、善良到幸福，把镜头对准那些在异乡扎根、被生活打磨却仍保有光芒的普通人。书中追问幸福是什么，答案不在宏大的远方，而在每一次选择、每一段关系、每一件被用心耕耘的日常里。这是一本关于离散与归属、爱与被爱的书，也是一面镜子，照见每个人内心那个尚未被看见的小小世界。</itunes:summary>
+      <itunes:duration>00:22:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-a07abf.mp3" length="21659949" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
