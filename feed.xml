@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 11:38:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 11:44:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30380,6 +30380,17 @@
       <itunes:duration>00:41:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-9956f8.mp3" length="40093869" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《黑暗之路03：剑刃之海》 · 完整版 · 黑暗之路03：剑刃之海 · 完整讲读</title>
+      <description>《黑暗之路零三：剑刃之海》是R.A.萨尔瓦多黑暗之路三部曲的终章。黑暗精灵游侠崔斯特·杜垩登与同伴们出海，寻找失散的战友沃夫加。沃夫加则与老海盗猎人杜德蒙并肩，在剑刃之海上追踪失落的神锤艾吉斯之牙。战锤落入嗜血海盗女王希拉·克里手中，她野心勃勃，在剑之海岸北部的黄金湾建立了自己的海盗帝国。与此同时，几百年前被崔斯特族人灭门的精灵刺客勒罗里内，带着四道致命魔法一路追杀崔斯特，只求同归于尽。崔斯特一行深入黄金湾，与海盗、食人魔、女巫三方势力周旋，最终在一场海战中击沉希拉的血腥龙骨号。勒罗里内追到崔斯特，在决斗中双双重伤倒下，崔斯特恳求同伴把救命药水让给杀自己的仇人，但同伴拒绝。这场复仇的尽头，是勒罗里内的死亡和崔斯特的哀伤。最终沃夫加回归家庭，布鲁诺重登秘银厅王位，崔斯特则在冰风谷的风声中，重新学会如何活着。</description>
+      <pubDate>Fri, 09 Oct 2026 11:44:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-d594f2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《黑暗之路零三：剑刃之海》是R.A.萨尔瓦多黑暗之路三部曲的终章。黑暗精灵游侠崔斯特·杜垩登与同伴们出海，寻找失散的战友沃夫加。沃夫加则与老海盗猎人杜德蒙并肩，在剑刃之海上追踪失落的神锤艾吉斯之牙。战锤落入嗜血海盗女王希拉·克里手中，她野心勃勃，在剑之海岸北部的黄金湾建立了自己的海盗帝国。与此同时，几百年前被崔斯特族人灭门的精灵刺客勒罗里内，带着四道致命魔法一路追杀崔斯特，只求同归于尽。崔斯特一行深入黄金湾，与海盗、食人魔、女巫三方势力周旋，最终在一场海战中击沉希拉的血腥龙骨号。勒罗里内追到崔斯特，在决斗中双双重伤倒下，崔斯特恳求同伴把救命药水让给杀自己的仇人，但同伴拒绝。这场复仇的尽头，是勒罗里内的死亡和崔斯特的哀伤。最终沃夫加回归家庭，布鲁诺重登秘银厅王位，崔斯特则在冰风谷的风声中，重新学会如何活着。</itunes:summary>
+      <itunes:duration>00:21:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-d594f2.mp3" length="20729901" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
