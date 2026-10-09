@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 19:24:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 19:29:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30578,6 +30578,17 @@
       <itunes:duration>00:34:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-bf32e9.mp3" length="32673837" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《微博营销与运营》 · 完整版 · 微博营销与运营 · 完整讲读</title>
+      <description>《微博营销与运营》由秋叶、萧秋水、刘勇三位作者于2016年完成，系统拆解了微博作为社交媒体的传播逻辑、账号定位、内容规划、粉丝增长、活动策划与广告投放的完整方法论，配以天猫双十一、百事可乐、杜蕾斯、支付宝等真实案例。无论是新媒体从业者、品牌运营还是想打造个人品牌的普通人，本书都提供了一张从零起步到成熟运营的全景地图，沉淀了那个社交媒体从PC走向移动时代最完整的实战心法。</description>
+      <pubDate>Fri, 09 Oct 2026 19:29:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-ae3ed4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《微博营销与运营》由秋叶、萧秋水、刘勇三位作者于2016年完成，系统拆解了微博作为社交媒体的传播逻辑、账号定位、内容规划、粉丝增长、活动策划与广告投放的完整方法论，配以天猫双十一、百事可乐、杜蕾斯、支付宝等真实案例。无论是新媒体从业者、品牌运营还是想打造个人品牌的普通人，本书都提供了一张从零起步到成熟运营的全景地图，沉淀了那个社交媒体从PC走向移动时代最完整的实战心法。</itunes:summary>
+      <itunes:duration>00:28:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-ae3ed4.mp3" length="27623469" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
