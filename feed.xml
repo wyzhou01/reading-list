@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 07:33:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 07:39:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30015,6 +30015,17 @@
       <itunes:duration>00:22:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-73bf96.mp3" length="21373101" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《神魔记2：覆塔奇阵》 · 完整版 · 神魔记2：覆塔奇阵 · 完整讲读</title>
+      <description>《神魔记二：覆塔奇阵》是姚无伤《神魔记》系列的第二部，承接前作，以宋末元初的乱世为背景，讲述龙虎山弟子林静常为救爱人灵儿采药三年、终成亲事，却被卷入天师一脉与海外万灵法王一脉千年宿怨的故事。一件名为灵月盘的法宝种下了无法根治的伤毒，灵儿最终以心头血替他解毒。全书以符咒、法器、阵法推动情节，以道门正统与海外异族的恩怨为主线，把爱情、牺牲、规矩、坦诚放在宿命的代价体系里，写出仙侠小说中少见的厚重与克制。</description>
+      <pubDate>Fri, 09 Oct 2026 07:39:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-88e4c1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《神魔记二：覆塔奇阵》是姚无伤《神魔记》系列的第二部，承接前作，以宋末元初的乱世为背景，讲述龙虎山弟子林静常为救爱人灵儿采药三年、终成亲事，却被卷入天师一脉与海外万灵法王一脉千年宿怨的故事。一件名为灵月盘的法宝种下了无法根治的伤毒，灵儿最终以心头血替他解毒。全书以符咒、法器、阵法推动情节，以道门正统与海外异族的恩怨为主线，把爱情、牺牲、规矩、坦诚放在宿命的代价体系里，写出仙侠小说中少见的厚重与克制。</itunes:summary>
+      <itunes:duration>00:25:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-88e4c1.mp3" length="24339117" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
