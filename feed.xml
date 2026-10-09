@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 08:07:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 08:14:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30059,6 +30059,17 @@
       <itunes:duration>00:25:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-82e826.mp3" length="24849069" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《创业时代系列（全两册）》 · 完整版 · 创业时代系列（全两册） · 完整讲读</title>
+      <description>《创业时代》是付遥以二零一零年前后中国移动互联网创业浪潮为背景创作的长篇小说，分上下两册由中信出版社于二零一五年和二零一六年出版。小说以郭鑫年的语音短信创业为起点，描绘两代创业者在融资、产品、巨头博弈、私生活撕扯中相爱相杀的群像。书里提出的核心问题是：当所有人都在问机会在哪里，这群疯子看到的却是另一件事。创业没有皆大欢喜的结局，只有疯狂与代价一体两面的真相。</description>
+      <pubDate>Fri, 09 Oct 2026 08:14:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-bb7795</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《创业时代》是付遥以二零一零年前后中国移动互联网创业浪潮为背景创作的长篇小说，分上下两册由中信出版社于二零一五年和二零一六年出版。小说以郭鑫年的语音短信创业为起点，描绘两代创业者在融资、产品、巨头博弈、私生活撕扯中相爱相杀的群像。书里提出的核心问题是：当所有人都在问机会在哪里，这群疯子看到的却是另一件事。创业没有皆大欢喜的结局，只有疯狂与代价一体两面的真相。</itunes:summary>
+      <itunes:duration>00:34:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-bb7795.mp3" length="32826669" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
