@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 10:59:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 11:05:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30312,6 +30312,17 @@
       <itunes:duration>00:30:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-607556.mp3" length="29621805" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《尔雅》 · 完整版 · 中华经典名著全本全注全译丛书：尔雅 · 完整讲读</title>
+      <description>《尔雅》是中国第一部体系完备的汉语分类词典，全书按义类编排十九篇，从释诂、释言、释训的语言文字，到释草、释木、释虫、释鱼、释鸟、释兽、释畜的生物世界，把上古汉语的词汇与名物知识一网打尽。本书围绕名义之争、撰人悬案、词典性质、体例特色、词典学与词汇学价值、训诂学影响、文化学意涵逐层展开。成书于战国末期，编撰者相传为齐鲁儒生；自汉武帝独尊儒术后被列入经部，成为解释儒家经典不可或缺的工具书。郭璞、邢昺、邵晋涵、郝懿行等历代大家皆曾为之作注。它首创义类系统，大量采用合训方式，最早引用《诗经》为证，为《说文解字》《方言》《广韵》《康熙字典》等后世辞书立下不可逾越的范本；同时保存了先秦词汇的语义、语用、语法、时地分布与语义对立等多重信息，是研究汉语史与上古社会的重要源头。读《尔雅》，既是触摸汉语的源头，也是走进中华民族认识世界、命名世界方式的一把钥匙。</description>
+      <pubDate>Fri, 09 Oct 2026 11:05:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-60164a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《尔雅》是中国第一部体系完备的汉语分类词典，全书按义类编排十九篇，从释诂、释言、释训的语言文字，到释草、释木、释虫、释鱼、释鸟、释兽、释畜的生物世界，把上古汉语的词汇与名物知识一网打尽。本书围绕名义之争、撰人悬案、词典性质、体例特色、词典学与词汇学价值、训诂学影响、文化学意涵逐层展开。成书于战国末期，编撰者相传为齐鲁儒生；自汉武帝独尊儒术后被列入经部，成为解释儒家经典不可或缺的工具书。郭璞、邢昺、邵晋涵、郝懿行等历代大家皆曾为之作注。它首创义类系统，大量采用合训方式，最早引用《诗经》为证，为《说文解字》《方言》《广韵》《康熙字典》等后世辞书立下不可逾越的范本；同时保存了先秦词汇的语义、语用、语法、时地分布与语义对立等多重信息，是研究汉语史与上古社会的重要源头。读《尔雅》，既是触摸汉语的源头，也是走进中华民族认识世界、命名世界方式的一把钥匙。</itunes:summary>
+      <itunes:duration>00:21:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-60164a.mp3" length="20709933" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
