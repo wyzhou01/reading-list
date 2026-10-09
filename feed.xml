@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 01:15:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 01:23:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29597,6 +29597,17 @@
       <itunes:duration>00:24:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-d2ac18.mp3" length="23751981" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《怪人们》 · 完整版 · 怪人们 · 完整讲读</title>
+      <description>东野圭吾短篇集《怪人们》以七个第一人称叙述的故事，描绘普通人在极端处境下的惊人抉择。从借房约会撞上走私同谋的上班族，到一次错误判罚毁掉一生的足球选手，每一个【怪人】最初都不是怪人。东野用平白却紧凑的笔法揭示：执念诞生于精明，裂缝藏在日常，怪人是我们一步步走远、还以为自己在原地的样子。这本书不是猎奇，而是一面让人照见自己的镜子。</description>
+      <pubDate>Fri, 09 Oct 2026 01:23:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-31f8fc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>东野圭吾短篇集《怪人们》以七个第一人称叙述的故事，描绘普通人在极端处境下的惊人抉择。从借房约会撞上走私同谋的上班族，到一次错误判罚毁掉一生的足球选手，每一个【怪人】最初都不是怪人。东野用平白却紧凑的笔法揭示：执念诞生于精明，裂缝藏在日常，怪人是我们一步步走远、还以为自己在原地的样子。这本书不是猎奇，而是一面让人照见自己的镜子。</itunes:summary>
+      <itunes:duration>00:22:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-31f8fc.mp3" length="22053549" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
