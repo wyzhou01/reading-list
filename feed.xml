@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 08:50:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 08:57:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30125,6 +30125,17 @@
       <itunes:duration>00:27:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-e601ae.mp3" length="26405421" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《标本师的魔幻剧本》 · 完整版 · 标本师的魔幻剧本 · 完整讲读</title>
+      <description>《标本师的魔幻剧本》是加拿大作家扬·马特尔继《少年派的奇幻漂流》之后的第二部长篇小说。小说讲述作家亨利花费五年时间创作一部关于大屠杀的翻转书，被出版商集体否决后身心俱灰。他搬到一座陌生的大都市，在一家标本店结识古怪的标本师，两人围绕一出从未上演的剧本《碧翠丝与维吉尔》展开交往，最终以一场无来由的暴力收场。马特尔以寓言、荒诞剧和十三个开放式游戏的方式追问：大屠杀能否用虚构形式呈现？写作者该沉默、迂回还是直白？幸存者、旁观者与后代如何处理那不可言说之物？本书以激进姿态回答：浩劫没有终点，它只是换了一种形式继续。</description>
+      <pubDate>Fri, 09 Oct 2026 08:57:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-ebec27</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《标本师的魔幻剧本》是加拿大作家扬·马特尔继《少年派的奇幻漂流》之后的第二部长篇小说。小说讲述作家亨利花费五年时间创作一部关于大屠杀的翻转书，被出版商集体否决后身心俱灰。他搬到一座陌生的大都市，在一家标本店结识古怪的标本师，两人围绕一出从未上演的剧本《碧翠丝与维吉尔》展开交往，最终以一场无来由的暴力收场。马特尔以寓言、荒诞剧和十三个开放式游戏的方式追问：大屠杀能否用虚构形式呈现？写作者该沉默、迂回还是直白？幸存者、旁观者与后代如何处理那不可言说之物？本书以激进姿态回答：浩劫没有终点，它只是换了一种形式继续。</itunes:summary>
+      <itunes:duration>00:23:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-ebec27.mp3" length="22437165" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
