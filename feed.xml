@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 19:16:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 19:24:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30567,6 +30567,17 @@
       <itunes:duration>00:32:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-26bd76.mp3" length="31066029" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《以诈止诈》 · 完整版 · 以诈止诈 · 完整讲读</title>
+      <description>《以诈止诈》是刘墉二零零六年的处世笔记，用十五个真实故事拆解人性弱点与社会潜规则。全书围绕六块拼图展开：自尊、规矩、欲望、权力、暗算、迂回。前三块拼图讲个人如何被自己的弱点出卖给骗子，后三块讲人际与社会如何在博弈中把人卷进局。刘墉的写法极短、极实，每章五分钟给你一个能用上的应对智慧。贯穿全书的核心命题是：你被骗几次，不看骗子的段位，看你自己心底那块「贪」的肌肉有多紧。这本书不是教你使诈，是教你识诈、防诈，再以坦诚善良化诈于无形。在一个骗局翻新得比技术快的年代，读这本二十年前写下的书，是给自己的人际敏感度系统装一套老古董级别的反病毒软件——它不会让你变快，但它会让你少踩坑。</description>
+      <pubDate>Fri, 09 Oct 2026 19:24:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-bf32e9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《以诈止诈》是刘墉二零零六年的处世笔记，用十五个真实故事拆解人性弱点与社会潜规则。全书围绕六块拼图展开：自尊、规矩、欲望、权力、暗算、迂回。前三块拼图讲个人如何被自己的弱点出卖给骗子，后三块讲人际与社会如何在博弈中把人卷进局。刘墉的写法极短、极实，每章五分钟给你一个能用上的应对智慧。贯穿全书的核心命题是：你被骗几次，不看骗子的段位，看你自己心底那块「贪」的肌肉有多紧。这本书不是教你使诈，是教你识诈、防诈，再以坦诚善良化诈于无形。在一个骗局翻新得比技术快的年代，读这本二十年前写下的书，是给自己的人际敏感度系统装一套老古董级别的反病毒软件——它不会让你变快，但它会让你少踩坑。</itunes:summary>
+      <itunes:duration>00:34:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-bf32e9.mp3" length="32673837" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
