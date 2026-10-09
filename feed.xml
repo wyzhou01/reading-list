@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 17:26:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 17:33:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30424,6 +30424,17 @@
       <itunes:duration>00:19:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-d470b0.mp3" length="19090989" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《猎人笔记》 · 完整版 · 猎人笔记（译文名著精选） · 完整讲读</title>
+      <description>《猎人笔记》是俄国作家屠格涅夫的成名作，以一个贵族猎人的游历为线索，写下十九世纪中叶俄罗斯外省各阶层的生活。本期精读前篇《黄鼠狼和卡利内奇》《霍尔与卡里内奇》等章节，从童年创伤、狩猎契机、文学革命与并置控诉四个角度，解读这本薄薄的小书为何至今仍让人心里发烫——它第一次在俄国文学中将农奴当成完整的人来写，把大自然的诗意与现实的残酷并置，让读者自己完成判断。本期还延伸讨论屠格涅夫作为自由主义者的限度，以及把【看见被遮蔽的人】这一传统延续到今天的可能。</description>
+      <pubDate>Fri, 09 Oct 2026 17:33:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-7a1fe0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《猎人笔记》是俄国作家屠格涅夫的成名作，以一个贵族猎人的游历为线索，写下十九世纪中叶俄罗斯外省各阶层的生活。本期精读前篇《黄鼠狼和卡利内奇》《霍尔与卡里内奇》等章节，从童年创伤、狩猎契机、文学革命与并置控诉四个角度，解读这本薄薄的小书为何至今仍让人心里发烫——它第一次在俄国文学中将农奴当成完整的人来写，把大自然的诗意与现实的残酷并置，让读者自己完成判断。本期还延伸讨论屠格涅夫作为自由主义者的限度，以及把【看见被遮蔽的人】这一传统延续到今天的可能。</itunes:summary>
+      <itunes:duration>00:30:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-7a1fe0.mp3" length="29333805" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
