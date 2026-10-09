@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 02:21:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 02:34:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29685,6 +29685,17 @@
       <itunes:duration>00:23:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-f259aa.mp3" length="22758189" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《烟雨一蓑》 · 完整版 · 烟雨一蓑_-_仓三易 · 完整讲读</title>
+      <description>《烟雨一蓑》是山东作家仓三易以故乡秦戈庄为背景写就的家族史诗。从一九三八年分家写起，历经抗日战争、解放战争、三年饥荒、文化大革命，作者用细腻笔触记录祖父、父亲两代农民的苦难与坚守，也写下自己十八岁离家、四十年漂泊、最终耗尽积蓄回乡建起仓三易书社的还乡之路。全书以饥饿的代际遗传、读书人的宿命、漂泊者的还乡为三块精神拼图，讲述了一个普通中国家族在百年巨变中如何用读书对抗蒙昧、用还乡对抗遗忘、用记住对抗消逝。</description>
+      <pubDate>Fri, 09 Oct 2026 02:34:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-f64445</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《烟雨一蓑》是山东作家仓三易以故乡秦戈庄为背景写就的家族史诗。从一九三八年分家写起，历经抗日战争、解放战争、三年饥荒、文化大革命，作者用细腻笔触记录祖父、父亲两代农民的苦难与坚守，也写下自己十八岁离家、四十年漂泊、最终耗尽积蓄回乡建起仓三易书社的还乡之路。全书以饥饿的代际遗传、读书人的宿命、漂泊者的还乡为三块精神拼图，讲述了一个普通中国家族在百年巨变中如何用读书对抗蒙昧、用还乡对抗遗忘、用记住对抗消逝。</itunes:summary>
+      <itunes:duration>00:31:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-f64445.mp3" length="29839149" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
