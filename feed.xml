@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 23:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 23:11:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30666,6 +30666,17 @@
       <itunes:duration>00:15:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-37fea6.mp3" length="14899629" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《行在宽处》 · 完整版 · 行在宽处(1) · 完整讲读</title>
+      <description>《行在宽处》是万通集团创始人冯仑的商业随笔集，写的是一个中国民营企业家三十年的活法样本。全书围绕【四化】、公司治理、软实力、朋友观、男性成长等话题，提出民营企业要想活得久、活得宽，必须完成从江湖公司到现代企业的改造，靠持续正向的积累【以拙胜巧】【守正出奇】，并在个人层面修炼看不见的软实力——价值观、性格、抗挫性。冯仑以自身经历说明：人生真正的宽度，不在于一路向前冲了多远，而在于愿不愿意在某些时刻退一步、放一下、和自己和解。本书不喊成功学口号，谈的是不会过时的笨功夫，适合每一位创业者、管理者，以及想在快时代里活慢一点的读者。</description>
+      <pubDate>Fri, 09 Oct 2026 23:11:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-c8e796</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《行在宽处》是万通集团创始人冯仑的商业随笔集，写的是一个中国民营企业家三十年的活法样本。全书围绕【四化】、公司治理、软实力、朋友观、男性成长等话题，提出民营企业要想活得久、活得宽，必须完成从江湖公司到现代企业的改造，靠持续正向的积累【以拙胜巧】【守正出奇】，并在个人层面修炼看不见的软实力——价值观、性格、抗挫性。冯仑以自身经历说明：人生真正的宽度，不在于一路向前冲了多远，而在于愿不愿意在某些时刻退一步、放一下、和自己和解。本书不喊成功学口号，谈的是不会过时的笨功夫，适合每一位创业者、管理者，以及想在快时代里活慢一点的读者。</itunes:summary>
+      <itunes:duration>00:36:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-c8e796.mp3" length="34973997" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
