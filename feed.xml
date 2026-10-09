@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 18:37:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 18:43:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30501,6 +30501,17 @@
       <itunes:duration>00:23:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-e976f0.mp3" length="22811565" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大清的角落》 · 完整版 · 大清的角落(1) · 完整讲读</title>
+      <description>《大清的角落》是作者在河之北（王伟）于二零一零年出版的清史随笔集。本书以轻松幽默的文笔，聚焦康乾盛世、鸦片战争等主流叙事之外被忽视的小人物与小事件：从努尔哈赤杀长子褚英，到汉人俘虏范文程逆袭为开国第一功臣；从言官赵开心在顺治朝如履薄冰的宦海浮沉，到他贫病而死后由故旧集资下葬的悲凉结局；再到虎门销烟的真实细节，以及金圣叹刑场上的最后一次大笑。这些角落里的故事，透视出贯穿清代二百多年的两大沉疴——满汉之间的难以真正融合，以及言路萎缩背后的皇权专制。读这本书，会让我们明白一个朴素的道理：所谓历史，从不是帝王将相的独角戏，而是每一个普通人用一生写就的注脚。</description>
+      <pubDate>Fri, 09 Oct 2026 18:43:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-5e52cc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大清的角落》是作者在河之北（王伟）于二零一零年出版的清史随笔集。本书以轻松幽默的文笔，聚焦康乾盛世、鸦片战争等主流叙事之外被忽视的小人物与小事件：从努尔哈赤杀长子褚英，到汉人俘虏范文程逆袭为开国第一功臣；从言官赵开心在顺治朝如履薄冰的宦海浮沉，到他贫病而死后由故旧集资下葬的悲凉结局；再到虎门销烟的真实细节，以及金圣叹刑场上的最后一次大笑。这些角落里的故事，透视出贯穿清代二百多年的两大沉疴——满汉之间的难以真正融合，以及言路萎缩背后的皇权专制。读这本书，会让我们明白一个朴素的道理：所谓历史，从不是帝王将相的独角戏，而是每一个普通人用一生写就的注脚。</itunes:summary>
+      <itunes:duration>00:29:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-5e52cc.mp3" length="28012077" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
