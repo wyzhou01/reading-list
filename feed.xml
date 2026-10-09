@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 08:00:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 08:07:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30048,6 +30048,17 @@
       <itunes:duration>00:30:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-e4cce9.mp3" length="29581101" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《星河彼岸》 · 完整版 · 星河彼岸_-_非天夜翔【雨浪】 · 完整讲读</title>
+      <description>二零一二年末日降临，外星高等文明【玛雅星人】入侵地球，六十亿人口锐减至不足五亿，人类退守地下城。军方缴获一台粒子发生器，启动名为『偷渡』的时空计划，企图从古代引渡智者改写战局，却在西伯利亚引爆实验室，六名研究员殉职，唯独一个古人穿越而来——两千二百年前乌江自刎前的西楚霸王项羽。项羽在雪地里徒手撕开机械杀戮者，被历史神秘学专家郑融带回北爱尔兰地下城，一边融入末世生活，一边以战场直觉为人类联军出谋划策。郑融的兄长郑峰正是为这场实验而死，他把守护项羽视为替兄长续命；兰斯将军则在军务与情感的两难里，慢慢走进郑融的生活。番外《绝密资料》揭示郑峰的研究其实并未失败，粒子发生器与项羽的录音黑匣被封入南极地底，《星河楚歌》则让郑融与爱人李应在苏格兰长城两侧隔着一扇锁死的门听见彼此心跳，最终在救援飞船抵达时重逢。非天夜翔以宏大末日为布景，写尽亲情、爱情与忠诚在极限状态下如何被反复碾压又重新拼回。</description>
+      <pubDate>Fri, 09 Oct 2026 08:07:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-82e826</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>二零一二年末日降临，外星高等文明【玛雅星人】入侵地球，六十亿人口锐减至不足五亿，人类退守地下城。军方缴获一台粒子发生器，启动名为『偷渡』的时空计划，企图从古代引渡智者改写战局，却在西伯利亚引爆实验室，六名研究员殉职，唯独一个古人穿越而来——两千二百年前乌江自刎前的西楚霸王项羽。项羽在雪地里徒手撕开机械杀戮者，被历史神秘学专家郑融带回北爱尔兰地下城，一边融入末世生活，一边以战场直觉为人类联军出谋划策。郑融的兄长郑峰正是为这场实验而死，他把守护项羽视为替兄长续命；兰斯将军则在军务与情感的两难里，慢慢走进郑融的生活。番外《绝密资料》揭示郑峰的研究其实并未失败，粒子发生器与项羽的录音黑匣被封入南极地底，《星河楚歌》则让郑融与爱人李应在苏格兰长城两侧隔着一扇锁死的门听见彼此心跳，最终在救援飞船抵达时重逢。非天夜翔以宏大末日为布景，写尽亲情、爱情与忠诚在极限状态下如何被反复碾压又重新拼回。</itunes:summary>
+      <itunes:duration>00:25:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-82e826.mp3" length="24849069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
