@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 09:50:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 09:57:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30202,6 +30202,17 @@
       <itunes:duration>00:26:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-008734.mp3" length="25018797" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《银行家的情人》 · 完整版 · 银行家的情人_-_[英]肯·福莱特 · 完整讲读</title>
+      <description>一八六六年的夏天，英国寄宿学校温菲尔德发生了一场看似普通的悲剧——三个男孩偷溜进采石场的水塘游泳，其中十三岁的彼得溺亡。这场意外牵出了银行家族皮拉斯特两兄弟之间长达三十年的恩怨情仇：哥哥约瑟夫在家族破产时见死不救，导致弟弟托比上吊自尽，由此引发下一代人爱德华与休之间的仇恨与争斗。故事横跨维多利亚时代的伦敦金融圈与阿根廷潘帕斯草原，从一八六六年的金融恐慌写到九十年代的地产热潮，刻画了米奇、爱德华、休、奥古斯塔、梅茜等一群人在野心与诚信、仇恨与宽恕之间的艰难抉择。最终，平凡的休凭借【坚持把每件事都做对】的笨功夫，在所有废墟上重建了皮拉斯特银行，完成了对所有债权人的清偿。这是一部关于【什么样的人才配得上银行家这个称号】的家族史诗，也是对【高信任社会】最深刻的呼唤。</description>
+      <pubDate>Fri, 09 Oct 2026 09:56:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-b8f922</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一八六六年的夏天，英国寄宿学校温菲尔德发生了一场看似普通的悲剧——三个男孩偷溜进采石场的水塘游泳，其中十三岁的彼得溺亡。这场意外牵出了银行家族皮拉斯特两兄弟之间长达三十年的恩怨情仇：哥哥约瑟夫在家族破产时见死不救，导致弟弟托比上吊自尽，由此引发下一代人爱德华与休之间的仇恨与争斗。故事横跨维多利亚时代的伦敦金融圈与阿根廷潘帕斯草原，从一八六六年的金融恐慌写到九十年代的地产热潮，刻画了米奇、爱德华、休、奥古斯塔、梅茜等一群人在野心与诚信、仇恨与宽恕之间的艰难抉择。最终，平凡的休凭借【坚持把每件事都做对】的笨功夫，在所有废墟上重建了皮拉斯特银行，完成了对所有债权人的清偿。这是一部关于【什么样的人才配得上银行家这个称号】的家族史诗，也是对【高信任社会】最深刻的呼唤。</itunes:summary>
+      <itunes:duration>00:25:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-b8f922.mp3" length="24395565" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
