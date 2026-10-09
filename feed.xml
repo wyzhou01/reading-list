@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 17:21:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 17:26:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30413,6 +30413,17 @@
       <itunes:duration>00:33:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-e39e3d.mp3" length="32562861" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《失落的优雅》 · 完整版 · 失落的优雅(1) · 完整讲读</title>
+      <description>《失落的优雅》是台湾摄影家阮义忠用三十年走遍乡村、为农业时代留下的最后影像证词。书中以克己复礼为核心，从槟榔摊横躺的农妇、八家将的舞步、戏台下紧抱水泥柱的小女孩，到独自走回家的林家小孩，层层拼出底层劳动者身上被忽视的尊严与从容。在工业吞噬农业、效率取代节拍的今天，这本书不是怀旧，而是一面镜子，照见我们究竟在快与乱的节奏里，弄丢了多少可以把自己缩小、天地反而变大的心境。</description>
+      <pubDate>Fri, 09 Oct 2026 17:26:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-d470b0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《失落的优雅》是台湾摄影家阮义忠用三十年走遍乡村、为农业时代留下的最后影像证词。书中以克己复礼为核心，从槟榔摊横躺的农妇、八家将的舞步、戏台下紧抱水泥柱的小女孩，到独自走回家的林家小孩，层层拼出底层劳动者身上被忽视的尊严与从容。在工业吞噬农业、效率取代节拍的今天，这本书不是怀旧，而是一面镜子，照见我们究竟在快与乱的节奏里，弄丢了多少可以把自己缩小、天地反而变大的心境。</itunes:summary>
+      <itunes:duration>00:19:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-d470b0.mp3" length="19090989" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
