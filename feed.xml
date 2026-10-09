@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 10:33:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 10:37:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30268,6 +30268,17 @@
       <itunes:duration>00:33:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-f2fa9e.mp3" length="32352429" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《盘龙》 · 完整版 · 盘龙 · 完整讲读</title>
+      <description>《盘龙》讲述没落贵族巴鲁克家族长子林雷，从乌山镇清晨的孩童晨练起步，凭意志、血脉与伙伴羁绊一路突破圣域、神级，最终破开宇宙束缚，与鸿蒙平起平坐，并名列鸿蒙金榜成为鸿蒙掌控者的成长史诗。作品融合西方奇幻位面与东方升级流体系，构建了玉兰大陆、地狱、神界等多元宇宙架构，是网络文学早期玄幻升级流的代表作。</description>
+      <pubDate>Fri, 09 Oct 2026 10:37:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-a5e39a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《盘龙》讲述没落贵族巴鲁克家族长子林雷，从乌山镇清晨的孩童晨练起步，凭意志、血脉与伙伴羁绊一路突破圣域、神级，最终破开宇宙束缚，与鸿蒙平起平坐，并名列鸿蒙金榜成为鸿蒙掌控者的成长史诗。作品融合西方奇幻位面与东方升级流体系，构建了玉兰大陆、地狱、神界等多元宇宙架构，是网络文学早期玄幻升级流的代表作。</itunes:summary>
+      <itunes:duration>00:12:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-a5e39a.mp3" length="11814573" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
