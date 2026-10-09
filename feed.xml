@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 10:04:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 10:11:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30224,6 +30224,17 @@
       <itunes:duration>00:27:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-116b18.mp3" length="25929261" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我在大清官场30年》 · 完整版 · 我在大清官场30年 · 完整讲读</title>
+      <description>本书以晚清官员张集馨的自述年谱为基础，用现代人的笔法重新讲述了道光至同治三十年间的官场沉浮。从山西朔平知府到八省辗转，张集馨亲历了捐班陋规的腐烂、鸦片战争的溃败、太平天国的烽烟、江南大营的崩溃与陕甘回变的余烬。本书由黄云凯依据《道咸宦海见闻录》通俗化改写，揭示了一个看似勤政的王朝如何从基层胥吏到封疆大吏层层腐烂，又如何在军事、财政、文化的全面失灵中走向崩溃。更重要的是，本书借张集馨的纠结一生，呈现了一整代晚清士人在体制腐烂中的挣扎与失败，为理解传统中国官场运作与帝国衰亡提供了一个真实可感的个人样本。重读这本书，对今天的读者依然有强烈的现实意义。</description>
+      <pubDate>Fri, 09 Oct 2026 10:11:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-d40695</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书以晚清官员张集馨的自述年谱为基础，用现代人的笔法重新讲述了道光至同治三十年间的官场沉浮。从山西朔平知府到八省辗转，张集馨亲历了捐班陋规的腐烂、鸦片战争的溃败、太平天国的烽烟、江南大营的崩溃与陕甘回变的余烬。本书由黄云凯依据《道咸宦海见闻录》通俗化改写，揭示了一个看似勤政的王朝如何从基层胥吏到封疆大吏层层腐烂，又如何在军事、财政、文化的全面失灵中走向崩溃。更重要的是，本书借张集馨的纠结一生，呈现了一整代晚清士人在体制腐烂中的挣扎与失败，为理解传统中国官场运作与帝国衰亡提供了一个真实可感的个人样本。重读这本书，对今天的读者依然有强烈的现实意义。</itunes:summary>
+      <itunes:duration>00:33:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-d40695.mp3" length="32526381" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
