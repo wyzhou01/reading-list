@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 03:54:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 04:00:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29817,6 +29817,17 @@
       <itunes:duration>00:27:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-4093f8.mp3" length="26869677" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《重新设计生命》 · 完整版 · 重新设计生命 · 完整讲读</title>
+      <description>《重新设计生命》系统梳理了以CRISPR为代表的基因组编辑技术，从原理到医学、农业、再生医学、合成生物学与人工生命六大场景的全景图。本书不仅展示了CRISPR、光遗传学、多能干细胞、合成生物学如何让人类第一次拥有重写生命源代码的能力，更严肃追问：当人类可以编辑胚胎、复活灭绝物种、打印人工染色体时，技术、伦理、监管、商业与公平该如何同步进化。作者约翰·帕林顿既身处实验室一线，也是一位面向公众的解说员，他邀请每一个普通读者加入这场关于人类该不该亲手按下重写生命按钮的全球讨论。</description>
+      <pubDate>Fri, 09 Oct 2026 04:00:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-526338</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《重新设计生命》系统梳理了以CRISPR为代表的基因组编辑技术，从原理到医学、农业、再生医学、合成生物学与人工生命六大场景的全景图。本书不仅展示了CRISPR、光遗传学、多能干细胞、合成生物学如何让人类第一次拥有重写生命源代码的能力，更严肃追问：当人类可以编辑胚胎、复活灭绝物种、打印人工染色体时，技术、伦理、监管、商业与公平该如何同步进化。作者约翰·帕林顿既身处实验室一线，也是一位面向公众的解说员，他邀请每一个普通读者加入这场关于人类该不该亲手按下重写生命按钮的全球讨论。</itunes:summary>
+      <itunes:duration>00:29:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-526338.mp3" length="28447533" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
