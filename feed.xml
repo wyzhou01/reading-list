@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 23:46:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 23:53:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30743,6 +30743,17 @@
       <itunes:duration>00:32:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-55b6d4.mp3" length="30799149" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《心血运动论》 · 完整版 · 心血运动论_(科学素养文库.科学元典丛书)_-_(英)哈维 · 完整讲读</title>
+      <description>《心血运动论》是英国医生威廉·哈维于公元一六二八年出版的一本仅七十二页的小册子，却用解剖观察、定量计算和严密的逻辑推理，第一次系统论证了血液在体内循环流动的规律，彻底推翻了统治西方医学一千四百年的盖仑旧学说，标志着实验医学时代的开端。心脏一生大约跳动三十亿次，它是一块肌肉，像水泵一样把血液从静脉抽进来，再由动脉推出去，送到每一寸组织，然后再从静脉流回来，一遍一遍，永不停歇。本书不仅讲述了血液循环的发现，更是一次亲历近代医学革命的入口，从中可以看到看慢、用数字、不盲从三种科学方法如何重塑人类对自身身体的理解。</description>
+      <pubDate>Fri, 09 Oct 2026 23:53:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-bea74f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《心血运动论》是英国医生威廉·哈维于公元一六二八年出版的一本仅七十二页的小册子，却用解剖观察、定量计算和严密的逻辑推理，第一次系统论证了血液在体内循环流动的规律，彻底推翻了统治西方医学一千四百年的盖仑旧学说，标志着实验医学时代的开端。心脏一生大约跳动三十亿次，它是一块肌肉，像水泵一样把血液从静脉抽进来，再由动脉推出去，送到每一寸组织，然后再从静脉流回来，一遍一遍，永不停歇。本书不仅讲述了血液循环的发现，更是一次亲历近代医学革命的入口，从中可以看到看慢、用数字、不盲从三种科学方法如何重塑人类对自身身体的理解。</itunes:summary>
+      <itunes:duration>00:25:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-bea74f.mp3" length="24006573" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
