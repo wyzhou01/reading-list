@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 08:40:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 08:50:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30114,6 +30114,17 @@
       <itunes:duration>00:29:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-0a07aa.mp3" length="28660653" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《荀子的为己之学：从性恶到养心以诚》 · 完整版 · 荀子的为己之学：从性恶到养心以诚 · 完整讲读</title>
+      <description>本书以现代性为背景，重新解读荀子思想。核心在于：性恶论不是对人的悲观指控，而是道德自主的前提——正因为善不是天生现成的，才需要每个人主动争取。礼与人伦为欲望提供分寸和归依，而诚则是贯穿这一切的养心功夫——守住真实，戒除自欺，让一切努力都有根。在价值多元、权威瓦解的现代世界，荀子的为己之学，可为每一个独立个体提供一套可操作的安身立命方案。</description>
+      <pubDate>Fri, 09 Oct 2026 08:50:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-e601ae</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书以现代性为背景，重新解读荀子思想。核心在于：性恶论不是对人的悲观指控，而是道德自主的前提——正因为善不是天生现成的，才需要每个人主动争取。礼与人伦为欲望提供分寸和归依，而诚则是贯穿这一切的养心功夫——守住真实，戒除自欺，让一切努力都有根。在价值多元、权威瓦解的现代世界，荀子的为己之学，可为每一个独立个体提供一套可操作的安身立命方案。</itunes:summary>
+      <itunes:duration>00:27:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-e601ae.mp3" length="26405421" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
