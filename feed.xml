@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 10:19:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 10:26:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30246,6 +30246,17 @@
       <itunes:duration>00:29:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-bea4c1.mp3" length="28348845" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《焦虑急救》 · 完整版 · 焦虑急救 · 完整讲读</title>
+      <description>《焦虑急救》是澳大利亚作家贝芙·艾斯贝特写给长期被焦虑困扰者的三十天自助手册。她把焦虑重新定义为【未被正确处理的压力】，用每天一个具体的小练习——从列清单、驯服心猿、用慈悲对待自己、停止受害者叙事，到最后建立对自己的信念——手把手带你重建与自己的关系。全书不承诺奇迹，只承诺工具和一个温和的起点。</description>
+      <pubDate>Fri, 09 Oct 2026 10:26:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-5f24c3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《焦虑急救》是澳大利亚作家贝芙·艾斯贝特写给长期被焦虑困扰者的三十天自助手册。她把焦虑重新定义为【未被正确处理的压力】，用每天一个具体的小练习——从列清单、驯服心猿、用慈悲对待自己、停止受害者叙事，到最后建立对自己的信念——手把手带你重建与自己的关系。全书不承诺奇迹，只承诺工具和一个温和的起点。</itunes:summary>
+      <itunes:duration>00:29:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-5f24c3.mp3" length="28192173" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
