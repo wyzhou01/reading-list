@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 18:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 18:31:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30479,6 +30479,17 @@
       <itunes:duration>00:31:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-86a043.mp3" length="29922093" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《惊魂主题馆》 · 完整版 · 惊魂主题馆_-_R__L__斯坦 · 完整讲读</title>
+      <description>《鸡皮疙瘩：惊魂主题馆》是美国作家R.L.斯坦的经典儿童文学作品，精选四个独立又惊险的冒险故事。书中主人公们在惊魂街、万圣节夜、丛林深处、果冻夏令营等场景中，面临各种超自然恐惧与生死考验。他们用智慧化解危机，在恐惧中展现勇气，在困境中依靠友情的力量完成自我成长。作品将惊悚与幽默完美融合，传递了“真正的勇敢是敢于在害怕中行动”的核心信息，是培养儿童勇气、想象力和道德判断力的优秀读物。</description>
+      <pubDate>Fri, 09 Oct 2026 18:31:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-32f283</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《鸡皮疙瘩：惊魂主题馆》是美国作家R.L.斯坦的经典儿童文学作品，精选四个独立又惊险的冒险故事。书中主人公们在惊魂街、万圣节夜、丛林深处、果冻夏令营等场景中，面临各种超自然恐惧与生死考验。他们用智慧化解危机，在恐惧中展现勇气，在困境中依靠友情的力量完成自我成长。作品将惊悚与幽默完美融合，传递了“真正的勇敢是敢于在害怕中行动”的核心信息，是培养儿童勇气、想象力和道德判断力的优秀读物。</itunes:summary>
+      <itunes:duration>00:28:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-32f283.mp3" length="27753645" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
