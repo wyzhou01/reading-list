@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 23:54:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 00:01:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29454,6 +29454,17 @@
       <itunes:duration>00:22:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-6b1b27.mp3" length="22005549" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《上帝之灯》 · 完整版 · 上帝之灯 · 完整讲读</title>
+      <description>《上帝之灯》是美国推理黄金时代代表人物埃勒里·奎因的第二部短篇集，收录一九三五至一九三九年间发表的中短篇。奎因是曼弗雷德·李与弗雷德里克·丹奈这对布鲁克林表兄弟的笔名，作品以设局精巧、推理严密、不渲染暴力色情著称，被博尔赫斯誉为美国仅有的两位侦探小说大家之一。本书包含《上帝之灯》《寻宝游戏》《空心的龙》《黑暗之屋》《泣血的画像》《人咬狗》《远射》《心灵胜于物质》《特洛伊》等名篇，挑战读者对常识与超自然的信任。奎因的真正贡献在于把日常生活变成严密推理的舞台，让公平推理成为一种启蒙：所谓透明与公开本身也是一种叙事策略，真正的公平不是看见一切，而是能在看见一切时保持冷静的怀疑。这本书不仅塑造了美国侦探小说的黄金时代，更影响了整个西方推理文学史。</description>
+      <pubDate>Fri, 09 Oct 2026 00:01:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-b09a3f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《上帝之灯》是美国推理黄金时代代表人物埃勒里·奎因的第二部短篇集，收录一九三五至一九三九年间发表的中短篇。奎因是曼弗雷德·李与弗雷德里克·丹奈这对布鲁克林表兄弟的笔名，作品以设局精巧、推理严密、不渲染暴力色情著称，被博尔赫斯誉为美国仅有的两位侦探小说大家之一。本书包含《上帝之灯》《寻宝游戏》《空心的龙》《黑暗之屋》《泣血的画像》《人咬狗》《远射》《心灵胜于物质》《特洛伊》等名篇，挑战读者对常识与超自然的信任。奎因的真正贡献在于把日常生活变成严密推理的舞台，让公平推理成为一种启蒙：所谓透明与公开本身也是一种叙事策略，真正的公平不是看见一切，而是能在看见一切时保持冷静的怀疑。这本书不仅塑造了美国侦探小说的黄金时代，更影响了整个西方推理文学史。</itunes:summary>
+      <itunes:duration>00:30:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-b09a3f.mp3" length="29414445" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
