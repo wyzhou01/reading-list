@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 06:51:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 06:58:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29960,6 +29960,17 @@
       <itunes:duration>00:29:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-5a1206.mp3" length="28103085" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《白痴》 · 完整版 · 白痴（译文名著文库）_-_陀思妥耶夫斯基 · 完整讲读</title>
+      <description>《白痴》是俄国大文豪陀思妥耶夫斯基于十九世纪六十年代末写成的长篇小说。身无分文、患有癫痫的梅什金公爵从瑞士疗养院回到彼得堡，闯入一群被金钱、欲望和虚无折磨得面目全非的上流社会。他想以纯粹的基督式善良去理解每一个人，结果却在接连不断的刺激下精神崩溃，从圣人变成了真正的白痴。小说以他和纳斯塔西娅·菲利波芙娜、罗戈任、阿格拉娅之间的多角恋情为外壳，撕开的是整个俄罗斯灵魂的伤疤。陀思妥耶夫斯基借这部作品追问：当善良遭遇一个堕落的世界，到底是该改变世界，还是该被世界碾碎？一百五十年来，这部书与莎士比亚、但丁、塞万提斯、卢梭、歌德并肩，成为理解俄罗斯精神乃至人类精神困境的一把钥匙。</description>
+      <pubDate>Fri, 09 Oct 2026 06:58:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-fa9b27</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《白痴》是俄国大文豪陀思妥耶夫斯基于十九世纪六十年代末写成的长篇小说。身无分文、患有癫痫的梅什金公爵从瑞士疗养院回到彼得堡，闯入一群被金钱、欲望和虚无折磨得面目全非的上流社会。他想以纯粹的基督式善良去理解每一个人，结果却在接连不断的刺激下精神崩溃，从圣人变成了真正的白痴。小说以他和纳斯塔西娅·菲利波芙娜、罗戈任、阿格拉娅之间的多角恋情为外壳，撕开的是整个俄罗斯灵魂的伤疤。陀思妥耶夫斯基借这部作品追问：当善良遭遇一个堕落的世界，到底是该改变世界，还是该被世界碾碎？一百五十年来，这部书与莎士比亚、但丁、塞万提斯、卢梭、歌德并肩，成为理解俄罗斯精神乃至人类精神困境的一把钥匙。</itunes:summary>
+      <itunes:duration>00:34:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-fa9b27.mp3" length="32671149" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
