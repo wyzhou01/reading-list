@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 03:08:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 03:15:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29740,6 +29740,17 @@
       <itunes:duration>00:32:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-a413d3.mp3" length="31603629" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《默克尔传：德国总理安格拉·默克尔和她的权力世界》 · 完整版 · 默克尔传：德国总理安格拉·默克尔和她的权力世界 · 完整讲读</title>
+      <description>本书由德国《南德日报》资深记者柯内琉斯写成,基于十多年贴身采访与二十余位核心幕僚访谈,记录德国总理默克尔的外交世界。从民主德国牧师的女儿,到欧洲最有权力的人之一,默克尔以化解危机定义自身价值,先后应对金融危机、欧债危机、俄乌关系、欧美裂痕与中东变局。她用耐心、克制与对风险的精算,把德国的半霸权困境转化为欧洲的稳定锚点。读这本书,理解一个反脆弱型领导者的成长逻辑,也理解欧洲未来十年的走向。</description>
+      <pubDate>Fri, 09 Oct 2026 03:15:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-0ed1fb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书由德国《南德日报》资深记者柯内琉斯写成,基于十多年贴身采访与二十余位核心幕僚访谈,记录德国总理默克尔的外交世界。从民主德国牧师的女儿,到欧洲最有权力的人之一,默克尔以化解危机定义自身价值,先后应对金融危机、欧债危机、俄乌关系、欧美裂痕与中东变局。她用耐心、克制与对风险的精算,把德国的半霸权困境转化为欧洲的稳定锚点。读这本书,理解一个反脆弱型领导者的成长逻辑,也理解欧洲未来十年的走向。</itunes:summary>
+      <itunes:duration>00:27:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-0ed1fb.mp3" length="26780205" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
