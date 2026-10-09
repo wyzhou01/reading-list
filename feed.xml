@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 03:48:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 03:54:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29806,6 +29806,17 @@
       <itunes:duration>00:27:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-36082c.mp3" length="26295597" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《环保的暴力》 · 完整版 · 环保的暴力 · 完整讲读</title>
+      <description>《环保的暴力》是捷克前总统瓦茨拉夫·克劳斯于 2007 年写成的反主流气候叙事著作，从科学证据、成本收益与政治动机三方面系统质疑全球变暖主流话语。全书核心观点是：全球变暖与其说是自然科学问题，不如说是经济学与政治学问题；环保主义已经类宗教化，其推行的碳税、碳交易、绿色补贴等政策，正在以保护地球的名义悄悄扩张国家权力、限制个人自由、转嫁成本给最贫困人群。作者主张用市场机制、技术进步与发展权来应对真实的环境挑战，而非用道德化的全球管制扼杀人类繁荣。</description>
+      <pubDate>Fri, 09 Oct 2026 03:54:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-4093f8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《环保的暴力》是捷克前总统瓦茨拉夫·克劳斯于 2007 年写成的反主流气候叙事著作，从科学证据、成本收益与政治动机三方面系统质疑全球变暖主流话语。全书核心观点是：全球变暖与其说是自然科学问题，不如说是经济学与政治学问题；环保主义已经类宗教化，其推行的碳税、碳交易、绿色补贴等政策，正在以保护地球的名义悄悄扩张国家权力、限制个人自由、转嫁成本给最贫困人群。作者主张用市场机制、技术进步与发展权来应对真实的环境挑战，而非用道德化的全球管制扼杀人类繁荣。</itunes:summary>
+      <itunes:duration>00:27:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-4093f8.mp3" length="26869677" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
