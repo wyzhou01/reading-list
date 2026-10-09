@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 19:05:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 19:07:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30545,6 +30545,17 @@
       <itunes:duration>00:33:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-6c0923.mp3" length="31972269" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《五朝宰相》 · 完整版 · 五朝宰相：五代十国里的冯道_-_姜狼 · 完整讲读</title>
+      <description>《五朝宰相:五代十国里的冯道》是当代历史写作者姜狼创作的一部通俗历史人物传记,二〇一四年十月由现代出版社首次出版。本书以北燕皇族后裔、五朝宰相冯道为主角,全景呈现这位【骑墙孔子】在唐末五代那个天崩地裂的大乱世里,从寒门书生一路登上权力之巅的传奇经历。全书以冯道为线索,跳出欧阳修、司马光以来对他【贰臣】的道德定罪,重新审视这位五朝元老在改朝换代的刀与火之间,如何用【多磕头,少说话】的官场术、【不与民争利】的民生观、【时开一卷,时饮一杯】的生死智慧,守护住了一整个文明的火种。本书叙事生动,擅长以现代职场逻辑类比古代官场,是五代十国题材里少有的为冯道立传的大众读物,被许多历史爱好者视为冯道题材的入门首选。</description>
+      <pubDate>Fri, 02 Oct 2026 02:20:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-3749c3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《五朝宰相:五代十国里的冯道》是当代历史写作者姜狼创作的一部通俗历史人物传记,二〇一四年十月由现代出版社首次出版。本书以北燕皇族后裔、五朝宰相冯道为主角,全景呈现这位【骑墙孔子】在唐末五代那个天崩地裂的大乱世里,从寒门书生一路登上权力之巅的传奇经历。全书以冯道为线索,跳出欧阳修、司马光以来对他【贰臣】的道德定罪,重新审视这位五朝元老在改朝换代的刀与火之间,如何用【多磕头,少说话】的官场术、【不与民争利】的民生观、【时开一卷,时饮一杯】的生死智慧,守护住了一整个文明的火种。本书叙事生动,擅长以现代职场逻辑类比古代官场,是五代十国题材里少有的为冯道立传的大众读物,被许多历史爱好者视为冯道题材的入门首选。</itunes:summary>
+      <itunes:duration>00:25:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-3749c3.mp3" length="24355245" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
