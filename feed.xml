@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 06:19:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 06:27:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -29916,6 +29916,17 @@
       <itunes:duration>00:29:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-ac6373.mp3" length="27881133" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《漂流船》 · 完整版 · 漂流船 · 完整讲读</title>
+      <description>《漂流船》是英国作家杰罗姆写于一八八九年的幽默散文经典。三个自认为百病缠身的中产阶级男人加上一只叫蒙莫朗西的狗，租船沿泰晤士河漂流两周，试图用「换个环境」疗愈疲惫，结果一路迷路、翻船、宿醉、争吵，狼狈不堪。一百三十多年过去，这本书仍能让一代代读者笑出声，因为它戳破了我们对「诗与远方」的幻觉——远方从来不是解药，狼狈才是生活的常态。它用温柔的英式自嘲告诉你：能笑着面对狼狈，才是真正的体面；能在雨里一起翻船的朋友，比任何精心规划的远方都珍贵。</description>
+      <pubDate>Fri, 09 Oct 2026 06:27:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261008-episode-20261008-610c5d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《漂流船》是英国作家杰罗姆写于一八八九年的幽默散文经典。三个自认为百病缠身的中产阶级男人加上一只叫蒙莫朗西的狗，租船沿泰晤士河漂流两周，试图用「换个环境」疗愈疲惫，结果一路迷路、翻船、宿醉、争吵，狼狈不堪。一百三十多年过去，这本书仍能让一代代读者笑出声，因为它戳破了我们对「诗与远方」的幻觉——远方从来不是解药，狼狈才是生活的常态。它用温柔的英式自嘲告诉你：能笑着面对狼狈，才是真正的体面；能在雨里一起翻船的朋友，比任何精心规划的远方都珍贵。</itunes:summary>
+      <itunes:duration>00:34:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261008/episode-20261008-610c5d.mp3" length="33576621" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
