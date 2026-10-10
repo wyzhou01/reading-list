@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 01:27:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 01:35:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30908,6 +30908,17 @@
       <itunes:duration>00:26:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-9a5f21.mp3" length="25185453" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《心的重建：生命中的失去，就是重整命运的机会》 · 完整版 · 心的重建：生命中的失去，就是重整命运的机会 · 完整讲读</title>
+      <description>《心的重建》由美国心灵导师露易丝·海与伤痛疗愈专家大卫·凯思乐合著，探讨分手、离婚、亲人离世、失业等生命中各种失去背后的真相。核心观点是：真正让我们痛的，不是事件本身，而是我们对这件事的想法；疗愈的关键在于先允许自己充分感受痛苦，再让旧伤浮现，最后用积极的自我肯定对治扭曲的思维。全书强调自爱的重要性，并把每一次失去视作重新认识自己、让生命更深邃的契机。书的金句是：受伤的心，也是开放的心——破碎不是终点，而是走向更完整自己的入口。</description>
+      <pubDate>Sat, 10 Oct 2026 01:35:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-3f5c31</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《心的重建》由美国心灵导师露易丝·海与伤痛疗愈专家大卫·凯思乐合著，探讨分手、离婚、亲人离世、失业等生命中各种失去背后的真相。核心观点是：真正让我们痛的，不是事件本身，而是我们对这件事的想法；疗愈的关键在于先允许自己充分感受痛苦，再让旧伤浮现，最后用积极的自我肯定对治扭曲的思维。全书强调自爱的重要性，并把每一次失去视作重新认识自己、让生命更深邃的契机。书的金句是：受伤的心，也是开放的心——破碎不是终点，而是走向更完整自己的入口。</itunes:summary>
+      <itunes:duration>00:29:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-3f5c31.mp3" length="28763949" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
