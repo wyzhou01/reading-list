@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 03:32:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 03:39:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31073,6 +31073,17 @@
       <itunes:duration>00:26:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-017bc3.mp3" length="25882413" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《是非洲》 · 完整版 · 是非洲 · 完整讲读</title>
+      <description>《是非洲》是新华社记者桂涛驻非两年间的所见所闻：以【偏见、危险、贫穷、奴隶贸易、中国人、民主、疾病】等二十二个关键词，逐一回应当下中国人对非洲的种种迷思。桂涛从机场广告牌上的微笑、基贝拉贫民窟足球场上的光脚少年，走到戈伊岛奴隶堡、蒙巴萨巫医、西非巫毒教神庙，重访郑和六百年前到过的海岸，也记录下当下几万中国人修路、架桥、卖货的真实日常。它既是一份关于非洲历史创伤、当下困境与本土文化的田野笔记，也是一面让中国读者重新审视自己的镜子——非洲从不遥远，陌生的是我们自己的目光。</description>
+      <pubDate>Sat, 10 Oct 2026 03:39:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-999f2b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《是非洲》是新华社记者桂涛驻非两年间的所见所闻：以【偏见、危险、贫穷、奴隶贸易、中国人、民主、疾病】等二十二个关键词，逐一回应当下中国人对非洲的种种迷思。桂涛从机场广告牌上的微笑、基贝拉贫民窟足球场上的光脚少年，走到戈伊岛奴隶堡、蒙巴萨巫医、西非巫毒教神庙，重访郑和六百年前到过的海岸，也记录下当下几万中国人修路、架桥、卖货的真实日常。它既是一份关于非洲历史创伤、当下困境与本土文化的田野笔记，也是一面让中国读者重新审视自己的镜子——非洲从不遥远，陌生的是我们自己的目光。</itunes:summary>
+      <itunes:duration>00:29:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-999f2b.mp3" length="28039725" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
