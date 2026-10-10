@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 01:49:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 01:57:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30941,6 +30941,17 @@
       <itunes:duration>00:28:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-b7913e.mp3" length="27364653" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中国小说源流论（修订版）》 · 完整版 · 中国小说源流论（修订版）_(三联·哈佛燕京学术丛书) · 完整讲读</title>
+      <description>本节目用一百二十分钟梳理石昌渝先生《中国小说源流论》的核心框架：以文体学视角重走中国小说两千年演进之路。从史传母体的过度强大、虚构合法化的一千多年暗夜、文言白话的双水分流，到叙事模式从讲述型到呈现型的关键跃迁、篇幅结构从短篇到长篇的演变、文言白话的最终合流，六个维度共同揭示中国小说如何从史传附庸一步步长成独立文学。看懂这条长河，才能真正读懂水浒红楼。</description>
+      <pubDate>Sat, 10 Oct 2026 01:57:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-90d590</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本节目用一百二十分钟梳理石昌渝先生《中国小说源流论》的核心框架：以文体学视角重走中国小说两千年演进之路。从史传母体的过度强大、虚构合法化的一千多年暗夜、文言白话的双水分流，到叙事模式从讲述型到呈现型的关键跃迁、篇幅结构从短篇到长篇的演变、文言白话的最终合流，六个维度共同揭示中国小说如何从史传附庸一步步长成独立文学。看懂这条长河，才能真正读懂水浒红楼。</itunes:summary>
+      <itunes:duration>00:33:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-90d590.mp3" length="31955757" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
