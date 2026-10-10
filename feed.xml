@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 07:10:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 07:20:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31304,6 +31304,17 @@
       <itunes:duration>00:32:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-23ba24.mp3" length="31231917" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《日本新中产阶级》 · 完整版 · 日本新中产阶级 · 完整讲读</title>
+      <description>《日本新中产阶级》是美国哈佛社会学教授傅高义在一九五八年深入东京郊外真间町田野调查后写就的经典。本书以六户工薪族家庭为切片，剖析了战后日本崛起中的全新生活方式：大公司雇员以终身雇佣换取忠诚，全职主妇以专业化的家务支撑家庭运转，教育妈妈以全部心力押注孩子的学历竞争。公司、社区、家庭、教育四套系统彼此咬合，构筑了一个看似体面稳定、实则代价沉重的中产闭环。这本书不仅是理解日本社会的原点，更是理解今天东亚中产生活困境的镜子。</description>
+      <pubDate>Sat, 10 Oct 2026 07:20:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-6f13fc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《日本新中产阶级》是美国哈佛社会学教授傅高义在一九五八年深入东京郊外真间町田野调查后写就的经典。本书以六户工薪族家庭为切片，剖析了战后日本崛起中的全新生活方式：大公司雇员以终身雇佣换取忠诚，全职主妇以专业化的家务支撑家庭运转，教育妈妈以全部心力押注孩子的学历竞争。公司、社区、家庭、教育四套系统彼此咬合，构筑了一个看似体面稳定、实则代价沉重的中产闭环。这本书不仅是理解日本社会的原点，更是理解今天东亚中产生活困境的镜子。</itunes:summary>
+      <itunes:duration>00:39:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-6f13fc.mp3" length="37772973" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
