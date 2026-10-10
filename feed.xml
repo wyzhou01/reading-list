@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 08:01:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 08:07:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31381,6 +31381,17 @@
       <itunes:duration>00:32:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-d56b38.mp3" length="31407021" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《正义永不决堤：水牛湾惨案》 · 完整版 · 正义永不决堤：水牛湾惨案_-_(美)_斯特恩(Stern,G.M.)著_&amp;_许身健译 · 完整讲读</title>
+      <description>本书记录一九七二年美国西弗吉尼亚州水牛湾矿渣坝崩塌、百余居民遇难、数千人无家可归的悲剧。资深律师斯特恩率领一群普通幸存者，利用证据开示、跨州管辖与陪审团庭审，用十年时间撬动了皮茨顿集团这一商业帝国，赢得一千三百五十万美元的赔偿，并首次在司法实践中确立精神损害赔偿的合法性。这本书既是灾难调查档案，也是平民对抗巨头的法律教科书。</description>
+      <pubDate>Sat, 10 Oct 2026 08:07:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-02ee1c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书记录一九七二年美国西弗吉尼亚州水牛湾矿渣坝崩塌、百余居民遇难、数千人无家可归的悲剧。资深律师斯特恩率领一群普通幸存者，利用证据开示、跨州管辖与陪审团庭审，用十年时间撬动了皮茨顿集团这一商业帝国，赢得一千三百五十万美元的赔偿，并首次在司法实践中确立精神损害赔偿的合法性。这本书既是灾难调查档案，也是平民对抗巨头的法律教科书。</itunes:summary>
+      <itunes:duration>00:31:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-02ee1c.mp3" length="30298797" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
