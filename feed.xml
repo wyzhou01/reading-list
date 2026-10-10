@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 08:24:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 08:30:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31414,6 +31414,17 @@
       <itunes:duration>00:34:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-d1c84b.mp3" length="33438765" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《治学的门径与取法：晚清民国研究的史料与史学》 · 完整版 · 治学的门径与取法：晚清民国研究的史料与史学_-_桑兵 · 完整讲读</title>
+      <description>本书是近代史大家桑兵数十年治学经验的系统总结。围绕晚清民国研究的史料与史学两大主题，作者系统反思了近代史学的现状与流弊，强调长编考异、合本子注、比较参证等前贤良法的当代意义，逐章讨论日记、函电、档案、报刊等各类史料的解读门径，深入考察辛亥革命、民国史、学术史、教育史、女性研究、民族边疆等关键领域，并系统阐述理解本意、寻绎演化的治史准则。全书贯穿严谨自律的治学精神，对当下学界的趋时横通倾向提出深刻批判，是一部面向近代研究者与进阶读者的重要方法论著作。</description>
+      <pubDate>Sat, 10 Oct 2026 08:30:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-ff31d0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是近代史大家桑兵数十年治学经验的系统总结。围绕晚清民国研究的史料与史学两大主题，作者系统反思了近代史学的现状与流弊，强调长编考异、合本子注、比较参证等前贤良法的当代意义，逐章讨论日记、函电、档案、报刊等各类史料的解读门径，深入考察辛亥革命、民国史、学术史、教育史、女性研究、民族边疆等关键领域，并系统阐述理解本意、寻绎演化的治史准则。全书贯穿严谨自律的治学精神，对当下学界的趋时横通倾向提出深刻批判，是一部面向近代研究者与进阶读者的重要方法论著作。</itunes:summary>
+      <itunes:duration>00:27:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-ff31d0.mp3" length="26608557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
