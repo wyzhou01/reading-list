@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 00:40:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 00:49:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30831,6 +30831,17 @@
       <itunes:duration>00:35:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-0c9703.mp3" length="33955245" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中国的兵器》 · 完整版 · 中国的兵器_王兆春 · 完整讲读</title>
+      <description>王兆春在《中国的兵器》中，用三十万字的篇幅，把中国兵器从新石器时代到第一次鸦片战争前夜的完整演进脉络铺陈成一部跨越五千年的史诗。本书既是一部系统的兵器谱系，也是一部关于创造、关于交流、关于转折的文明史。作者按冷兵器与火器两大时期，详细梳理了石器、青铜、钢铁三个阶段的长柄格斗兵器、短柄卫体兵器、射远兵器与防护装具，以及火药发明后火绳枪、各类火炮、火箭与爆炸性火器的形制演进。尤为珍贵的是，王兆春没有停留在器物罗列，而是把每一次材料更迭与形制变化，放回到战争场景、制度沿革和中外交流的大背景中，深入辨析了火药西传如何炸开欧洲中世纪的壁垒、明清之际中西军事变革为何走上截然不同的道路。对于想要一口气读懂中国军事史与科技史的听众，这是一本兼具学术扎实与语言可读性的入门与进阶之作。</description>
+      <pubDate>Sat, 10 Oct 2026 00:49:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-dc35ee</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>王兆春在《中国的兵器》中，用三十万字的篇幅，把中国兵器从新石器时代到第一次鸦片战争前夜的完整演进脉络铺陈成一部跨越五千年的史诗。本书既是一部系统的兵器谱系，也是一部关于创造、关于交流、关于转折的文明史。作者按冷兵器与火器两大时期，详细梳理了石器、青铜、钢铁三个阶段的长柄格斗兵器、短柄卫体兵器、射远兵器与防护装具，以及火药发明后火绳枪、各类火炮、火箭与爆炸性火器的形制演进。尤为珍贵的是，王兆春没有停留在器物罗列，而是把每一次材料更迭与形制变化，放回到战争场景、制度沿革和中外交流的大背景中，深入辨析了火药西传如何炸开欧洲中世纪的壁垒、明清之际中西军事变革为何走上截然不同的道路。对于想要一口气读懂中国军事史与科技史的听众，这是一本兼具学术扎实与语言可读性的入门与进阶之作。</itunes:summary>
+      <itunes:duration>00:30:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-dc35ee.mp3" length="29076141" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
