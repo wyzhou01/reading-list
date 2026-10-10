@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 17:46:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 17:52:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31733,6 +31733,17 @@
       <itunes:duration>00:18:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-990b89.mp3" length="17915949" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《狂骨之梦》 · 完整版 · 狂骨之梦 · 完整讲读</title>
+      <description>《狂骨之梦》是京极夏彦百鬼夜行系列的第三作，围绕一桩井底白骨消失的怪案展开。叙述者记不起自己究竟是谁，亲人的脸孔朦胧如雾，童年的歌却清晰得诡异。旧书店主京极堂以密教语义与妖怪学知识介入，逐步剥开这个【被置换身份】的女子背后横跨三十年、牵涉三条人命的血腥真相。本书把梦境当作犯罪现场、把井当作身份政治实验室、把密教返魂术当作解码记忆的钥匙，在妖怪推理的壳子里抛出了一个极为现代的命题：当支撑自我的记忆与肉体都可被替换，【我】究竟由谁来定义？一部不可不读的妖怪推理经典。</description>
+      <pubDate>Sat, 10 Oct 2026 17:52:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-5a3848</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《狂骨之梦》是京极夏彦百鬼夜行系列的第三作，围绕一桩井底白骨消失的怪案展开。叙述者记不起自己究竟是谁，亲人的脸孔朦胧如雾，童年的歌却清晰得诡异。旧书店主京极堂以密教语义与妖怪学知识介入，逐步剥开这个【被置换身份】的女子背后横跨三十年、牵涉三条人命的血腥真相。本书把梦境当作犯罪现场、把井当作身份政治实验室、把密教返魂术当作解码记忆的钥匙，在妖怪推理的壳子里抛出了一个极为现代的命题：当支撑自我的记忆与肉体都可被替换，【我】究竟由谁来定义？一部不可不读的妖怪推理经典。</itunes:summary>
+      <itunes:duration>00:22:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-5a3848.mp3" length="21513261" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
