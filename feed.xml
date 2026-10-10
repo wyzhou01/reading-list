@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 11:12:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 11:18:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31634,6 +31634,17 @@
       <itunes:duration>00:21:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-7d7dcb.mp3" length="20680365" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《上海秘境》 · 完整版 · 上海秘境 · 完整讲读</title>
+      <description>《上海秘境》是《TimeOut上海》同名专栏结集,由八零后本土作者按十二个月走访五十余处鲜为人知的历史建筑:从背面的外滩、元代真如寺、杜月笙的首席公馆,到摩西会堂、宝庆路三号、外滩钟楼。本书以现场感的笔触,把租界遗产、名流恩怨与市井烟火串成一条可步行的城市脉络。后记由主编戴剑从电车站名起笔,串联撰稿人与城市的情缘。提醒读者:真正的上海,藏在那些还没来得及被整修一新的缝隙里。</description>
+      <pubDate>Sat, 10 Oct 2026 11:18:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-307249</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《上海秘境》是《TimeOut上海》同名专栏结集,由八零后本土作者按十二个月走访五十余处鲜为人知的历史建筑:从背面的外滩、元代真如寺、杜月笙的首席公馆,到摩西会堂、宝庆路三号、外滩钟楼。本书以现场感的笔触,把租界遗产、名流恩怨与市井烟火串成一条可步行的城市脉络。后记由主编戴剑从电车站名起笔,串联撰稿人与城市的情缘。提醒读者:真正的上海,藏在那些还没来得及被整修一新的缝隙里。</itunes:summary>
+      <itunes:duration>00:28:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-307249.mp3" length="26912685" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
