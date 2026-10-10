@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 10:51:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 11:00:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31601,6 +31601,17 @@
       <itunes:duration>00:27:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-366d51.mp3" length="26683821" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《北风那个吹》 · 完整版 · 北风那个吹_-_高满堂 · 完整讲读</title>
+      <description>《北风那个吹》是高满堂以辽南月亮湾知青点为背景的长篇小说，写一群七十年代下乡的城市青年，在饥饿、权力与荒诞中摸爬滚打、相互亏欠又相互托举的二十余年。全书以一头饿猪跳圈墙的怪事开场，以帅子与牛鲜花在雪中重跳未竟的《白毛女》收束，用带泪的笑包裹一代人的青春、爱情与救赎，是一卷笑着笑着就想哭的时代底稿。</description>
+      <pubDate>Sat, 10 Oct 2026 11:00:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-a5171c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《北风那个吹》是高满堂以辽南月亮湾知青点为背景的长篇小说，写一群七十年代下乡的城市青年，在饥饿、权力与荒诞中摸爬滚打、相互亏欠又相互托举的二十余年。全书以一头饿猪跳圈墙的怪事开场，以帅子与牛鲜花在雪中重跳未竟的《白毛女》收束，用带泪的笑包裹一代人的青春、爱情与救赎，是一卷笑着笑着就想哭的时代底稿。</itunes:summary>
+      <itunes:duration>00:30:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-a5171c.mp3" length="28850733" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
