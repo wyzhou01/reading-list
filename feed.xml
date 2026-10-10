@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 00:49:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 00:55:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30842,6 +30842,17 @@
       <itunes:duration>00:30:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-dc35ee.mp3" length="29076141" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《雷军：让创业回归简单》 · 完整版 · 雷军：让创业回归简单(1) · 完整讲读</title>
+      <description>《雷军：让创业回归简单》以微博体金句加背景解读的方式，从创业、经营、管理、营销、竞争、投资、信仰七个维度，系统拆解雷军从金山十六年到小米创业的底层商业哲学。全书核心母题是大道至简——用专注、极致、口碑、快四字诀处理复杂，用看五年想三年做好一两年的节奏做战略，用失败即养分的态度面对挫折，用不给自己设限的信仰驱动重启。雷军的全部方法可以归结为一句话：让复杂的事情回到简单，把所有力气集中到针尖上，让用户自发传播，然后在变化来临之前先动起来。这是一本写给创业者和产品经理的底层心法之书。</description>
+      <pubDate>Sat, 10 Oct 2026 00:55:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-864afb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《雷军：让创业回归简单》以微博体金句加背景解读的方式，从创业、经营、管理、营销、竞争、投资、信仰七个维度，系统拆解雷军从金山十六年到小米创业的底层商业哲学。全书核心母题是大道至简——用专注、极致、口碑、快四字诀处理复杂，用看五年想三年做好一两年的节奏做战略，用失败即养分的态度面对挫折，用不给自己设限的信仰驱动重启。雷军的全部方法可以归结为一句话：让复杂的事情回到简单，把所有力气集中到针尖上，让用户自发传播，然后在变化来临之前先动起来。这是一本写给创业者和产品经理的底层心法之书。</itunes:summary>
+      <itunes:duration>00:29:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-864afb.mp3" length="28426413" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
