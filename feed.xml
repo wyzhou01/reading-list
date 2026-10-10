@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 23:53:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 00:00:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30754,6 +30754,17 @@
       <itunes:duration>00:25:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-bea74f.mp3" length="24006573" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《关于说话的一切》 · 完整版 · 关于说话的一切_-_李笑来 · 完整讲读</title>
+      <description>《关于说话的一切》是汤质写的一堂硬核表达课。它不从话术切入,而是从语言学、符号学、认知科学和哲学的底层逻辑,重新拆解说话这件事。作者提出一个核心判断:说话之所以成为天底下最难的事,根本原因是我们总试图将其简化,总想提炼几条粗暴的常识来应对,结果正是这些常识扭曲了我们的沟通观。全书围绕意义、关系、内容、场景、逻辑五个维度展开——意义在意图、文本与解释之间无限漂移;关系是一场权力游戏,赞美、坦诚、冒犯都有其结构性规律;发人深省的结论从好问题中来;场景决定了同一句话的完全不同含义;逻辑则是清晰表达的隐形地基。读这本书,你拿到的不是话术清单,而是一张重新理解语言的认知地图。它不能让你立刻变得能说会道,但能让你看清,能说会道的背后,究竟需要什么。</description>
+      <pubDate>Sat, 10 Oct 2026 00:00:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-096d9d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《关于说话的一切》是汤质写的一堂硬核表达课。它不从话术切入,而是从语言学、符号学、认知科学和哲学的底层逻辑,重新拆解说话这件事。作者提出一个核心判断:说话之所以成为天底下最难的事,根本原因是我们总试图将其简化,总想提炼几条粗暴的常识来应对,结果正是这些常识扭曲了我们的沟通观。全书围绕意义、关系、内容、场景、逻辑五个维度展开——意义在意图、文本与解释之间无限漂移;关系是一场权力游戏,赞美、坦诚、冒犯都有其结构性规律;发人深省的结论从好问题中来;场景决定了同一句话的完全不同含义;逻辑则是清晰表达的隐形地基。读这本书,你拿到的不是话术清单,而是一张重新理解语言的认知地图。它不能让你立刻变得能说会道,但能让你看清,能说会道的背后,究竟需要什么。</itunes:summary>
+      <itunes:duration>00:30:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-096d9d.mp3" length="29199789" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
