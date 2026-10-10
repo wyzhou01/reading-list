@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 17:35:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 17:41:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31711,6 +31711,17 @@
       <itunes:duration>00:31:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-6933f6.mp3" length="30399789" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《汪峰：音乐是艺术也是一门生意》 · 完整版 · 汪峰：音乐是艺术也是一门生意（中国故事）_-_季艺 · 完整讲读</title>
+      <description>本书以汪峰为样本，剖析中国摇滚歌手如何从反叛艺术家转型为高产能商人。季艺认为，汪峰能活下来并成为企业家年会常客，核心在于三件事：把歌词当成可优化产品，用工程师纪律替代灵感式创作，用高情商驯化代替对抗性现场。书中以《机器》改写为《怒放的生命》、旭日阳刚版权之争、崔健与许巍的对比为案例，揭示中国摇滚真正的分化不是风格之争，而是生存策略之争。十二年后重读，这套方法论已成为 MCN 网红、知识付费导师、品牌创始人 IP 的通用模板。</description>
+      <pubDate>Sat, 10 Oct 2026 17:41:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-4b8b9f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书以汪峰为样本，剖析中国摇滚歌手如何从反叛艺术家转型为高产能商人。季艺认为，汪峰能活下来并成为企业家年会常客，核心在于三件事：把歌词当成可优化产品，用工程师纪律替代灵感式创作，用高情商驯化代替对抗性现场。书中以《机器》改写为《怒放的生命》、旭日阳刚版权之争、崔健与许巍的对比为案例，揭示中国摇滚真正的分化不是风格之争，而是生存策略之争。十二年后重读，这套方法论已成为 MCN 网红、知识付费导师、品牌创始人 IP 的通用模板。</itunes:summary>
+      <itunes:duration>00:30:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-4b8b9f.mp3" length="29062317" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
