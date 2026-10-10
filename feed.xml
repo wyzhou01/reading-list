@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 05:45:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 05:52:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31172,6 +31172,17 @@
       <itunes:duration>00:25:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-9e41dc.mp3" length="24436269" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《神秘家族》 · 完整版 · 神秘家族 · 完整讲读</title>
+      <description>《神秘家族》是阿丑二〇一三年出版的川滇秘境探险小说，全书二十六万字共十九章。故事讲述成都博物馆研究员【巴叔】循着已故爷爷——五十年前的驮尸人巴不二——的足迹，进入四川攀枝花格萨拉禁地，一路遭遇鼹人部落、行尸、河怪【阿布拉】、摩梭女人与【饕餮残骸】，最终抵达巫山大宁河底部的【巫医峒】——上古神巫巫彭后裔的居所，揭开【三不死】与【火凤凰】两大秘藏的真相。巴叔醒来发现自己躺在成都精神病医院的病床上——这场跨越半个世纪的家族秘史，以幻觉与现实双线嵌套收束。本书填补了《鬼吹灯》《藏地密码》之后西南秘境探险的空白，以文学方式抢救了驮尸、敛骨、炼尸油、走婚、活祭等濒临消失的川滇民间行当与少数民族仪式。</description>
+      <pubDate>Sat, 10 Oct 2026 05:52:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-8cfda9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《神秘家族》是阿丑二〇一三年出版的川滇秘境探险小说，全书二十六万字共十九章。故事讲述成都博物馆研究员【巴叔】循着已故爷爷——五十年前的驮尸人巴不二——的足迹，进入四川攀枝花格萨拉禁地，一路遭遇鼹人部落、行尸、河怪【阿布拉】、摩梭女人与【饕餮残骸】，最终抵达巫山大宁河底部的【巫医峒】——上古神巫巫彭后裔的居所，揭开【三不死】与【火凤凰】两大秘藏的真相。巴叔醒来发现自己躺在成都精神病医院的病床上——这场跨越半个世纪的家族秘史，以幻觉与现实双线嵌套收束。本书填补了《鬼吹灯》《藏地密码》之后西南秘境探险的空白，以文学方式抢救了驮尸、敛骨、炼尸油、走婚、活祭等濒临消失的川滇民间行当与少数民族仪式。</itunes:summary>
+      <itunes:duration>00:31:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-8cfda9.mp3" length="30223533" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
