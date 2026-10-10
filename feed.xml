@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 03:52:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 04:02:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31106,6 +31106,17 @@
       <itunes:duration>00:24:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-f260a9.mp3" length="23369901" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《两晋：风流总被雨打风吹去》 · 完整版 · 两晋：风流总被雨打风吹去 · 完整讲读</title>
+      <description>本书以散文化的笔法重新讲述魏晋南北朝历史，跳出传统叙事框架，从统一与分裂、贵族与官僚、农耕与游牧三大根本命题切入，通过陆机、张华、祖逖、刘琨、慕容翰等具体人物的命运浮沉，呈现一个分裂、混乱却也风骨犹存的时代。文字带有强烈的个人咏怀气质，既是写史，也是写人。</description>
+      <pubDate>Sat, 10 Oct 2026 04:02:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-b8162d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书以散文化的笔法重新讲述魏晋南北朝历史，跳出传统叙事框架，从统一与分裂、贵族与官僚、农耕与游牧三大根本命题切入，通过陆机、张华、祖逖、刘琨、慕容翰等具体人物的命运浮沉，呈现一个分裂、混乱却也风骨犹存的时代。文字带有强烈的个人咏怀气质，既是写史，也是写人。</itunes:summary>
+      <itunes:duration>00:32:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-b8162d.mp3" length="30755373" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
