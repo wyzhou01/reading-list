@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 17:57:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 18:09:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31755,6 +31755,17 @@
       <itunes:duration>00:23:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-052338.mp3" length="22879533" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《静坐修道与长生不老》 · 完整版 · 静坐修道与长生不老 · 完整讲读</title>
+      <description>《静坐修道与长生不老》是南怀瑾先生系统阐述儒释道三家静坐修持法的经典著作。本书从静坐的入门方法、心身状况、气机发动、气脉运行，到三家的不同法门，进行了深入浅出的讲解。南怀瑾强调，静坐的核心不是方法而是“静”本身；气机反应是身体的真实反馈，不必刻意追求；用心的诀窍在于放下“用心”本身；三家法门各有门庭却殊途同归；打通气脉是副产品而非目标；长生不老的真相在于活在当下。本书打破了对静坐的迷信与偏见，为现代人提供了一条通往身心安宁的可行之路。</description>
+      <pubDate>Sat, 10 Oct 2026 18:09:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-055b32</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《静坐修道与长生不老》是南怀瑾先生系统阐述儒释道三家静坐修持法的经典著作。本书从静坐的入门方法、心身状况、气机发动、气脉运行，到三家的不同法门，进行了深入浅出的讲解。南怀瑾强调，静坐的核心不是方法而是“静”本身；气机反应是身体的真实反馈，不必刻意追求；用心的诀窍在于放下“用心”本身；三家法门各有门庭却殊途同归；打通气脉是副产品而非目标；长生不老的真相在于活在当下。本书打破了对静坐的迷信与偏见，为现代人提供了一条通往身心安宁的可行之路。</itunes:summary>
+      <itunes:duration>00:36:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-055b32.mp3" length="35035437" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
