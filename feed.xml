@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 18:45:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 18:52:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31832,6 +31832,17 @@
       <itunes:duration>00:25:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-9c3fa1.mp3" length="24671277" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《致所有疯狂的家伙》 · 完整版 · 致所有疯狂的家伙(1) · 完整讲读</title>
+      <description>本书是维珍集团创始人理查德·布兰森的自传，讲述他从十六岁创办《学生》杂志起步，二十三岁创立维珍唱片，到二十多年间横跨唱片、航空、铁路、饮料、金融六大行业的完整创业历程。书中最具颠覆性的核心观点是：商业的本质不是数字和报表，而是勇气、好奇心与对人的尊重。布兰森反复证明一件事——颠覆式创新从来不是技术革命，而是体验革命；品牌的核心不是招牌的样式，而是你愿意为谁说话；真正的多元化不是开多家公司，而是用同一句话讲不同故事。他用亲历告诉我们，在一个被大公司垄断的世界里，做一个敢为被低估的异类撑腰的人，永远是这个时代最稀缺的姿态。</description>
+      <pubDate>Sat, 10 Oct 2026 18:52:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-1b9277</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是维珍集团创始人理查德·布兰森的自传，讲述他从十六岁创办《学生》杂志起步，二十三岁创立维珍唱片，到二十多年间横跨唱片、航空、铁路、饮料、金融六大行业的完整创业历程。书中最具颠覆性的核心观点是：商业的本质不是数字和报表，而是勇气、好奇心与对人的尊重。布兰森反复证明一件事——颠覆式创新从来不是技术革命，而是体验革命；品牌的核心不是招牌的样式，而是你愿意为谁说话；真正的多元化不是开多家公司，而是用同一句话讲不同故事。他用亲历告诉我们，在一个被大公司垄断的世界里，做一个敢为被低估的异类撑腰的人，永远是这个时代最稀缺的姿态。</itunes:summary>
+      <itunes:duration>00:25:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-1b9277.mp3" length="24798381" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
