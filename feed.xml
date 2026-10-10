@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 06:45:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 06:56:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31271,6 +31271,17 @@
       <itunes:duration>00:22:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-375597.mp3" length="21638829" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《穆斯林的葬礼》 · 完整版 · 穆斯林的葬礼 · 完整讲读</title>
+      <description>《穆斯林的葬礼》是霍达一九八八年出版的长篇小说，一九九一年获茅盾文学奖。作品以北京一个穆斯林玉器世家三代人六十年的命运沉浮为主线，以【玉】与【月】的双线结构，交错推进了梁亦清、韩子奇、梁君壁、梁冰玉、韩新月、楚雁潮等人的悲欢离合。它写回回民族从唐代阿拉伯商人和元代蒙古西征军后裔一路走到老北京的沧桑史，写穆斯林在清真寺的邦克楼、婚丧嫁娶的礼仪、洁净的禁忌中守住的信仰与尊严，写匠人精神在水凳前一寸一寸的坚守，写爱情在家族伦理与时代巨变下的窒息与燃烧，更写了一场葬礼如何冶炼活人的心灵。霍达在后记里说：即使一生中全是悲剧，悲剧也是幸运的，因为它完成了并非人人都能完成的、对心灵的冶炼过程。三十七年过去，这部书依然在被一代代读者打开，因为每一个在深夜里藏着秘密的人，都能在这部书里，照见自己。</description>
+      <pubDate>Sat, 10 Oct 2026 06:56:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-5e03b8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《穆斯林的葬礼》是霍达一九八八年出版的长篇小说，一九九一年获茅盾文学奖。作品以北京一个穆斯林玉器世家三代人六十年的命运沉浮为主线，以【玉】与【月】的双线结构，交错推进了梁亦清、韩子奇、梁君壁、梁冰玉、韩新月、楚雁潮等人的悲欢离合。它写回回民族从唐代阿拉伯商人和元代蒙古西征军后裔一路走到老北京的沧桑史，写穆斯林在清真寺的邦克楼、婚丧嫁娶的礼仪、洁净的禁忌中守住的信仰与尊严，写匠人精神在水凳前一寸一寸的坚守，写爱情在家族伦理与时代巨变下的窒息与燃烧，更写了一场葬礼如何冶炼活人的心灵。霍达在后记里说：即使一生中全是悲剧，悲剧也是幸运的，因为它完成了并非人人都能完成的、对心灵的冶炼过程。三十七年过去，这部书依然在被一代代读者打开，因为每一个在深夜里藏着秘密的人，都能在这部书里，照见自己。</itunes:summary>
+      <itunes:duration>00:39:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-5e03b8.mp3" length="37484973" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
