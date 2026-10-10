@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 00:24:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 00:32:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30809,6 +30809,17 @@
       <itunes:duration>00:30:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-8f1ada.mp3" length="29467821" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《交际花盛衰记》 · 完整版 · 交际花盛衰记（企鹅经典） · 完整讲读</title>
+      <description>《交际花盛衰记》是巴尔扎克《人间喜剧》中最厚重的一部。它以一八二四年巴黎为舞台，讲述贫民窟女孩埃斯黛如何在欲望与金权交织的社会中沦为交际花，又如何在银行家纽沁根的婚姻骗局、魔鬼伏脱冷的暗中操控、贵族沙龙的面子工程、以及警察与苦役犯的灰色勾结中被一步步碾碎。一百五十万字的篇幅里，巴尔扎克解剖了十九世纪巴黎金融贵族如何取代旧贵族、金钱如何取代血缘成为新宗教、司法如何与罪犯同桌共餐、底层女性如何成为这台机器最完美的牺牲品。今天重读这部巨著，看到的不仅是十九世纪的巴黎，更是资本主义刚刚崛起时一座大都市如何把人变成商品、把欲望变成牢笼的全过程。</description>
+      <pubDate>Sat, 10 Oct 2026 00:32:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-42dcfb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《交际花盛衰记》是巴尔扎克《人间喜剧》中最厚重的一部。它以一八二四年巴黎为舞台，讲述贫民窟女孩埃斯黛如何在欲望与金权交织的社会中沦为交际花，又如何在银行家纽沁根的婚姻骗局、魔鬼伏脱冷的暗中操控、贵族沙龙的面子工程、以及警察与苦役犯的灰色勾结中被一步步碾碎。一百五十万字的篇幅里，巴尔扎克解剖了十九世纪巴黎金融贵族如何取代旧贵族、金钱如何取代血缘成为新宗教、司法如何与罪犯同桌共餐、底层女性如何成为这台机器最完美的牺牲品。今天重读这部巨著，看到的不仅是十九世纪的巴黎，更是资本主义刚刚崛起时一座大都市如何把人变成商品、把欲望变成牢笼的全过程。</itunes:summary>
+      <itunes:duration>00:32:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-42dcfb.mp3" length="31180461" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
