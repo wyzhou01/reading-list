@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 17:52:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 17:57:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31744,6 +31744,17 @@
       <itunes:duration>00:22:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-5a3848.mp3" length="21513261" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《神魔记1：家国天下》 · 完整版 · 神魔记1：家国天下 · 完整讲读</title>
+      <description>《神魔记一：家国天下》是姚无伤二零零八年推出的中文仙侠代表作，以元末至正三年的龙虎山为舞台，写十五岁少年道士林静常在天师印失踪、佛道正邪之争的背景下，从溪边隔空驱物的懵懂少年，经历黄泉地府的真火焚身、脱胎换骨，最终在对灵儿的那一声承诺里，完成了从情爱到家国天下的承担。全书以厚重的道教知识、严谨的符咒法术、辽阔的地理版图，重新为中文原创仙侠树立了【道高于术、心重于法】的修行伦理标杆。</description>
+      <pubDate>Sat, 10 Oct 2026 17:57:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-052338</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《神魔记一：家国天下》是姚无伤二零零八年推出的中文仙侠代表作，以元末至正三年的龙虎山为舞台，写十五岁少年道士林静常在天师印失踪、佛道正邪之争的背景下，从溪边隔空驱物的懵懂少年，经历黄泉地府的真火焚身、脱胎换骨，最终在对灵儿的那一声承诺里，完成了从情爱到家国天下的承担。全书以厚重的道教知识、严谨的符咒法术、辽阔的地理版图，重新为中文原创仙侠树立了【道高于术、心重于法】的修行伦理标杆。</itunes:summary>
+      <itunes:duration>00:23:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-052338.mp3" length="22879533" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
