@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 11:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 11:07:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31612,6 +31612,17 @@
       <itunes:duration>00:30:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-a5171c.mp3" length="28850733" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《内外之间：屏风意义的唐宋转型》 · 完整版 · 内外之间 · 完整讲读</title>
+      <description>李溪《内外之间》以屏风为镜，追溯这件中国最古老家具之一在唐宋之际所发生的意义转型：从周礼中彰显王权的【黼依】，到唐太宗的箴铭屏风，再到北宋玉堂之上的郭熙山水，最终落到白居易的素屏与南宋的枕屏、砚屏——本书揭示，屏风的真正故事，是它如何从权力符号，转变为士大夫内在精神世界的载体，并在世俗化浪潮中走向散落。它提醒我们：物的意义，从来是由人与它的相处方式所共同书写的。</description>
+      <pubDate>Sat, 10 Oct 2026 11:07:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-ae42d9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>李溪《内外之间》以屏风为镜，追溯这件中国最古老家具之一在唐宋之际所发生的意义转型：从周礼中彰显王权的【黼依】，到唐太宗的箴铭屏风，再到北宋玉堂之上的郭熙山水，最终落到白居易的素屏与南宋的枕屏、砚屏——本书揭示，屏风的真正故事，是它如何从权力符号，转变为士大夫内在精神世界的载体，并在世俗化浪潮中走向散落。它提醒我们：物的意义，从来是由人与它的相处方式所共同书写的。</itunes:summary>
+      <itunes:duration>00:25:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-ae42d9.mp3" length="24689709" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
