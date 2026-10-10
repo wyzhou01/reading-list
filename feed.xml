@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 18:16:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 18:21:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31777,6 +31777,17 @@
       <itunes:duration>00:27:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-f84ea1.mp3" length="25925805" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《你一生的故事》 · 完整版 · 降临(1) · 完整讲读</title>
+      <description>特德·姜的《你一生的故事》是一部短篇科幻集,收录八篇小说。每一篇都用思想实验的方式,轻轻推一下人类认知的某条公理,然后看世界会不会塌。书里拆掉了语言的边界、空间的高度、因果的根基、成长的意义,甚至美的客观性。它不预测未来,它追问的是我们以为稳固的一切,到底有多稳固。读这本书,不是为了知道答案,是为了学会带着问题继续活下去。</description>
+      <pubDate>Sat, 10 Oct 2026 18:21:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-8d48be</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>特德·姜的《你一生的故事》是一部短篇科幻集,收录八篇小说。每一篇都用思想实验的方式,轻轻推一下人类认知的某条公理,然后看世界会不会塌。书里拆掉了语言的边界、空间的高度、因果的根基、成长的意义,甚至美的客观性。它不预测未来,它追问的是我们以为稳固的一切,到底有多稳固。读这本书,不是为了知道答案,是为了学会带着问题继续活下去。</itunes:summary>
+      <itunes:duration>00:23:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-8d48be.mp3" length="22376877" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
