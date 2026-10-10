@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 06:32:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 06:38:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31249,6 +31249,17 @@
       <itunes:duration>00:24:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-864c39.mp3" length="23807661" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《黑暗时刻：希特勒、大屠杀与纳粹文化》 · 完整版 · 黑暗时刻（上下册） · 完整讲读</title>
+      <description>《黑暗时刻》以文化的阅读视角，写希特勒、大屠杀与纳粹文化，分为上中下三十五章。单世里多读二十年写一本书，以文化读纳粹：领袖、人格与德意志文化自负的崩溃；群众、知识分子与一九三三至一九四五的服从伦理；大屠杀作为现代事件、原始行为与文化行为的交织；奥斯维辛之后的文学、记忆与文明的反思。中文世界罕见的以文化视角系统反思希特勒与大屠杀的大部头。它提醒我们：黑暗的历史发生在德国，反思的责任属于全体文明人类。</description>
+      <pubDate>Sat, 10 Oct 2026 06:38:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-778ff8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《黑暗时刻》以文化的阅读视角，写希特勒、大屠杀与纳粹文化，分为上中下三十五章。单世里多读二十年写一本书，以文化读纳粹：领袖、人格与德意志文化自负的崩溃；群众、知识分子与一九三三至一九四五的服从伦理；大屠杀作为现代事件、原始行为与文化行为的交织；奥斯维辛之后的文学、记忆与文明的反思。中文世界罕见的以文化视角系统反思希特勒与大屠杀的大部头。它提醒我们：黑暗的历史发生在德国，反思的责任属于全体文明人类。</itunes:summary>
+      <itunes:duration>00:26:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-778ff8.mp3" length="25642413" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
