@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 06:18:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 06:25:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31227,6 +31227,17 @@
       <itunes:duration>00:31:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-41c21b.mp3" length="29839149" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《地球的故事》 · 完整版 · 地球的故事（果麦版） · 完整讲读</title>
+      <description>《地球的故事》是房龙一九三二年写就的人文地理经典。他把人类放回地理的中心，沿着欧洲、亚洲、非洲、美洲一路走下来，看每一块大陆、每一座山脉、每一条河流是如何塑造住在那片土地上的人，又是如何在历史长河里被人类重新书写。他借这本书喊出一句跨越时代的口号：我们都是同一颗星球上彼此的同路人，对于这颗共同家园的幸福安康，我们肩负着相同的责任。九十年过去，这句话依然是我们理解脚下这片土地最朴素、也最需要的起点。</description>
+      <pubDate>Sat, 10 Oct 2026 06:25:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-3dacc8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《地球的故事》是房龙一九三二年写就的人文地理经典。他把人类放回地理的中心，沿着欧洲、亚洲、非洲、美洲一路走下来，看每一块大陆、每一座山脉、每一条河流是如何塑造住在那片土地上的人，又是如何在历史长河里被人类重新书写。他借这本书喊出一句跨越时代的口号：我们都是同一颗星球上彼此的同路人，对于这颗共同家园的幸福安康，我们肩负着相同的责任。九十年过去，这句话依然是我们理解脚下这片土地最朴素、也最需要的起点。</itunes:summary>
+      <itunes:duration>00:34:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-3dacc8.mp3" length="32843565" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
