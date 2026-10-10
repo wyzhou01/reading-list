@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 03:13:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 03:19:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31040,6 +31040,17 @@
       <itunes:duration>00:34:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-5bbf39.mp3" length="33036717" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《无夜边境》 · 完整版 · 无夜边境_-_田浩 · 完整讲读</title>
+      <description>《无夜边境》是退役武警边防特勤队员田浩撰写的非虚构缉毒回忆录，记录他在云南边境缉毒一线的真实经历。书中既有特勤大队的选拔与跨境抓捕——十一个小时潜伏后的致命一枪，也有选拔之外那些被遮蔽的人：从选拔中断后坠落回日常的退伍兵乔飞，到把整条舌头文成金黄色的街头青年林彩军，再到从社会青年一路滑向境外毒枭的线人古哲、被击毙的跨境毒枭刘夏勇。田浩用第一人称还原了缉毒的真实成本，既不渲染英雄主义，也不回避灰色地带。他让我们看见边境不只在国境线上——边境在公交车上、在父亲的白发前、在火车站的隔断里，在每一个人选择不转身的瞬间。</description>
+      <pubDate>Sat, 10 Oct 2026 03:18:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-2d9446</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《无夜边境》是退役武警边防特勤队员田浩撰写的非虚构缉毒回忆录，记录他在云南边境缉毒一线的真实经历。书中既有特勤大队的选拔与跨境抓捕——十一个小时潜伏后的致命一枪，也有选拔之外那些被遮蔽的人：从选拔中断后坠落回日常的退伍兵乔飞，到把整条舌头文成金黄色的街头青年林彩军，再到从社会青年一路滑向境外毒枭的线人古哲、被击毙的跨境毒枭刘夏勇。田浩用第一人称还原了缉毒的真实成本，既不渲染英雄主义，也不回避灰色地带。他让我们看见边境不只在国境线上——边境在公交车上、在父亲的白发前、在火车站的隔断里，在每一个人选择不转身的瞬间。</itunes:summary>
+      <itunes:duration>00:26:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-2d9446.mp3" length="25266477" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
