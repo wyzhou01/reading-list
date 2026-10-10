@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 07:03:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 07:10:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31293,6 +31293,17 @@
       <itunes:duration>00:28:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-48dd1a.mp3" length="27244845" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《侯门新妇-嫤语书年》 · 完整版 · 侯门新妇-嫤语书年_-_海青拿天鹅 · 完整讲读</title>
+      <description>《侯门新妇嫤语书年》是海青拿天鹅最具代表性的长篇古言，背景设定参照东汉末年军阀混战的乱世格局。前朝司徒遗孤傅嫤，先嫁莱阳太守韩恬的痴傻次子韩广，再嫁挟天子以令诸侯的枭雄魏傕之长子魏郯，从被家族与命运轮番摆布的政治棋子，靠清醒与韧性一步步把命握回自己手中。本书以傅嫤、皇后何蘋与亡国天子的三重视角，交织出一幅乱世图景——傅嫤与魏郯以极冷的方式守住了最真的政治联姻下的人心；何蘋从政治弃子到母亲、到城楼上不肯松手的女人，完成了一次心气真正的点燃；天子禅位前的那一句【夫人不可再唤我陛下】，把几千字家国沉浮收进最朴素的称呼里。这不是一本靠撒糖或洒血取胜的古言，而是一部关于王朝倾覆之中人性微光的严肃之作。</description>
+      <pubDate>Sat, 10 Oct 2026 07:10:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-23ba24</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《侯门新妇嫤语书年》是海青拿天鹅最具代表性的长篇古言，背景设定参照东汉末年军阀混战的乱世格局。前朝司徒遗孤傅嫤，先嫁莱阳太守韩恬的痴傻次子韩广，再嫁挟天子以令诸侯的枭雄魏傕之长子魏郯，从被家族与命运轮番摆布的政治棋子，靠清醒与韧性一步步把命握回自己手中。本书以傅嫤、皇后何蘋与亡国天子的三重视角，交织出一幅乱世图景——傅嫤与魏郯以极冷的方式守住了最真的政治联姻下的人心；何蘋从政治弃子到母亲、到城楼上不肯松手的女人，完成了一次心气真正的点燃；天子禅位前的那一句【夫人不可再唤我陛下】，把几千字家国沉浮收进最朴素的称呼里。这不是一本靠撒糖或洒血取胜的古言，而是一部关于王朝倾覆之中人性微光的严肃之作。</itunes:summary>
+      <itunes:duration>00:32:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-23ba24.mp3" length="31231917" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
