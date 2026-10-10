@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 17:41:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 17:46:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31722,6 +31722,17 @@
       <itunes:duration>00:30:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-4b8b9f.mp3" length="29062317" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《寒鸦行动》 · 完整版 · 寒鸦行动_-_[英]肯·福莱特 · 完整讲读</title>
+      <description>《寒鸦行动》是肯·福莱特写给二战敌后女特工的一封迟到几十年的致敬信。书里讲述一九四四年五月，英国特别行动处把六个女人空投到法国香槟区，她们扮成清洁工，端着扫帚和抹布走进盖世太保驻扎的十七世纪城堡，亲手炸掉纳粹北方战区的通信中枢。四人死亡，两人活着回到伦敦。活下来的弗立克面对的不是鲜花和勋章，而是一间没有窗户的会议室、一位皱眉的主教和一句滚他的蛋所换来的英帝国勋章。肯·福莱特用这本书回答一个问题：普通人被战争逼到极限，能走出多远。答案是——远到能替十多万盟军士兵买下登陆前的四十八小时，远到能让一个五年不说话的母親重新叫出儿子的名字。</description>
+      <pubDate>Sat, 10 Oct 2026 17:46:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-990b89</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《寒鸦行动》是肯·福莱特写给二战敌后女特工的一封迟到几十年的致敬信。书里讲述一九四四年五月，英国特别行动处把六个女人空投到法国香槟区，她们扮成清洁工，端着扫帚和抹布走进盖世太保驻扎的十七世纪城堡，亲手炸掉纳粹北方战区的通信中枢。四人死亡，两人活着回到伦敦。活下来的弗立克面对的不是鲜花和勋章，而是一间没有窗户的会议室、一位皱眉的主教和一句滚他的蛋所换来的英帝国勋章。肯·福莱特用这本书回答一个问题：普通人被战争逼到极限，能走出多远。答案是——远到能替十多万盟军士兵买下登陆前的四十八小时，远到能让一个五年不说话的母親重新叫出儿子的名字。</itunes:summary>
+      <itunes:duration>00:18:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-990b89.mp3" length="17915949" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
