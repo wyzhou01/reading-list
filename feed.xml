@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 07:54:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 08:01:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31370,6 +31370,17 @@
       <itunes:duration>00:27:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-8f2b71.mp3" length="26099373" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《依赖共生》 · 完整版 · 依赖共生 · 完整讲读</title>
+      <description>《依赖共生》是美国心理学家巴里·温霍尔德夫妇的代表作，它告诉我们：成年人里反复陷入又痛又离不开的失衡关系，根源往往在生命最初六个月一次没完成的母婴联结。这种依赖共生源于婴儿期未能建立的稳固联结，在童年早期干扰了安全感和自我感的形成，长大后就表现为变成对母亲那样的角色的依赖共生。证据在于生命最初六个月的发育创伤。</description>
+      <pubDate>Sat, 10 Oct 2026 08:01:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-d56b38</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《依赖共生》是美国心理学家巴里·温霍尔德夫妇的代表作，它告诉我们：成年人里反复陷入又痛又离不开的失衡关系，根源往往在生命最初六个月一次没完成的母婴联结。这种依赖共生源于婴儿期未能建立的稳固联结，在童年早期干扰了安全感和自我感的形成，长大后就表现为变成对母亲那样的角色的依赖共生。证据在于生命最初六个月的发育创伤。</itunes:summary>
+      <itunes:duration>00:32:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-d56b38.mp3" length="31407021" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
