@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 09:35:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 09:42:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31524,6 +31524,17 @@
       <itunes:duration>00:35:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-5cf7c4.mp3" length="33917613" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《说佛（下）》 · 完整版 · 说佛（下）_-_李叔同 · 完整讲读</title>
+      <description>《说佛》下册收录弘一大师晚年关于临终关怀、地藏法门、药师经析疑与南山律在家修行要义的核心讲稿。弘一大师以近代律学复兴者的身份，把深奥的律学与净土法门翻译成在家人可实修的方法，从病重、临终、命终到七七追荐，每一环节都讲得明白细致。他强调临终八小时不可移动、助念应随病人习惯、女众在自室念佛避免讥议，倡导事理圆融的修行观，并借《药师经》阐明行愿与智慧不可偏废。书后附录蕅益大师年谱与《南山律在家备览·忏悔篇》，体现一代祖师以身作则的生命实践。本书的核心命题是：真正有尊严地往生，不是临终那一刻才念佛，而是从日常的每一刻就开始预备资粮；事上循规蹈矩，理上观照实相，二者缺一不可。</description>
+      <pubDate>Sat, 10 Oct 2026 09:42:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-0cf3f1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《说佛》下册收录弘一大师晚年关于临终关怀、地藏法门、药师经析疑与南山律在家修行要义的核心讲稿。弘一大师以近代律学复兴者的身份，把深奥的律学与净土法门翻译成在家人可实修的方法，从病重、临终、命终到七七追荐，每一环节都讲得明白细致。他强调临终八小时不可移动、助念应随病人习惯、女众在自室念佛避免讥议，倡导事理圆融的修行观，并借《药师经》阐明行愿与智慧不可偏废。书后附录蕅益大师年谱与《南山律在家备览·忏悔篇》，体现一代祖师以身作则的生命实践。本书的核心命题是：真正有尊严地往生，不是临终那一刻才念佛，而是从日常的每一刻就开始预备资粮；事上循规蹈矩，理上观照实相，二者缺一不可。</itunes:summary>
+      <itunes:duration>00:26:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-0cf3f1.mp3" length="24988461" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
