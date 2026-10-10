@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 17:14:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 17:20:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31667,6 +31667,17 @@
       <itunes:duration>00:26:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-2ad174.mp3" length="25182765" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《从前我死去的家》 · 完整版 · 从前我死去的家 · 完整讲读</title>
+      <description>《从前我死去的家》是东野圭吾一九九四年的转型之作。女主沙也加童年记忆一片空白，父亲去世后她从遗物中找到一把黄铜钥匙和手绘地图，由此与前男友一同前往松原湖畔的白色小屋，逐步揭开自己真实身份：她本名御厨久美，是火灾中死去的女孩借用了死去朋友的姓名长大成人。小说以一栋复刻白屋为象征，揭示了记忆封印、身份替换与童年创伤之间的隐秘联系，是东野圭吾笔下最贴近心理考古的作品。</description>
+      <pubDate>Sat, 10 Oct 2026 17:19:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-3593ba</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《从前我死去的家》是东野圭吾一九九四年的转型之作。女主沙也加童年记忆一片空白，父亲去世后她从遗物中找到一把黄铜钥匙和手绘地图，由此与前男友一同前往松原湖畔的白色小屋，逐步揭开自己真实身份：她本名御厨久美，是火灾中死去的女孩借用了死去朋友的姓名长大成人。小说以一栋复刻白屋为象征，揭示了记忆封印、身份替换与童年创伤之间的隐秘联系，是东野圭吾笔下最贴近心理考古的作品。</itunes:summary>
+      <itunes:duration>00:23:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-3593ba.mp3" length="22295853" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
