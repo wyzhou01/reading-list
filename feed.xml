@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 06:38:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 06:45:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31260,6 +31260,17 @@
       <itunes:duration>00:26:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-778ff8.mp3" length="25642413" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《生活，是很好玩的》 · 完整版 · 生活，是很好玩的 · 完整讲读</title>
+      <description>《生活，是很好玩的》是汪曾祺晚年散文精选集，按有味、草木、春秋三辑编排。汪曾祺以温厚有趣的笔触，写高邮咸鸭蛋、昆明雨、父亲伪造的螃蟹、儿子偷偷带回的同学，把最普通的萝卜豆腐和最深的父子情谊，都写出了让人咽口水又心头一暖的味道。本书的核心，是示范一种『把平凡日子过成段子』的活法：认真而不较劲，温厚而有趣味。在快餐阅读和内卷时代，这本书教人慢下来，教人从一只咸鸭蛋、一棵葡萄、一场春雨里，看出生活本来的样子。</description>
+      <pubDate>Sat, 10 Oct 2026 06:44:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-375597</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《生活，是很好玩的》是汪曾祺晚年散文精选集，按有味、草木、春秋三辑编排。汪曾祺以温厚有趣的笔触，写高邮咸鸭蛋、昆明雨、父亲伪造的螃蟹、儿子偷偷带回的同学，把最普通的萝卜豆腐和最深的父子情谊，都写出了让人咽口水又心头一暖的味道。本书的核心，是示范一种『把平凡日子过成段子』的活法：认真而不较劲，温厚而有趣味。在快餐阅读和内卷时代，这本书教人慢下来，教人从一只咸鸭蛋、一棵葡萄、一场春雨里，看出生活本来的样子。</itunes:summary>
+      <itunes:duration>00:22:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-375597.mp3" length="21638829" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
