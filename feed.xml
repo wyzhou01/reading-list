@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 01:42:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 01:49:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30930,6 +30930,17 @@
       <itunes:duration>00:22:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-2c6aac.mp3" length="22003629" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《清代的皇权与世家》 · 完整版 · 清代的皇权与世家_(中国社会文化史丛书) · 完整讲读</title>
+      <description>《清代的皇权与世家》是台湾中研院赖惠敏研究员的代表作，从科举、婚姻、商业、人口、土地、奴仆六个维度，揭示了清代皇权如何通过差异化政策同时管控满汉世家。全书用量化档案数据证明：所谓【不分满汉】只是表面文章，皇帝用制度把千万个家族精准钉入一张棋盘——科举是入场券，婚姻是合股，商业是套索，人口是命门，土地是抽水机，奴仆是监控网。读这本书，不只是为了看清代，更是为了看懂今天我们如何被看不见的规则安排。</description>
+      <pubDate>Sat, 10 Oct 2026 01:49:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-b7913e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《清代的皇权与世家》是台湾中研院赖惠敏研究员的代表作，从科举、婚姻、商业、人口、土地、奴仆六个维度，揭示了清代皇权如何通过差异化政策同时管控满汉世家。全书用量化档案数据证明：所谓【不分满汉】只是表面文章，皇帝用制度把千万个家族精准钉入一张棋盘——科举是入场券，婚姻是合股，商业是套索，人口是命门，土地是抽水机，奴仆是监控网。读这本书，不只是为了看清代，更是为了看懂今天我们如何被看不见的规则安排。</itunes:summary>
+      <itunes:duration>00:28:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-b7913e.mp3" length="27364653" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
