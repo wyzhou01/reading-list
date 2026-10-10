@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 18:38:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 18:45:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31821,6 +31821,17 @@
       <itunes:duration>00:32:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-ad27d3.mp3" length="30931629" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《蜜蜂与远雷》 · 完整版 · 蜜蜂与远雷 · 完整讲读</title>
+      <description>《蜜蜂与远雷》是日本作家恩田陆二零一六年出版的钢琴题材长篇小说，次年获直木奖。故事围绕第六届芳江国际钢琴大赛展开：消失十年的传奇大师霍夫曼去世，将一个满手泥土、从法国乡下来的十六岁少年风间尘送上了国际舞台；曾是天才少女的荣传亚夜，在十年沉寂后决定复出；技术完美的马赛尔，在与同行相遇后开始寻找自己的声音。三人在同一场比赛中交织，恩田陆用钢琴比赛这个外壳，温柔地回答了一个看似残酷的问题：天赋到底是什么？答案是——所有的伟大都不是被认证的结果，而是自己在时间里一寸一寸长出的形状。</description>
+      <pubDate>Sat, 10 Oct 2026 18:45:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-9c3fa1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《蜜蜂与远雷》是日本作家恩田陆二零一六年出版的钢琴题材长篇小说，次年获直木奖。故事围绕第六届芳江国际钢琴大赛展开：消失十年的传奇大师霍夫曼去世，将一个满手泥土、从法国乡下来的十六岁少年风间尘送上了国际舞台；曾是天才少女的荣传亚夜，在十年沉寂后决定复出；技术完美的马赛尔，在与同行相遇后开始寻找自己的声音。三人在同一场比赛中交织，恩田陆用钢琴比赛这个外壳，温柔地回答了一个看似残酷的问题：天赋到底是什么？答案是——所有的伟大都不是被认证的结果，而是自己在时间里一寸一寸长出的形状。</itunes:summary>
+      <itunes:duration>00:25:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-9c3fa1.mp3" length="24671277" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
