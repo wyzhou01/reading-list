@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 09:26:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 09:35:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31513,6 +31513,17 @@
       <itunes:duration>00:19:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-3e8a79.mp3" length="18282669" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《孤儿列车》 · 完整版 · 孤儿列车 · 完整讲读</title>
+      <description>《孤儿列车》是英国裔加拿大作家克里斯蒂娜·贝克·克兰的处女作，二零一三年出版后登上《纽约时报》畅销榜并蝉联超过一百周，全球销量突破七百万册。本书以双线并置的叙事，讲述二零一一年缅因州十七岁寄养少女莫莉与九十一岁爱尔兰裔老人薇薇安的隔代交集：后者正是上世纪初【孤儿列车】上被送往中西部的孩子。小说借由小熊吊坠、《简·爱》、狄更斯《孤星血泪》、爱尔兰克拉达戒指等贯穿两代人生命的物件，回答【何以为家】这一核心命题：家从来不在血缘与法律文件里，而在一次次愿意为另一个人留下的瞬间里。</description>
+      <pubDate>Sat, 10 Oct 2026 09:35:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-5cf7c4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《孤儿列车》是英国裔加拿大作家克里斯蒂娜·贝克·克兰的处女作，二零一三年出版后登上《纽约时报》畅销榜并蝉联超过一百周，全球销量突破七百万册。本书以双线并置的叙事，讲述二零一一年缅因州十七岁寄养少女莫莉与九十一岁爱尔兰裔老人薇薇安的隔代交集：后者正是上世纪初【孤儿列车】上被送往中西部的孩子。小说借由小熊吊坠、《简·爱》、狄更斯《孤星血泪》、爱尔兰克拉达戒指等贯穿两代人生命的物件，回答【何以为家】这一核心命题：家从来不在血缘与法律文件里，而在一次次愿意为另一个人留下的瞬间里。</itunes:summary>
+      <itunes:duration>00:35:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-5cf7c4.mp3" length="33917613" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
