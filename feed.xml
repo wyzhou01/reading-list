@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 09:56:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 10:05:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31557,6 +31557,17 @@
       <itunes:duration>00:30:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-ac901a.mp3" length="29434797" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大家小书：两宋史纲》 · 完整版 · 大家小书：两宋史纲 · 完整讲读</title>
+      <description>本期《好好读书》解读史学奇才张荫麟的《两宋史纲》。三十七岁英年早逝的张荫麟，以清华、斯坦福、西南联大、浙大学术训练留下的笔法，写就一部未竟的两宋通史。本期围绕三组核心洞察展开：一是宋朝重内轻外、扬文抑武的国防设计如何把一支本就不善战的军队推向一线；二是王安石变法、贾似道公田法代表的改革理想如何在执行层面被官僚机器吞掉；三是宋学作为精神结构如何在制度失效时撑住文明、却在面对新型外部挑战时工具箱落空。读完这一本，我们不只复述一个王朝的兴衰，更借张荫麟的笔追问：精致的制度和人心，能否真的承载住一个文明三百年的命运？</description>
+      <pubDate>Sat, 10 Oct 2026 10:04:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-b3499e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期《好好读书》解读史学奇才张荫麟的《两宋史纲》。三十七岁英年早逝的张荫麟，以清华、斯坦福、西南联大、浙大学术训练留下的笔法，写就一部未竟的两宋通史。本期围绕三组核心洞察展开：一是宋朝重内轻外、扬文抑武的国防设计如何把一支本就不善战的军队推向一线；二是王安石变法、贾似道公田法代表的改革理想如何在执行层面被官僚机器吞掉；三是宋学作为精神结构如何在制度失效时撑住文明、却在面对新型外部挑战时工具箱落空。读完这一本，我们不只复述一个王朝的兴衰，更借张荫麟的笔追问：精致的制度和人心，能否真的承载住一个文明三百年的命运？</itunes:summary>
+      <itunes:duration>00:32:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-b3499e.mp3" length="31154733" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
