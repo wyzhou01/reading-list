@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 02:26:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 02:32:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30985,6 +30985,17 @@
       <itunes:duration>00:26:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-d8e36d.mp3" length="25453101" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《国富论（全译本）》 · 完整版 · 国富论（全译本） · 完整讲读</title>
+      <description>《国富论》是亚当·斯密于一七七六年出版的奠基之作，被誉为经济学圣经。本书以制针厂的劳动分工为起点，系统阐述了分工如何推动生产力飞跃、看不见的手如何让自利转化为社会福利、劳动与资本如何分配为工资利润地租三大收入，并在此基础上批判了把金银等同于财富的重商主义，划定了国家作为守夜人、法官与公共工程提供者的边界。两百五十年来，这部巨著仍是任何想要理解现代市场、制度与国家如何运转的人绕不开的源头。</description>
+      <pubDate>Sat, 10 Oct 2026 02:32:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-55fcca</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《国富论》是亚当·斯密于一七七六年出版的奠基之作，被誉为经济学圣经。本书以制针厂的劳动分工为起点，系统阐述了分工如何推动生产力飞跃、看不见的手如何让自利转化为社会福利、劳动与资本如何分配为工资利润地租三大收入，并在此基础上批判了把金银等同于财富的重商主义，划定了国家作为守夜人、法官与公共工程提供者的边界。两百五十年来，这部巨著仍是任何想要理解现代市场、制度与国家如何运转的人绕不开的源头。</itunes:summary>
+      <itunes:duration>00:25:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-55fcca.mp3" length="24700845" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
