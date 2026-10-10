@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 09:12:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 09:21:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31491,6 +31491,17 @@
       <itunes:duration>00:23:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-2eadf5.mp3" length="22698669" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《何伟，再见涪陵》 · 完整版 · 何伟，再见涪陵（中国故事）_-_刘晋锋 · 完整讲读</title>
+      <description>2011 年，美国作家何伟即将离开中国前往埃及，《纽约客》前记者刘晋锋回到何伟当年支教的涪陵，写下这本《何伟，再见涪陵》。本书以何伟回到涪陵的演讲为切口，穿过学生、教师、官员、白鹤梁、Emily 等多重视角，记录涪陵在十五年间从二十万人到六十万、再到百万的人口变迁：在学术报告厅里九零后学生追问价值观，在白鹤梁水下博物馆看见被精心绘制的现代化蓝图，在师生聚会中听见每个人都在为自己的房子和利益奋斗，最后在 Emily 一个关于死后经历的梦里，看见那些被边缘化的人如何在快速的城市化中保留内心的空地。这不只是一个美国人观察中国的回访之作，更是中国非虚构写作者何伟式叙事的延续：现代化无法回避，但被认真记下的个体，不应该被略去。</description>
+      <pubDate>Sat, 10 Oct 2026 09:20:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-deffde</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>2011 年，美国作家何伟即将离开中国前往埃及，《纽约客》前记者刘晋锋回到何伟当年支教的涪陵，写下这本《何伟，再见涪陵》。本书以何伟回到涪陵的演讲为切口，穿过学生、教师、官员、白鹤梁、Emily 等多重视角，记录涪陵在十五年间从二十万人到六十万、再到百万的人口变迁：在学术报告厅里九零后学生追问价值观，在白鹤梁水下博物馆看见被精心绘制的现代化蓝图，在师生聚会中听见每个人都在为自己的房子和利益奋斗，最后在 Emily 一个关于死后经历的梦里，看见那些被边缘化的人如何在快速的城市化中保留内心的空地。这不只是一个美国人观察中国的回访之作，更是中国非虚构写作者何伟式叙事的延续：现代化无法回避，但被认真记下的个体，不应该被略去。</itunes:summary>
+      <itunes:duration>00:33:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-deffde.mp3" length="32444973" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
