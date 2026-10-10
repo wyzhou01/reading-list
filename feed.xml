@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 03:46:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 03:52:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31095,6 +31095,17 @@
       <itunes:duration>00:27:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-ddd9af.mp3" length="26743725" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《不要让未来的你,讨厌现在的自己》 · 完整版 · 不要让未来的你,讨厌现在的自己 · 完整讲读</title>
+      <description>《不要让未来的你，讨厌现在的自己》是作家赵星（网名特立独行的猫）写给年轻人的成长励志书，记录了她从月薪三千元的北漂女孩一路摸爬滚打的真实经历。全书围绕活在当下、做最好的自己、相信梦想、追随内心四条主线，破解了年轻人最常掉进的三个陷阱——把坚持等同于意志力、把活得用力等同于活得痛苦、把敢折腾等同于胆子大。书里反复强调一个核心：所有的折腾都不会白费，所有的坚持都算数；不要在二十几岁就活成五十岁的样子，要保有那份听见就激动的灵气。十年过去，这本书依然是无数在大城市里漂泊的年轻人迷茫时的睡前读物，因为它戳中了每一个年代年轻人都会撞上的那面墙——愿你出走半生，归来仍有最初的眼睛。</description>
+      <pubDate>Sat, 10 Oct 2026 03:52:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-f260a9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《不要让未来的你，讨厌现在的自己》是作家赵星（网名特立独行的猫）写给年轻人的成长励志书，记录了她从月薪三千元的北漂女孩一路摸爬滚打的真实经历。全书围绕活在当下、做最好的自己、相信梦想、追随内心四条主线，破解了年轻人最常掉进的三个陷阱——把坚持等同于意志力、把活得用力等同于活得痛苦、把敢折腾等同于胆子大。书里反复强调一个核心：所有的折腾都不会白费，所有的坚持都算数；不要在二十几岁就活成五十岁的样子，要保有那份听见就激动的灵气。十年过去，这本书依然是无数在大城市里漂泊的年轻人迷茫时的睡前读物，因为它戳中了每一个年代年轻人都会撞上的那面墙——愿你出走半生，归来仍有最初的眼睛。</itunes:summary>
+      <itunes:duration>00:24:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-f260a9.mp3" length="23369901" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
