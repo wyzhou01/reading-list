@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 07:35:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 07:41:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31337,6 +31337,17 @@
       <itunes:duration>00:27:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-48e17d.mp3" length="26791725" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《幸福有方法》 · 完整版 · 幸福有方法 · 完整讲读</title>
+      <description>本期节目精讲积极心理学著作《幸福有方法》。作者柳博米尔斯基基于二十年的科研数据，提出幸福饼图理论：基因决定百分之五十，环境仅占百分之十，剩下百分之四十掌握在你的具体行动里。节目梳理了十二个有实验支撑的幸福行动——表达感恩、培养乐观、避免攀比、多行善事、维护关系、积极应对、学会谅解、增加心流、品味生活、追求目标、寻找精神寄托、冥想锻炼与笑对人生——并提炼出三个关键洞察：幸福是个性化配方，需要先自我评估再选择行动；人类天生会把舒适置于适应模式，财富、健康、外交等外部条件会被常态化的瞬间幸福影响，需要用感恩、品味、心流来对抗；幸福行动必须变成习惯才能持久，一次只做两到三件事、用习惯叠加绕过意志力消耗，才是可持续的路径。节目强调，这本书最珍贵的地方，是把幸福从一个抽象概念拉回到一个具体动词——幸福不是想出来、等出来、谈出来的，而是做出来的。</description>
+      <pubDate>Sat, 10 Oct 2026 07:41:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-445a85</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期节目精讲积极心理学著作《幸福有方法》。作者柳博米尔斯基基于二十年的科研数据，提出幸福饼图理论：基因决定百分之五十，环境仅占百分之十，剩下百分之四十掌握在你的具体行动里。节目梳理了十二个有实验支撑的幸福行动——表达感恩、培养乐观、避免攀比、多行善事、维护关系、积极应对、学会谅解、增加心流、品味生活、追求目标、寻找精神寄托、冥想锻炼与笑对人生——并提炼出三个关键洞察：幸福是个性化配方，需要先自我评估再选择行动；人类天生会把舒适置于适应模式，财富、健康、外交等外部条件会被常态化的瞬间幸福影响，需要用感恩、品味、心流来对抗；幸福行动必须变成习惯才能持久，一次只做两到三件事、用习惯叠加绕过意志力消耗，才是可持续的路径。节目强调，这本书最珍贵的地方，是把幸福从一个抽象概念拉回到一个具体动词——幸福不是想出来、等出来、谈出来的，而是做出来的。</itunes:summary>
+      <itunes:duration>00:27:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-445a85.mp3" length="26790189" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
