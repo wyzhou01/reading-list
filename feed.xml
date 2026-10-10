@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 02:32:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 02:43:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30996,6 +30996,17 @@
       <itunes:duration>00:25:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-55fcca.mp3" length="24700845" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《平台战略》 · 完整版 · 平台战略 · 完整讲读</title>
+      <description>《平台战略》是国内第一本系统讲解平台商业模式的原创著作，全书构建了一套从产业价值链重组到多边市场机制设计、从网络效应激发到引爆点突破的完整框架，并深入剖析了赢者通吃的残酷、覆盖战争的宏大与多方共赢的终极答案。它揭示了一个被很多人忽略的事实——平台竞争不是比谁做得更好，而是比谁更能重新定义游戏规则。读懂这本书，就读懂了这个时代企业竞争的全部底层规则。</description>
+      <pubDate>Sat, 10 Oct 2026 02:42:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-43fca5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《平台战略》是国内第一本系统讲解平台商业模式的原创著作，全书构建了一套从产业价值链重组到多边市场机制设计、从网络效应激发到引爆点突破的完整框架，并深入剖析了赢者通吃的残酷、覆盖战争的宏大与多方共赢的终极答案。它揭示了一个被很多人忽略的事实——平台竞争不是比谁做得更好，而是比谁更能重新定义游戏规则。读懂这本书，就读懂了这个时代企业竞争的全部底层规则。</itunes:summary>
+      <itunes:duration>00:45:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-43fca5.mp3" length="43221933" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
