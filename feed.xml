@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 04:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 05:24:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31117,6 +31117,17 @@
       <itunes:duration>00:32:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-b8162d.mp3" length="30755373" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《打火机与公主裙·长明灯》 · 完整版 · 打火机与公主裙·长明灯 · 完整讲读</title>
+      <description>《打火机与公主裙·长明灯》是 Twentine 笔下跨越三十年的人生史诗。故事从计算机天才李峋与少女朱韵的相遇讲起，历经创业、出国、生死、离别，最终以李思崎——他们的孩子——的成熟收束。全书以六块拼图般的叙事，呈现了理想主义者如何在爱情、亲情、事业中燃烧自己：朱韵用五年异国时光治愈爱情，李峋用一生守护身边的人，田修竹用温柔成全所爱，李思崎最终在父母的故事里找到自己活成光的姿态。这是一封写给所有不肯向现实低头的人的情书，也是一部关于时间、传承与爱的长明之书。</description>
+      <pubDate>Sat, 10 Oct 2026 05:24:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-67c62f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《打火机与公主裙·长明灯》是 Twentine 笔下跨越三十年的人生史诗。故事从计算机天才李峋与少女朱韵的相遇讲起，历经创业、出国、生死、离别，最终以李思崎——他们的孩子——的成熟收束。全书以六块拼图般的叙事，呈现了理想主义者如何在爱情、亲情、事业中燃烧自己：朱韵用五年异国时光治愈爱情，李峋用一生守护身边的人，田修竹用温柔成全所爱，李思崎最终在父母的故事里找到自己活成光的姿态。这是一封写给所有不肯向现实低头的人的情书，也是一部关于时间、传承与爱的长明之书。</itunes:summary>
+      <itunes:duration>00:31:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-67c62f.mp3" length="30720045" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
