@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 08:30:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 08:40:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31425,6 +31425,17 @@
       <itunes:duration>00:27:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-ff31d0.mp3" length="26608557" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《去往第九王国》 · 完整版 · 去往第九王国 · 完整讲读</title>
+      <description>《去往第九王国》是奥地利作家彼得·汉德克一九八六年发表的长篇代表作。小说讲述四十五岁的叙述者回忆自己二十岁时徒步穿越斯洛文尼亚的寻根之旅，途中交织着对失踪兄长的追寻、对童年创伤的回望、对斯洛文尼亚语这门濒危语言的发现。汉德克通过「盲窗」「空空如也的山间小道」「第九王国」三层意象，论证了叙述是人对抗虚无与战争的最后武器，语言是民族最后的尊严，而那个从未存在、永不消亡的第九王国，只存在于每一个愿意开口讲话的人心里。这是一部写于冷战尾声的元小说，也是一封写给「叙述」本身的情书。</description>
+      <pubDate>Sat, 10 Oct 2026 08:40:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-8d1546</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《去往第九王国》是奥地利作家彼得·汉德克一九八六年发表的长篇代表作。小说讲述四十五岁的叙述者回忆自己二十岁时徒步穿越斯洛文尼亚的寻根之旅，途中交织着对失踪兄长的追寻、对童年创伤的回望、对斯洛文尼亚语这门濒危语言的发现。汉德克通过「盲窗」「空空如也的山间小道」「第九王国」三层意象，论证了叙述是人对抗虚无与战争的最后武器，语言是民族最后的尊严，而那个从未存在、永不消亡的第九王国，只存在于每一个愿意开口讲话的人心里。这是一部写于冷战尾声的元小说，也是一封写给「叙述」本身的情书。</itunes:summary>
+      <itunes:duration>00:36:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-8d1546.mp3" length="34808109" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
