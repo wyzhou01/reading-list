@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 23:42:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 23:49:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31909,6 +31909,17 @@
       <itunes:duration>00:24:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-74651f.mp3" length="23056557" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大众哲学》 · 完整版 · 大众哲学_-_艾思奇 · 完整讲读</title>
+      <description>《大众哲学》是艾思奇在上世纪三十年代为中国人写的马克思主义哲学入门书。它不堆术语，只用我们熟悉的例子讲清三件事：世界是物质的还是精神的，认识从哪里来，事情发展的规律是什么。全书围绕辩证唯物论的三大规律——对立统一、质量互变、否定之否定——展开，把哲学从大学讲台上请下来，交给每一个普通人。它教我们承认矛盾但不害怕矛盾，看到量变也要准备好迎接质变，接受否定并相信螺旋式上升。哲学并不神秘，哲学就在你的日常生活里。这本书的影响力跨越数十年，至今仍是普通人学哲学最亲切的入口。</description>
+      <pubDate>Sat, 10 Oct 2026 23:49:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-a98755</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大众哲学》是艾思奇在上世纪三十年代为中国人写的马克思主义哲学入门书。它不堆术语，只用我们熟悉的例子讲清三件事：世界是物质的还是精神的，认识从哪里来，事情发展的规律是什么。全书围绕辩证唯物论的三大规律——对立统一、质量互变、否定之否定——展开，把哲学从大学讲台上请下来，交给每一个普通人。它教我们承认矛盾但不害怕矛盾，看到量变也要准备好迎接质变，接受否定并相信螺旋式上升。哲学并不神秘，哲学就在你的日常生活里。这本书的影响力跨越数十年，至今仍是普通人学哲学最亲切的入口。</itunes:summary>
+      <itunes:duration>00:38:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-a98755.mp3" length="36700077" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
