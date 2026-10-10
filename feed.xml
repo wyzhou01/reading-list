@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 08:49:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 08:55:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31447,6 +31447,17 @@
       <itunes:duration>00:25:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-7bde21.mp3" length="24582957" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《白龙物语》 · 完整版 · 白龙物语_-_ǧҹ · 完整讲读</title>
+      <description>《白龙物语》是一部以唐代长安为背景的奇幻长篇。婢女玲珑梦游撞见屏风异象，由此踏入白龙馆，结识馆主姬弘与纸人小白，遇见身负万千婴灵的女孩莲月。她以不老泉之血为引，以一枚银戒为钥，走进柴房，对怨灵说出「我也是那千万分之一」。本书借古风仙侠之外壳，探讨命运、身份、羁绊与善念的代价——主题旨归：命运不是被看见的，是被走过的；善念的代价不是被讨厌，是被讨厌之前愿不愿意先迈那一步。</description>
+      <pubDate>Sat, 10 Oct 2026 08:54:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-923ffe</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《白龙物语》是一部以唐代长安为背景的奇幻长篇。婢女玲珑梦游撞见屏风异象，由此踏入白龙馆，结识馆主姬弘与纸人小白，遇见身负万千婴灵的女孩莲月。她以不老泉之血为引，以一枚银戒为钥，走进柴房，对怨灵说出「我也是那千万分之一」。本书借古风仙侠之外壳，探讨命运、身份、羁绊与善念的代价——主题旨归：命运不是被看见的，是被走过的；善念的代价不是被讨厌，是被讨厌之前愿不愿意先迈那一步。</itunes:summary>
+      <itunes:duration>00:16:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-923ffe.mp3" length="15699501" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
