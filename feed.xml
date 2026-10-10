@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 06:56:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 07:03:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31282,6 +31282,17 @@
       <itunes:duration>00:39:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-5e03b8.mp3" length="37484973" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《夏天的焦虑》 · 完整版 · 夏天的焦虑 · 完整讲读</title>
+      <description>本期节目一口气读完王晋康的硬科幻寓言《夏天的焦虑》。这本书用四篇相互呼应的故事，把星际移民这道选择题推到了我们面前——氢盛世让人类再也离不开木星，一艘诺亚方舟号把人类一分为二，移民在异星改造中彻底异化，而基因史提醒我们，十二万年前那场走出非洲，本身就是一场诺亚方舟。出发与留守从来不是对立的两件事，它们是同一件事的两个面。你出发，你就必须接受留守者会和你分化。本期追问一个比出发还是留守更可怕的问题——当我们真的出发之后，我们还是人类吗？</description>
+      <pubDate>Sat, 10 Oct 2026 07:03:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-48dd1a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期节目一口气读完王晋康的硬科幻寓言《夏天的焦虑》。这本书用四篇相互呼应的故事，把星际移民这道选择题推到了我们面前——氢盛世让人类再也离不开木星，一艘诺亚方舟号把人类一分为二，移民在异星改造中彻底异化，而基因史提醒我们，十二万年前那场走出非洲，本身就是一场诺亚方舟。出发与留守从来不是对立的两件事，它们是同一件事的两个面。你出发，你就必须接受留守者会和你分化。本期追问一个比出发还是留守更可怕的问题——当我们真的出发之后，我们还是人类吗？</itunes:summary>
+      <itunes:duration>00:28:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-48dd1a.mp3" length="27244845" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
