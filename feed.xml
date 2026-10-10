@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 01:57:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 02:04:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30952,6 +30952,17 @@
       <itunes:duration>00:33:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-90d590.mp3" length="31955757" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《独步天下》 · 完整版 · 独步天下 · 完整讲读</title>
+      <description>《独步天下》是李歆创作的一部明末清初穿越言情小说。上海女摄影师阿步在外蒙古古墓中触碰布喜娅玛拉的墓碑后灵魂穿越，化身叶赫部格格东哥，在努尔哈赤、皇太极、代善、多尔衮等枭雄之间挣扎求存。本书用现代女性视角重新解构皇太极的一生，将建州女真、海西女真与蒙古各部的政治军事博弈，串联起明清易代的关键节点，是穿越言情、女性成长与历史叙事融合的现象级作品。</description>
+      <pubDate>Sat, 10 Oct 2026 02:04:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-c51c90</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《独步天下》是李歆创作的一部明末清初穿越言情小说。上海女摄影师阿步在外蒙古古墓中触碰布喜娅玛拉的墓碑后灵魂穿越，化身叶赫部格格东哥，在努尔哈赤、皇太极、代善、多尔衮等枭雄之间挣扎求存。本书用现代女性视角重新解构皇太极的一生，将建州女真、海西女真与蒙古各部的政治军事博弈，串联起明清易代的关键节点，是穿越言情、女性成长与历史叙事融合的现象级作品。</itunes:summary>
+      <itunes:duration>00:34:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-c51c90.mp3" length="33068973" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
