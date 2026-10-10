@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 01:00:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 01:06:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30864,6 +30864,17 @@
       <itunes:duration>00:23:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-c7c27c.mp3" length="22985901" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《金雀花王朝》 · 完整版 · 金雀花王朝 · 完整讲读</title>
+      <description>《金雀花王朝》是英国历史学家丹·琼斯为十二世纪至十五世纪英格兰金雀花王朝撰写的通俗叙事史。本书以一一二零年白船沉没的悲剧开篇，讲述了亨利二世、狮心王理查、约翰王签署《大宪章》、爱德华三世百年战争、黑死病冲击、理查二世被废黜等二百四十五年间的重大事件，全景呈现了一个王朝如何将战乱分裂的英格兰锻造成基督教世界中最成熟、最重要的王国，并奠定了英语世界至今仍在沿用的法律、议会、宪政等基本制度原型，被誉为现实版的《冰与火之歌》。</description>
+      <pubDate>Sat, 10 Oct 2026 01:06:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-e733b7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《金雀花王朝》是英国历史学家丹·琼斯为十二世纪至十五世纪英格兰金雀花王朝撰写的通俗叙事史。本书以一一二零年白船沉没的悲剧开篇，讲述了亨利二世、狮心王理查、约翰王签署《大宪章》、爱德华三世百年战争、黑死病冲击、理查二世被废黜等二百四十五年间的重大事件，全景呈现了一个王朝如何将战乱分裂的英格兰锻造成基督教世界中最成熟、最重要的王国，并奠定了英语世界至今仍在沿用的法律、议会、宪政等基本制度原型，被誉为现实版的《冰与火之歌》。</itunes:summary>
+      <itunes:duration>00:30:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-e733b7.mp3" length="28888749" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
