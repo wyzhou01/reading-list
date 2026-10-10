@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 05:57:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 06:04:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31194,6 +31194,17 @@
       <itunes:duration>00:18:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-166f74.mp3" length="17700525" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《时间移民》 · 完整版 · 时间移民(1) · 完整讲读</title>
+      <description>《时间移民》是刘慈欣中短篇科幻的精华集结,收录《坍缩》《镜子》《朝闻道》《微纪元》《梦之海》《欢乐颂》等十三篇。全书以光年尺度的宇宙审美,拷问人类文明的终极命运:在宇宙坍缩与时间反演面前,在绝对真理与自由意志之间,在技术爆炸与道德失重之际,我们究竟靠什么继续存在?从工程师丁仪的冷酷,到百亿年后传遍宇宙的《欢乐颂》,刘慈欣用十三次思想实验,给出了一份冷峻而悲壮的答卷——人类文明的伟大,不在于会赢,而在于明知会输,仍然选择继续。</description>
+      <pubDate>Sat, 10 Oct 2026 06:04:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-e8cdf0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《时间移民》是刘慈欣中短篇科幻的精华集结,收录《坍缩》《镜子》《朝闻道》《微纪元》《梦之海》《欢乐颂》等十三篇。全书以光年尺度的宇宙审美,拷问人类文明的终极命运:在宇宙坍缩与时间反演面前,在绝对真理与自由意志之间,在技术爆炸与道德失重之际,我们究竟靠什么继续存在?从工程师丁仪的冷酷,到百亿年后传遍宇宙的《欢乐颂》,刘慈欣用十三次思想实验,给出了一份冷峻而悲壮的答卷——人类文明的伟大,不在于会赢,而在于明知会输,仍然选择继续。</itunes:summary>
+      <itunes:duration>00:25:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-e8cdf0.mp3" length="24554541" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
