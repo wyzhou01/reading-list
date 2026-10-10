@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 01:06:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 01:12:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30875,6 +30875,17 @@
       <itunes:duration>00:30:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-e733b7.mp3" length="28888749" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《诡案追踪》 · 完整版 · 诡案追踪 · 完整讲读</title>
+      <description>国内刑侦网络小说作家贝晓的代表作《诡案追踪》，通过吸血诡影、无尽深眠、夺命诅咒、年关缉凶四个看似超自然的连环案件，塑造了沈严、方礼源、程海洋、江厉、李嘉宇、许柔、蒋睿恒、苏墨涵等一支训练有素、重证据、讲程序的警察群像。整本书不靠灵异博眼球，而是借灵异外壳讲人性、讲程序、讲正义与证据之间的撕扯，揭示了比鬼更可怕的永远是人心，并提出了一种【按顺序做事】的慢功夫伦理——程序不浪漫，但程序是唯一一条能撑住所有人的绳子。</description>
+      <pubDate>Sat, 10 Oct 2026 01:12:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-8b2ee7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>国内刑侦网络小说作家贝晓的代表作《诡案追踪》，通过吸血诡影、无尽深眠、夺命诅咒、年关缉凶四个看似超自然的连环案件，塑造了沈严、方礼源、程海洋、江厉、李嘉宇、许柔、蒋睿恒、苏墨涵等一支训练有素、重证据、讲程序的警察群像。整本书不靠灵异博眼球，而是借灵异外壳讲人性、讲程序、讲正义与证据之间的撕扯，揭示了比鬼更可怕的永远是人心，并提出了一种【按顺序做事】的慢功夫伦理——程序不浪漫，但程序是唯一一条能撑住所有人的绳子。</itunes:summary>
+      <itunes:duration>00:26:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-8b2ee7.mp3" length="25430829" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
