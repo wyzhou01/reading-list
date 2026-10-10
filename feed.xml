@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 06:04:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 06:11:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31205,6 +31205,17 @@
       <itunes:duration>00:25:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-e8cdf0.mp3" length="24554541" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《這一夜，誰能安睡》 · 完整版 · 這一夜，誰能安睡 · 完整讲读</title>
+      <description>宮部美雪《這一夜，誰能安睡》講述一個平凡四口之家，因一筆五億日圓遺贈與一場自導自演的假綁票案，被迫攤開彼此最深處的祕密。少年雅男從門縫偷窺成人世界，看見母親為了確認丈夫的心是否仍在家中，押上全家安寧設局豪賭；最終讀懂，原來最溫柔的母愛，有時會以最驚險的博弈登場。</description>
+      <pubDate>Sat, 10 Oct 2026 06:11:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-b2cac8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>宮部美雪《這一夜，誰能安睡》講述一個平凡四口之家，因一筆五億日圓遺贈與一場自導自演的假綁票案，被迫攤開彼此最深處的祕密。少年雅男從門縫偷窺成人世界，看見母親為了確認丈夫的心是否仍在家中，押上全家安寧設局豪賭；最終讀懂，原來最溫柔的母愛，有時會以最驚險的博弈登場。</itunes:summary>
+      <itunes:duration>00:26:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-b2cac8.mp3" length="25597869" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
