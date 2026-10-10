@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 07:29:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 07:35:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31326,6 +31326,17 @@
       <itunes:duration>00:35:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-5154b3.mp3" length="34296237" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《法医专家第二季：昆虫证词》 · 完整版 · 法医专家第二季：昆虫证词 · 完整讲读</title>
+      <description>《法医专家第二季：昆虫证词》以十一桩离奇案件为线索，呈现法医昆虫学在国内的稀缺价值与独特作用。苍蝇的龄期、蝇蛹的发育节律、虫体残留的DNA，都能在传统法医学失效的高度腐败尸体上精准反推死亡时间与作案手法，把李丘山、秦义德、于小华、魏征等一个个看似毫无破绽的嫌疑人钉死在证据链上。本书最深的警示在于：越是惊天动地的犯罪，越可能栽在一只不起眼的虫子手里；而当凶手反向利用昆虫学常识伪装现场时，法医昆虫学家熬夜辨出的那几只甲虫，仍然能让伪装彻底崩盘。读这本书，不只是为了满足猎奇，更是为了学会一种对细小、安静之物的敬意。</description>
+      <pubDate>Sat, 10 Oct 2026 07:35:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-48e17d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《法医专家第二季：昆虫证词》以十一桩离奇案件为线索，呈现法医昆虫学在国内的稀缺价值与独特作用。苍蝇的龄期、蝇蛹的发育节律、虫体残留的DNA，都能在传统法医学失效的高度腐败尸体上精准反推死亡时间与作案手法，把李丘山、秦义德、于小华、魏征等一个个看似毫无破绽的嫌疑人钉死在证据链上。本书最深的警示在于：越是惊天动地的犯罪，越可能栽在一只不起眼的虫子手里；而当凶手反向利用昆虫学常识伪装现场时，法医昆虫学家熬夜辨出的那几只甲虫，仍然能让伪装彻底崩盘。读这本书，不只是为了满足猎奇，更是为了学会一种对细小、安静之物的敬意。</itunes:summary>
+      <itunes:duration>00:27:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-48e17d.mp3" length="26791725" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
