@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 06:11:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 06:18:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31216,6 +31216,17 @@
       <itunes:duration>00:26:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-b2cac8.mp3" length="25597869" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《坚毅：释放激情与坚持的力量》 · 完整版 · 坚毅：释放激情与坚持的力量 · 完整讲读</title>
+      <description>《坚毅》是美国心理学家安杰拉·达克沃思关于 grit 的开创性研究著作。她用十余年的科学数据证明，相较于天赋，坚毅——即对长期目标的热爱与不放弃的坚持——更能预测一个人能否取得真正的成就。本书从坚毅的测量讲起，回应了天赋与努力的关系，提出了由刻意练习、心流体验、寻找使命、应对挫折组成的成长路径；并延伸到父母如何在孩子心中种下坚毅的种子。无论你是想理解为什么有些资质平平的人最终走到了常人难以企及的高度，还是想为孩子、为团队、为自己的长期目标找到一套可执行的方法，本书都给出了系统而具体的回答。一句话总结：成就从来不是天赋的免费午餐，而是努力在时间里的复利。</description>
+      <pubDate>Sat, 10 Oct 2026 06:18:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-41c21b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《坚毅》是美国心理学家安杰拉·达克沃思关于 grit 的开创性研究著作。她用十余年的科学数据证明，相较于天赋，坚毅——即对长期目标的热爱与不放弃的坚持——更能预测一个人能否取得真正的成就。本书从坚毅的测量讲起，回应了天赋与努力的关系，提出了由刻意练习、心流体验、寻找使命、应对挫折组成的成长路径；并延伸到父母如何在孩子心中种下坚毅的种子。无论你是想理解为什么有些资质平平的人最终走到了常人难以企及的高度，还是想为孩子、为团队、为自己的长期目标找到一套可执行的方法，本书都给出了系统而具体的回答。一句话总结：成就从来不是天赋的免费午餐，而是努力在时间里的复利。</itunes:summary>
+      <itunes:duration>00:31:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-41c21b.mp3" length="29839149" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
