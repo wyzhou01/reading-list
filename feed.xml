@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 06:25:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 06:32:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31238,6 +31238,17 @@
       <itunes:duration>00:34:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-3dacc8.mp3" length="32843565" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《北京书店印象》 · 完整版 · 北京书店印象 · 完整讲读</title>
+      <description>《北京书店印象》是青年诗人严彬编选的一部关于北京书店的文化散文集，二零一五年由中央编译出版社出版。书中分读者篇与书店篇两辑，既收录解玺璋、止庵、沈昌文等作家学者回忆七十至九十年代在北京淘书、买书的私人记忆，也记录了万圣书园、单向街、三味书屋、时尚廊等二十余家书店创办人的访谈实录。从七十年代王府井新华书店前的长队，到九十年代民营学术书店的孤岛式坚守，再到二十一世纪书店作为生活方式空间的转型，本书以书店为经、以爱书人为纬，呈现了一座城市的精神地标如何在压抑与开放、理想与房租之间艰难呼吸。它既不是悼词，也不是宣言，而是一份给所有爱书人的情书，也是一份关于城市精神生活的非官方档案。在实体书店普遍凋零的今天，读这本书，你会重新理解：为什么有人愿意用一生的热情，守住那一盏灯。</description>
+      <pubDate>Sat, 10 Oct 2026 06:32:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-864c39</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《北京书店印象》是青年诗人严彬编选的一部关于北京书店的文化散文集，二零一五年由中央编译出版社出版。书中分读者篇与书店篇两辑，既收录解玺璋、止庵、沈昌文等作家学者回忆七十至九十年代在北京淘书、买书的私人记忆，也记录了万圣书园、单向街、三味书屋、时尚廊等二十余家书店创办人的访谈实录。从七十年代王府井新华书店前的长队，到九十年代民营学术书店的孤岛式坚守，再到二十一世纪书店作为生活方式空间的转型，本书以书店为经、以爱书人为纬，呈现了一座城市的精神地标如何在压抑与开放、理想与房租之间艰难呼吸。它既不是悼词，也不是宣言，而是一份给所有爱书人的情书，也是一份关于城市精神生活的非官方档案。在实体书店普遍凋零的今天，读这本书，你会重新理解：为什么有人愿意用一生的热情，守住那一盏灯。</itunes:summary>
+      <itunes:duration>00:24:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-864c39.mp3" length="23807661" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
