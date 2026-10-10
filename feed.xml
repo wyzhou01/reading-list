@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 23:23:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 23:33:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31887,6 +31887,17 @@
       <itunes:duration>00:25:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-3c38a0.mp3" length="24557229" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《观众心理美学》 · 完整版 · 观众心理美学 · 完整讲读</title>
+      <description>《观众心理美学》是余秋雨从哲学美学转向以观众为主体的心理美学的奠基之作。全书把美学核心问题从【什么是美】重构为【为什么让人感到美】，提出悲剧美对应人类仰视需要、喜剧美对应俯视需要，并以梅特林克的【必然悲剧】理论、莫里哀对俯视距离的坚守、悲喜交融的当代合法性、对比性程序与保留剧目策略，系统回答了艺术家在心理厌倦围剿中如何创作与生存。本书既是接受美学与艺术心理学的跨文化总结，也是一份写给创作者与观众的实战手册。</description>
+      <pubDate>Sat, 10 Oct 2026 23:33:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-c67b43</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《观众心理美学》是余秋雨从哲学美学转向以观众为主体的心理美学的奠基之作。全书把美学核心问题从【什么是美】重构为【为什么让人感到美】，提出悲剧美对应人类仰视需要、喜剧美对应俯视需要，并以梅特林克的【必然悲剧】理论、莫里哀对俯视距离的坚守、悲喜交融的当代合法性、对比性程序与保留剧目策略，系统回答了艺术家在心理厌倦围剿中如何创作与生存。本书既是接受美学与艺术心理学的跨文化总结，也是一份写给创作者与观众的实战手册。</itunes:summary>
+      <itunes:duration>00:37:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-c67b43.mp3" length="36248493" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
