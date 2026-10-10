@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 07:41:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 07:47:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31348,6 +31348,17 @@
       <itunes:duration>00:27:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-445a85.mp3" length="26790189" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《丑陋的韩国人》 · 完整版 · 丑陋的韩国人 · 完整讲读</title>
+      <description>《丑陋的韩国人》是旅日朝鲜族学者金文学写下的东亚文化比较檄文。他用中日韩三国对照的视角,从情绪化、服务意识缺失、歧视痼疾、社会僵化、文化后进、表里不一、对日执念七个维度,解剖韩国国民性中的深层裂痕。书中以佩斯卡马号杀人事件等真实案例,揭示出经济腾飞背后,韩国社会在精神成熟度上的严重欠账。这本书既是对韩国的尖锐批评,也是对所有在经济高速发展中尚未完成心理转型的社会的真诚提醒——读懂他人的丑陋,才能照见自身的成长。</description>
+      <pubDate>Sat, 10 Oct 2026 07:47:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-72301b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《丑陋的韩国人》是旅日朝鲜族学者金文学写下的东亚文化比较檄文。他用中日韩三国对照的视角,从情绪化、服务意识缺失、歧视痼疾、社会僵化、文化后进、表里不一、对日执念七个维度,解剖韩国国民性中的深层裂痕。书中以佩斯卡马号杀人事件等真实案例,揭示出经济腾飞背后,韩国社会在精神成熟度上的严重欠账。这本书既是对韩国的尖锐批评,也是对所有在经济高速发展中尚未完成心理转型的社会的真诚提醒——读懂他人的丑陋,才能照见自身的成长。</itunes:summary>
+      <itunes:duration>00:23:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-72301b.mp3" length="22300845" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
