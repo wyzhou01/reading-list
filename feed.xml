@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 01:35:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 01:40:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30919,6 +30919,17 @@
       <itunes:duration>00:29:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-3f5c31.mp3" length="28763949" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《第十二张牌》 · 完整版 · 第十二张牌 · 完整讲读</title>
+      <description>《第十二张牌》是杰夫里·迪弗林肯·莱姆系列的第七部。一个十六岁的非裔女孩在曼哈顿博物馆的缩微胶片里，寻找她南北战争老兵祖先查尔斯·辛格尔顿的故事。与此同时，一桩看似随机的连环命案，把她拽进了一个由假古董商和街头混混构成的地下世界。瘫痪的法医侦探莱姆与警探萨克斯联手破案，穿过油漆碎屑、纤维、指纹这些微小证据，最终拼出一百四十年前与当下的双重逃亡。迪弗在悬疑外壳下，书写了一份关于种族、残缺、完整与小胜仗的家族作业：完整不是被给予的，是被争取的；十分之九就够了。</description>
+      <pubDate>Sat, 10 Oct 2026 01:40:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-2c6aac</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《第十二张牌》是杰夫里·迪弗林肯·莱姆系列的第七部。一个十六岁的非裔女孩在曼哈顿博物馆的缩微胶片里，寻找她南北战争老兵祖先查尔斯·辛格尔顿的故事。与此同时，一桩看似随机的连环命案，把她拽进了一个由假古董商和街头混混构成的地下世界。瘫痪的法医侦探莱姆与警探萨克斯联手破案，穿过油漆碎屑、纤维、指纹这些微小证据，最终拼出一百四十年前与当下的双重逃亡。迪弗在悬疑外壳下，书写了一份关于种族、残缺、完整与小胜仗的家族作业：完整不是被给予的，是被争取的；十分之九就够了。</itunes:summary>
+      <itunes:duration>00:22:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-2c6aac.mp3" length="22003629" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
