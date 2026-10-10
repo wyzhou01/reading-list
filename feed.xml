@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 05:30:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 05:37:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31139,6 +31139,17 @@
       <itunes:duration>00:23:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-385e28.mp3" length="22564269" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《旺多姆的丽兹》 · 完整版 · 旺多姆的丽兹 · 完整讲读</title>
+      <description>本书讲述了巴黎旺多姆广场丽兹大酒店从一八九八年开业到一九四四年解放的近半个世纪史。作者以一家酒店为切口，把两次大战之间的奢华、占领时期的通敌与抵抗、以及战后欧洲秩序的诞生熔于一炉。香奈儿与德国外交官的同居、戈林在套房里挑选被掠夺的艺术品、海明威端着酒杯宣布解放巴黎——这些历史碎片在旋转门里交汇。书中揭示，洗白是一门产业，掠夺有其政治逻辑，而真正的代价往往由女性和普通人承担。这本书是一面镜子，照出二十世纪欧洲最深处的欲望、背叛与死亡。</description>
+      <pubDate>Sat, 10 Oct 2026 05:37:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-244559</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书讲述了巴黎旺多姆广场丽兹大酒店从一八九八年开业到一九四四年解放的近半个世纪史。作者以一家酒店为切口，把两次大战之间的奢华、占领时期的通敌与抵抗、以及战后欧洲秩序的诞生熔于一炉。香奈儿与德国外交官的同居、戈林在套房里挑选被掠夺的艺术品、海明威端着酒杯宣布解放巴黎——这些历史碎片在旋转门里交汇。书中揭示，洗白是一门产业，掠夺有其政治逻辑，而真正的代价往往由女性和普通人承担。这本书是一面镜子，照出二十世纪欧洲最深处的欲望、背叛与死亡。</itunes:summary>
+      <itunes:duration>00:35:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-244559.mp3" length="34492845" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
