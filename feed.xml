@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 23:33:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 23:42:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31898,6 +31898,17 @@
       <itunes:duration>00:37:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-c67b43.mp3" length="36248493" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《查泰莱夫人的情人》 · 完整版 · 査太莱夫人的情人_外研社 · 完整讲读</title>
+      <description>《查泰莱夫人的情人》讲述贵族夫人康妮在冰冷庄园中枯萎的灵魂如何被底层猎场看守梅勒斯唤醒。劳伦斯借这段跨越阶级的爱情，追问工业时代人如何重获生命力——答案是回归身体感受、打破社会枷锁、承担自由选择的代价。这部曾被列为禁书的经典，至今仍是关于人性觉醒最深刻的寓言。</description>
+      <pubDate>Sat, 10 Oct 2026 23:41:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-74651f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《查泰莱夫人的情人》讲述贵族夫人康妮在冰冷庄园中枯萎的灵魂如何被底层猎场看守梅勒斯唤醒。劳伦斯借这段跨越阶级的爱情，追问工业时代人如何重获生命力——答案是回归身体感受、打破社会枷锁、承担自由选择的代价。这部曾被列为禁书的经典，至今仍是关于人性觉醒最深刻的寓言。</itunes:summary>
+      <itunes:duration>00:24:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-74651f.mp3" length="23056557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
