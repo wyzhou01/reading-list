@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 18:21:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 18:26:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31788,6 +31788,17 @@
       <itunes:duration>00:23:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-8d48be.mp3" length="22376877" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《货币大师》 · 完整版 · 货币大师 · 完整讲读</title>
+      <description>《货币大师》讲述了罗斯福与凯恩斯如何在一九三三年至一九四四年间联手终结大萧条、击败法西斯并奠定战后繁荣的历史。作者罗威以详实的史料与流畅的笔触，揭示了货币改革如何从一项技术议题升华为关乎国家命运与国际秩序的根本命题。从宣布放弃金本位制、主动管理货币供给，到签署三国货币协定、推动布雷顿森林会议召开，两位逃脱大师用十二年的实践证明：货币从来不只是技术问题，而是政治问题、道德问题、关乎一国文明存续的根本问题。</description>
+      <pubDate>Sat, 10 Oct 2026 18:26:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-c3a8ce</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《货币大师》讲述了罗斯福与凯恩斯如何在一九三三年至一九四四年间联手终结大萧条、击败法西斯并奠定战后繁荣的历史。作者罗威以详实的史料与流畅的笔触，揭示了货币改革如何从一项技术议题升华为关乎国家命运与国际秩序的根本命题。从宣布放弃金本位制、主动管理货币供给，到签署三国货币协定、推动布雷顿森林会议召开，两位逃脱大师用十二年的实践证明：货币从来不只是技术问题，而是政治问题、道德问题、关乎一国文明存续的根本问题。</itunes:summary>
+      <itunes:duration>00:27:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-c3a8ce.mp3" length="26487981" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
