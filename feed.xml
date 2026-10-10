@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 02:51:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 02:59:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31007,6 +31007,17 @@
       <itunes:duration>00:45:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-43fca5.mp3" length="43221933" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《克罗谈投资策略》 · 完整版 · 克罗谈投资策略 · 完整讲读</title>
+      <description>《克罗谈投资策略》是华尔街期货大师斯坦利·克罗写于一九九四年的实战手册，核心只有一句话：先学会不亏钱，再谈赚钱。全书围绕墨菲法则展开，强调每一笔头寸必须设止损、单一品种仓位不超过账户的25%到35%、资金分散到十个左右的市场，并提出顺势而为、金字塔加仓、绝不在亏损头寸上平均补仓的纪律。克罗把杰西·利沃默的智慧、孙子兵法的哲学和自己三十三年的实战经验熔为一炉，把交易拆解为七个可重复的环节：从判断趋势方向到设定止损、计算头寸、逐步加仓、最终离场，构成一套任何人都可以照着做的清单。本书既是期货交易者的必读经典，也适合普通股民，因为它讲的从来不是预测市场，而是约束自己。</description>
+      <pubDate>Sat, 10 Oct 2026 02:59:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-b1bdb1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《克罗谈投资策略》是华尔街期货大师斯坦利·克罗写于一九九四年的实战手册，核心只有一句话：先学会不亏钱，再谈赚钱。全书围绕墨菲法则展开，强调每一笔头寸必须设止损、单一品种仓位不超过账户的25%到35%、资金分散到十个左右的市场，并提出顺势而为、金字塔加仓、绝不在亏损头寸上平均补仓的纪律。克罗把杰西·利沃默的智慧、孙子兵法的哲学和自己三十三年的实战经验熔为一炉，把交易拆解为七个可重复的环节：从判断趋势方向到设定止损、计算头寸、逐步加仓、最终离场，构成一套任何人都可以照着做的清单。本书既是期货交易者的必读经典，也适合普通股民，因为它讲的从来不是预测市场，而是约束自己。</itunes:summary>
+      <itunes:duration>00:25:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-b1bdb1.mp3" length="24538413" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
