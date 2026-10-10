@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 08:13:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 08:24:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31403,6 +31403,17 @@
       <itunes:duration>00:23:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-a40f72.mp3" length="22959405" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《爱的进程》 · 完整版 · 爱的进程-[加]艾丽丝·门罗（译林出版社）（正版）（少于10人） · 完整讲读</title>
+      <description>《爱的进程》是二零一三年诺贝尔文学奖得主艾丽丝·门罗的代表作，全书十一个短篇，写小镇女人一生的转折点。从一通告知母亲去世的电话开始，门罗带你穿过十三岁撞见母亲脖子上绳索的早晨、贴墙纸时听老歌的夏日、机场里与飞行员的坠入情网、圣诞夜雪地里的老夫妻——没有英雄，没有奇迹，只有人心一点点凉下去的真相。门罗把三十年没说出口的一句话藏进一顿普通晚餐，让我们看见爱是如何从期待变形成失望，从沉默渗成骨头里的毒，又是如何在所有黑暗之后幸存下来。如果你心里有一个从未讲过的故事，这本书会替你把灯打开。</description>
+      <pubDate>Sat, 10 Oct 2026 08:23:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-d1c84b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《爱的进程》是二零一三年诺贝尔文学奖得主艾丽丝·门罗的代表作，全书十一个短篇，写小镇女人一生的转折点。从一通告知母亲去世的电话开始，门罗带你穿过十三岁撞见母亲脖子上绳索的早晨、贴墙纸时听老歌的夏日、机场里与飞行员的坠入情网、圣诞夜雪地里的老夫妻——没有英雄，没有奇迹，只有人心一点点凉下去的真相。门罗把三十年没说出口的一句话藏进一顿普通晚餐，让我们看见爱是如何从期待变形成失望，从沉默渗成骨头里的毒，又是如何在所有黑暗之后幸存下来。如果你心里有一个从未讲过的故事，这本书会替你把灯打开。</itunes:summary>
+      <itunes:duration>00:34:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-d1c84b.mp3" length="33438765" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
