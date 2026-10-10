@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 08:07:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 08:13:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31392,6 +31392,17 @@
       <itunes:duration>00:31:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-02ee1c.mp3" length="30298797" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《十一种孤独》 · 完整版 · 十一种孤独_by_[美]_理查德·耶茨 · 完整讲读</title>
+      <description>《十一种孤独》是美国作家理查德·耶茨的处女作短篇小说集，被《纽约时报》誉为纽约的《都柏林人》。全书通过十一个普通人的故事，写尽战后美国的精神荒原：转学受欺的小学生、被孤立的女教师、即将被解雇的白领、郁郁不得志的年轻作家、酗酒的退役军人、遭羞辱的爵士钢琴手……他们渴望进入某个世界——教室、军队、家庭、职场——却始终被拒之门外。耶茨用冷峻克制的笔触揭示：孤独从不靠事件定义，而靠沉默定义；失败是生活的常态，救赎却不会凭空降临。这本书写于六十多年前的纽约，却精准映照着每一个在地铁末班车、在合租屋、在格子间里感到格格不入的人。读完它，你会看清生活的真相，也依然值得活下去。</description>
+      <pubDate>Sat, 10 Oct 2026 08:13:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-a40f72</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《十一种孤独》是美国作家理查德·耶茨的处女作短篇小说集，被《纽约时报》誉为纽约的《都柏林人》。全书通过十一个普通人的故事，写尽战后美国的精神荒原：转学受欺的小学生、被孤立的女教师、即将被解雇的白领、郁郁不得志的年轻作家、酗酒的退役军人、遭羞辱的爵士钢琴手……他们渴望进入某个世界——教室、军队、家庭、职场——却始终被拒之门外。耶茨用冷峻克制的笔触揭示：孤独从不靠事件定义，而靠沉默定义；失败是生活的常态，救赎却不会凭空降临。这本书写于六十多年前的纽约，却精准映照着每一个在地铁末班车、在合租屋、在格子间里感到格格不入的人。读完它，你会看清生活的真相，也依然值得活下去。</itunes:summary>
+      <itunes:duration>00:23:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-a40f72.mp3" length="22959405" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
