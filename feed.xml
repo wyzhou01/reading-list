@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 10:12:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 10:18:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31579,6 +31579,17 @@
       <itunes:duration>00:30:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-b2607d.mp3" length="29082669" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大丈夫之词（增补本）》 · 完整版 · 大丈夫之词（增补本） · 完整讲读</title>
+      <description>本书是范曾先生的文史哲艺散文集增补本，以“大丈夫”为红线，串联辛稼轩的词、八大山人的画、王国维的学问、陈省身的人品、王阳明与笛卡尔的哲学、戴高乐的肩章、罗丹的雕塑、米开朗基罗的天才。范曾以诗性笔法、史学浩瀚、哲学睿智，赞颂那些挺起民族脊梁的伟人，将审美意境、知性境界与道德追求融为一体。它既是一份精神的答卷，也是一面照见自我的镜子——告诉你真正的伟大从不是顺境中的安逸，而是逆境中的不屈。</description>
+      <pubDate>Sat, 10 Oct 2026 10:18:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-fcb627</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是范曾先生的文史哲艺散文集增补本，以“大丈夫”为红线，串联辛稼轩的词、八大山人的画、王国维的学问、陈省身的人品、王阳明与笛卡尔的哲学、戴高乐的肩章、罗丹的雕塑、米开朗基罗的天才。范曾以诗性笔法、史学浩瀚、哲学睿智，赞颂那些挺起民族脊梁的伟人，将审美意境、知性境界与道德追求融为一体。它既是一份精神的答卷，也是一面照见自我的镜子——告诉你真正的伟大从不是顺境中的安逸，而是逆境中的不屈。</itunes:summary>
+      <itunes:duration>00:21:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-fcb627.mp3" length="21040941" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
