@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 00:12:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 00:20:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30787,6 +30787,17 @@
       <itunes:duration>00:28:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-14b7a0.mp3" length="27442221" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《國史大綱》 · 完整版 · 钱穆作品：国史大纲（上下册，繁体，精排） · 完整讲读</title>
+      <description>錢穆《國史大綱》出版於一九四〇年抗戰最艱苦之際，是一部從黃帝傳說貫至民國建國的中國通史。本書以溫情與敬意為底色，反對虛無與激進，主張從國家民族內部自身求其獨特精神。錢先生指出，中國文化以和平得進展，國家立於士人政府與考試銓選之上，學術早脫宗教與政治之羈絆而立，近百年之四步革命則步步離開本國歷史的真問題。書中對歷代政治、學術、社會形態之變遷逐一考論，最終落在三民主義為中華民族建國完成之惟一路向。八十多年過去，本書仍是中文世界通史寫作的標杆之一，值得每個國民從頭讀完。</description>
+      <pubDate>Sat, 10 Oct 2026 00:19:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-0ae5f3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>錢穆《國史大綱》出版於一九四〇年抗戰最艱苦之際，是一部從黃帝傳說貫至民國建國的中國通史。本書以溫情與敬意為底色，反對虛無與激進，主張從國家民族內部自身求其獨特精神。錢先生指出，中國文化以和平得進展，國家立於士人政府與考試銓選之上，學術早脫宗教與政治之羈絆而立，近百年之四步革命則步步離開本國歷史的真問題。書中對歷代政治、學術、社會形態之變遷逐一考論，最終落在三民主義為中華民族建國完成之惟一路向。八十多年過去，本書仍是中文世界通史寫作的標杆之一，值得每個國民從頭讀完。</itunes:summary>
+      <itunes:duration>00:29:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-0ae5f3.mp3" length="28631085" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
