@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 09:49:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 09:56:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31546,6 +31546,17 @@
       <itunes:duration>00:30:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-e5e267.mp3" length="29088429" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《致命魔术》 · 完整版 · 致命魔术 · 完整讲读</title>
+      <description>《致命魔术》是英国作家克里斯托弗·普瑞斯特一九九五年的代表作，借由双胞胎魔术师跨越百年的对决，探讨身份、复制与复仇的边界。故事以当代记者安迪追查身世为引子，逐步揭开博登与安吉尔两个家族在维多利亚时代为争夺【新瞬间转移】魔术秘密所犯下的连环杀人案。普瑞斯特借由一台伪装成魔术道具的人体复制机、一条靠血缘感应的复仇链条、一笔无法清偿的家族身份债务，预言了克隆时代的伦理困境：当技术可以复制一个人，复仇也将被无限复制。本书是元小说与历史悬疑结合的典范，二零零六年被诺兰改编为同名电影，但小说中关于安迪与凯特更幽暗的追寻线索，并未在电影中完整呈现。</description>
+      <pubDate>Sat, 10 Oct 2026 09:56:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-ac901a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《致命魔术》是英国作家克里斯托弗·普瑞斯特一九九五年的代表作，借由双胞胎魔术师跨越百年的对决，探讨身份、复制与复仇的边界。故事以当代记者安迪追查身世为引子，逐步揭开博登与安吉尔两个家族在维多利亚时代为争夺【新瞬间转移】魔术秘密所犯下的连环杀人案。普瑞斯特借由一台伪装成魔术道具的人体复制机、一条靠血缘感应的复仇链条、一笔无法清偿的家族身份债务，预言了克隆时代的伦理困境：当技术可以复制一个人，复仇也将被无限复制。本书是元小说与历史悬疑结合的典范，二零零六年被诺兰改编为同名电影，但小说中关于安迪与凯特更幽暗的追寻线索，并未在电影中完整呈现。</itunes:summary>
+      <itunes:duration>00:30:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-ac901a.mp3" length="29434797" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
