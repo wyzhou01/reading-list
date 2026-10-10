@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 05:37:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 05:42:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31150,6 +31150,17 @@
       <itunes:duration>00:35:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-244559.mp3" length="34492845" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《隐形解体的传说》 · 完整版 · 隐形解体的传说 · 完整讲读</title>
+      <description>《隐形解体的传说》是暗布烧所著的民俗悬疑推理长篇，主角涂小姐与朱先生深入西北荒漠，调查神婆荷大师的骗局，却牵出围绕祖坟、抚恤金、家族内斗与伪装的连环迷局。小说以腹语、二鬼打架、隐形解体等江湖杂耍为表，以家族利益与亲人疏离为里，层层拆解出一桩为独吞老兵抚恤金而隐瞒老人死讯、伪造神迹、最后自相残杀的荒诞命案。</description>
+      <pubDate>Sat, 10 Oct 2026 05:42:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-fa808d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《隐形解体的传说》是暗布烧所著的民俗悬疑推理长篇，主角涂小姐与朱先生深入西北荒漠，调查神婆荷大师的骗局，却牵出围绕祖坟、抚恤金、家族内斗与伪装的连环迷局。小说以腹语、二鬼打架、隐形解体等江湖杂耍为表，以家族利益与亲人疏离为里，层层拆解出一桩为独吞老兵抚恤金而隐瞒老人死讯、伪造神迹、最后自相残杀的荒诞命案。</itunes:summary>
+      <itunes:duration>00:19:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-fa808d.mp3" length="18521517" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
