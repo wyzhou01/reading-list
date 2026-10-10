@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 00:32:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 00:40:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30820,6 +30820,17 @@
       <itunes:duration>00:32:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-42dcfb.mp3" length="31180461" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《不得贪胜》 · 完整版 · 不得贪胜 · 完整讲读</title>
+      <description>《不得贪胜》是围棋世界冠军李昌镐三十六岁时的自传。他六岁随爷爷入门，十一岁入段，十七岁登顶世界冠军，统治棋坛二十年。这本书从童年学棋、拜师曹薰铉、入段登顶、缔造李昌镐时代，一直写到瓶颈与转型。他把【不得贪胜】这句中国古棋谚，从棋盘扩展到人生全领域——克制冲动、掌控节奏、接受失败、厚实均衡、团队比【我】更重要。在焦虑与内卷成为普遍情绪的今天，这本书告诉我们：真正的胜利，不是赢下所有，而是赢的时候不变成自己讨厌的人。</description>
+      <pubDate>Sat, 10 Oct 2026 00:40:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-0c9703</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《不得贪胜》是围棋世界冠军李昌镐三十六岁时的自传。他六岁随爷爷入门，十一岁入段，十七岁登顶世界冠军，统治棋坛二十年。这本书从童年学棋、拜师曹薰铉、入段登顶、缔造李昌镐时代，一直写到瓶颈与转型。他把【不得贪胜】这句中国古棋谚，从棋盘扩展到人生全领域——克制冲动、掌控节奏、接受失败、厚实均衡、团队比【我】更重要。在焦虑与内卷成为普遍情绪的今天，这本书告诉我们：真正的胜利，不是赢下所有，而是赢的时候不变成自己讨厌的人。</itunes:summary>
+      <itunes:duration>00:35:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-0c9703.mp3" length="33955245" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
