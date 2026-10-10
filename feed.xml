@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 01:12:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 01:20:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30886,6 +30886,17 @@
       <itunes:duration>00:26:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-8b2ee7.mp3" length="25430829" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《情节与人物：找到伟大小说的平衡点》 · 完整版 · 情节与人物 · 完整讲读</title>
+      <description>杰夫·格尔克的《情节与人物》提出了一个核心写作模型:情节是人物心路历程的外化。小说家分两类,情节至上型与人物至上型,前者人物扁平,后者情节涣散。解药是心结与关键时刻模型:先定核心性格,再挖心结,设计心路历程,外化成三幕式情节。表里如一,小说才能既精彩又难忘。</description>
+      <pubDate>Sat, 10 Oct 2026 01:20:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-ac6f21</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>杰夫·格尔克的《情节与人物》提出了一个核心写作模型:情节是人物心路历程的外化。小说家分两类,情节至上型与人物至上型,前者人物扁平,后者情节涣散。解药是心结与关键时刻模型:先定核心性格,再挖心结,设计心路历程,外化成三幕式情节。表里如一,小说才能既精彩又难忘。</itunes:summary>
+      <itunes:duration>00:28:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-ac6f21.mp3" length="27755565" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
