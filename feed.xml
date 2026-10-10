@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 23:10:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 23:17:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31865,6 +31865,17 @@
       <itunes:duration>00:34:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-6091cb.mp3" length="33403437" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《去台北》 · 完整版 · 去台北 · 完整讲读</title>
+      <description>《去台北》由大陆资深媒体人夏雨清主编，请来舒国治、焦桐、陈升、钮承泽等台北在地达人带路，从贪吃的小吃、穿越百年的大稻埕老街，到旧书店与独立影院，分四大板块把台北那种淡然慢生活的脾气一层一层剥给读者看。台北的诱人，不在风景，而在那种藏龙卧虎的街巷日常——一碗面、一壶茶、一家老书店，只要找对引路人，就足以让人爱上这座城。</description>
+      <pubDate>Sat, 10 Oct 2026 23:17:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-148fdc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《去台北》由大陆资深媒体人夏雨清主编，请来舒国治、焦桐、陈升、钮承泽等台北在地达人带路，从贪吃的小吃、穿越百年的大稻埕老街，到旧书店与独立影院，分四大板块把台北那种淡然慢生活的脾气一层一层剥给读者看。台北的诱人，不在风景，而在那种藏龙卧虎的街巷日常——一碗面、一壶茶、一家老书店，只要找对引路人，就足以让人爱上这座城。</itunes:summary>
+      <itunes:duration>00:33:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-148fdc.mp3" length="32272173" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
