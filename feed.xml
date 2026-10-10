@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 02:04:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 02:12:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30963,6 +30963,17 @@
       <itunes:duration>00:34:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-c51c90.mp3" length="33068973" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《时光之轮08-匕之道》 · 完整版 · 时光之轮08-匕之道 · 完整讲读</title>
+      <description>《时光之轮》系列倒数第二部《匕之道》,在世界末日前夕迎来三条主线的总交汇。艾雯带领流亡两仪师穿越暴风雪向塔瓦隆挺进,以政治手腕与裁定会周旋,布伦将军公开押注于她。佩林在异乡与堕落的导师马希玛展开宿命对决,完成领袖的蜕变。佩林之妻菲儿在敌营中挣扎求存。因缘织物在每个人手中继续编织,末世只奖励那些愿意承担的人——无论他承担的是一个帝国,还是一杯热葡萄酒。</description>
+      <pubDate>Sat, 10 Oct 2026 02:11:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-92ee00</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《时光之轮》系列倒数第二部《匕之道》,在世界末日前夕迎来三条主线的总交汇。艾雯带领流亡两仪师穿越暴风雪向塔瓦隆挺进,以政治手腕与裁定会周旋,布伦将军公开押注于她。佩林在异乡与堕落的导师马希玛展开宿命对决,完成领袖的蜕变。佩林之妻菲儿在敌营中挣扎求存。因缘织物在每个人手中继续编织,末世只奖励那些愿意承担的人——无论他承担的是一个帝国,还是一杯热葡萄酒。</itunes:summary>
+      <itunes:duration>00:29:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-92ee00.mp3" length="28434477" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
