@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 01:20:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 01:27:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30897,6 +30897,17 @@
       <itunes:duration>00:28:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-ac6f21.mp3" length="27755565" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《旅行不是一味药：从波罗的海到地中海》 · 完整版 · 旅行不是一味药：从波罗的海到地中海 · 完整讲读</title>
+      <description>《旅行不是一味药：从波罗的海到地中海》是李贤文在瑞典隆德大学求学一年半的旅行记录。他用沙发客与廉价航空的方式，走过克拉科夫、布拉格、罗马、威尼斯、尼斯、巴黎、伊瓦尔等二十余座欧洲城市。全书以六个核心洞察串联：旅行不解决任何人生问题、成为自己的探险家、地理是心绪的隐喻、人是旅行的尺度、冰与火的平衡、终要学会告别。书中不教订机票、不教打卡景点，只教你在异乡的寒夜、酒精与陌生人中慢慢长成自己。这是一本写给所有曾以为远方能解千愁、又最终回归庸常生活的普通人的书。它说：旅行从来不是包治百病的药方，唯有保持出发的渴望，才能不被庸常吞没。十多年过去，今天读来依然值得。</description>
+      <pubDate>Sat, 10 Oct 2026 01:27:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-9a5f21</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《旅行不是一味药：从波罗的海到地中海》是李贤文在瑞典隆德大学求学一年半的旅行记录。他用沙发客与廉价航空的方式，走过克拉科夫、布拉格、罗马、威尼斯、尼斯、巴黎、伊瓦尔等二十余座欧洲城市。全书以六个核心洞察串联：旅行不解决任何人生问题、成为自己的探险家、地理是心绪的隐喻、人是旅行的尺度、冰与火的平衡、终要学会告别。书中不教订机票、不教打卡景点，只教你在异乡的寒夜、酒精与陌生人中慢慢长成自己。这是一本写给所有曾以为远方能解千愁、又最终回归庸常生活的普通人的书。它说：旅行从来不是包治百病的药方，唯有保持出发的渴望，才能不被庸常吞没。十多年过去，今天读来依然值得。</itunes:summary>
+      <itunes:duration>00:26:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-9a5f21.mp3" length="25185453" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
