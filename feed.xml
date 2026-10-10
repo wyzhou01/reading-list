@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 09:42:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 09:49:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31535,6 +31535,17 @@
       <itunes:duration>00:26:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-0cf3f1.mp3" length="24988461" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《薛定谔讲演录》 · 完整版 · 薛定谔讲演录_-_E·薛定谔 · 完整讲读</title>
+      <description>本集带你一口气读完《薛定谔讲演录》。从薛定谔一九二六年连续发表的四篇革命性论文讲起,看他如何把量子化问题转化为波动方程的本征值问题;走进波函数的概率诠释,理解为什么波不是实在的波,而是关于测量的预言;最后抵达狄拉克的诺贝尔讲演词,看他如何用相对论性方程预言当时还未被发现的正电子,以及由反物质构成的星球。从氢原子能级到反物质预言,这是二十世纪物理学最激动人心的一段旅程。</description>
+      <pubDate>Sat, 10 Oct 2026 09:49:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-e5e267</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本集带你一口气读完《薛定谔讲演录》。从薛定谔一九二六年连续发表的四篇革命性论文讲起,看他如何把量子化问题转化为波动方程的本征值问题;走进波函数的概率诠释,理解为什么波不是实在的波,而是关于测量的预言;最后抵达狄拉克的诺贝尔讲演词,看他如何用相对论性方程预言当时还未被发现的正电子,以及由反物质构成的星球。从氢原子能级到反物质预言,这是二十世纪物理学最激动人心的一段旅程。</itunes:summary>
+      <itunes:duration>00:30:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-e5e267.mp3" length="29088429" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
