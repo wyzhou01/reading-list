@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 18:59:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 19:05:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31854,6 +31854,17 @@
       <itunes:duration>00:32:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-623e39.mp3" length="31486125" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《殡葬人的秘密：雷·布拉德伯里短篇自选集（第3卷）》 · 完整版 · 殡葬人的秘密：雷布拉德伯里短篇自选集（第3卷）_(幻象文库) · 完整讲读</title>
+      <description>本期《好好读书》为你完整讲读雷·布拉德伯里短篇自选集第三卷《殡葬人的秘密》。布拉德伯里生于一九二零年，没上过大学，十二岁便开始写作，被许多人誉为二十世纪最重要的科幻作家之一，但他更愿意被称为幻想作家。本卷收录二十二篇短篇，时间跨度从一九四零年代到二零零零年代，每一个故事背后都有一个真实的触发点：爱尔兰酒吧里的一杯威士忌、一双新网球鞋、一则小演员的讣告。我们从中看见三个核心主题：童年与想象力如何成为抵抗冷酷世界的武器，死亡如何被日常化，幻想与现实的裂缝如何一次次撕开生活。当孩子用平底锅和螺丝刀发动入侵，他们其实在练习怎么活；当殡葬人轻描淡写地交代葬礼流程，他其实在告诉我们死亡只是人生的一个站点。布拉德伯里用整个写作生涯证明：对生命最大的敬意，不是把它供奉在高高的祭坛上，而是把它放回该在的位置——客厅里、餐桌边、孩子的奔跑中、和爱人碰杯的那个黄昏里。</description>
+      <pubDate>Sat, 10 Oct 2026 19:05:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-b8bdf3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期《好好读书》为你完整讲读雷·布拉德伯里短篇自选集第三卷《殡葬人的秘密》。布拉德伯里生于一九二零年，没上过大学，十二岁便开始写作，被许多人誉为二十世纪最重要的科幻作家之一，但他更愿意被称为幻想作家。本卷收录二十二篇短篇，时间跨度从一九四零年代到二零零零年代，每一个故事背后都有一个真实的触发点：爱尔兰酒吧里的一杯威士忌、一双新网球鞋、一则小演员的讣告。我们从中看见三个核心主题：童年与想象力如何成为抵抗冷酷世界的武器，死亡如何被日常化，幻想与现实的裂缝如何一次次撕开生活。当孩子用平底锅和螺丝刀发动入侵，他们其实在练习怎么活；当殡葬人轻描淡写地交代葬礼流程，他其实在告诉我们死亡只是人生的一个站点。布拉德伯里用整个写作生涯证明：对生命最大的敬意，不是把它供奉在高高的祭坛上，而是把它放回该在的位置——客厅里、餐桌边、孩子的奔跑中、和爱人碰杯的那个黄昏里。</itunes:summary>
+      <itunes:duration>00:24:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-b8bdf3.mp3" length="23774253" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
