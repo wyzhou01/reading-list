@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 07:47:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 07:54:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31359,6 +31359,17 @@
       <itunes:duration>00:23:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-72301b.mp3" length="22300845" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《认知升级》 · 完整版 · 认知升级 · 完整讲读</title>
+      <description>在《认知升级》这本书里，密歇根大学心理学教授理查德·尼斯贝特用通俗的语言，把近几十年心理学、遗传学和神经科学积累的新证据，整合成了一个清晰而振奋的结论：智力不是老天给的固定数字，而是被学校、家庭和文化塑造出来的草稿。书中系统驳斥了二十世纪流行的智力遗传决定论，介绍了弗林效应——人类平均智商每一代人涨十五分的事实，剖析了学校、家庭和文化对认知能力的真实影响，论证了黑人与白人之间的智力差距完全由环境造成，并给出了提升自身和孩子智力的具体可操作方法。这是一本写给所有关心教育、关心下一代、关心自我成长的读者的乐观主义手册。</description>
+      <pubDate>Sat, 10 Oct 2026 07:54:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-8f2b71</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>在《认知升级》这本书里，密歇根大学心理学教授理查德·尼斯贝特用通俗的语言，把近几十年心理学、遗传学和神经科学积累的新证据，整合成了一个清晰而振奋的结论：智力不是老天给的固定数字，而是被学校、家庭和文化塑造出来的草稿。书中系统驳斥了二十世纪流行的智力遗传决定论，介绍了弗林效应——人类平均智商每一代人涨十五分的事实，剖析了学校、家庭和文化对认知能力的真实影响，论证了黑人与白人之间的智力差距完全由环境造成，并给出了提升自身和孩子智力的具体可操作方法。这是一本写给所有关心教育、关心下一代、关心自我成长的读者的乐观主义手册。</itunes:summary>
+      <itunes:duration>00:27:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-8f2b71.mp3" length="26099373" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
