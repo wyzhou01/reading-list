@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 05:52:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 05:57:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31183,6 +31183,17 @@
       <itunes:duration>00:31:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-8cfda9.mp3" length="30223533" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《蔷薇之名》 · 完整版 · 蔷薇之名 · 完整讲读</title>
+      <description>《蔷薇之名》是紫微流年二零一三年发表于晋江文学城的西方架空虐恋史诗，以西尔帝国一八八四年为背景，讲述公爵之女林伊兰因家族倾轧被贬入底层军队，与贫民窟叛乱少年菲戈在水牢与战场上错位相遇、十年后于帝国权力中枢重逢的故事。全书以阶级、权力、记忆、牺牲、重逢为核心命题，番外以断头台与铜像的对照收束，被誉为虐恋文的天花板，是女性向网文里悲剧美学与史诗感兼具的经典之作。</description>
+      <pubDate>Sat, 10 Oct 2026 05:57:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-166f74</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《蔷薇之名》是紫微流年二零一三年发表于晋江文学城的西方架空虐恋史诗，以西尔帝国一八八四年为背景，讲述公爵之女林伊兰因家族倾轧被贬入底层军队，与贫民窟叛乱少年菲戈在水牢与战场上错位相遇、十年后于帝国权力中枢重逢的故事。全书以阶级、权力、记忆、牺牲、重逢为核心命题，番外以断头台与铜像的对照收束，被誉为虐恋文的天花板，是女性向网文里悲剧美学与史诗感兼具的经典之作。</itunes:summary>
+      <itunes:duration>00:18:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-166f74.mp3" length="17700525" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
