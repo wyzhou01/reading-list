@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 00:02:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 00:12:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30776,6 +30776,17 @@
       <itunes:duration>00:23:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-760cd3.mp3" length="22593069" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《长声闲话：阿Q的长凳》 · 完整版 · 长声闲话：阿Q的长凳(长生闲话) · 完整讲读</title>
+      <description>《阿Q的长凳》是旅日学者李长声的随笔集，以细腻笔触审视日本的名号源流、自然象征、语言文字、传统艺术、现代生活以及社会百态。全书通过历史典故、诗词歌赋、日常细节与当代见闻，交织出中日两国的文化镜像，揭示日本民族在‘日出之国’自我定位中的二重性，并借此反思东方文化的共通与差异，兼具学术深度与文学趣味。书中各篇短文兼具学术性与可读性，既有宏观比较，也有微观观察，使读者在轻松阅读中获得对日本文化的深层认识。</description>
+      <pubDate>Sat, 10 Oct 2026 00:12:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-14b7a0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《阿Q的长凳》是旅日学者李长声的随笔集，以细腻笔触审视日本的名号源流、自然象征、语言文字、传统艺术、现代生活以及社会百态。全书通过历史典故、诗词歌赋、日常细节与当代见闻，交织出中日两国的文化镜像，揭示日本民族在‘日出之国’自我定位中的二重性，并借此反思东方文化的共通与差异，兼具学术深度与文学趣味。书中各篇短文兼具学术性与可读性，既有宏观比较，也有微观观察，使读者在轻松阅读中获得对日本文化的深层认识。</itunes:summary>
+      <itunes:duration>00:28:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-14b7a0.mp3" length="27442221" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
