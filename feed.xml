@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 18:09:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 18:16:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31766,6 +31766,17 @@
       <itunes:duration>00:36:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-055b32.mp3" length="35035437" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《新航道·英语语法红宝书》 · 完整版 · 新航道•英语语法红宝书 · 完整讲读</title>
+      <description>《新航道英语语法红宝书》由胡敏主编，是一本面向中国学习者的实战型语法工具书。全书二十四章按词法与句法两条主线系统梳理英语语法，从单词分类、词类转换等基础规则，到动词时态、被动语态、动名词与分词等核心板块，再到定语从句、状语从句、名词从句、强调与倒装等高阶结构，构成一套从底层到顶层的完整语法体系。本书的最大特点在于打破传统语法书的两个困境——规则罗列枯燥、脱离语境难用——精选名人名言和哲理佳句作为例句，让每一条规则都有真实语言土壤；章末配实战演练，让读者从练习中贯通规则，做到融语法于句、从练中贯通。对于已有基础、希望系统补全语法体系、提升长难句分析与写作表达能力的学习者，这是一本兼顾查检与精读的案头必备书。</description>
+      <pubDate>Sat, 10 Oct 2026 18:16:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-f84ea1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《新航道英语语法红宝书》由胡敏主编，是一本面向中国学习者的实战型语法工具书。全书二十四章按词法与句法两条主线系统梳理英语语法，从单词分类、词类转换等基础规则，到动词时态、被动语态、动名词与分词等核心板块，再到定语从句、状语从句、名词从句、强调与倒装等高阶结构，构成一套从底层到顶层的完整语法体系。本书的最大特点在于打破传统语法书的两个困境——规则罗列枯燥、脱离语境难用——精选名人名言和哲理佳句作为例句，让每一条规则都有真实语言土壤；章末配实战演练，让读者从练习中贯通规则，做到融语法于句、从练中贯通。对于已有基础、希望系统补全语法体系、提升长难句分析与写作表达能力的学习者，这是一本兼顾查检与精读的案头必备书。</itunes:summary>
+      <itunes:duration>00:27:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-f84ea1.mp3" length="25925805" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
