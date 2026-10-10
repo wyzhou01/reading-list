@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 09:06:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 09:12:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31480,6 +31480,17 @@
       <itunes:duration>00:25:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-489c65.mp3" length="24691629" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《幸福，一次哲学之旅》 · 完整版 · 幸福，一次哲学之旅 · 完整讲读</title>
+      <description>《幸福,一次哲学之旅》是法国哲学家弗雷德里克·勒诺瓦写给普通读者的一份幸福答卷。它跨越两千五百年,从佛祖、亚里士多德、伊壁鸠鲁,到庄子、蒙田、斯宾诺莎,重新追问幸福的本质、来源与获取之道。全书的核心洞见是:幸福既不是纯粹运气的恩赐,也不是某种天赋的特权,而是一种可以通过精神修习逐步获得的能力。作者借助现代心理学与神经科学的最新成果,呼应古老的哲学命题,告诉读者:不存在普适的幸福药方,但每个人都能够通过对自我的觉察、对欲望的辨识、对内在世界的关注,慢慢走向一种更深、更稳、更接近本性的幸福。这是一本邀请每一个普通人参与到哲学对话中来的书,适合所有曾在深夜问过自己为什么还是不快乐的现代人。</description>
+      <pubDate>Sat, 10 Oct 2026 09:12:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-2eadf5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《幸福,一次哲学之旅》是法国哲学家弗雷德里克·勒诺瓦写给普通读者的一份幸福答卷。它跨越两千五百年,从佛祖、亚里士多德、伊壁鸠鲁,到庄子、蒙田、斯宾诺莎,重新追问幸福的本质、来源与获取之道。全书的核心洞见是:幸福既不是纯粹运气的恩赐,也不是某种天赋的特权,而是一种可以通过精神修习逐步获得的能力。作者借助现代心理学与神经科学的最新成果,呼应古老的哲学命题,告诉读者:不存在普适的幸福药方,但每个人都能够通过对自我的觉察、对欲望的辨识、对内在世界的关注,慢慢走向一种更深、更稳、更接近本性的幸福。这是一本邀请每一个普通人参与到哲学对话中来的书,适合所有曾在深夜问过自己为什么还是不快乐的现代人。</itunes:summary>
+      <itunes:duration>00:23:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-2eadf5.mp3" length="22698669" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
