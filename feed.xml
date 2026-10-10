@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 05:24:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 05:30:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31128,6 +31128,17 @@
       <itunes:duration>00:31:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-67c62f.mp3" length="30720045" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《老人与海》 · 完整版 · 老人与海（作家榜经典文库） · 完整讲读</title>
+      <description>《老人与海》是海明威一九五二年出版的中篇小说，讲述古巴老渔夫圣地亚哥连续八十四天一无所获后，独自出海三天三夜，钓上一条比船还大的马林鱼，却在归途中被鲨鱼群吃光鱼肉，只带回一根白色脊骨的故事。这部只有几万字的杰作，一九五四年为海明威赢得诺贝尔文学奖，至今仍是人类精神最硬的那块骨头。</description>
+      <pubDate>Sat, 10 Oct 2026 05:30:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-385e28</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《老人与海》是海明威一九五二年出版的中篇小说，讲述古巴老渔夫圣地亚哥连续八十四天一无所获后，独自出海三天三夜，钓上一条比船还大的马林鱼，却在归途中被鲨鱼群吃光鱼肉，只带回一根白色脊骨的故事。这部只有几万字的杰作，一九五四年为海明威赢得诺贝尔文学奖，至今仍是人类精神最硬的那块骨头。</itunes:summary>
+      <itunes:duration>00:23:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-385e28.mp3" length="22564269" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
