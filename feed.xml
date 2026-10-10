@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 08:55:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 09:00:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31458,6 +31458,17 @@
       <itunes:duration>00:16:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-923ffe.mp3" length="15699501" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《偏见者上天堂（中国故事·世相）——盖·特立斯与阿尔多·李奥帕德》 · 完整版 · 偏见者上天堂（中国故事·世相）_-_盖_·_特立斯_与阿尔多_·_李奥帕德 · 完整讲读</title>
+      <description>《偏见者上天堂》收录新新闻写作代表盖·特立斯的《弗兰克·辛纳特拉得了感冒》与生态伦理奠基人阿尔多·莱奥帕德的《沙郡年记》选章。一篇以八十余位身边人的群像侧写逼近拒绝发声的超级巨星，一篇以博物学之眼看四月大水、最小的葶苈与藏着草原战争史的大果栎。两篇看似无关，却在方法论上殊途同归：都承认人无法真正抵达他人或他物，公允是责任而非能力，偏见本身的诚实反而能逼近真实。重读这两篇长文，是一次关于写作伦理、慢速观察与现代性孤独的提醒。</description>
+      <pubDate>Sat, 10 Oct 2026 09:00:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-0a2820</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《偏见者上天堂》收录新新闻写作代表盖·特立斯的《弗兰克·辛纳特拉得了感冒》与生态伦理奠基人阿尔多·莱奥帕德的《沙郡年记》选章。一篇以八十余位身边人的群像侧写逼近拒绝发声的超级巨星，一篇以博物学之眼看四月大水、最小的葶苈与藏着草原战争史的大果栎。两篇看似无关，却在方法论上殊途同归：都承认人无法真正抵达他人或他物，公允是责任而非能力，偏见本身的诚实反而能逼近真实。重读这两篇长文，是一次关于写作伦理、慢速观察与现代性孤独的提醒。</itunes:summary>
+      <itunes:duration>00:21:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-0a2820.mp3" length="20797869" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
