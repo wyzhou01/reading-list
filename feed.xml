@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 03:27:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 03:32:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31062,6 +31062,17 @@
       <itunes:duration>00:27:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-daf7d7.mp3" length="26447277" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《触点管理》 · 完整版 · 触点管理 · 完整讲读</title>
+      <description>《触点管理》由德国人力资源专家安妮·M·许勒尔所著,提出在数字化与社交网络重塑商业的时代,权力已从老板手中悄然转移到员工与客户手中,企业必须从金字塔管控转向由外及内、自下而上的协作模式。书中系统阐述了触点公司与触点经理人、互联网原住民与第五种忠诚、互联网+时代的七项核心任务、以及协作触点管理 CTMP 的四步实操流程。核心洞见是:未来的竞争不是产品与价格的竞争,而是触点与文化的竞争;谁能在每一个真实瞬间打动人,谁就能在数字商业世界里真正立足。</description>
+      <pubDate>Sat, 10 Oct 2026 03:32:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-017bc3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《触点管理》由德国人力资源专家安妮·M·许勒尔所著,提出在数字化与社交网络重塑商业的时代,权力已从老板手中悄然转移到员工与客户手中,企业必须从金字塔管控转向由外及内、自下而上的协作模式。书中系统阐述了触点公司与触点经理人、互联网原住民与第五种忠诚、互联网+时代的七项核心任务、以及协作触点管理 CTMP 的四步实操流程。核心洞见是:未来的竞争不是产品与价格的竞争,而是触点与文化的竞争;谁能在每一个真实瞬间打动人,谁就能在数字商业世界里真正立足。</itunes:summary>
+      <itunes:duration>00:26:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-017bc3.mp3" length="25882413" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
