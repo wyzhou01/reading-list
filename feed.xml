@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 18:52:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 18:59:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31843,6 +31843,17 @@
       <itunes:duration>00:25:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-1b9277.mp3" length="24798381" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《制度之战：战略竞争时代的中美关系》 · 完整版 · 制度之战：战略竞争时代的中美关系 · 完整讲读</title>
+      <description>本书《制度之战：战略竞争时代的中美关系》提出现实制度主义框架，把中美博弈从枪炮叙事重新解读为围绕国际制度主导权的规则竞争。后三个核心洞察聚焦金融与贸易两大真刀真枪的战场：人民币的国际化破局与美元体系护城河、美国以制度再物质化和制度绑定打造的贸易规则模板、中国以平台搭建和议题重构展开的回应，以及制度相容与制度互斥将共同塑造全球治理新格局。</description>
+      <pubDate>Sat, 10 Oct 2026 18:58:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-623e39</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书《制度之战：战略竞争时代的中美关系》提出现实制度主义框架，把中美博弈从枪炮叙事重新解读为围绕国际制度主导权的规则竞争。后三个核心洞察聚焦金融与贸易两大真刀真枪的战场：人民币的国际化破局与美元体系护城河、美国以制度再物质化和制度绑定打造的贸易规则模板、中国以平台搭建和议题重构展开的回应，以及制度相容与制度互斥将共同塑造全球治理新格局。</itunes:summary>
+      <itunes:duration>00:32:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-623e39.mp3" length="31486125" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
