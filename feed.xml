@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 00:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 00:24:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30798,6 +30798,17 @@
       <itunes:duration>00:29:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-0ae5f3.mp3" length="28631085" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《物理科学的哲学》 · 完整版 · 物理科学的哲学_(汉译世界学术名著丛书·15辑)_-_阿瑟·爱丁顿 · 完整讲读</title>
+      <description>《物理科学的哲学》是英国天文学家阿瑟·爱丁顿一九三八年在剑桥三一学院所做的塔纳尔讲座整理稿。在这部与怀特海《过程与实在》齐名的经典中,爱丁顿提出,相对论与量子力学已经彻底改变了科学知识的性质——物理学的对象不再是客观的物质,而是可由数学严格定义的结构;基本规律乃至自然常量都可从认识论原理中推导出来;所谓基本粒子并非被发现的独立实体,而是被概率波塑造的活动规律。他称自己的立场为【主体选择论】或【建构主义】,既反对把物理学降为纯主观的唯心论,也反对把它升为纯客观的形而上学。在书的最后,他坦承科学无法回答价值的难题,并主张一个完整的科学家必须离开知识本身,去寻求更宽广的人性方面的终极证明。本书是二十世纪科学哲学最重要的奠基之作之一,至今仍深刻影响着我们如何看待知识、存在与人生。</description>
+      <pubDate>Sat, 10 Oct 2026 00:24:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-8f1ada</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《物理科学的哲学》是英国天文学家阿瑟·爱丁顿一九三八年在剑桥三一学院所做的塔纳尔讲座整理稿。在这部与怀特海《过程与实在》齐名的经典中,爱丁顿提出,相对论与量子力学已经彻底改变了科学知识的性质——物理学的对象不再是客观的物质,而是可由数学严格定义的结构;基本规律乃至自然常量都可从认识论原理中推导出来;所谓基本粒子并非被发现的独立实体,而是被概率波塑造的活动规律。他称自己的立场为【主体选择论】或【建构主义】,既反对把物理学降为纯主观的唯心论,也反对把它升为纯客观的形而上学。在书的最后,他坦承科学无法回答价值的难题,并主张一个完整的科学家必须离开知识本身,去寻求更宽广的人性方面的终极证明。本书是二十世纪科学哲学最重要的奠基之作之一,至今仍深刻影响着我们如何看待知识、存在与人生。</itunes:summary>
+      <itunes:duration>00:30:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-8f1ada.mp3" length="29467821" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
