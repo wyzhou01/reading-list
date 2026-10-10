@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 23:17:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 23:23:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31876,6 +31876,17 @@
       <itunes:duration>00:33:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-148fdc.mp3" length="32272173" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《迷失哈瓦那》 · 完整版 · 迷失哈瓦那 · 完整讲读</title>
+      <description>《迷失哈瓦那》是美国犯罪小说作家莉比·菲舍尔·赫尔曼二零一五年出版的代表作,讲述意裔美国家族帕切利一家跨越三代人的命运沉浮。一九五八年古巴革命前夜,十八岁的弗朗西斯卡在拉兰帕大街的爆炸中沉默旁观,此后三十年她从哈瓦那赌场走入芝加哥黑帮核心,成为掌控家族的女教母。为追寻一张连接革命前后财富与秘密的神秘地图,她付出儿子与孙女的代价,最终在黎明的灰光里独自上楼。全书以真实历史为骨,以女性野心与流亡乡愁为魂,被誉为古巴版的《教父》与女性视角的《哈瓦那夜曲》。</description>
+      <pubDate>Sat, 10 Oct 2026 23:23:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-3c38a0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《迷失哈瓦那》是美国犯罪小说作家莉比·菲舍尔·赫尔曼二零一五年出版的代表作,讲述意裔美国家族帕切利一家跨越三代人的命运沉浮。一九五八年古巴革命前夜,十八岁的弗朗西斯卡在拉兰帕大街的爆炸中沉默旁观,此后三十年她从哈瓦那赌场走入芝加哥黑帮核心,成为掌控家族的女教母。为追寻一张连接革命前后财富与秘密的神秘地图,她付出儿子与孙女的代价,最终在黎明的灰光里独自上楼。全书以真实历史为骨,以女性野心与流亡乡愁为魂,被誉为古巴版的《教父》与女性视角的《哈瓦那夜曲》。</itunes:summary>
+      <itunes:duration>00:25:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-3c38a0.mp3" length="24557229" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
