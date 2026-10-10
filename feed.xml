@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 10:18:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 10:45:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31590,6 +31590,17 @@
       <itunes:duration>00:21:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-fcb627.mp3" length="21040941" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《汉化佛教法器与服饰》 · 完整版 · 汉化佛教法器与服饰 · 完整讲读</title>
+      <description>白化文先生所著《汉化佛教法器与服饰》，把汉传佛寺看得见、摸得着的器物与衣裳，讲成一部一千九百年的中华文化融合史。全书以鸣器、庄严具、供具、僧服、随身具、念珠为线索，兼顾学术与实用；从梵文木鱼到永乐大钟、从扁磬到圆磬、从印度僧裙到明代圆领方袍，每件器物的形制、源流与汉化轨迹都被交代得清清楚楚。听完本书，您再走进任何汉化佛寺，耳闻百八钟磬、目观金线福田、手转菩提念珠，每一件都能读出故事。</description>
+      <pubDate>Sat, 10 Oct 2026 10:45:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-366d51</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>白化文先生所著《汉化佛教法器与服饰》，把汉传佛寺看得见、摸得着的器物与衣裳，讲成一部一千九百年的中华文化融合史。全书以鸣器、庄严具、供具、僧服、随身具、念珠为线索，兼顾学术与实用；从梵文木鱼到永乐大钟、从扁磬到圆磬、从印度僧裙到明代圆领方袍，每件器物的形制、源流与汉化轨迹都被交代得清清楚楚。听完本书，您再走进任何汉化佛寺，耳闻百八钟磬、目观金线福田、手转菩提念珠，每一件都能读出故事。</itunes:summary>
+      <itunes:duration>00:27:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-366d51.mp3" length="26683821" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
