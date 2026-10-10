@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 08:40:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 08:49:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31436,6 +31436,17 @@
       <itunes:duration>00:36:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-8d1546.mp3" length="34808109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《楚墓》 · 完整版 · 楚墓_-_史杰鹏 · 完整讲读</title>
+      <description>《楚墓》以现代学者方子郊受商人委托回乡建书院为线索，意外卷入两千年前楚国巫师伍生为复活被埋公主而留下的咒语。全书通过木俑、竹简与童谣的层层解密，展现了古今两代人在时间与记忆面前的执念与无力。音韵的扭曲导致复活仪式失败，方子郊最终选择守护当下的生命，揭示了“被遗忘是小人物最深悲哀”的核心命题。</description>
+      <pubDate>Sat, 10 Oct 2026 08:49:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-7bde21</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《楚墓》以现代学者方子郊受商人委托回乡建书院为线索，意外卷入两千年前楚国巫师伍生为复活被埋公主而留下的咒语。全书通过木俑、竹简与童谣的层层解密，展现了古今两代人在时间与记忆面前的执念与无力。音韵的扭曲导致复活仪式失败，方子郊最终选择守护当下的生命，揭示了“被遗忘是小人物最深悲哀”的核心命题。</itunes:summary>
+      <itunes:duration>00:25:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-7bde21.mp3" length="24582957" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
