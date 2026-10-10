@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 19:05:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 23:10:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -27130,7 +27130,6 @@
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261006/episode-20261006-73c6c0.mp3" length="20448429" type="audio/mpeg"/>
     </item>
-    
     <item>
       <title>好好读书 · 《极简主义：活出生命真意》 · 完整版 · 极简主义：活出生命真意(1) · 完整讲读</title>
       <description>《极简主义：活出生命真意》是两位美国职场精英乔舒亚与瑞安的真实故事。他们曾年薪六位数却负债累累，在母亲去世与婚姻破裂后，毅然抛弃高薪与豪宅，转向极简生活。本书指出，消费主义无法填补内心空虚，唯有五大价值——健康、人际关系、热情、成长、奉献——才是有意义人生的底层配方。极简主义不是贫穷或冷清，而是一种减少冗余、回归本质的判断力。当你把时间、金钱与注意力从回报递减的消费中抽出来，投到回报递增的价值上，人生才真正开始复利。这是一本写给被物质主义裹挟、渴望清醒生活的现代人的行动指南。</description>
@@ -31855,6 +31854,17 @@
       <itunes:duration>00:24:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-b8bdf3.mp3" length="23774253" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大树》 · 完整版 · 大树 · 完整讲读</title>
+      <description>《大树》是法国作家韦纳尔·韦尔贝于二〇〇二年前后出版的二十篇短篇科幻寓言合集。他继承《蚂蚁帝国》《天使帝国》以来的核心技法，通过外星人、神祇、未来观察者、不会说话的植物等异族视角，对人类文明进行外科手术般的解剖。书中故事把极端思想实验推到极致：一块臭气熏天的巴黎陨石、一场穿越到路易十四宫廷的时空旅行、一种把人类当成宠物的外星文明、一座强制所有人幸福的极权乌托邦、一个把透明皮肤视作犯罪的未来社会……二十篇寓言横跨科技失控、文明冲突、教育压迫、神学反思等多个维度，反复追问【人类中心主义的傲慢】【面对他者时的倾听能力】【以完美之名施行的隐形极权】。这些命题在今天读来依然锋利，因为它指向的不是某个具体技术或某个具体政策，而是人类物种【追求完美的冲动】本身。韦尔贝借神的视角给出一句反问：在我们之上，是否还有更高维度的神，把我们和神祇一起当成玩物？全书没有给出答案，只留下一座镜子，让每个读者照见自己未解的轮廓。</description>
+      <pubDate>Sat, 10 Oct 2026 23:10:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-6091cb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大树》是法国作家韦纳尔·韦尔贝于二〇〇二年前后出版的二十篇短篇科幻寓言合集。他继承《蚂蚁帝国》《天使帝国》以来的核心技法，通过外星人、神祇、未来观察者、不会说话的植物等异族视角，对人类文明进行外科手术般的解剖。书中故事把极端思想实验推到极致：一块臭气熏天的巴黎陨石、一场穿越到路易十四宫廷的时空旅行、一种把人类当成宠物的外星文明、一座强制所有人幸福的极权乌托邦、一个把透明皮肤视作犯罪的未来社会……二十篇寓言横跨科技失控、文明冲突、教育压迫、神学反思等多个维度，反复追问【人类中心主义的傲慢】【面对他者时的倾听能力】【以完美之名施行的隐形极权】。这些命题在今天读来依然锋利，因为它指向的不是某个具体技术或某个具体政策，而是人类物种【追求完美的冲动】本身。韦尔贝借神的视角给出一句反问：在我们之上，是否还有更高维度的神，把我们和神祇一起当成玩物？全书没有给出答案，只留下一座镜子，让每个读者照见自己未解的轮廓。</itunes:summary>
+      <itunes:duration>00:34:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-6091cb.mp3" length="33403437" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
