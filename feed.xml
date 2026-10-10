@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 10:05:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 10:12:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31568,6 +31568,17 @@
       <itunes:duration>00:32:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-b3499e.mp3" length="31154733" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《你值得阅读的名人传记》 · 完整版 · 你值得阅读的名人传记 · 完整讲读</title>
+      <description>《你值得阅读的名人传记》合集了希拉里、特斯拉、曼德拉三段改变世界的命运：一位在严父冷嘲热讽中长成美国政坛标志性女性的政治家、一位被主流世界遗忘近半个世纪却依然坚持自我定义的科学巨匠、一位在二十七年牢狱中没有失去共情能力的反种族隔离斗士。三段看似毫不相干的人生，其实回应同一个问题——人在极端困境中究竟能迸发出多大的力量。读这本书，与其说是崇拜三位传奇，不如说是在三位活法里照见自己。本书把希拉里的反向锻造、特斯拉的孤独自守、曼德拉的和解哲学拼在同一面镜子里，提醒每一个普通读者：绝境不一定会把你变成受害者，也可以是你人格的延伸。今天这一代人或许不缺成功学，缺的就是这种在风雪中把自己重新定义一遍的勇气。</description>
+      <pubDate>Sat, 10 Oct 2026 10:12:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-b2607d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《你值得阅读的名人传记》合集了希拉里、特斯拉、曼德拉三段改变世界的命运：一位在严父冷嘲热讽中长成美国政坛标志性女性的政治家、一位被主流世界遗忘近半个世纪却依然坚持自我定义的科学巨匠、一位在二十七年牢狱中没有失去共情能力的反种族隔离斗士。三段看似毫不相干的人生，其实回应同一个问题——人在极端困境中究竟能迸发出多大的力量。读这本书，与其说是崇拜三位传奇，不如说是在三位活法里照见自己。本书把希拉里的反向锻造、特斯拉的孤独自守、曼德拉的和解哲学拼在同一面镜子里，提醒每一个普通读者：绝境不一定会把你变成受害者，也可以是你人格的延伸。今天这一代人或许不缺成功学，缺的就是这种在风雪中把自己重新定义一遍的勇气。</itunes:summary>
+      <itunes:duration>00:30:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-b2607d.mp3" length="29082669" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
