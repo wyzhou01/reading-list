@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 11:07:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 11:12:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31623,6 +31623,17 @@
       <itunes:duration>00:25:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-ae42d9.mp3" length="24689709" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《吴小凡的流浪地图（异国文化角）》 · 完整版 · 吴小凡的流浪地图_(异国文化角) · 完整讲读</title>
+      <description>《吴小凡的流浪地图》记录了一个九零后中国女孩在二零一一年到二零一四年间，从四川西昌出发，途经藏区、尼泊尔、印度、东南亚、拉美与欧洲的三年流浪记。她住沙发客、做国际志愿者，在加尔各答垂死之家洗过裹着粪水的布料，在梅里雪山的青旅换过几百张床单，在委内瑞拉的国企宿舍里贴满旧照提醒自己不要忘记丰盛。全书最动人的翻转在于：旅行的终点不是远方，而是学会在一蔬一饭里安放自己。它不是攻略，不是鸡汤，是一个普通女孩用最朴素的诚实，写下的如何在异乡被触动、被刺痛、如何从惶然走向笃定的成长记。读这本书，你会学会——承认平凡不是失败，而是开始。</description>
+      <pubDate>Sat, 10 Oct 2026 11:12:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-7d7dcb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《吴小凡的流浪地图》记录了一个九零后中国女孩在二零一一年到二零一四年间，从四川西昌出发，途经藏区、尼泊尔、印度、东南亚、拉美与欧洲的三年流浪记。她住沙发客、做国际志愿者，在加尔各答垂死之家洗过裹着粪水的布料，在梅里雪山的青旅换过几百张床单，在委内瑞拉的国企宿舍里贴满旧照提醒自己不要忘记丰盛。全书最动人的翻转在于：旅行的终点不是远方，而是学会在一蔬一饭里安放自己。它不是攻略，不是鸡汤，是一个普通女孩用最朴素的诚实，写下的如何在异乡被触动、被刺痛、如何从惶然走向笃定的成长记。读这本书，你会学会——承认平凡不是失败，而是开始。</itunes:summary>
+      <itunes:duration>00:21:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-7d7dcb.mp3" length="20680365" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
