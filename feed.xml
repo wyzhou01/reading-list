@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 07:20:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 07:29:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31315,6 +31315,17 @@
       <itunes:duration>00:39:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-6f13fc.mp3" length="37772973" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《解读量化投资——西蒙斯用公式打败市场的故事》 · 完整版 · 解读量化投资 · 完整讲读</title>
+      <description>《解读量化投资》是中文世界第一本系统性介绍量化投资行业的读物。作者忻海以数学家詹姆斯·西蒙斯和他创立的大奖章基金为主线，串起复兴技术公司、长期资本管理公司等机构，以及格里芬、肖尔、科恩、梅利韦瑟等行业人物的故事，揭示数学模型在金融市场中如何被用来持续赚取超额利润。本书出版于二零零九年的全球金融危机之后，直面一个问题：当大部分对冲基金都在亏钱时，西蒙斯为什么不仅没亏，反而赚了几十亿美元。全书从人才哲学、技术革命、监管困境三个层面剖析量化投资行业，让读者看到：用公式打败市场的背后，是一群最聪明的头脑，是一场毫秒级军备竞赛，更是金融体系的一次结构性转变。</description>
+      <pubDate>Sat, 10 Oct 2026 07:29:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-5154b3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《解读量化投资》是中文世界第一本系统性介绍量化投资行业的读物。作者忻海以数学家詹姆斯·西蒙斯和他创立的大奖章基金为主线，串起复兴技术公司、长期资本管理公司等机构，以及格里芬、肖尔、科恩、梅利韦瑟等行业人物的故事，揭示数学模型在金融市场中如何被用来持续赚取超额利润。本书出版于二零零九年的全球金融危机之后，直面一个问题：当大部分对冲基金都在亏钱时，西蒙斯为什么不仅没亏，反而赚了几十亿美元。全书从人才哲学、技术革命、监管困境三个层面剖析量化投资行业，让读者看到：用公式打败市场的背后，是一群最聪明的头脑，是一场毫秒级军备竞赛，更是金融体系的一次结构性转变。</itunes:summary>
+      <itunes:duration>00:35:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-5154b3.mp3" length="34296237" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
