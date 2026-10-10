@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 00:55:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 01:00:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30853,6 +30853,17 @@
       <itunes:duration>00:29:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-864afb.mp3" length="28426413" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《金瓶梅》 · 完整版 · 金瓶梅【mebook.cc】 · 完整讲读</title>
+      <description>《金瓶梅》是明代萬曆年間的世情長篇，作者署名蘭陵笑笑生，全書一百回約百萬字，以清河縣藥鋪商人西門慶發跡與暴死為線索，照見財色權欲如何掏空一人、一家、一城。書中寫西門慶以錢攀權、以權生錢、以色補氣，最終三十二歲暴死床榻；寫潘金蓮、李瓶兒、春梅三位女性在男權結構中的三種死法——算計、消耗、複製；寫應伯爵等十兄弟如何結成寄生集團，吃人血饅頭；寫吳月娘靠【不做極惡】獨得善終，印證因果並非迷信，而是人性的物理規律。蘭陵笑笑生用白描筆法畫出市井眾生相，不罵不勸，只讓讀者自己發冷。本書是《紅樓夢》《儒林外史》《醒世姻緣》的源頭，被禁數百年卻從未遺忘，是一面鏡子，照出古今相通的人性開關：攀附的渴望、算計的本能、報應的必然。今天讀這本書，不是獵奇，是重新掂量手中每一分錢、每一段關係。</description>
+      <pubDate>Sat, 10 Oct 2026 01:00:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-c7c27c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《金瓶梅》是明代萬曆年間的世情長篇，作者署名蘭陵笑笑生，全書一百回約百萬字，以清河縣藥鋪商人西門慶發跡與暴死為線索，照見財色權欲如何掏空一人、一家、一城。書中寫西門慶以錢攀權、以權生錢、以色補氣，最終三十二歲暴死床榻；寫潘金蓮、李瓶兒、春梅三位女性在男權結構中的三種死法——算計、消耗、複製；寫應伯爵等十兄弟如何結成寄生集團，吃人血饅頭；寫吳月娘靠【不做極惡】獨得善終，印證因果並非迷信，而是人性的物理規律。蘭陵笑笑生用白描筆法畫出市井眾生相，不罵不勸，只讓讀者自己發冷。本書是《紅樓夢》《儒林外史》《醒世姻緣》的源頭，被禁數百年卻從未遺忘，是一面鏡子，照出古今相通的人性開關：攀附的渴望、算計的本能、報應的必然。今天讀這本書，不是獵奇，是重新掂量手中每一分錢、每一段關係。</itunes:summary>
+      <itunes:duration>00:23:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-c7c27c.mp3" length="22985901" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
