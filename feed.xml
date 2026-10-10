@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 02:12:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 02:26:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -30974,6 +30974,17 @@
       <itunes:duration>00:29:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-92ee00.mp3" length="28434477" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大国兴衰——全球化背景下的路线之争》 · 完整版 · 大国兴衰-全球化背景下的路线之争 · 完整讲读</title>
+      <description>《大国兴衰》由旅美金融专业人士黄树东所著，以200多年大国兴衰史为经纬，系统揭示全球化的真实本质——美国利益的延伸与霸权工具。全书通过美国保护主义崛起、拉美新自由主义失败、日本产业与金融战争三大案例，深刻阐述路线之争如何决定国家命运。书中指出，中国融入全球化面临产业陷阱、金融抑制、技术封锁三重挑战，核心洞察涵盖：比较优势理论如何制度性固化落后地位、美元霸权如何实现全球利益输送、金融危机如何成为打压对手的工具。作者主张后发国家必须坚持独立自主的保护主义政策，在全球化博弈中构建“防火墙”，方能避免被不平等国际体系打断现代化进程。本书为政策研究者、金融从业者及关心国际格局的读者提供了深刻的分析框架与战略思考。</description>
+      <pubDate>Sat, 10 Oct 2026 02:26:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-d8e36d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大国兴衰》由旅美金融专业人士黄树东所著，以200多年大国兴衰史为经纬，系统揭示全球化的真实本质——美国利益的延伸与霸权工具。全书通过美国保护主义崛起、拉美新自由主义失败、日本产业与金融战争三大案例，深刻阐述路线之争如何决定国家命运。书中指出，中国融入全球化面临产业陷阱、金融抑制、技术封锁三重挑战，核心洞察涵盖：比较优势理论如何制度性固化落后地位、美元霸权如何实现全球利益输送、金融危机如何成为打压对手的工具。作者主张后发国家必须坚持独立自主的保护主义政策，在全球化博弈中构建“防火墙”，方能避免被不平等国际体系打断现代化进程。本书为政策研究者、金融从业者及关心国际格局的读者提供了深刻的分析框架与战略思考。</itunes:summary>
+      <itunes:duration>00:26:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-d8e36d.mp3" length="25453101" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
