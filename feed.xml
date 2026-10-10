@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 03:05:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 03:13:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31029,6 +31029,17 @@
       <itunes:duration>00:29:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-eff574.mp3" length="27869229" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《世界是红的：看懂中国经济格局的一本书》 · 完整版 · 世界是红的：看懂中国经济格局的一本书_-_白云先生 · 完整讲读</title>
+      <description>《世界是红的》是一本带强烈预言色彩的地缘经济读物。作者白云先生把中国经济的六十年演进，放到大国博弈的历史坐标系中解读，提出中国正从发财经济迈向老板经济，并将通过一带一路、人民币国际化和上合组织，重构一个去美元化的全球新秩序。书中串联起朝鲜战争、对越自卫反击战、入世谈判、2008年金融危机等关键节点，剖析美元霸权的兴衰逻辑与中国十亿工业人口叠加全要素效率所释放的结构性力量，并勾勒出作者所定义的全球化4.0——一套由资源国、生产国、消费国组成的三元结构。对于想要理解中国未来十年战略走向与世界格局演变的读者，这本书提供了一套视角独特、判断大胆的解释框架。</description>
+      <pubDate>Sat, 10 Oct 2026 03:13:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-5bbf39</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《世界是红的》是一本带强烈预言色彩的地缘经济读物。作者白云先生把中国经济的六十年演进，放到大国博弈的历史坐标系中解读，提出中国正从发财经济迈向老板经济，并将通过一带一路、人民币国际化和上合组织，重构一个去美元化的全球新秩序。书中串联起朝鲜战争、对越自卫反击战、入世谈判、2008年金融危机等关键节点，剖析美元霸权的兴衰逻辑与中国十亿工业人口叠加全要素效率所释放的结构性力量，并勾勒出作者所定义的全球化4.0——一套由资源国、生产国、消费国组成的三元结构。对于想要理解中国未来十年战略走向与世界格局演变的读者，这本书提供了一套视角独特、判断大胆的解释框架。</itunes:summary>
+      <itunes:duration>00:34:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-5bbf39.mp3" length="33036717" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
