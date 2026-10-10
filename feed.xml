@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 17:08:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 17:14:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31656,6 +31656,17 @@
       <itunes:duration>00:26:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-b7a3a2.mp3" length="25409325" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《夜脑：在睡眠中自动学习的秘密》 · 完整版 · 夜脑：在睡眠中自动学习的秘密 · 完整讲读</title>
+      <description>《夜脑：在睡眠中自动学习的秘密》是英国心理学家理查德·怀斯曼写给普通人的睡眠科学入门书。怀斯曼从自己长期遭受夜惊的真实经历出发，带读者走进睡眠实验室，把脑电图、快速眼动、深层睡眠、梦境解析这些原本晦涩的概念，一一翻译成可读可用的故事与方法。本书的核心主张只有一个：你一生中那三分之一的睡眠时间，从来不是空白。夜脑会在你合上眼之后接管一切——它会劫持你的身体以保护做梦的安全，它会在后台巩固你白天学到的新技能，它会在你最不设防的时刻，把你白天解不开的难题悄悄解出来。书中既有科学家在地下山洞与猛犸洞穴坚持数月的硬核实验，也有达利用匙子敲杯捕捉灵感的小技巧；既拆解了夜惊、噩梦、梦游这些吓人现象的真实成因，也给出了记梦、改写噩梦、睡前问题清单等立刻可用的练习。怀斯曼想要告诉每一个读者：你不需要更多的安眠药，你需要的是把夜晚从被消灭的负担，重新定义为可被善用的资源。每一个普通人都可以从小小的睡前仪式开始，把自己改造成睡得好、梦得妙、白天神清气爽的超级睡眠者，把那被忽略的三分之一人生，重新拿回来。</description>
+      <pubDate>Sat, 10 Oct 2026 17:14:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-2ad174</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《夜脑：在睡眠中自动学习的秘密》是英国心理学家理查德·怀斯曼写给普通人的睡眠科学入门书。怀斯曼从自己长期遭受夜惊的真实经历出发，带读者走进睡眠实验室，把脑电图、快速眼动、深层睡眠、梦境解析这些原本晦涩的概念，一一翻译成可读可用的故事与方法。本书的核心主张只有一个：你一生中那三分之一的睡眠时间，从来不是空白。夜脑会在你合上眼之后接管一切——它会劫持你的身体以保护做梦的安全，它会在后台巩固你白天学到的新技能，它会在你最不设防的时刻，把你白天解不开的难题悄悄解出来。书中既有科学家在地下山洞与猛犸洞穴坚持数月的硬核实验，也有达利用匙子敲杯捕捉灵感的小技巧；既拆解了夜惊、噩梦、梦游这些吓人现象的真实成因，也给出了记梦、改写噩梦、睡前问题清单等立刻可用的练习。怀斯曼想要告诉每一个读者：你不需要更多的安眠药，你需要的是把夜晚从被消灭的负担，重新定义为可被善用的资源。每一个普通人都可以从小小的睡前仪式开始，把自己改造成睡得好、梦得妙、白天神清气爽的超级睡眠者，把那被忽略的三分之一人生，重新拿回来。</itunes:summary>
+      <itunes:duration>00:26:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-2ad174.mp3" length="25182765" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
