@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 03:39:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 03:46:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31084,6 +31084,17 @@
       <itunes:duration>00:29:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-999f2b.mp3" length="28039725" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《黄金时代（中国故事）》 · 完整版 · 黄金时代（中国故事）_-_何帆 · 完整讲读</title>
+      <description>《黄金时代》以火车旅程为隐喻，回顾了一百七十年来全球化反复兴衰的历史。一八七〇年的维多利亚大繁荣，最终坠落成第一次世界大战；一九二九年的大萧条，带来了战后的极权与混乱；二〇〇八年的金融海啸，正在把世界推向新一轮保护主义与代际撕裂。何帆老师用宏观历史的笔法揭示：全球化的速度永远快于制度的速度，每一次全球化退潮，最先被淹没的都是刚刚踏入社会的年轻人，而衰退一代的世界观将塑造未来数十年的政治版图。读懂这本书，就读懂了我们这个时代正在驶向何方。</description>
+      <pubDate>Sat, 10 Oct 2026 03:46:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261009-episode-20261009-ddd9af</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《黄金时代》以火车旅程为隐喻，回顾了一百七十年来全球化反复兴衰的历史。一八七〇年的维多利亚大繁荣，最终坠落成第一次世界大战；一九二九年的大萧条，带来了战后的极权与混乱；二〇〇八年的金融海啸，正在把世界推向新一轮保护主义与代际撕裂。何帆老师用宏观历史的笔法揭示：全球化的速度永远快于制度的速度，每一次全球化退潮，最先被淹没的都是刚刚踏入社会的年轻人，而衰退一代的世界观将塑造未来数十年的政治版图。读懂这本书，就读懂了我们这个时代正在驶向何方。</itunes:summary>
+      <itunes:duration>00:27:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261009/episode-20261009-ddd9af.mp3" length="26743725" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
