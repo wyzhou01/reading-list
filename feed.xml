@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 09:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 09:06:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31469,6 +31469,17 @@
       <itunes:duration>00:21:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-0a2820.mp3" length="20797869" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我可是你故事里那个人》 · 完整版 · 我可是你故事里那个人--江凌 · 完整讲读</title>
+      <description>《我可是你故事里那个人》是青年作者江凌二零一五年出版的一本第一人称短篇故事集，收录了十六段关于青春、暗恋、错过与告别的往事。全书用克制而暗流涌动的语气，把民谣、独立音乐、豆瓣时代的青年恋爱图景和个人记忆揉在一起，讲述了异地面试、火车站的告别、用十年沉默换来的释然等典型的一零年代文艺青年情感切片。江凌不写&quot;我原谅你&quot;，只写&quot;我承认这件事的发生&quot;，整本书本质上是在示范一种不骗自己的表达方式——那些没说出口的话、没寄出的信、没走到一起的人，不必放下，只需承认它们真实存在过。这本书至今仍是许多读者深夜反复翻开的枕边读物，因为江凌写出了我们每个人心中那个&quot;未曾说出口&quot;的自己。</description>
+      <pubDate>Sat, 10 Oct 2026 09:06:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-489c65</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我可是你故事里那个人》是青年作者江凌二零一五年出版的一本第一人称短篇故事集，收录了十六段关于青春、暗恋、错过与告别的往事。全书用克制而暗流涌动的语气，把民谣、独立音乐、豆瓣时代的青年恋爱图景和个人记忆揉在一起，讲述了异地面试、火车站的告别、用十年沉默换来的释然等典型的一零年代文艺青年情感切片。江凌不写&quot;我原谅你&quot;，只写&quot;我承认这件事的发生&quot;，整本书本质上是在示范一种不骗自己的表达方式——那些没说出口的话、没寄出的信、没走到一起的人，不必放下，只需承认它们真实存在过。这本书至今仍是许多读者深夜反复翻开的枕边读物，因为江凌写出了我们每个人心中那个&quot;未曾说出口&quot;的自己。</itunes:summary>
+      <itunes:duration>00:25:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-489c65.mp3" length="24691629" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
