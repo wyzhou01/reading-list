@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 18:31:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 18:36:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33574,6 +33574,17 @@
       <itunes:duration>00:20:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-a19254.mp3" length="19787565" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《真相推理师：凶宅》 · 完整版 · 真相推理师：凶宅 · 完整讲读</title>
+      <description>《真相推理师：凶宅》是呼延云以法医指纹学为硬核底色的社会派悬疑力作。省城法医唐小糖在刷牙缸里发现一枚来历不明的指甲，由此被首席女法医蕾蓉拉回三座连环凶宅现场。书里既有一根头发、一颗牙齿、一枚指甲的人体识别知识全栈，也有创伤后应激障碍下的女性恐惧、脱敏与重建。房子是否吃人，最终不由砖瓦决定，而由人心里那些未结清的债决定。本期带你一起硬核拆解法医学与人心学。</description>
+      <pubDate>Sun, 11 Oct 2026 18:36:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-621faa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《真相推理师：凶宅》是呼延云以法医指纹学为硬核底色的社会派悬疑力作。省城法医唐小糖在刷牙缸里发现一枚来历不明的指甲，由此被首席女法医蕾蓉拉回三座连环凶宅现场。书里既有一根头发、一颗牙齿、一枚指甲的人体识别知识全栈，也有创伤后应激障碍下的女性恐惧、脱敏与重建。房子是否吃人，最终不由砖瓦决定，而由人心里那些未结清的债决定。本期带你一起硬核拆解法医学与人心学。</itunes:summary>
+      <itunes:duration>00:22:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-621faa.mp3" length="21964077" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
