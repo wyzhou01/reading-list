@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 02:25:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 02:32:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32184,6 +32184,17 @@
       <itunes:duration>00:21:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-1d4d4d.mp3" length="21087789" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《生活的艺术》 · 完整版 · 生活的艺术_-_梁实秋 · 完整讲读</title>
+      <description>《生活的艺术》是梁实秋一九六零年代在台湾出版的散文集，全书九十余篇，分为清风梦影、食色杂谭、剪灯闲笔三章，分别谈时间礼节生死等抽象命题、饭桌食肆等日常滋味、理发写信结婚等具体小事。梁实秋以一代文人的笔触，把中国人过日子这件事讲得通透详尽——他在大时代里不慌不忙，于小日子里从容有度，笔下既守中国文人的礼，又睁眼看世界，把吃粥理发写信这些平常事写成生活美学。本书于今仍被奉为生活散文典范，重读依然管用，因为它讲的不是高头讲章，是一个人怎么吃饭、喝茶、睡觉、待人接物的根本智慧。</description>
+      <pubDate>Sun, 11 Oct 2026 02:32:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-c65859</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《生活的艺术》是梁实秋一九六零年代在台湾出版的散文集，全书九十余篇，分为清风梦影、食色杂谭、剪灯闲笔三章，分别谈时间礼节生死等抽象命题、饭桌食肆等日常滋味、理发写信结婚等具体小事。梁实秋以一代文人的笔触，把中国人过日子这件事讲得通透详尽——他在大时代里不慌不忙，于小日子里从容有度，笔下既守中国文人的礼，又睁眼看世界，把吃粥理发写信这些平常事写成生活美学。本书于今仍被奉为生活散文典范，重读依然管用，因为它讲的不是高头讲章，是一个人怎么吃饭、喝茶、睡觉、待人接物的根本智慧。</itunes:summary>
+      <itunes:duration>00:33:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-c65859.mp3" length="32148909" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
