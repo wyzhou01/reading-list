@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 13:52:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 13:58:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33200,6 +33200,17 @@
       <itunes:duration>00:18:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-34d657.mp3" length="18214701" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《长大后的世界》 · 完整版 · 长大后的世界 · 完整讲读</title>
+      <description>《长大后的世界》是美国作家罗曼·阿拉姆的处女作，讲述两个纽约女孩从大学到中年的二十多年友情。她们的友谊没有惊天动地的破裂，只是被婚姻、阶层、时间和那些没说出口的秘密，慢慢揉皱。三十二岁那年，最好的朋友沙拉突然宣布要嫁入一个显赫的家庭，编辑罗伦在祝贺的背后看见了一条再也无法跨越的鸿沟。本书不提供答案，只逼读者承认：成年人的友情，要么学会在沉默里继续维护，要么承认它已经悄悄失血。长大本身就是一场漫长的走散。</description>
+      <pubDate>Sun, 11 Oct 2026 13:58:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-394d0b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《长大后的世界》是美国作家罗曼·阿拉姆的处女作，讲述两个纽约女孩从大学到中年的二十多年友情。她们的友谊没有惊天动地的破裂，只是被婚姻、阶层、时间和那些没说出口的秘密，慢慢揉皱。三十二岁那年，最好的朋友沙拉突然宣布要嫁入一个显赫的家庭，编辑罗伦在祝贺的背后看见了一条再也无法跨越的鸿沟。本书不提供答案，只逼读者承认：成年人的友情，要么学会在沉默里继续维护，要么承认它已经悄悄失血。长大本身就是一场漫长的走散。</itunes:summary>
+      <itunes:duration>00:26:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-394d0b.mp3" length="25592493" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
