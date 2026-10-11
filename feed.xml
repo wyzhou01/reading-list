@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 11:13:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 11:18:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32910,6 +32910,17 @@
       <itunes:duration>00:29:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-ebd028.mp3" length="28403757" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《岛上书店》 · 完整版 · 岛上书店_[美]加布瑞埃拉·泽文 · 完整讲读</title>
+      <description>《岛上书店》是加布瑞埃拉·泽文写给所有相信书能救人的人的一封情书。故事发生在一座被海雾封锁的美国小岛，讲述了一个三十九岁的鳏夫书店老板A.J.费克里，在妻子车祸去世二十一个月后，因一个被遗弃的两岁女婴玛雅，重新与一个跑遍全美小书店的销售代表阿米莉娅·洛曼，以及整个艾丽丝岛建立联系的故事。泽文以温柔的笔法，探讨了孤独与连接、阅读与救赎、爱与失去的辩证：被遗弃的孩子如何把一个把自己活成孤岛的男人重新拉回日常生活，一个销售代表如何因为听见一个男人给女儿念书而愿意搬到一座别人不愿意去的岛，以及我们爱过的人，最终如何变成我们自己活着的部分。这本书没有反派，没有奇迹，只有一间快要经营不下去的书店，一本价值不菲的《帖木儿》，和六块拼图——拼在一起，叫作：你不是唯一一个被生活绊倒的人，但你不必永远是那个被绊倒的人。</description>
+      <pubDate>Sun, 11 Oct 2026 11:18:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-f76a72</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《岛上书店》是加布瑞埃拉·泽文写给所有相信书能救人的人的一封情书。故事发生在一座被海雾封锁的美国小岛，讲述了一个三十九岁的鳏夫书店老板A.J.费克里，在妻子车祸去世二十一个月后，因一个被遗弃的两岁女婴玛雅，重新与一个跑遍全美小书店的销售代表阿米莉娅·洛曼，以及整个艾丽丝岛建立联系的故事。泽文以温柔的笔法，探讨了孤独与连接、阅读与救赎、爱与失去的辩证：被遗弃的孩子如何把一个把自己活成孤岛的男人重新拉回日常生活，一个销售代表如何因为听见一个男人给女儿念书而愿意搬到一座别人不愿意去的岛，以及我们爱过的人，最终如何变成我们自己活着的部分。这本书没有反派，没有奇迹，只有一间快要经营不下去的书店，一本价值不菲的《帖木儿》，和六块拼图——拼在一起，叫作：你不是唯一一个被生活绊倒的人，但你不必永远是那个被绊倒的人。</itunes:summary>
+      <itunes:duration>00:20:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-f76a72.mp3" length="19637037" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
