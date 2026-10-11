@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 15:15:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 15:21:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33332,6 +33332,17 @@
       <itunes:duration>00:23:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-39b4ee.mp3" length="22497453" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《望古神话之秦墟》 · 完整版 · 望古神话之秦墟_-_月关 · 完整讲读</title>
+      <description>《望古神话之秦墟》是网络文学白金作家月关跳出历史言情舒适区，为九州《望古神话》世界观撰写的秦末卷。小说以公元前两百一十年的东海之战为切口，把秦皇汉武、唐宗宋祖放进同一个宇宙，让盘古开天、黄帝战蚩尤、大禹治水等神话传说互相咬合。徐福自认比肩造物，妄图借曾人之手永镇大秦；杨瑾与楚狸则在十二金人合体、光剑劈海的终局之战里，完成个人成长与跨族和解。当虫洞关上的刹那，他们抱在一起，走进那道未知的门——这既是文明的护佑，也是两个普通人最朴素也最不可替代的相守。</description>
+      <pubDate>Sun, 11 Oct 2026 15:20:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-8de1d7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《望古神话之秦墟》是网络文学白金作家月关跳出历史言情舒适区，为九州《望古神话》世界观撰写的秦末卷。小说以公元前两百一十年的东海之战为切口，把秦皇汉武、唐宗宋祖放进同一个宇宙，让盘古开天、黄帝战蚩尤、大禹治水等神话传说互相咬合。徐福自认比肩造物，妄图借曾人之手永镇大秦；杨瑾与楚狸则在十二金人合体、光剑劈海的终局之战里，完成个人成长与跨族和解。当虫洞关上的刹那，他们抱在一起，走进那道未知的门——这既是文明的护佑，也是两个普通人最朴素也最不可替代的相守。</itunes:summary>
+      <itunes:duration>00:18:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-8de1d7.mp3" length="17960493" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
