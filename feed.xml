@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 16:06:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 16:11:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33420,6 +33420,17 @@
       <itunes:duration>00:29:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-3d4d23.mp3" length="28444461" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《饮罪者》 · 完整版 · 饮罪者_-_黄青蕉 · 完整讲读</title>
+      <description>《饮罪者》是黄青蕉创作的社会派悬疑长篇小说,以二〇一五年高通广场连环杀人案为切口,串起记者郑源、刑警汪士奇、少年郑确、凶手吴汇四条伏脉十八年的命运线。小说借一桩看似随机的无差别杀人案,层层剥开城市底层群体在贫穷、暴力与沉默中互相撕咬的生存真相,追问【穷人没有私仇】这一锋利命题,并通过梦姐替身守低保、吴汇替身赴死、郑确替父挨打的多重隐喻,揭示每一个在泥里讨生活的人,都是加害者也是受害者的双重身份。最终,本书指向一个残酷的答案:真正的谜底不在案发现场,而在十八年前埋下的那句不能说的话里。</description>
+      <pubDate>Sun, 11 Oct 2026 16:11:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-21319b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《饮罪者》是黄青蕉创作的社会派悬疑长篇小说,以二〇一五年高通广场连环杀人案为切口,串起记者郑源、刑警汪士奇、少年郑确、凶手吴汇四条伏脉十八年的命运线。小说借一桩看似随机的无差别杀人案,层层剥开城市底层群体在贫穷、暴力与沉默中互相撕咬的生存真相,追问【穷人没有私仇】这一锋利命题,并通过梦姐替身守低保、吴汇替身赴死、郑确替父挨打的多重隐喻,揭示每一个在泥里讨生活的人,都是加害者也是受害者的双重身份。最终,本书指向一个残酷的答案:真正的谜底不在案发现场,而在十八年前埋下的那句不能说的话里。</itunes:summary>
+      <itunes:duration>00:10:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-21319b.mp3" length="10340781" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
