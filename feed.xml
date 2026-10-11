@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 13:13:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 13:18:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33123,6 +33123,17 @@
       <itunes:duration>00:26:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-fbe515.mp3" length="25623597" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《风花雪月说红楼》 · 完整版 · 风花雪月说红楼 · 完整讲读</title>
+      <description>《风花雪月说红楼》是贵州红学会老作者五眼桥推出的第四部红学随笔集。全书以回归文本为方法论，旗帜鲜明地认定程高本为曹雪芹原著、脂批本为清末民初书商炮制的赝品，对揭秘派、索引派红学逐一驳回。书中以贾雨村连升三级的玄机切入，揭破王子腾布局应天府的权力谋略；又以秦可卿之死为焦点，用四篇系列文章层层论证这位少妇并非淫妇，而是死于忧郁症的好女人；更以《脂砚斋重评石头记》书名证伪三篇，将脂批本的漏洞一一戳穿。全书平民化、生活化、草根式，深入浅出，为读者打开了回归《红楼梦》文本本体的正确路径。</description>
+      <pubDate>Sun, 11 Oct 2026 13:18:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-8c9182</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《风花雪月说红楼》是贵州红学会老作者五眼桥推出的第四部红学随笔集。全书以回归文本为方法论，旗帜鲜明地认定程高本为曹雪芹原著、脂批本为清末民初书商炮制的赝品，对揭秘派、索引派红学逐一驳回。书中以贾雨村连升三级的玄机切入，揭破王子腾布局应天府的权力谋略；又以秦可卿之死为焦点，用四篇系列文章层层论证这位少妇并非淫妇，而是死于忧郁症的好女人；更以《脂砚斋重评石头记》书名证伪三篇，将脂批本的漏洞一一戳穿。全书平民化、生活化、草根式，深入浅出，为读者打开了回归《红楼梦》文本本体的正确路径。</itunes:summary>
+      <itunes:duration>00:15:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-8c9182.mp3" length="14662701" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
