@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 02:20:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 02:25:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32173,6 +32173,17 @@
       <itunes:duration>00:31:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-87d3eb.mp3" length="30353325" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《碧海燃灯抄》 · 完整版 · 碧海燃灯抄v1.0_-_尤四姐 · 完整讲读</title>
+      <description>《碧海燃灯抄》是尤四姐所著的《生州》系列第二部，以龙汉初劫与盘古种为背景，讲述天帝少苍、麒麟祭司兰因、散神长情与渊海水君云月之间跨越万年的情仇纠葛。少苍继位前将动情之心封印于云月体内，令其守护龙首原五百年，长情不知云月即少苍之替身，与之相恋；兰因之死与三大盘古种之剿杀，埋下万年血债。本书以细腻笔触处理神魔虐恋，在权谋与人性之间探讨代价与偿还，是女性向仙侠中较有分量的长篇。</description>
+      <pubDate>Sun, 11 Oct 2026 02:24:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-1d4d4d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《碧海燃灯抄》是尤四姐所著的《生州》系列第二部，以龙汉初劫与盘古种为背景，讲述天帝少苍、麒麟祭司兰因、散神长情与渊海水君云月之间跨越万年的情仇纠葛。少苍继位前将动情之心封印于云月体内，令其守护龙首原五百年，长情不知云月即少苍之替身，与之相恋；兰因之死与三大盘古种之剿杀，埋下万年血债。本书以细腻笔触处理神魔虐恋，在权谋与人性之间探讨代价与偿还，是女性向仙侠中较有分量的长篇。</itunes:summary>
+      <itunes:duration>00:21:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-1d4d4d.mp3" length="21087789" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
