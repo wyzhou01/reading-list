@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 15:47:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 15:51:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33387,6 +33387,17 @@
       <itunes:duration>00:24:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-bc38de.mp3" length="23637549" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中国人的智源全书》 · 完整版 · 中国人的智源全书(超值金版) · 完整讲读</title>
+      <description>传世中华典籍多达千万册，普通人穷尽一生也无法遍览，那么中华智慧的总源头在哪里？卢志丹编著的《中国人的智源全书》直面这一时代痛点，给出答案：中国人智源就藏在十部经典之中——《周易》《论语》《老子》《金刚经》《孙子兵法》《韩非子》《史记》《三国演义》《曾国藩家书》《毛泽东选集》。这十部智典涵盖经史子集，横穿儒释道兵法，纵贯古今，是中华智慧的源头活水。本书以【概貌—精华—妙用—智语】四维立体结构逐一拆解，既俯瞰全貌，又纵深挖掘；既赏析名篇，又回放古今智者活用智慧的精彩案例。从秦始皇读韩非拍案长叹，到孔子韦编三绝；从莱布尼茨受《周易》启发推演二进制，到任正非学《毛选》办华为——本书证明，五千年智慧从未断裂，而是至今仍在地下奔涌的活水。握紧这本书，就是握紧开启中华智慧宝库的钥匙。</description>
+      <pubDate>Sun, 11 Oct 2026 15:51:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-9d7b46</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>传世中华典籍多达千万册，普通人穷尽一生也无法遍览，那么中华智慧的总源头在哪里？卢志丹编著的《中国人的智源全书》直面这一时代痛点，给出答案：中国人智源就藏在十部经典之中——《周易》《论语》《老子》《金刚经》《孙子兵法》《韩非子》《史记》《三国演义》《曾国藩家书》《毛泽东选集》。这十部智典涵盖经史子集，横穿儒释道兵法，纵贯古今，是中华智慧的源头活水。本书以【概貌—精华—妙用—智语】四维立体结构逐一拆解，既俯瞰全貌，又纵深挖掘；既赏析名篇，又回放古今智者活用智慧的精彩案例。从秦始皇读韩非拍案长叹，到孔子韦编三绝；从莱布尼茨受《周易》启发推演二进制，到任正非学《毛选》办华为——本书证明，五千年智慧从未断裂，而是至今仍在地下奔涌的活水。握紧这本书，就是握紧开启中华智慧宝库的钥匙。</itunes:summary>
+      <itunes:duration>00:17:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-9d7b46.mp3" length="17270829" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
