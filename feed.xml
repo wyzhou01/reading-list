@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 11:59:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 12:04:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33002,6 +33002,17 @@
       <itunes:duration>00:26:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-1ff6f5.mp3" length="25803309" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《动物精神》 · 完整版 · 动物精神 · 完整讲读</title>
+      <description>本书由两位诺贝尔经济学奖得主联手,把凯恩斯被主流经济学扫地出门三十年的【动物精神】概念重新请回神坛。他们指出,恐惧、贪婪、信心崩塌、对公平的执念、对故事的痴迷,这些不理性的冲动,才是真正驱动经济起伏的黑手。主流经济学假设人是冷血的理性计算器,这一假设在2008年金融危机中彻底破产。作者用信心、公平、腐败、货币幻觉、故事五大维度,逐个击破萧条、失业、房价、贫困等长期困扰主流经济学的难题,证明了经济学必须回归人本,才能真正理解并管理现代资本主义。</description>
+      <pubDate>Sun, 11 Oct 2026 12:04:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-f7595b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书由两位诺贝尔经济学奖得主联手,把凯恩斯被主流经济学扫地出门三十年的【动物精神】概念重新请回神坛。他们指出,恐惧、贪婪、信心崩塌、对公平的执念、对故事的痴迷,这些不理性的冲动,才是真正驱动经济起伏的黑手。主流经济学假设人是冷血的理性计算器,这一假设在2008年金融危机中彻底破产。作者用信心、公平、腐败、货币幻觉、故事五大维度,逐个击破萧条、失业、房价、贫困等长期困扰主流经济学的难题,证明了经济学必须回归人本,才能真正理解并管理现代资本主义。</itunes:summary>
+      <itunes:duration>00:22:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-f7595b.mp3" length="22037421" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
