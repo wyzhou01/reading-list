@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 09:24:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 09:29:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32833,6 +32833,17 @@
       <itunes:duration>00:30:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-02cd01.mp3" length="29195181" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我的1997》 · 完整版 · 我的1997 · 完整讲读</title>
+      <description>《我的1997》以香港回归这一历史时刻为坐标，讲述北京知青高建国从内蒙古草原下乡、返城创业、南下深圳，最终奔赴香港投身特区建设的传奇人生。作品将个人命运与百年香港回归史紧密交织，从一八四一年英军登陆香港岛写到一九九八年的跨年烟花，既有家国情怀的厚重，也有爱情亲情的细腻。在宏大叙事与个人突围的双线推进中，作者用扎实的历史考据与克制的笔触，呈现了一代中国青年在时代洪流中的担当与深情，也回答了一个朴素的问题——家与国，从来都是同一个故事。</description>
+      <pubDate>Sun, 11 Oct 2026 09:29:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-e21e08</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我的1997》以香港回归这一历史时刻为坐标，讲述北京知青高建国从内蒙古草原下乡、返城创业、南下深圳，最终奔赴香港投身特区建设的传奇人生。作品将个人命运与百年香港回归史紧密交织，从一八四一年英军登陆香港岛写到一九九八年的跨年烟花，既有家国情怀的厚重，也有爱情亲情的细腻。在宏大叙事与个人突围的双线推进中，作者用扎实的历史考据与克制的笔触，呈现了一代中国青年在时代洪流中的担当与深情，也回答了一个朴素的问题——家与国，从来都是同一个故事。</itunes:summary>
+      <itunes:duration>00:24:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-e21e08.mp3" length="23664429" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
