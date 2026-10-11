@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 18:25:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 18:31:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33563,6 +33563,17 @@
       <itunes:duration>00:19:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-ceb5a5.mp3" length="18795693" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《这个世界会好的：梁漱溟国命四书》 · 完整版 · 这个世界会好的：梁漱溟国命四书 · 完整讲读</title>
+      <description>《这个世界会好的：梁漱溟国命四书》精选梁漱溟四本代表作，从《中国文化要义》《人心与人生》《东方学术概观》《东西文化及其哲学》中提炼出认识老中国、改造旧中国的思想路径。全书围绕六个文化怪现象展开：中国开化最早却没有科学、疆土最大却一治一乱、不信神却比谁都讲道德、缺乏集团生活却打不散、以道德代宗教却稳定两千多年、循环而无革命却孕育早熟。梁漱溟提出中国是伦理本位的社会、以理性为人类特征、以人心为社会根基，主张中国要走一条既不失伦理底色、又补上组织化短板的第三条路。这是一本用一辈子写成的书，献给每一个想知道【我们是谁、从哪来、往哪去】的中国人。</description>
+      <pubDate>Sun, 11 Oct 2026 18:31:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-a19254</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《这个世界会好的：梁漱溟国命四书》精选梁漱溟四本代表作，从《中国文化要义》《人心与人生》《东方学术概观》《东西文化及其哲学》中提炼出认识老中国、改造旧中国的思想路径。全书围绕六个文化怪现象展开：中国开化最早却没有科学、疆土最大却一治一乱、不信神却比谁都讲道德、缺乏集团生活却打不散、以道德代宗教却稳定两千多年、循环而无革命却孕育早熟。梁漱溟提出中国是伦理本位的社会、以理性为人类特征、以人心为社会根基，主张中国要走一条既不失伦理底色、又补上组织化短板的第三条路。这是一本用一辈子写成的书，献给每一个想知道【我们是谁、从哪来、往哪去】的中国人。</itunes:summary>
+      <itunes:duration>00:20:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-a19254.mp3" length="19787565" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
