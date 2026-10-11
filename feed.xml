@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 13:42:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 13:46:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33178,6 +33178,17 @@
       <itunes:duration>00:25:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-05e25b.mp3" length="24810285" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《太阳照常升起》 · 完整版 · 太阳照常升起(译文名著精选) · 完整讲读</title>
+      <description>一九二五年的巴黎，一群在一战中身心俱毁的英美青年，在酒精、情爱与斗牛场之间流亡。受伤的杰克·巴恩斯深爱着勃莱特，却因身体的残疾永远无法真正与她结合。海明威以极简的对话与冰山式的沉默，写出迷惘一代的精神荒原——太阳照常升起，可地上的人，再也回不去了。</description>
+      <pubDate>Sun, 11 Oct 2026 13:46:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-2f4a01</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九二五年的巴黎，一群在一战中身心俱毁的英美青年，在酒精、情爱与斗牛场之间流亡。受伤的杰克·巴恩斯深爱着勃莱特，却因身体的残疾永远无法真正与她结合。海明威以极简的对话与冰山式的沉默，写出迷惘一代的精神荒原——太阳照常升起，可地上的人，再也回不去了。</itunes:summary>
+      <itunes:duration>00:15:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-2f4a01.mp3" length="14775597" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
