@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 07:54:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 07:59:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32679,6 +32679,17 @@
       <itunes:duration>00:27:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-178dc4.mp3" length="26270253" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《谁动了国家的奶酪？》 · 完整版 · 谁动了国家的奶酪？ · 完整讲读</title>
+      <description>法国经济学家祖克曼的《谁动了国家的奶酪？》系统揭示了全球避税天堂的运作机制与真实规模，他用多年统计数据推算出全球家庭约百分之八的金融资产藏在海外，欧盟每年因此损失一千三百亿欧元税收。书中不仅破除了瑞士银行保密法的人道主义神话，还勾勒出由瑞士、英属维京群岛、卢森堡构成的魔鬼三角，并提出三轴改革方案：全球金融账户名簿、对避税天堂的贸易与金融制裁、面向财富与跨国企业利润的全球递进税。这是一部兼具数据严谨性与公共关怀的财政诊断报告，它告诉我们税收构成民主的血脉，避税天堂本质上是一场对公民的合法抢劫，每一个普通人都既是纳税人也是被偷走福利的受害者。</description>
+      <pubDate>Sun, 11 Oct 2026 07:59:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-8292ac</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>法国经济学家祖克曼的《谁动了国家的奶酪？》系统揭示了全球避税天堂的运作机制与真实规模，他用多年统计数据推算出全球家庭约百分之八的金融资产藏在海外，欧盟每年因此损失一千三百亿欧元税收。书中不仅破除了瑞士银行保密法的人道主义神话，还勾勒出由瑞士、英属维京群岛、卢森堡构成的魔鬼三角，并提出三轴改革方案：全球金融账户名簿、对避税天堂的贸易与金融制裁、面向财富与跨国企业利润的全球递进税。这是一部兼具数据严谨性与公共关怀的财政诊断报告，它告诉我们税收构成民主的血脉，避税天堂本质上是一场对公民的合法抢劫，每一个普通人都既是纳税人也是被偷走福利的受害者。</itunes:summary>
+      <itunes:duration>00:28:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-8292ac.mp3" length="27498285" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
