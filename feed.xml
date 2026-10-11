@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 22:31:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 22:40:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33662,6 +33662,17 @@
       <itunes:duration>00:24:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-4c1c87.mp3" length="23820333" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《邦斯舅舅》 · 完整版 · 巴尔扎克集(04)邦斯舅舅 · 完整讲读</title>
+      <description>《邦斯舅舅》是巴尔扎克《人间喜剧》中最冷峻的一部长篇。一个得过罗马大奖的穷音乐家，一生痴迷艺术、靠蹭饭为生，死后却被门房、亲戚、律师、画商像秃鹫一样扑上去瓜分遗产。巴尔扎克用这场遗产争夺战，撕开了七月王朝巴黎的真相——艺术一文不值，金钱至高无上；恶不再需要屠刀，只需要一份合法的程序；艺术家只有两种活法，要么脱下外套下跪，要么穿着外套饿死。这是一则写给所有不肯向时代交出灵魂的人的寓言。</description>
+      <pubDate>Sun, 11 Oct 2026 22:40:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-b281d2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《邦斯舅舅》是巴尔扎克《人间喜剧》中最冷峻的一部长篇。一个得过罗马大奖的穷音乐家，一生痴迷艺术、靠蹭饭为生，死后却被门房、亲戚、律师、画商像秃鹫一样扑上去瓜分遗产。巴尔扎克用这场遗产争夺战，撕开了七月王朝巴黎的真相——艺术一文不值，金钱至高无上；恶不再需要屠刀，只需要一份合法的程序；艺术家只有两种活法，要么脱下外套下跪，要么穿着外套饿死。这是一则写给所有不肯向时代交出灵魂的人的寓言。</itunes:summary>
+      <itunes:duration>00:25:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-b281d2.mp3" length="24011565" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
