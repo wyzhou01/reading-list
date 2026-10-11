@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 22:54:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 23:00:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33695,6 +33695,17 @@
       <itunes:duration>00:19:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-c0d5bd.mp3" length="19001901" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《未发现的自我》 · 完整版 · 未发现的自我 · 完整讲读</title>
+      <description>本书写于一九五七年，正值第二颗千禧年前夕的集体恐慌：一边是氢弹阴影笼罩欧洲，一边是国家主义把个体挤压成无名的统计数字。荣格用比利时数学家梦中写下「香蕉皮表面积大于香蕉」的故事刺破幻觉：意识只是聚光灯，它照亮一个点，却让其余一切沉入黑暗。所谓健全的成年人，不过是在自己点亮的那一小片区域里经营人生，至于地基是不是空的、墙后是不是渗水，谁也不知道。统计平均值进一步麻醉了这种残缺的自我认知，它抹去个体特征，把人压缩成可互换的数字单元，从而为极权提供了温床。荣格由此把精神困境的根源从个人烦恼上溯到文明的结构性缺陷：不是某个人病了，是整个时代在鼓励一种残缺的自我认知。集体潜意识和原型提供了出路——这是人类共享的心灵底层，远古神话的母题跨越文化与时代，在每个个体的梦里以象征的形式传递信息。荣格认为，梦是潜意识派来的信使，是意识与潜意识的桥梁；解梦不是为了还原创伤，而是为了听见那个被忽视了太久的声音。当一个人终于不再害怕自己的梦，他才刚刚开始认识自己。</description>
+      <pubDate>Sun, 11 Oct 2026 23:00:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-600e37</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书写于一九五七年，正值第二颗千禧年前夕的集体恐慌：一边是氢弹阴影笼罩欧洲，一边是国家主义把个体挤压成无名的统计数字。荣格用比利时数学家梦中写下「香蕉皮表面积大于香蕉」的故事刺破幻觉：意识只是聚光灯，它照亮一个点，却让其余一切沉入黑暗。所谓健全的成年人，不过是在自己点亮的那一小片区域里经营人生，至于地基是不是空的、墙后是不是渗水，谁也不知道。统计平均值进一步麻醉了这种残缺的自我认知，它抹去个体特征，把人压缩成可互换的数字单元，从而为极权提供了温床。荣格由此把精神困境的根源从个人烦恼上溯到文明的结构性缺陷：不是某个人病了，是整个时代在鼓励一种残缺的自我认知。集体潜意识和原型提供了出路——这是人类共享的心灵底层，远古神话的母题跨越文化与时代，在每个个体的梦里以象征的形式传递信息。荣格认为，梦是潜意识派来的信使，是意识与潜意识的桥梁；解梦不是为了还原创伤，而是为了听见那个被忽视了太久的声音。当一个人终于不再害怕自己的梦，他才刚刚开始认识自己。</itunes:summary>
+      <itunes:duration>00:16:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-600e37.mp3" length="15688749" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
