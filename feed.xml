@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 07:35:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 07:41:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32646,6 +32646,17 @@
       <itunes:duration>00:33:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-1be000.mp3" length="32137005" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《如何成为一个学习忍者》 · 完整版 · 如何成为一个学习忍者 · 完整讲读</title>
+      <description>《如何成为一个学习忍者》是英国作家格雷厄姆·奥尔科特写给当年那个自己的补救方案。他在书中拆解了学习忍者的九大特征、行动体系与精力管理的底层逻辑、阅读写作记忆与考试的方法论、二十种反拖延技巧，以及好奇心驱动的终身学习心态。本期节目把全书浓缩成六块拼图：承认不完美、专注此刻、帕累托式的冷酷、把脑子外包给第二大脑、把注意力当硬通货、根据目的切换方法。九年后重读，这本书依然是给每个普通人最朴素也最实用的一份学习操作系统。</description>
+      <pubDate>Sun, 11 Oct 2026 07:41:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-aa9f26</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《如何成为一个学习忍者》是英国作家格雷厄姆·奥尔科特写给当年那个自己的补救方案。他在书中拆解了学习忍者的九大特征、行动体系与精力管理的底层逻辑、阅读写作记忆与考试的方法论、二十种反拖延技巧，以及好奇心驱动的终身学习心态。本期节目把全书浓缩成六块拼图：承认不完美、专注此刻、帕累托式的冷酷、把脑子外包给第二大脑、把注意力当硬通货、根据目的切换方法。九年后重读，这本书依然是给每个普通人最朴素也最实用的一份学习操作系统。</itunes:summary>
+      <itunes:duration>00:31:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-aa9f26.mp3" length="30602925" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
