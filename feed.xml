@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 07:04:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 07:11:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32602,6 +32602,17 @@
       <itunes:duration>00:25:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-bc3c47.mp3" length="24745005" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《美国、俄国和冷战，1945—2006》 · 完整版 · 美国、俄国和冷战，1945-2006 · 完整讲读</title>
+      <description>本书是美国威斯康星学派代表人物拉费伯尔的冷战史经典，从第十版扩充至2006年。作者的核心论点是：冷战并非1945年突然爆发，而是美俄两个帝国扩张逻辑碰撞的必然结果；美国对冷战负有更大的主导责任。书中以门户开放政策为起点，详述了二战后美苏从合作走向对抗的全过程——杜鲁门主义、马歇尔计划、朝鲜战争、古巴导弹危机、越南泥潭、缓和一应、里根反苏、戈尔巴乔夫改革，直至苏联解体和九一一后的颠倒世界。拉费伯尔特别强调核武器如何改变对抗形式，美国国内的利益结构和意识形态如何驱动对外政策，以及后冷战时代美俄关系为何未能走向真正和解。本书不仅是一部冷战史，更是理解今天中美俄三角关系的底层逻辑。</description>
+      <pubDate>Sun, 11 Oct 2026 07:11:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-f1f0d6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是美国威斯康星学派代表人物拉费伯尔的冷战史经典，从第十版扩充至2006年。作者的核心论点是：冷战并非1945年突然爆发，而是美俄两个帝国扩张逻辑碰撞的必然结果；美国对冷战负有更大的主导责任。书中以门户开放政策为起点，详述了二战后美苏从合作走向对抗的全过程——杜鲁门主义、马歇尔计划、朝鲜战争、古巴导弹危机、越南泥潭、缓和一应、里根反苏、戈尔巴乔夫改革，直至苏联解体和九一一后的颠倒世界。拉费伯尔特别强调核武器如何改变对抗形式，美国国内的利益结构和意识形态如何驱动对外政策，以及后冷战时代美俄关系为何未能走向真正和解。本书不仅是一部冷战史，更是理解今天中美俄三角关系的底层逻辑。</itunes:summary>
+      <itunes:duration>00:29:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-f1f0d6.mp3" length="28385325" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
