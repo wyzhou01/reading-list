@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 02:58:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 03:07:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32239,6 +32239,17 @@
       <itunes:duration>00:26:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-225fe3.mp3" length="25128237" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中国古代官僚政治》 · 完整版 · 中国古代官僚政治 · 完整讲读</title>
+      <description>《中国古代官僚政治》以官僚行政管理为切口，把秦汉至明清两千年看作一部庞大的君主官僚机器演化史：皇帝借助神化、伦常、等级三重铁幕，把自己架在官僚机器的最高处；宰相从独相、群体宰相一路被压缩到明清的废相；科举、考课、监察这些看似严密的官僚更新机制，最终都只能筛选出忠于皇权的环节，而无法锻造出真正独立的政治脊梁；胥吏与幕僚在公文迷宫里结成看不见的手，把官僚政治的社会化推向极致。读这本书的真正意义，不在于给两千年的传统下一个定论，而在于让我们用一双被训练过的眼睛，重新看见自己身边那张由文件、流程、考核与汇报织成的网。</description>
+      <pubDate>Sun, 11 Oct 2026 03:07:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-88c80b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《中国古代官僚政治》以官僚行政管理为切口，把秦汉至明清两千年看作一部庞大的君主官僚机器演化史：皇帝借助神化、伦常、等级三重铁幕，把自己架在官僚机器的最高处；宰相从独相、群体宰相一路被压缩到明清的废相；科举、考课、监察这些看似严密的官僚更新机制，最终都只能筛选出忠于皇权的环节，而无法锻造出真正独立的政治脊梁；胥吏与幕僚在公文迷宫里结成看不见的手，把官僚政治的社会化推向极致。读这本书的真正意义，不在于给两千年的传统下一个定论，而在于让我们用一双被训练过的眼睛，重新看见自己身边那张由文件、流程、考核与汇报织成的网。</itunes:summary>
+      <itunes:duration>00:37:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-88c80b.mp3" length="35877549" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
