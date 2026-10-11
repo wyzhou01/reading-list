@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 13:01:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 13:13:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33112,6 +33112,17 @@
       <itunes:duration>00:18:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-3998bb.mp3" length="18104109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《芬妮·希尔：欢场女子回忆录》 · 完整版 · 芬妮·希尔 · 完整讲读</title>
+      <description>《芬妮·希尔》是十八世纪英国作家约翰·克利兰创作的争议之作，以一位高级妓女的自述形式，直白描绘了伦敦性产业的面貌。小说通过芬妮从贫困少女到伦敦名妓的遭遇，展现了欲望与道德的永恒冲突、底层女性在经济困境中的生存策略、以及性与权力之间的交织。书中虽以大量篇幅描写情爱场景，却在结尾处安排了向正统礼教示好的道德收束，这种矛盾恰恰映射出十八世纪英国社会在性与伦理之间的撕裂。作为英国文学史上色情小说的开山之作，它不仅引发了当时的道德争议，更成为研究十八世纪社会风貌、性别政治与文学审查的重要文本。</description>
+      <pubDate>Sun, 11 Oct 2026 13:13:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-fbe515</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《芬妮·希尔》是十八世纪英国作家约翰·克利兰创作的争议之作，以一位高级妓女的自述形式，直白描绘了伦敦性产业的面貌。小说通过芬妮从贫困少女到伦敦名妓的遭遇，展现了欲望与道德的永恒冲突、底层女性在经济困境中的生存策略、以及性与权力之间的交织。书中虽以大量篇幅描写情爱场景，却在结尾处安排了向正统礼教示好的道德收束，这种矛盾恰恰映射出十八世纪英国社会在性与伦理之间的撕裂。作为英国文学史上色情小说的开山之作，它不仅引发了当时的道德争议，更成为研究十八世纪社会风貌、性别政治与文学审查的重要文本。</itunes:summary>
+      <itunes:duration>00:26:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-fbe515.mp3" length="25623597" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
