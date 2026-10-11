@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 01:39:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 01:47:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32107,6 +32107,17 @@
       <itunes:duration>00:27:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-e1ec0d.mp3" length="26201901" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《关系力》 · 完整版 · 关系力(1) · 完整讲读</title>
+      <description>《关系力》是一本把销售从话术拉回到关系的底层操作系统。它用二百五十乘以二百五的人脉数据库、ABC 分级、完美客户化身、三个沟通层面、社会认同临界点、感谢文化六大工具，回答了一个被无数销售人员忽略的问题——客户为什么会选择你？答案是：不是产品多好、话术多溜，而是你和他的关系有多真。当外部环境越来越卷、流量越来越贵、信任成本越来越高，把关系放在第一位，反而成了业绩最稳定的来源。本书给出的不是一套聪明的销售技巧，而是一套可以执行一生的做人哲学——先做人，再做生意，让客户主动来找你。</description>
+      <pubDate>Sun, 11 Oct 2026 01:47:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-6de397</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《关系力》是一本把销售从话术拉回到关系的底层操作系统。它用二百五十乘以二百五的人脉数据库、ABC 分级、完美客户化身、三个沟通层面、社会认同临界点、感谢文化六大工具，回答了一个被无数销售人员忽略的问题——客户为什么会选择你？答案是：不是产品多好、话术多溜，而是你和他的关系有多真。当外部环境越来越卷、流量越来越贵、信任成本越来越高，把关系放在第一位，反而成了业绩最稳定的来源。本书给出的不是一套聪明的销售技巧，而是一套可以执行一生的做人哲学——先做人，再做生意，让客户主动来找你。</itunes:summary>
+      <itunes:duration>00:32:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-6de397.mp3" length="31206573" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
