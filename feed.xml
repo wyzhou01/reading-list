@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 15:51:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 15:59:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33398,6 +33398,17 @@
       <itunes:duration>00:17:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-9d7b46.mp3" length="17270829" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《燕南园往事》 · 完整版 · 燕南园往事 · 完整讲读</title>
+      <description>《燕南园往事》是汤一介、乐黛云夫妇合著的私人回忆录，以北京大学燕南园五十八号为坐标，记述两代人在二十世纪后半叶的全部颠沛。书中以儿童视角与学者视角交替呈现，把一九五二年院系调整后的幸福童年、一九六八年被扫地出门的劳改岁月、儿女下乡与求学的惊险一跃、母亲作为精神中心守护下的离散与重聚，一一收纳进腌雪里蕻、烤白薯、储藏室床板、毒草书箱与未名湖散步这些微小而具体的日常细节里。乐黛云在前言里点破了贯穿全书的精神姿态——把悲剧变成喜剧的本领；汤一介在后记里用两只绕湖同行的小鸟为这种姿态作了最终定格。本书是理解二十世纪中国知识分子精神史最私人、也最坚韧的一份证词。</description>
+      <pubDate>Sun, 11 Oct 2026 15:59:46 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-503fe4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《燕南园往事》是汤一介、乐黛云夫妇合著的私人回忆录，以北京大学燕南园五十八号为坐标，记述两代人在二十世纪后半叶的全部颠沛。书中以儿童视角与学者视角交替呈现，把一九五二年院系调整后的幸福童年、一九六八年被扫地出门的劳改岁月、儿女下乡与求学的惊险一跃、母亲作为精神中心守护下的离散与重聚，一一收纳进腌雪里蕻、烤白薯、储藏室床板、毒草书箱与未名湖散步这些微小而具体的日常细节里。乐黛云在前言里点破了贯穿全书的精神姿态——把悲剧变成喜剧的本领；汤一介在后记里用两只绕湖同行的小鸟为这种姿态作了最终定格。本书是理解二十世纪中国知识分子精神史最私人、也最坚韧的一份证词。</itunes:summary>
+      <itunes:duration>00:36:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-503fe4.mp3" length="34724013" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
