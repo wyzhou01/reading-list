@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 06:57:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 07:04:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32591,6 +32591,17 @@
       <itunes:duration>00:19:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-d1e941.mp3" length="19039149" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《牛津通识读本：卡夫卡是谁（中文版）》 · 完整版 · 牛津通识读本：卡夫卡是谁（中文版） · 完整讲读</title>
+      <description>《卡夫卡是谁》是牛津通识读本系列中的一本,作者罗伯逊不从逐部作品赏析入手,而是把卡夫卡当作一个被二十世纪反复塑造的文化偶像来追问。本书五个章节分别回到卡夫卡生长的布拉格犹太社区、任职的工人事故保险事务所、浸染的犹太律法传统与世纪末维也纳精神氛围,再去解释小说里那些古怪的身体变形、精密的法律机器、难以企及的城堡。罗伯逊强调卡夫卡既是凡俗小职员,也是造出K.和城堡的天才,提醒读者警惕寓言式过度阐释,在祛魅与敬畏之间找到阅读卡夫卡的恰当姿态。</description>
+      <pubDate>Sun, 11 Oct 2026 07:04:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-bc3c47</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《卡夫卡是谁》是牛津通识读本系列中的一本,作者罗伯逊不从逐部作品赏析入手,而是把卡夫卡当作一个被二十世纪反复塑造的文化偶像来追问。本书五个章节分别回到卡夫卡生长的布拉格犹太社区、任职的工人事故保险事务所、浸染的犹太律法传统与世纪末维也纳精神氛围,再去解释小说里那些古怪的身体变形、精密的法律机器、难以企及的城堡。罗伯逊强调卡夫卡既是凡俗小职员,也是造出K.和城堡的天才,提醒读者警惕寓言式过度阐释,在祛魅与敬畏之间找到阅读卡夫卡的恰当姿态。</itunes:summary>
+      <itunes:duration>00:25:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-bc3c47.mp3" length="24745005" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
