@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 07:11:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 07:17:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32613,6 +32613,17 @@
       <itunes:duration>00:29:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-f1f0d6.mp3" length="28385325" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《唐宋词格律》 · 完整版 · 唐宋词格律_(词系列)_-_龙榆生_著 · 完整讲读</title>
+      <description>《唐宋词格律》是龙榆生先生讲授唐宋词的讲义，按平韵、仄韵、平仄韵转换、平仄韵通叶、平仄韵错叶五类格律，收录唐宋词常见词牌一百五十余调，每调说明来历演变与适宜表达的情感，附定格、变格与唐宋名作示例。书后附张珍怀编《词韵简编》，分十九部词韵，是学习唐宋词体制格律最便捷的入门书，也是词学研究者的常备工具书。</description>
+      <pubDate>Sun, 11 Oct 2026 07:17:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-93734b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《唐宋词格律》是龙榆生先生讲授唐宋词的讲义，按平韵、仄韵、平仄韵转换、平仄韵通叶、平仄韵错叶五类格律，收录唐宋词常见词牌一百五十余调，每调说明来历演变与适宜表达的情感，附定格、变格与唐宋名作示例。书后附张珍怀编《词韵简编》，分十九部词韵，是学习唐宋词体制格律最便捷的入门书，也是词学研究者的常备工具书。</itunes:summary>
+      <itunes:duration>00:24:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-93734b.mp3" length="23698221" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
