@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 17:53:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 17:58:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33508,6 +33508,17 @@
       <itunes:duration>00:24:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-de556e.mp3" length="23764269" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《子弹笔记》 · 完整版 · 子弹笔记 · 完整讲读</title>
+      <description>《子弹笔记》作者赖德·卡罗尔从小被诊断患有多动症，为修补大脑缺陷，他花了十几年发明了一套笨办法——用一本纸质笔记本整合规划簿、日记本、清单与速写簿。他没料到这套方法会被全球数百万人用来对抗一种更普遍的现代病：缺乏自我意识。在信息如潮涌来、注意力被切碎的数字时代，我们与他人前所未有地相连，却与自我迅速失联。本书给出三大支柱：注意力是一种可以被安放的能力，工具是一种最小公约数，书写是一种自我连接。子弹笔记的解法出人意料地简单——一支笔、一个本子、亲手写下每一笔、每一画、每一个符号。今天我们把三大支柱和数字时代真实症状对在一起，看它如何具体落地。</description>
+      <pubDate>Sun, 11 Oct 2026 17:57:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-b14cbb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《子弹笔记》作者赖德·卡罗尔从小被诊断患有多动症，为修补大脑缺陷，他花了十几年发明了一套笨办法——用一本纸质笔记本整合规划簿、日记本、清单与速写簿。他没料到这套方法会被全球数百万人用来对抗一种更普遍的现代病：缺乏自我意识。在信息如潮涌来、注意力被切碎的数字时代，我们与他人前所未有地相连，却与自我迅速失联。本书给出三大支柱：注意力是一种可以被安放的能力，工具是一种最小公约数，书写是一种自我连接。子弹笔记的解法出人意料地简单——一支笔、一个本子、亲手写下每一笔、每一画、每一个符号。今天我们把三大支柱和数字时代真实症状对在一起，看它如何具体落地。</itunes:summary>
+      <itunes:duration>00:23:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-b14cbb.mp3" length="22260141" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
