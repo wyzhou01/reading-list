@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 01:21:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 01:27:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32074,6 +32074,17 @@
       <itunes:duration>00:25:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-b270b3.mp3" length="24738477" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《道金斯科学经典系列》 · 完整版 · 道金斯科学经典系列 · 完整讲读</title>
+      <description>本音频系统拆解理查德·道金斯三部代表作：用基因视角重写生命的剧本，以累积选择解释复杂设计何以无须设计者，再以贯穿文集的笔锋向迷信与相对主义宣战。从孔雀尾巴到迷因理论，从间断平衡到文化复制，道金斯主张自然选择是解释生命复杂性的唯一理性机制，科学真理不应向任何安慰性叙事妥协。理解道金斯，就是在 AI 与基因编辑重塑生命定义的今天，重新学会区分什么算设计、什么算自然、什么算真理。</description>
+      <pubDate>Sun, 11 Oct 2026 01:27:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-5dd76d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本音频系统拆解理查德·道金斯三部代表作：用基因视角重写生命的剧本，以累积选择解释复杂设计何以无须设计者，再以贯穿文集的笔锋向迷信与相对主义宣战。从孔雀尾巴到迷因理论，从间断平衡到文化复制，道金斯主张自然选择是解释生命复杂性的唯一理性机制，科学真理不应向任何安慰性叙事妥协。理解道金斯，就是在 AI 与基因编辑重塑生命定义的今天，重新学会区分什么算设计、什么算自然、什么算真理。</itunes:summary>
+      <itunes:duration>00:25:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-5dd76d.mp3" length="24313389" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
