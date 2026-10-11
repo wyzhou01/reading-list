@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 05:37:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 05:43:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32437,6 +32437,17 @@
       <itunes:duration>00:27:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-fa7fb9.mp3" length="26038701" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《寡头：新俄罗斯的财富与权力》 · 完整版 · 寡头 · 完整讲读</title>
+      <description>《寡头》是美国记者戴维·霍夫曼用十年驻俄调查写成的俄罗斯转型史。六个原本默默无闻的苏联人——数学家、司机、咖啡馆老板、出租司机、工厂干部、改革派官员——在苏联解体的历史真空中，趁乱攫取了国家最关键的工业命脉与新闻媒体，摇身变为新俄罗斯的拥有者与统治者。然而他们与叶利钦之间那条以财富换权力的铁链，在普京上台后被斩断又重新锻造：第一代寡头被流放、被监禁、被边缘化，安全系统出身的西罗维基取而代之，接管了媒体、石油与政治任命权。从寡头到强人，换的是人，不换的是结构。霍夫曼用三百余人的访谈与长达十年的现场观察，揭示了一个被反复验证的命题：当法治缺席，财富与权力的相互吞噬，不会因为掌舵者的更换而停止，只会换一种更隐蔽的形式继续。</description>
+      <pubDate>Sun, 11 Oct 2026 05:43:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-fe8388</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《寡头》是美国记者戴维·霍夫曼用十年驻俄调查写成的俄罗斯转型史。六个原本默默无闻的苏联人——数学家、司机、咖啡馆老板、出租司机、工厂干部、改革派官员——在苏联解体的历史真空中，趁乱攫取了国家最关键的工业命脉与新闻媒体，摇身变为新俄罗斯的拥有者与统治者。然而他们与叶利钦之间那条以财富换权力的铁链，在普京上台后被斩断又重新锻造：第一代寡头被流放、被监禁、被边缘化，安全系统出身的西罗维基取而代之，接管了媒体、石油与政治任命权。从寡头到强人，换的是人，不换的是结构。霍夫曼用三百余人的访谈与长达十年的现场观察，揭示了一个被反复验证的命题：当法治缺席，财富与权力的相互吞噬，不会因为掌舵者的更换而停止，只会换一种更隐蔽的形式继续。</itunes:summary>
+      <itunes:duration>00:29:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-fe8388.mp3" length="28360365" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
