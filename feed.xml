@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 13:18:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 13:23:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33134,6 +33134,17 @@
       <itunes:duration>00:15:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-8c9182.mp3" length="14662701" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《战天京：晚清军政传信录》 · 完整版 · 战天京：晚清军政传信录 · 完整讲读</title>
+      <description>《战天京》是一本硬核考据的晚清军政史，作者谭伯牛用奏折、书信、日记这些第一手材料，还原湘军与太平天国战争的真实面相。本书的核心追问是：书生凭什么压过百年绿营？曾氏兄弟、左宗棠、李鸿章如何在枪林弹雨里既打天下又抢椅子？答案不是道德感召，而是结网、狠干、分钱三件套。读完本书，你会看到一个有脾气、有算计、有软肋的曾国藩，一个被传为【曾剃头】的曾国荃，一个【呆狠】到底的湖南书生群体，以及那座被攻破的天京背后，被神话掩盖的真实数字。</description>
+      <pubDate>Sun, 11 Oct 2026 13:23:46 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-8839d8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《战天京》是一本硬核考据的晚清军政史，作者谭伯牛用奏折、书信、日记这些第一手材料，还原湘军与太平天国战争的真实面相。本书的核心追问是：书生凭什么压过百年绿营？曾氏兄弟、左宗棠、李鸿章如何在枪林弹雨里既打天下又抢椅子？答案不是道德感召，而是结网、狠干、分钱三件套。读完本书，你会看到一个有脾气、有算计、有软肋的曾国藩，一个被传为【曾剃头】的曾国荃，一个【呆狠】到底的湖南书生群体，以及那座被攻破的天京背后，被神话掩盖的真实数字。</itunes:summary>
+      <itunes:duration>00:26:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-8839d8.mp3" length="24973485" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
