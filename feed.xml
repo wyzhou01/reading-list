@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 22:47:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 22:54:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33684,6 +33684,17 @@
       <itunes:duration>00:23:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-876fc8.mp3" length="22595757" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《你骨子里是个牛人》 · 完整版 · 你骨子里是个牛人 · 完整讲读</title>
+      <description>《你骨子里是个牛人》是一本帮你从潜意识深处翻盘的人生指南。作者珍·塞斯科结合自己从破产边缘逆袭为顶级培训师的真实经历，揭示了一个核心秘密：很多人一辈子卡住，不是因为能力不够，而是因为潜意识里运行着一套从父母、亲戚、社会继承来的烂程序。本书先教你认清这套程序，再把自身频率调到与渴望匹配，用观想重塑潜意识，最后带着恐惧上路、把失败当数据、与金钱彻底和解。整本书的核心只有一句话：从想要改变到决定改变，中间只隔一次呼吸。</description>
+      <pubDate>Sun, 11 Oct 2026 22:54:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-c0d5bd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《你骨子里是个牛人》是一本帮你从潜意识深处翻盘的人生指南。作者珍·塞斯科结合自己从破产边缘逆袭为顶级培训师的真实经历，揭示了一个核心秘密：很多人一辈子卡住，不是因为能力不够，而是因为潜意识里运行着一套从父母、亲戚、社会继承来的烂程序。本书先教你认清这套程序，再把自身频率调到与渴望匹配，用观想重塑潜意识，最后带着恐惧上路、把失败当数据、与金钱彻底和解。整本书的核心只有一句话：从想要改变到决定改变，中间只隔一次呼吸。</itunes:summary>
+      <itunes:duration>00:19:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-c0d5bd.mp3" length="19001901" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
