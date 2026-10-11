@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 13:34:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 13:42:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33167,6 +33167,17 @@
       <itunes:duration>00:23:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-a6c2f6.mp3" length="22525869" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《不成熟的父母》 · 完整版 · 不成熟的父母(1) · 完整讲读</title>
+      <description>《不成熟的父母》是美国资深临床心理学博士琳赛·吉布森的代表作,长期专注于情感不成熟父母这一议题。她发现,这类父母表面正常,内核却依然是个害怕被抛弃的孩子,他们用情绪感染代替沟通,用角色压制代替回应,用沉默和冷暴力筑起一堵墙,把孩子丢在情感的荒野。被迫早熟的孩子,长大后成了所有人眼里最懂事、最不需要照顾的大人,却永远活在一种填不满的空洞里。本书系统梳理了情感不成熟父母的四种类型、童年情感缺失对成年生活的深远影响,并给出了具体的疗愈路径:觉察自己在哪个瞬间又掉进了童年的角色,觉察情绪背后的旧剧本,然后选择一个全新的、不一样的回应。它告诉我们,觉醒不是顿悟,而是无数次看见、命名、重新选择的小瞬间。当一个人终于能对那个八岁的自己说【你不需要再一个人扛了】,他就真正开始,活出属于自己的第二种人生。</description>
+      <pubDate>Sun, 11 Oct 2026 13:42:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-05e25b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《不成熟的父母》是美国资深临床心理学博士琳赛·吉布森的代表作,长期专注于情感不成熟父母这一议题。她发现,这类父母表面正常,内核却依然是个害怕被抛弃的孩子,他们用情绪感染代替沟通,用角色压制代替回应,用沉默和冷暴力筑起一堵墙,把孩子丢在情感的荒野。被迫早熟的孩子,长大后成了所有人眼里最懂事、最不需要照顾的大人,却永远活在一种填不满的空洞里。本书系统梳理了情感不成熟父母的四种类型、童年情感缺失对成年生活的深远影响,并给出了具体的疗愈路径:觉察自己在哪个瞬间又掉进了童年的角色,觉察情绪背后的旧剧本,然后选择一个全新的、不一样的回应。它告诉我们,觉醒不是顿悟,而是无数次看见、命名、重新选择的小瞬间。当一个人终于能对那个八岁的自己说【你不需要再一个人扛了】,他就真正开始,活出属于自己的第二种人生。</itunes:summary>
+      <itunes:duration>00:25:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-05e25b.mp3" length="24810285" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
