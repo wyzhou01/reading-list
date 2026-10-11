@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 00:31:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 00:37:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31975,6 +31975,17 @@
       <itunes:duration>00:30:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-492783.mp3" length="29654829" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《浮年锦记·巴黎2555天》 · 完整版 · 浮年锦记·巴黎2555天_-_郑乔尹 · 完整讲读</title>
+      <description>《浮年锦记》记录上海姑娘郑乔尹 22 岁赴法、28 岁回国的七年时光。她在巴黎圣母院柱子旁遇见法国男孩安祖,在 19 区贫民窟与偷渡房东阿美为邻,在语言班里结识日韩越荷美各国同学。书里没有传奇,只有异国他乡里那些细碎的失眠、错过、心动与告别。她用克制又温情的笔触,把青春原原本本写给了所有曾在异乡漂泊的人——我们都是普通小民,收获友情,接受异议,做好自己。</description>
+      <pubDate>Sun, 11 Oct 2026 00:36:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-f6f134</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《浮年锦记》记录上海姑娘郑乔尹 22 岁赴法、28 岁回国的七年时光。她在巴黎圣母院柱子旁遇见法国男孩安祖,在 19 区贫民窟与偷渡房东阿美为邻,在语言班里结识日韩越荷美各国同学。书里没有传奇,只有异国他乡里那些细碎的失眠、错过、心动与告别。她用克制又温情的笔触,把青春原原本本写给了所有曾在异乡漂泊的人——我们都是普通小民,收获友情,接受异议,做好自己。</itunes:summary>
+      <itunes:duration>00:26:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-f6f134.mp3" length="25577517" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
