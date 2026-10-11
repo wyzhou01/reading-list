@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 18:50:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 18:56:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33618,6 +33618,17 @@
       <itunes:duration>00:25:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-d27db4.mp3" length="24217389" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《对白：文字、舞台、银幕的言语行为艺术》 · 完整版 · 对白：文字、舞台、银幕的言语行为艺术 · 完整讲读</title>
+      <description>本书是好莱坞剧作家导师罗伯特·麦基继《故事》之后，用四十年时间只回答一个问题——一段好对白究竟是怎么写出来的。核心颠覆在于：对白不是台词，对白是行动。角色开口说话，不是因为作者要他说话，而是因为他有欲望要推进，是被内在节拍逼着开口。本书由此带读者钻进潜文本、节拍、角色专属声音三大腹地，并以《格拉斯医生》《裘力斯·凯撒》《我为喜剧古》《迷失东京》等七个跨越文学戏剧影视的样本，逐句拆解对白如何同时满足欲望表达、潜文本藏匿、节拍翻转、声音指纹四重咬合。无论你写小说、剧本还是商务沟通，麦基给出的不是配方，而是一套以潜文本思维穿透一切需要打动人心的表达的诊断工具。</description>
+      <pubDate>Sun, 11 Oct 2026 18:56:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-97d509</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是好莱坞剧作家导师罗伯特·麦基继《故事》之后，用四十年时间只回答一个问题——一段好对白究竟是怎么写出来的。核心颠覆在于：对白不是台词，对白是行动。角色开口说话，不是因为作者要他说话，而是因为他有欲望要推进，是被内在节拍逼着开口。本书由此带读者钻进潜文本、节拍、角色专属声音三大腹地，并以《格拉斯医生》《裘力斯·凯撒》《我为喜剧古》《迷失东京》等七个跨越文学戏剧影视的样本，逐句拆解对白如何同时满足欲望表达、潜文本藏匿、节拍翻转、声音指纹四重咬合。无论你写小说、剧本还是商务沟通，麦基给出的不是配方，而是一套以潜文本思维穿透一切需要打动人心的表达的诊断工具。</itunes:summary>
+      <itunes:duration>00:22:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-97d509.mp3" length="21516717" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
