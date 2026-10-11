@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 15:39:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 15:47:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33376,6 +33376,17 @@
       <itunes:duration>00:19:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-3e2f88.mp3" length="19022637" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《猎狐》 · 完整版 · 猎狐 · 完整讲读</title>
+      <description>《猎狐》是一部聚焦经侦题材的现实主义小说，讲述了市公安局经侦科警察林峰啃下济源公司十年间非法集资十亿七千万的故事。钱子寅靠着百分之三十到四十的高息承诺和两百多个营业分部，在鲁北市及周边编织了一张盘根错节的官商黑网。当一位老人从济源大厦跳下、用藏好的合同留下最后证据时，林峰顺着这条线索一路追查，最终把这件事件背后的保护伞、向正义谋杀案、跨国出逃一一撕开。小说用四十小时没睡的警察、擦地的保安、开死亡证明的医生、提前点火的火葬场，写出了骗局崩盘时整张系统如何默契地毁尸灭迹，也写出了普通人在最后关头能做的最有价值的事——把证据留下来。</description>
+      <pubDate>Sun, 11 Oct 2026 15:47:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-bc38de</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《猎狐》是一部聚焦经侦题材的现实主义小说，讲述了市公安局经侦科警察林峰啃下济源公司十年间非法集资十亿七千万的故事。钱子寅靠着百分之三十到四十的高息承诺和两百多个营业分部，在鲁北市及周边编织了一张盘根错节的官商黑网。当一位老人从济源大厦跳下、用藏好的合同留下最后证据时，林峰顺着这条线索一路追查，最终把这件事件背后的保护伞、向正义谋杀案、跨国出逃一一撕开。小说用四十小时没睡的警察、擦地的保安、开死亡证明的医生、提前点火的火葬场，写出了骗局崩盘时整张系统如何默契地毁尸灭迹，也写出了普通人在最后关头能做的最有价值的事——把证据留下来。</itunes:summary>
+      <itunes:duration>00:24:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-bc38de.mp3" length="23637549" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
