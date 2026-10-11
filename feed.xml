@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 05:20:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 05:26:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32404,6 +32404,17 @@
       <itunes:duration>00:32:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-8923f9.mp3" length="31269165" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《赤裸裸的统计学》 · 完整版 · 赤裸裸的统计学 · 完整讲读</title>
+      <description>在数据爆炸的时代，我们每天都被数字包围，却很少有人真正懂得如何与数据相处。查尔斯·惠伦的《赤裸裸的统计学》不做公式，只做翻译，把复杂的统计概念翻译成普通人也能听懂的直觉。从棒球击球率到癌症诱因，从蒙提·霍尔悖论到塔吉特商场比父亲更早知道女儿怀孕的真实故事，惠伦用一整本书讲清楚了三件事：描述统计学教会我们不轻信单一数字，相关性教会我们警惕【相关不等于因果】，概率与回归分析教会我们在不确定性下做出有节制的判断。当统计学比我们父母还了解我们的时候，惠伦提醒我们：火、小刀、汽车，每一样东西都有重要功能，每一样东西如果被滥用都会造成严重后果。用数据说谎容易，但用数据说出真相很难——这本书，就是教你如何走向后者。</description>
+      <pubDate>Sun, 11 Oct 2026 05:26:46 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-639e3b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>在数据爆炸的时代，我们每天都被数字包围，却很少有人真正懂得如何与数据相处。查尔斯·惠伦的《赤裸裸的统计学》不做公式，只做翻译，把复杂的统计概念翻译成普通人也能听懂的直觉。从棒球击球率到癌症诱因，从蒙提·霍尔悖论到塔吉特商场比父亲更早知道女儿怀孕的真实故事，惠伦用一整本书讲清楚了三件事：描述统计学教会我们不轻信单一数字，相关性教会我们警惕【相关不等于因果】，概率与回归分析教会我们在不确定性下做出有节制的判断。当统计学比我们父母还了解我们的时候，惠伦提醒我们：火、小刀、汽车，每一样东西都有重要功能，每一样东西如果被滥用都会造成严重后果。用数据说谎容易，但用数据说出真相很难——这本书，就是教你如何走向后者。</itunes:summary>
+      <itunes:duration>00:34:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-639e3b.mp3" length="33149613" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
