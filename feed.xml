@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 18:56:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 19:00:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33629,6 +33629,17 @@
       <itunes:duration>00:22:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-97d509.mp3" length="21516717" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《潮来潮去：海关与中国现代性的全球起源》 · 完整版 · 潮来潮去：海关与中国现代性的全球起源 · 完整讲读</title>
+      <description>《潮来潮去》是英国历史学者方德万撰写的中国近代海关通史。从一八五四年上海小刀会起义后建立的临时税关起，到一九四九年海关被新中国接管止，这座由外国人执掌、却向中国朝廷交差的国家机构，穿越帝国、共和、抗日与内战，替中国征税、举债、办外交、缉走私、抵御外侮，是近代中国唯一未曾中断的全国性官僚体系。方德万以海关为棱镜，翻转了【农村革命】的中国近代史叙事，指出全球化、外债、人才网络与国际制度才是塑造现代中国更深层的结构。这本书既是对帝国主义的祛魅，也是对中国融入世界之韧性的重新理解。</description>
+      <pubDate>Sun, 11 Oct 2026 19:00:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-d2f104</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《潮来潮去》是英国历史学者方德万撰写的中国近代海关通史。从一八五四年上海小刀会起义后建立的临时税关起，到一九四九年海关被新中国接管止，这座由外国人执掌、却向中国朝廷交差的国家机构，穿越帝国、共和、抗日与内战，替中国征税、举债、办外交、缉走私、抵御外侮，是近代中国唯一未曾中断的全国性官僚体系。方德万以海关为棱镜，翻转了【农村革命】的中国近代史叙事，指出全球化、外债、人才网络与国际制度才是塑造现代中国更深层的结构。这本书既是对帝国主义的祛魅，也是对中国融入世界之韧性的重新理解。</itunes:summary>
+      <itunes:duration>00:17:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-d2f104.mp3" length="16427565" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
