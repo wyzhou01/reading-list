@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 00:56:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 01:02:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32030,6 +32030,17 @@
       <itunes:duration>00:32:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-f26b45.mp3" length="31213869" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《说吧，叙利亚》 · 完整版 · 说吧，叙利亚（远行译丛） · 完整讲读</title>
+      <description>《说吧，叙利亚》是侦探小说女王阿加莎·克里斯蒂的非虚构代表作。她用一杯淡啤酒般的笔调，记录了二十世纪三十年代随考古学家丈夫马克斯·马洛万在叙利亚北部参加五次发掘季的日常。本书没有密室谋杀，只有丘墟烈日、跳蚤、拉链旅行袋、阿拉伯工头读不准的腕表，以及一群活生生的人——库尔德工人、阿拉伯工头、永远不洗手的萨布里、读不懂钟点的哈穆迪。它是一幅战前中东乡间生活的素描，幽默、温情，带着一丝挥之不去的忧伤。一九四六年出版后，它不仅是一部考古游记，更成了一份被时光封存的证词——为那个尚未被战火撕裂的中东、那份悠闲与尊严，立下了一座小小的文字墓碑。</description>
+      <pubDate>Sun, 11 Oct 2026 01:02:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-b4a1c4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《说吧，叙利亚》是侦探小说女王阿加莎·克里斯蒂的非虚构代表作。她用一杯淡啤酒般的笔调，记录了二十世纪三十年代随考古学家丈夫马克斯·马洛万在叙利亚北部参加五次发掘季的日常。本书没有密室谋杀，只有丘墟烈日、跳蚤、拉链旅行袋、阿拉伯工头读不准的腕表，以及一群活生生的人——库尔德工人、阿拉伯工头、永远不洗手的萨布里、读不懂钟点的哈穆迪。它是一幅战前中东乡间生活的素描，幽默、温情，带着一丝挥之不去的忧伤。一九四六年出版后，它不仅是一部考古游记，更成了一份被时光封存的证词——为那个尚未被战火撕裂的中东、那份悠闲与尊严，立下了一座小小的文字墓碑。</itunes:summary>
+      <itunes:duration>00:29:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-b4a1c4.mp3" length="28725549" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
