@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 17:23:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 17:29:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33453,6 +33453,17 @@
       <itunes:duration>00:33:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-c65859.mp3" length="32148909" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《甲子2：中国60年民生记录》 · 完整版 · 甲子2：中国60年民生记录 · 完整讲读</title>
+      <description>《甲子2：中国60年民生记录》是纪录片导演陈晓卿与朱乐贤合著的国民记忆读本。两人用天干地支纪年，从一九四四年到二零零零年，每隔十二年取一个节点，从私人相册、影像档案和老人口述里，把六十年的吃穿住行、生老病死，一个故事一个故事地打捞出来。全书聚焦普通人如何经历扫盲、土改、镇反、大跃进、三年困难、文革、改革开放等大事件，呈现官方宏大叙事之外普通中国人的真实处境。书中七块核心拼图——识字、主权、动员、拆家、信任、日常、试探——共同回答了一个问题：在每一个看似不可抗拒的时代洪流里，普通人如何用肉身趟出自己的路。</description>
+      <pubDate>Sun, 11 Oct 2026 17:29:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-a24202</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《甲子2：中国60年民生记录》是纪录片导演陈晓卿与朱乐贤合著的国民记忆读本。两人用天干地支纪年，从一九四四年到二零零零年，每隔十二年取一个节点，从私人相册、影像档案和老人口述里，把六十年的吃穿住行、生老病死，一个故事一个故事地打捞出来。全书聚焦普通人如何经历扫盲、土改、镇反、大跃进、三年困难、文革、改革开放等大事件，呈现官方宏大叙事之外普通中国人的真实处境。书中七块核心拼图——识字、主权、动员、拆家、信任、日常、试探——共同回答了一个问题：在每一个看似不可抗拒的时代洪流里，普通人如何用肉身趟出自己的路。</itunes:summary>
+      <itunes:duration>00:30:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-a24202.mp3" length="29253165" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
