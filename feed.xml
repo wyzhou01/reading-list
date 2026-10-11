@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 18:05:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 18:12:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33530,6 +33530,17 @@
       <itunes:duration>00:27:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-eea60f.mp3" length="26112045" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《身体从未忘记：心理创伤疗愈中的大脑、心智和身体》 · 完整版 · 身体从未忘记：心理创伤疗愈中的大脑、心智和身体 · 完整讲读</title>
+      <description>《身体从未忘记》是精神科医生范德考克四十年创伤治疗经验的总结。它用神经科学、发展心理学与身体治疗的三重视角，颠覆了主流精神医学对创伤的理解——创伤幸存者不是有病的人，而是被卡住的人。警报器失控、瞭望塔关机、计时器冻结、身体替大脑记住了大脑拒绝回放的东西。本书从越战退伍士兵写到童年虐待受害者，从谈话治疗的局限写到眼动脱敏、神经反馈、瑜伽、家庭内部系统治疗等身体导向疗法的崛起，最终指向一个朴素的结论：真正的疗愈必须落到身体里，而康复之路就是生活之路。</description>
+      <pubDate>Sun, 11 Oct 2026 18:12:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-6612a8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《身体从未忘记》是精神科医生范德考克四十年创伤治疗经验的总结。它用神经科学、发展心理学与身体治疗的三重视角，颠覆了主流精神医学对创伤的理解——创伤幸存者不是有病的人，而是被卡住的人。警报器失控、瞭望塔关机、计时器冻结、身体替大脑记住了大脑拒绝回放的东西。本书从越战退伍士兵写到童年虐待受害者，从谈话治疗的局限写到眼动脱敏、神经反馈、瑜伽、家庭内部系统治疗等身体导向疗法的崛起，最终指向一个朴素的结论：真正的疗愈必须落到身体里，而康复之路就是生活之路。</itunes:summary>
+      <itunes:duration>00:25:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-6612a8.mp3" length="24083757" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
