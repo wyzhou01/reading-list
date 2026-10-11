@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 11:41:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 11:47:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32969,6 +32969,17 @@
       <itunes:duration>00:20:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-72976d.mp3" length="19982253" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《古诗源》 · 完整版 · 古诗源【mebook.cc】 · 完整讲读</title>
+      <description>《古诗源》是清代诗坛盟主沈德潜编选的唐以前诗歌总集，从上古尧舜时代的击壤歌谣一路收到隋朝，共十四卷七百余首。本书的核心目的，是打破明末清初只知学唐的流弊，让人看见唐诗这一巅峰之下，还有一千多年的来路——从民间歌谣的源头，到汉魏风骨与乐府的双线分流，再到魏晋南北朝风骨与声色的交织。这条诗的河流，从昆仑源头一路流淌，最终汇成唐诗的汪洋。读懂源头，才真的懂唐诗。</description>
+      <pubDate>Sun, 11 Oct 2026 11:46:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-ebd64c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《古诗源》是清代诗坛盟主沈德潜编选的唐以前诗歌总集，从上古尧舜时代的击壤歌谣一路收到隋朝，共十四卷七百余首。本书的核心目的，是打破明末清初只知学唐的流弊，让人看见唐诗这一巅峰之下，还有一千多年的来路——从民间歌谣的源头，到汉魏风骨与乐府的双线分流，再到魏晋南北朝风骨与声色的交织。这条诗的河流，从昆仑源头一路流淌，最终汇成唐诗的汪洋。读懂源头，才真的懂唐诗。</itunes:summary>
+      <itunes:duration>00:23:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-ebd64c.mp3" length="22601517" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
