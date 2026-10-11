@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 03:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 03:25:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32272,6 +32272,17 @@
       <itunes:duration>00:30:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-9752d7.mp3" length="29257005" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《每天5分钟听透BBC》 · 完整版 · 每天5分钟听透BBC_-_方振宇&amp;陈丽星 · 完整讲读</title>
+      <description>《每天 5 分钟听透 BBC》由方振宇和陈丽星主编，海豚出版社 2013 年出版。它针对中国英语学习者【阅读写作尚可、一听原版新闻就崩溃】的普遍困境，提供了一套系统、循序渐进的正常语速新闻听力训练方案。全书精选 65 篇 BBC 正常语速新闻，按美国大选、国际热点、暴力冲突、财经、法律、事故、科技、文化、天气、万花筒、伦敦奥运、文艺、英伦广角等十三个专题切分，每篇配新闻背景、词汇热身、泛听填词、精听填句、复听选择、长难句解析和全文译文，每个专题附一则听力技巧，共十三则，涵盖合理预测、辨音规则、预读选项、把握脉络、巧用逻辑、注重积累等真实可操作的训练方法。【泛听—精听—复听】的科学循环打破听力障碍，【先验预测】重塑听觉聚焦，【听—读—译】协同打破单项训练的局限。它不教你某一个考点，而是帮你重新建立一套听英文新闻的耳朵系统，是一份扎实、可迁移、十年后依然值得细读的英文新闻听力训练手册。</description>
+      <pubDate>Sun, 11 Oct 2026 03:25:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-c01e7e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《每天 5 分钟听透 BBC》由方振宇和陈丽星主编，海豚出版社 2013 年出版。它针对中国英语学习者【阅读写作尚可、一听原版新闻就崩溃】的普遍困境，提供了一套系统、循序渐进的正常语速新闻听力训练方案。全书精选 65 篇 BBC 正常语速新闻，按美国大选、国际热点、暴力冲突、财经、法律、事故、科技、文化、天气、万花筒、伦敦奥运、文艺、英伦广角等十三个专题切分，每篇配新闻背景、词汇热身、泛听填词、精听填句、复听选择、长难句解析和全文译文，每个专题附一则听力技巧，共十三则，涵盖合理预测、辨音规则、预读选项、把握脉络、巧用逻辑、注重积累等真实可操作的训练方法。【泛听—精听—复听】的科学循环打破听力障碍，【先验预测】重塑听觉聚焦，【听—读—译】协同打破单项训练的局限。它不教你某一个考点，而是帮你重新建立一套听英文新闻的耳朵系统，是一份扎实、可迁移、十年后依然值得细读的英文新闻听力训练手册。</itunes:summary>
+      <itunes:duration>00:24:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-c01e7e.mp3" length="23599917" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
