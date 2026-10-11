@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 03:55:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 04:01:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32327,6 +32327,17 @@
       <itunes:duration>00:25:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-5d9948.mp3" length="24859821" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《明人的率性生活》 · 完整版 · 明人的率性生活 · 完整讲读</title>
+      <description>《明人的率性生活》是袁灿兴深耕明清社会生活史的通俗力作,以燕饮欢歌、文化娱乐、穿住行、民间信仰、女性生活、鱼龙江湖六大维度,全景式还原明中后期挣脱皇权禁锢后的世俗盛景。西门庆的美酒、张岱的茶、唐伯虎的画、董小宛的菜、五通神的烟火、青楼的悲欢、江湖的险恶,共同拼出一幅璀璨而又布满裂缝的晚明画卷。本书不仅是填补空白的市井风物志,更是理解中国人世俗基因从何而来的窗口,带我们在惊艳的烟火气里,照见今天脚下这片土地的气质。</description>
+      <pubDate>Sun, 11 Oct 2026 04:00:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-d96562</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《明人的率性生活》是袁灿兴深耕明清社会生活史的通俗力作,以燕饮欢歌、文化娱乐、穿住行、民间信仰、女性生活、鱼龙江湖六大维度,全景式还原明中后期挣脱皇权禁锢后的世俗盛景。西门庆的美酒、张岱的茶、唐伯虎的画、董小宛的菜、五通神的烟火、青楼的悲欢、江湖的险恶,共同拼出一幅璀璨而又布满裂缝的晚明画卷。本书不仅是填补空白的市井风物志,更是理解中国人世俗基因从何而来的窗口,带我们在惊艳的烟火气里,照见今天脚下这片土地的气质。</itunes:summary>
+      <itunes:duration>00:27:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-d96562.mp3" length="26719533" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
