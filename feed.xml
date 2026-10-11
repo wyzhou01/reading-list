@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 06:17:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 06:23:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32514,6 +32514,17 @@
       <itunes:duration>00:18:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-3625eb.mp3" length="17851437" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《吕思勉·唐朝大历史》 · 完整版 · 吕思勉_-_唐朝大历史 · 完整讲读</title>
+      <description>吕思勉《唐朝大历史》以冷峻的制度史视角，重新审视唐帝国二百九十年兴亡。吕先生跳出帝王将相的演义叙事，把唐朝当一个完整病例来分析：从初唐武功、武周代唐、开元盛世，到安史之乱、藩镇割据、宦官专权、朋党之争、黄巢起义、朱温篡唐，逐层解剖唐帝国由盛转衰的结构性机理。本书揭示，唐朝衰亡的真正原因不是昏君奸臣，而是制度本身的深层断裂——府兵制崩溃、均田制瓦解、藩镇割据坐大、宦官与朋党绞杀中央权威，三重危机同时发作。吕思勉的诊断超越唐史本身，给我们一种诊断大国兴亡的普遍方法：在太平盛世里，就开始练习识别支柱、假设失效、预防崩塌。</description>
+      <pubDate>Sun, 11 Oct 2026 06:23:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-470cdb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>吕思勉《唐朝大历史》以冷峻的制度史视角，重新审视唐帝国二百九十年兴亡。吕先生跳出帝王将相的演义叙事，把唐朝当一个完整病例来分析：从初唐武功、武周代唐、开元盛世，到安史之乱、藩镇割据、宦官专权、朋党之争、黄巢起义、朱温篡唐，逐层解剖唐帝国由盛转衰的结构性机理。本书揭示，唐朝衰亡的真正原因不是昏君奸臣，而是制度本身的深层断裂——府兵制崩溃、均田制瓦解、藩镇割据坐大、宦官与朋党绞杀中央权威，三重危机同时发作。吕思勉的诊断超越唐史本身，给我们一种诊断大国兴亡的普遍方法：在太平盛世里，就开始练习识别支柱、假设失效、预防崩塌。</itunes:summary>
+      <itunes:duration>00:28:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-470cdb.mp3" length="27794733" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
