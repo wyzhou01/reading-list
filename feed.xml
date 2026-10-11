@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 17:58:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 18:05:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33519,6 +33519,17 @@
       <itunes:duration>00:23:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-b14cbb.mp3" length="22260141" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《努力，才配有未来》 · 完整版 · 努力，才配有未来(1) · 完整讲读</title>
+      <description>《努力，才配有未来》是小川叔写给刚毕业、正在换工作、在出租屋里怀疑自己的年轻人的职场成长书。他用自己从大学毕业时只剩三千块稿费、到北京时口袋里只剩八百块的真实经历，回答了一个问题：为什么道理你都懂，路还是走不出来？因为知道和被选择之间，真正领着你跑的是那颗不服输的心。书中不讲择路，只讲一个普通人在无数次选择与放弃之间，怎么逼自己再撑一下。关于嫉妒、关于内向、关于自我厌恶、关于安全感、关于怎么和坏情绪相处，他把所有不能言说的部分，坦诚地摊开给你看。他说，成长是一层一层的蜕变，会痛，会掉东西，但每一次蜕变，都让你离那个更好的自己更近一点。因为努力的人，总会相逢。</description>
+      <pubDate>Sun, 11 Oct 2026 18:05:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-eea60f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《努力，才配有未来》是小川叔写给刚毕业、正在换工作、在出租屋里怀疑自己的年轻人的职场成长书。他用自己从大学毕业时只剩三千块稿费、到北京时口袋里只剩八百块的真实经历，回答了一个问题：为什么道理你都懂，路还是走不出来？因为知道和被选择之间，真正领着你跑的是那颗不服输的心。书中不讲择路，只讲一个普通人在无数次选择与放弃之间，怎么逼自己再撑一下。关于嫉妒、关于内向、关于自我厌恶、关于安全感、关于怎么和坏情绪相处，他把所有不能言说的部分，坦诚地摊开给你看。他说，成长是一层一层的蜕变，会痛，会掉东西，但每一次蜕变，都让你离那个更好的自己更近一点。因为努力的人，总会相逢。</itunes:summary>
+      <itunes:duration>00:27:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-eea60f.mp3" length="26112045" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
