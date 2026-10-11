@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 08:06:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 08:13:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32701,6 +32701,17 @@
       <itunes:duration>00:28:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-8e31e6.mp3" length="27627309" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《绍兴十二年》 · 完整版 · 绍兴十二年 · 完整讲读</title>
+      <description>《绍兴十二年》是夏坚勇以编年体笔法剖开南宋偏安史的代表作。全书以绍兴十二年为切片，拆解了和议背后的整套政治运作：岳飞之死是皇权猜忌武将的结构性必然，秦桧专权是专制机器自我维护的制度化结果，南宋偏安政权的合法性则靠礼制演出、科举改革、士大夫集体转向这三层齿轮共同支撑。本书不仅是岳飞之死的政治寓言，更是剖析权力如何用刀、涂抹、礼制、同谋这四件套，长期运行一台吃人机器的当代镜鉴。</description>
+      <pubDate>Sun, 11 Oct 2026 08:13:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-c3afba</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《绍兴十二年》是夏坚勇以编年体笔法剖开南宋偏安史的代表作。全书以绍兴十二年为切片，拆解了和议背后的整套政治运作：岳飞之死是皇权猜忌武将的结构性必然，秦桧专权是专制机器自我维护的制度化结果，南宋偏安政权的合法性则靠礼制演出、科举改革、士大夫集体转向这三层齿轮共同支撑。本书不仅是岳飞之死的政治寓言，更是剖析权力如何用刀、涂抹、礼制、同谋这四件套，长期运行一台吃人机器的当代镜鉴。</itunes:summary>
+      <itunes:duration>00:33:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-c3afba.mp3" length="31852461" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
