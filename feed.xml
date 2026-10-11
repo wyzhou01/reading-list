@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 15:21:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 15:26:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33343,6 +33343,17 @@
       <itunes:duration>00:18:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-8de1d7.mp3" length="17960493" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大顺帝李自成(1)》 · 完整版 · 大順帝李自成(1) · 完整讲读</title>
+      <description>《大順帝李自成》是李健侯以章回体为明末农民起义领袖立传的一部演义。作者以同乡之谊、父子所传、夹山寺碑铭为据，写出李自成从米脂县驿卒到大顺永昌皇帝，再到奉天玉和尚的完整人生轨迹。围绕闯王败亡谜团、汉人为何未助自成拒清这两大问题，作者为李自成翻案，亦为三百年前汉族内部未能团结抗敌的历史教训，留下一段沉痛的民族记忆。</description>
+      <pubDate>Sun, 11 Oct 2026 15:26:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-b9197d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大順帝李自成》是李健侯以章回体为明末农民起义领袖立传的一部演义。作者以同乡之谊、父子所传、夹山寺碑铭为据，写出李自成从米脂县驿卒到大顺永昌皇帝，再到奉天玉和尚的完整人生轨迹。围绕闯王败亡谜团、汉人为何未助自成拒清这两大问题，作者为李自成翻案，亦为三百年前汉族内部未能团结抗敌的历史教训，留下一段沉痛的民族记忆。</itunes:summary>
+      <itunes:duration>00:19:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-b9197d.mp3" length="18274605" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
