@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 00:44:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 00:49:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31997,6 +31997,17 @@
       <itunes:duration>00:31:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-b3e2ba.mp3" length="29824173" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《不再害羞：如何提高你的社会适应力》 · 完整版 · 不再害羞 · 完整讲读</title>
+      <description>《不再害羞》是心理学家菲利普·津巴多关于害羞问题的经典科普著作。津巴多发现，全球约百分之四十的人曾经历过害羞，亚洲人比例更高达百分之六十。他把害羞比喻为自我施加的心理监狱，害羞者既是狱警也是囚犯，既渴望联结又害怕靠近。书中系统分析了害羞的成因，包括家庭期待、学校评价、文化观念和自我标签，并提出了认知重建、社交技能训练、正念练习等可操作的方法。津巴多特别指出，害羞不仅是个人问题，更会引发酗酒、暴力、性交易等社会议题，影响现代人珍视的言论、行动与交往自由。这本跨越四十多年的心理学经典，至今仍是害羞领域最值得阅读的入门书与实操手册。</description>
+      <pubDate>Sun, 11 Oct 2026 00:49:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-a37b83</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《不再害羞》是心理学家菲利普·津巴多关于害羞问题的经典科普著作。津巴多发现，全球约百分之四十的人曾经历过害羞，亚洲人比例更高达百分之六十。他把害羞比喻为自我施加的心理监狱，害羞者既是狱警也是囚犯，既渴望联结又害怕靠近。书中系统分析了害羞的成因，包括家庭期待、学校评价、文化观念和自我标签，并提出了认知重建、社交技能训练、正念练习等可操作的方法。津巴多特别指出，害羞不仅是个人问题，更会引发酗酒、暴力、性交易等社会议题，影响现代人珍视的言论、行动与交往自由。这本跨越四十多年的心理学经典，至今仍是害羞领域最值得阅读的入门书与实操手册。</itunes:summary>
+      <itunes:duration>00:27:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-a37b83.mp3" length="26191149" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
