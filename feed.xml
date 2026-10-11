@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 08:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 08:25:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32723,6 +32723,17 @@
       <itunes:duration>00:27:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-7df9bf.mp3" length="26323629" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《没有你，什么都不甜蜜》 · 完整版 · 没有你，什么都不甜蜜 · 完整讲读</title>
+      <description>《没有你，什么都不甜蜜》是冰岛作家斯特凡松『男孩三部曲』的第一部。一位少年在大雪中失去唯一的朋友后，独自翻山替亡友还书，决心在还书后赴死。然而三天三夜的跋涉里，他撞进了一个个陌生人的伤痛、爱情与希望，最终决定暂时留下来。死很容易，活着很难，而一个孤独的少年在冰天雪地里学会的第二件事，是陌生人也能把命续上几小时。</description>
+      <pubDate>Sun, 11 Oct 2026 08:25:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-47cba7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《没有你，什么都不甜蜜》是冰岛作家斯特凡松『男孩三部曲』的第一部。一位少年在大雪中失去唯一的朋友后，独自翻山替亡友还书，决心在还书后赴死。然而三天三夜的跋涉里，他撞进了一个个陌生人的伤痛、爱情与希望，最终决定暂时留下来。死很容易，活着很难，而一个孤独的少年在冰天雪地里学会的第二件事，是陌生人也能把命续上几小时。</itunes:summary>
+      <itunes:duration>00:24:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-47cba7.mp3" length="23648301" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
