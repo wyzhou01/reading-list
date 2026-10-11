@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 14:01:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 14:09:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33222,6 +33222,17 @@
       <itunes:duration>00:34:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-8c7832.mp3" length="33186477" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《山河小岁月》 · 完整版 · 山河小岁月 · 完整讲读</title>
+      <description>本书是一本民国文人八卦生活史，作者以细腻的笔触和丰富的史料，讲述了胡适、鲁迅、张爱玲、徐志摩、沈从文、林徽因、齐白石、曹禺等三十余位民国大师在聚光灯之外的另一面——他们的相亲、婚恋、借钱、买房、过年、穿着、与朋友八卦、与情敌撕逼。褪去大师光环，他们和你我一样，要面对柴米油盐、失恋买醉、丈母娘催婚，堪称民国文艺圈的《人类群星闪耀时》之市井篇。</description>
+      <pubDate>Sun, 11 Oct 2026 14:09:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-ffa5d9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是一本民国文人八卦生活史，作者以细腻的笔触和丰富的史料，讲述了胡适、鲁迅、张爱玲、徐志摩、沈从文、林徽因、齐白石、曹禺等三十余位民国大师在聚光灯之外的另一面——他们的相亲、婚恋、借钱、买房、过年、穿着、与朋友八卦、与情敌撕逼。褪去大师光环，他们和你我一样，要面对柴米油盐、失恋买醉、丈母娘催婚，堪称民国文艺圈的《人类群星闪耀时》之市井篇。</itunes:summary>
+      <itunes:duration>00:20:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-ffa5d9.mp3" length="20047533" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
