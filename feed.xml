@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 19:00:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 22:22:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33640,6 +33640,17 @@
       <itunes:duration>00:17:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-d2f104.mp3" length="16427565" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《果壳中的宇宙（插图本）》 · 完整版 · 果壳中的宇宙(插图本) · 完整讲读</title>
+      <description>霍金《果壳中的宇宙》用三轮拼图，把人类对宇宙的全部认知推到极致——广义相对论让时空弯曲，黑洞事件视界在量子涨落中辐射出粒子，广义相对论与量子论在黑洞上勉强握手；无边界设想抹去了宇宙的第一秒，虚时间里只剩一个光滑的果壳；M理论进一步把宇宙想象成一张漂浮在高维空间里的膜，额外维极小，引力只在膜上显现为一种微弱的力。整套描述并非文学比喻，而是工程任务书，每一条都可以被粒子对撞机和卫星观测一项一项检验。霍金在书的末尾留下两句结语——充满希望的旅途胜过终点的到达；身处果壳之中的我们，仍可以是无限空间之王。</description>
+      <pubDate>Sun, 11 Oct 2026 22:22:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-a02a49</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>霍金《果壳中的宇宙》用三轮拼图，把人类对宇宙的全部认知推到极致——广义相对论让时空弯曲，黑洞事件视界在量子涨落中辐射出粒子，广义相对论与量子论在黑洞上勉强握手；无边界设想抹去了宇宙的第一秒，虚时间里只剩一个光滑的果壳；M理论进一步把宇宙想象成一张漂浮在高维空间里的膜，额外维极小，引力只在膜上显现为一种微弱的力。整套描述并非文学比喻，而是工程任务书，每一条都可以被粒子对撞机和卫星观测一项一项检验。霍金在书的末尾留下两句结语——充满希望的旅途胜过终点的到达；身处果壳之中的我们，仍可以是无限空间之王。</itunes:summary>
+      <itunes:duration>00:21:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-a02a49.mp3" length="20475693" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
