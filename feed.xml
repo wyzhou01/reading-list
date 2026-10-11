@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 15:26:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 15:34:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33354,6 +33354,17 @@
       <itunes:duration>00:19:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-b9197d.mp3" length="18274605" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《红楼梦断3：五陵游》 · 完整版 · 高阳_-_红楼梦断3：五陵游 · 完整讲读</title>
+      <description>《红楼梦断》第三部《五陵游》，高阳以曹雪芹真实家世为底，拆解曹家最后几年由盛而衰的内部机理：曹老太太病重、权力交接进入倒计时，大族内宅里，秘戏图丢失引出一个十二岁男孩被提前催熟的身体，一串串钥匙背后是五十万两家产的归属，以春雨、震二奶奶、秋月为代表的女性权力网络在沉默中博弈。表面写内宅风月与少男少女的隐秘成长，骨子里写的是一台精密而冷酷的倒计时——一代人的懒政、短视与以身体代替制度，最终把豪门推向了再也回不来的深渊。</description>
+      <pubDate>Sun, 11 Oct 2026 15:34:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-bbe690</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《红楼梦断》第三部《五陵游》，高阳以曹雪芹真实家世为底，拆解曹家最后几年由盛而衰的内部机理：曹老太太病重、权力交接进入倒计时，大族内宅里，秘戏图丢失引出一个十二岁男孩被提前催熟的身体，一串串钥匙背后是五十万两家产的归属，以春雨、震二奶奶、秋月为代表的女性权力网络在沉默中博弈。表面写内宅风月与少男少女的隐秘成长，骨子里写的是一台精密而冷酷的倒计时——一代人的懒政、短视与以身体代替制度，最终把豪门推向了再也回不来的深渊。</itunes:summary>
+      <itunes:duration>00:14:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-bbe690.mp3" length="14302893" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
