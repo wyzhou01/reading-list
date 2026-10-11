@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 05:26:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 05:32:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32415,6 +32415,17 @@
       <itunes:duration>00:34:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-639e3b.mp3" length="33149613" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《天使安魂三部曲之一：最后四件事》 · 完整版 · 天使安魂三部曲 · 完整讲读</title>
+      <description>本书围绕阿普尔亚德与拜菲尔德两个家族跨越数十年的隐秘往事展开。女牧师莎莉·阿普尔亚德在女儿露茜失踪后，雇佣私家侦探艾迪展开调查，揭开了一系列与教士弗朗西斯·尤尔格雷夫相关的收养、交易、弃婴乃至谋杀的罪恶往事。托马斯·布朗爵士所提的&quot;最后四件事&quot;——死亡、审判、天堂与地狱——成为全书的精神底色，拷问每一个角色在道德深渊前的抉择与救赎。</description>
+      <pubDate>Sun, 11 Oct 2026 05:32:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-9eb2e5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书围绕阿普尔亚德与拜菲尔德两个家族跨越数十年的隐秘往事展开。女牧师莎莉·阿普尔亚德在女儿露茜失踪后，雇佣私家侦探艾迪展开调查，揭开了一系列与教士弗朗西斯·尤尔格雷夫相关的收养、交易、弃婴乃至谋杀的罪恶往事。托马斯·布朗爵士所提的&quot;最后四件事&quot;——死亡、审判、天堂与地狱——成为全书的精神底色，拷问每一个角色在道德深渊前的抉择与救赎。</itunes:summary>
+      <itunes:duration>00:29:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-9eb2e5.mp3" length="28532013" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
