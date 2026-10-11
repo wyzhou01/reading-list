@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 03:34:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 03:40:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32294,6 +32294,17 @@
       <itunes:duration>00:30:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-bff3a1.mp3" length="29654061" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《古代社会》 · 完整版 · 古代社会_(汉译世界学术名著丛书（分科本）_历史)_-_路易斯·亨利·摩尔根 · 完整讲读</title>
+      <description>路易斯·亨利·摩尔根的《古代社会》,以人类从蒙昧时代经野蛮时代进入文明时代的过程为研究对象,从发明与智力、政治观念、家族观念、财产观念四条平行主线,系统论证人类早期社会组织的普遍发展规律。摩尔根以易洛魁人、希腊人、罗马人等大量实例证明,氏族、胞族、部落等以血缘为基础的组织是人类古代社会的基本结构;血婚制、伙婚制、专偶制是家族形态的递进序列;私有财产观念由无到有、从氏族继承过渡到男系继承,直接推动母权制向父权制、氏族社会向政治国家转变。这部书被马克思研读,恩格斯据此写出《家庭、私有制和国家的起源》,在人类学与历史学领域具有里程碑意义。</description>
+      <pubDate>Sun, 11 Oct 2026 03:40:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-076e9e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>路易斯·亨利·摩尔根的《古代社会》,以人类从蒙昧时代经野蛮时代进入文明时代的过程为研究对象,从发明与智力、政治观念、家族观念、财产观念四条平行主线,系统论证人类早期社会组织的普遍发展规律。摩尔根以易洛魁人、希腊人、罗马人等大量实例证明,氏族、胞族、部落等以血缘为基础的组织是人类古代社会的基本结构;血婚制、伙婚制、专偶制是家族形态的递进序列;私有财产观念由无到有、从氏族继承过渡到男系继承,直接推动母权制向父权制、氏族社会向政治国家转变。这部书被马克思研读,恩格斯据此写出《家庭、私有制和国家的起源》,在人类学与历史学领域具有里程碑意义。</itunes:summary>
+      <itunes:duration>00:29:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-076e9e.mp3" length="28336557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
