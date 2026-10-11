@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 12:35:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 12:42:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33068,6 +33068,17 @@
       <itunes:duration>00:22:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-ae5c23.mp3" length="21595053" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《C和指针》 · 完整版 · C_和指针 · 完整讲读</title>
+      <description>《C和指针》以指针为线索贯穿全书十八章,从内存地址、值与类型讲起,逐步深入指针与数组的微妙差异、指针如何撑起链表堆栈等数据结构、动态内存分配的纪律、运行时环境的真实模样,直至经典抽象数据类型的接口设计。作者Kenneth A. Reek凭借十年教学经验,向读者揭示:C语言的真正威力不在语法,而在于强迫程序员理解脚下这台机器;指针是入口,抽象才是出口;光会用指针是入门,懂内存生命周期与运行时环境,才算真正的C高手。</description>
+      <pubDate>Sun, 11 Oct 2026 12:41:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-680a32</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《C和指针》以指针为线索贯穿全书十八章,从内存地址、值与类型讲起,逐步深入指针与数组的微妙差异、指针如何撑起链表堆栈等数据结构、动态内存分配的纪律、运行时环境的真实模样,直至经典抽象数据类型的接口设计。作者Kenneth A. Reek凭借十年教学经验,向读者揭示:C语言的真正威力不在语法,而在于强迫程序员理解脚下这台机器;指针是入口,抽象才是出口;光会用指针是入门,懂内存生命周期与运行时环境,才算真正的C高手。</itunes:summary>
+      <itunes:duration>00:21:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-680a32.mp3" length="20650413" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
