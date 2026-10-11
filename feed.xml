@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 04:25:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 05:08:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32371,6 +32371,17 @@
       <itunes:duration>00:33:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-c2ec2f.mp3" length="32282157" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我们台湾这些年2》 · 完整版 · 我们台湾这些年2 · 完整讲读</title>
+      <description>《我们台湾这些年2》是廖信忠以小人物视角撰写的台湾解严前后历史记录。全书通过丰富的个人经历与社会细节，呈现了从1949年国民党迁台到90年代解严的宏大历史变迁。书中详述了戒严时期的白色恐怖、禁书文化的地下传播、党外杂志的抗争历程、蒋氏家族的统治逻辑，以及台湾从威权走向民主的阵痛与转型。作者以非学术的平民叙事，填补了两岸历史认知的空白，让读者理解那些曾经真实存在于日常中的恐惧、创伤与抗争。</description>
+      <pubDate>Sun, 11 Oct 2026 05:07:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-f0d744</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我们台湾这些年2》是廖信忠以小人物视角撰写的台湾解严前后历史记录。全书通过丰富的个人经历与社会细节，呈现了从1949年国民党迁台到90年代解严的宏大历史变迁。书中详述了戒严时期的白色恐怖、禁书文化的地下传播、党外杂志的抗争历程、蒋氏家族的统治逻辑，以及台湾从威权走向民主的阵痛与转型。作者以非学术的平民叙事，填补了两岸历史认知的空白，让读者理解那些曾经真实存在于日常中的恐惧、创伤与抗争。</itunes:summary>
+      <itunes:duration>00:16:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-f0d744.mp3" length="15765933" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
