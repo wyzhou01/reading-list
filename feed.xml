@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 15:07:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 15:15:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33321,6 +33321,17 @@
       <itunes:duration>00:30:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-f5fa0a.mp3" length="29386413" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《美国政治传统及其缔造者》 · 完整版 · 美国政治传统及其缔造者_(汉译世界学术名著丛书)_-_理查特·霍夫施塔特(Hofstadter.R.) · 完整讲读</title>
+      <description>霍夫施塔特《美国政治传统》核心:美国政治家嘴上为农业民主呐喊, 手里在为商业利益打工, 这种机会主义贯穿从杰斐逊到富兰克林·罗斯福的整条线索。边疆、自助、个人主义这套民众神话全面接管了美国政治话语, 左翼与右翼共用同一套语言, 看似冲突, 实则共识。这种共识反映的不是健康的实用精神, 而是知识破产的形式。读这本书的现实意义:警惕政治家嘴里的大词, 警惕自己正在用的修辞, 警惕历史神话如何悄悄接管政治大脑。</description>
+      <pubDate>Sun, 11 Oct 2026 15:15:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-39b4ee</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>霍夫施塔特《美国政治传统》核心:美国政治家嘴上为农业民主呐喊, 手里在为商业利益打工, 这种机会主义贯穿从杰斐逊到富兰克林·罗斯福的整条线索。边疆、自助、个人主义这套民众神话全面接管了美国政治话语, 左翼与右翼共用同一套语言, 看似冲突, 实则共识。这种共识反映的不是健康的实用精神, 而是知识破产的形式。读这本书的现实意义:警惕政治家嘴里的大词, 警惕自己正在用的修辞, 警惕历史神话如何悄悄接管政治大脑。</itunes:summary>
+      <itunes:duration>00:23:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-39b4ee.mp3" length="22497453" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
