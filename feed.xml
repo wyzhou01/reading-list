@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 14:46:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 14:51:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33288,6 +33288,17 @@
       <itunes:duration>00:19:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-d5e219.mp3" length="18514221" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《王国与权力》 · 完整版 · 王国与权力 · 完整讲读</title>
+      <description>《王国与权力》是美国非虚构写作大师盖伊·特立斯潜入《纽约时报》内部三年的结晶。全书以猪湾事件、业主更替、华盛顿分社与纽约总部的权力博弈为主线，揭示了这家百年大报如何在商业利益、家族传承与国家责任之间反复妥协。书中刻画了奥维尔·德赖富斯、詹姆斯·赖斯顿、克利夫顿·丹尼尔等关键人物，呈现出一幅新闻王国的全景图：它既非纯粹理想主义的圣殿，也不是单纯追逐利润的机器，而是一群有激情、有弱点、有立场的普通人，在权力与真相之间艰难前行的现场。</description>
+      <pubDate>Sun, 11 Oct 2026 14:51:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-459730</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《王国与权力》是美国非虚构写作大师盖伊·特立斯潜入《纽约时报》内部三年的结晶。全书以猪湾事件、业主更替、华盛顿分社与纽约总部的权力博弈为主线，揭示了这家百年大报如何在商业利益、家族传承与国家责任之间反复妥协。书中刻画了奥维尔·德赖富斯、詹姆斯·赖斯顿、克利夫顿·丹尼尔等关键人物，呈现出一幅新闻王国的全景图：它既非纯粹理想主义的圣殿，也不是单纯追逐利润的机器，而是一群有激情、有弱点、有立场的普通人，在权力与真相之间艰难前行的现场。</itunes:summary>
+      <itunes:duration>00:19:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-459730.mp3" length="18850221" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
