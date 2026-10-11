@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 12:42:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 12:47:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33079,6 +33079,17 @@
       <itunes:duration>00:21:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-680a32.mp3" length="20650413" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《人类决裂》 · 完整版 · 人类决裂 · 完整讲读</title>
+      <description>殖民联盟在与宇宙各族的长期对峙中濒临崩溃。大使萨拉·贝尔在一次前往乌切人的秘密谈判途中遭遇神秘袭击，殖民联盟由此陷入分裂危机。地球人类不再是被殖民的对象，而成为政治博弈的核心。小说以十三个相互独立又环环相扣的故事，呈现人类在宇宙格局剧变中的挣扎、抉择与新生，探讨文明共存、外交智慧与身份认同的边界。</description>
+      <pubDate>Sun, 11 Oct 2026 12:47:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-243103</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>殖民联盟在与宇宙各族的长期对峙中濒临崩溃。大使萨拉·贝尔在一次前往乌切人的秘密谈判途中遭遇神秘袭击，殖民联盟由此陷入分裂危机。地球人类不再是被殖民的对象，而成为政治博弈的核心。小说以十三个相互独立又环环相扣的故事，呈现人类在宇宙格局剧变中的挣扎、抉择与新生，探讨文明共存、外交智慧与身份认同的边界。</itunes:summary>
+      <itunes:duration>00:27:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-243103.mp3" length="26064429" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
