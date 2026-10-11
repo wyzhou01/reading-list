@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 00:49:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 00:54:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32008,6 +32008,17 @@
       <itunes:duration>00:27:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-a37b83.mp3" length="26191149" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《逝者证言——跟着法医去探案》 · 完整版 · 逝者证言_-_秦明 · 完整讲读</title>
+      <description>《逝者证言》是法医秦明的首部科普小说，以一起完整的连环命案侦破为主线，系统讲解法医学全部分支学科——现场勘查、尸体现象、死亡时间推断、损伤鉴定、毒物分析、物证学、行为心理分析、临床学等。本书用通俗严谨的笔触，撕掉法医身上“神秘冷酷“的滤镜，还原他们作为社会应用医学从业者的真实面貌：他们既面对尸体的沉默，也面对活人的愤怒；既出具科学结论，也承担双方不服的代价。秦明用克制而有力的笔触，提出法医职业的核心尊严——替沉默者发声，为不该有的裂痕缝合。</description>
+      <pubDate>Sun, 11 Oct 2026 00:54:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-9fe8bb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《逝者证言》是法医秦明的首部科普小说，以一起完整的连环命案侦破为主线，系统讲解法医学全部分支学科——现场勘查、尸体现象、死亡时间推断、损伤鉴定、毒物分析、物证学、行为心理分析、临床学等。本书用通俗严谨的笔触，撕掉法医身上“神秘冷酷“的滤镜，还原他们作为社会应用医学从业者的真实面貌：他们既面对尸体的沉默，也面对活人的愤怒；既出具科学结论，也承担双方不服的代价。秦明用克制而有力的笔触，提出法医职业的核心尊严——替沉默者发声，为不该有的裂痕缝合。</itunes:summary>
+      <itunes:duration>00:21:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-9fe8bb.mp3" length="20512173" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
