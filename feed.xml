@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 02:46:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 02:52:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32217,6 +32217,17 @@
       <itunes:duration>00:31:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-3a0c17.mp3" length="30604077" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《九州·魅生4·涅槃卷》 · 完整版 · 楚惜刀_-_九州·魅生4·涅槃卷 · 完整讲读</title>
+      <description>《魅生·涅槃卷》是楚惜刀九州系列长篇的收官之作。故事接续前三卷，写战乱之后十师会众人死的死、散的散，制香师姽婳守着京城的蘼香铺等一个不知何时归来的人，易容师紫颜则在北荒归来后陷入与天下易容师的较量与身体的缠绵病痛。楚惜刀以香道为骨、以易容为皮，借侧侧的等待、姽婳的守铺、紫颜的藏身、照浪的拆局、夙夜的成全，写出一场关于身份、记忆、离别与重逢的漫长实验——香尽了梦才会醒，离散不必是终点，烧完了别人的皮囊，剩下的那一口气才是自己。</description>
+      <pubDate>Sun, 11 Oct 2026 02:52:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-3d6747</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《魅生·涅槃卷》是楚惜刀九州系列长篇的收官之作。故事接续前三卷，写战乱之后十师会众人死的死、散的散，制香师姽婳守着京城的蘼香铺等一个不知何时归来的人，易容师紫颜则在北荒归来后陷入与天下易容师的较量与身体的缠绵病痛。楚惜刀以香道为骨、以易容为皮，借侧侧的等待、姽婳的守铺、紫颜的藏身、照浪的拆局、夙夜的成全，写出一场关于身份、记忆、离别与重逢的漫长实验——香尽了梦才会醒，离散不必是终点，烧完了别人的皮囊，剩下的那一口气才是自己。</itunes:summary>
+      <itunes:duration>00:28:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-3d6747.mp3" length="27085869" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
