@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 08:39:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 08:45:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32756,6 +32756,17 @@
       <itunes:duration>00:35:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-6a820c.mp3" length="34426797" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《白说》 · 完整版 · 白说 · 完整讲读</title>
+      <description>《白说》是央视新闻人白岩松二零一五年的演讲集, 围绕岁月、价值、沟通、态度、时代五个维度, 坦诚回应一个众声喧哗时代的中国人在幸福、信仰、成长与未来面前的困惑。, 全书不教成功学, 只示范一种说话的方式, 用故事代替口号, 用停顿代替排比, 用一杯下午茶的时间, 安放自己, 也回应时代。, 在理性成为奢侈品的舆论场里, 这本书提醒每一位读者, 说了也白说, 但不说, 白不说。</description>
+      <pubDate>Sun, 11 Oct 2026 08:44:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-dd40aa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《白说》是央视新闻人白岩松二零一五年的演讲集, 围绕岁月、价值、沟通、态度、时代五个维度, 坦诚回应一个众声喧哗时代的中国人在幸福、信仰、成长与未来面前的困惑。, 全书不教成功学, 只示范一种说话的方式, 用故事代替口号, 用停顿代替排比, 用一杯下午茶的时间, 安放自己, 也回应时代。, 在理性成为奢侈品的舆论场里, 这本书提醒每一位读者, 说了也白说, 但不说, 白不说。</itunes:summary>
+      <itunes:duration>00:24:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-dd40aa.mp3" length="23334957" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
