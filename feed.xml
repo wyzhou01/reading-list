@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 12:04:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 12:10:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33013,6 +33013,17 @@
       <itunes:duration>00:22:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-f7595b.mp3" length="22037421" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《使节》 · 完整版 · 使节 · 完整讲读</title>
+      <description>《使节》是美国作家亨利·詹姆斯的晚期代表作，讲述麻州寡母纽瑟姆太太派使者斯特瑞塞赴巴黎，劝迷上欧洲生活的儿子查德回家，却目睹了查德与法国贵妇德·维奥内夫人那段难以拆解的爱情。斯特瑞塞原以为自己是带回浪子的清教徒推手，却在巴黎圣母院的幽光、左岸的午餐、雨果的书页之间，被欧洲层层叠叠的意识与艺术所俘获，最终不得不亲口向年轻人说出【尽情享受人生】这五个字，可他自己却带着【做到为人正直】这另一句，转身登上了回乌勒特的轮船。小说表面是劝世故事，骨子里却是两个文明之间一次旷日持久的对视。</description>
+      <pubDate>Sun, 11 Oct 2026 12:10:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-d02e24</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《使节》是美国作家亨利·詹姆斯的晚期代表作，讲述麻州寡母纽瑟姆太太派使者斯特瑞塞赴巴黎，劝迷上欧洲生活的儿子查德回家，却目睹了查德与法国贵妇德·维奥内夫人那段难以拆解的爱情。斯特瑞塞原以为自己是带回浪子的清教徒推手，却在巴黎圣母院的幽光、左岸的午餐、雨果的书页之间，被欧洲层层叠叠的意识与艺术所俘获，最终不得不亲口向年轻人说出【尽情享受人生】这五个字，可他自己却带着【做到为人正直】这另一句，转身登上了回乌勒特的轮船。小说表面是劝世故事，骨子里却是两个文明之间一次旷日持久的对视。</itunes:summary>
+      <itunes:duration>00:16:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-d02e24.mp3" length="15529005" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
