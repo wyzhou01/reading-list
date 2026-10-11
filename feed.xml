@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 09:55:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 10:00:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32877,6 +32877,17 @@
       <itunes:duration>00:27:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-23456b.mp3" length="26849325" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《浮生梦》 · 完整版 · 浮生梦(《蝴蝶梦》作者感动全球亿万读者的炽热初恋故事。中国读者错过了65年的爱情经 · 完整讲读</title>
+      <description>《浮生梦》是英国传奇女作家达芙妮·杜穆里埃一九五一年写下的长篇小说，被誉为《蝴蝶梦》的姊妹篇。二十五岁的菲利普在堂兄安布鲁斯病逝后继承康沃尔庄园与巨额遗产，却被一封指控新婚妻子瑞秋下毒谋害的信拖入怀疑的深渊。他一边调查真相，一边无可救药地爱上瑞秋，倾尽家产也要满足她。当他终于在意大利别墅找到证据时，瑞秋已坠崖身亡，临终唤的却是安布鲁斯的名字。杜穆里埃借一个哥特式的悬疑外壳，探讨嫉妒与执念如何扭曲人的理智，我们爱的究竟是眼前的人还是自己的投射，以及在真相缺席时怀疑本身就是毒药。简体中文版直到二〇一五年才出版，比英文世界晚了整整六十五年。这是一本关于如何不被自己的偏见吞噬的小说。</description>
+      <pubDate>Sun, 11 Oct 2026 10:00:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-2bca7c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《浮生梦》是英国传奇女作家达芙妮·杜穆里埃一九五一年写下的长篇小说，被誉为《蝴蝶梦》的姊妹篇。二十五岁的菲利普在堂兄安布鲁斯病逝后继承康沃尔庄园与巨额遗产，却被一封指控新婚妻子瑞秋下毒谋害的信拖入怀疑的深渊。他一边调查真相，一边无可救药地爱上瑞秋，倾尽家产也要满足她。当他终于在意大利别墅找到证据时，瑞秋已坠崖身亡，临终唤的却是安布鲁斯的名字。杜穆里埃借一个哥特式的悬疑外壳，探讨嫉妒与执念如何扭曲人的理智，我们爱的究竟是眼前的人还是自己的投射，以及在真相缺席时怀疑本身就是毒药。简体中文版直到二〇一五年才出版，比英文世界晚了整整六十五年。这是一本关于如何不被自己的偏见吞噬的小说。</itunes:summary>
+      <itunes:duration>00:25:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-2bca7c.mp3" length="24475821" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
