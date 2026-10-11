@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 08:25:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 08:31:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32734,6 +32734,17 @@
       <itunes:duration>00:24:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-47cba7.mp3" length="23648301" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《获救之舌》 · 完整版 · 埃利亚斯·卡内蒂自传三部曲之一：获救之舌 · 完整讲读</title>
+      <description>一九八一年诺贝尔文学奖得主埃利亚斯·卡内蒂斯，在《获救之舌》中用六十年的时间回望他从两岁到十六岁的成长岁月。一九〇五年出生于保加利亚鲁斯丘克的多语种犹太家庭，他先后在曼彻斯特、维也纳、苏黎世四座城市间辗转，在父亲早逝、母亲的精神王国与多瑙河岸的恐惧之间长大。他用这本书证明：一个写作者对权力、偏见与死亡的终生警觉，最早的解药是舌头——被威胁之后依然敢于伸出的舌头。</description>
+      <pubDate>Sun, 11 Oct 2026 08:31:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-c6c5d3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九八一年诺贝尔文学奖得主埃利亚斯·卡内蒂斯，在《获救之舌》中用六十年的时间回望他从两岁到十六岁的成长岁月。一九〇五年出生于保加利亚鲁斯丘克的多语种犹太家庭，他先后在曼彻斯特、维也纳、苏黎世四座城市间辗转，在父亲早逝、母亲的精神王国与多瑙河岸的恐惧之间长大。他用这本书证明：一个写作者对权力、偏见与死亡的终生警觉，最早的解药是舌头——被威胁之后依然敢于伸出的舌头。</itunes:summary>
+      <itunes:duration>00:24:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-c6c5d3.mp3" length="23437869" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
