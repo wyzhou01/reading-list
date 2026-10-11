@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 06:50:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 06:55:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32569,6 +32569,17 @@
       <itunes:duration>00:22:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-508445.mp3" length="22051629" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《画心·追月逐花》 · 完整版 · 画心_-_追月逐花 · 完整讲读</title>
+      <description>《画心：追月逐花》是墨绿青蓝的心理悬疑言情代表作。女大学生黛雪落暗恋校草风千翌，却意外撞见他迷晕女同学的真面目，被追杀、被陷害、被犯罪组织控制。催眠师莫清螺用记忆篡改让黛雪落被所有人当成疯子。在被逼到绝境后，黛雪落用自我牺牲的方式换取证据，联手风千翌完成翻盘，最终捣毁整个组织。这本书不只是一个悬疑爱情故事，更是一场关于催眠与记忆操控伦理边界的拷问。</description>
+      <pubDate>Sun, 11 Oct 2026 06:55:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-e49f0b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《画心：追月逐花》是墨绿青蓝的心理悬疑言情代表作。女大学生黛雪落暗恋校草风千翌，却意外撞见他迷晕女同学的真面目，被追杀、被陷害、被犯罪组织控制。催眠师莫清螺用记忆篡改让黛雪落被所有人当成疯子。在被逼到绝境后，黛雪落用自我牺牲的方式换取证据，联手风千翌完成翻盘，最终捣毁整个组织。这本书不只是一个悬疑爱情故事，更是一场关于催眠与记忆操控伦理边界的拷问。</itunes:summary>
+      <itunes:duration>00:22:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-e49f0b.mp3" length="21235629" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
