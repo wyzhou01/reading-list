@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 00:22:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 00:31:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31964,6 +31964,17 @@
       <itunes:duration>00:23:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-d460fa.mp3" length="22102317" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《乱世之英雄，治世之能臣系列丛书》 · 完整版 · 乱世之英雄，治世之能臣系列丛书_-_陆杰峰_&amp;amp;amp;_夔驭 · 完整讲读</title>
+      <description>《乱世之英雄，治世之能臣》系列丛书以刘伯温、司马懿、张良三位顶级谋士为主角，用现代视角重新解读他们从底层崛起到封神、再到功成之后的命运走向。全书最颠覆的判断是——所谓神机妙算，本质上都是笨功夫算出来的；所谓顶层谋士，底层都是数十年如一日的情报积累、人性洞察与制度打磨。本书既适合历史爱好者，也适合所有想在复杂局面里活下来甚至赢下来的普通人。</description>
+      <pubDate>Sun, 11 Oct 2026 00:31:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-492783</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《乱世之英雄，治世之能臣》系列丛书以刘伯温、司马懿、张良三位顶级谋士为主角，用现代视角重新解读他们从底层崛起到封神、再到功成之后的命运走向。全书最颠覆的判断是——所谓神机妙算，本质上都是笨功夫算出来的；所谓顶层谋士，底层都是数十年如一日的情报积累、人性洞察与制度打磨。本书既适合历史爱好者，也适合所有想在复杂局面里活下来甚至赢下来的普通人。</itunes:summary>
+      <itunes:duration>00:30:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-492783.mp3" length="29654829" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
