@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 02:03:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 02:11:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32140,6 +32140,17 @@
       <itunes:duration>00:26:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-a26255.mp3" length="25304109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《钱商》 · 完整版 · 钱商 · 完整讲读</title>
+      <description>《钱商》是亚瑟·黑利聚焦美国商业银行的经典商业小说，浓缩在美利坚第一商业银行总裁班·罗塞利宣布肺癌晚期的那几天之内。班老头无继承人，副总经理海沃德与范德沃特围绕总裁位子展开明争暗斗，海沃德一边拉拢董事一边掩盖自己收受贿赂与肉欲丑闻；市中心分行内部被人钻了空子，墨西哥打工妹梅洛迪被诱骗偷窃，在看守所里精神失常而死。多线危机像多米诺骨牌一样倒下：挤兑、收购、丑闻、破产边缘。范德沃特一边稳住局面，一边在女秘书交出的证据里看见对手最不堪的真相，他在最关键的一刻没有落井下石，扛住了银行的崩溃，也扛住了爱人对自己最尖锐的追问。本书借一家银行的危局，揭开了权力、贪婪、忠诚与背叛在所有职场里都会上演的戏，半个世纪过去依然是照见人性的一把手术刀。</description>
+      <pubDate>Sun, 11 Oct 2026 02:11:36 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-8b6a18</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《钱商》是亚瑟·黑利聚焦美国商业银行的经典商业小说，浓缩在美利坚第一商业银行总裁班·罗塞利宣布肺癌晚期的那几天之内。班老头无继承人，副总经理海沃德与范德沃特围绕总裁位子展开明争暗斗，海沃德一边拉拢董事一边掩盖自己收受贿赂与肉欲丑闻；市中心分行内部被人钻了空子，墨西哥打工妹梅洛迪被诱骗偷窃，在看守所里精神失常而死。多线危机像多米诺骨牌一样倒下：挤兑、收购、丑闻、破产边缘。范德沃特一边稳住局面，一边在女秘书交出的证据里看见对手最不堪的真相，他在最关键的一刻没有落井下石，扛住了银行的崩溃，也扛住了爱人对自己最尖锐的追问。本书借一家银行的危局，揭开了权力、贪婪、忠诚与背叛在所有职场里都会上演的戏，半个世纪过去依然是照见人性的一把手术刀。</itunes:summary>
+      <itunes:duration>00:35:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-8b6a18.mp3" length="34482861" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
