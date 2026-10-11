@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 05:55:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 06:01:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32470,6 +32470,17 @@
       <itunes:duration>00:30:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-159b1a.mp3" length="29257389" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《秦朝原来是这样》 · 完整版 · 秦朝原来是这样(1) · 完整讲读</title>
+      <description>《秦朝原来是这样》是一部通俗讲史的代表作。作者醉罢君山以七百年的时间跨度，从秦非子养马封邑讲起，一路写到子婴素车白马投降刘邦，系统梳理了秦国从一个养马附庸小邦到一统天下、最终暴政速亡的全过程。本书最有特色的地方，在于对几个关键节点的深度解读：商鞅变法如何为秦奠定碾压级的制度基础，张仪连横术如何用一套看似无赖的外交术把六国合纵防线逐个拆散，白起这样的战神为什么会落到被赐死的下场，焚书坑儒与暴政为何让帝国迅速失去民心。读完这本书，你收获的不只是秦国的故事，更是一套理解中国制度变迁的底层逻辑——秦国的成功绝非侥幸，它的崩塌也绝非偶然。仁义不施而攻守之势异也，这是秦史留给后世最深的历史教训。</description>
+      <pubDate>Sun, 11 Oct 2026 06:01:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-c226e2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《秦朝原来是这样》是一部通俗讲史的代表作。作者醉罢君山以七百年的时间跨度，从秦非子养马封邑讲起，一路写到子婴素车白马投降刘邦，系统梳理了秦国从一个养马附庸小邦到一统天下、最终暴政速亡的全过程。本书最有特色的地方，在于对几个关键节点的深度解读：商鞅变法如何为秦奠定碾压级的制度基础，张仪连横术如何用一套看似无赖的外交术把六国合纵防线逐个拆散，白起这样的战神为什么会落到被赐死的下场，焚书坑儒与暴政为何让帝国迅速失去民心。读完这本书，你收获的不只是秦国的故事，更是一套理解中国制度变迁的底层逻辑——秦国的成功绝非侥幸，它的崩塌也绝非偶然。仁义不施而攻守之势异也，这是秦史留给后世最深的历史教训。</itunes:summary>
+      <itunes:duration>00:26:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-c226e2.mp3" length="25246125" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
