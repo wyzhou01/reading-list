@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 23:47:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 23:54:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33761,6 +33761,17 @@
       <itunes:duration>00:23:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-97b371.mp3" length="22397613" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《南极绝恋》 · 完整版 · 南极绝恋 · 完整讲读</title>
+      <description>《南极绝恋》是吴有音根据三次亲赴南极、一次独闯北极的真实经历创作的长篇小说。故事讲述上海商人吴富春与极区高空物理女博士荆如意，在一架偏离航线的小型飞机坠毁于南极海冰后，被迫相依为命穿越无人冰原求生。两人从互不相识的陌生人开始，经历坠机、断腿、暴风雪、雪洞求生、翻越六座冰山等极端考验，最终在彼此最脆弱的时刻完成了最笨拙也最坚定的相互救赎。小说以南极为修罗场，剥去所有社会标签，放大了人性中最真实的部分，探讨了绝境中的爱、信任与舍得的命题。</description>
+      <pubDate>Sun, 11 Oct 2026 23:54:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-b2245c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《南极绝恋》是吴有音根据三次亲赴南极、一次独闯北极的真实经历创作的长篇小说。故事讲述上海商人吴富春与极区高空物理女博士荆如意，在一架偏离航线的小型飞机坠毁于南极海冰后，被迫相依为命穿越无人冰原求生。两人从互不相识的陌生人开始，经历坠机、断腿、暴风雪、雪洞求生、翻越六座冰山等极端考验，最终在彼此最脆弱的时刻完成了最笨拙也最坚定的相互救赎。小说以南极为修罗场，剥去所有社会标签，放大了人性中最真实的部分，探讨了绝境中的爱、信任与舍得的命题。</itunes:summary>
+      <itunes:duration>00:25:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-b2245c.mp3" length="24143277" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
