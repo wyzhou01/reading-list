@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 14:51:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 14:58:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33299,6 +33299,17 @@
       <itunes:duration>00:19:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-459730.mp3" length="18850221" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《蛇为什么会飞》 · 完整版 · 蛇为什么会飞 · 完整讲读</title>
+      <description>千禧年来临前的江南小城，火车站旅社迎来一位金发女孩马凤珍，她的身份证与脸对不上，她的行李箱里有来历不明的声响。同一时刻，一节货车里爬出大批蛇群，把火车站广场和美丽城大厦搅成一锅粥。混子克渊被拉特公司经理德群封为特级教授，洗头房姑娘冷燕在蛇灾中失去旅社饭碗，蛇餐馆、修红、贺二、梁坚，所有小人物都被卷进这场世纪末的荒诞风暴。苏童用一只总敲不准的世纪钟、一座挂满假名牌的写字楼、一列从不晚点的火车，和一群来历不明的蛇，写出了世纪初中国小城最诚实的一行字：一个人要在飞驰的火车厕所里，才能获得片刻的安全。</description>
+      <pubDate>Sun, 11 Oct 2026 14:58:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-799eee</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>千禧年来临前的江南小城，火车站旅社迎来一位金发女孩马凤珍，她的身份证与脸对不上，她的行李箱里有来历不明的声响。同一时刻，一节货车里爬出大批蛇群，把火车站广场和美丽城大厦搅成一锅粥。混子克渊被拉特公司经理德群封为特级教授，洗头房姑娘冷燕在蛇灾中失去旅社饭碗，蛇餐馆、修红、贺二、梁坚，所有小人物都被卷进这场世纪末的荒诞风暴。苏童用一只总敲不准的世纪钟、一座挂满假名牌的写字楼、一列从不晚点的火车，和一群来历不明的蛇，写出了世纪初中国小城最诚实的一行字：一个人要在飞驰的火车厕所里，才能获得片刻的安全。</itunes:summary>
+      <itunes:duration>00:25:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-799eee.mp3" length="24602925" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
