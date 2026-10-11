@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 12:50:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 12:56:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33090,6 +33090,17 @@
       <itunes:duration>00:27:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-243103.mp3" length="26064429" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一生的读书计划（最新珍藏版）》 · 完整版 · 一生的读书计划（最新珍藏版）-[美]克里夫顿·费迪 · 完整讲读</title>
+      <description>《一生的读书计划》是克里夫顿·费迪曼与约翰·S.梅杰为普通读者编写的世界经典阅读指南，按作者出生年代从公元前两千年的《吉尔伽美什》一路编排至二十世纪末的马尔克斯、阿契贝，横跨东西方文明四千余年。全书以作家间交叉引证的方式揭示跨时空的思想共鸣，把孔子与柏拉图、司马迁与修昔底德、紫式部与奥斯汀放在同一条时间轴上彼此呼应，是一份全球文学的平等对话，也是一份贯穿一生的精神成长清单。</description>
+      <pubDate>Sun, 11 Oct 2026 12:55:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-4a507c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《一生的读书计划》是克里夫顿·费迪曼与约翰·S.梅杰为普通读者编写的世界经典阅读指南，按作者出生年代从公元前两千年的《吉尔伽美什》一路编排至二十世纪末的马尔克斯、阿契贝，横跨东西方文明四千余年。全书以作家间交叉引证的方式揭示跨时空的思想共鸣，把孔子与柏拉图、司马迁与修昔底德、紫式部与奥斯汀放在同一条时间轴上彼此呼应，是一份全球文学的平等对话，也是一份贯穿一生的精神成长清单。</itunes:summary>
+      <itunes:duration>00:26:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-4a507c.mp3" length="25176621" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
