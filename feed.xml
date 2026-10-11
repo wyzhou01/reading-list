@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 08:54:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 09:02:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32778,6 +32778,17 @@
       <itunes:duration>00:30:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-4053f9.mp3" length="29179437" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《怪客书店》 · 完整版 · 怪客书店_-_春十三少 · 完整讲读</title>
+      <description>《怪客书店》是春十三少写给都市人的一封友情情书。一家开在闹市梧桐树下、外墙连招牌都没有的小书店，悄悄聚起了一群吵吵闹闹多年的老友：书店老板孔令书、出版公司老板董耘和他的助理邵嘉桐、建筑设计师徐康桥、还有两位被读者称为「外援」的陆治民和秦锐。十六个章节，他们因为一本书、一杯咖啡、一场雨聚在一起，又因为各自难言之隐差点散开。当董耘终于在书店二楼的雨夜向老友们坦白自己车祸后的不堪过往时，他哭得毫无形象，可朋友们却齐齐告诉他——这事我们早就知道了。原来早在董耘独自舔伤口的那段时间，康桥、陆治民、秦锐就悄悄替他挖过坑、跳过火、捅过窗。这是一本关于友情如何悄悄救赎你的小说，关于都市人如何面对孤独，也关于一个人需要多大的勇气，才能把藏了几年的真相说出口。整本书温暖但底色偏冷，人物刻薄但内心柔软，它不喊口号、不灌鸡汤，只是安安静静地讲完了一群普通人的故事。再读这本书，你会发现它像一面镜子，照出我们每个人都有过的、那些说不出口的话、咽不下去的委屈，和始终放不下的朋友。</description>
+      <pubDate>Sun, 11 Oct 2026 09:02:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-f160c2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《怪客书店》是春十三少写给都市人的一封友情情书。一家开在闹市梧桐树下、外墙连招牌都没有的小书店，悄悄聚起了一群吵吵闹闹多年的老友：书店老板孔令书、出版公司老板董耘和他的助理邵嘉桐、建筑设计师徐康桥、还有两位被读者称为「外援」的陆治民和秦锐。十六个章节，他们因为一本书、一杯咖啡、一场雨聚在一起，又因为各自难言之隐差点散开。当董耘终于在书店二楼的雨夜向老友们坦白自己车祸后的不堪过往时，他哭得毫无形象，可朋友们却齐齐告诉他——这事我们早就知道了。原来早在董耘独自舔伤口的那段时间，康桥、陆治民、秦锐就悄悄替他挖过坑、跳过火、捅过窗。这是一本关于友情如何悄悄救赎你的小说，关于都市人如何面对孤独，也关于一个人需要多大的勇气，才能把藏了几年的真相说出口。整本书温暖但底色偏冷，人物刻薄但内心柔软，它不喊口号、不灌鸡汤，只是安安静静地讲完了一群普通人的故事。再读这本书，你会发现它像一面镜子，照出我们每个人都有过的、那些说不出口的话、咽不下去的委屈，和始终放不下的朋友。</itunes:summary>
+      <itunes:duration>00:31:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-f160c2.mp3" length="29805741" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
