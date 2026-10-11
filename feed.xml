@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 01:27:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 01:33:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32085,6 +32085,17 @@
       <itunes:duration>00:25:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-5dd76d.mp3" length="24313389" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《奇莱后书》 · 完整版 · 奇来后书_-_杨牧 · 完整讲读</title>
+      <description>《奇莱后书》是杨牧二〇〇九年搁笔散文体裁之前的封山之作。他以花莲山海为底基，穿插爱荷华岁月、神父轶事与跨太平洋行旅，反复追问记忆与书写的关系。全书以海啸为起点，以奇莱山为永恒坐标，用结构替代抒情，用翻译达成自我，把散文与诗的边界推到极致。它提醒读者：在被短视频和碎片叙述占据的时代里，书写可以是一种庄严的仪式，孤独可以变成一种伦理，山与海是永远的精神原乡。</description>
+      <pubDate>Sun, 11 Oct 2026 01:33:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-d5915e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《奇莱后书》是杨牧二〇〇九年搁笔散文体裁之前的封山之作。他以花莲山海为底基，穿插爱荷华岁月、神父轶事与跨太平洋行旅，反复追问记忆与书写的关系。全书以海啸为起点，以奇莱山为永恒坐标，用结构替代抒情，用翻译达成自我，把散文与诗的边界推到极致。它提醒读者：在被短视频和碎片叙述占据的时代里，书写可以是一种庄严的仪式，孤独可以变成一种伦理，山与海是永远的精神原乡。</itunes:summary>
+      <itunes:duration>00:30:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-d5915e.mp3" length="29129901" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
