@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 00:16:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 00:22:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31953,6 +31953,17 @@
       <itunes:duration>00:34:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-c4283d.mp3" length="33377325" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《东方儚月抄》 · 完整版 · 东方儚月抄V2.1 · 完整讲读</title>
+      <description>《东方儚月抄》是ZUN于二〇〇七年发行的官方小说集，以八位角色的第一人称视角重述第二次月面战争。小说围绕月之贤者八意永琳与弟子蓬莱山辉夜的千年流亡展开：永琳因赠予辉夜长生不老之药而被逐出月之都，藏身于迷途竹林的永远亭中。一千年的平静被一块月之羽衣打破，月之都陷入新的战乱，永琳被迫与八云紫、绵月姐妹、铃仙等角色周旋。紫策划的第二次月面战争以思乡之酒刺穿永琳的逃避，让她不得不面对永恒、罪与归返的真正含义。ZUN在书中追问：浪漫是否可以被制造？逃避是否真的能换来平静？人类为何将登月视为浪漫？这些命题在幻想乡的舞台上被一一摆开，等待读者自行回答。</description>
+      <pubDate>Sun, 11 Oct 2026 00:22:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-d460fa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《东方儚月抄》是ZUN于二〇〇七年发行的官方小说集，以八位角色的第一人称视角重述第二次月面战争。小说围绕月之贤者八意永琳与弟子蓬莱山辉夜的千年流亡展开：永琳因赠予辉夜长生不老之药而被逐出月之都，藏身于迷途竹林的永远亭中。一千年的平静被一块月之羽衣打破，月之都陷入新的战乱，永琳被迫与八云紫、绵月姐妹、铃仙等角色周旋。紫策划的第二次月面战争以思乡之酒刺穿永琳的逃避，让她不得不面对永恒、罪与归返的真正含义。ZUN在书中追问：浪漫是否可以被制造？逃避是否真的能换来平静？人类为何将登月视为浪漫？这些命题在幻想乡的舞台上被一一摆开，等待读者自行回答。</itunes:summary>
+      <itunes:duration>00:23:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-d460fa.mp3" length="22102317" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
