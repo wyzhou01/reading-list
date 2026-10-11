@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 15:34:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 15:39:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33365,6 +33365,17 @@
       <itunes:duration>00:14:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-bbe690.mp3" length="14302893" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《华尔街幽灵》 · 完整版 · 华尔街幽灵 · 完整讲读</title>
+      <description>《华尔街幽灵》是一部融合哲学、心理与实操的交易经典，以匿名交易大师与助手阿瑟的对话形式呈现三大核心规则：只持有正确仓位、正确加码才能获利、巨量即是套现良机。全书反复强调，正确的知识必须转化为行为习惯的改变，才是交易成功的关键。书中还系统讲述了交易前的身心准备、行为习惯的重塑、交易计划的制定与执行，以及如何在情绪波动中保持纪律。无论你是日内交易者、波段交易者还是长线投资者，这本书都会让你重新审视自己亏损的真正原因——从来不是技术不够，而是无法把技术变成稳定的行动。</description>
+      <pubDate>Sun, 11 Oct 2026 15:39:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-3e2f88</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《华尔街幽灵》是一部融合哲学、心理与实操的交易经典，以匿名交易大师与助手阿瑟的对话形式呈现三大核心规则：只持有正确仓位、正确加码才能获利、巨量即是套现良机。全书反复强调，正确的知识必须转化为行为习惯的改变，才是交易成功的关键。书中还系统讲述了交易前的身心准备、行为习惯的重塑、交易计划的制定与执行，以及如何在情绪波动中保持纪律。无论你是日内交易者、波段交易者还是长线投资者，这本书都会让你重新审视自己亏损的真正原因——从来不是技术不够，而是无法把技术变成稳定的行动。</itunes:summary>
+      <itunes:duration>00:19:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-3e2f88.mp3" length="19022637" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
