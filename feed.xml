@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 16:11:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 17:15:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33431,6 +33431,17 @@
       <itunes:duration>00:10:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-21319b.mp3" length="10340781" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《非理性繁荣（第二版）》 · 完整版 · 非理性繁荣（第二版） · 完整讲读</title>
+      <description>《非理性繁荣》第二版是耶鲁大学行为金融学巨擘罗伯特·希勒剖析投机性泡沫的经典著作。本书以二零零五年为时点，融合股市与全球房地产泡沫的全新分析，提出泡沫并非偶然，而是由结构因素、文化因素与心理因素共同驱动的自我强化反馈环。希勒逐一拆解了新闻媒体铺陈、从众心理、有效市场假说局限等关键机制，三次精准预言了八七年股灾、二零零零年互联网泡沫与二零零七年次贷危机，最终给出了个人、机构与政府应对泡沫、走向理性繁荣的系统性建议，是理解现代金融狂热与人类集体幻觉的必读之书。</description>
+      <pubDate>Sun, 11 Oct 2026 17:15:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-843973</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《非理性繁荣》第二版是耶鲁大学行为金融学巨擘罗伯特·希勒剖析投机性泡沫的经典著作。本书以二零零五年为时点，融合股市与全球房地产泡沫的全新分析，提出泡沫并非偶然，而是由结构因素、文化因素与心理因素共同驱动的自我强化反馈环。希勒逐一拆解了新闻媒体铺陈、从众心理、有效市场假说局限等关键机制，三次精准预言了八七年股灾、二零零零年互联网泡沫与二零零七年次贷危机，最终给出了个人、机构与政府应对泡沫、走向理性繁荣的系统性建议，是理解现代金融狂热与人类集体幻觉的必读之书。</itunes:summary>
+      <itunes:duration>00:21:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-843973.mp3" length="20305965" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
