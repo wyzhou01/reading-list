@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 00:37:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 00:44:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31986,6 +31986,17 @@
       <itunes:duration>00:26:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-f6f134.mp3" length="25577517" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《这样写出好故事》 · 完整版 · 这样写出好故事 · 完整讲读</title>
+      <description>《这样写出好故事》是美国畅销小说家詹姆斯·斯科特·贝尔的写作入门经典。核心信念是：写作不是天赋，是手艺，情节与结构完全可以被拆解、学习与练习。全书围绕一条完整链路展开：从推翻创作大谎言开始，到 LOCK 系统（主角、目标、冲突、冲击结尾）建立情节地基，到头脑风暴二十种点子方法与金字塔前提筛选，再到三幕结构与两扇门撑起故事骨架，最后到场景和弦、角色弧线、复杂情节、KO 式结尾与改稿流程。附录还附上可直接套用的封底文案模板。无论你是第一次动笔的新手，还是写了多年却卡在中段的写作者，这本书都能用极其实务的方法，帮你把脑子里那团乱麻理成一条能走的线。</description>
+      <pubDate>Sun, 11 Oct 2026 00:44:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-b3e2ba</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《这样写出好故事》是美国畅销小说家詹姆斯·斯科特·贝尔的写作入门经典。核心信念是：写作不是天赋，是手艺，情节与结构完全可以被拆解、学习与练习。全书围绕一条完整链路展开：从推翻创作大谎言开始，到 LOCK 系统（主角、目标、冲突、冲击结尾）建立情节地基，到头脑风暴二十种点子方法与金字塔前提筛选，再到三幕结构与两扇门撑起故事骨架，最后到场景和弦、角色弧线、复杂情节、KO 式结尾与改稿流程。附录还附上可直接套用的封底文案模板。无论你是第一次动笔的新手，还是写了多年却卡在中段的写作者，这本书都能用极其实务的方法，帮你把脑子里那团乱麻理成一条能走的线。</itunes:summary>
+      <itunes:duration>00:31:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-b3e2ba.mp3" length="29824173" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
