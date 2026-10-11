@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 03:40:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 03:49:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32305,6 +32305,17 @@
       <itunes:duration>00:29:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-076e9e.mp3" length="28336557" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《情感教育》 · 完整版 · 情感教育（福楼拜小说集） · 完整讲读</title>
+      <description>《情感教育》是法国作家福楼拜于一八六九年出版的现代小说圣书，讲述一个软弱的中产阶级青年毛漏，在一八四八年革命到一八五一年第二帝国建立之间追女人、搞革命、想做诗人做画家做议员，最后什么都没做成。本书用没有主旨的写法，写出一代人的精神幻灭肖像——理想与情欲本是同一种若干力，被时间穿透之后化为零。它把小说带出旧的传奇，走向日常生活，成为现代小说的源头。</description>
+      <pubDate>Sun, 11 Oct 2026 03:49:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-8f05c0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《情感教育》是法国作家福楼拜于一八六九年出版的现代小说圣书，讲述一个软弱的中产阶级青年毛漏，在一八四八年革命到一八五一年第二帝国建立之间追女人、搞革命、想做诗人做画家做议员，最后什么都没做成。本书用没有主旨的写法，写出一代人的精神幻灭肖像——理想与情欲本是同一种若干力，被时间穿透之后化为零。它把小说带出旧的传奇，走向日常生活，成为现代小说的源头。</itunes:summary>
+      <itunes:duration>00:32:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-8f05c0.mp3" length="31129005" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
