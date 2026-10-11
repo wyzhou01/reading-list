@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 05:14:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 05:20:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32393,6 +32393,17 @@
       <itunes:duration>00:32:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-83ff8b.mp3" length="31119405" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《肇事者》 · 完整版 · 肇事者 · 完整讲读</title>
+      <description>《肇事者》是青年作者魏审磨二零一七年出版的社会派悬疑小说。故事从一场看似普通的车祸切入：十字路口三条人命当场殒灭，留下一个昏迷伤者和一个被安全座椅救下的不到十岁的孩子。记者李少君、狗仔王健、伤者闫敬昱、网红吴晗、科技公司老板郭徽等人在病房内外陆续登场，看似各自独立的几条线，被二十年前偏远福利院【一心】里的一桩连环拐卖案牢牢缝合在一起。小说没有给出非黑即白的判决，而是让每一个人身上同时背负着受害与施害的双重身份，把受害者与加害者之间那条看似清晰的边界彻底抹平。它追问的核心问题是：当一件错事过去很多年，参与者都已经换了身份重新生活，谁才有资格去撕开那道伤疤，记者该不该追到底，孤儿该不该替上一代还债，逃避与面对之间那道门槛，要用多少次来回踱步才能真正跨过。</description>
+      <pubDate>Sun, 11 Oct 2026 05:20:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-8923f9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《肇事者》是青年作者魏审磨二零一七年出版的社会派悬疑小说。故事从一场看似普通的车祸切入：十字路口三条人命当场殒灭，留下一个昏迷伤者和一个被安全座椅救下的不到十岁的孩子。记者李少君、狗仔王健、伤者闫敬昱、网红吴晗、科技公司老板郭徽等人在病房内外陆续登场，看似各自独立的几条线，被二十年前偏远福利院【一心】里的一桩连环拐卖案牢牢缝合在一起。小说没有给出非黑即白的判决，而是让每一个人身上同时背负着受害与施害的双重身份，把受害者与加害者之间那条看似清晰的边界彻底抹平。它追问的核心问题是：当一件错事过去很多年，参与者都已经换了身份重新生活，谁才有资格去撕开那道伤疤，记者该不该追到底，孤儿该不该替上一代还债，逃避与面对之间那道门槛，要用多少次来回踱步才能真正跨过。</itunes:summary>
+      <itunes:duration>00:32:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-8923f9.mp3" length="31269165" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
