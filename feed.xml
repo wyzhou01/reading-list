@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 17:46:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 17:53:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33497,6 +33497,17 @@
       <itunes:duration>00:19:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-9941aa.mp3" length="18559149" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《那些路上的恋人哪》 · 完整版 · 那些路上的恋人哪 · 完整讲读</title>
+      <description>《那些路上的恋人哪》是女作家洛艺嘉用双脚丈量十二座异国城市后写下的情感实录。从伦敦到卡萨布兰卡，从布宜诺斯艾利斯到马德里，本书记录了十二段路上偶遇的爱情——把十七岁雨夜的初吻藏了十几年才说给北非男人听的中国男孩、政变之夜为爱赴死的法国医生多利蒙、被西班牙姑娘用掉在地上的虾对待的日本设计师井上、随亡妻一同离世的加拿大男人布查。同行不能抵达，不告而别，来不及告别——洛艺嘉用她独有的女性视角，把人和人之间那种【那么相近，却又永远不能真正抵达】的距离，写成了一本关于失去与继续上路的书。</description>
+      <pubDate>Sun, 11 Oct 2026 17:53:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-de556e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《那些路上的恋人哪》是女作家洛艺嘉用双脚丈量十二座异国城市后写下的情感实录。从伦敦到卡萨布兰卡，从布宜诺斯艾利斯到马德里，本书记录了十二段路上偶遇的爱情——把十七岁雨夜的初吻藏了十几年才说给北非男人听的中国男孩、政变之夜为爱赴死的法国医生多利蒙、被西班牙姑娘用掉在地上的虾对待的日本设计师井上、随亡妻一同离世的加拿大男人布查。同行不能抵达，不告而别，来不及告别——洛艺嘉用她独有的女性视角，把人和人之间那种【那么相近，却又永远不能真正抵达】的距离，写成了一本关于失去与继续上路的书。</itunes:summary>
+      <itunes:duration>00:24:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-de556e.mp3" length="23764269" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
