@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 02:40:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 02:46:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32206,6 +32206,17 @@
       <itunes:duration>00:31:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-5a0e23.mp3" length="30637485" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《希特勒的影子帝国：纳粹经济学与西班牙内战》 · 完整版 · 希特勒的影子帝国 · 完整讲读</title>
+      <description>本书以西班牙内战为切入口，揭示纳粹德国曾尝试以经济而非军事手段建立影子帝国。经济学家沙赫特设计的垄断企业网络与双边贸易协定，让德国在两年内取代英法成为西班牙头号伙伴，却几乎不费一兵一卒。这套重商主义帝国之路最终败给了纳粹自身的意识形态狂热，希特勒转向战争，沙赫特本人也被排挤。作者借此反思三十年代国际秩序的崩溃，并追问一体化欧洲的当下与未来。</description>
+      <pubDate>Sun, 11 Oct 2026 02:46:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-3a0c17</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书以西班牙内战为切入口，揭示纳粹德国曾尝试以经济而非军事手段建立影子帝国。经济学家沙赫特设计的垄断企业网络与双边贸易协定，让德国在两年内取代英法成为西班牙头号伙伴，却几乎不费一兵一卒。这套重商主义帝国之路最终败给了纳粹自身的意识形态狂热，希特勒转向战争，沙赫特本人也被排挤。作者借此反思三十年代国际秩序的崩溃，并追问一体化欧洲的当下与未来。</itunes:summary>
+      <itunes:duration>00:31:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-3a0c17.mp3" length="30604077" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
