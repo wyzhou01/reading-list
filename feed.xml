@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 00:02:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 00:08:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31931,6 +31931,17 @@
       <itunes:duration>00:27:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-ec2143.mp3" length="26828973" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《长眠不醒》 · 完整版 · 长眠不醒_-_（美）雷蒙德·钱德勒 · 完整讲读</title>
+      <description>一九三九年,失业的中年会计雷蒙德·钱德勒在通俗杂志《黑面具》上打造出菲利普·马洛这个私人侦探,用处女作《长眠不醒》宣告了冷硬派的诞生。本书以一场敲诈案为线索,让衣冠整洁、口齿伶俐的马洛走进洛杉矶的豪宅、赌场与警局,在将军残疾的双腿、奢靡的寡妇、卸下伪装的少女之间穿行。本书将场景置于情节之上,塑造出一个在腐烂城市里坚持不讲规矩的现代骑士。钱德勒只写了七部长篇,却以本书为整个硬汉侦探小说定下基调:真正的侦探故事不是关于谜底,而是关于一个人如何在污秽里保持清醒。</description>
+      <pubDate>Sun, 11 Oct 2026 00:08:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-5cb9e6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九三九年,失业的中年会计雷蒙德·钱德勒在通俗杂志《黑面具》上打造出菲利普·马洛这个私人侦探,用处女作《长眠不醒》宣告了冷硬派的诞生。本书以一场敲诈案为线索,让衣冠整洁、口齿伶俐的马洛走进洛杉矶的豪宅、赌场与警局,在将军残疾的双腿、奢靡的寡妇、卸下伪装的少女之间穿行。本书将场景置于情节之上,塑造出一个在腐烂城市里坚持不讲规矩的现代骑士。钱德勒只写了七部长篇,却以本书为整个硬汉侦探小说定下基调:真正的侦探故事不是关于谜底,而是关于一个人如何在污秽里保持清醒。</itunes:summary>
+      <itunes:duration>00:25:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-5cb9e6.mp3" length="24510765" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
