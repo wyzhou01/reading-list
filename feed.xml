@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 14:36:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 14:41:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33266,6 +33266,17 @@
       <itunes:duration>00:22:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-d0f9dd.mp3" length="21914925" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《自我关怀的力量》 · 完整版 · 自我关怀的力量 · 完整讲读</title>
+      <description>《自我关怀的力量》是一本关于如何停止自我鞭策、如何在最难的当下依然愿意善待自己的书。本书基于克里斯廷·内夫博士十余年的实证研究，提出了支撑自我关怀的三根柱子——善待自己、共同人性、静观当下，并提供了在日常生活中具体可操作的练习路径。</description>
+      <pubDate>Sun, 11 Oct 2026 14:41:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-3996b7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《自我关怀的力量》是一本关于如何停止自我鞭策、如何在最难的当下依然愿意善待自己的书。本书基于克里斯廷·内夫博士十余年的实证研究，提出了支撑自我关怀的三根柱子——善待自己、共同人性、静观当下，并提供了在日常生活中具体可操作的练习路径。</itunes:summary>
+      <itunes:duration>00:18:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-3996b7.mp3" length="17860653" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
