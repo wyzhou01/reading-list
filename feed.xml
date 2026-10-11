@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 17:36:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 17:41:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33475,6 +33475,17 @@
       <itunes:duration>00:29:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-040518.mp3" length="27907629" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《日本人与中国人》 · 完整版 · 日本人与中国人 · 完整讲读</title>
+      <description>生于日本、长于日本的华裔作家陈舜臣以&apos;邻居&apos;视角审视日中两国文化差异。全书通过问答、汉字考据、历史比较和人物评传，拆解&apos;同文同种&apos;的迷思：从面子与物哀的血缘差异、言灵与文字的隔阂、血统与文明的信仰分野，到曹操评传，揭示两个民族在深层的心理结构与文明路径上的根本不同，主张长短相补方为相处之道。</description>
+      <pubDate>Sun, 11 Oct 2026 17:41:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-5895de</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>生于日本、长于日本的华裔作家陈舜臣以&apos;邻居&apos;视角审视日中两国文化差异。全书通过问答、汉字考据、历史比较和人物评传，拆解&apos;同文同种&apos;的迷思：从面子与物哀的血缘差异、言灵与文字的隔阂、血统与文明的信仰分野，到曹操评传，揭示两个民族在深层的心理结构与文明路径上的根本不同，主张长短相补方为相处之道。</itunes:summary>
+      <itunes:duration>00:23:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-5895de.mp3" length="22259757" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
