@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 13:46:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 13:52:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33189,6 +33189,17 @@
       <itunes:duration>00:15:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-2f4a01.mp3" length="14775597" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《魔鬼聊天术》 · 完整版 · 魔鬼聊天术 · 完整讲读</title>
+      <description>《魔鬼聊天术》是阮琦写给直男的一份沟通重建手册。全书以搭讪为起点，把男女交往拆解为态度、情绪、想法三个递进层级，系统给出调情、魔趣、行为等可复用的话术框架，破除尬聊、自作多情、死缠烂打三大雷区，让男人重新掌握与异性自然推进关系的能力。</description>
+      <pubDate>Sun, 11 Oct 2026 13:52:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-34d657</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《魔鬼聊天术》是阮琦写给直男的一份沟通重建手册。全书以搭讪为起点，把男女交往拆解为态度、情绪、想法三个递进层级，系统给出调情、魔趣、行为等可复用的话术框架，破除尬聊、自作多情、死缠烂打三大雷区，让男人重新掌握与异性自然推进关系的能力。</itunes:summary>
+      <itunes:duration>00:18:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-34d657.mp3" length="18214701" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
