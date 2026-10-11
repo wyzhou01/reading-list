@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 11:35:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 11:41:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32954,6 +32954,21 @@
       <itunes:duration>00:35:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-cc3d72.mp3" length="34066605" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《美人毒计》 · 完整版 · 美人毒计 · 完整讲读</title>
+      <description>《美人毒计》是作家毛德远创作的长篇犯罪小说。故事始于二零零一年闽浙交界山村的张天向被杀案，十三岁的王凤枝目睹底层女性全部屈辱，被迫改名换姓，漂泊于温州、上海、日本，用美貌与心机周旋于男人之间，并利用氯胺酮与H7N9病毒谋害多人。她本欲嫁入豪门完成阶层跃升，最终却选择将毒香水留给自己。
+
+这部作品超越犯罪叙事，深度剖析底层女性在欲望、仇恨与时代洪流中的命运挣扎，揭露城乡裂变中道德失序与阶层流动的残酷真相，是一部关于人性、欲望与社会痼疾的悲怆寓言。</description>
+      <pubDate>Sun, 11 Oct 2026 11:41:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-72976d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《美人毒计》是作家毛德远创作的长篇犯罪小说。故事始于二零零一年闽浙交界山村的张天向被杀案，十三岁的王凤枝目睹底层女性全部屈辱，被迫改名换姓，漂泊于温州、上海、日本，用美貌与心机周旋于男人之间，并利用氯胺酮与H7N9病毒谋害多人。她本欲嫁入豪门完成阶层跃升，最终却选择将毒香水留给自己。
+
+这部作品超越犯罪叙事，深度剖析底层女性在欲望、仇恨与时代洪流中的命运挣扎，揭露城乡裂变中道德失序与阶层流动的残酷真相，是一部关于人性、欲望与社会痼疾的悲怆寓言。</itunes:summary>
+      <itunes:duration>00:20:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-72976d.mp3" length="19982253" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
