@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 07:47:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 07:54:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32668,6 +32668,17 @@
       <itunes:duration>00:27:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-404316.mp3" length="26599725" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《孤独小说家》 · 完整版 · 孤独小说家 · 完整讲读</title>
+      <description>《孤独小说家》是日本作家石田衣良二〇〇九年推出的转型之作，讲述了一位中年作家青田耕平在妻子意外去世后，独自抚养十岁儿子，并坚持写作十年的故事。全书以东京神乐坂为舞台，用十章安静的笔触写尽父子相依为命的日常，最终耕平凭借取材自父子生活的小说集《父与子》斩获第一百五十届直本奖。</description>
+      <pubDate>Sun, 11 Oct 2026 07:54:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-178dc4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《孤独小说家》是日本作家石田衣良二〇〇九年推出的转型之作，讲述了一位中年作家青田耕平在妻子意外去世后，独自抚养十岁儿子，并坚持写作十年的故事。全书以东京神乐坂为舞台，用十章安静的笔触写尽父子相依为命的日常，最终耕平凭借取材自父子生活的小说集《父与子》斩获第一百五十届直本奖。</itunes:summary>
+      <itunes:duration>00:27:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-178dc4.mp3" length="26270253" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
