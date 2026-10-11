@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 02:32:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 02:40:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32195,6 +32195,17 @@
       <itunes:duration>00:33:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-c65859.mp3" length="32148909" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《吃货的生物学修养》 · 完整版 · 吃货的生物学修养_-_王立铭 · 完整讲读</title>
+      <description>《吃货的生物学修养》是浙江大学教授王立铭写给普通人的代谢疾病科学史。本书围绕脂肪、糖、胆固醇、胰岛素四条主线，用连体老鼠发现瘦素预言、他汀类药物诞生、胰岛素百年传奇、GLP-1 类药物源头等故事，串起人类理解肥胖、高血脂、糖尿病的整个科学脉络。作者不提供任何健康偏方，只讲科学逻辑本身：在信息爆炸、伪科学横流的今天，这本书给每一个现代吃货，留下一份关于身体的诚实修养。</description>
+      <pubDate>Sun, 11 Oct 2026 02:40:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-5a0e23</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《吃货的生物学修养》是浙江大学教授王立铭写给普通人的代谢疾病科学史。本书围绕脂肪、糖、胆固醇、胰岛素四条主线，用连体老鼠发现瘦素预言、他汀类药物诞生、胰岛素百年传奇、GLP-1 类药物源头等故事，串起人类理解肥胖、高血脂、糖尿病的整个科学脉络。作者不提供任何健康偏方，只讲科学逻辑本身：在信息爆炸、伪科学横流的今天，这本书给每一个现代吃货，留下一份关于身体的诚实修养。</itunes:summary>
+      <itunes:duration>00:31:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-5a0e23.mp3" length="30637485" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
