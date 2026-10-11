@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 10:00:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 10:08:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32888,6 +32888,17 @@
       <itunes:duration>00:25:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-2bca7c.mp3" length="24475821" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我们为什么总是看错人》 · 完整版 · 我们为什么总是看错人 · 完整讲读</title>
+      <description>《我们为什么总是看错人》是资深媒体人王烁的认知杂文集, 跨循证预测、博弈论、心理学、新闻判断四个维度, 系统拆解人类判断失误的隐秘陷阱。全书核心主张: 看错人、看错事, 不是因为我们比别人差, 而是因为我们少了一套方法。循证预测教你怎么算, 博弈论教你怎么想, 识别骗子教你怎么防, 国际政治博弈教你怎么读大势。四件工具加在一起, 是一套可反复使用的判断力训练系统。</description>
+      <pubDate>Sun, 11 Oct 2026 10:08:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-d3340a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我们为什么总是看错人》是资深媒体人王烁的认知杂文集, 跨循证预测、博弈论、心理学、新闻判断四个维度, 系统拆解人类判断失误的隐秘陷阱。全书核心主张: 看错人、看错事, 不是因为我们比别人差, 而是因为我们少了一套方法。循证预测教你怎么算, 博弈论教你怎么想, 识别骗子教你怎么防, 国际政治博弈教你怎么读大势。四件工具加在一起, 是一套可反复使用的判断力训练系统。</itunes:summary>
+      <itunes:duration>00:31:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-d3340a.mp3" length="29979309" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
