@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 14:18:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 14:26:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33244,6 +33244,17 @@
       <itunes:duration>00:18:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-434f7a.mp3" length="17581101" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《房龙三部曲（宽容+人类的故事+人类的家园）》 · 完整版 · 房龙三部曲精装版（宽容+人类的故事+人类的家园） · 完整讲读</title>
+      <description>房龙用《宽容》《人类的故事》《人类的家园》这三部曲, 把人类文明的演进写成了一部可读性极强的通俗史诗。其中《宽容》以希腊小城米莱图斯的多元生态为起点, 用一笔笔可量化的历史账单, 揭穿了不宽容的真实代价: 它不仅是道德的失败, 更是效率的破产。从罗马帝国的僵化, 到中世纪火刑柱对布鲁诺、塞尔维特等异端的封杀, 再到近代伏尔泰与美国宪法第一修正案对思想自由的制度化保障, 房龙最终完成了一次跨越两千五百年的论证: 真正的宽容, 从来不是要求你爱那个异端, 而只是承认他有说话的权利。当多元被熔成铁板一块, 文明就开始窒息; 当异端被允许把话说完, 文明才会自动长出来。这本书适合每一个想在山谷之外多看一眼天空的人。</description>
+      <pubDate>Sun, 11 Oct 2026 14:26:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-5832dc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>房龙用《宽容》《人类的故事》《人类的家园》这三部曲, 把人类文明的演进写成了一部可读性极强的通俗史诗。其中《宽容》以希腊小城米莱图斯的多元生态为起点, 用一笔笔可量化的历史账单, 揭穿了不宽容的真实代价: 它不仅是道德的失败, 更是效率的破产。从罗马帝国的僵化, 到中世纪火刑柱对布鲁诺、塞尔维特等异端的封杀, 再到近代伏尔泰与美国宪法第一修正案对思想自由的制度化保障, 房龙最终完成了一次跨越两千五百年的论证: 真正的宽容, 从来不是要求你爱那个异端, 而只是承认他有说话的权利。当多元被熔成铁板一块, 文明就开始窒息; 当异端被允许把话说完, 文明才会自动长出来。这本书适合每一个想在山谷之外多看一眼天空的人。</itunes:summary>
+      <itunes:duration>00:20:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-5832dc.mp3" length="19465389" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
