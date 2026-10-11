@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 11:47:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 11:53:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32980,6 +32980,17 @@
       <itunes:duration>00:23:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-ebd64c.mp3" length="22601517" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《哲学的快乐：干瘪的思考vs.激情的生活》 · 完整版 · 哲学的快乐 · 完整讲读</title>
+      <description>所罗门以《哲学的快乐》对二十世纪专业化、技术化的分析哲学传统做出系统反叛，倡导一种回归激情、情感与生活血肉的「丰盈哲学」。全书贯通情感哲学、德性伦理与存在主义路径，重审爱、复仇、死亡等恒久问题，揭示哲学真正的快乐来自日常经验中的惊异感、视野的开阔与判断的承担，而非论证的精致干瘪。</description>
+      <pubDate>Sun, 11 Oct 2026 11:52:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-3aa765</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>所罗门以《哲学的快乐》对二十世纪专业化、技术化的分析哲学传统做出系统反叛，倡导一种回归激情、情感与生活血肉的「丰盈哲学」。全书贯通情感哲学、德性伦理与存在主义路径，重审爱、复仇、死亡等恒久问题，揭示哲学真正的快乐来自日常经验中的惊异感、视野的开阔与判断的承担，而非论证的精致干瘪。</itunes:summary>
+      <itunes:duration>00:22:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-3aa765.mp3" length="21312429" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
