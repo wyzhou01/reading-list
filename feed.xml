@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 07:41:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 07:47:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32657,6 +32657,17 @@
       <itunes:duration>00:31:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-aa9f26.mp3" length="30602925" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《科学在现代文明中的地位》 · 完整版 · 科学在现代文明中的地位_(汉译世界学术名著丛书)_-_托尔斯坦·凡勃伦 · 完整讲读</title>
+      <description>本书是美国思想家凡勃伦二十年间代表性论文的精选集，凡勃伦以达尔文进化论为方法论武器，对现代科学在西方文明中被功利化、神化的现象进行了系统批判。他把人类知识史划分为前达尔文主义的&quot;定义与分类&quot;阶段和后达尔文主义的&quot;因果累积过程&quot;阶段，断言正统经济学仍然停留在前达尔文主义的静态均衡思维中。书中通过思想史梳理、制度经济学宣言、对克拉克与边际效用学派的逐项批驳、对施穆勒历史学派的再评估，以及对维京海盗托拉斯的史前考察，论证了制度如何塑造思想习惯、思想习惯又如何塑造科学方法。</description>
+      <pubDate>Sun, 11 Oct 2026 07:47:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-404316</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是美国思想家凡勃伦二十年间代表性论文的精选集，凡勃伦以达尔文进化论为方法论武器，对现代科学在西方文明中被功利化、神化的现象进行了系统批判。他把人类知识史划分为前达尔文主义的&quot;定义与分类&quot;阶段和后达尔文主义的&quot;因果累积过程&quot;阶段，断言正统经济学仍然停留在前达尔文主义的静态均衡思维中。书中通过思想史梳理、制度经济学宣言、对克拉克与边际效用学派的逐项批驳、对施穆勒历史学派的再评估，以及对维京海盗托拉斯的史前考察，论证了制度如何塑造思想习惯、思想习惯又如何塑造科学方法。</itunes:summary>
+      <itunes:duration>00:27:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-404316.mp3" length="26599725" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
