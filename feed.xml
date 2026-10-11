@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 07:22:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 07:29:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32635,6 +32635,17 @@
       <itunes:duration>00:27:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-ec3493.mp3" length="26490285" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中国诗体流变》 · 完整版 · 中国诗体流变_(文史知识文库典藏本) · 完整讲读</title>
+      <description>《中国诗体流变》是程毅中先生写于上世纪八十年代、几经重印的诗体演变小书。本书打破按朝代讲作家作品的文学史套路，改以语言形式为线索，梳理从《诗经》四言、楚辞【兮】字句、汉乐府五言、盛唐律绝、宋词、元曲的演变脉络。核心观点：中国诗歌的真正历史是诗体的历史，而诗体演变始终由音乐驱动——每当音乐退场，诗体就僵化为格律化石。书后附录两篇呼吁保护诗词格律非物质文化遗产的文章，体现了作者对传统诗体命运的当下关怀。</description>
+      <pubDate>Sun, 11 Oct 2026 07:29:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-1be000</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《中国诗体流变》是程毅中先生写于上世纪八十年代、几经重印的诗体演变小书。本书打破按朝代讲作家作品的文学史套路，改以语言形式为线索，梳理从《诗经》四言、楚辞【兮】字句、汉乐府五言、盛唐律绝、宋词、元曲的演变脉络。核心观点：中国诗歌的真正历史是诗体的历史，而诗体演变始终由音乐驱动——每当音乐退场，诗体就僵化为格律化石。书后附录两篇呼吁保护诗词格律非物质文化遗产的文章，体现了作者对传统诗体命运的当下关怀。</itunes:summary>
+      <itunes:duration>00:33:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-1be000.mp3" length="32137005" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
