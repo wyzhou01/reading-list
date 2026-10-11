@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 12:10:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 12:15:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33024,6 +33024,17 @@
       <itunes:duration>00:16:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-d02e24.mp3" length="15529005" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《解读私募股权基金》 · 完整版 · 解读私募股权基金 · 完整讲读</title>
+      <description>《解读私募股权基金》以二〇〇六到二〇〇七年欧美大型杠杆收购浪潮为切入点，系统拆解了私募股权基金的另类金融本质：本书梳理了行业从一九四六年代递到二〇〇七年三轮起落的发展史，剖析了九十倍高额负债的杠杆逻辑、有限合伙制背后的税收驱动结构、机构 LP 的严苛融资链条，以及积极投资者主导的运营改造逻辑；并在前六章搭建通用框架的基础上，于最后一章专门剖析中国私募股权基金在《合伙企业法》修订前后的演进路径与未来五步猜想，是了解这门生意的入门必读。</description>
+      <pubDate>Sun, 11 Oct 2026 12:15:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-954138</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《解读私募股权基金》以二〇〇六到二〇〇七年欧美大型杠杆收购浪潮为切入点，系统拆解了私募股权基金的另类金融本质：本书梳理了行业从一九四六年代递到二〇〇七年三轮起落的发展史，剖析了九十倍高额负债的杠杆逻辑、有限合伙制背后的税收驱动结构、机构 LP 的严苛融资链条，以及积极投资者主导的运营改造逻辑；并在前六章搭建通用框架的基础上，于最后一章专门剖析中国私募股权基金在《合伙企业法》修订前后的演进路径与未来五步猜想，是了解这门生意的入门必读。</itunes:summary>
+      <itunes:duration>00:25:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-954138.mp3" length="24006957" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
