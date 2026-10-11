@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 01:09:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 01:15:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32052,6 +32052,17 @@
       <itunes:duration>00:23:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-760c02.mp3" length="23014317" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《深入React技术栈》 · 完整版 · 深入react_技术栈 · 完整讲读</title>
+      <description>《深入 React 技术栈》以六块拼图搭建起前端工程师从会写代码到能设计大型应用架构的进阶路径：从声明式 UI 解放 DOM 操作焦虑，到 Virtual DOM 架起跨平台桥梁，再到事务机制守住状态稳定线；从 Flux 与 Redux 把数据流约束进可预测的轨道，到高阶组件让复杂系统在抽象与复用之间找到平衡，最后以服务端渲染与可视化把 React 升格为一门工程方法论。陈屹不仅逐行解读源码，更传递一项核心心法——前端开发的复杂度，从来不在代码本身，而在如何让状态变得可推导、可回放、可协作。</description>
+      <pubDate>Sun, 11 Oct 2026 01:14:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-f169a2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《深入 React 技术栈》以六块拼图搭建起前端工程师从会写代码到能设计大型应用架构的进阶路径：从声明式 UI 解放 DOM 操作焦虑，到 Virtual DOM 架起跨平台桥梁，再到事务机制守住状态稳定线；从 Flux 与 Redux 把数据流约束进可预测的轨道，到高阶组件让复杂系统在抽象与复用之间找到平衡，最后以服务端渲染与可视化把 React 升格为一门工程方法论。陈屹不仅逐行解读源码，更传递一项核心心法——前端开发的复杂度，从来不在代码本身，而在如何让状态变得可推导、可回放、可协作。</itunes:summary>
+      <itunes:duration>00:25:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-f169a2.mp3" length="24266157" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
