@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 06:13:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 06:17:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32503,6 +32503,17 @@
       <itunes:duration>00:24:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-c4ebb5.mp3" length="23756973" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《猎魔人·卷六：雨燕之塔》 · 完整版 · 猎魔人·卷六：雨燕之塔_-_[波兰]安德烈·斯帕克沃斯基 · 完整讲读</title>
+      <description>秋分之夜血月升起，狂猎掠过天际，二十多个平民凭空消失，整个世界都在为一个名字颤抖——希瑞，辛特拉古老血脉的最后一滴传人。她骑着黑母马穿越时空之门，逃出悬赏猎人的追杀，被一位隐居沼泽的老医者维索戈塔救下。在疗伤的五天里，她拒绝被任何人当作猎物、筹码或预言的工具；伤愈后她再次启程，踏入凭空出现的雨燕之塔。塔中无尽的门为她打开，她看见战友的苦难、母亲被囚的真相，也与死后的维索戈塔完成最后的告别。最终她推开最后一扇门，在黑樱桃盛开的湖畔，与等待她的浅色头发精灵相遇——她不再是任何人棋盘上的幼狮，而是诸界的主宰，属于她自己的雨燕。</description>
+      <pubDate>Sun, 11 Oct 2026 06:17:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-3625eb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>秋分之夜血月升起，狂猎掠过天际，二十多个平民凭空消失，整个世界都在为一个名字颤抖——希瑞，辛特拉古老血脉的最后一滴传人。她骑着黑母马穿越时空之门，逃出悬赏猎人的追杀，被一位隐居沼泽的老医者维索戈塔救下。在疗伤的五天里，她拒绝被任何人当作猎物、筹码或预言的工具；伤愈后她再次启程，踏入凭空出现的雨燕之塔。塔中无尽的门为她打开，她看见战友的苦难、母亲被囚的真相，也与死后的维索戈塔完成最后的告别。最终她推开最后一扇门，在黑樱桃盛开的湖畔，与等待她的浅色头发精灵相遇——她不再是任何人棋盘上的幼狮，而是诸界的主宰，属于她自己的雨燕。</itunes:summary>
+      <itunes:duration>00:18:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-3625eb.mp3" length="17851437" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
