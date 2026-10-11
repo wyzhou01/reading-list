@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 14:58:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 15:07:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33310,6 +33310,17 @@
       <itunes:duration>00:25:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-799eee.mp3" length="24602925" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《查无此人》 · 完整版 · 查无此人 · 完整讲读</title>
+      <description>《查无此人》是美国女作家凯瑟琳·克莱斯曼·泰勒一九八三八年发表的书信体小说，全书不到一百页，借旧金山犹太画廊主麦克斯与慕尼黑旧友马丁的二十七封通信，呈现两个受过良好教育的生意人在纳粹崛起后从挚友变为仇敌的全过程：马丁被纳粹意识形态一步步同化，从自由主义者变成告发者，亲手将麦克斯的妹妹格丽赛尔送进死亡；麦克斯则在悲痛中以伪造信件设下复仇陷阱，最终让马丁一家消失在【查无此人】的退信戳里。这部不到一百页的杰作以书信体的日常温度包裹极权形成的冰冷渐变，把语言污染、友情脆弱、复仇伦理、人性深渊这些命题压缩进了两个男人六年的通信，是二十世纪反法西斯文学的经典寓言，至今仍在警示每一个普通人：恶魔不在别处，恶魔藏在每个我们为了家庭和荣誉而妥协的瞬间里。</description>
+      <pubDate>Sun, 11 Oct 2026 15:07:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-f5fa0a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《查无此人》是美国女作家凯瑟琳·克莱斯曼·泰勒一九八三八年发表的书信体小说，全书不到一百页，借旧金山犹太画廊主麦克斯与慕尼黑旧友马丁的二十七封通信，呈现两个受过良好教育的生意人在纳粹崛起后从挚友变为仇敌的全过程：马丁被纳粹意识形态一步步同化，从自由主义者变成告发者，亲手将麦克斯的妹妹格丽赛尔送进死亡；麦克斯则在悲痛中以伪造信件设下复仇陷阱，最终让马丁一家消失在【查无此人】的退信戳里。这部不到一百页的杰作以书信体的日常温度包裹极权形成的冰冷渐变，把语言污染、友情脆弱、复仇伦理、人性深渊这些命题压缩进了两个男人六年的通信，是二十世纪反法西斯文学的经典寓言，至今仍在警示每一个普通人：恶魔不在别处，恶魔藏在每个我们为了家庭和荣誉而妥协的瞬间里。</itunes:summary>
+      <itunes:duration>00:30:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-f5fa0a.mp3" length="29386413" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
