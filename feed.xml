@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 23:26:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 23:33:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33739,6 +33739,17 @@
       <itunes:duration>00:27:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-988a69.mp3" length="26226477" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《致命空间》 · 完整版 · 致命空间 · 完整讲读</title>
+      <description>《致命空间》是异青人创作的一部科幻悬疑小说。普通上班族刘可在一场车祸后醒来，发现整个世界都变得荒诞：父母对眼前的尸体视而不见，街上的陌生人挂着同款微笑，便利店可以随便拿东西没人拦。脑科主任张建斌在病房里留下一句遗言【这世界是假的，你要想办法逃出去】，随后从窗口跳下。顺着张建斌留下的线索，刘可一步步揭开K科技打造的超级大楼伊甸园的真相——这栋占地三万平方米的迷宫，是专门为脑婴女孩叶子打造的实验场，常驻两千名员工，每天进出大量临时演员，把一整座城市的肌理塞进钢筋混凝土里，试图批量生产符合设计目的的人类意识。当叶子决定帮刘可逃离、当古少用脑仪器把刘可送回一九九七年试图从源头瓦解K科技，三个觉醒者用三种不同的方式，向那套吞噬人类意识的机器发起反击。小说撕开了一个让每个现代人都隐隐不安的问题：当科技强大到可以改写记忆、制造意识、批量生产人类，我们以为拥有的生活，究竟是真实，还是别人写好的剧本？</description>
+      <pubDate>Sun, 11 Oct 2026 23:33:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-7f484c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《致命空间》是异青人创作的一部科幻悬疑小说。普通上班族刘可在一场车祸后醒来，发现整个世界都变得荒诞：父母对眼前的尸体视而不见，街上的陌生人挂着同款微笑，便利店可以随便拿东西没人拦。脑科主任张建斌在病房里留下一句遗言【这世界是假的，你要想办法逃出去】，随后从窗口跳下。顺着张建斌留下的线索，刘可一步步揭开K科技打造的超级大楼伊甸园的真相——这栋占地三万平方米的迷宫，是专门为脑婴女孩叶子打造的实验场，常驻两千名员工，每天进出大量临时演员，把一整座城市的肌理塞进钢筋混凝土里，试图批量生产符合设计目的的人类意识。当叶子决定帮刘可逃离、当古少用脑仪器把刘可送回一九九七年试图从源头瓦解K科技，三个觉醒者用三种不同的方式，向那套吞噬人类意识的机器发起反击。小说撕开了一个让每个现代人都隐隐不安的问题：当科技强大到可以改写记忆、制造意识、批量生产人类，我们以为拥有的生活，究竟是真实，还是别人写好的剧本？</itunes:summary>
+      <itunes:duration>00:22:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-7f484c.mp3" length="21949869" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
