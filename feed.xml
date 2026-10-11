@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 09:11:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 09:15:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32800,6 +32800,17 @@
       <itunes:duration>00:27:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-8ee4d1.mp3" length="26418477" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《香蜜沉沉烬如霜》 · 完整版 · 香蜜沉沉烬如霜v1_1 · 完整讲读</title>
+      <description>《香蜜沉沉烬如霜》是电线创作的长篇仙侠言情小说。花神之女锦觅自幼服下陨丹，封印情欲，在花界水镜中独居四千余年后，救下涅槃重伤的天帝之子旭凤，由此被带入天宫，卷入仙、魔、凡三界的恩怨纠葛。全书以陨丹被破为转折，借锦觅的成长线探讨【情劫与宿命】【身份与阶层】【牺牲与救赎】【成长与自省】【爱与放下】等主题，最终落点在一个被封印之心如何重新学会去爱。</description>
+      <pubDate>Sun, 11 Oct 2026 09:15:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-d3892c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《香蜜沉沉烬如霜》是电线创作的长篇仙侠言情小说。花神之女锦觅自幼服下陨丹，封印情欲，在花界水镜中独居四千余年后，救下涅槃重伤的天帝之子旭凤，由此被带入天宫，卷入仙、魔、凡三界的恩怨纠葛。全书以陨丹被破为转折，借锦觅的成长线探讨【情劫与宿命】【身份与阶层】【牺牲与救赎】【成长与自省】【爱与放下】等主题，最终落点在一个被封印之心如何重新学会去爱。</itunes:summary>
+      <itunes:duration>00:15:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-d3892c.mp3" length="14860845" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
