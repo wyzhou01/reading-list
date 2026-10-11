@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 01:55:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 02:03:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32129,6 +32129,17 @@
       <itunes:duration>00:33:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-545762.mp3" length="32098221" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《樱树抽芽时，想你》 · 完整版 · 樱树抽芽时，想你 · 完整讲读</title>
+      <description>《樱树抽芽时,想你》是东野圭吾在转型期写的一部被低估的中年情感小说。五十岁的成濑将虎和七十岁的他,穿梭在东京情人旅馆与高级住宅区之间,渴望找到一份震撼灵魂的爱情。二〇〇二年夏天,他在地铁广尾站救下一个想要自杀的二十岁女人麻宫樱,又介入七十岁老人古屋节子的欠债危机,在追查黑道侦探旧案的过程中,把自己活成了一棵四季常青的樱树。这是一本写给所有停下来问过我这辈子到底在追求什么的人的书。</description>
+      <pubDate>Sun, 11 Oct 2026 02:03:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-a26255</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《樱树抽芽时,想你》是东野圭吾在转型期写的一部被低估的中年情感小说。五十岁的成濑将虎和七十岁的他,穿梭在东京情人旅馆与高级住宅区之间,渴望找到一份震撼灵魂的爱情。二〇〇二年夏天,他在地铁广尾站救下一个想要自杀的二十岁女人麻宫樱,又介入七十岁老人古屋节子的欠债危机,在追查黑道侦探旧案的过程中,把自己活成了一棵四季常青的樱树。这是一本写给所有停下来问过我这辈子到底在追求什么的人的书。</itunes:summary>
+      <itunes:duration>00:26:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-a26255.mp3" length="25304109" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
