@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 03:25:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 03:34:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32283,6 +32283,17 @@
       <itunes:duration>00:24:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-c01e7e.mp3" length="23599917" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《青蛇》 · 完整版 · 青蛇 · 完整讲读</title>
+      <description>《青蛇》是李碧华一九八六年的神怪小说，借《白蛇传》壳子，演一出关于欲望、觉醒与佛门空相的女性寓言。本书以青蛇第一人称视角出发，重写一个最经典的东方爱情传说——白蛇腹黑、深情可怖，许仙懦弱可鄙，法海困在自己亲手搭建的「替天行道」话语系统里，最终成了真正困于色即是空的囚徒。小青从一个懵懂的千年蛇妖，到水漫金山时挥剑断情的觉醒者，亲眼目睹所有「人」如何辜负所有深情，却拒绝简单地控诉爱情本身。本书底色是香港八〇年代在传统与现代、本土与殖民、东方与西方撕扯中的现代女性意识，从李碧华的蛇芯子视角，看透一切礼教、男欢女爱、佛门清规的伪善与不堪。</description>
+      <pubDate>Sun, 11 Oct 2026 03:34:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-bff3a1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《青蛇》是李碧华一九八六年的神怪小说，借《白蛇传》壳子，演一出关于欲望、觉醒与佛门空相的女性寓言。本书以青蛇第一人称视角出发，重写一个最经典的东方爱情传说——白蛇腹黑、深情可怖，许仙懦弱可鄙，法海困在自己亲手搭建的「替天行道」话语系统里，最终成了真正困于色即是空的囚徒。小青从一个懵懂的千年蛇妖，到水漫金山时挥剑断情的觉醒者，亲眼目睹所有「人」如何辜负所有深情，却拒绝简单地控诉爱情本身。本书底色是香港八〇年代在传统与现代、本土与殖民、东方与西方撕扯中的现代女性意识，从李碧华的蛇芯子视角，看透一切礼教、男欢女爱、佛门清规的伪善与不堪。</itunes:summary>
+      <itunes:duration>00:30:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-bff3a1.mp3" length="29654061" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
