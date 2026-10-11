@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 09:47:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 09:55:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32866,6 +32866,17 @@
       <itunes:duration>00:26:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-908c39.mp3" length="25709997" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《长夜漫漫路迢迢》 · 完整版 · 长夜漫漫路迢迢 · 完整讲读</title>
+      <description>《长夜漫漫路迢迢》是美国戏剧大师尤金·奥尼尔写于一九四〇年的自传悲剧。剧本封存二十五年后于一九五六年在瑞典首演，同年登陆百老汇，由一八九八年生于爱尔兰移民家庭、因演《基督山恩仇记》而成名的父亲、染上吗啡瘾的母亲、纵情堕落的哥哥和患肺病的奥尼尔自己，一家四口在新伦敦起居室度过的一天。一天之内，从早晨的光到深夜的雾，四人在同一张沙发上喝酒、争吵、忏悔、原谅，又互不原谅。奥尼尔用泪和血换来的这出戏，把家庭创伤、个人隐私与自传写作推到二十世纪戏剧的高点，奠定了它在美国戏剧史上与米勒、威廉斯并列的地位，也给每一个难念的家书，提供了一次最诚实的念出声。</description>
+      <pubDate>Sun, 11 Oct 2026 09:55:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-23456b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《长夜漫漫路迢迢》是美国戏剧大师尤金·奥尼尔写于一九四〇年的自传悲剧。剧本封存二十五年后于一九五六年在瑞典首演，同年登陆百老汇，由一八九八年生于爱尔兰移民家庭、因演《基督山恩仇记》而成名的父亲、染上吗啡瘾的母亲、纵情堕落的哥哥和患肺病的奥尼尔自己，一家四口在新伦敦起居室度过的一天。一天之内，从早晨的光到深夜的雾，四人在同一张沙发上喝酒、争吵、忏悔、原谅，又互不原谅。奥尼尔用泪和血换来的这出戏，把家庭创伤、个人隐私与自传写作推到二十世纪戏剧的高点，奠定了它在美国戏剧史上与米勒、威廉斯并列的地位，也给每一个难念的家书，提供了一次最诚实的念出声。</itunes:summary>
+      <itunes:duration>00:27:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-23456b.mp3" length="26849325" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
