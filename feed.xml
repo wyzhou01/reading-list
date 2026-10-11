@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 09:29:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 09:36:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32844,6 +32844,17 @@
       <itunes:duration>00:24:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-e21e08.mp3" length="23664429" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《朝话》 · 完整版 · 朝话 · 完整讲读</title>
+      <description>《朝话》是梁漱溟一九三二年至一九三六年在山东邹平乡村建设研究院，每逢清晨朝会对青年学子讲话的结集。本期节目系统拆解了书中的六大核心洞察：从聪明人易被聪明所累，到欲望与志气必须分开；从清明自觉与亲师取友的修养功夫，到立志于民族复兴并成为社会信赖之人；从郑重而不逃不贪的人生态度，到人生意义在于亲手创造一个新世界。梁漱溟把儒释西三学融为一炉，把向内用力的心性功夫与向外投入社会改造的事业，结合成一条独特的生命路径。在价值多元、人心浮躁的时代，一本九十年前的清晨讲话集，依然能为今天的年轻人点燃一种向内寻求生命力量的功夫。</description>
+      <pubDate>Sun, 11 Oct 2026 09:36:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-cfed8d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《朝话》是梁漱溟一九三二年至一九三六年在山东邹平乡村建设研究院，每逢清晨朝会对青年学子讲话的结集。本期节目系统拆解了书中的六大核心洞察：从聪明人易被聪明所累，到欲望与志气必须分开；从清明自觉与亲师取友的修养功夫，到立志于民族复兴并成为社会信赖之人；从郑重而不逃不贪的人生态度，到人生意义在于亲手创造一个新世界。梁漱溟把儒释西三学融为一炉，把向内用力的心性功夫与向外投入社会改造的事业，结合成一条独特的生命路径。在价值多元、人心浮躁的时代，一本九十年前的清晨讲话集，依然能为今天的年轻人点燃一种向内寻求生命力量的功夫。</itunes:summary>
+      <itunes:duration>00:31:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-cfed8d.mp3" length="30557613" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
