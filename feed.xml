@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 05:43:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 05:49:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32448,6 +32448,17 @@
       <itunes:duration>00:29:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-fe8388.mp3" length="28360365" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《把你交给时间》 · 完整版 · 把你交给时间 · 完整讲读</title>
+      <description>陶立夏的旅行散文集《把你交给时间》，记录了她为期约三百五十天的远行足迹。从伦敦、苏格兰高地，到冰岛的极光与黑沙滩，再到南太平洋的库克群岛，她在一次次独自出发中回望一段逝去的爱情，反思孤独与自由的关系。文字温柔克制，将风景、相遇、思念与告别交织在一起，完成了从【思念震耳欲聋】到【各自坚守，各自自由】的情感闭环，被誉为疗愈系散文的代表作。它给出的不是如何挽回，而是如何送别——以及如何把无法挽留的事物，轻轻交给时间。</description>
+      <pubDate>Sun, 11 Oct 2026 05:49:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-6f63f6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>陶立夏的旅行散文集《把你交给时间》，记录了她为期约三百五十天的远行足迹。从伦敦、苏格兰高地，到冰岛的极光与黑沙滩，再到南太平洋的库克群岛，她在一次次独自出发中回望一段逝去的爱情，反思孤独与自由的关系。文字温柔克制，将风景、相遇、思念与告别交织在一起，完成了从【思念震耳欲聋】到【各自坚守，各自自由】的情感闭环，被誉为疗愈系散文的代表作。它给出的不是如何挽回，而是如何送别——以及如何把无法挽留的事物，轻轻交给时间。</itunes:summary>
+      <itunes:duration>00:30:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-6f63f6.mp3" length="29552685" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
