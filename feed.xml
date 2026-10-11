@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 15:59:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 16:06:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33409,6 +33409,17 @@
       <itunes:duration>00:36:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-503fe4.mp3" length="34724013" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《失踪的总统》 · 完整版 · 失踪的总统 · 完整讲读</title>
+      <description>一本由美国前总统克林顿与悬疑小说大师帕特森合著的政治惊悚小说。当一款名为《黑暗地带》的超级病毒悄然植入美国电网与金融系统,总统邓肯必须在七十二小时内从白宫消失,孤身潜入黑暗拯救国家。小说不仅讲述了这场与时间赛跑的网络反恐战,更借总统之口追问:当外敌入侵时,一个国家最坚固的防线,到底是军队,还是公民之间那份【共同的人性比分歧更重要】的相互信任。</description>
+      <pubDate>Sun, 11 Oct 2026 16:06:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-3d4d23</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一本由美国前总统克林顿与悬疑小说大师帕特森合著的政治惊悚小说。当一款名为《黑暗地带》的超级病毒悄然植入美国电网与金融系统,总统邓肯必须在七十二小时内从白宫消失,孤身潜入黑暗拯救国家。小说不仅讲述了这场与时间赛跑的网络反恐战,更借总统之口追问:当外敌入侵时,一个国家最坚固的防线,到底是军队,还是公民之间那份【共同的人性比分歧更重要】的相互信任。</itunes:summary>
+      <itunes:duration>00:29:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-3d4d23.mp3" length="28444461" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
