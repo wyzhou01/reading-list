@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sat, 10 Oct 2026 23:56:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 00:02:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31920,6 +31920,17 @@
       <itunes:duration>00:38:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-a98755.mp3" length="36700077" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《合作的复杂性》 · 完整版 · 合作的复杂性 · 完整讲读</title>
+      <description>《合作的复杂性》是政治学家罗伯特·阿克塞尔罗德继《合作的进化》之后的续篇。本书用基于参与者的演化博弈模型，研究在没有中央权威的情况下，合作秩序如何通过模仿、学习与淘汰自发涌现。全书沿噪音、规范、阵营、标准、政治行动者、文化传播六个维度展开，主张人类合作的扩展秩序完全可以从个体策略的重复互动中自我生长，无需霍布斯式的利维坦来催生。这是一本写于一九九七年、至今仍有现实重量的社科经典。</description>
+      <pubDate>Sun, 11 Oct 2026 00:02:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-ec2143</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《合作的复杂性》是政治学家罗伯特·阿克塞尔罗德继《合作的进化》之后的续篇。本书用基于参与者的演化博弈模型，研究在没有中央权威的情况下，合作秩序如何通过模仿、学习与淘汰自发涌现。全书沿噪音、规范、阵营、标准、政治行动者、文化传播六个维度展开，主张人类合作的扩展秩序完全可以从个体策略的重复互动中自我生长，无需霍布斯式的利维坦来催生。这是一本写于一九九七年、至今仍有现实重量的社科经典。</itunes:summary>
+      <itunes:duration>00:27:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-ec2143.mp3" length="26828973" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
