@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 14:26:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 14:36:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33255,6 +33255,17 @@
       <itunes:duration>00:20:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-5832dc.mp3" length="19465389" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《人外魔境》 · 完整版 · 人外魔境 · 完整讲读</title>
+      <description>《人外魔境》是昭和推理鬼才小栗虫太郎的冷门神作，借一位日本医生折竹独闯非洲刚果恶魔尿池的探险主线，把二十世纪三十年代的探险热潮、殖民暗战、人类学傲慢统统摆上解剖台。书中有尾人多多、水栖人、游魂、原人谜题轮番登场，奥克罗迪教授用头骨形状把人钉进标本盒，卡科用混血儿处境揭穿人类学的双标，飞行员福吉斯用妖虫毒雾告诉文明人什么叫真正的『未知』。小栗虫太郎以六块拼图层层拆解人类中心主义的皮肤，从肤色暴力到魔性的中间地带，再到美国在巴拿马秘密开凿运河的帝国暗战，绘制出一份殖民主义自我崩溃的全息图。这部猎奇外壳包裹哲学内核的作品，至今仍在提醒每一个自以为站在文明那侧的人——那片恶魔尿池，其实从未离开过。</description>
+      <pubDate>Sun, 11 Oct 2026 14:35:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-d0f9dd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《人外魔境》是昭和推理鬼才小栗虫太郎的冷门神作，借一位日本医生折竹独闯非洲刚果恶魔尿池的探险主线，把二十世纪三十年代的探险热潮、殖民暗战、人类学傲慢统统摆上解剖台。书中有尾人多多、水栖人、游魂、原人谜题轮番登场，奥克罗迪教授用头骨形状把人钉进标本盒，卡科用混血儿处境揭穿人类学的双标，飞行员福吉斯用妖虫毒雾告诉文明人什么叫真正的『未知』。小栗虫太郎以六块拼图层层拆解人类中心主义的皮肤，从肤色暴力到魔性的中间地带，再到美国在巴拿马秘密开凿运河的帝国暗战，绘制出一份殖民主义自我崩溃的全息图。这部猎奇外壳包裹哲学内核的作品，至今仍在提醒每一个自以为站在文明那侧的人——那片恶魔尿池，其实从未离开过。</itunes:summary>
+      <itunes:duration>00:22:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-d0f9dd.mp3" length="21914925" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
