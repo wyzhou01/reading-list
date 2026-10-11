@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 07:59:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 08:06:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32690,6 +32690,17 @@
       <itunes:duration>00:28:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-8292ac.mp3" length="27498285" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《瀚海雄风》 · 完整版 · 瀚海雄风（全四册） · 完整讲读</title>
+      <description>《瀚海雄风》是梁羽生写于二十世纪七十年代的长篇武侠,六十万字,接《萍踪侠影录》与《七剑下天山》,启续篇《风云雷电》。南宋山东少年李思南,奉母命孤身入漠寻父,在瀚海遇女侠孟明霞、和林识成吉思汗之女明慧公主。他寻得父亲,父亲却临终遗命他娶义女杨婉;明慧公主拒嫁镇国王子,向他倾心又被他婉拒;拖雷为夺兵权设下连环局,把江湖恩怨与蒙古帝国权力交接缠成一团。梁羽生以细腻笔法写故国之痛、政治联姻之荒诞、侠义精神之代价,核心追问是——在别人替我们写好的剧本里,人,能不能活出自己?</description>
+      <pubDate>Sun, 11 Oct 2026 08:06:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-8e31e6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《瀚海雄风》是梁羽生写于二十世纪七十年代的长篇武侠,六十万字,接《萍踪侠影录》与《七剑下天山》,启续篇《风云雷电》。南宋山东少年李思南,奉母命孤身入漠寻父,在瀚海遇女侠孟明霞、和林识成吉思汗之女明慧公主。他寻得父亲,父亲却临终遗命他娶义女杨婉;明慧公主拒嫁镇国王子,向他倾心又被他婉拒;拖雷为夺兵权设下连环局,把江湖恩怨与蒙古帝国权力交接缠成一团。梁羽生以细腻笔法写故国之痛、政治联姻之荒诞、侠义精神之代价,核心追问是——在别人替我们写好的剧本里,人,能不能活出自己?</itunes:summary>
+      <itunes:duration>00:28:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-8e31e6.mp3" length="27627309" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
