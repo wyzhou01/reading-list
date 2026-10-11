@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 08:31:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 08:39:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32745,6 +32745,17 @@
       <itunes:duration>00:24:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-c6c5d3.mp3" length="23437869" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《河上柏影》 · 完整版 · 河上柏影 · 完整讲读</title>
+      <description>藏地作家阿来耗时十年写下的《河上柏影》，以五棵被砍掉的岷江柏为切口，讲述了一个村庄如何在资本、消费与现代化三重浪潮中崩塌的故事。小说借社会学准博士王泽周的返乡视角，写古树的古与神、写信仰被物产化的过程、写知识分子的良知与无力，最终指向一个朴素而沉重的追问——当大树倒下，我们每一个普通人，又能做什么？阿来给出的答案是：看见弱小者的慈悲，记录正在消失事物的正见，对物保持不求回报敬畏的护佑。这部作品既是生态文学的标杆，也是当代知识分子题材的厚重之作，更是每一个身处被物产和欲望裹挟时代之人的必读之书。</description>
+      <pubDate>Sun, 11 Oct 2026 08:39:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-6a820c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>藏地作家阿来耗时十年写下的《河上柏影》，以五棵被砍掉的岷江柏为切口，讲述了一个村庄如何在资本、消费与现代化三重浪潮中崩塌的故事。小说借社会学准博士王泽周的返乡视角，写古树的古与神、写信仰被物产化的过程、写知识分子的良知与无力，最终指向一个朴素而沉重的追问——当大树倒下，我们每一个普通人，又能做什么？阿来给出的答案是：看见弱小者的慈悲，记录正在消失事物的正见，对物保持不求回报敬畏的护佑。这部作品既是生态文学的标杆，也是当代知识分子题材的厚重之作，更是每一个身处被物产和欲望裹挟时代之人的必读之书。</itunes:summary>
+      <itunes:duration>00:35:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-6a820c.mp3" length="34426797" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
