@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 09:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 09:11:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32789,6 +32789,17 @@
       <itunes:duration>00:31:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-f160c2.mp3" length="29805741" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《差馆诡事》 · 完整版 · 差馆诡事 · 完整讲读</title>
+      <description>《差馆诡事》是香港一位退役警员亲笔记录的警队回忆录，横跨一九九五年至二零一一年十六年警队生涯。书中既有猛鬼差馆、新界北潮涌记茶餐厅冥币案、维园公厕铜镜案、深井志乐别墅鬼魂派对等都市传说，也有警匪枪战、悍匪劫医院、人肉叉烧等真实刑案，更披露了警衔行话、装备术语与内部文化。透过一位老警察的眼睛，本书呈现了一个既现实又魔幻、既现代又传统的香港——而那些飘在差馆走廊里的白衣身影，本质上是这座石屎森林里一代代警员集体记忆的投射。</description>
+      <pubDate>Sun, 11 Oct 2026 09:11:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-8ee4d1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《差馆诡事》是香港一位退役警员亲笔记录的警队回忆录，横跨一九九五年至二零一一年十六年警队生涯。书中既有猛鬼差馆、新界北潮涌记茶餐厅冥币案、维园公厕铜镜案、深井志乐别墅鬼魂派对等都市传说，也有警匪枪战、悍匪劫医院、人肉叉烧等真实刑案，更披露了警衔行话、装备术语与内部文化。透过一位老警察的眼睛，本书呈现了一个既现实又魔幻、既现代又传统的香港——而那些飘在差馆走廊里的白衣身影，本质上是这座石屎森林里一代代警员集体记忆的投射。</itunes:summary>
+      <itunes:duration>00:27:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-8ee4d1.mp3" length="26418477" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
