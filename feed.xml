@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 08:45:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 08:54:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32767,6 +32767,17 @@
       <itunes:duration>00:24:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-dd40aa.mp3" length="23334957" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《别笑，这是另一半中国史（1）》 · 完整版 · 别笑，这是另一半中国史(1) · 完整讲读</title>
+      <description>《别笑，这是另一半中国史》第一本以人性视角重读华夏上古至隋唐前的历史，从伏羲、大禹到夏商周三代，从禅让神话到世袭制度的确立，把被儒家道统美化、被正史遮蔽的细节一一还原。本书不是学术专著，而是杨建写给普通人的通俗历史读本，每一个故事都标了一个真字。它不讲年份表，不讲宏大叙事，只讲被遗忘的细节、被删除的真相、被润色的奏折。它告诉你：禅让可能是逼宫，禅让制的死法是被冷处理而非被废除；它告诉你所有王朝都在重复同一个错误，把国家当私产；它告诉你历史细节才是真相的入口，看懂人才能看懂权力。</description>
+      <pubDate>Sun, 11 Oct 2026 08:54:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-4053f9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《别笑，这是另一半中国史》第一本以人性视角重读华夏上古至隋唐前的历史，从伏羲、大禹到夏商周三代，从禅让神话到世袭制度的确立，把被儒家道统美化、被正史遮蔽的细节一一还原。本书不是学术专著，而是杨建写给普通人的通俗历史读本，每一个故事都标了一个真字。它不讲年份表，不讲宏大叙事，只讲被遗忘的细节、被删除的真相、被润色的奏折。它告诉你：禅让可能是逼宫，禅让制的死法是被冷处理而非被废除；它告诉你所有王朝都在重复同一个错误，把国家当私产；它告诉你历史细节才是真相的入口，看懂人才能看懂权力。</itunes:summary>
+      <itunes:duration>00:30:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-4053f9.mp3" length="29179437" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
