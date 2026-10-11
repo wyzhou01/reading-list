@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 02:11:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 02:18:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32151,6 +32151,17 @@
       <itunes:duration>00:35:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-8b6a18.mp3" length="34482861" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《高老头》 · 完整版 · 巴尔扎克集(02)高老头 · 完整讲读</title>
+      <description>《高老头》是巴尔扎克《人间喜剧》的开山之作,写于一八三四年巴黎七月王朝时期。退休面粉商高老头把几百万家产分给两个女儿,自己沦落到每月只付四十五法郎膳宿费,最后病死出租屋,女儿避不见面。来自外省的大学生欧金·拉斯蒂涅在公寓里遇见三个人:冷酷的沃特能、世故的玻瑟昂夫人、卑微的高老头,最终选择向巴黎上流社会的规则俯首。巴尔扎克用这部小说写透了资本主义金钱对人性的腐蚀,以及巴黎作为一台社会机器如何把不合格的人碾成粉末。今天读它,看到的依然是我们身边的高老头、欧金和沃特能。</description>
+      <pubDate>Sun, 11 Oct 2026 02:18:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-1e4bba</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《高老头》是巴尔扎克《人间喜剧》的开山之作,写于一八三四年巴黎七月王朝时期。退休面粉商高老头把几百万家产分给两个女儿,自己沦落到每月只付四十五法郎膳宿费,最后病死出租屋,女儿避不见面。来自外省的大学生欧金·拉斯蒂涅在公寓里遇见三个人:冷酷的沃特能、世故的玻瑟昂夫人、卑微的高老头,最终选择向巴黎上流社会的规则俯首。巴尔扎克用这部小说写透了资本主义金钱对人性的腐蚀,以及巴黎作为一台社会机器如何把不合格的人碾成粉末。今天读它,看到的依然是我们身边的高老头、欧金和沃特能。</itunes:summary>
+      <itunes:duration>00:30:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-1e4bba.mp3" length="28949421" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
