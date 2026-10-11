@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 04:15:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 04:25:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32360,6 +32360,17 @@
       <itunes:duration>00:33:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-093da6.mp3" length="32436141" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《华杉讲透《论语》》 · 完整版 · 华杉讲透论语 · 完整讲读</title>
+      <description>《华杉讲透论语》是华杉对中国经典《论语》的现代注解，以朱熹、张居正、刘宝楠三位注家为基准，结合自身管理与人生体悟，逐句拆解《论语》二十章的修身、齐家、治国之道。全书强调切己体察与知行合一，主张儒家并非知识学问，而是日用常行的功夫——学而时习、忠恕之道、君子小人、仁、礼、中庸，六块拼图构成完整的人格训练。本书既是经典读本，也是现代职场与家庭生活的行动手册。</description>
+      <pubDate>Sun, 11 Oct 2026 04:25:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-c2ec2f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《华杉讲透论语》是华杉对中国经典《论语》的现代注解，以朱熹、张居正、刘宝楠三位注家为基准，结合自身管理与人生体悟，逐句拆解《论语》二十章的修身、齐家、治国之道。全书强调切己体察与知行合一，主张儒家并非知识学问，而是日用常行的功夫——学而时习、忠恕之道、君子小人、仁、礼、中庸，六块拼图构成完整的人格训练。本书既是经典读本，也是现代职场与家庭生活的行动手册。</itunes:summary>
+      <itunes:duration>00:33:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-c2ec2f.mp3" length="32282157" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
