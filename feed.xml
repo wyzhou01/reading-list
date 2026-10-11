@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 22:22:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 22:31:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33651,6 +33651,17 @@
       <itunes:duration>00:21:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-a02a49.mp3" length="20475693" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《风流年》 · 完整版 · 风流年 · 完整讲读</title>
+      <description>《风流年》是刘振权沉入民国乡土写就的一部长篇，背景卡在抗战全面爆发前的太行山玉斗古镇。 故事以一口空缸和一支银簪子的魔幻开场，引出谢氏兄弟、保和堂、勾八、坏山药、游击队等一群被时代推着走的小人物。 保和堂这座雕梁画栋的大宅院，外头世道要塌，里头人心也快散了：大老爷被气死，大太太中风，冲喜不成，少林会被孩子闹翻，护院房被游击队瓦解，而最终接住时代暗号的，是大少爷、大小姐、二小姐和那个从北平来的杨玉。 刘振权用打谷场、茅厕、北山的树洞，为我们存下了一段最容易被忽略的民国——不是英雄的民国，是小人物的民国；不是胜利者的民国，是选择者的民国。</description>
+      <pubDate>Sun, 11 Oct 2026 22:31:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-4c1c87</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《风流年》是刘振权沉入民国乡土写就的一部长篇，背景卡在抗战全面爆发前的太行山玉斗古镇。 故事以一口空缸和一支银簪子的魔幻开场，引出谢氏兄弟、保和堂、勾八、坏山药、游击队等一群被时代推着走的小人物。 保和堂这座雕梁画栋的大宅院，外头世道要塌，里头人心也快散了：大老爷被气死，大太太中风，冲喜不成，少林会被孩子闹翻，护院房被游击队瓦解，而最终接住时代暗号的，是大少爷、大小姐、二小姐和那个从北平来的杨玉。 刘振权用打谷场、茅厕、北山的树洞，为我们存下了一段最容易被忽略的民国——不是英雄的民国，是小人物的民国；不是胜利者的民国，是选择者的民国。</itunes:summary>
+      <itunes:duration>00:24:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-4c1c87.mp3" length="23820333" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
