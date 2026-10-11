@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 18:40:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 18:44:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33596,6 +33596,17 @@
       <itunes:duration>00:14:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-d536e8.mp3" length="13908909" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《庄子（国学经典丛书）》 · 完整版 · 庄子（国学经典丛书） · 完整讲读</title>
+      <description>《庄子》是战国时期庄周留下的思想巨著，以《逍遥游》《齐物论》《养生主》等七篇内文为核心，探讨了&quot;至人无己&quot;的精神境界、&quot;万物齐一&quot;的认知突破、&quot;无为而治&quot;的政治哲学，以及个体的修身与明道。本书导读以现代人的精神困境为切入点，逐篇拆解庄子的核心洞察：从大鹏南徙讲到【无待的自由】，从庄周梦蝶讲到【打破成心】，从不龟手之药讲到【无用即大用】，为你呈现一个两千年后依然锋利的思想世界。</description>
+      <pubDate>Sun, 11 Oct 2026 18:44:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-3d6f62</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《庄子》是战国时期庄周留下的思想巨著，以《逍遥游》《齐物论》《养生主》等七篇内文为核心，探讨了&quot;至人无己&quot;的精神境界、&quot;万物齐一&quot;的认知突破、&quot;无为而治&quot;的政治哲学，以及个体的修身与明道。本书导读以现代人的精神困境为切入点，逐篇拆解庄子的核心洞察：从大鹏南徙讲到【无待的自由】，从庄周梦蝶讲到【打破成心】，从不龟手之药讲到【无用即大用】，为你呈现一个两千年后依然锋利的思想世界。</itunes:summary>
+      <itunes:duration>00:21:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-3d6f62.mp3" length="20233389" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
