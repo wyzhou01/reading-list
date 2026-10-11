@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 23:33:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 23:47:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33750,6 +33750,17 @@
       <itunes:duration>00:22:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-7f484c.mp3" length="21949869" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《美在青苔》 · 完整版 · 长声闲话：美在青苔 · 完整讲读</title>
+      <description>《美在青苔》是旅日作家李长声二十二年侨居生活的随笔结集。他以脚气、肚脐、头发、裸祭、屎尿等最世俗的身体部位为切口，从中日两个同文同种的民族如何在审美、风俗、耻感、器物精神上分道扬镳，一路追问到古典传统与西化现代性之间那场打了一个半世纪的拉锯战。全书不讲政经大势，只抠身体最微末的褶皱，却在每一条缝里抠出了文化的筋脉——为什么日本把肚脐眼儿当成美，为什么相扑的肥硕是国技，为什么艺伎的脸要涂得惨白，为什么一束樱花能让整个民族集体发疯。读完这本书，最大的收获不是更懂日本，而是重新睁开了看自己的眼睛。</description>
+      <pubDate>Sun, 11 Oct 2026 23:47:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-97b371</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《美在青苔》是旅日作家李长声二十二年侨居生活的随笔结集。他以脚气、肚脐、头发、裸祭、屎尿等最世俗的身体部位为切口，从中日两个同文同种的民族如何在审美、风俗、耻感、器物精神上分道扬镳，一路追问到古典传统与西化现代性之间那场打了一个半世纪的拉锯战。全书不讲政经大势，只抠身体最微末的褶皱，却在每一条缝里抠出了文化的筋脉——为什么日本把肚脐眼儿当成美，为什么相扑的肥硕是国技，为什么艺伎的脸要涂得惨白，为什么一束樱花能让整个民族集体发疯。读完这本书，最大的收获不是更懂日本，而是重新睁开了看自己的眼睛。</itunes:summary>
+      <itunes:duration>00:23:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-97b371.mp3" length="22397613" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
