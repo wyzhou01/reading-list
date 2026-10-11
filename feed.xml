@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 03:49:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 03:55:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32316,6 +32316,17 @@
       <itunes:duration>00:32:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-8f05c0.mp3" length="31129005" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《金银岛》 · 完整版 · 金银岛（果麦版） · 完整讲读</title>
+      <description>《金银岛》是英国作家史蒂文森于一八八三年发表的海盗冒险经典。少年吉姆·霍金斯在父亲留下的小旅店里,意外获得一张藏宝图,随后与大副西尔弗、乡绅、医生等人登上伊斯帕尼奥拉号,前往传说中的金银岛寻宝。航行途中水手哗变,吉姆在岛上目睹了二十个海盗为了争夺弗林特船长留下的宝藏而自相残杀,最终正义一方惨胜。西尔弗虽携少量金币逃脱,却从此成为一个被通缉的流浪者。吉姆在书的结尾拒绝再回岛上取宝,因为他明白:那批沾满鲜血的金银,代价太高。这是一个关于贪婪、忠诚与成长的故事,被誉为西方所有海盗题材的源头,《加勒比海盗》《彼得·潘》等后世作品都深受其影响。读这本书,你会看到人性在远离法律的小岛上如何被撕下面具,也会看到一个人在金银面前,如何选择保全自己。</description>
+      <pubDate>Sun, 11 Oct 2026 03:55:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-5d9948</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《金银岛》是英国作家史蒂文森于一八八三年发表的海盗冒险经典。少年吉姆·霍金斯在父亲留下的小旅店里,意外获得一张藏宝图,随后与大副西尔弗、乡绅、医生等人登上伊斯帕尼奥拉号,前往传说中的金银岛寻宝。航行途中水手哗变,吉姆在岛上目睹了二十个海盗为了争夺弗林特船长留下的宝藏而自相残杀,最终正义一方惨胜。西尔弗虽携少量金币逃脱,却从此成为一个被通缉的流浪者。吉姆在书的结尾拒绝再回岛上取宝,因为他明白:那批沾满鲜血的金银,代价太高。这是一个关于贪婪、忠诚与成长的故事,被誉为西方所有海盗题材的源头,《加勒比海盗》《彼得·潘》等后世作品都深受其影响。读这本书,你会看到人性在远离法律的小岛上如何被撕下面具,也会看到一个人在金银面前,如何选择保全自己。</itunes:summary>
+      <itunes:duration>00:25:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-5d9948.mp3" length="24859821" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
