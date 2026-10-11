@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 23:00:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 23:09:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33706,6 +33706,17 @@
       <itunes:duration>00:16:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-600e37.mp3" length="15688749" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《青铜市长》 · 完整版 · 青铜市长_-_庹政 · 完整讲读</title>
+      <description>《青铜市长》是川籍作家庹政二零一一年出版的官场小说，第四届榕树下原创文学大展最高奖作品。小说讲述空降代市长林云在西部经济强市青州上任不到二十四小时，便遭遇开发区工人上访、银行不良贷款、利益集团围剿三重困境。师北蓉为首的青州官场以和光同尘为潜规则，以一连串看似无关的小事为棋局，一步步将这位理想主义者逼向墙角。小说以林云深夜接到盟友车海电话的开放式结尾收束，叩问每一个读者：在污泥里，你愿意做一个什么样的人。</description>
+      <pubDate>Sun, 11 Oct 2026 23:08:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-d12178</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《青铜市长》是川籍作家庹政二零一一年出版的官场小说，第四届榕树下原创文学大展最高奖作品。小说讲述空降代市长林云在西部经济强市青州上任不到二十四小时，便遭遇开发区工人上访、银行不良贷款、利益集团围剿三重困境。师北蓉为首的青州官场以和光同尘为潜规则，以一连串看似无关的小事为棋局，一步步将这位理想主义者逼向墙角。小说以林云深夜接到盟友车海电话的开放式结尾收束，叩问每一个读者：在污泥里，你愿意做一个什么样的人。</itunes:summary>
+      <itunes:duration>00:37:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-d12178.mp3" length="35571885" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
