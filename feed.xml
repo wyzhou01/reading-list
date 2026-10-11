@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 12:56:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 13:01:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33101,6 +33101,17 @@
       <itunes:duration>00:26:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-4a507c.mp3" length="25176621" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《古文观止》 · 完整版 · 古文观止_(国学典藏) · 完整讲读</title>
+      <description>《古文观止》是清代康熙年间浙江山阴塾师吴楚材、吴大职叔侄编选的散文选本，自先秦至明末凡十二卷二百二十二篇。本书以《左传》《史记》、唐宋八大家、明代散文为重点，逐篇加圈点、注音、注释与评语，既是家塾训蒙课本，也是文脉传承的桥梁。三百年来一再重印，影响深远，至今仍是研习古文的入门必读。</description>
+      <pubDate>Sun, 11 Oct 2026 13:01:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-3998bb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《古文观止》是清代康熙年间浙江山阴塾师吴楚材、吴大职叔侄编选的散文选本，自先秦至明末凡十二卷二百二十二篇。本书以《左传》《史记》、唐宋八大家、明代散文为重点，逐篇加圈点、注音、注释与评语，既是家塾训蒙课本，也是文脉传承的桥梁。三百年来一再重印，影响深远，至今仍是研习古文的入门必读。</itunes:summary>
+      <itunes:duration>00:18:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-3998bb.mp3" length="18104109" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
