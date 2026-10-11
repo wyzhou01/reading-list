@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 23:17:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 23:26:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33728,6 +33728,17 @@
       <itunes:duration>00:18:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-3043e4.mp3" length="17960109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《治史三书（增订版）》 · 完整版 · 治史三书（增订版）_-_严耕望 · 完整讲读</title>
+      <description>本书是当代史学朴实楷模严耕望先生写给后学的肺腑之作，由《治史经验谈》《治史答问》《钱穆宾四先生与我》三部分组成。全书围绕一个核心命题展开：治史是一种人生修养，而非单纯的职业技艺。严耕望从原则与具体两个层面系统阐述了治学方法：要专精也要博通，要断代研究但眼光要长，要作面的研究而非孤立点的研究，要建立重心不跟风抢进。他以亲身示范告诉读者：史学不是天才的学问，而是工夫的学问；二十万件资料卡片、三十七年写一部巨著，是朴实的恒德而非迟钝的蛮干。他以道家自处、淡泊自甘、寂寞自守，以儒家待人、珍惜人情、永志恩义；他一边埋头做卡片功夫，一边在关键处吸纳现代社会科学的洞见，示范了中国传统史学向现代转化的最佳路径。在追求速成、沉迷宏论的今天，这本小书冷冷地回答了一个问题：治史，到底该有什么样的基本态度？答案只有一个——朴实的功夫，才是唯一的正途。</description>
+      <pubDate>Sun, 11 Oct 2026 23:26:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-988a69</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是当代史学朴实楷模严耕望先生写给后学的肺腑之作，由《治史经验谈》《治史答问》《钱穆宾四先生与我》三部分组成。全书围绕一个核心命题展开：治史是一种人生修养，而非单纯的职业技艺。严耕望从原则与具体两个层面系统阐述了治学方法：要专精也要博通，要断代研究但眼光要长，要作面的研究而非孤立点的研究，要建立重心不跟风抢进。他以亲身示范告诉读者：史学不是天才的学问，而是工夫的学问；二十万件资料卡片、三十七年写一部巨著，是朴实的恒德而非迟钝的蛮干。他以道家自处、淡泊自甘、寂寞自守，以儒家待人、珍惜人情、永志恩义；他一边埋头做卡片功夫，一边在关键处吸纳现代社会科学的洞见，示范了中国传统史学向现代转化的最佳路径。在追求速成、沉迷宏论的今天，这本小书冷冷地回答了一个问题：治史，到底该有什么样的基本态度？答案只有一个——朴实的功夫，才是唯一的正途。</itunes:summary>
+      <itunes:duration>00:27:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-988a69.mp3" length="26226477" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
