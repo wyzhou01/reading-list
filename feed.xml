@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 02:52:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 02:58:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32228,6 +32228,17 @@
       <itunes:duration>00:28:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-3d6747.mp3" length="27085869" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《世界迷宫Ⅱ：北方档案》 · 完整版 · 世界迷宫Ⅱ：北方档案 · 完整讲读</title>
+      <description>《世界迷宫第二部:北方档案》是法国作家玛格丽特·尤瑟纳尔的遗作,以家族档案为经,以北方法兰德斯平原的史前与文明史为纬,倒叙十万年,从史前的海潮写到一九〇三年出生的女婴。尤瑟纳用婚书、地契、旅行日记与战时家书,把家族的微观史缝合进对人类贪婪、愚蠢与脆弱的批判,证明遗忘才是真正的死亡,而档案、口述与书写,是抵抗遗忘的唯一火种。</description>
+      <pubDate>Sun, 11 Oct 2026 02:58:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-225fe3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《世界迷宫第二部:北方档案》是法国作家玛格丽特·尤瑟纳尔的遗作,以家族档案为经,以北方法兰德斯平原的史前与文明史为纬,倒叙十万年,从史前的海潮写到一九〇三年出生的女婴。尤瑟纳用婚书、地契、旅行日记与战时家书,把家族的微观史缝合进对人类贪婪、愚蠢与脆弱的批判,证明遗忘才是真正的死亡,而档案、口述与书写,是抵抗遗忘的唯一火种。</itunes:summary>
+      <itunes:duration>00:26:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-225fe3.mp3" length="25128237" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
