@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 23:09:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 23:17:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33717,6 +33717,17 @@
       <itunes:duration>00:37:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-d12178.mp3" length="35571885" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《Node即学即用》 · 完整版 · Node即学即用 · 完整讲读</title>
+      <description>《Node即学即用》是 Node.js 问世后第一本正经的实战指南。作者 Tom Hughes-Croucher 与 Mike Wilson 都在 Yahoo、NASA、Disney、微软一线干过后端，连 JavaScript 之父 Brendan Eich 都亲自作序。全书围绕 Node 最核心的那件事展开——它不是又一个 Web 框架，而是一套用单线程事件循环、把一切 I/O 变成非阻塞的高性能引擎。书中先带你从零安装 Node，再用几十行代码写出一个聊天服务器和一个迷你推特，让你亲眼看见事件循环的威力；接着拆解差错处理、cluster 多进程、核心 API、数据访问、Express、Socket.IO、npm 等一整套工程必备模块，最后用 C/C++ 附加组件把能力延伸到操作系统底层。Ryan Dahl 本人在序言里亲口承认，当年他建议只把 Node 用于辅助项目，但今天每天通过它处理的请求数以亿计，Uber、沃尔玛、Voxer、微软都在跑。这本书，就是带你跨过从会写代码到真懂事件驱动那道坎的第一站。</description>
+      <pubDate>Sun, 11 Oct 2026 23:17:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-3043e4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《Node即学即用》是 Node.js 问世后第一本正经的实战指南。作者 Tom Hughes-Croucher 与 Mike Wilson 都在 Yahoo、NASA、Disney、微软一线干过后端，连 JavaScript 之父 Brendan Eich 都亲自作序。全书围绕 Node 最核心的那件事展开——它不是又一个 Web 框架，而是一套用单线程事件循环、把一切 I/O 变成非阻塞的高性能引擎。书中先带你从零安装 Node，再用几十行代码写出一个聊天服务器和一个迷你推特，让你亲眼看见事件循环的威力；接着拆解差错处理、cluster 多进程、核心 API、数据访问、Express、Socket.IO、npm 等一整套工程必备模块，最后用 C/C++ 附加组件把能力延伸到操作系统底层。Ryan Dahl 本人在序言里亲口承认，当年他建议只把 Node 用于辅助项目，但今天每天通过它处理的请求数以亿计，Uber、沃尔玛、Voxer、微软都在跑。这本书，就是带你跨过从会写代码到真懂事件驱动那道坎的第一站。</itunes:summary>
+      <itunes:duration>00:18:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-3043e4.mp3" length="17960109" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
