@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 22:40:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 22:47:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33673,6 +33673,17 @@
       <itunes:duration>00:25:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-b281d2.mp3" length="24011565" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《如何阅读一本小说》 · 完整版 · 如何阅读一本小说(1) · 完整讲读</title>
+      <description>一百年来，小说被一次次宣告死亡，却一次次秘密重生。这本书的作者是美国文学教授托马斯·福斯特，他用二十多堂课，拆解了小说作为合谋技术的全部零件：开篇如何设定契约，谁是叙述者，声音如何塑造权力，时间如何被塑形与折叠，意义如何由作者与读者共同生产。从狄更斯的连载连载到乔伊斯的意识流，从马尔克斯的魔幻现实主义到福斯斯的元小说，福斯特告诉我们，小说的永恒不在于它讲了什么故事，而在于它如何邀请读者成为共同作者。今天，慢读、共谋式的阅读，正在变成一种稀缺的美德——而这本书，正是进入这场古老合谋的最稳入口。</description>
+      <pubDate>Sun, 11 Oct 2026 22:47:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-876fc8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一百年来，小说被一次次宣告死亡，却一次次秘密重生。这本书的作者是美国文学教授托马斯·福斯特，他用二十多堂课，拆解了小说作为合谋技术的全部零件：开篇如何设定契约，谁是叙述者，声音如何塑造权力，时间如何被塑形与折叠，意义如何由作者与读者共同生产。从狄更斯的连载连载到乔伊斯的意识流，从马尔克斯的魔幻现实主义到福斯斯的元小说，福斯特告诉我们，小说的永恒不在于它讲了什么故事，而在于它如何邀请读者成为共同作者。今天，慢读、共谋式的阅读，正在变成一种稀缺的美德——而这本书，正是进入这场古老合谋的最稳入口。</itunes:summary>
+      <itunes:duration>00:23:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-876fc8.mp3" length="22595757" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
