@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 09:18:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 09:24:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32822,6 +32822,17 @@
       <itunes:duration>00:36:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-cd7ffe.mp3" length="34993197" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《见字如来》 · 完整版 · 见字如来 · 完整讲读</title>
+      <description>《见字如来》是台湾作家张大春的四十六篇说文解字散文集，由《读者文摘》国际中文版专栏集结而成。他从一个生活小故事起笔，拆解汉字的形、音、义，让每一个字重新活过来。从怕、礼、博、肥，到痴、魔、亲、鬼，每一个字背后都站着一段被遗忘的生命经验——父亲教他鞠躬拜年的清晨、机场厕所里陌生人询问【茅司】、除夕赌马蚱输掉三个月薪水的那个夜晚、父亲晚年罹患失智症认不出子女的病床前。这本书的野心不在于让你记住某个字的写法，而在于让你重新相信：每一个字背后，都有一段你愿意重新活一次的人生。</description>
+      <pubDate>Sun, 11 Oct 2026 09:24:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-02cd01</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《见字如来》是台湾作家张大春的四十六篇说文解字散文集，由《读者文摘》国际中文版专栏集结而成。他从一个生活小故事起笔，拆解汉字的形、音、义，让每一个字重新活过来。从怕、礼、博、肥，到痴、魔、亲、鬼，每一个字背后都站着一段被遗忘的生命经验——父亲教他鞠躬拜年的清晨、机场厕所里陌生人询问【茅司】、除夕赌马蚱输掉三个月薪水的那个夜晚、父亲晚年罹患失智症认不出子女的病床前。这本书的野心不在于让你记住某个字的写法，而在于让你重新相信：每一个字背后，都有一段你愿意重新活一次的人生。</itunes:summary>
+      <itunes:duration>00:30:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-02cd01.mp3" length="29195181" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
