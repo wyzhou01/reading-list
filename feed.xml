@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 13:23:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 13:29:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33145,6 +33145,17 @@
       <itunes:duration>00:26:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-8839d8.mp3" length="24973485" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《全球帝国史：帖木儿之后帝国的兴与衰（1400—2000）》 · 完整版 · 全球帝国史 · 完整讲读</title>
+      <description>《全球帝国史》是牛津历史学家约翰·达尔文写给所有【被教科书喂过答案】的人的一本【清醒剂】。它把过去六百年的世界史，从【欧洲崛起】这个被讲烂的剧本里抽出来，重新塞进【欧亚大陆】这盘更大的棋里。从帖木儿之死讲起，穿过奥斯曼、萨非、莫卧儿、清朝、葡萄牙、西班牙、荷兰、英国、美国，达尔文告诉读者：欧洲从来不是天选之子，帝国从来不是一种东西，全球化从来不是一种必然。它是一连串偶然、挤压、嫁接、崩溃、重启的总和。今天我们以为的世界秩序，只是无数次重新开局之后的【当下牌面】，而下一把牌局，永远在换庄家。</description>
+      <pubDate>Sun, 11 Oct 2026 13:29:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-ab25d4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《全球帝国史》是牛津历史学家约翰·达尔文写给所有【被教科书喂过答案】的人的一本【清醒剂】。它把过去六百年的世界史，从【欧洲崛起】这个被讲烂的剧本里抽出来，重新塞进【欧亚大陆】这盘更大的棋里。从帖木儿之死讲起，穿过奥斯曼、萨非、莫卧儿、清朝、葡萄牙、西班牙、荷兰、英国、美国，达尔文告诉读者：欧洲从来不是天选之子，帝国从来不是一种东西，全球化从来不是一种必然。它是一连串偶然、挤压、嫁接、崩溃、重启的总和。今天我们以为的世界秩序，只是无数次重新开局之后的【当下牌面】，而下一把牌局，永远在换庄家。</itunes:summary>
+      <itunes:duration>00:26:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-ab25d4.mp3" length="25506861" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
