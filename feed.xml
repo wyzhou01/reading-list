@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 06:01:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 06:06:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32481,6 +32481,17 @@
       <itunes:duration>00:26:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-c226e2.mp3" length="25246125" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《长寿的基因》 · 完整版 · 长寿的基因 · 完整讲读</title>
+      <description>《长寿的基因》提出心智寿命这一全新概念，主张真正的生命品质不由心跳次数决定，而由大脑清醒年限决定。全书围绕四块拼图展开：基因决定起点、饮食改写表达、铁元素过量是神经退行性疾病的隐藏凶手、肠道微生物是最后的关键枢纽。作者以全球心智长寿达人的共同饮食习惯为蓝本，给出一套以植物蛋白、低血红素铁、发酵食品与慢碳水为主的饮食方案，主张预防远胜治疗，越早调整餐盘，越能为自己赢得一个有尊严的晚年。</description>
+      <pubDate>Sun, 11 Oct 2026 06:06:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-dcfec7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《长寿的基因》提出心智寿命这一全新概念，主张真正的生命品质不由心跳次数决定，而由大脑清醒年限决定。全书围绕四块拼图展开：基因决定起点、饮食改写表达、铁元素过量是神经退行性疾病的隐藏凶手、肠道微生物是最后的关键枢纽。作者以全球心智长寿达人的共同饮食习惯为蓝本，给出一套以植物蛋白、低血红素铁、发酵食品与慢碳水为主的饮食方案，主张预防远胜治疗，越早调整餐盘，越能为自己赢得一个有尊严的晚年。</itunes:summary>
+      <itunes:duration>00:21:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-dcfec7.mp3" length="20964909" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
