@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 03:07:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 03:12:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32250,6 +32250,17 @@
       <itunes:duration>00:37:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-88c80b.mp3" length="35877549" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《眼镜蛇事件》 · 完整版 · 眼镜蛇事件(1) · 完整讲读</title>
+      <description>《眼镜蛇事件》是理查·普莱斯顿一九九八年出版的非虚构惊悚作品。普莱斯顿曾以《高危地带》还原埃博拉来源、《血与疫》记录人类抗疫，本书抓住冷战结束后苏联生物武器项目曝光、美军太平洋试验解密的时间窗口，把三起真实事件交叉写成一条叙事线。一九九零年代末纽约一名十七岁女孩凯特·莫兰在学校发病，症状接近罕见的莱希—尼亨综合症，旋即被怀疑与生物武器相关；线索向前追溯到一九六九年美军在约翰斯顿环礁进行的大规模线源生物武器试验，代号「犹他鸡尾酒」的制剂具有真正的实战级杀伤；线索再向前推到苏联解体后俄罗斯生物武器项目的失控与外溢，普莱斯顿以「眼镜蛇」这一虚构的重组体病毒象征那个灰色地带。书中以大量篇幅还原 FBI 危险材料响应单位如何应对生物威胁——探员从零学起、用「伯因」生物传感器在街角蹲点、用拭子与基因测序反推元凶——揭示出「追生物案件」与「追间谍案件」的本质差异。作者更用斯维尔德洛夫斯克炭疽泄漏事件提醒读者，生物武器最大的危险不在恐怖分子手里，而在「人类管不住自己造出来的东西」这个结构性事实。在合成生物学和人工智能一同加速的今天，《眼镜蛇事件》既是冷战末期的历史档案，也是关于「看不见的武器」的当代警示。</description>
+      <pubDate>Sun, 11 Oct 2026 03:12:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-bfcdb1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《眼镜蛇事件》是理查·普莱斯顿一九九八年出版的非虚构惊悚作品。普莱斯顿曾以《高危地带》还原埃博拉来源、《血与疫》记录人类抗疫，本书抓住冷战结束后苏联生物武器项目曝光、美军太平洋试验解密的时间窗口，把三起真实事件交叉写成一条叙事线。一九九零年代末纽约一名十七岁女孩凯特·莫兰在学校发病，症状接近罕见的莱希—尼亨综合症，旋即被怀疑与生物武器相关；线索向前追溯到一九六九年美军在约翰斯顿环礁进行的大规模线源生物武器试验，代号「犹他鸡尾酒」的制剂具有真正的实战级杀伤；线索再向前推到苏联解体后俄罗斯生物武器项目的失控与外溢，普莱斯顿以「眼镜蛇」这一虚构的重组体病毒象征那个灰色地带。书中以大量篇幅还原 FBI 危险材料响应单位如何应对生物威胁——探员从零学起、用「伯因」生物传感器在街角蹲点、用拭子与基因测序反推元凶——揭示出「追生物案件」与「追间谍案件」的本质差异。作者更用斯维尔德洛夫斯克炭疽泄漏事件提醒读者，生物武器最大的危险不在恐怖分子手里，而在「人类管不住自己造出来的东西」这个结构性事实。在合成生物学和人工智能一同加速的今天，《眼镜蛇事件》既是冷战末期的历史档案，也是关于「看不见的武器」的当代警示。</itunes:summary>
+      <itunes:duration>00:26:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-bfcdb1.mp3" length="25486893" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
