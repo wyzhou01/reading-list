@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 00:08:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 00:16:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -31942,6 +31942,17 @@
       <itunes:duration>00:25:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-5cb9e6.mp3" length="24510765" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《褚时健管理法》 · 完整版 · 褚时健管理法 · 完整讲读</title>
+      <description>《褚时健管理法》系统还原了这位中国第一代企业家在糖厂、烟厂、果园三个完全不同行业的管理智慧，提炼出七个核心洞察：战略布局、匠人产品、人本管理、品牌信仰、营销实战、企业文化与企业家精神。本书指出，褚时健从未系统学过管理学，却凭实战把三家濒临破产的企业做到行业第一，他的管理法核心不是某个单一公式，而是战略远见、匠人偏执、人性洞察的系统组合。无论面对体制束缚、产业升级还是跌落谷底后的二次创业，他都用管好明天的战略眼光、把产品当信仰的匠人精神、以及把人当决策人的人本管理，给出了穿越周期的答案。这是一本关于长期主义、产品信仰与企业家精神的启示录。</description>
+      <pubDate>Sun, 11 Oct 2026 00:16:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-c4283d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《褚时健管理法》系统还原了这位中国第一代企业家在糖厂、烟厂、果园三个完全不同行业的管理智慧，提炼出七个核心洞察：战略布局、匠人产品、人本管理、品牌信仰、营销实战、企业文化与企业家精神。本书指出，褚时健从未系统学过管理学，却凭实战把三家濒临破产的企业做到行业第一，他的管理法核心不是某个单一公式，而是战略远见、匠人偏执、人性洞察的系统组合。无论面对体制束缚、产业升级还是跌落谷底后的二次创业，他都用管好明天的战略眼光、把产品当信仰的匠人精神、以及把人当决策人的人本管理，给出了穿越周期的答案。这是一本关于长期主义、产品信仰与企业家精神的启示录。</itunes:summary>
+      <itunes:duration>00:34:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-c4283d.mp3" length="33377325" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
