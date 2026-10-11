@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 04:01:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 04:07:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32338,6 +32338,17 @@
       <itunes:duration>00:27:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-d96562.mp3" length="26719533" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《牛津通识读本：康德》 · 完整版 · 牛津通识读本：康德（中文版） · 完整讲读</title>
+      <description>《牛津通识读本：康德》是英国哲学家斯克鲁顿为普通读者撰写的康德哲学入门指南。本书以清晰简明的语言，系统梳理了康德批判时期的三大著作：《纯粹理性批判》划定人类知识的边界，《实践理性批判》奠定道德形而上学的基础，《判断力批判》通过审美与目的论反思沟通自然与自由两大领域。本书还新增一章专论康德的政治哲学：从《什么是启蒙？》到《永久和平》，展现康德作为启蒙哲人的另一面。书中着重发掘康德被长期低估的美学贡献，揭示其哲学体系的内在连续性与对后世费希特、黑格尔、罗尔斯乃至现象学的深远影响。</description>
+      <pubDate>Sun, 11 Oct 2026 04:07:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-6ebf46</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《牛津通识读本：康德》是英国哲学家斯克鲁顿为普通读者撰写的康德哲学入门指南。本书以清晰简明的语言，系统梳理了康德批判时期的三大著作：《纯粹理性批判》划定人类知识的边界，《实践理性批判》奠定道德形而上学的基础，《判断力批判》通过审美与目的论反思沟通自然与自由两大领域。本书还新增一章专论康德的政治哲学：从《什么是启蒙？》到《永久和平》，展现康德作为启蒙哲人的另一面。书中着重发掘康德被长期低估的美学贡献，揭示其哲学体系的内在连续性与对后世费希特、黑格尔、罗尔斯乃至现象学的深远影响。</itunes:summary>
+      <itunes:duration>00:28:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-6ebf46.mp3" length="26917293" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
