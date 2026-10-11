@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 11:53:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 11:59:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32991,6 +32991,17 @@
       <itunes:duration>00:22:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-3aa765.mp3" length="21312429" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《时擦》 · 完整版 · 时擦 · 完整讲读</title>
+      <description>《时擦》讲述了十六岁的普通女孩宋佳南，在食堂第一次遇见市长之子、天才少年苏立，从此陷入长达十年的暗恋。她因自卑与身份的悬殊，一次次靠近又逃离，把所有的心事藏进谎言。十年后，两人偶然重逢，苏立终于说出那句她不敢先说的话，他们才明白，错过从来不是命运的错，而是每一个普通人在最该开口的瞬间，亲手按下的删除键。这部小说真正讲的，不是暗恋有多美，而是暗恋有多贵，以及时间最终如何温柔地偿还，每一个不敢说出的【我爱你】。</description>
+      <pubDate>Sun, 11 Oct 2026 11:59:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-1ff6f5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《时擦》讲述了十六岁的普通女孩宋佳南，在食堂第一次遇见市长之子、天才少年苏立，从此陷入长达十年的暗恋。她因自卑与身份的悬殊，一次次靠近又逃离，把所有的心事藏进谎言。十年后，两人偶然重逢，苏立终于说出那句她不敢先说的话，他们才明白，错过从来不是命运的错，而是每一个普通人在最该开口的瞬间，亲手按下的删除键。这部小说真正讲的，不是暗恋有多美，而是暗恋有多贵，以及时间最终如何温柔地偿还，每一个不敢说出的【我爱你】。</itunes:summary>
+      <itunes:duration>00:26:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-1ff6f5.mp3" length="25803309" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
