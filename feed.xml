@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 04:07:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 04:15:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32349,6 +32349,17 @@
       <itunes:duration>00:28:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-6ebf46.mp3" length="26917293" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《极简人类史：从宇宙大爆炸到21世纪》 · 完整版 · 极简人类史：从宇宙大爆炸到21世纪-_大卫·克里斯蒂安 · 完整讲读</title>
+      <description>《极简人类史》由大历史奠基人大卫·克里斯蒂安撰写，把人类史放进一百三十八亿年的宇宙演化中重新审视。全书用两条线索贯穿始终——复杂度的不断提升与集体知识的代代累积——把采集狩猎、农耕文明、工业革命到二十一世纪人类世的整段旅程，压缩进一万字左右的篇幅。读这本书，既能看到恒星如何炼出我们身体的元素，也能看清人类用一万年时间把地球复杂度推到极限时所埋下的脆弱性。它不会给我们现成的答案，却会帮我们把镜头拉远，看清今天人类站在宇宙尺度上的真实处境。</description>
+      <pubDate>Sun, 11 Oct 2026 04:15:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-093da6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《极简人类史》由大历史奠基人大卫·克里斯蒂安撰写，把人类史放进一百三十八亿年的宇宙演化中重新审视。全书用两条线索贯穿始终——复杂度的不断提升与集体知识的代代累积——把采集狩猎、农耕文明、工业革命到二十一世纪人类世的整段旅程，压缩进一万字左右的篇幅。读这本书，既能看到恒星如何炼出我们身体的元素，也能看清人类用一万年时间把地球复杂度推到极限时所埋下的脆弱性。它不会给我们现成的答案，却会帮我们把镜头拉远，看清今天人类站在宇宙尺度上的真实处境。</itunes:summary>
+      <itunes:duration>00:33:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-093da6.mp3" length="32436141" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
