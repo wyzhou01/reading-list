@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 18:44:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 18:50:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33607,6 +33607,17 @@
       <itunes:duration>00:21:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-3d6f62.mp3" length="20233389" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《思辨与立场：生活中无处不在的批判性思维工具》 · 完整版 · 思辨与立场 · 完整讲读</title>
+      <description>《思辨与立场》是批判性思维领域的奠基之作。本书揭示了一个残酷真相:人类大脑自带自我中心与社会中心的双重偏见,我们的判断、情绪与决策,几乎都在被这些隐性机制悄悄劫持。作者理查德·保罗与琳达·埃尔德用四十年研究凝练出一套可操作的思维操作系统,带读者穿透八条思维标准、八种认知美德,学会倾听情绪的信号、做出真正属于自己的决策。本书不是心灵鸡汤,而是一份在加速变化的时代里重新夺回心智主权的人生指南。</description>
+      <pubDate>Sun, 11 Oct 2026 18:50:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-d27db4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《思辨与立场》是批判性思维领域的奠基之作。本书揭示了一个残酷真相:人类大脑自带自我中心与社会中心的双重偏见,我们的判断、情绪与决策,几乎都在被这些隐性机制悄悄劫持。作者理查德·保罗与琳达·埃尔德用四十年研究凝练出一套可操作的思维操作系统,带读者穿透八条思维标准、八种认知美德,学会倾听情绪的信号、做出真正属于自己的决策。本书不是心灵鸡汤,而是一份在加速变化的时代里重新夺回心智主权的人生指南。</itunes:summary>
+      <itunes:duration>00:25:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-d27db4.mp3" length="24217389" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
