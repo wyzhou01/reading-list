@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 09:15:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 09:18:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32811,6 +32811,17 @@
       <itunes:duration>00:15:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-d3892c.mp3" length="14860845" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《复活的日本财阀》 · 完整版 · 托尔斯泰集03-复活（精装版） · 完整讲读</title>
+      <description>《复活》是俄国文豪列夫·托尔斯泰晚年最重要的长篇小说。他花十年时间、三次推翻原稿，最终以真实案件为引子，写出这部百万字的史诗。贵族青年聂赫留朵夫在法庭上认出了被他诱奸并抛弃的养女玛丝洛娃，由此踏上漫长的赎罪之路。托尔斯泰借这条线索，全景式撕开沙俄的法庭、监狱、官僚、土地与教会，更写出两个灵魂在苦难中挣扎、觉醒、彼此寻找的过程，被誉为十九世纪俄国生活的百科全书。</description>
+      <pubDate>Wed, 30 Sep 2026 02:59:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-cd7ffe</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《复活》是俄国文豪列夫·托尔斯泰晚年最重要的长篇小说。他花十年时间、三次推翻原稿，最终以真实案件为引子，写出这部百万字的史诗。贵族青年聂赫留朵夫在法庭上认出了被他诱奸并抛弃的养女玛丝洛娃，由此踏上漫长的赎罪之路。托尔斯泰借这条线索，全景式撕开沙俄的法庭、监狱、官僚、土地与教会，更写出两个灵魂在苦难中挣扎、觉醒、彼此寻找的过程，被誉为十九世纪俄国生活的百科全书。</itunes:summary>
+      <itunes:duration>00:36:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-cd7ffe.mp3" length="34993197" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
