@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 06:44:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 06:50:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32558,6 +32558,17 @@
       <itunes:duration>00:33:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-0c5180.mp3" length="32220333" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《八仙全传》 · 完整版 · 八仙全传_(中国古典小说普及文库) · 完整讲读</title>
+      <description>《八仙全传》是清代道士无垢道人所作的长篇神魔小说，原名《八仙得道传》，完成于同治七年。全书以二龙治水开篇，以八仙屠龙收场，将汉钟离、吕洞宾、李铁拐、何仙姑、蓝采和、韩湘子、曹国舅、张果老八位凡人修成正果的始末，与民间众多神仙传说熔于一炉。书中以【因果不可逃、天数不可违】为核心思想，将忠孝节义等世俗伦理与仙道修行深度融合，借八个修道故事系统宣讲道家【种因得果、去欲忍辱、破执方成】的修行次第。本书篇幅最长、情节最全，是八仙题材小说的集大成之作。</description>
+      <pubDate>Sun, 11 Oct 2026 06:50:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-508445</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《八仙全传》是清代道士无垢道人所作的长篇神魔小说，原名《八仙得道传》，完成于同治七年。全书以二龙治水开篇，以八仙屠龙收场，将汉钟离、吕洞宾、李铁拐、何仙姑、蓝采和、韩湘子、曹国舅、张果老八位凡人修成正果的始末，与民间众多神仙传说熔于一炉。书中以【因果不可逃、天数不可违】为核心思想，将忠孝节义等世俗伦理与仙道修行深度融合，借八个修道故事系统宣讲道家【种因得果、去欲忍辱、破执方成】的修行次第。本书篇幅最长、情节最全，是八仙题材小说的集大成之作。</itunes:summary>
+      <itunes:duration>00:22:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-508445.mp3" length="22051629" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
