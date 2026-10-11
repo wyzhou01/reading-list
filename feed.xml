@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 12:15:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 12:21:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33035,6 +33035,17 @@
       <itunes:duration>00:25:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-954138.mp3" length="24006957" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《细节里的中国》 · 完整版 · 细节里的中国（中国故事） · 完整讲读</title>
+      <description>《细节里的中国》收录十位外国作者亲身经历，十双眼睛写下他们眼中的中国日常。一个上海弄堂里的小餐馆、一口钓鱼必中的军工厂鱼塘、一段正在被小心抹去的殖民旧楼历史，共同构成一种独特的外部观察。书里有对街市生活的迷恋，也有对现代化双刃的忧思，更有对外来者凝视本身的反思。当北京变成『无处挂鸟笼的城市』，当弄堂小餐馆里的筷子声被咖啡馆取代，这些外来者比本地人更早察觉到那种街市温度的消失。他们记录下来的，既是怀旧，也是警告。这本书邀请我们慢下来，重新凝视自己早已习以为常的身边之物。</description>
+      <pubDate>Sun, 11 Oct 2026 12:21:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-3b01f1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《细节里的中国》收录十位外国作者亲身经历，十双眼睛写下他们眼中的中国日常。一个上海弄堂里的小餐馆、一口钓鱼必中的军工厂鱼塘、一段正在被小心抹去的殖民旧楼历史，共同构成一种独特的外部观察。书里有对街市生活的迷恋，也有对现代化双刃的忧思，更有对外来者凝视本身的反思。当北京变成『无处挂鸟笼的城市』，当弄堂小餐馆里的筷子声被咖啡馆取代，这些外来者比本地人更早察觉到那种街市温度的消失。他们记录下来的，既是怀旧，也是警告。这本书邀请我们慢下来，重新凝视自己早已习以为常的身边之物。</itunes:summary>
+      <itunes:duration>00:20:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-3b01f1.mp3" length="19853613" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
