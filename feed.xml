@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 13:29:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 13:34:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33156,6 +33156,17 @@
       <itunes:duration>00:26:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-ab25d4.mp3" length="25506861" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《创造的进化论》 · 完整版 · 创造的进化论_亨利柏格森_陈圣生_译 · 完整讲读</title>
+      <description>《创造的进化论》是法国哲学家柏格森于一九零七年出版的代表作,它用一股贯穿万物的生命冲动,直接掀翻了十九世纪机械决定论和达尔文式渐变进化论的两张冷脸。柏格森提出,绵延才是真正的实在,生命冲动冲过物质、植物、动物,一路冲到人类时劈成本能与智能两股,人类就站在这两股路的岔口上。本书前三分之二的篇幅用礼花冲天的比喻把这条宇宙级的进化过程生动展开,后半部分则顺着生命冲动劈开人类社会的刀痕,把人类劈成本能驱动与智能驱动两大类,并在结尾预言,极少数的艺术家、哲学家与宗教家用直觉接通生命冲动之后,将能唱起那支尘世大爱之歌,把死掉的机械宇宙重新接活。一九二七年,柏格森以本书撬动整个现代西方哲学根基的功绩,破例以哲学家身份摘下诺贝尔文学奖。</description>
+      <pubDate>Sun, 11 Oct 2026 13:34:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-a6c2f6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《创造的进化论》是法国哲学家柏格森于一九零七年出版的代表作,它用一股贯穿万物的生命冲动,直接掀翻了十九世纪机械决定论和达尔文式渐变进化论的两张冷脸。柏格森提出,绵延才是真正的实在,生命冲动冲过物质、植物、动物,一路冲到人类时劈成本能与智能两股,人类就站在这两股路的岔口上。本书前三分之二的篇幅用礼花冲天的比喻把这条宇宙级的进化过程生动展开,后半部分则顺着生命冲动劈开人类社会的刀痕,把人类劈成本能驱动与智能驱动两大类,并在结尾预言,极少数的艺术家、哲学家与宗教家用直觉接通生命冲动之后,将能唱起那支尘世大爱之歌,把死掉的机械宇宙重新接活。一九二七年,柏格森以本书撬动整个现代西方哲学根基的功绩,破例以哲学家身份摘下诺贝尔文学奖。</itunes:summary>
+      <itunes:duration>00:23:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-a6c2f6.mp3" length="22525869" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
