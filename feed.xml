@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 06:06:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 06:13:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32492,6 +32492,17 @@
       <itunes:duration>00:21:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-dcfec7.mp3" length="20964909" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《信念的魔力》 · 完整版 · 信念的魔力_(成功大学文库) · 完整讲读</title>
+      <description>《信念的魔力》是一本写于一九四九年的经典之作，作者克劳德·布里斯托横跨记者、投行高管与神秘学调查者三重身份，从半个世纪的修行流派观察中抽出一根金线：信念。全书用大量真实案例与杜克大学、哥伦比亚大学、加拿大医学会的实验报告，揭示了怎样通过暗示法则、精神画面、镜子技术、思维反射与因果法则，把内在信念转化为外在现实。它不是普通的励志鸡汤，而是一份教你如何调动潜意识这部内在发电机的操作手册，至今仍值得每一个渴望把目标变成结果的人认真读完。</description>
+      <pubDate>Sun, 11 Oct 2026 06:12:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-c4ebb5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《信念的魔力》是一本写于一九四九年的经典之作，作者克劳德·布里斯托横跨记者、投行高管与神秘学调查者三重身份，从半个世纪的修行流派观察中抽出一根金线：信念。全书用大量真实案例与杜克大学、哥伦比亚大学、加拿大医学会的实验报告，揭示了怎样通过暗示法则、精神画面、镜子技术、思维反射与因果法则，把内在信念转化为外在现实。它不是普通的励志鸡汤，而是一份教你如何调动潜意识这部内在发电机的操作手册，至今仍值得每一个渴望把目标变成结果的人认真读完。</itunes:summary>
+      <itunes:duration>00:24:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-c4ebb5.mp3" length="23756973" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
