@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 07:17:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 07:22:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32624,6 +32624,17 @@
       <itunes:duration>00:24:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-93734b.mp3" length="23698221" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《素媛》 · 完整版 · 素媛（第34届韩国电影青龙奖最佳影片、著名导演李浚益执导的《素媛》原著小说）_-_苏在沅 · 完整讲读</title>
+      <description>《素媛》是韩国作家苏在沅根据震动东亚的赵斗淳性侵案创作的小说。作家以冷静克制的笔触，记录了受害者家庭从破碎走向重建的两年时光：父亲被女儿的恐惧放逐到一居室，靠酒精自我麻痹；母亲独自承担起日夜陪护；孩子在主治医师推诿、援助机构失灵的系统中艰难求生。书中最具分量的是父亲在重症病房外许下的承诺，以及作家与受伤孩子的相处片段。最终一家人围坐吃早餐，问出【幸福是什么】，给出自己的答案。这本书不仅是一个家庭的苦难史，更是一份关于性犯罪量刑、治疗资源分配与受害者权益的系统性反思。</description>
+      <pubDate>Sun, 11 Oct 2026 07:22:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-ec3493</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《素媛》是韩国作家苏在沅根据震动东亚的赵斗淳性侵案创作的小说。作家以冷静克制的笔触，记录了受害者家庭从破碎走向重建的两年时光：父亲被女儿的恐惧放逐到一居室，靠酒精自我麻痹；母亲独自承担起日夜陪护；孩子在主治医师推诿、援助机构失灵的系统中艰难求生。书中最具分量的是父亲在重症病房外许下的承诺，以及作家与受伤孩子的相处片段。最终一家人围坐吃早餐，问出【幸福是什么】，给出自己的答案。这本书不仅是一个家庭的苦难史，更是一份关于性犯罪量刑、治疗资源分配与受害者权益的系统性反思。</itunes:summary>
+      <itunes:duration>00:27:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-ec3493.mp3" length="26490285" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
