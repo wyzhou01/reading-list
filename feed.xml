@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 12:26:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 12:35:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33057,6 +33057,17 @@
       <itunes:duration>00:19:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-d0a711.mp3" length="18733869" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《第一商会》 · 完整版 · 第一商会 · 完整讲读</title>
+      <description>《第一商会》是寒川子写给近代上海滩的一封长信,信里装着三个宁波青年从钱业公所的血案一路卷入甬粤两大商帮争雄,再到印度饥荒粮战中那场惊心动魄的八块尊严价之争的悲壮长歌。这不仅是一部商业史诗,更是一代士人把家国天下、民族骨气揉进商场算盘里的百年长史——丁大人在紫檀圈椅里悟出【先立商会】,鲁俊逸在筹商会第一次全体会议上替他把【公】字的窗子推开,伍挺举在黄浦江的粮船上替他把【八块】的脊梁按住。三个人、三个动作,把一盘散沙,长出了骨头。</description>
+      <pubDate>Sun, 11 Oct 2026 12:35:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-ae5c23</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《第一商会》是寒川子写给近代上海滩的一封长信,信里装着三个宁波青年从钱业公所的血案一路卷入甬粤两大商帮争雄,再到印度饥荒粮战中那场惊心动魄的八块尊严价之争的悲壮长歌。这不仅是一部商业史诗,更是一代士人把家国天下、民族骨气揉进商场算盘里的百年长史——丁大人在紫檀圈椅里悟出【先立商会】,鲁俊逸在筹商会第一次全体会议上替他把【公】字的窗子推开,伍挺举在黄浦江的粮船上替他把【八块】的脊梁按住。三个人、三个动作,把一盘散沙,长出了骨头。</itunes:summary>
+      <itunes:duration>00:22:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-ae5c23.mp3" length="21595053" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
