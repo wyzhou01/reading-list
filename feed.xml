@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 14:09:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 14:18:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33233,6 +33233,17 @@
       <itunes:duration>00:20:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-ffa5d9.mp3" length="20047533" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《寂静之声》 · 完整版 · 寂静之声 · 完整讲读</title>
+      <description>《寂静之声》是少年诗人王翔十年间不公开发表的诗文与思想笔记合集。他撕掉神童标签，以自我放逐为起点，借但丁、邓肯、甘地、鲁迅之火，照亮自己灵魂中的撕裂与悲悯。在互联网喧嚣最烈的十年里，他选择静默写作，以十年沉默回应一个喧哗的时代。本书既是一份早慧者的精神受难记，也是一封写给所有在众声喧哗中拒绝表演的人的长信。</description>
+      <pubDate>Sun, 11 Oct 2026 14:18:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-434f7a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《寂静之声》是少年诗人王翔十年间不公开发表的诗文与思想笔记合集。他撕掉神童标签，以自我放逐为起点，借但丁、邓肯、甘地、鲁迅之火，照亮自己灵魂中的撕裂与悲悯。在互联网喧嚣最烈的十年里，他选择静默写作，以十年沉默回应一个喧哗的时代。本书既是一份早慧者的精神受难记，也是一封写给所有在众声喧哗中拒绝表演的人的长信。</itunes:summary>
+      <itunes:duration>00:18:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-434f7a.mp3" length="17581101" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
