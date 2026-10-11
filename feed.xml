@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 11:23:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 11:28:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32932,6 +32932,17 @@
       <itunes:duration>00:21:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-19dc1c.mp3" length="20997165" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《日本官僚制研究》 · 完整版 · 日本官僚制研究_(汉译世界学术名著丛书)_-_辻清明 · 完整讲读</title>
+      <description>本书以历时性与共时性兼具的方法，系统解剖日本近代官僚制的两大基因——割据性与特权性。前者源自明治维新由西南雄藩主导的政治遗产，后者表现为藩阀股肱的封闭式精英体制。辻清明深入剖析禀议制、帷幄上奏权等日本独特运作机制，并指出战后借由间接统治得以存续，又通过自民党、压力集团、退职官僚三位一体的人事网络继续扩张权力，揭示了日本民主化进程中制度与现实之间的深刻落差。</description>
+      <pubDate>Sun, 11 Oct 2026 11:28:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-cc177e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书以历时性与共时性兼具的方法，系统解剖日本近代官僚制的两大基因——割据性与特权性。前者源自明治维新由西南雄藩主导的政治遗产，后者表现为藩阀股肱的封闭式精英体制。辻清明深入剖析禀议制、帷幄上奏权等日本独特运作机制，并指出战后借由间接统治得以存续，又通过自民党、压力集团、退职官僚三位一体的人事网络继续扩张权力，揭示了日本民主化进程中制度与现实之间的深刻落差。</itunes:summary>
+      <itunes:duration>00:24:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-cc177e.mp3" length="23816109" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
