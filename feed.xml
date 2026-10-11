@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 05:49:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 05:55:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32459,6 +32459,17 @@
       <itunes:duration>00:30:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-6f63f6.mp3" length="29552685" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《合浦珠》 · 完整版 · 合浦珠(简体版)_(BookDNA中国古典丛书) · 完整讲读</title>
+      <description>《合浦珠》是清初烟水散人所作的才子佳人小说，写金陵才子钱兰于苏州虎丘偶遇侠客申屠丈，许下不遇才貌双全之女终身不娶的誓言，后依梅山老人谶语指引，历经科场、狱事、巡按断案等奇遇，娶三位夫人、一位侍妾，挂冠归隐，保全家于明清易代之际。本书借古喻今，表面是才子书，骨子里藏着明末清初士绅家族在乱世间如何保全的一整套伦理方案——才子是台前脸面，侠客是命运杠杆，婢女是底层牺牲，母亲是守夜脊梁。</description>
+      <pubDate>Sun, 11 Oct 2026 05:55:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261010-episode-20261010-159b1a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《合浦珠》是清初烟水散人所作的才子佳人小说，写金陵才子钱兰于苏州虎丘偶遇侠客申屠丈，许下不遇才貌双全之女终身不娶的誓言，后依梅山老人谶语指引，历经科场、狱事、巡按断案等奇遇，娶三位夫人、一位侍妾，挂冠归隐，保全家于明清易代之际。本书借古喻今，表面是才子书，骨子里藏着明末清初士绅家族在乱世间如何保全的一整套伦理方案——才子是台前脸面，侠客是命运杠杆，婢女是底层牺牲，母亲是守夜脊梁。</itunes:summary>
+      <itunes:duration>00:30:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261010/episode-20261010-159b1a.mp3" length="29257389" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
