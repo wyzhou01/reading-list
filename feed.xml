@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 18:21:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 18:25:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33552,6 +33552,17 @@
       <itunes:duration>00:10:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-90b200.mp3" length="10435245" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《阿飞街女生》 · 完整版 · 阿飞街女生(1) · 完整讲读</title>
+      <description>《阿飞街女生》是唐颖【双城系列】起点之作，以上海环龙里为原点，写一群八〇年代从弄堂出走或留守的女性：米真真访美却发现自己的回程票让她与新移民隔开鸿沟，章霏远走东南亚离婚后叮嘱密友不要在她二十四岁的男友面前谈过去，弄堂口穿蓝色棉布裤的月亮姑娘留在原地老去。她们逃去纽约、逃去香港、嫁人发财、疯掉老去，每个人心里都揣着一块从弄堂抠出来的水泥地，故乡不是地理意义上的弄堂，而是母语里那种被完整听见的能力。</description>
+      <pubDate>Sun, 11 Oct 2026 18:25:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-ceb5a5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《阿飞街女生》是唐颖【双城系列】起点之作，以上海环龙里为原点，写一群八〇年代从弄堂出走或留守的女性：米真真访美却发现自己的回程票让她与新移民隔开鸿沟，章霏远走东南亚离婚后叮嘱密友不要在她二十四岁的男友面前谈过去，弄堂口穿蓝色棉布裤的月亮姑娘留在原地老去。她们逃去纽约、逃去香港、嫁人发财、疯掉老去，每个人心里都揣着一块从弄堂抠出来的水泥地，故乡不是地理意义上的弄堂，而是母语里那种被完整听见的能力。</itunes:summary>
+      <itunes:duration>00:19:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-ceb5a5.mp3" length="18795693" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
