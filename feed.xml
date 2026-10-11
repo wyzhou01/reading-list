@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 09:36:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 09:47:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32855,6 +32855,17 @@
       <itunes:duration>00:31:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-cfed8d.mp3" length="30557613" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我这就跟你走：如何成为员工拥戴的头儿》 · 完整版 · 我这就跟你走 · 完整讲读</title>
+      <description>《我这就跟你走》是科里·鲍克写给所有即将被推上管理岗位的人的领导力手册。在八千万婴儿潮世代退休、X世代人手不足、千禧世代匆忙接棒的今天，全球五百强CEO已经把【领导者不具备打造高绩效团队的能力】列为第二大商业风险。鲍克提出【领导力透视镜】这一当责制观念，主张所有成功和失败首先都是领导者的成功和失败；并通过追随力、服务型领导、影响力地图等工具，系统讲述如何从优秀员工蜕变为卓越领导者。本书是少见的兼具军事硬纪律、商业实战、可作为职场自助手册使用的领导力发展作品。</description>
+      <pubDate>Sun, 11 Oct 2026 09:47:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-908c39</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我这就跟你走》是科里·鲍克写给所有即将被推上管理岗位的人的领导力手册。在八千万婴儿潮世代退休、X世代人手不足、千禧世代匆忙接棒的今天，全球五百强CEO已经把【领导者不具备打造高绩效团队的能力】列为第二大商业风险。鲍克提出【领导力透视镜】这一当责制观念，主张所有成功和失败首先都是领导者的成功和失败；并通过追随力、服务型领导、影响力地图等工具，系统讲述如何从优秀员工蜕变为卓越领导者。本书是少见的兼具军事硬纪律、商业实战、可作为职场自助手册使用的领导力发展作品。</itunes:summary>
+      <itunes:duration>00:26:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-908c39.mp3" length="25709997" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
