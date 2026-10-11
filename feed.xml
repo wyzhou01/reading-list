@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 11:28:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 11:35:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -32943,6 +32943,17 @@
       <itunes:duration>00:24:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-cc177e.mp3" length="23816109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《林海音精选集》 · 完整版 · 林海音精选集 · 完整讲读</title>
+      <description>《林海音精选集》收录了这位从老北平城南走出的女作家一生最重要的作品。小说编以《城南旧事》《婚姻的故事》为代表，书写一代人的童年回望与女性悲欢；散文编则收入北平风物、家庭日常与跨海赴台后的办刊生涯。她十三岁丧父，三十一岁渡海，在台湾办《联合副刊》、创办《纯文学月刊》和纯文学出版社，以一介女流之力，护佑了整整一代台湾文学青年，被尊为【台湾文坛祖母级人物】。她用一张破书桌写下了千千万万的字，用【回也不改其乐】的姿态守住了回不去的故园。这不仅是一部文学作品集，更是一代华人在颠沛离散中安放精神原乡的心灵史。</description>
+      <pubDate>Sun, 11 Oct 2026 11:35:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-cc3d72</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《林海音精选集》收录了这位从老北平城南走出的女作家一生最重要的作品。小说编以《城南旧事》《婚姻的故事》为代表，书写一代人的童年回望与女性悲欢；散文编则收入北平风物、家庭日常与跨海赴台后的办刊生涯。她十三岁丧父，三十一岁渡海，在台湾办《联合副刊》、创办《纯文学月刊》和纯文学出版社，以一介女流之力，护佑了整整一代台湾文学青年，被尊为【台湾文坛祖母级人物】。她用一张破书桌写下了千千万万的字，用【回也不改其乐】的姿态守住了回不去的故园。这不仅是一部文学作品集，更是一代华人在颠沛离散中安放精神原乡的心灵史。</itunes:summary>
+      <itunes:duration>00:35:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-cc3d72.mp3" length="34066605" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
