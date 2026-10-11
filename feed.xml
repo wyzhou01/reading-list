@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 12:21:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 12:26:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33046,6 +33046,17 @@
       <itunes:duration>00:20:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-3b01f1.mp3" length="19853613" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《锌皮娃娃兵》 · 完整版 · 锌皮娃娃兵 · 完整讲读</title>
+      <description>《锌皮娃娃兵》是白俄罗斯诺奖作家阿列克谢耶维奇的纪实文学代表作。她用一千多个声音，记录苏军入侵阿富汗十年间，一百万十八岁到二十岁【娃娃兵】的真实创伤。书里没有英雄，只有被国家改写的小兵、被母亲抱着的锌皮棺材、被社会拒之门外的归乡者。官方话语讲【国际主义义务】，士兵讲【杀人为了回家】。这本书追问的核心问题是——一个普通男儿是怎样在一夜之间被改造成杀人的机器，而一个母亲又如何在沉默的国家里，独自咽下那口焊死的棺材。它不仅是一部反战文本，更是一份关于【不许普通人按自己的方式疼】这一国家暴力的解离记录。</description>
+      <pubDate>Sun, 11 Oct 2026 12:26:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-d0a711</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《锌皮娃娃兵》是白俄罗斯诺奖作家阿列克谢耶维奇的纪实文学代表作。她用一千多个声音，记录苏军入侵阿富汗十年间，一百万十八岁到二十岁【娃娃兵】的真实创伤。书里没有英雄，只有被国家改写的小兵、被母亲抱着的锌皮棺材、被社会拒之门外的归乡者。官方话语讲【国际主义义务】，士兵讲【杀人为了回家】。这本书追问的核心问题是——一个普通男儿是怎样在一夜之间被改造成杀人的机器，而一个母亲又如何在沉默的国家里，独自咽下那口焊死的棺材。它不仅是一部反战文本，更是一份关于【不许普通人按自己的方式疼】这一国家暴力的解离记录。</itunes:summary>
+      <itunes:duration>00:19:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-d0a711.mp3" length="18733869" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
