@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 04:38:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 04:45:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34124,6 +34124,17 @@
       <itunes:duration>00:03:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-229dc4.mp3" length="1557777" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《阿奎那政治著作选》 · 完整版 · 阿奎那政治著作选_(汉译世界学术名著丛书)_-_阿奎那 · 完整讲读</title>
+      <description>本书精选托马斯·阿奎那《神学大全》中关于国家和法律的核心章节。这位十三世纪的经院哲学大师,把亚里士多德的世俗政治哲学全面神学化,论证了国家目的必须指向天国幸福,教权高于政权,法律分为永恒法、自然法、神法、人的法律四层且教会有最高解释权。本书不只是中世纪政治思想史的文献,更是理解西方政治传统深层结构的钥匙——它揭示了一种用形而上学包装统治合法性的论证技术,这种技术在二十世纪新托马斯主义中死灰复燃,成为垄断资本的护身符。读懂阿奎那,才能读懂西方政治话语中自然法、永恒正义、最高法这些概念的真正来历。</description>
+      <pubDate>Mon, 12 Oct 2026 04:44:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-bffb97</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书精选托马斯·阿奎那《神学大全》中关于国家和法律的核心章节。这位十三世纪的经院哲学大师,把亚里士多德的世俗政治哲学全面神学化,论证了国家目的必须指向天国幸福,教权高于政权,法律分为永恒法、自然法、神法、人的法律四层且教会有最高解释权。本书不只是中世纪政治思想史的文献,更是理解西方政治传统深层结构的钥匙——它揭示了一种用形而上学包装统治合法性的论证技术,这种技术在二十世纪新托马斯主义中死灰复燃,成为垄断资本的护身符。读懂阿奎那,才能读懂西方政治话语中自然法、永恒正义、最高法这些概念的真正来历。</itunes:summary>
+      <itunes:duration>00:03:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-bffb97.mp3" length="1885040" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
