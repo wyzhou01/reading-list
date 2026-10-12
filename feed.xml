@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 10:26:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 10:38:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34476,6 +34476,17 @@
       <itunes:duration>00:03:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-23a17b.mp3" length="1577004" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中国古代礼俗》 · 完整版 · 中国古代礼俗_(中国读本) · 完整讲读</title>
+      <description>《中国古代礼俗》是一部系统讲述中国礼俗从原始祭祀到周代成型、再到下沉民间的通识读物。作者王炜民以数十年的研究功底，揭示了一个反常识的真相：中国人引以为豪的【礼仪之邦】，其源头并非温文尔雅，而是三千多年前殷墟殉葬坑里的人祭、佤族猎头祭祀的鲜血。礼，起于人类在未知面前的颤抖与献祭；周公制礼作乐、孔子以仁释礼，让礼从神坛走向人间、从贵族走向全民；朱熹《家礼》与蓝田乡约则把礼下沉到每一个家庭，使中国真正成为凡事讲规矩的民族。本书以育子、成年、婚姻、日常、社交、节庆、盟誓、丧葬、祭祀十大门类，全景呈现中国人从摇篮到坟墓被礼包裹的一生，也冷静指出礼俗内核是等级秩序与权力关系。读完这本书，你会理解：今天我们身上每一个看似天经地义的规矩，都是三千年来一脉相承的文化选择。</description>
+      <pubDate>Mon, 12 Oct 2026 10:38:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-cbe274</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《中国古代礼俗》是一部系统讲述中国礼俗从原始祭祀到周代成型、再到下沉民间的通识读物。作者王炜民以数十年的研究功底，揭示了一个反常识的真相：中国人引以为豪的【礼仪之邦】，其源头并非温文尔雅，而是三千多年前殷墟殉葬坑里的人祭、佤族猎头祭祀的鲜血。礼，起于人类在未知面前的颤抖与献祭；周公制礼作乐、孔子以仁释礼，让礼从神坛走向人间、从贵族走向全民；朱熹《家礼》与蓝田乡约则把礼下沉到每一个家庭，使中国真正成为凡事讲规矩的民族。本书以育子、成年、婚姻、日常、社交、节庆、盟誓、丧葬、祭祀十大门类，全景呈现中国人从摇篮到坟墓被礼包裹的一生，也冷静指出礼俗内核是等级秩序与权力关系。读完这本书，你会理解：今天我们身上每一个看似天经地义的规矩，都是三千年来一脉相承的文化选择。</itunes:summary>
+      <itunes:duration>00:09:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-cbe274.mp3" length="4584220" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
