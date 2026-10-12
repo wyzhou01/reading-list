@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 03:27:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 03:36:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34036,6 +34036,17 @@
       <itunes:duration>00:02:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-755fb3.mp3" length="1304494" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《希拉里传（纪念版）》 · 完整版 · 希拉里传（纪念版） · 完整讲读</title>
+      <description>普利策奖得主卡尔·伯恩斯坦以三十年档案和贴身采访，重现希拉里·罗德姆从伊利诺伊郊区严苛的童年、耶鲁法学院与克林顿的相遇、阿肯色州的早期政治磨练、白宫医疗改革失败与莱温斯基丑闻中坚韧的回击、纽约州联邦参议员任内的立法积累，直至二〇〇七年宣布竞选总统的全过程。本书的核心命题是：克林顿夫妇的政治旅途是一套由婚姻与权力共同支撑的操作系统，她在丈夫的阴影中撕掉第一夫人的标签，用平跟鞋一步一步走出白宫，最终以近六十岁的年龄把理想变成切实可行的政治行动。</description>
+      <pubDate>Mon, 12 Oct 2026 03:36:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-bf4deb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>普利策奖得主卡尔·伯恩斯坦以三十年档案和贴身采访，重现希拉里·罗德姆从伊利诺伊郊区严苛的童年、耶鲁法学院与克林顿的相遇、阿肯色州的早期政治磨练、白宫医疗改革失败与莱温斯基丑闻中坚韧的回击、纽约州联邦参议员任内的立法积累，直至二〇〇七年宣布竞选总统的全过程。本书的核心命题是：克林顿夫妇的政治旅途是一套由婚姻与权力共同支撑的操作系统，她在丈夫的阴影中撕掉第一夫人的标签，用平跟鞋一步一步走出白宫，最终以近六十岁的年龄把理想变成切实可行的政治行动。</itunes:summary>
+      <itunes:duration>00:06:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-bf4deb.mp3" length="2915309" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
