@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 08:58:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 09:06:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34355,6 +34355,17 @@
       <itunes:duration>00:05:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-740e96.mp3" length="2429222" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《时间的玫瑰（全新升级版）》 · 完整版 · 时间的玫瑰（全新升级版） · 完整讲读</title>
+      <description>《时间的玫瑰》是但斌二十余年价值投资实践的思想结晶。本书以穿越牛熊的真实案例，揭示了价值投资四大核心理念：股票是公司的一部分所有权、市场只报价格不报价值、预测必有错故需安全边际、能力圈的边界比大小重要。但斌用茅台等中国核心资产的长期坚守证明：投资不是一场短跑，而是与时间对赌的婚姻。真正的价值投资，需要信仰、耐心与不从众的勇气，更需要把投资过成一种生命方式。在这朵只属于长期主义者的玫瑰背后，藏着一个朴素的真相——时间，是财富最忠诚的园丁。</description>
+      <pubDate>Mon, 12 Oct 2026 09:06:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-fff913</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《时间的玫瑰》是但斌二十余年价值投资实践的思想结晶。本书以穿越牛熊的真实案例，揭示了价值投资四大核心理念：股票是公司的一部分所有权、市场只报价格不报价值、预测必有错故需安全边际、能力圈的边界比大小重要。但斌用茅台等中国核心资产的长期坚守证明：投资不是一场短跑，而是与时间对赌的婚姻。真正的价值投资，需要信仰、耐心与不从众的勇气，更需要把投资过成一种生命方式。在这朵只属于长期主义者的玫瑰背后，藏着一个朴素的真相——时间，是财富最忠诚的园丁。</itunes:summary>
+      <itunes:duration>00:03:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-fff913.mp3" length="1807299" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
