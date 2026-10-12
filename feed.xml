@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 08:38:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 08:50:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34333,6 +34333,17 @@
       <itunes:duration>00:03:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-b1f2f5.mp3" length="1597066" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《陈寅恪讲国学》 · 完整版 · 陈寅恪讲国学_(大师讲国学文库) · 完整讲读</title>
+      <description>《陈寅恪讲国学》以史学、儒学、哲学、文学、考据、佛学七大板块，系统呈现陈寅恪这位百年难得一遇的史学大师的核心学术创见。全书贯穿四大主题：一是中古史的门阀社会与胡汉融合，通过关陇集团、武则天新政、山东豪杰等案例，揭示王朝兴替的底层逻辑；二是以诗证史与古典文学的历史解读，把《长恨歌》《柳如是别传》等文学作品当作史料，开启全新的研究方法；三是儒学三纲六纪与士族文化精神，主张用【同情之了解】的态度对待本国文化传统；四是自由思想与独立精神的学者人格，倡导学者为真理而坚守。读者读完本书，不仅能看懂中古史的门阀兴衰，更能学到陈寅恪一辈子都在践行的问题意识、证据意识与独立判断能力。</description>
+      <pubDate>Mon, 12 Oct 2026 08:50:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-3dd820</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《陈寅恪讲国学》以史学、儒学、哲学、文学、考据、佛学七大板块，系统呈现陈寅恪这位百年难得一遇的史学大师的核心学术创见。全书贯穿四大主题：一是中古史的门阀社会与胡汉融合，通过关陇集团、武则天新政、山东豪杰等案例，揭示王朝兴替的底层逻辑；二是以诗证史与古典文学的历史解读，把《长恨歌》《柳如是别传》等文学作品当作史料，开启全新的研究方法；三是儒学三纲六纪与士族文化精神，主张用【同情之了解】的态度对待本国文化传统；四是自由思想与独立精神的学者人格，倡导学者为真理而坚守。读者读完本书，不仅能看懂中古史的门阀兴衰，更能学到陈寅恪一辈子都在践行的问题意识、证据意识与独立判断能力。</itunes:summary>
+      <itunes:duration>00:08:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-3dd820.mp3" length="4132406" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
