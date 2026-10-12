@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 07:22:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 07:31:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34223,6 +34223,17 @@
       <itunes:duration>00:03:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-ff1c07.mp3" length="1568226" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《恩怨江湖》 · 完整版 · 高阳_-_恩怨江湖 · 完整讲读</title>
+      <description>《恩怨江湖》是高阳以同治二年杭州围城为背景的历史小说，写富商朱大器委托浪子刘不才潜入沦陷区，联络地头蛇小张、漕帮嘉白帮当家孙祥太，里应外合光复杭州的故事。表面是接眷、策反，骨子里是江湖道义、帮规家法与家国大义在乱世里如何压住每一个体——嘉白帮的【反清复明】到此时要拆开来讲，盘龙棍下的【十大帮规】与【十条家法】撑起三百年帮运，最终靠血酒结义、协力同心撑过这一夜。</description>
+      <pubDate>Mon, 12 Oct 2026 07:31:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-c4d4ed</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《恩怨江湖》是高阳以同治二年杭州围城为背景的历史小说，写富商朱大器委托浪子刘不才潜入沦陷区，联络地头蛇小张、漕帮嘉白帮当家孙祥太，里应外合光复杭州的故事。表面是接眷、策反，骨子里是江湖道义、帮规家法与家国大义在乱世里如何压住每一个体——嘉白帮的【反清复明】到此时要拆开来讲，盘龙棍下的【十大帮规】与【十条家法】撑起三百年帮运，最终靠血酒结义、协力同心撑过这一夜。</itunes:summary>
+      <itunes:duration>00:05:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-c4d4ed.mp3" length="2552938" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
