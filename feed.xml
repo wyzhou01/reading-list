@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 17:33:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 17:37:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34924,6 +34924,17 @@
       <itunes:duration>00:04:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-25ad38.mp3" length="2263293" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《华夏边缘：历史记忆与族群认同（增订本）》 · 完整版 · 华夏边缘：历史记忆与族群认同（增订本）_-_王明珂 · 完整讲读</title>
+      <description>《华夏边缘》是历史人类学者王明珂剖析【什么是中国人】的经典之作。全书以【族群边缘】取代【族群内涵】，提出一个核心主张：你是什么人，不由血脉、文化、基因决定，而由你被划在哪条线的哪一侧决定。书分四部分推进：第一部分引入族群理论与社会记忆理论，建立【边缘研究】的方法论；第二部分借青海、鄂尔多斯、西辽河的考古证据，重建新石器时代晚期以来华夏生态边界的形成；第三部分拆解西周族源传说、吴太伯奔吴、羌人概念西移等案例，演示华夏如何通过记忆与失忆扩张边缘；第四部分剖析近代【中华民族】如何把过去的【蛮夷】重新包装为【少数民族】，完成一次造人机器的换档。全书贯穿【资源竞争—历史记忆—族群认同】的解释链，是理解中国民族史不可绕开的一本书。</description>
+      <pubDate>Mon, 12 Oct 2026 17:37:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-8b78e6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《华夏边缘》是历史人类学者王明珂剖析【什么是中国人】的经典之作。全书以【族群边缘】取代【族群内涵】，提出一个核心主张：你是什么人，不由血脉、文化、基因决定，而由你被划在哪条线的哪一侧决定。书分四部分推进：第一部分引入族群理论与社会记忆理论，建立【边缘研究】的方法论；第二部分借青海、鄂尔多斯、西辽河的考古证据，重建新石器时代晚期以来华夏生态边界的形成；第三部分拆解西周族源传说、吴太伯奔吴、羌人概念西移等案例，演示华夏如何通过记忆与失忆扩张边缘；第四部分剖析近代【中华民族】如何把过去的【蛮夷】重新包装为【少数民族】，完成一次造人机器的换档。全书贯穿【资源竞争—历史记忆—族群认同】的解释链，是理解中国民族史不可绕开的一本书。</itunes:summary>
+      <itunes:duration>00:06:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-8b78e6.mp3" length="3132230" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
