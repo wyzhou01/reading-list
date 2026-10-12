@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 17:56:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 18:10:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34990,6 +34990,17 @@
       <itunes:duration>00:03:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-0973c7.mp3" length="1444511" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《头颅中国：另一个角度看先秦》 · 完整版 · 头颅中国：另一个角度看先秦(1) · 完整讲读</title>
+      <description>《头颅中国:另一个角度看先秦》以《头颅史观》为切口,追问先秦文明被秦终结的真正代价。摩崖拒绝为斩首辩护,把殷周之变、周秦之变还原为一次又一次&quot;以蛮族之名&quot;的文明猎头。他带我们穿过青铜甲骨、礼乐联邦、贵族正午,看到商周留给后世的核心价值——生克、日新、和同、中道、仁智、贵民、不专、畏三——在秦的火光里被肃清,又在汉的火种里被复活。这本书不是复古,而是借古照今——提醒我们警惕专权、制造蛮族的诱惑,守护文明的头颅。</description>
+      <pubDate>Mon, 12 Oct 2026 18:10:46 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-d1afd2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《头颅中国:另一个角度看先秦》以《头颅史观》为切口,追问先秦文明被秦终结的真正代价。摩崖拒绝为斩首辩护,把殷周之变、周秦之变还原为一次又一次&quot;以蛮族之名&quot;的文明猎头。他带我们穿过青铜甲骨、礼乐联邦、贵族正午,看到商周留给后世的核心价值——生克、日新、和同、中道、仁智、贵民、不专、畏三——在秦的火光里被肃清,又在汉的火种里被复活。这本书不是复古,而是借古照今——提醒我们警惕专权、制造蛮族的诱惑,守护文明的头颅。</itunes:summary>
+      <itunes:duration>00:11:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-d1afd2.mp3" length="5636223" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
