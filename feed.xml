@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 17:20:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 17:25:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34891,6 +34891,17 @@
       <itunes:duration>00:04:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-032c0a.mp3" length="2079391" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《慕尼黑的清真寺》 · 完整版 · 慕尼黑的清真寺_(译文纪实) · 完整讲读</title>
+      <description>《慕尼黑的清真寺》是一部翻阅美国与德国解密档案的冷战情报史。资深记者伊恩·约翰逊追踪一座不起眼的卵形建筑，揭开西方半个世纪最大的战略养蛊——纳粹首创利用伊斯兰对抗苏联，中情局接力将其作为冷战工具，穆兄会最终摘走果实，将慕尼黑变成向整个西方输出政治伊斯兰的滩头阵地。本书颠覆了当代反恐叙事，证明今日困局的种子，埋在冷战初期慕尼黑的一场心理战里。</description>
+      <pubDate>Mon, 12 Oct 2026 17:25:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-bb942f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《慕尼黑的清真寺》是一部翻阅美国与德国解密档案的冷战情报史。资深记者伊恩·约翰逊追踪一座不起眼的卵形建筑，揭开西方半个世纪最大的战略养蛊——纳粹首创利用伊斯兰对抗苏联，中情局接力将其作为冷战工具，穆兄会最终摘走果实，将慕尼黑变成向整个西方输出政治伊斯兰的滩头阵地。本书颠覆了当代反恐叙事，证明今日困局的种子，埋在冷战初期慕尼黑的一场心理战里。</itunes:summary>
+      <itunes:duration>00:03:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-bb942f.mp3" length="1688181" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
