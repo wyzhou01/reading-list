@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 07:05:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 07:22:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34212,6 +34212,17 @@
       <itunes:duration>00:09:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-e8f5c8.mp3" length="4644406" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《夜航船》 · 完整版 · 夜航船 · 完整讲读</title>
+      <description>《夜航船》是张岱入台的文化小百科，从天文地理到鬼神方术，从人事礼数到蓑笠佛法，把士大夫该懂的杂学一网打尽。这不是普通的笔记，而是一本让读书人在夜航船里不被和尚嘲笑的防身秘籍，更是晚明审美的鲜活切片。翻开《夜航船》，你将看到张岱用二十年的光阴，把他所知的一切都写进了这只船里。</description>
+      <pubDate>Mon, 12 Oct 2026 07:22:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-ff1c07</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《夜航船》是张岱入台的文化小百科，从天文地理到鬼神方术，从人事礼数到蓑笠佛法，把士大夫该懂的杂学一网打尽。这不是普通的笔记，而是一本让读书人在夜航船里不被和尚嘲笑的防身秘籍，更是晚明审美的鲜活切片。翻开《夜航船》，你将看到张岱用二十年的光阴，把他所知的一切都写进了这只船里。</itunes:summary>
+      <itunes:duration>00:03:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-ff1c07.mp3" length="1568226" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
