@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 23:19:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 23:26:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35331,6 +35331,17 @@
       <itunes:duration>00:02:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-c06fd6.mp3" length="1054555" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《起风之城》 · 完整版 · 张冉_-_起风之城 · 完整讲读</title>
+      <description>《起风之城》是张冉九年创作的阶段性合集，收录九篇横跨近未来都市、末日废土、太空冷战、历史架空的小说。这位中国科幻更新代代表作者凭《以太》一篇斩获银河奖与星云奖双奖，但本书的价值远不止技术预言。九个故事共享同一种温度：废土里一罐牛肉干的余温、末日里一支蜡烛的火苗、月球轨道上一首副歌的笑声、地下室里掌心书写的酥麻。它们共同回答一个问题——当科技把人推得越来越远，当旧世界一寸寸塌陷，人性里那些最笨拙、最缓慢的东西——一段旋律、一次握手、一个用指尖写下的字——到底还能不能把人重新拉回到一起？张冉在跋里讲，他希望自己的作品是种音乐。这本书就是九首没有终止键的延长符号，等读者替它们按下那个永远不会来的句号。</description>
+      <pubDate>Mon, 12 Oct 2026 23:26:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-c75787</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《起风之城》是张冉九年创作的阶段性合集，收录九篇横跨近未来都市、末日废土、太空冷战、历史架空的小说。这位中国科幻更新代代表作者凭《以太》一篇斩获银河奖与星云奖双奖，但本书的价值远不止技术预言。九个故事共享同一种温度：废土里一罐牛肉干的余温、末日里一支蜡烛的火苗、月球轨道上一首副歌的笑声、地下室里掌心书写的酥麻。它们共同回答一个问题——当科技把人推得越来越远，当旧世界一寸寸塌陷，人性里那些最笨拙、最缓慢的东西——一段旋律、一次握手、一个用指尖写下的字——到底还能不能把人重新拉回到一起？张冉在跋里讲，他希望自己的作品是种音乐。这本书就是九首没有终止键的延长符号，等读者替它们按下那个永远不会来的句号。</itunes:summary>
+      <itunes:duration>00:04:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-c75787.mp3" length="2353154" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
