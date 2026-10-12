@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 04:16:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 04:26:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34091,6 +34091,17 @@
       <itunes:duration>00:02:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-6879d0.mp3" length="1335423" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《猫蛊手记》 · 完整版 · 猫蛊手记-微笑的猫 · 完整讲读</title>
+      <description>《猫蛊手记》是微笑的猫二零一二年的代表作，讲述一支濒临解散的师生考古队远赴云南深山探查悬棺与古墓的荒诞冒险。领队夏明若抱着一只二十斤重的猫蛊上路，与发小楚海洋在塌方、悬棺、鬼火、盗墓贼与本地传说的夹缝中跌撞前行。全书笑点根植于田野考古的真实肌理，笔下既有科学求证的克制，也有江湖义气的温度，更有代际荒诞与青春成长的和解，是一部披着玄幻外衣的考古人生存志。</description>
+      <pubDate>Mon, 12 Oct 2026 04:25:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-b0a45c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《猫蛊手记》是微笑的猫二零一二年的代表作，讲述一支濒临解散的师生考古队远赴云南深山探查悬棺与古墓的荒诞冒险。领队夏明若抱着一只二十斤重的猫蛊上路，与发小楚海洋在塌方、悬棺、鬼火、盗墓贼与本地传说的夹缝中跌撞前行。全书笑点根植于田野考古的真实肌理，笔下既有科学求证的克制，也有江湖义气的温度，更有代际荒诞与青春成长的和解，是一部披着玄幻外衣的考古人生存志。</itunes:summary>
+      <itunes:duration>00:04:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-b0a45c.mp3" length="2335600" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
