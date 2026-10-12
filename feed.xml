@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 08:50:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 08:58:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34344,6 +34344,17 @@
       <itunes:duration>00:08:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-3dd820.mp3" length="4132406" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《谍战1933》 · 完整版 · 谍战1933_-_老许 · 完整讲读</title>
+      <description>《谍战一九三三》以一九三三年的哈尔滨为舞台，讲述赋闲老刑警许从良在多方势力夹缝中求生破局的故事。许从良被迫接下替罪羊的差事，却在刀尖上找到了翻盘的机会。整本书以六块拼图为线索，拆解了乱世里的家国抉择、江湖义气与革命信仰的碰撞，以及乱世儿女最深的情话。</description>
+      <pubDate>Mon, 12 Oct 2026 08:58:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-740e96</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《谍战一九三三》以一九三三年的哈尔滨为舞台，讲述赋闲老刑警许从良在多方势力夹缝中求生破局的故事。许从良被迫接下替罪羊的差事，却在刀尖上找到了翻盘的机会。整本书以六块拼图为线索，拆解了乱世里的家国抉择、江湖义气与革命信仰的碰撞，以及乱世儿女最深的情话。</itunes:summary>
+      <itunes:duration>00:05:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-740e96.mp3" length="2429222" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
