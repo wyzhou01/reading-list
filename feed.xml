@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 03:01:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 03:08:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34003,6 +34003,17 @@
       <itunes:duration>00:15:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-28c829.mp3" length="14928429" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《唐明皇》 · 完整版 · 唐明皇 · 完整讲读</title>
+      <description>本书是中央民族大学历史系教授蒙曼对唐玄宗一生的全景式解读。她从泰陵前那只不到一人高的石狮子切入, 追问一位统治中国近半个世纪的天子为何不修陵寝, 进而展开对唐明皇从诞生、夺位、缔造开元盛世, 到沉溺天宝繁华、酿成安史之乱的全过程叙述。全书围绕【事业风流】【情趣风流】【爱情风流】三条主线, 剖析了唐玄宗前期励精图治、后期骄奢拒谏的内在逻辑, 揭示了宰相轮替机制、节度使制度、杨李爱情背后的政治账三大盛世支柱如何同时埋下衰亡的种子。蒙曼最终把唐玄宗的悲剧, 升华为对专制皇权结构性困境的追问——没有退休机制的权力, 注定会让任何英明的君主走向昏聩。这本书既是对一位帝王的深情回望, 也是对每一个追逐盛世的人, 敲响的警钟。</description>
+      <pubDate>Mon, 12 Oct 2026 03:08:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-09b2c3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是中央民族大学历史系教授蒙曼对唐玄宗一生的全景式解读。她从泰陵前那只不到一人高的石狮子切入, 追问一位统治中国近半个世纪的天子为何不修陵寝, 进而展开对唐明皇从诞生、夺位、缔造开元盛世, 到沉溺天宝繁华、酿成安史之乱的全过程叙述。全书围绕【事业风流】【情趣风流】【爱情风流】三条主线, 剖析了唐玄宗前期励精图治、后期骄奢拒谏的内在逻辑, 揭示了宰相轮替机制、节度使制度、杨李爱情背后的政治账三大盛世支柱如何同时埋下衰亡的种子。蒙曼最终把唐玄宗的悲剧, 升华为对专制皇权结构性困境的追问——没有退休机制的权力, 注定会让任何英明的君主走向昏聩。这本书既是对一位帝王的深情回望, 也是对每一个追逐盛世的人, 敲响的警钟。</itunes:summary>
+      <itunes:duration>00:03:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-09b2c3.mp3" length="1778878" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
