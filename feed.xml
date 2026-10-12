@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 17:39:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 17:44:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34946,6 +34946,17 @@
       <itunes:duration>00:03:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-db52af.mp3" length="1564465" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《关键对话：如何高效能沟通（原书第2版）》 · 完整版 · 关键对话_-_科里·帕特森等 · 完整讲读</title>
+      <description>《关键对话》是一本关于如何在高压、高风险、高情绪时刻展开有效沟通的经典著作。四位作者跟踪十万人二十年后指出,人在关键对话中的失控不是性格缺陷,而是肾上腺素劫持大脑的生理本能。他们提出了一套从心开始的方法:先明确真实目的而非追求输赢,再通过共同目的和相互尊重营造对话安全感,接着学会控制情绪、循循善诱地陈述观点并倾听对方,最后把对话转化为可执行的行动。这本书既适用于职场中的高风险谈判,也是修复家庭关系、化解人际冲突的实用指南。它最深刻的提醒是:沉默和暴力其实是同一种失败的两种表现,真正的关键对话能力,本质上是放下自我保护、重新看见对方的能力。</description>
+      <pubDate>Mon, 12 Oct 2026 17:44:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-1cc3f6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《关键对话》是一本关于如何在高压、高风险、高情绪时刻展开有效沟通的经典著作。四位作者跟踪十万人二十年后指出,人在关键对话中的失控不是性格缺陷,而是肾上腺素劫持大脑的生理本能。他们提出了一套从心开始的方法:先明确真实目的而非追求输赢,再通过共同目的和相互尊重营造对话安全感,接着学会控制情绪、循循善诱地陈述观点并倾听对方,最后把对话转化为可执行的行动。这本书既适用于职场中的高风险谈判,也是修复家庭关系、化解人际冲突的实用指南。它最深刻的提醒是:沉默和暴力其实是同一种失败的两种表现,真正的关键对话能力,本质上是放下自我保护、重新看见对方的能力。</itunes:summary>
+      <itunes:duration>00:02:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-1cc3f6.mp3" length="975560" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
