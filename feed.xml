@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 23:53:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 23:59:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35375,6 +35375,17 @@
       <itunes:duration>00:04:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-643b81.mp3" length="2322643" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《理解一张照片：约翰·伯格论摄影》 · 完整版 · 理解一张照片 · 完整讲读</title>
+      <description>《理解一张照片》是英国画家约翰·伯格跨越数十年的摄影评论合集。在伯格看来，照片不是被看的，而是被读的。每一张被定格的照片，都压缩着一整段人生。透过格瓦拉尸体的传真照、桑德镜头下的德国农民、卡蒂埃—布列松地铁里的乞讨者、萨尔加多记录下的全球苦难，伯格示范了一种带着温情、专注与质询的观看之道。他追问被摄者的伦理，重构图文互文的辩证，并以画家与作家的笔，提醒我们：在被图像淹没的时代，重新学会凝视生活之面庞，才是最珍贵的能力。</description>
+      <pubDate>Mon, 12 Oct 2026 23:59:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-75ac35</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《理解一张照片》是英国画家约翰·伯格跨越数十年的摄影评论合集。在伯格看来，照片不是被看的，而是被读的。每一张被定格的照片，都压缩着一整段人生。透过格瓦拉尸体的传真照、桑德镜头下的德国农民、卡蒂埃—布列松地铁里的乞讨者、萨尔加多记录下的全球苦难，伯格示范了一种带着温情、专注与质询的观看之道。他追问被摄者的伦理，重构图文互文的辩证，并以画家与作家的笔，提醒我们：在被图像淹没的时代，重新学会凝视生活之面庞，才是最珍贵的能力。</itunes:summary>
+      <itunes:duration>00:03:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-75ac35.mp3" length="1919312" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
