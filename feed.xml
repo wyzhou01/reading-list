@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 00:49:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 00:59:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33871,6 +33871,17 @@
       <itunes:duration>00:24:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-4fbe04.mp3" length="23299245" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《投资哲学：保守主义的智慧之灯》 · 完整版 · 投资哲学：保守主义的智慧之灯 · 完整讲读</title>
+      <description>《投资哲学:保守主义的智慧之灯》是刘军宁把保守主义政治哲学系统引入中国投资领域的一次思想实验。全书以人是不完善的、人类面对的世界是不可全知的这一保守主义基本判断为支点,推导出价值投资的全部底层逻辑:每个投资者都有边界清晰的能力圈,逾越必败;任何对宏观经济与市场走势的整体预测都是徒劳;因此价值投资是一种以避免损失为最高优先级的审慎策略,其精髓在于消极保守、长期持有、对传统与常识保持敬畏。本书进一步把这一套投资伦理延伸到金钱观、财富观与财务自由观,指出金钱是被铸造出来的自由,财富是思考能力的产物,真正的财务自由是被动收入足以支撑体面生活,从而使人获得免于强制的独立性。贯穿全书的核心命题是:保守主义政治哲学珍视自由,保守主义投资哲学珍视价值;价值投资最终守护的,不是账户余额,而是人格的独立与生活的选择权。</description>
+      <pubDate>Mon, 12 Oct 2026 00:59:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-e5f084</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《投资哲学:保守主义的智慧之灯》是刘军宁把保守主义政治哲学系统引入中国投资领域的一次思想实验。全书以人是不完善的、人类面对的世界是不可全知的这一保守主义基本判断为支点,推导出价值投资的全部底层逻辑:每个投资者都有边界清晰的能力圈,逾越必败;任何对宏观经济与市场走势的整体预测都是徒劳;因此价值投资是一种以避免损失为最高优先级的审慎策略,其精髓在于消极保守、长期持有、对传统与常识保持敬畏。本书进一步把这一套投资伦理延伸到金钱观、财富观与财务自由观,指出金钱是被铸造出来的自由,财富是思考能力的产物,真正的财务自由是被动收入足以支撑体面生活,从而使人获得免于强制的独立性。贯穿全书的核心命题是:保守主义政治哲学珍视自由,保守主义投资哲学珍视价值;价值投资最终守护的,不是账户余额,而是人格的独立与生活的选择权。</itunes:summary>
+      <itunes:duration>00:27:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-e5f084.mp3" length="26853165" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
