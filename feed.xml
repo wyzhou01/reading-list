@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 08:08:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 08:15:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34289,6 +34289,17 @@
       <itunes:duration>00:34:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-8c7832.mp3" length="33186477" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《第13个小时》 · 完整版 · 第13个小时 · 完整讲读</title>
+      <description>《第13个小时》是美国悬疑作家理查德·道许的经典之作，借一座灰发老者递来的金怀表，讲述男人尼克能否在十二小时内救回被枪杀妻子的故事。整本小说以倒叙展开，每一章往回走一小时，穿插神秘手枪、空难与贪婪家族史，最终在第十三章的医院病房揭穿时间悖论的真相：善因不会被改写，只能被珍惜；真爱不需要超能力，因为当下本身便是奇迹。倒叙结束，正叙开始，这便是命运对每一个读者的无声告白。</description>
+      <pubDate>Mon, 12 Oct 2026 08:15:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-999416</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《第13个小时》是美国悬疑作家理查德·道许的经典之作，借一座灰发老者递来的金怀表，讲述男人尼克能否在十二小时内救回被枪杀妻子的故事。整本小说以倒叙展开，每一章往回走一小时，穿插神秘手枪、空难与贪婪家族史，最终在第十三章的医院病房揭穿时间悖论的真相：善因不会被改写，只能被珍惜；真爱不需要超能力，因为当下本身便是奇迹。倒叙结束，正叙开始，这便是命运对每一个读者的无声告白。</itunes:summary>
+      <itunes:duration>00:03:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-999416.mp3" length="1482545" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
