@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 08:22:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 08:28:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34311,6 +34311,17 @@
       <itunes:duration>00:04:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-ef9499.mp3" length="2298819" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《崔永元：我有一事，生死与之》 · 完整版 · 崔永元：我有一事，生死与之_(中国故事) · 完整讲读</title>
+      <description>本书是《人物》杂志对崔永元的长篇采访合集,记录他如何从《实话实说》的一夜成名,跌入二零零一年抑郁症的深渊,又如何用十五年时间、自费两亿元、采访四千位平均年龄八十五岁的老人,在口述历史里找到了自己【舍不得关机】的那件事。崔永元用他者的九死一生,治好了自己的精神绝症,也给这个浮躁时代留下了一份最笨、最慢、最有尊严的精神工程。</description>
+      <pubDate>Mon, 12 Oct 2026 08:28:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-041140</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是《人物》杂志对崔永元的长篇采访合集,记录他如何从《实话实说》的一夜成名,跌入二零零一年抑郁症的深渊,又如何用十五年时间、自费两亿元、采访四千位平均年龄八十五岁的老人,在口述历史里找到了自己【舍不得关机】的那件事。崔永元用他者的九死一生,治好了自己的精神绝症,也给这个浮躁时代留下了一份最笨、最慢、最有尊严的精神工程。</itunes:summary>
+      <itunes:duration>00:03:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-041140.mp3" length="1492994" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
