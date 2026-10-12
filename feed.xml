@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 15:41:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 15:47:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34748,6 +34748,17 @@
       <itunes:duration>00:06:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-85da31.mp3" length="3253856" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《海胆》 · 完整版 · 海胆 · 完整讲读</title>
+      <description>《海胆》是知名人物记者雷晓宇的人物访谈集，收录了她对李安、侯孝贤、朴树、黄觉、阮经天、刘晓庆、秦怡、李娜、邹市明、刘若英等十位公众人物的深度专访。她拒绝安全距离与客观中立的记者神话，以爱、介入与共情的方式进入受访者的精神深处，把他们在光环下隐藏的脆弱、挣扎与困境一一剖开。在她笔下，每个人都是一面镜子——通过他者理解自己。这是一本关于非虚构写作本质的书，也是一本关于自我探究的书。</description>
+      <pubDate>Mon, 12 Oct 2026 15:47:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-dedf60</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《海胆》是知名人物记者雷晓宇的人物访谈集，收录了她对李安、侯孝贤、朴树、黄觉、阮经天、刘晓庆、秦怡、李娜、邹市明、刘若英等十位公众人物的深度专访。她拒绝安全距离与客观中立的记者神话，以爱、介入与共情的方式进入受访者的精神深处，把他们在光环下隐藏的脆弱、挣扎与困境一一剖开。在她笔下，每个人都是一面镜子——通过他者理解自己。这是一本关于非虚构写作本质的书，也是一本关于自我探究的书。</itunes:summary>
+      <itunes:duration>00:04:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-dedf60.mp3" length="1972393" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
