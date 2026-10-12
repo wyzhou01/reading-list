@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 14:26:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 14:37:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34671,6 +34671,17 @@
       <itunes:duration>00:02:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-476640.mp3" length="1306584" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《钱宝珠嫁人记》 · 完整版 · 钱宝珠嫁人记_-_芩桑 · 完整讲读</title>
+      <description>《钱宝珠嫁人记》是作家岑桑创作的一部关于普通女孩成长的长篇小说。故事讲述了长相普通、能力普通、家境普通的女孩钱宝珠，从二十二岁入行做卫生巾的办公室文员开始，历经六年职场沉浮、爱情错位、闺蜜散场、与母亲拉锯，最终在二十八岁生日那天收到了一把拼成完整爱情的钥匙。小说以轻松诙谐的笔触，写尽了一个普通女孩在理想与现实之间反复拉扯、在「被剩下」的焦虑里反复自我确认的成长全过程，是写给千千万万曾被叫过「剩女」、被催过婚的普通女孩的一封情书。</description>
+      <pubDate>Mon, 12 Oct 2026 14:37:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-73621e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《钱宝珠嫁人记》是作家岑桑创作的一部关于普通女孩成长的长篇小说。故事讲述了长相普通、能力普通、家境普通的女孩钱宝珠，从二十二岁入行做卫生巾的办公室文员开始，历经六年职场沉浮、爱情错位、闺蜜散场、与母亲拉锯，最终在二十八岁生日那天收到了一把拼成完整爱情的钥匙。小说以轻松诙谐的笔触，写尽了一个普通女孩在理想与现实之间反复拉扯、在「被剩下」的焦虑里反复自我确认的成长全过程，是写给千千万万曾被叫过「剩女」、被催过婚的普通女孩的一封情书。</itunes:summary>
+      <itunes:duration>00:07:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-73621e.mp3" length="3446117" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
