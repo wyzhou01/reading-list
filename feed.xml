@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 08:28:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 08:38:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34322,6 +34322,17 @@
       <itunes:duration>00:03:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-041140.mp3" length="1492994" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《李录：全球价值投资与时代》 · 完整版 · 李录：全球价值投资与时代_-_李录 · 完整讲读</title>
+      <description>本书源于李录二零二四年在北京大学光华管理学院的十周年纪念演讲。面对当下中国年轻人的就业焦虑、民营企业家的不安、房地产的贬值、中美关系的裂痕,他把这一切放进一个名为“文明演进2.5阶段”的中等收入盘整期里重新审视。他指出,中等收入陷阱的本质不是收入陷阱,而是观念陷阱——上一代文明形成的静态财富观,远未能理解复利式增长。跨越的关键是建立一套能让所有经济要素充分流通的现代资本市场与信用体系,把沉睡的储蓄转化为有效的生产力与需求。他尤其强调,香港作为继承自英国现代金融体系的桥,具有被严重低估的战略价值。他相信,只要坚持让市场在资源配置中起决定性作用,坚持程序正义与产权保护,坚持实践是检验真理的唯一标准,中国完全有能力跨越中等收入陷阱,完成真正的现代化。</description>
+      <pubDate>Mon, 12 Oct 2026 08:38:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-b1f2f5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书源于李录二零二四年在北京大学光华管理学院的十周年纪念演讲。面对当下中国年轻人的就业焦虑、民营企业家的不安、房地产的贬值、中美关系的裂痕,他把这一切放进一个名为“文明演进2.5阶段”的中等收入盘整期里重新审视。他指出,中等收入陷阱的本质不是收入陷阱,而是观念陷阱——上一代文明形成的静态财富观,远未能理解复利式增长。跨越的关键是建立一套能让所有经济要素充分流通的现代资本市场与信用体系,把沉睡的储蓄转化为有效的生产力与需求。他尤其强调,香港作为继承自英国现代金融体系的桥,具有被严重低估的战略价值。他相信,只要坚持让市场在资源配置中起决定性作用,坚持程序正义与产权保护,坚持实践是检验真理的唯一标准,中国完全有能力跨越中等收入陷阱,完成真正的现代化。</itunes:summary>
+      <itunes:duration>00:03:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-b1f2f5.mp3" length="1597066" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
