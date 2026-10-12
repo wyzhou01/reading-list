@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 16:15:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 16:24:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34803,6 +34803,17 @@
       <itunes:duration>00:06:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-6e8bea.mp3" length="2944148" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《英译中国现代散文选（一）》 · 完整版 · 英译中国现代散文选1 · 完整讲读</title>
+      <description>《英译中国现代散文选1》是张培基退休后自编自译的汉英对照散文选本, 收录鲁迅、朱自清、冰心、方志敏、廖承志等三十二位现代作家最具代表性的三十二篇作品。本书以李大钊的《艰难的国运与雄健的国民》开篇, 以廖承志一九八二年致蒋经国家书收束, 时间跨度从一九一九年到一九八二年, 几乎覆盖中国现代散文诞生与成熟的整个一百年。张培基在译文之外另附详尽译注, 逐句说明他如何处理鲁迅的素、朱自清的慢、方志敏的硬、廖承志的家国之情——每一处译笔背后, 都是两种语言之间一次小心翼翼的接生。读这本书, 既是在重温中国现代散文最动人的段落, 也是在观摩一位翻译家如何用另一种文字, 让汉语的骨与魂重新站起来。</description>
+      <pubDate>Mon, 12 Oct 2026 16:23:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-d77790</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《英译中国现代散文选1》是张培基退休后自编自译的汉英对照散文选本, 收录鲁迅、朱自清、冰心、方志敏、廖承志等三十二位现代作家最具代表性的三十二篇作品。本书以李大钊的《艰难的国运与雄健的国民》开篇, 以廖承志一九八二年致蒋经国家书收束, 时间跨度从一九一九年到一九八二年, 几乎覆盖中国现代散文诞生与成熟的整个一百年。张培基在译文之外另附详尽译注, 逐句说明他如何处理鲁迅的素、朱自清的慢、方志敏的硬、廖承志的家国之情——每一处译笔背后, 都是两种语言之间一次小心翼翼的接生。读这本书, 既是在重温中国现代散文最动人的段落, 也是在观摩一位翻译家如何用另一种文字, 让汉语的骨与魂重新站起来。</itunes:summary>
+      <itunes:duration>00:05:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-d77790.mp3" length="2519084" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
