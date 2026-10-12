@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 09:06:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 09:14:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34366,6 +34366,17 @@
       <itunes:duration>00:03:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-fff913.mp3" length="1807299" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《民国清流：那些远去的大师们》 · 完整版 · 民国清流_那些远去的大师们_(细说民国大文人07)_-_汪兆骞 · 完整讲读</title>
+      <description>本书以一九一七年到一九二七年的编年方式，写尽民国清流大师们的精神史。汪兆骞从蔡元培北上接掌北大写起，经新文化运动的思想启蒙、白话文与文言文的决战，一直写到四一二政变后清流们的血泪抗争。核心追问是：在乱世宽容催生的思想真空期里，那批坚持【不党不群、只问是非】的知识分子，如何用《《新青年》》点燃了一场思想革命；又如何在党化政治的收网下，从殉道、逃亡、抗争三条道路中做出了各自的选择。作者用十年编年，串起蔡元培、陈独秀、胡适、鲁迅、周作人、钱玄同等数十位大师的命运轨迹，揭示了一个朴素真相：所谓清流，不是靠时代赐予，而是靠【不靠着】的姿态日复一日撑起。最终留下一句振聋发聩的呐喊——【宁鸣而死，不默而生】。</description>
+      <pubDate>Mon, 12 Oct 2026 09:14:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-663924</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书以一九一七年到一九二七年的编年方式，写尽民国清流大师们的精神史。汪兆骞从蔡元培北上接掌北大写起，经新文化运动的思想启蒙、白话文与文言文的决战，一直写到四一二政变后清流们的血泪抗争。核心追问是：在乱世宽容催生的思想真空期里，那批坚持【不党不群、只问是非】的知识分子，如何用《《新青年》》点燃了一场思想革命；又如何在党化政治的收网下，从殉道、逃亡、抗争三条道路中做出了各自的选择。作者用十年编年，串起蔡元培、陈独秀、胡适、鲁迅、周作人、钱玄同等数十位大师的命运轨迹，揭示了一个朴素真相：所谓清流，不是靠时代赐予，而是靠【不靠着】的姿态日复一日撑起。最终留下一句振聋发聩的呐喊——【宁鸣而死，不默而生】。</itunes:summary>
+      <itunes:duration>00:05:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-663924.mp3" length="2764426" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
