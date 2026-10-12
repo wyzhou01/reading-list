@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 04:45:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 06:18:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34135,6 +34135,17 @@
       <itunes:duration>00:03:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-bffb97.mp3" length="1885040" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《荒野求生：面对冰封的海洋》 · 完整版 · 荒野求生：面对冰封的海洋(1) · 完整讲读</title>
+      <description>《荒野求生：面对冰封的海洋》记录了贝尔·格里尔斯带领五人硬底橡皮艇，在零下几十度的北大西洋最北海域，从英国一路划到北极圈边缘，全程无外援的真实经历。这本书并非讲述如何在荒野中活下来，而是揭示冒险背后更深的主题：领导力不是被追随，而是让每个人都成为领导者；真正的勇敢不是无所畏惧，而是明知道恐惧依然选择向前；冒险的真正终点不是登顶，而是带着所有人平安归来。贝尔用九千六百公里的冰海航程，回答了一个朴素的问题——人为什么要在明知可能丧命的时刻，依然选择出发？因为梦想值得守护，朋友值得交付后背，家人值得平安归来。</description>
+      <pubDate>Mon, 12 Oct 2026 06:18:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-ba0abf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《荒野求生：面对冰封的海洋》记录了贝尔·格里尔斯带领五人硬底橡皮艇，在零下几十度的北大西洋最北海域，从英国一路划到北极圈边缘，全程无外援的真实经历。这本书并非讲述如何在荒野中活下来，而是揭示冒险背后更深的主题：领导力不是被追随，而是让每个人都成为领导者；真正的勇敢不是无所畏惧，而是明知道恐惧依然选择向前；冒险的真正终点不是登顶，而是带着所有人平安归来。贝尔用九千六百公里的冰海航程，回答了一个朴素的问题——人为什么要在明知可能丧命的时刻，依然选择出发？因为梦想值得守护，朋友值得交付后背，家人值得平安归来。</itunes:summary>
+      <itunes:duration>00:04:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-ba0abf.mp3" length="1942718" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
