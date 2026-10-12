@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 09:51:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 09:58:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34421,6 +34421,17 @@
       <itunes:duration>00:06:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-c23684.mp3" length="2994721" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《祸心》 · 完整版 · 祸心 · 完整讲读</title>
+      <description>钢琴老师何桑被迫嫁给豪门陆彦回，以婚姻换取哥哥的性命与一场陈年血债的和解。这场先婚后爱的婚姻，却被陆彦回的冷漠、暴力与一段小言之死的真相撕裂，何桑在冷暴力与屈辱里熬过漫长的上卷。直到下卷真相层层剥开，她与陆彦回才意识到，他们彼此恨错了人，那笔血债真正的源头，是两代人的旧伤痕与家族恩怨。最终在番外山顶九百九十九朵玫瑰的补办仪式上，两人完成了一场迟到的和解，从交易走向救赎，从恨走向爱。</description>
+      <pubDate>Mon, 12 Oct 2026 09:58:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-4e3486</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>钢琴老师何桑被迫嫁给豪门陆彦回，以婚姻换取哥哥的性命与一场陈年血债的和解。这场先婚后爱的婚姻，却被陆彦回的冷漠、暴力与一段小言之死的真相撕裂，何桑在冷暴力与屈辱里熬过漫长的上卷。直到下卷真相层层剥开，她与陆彦回才意识到，他们彼此恨错了人，那笔血债真正的源头，是两代人的旧伤痕与家族恩怨。最终在番外山顶九百九十九朵玫瑰的补办仪式上，两人完成了一场迟到的和解，从交易走向救赎，从恨走向爱。</itunes:summary>
+      <itunes:duration>00:04:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-4e3486.mp3" length="1948987" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
