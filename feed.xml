@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 12:36:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 12:43:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34649,6 +34649,17 @@
       <itunes:duration>00:03:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-078e0b.mp3" length="1493830" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《平常的恶》 · 完整版 · 平常的恶 · 完整讲读</title>
+      <description>《平常的恶》是施克莱对自由主义根基的重新发掘。她从蒙田那里接过了把残忍视为诸恶之首的判断，并把它扩展为一种政治哲学：恐惧的自由主义主张，公共秩序的首要任务不是实现某种宏大正义，而是消除人对人的恐惧。这一立场要求对残忍、虚伪、势利、背叛、厌世五种平常之恶进行排序，并通过严守言辞与行为之间的一致性，构造一个受害者能够真正站起来的公共生活空间。这本书为每一个想要认真对待自由的人，提供了当代世界最稀缺、也最值得追求的那种自控。</description>
+      <pubDate>Mon, 12 Oct 2026 12:43:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-53570a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《平常的恶》是施克莱对自由主义根基的重新发掘。她从蒙田那里接过了把残忍视为诸恶之首的判断，并把它扩展为一种政治哲学：恐惧的自由主义主张，公共秩序的首要任务不是实现某种宏大正义，而是消除人对人的恐惧。这一立场要求对残忍、虚伪、势利、背叛、厌世五种平常之恶进行排序，并通过严守言辞与行为之间的一致性，构造一个受害者能够真正站起来的公共生活空间。这本书为每一个想要认真对待自由的人，提供了当代世界最稀缺、也最值得追求的那种自控。</itunes:summary>
+      <itunes:duration>00:05:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-53570a.mp3" length="2421281" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
