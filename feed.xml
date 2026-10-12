@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 18:33:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 18:35:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35056,6 +35056,17 @@
       <itunes:duration>00:02:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-74e244.mp3" length="1348380" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《温柔之歌》 · 完整版 · 温柔之歌 · 完整讲读</title>
+      <description>《温柔之歌》是法国作家蕾拉·斯利玛尼二零一六年的龚古尔奖获奖作品。小说以巴黎一桩真实保姆杀婴案为切口，用冷峻克制的笔触剖析了一对中产夫妇与底层保姆路易丝之间看似温情、实则剥削的雇佣关系。路易丝将【被需要】当作自己最后的尊严，她越完美越恐惧被替代；米莉亚姆则在与保姆的对照中照见自己被母职吞噬的失重人生。蕾拉没有给出道德判断，她只让我们凝视——凝视温柔的另一面，是如何一步步变成无法挽回的暴力。</description>
+      <pubDate>Mon, 12 Oct 2026 18:35:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-304f79</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《温柔之歌》是法国作家蕾拉·斯利玛尼二零一六年的龚古尔奖获奖作品。小说以巴黎一桩真实保姆杀婴案为切口，用冷峻克制的笔触剖析了一对中产夫妇与底层保姆路易丝之间看似温情、实则剥削的雇佣关系。路易丝将【被需要】当作自己最后的尊严，她越完美越恐惧被替代；米莉亚姆则在与保姆的对照中照见自己被母职吞噬的失重人生。蕾拉没有给出道德判断，她只让我们凝视——凝视温柔的另一面，是如何一步步变成无法挽回的暴力。</itunes:summary>
+      <itunes:duration>00:03:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-304f79.mp3" length="1569898" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
