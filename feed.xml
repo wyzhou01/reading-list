@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 09:33:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 09:40:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34399,6 +34399,17 @@
       <itunes:duration>00:06:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-bfcf00.mp3" length="2979257" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《银河帝国：帝国三部曲·繁星若尘》 · 完整版 · 银河帝国：帝国三部曲·繁星若尘 · 完整讲读</title>
+      <description>《繁星若尘》是阿西莫夫银河帝国系列帝国三部曲的首部。地球大学毕业生拜伦·法里尔从一颗辐射弹的刺杀之夜起，被卷入父亲领导的反泰伦人地下组织。他与地下领袖琼迪一路辗转至罗地亚星，遇上了伪装成昏庸傀儡、实为二十年秘密反抗者总督的欣里克五世。最终他发现，反抗的终点不是推翻一个暴君，而是建立一种连革命者自己都不会变成新暴君的制度——正如欣里克背诵出的那份古老宪法序言所说，由【人民】自己来治理自己。</description>
+      <pubDate>Mon, 12 Oct 2026 09:40:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-119c99</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《繁星若尘》是阿西莫夫银河帝国系列帝国三部曲的首部。地球大学毕业生拜伦·法里尔从一颗辐射弹的刺杀之夜起，被卷入父亲领导的反泰伦人地下组织。他与地下领袖琼迪一路辗转至罗地亚星，遇上了伪装成昏庸傀儡、实为二十年秘密反抗者总督的欣里克五世。最终他发现，反抗的终点不是推翻一个暴君，而是建立一种连革命者自己都不会变成新暴君的制度——正如欣里克背诵出的那份古老宪法序言所说，由【人民】自己来治理自己。</itunes:summary>
+      <itunes:duration>00:03:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-119c99.mp3" length="1584109" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
