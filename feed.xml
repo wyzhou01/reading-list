@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 06:53:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 07:05:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34201,6 +34201,17 @@
       <itunes:duration>00:03:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-432c03.mp3" length="1821092" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《失忆的爱丽丝》 · 完整版 · 失忆的爱丽丝 · 完整讲读</title>
+      <description>澳大利亚畅销书作家莉安·莫利亚提的长篇小说。二十九岁的爱丽丝在健身房摔倒后失忆，醒来却已是三十九岁——她已是三个孩子的母亲，与丈夫尼克、姐姐伊丽莎白的关系都已面目全非。她用二十九岁的心重新审视三十九岁的生活，也被三十九岁的记忆慢慢唤醒。最终，她想起了一切：自己曾是如何从一个温柔的孕妇，变成连自己都嫌弃的刻薄女人；闺蜜是如何反目；丈夫是如何从【着迷得要命】变成看ta如看炸弹的陌生人。莫利亚提撕开的，是婚姻里最残忍的那一层——时间才是真正的第三者，它比任何情人都残忍，因为它走的时候，你甚至不知道发生了什么。</description>
+      <pubDate>Mon, 12 Oct 2026 07:05:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-e8f5c8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>澳大利亚畅销书作家莉安·莫利亚提的长篇小说。二十九岁的爱丽丝在健身房摔倒后失忆，醒来却已是三十九岁——她已是三个孩子的母亲，与丈夫尼克、姐姐伊丽莎白的关系都已面目全非。她用二十九岁的心重新审视三十九岁的生活，也被三十九岁的记忆慢慢唤醒。最终，她想起了一切：自己曾是如何从一个温柔的孕妇，变成连自己都嫌弃的刻薄女人；闺蜜是如何反目；丈夫是如何从【着迷得要命】变成看ta如看炸弹的陌生人。莫利亚提撕开的，是婚姻里最残忍的那一层——时间才是真正的第三者，它比任何情人都残忍，因为它走的时候，你甚至不知道发生了什么。</itunes:summary>
+      <itunes:duration>00:09:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-e8f5c8.mp3" length="4644406" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
