@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 11:31:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 11:39:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34550,6 +34550,17 @@
       <itunes:duration>00:06:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-d071fe.mp3" length="3036099" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《清流文化与唐帝国》 · 完整版 · 清流文化与唐帝国_(未名中国史丛刊) · 完整讲读</title>
+      <description>陆扬在《清流文化与唐帝国》中以八至十世纪的政治结构变迁为骨架，重新审视唐后期的皇帝权威与清流文化两大命题。他首先论证了德宗以降形成的制度化皇权，把内廷塑造为与外朝平行的决策系统，宦官机构从而获得了物质性的正当性；随后借助新出墓志与科举史料，揭示出清流群体如何通过词臣经历、文人婚宦网络以及进士身份构建起封闭的文化再生产系统；最后通过冯道的个案，把晚唐与五代接续为一个连贯的文化转型期，提示出清流身份的真正力量恰在巨变时代方彻底爆发。全书的史学方法也由此出发：把墓志视作带修辞意图的史源，把零碎材料当作还原书写动机的依据，由此构筑一种对官方叙事的批判性解读。</description>
+      <pubDate>Mon, 12 Oct 2026 11:38:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-d92c60</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>陆扬在《清流文化与唐帝国》中以八至十世纪的政治结构变迁为骨架，重新审视唐后期的皇帝权威与清流文化两大命题。他首先论证了德宗以降形成的制度化皇权，把内廷塑造为与外朝平行的决策系统，宦官机构从而获得了物质性的正当性；随后借助新出墓志与科举史料，揭示出清流群体如何通过词臣经历、文人婚宦网络以及进士身份构建起封闭的文化再生产系统；最后通过冯道的个案，把晚唐与五代接续为一个连贯的文化转型期，提示出清流身份的真正力量恰在巨变时代方彻底爆发。全书的史学方法也由此出发：把墓志视作带修辞意图的史源，把零碎材料当作还原书写动机的依据，由此构筑一种对官方叙事的批判性解读。</itunes:summary>
+      <itunes:duration>00:04:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-d92c60.mp3" length="2212302" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
