@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 18:42:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 18:45:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35089,6 +35089,17 @@
       <itunes:duration>00:03:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-9a0cb1.mp3" length="1518907" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《九州·龙痕》 · 完整版 · 九州·龙痕_-_唐缺 · 完整讲读</title>
+      <description>《九州·龙痕》是唐缺笔下一部以异族兵器师为主角的九州奇幻长篇。围绕龙渊阁的三条铁律——没有人见过真的龙，没有人能证明龙的存在，没有人能证明龙的不存在——一群异族孤儿在华族老师收养下终生追寻龙的真相。当师徒传承被野心吞噬，便演变成弑师的血祭；当异族在人类九州无法立足，便只能躲进地下抹掉自己的脸。侏儒夸父弑师铸兵，立志再造苍银之月；秦无意追踪五十年，只为借毁灭完成重生。全书以多重视角独白与进行时交织，把异族在人类九州的隐秘挣扎、师徒传承中最幽暗的背叛，以及龙这一九州终极未解之谜所引发的全部野心，一层层剥开。龙的真相从未现身，可龙的痕迹，已经刻进了每一个被龙改变过命运的人身上，且永远无法愈合。</description>
+      <pubDate>Mon, 12 Oct 2026 18:45:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-a03fdb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《九州·龙痕》是唐缺笔下一部以异族兵器师为主角的九州奇幻长篇。围绕龙渊阁的三条铁律——没有人见过真的龙，没有人能证明龙的存在，没有人能证明龙的不存在——一群异族孤儿在华族老师收养下终生追寻龙的真相。当师徒传承被野心吞噬，便演变成弑师的血祭；当异族在人类九州无法立足，便只能躲进地下抹掉自己的脸。侏儒夸父弑师铸兵，立志再造苍银之月；秦无意追踪五十年，只为借毁灭完成重生。全书以多重视角独白与进行时交织，把异族在人类九州的隐秘挣扎、师徒传承中最幽暗的背叛，以及龙这一九州终极未解之谜所引发的全部野心，一层层剥开。龙的真相从未现身，可龙的痕迹，已经刻进了每一个被龙改变过命运的人身上，且永远无法愈合。</itunes:summary>
+      <itunes:duration>00:03:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-a03fdb.mp3" length="1857036" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
