@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 20:04:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 20:26:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35298,6 +35298,17 @@
       <itunes:duration>00:02:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-c19a7c.mp3" length="1200422" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《十三经说略》 · 完整版 · 十三经说略 · 完整讲读</title>
+      <description>《十三经说略》由二十余位专治一经的学者分篇执笔，从《周易》《尚书》一路到《尔雅》，逐一交代每一部经典的成书年代、版本流传、历代注疏与核心争议。它回答的不是【怎么读经】，而是【在中国读书为什么绕不开经】：从【六经】到《五经》、从《十二经》到《十三经》，是一部被秦火、科举、道统竞争、帝王御批层层筛选与重塑的经典史。本书既能作为读经的入门指南，也是看清中国学术文化流变的那把总钥匙。</description>
+      <pubDate>Mon, 12 Oct 2026 20:26:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-b52051</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《十三经说略》由二十余位专治一经的学者分篇执笔，从《周易》《尚书》一路到《尔雅》，逐一交代每一部经典的成书年代、版本流传、历代注疏与核心争议。它回答的不是【怎么读经】，而是【在中国读书为什么绕不开经】：从【六经】到《五经》、从《十二经》到《十三经》，是一部被秦火、科举、道统竞争、帝王御批层层筛选与重塑的经典史。本书既能作为读经的入门指南，也是看清中国学术文化流变的那把总钥匙。</itunes:summary>
+      <itunes:duration>00:04:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-b52051.mp3" length="1924328" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
