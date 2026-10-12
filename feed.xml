@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 03:14:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 03:27:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34025,6 +34025,17 @@
       <itunes:duration>00:03:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-5a3df8.mp3" length="1554016" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《在正确与正确之间（中国故事）》 · 完整版 · 在正确与正确之间（中国故事）_-_赵汀阳_&amp;_郑也夫_&amp;_阿摩斯•奥兹等 · 完整讲读</title>
+      <description>本书是几位当代中国与海外知识分子的对望集:赵薇追问坏世界为何人人共谋,郑也夫诊断焦虑与无聊如何从孩童席卷至官员,阿摩斯·奥兹在正确与正确之间寻找中东和平的可能,贾樟柯回忆县城街头的物质奇迹与户籍死结,加藤嘉一怀念冷战时代尚未被物质主义吞没的理想主义。他们不约而同指向一个事实:我们活在一个能变魔术般造出洗衣机、却拒绝给人精神骨骼的时代。坏世界的人人共谋、焦虑与无聊的蔓延、正确与正确之间的寸步难行、物质魔术与制度死结的反差、理想主义的失落——五块拼图合在一起,呈现了一个坏得够坏的真实世界的样貌,以及每一个身处其中的人,可以从哪一件具体的小事开始,做一个稍微不那么共谋的人。</description>
+      <pubDate>Mon, 12 Oct 2026 03:27:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-755fb3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是几位当代中国与海外知识分子的对望集:赵薇追问坏世界为何人人共谋,郑也夫诊断焦虑与无聊如何从孩童席卷至官员,阿摩斯·奥兹在正确与正确之间寻找中东和平的可能,贾樟柯回忆县城街头的物质奇迹与户籍死结,加藤嘉一怀念冷战时代尚未被物质主义吞没的理想主义。他们不约而同指向一个事实:我们活在一个能变魔术般造出洗衣机、却拒绝给人精神骨骼的时代。坏世界的人人共谋、焦虑与无聊的蔓延、正确与正确之间的寸步难行、物质魔术与制度死结的反差、理想主义的失落——五块拼图合在一起,呈现了一个坏得够坏的真实世界的样貌,以及每一个身处其中的人,可以从哪一件具体的小事开始,做一个稍微不那么共谋的人。</itunes:summary>
+      <itunes:duration>00:02:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-755fb3.mp3" length="1304494" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
