@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 12:30:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 12:36:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34638,6 +34638,17 @@
       <itunes:duration>00:05:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-2316bf.mp3" length="2428386" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《身体不说谎》 · 完整版 · 身体不说谎 · 完整讲读</title>
+      <description>《身体不说谎》是瑞士心理学家爱丽丝·米勒关于童年情感创伤对身体影响的核心著作。她指出，童年被情感忽视或虐待的孩子，长大后必须压抑全部真实感受才能勉强活成道德要求的样子，而这种压抑不会消失，只会以慢性病、重症、早逝或代际暴力的形式一次次回来讨债。第四诫——孝敬父母——是这条创伤链条最深的遮羞布，它以内疚与威胁将受害者变成永世的债务人。米勒的解药不是原谅，而是觉察：在一位知情见证者的偏心陪伴下，让身体里那个被压抑的孩子终于被看见、被听见，身体的病痛才会停止它的呼喊。这本书献给每一个用一生在替童年还债的人。</description>
+      <pubDate>Mon, 12 Oct 2026 12:36:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-078e0b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《身体不说谎》是瑞士心理学家爱丽丝·米勒关于童年情感创伤对身体影响的核心著作。她指出，童年被情感忽视或虐待的孩子，长大后必须压抑全部真实感受才能勉强活成道德要求的样子，而这种压抑不会消失，只会以慢性病、重症、早逝或代际暴力的形式一次次回来讨债。第四诫——孝敬父母——是这条创伤链条最深的遮羞布，它以内疚与威胁将受害者变成永世的债务人。米勒的解药不是原谅，而是觉察：在一位知情见证者的偏心陪伴下，让身体里那个被压抑的孩子终于被看见、被听见，身体的病痛才会停止它的呼喊。这本书献给每一个用一生在替童年还债的人。</itunes:summary>
+      <itunes:duration>00:03:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-078e0b.mp3" length="1493830" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
