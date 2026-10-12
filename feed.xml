@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 18:27:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 18:29:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35034,6 +35034,17 @@
       <itunes:duration>00:03:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-b56ee3.mp3" length="1596230" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《渡鸦之影·卷一：血歌》 · 完整版 · 渡鸦之影_01.血歌 · 完整讲读</title>
+      <description>《渡鸦之影·血歌》是英国作家安东尼·雷恩的处女作，也是当代军事奇幻的标杆之作。维林·艾尔·索纳，一个十岁被父亲送进神秘宗会【第六宗】的北境蛮族孩子，凭着一柄长剑、一种名为【血歌】的神秘天赋和一种不肯泯灭的人性，从帝国的敌人一路杀成了帝国的【希望杀手】。本书以帝国史官佛尼尔斯的押送记录为框架，讲述维林被押往孤岛进行决斗之前的三十年——从被父亲抛弃在雾中的早晨，到第一次杀人的夜晚，到与最好的朋友决裂，到在荒漠中用血歌唱出第一句真正属于人的歌。雷恩抛出一个冷峻的问题：当一个被帝国视作异类的人走到了拯救帝国的位置，他该属于哪一边？答案藏在更深的谜里——血歌的背后不是信仰，而是一句谎言；但就算知道是谎言，你是否依然愿意为某个具体的人把命豁出去？</description>
+      <pubDate>Mon, 12 Oct 2026 18:29:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-cfe33e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《渡鸦之影·血歌》是英国作家安东尼·雷恩的处女作，也是当代军事奇幻的标杆之作。维林·艾尔·索纳，一个十岁被父亲送进神秘宗会【第六宗】的北境蛮族孩子，凭着一柄长剑、一种名为【血歌】的神秘天赋和一种不肯泯灭的人性，从帝国的敌人一路杀成了帝国的【希望杀手】。本书以帝国史官佛尼尔斯的押送记录为框架，讲述维林被押往孤岛进行决斗之前的三十年——从被父亲抛弃在雾中的早晨，到第一次杀人的夜晚，到与最好的朋友决裂，到在荒漠中用血歌唱出第一句真正属于人的歌。雷恩抛出一个冷峻的问题：当一个被帝国视作异类的人走到了拯救帝国的位置，他该属于哪一边？答案藏在更深的谜里——血歌的背后不是信仰，而是一句谎言；但就算知道是谎言，你是否依然愿意为某个具体的人把命豁出去？</itunes:summary>
+      <itunes:duration>00:04:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-cfe33e.mp3" length="2207704" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
