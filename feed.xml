@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 19:02:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 19:05:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35166,6 +35166,17 @@
       <itunes:duration>00:03:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-a70f0a.mp3" length="1822764" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《玻璃球游戏》 · 完整版 · 玻璃球游戏（译文名著精选） · 完整讲读</title>
+      <description>赫尔曼·黑塞的《玻璃球游戏》借一个未来精神王国的寓言，讲述了游戏大师约瑟夫·克乃西特从登顶到辞职再到沉入河底的一生。表面是写乌托邦实验的失败，内里是在追问每一个现代人都逃不掉的问题：当精神与生命、沉思与服务发生冲突时，人究竟该站在哪一极？黑塞没有给出非此即彼的答案，他借【他必兴旺，我必衰颓】这一东方信条，给出了【双极】的解法——真正的精神贵族，从不害怕下台，也不害怕沉入具体而微的人间。</description>
+      <pubDate>Mon, 12 Oct 2026 19:05:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-abfafb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>赫尔曼·黑塞的《玻璃球游戏》借一个未来精神王国的寓言，讲述了游戏大师约瑟夫·克乃西特从登顶到辞职再到沉入河底的一生。表面是写乌托邦实验的失败，内里是在追问每一个现代人都逃不掉的问题：当精神与生命、沉思与服务发生冲突时，人究竟该站在哪一极？黑塞没有给出非此即彼的答案，他借【他必兴旺，我必衰颓】这一东方信条，给出了【双极】的解法——真正的精神贵族，从不害怕下台，也不害怕沉入具体而微的人间。</itunes:summary>
+      <itunes:duration>00:04:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-abfafb.mp3" length="2337271" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
