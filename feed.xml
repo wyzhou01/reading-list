@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 06:38:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 06:45:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34179,6 +34179,17 @@
       <itunes:duration>00:04:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-c3c522.mp3" length="1947315" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《日语阅读精选50篇》 · 完整版 · 日语阅读精选50篇 · 完整讲读</title>
+      <description>《日语阅读精选五十篇》以二零零五年前后日本报刊为底本，五十篇文章覆盖节能、择校、诈骗、亲情、辍学等社会万象，难度对接日语能力测试二级到一级、J.TEST A-D 级。本文以五课为切片：小冰箱十年被算计、择校制挤垮邻校、鼻塞电话险被误认为诈骗、重点高中理科生辍学追问【为何要这样活】，拼出平成中后期日本社会的核心命题——制度越精密，人心越荒凉；中产叙事越稳固，年轻人越失重。读这本书，练的不只是 N1 读解，更是【拆解日本社会，也顺手拆解自己生活】的眼睛。</description>
+      <pubDate>Mon, 12 Oct 2026 06:45:46 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-9eba61</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《日语阅读精选五十篇》以二零零五年前后日本报刊为底本，五十篇文章覆盖节能、择校、诈骗、亲情、辍学等社会万象，难度对接日语能力测试二级到一级、J.TEST A-D 级。本文以五课为切片：小冰箱十年被算计、择校制挤垮邻校、鼻塞电话险被误认为诈骗、重点高中理科生辍学追问【为何要这样活】，拼出平成中后期日本社会的核心命题——制度越精密，人心越荒凉；中产叙事越稳固，年轻人越失重。读这本书，练的不只是 N1 读解，更是【拆解日本社会，也顺手拆解自己生活】的眼睛。</itunes:summary>
+      <itunes:duration>00:04:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-9eba61.mp3" length="2312194" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
