@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 04:10:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 04:16:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34080,6 +34080,17 @@
       <itunes:duration>00:05:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-71ebbc.mp3" length="2448449" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《沉疴遍地》 · 完整版 · 沉疴遍地 · 完整讲读</title>
+      <description>托尼·朱特在2008年金融危机后写下这本诊断西方社会的书：三十年来对市场、私利和物质主义的盲目崇拜，让西方民主国家陷入&apos;私人富有、公众泥坑&apos;的病态；左派丧失了道德语言和替代想象，社会民主主义既在美国被遗忘、也在欧洲失语。朱特呼吁重新思考国家的角色，用道德而非经济主义的语言重塑公共生活，捍卫集体行动的正当性。</description>
+      <pubDate>Mon, 12 Oct 2026 04:16:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-6879d0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>托尼·朱特在2008年金融危机后写下这本诊断西方社会的书：三十年来对市场、私利和物质主义的盲目崇拜，让西方民主国家陷入&apos;私人富有、公众泥坑&apos;的病态；左派丧失了道德语言和替代想象，社会民主主义既在美国被遗忘、也在欧洲失语。朱特呼吁重新思考国家的角色，用道德而非经济主义的语言重塑公共生活，捍卫集体行动的正当性。</itunes:summary>
+      <itunes:duration>00:02:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-6879d0.mp3" length="1335423" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
