@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 01:16:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 01:23:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33904,6 +33904,17 @@
       <itunes:duration>00:20:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-3944f7.mp3" length="19735341" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《象与骑象人：幸福的假设》 · 完整版 · 象与骑象人：幸福的假设 · 完整讲读</title>
+      <description>《象与骑象人：幸福的假设》是积极心理学家乔纳森·海特的代表作。他用大象比喻情感、直觉与自动化的心理系统，用骑象人比喻理性、反思与自觉控制，指出人类心理是分裂的协作体。书中贯穿十个古老假设——从互惠、爱、依恋、创伤后成长，到美德、灵性与人生意义——并以现代心理学研究逐一验证。海特最终给出的答案是：幸福不是被追求的终点，而是爱、工作、与超越自我的联结三者共同浮现的副产品；幸福之道在中庸，而中庸来自于对人性分裂本性的接纳。这是一本让古老智慧与现代科学彼此对话的书，也是一本让每个在生活中挣扎的人，重新学会与自己这头大象共处的书。</description>
+      <pubDate>Mon, 12 Oct 2026 01:23:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-0b8468</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《象与骑象人：幸福的假设》是积极心理学家乔纳森·海特的代表作。他用大象比喻情感、直觉与自动化的心理系统，用骑象人比喻理性、反思与自觉控制，指出人类心理是分裂的协作体。书中贯穿十个古老假设——从互惠、爱、依恋、创伤后成长，到美德、灵性与人生意义——并以现代心理学研究逐一验证。海特最终给出的答案是：幸福不是被追求的终点，而是爱、工作、与超越自我的联结三者共同浮现的副产品；幸福之道在中庸，而中庸来自于对人性分裂本性的接纳。这是一本让古老智慧与现代科学彼此对话的书，也是一本让每个在生活中挣扎的人，重新学会与自己这头大象共处的书。</itunes:summary>
+      <itunes:duration>00:18:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-0b8468.mp3" length="18080685" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
