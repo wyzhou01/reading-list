@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 16:24:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 16:28:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34814,6 +34814,17 @@
       <itunes:duration>00:05:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-d77790.mp3" length="2519084" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《小说灯笼》 · 完整版 · 小说灯笼 · 完整讲读</title>
+      <description>《小说灯笼》是太宰治在一九四零到一九四四年间写下的短篇集，正值日本帝国最狂飙的时期，也是他一生中相对温和明朗的一瞬。全书分喧哗、幻灭、独白、人间四辑，以轻盈笔触描绘街巷小民、兄妹家庭、作家自嘲与战争阴影下的私人情感。在举国高喊必胜的年代，太宰治坚持以个人钟爱为最高写作标准，留下一盏摇晃却温暖的纸灯，照亮毁灭前夕那些仍想好好活着的普通人。</description>
+      <pubDate>Mon, 12 Oct 2026 16:28:46 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-87aaf3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《小说灯笼》是太宰治在一九四零到一九四四年间写下的短篇集，正值日本帝国最狂飙的时期，也是他一生中相对温和明朗的一瞬。全书分喧哗、幻灭、独白、人间四辑，以轻盈笔触描绘街巷小民、兄妹家庭、作家自嘲与战争阴影下的私人情感。在举国高喊必胜的年代，太宰治坚持以个人钟爱为最高写作标准，留下一盏摇晃却温暖的纸灯，照亮毁灭前夕那些仍想好好活着的普通人。</itunes:summary>
+      <itunes:duration>00:02:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-87aaf3.mp3" length="1146924" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
