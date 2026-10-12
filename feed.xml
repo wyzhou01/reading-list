@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 16:01:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 16:06:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34781,6 +34781,17 @@
       <itunes:duration>00:04:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-cbc218.mp3" length="1964452" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《给理想一点时间：精选集》 · 完整版 · 给理想一点时间精选集 · 完整讲读</title>
+      <description>《给理想一点时间精选集》收录葛剑雄、徐贲、柴静、刘瑜、张鸣等当代公共知识分子的三十余篇代表文章，从历史、哲学、新闻与文化比较的多重视角，集中追问一个时代的核心命题——当信仰塌陷、尊严缺失、社会滑向互害，个人与共同体该如何重建价值。本书不提供廉价答案，而是用冷静的笔触，把中国人在信仰、尊严、公民素质、教育、青春、历史记忆等维度上的困境一一摆在桌上。它借一个英国人在西安街头给流浪者发饭的故事开场，借一个德国小镇的细节收尾，传递一种克制的信念——文明的起点，从来都是一双递出去的、不带评判的手。给理想一点时间，其实是给【配得上理想的我们】一点时间。</description>
+      <pubDate>Mon, 12 Oct 2026 16:06:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-6e74ee</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《给理想一点时间精选集》收录葛剑雄、徐贲、柴静、刘瑜、张鸣等当代公共知识分子的三十余篇代表文章，从历史、哲学、新闻与文化比较的多重视角，集中追问一个时代的核心命题——当信仰塌陷、尊严缺失、社会滑向互害，个人与共同体该如何重建价值。本书不提供廉价答案，而是用冷静的笔触，把中国人在信仰、尊严、公民素质、教育、青春、历史记忆等维度上的困境一一摆在桌上。它借一个英国人在西安街头给流浪者发饭的故事开场，借一个德国小镇的细节收尾，传递一种克制的信念——文明的起点，从来都是一双递出去的、不带评判的手。给理想一点时间，其实是给【配得上理想的我们】一点时间。</itunes:summary>
+      <itunes:duration>00:02:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-6e74ee.mp3" length="1034911" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
