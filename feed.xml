@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 16:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 17:19:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34869,6 +34869,17 @@
       <itunes:duration>00:03:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-aa147d.mp3" length="1527684" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《正能量》 · 完整版 · 正能量 · 完整讲读</title>
+      <description>《正能量》是一本以英国心理学家理查德·怀斯曼为主轴的实操型心理学读物,围绕威廉·詹姆斯百年前提出的表现原理展开。书中用大量对照实验证明,情绪并非行为的因,而是行为的果——先让身体动起来,大脑会自动为新的情绪补上一段叙事。怀斯曼把这一原理拆解为普通人随时可用的小动作:用非惯用手吃饭可以少摄入两成热量,握紧拳头可以扛住戒烟冲动,并肩而坐可以让亲密感快速升温,递一杯热茶可以让谈判对手更易让步。全书贯穿一个反常识的结论:改变不必从想法开始,先动手脚,大脑会自动接管。这是一本为焦虑时代量身定做的自助手册,它把改变的成本压到了肌肉的尺度。</description>
+      <pubDate>Mon, 12 Oct 2026 17:19:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-4d0ed1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《正能量》是一本以英国心理学家理查德·怀斯曼为主轴的实操型心理学读物,围绕威廉·詹姆斯百年前提出的表现原理展开。书中用大量对照实验证明,情绪并非行为的因,而是行为的果——先让身体动起来,大脑会自动为新的情绪补上一段叙事。怀斯曼把这一原理拆解为普通人随时可用的小动作:用非惯用手吃饭可以少摄入两成热量,握紧拳头可以扛住戒烟冲动,并肩而坐可以让亲密感快速升温,递一杯热茶可以让谈判对手更易让步。全书贯穿一个反常识的结论:改变不必从想法开始,先动手脚,大脑会自动接管。这是一本为焦虑时代量身定做的自助手册,它把改变的成本压到了肌肉的尺度。</itunes:summary>
+      <itunes:duration>00:06:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-4d0ed1.mp3" length="3034845" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
