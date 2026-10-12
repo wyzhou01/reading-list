@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 11:39:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 11:49:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34561,6 +34561,17 @@
       <itunes:duration>00:04:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-d92c60.mp3" length="2212302" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《北落师门》 · 完整版 · 北落师门_-_侧侧轻寒 · 完整讲读</title>
+      <description>《北落师门》是侧侧轻寒写于二零一四年的古言奇恋。十三岁的少年天子赵祯，在父亲大去、母后垂帘的最冷一夜，于司天监的步天台上遇见来自千年后的女子艾悯。一掌心的温度，让他固执地把自己困在了十三岁的时光里，整整十年。十年后她终于归来，却已准备好离去。与此同时，默默守了他十年的宫人张清远，用一块八岁那年目睹他打碎花瓶时留下的碎瓷片，珍藏了自己的一生。最终艾悯在烟花中消失，张清远被追封为温成皇后——温柔的成全，是这本书给所有错位之爱点下的最后一道光。</description>
+      <pubDate>Mon, 12 Oct 2026 11:49:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-ef3927</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《北落师门》是侧侧轻寒写于二零一四年的古言奇恋。十三岁的少年天子赵祯，在父亲大去、母后垂帘的最冷一夜，于司天监的步天台上遇见来自千年后的女子艾悯。一掌心的温度，让他固执地把自己困在了十三岁的时光里，整整十年。十年后她终于归来，却已准备好离去。与此同时，默默守了他十年的宫人张清远，用一块八岁那年目睹他打碎花瓶时留下的碎瓷片，珍藏了自己的一生。最终艾悯在烟花中消失，张清远被追封为温成皇后——温柔的成全，是这本书给所有错位之爱点下的最后一道光。</itunes:summary>
+      <itunes:duration>00:07:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-ef3927.mp3" length="3551443" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
