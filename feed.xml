@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 10:38:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 10:46:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34487,6 +34487,17 @@
       <itunes:duration>00:09:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-cbe274.mp3" length="4584220" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《出梁庄记》 · 完整版 · 出梁庄记-梁鸿 · 完整讲读</title>
+      <description>梁鸿的《出梁庄记》, 用两年时间走过西安、南阳、内蒙古、北京、郑州、广州、青岛等地, 追踪从她老家河南梁庄走出的进城打工者。她写下蹬三轮的、卖菜的、进厂的、做传销的、开服装厂的年轻人的肉身处境与精神困境, 写下他们与故乡之间那条既拉不断、又让人活不成的脐带。她不是在控诉, 而是把一个个人从新闻里抠出来, 把名字还给他们, 把眼睛还给他们, 叩问一个最痛的问题, 静水深流, 形成这个民族共同的哀痛, 我们, 愿不愿意低下头去看一眼。</description>
+      <pubDate>Mon, 12 Oct 2026 10:46:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-b8de33</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>梁鸿的《出梁庄记》, 用两年时间走过西安、南阳、内蒙古、北京、郑州、广州、青岛等地, 追踪从她老家河南梁庄走出的进城打工者。她写下蹬三轮的、卖菜的、进厂的、做传销的、开服装厂的年轻人的肉身处境与精神困境, 写下他们与故乡之间那条既拉不断、又让人活不成的脐带。她不是在控诉, 而是把一个个人从新闻里抠出来, 把名字还给他们, 把眼睛还给他们, 叩问一个最痛的问题, 静水深流, 形成这个民族共同的哀痛, 我们, 愿不愿意低下头去看一眼。</itunes:summary>
+      <itunes:duration>00:05:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-b8de33.mp3" length="2412504" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
