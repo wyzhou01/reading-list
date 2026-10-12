@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 00:31:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 00:37:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33838,6 +33838,17 @@
       <itunes:duration>00:19:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-926b35.mp3" length="18450093" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《检察方的罪人》 · 完整版 · 检察方的罪人 · 完整讲读</title>
+      <description>《检察方的罪人》是日本社会派推理作家雫井脩介追问法律与正义边界的小说。资深检察官最上毅为追查十七年前杀害自己视作妹妹的少女的凶手，伪造证据让无辜者顶罪，自己也身陷囹圄。学生冲野启一郎在理想崩塌后辞去检察官职务，投身律师行业。师徒二人隔窗相对，互道对不起与不后悔，留下一个关于追诉时效失效、法治局限与以恶制恶代价的开放式追问。</description>
+      <pubDate>Mon, 12 Oct 2026 00:37:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-054124</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《检察方的罪人》是日本社会派推理作家雫井脩介追问法律与正义边界的小说。资深检察官最上毅为追查十七年前杀害自己视作妹妹的少女的凶手，伪造证据让无辜者顶罪，自己也身陷囹圄。学生冲野启一郎在理想崩塌后辞去检察官职务，投身律师行业。师徒二人隔窗相对，互道对不起与不后悔，留下一个关于追诉时效失效、法治局限与以恶制恶代价的开放式追问。</itunes:summary>
+      <itunes:duration>00:17:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-054124.mp3" length="16337325" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
