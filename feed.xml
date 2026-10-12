@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 03:45:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 04:03:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34058,6 +34058,17 @@
       <itunes:duration>00:06:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-923fc9.mp3" length="3183639" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《无尽之路》 · 完整版 · 无尽之路 · 完整讲读</title>
+      <description>《无尽之路》是苏格兰犯罪小说女王薇儿·麦克德米德的长篇推理代表作。一名叫斯黛芬妮的代笔母亲，带着并非亲生的五岁男孩吉米在芝加哥机场转机时，孩子在闭路电视下被一名伪装成安保人员的陌生男子当众拐走；机场保安为维持程序把她按倒在地并两度使用电棍。斯黛芬妮一路追踪到一处偏僻山区，发现策划绑架的竟是当年替她代孕、却被法律剥夺抚养权的好友斯嘉莱特。在那栋与世隔绝的木屋里，为了夺回已经借出去了五年的孩子，斯黛芬妮亲手割开了斯嘉莱特的喉咙。麦克德米德以跨国代孕、代笔出版、移民机场安检为镜，拷问母爱是血缘还是行为、身份是事实还是叙事、罪与罚之间那条看不见的线，拷问每一个看似自然的现代制度，到底在为谁服务，又在吞噬谁。</description>
+      <pubDate>Mon, 12 Oct 2026 04:02:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-0f7801</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《无尽之路》是苏格兰犯罪小说女王薇儿·麦克德米德的长篇推理代表作。一名叫斯黛芬妮的代笔母亲，带着并非亲生的五岁男孩吉米在芝加哥机场转机时，孩子在闭路电视下被一名伪装成安保人员的陌生男子当众拐走；机场保安为维持程序把她按倒在地并两度使用电棍。斯黛芬妮一路追踪到一处偏僻山区，发现策划绑架的竟是当年替她代孕、却被法律剥夺抚养权的好友斯嘉莱特。在那栋与世隔绝的木屋里，为了夺回已经借出去了五年的孩子，斯黛芬妮亲手割开了斯嘉莱特的喉咙。麦克德米德以跨国代孕、代笔出版、移民机场安检为镜，拷问母爱是血缘还是行为、身份是事实还是叙事、罪与罚之间那条看不见的线，拷问每一个看似自然的现代制度，到底在为谁服务，又在吞噬谁。</itunes:summary>
+      <itunes:duration>00:04:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-0f7801.mp3" length="2205196" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
