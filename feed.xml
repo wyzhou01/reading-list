@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 14:46:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 14:52:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34693,6 +34693,17 @@
       <itunes:duration>00:04:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-51889a.mp3" length="2006248" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《谷歌创业帮》 · 完整版 · 谷歌创业帮 · 完整讲读</title>
+      <description>本书以赵勇、李志飞、林斌、王怀南、郭去疾等xGoogler代表人物为主角，记录了四百多位前谷歌员工从硅谷回到中国，在计算机视觉、自然语言处理、移动互联网、电商、物流、母婴等领域开荒创业的全过程。作者宓群作为亲历者与投资人，提出三大洞察：中国互联网正从美国主导的上半场切换到中国主导的下半场；xGoogler群体的核心竞争力是兼具硅谷前沿技术与本土落地能力的『双栖能力』；颠覆性创新、前瞻视野与制度化的失败许可，构成了他们能够把『未来五年』兑现为商业现实的关键拼图。对于当下的中国创业者而言，这本书既是一份时代样本，也是一份行动指南。</description>
+      <pubDate>Mon, 12 Oct 2026 14:52:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-40eed8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书以赵勇、李志飞、林斌、王怀南、郭去疾等xGoogler代表人物为主角，记录了四百多位前谷歌员工从硅谷回到中国，在计算机视觉、自然语言处理、移动互联网、电商、物流、母婴等领域开荒创业的全过程。作者宓群作为亲历者与投资人，提出三大洞察：中国互联网正从美国主导的上半场切换到中国主导的下半场；xGoogler群体的核心竞争力是兼具硅谷前沿技术与本土落地能力的『双栖能力』；颠覆性创新、前瞻视野与制度化的失败许可，构成了他们能够把『未来五年』兑现为商业现实的关键拼图。对于当下的中国创业者而言，这本书既是一份时代样本，也是一份行动指南。</itunes:summary>
+      <itunes:duration>00:04:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-40eed8.mp3" length="1957764" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
