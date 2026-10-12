@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 16:06:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 16:15:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34792,6 +34792,17 @@
       <itunes:duration>00:02:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-6e74ee.mp3" length="1034911" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《天意》 · 完整版 · 天意 · 完整讲读</title>
+      <description>《天意》是钱莉芳创作的硬科幻历史小说,借韩信、始皇帝、季姜、张良等历史人物的命运,讲述一个被天意裹挟的世界。看似是天人对抗的史诗,实则藏着最颠覆的设定:所谓天意,不过是空间扭曲的物理法则,所谓仙丹,不过是增加人体对空间纹理的黏附力,而飞升的代价,是失去作为人的一切感官与情感,最终化为冰冷的岩石。韩信、始皇帝、季姜、张良,所有的人物都在用一生回答同一个问题:天意难违,还是人定胜天?钱莉芳给出的答案,藏在那两匹向东疾驰的骏马中:天意难违,但向死而生。</description>
+      <pubDate>Mon, 12 Oct 2026 16:15:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-6e8bea</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《天意》是钱莉芳创作的硬科幻历史小说,借韩信、始皇帝、季姜、张良等历史人物的命运,讲述一个被天意裹挟的世界。看似是天人对抗的史诗,实则藏着最颠覆的设定:所谓天意,不过是空间扭曲的物理法则,所谓仙丹,不过是增加人体对空间纹理的黏附力,而飞升的代价,是失去作为人的一切感官与情感,最终化为冰冷的岩石。韩信、始皇帝、季姜、张良,所有的人物都在用一生回答同一个问题:天意难违,还是人定胜天?钱莉芳给出的答案,藏在那两匹向东疾驰的骏马中:天意难违,但向死而生。</itunes:summary>
+      <itunes:duration>00:06:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-6e8bea.mp3" length="2944148" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
