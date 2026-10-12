@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 12:06:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 12:14:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34605,6 +34605,17 @@
       <itunes:duration>00:29:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-9e7758.mp3" length="28524333" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《刷新：重新发现商业与未来》 · 完整版 · 刷新：重新发现商业与未来 · 完整讲读</title>
+      <description>微软第三任首席执行官纳德拉亲述改造这家科技巨头的全过程：他把同理心与成长型思维作为文化复兴的底层操作系统，重新定义了公司使命，砍掉了错误的战略执着，把曾经的敌人变成了合作伙伴，并用一套【信任等式】为人工智能时代的产品划下道德底线。这本书既是一个印度移民的个人成长史，也是一份面向未来的科技公司转型路线图。</description>
+      <pubDate>Mon, 12 Oct 2026 12:13:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-813dd8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>微软第三任首席执行官纳德拉亲述改造这家科技巨头的全过程：他把同理心与成长型思维作为文化复兴的底层操作系统，重新定义了公司使命，砍掉了错误的战略执着，把曾经的敌人变成了合作伙伴，并用一套【信任等式】为人工智能时代的产品划下道德底线。这本书既是一个印度移民的个人成长史，也是一份面向未来的科技公司转型路线图。</itunes:summary>
+      <itunes:duration>00:04:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-813dd8.mp3" length="2149608" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
