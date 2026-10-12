@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 00:37:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 00:43:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33849,6 +33849,17 @@
       <itunes:duration>00:17:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-054124.mp3" length="16337325" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《有匪》 · 完整版 · 有匪_-_Priest【雨浪】（豆瓣9.0） · 完整讲读</title>
+      <description>后昭建元十七年，蜀山四十八寨大当家李瑾容之女周翡，年十四，生性桀骜，因羞辱教习《女诫》之孙先生，被抽得皮开肉绽。同夜，自称谢允之少年携【安平令】夜闯四十八寨，由此揭开尘封二十年之旧案。周翡自此下山，一人一刀，走完从蜀山至金陵之血路，亲历家国倾覆、师门败落、同袍离散之浩劫。书以《破雪刀谱》【无中生有】四字为骨，写周翡如何于乱世中拒绝【卑弱】，不靠父荫，不接夫恩，单凭一柄窄背刀撑起自己一片天。Priest 以此作，写尽少年成长、传承与背离、家国与侠义、女性觉醒与自我证明，铸就中文网文界冷门奇遇型写法之一座里程碑。</description>
+      <pubDate>Mon, 12 Oct 2026 00:42:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-2def4b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>后昭建元十七年，蜀山四十八寨大当家李瑾容之女周翡，年十四，生性桀骜，因羞辱教习《女诫》之孙先生，被抽得皮开肉绽。同夜，自称谢允之少年携【安平令】夜闯四十八寨，由此揭开尘封二十年之旧案。周翡自此下山，一人一刀，走完从蜀山至金陵之血路，亲历家国倾覆、师门败落、同袍离散之浩劫。书以《破雪刀谱》【无中生有】四字为骨，写周翡如何于乱世中拒绝【卑弱】，不靠父荫，不接夫恩，单凭一柄窄背刀撑起自己一片天。Priest 以此作，写尽少年成长、传承与背离、家国与侠义、女性觉醒与自我证明，铸就中文网文界冷门奇遇型写法之一座里程碑。</itunes:summary>
+      <itunes:duration>00:15:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-2def4b.mp3" length="14619693" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
