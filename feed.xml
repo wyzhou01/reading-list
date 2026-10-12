@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 15:17:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 15:28:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34726,6 +34726,17 @@
       <itunes:duration>00:08:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-4314cc.mp3" length="4118613" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《当自我来敲门：构建意识大脑》 · 完整版 · 当自我来敲门：构建意识大脑 · 完整讲读</title>
+      <description>《当自我来敲门》是神经科学家达马西奥关于意识起源的集大成作品。全书以演化生物学为底色，把意识从神秘主义的领地里拽出来，摆在实验室的显微镜下——意识不是突然涌现的奇迹，而是生命为了维持内稳态而演化出的副产品。身体是地基，情绪是砖瓦，感受是房间，自我则是分层构建的最终房客。清醒状态、心智与自我构成意识的铁三角。从单细胞到人类大脑，意识的搭建是一条从未中断的连续线索。达马西奥最终指出，意识的诞生，是生命向冷漠自然的第一次反抗——它让人拥有了意义、价值与文化的可能，也为人类文明的出现提供了生物学的起点。</description>
+      <pubDate>Mon, 12 Oct 2026 15:28:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-9c82ce</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《当自我来敲门》是神经科学家达马西奥关于意识起源的集大成作品。全书以演化生物学为底色，把意识从神秘主义的领地里拽出来，摆在实验室的显微镜下——意识不是突然涌现的奇迹，而是生命为了维持内稳态而演化出的副产品。身体是地基，情绪是砖瓦，感受是房间，自我则是分层构建的最终房客。清醒状态、心智与自我构成意识的铁三角。从单细胞到人类大脑，意识的搭建是一条从未中断的连续线索。达马西奥最终指出，意识的诞生，是生命向冷漠自然的第一次反抗——它让人拥有了意义、价值与文化的可能，也为人类文明的出现提供了生物学的起点。</itunes:summary>
+      <itunes:duration>00:04:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-9c82ce.mp3" length="2313030" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
