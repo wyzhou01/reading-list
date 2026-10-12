@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 18:45:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 18:47:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35100,6 +35100,17 @@
       <itunes:duration>00:03:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-a03fdb.mp3" length="1857036" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《变量：看见中国社会小趋势》 · 完整版 · 变量 · 完整讲读</title>
+      <description>经济学家何帆立下三十年之约,每年用一本书记录中国转型。他提出大树模式取代长河模式,教读者在慢变量中寻找小趋势。书中拆解六大变量:换一副历史感的眼睛、寻找应用场景比死磕核心技术更重要、传统产业老兵穿上新军装绝地反击、城市自下而上的活力正在拱动地表、精明收缩与颜值革命让城市往里长、最后也是最深的一颗种子是普通人正在重建社群。读这本书,不是要你押中哪一条赛道,而是送你一副望远镜,让你在喧嚣中看见真正决定中国未来三十年的那些缓慢而顽强的力量。</description>
+      <pubDate>Mon, 12 Oct 2026 18:47:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-a70dc4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>经济学家何帆立下三十年之约,每年用一本书记录中国转型。他提出大树模式取代长河模式,教读者在慢变量中寻找小趋势。书中拆解六大变量:换一副历史感的眼睛、寻找应用场景比死磕核心技术更重要、传统产业老兵穿上新军装绝地反击、城市自下而上的活力正在拱动地表、精明收缩与颜值革命让城市往里长、最后也是最深的一颗种子是普通人正在重建社群。读这本书,不是要你押中哪一条赛道,而是送你一副望远镜,让你在喧嚣中看见真正决定中国未来三十年的那些缓慢而顽强的力量。</itunes:summary>
+      <itunes:duration>00:03:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-a70dc4.mp3" length="1566555" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
