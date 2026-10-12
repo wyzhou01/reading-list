@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 10:11:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 10:19:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34454,6 +34454,17 @@
       <itunes:duration>00:03:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-101a65.mp3" length="1549836" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《自然社会：自然法与现代道德世界的形成》 · 完整版 · 自然社会：自然法与现代道德世界的形成_(三联文史新论)_-_李猛 · 完整讲读</title>
+      <description>《自然社会》梳理十七世纪欧洲自然法学派的思想革命，揭示一个沉默千年的道德学说如何在十八世纪突然引爆现代世界。李猛从鲁滨逊的孤岛恐惧切入，剖析霍布斯、格老秀斯、洛克如何用自然状态、自然权利、社会契约逐步颠覆亚里士多德【人是政治的动物】的传统，把人从共同体中抽离出来，变成自我保存的独立个体；由此，秩序不再是自然的或神授的，而是人为建构的，革命也第一次获得了哲学依据。这本书的核心论点，是现代自然法学派真正贡献，是为人间秩序开辟了一种全新的道德空间——它把一切既有的统治权都置于个体的同意之上，从而把现代政治改造为一个永远需要辩护、需要不断重建的工程。</description>
+      <pubDate>Mon, 12 Oct 2026 10:19:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-4a33d8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《自然社会》梳理十七世纪欧洲自然法学派的思想革命，揭示一个沉默千年的道德学说如何在十八世纪突然引爆现代世界。李猛从鲁滨逊的孤岛恐惧切入，剖析霍布斯、格老秀斯、洛克如何用自然状态、自然权利、社会契约逐步颠覆亚里士多德【人是政治的动物】的传统，把人从共同体中抽离出来，变成自我保存的独立个体；由此，秩序不再是自然的或神授的，而是人为建构的，革命也第一次获得了哲学依据。这本书的核心论点，是现代自然法学派真正贡献，是为人间秩序开辟了一种全新的道德空间——它把一切既有的统治权都置于个体的同意之上，从而把现代政治改造为一个永远需要辩护、需要不断重建的工程。</itunes:summary>
+      <itunes:duration>00:04:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-4a33d8.mp3" length="2358587" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
