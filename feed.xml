@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 09:58:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 10:05:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34432,6 +34432,17 @@
       <itunes:duration>00:04:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-4e3486.mp3" length="1948987" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《聪明人的一张纸工作整理术：完美图解》 · 完整版 · 聪明人的一张纸工作整理术 · 完整讲读</title>
+      <description>这是一本教你用一张纸解决职场所有难题的整理术指南。作者高桥政史结合丰田、宝洁等大公司的内部方法，提出了以S便笺、16分割笔记、阅读克星法、话题地图、故事型演讲等为核心的整理工具箱。本书主张，真正的思考力不是看你能写出多复杂的方案，而是看你能不能把最核心的事压进一张纸。无论策划、汇报、读书还是开会，本书都提供了从骨架到肉身的完整方法论，帮你在一张纸上完成从假设到沟通的全流程。</description>
+      <pubDate>Mon, 12 Oct 2026 10:05:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-542cd9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>这是一本教你用一张纸解决职场所有难题的整理术指南。作者高桥政史结合丰田、宝洁等大公司的内部方法，提出了以S便笺、16分割笔记、阅读克星法、话题地图、故事型演讲等为核心的整理工具箱。本书主张，真正的思考力不是看你能写出多复杂的方案，而是看你能不能把最核心的事压进一张纸。无论策划、汇报、读书还是开会，本书都提供了从骨架到肉身的完整方法论，帮你在一张纸上完成从假设到沟通的全流程。</itunes:summary>
+      <itunes:duration>00:03:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-542cd9.mp3" length="1808971" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
