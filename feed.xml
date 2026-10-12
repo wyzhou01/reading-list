@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 19:53:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 19:59:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35276,6 +35276,17 @@
       <itunes:duration>00:02:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-045880.mp3" length="1357157" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《包公案——百家公案》 · 完整版 · 包公案－百家公案(简体版)_(BookDNA中国古典丛书) · 完整讲读</title>
+      <description>《百家公案》是明代万历年间书商安遇时编纂的包拯断案故事集，共一百则，把宋元以来散落民间的包拯传说搜集成册。包拯本人是北宋名臣，但本书实质是小说，写妖狐、神判、阴司断案、皇亲伏法、义妇追凶。本书真正想解决的时代痛点是百姓对公正的渴望在现实官场里屡屡落空，于是把这份渴望托付给鬼神、托付给神判、托付给那位黑脸阎罗式的清官。它满足的不是猎奇心，是公平心。一百则故事，串起中国人对正义最朴素的想象。</description>
+      <pubDate>Mon, 12 Oct 2026 19:59:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-673147</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《百家公案》是明代万历年间书商安遇时编纂的包拯断案故事集，共一百则，把宋元以来散落民间的包拯传说搜集成册。包拯本人是北宋名臣，但本书实质是小说，写妖狐、神判、阴司断案、皇亲伏法、义妇追凶。本书真正想解决的时代痛点是百姓对公正的渴望在现实官场里屡屡落空，于是把这份渴望托付给鬼神、托付给神判、托付给那位黑脸阎罗式的清官。它满足的不是猎奇心，是公平心。一百则故事，串起中国人对正义最朴素的想象。</itunes:summary>
+      <itunes:duration>00:03:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-673147.mp3" length="1540223" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
