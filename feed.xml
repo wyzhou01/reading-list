@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 16:49:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 16:55:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34858,6 +34858,17 @@
       <itunes:duration>00:04:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-30a92c.mp3" length="2180119" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《柔然帝国传奇》 · 完整版 · 柔然帝国传奇_-_罗三洋 · 完整讲读</title>
+      <description>本书以草原帝国柔然（即欧洲人称的&apos;阿瓦尔&apos;）为中心，讲述其从蒙古高原崛起、与北魏争霸、西迁统治中欧多瑙河流域、最终衰落的完整历程。作者罗三洋将柔然置于欧亚大草原的历史脉络中，重新审视这个被遗忘的太阳神后裔帝国如何影响东西方文明，以及其后裔如何融入突厥、保加利亚等民族延续至今。</description>
+      <pubDate>Mon, 12 Oct 2026 16:55:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-aa147d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书以草原帝国柔然（即欧洲人称的&apos;阿瓦尔&apos;）为中心，讲述其从蒙古高原崛起、与北魏争霸、西迁统治中欧多瑙河流域、最终衰落的完整历程。作者罗三洋将柔然置于欧亚大草原的历史脉络中，重新审视这个被遗忘的太阳神后裔帝国如何影响东西方文明，以及其后裔如何融入突厥、保加利亚等民族延续至今。</itunes:summary>
+      <itunes:duration>00:03:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-aa147d.mp3" length="1527684" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
