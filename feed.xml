@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 16:28:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 16:36:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34825,6 +34825,17 @@
       <itunes:duration>00:02:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-87aaf3.mp3" length="1146924" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《国宴与家宴》 · 完整版 · 国宴与家宴 · 完整讲读</title>
+      <description>《国宴与家宴》是台湾小说家王宣一怀念母亲许闻龢的饮食散文集。许闻龢出身杭州海宁望族，与金庸、徐志摩家族皆有世交，主中馈之余把江南世家味觉基因活成一日三餐的家常。王宣一原本想写一篇二万五千字的怀人文章，却意外引爆台湾饮食书写风潮，半生记录江浙菜的隐藏功夫、认真请客的人情美学，以及饮食文化在一代代无名英雄手中延续的方式。</description>
+      <pubDate>Mon, 12 Oct 2026 16:36:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-917a15</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《国宴与家宴》是台湾小说家王宣一怀念母亲许闻龢的饮食散文集。许闻龢出身杭州海宁望族，与金庸、徐志摩家族皆有世交，主中馈之余把江南世家味觉基因活成一日三餐的家常。王宣一原本想写一篇二万五千字的怀人文章，却意外引爆台湾饮食书写风潮，半生记录江浙菜的隐藏功夫、认真请客的人情美学，以及饮食文化在一代代无名英雄手中延续的方式。</itunes:summary>
+      <itunes:duration>00:03:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-917a15.mp3" length="1889219" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
