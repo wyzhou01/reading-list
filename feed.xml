@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 06:45:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 06:53:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34190,6 +34190,17 @@
       <itunes:duration>00:04:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-9eba61.mp3" length="2312194" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《异乡人5：遥远的重逢（全二册）》 · 完整版 · 异乡人5：遥远的重逢（全二册） · 完整讲读</title>
+      <description>一七四六年四月十六日卡洛登沼泽之战后，红发詹米·弗雷泽死里逃生，并在梅尔顿勋爵的默许下以一个假名被暗中放走，从此以一具活着的尸骨身份流亡于苏格兰高地，扛着烧伤的腿在猎杀、背叛与瘟疫中替同伴守住秩序；与此同时，他的妻子克莱尔已被他亲手送回两百年后的未来，女儿布丽安生まれ在二十世纪。二十年后的一九六八年五月，克莱尔带着女儿走进历史学者罗杰的研究室，罗杰从洛瓦特军团卯簿与林克莱特史料中挖出【弗雷泽上尉并未死在卡洛登】的物证，两百年这个数字在母女之间被一张泛黄的军官名册撑开一条裂缝。这部全二册讲述一个男人如何在被自己的名字杀死的世界里继续活下去，也讲述两个女人如何在两百年后重新学会如何相信那个名字还活着，时间、记忆与信仰在卡洛登之后的苏格兰高地上完成了一次真正意义上的遥远重逢。</description>
+      <pubDate>Mon, 12 Oct 2026 06:53:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-432c03</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一七四六年四月十六日卡洛登沼泽之战后，红发詹米·弗雷泽死里逃生，并在梅尔顿勋爵的默许下以一个假名被暗中放走，从此以一具活着的尸骨身份流亡于苏格兰高地，扛着烧伤的腿在猎杀、背叛与瘟疫中替同伴守住秩序；与此同时，他的妻子克莱尔已被他亲手送回两百年后的未来，女儿布丽安生まれ在二十世纪。二十年后的一九六八年五月，克莱尔带着女儿走进历史学者罗杰的研究室，罗杰从洛瓦特军团卯簿与林克莱特史料中挖出【弗雷泽上尉并未死在卡洛登】的物证，两百年这个数字在母女之间被一张泛黄的军官名册撑开一条裂缝。这部全二册讲述一个男人如何在被自己的名字杀死的世界里继续活下去，也讲述两个女人如何在两百年后重新学会如何相信那个名字还活着，时间、记忆与信仰在卡洛登之后的苏格兰高地上完成了一次真正意义上的遥远重逢。</itunes:summary>
+      <itunes:duration>00:03:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-432c03.mp3" length="1821092" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
