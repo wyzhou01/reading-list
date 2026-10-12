@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 01:23:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 01:36:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33915,6 +33915,17 @@
       <itunes:duration>00:18:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-0b8468.mp3" length="18080685" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《哈佛决策课》 · 完整版 · 哈佛决策课 · 完整讲读</title>
+      <description>《哈佛决策课》用二十年的研究告诉管理者一件事：好决策不是分析出来的，是被设计出来的。哈佛教授迈克尔·罗伯托拆解了福特的逆转、哥伦比亚号失事等真实案例，提出三个反常识判断——聪明的团队常常做出最蠢的决定，问题不在分析而在开会方式；冲突与共识必须并存，异议缺失才是组织真正的杀手；决定如何做决定，先于决定本身。他用程序公平、有克制力的领导和小胜利螺旋，给出了一套可操作的方法：让过程取代权力，让提问取代作答，让共识从一个点变成一条路。决策，是社会技术，更是组织的肌肉。</description>
+      <pubDate>Mon, 12 Oct 2026 01:36:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-91e827</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《哈佛决策课》用二十年的研究告诉管理者一件事：好决策不是分析出来的，是被设计出来的。哈佛教授迈克尔·罗伯托拆解了福特的逆转、哥伦比亚号失事等真实案例，提出三个反常识判断——聪明的团队常常做出最蠢的决定，问题不在分析而在开会方式；冲突与共识必须并存，异议缺失才是组织真正的杀手；决定如何做决定，先于决定本身。他用程序公平、有克制力的领导和小胜利螺旋，给出了一套可操作的方法：让过程取代权力，让提问取代作答，让共识从一个点变成一条路。决策，是社会技术，更是组织的肌肉。</itunes:summary>
+      <itunes:duration>00:22:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-91e827.mp3" length="21215277" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
