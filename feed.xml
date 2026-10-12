@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 11:12:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 11:21:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34528,6 +34528,17 @@
       <itunes:duration>00:01:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-96a82a.mp3" length="718097" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《这里改变世界：硅谷成功创新之谜》 · 完整版 · 这里改变世界：硅谷成功创新之谜 · 完整讲读</title>
+      <description>这是一本由一位在华盛顿政界摸爬滚打十八年的女政客撰写的硅谷观察手记。她用亲历者的眼睛，把硅谷拆解给全世界看：斯坦福如何充当创新引擎，硅谷人为何痴迷改变世界，风险投资家在沙山路如何下注，以及这套模式能否被以色列、中国、智利复制。书里没有神话，只有真实创业者、真实失败、真实的文化基因。她最终得出结论：硅谷之所以能改变世界，不是因为钱多、人聪明或政策好，而是因为这里的文化容忍失败、资本敢认输、退出机制畅通无阻、服务网络无处不在、人脉场高度稠密。这六块拼图拼在一起，才是我们今天看到的硅谷。</description>
+      <pubDate>Mon, 12 Oct 2026 11:21:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-276658</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>这是一本由一位在华盛顿政界摸爬滚打十八年的女政客撰写的硅谷观察手记。她用亲历者的眼睛，把硅谷拆解给全世界看：斯坦福如何充当创新引擎，硅谷人为何痴迷改变世界，风险投资家在沙山路如何下注，以及这套模式能否被以色列、中国、智利复制。书里没有神话，只有真实创业者、真实失败、真实的文化基因。她最终得出结论：硅谷之所以能改变世界，不是因为钱多、人聪明或政策好，而是因为这里的文化容忍失败、资本敢认输、退出机制畅通无阻、服务网络无处不在、人脉场高度稠密。这六块拼图拼在一起，才是我们今天看到的硅谷。</itunes:summary>
+      <itunes:duration>00:05:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-276658.mp3" length="2799534" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
