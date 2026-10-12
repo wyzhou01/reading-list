@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 17:19:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 17:20:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34880,6 +34880,17 @@
       <itunes:duration>00:06:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-4d0ed1.mp3" length="3034845" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《独家占有》 · 完整版 · 独家占有_-_丁墨 · 完整讲读</title>
+      <description>《独家占有》是丁墨的星际言情代表作，讲述外星指挥官穆弦与地球女孩华遥跨越星河的爱情传奇。小说从强制占有的黑暗开局，逐步展现两人从恐惧到理解、从控制到守护的情感转变。通过兽形与人形的隐喻、星际秩序与个人欲望的冲突，探讨了爱的本质——不是占有，而是共生。故事融合科幻设定与甜虐情感，在宏大叙事背景下书写细腻的人心变化，是一部关于成长、救赎与选择的深层言情作品。</description>
+      <pubDate>Mon, 12 Oct 2026 17:20:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-032c0a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《独家占有》是丁墨的星际言情代表作，讲述外星指挥官穆弦与地球女孩华遥跨越星河的爱情传奇。小说从强制占有的黑暗开局，逐步展现两人从恐惧到理解、从控制到守护的情感转变。通过兽形与人形的隐喻、星际秩序与个人欲望的冲突，探讨了爱的本质——不是占有，而是共生。故事融合科幻设定与甜虐情感，在宏大叙事背景下书写细腻的人心变化，是一部关于成长、救赎与选择的深层言情作品。</itunes:summary>
+      <itunes:duration>00:04:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-032c0a.mp3" length="2079391" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
