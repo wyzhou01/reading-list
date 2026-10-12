@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 17:26:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 17:33:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34913,6 +34913,17 @@
       <itunes:duration>00:05:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-1b706f.mp3" length="2454718" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《蜘蛛男孩》 · 完整版 · 蜘蛛男孩 · 完整讲读</title>
+      <description>《蜘蛛男孩》是尼尔·盖曼写给所有被家人塑形、又拼命想逃开家人的普通人的一部小说。一个伦敦南区的普通上班族胖查理，在父亲荒唐死在卡拉OK舞台之后，发现自己凭空多出一个会倒挂在天花板上的弟弟蜘蛛。蜘蛛是父亲留下的、最不可思议的遗产——是胖查理心里那个被压死的自己。本书讲的不是原谅，而是：你以为丢掉的自己，其实从未消失。胖查理用了二十八年，才敢把【胖查理】这个被父亲粘在鞋底的昵称重新穿回身上——不是作为羞耻，而是作为一份祝福。神话从来不是古代的故事，神话是每个人都要重新活一遍的剧情。</description>
+      <pubDate>Mon, 12 Oct 2026 17:33:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-25ad38</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《蜘蛛男孩》是尼尔·盖曼写给所有被家人塑形、又拼命想逃开家人的普通人的一部小说。一个伦敦南区的普通上班族胖查理，在父亲荒唐死在卡拉OK舞台之后，发现自己凭空多出一个会倒挂在天花板上的弟弟蜘蛛。蜘蛛是父亲留下的、最不可思议的遗产——是胖查理心里那个被压死的自己。本书讲的不是原谅，而是：你以为丢掉的自己，其实从未消失。胖查理用了二十八年，才敢把【胖查理】这个被父亲粘在鞋底的昵称重新穿回身上——不是作为羞耻，而是作为一份祝福。神话从来不是古代的故事，神话是每个人都要重新活一遍的剧情。</itunes:summary>
+      <itunes:duration>00:04:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-25ad38.mp3" length="2263293" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
