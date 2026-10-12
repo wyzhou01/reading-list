@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 10:46:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 11:00:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34498,6 +34498,25 @@
       <itunes:duration>00:05:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-b8de33.mp3" length="2412504" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《赋得永久的悔——季羡林自选集》 · 完整版 · 赋得永久的悔_-_季羡林 · 完整讲读</title>
+      <description>《赋得永久的悔》是国学大师季羡林晚年亲手选定的散文集。&lt;/br&gt;
+全书以一双长满老茧的手开篇，串联起对早逝母亲的永久之悔、童年故乡与王妈的温暖记忆、塔什干红领巾男孩的真情、未名湖畔的朗朗书声、夹竹桃与香橼等故园草木，以及与陈寅恪、冯至、郑振铎、吴宓等师友的交谊。&lt;/br&gt;
+他在代序中主张做真实的自己，保留一个人前后矛盾的全部文章，只为存真。&lt;/br&gt;
+他用德国教授一棍打掉华美导言的故事，告诫学界要老老实实做笨功夫；他写香橼、玫瑰、马缨花，把小东西当命写；他蹲下来看老妇人的手、看街头的乞丐、看乱世里相互取暖的普通人家，把情、学、品三件事写成了同一条根。
+读这本书，是学着把母亲的手放在心里，把学问做干净，把自己活真实。</description>
+      <pubDate>Mon, 12 Oct 2026 11:00:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-7dcdd1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《赋得永久的悔》是国学大师季羡林晚年亲手选定的散文集。&lt;/br&gt;
+全书以一双长满老茧的手开篇，串联起对早逝母亲的永久之悔、童年故乡与王妈的温暖记忆、塔什干红领巾男孩的真情、未名湖畔的朗朗书声、夹竹桃与香橼等故园草木，以及与陈寅恪、冯至、郑振铎、吴宓等师友的交谊。&lt;/br&gt;
+他在代序中主张做真实的自己，保留一个人前后矛盾的全部文章，只为存真。&lt;/br&gt;
+他用德国教授一棍打掉华美导言的故事，告诫学界要老老实实做笨功夫；他写香橼、玫瑰、马缨花，把小东西当命写；他蹲下来看老妇人的手、看街头的乞丐、看乱世里相互取暖的普通人家，把情、学、品三件事写成了同一条根。
+读这本书，是学着把母亲的手放在心里，把学问做干净，把自己活真实。</itunes:summary>
+      <itunes:duration>00:09:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-7dcdd1.mp3" length="4784422" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
