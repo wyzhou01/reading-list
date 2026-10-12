@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 16:42:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 16:49:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34847,6 +34847,17 @@
       <itunes:duration>00:02:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-b4f872.mp3" length="1431554" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大象孤儿》 · 完整版 · 大象孤儿 · 完整讲读</title>
+      <description>《大象孤儿》是外交官诗凡根据亲身经历写成的长篇纪实小说。故事以二零零八年冬肯尼亚草原上中国战地记者翰文被象牙走私团伙射杀为引子，交织他在科特迪瓦内罗毕战火中的生死经历，与在【拯救大象组织】工作的中国女孩雪颢的爱情与信念，共同见证非洲象王萨陶被猎杀、肯尼亚大象孤儿院的真实运作、以及中美两国最终达成全面禁止象牙贸易的艰难历程。小说用一个中国记者的死亡、一个中国女孩的坚守和一头孤儿小象长生的眼泪，回答了全书最核心的伦理追问——人类与自然究竟应当如何相处。</description>
+      <pubDate>Mon, 12 Oct 2026 16:48:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-30a92c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大象孤儿》是外交官诗凡根据亲身经历写成的长篇纪实小说。故事以二零零八年冬肯尼亚草原上中国战地记者翰文被象牙走私团伙射杀为引子，交织他在科特迪瓦内罗毕战火中的生死经历，与在【拯救大象组织】工作的中国女孩雪颢的爱情与信念，共同见证非洲象王萨陶被猎杀、肯尼亚大象孤儿院的真实运作、以及中美两国最终达成全面禁止象牙贸易的艰难历程。小说用一个中国记者的死亡、一个中国女孩的坚守和一头孤儿小象长生的眼泪，回答了全书最核心的伦理追问——人类与自然究竟应当如何相处。</itunes:summary>
+      <itunes:duration>00:04:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-30a92c.mp3" length="2180119" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
