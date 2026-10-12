@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 15:47:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 15:54:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34759,6 +34759,17 @@
       <itunes:duration>00:04:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-dedf60.mp3" length="1972393" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《菩萨蛮》 · 完整版 · 菩萨蛮 · 完整讲读</title>
+      <description>《菩萨蛮》是苏童一九九七年写就的亡魂视角家族悲歌。男人华金斗因妻子凤凰上吊自尽，一怒之下纵火烧了国家油罐，入狱后自杀，骑着一匹黑天驴回到香椿树街，俯瞰自己留下的烂摊子——五个未成年的孩子、二十岁就守寡的大姑、一整条街躲不完的白眼。全书用鬼魂的第一人称视角，把一个底层家庭的崩毁拆开来看给你看：命是别人给的，名是别人骂的，妻子怎么从人变成了一头驴，妹妹怎么从人人喊打的扫帚星变成了天上的仙女，所有底层的命名、所有的骂名、所有的命，到了天上，老天爷也讲不清楚。苏童用十七万字告诉你，别让你的后悔，排在死后。</description>
+      <pubDate>Mon, 12 Oct 2026 15:54:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-111daa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《菩萨蛮》是苏童一九九七年写就的亡魂视角家族悲歌。男人华金斗因妻子凤凰上吊自尽，一怒之下纵火烧了国家油罐，入狱后自杀，骑着一匹黑天驴回到香椿树街，俯瞰自己留下的烂摊子——五个未成年的孩子、二十岁就守寡的大姑、一整条街躲不完的白眼。全书用鬼魂的第一人称视角，把一个底层家庭的崩毁拆开来看给你看：命是别人给的，名是别人骂的，妻子怎么从人变成了一头驴，妹妹怎么从人人喊打的扫帚星变成了天上的仙女，所有底层的命名、所有的骂名、所有的命，到了天上，老天爷也讲不清楚。苏童用十七万字告诉你，别让你的后悔，排在死后。</itunes:summary>
+      <itunes:duration>00:04:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-111daa.mp3" length="2270816" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
