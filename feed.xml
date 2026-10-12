@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 07:58:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 08:06:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34267,6 +34267,17 @@
       <itunes:duration>00:07:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-086314.mp3" length="3649245" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《战火之外》 · 完整版 · 战火之外_-_[美]西德尼尚伯格 · 完整讲读</title>
+      <description>《战火之外》是普利策奖得主、《纽约时报》战地记者西德尼·尚伯格四十年战争报道的合集，跨越越南、柬埔寨、孟加拉、伊拉克等多个战场。全书直指一个被华盛顿反复遗忘的命题：当政客把人命包装成数字、把平民死亡叫作【附带损害】、把被误炸的城镇轻描淡写为【小村庄】时，是谁在替死者守住最后一句真话。尚伯格用细致的现场记录、冷静的术语剖析和对自身职业动机的坦白，揭示出国家撒谎机器如何运作，也示范了记者如何用细节、用现场、用数字和姓名，在那些机器的齿轮里卡进一粒永远拔不出的沙子。</description>
+      <pubDate>Mon, 12 Oct 2026 08:06:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-065998</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《战火之外》是普利策奖得主、《纽约时报》战地记者西德尼·尚伯格四十年战争报道的合集，跨越越南、柬埔寨、孟加拉、伊拉克等多个战场。全书直指一个被华盛顿反复遗忘的命题：当政客把人命包装成数字、把平民死亡叫作【附带损害】、把被误炸的城镇轻描淡写为【小村庄】时，是谁在替死者守住最后一句真话。尚伯格用细致的现场记录、冷静的术语剖析和对自身职业动机的坦白，揭示出国家撒谎机器如何运作，也示范了记者如何用细节、用现场、用数字和姓名，在那些机器的齿轮里卡进一粒永远拔不出的沙子。</itunes:summary>
+      <itunes:duration>00:03:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-065998.mp3" length="1745859" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
