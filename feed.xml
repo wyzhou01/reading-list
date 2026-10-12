@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 18:58:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 19:02:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35155,6 +35155,17 @@
       <itunes:duration>00:35:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-9870d9.mp3" length="33609261" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《网：阿加西自传》 · 完整版 · 网：阿加西自传 · 完整讲读</title>
+      <description>本书是世界头号网球选手安德烈·阿加西亲笔撰写的自传。他两岁时被父亲按在球拍前，三十岁出头才学会用网球养活自己却恨透了它；他坐过世界第一的宝座，也曾被全美国的网球运动踢出大门；他经历过两次失败的婚姻、长达数年的身份迷失，最终在妻子施特芬妮、挚友吉尔和体能教练布拉德的陪伴下重新站起来。这不是一本关于胜利的书，而是一个关于憎恨、和解与重建的人，如何在三十六岁那年跪在四季酒店的地板上数到三、再用尽全身力气站起来的故事。</description>
+      <pubDate>Mon, 12 Oct 2026 19:02:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-a70f0a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是世界头号网球选手安德烈·阿加西亲笔撰写的自传。他两岁时被父亲按在球拍前，三十岁出头才学会用网球养活自己却恨透了它；他坐过世界第一的宝座，也曾被全美国的网球运动踢出大门；他经历过两次失败的婚姻、长达数年的身份迷失，最终在妻子施特芬妮、挚友吉尔和体能教练布拉德的陪伴下重新站起来。这不是一本关于胜利的书，而是一个关于憎恨、和解与重建的人，如何在三十六岁那年跪在四季酒店的地板上数到三、再用尽全身力气站起来的故事。</itunes:summary>
+      <itunes:duration>00:03:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-a70f0a.mp3" length="1822764" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
