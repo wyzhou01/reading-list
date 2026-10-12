@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 18:35:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 18:39:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35067,6 +35067,17 @@
       <itunes:duration>00:03:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-304f79.mp3" length="1569898" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中国民族史话》 · 完整版 · 中国民族史话_周茶仙 · 完整讲读</title>
+      <description>《中国民族史话》以八百万年前云南禄丰腊玛古猿为起点，系统梳理中华民族从远古人类到现代五十六个民族的多元一体形成史。作者周茶仙以新石器时代满天星斗的考古遗址、传说时代的部落联盟、夏商周的华夏雏形、秦汉的汉族定型、五胡入华的血脉更新、隋唐的胡汉合流、元清两代少数民族入主中原为线索，揭示一个核心事实：中国不是哪一个民族建起来的国家，而是五十六个民族、连同已经消失的月氏、匈奴、鲜卑、氐、羯共同缔造的古老文明。本书带你读懂中华民族&quot;多元一体&quot;四个字的真正份量。</description>
+      <pubDate>Mon, 12 Oct 2026 18:39:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-f640da</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《中国民族史话》以八百万年前云南禄丰腊玛古猿为起点，系统梳理中华民族从远古人类到现代五十六个民族的多元一体形成史。作者周茶仙以新石器时代满天星斗的考古遗址、传说时代的部落联盟、夏商周的华夏雏形、秦汉的汉族定型、五胡入华的血脉更新、隋唐的胡汉合流、元清两代少数民族入主中原为线索，揭示一个核心事实：中国不是哪一个民族建起来的国家，而是五十六个民族、连同已经消失的月氏、匈奴、鲜卑、氐、羯共同缔造的古老文明。本书带你读懂中华民族&quot;多元一体&quot;四个字的真正份量。</itunes:summary>
+      <itunes:duration>00:03:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-f640da.mp3" length="1865813" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
