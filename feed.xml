@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 15:28:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 15:41:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34737,6 +34737,17 @@
       <itunes:duration>00:04:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-9c82ce.mp3" length="2313030" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《从零开始写故事》 · 完整版 · 从零开始写故事(1) · 完整讲读</title>
+      <description>本书系统总结了非虚构特稿写作的核心方法论，涵盖选题判断、资料收集、采访技巧、结构设计与语言打磨五大板块。作者叶伟民以十多年《南方周末》特稿记者和编辑的经验，提炼出「三圈模型」「30万字原则」「世界线工具」「四种结构」等可操作的写作方法，并通过《举重冠军之死》《恩里克的旅程》《伊力亚的归途》等经典案例，展示了如何从日常线索中发现值得书写的好故事，如何用系统方法将散乱素材转化为完整叙事。写作不是天才的专利，而是有方法可循的手艺——这是本书最核心的信念。</description>
+      <pubDate>Mon, 12 Oct 2026 15:41:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-85da31</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书系统总结了非虚构特稿写作的核心方法论，涵盖选题判断、资料收集、采访技巧、结构设计与语言打磨五大板块。作者叶伟民以十多年《南方周末》特稿记者和编辑的经验，提炼出「三圈模型」「30万字原则」「世界线工具」「四种结构」等可操作的写作方法，并通过《举重冠军之死》《恩里克的旅程》《伊力亚的归途》等经典案例，展示了如何从日常线索中发现值得书写的好故事，如何用系统方法将散乱素材转化为完整叙事。写作不是天才的专利，而是有方法可循的手艺——这是本书最核心的信念。</itunes:summary>
+      <itunes:duration>00:06:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-85da31.mp3" length="3253856" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
