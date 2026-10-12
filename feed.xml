@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 00:59:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 01:07:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33882,6 +33882,17 @@
       <itunes:duration>00:27:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-e5f084.mp3" length="26853165" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《人类的明天》 · 完整版 · 人类的明天 · 完整讲读</title>
+      <description>《人类的明天》是法国纪录片人席里尔·迪翁在全球生态危机背景下走访十个国家、与五十多位先驱对话后写成的转型之书。他从两个根源出发诊断困境：现实的虚拟化遮蔽了行为的后果，以及我们对一个值得向往的明日世界缺乏想象。在此基础上，他从食物、能源、经济、社会、教育五条脉络出发，呈现世界各地已在发生的替代方案——众包宪法、零废弃城市、零碳都市、农业自治、本地化经济、协同制造、面向个体差异的教育革新等。他的核心主张是：仅靠零散的个人善意无法撑住庞大的生态挑战，必须以系统性的新故事动员集体转型，重建人与自然、人与人之间的真实关联。</description>
+      <pubDate>Mon, 12 Oct 2026 01:07:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-63e829</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《人类的明天》是法国纪录片人席里尔·迪翁在全球生态危机背景下走访十个国家、与五十多位先驱对话后写成的转型之书。他从两个根源出发诊断困境：现实的虚拟化遮蔽了行为的后果，以及我们对一个值得向往的明日世界缺乏想象。在此基础上，他从食物、能源、经济、社会、教育五条脉络出发，呈现世界各地已在发生的替代方案——众包宪法、零废弃城市、零碳都市、农业自治、本地化经济、协同制造、面向个体差异的教育革新等。他的核心主张是：仅靠零散的个人善意无法撑住庞大的生态挑战，必须以系统性的新故事动员集体转型，重建人与自然、人与人之间的真实关联。</itunes:summary>
+      <itunes:duration>00:16:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-63e829.mp3" length="15680685" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
