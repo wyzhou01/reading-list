@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 11:21:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 11:31:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34539,6 +34539,17 @@
       <itunes:duration>00:05:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-276658.mp3" length="2799534" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《一触即发》 · 完整版 · 电视剧《一触即发》原著小说_-_张勇 · 完整讲读</title>
+      <description>张勇《一触即发》以一九一一年上海荣家掉包孪生子为引，一九三三年杨家白骨出土为核，一九三七年淞沪会战为终，铺开一对被偷换人生的孪生兄弟——学医归国的哥哥阿初与潜伏敌后的红色特工弟弟阿次——在帮会仇杀、商战宅斗、谍战潜伏的夹缝中相认、联手、抗日的长篇悲歌。全书三十六章、近三十万字，把个人血仇与民族存亡、个人抉择与时代洪流、个人身份与家国大义，全部压进一对孪生兄弟的血脉里，写出一代人在乱世里怎么被碾碎、又怎么在废墟上重新长出来。</description>
+      <pubDate>Mon, 12 Oct 2026 11:31:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-d071fe</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>张勇《一触即发》以一九一一年上海荣家掉包孪生子为引，一九三三年杨家白骨出土为核，一九三七年淞沪会战为终，铺开一对被偷换人生的孪生兄弟——学医归国的哥哥阿初与潜伏敌后的红色特工弟弟阿次——在帮会仇杀、商战宅斗、谍战潜伏的夹缝中相认、联手、抗日的长篇悲歌。全书三十六章、近三十万字，把个人血仇与民族存亡、个人抉择与时代洪流、个人身份与家国大义，全部压进一对孪生兄弟的血脉里，写出一代人在乱世里怎么被碾碎、又怎么在废墟上重新长出来。</itunes:summary>
+      <itunes:duration>00:06:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-d071fe.mp3" length="3036099" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
