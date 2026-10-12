@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 14:37:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 14:46:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34682,6 +34682,17 @@
       <itunes:duration>00:07:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-73621e.mp3" length="3446117" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《雪祭》 · 完整版 · 雪祭 · 完整讲读</title>
+      <description>《雪祭》是陕西军旅作家党益民以三十多年戍边西藏的真实经历写就的非虚构长篇力作。作者以第三人称视角，追忆上世纪八十年代以来在雪拉山、黑昌线、川藏线、中尼线、新藏线并肩战斗的战友ABCDE——他们中有人在雪崩中牺牲，有人在肺水肿中离世，有人退伍后重返高原义务支教。作者亲历过冻、累、饿、淹、砸、病、摔七种几乎致命的劫难，他说【与那些牺牲了的战友相比，我是幸运的，他们走了，我还活着，我不写他们，谁写他们？】这部书既是对雪拉山那片冰雪覆盖墓地的集体祭奠，也是中国当代戍边军人用业余之笔对抗遗忘、守护普通人名字的倔强承诺。</description>
+      <pubDate>Mon, 12 Oct 2026 14:46:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-51889a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《雪祭》是陕西军旅作家党益民以三十多年戍边西藏的真实经历写就的非虚构长篇力作。作者以第三人称视角，追忆上世纪八十年代以来在雪拉山、黑昌线、川藏线、中尼线、新藏线并肩战斗的战友ABCDE——他们中有人在雪崩中牺牲，有人在肺水肿中离世，有人退伍后重返高原义务支教。作者亲历过冻、累、饿、淹、砸、病、摔七种几乎致命的劫难，他说【与那些牺牲了的战友相比，我是幸运的，他们走了，我还活着，我不写他们，谁写他们？】这部书既是对雪拉山那片冰雪覆盖墓地的集体祭奠，也是中国当代戍边军人用业余之笔对抗遗忘、守护普通人名字的倔强承诺。</itunes:summary>
+      <itunes:duration>00:04:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-51889a.mp3" length="2006248" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
