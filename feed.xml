@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 23:45:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 23:53:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35364,6 +35364,17 @@
       <itunes:duration>00:07:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-685340.mp3" length="3753735" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《都市传说》 · 完整版 · 都市传说_-_朱川湊人 · 完整讲读</title>
+      <description>《都市传说》是朱川湊人斩获直木奖的短篇集，以五个看似猎奇的昭和怪谈为外壳，实则剖开上世纪七十年代日本家庭最深的那间房。一九七五年夏天，十六岁的一树在岐阜县庙会上遇上一具冰冻河童，透过十厘米厚的浑冰辨认出祖母的手；怀孕的妻子在公园噩梦的滑梯顶端与自己童年相认；中年男人在医院与电车间奔波，最终在满月下承认亏欠过母亲。河童蟹女蝾螈男象人月之石，五个异形，五层被封起来的冰，五个我们每个人都会经历的瞬间。朱川湊人真正想追问的是：当昭和的异形展品与你我重叠，你敢不敢再透过那层冰，看清楚自己心里那个被封存多年的真相。</description>
+      <pubDate>Mon, 12 Oct 2026 23:53:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-643b81</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《都市传说》是朱川湊人斩获直木奖的短篇集，以五个看似猎奇的昭和怪谈为外壳，实则剖开上世纪七十年代日本家庭最深的那间房。一九七五年夏天，十六岁的一树在岐阜县庙会上遇上一具冰冻河童，透过十厘米厚的浑冰辨认出祖母的手；怀孕的妻子在公园噩梦的滑梯顶端与自己童年相认；中年男人在医院与电车间奔波，最终在满月下承认亏欠过母亲。河童蟹女蝾螈男象人月之石，五个异形，五层被封起来的冰，五个我们每个人都会经历的瞬间。朱川湊人真正想追问的是：当昭和的异形展品与你我重叠，你敢不敢再透过那层冰，看清楚自己心里那个被封存多年的真相。</itunes:summary>
+      <itunes:duration>00:04:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-643b81.mp3" length="2322643" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
