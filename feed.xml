@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 04:33:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 04:38:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34113,6 +34113,17 @@
       <itunes:duration>00:04:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-82bf9b.mp3" length="2194747" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《将饮茶》 · 完整版 · 将饮茶_(杨绛著译七种) · 完整讲读</title>
+      <description>《将饮茶》是杨绛晚年的散文名篇集, 以虚设的《孟婆茶》开场, 把父亲杨荫杭的硬骨头、文化大革命两年最安静的两道黑影、藏了三十年的《干校六记》附识、以及末篇散文《隐身衣》串成一份【知识分子凭什么没疯没跪】的备忘录。她用父亲的【此人顽固不灵】【此是好人】钉住坐标, 用丙午丁未年端给丈夫的一碗粥守住家, 用一句【废话】守住自己。整本书写了知识分子的根、骨头、委屈与自由, 也写了一棵不求人【勿忘我】的荠菜, 如何在万人如海之中藏好自己。</description>
+      <pubDate>Mon, 12 Oct 2026 04:38:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-229dc4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《将饮茶》是杨绛晚年的散文名篇集, 以虚设的《孟婆茶》开场, 把父亲杨荫杭的硬骨头、文化大革命两年最安静的两道黑影、藏了三十年的《干校六记》附识、以及末篇散文《隐身衣》串成一份【知识分子凭什么没疯没跪】的备忘录。她用父亲的【此人顽固不灵】【此是好人】钉住坐标, 用丙午丁未年端给丈夫的一碗粥守住家, 用一句【废话】守住自己。整本书写了知识分子的根、骨头、委屈与自由, 也写了一棵不求人【勿忘我】的荠菜, 如何在万人如海之中藏好自己。</itunes:summary>
+      <itunes:duration>00:03:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-229dc4.mp3" length="1557777" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
