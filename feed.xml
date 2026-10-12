@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 15:54:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 16:01:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34770,6 +34770,17 @@
       <itunes:duration>00:04:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-111daa.mp3" length="2270816" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《资本全球化：一部国际货币体系史（第2版）》 · 完整版 · 资本全球化：一部国际货币体系史（第2版） · 完整讲读</title>
+      <description>《资本全球化》是一部跨越一百五十年的国际货币制度史，作者巴里·埃森格林用详实的史料证明：货币制度从来不是技术官僚敲定的工程合同，而是国内民主政治与国际资本势力持续博弈的结果。金本位制因工资可被强制压低而存续，布雷顿森林体系因美国财政纪律被民主政治瓦解而崩溃，浮动汇率制是各国在资本流动与国内目标之间被迫接受的次优选择，欧元则是欧洲人对不可能三角发起的最后一次冲击。这部经典教材将宏观经济学、国际政治与历史叙事融为一体，帮助读者理解一个看似遥远实则与每个人的财富息息相关的核心命题：当资本自由流动遇上政治民主，钉住汇率制注定是最先崩塌的那根支柱。</description>
+      <pubDate>Mon, 12 Oct 2026 16:01:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-cbc218</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《资本全球化》是一部跨越一百五十年的国际货币制度史，作者巴里·埃森格林用详实的史料证明：货币制度从来不是技术官僚敲定的工程合同，而是国内民主政治与国际资本势力持续博弈的结果。金本位制因工资可被强制压低而存续，布雷顿森林体系因美国财政纪律被民主政治瓦解而崩溃，浮动汇率制是各国在资本流动与国内目标之间被迫接受的次优选择，欧元则是欧洲人对不可能三角发起的最后一次冲击。这部经典教材将宏观经济学、国际政治与历史叙事融为一体，帮助读者理解一个看似遥远实则与每个人的财富息息相关的核心命题：当资本自由流动遇上政治民主，钉住汇率制注定是最先崩塌的那根支柱。</itunes:summary>
+      <itunes:duration>00:04:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-cbc218.mp3" length="1964452" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
