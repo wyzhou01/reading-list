@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 09:23:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 09:33:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34388,6 +34388,17 @@
       <itunes:duration>00:05:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-7aa008.mp3" length="2842584" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《各自的朝圣路》 · 完整版 · 各自的朝圣路 · 完整讲读</title>
+      <description>《各自的朝圣路》是周国平一九九五至一九九八年的散文结集,也是他在物质主义喧嚣、信仰普遍失重的年代,为当代中国普通读者写下的一份精神档案。全书以【朝圣】为隐喻,主张每个人精神生活的路都只能由自己走。围绕苦难、信仰、孤独、哲学、科技、读书、爱、写作等十二个主题,周国平用清淡而深邃的笔触,谈了在物质丰裕时代人如何安顿自身、如何与自己相处、如何在日常中活出精神。苦难不是要被颂扬的事,却是被熬出来的人质地;自由不是想要什么就有什么,而是你选择相信什么;孤独不是缺陷,而是创作与独立的源头;与世界的关系不是单方面的利用,而是带敬重的对话。这本书没有宣言,只有劝告——在无人注意你的地方,愿不愿意继续走下去。在浮躁时代,它是一面让你安静下来的镜子。</description>
+      <pubDate>Mon, 12 Oct 2026 09:33:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-bfcf00</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《各自的朝圣路》是周国平一九九五至一九九八年的散文结集,也是他在物质主义喧嚣、信仰普遍失重的年代,为当代中国普通读者写下的一份精神档案。全书以【朝圣】为隐喻,主张每个人精神生活的路都只能由自己走。围绕苦难、信仰、孤独、哲学、科技、读书、爱、写作等十二个主题,周国平用清淡而深邃的笔触,谈了在物质丰裕时代人如何安顿自身、如何与自己相处、如何在日常中活出精神。苦难不是要被颂扬的事,却是被熬出来的人质地;自由不是想要什么就有什么,而是你选择相信什么;孤独不是缺陷,而是创作与独立的源头;与世界的关系不是单方面的利用,而是带敬重的对话。这本书没有宣言,只有劝告——在无人注意你的地方,愿不愿意继续走下去。在浮躁时代,它是一面让你安静下来的镜子。</itunes:summary>
+      <itunes:duration>00:06:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-bfcf00.mp3" length="2979257" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
