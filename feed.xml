@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 11:49:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 11:57:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34572,6 +34572,17 @@
       <itunes:duration>00:07:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-ef3927.mp3" length="3551443" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《逆流》 · 完整版 · 逆流 · 完整讲读</title>
+      <description>《逆流》描写法国贵族德塞森特厌倦巴黎的放荡生活与资产阶级时尚文化，独自隐居于乡间丰特奈玫瑰镇，建造了一个极度唯美的精神避难所。小说以细腻繁复的笔触，描绘家具收藏、艺术鉴赏、感官体验（珠宝、香水、花卉）与精神思考，虽无传统情节，却如文化百科全书般展现19世纪末法国颓废主义文学的极致美学。德塞森特的&apos;逆流&apos;生活最终以健康衰退和精神崩溃告终，不得不返回巴黎，小说因此成为颓废主义的深刻反思。</description>
+      <pubDate>Mon, 12 Oct 2026 11:57:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-5e4e4a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《逆流》描写法国贵族德塞森特厌倦巴黎的放荡生活与资产阶级时尚文化，独自隐居于乡间丰特奈玫瑰镇，建造了一个极度唯美的精神避难所。小说以细腻繁复的笔触，描绘家具收藏、艺术鉴赏、感官体验（珠宝、香水、花卉）与精神思考，虽无传统情节，却如文化百科全书般展现19世纪末法国颓废主义文学的极致美学。德塞森特的&apos;逆流&apos;生活最终以健康衰退和精神崩溃告终，不得不返回巴黎，小说因此成为颓废主义的深刻反思。</itunes:summary>
+      <itunes:duration>00:02:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-5e4e4a.mp3" length="1421941" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
