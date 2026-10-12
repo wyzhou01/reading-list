@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 07:39:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 07:48:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34245,6 +34245,17 @@
       <itunes:duration>00:04:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-fe173e.mp3" length="2025892" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《选一种姿态，让自己活得无可替代》 · 完整版 · 选一种姿态，让自己活得无可替代 · 完整讲读</title>
+      <description>《选一种姿态，让自己活得无可替代》是九零后女作者黄竞天写给所有曾自我怀疑的女孩的一封长信。从十岁那年被店员拒卖花裙子的自卑女孩，到浙大法学院毕业后游学海外的独立女性，她用二十年时间，把自己从墙角捞了回来。书中她写下表姐庆生宴上做隐形人的少年时光，写下在日本交换时那个第一次夸她好看的男孩，写下一个女人如何从自卑走向自我接纳，又如何在孤独中学会与自己相处，最终明白爱情不是救赎而是并肩，姿态不是表演而是内在秩序的外化。她用温柔的笔触告诉读者：无可替代，不是你比谁都特别，而是你终于不再把人生的主导权交给任何人。这是一本关于自我接纳、女性成长、爱情真相与生命姿态的书，适合每一个曾在深夜怀疑过自己的女孩。</description>
+      <pubDate>Mon, 12 Oct 2026 07:48:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-99bd97</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《选一种姿态，让自己活得无可替代》是九零后女作者黄竞天写给所有曾自我怀疑的女孩的一封长信。从十岁那年被店员拒卖花裙子的自卑女孩，到浙大法学院毕业后游学海外的独立女性，她用二十年时间，把自己从墙角捞了回来。书中她写下表姐庆生宴上做隐形人的少年时光，写下在日本交换时那个第一次夸她好看的男孩，写下一个女人如何从自卑走向自我接纳，又如何在孤独中学会与自己相处，最终明白爱情不是救赎而是并肩，姿态不是表演而是内在秩序的外化。她用温柔的笔触告诉读者：无可替代，不是你比谁都特别，而是你终于不再把人生的主导权交给任何人。这是一本关于自我接纳、女性成长、爱情真相与生命姿态的书，适合每一个曾在深夜怀疑过自己的女孩。</itunes:summary>
+      <itunes:duration>00:03:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-99bd97.mp3" length="1622561" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
