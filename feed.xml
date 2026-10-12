@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 01:40:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 01:56:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33926,6 +33926,17 @@
       <itunes:duration>00:22:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-91e827.mp3" length="21215277" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《帝国崛起病》 · 完整版 · 帝国崛起病 · 完整讲读</title>
+      <description>《帝国崛起病》通过对比美国与德、日、苏联的历史经验，提出【权力衰亡定律】：自拿破仑战争以来两百多年，专制政体无一例外全在八十年内崩盘，而至今兴盛不衰的只有共和政体。原因在于：共和政体靠分权制衡、选举、财政、军队国家化、言论自由等制度把权力关进笼子，使政府不至于沦为祸国殃民的暴力机器；而专制政权则像一条蛇一样不断扩张权力，最终要么死于内乱、要么死于外敌、要么死于民变。强大不等于安全——强国镇压起自己人来比外敌还狠，斯大林镇压了两千多万人，比希特勒入侵苏联杀死的人数还多。渺小的人没有祖国，【祖国】对他们而言不过是樊笼的另一句话。本书告诉我们：制度确保人民，人民不必感到渺小。这就是共和国的样子。</description>
+      <pubDate>Mon, 12 Oct 2026 01:56:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-3bdda9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《帝国崛起病》通过对比美国与德、日、苏联的历史经验，提出【权力衰亡定律】：自拿破仑战争以来两百多年，专制政体无一例外全在八十年内崩盘，而至今兴盛不衰的只有共和政体。原因在于：共和政体靠分权制衡、选举、财政、军队国家化、言论自由等制度把权力关进笼子，使政府不至于沦为祸国殃民的暴力机器；而专制政权则像一条蛇一样不断扩张权力，最终要么死于内乱、要么死于外敌、要么死于民变。强大不等于安全——强国镇压起自己人来比外敌还狠，斯大林镇压了两千多万人，比希特勒入侵苏联杀死的人数还多。渺小的人没有祖国，【祖国】对他们而言不过是樊笼的另一句话。本书告诉我们：制度确保人民，人民不必感到渺小。这就是共和国的样子。</itunes:summary>
+      <itunes:duration>00:43:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-3bdda9.mp3" length="41697069" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
