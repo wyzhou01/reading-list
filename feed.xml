@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 01:56:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 02:09:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33937,6 +33937,17 @@
       <itunes:duration>00:43:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-3bdda9.mp3" length="41697069" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《慈禧全传》 · 完整版 · 高阳_-_慈禧全传 · 完整讲读</title>
+      <description>《慈禧全传》是高阳用三十万字写就的政治与人性长卷，从咸丰初年写到光绪病亡，全书以辛酉政变、甲申易枢、戊戌变法、庚子之乱、瀛台幽禁五大转折为骨架，串起肃顺、奕訢、慈安、李鸿章、荣禄、张之洞等数十位晚清关键人物。本书真正要回答的不是慈禧有多坏，而是一个看似注定的亡国结局背后，多少关键转折，其实是几个人的猜疑、嫉妒与体面，互相对撞出来的偶然。从热河烟波致爽殿的粉红手绢，到瀛台四面环水的孤岛，高阳不写神魔，他写一个二十七岁的女人如何在三十年里，把大清拖进深渊——也把自己拖进深渊。</description>
+      <pubDate>Mon, 12 Oct 2026 02:09:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-d82813</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《慈禧全传》是高阳用三十万字写就的政治与人性长卷，从咸丰初年写到光绪病亡，全书以辛酉政变、甲申易枢、戊戌变法、庚子之乱、瀛台幽禁五大转折为骨架，串起肃顺、奕訢、慈安、李鸿章、荣禄、张之洞等数十位晚清关键人物。本书真正要回答的不是慈禧有多坏，而是一个看似注定的亡国结局背后，多少关键转折，其实是几个人的猜疑、嫉妒与体面，互相对撞出来的偶然。从热河烟波致爽殿的粉红手绢，到瀛台四面环水的孤岛，高阳不写神魔，他写一个二十七岁的女人如何在三十年里，把大清拖进深渊——也把自己拖进深渊。</itunes:summary>
+      <itunes:duration>00:22:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-d82813.mp3" length="21750573" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
