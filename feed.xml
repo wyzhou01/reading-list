@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 03:36:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 03:45:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34047,6 +34047,17 @@
       <itunes:duration>00:06:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-bf4deb.mp3" length="2915309" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《重塑组织》 · 完整版 · 重塑组织 · 完整讲读</title>
+      <description>《重塑组织》借发展心理学的洞见指出，人类意识正进入一种全新的【整合阶段】，传统金字塔型组织正在失效。书中追踪了全球多家已脱去数百万元债务的新型组织，提炼出它们的三大突破：自主管理、身心完整、进化宗旨。青色组织不再依赖命令与控制，而是依赖【基于建议的决策】、【同伴冲突调解】与【动态角色分配】，让五百个首席执行官真正跑起来。身心完整意味着欢迎人把【整个自己】带进工作，而不是只交【成果】。进化宗旨则把组织视为【独立于创始人】的【生命主体】，领导者的工作是去【倾听】它想成为什么。书末给出从【创业团队】到【现有企业转化】的具身路径，提示这一代组织进化的真正起点是：放下【控制】的执念，让真实的人相互看见。</description>
+      <pubDate>Mon, 12 Oct 2026 03:45:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-923fc9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《重塑组织》借发展心理学的洞见指出，人类意识正进入一种全新的【整合阶段】，传统金字塔型组织正在失效。书中追踪了全球多家已脱去数百万元债务的新型组织，提炼出它们的三大突破：自主管理、身心完整、进化宗旨。青色组织不再依赖命令与控制，而是依赖【基于建议的决策】、【同伴冲突调解】与【动态角色分配】，让五百个首席执行官真正跑起来。身心完整意味着欢迎人把【整个自己】带进工作，而不是只交【成果】。进化宗旨则把组织视为【独立于创始人】的【生命主体】，领导者的工作是去【倾听】它想成为什么。书末给出从【创业团队】到【现有企业转化】的具身路径，提示这一代组织进化的真正起点是：放下【控制】的执念，让真实的人相互看见。</itunes:summary>
+      <itunes:duration>00:06:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-923fc9.mp3" length="3183639" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
