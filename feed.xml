@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 00:43:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 00:49:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33860,6 +33860,17 @@
       <itunes:duration>00:15:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-2def4b.mp3" length="14619693" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《流血的仕途：李斯与秦帝国（上部）》 · 完整版 · 流血的仕途-李斯与秦帝国上部 · 完整讲读</title>
+      <description>《流血的仕途：李斯与秦帝国（上部）》是一本以战国末期至秦帝国统一前夕为背景的长篇历史小说。它以秦国丞相李斯的一生为主线，紧扣正史、缝补空白，详细还原了一个楚国底层小吏，如何辞去铁饭碗、背井离乡，从一间廉价酒馆起步，最终站到秦王嬴政身侧的完整历程。本书上半部起于李斯离开楚国上蔡郡，终于吕不韦被逐出咸阳，时间跨度近二十年。在这二十年里，一只厕所里的老鼠、秦国首都咸阳、和一位惊才绝艳却口吃的同窗韩非，三件事共同塑造了李斯最初的野心形状。本书核心要回答的问题是：一个出身社会底层的普通青年，在异国他乡的土地上，究竟要付出什么样的代价，才能让野心真正落地；以及他搭上的那台战车，要什么时候，才会反过来压上他自己的身家性命。</description>
+      <pubDate>Mon, 12 Oct 2026 00:49:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-4fbe04</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《流血的仕途：李斯与秦帝国（上部）》是一本以战国末期至秦帝国统一前夕为背景的长篇历史小说。它以秦国丞相李斯的一生为主线，紧扣正史、缝补空白，详细还原了一个楚国底层小吏，如何辞去铁饭碗、背井离乡，从一间廉价酒馆起步，最终站到秦王嬴政身侧的完整历程。本书上半部起于李斯离开楚国上蔡郡，终于吕不韦被逐出咸阳，时间跨度近二十年。在这二十年里，一只厕所里的老鼠、秦国首都咸阳、和一位惊才绝艳却口吃的同窗韩非，三件事共同塑造了李斯最初的野心形状。本书核心要回答的问题是：一个出身社会底层的普通青年，在异国他乡的土地上，究竟要付出什么样的代价，才能让野心真正落地；以及他搭上的那台战车，要什么时候，才会反过来压上他自己的身家性命。</itunes:summary>
+      <itunes:duration>00:24:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-4fbe04.mp3" length="23299245" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
