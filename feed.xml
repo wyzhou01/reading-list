@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 18:47:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 18:52:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35111,6 +35111,17 @@
       <itunes:duration>00:03:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-a70dc4.mp3" length="1566555" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《两晋南北朝史》 · 完整版 · 吕思勉_-_两晋南北朝史 · 完整讲读</title>
+      <description>吕思勉《两晋南北朝史》拆解了一个核心谜题——王朝崩了，华夏为何没亡？作者跳出【五胡乱华=亡国】的主流叙事，指出三百年乱世的真正主角是四块悄悄长大的地基：士庶等级被碾平、南北畛域被打破、山间异族被同化、长江流域被彻底开拓。门阀政治与皇权博弈、佛教传入与儒道佛三教分立、南北对峙中孕育大一统，这三条暗线共同把分裂变成分娩，把乱世变成孕生期。最终隋唐接住的不是废墟，而是一锅被三百年煮熟的、谁都搬不动的中国。</description>
+      <pubDate>Mon, 12 Oct 2026 18:52:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-281e31</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>吕思勉《两晋南北朝史》拆解了一个核心谜题——王朝崩了，华夏为何没亡？作者跳出【五胡乱华=亡国】的主流叙事，指出三百年乱世的真正主角是四块悄悄长大的地基：士庶等级被碾平、南北畛域被打破、山间异族被同化、长江流域被彻底开拓。门阀政治与皇权博弈、佛教传入与儒道佛三教分立、南北对峙中孕育大一统，这三条暗线共同把分裂变成分娩，把乱世变成孕生期。最终隋唐接住的不是废墟，而是一锅被三百年煮熟的、谁都搬不动的中国。</itunes:summary>
+      <itunes:duration>00:03:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-281e31.mp3" length="1745023" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
