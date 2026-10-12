@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 04:26:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 04:33:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34102,6 +34102,17 @@
       <itunes:duration>00:04:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-b0a45c.mp3" length="2335600" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《孤独的进化者（你的想象就是全宇宙）》 · 完整版 · 孤独的进化者(你的想象就是全宇宙！)_(神秘岛) · 完整讲读</title>
+      <description>刘慈欣少儿科幻科学小说系列本册《孤独的进化者》收录三篇代表作：《带上她的眼睛》《地球大炮》《乡村教师》。书中有被困地心的女领航员，借陌生人的眼睛看最后一眼草原上的花；有一门贯穿地球的南极-北冰洋超级大炮；有一位患癌的乡村教师，用生命的最后一堂物理课，救下了整颗地球。理论物理学家李淼逐篇解析其中硬核科学知识——中微子通讯、中子材料、古腾堡不连续面、莫霍不连续面、地球分层结构等。刘慈欣用最硬的科学，写最软的感情：在人类孤独地走向宇宙时，陪伴和想象，才是真正的支点。</description>
+      <pubDate>Mon, 12 Oct 2026 04:33:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-82bf9b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>刘慈欣少儿科幻科学小说系列本册《孤独的进化者》收录三篇代表作：《带上她的眼睛》《地球大炮》《乡村教师》。书中有被困地心的女领航员，借陌生人的眼睛看最后一眼草原上的花；有一门贯穿地球的南极-北冰洋超级大炮；有一位患癌的乡村教师，用生命的最后一堂物理课，救下了整颗地球。理论物理学家李淼逐篇解析其中硬核科学知识——中微子通讯、中子材料、古腾堡不连续面、莫霍不连续面、地球分层结构等。刘慈欣用最硬的科学，写最软的感情：在人类孤独地走向宇宙时，陪伴和想象，才是真正的支点。</itunes:summary>
+      <itunes:duration>00:04:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-82bf9b.mp3" length="2194747" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
