@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 19:22:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 19:24:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35210,6 +35210,17 @@
       <itunes:duration>00:05:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-60fa08.mp3" length="2746871" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《亚当夏娃在拂晓》 · 完整版 · 亚当夏娃在拂晓 · 完整讲读</title>
+      <description>《亚当夏娃在拂晓》挑战人类性行为的【标准叙事】：作者综合灵长类学、考古学、解剖学、人类学四类证据，提出人类并非天生一夫一妻，混交才是更古老的演化遗产；一夫一妻制与父权制其实是农业革命后私有财产催生的制度发明，只有约一万年历史，与人类两百万年的演化经验严重不匹配。本书撕开现代人在性、婚姻、嫉妒上的羞耻感与焦虑的真正来源——不是个人失败，而是叙事错配。</description>
+      <pubDate>Mon, 12 Oct 2026 19:24:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-457170</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《亚当夏娃在拂晓》挑战人类性行为的【标准叙事】：作者综合灵长类学、考古学、解剖学、人类学四类证据，提出人类并非天生一夫一妻，混交才是更古老的演化遗产；一夫一妻制与父权制其实是农业革命后私有财产催生的制度发明，只有约一万年历史，与人类两百万年的演化经验严重不匹配。本书撕开现代人在性、婚姻、嫉妒上的羞耻感与焦虑的真正来源——不是个人失败，而是叙事错配。</itunes:summary>
+      <itunes:duration>00:03:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-457170.mp3" length="1517235" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
