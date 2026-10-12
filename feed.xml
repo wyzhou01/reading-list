@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 00:25:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 00:31:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33827,6 +33827,17 @@
       <itunes:duration>00:16:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-c1e7fe.mp3" length="16290861" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《名家名译·俄罗斯长篇小说精选集（套装8册）》 · 完整版 · 名家名译·俄罗斯长篇小说精选集（套装8册） · 完整讲读</title>
+      <description>本套八卷精选集收录了列夫·托尔斯泰、陀思妥耶夫斯基、高尔基、奥斯特洛夫斯基四代俄国文豪代表作，跨越百年时光。核心围绕《复活》展开：一个贵族少爷年轻时诱奸少女，少女沦为妓女成为杀人嫌犯，他在法庭上认出她，认罪悔过，提出结婚赎罪，她却拒绝他，转身嫁给流放的革命者。托尔斯泰用十年写作、亲手推翻大团圆结局，逼出灵魂忏悔与道德复活的真正含义：认罪不是终点，承担社会之罪才是；饶恕不是一次动作，而是一生的功课。本书不仅是个人道德的追问，更是整个俄国上层社会的判决书。</description>
+      <pubDate>Mon, 12 Oct 2026 00:31:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-926b35</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本套八卷精选集收录了列夫·托尔斯泰、陀思妥耶夫斯基、高尔基、奥斯特洛夫斯基四代俄国文豪代表作，跨越百年时光。核心围绕《复活》展开：一个贵族少爷年轻时诱奸少女，少女沦为妓女成为杀人嫌犯，他在法庭上认出她，认罪悔过，提出结婚赎罪，她却拒绝他，转身嫁给流放的革命者。托尔斯泰用十年写作、亲手推翻大团圆结局，逼出灵魂忏悔与道德复活的真正含义：认罪不是终点，承担社会之罪才是；饶恕不是一次动作，而是一生的功课。本书不仅是个人道德的追问，更是整个俄国上层社会的判决书。</itunes:summary>
+      <itunes:duration>00:19:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-926b35.mp3" length="18450093" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
