@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 00:02:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 00:08:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33783,6 +33783,17 @@
       <itunes:duration>00:18:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-10eece.mp3" length="17380269" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《二刻拍案惊奇》 · 完整版 · 二刻拍案惊奇_[校注]_-_[明]凌濛初 · 完整讲读</title>
+      <description>《二刻拍案惊奇》是明末凌濛初编著的四十卷话本小说集，题材涵盖公案、侠义、神鬼、婚姻、市井，与冯梦龙《三言》并称明代话本双壁。本书借神鬼奇案、市井冷暖，写尽晚明州县政治的「盗化」与世道人心的因果流转。卷一《金刚经》写一卷千年经书散落、和尚入狱、官府敲诈的连环劫；卷二十五《郑蕊珠鸣冤》写冤魂托梦破命案；卷三十九《神偷寄兴一枝梅》写侠盗专偷赃官的反讽；卷四十收《宋公明闹元宵》杂剧。每一桩奇事背后都有一本看不见的账 — 不是天上的雷，是人心的总账簿。读《二刻》，读的不仅是明末世道，更是今天你我身边「神鬼之所以存在的理由」。</description>
+      <pubDate>Mon, 12 Oct 2026 00:08:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-dd98b3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《二刻拍案惊奇》是明末凌濛初编著的四十卷话本小说集，题材涵盖公案、侠义、神鬼、婚姻、市井，与冯梦龙《三言》并称明代话本双壁。本书借神鬼奇案、市井冷暖，写尽晚明州县政治的「盗化」与世道人心的因果流转。卷一《金刚经》写一卷千年经书散落、和尚入狱、官府敲诈的连环劫；卷二十五《郑蕊珠鸣冤》写冤魂托梦破命案；卷三十九《神偷寄兴一枝梅》写侠盗专偷赃官的反讽；卷四十收《宋公明闹元宵》杂剧。每一桩奇事背后都有一本看不见的账 — 不是天上的雷，是人心的总账簿。读《二刻》，读的不仅是明末世道，更是今天你我身边「神鬼之所以存在的理由」。</itunes:summary>
+      <itunes:duration>00:19:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-dd98b3.mp3" length="18803757" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
