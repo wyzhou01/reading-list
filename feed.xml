@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 03:08:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 03:14:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34014,6 +34014,17 @@
       <itunes:duration>00:03:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-09b2c3.mp3" length="1778878" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《九州·丧乱之瞳》 · 完整版 · 九州·丧乱之瞳 · 完整讲读</title>
+      <description>九州世界暗潮涌动，一个独眼黑影从神秘小城的地底密室中逃出，散布诡异的召唤吟唱，让平凡的猎人冯今川、被欺凌的妇人、宁州老祭司等各地看似普通的人骤然觉醒为秘术师。青年云湛与石秋瞳等人追寻这一连串异变的源头，卷入天驱与辰月的古老对抗，在乱世中挣扎求真，最终以一段跨越十七年的承诺为乱世点燃一丝温情。</description>
+      <pubDate>Mon, 12 Oct 2026 03:14:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-5a3df8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>九州世界暗潮涌动，一个独眼黑影从神秘小城的地底密室中逃出，散布诡异的召唤吟唱，让平凡的猎人冯今川、被欺凌的妇人、宁州老祭司等各地看似普通的人骤然觉醒为秘术师。青年云湛与石秋瞳等人追寻这一连串异变的源头，卷入天驱与辰月的古老对抗，在乱世中挣扎求真，最终以一段跨越十七年的承诺为乱世点燃一丝温情。</itunes:summary>
+      <itunes:duration>00:03:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-5a3df8.mp3" length="1554016" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
