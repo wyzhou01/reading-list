@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 08:15:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 08:22:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34300,6 +34300,17 @@
       <itunes:duration>00:03:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-999416.mp3" length="1482545" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《黄金屋：宏观对冲基金顶尖交易者的掘金之道（增订版）》 · 完整版 · 黄金屋：宏观对冲基金顶尖交易者的掘金之道（增订版）_(华章经典•金融投资) · 完整讲读</title>
+      <description>本书由全球宏观对冲基金资深顾问史蒂文·卓布尼撰写，独家采访了13位身家亿万的顶级宏观基金经理，首次系统披露了他们在固定收益、货币、商品、新兴市场等核心战场上的实战智慧、致命失误与暴利逻辑。书中揭示了宏观对冲基金如何在市场崩溃中逆势暴富——他们依靠自上而下的宏观判断、跨市场套利、相对价值交易与铁一般的纪律，在失衡中捕捉定价错配，在恐慌后逆向建仓，在混乱中点石成金。从凯恩斯的投资哲学到2008年金融海啸的精准预言，这本书既是顶级交易者的实战圣经，也是普通投资者理解全球资本市场、构建逆向思维与风险管理框架的启蒙读本。</description>
+      <pubDate>Mon, 12 Oct 2026 08:22:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-ef9499</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书由全球宏观对冲基金资深顾问史蒂文·卓布尼撰写，独家采访了13位身家亿万的顶级宏观基金经理，首次系统披露了他们在固定收益、货币、商品、新兴市场等核心战场上的实战智慧、致命失误与暴利逻辑。书中揭示了宏观对冲基金如何在市场崩溃中逆势暴富——他们依靠自上而下的宏观判断、跨市场套利、相对价值交易与铁一般的纪律，在失衡中捕捉定价错配，在恐慌后逆向建仓，在混乱中点石成金。从凯恩斯的投资哲学到2008年金融海啸的精准预言，这本书既是顶级交易者的实战圣经，也是普通投资者理解全球资本市场、构建逆向思维与风险管理框架的启蒙读本。</itunes:summary>
+      <itunes:duration>00:04:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-ef9499.mp3" length="2298819" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
