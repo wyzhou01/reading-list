@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 12:14:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 12:22:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34616,6 +34616,17 @@
       <itunes:duration>00:04:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-813dd8.mp3" length="2149608" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《比赛中的行为经济学》 · 完整版 · 比赛中的行为经济学 · 完整讲读</title>
+      <description>《比赛中的行为经济学》用真实数据拆穿体育世界里那些看似颠扑不破的迷信：误判、弃踢、里程碑焦虑、主场优势、热手效应、违禁药物……背后跳动的，都是同一条看不见的线——人类与生俱来的认知偏差。从裁判的不作为偏差，到教练的损失厌恶，再到球员的里程碑焦虑；从被高估的主场优势，到被误读的小样本，再到被滥用的统计数据，本书用严谨的行为经济学与海量赛场数据，把每一个想当然连根拔起。更深一层，作者提醒我们：赛场就是生活的隐喻。看懂裁判如何被球迷影响，你就能看懂自己如何被算法推送影响；看懂教练为何弃踢，你就能看懂自己为何不肯止损；看懂球员为何冲击里程碑，你就能看懂自己为何执着于社会标签。这本书不是教你怎么当裁判或教练，而是教你在每一个看似【凭直觉】的决定背后，先停下来，看清那根【看不见】的线。</description>
+      <pubDate>Mon, 12 Oct 2026 12:22:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-1dbaa4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《比赛中的行为经济学》用真实数据拆穿体育世界里那些看似颠扑不破的迷信：误判、弃踢、里程碑焦虑、主场优势、热手效应、违禁药物……背后跳动的，都是同一条看不见的线——人类与生俱来的认知偏差。从裁判的不作为偏差，到教练的损失厌恶，再到球员的里程碑焦虑；从被高估的主场优势，到被误读的小样本，再到被滥用的统计数据，本书用严谨的行为经济学与海量赛场数据，把每一个想当然连根拔起。更深一层，作者提醒我们：赛场就是生活的隐喻。看懂裁判如何被球迷影响，你就能看懂自己如何被算法推送影响；看懂教练为何弃踢，你就能看懂自己为何不肯止损；看懂球员为何冲击里程碑，你就能看懂自己为何执着于社会标签。这本书不是教你怎么当裁判或教练，而是教你在每一个看似【凭直觉】的决定背后，先停下来，看清那根【看不见】的线。</itunes:summary>
+      <itunes:duration>00:05:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-1dbaa4.mp3" length="2867662" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
