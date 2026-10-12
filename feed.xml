@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 23:26:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 23:34:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35342,6 +35342,17 @@
       <itunes:duration>00:04:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-c75787.mp3" length="2353154" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《法律与宗教》 · 完整版 · 法律与宗教_(汉译世界学术名著丛书)_-_梁治平 · 完整讲读</title>
+      <description>本书是哈佛法学院教授伯尔曼一九七一年罗威尔神学讲座的结集，议题是西方社会正在面临的整体性精神危机——对法律的信任与对宗教的信仰正同步崩塌。伯尔曼从人类学、历史、哲学与末世论四个向度论证：法律与宗教是社会经验的两个不可分离的向度，没有对法律的神圣信仰，规则再密也形同虚设；没有法律承载的宗教，信仰便流于空谈。西方法律传统奠基于基督教，却也内含反法律的暗潮，每一次革命都是用新宗教改造旧法律的过程。在革命时代的废墟上，他呼唤一种超越二元论的综合，借由各种友爱团体的实践生长出世界法与世界社群，使人类共同体真正得以建立。这是一部写给每一个关心秩序与意义之关系的人的书。</description>
+      <pubDate>Mon, 12 Oct 2026 23:34:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-747abe</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是哈佛法学院教授伯尔曼一九七一年罗威尔神学讲座的结集，议题是西方社会正在面临的整体性精神危机——对法律的信任与对宗教的信仰正同步崩塌。伯尔曼从人类学、历史、哲学与末世论四个向度论证：法律与宗教是社会经验的两个不可分离的向度，没有对法律的神圣信仰，规则再密也形同虚设；没有法律承载的宗教，信仰便流于空谈。西方法律传统奠基于基督教，却也内含反法律的暗潮，每一次革命都是用新宗教改造旧法律的过程。在革命时代的废墟上，他呼唤一种超越二元论的综合，借由各种友爱团体的实践生长出世界法与世界社群，使人类共同体真正得以建立。这是一部写给每一个关心秩序与意义之关系的人的书。</itunes:summary>
+      <itunes:duration>00:05:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-747abe.mp3" length="2662026" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
