@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 17:50:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 17:56:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34979,6 +34979,17 @@
       <itunes:duration>00:03:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-3550a2.mp3" length="1693614" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《忽然七日》 · 完整版 · 忽然七日 · 完整讲读</title>
+      <description>《忽然七日》讲述了一个十七岁女孩萨曼莎在情人节早晨反复循环同一天、每次都要再死一次的成长故事。她必须在一次次重来中，弄清自己临死前脑中闪过的那张小学时被她嘲笑的女孩的脸究竟意味着什么。书里没有真正的坏人，却有一整圈笑着把人推出圈外的旁观者。它撕开了所谓「受欢迎」的真相——最锋利的刀，往往来自你最信任的朋友。在循环的尽头，萨曼莎终于明白：她欠下的不是一笔账，而是一个她从未学会看见的人。</description>
+      <pubDate>Mon, 12 Oct 2026 17:56:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-0973c7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《忽然七日》讲述了一个十七岁女孩萨曼莎在情人节早晨反复循环同一天、每次都要再死一次的成长故事。她必须在一次次重来中，弄清自己临死前脑中闪过的那张小学时被她嘲笑的女孩的脸究竟意味着什么。书里没有真正的坏人，却有一整圈笑着把人推出圈外的旁观者。它撕开了所谓「受欢迎」的真相——最锋利的刀，往往来自你最信任的朋友。在循环的尽头，萨曼莎终于明白：她欠下的不是一笔账，而是一个她从未学会看见的人。</itunes:summary>
+      <itunes:duration>00:03:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-0973c7.mp3" length="1444511" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
