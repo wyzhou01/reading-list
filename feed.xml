@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 23:34:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 23:45:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35353,6 +35353,17 @@
       <itunes:duration>00:05:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-747abe.mp3" length="2662026" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《遍路：1200公里四国徒步记》 · 完整版 · 遍路：1200公里四国徒步记 · 完整讲读</title>
+      <description>《遍路：1200公里四国徒步记》是台湾上班族小欧的真实徒步手记。她从小到大靠减法过日子，研究生时期突然失去快乐的能力，却在一千二百公里的四国朝圣路上找回自己。全书借德岛发心、高知修行、爱媛菩提、香川涅槃四阶段隐喻，写出接待、同行与不完美的涅槃这三个疗愈核心。这不是一本宗教书或攻略书，而是一个普通人用脚步回应迷茫的内在疗愈记录。</description>
+      <pubDate>Mon, 12 Oct 2026 23:45:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-685340</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《遍路：1200公里四国徒步记》是台湾上班族小欧的真实徒步手记。她从小到大靠减法过日子，研究生时期突然失去快乐的能力，却在一千二百公里的四国朝圣路上找回自己。全书借德岛发心、高知修行、爱媛菩提、香川涅槃四阶段隐喻，写出接待、同行与不完美的涅槃这三个疗愈核心。这不是一本宗教书或攻略书，而是一个普通人用脚步回应迷茫的内在疗愈记录。</itunes:summary>
+      <itunes:duration>00:07:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-685340.mp3" length="3753735" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
