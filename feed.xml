@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 00:08:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 00:15:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33794,6 +33794,17 @@
       <itunes:duration>00:19:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-dd98b3.mp3" length="18803757" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《尤瓦尔简史三部曲（以《人类简史：从动物到上帝》为代表）》 · 完整版 · 尤瓦尔简史三部曲 · 完整讲读</title>
+      <description>《人类简史》是以色列历史学家尤瓦尔·赫拉利写给全人类的一封追问信。从七万年前的认知革命，到一万年前的农业革命，再到五百年前的科学革命，赫拉利以七大基础科目融会贯通的视角，重新审视了智人这个物种的整个上行史。书中提出五大振聋发聩的洞察：人类靠共同相信「虚构秩序」主宰了世界、农业革命不是智人驯化了小麦而是小麦驯化了智人、科学与资本主义的本质是一种「不相信上帝却相信增长」的现代宗教、历史越进步人类的满意感未必越高、智人正在用科技改写自身的物种定义甚至亲手改写历史终局。一部从宇宙大爆炸到人工智能时代的智人全球上位史，一部冷静、尖刻却充满悲悯的人类自我反思史。</description>
+      <pubDate>Mon, 12 Oct 2026 00:15:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-78650e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《人类简史》是以色列历史学家尤瓦尔·赫拉利写给全人类的一封追问信。从七万年前的认知革命，到一万年前的农业革命，再到五百年前的科学革命，赫拉利以七大基础科目融会贯通的视角，重新审视了智人这个物种的整个上行史。书中提出五大振聋发聩的洞察：人类靠共同相信「虚构秩序」主宰了世界、农业革命不是智人驯化了小麦而是小麦驯化了智人、科学与资本主义的本质是一种「不相信上帝却相信增长」的现代宗教、历史越进步人类的满意感未必越高、智人正在用科技改写自身的物种定义甚至亲手改写历史终局。一部从宇宙大爆炸到人工智能时代的智人全球上位史，一部冷静、尖刻却充满悲悯的人类自我反思史。</itunes:summary>
+      <itunes:duration>00:17:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-78650e.mp3" length="17166765" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
