@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 18:10:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 18:17:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35001,6 +35001,17 @@
       <itunes:duration>00:11:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-d1afd2.mp3" length="5636223" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《汤姆·索亚历险记》 · 完整版 · 汤姆·索亚历险记 · 完整讲读</title>
+      <description>《汤姆·索亚历险记》是马克·吐温以故乡汉尼拔为舞台创作的童年小说。汤姆·索亚逃学、打架、刷栅栏、当海盗、闯鬼屋、进山洞，用一次次的出格对抗僵化的成人世界。马克·吐温借这个满身泥巴的小男孩，写出了美国南方小镇的风土人情，写出了童年天真与冒险精神的礼赞，也写出了对虚伪文明与僵化教育的反叛。一百五十年来，这本书被翻译成无数种语言、被改编成无数种形式，却始终在全世界孩子的床头亮着——因为它替所有曾经是孩子的人，留住了那个还没被规训、还在吹口哨、还敢当英雄的自己。</description>
+      <pubDate>Mon, 12 Oct 2026 18:17:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-1cb3ad</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《汤姆·索亚历险记》是马克·吐温以故乡汉尼拔为舞台创作的童年小说。汤姆·索亚逃学、打架、刷栅栏、当海盗、闯鬼屋、进山洞，用一次次的出格对抗僵化的成人世界。马克·吐温借这个满身泥巴的小男孩，写出了美国南方小镇的风土人情，写出了童年天真与冒险精神的礼赞，也写出了对虚伪文明与僵化教育的反叛。一百五十年来，这本书被翻译成无数种语言、被改编成无数种形式，却始终在全世界孩子的床头亮着——因为它替所有曾经是孩子的人，留住了那个还没被规训、还在吹口哨、还敢当英雄的自己。</itunes:summary>
+      <itunes:duration>00:04:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-1cb3ad.mp3" length="2073957" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
