@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 19:09:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 19:14:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35177,6 +35177,17 @@
       <itunes:duration>00:04:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-abfafb.mp3" length="2337271" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《深暗》 · 完整版 · 深暗_(译文纪实) · 完整讲读</title>
+      <description>二零一零年八月，智利圣何塞铜金矿塌方，三十三名矿工被困地下七百米。普利策奖得主赫克托·托巴尔耗时三年采访，写成这本《深暗》。它不是英雄赞歌，而是追问——当渺小个体被丢进宏大系统，是什么支撑人在地底活下去？答案是：地底长出的秩序，一个轮班主管的担当，一个疯子点燃的火种，以及地面与地下之间咬牙建立的互信。六十九天后，三十三人全部生还。这本书写给每一个正在经历自己『七百米深处』的人——愿你在黑暗里，自己给自己点一盏灯。</description>
+      <pubDate>Mon, 12 Oct 2026 19:14:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-1a4788</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>二零一零年八月，智利圣何塞铜金矿塌方，三十三名矿工被困地下七百米。普利策奖得主赫克托·托巴尔耗时三年采访，写成这本《深暗》。它不是英雄赞歌，而是追问——当渺小个体被丢进宏大系统，是什么支撑人在地底活下去？答案是：地底长出的秩序，一个轮班主管的担当，一个疯子点燃的火种，以及地面与地下之间咬牙建立的互信。六十九天后，三十三人全部生还。这本书写给每一个正在经历自己『七百米深处』的人——愿你在黑暗里，自己给自己点一盏灯。</itunes:summary>
+      <itunes:duration>00:06:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-1a4788.mp3" length="3054489" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
