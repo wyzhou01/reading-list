@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 10:19:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 10:26:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34465,6 +34465,17 @@
       <itunes:duration>00:04:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-4a33d8.mp3" length="2358587" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《文案圣经》 · 完整版 · 文案圣经(1) · 完整讲读</title>
+      <description>《文案圣经》是现代广告之父克劳德·霍普金斯的两部代表作合集。他用优惠券追踪数据，首创试点推广和试营销方法，把广告从一场凭直觉的赌博变成一门可验证、可复制的科学。本书贯穿一条核心铁律：广告的唯一目的是促进销售，文案撰稿人的唯一身份是推销员。所有创意、所有修辞、所有视觉设计，都要为推销负责。他反复强调：标题是用来筛选对的人，图片只在比文字更有说服力时才用，文案要说完整的故事，具体的细节永远胜于笼统的吹嘘。一百年过去，媒介更替无数，但人性不变，原则不变。这是一本跨越时代的方法论手册，任何想让自己的内容真正带来订单的人，都值得把它从头到尾读一遍。</description>
+      <pubDate>Mon, 12 Oct 2026 10:26:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-23a17b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《文案圣经》是现代广告之父克劳德·霍普金斯的两部代表作合集。他用优惠券追踪数据，首创试点推广和试营销方法，把广告从一场凭直觉的赌博变成一门可验证、可复制的科学。本书贯穿一条核心铁律：广告的唯一目的是促进销售，文案撰稿人的唯一身份是推销员。所有创意、所有修辞、所有视觉设计，都要为推销负责。他反复强调：标题是用来筛选对的人，图片只在比文字更有说服力时才用，文案要说完整的故事，具体的细节永远胜于笼统的吹嘘。一百年过去，媒介更替无数，但人性不变，原则不变。这是一本跨越时代的方法论手册，任何想让自己的内容真正带来订单的人，都值得把它从头到尾读一遍。</itunes:summary>
+      <itunes:duration>00:03:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-23a17b.mp3" length="1577004" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
