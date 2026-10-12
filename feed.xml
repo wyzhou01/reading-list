@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 19:35:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 19:42:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35243,6 +35243,17 @@
       <itunes:duration>00:02:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-5618e3.mp3" length="1126026" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《见善》 · 完整版 · 见善v1.0_-_楚寒衣青 · 完整讲读</title>
+      <description>《见善》是楚寒衣青笔下的一部权谋言情长篇，改编自旧作《这个夫君有点野》。前世，徐善然是京城国公府嫡女，嫁入江南延平林家后被丈夫林世宣一碗一碗药毒杀，她在病榻之上布下冷局，亲手将这位差一步登顶首辅的伪善男人拉下马。重生之后，她手握先机，从江南后宅到京城朝堂，护住前世被害死的至亲，也等来了那个愿意与她并肩打江山的男人邵劲。一句【见善修然必以自存】，是她从被毒杀的徐善然手中接过的最硬的自救心法，也是她用来斩断一切伪善的最利的剑。</description>
+      <pubDate>Mon, 12 Oct 2026 19:42:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-03dc66</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《见善》是楚寒衣青笔下的一部权谋言情长篇，改编自旧作《这个夫君有点野》。前世，徐善然是京城国公府嫡女，嫁入江南延平林家后被丈夫林世宣一碗一碗药毒杀，她在病榻之上布下冷局，亲手将这位差一步登顶首辅的伪善男人拉下马。重生之后，她手握先机，从江南后宅到京城朝堂，护住前世被害死的至亲，也等来了那个愿意与她并肩打江山的男人邵劲。一句【见善修然必以自存】，是她从被毒杀的徐善然手中接过的最硬的自救心法，也是她用来斩断一切伪善的最利的剑。</itunes:summary>
+      <itunes:duration>00:04:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-03dc66.mp3" length="2053059" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
