@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 19:18:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 19:22:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35199,6 +35199,17 @@
       <itunes:duration>00:07:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-712924.mp3" length="3435668" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《幸福过了头》 · 完整版 · 幸福过了头-艾丽丝·门罗（译林出版社）（正版）（少于10人） · 完整讲读</title>
+      <description>《幸福过了头》是 2013 年诺贝尔文学奖得主艾丽丝·门罗在七十八岁那年交出的压轴之作，收录十篇以加拿大安大略小镇为背景的短篇小说。书中主角永远是那些在婚姻、暴力、母性与衰老中挣扎，却依然沉默着站起来的女人：多丽因为一罐有凹痕的意大利面失去了三个孩子；女数学家索菲娅·科瓦列夫斯基四十一岁死于肺炎，临终只说出『幸福过了头』四个字；一个当代加拿大女人在丈夫自杀后，按部就班地把他留下的每一件毛衣重新叠好。本期从一个细小的意大利面凹痕开始，拆解门罗的六块核心拼图：过量、克制、结构、缓慢、平视、余震。这是一本关于『活着却崩塌』的书，也是写给每一个走不出也没必要立刻走出来的当代人的许可。</description>
+      <pubDate>Mon, 12 Oct 2026 19:22:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-60fa08</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《幸福过了头》是 2013 年诺贝尔文学奖得主艾丽丝·门罗在七十八岁那年交出的压轴之作，收录十篇以加拿大安大略小镇为背景的短篇小说。书中主角永远是那些在婚姻、暴力、母性与衰老中挣扎，却依然沉默着站起来的女人：多丽因为一罐有凹痕的意大利面失去了三个孩子；女数学家索菲娅·科瓦列夫斯基四十一岁死于肺炎，临终只说出『幸福过了头』四个字；一个当代加拿大女人在丈夫自杀后，按部就班地把他留下的每一件毛衣重新叠好。本期从一个细小的意大利面凹痕开始，拆解门罗的六块核心拼图：过量、克制、结构、缓慢、平视、余震。这是一本关于『活着却崩塌』的书，也是写给每一个走不出也没必要立刻走出来的当代人的许可。</itunes:summary>
+      <itunes:duration>00:05:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-60fa08.mp3" length="2746871" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
