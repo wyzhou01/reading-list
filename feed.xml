@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 01:07:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 01:16:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33893,6 +33893,17 @@
       <itunes:duration>00:16:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-63e829.mp3" length="15680685" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《看不见的人》 · 完整版 · 看不见的人（企鹅经典丛书第二辑）_-_[美]拉尔夫·艾里森 · 完整讲读</title>
+      <description>《看不见的人》是美国黑人作家拉尔夫·艾里森历时七年写就的长篇巨著。一九五二年的纽约街头，一个黑人青年从南方来到北方，经历了大学的驱逐、工厂的算计、兄弟会的哄骗、机器医院的电击；他发现，无论身处南方还是北方，自己始终【不被看见】——不是被殴打，而是被归类、被当作符号、被装进别人早已画好的抽屉。最终他躲进一间漆黑的地下室，靠点亮的一千三百六十九盏灯写下自己的故事。本书超越一般意义上的种族小说，写出了所有【不被看见的人】的共同困境，并最终以布鲁斯式的笑声和自我叙事，宣告了一种比愤怒更深长的反抗：人只有自己讲出自己，才能真正被看见。</description>
+      <pubDate>Mon, 12 Oct 2026 01:16:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-3944f7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《看不见的人》是美国黑人作家拉尔夫·艾里森历时七年写就的长篇巨著。一九五二年的纽约街头，一个黑人青年从南方来到北方，经历了大学的驱逐、工厂的算计、兄弟会的哄骗、机器医院的电击；他发现，无论身处南方还是北方，自己始终【不被看见】——不是被殴打，而是被归类、被当作符号、被装进别人早已画好的抽屉。最终他躲进一间漆黑的地下室，靠点亮的一千三百六十九盏灯写下自己的故事。本书超越一般意义上的种族小说，写出了所有【不被看见的人】的共同困境，并最终以布鲁斯式的笑声和自我叙事，宣告了一种比愤怒更深长的反抗：人只有自己讲出自己，才能真正被看见。</itunes:summary>
+      <itunes:duration>00:20:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-3944f7.mp3" length="19735341" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
