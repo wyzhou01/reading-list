@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 19:59:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 20:04:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35287,6 +35287,17 @@
       <itunes:duration>00:03:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-673147.mp3" length="1540223" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《笑忘录》 · 完整版 · 笑忘录_-_米兰·昆德拉 · 完整讲读</title>
+      <description>《笑忘录》是米兰·昆德拉流亡法国后用法语写就的长篇小说，以一九六八年布拉格之春后捷克知识分子的命运为切口，将极权体制下系统性的人物抹除、记忆擦写与个体内心的自我审查，编织进七篇相互呼应的篇章。小说追问一个根本问题：当权力能够涂改照片、删除名字、销毁情书，人还能凭借什么证明自己存在？昆德拉的答案是：不要笑，不要忘，要在橡皮擦落下的地方，继续做一块拒绝消失的白斑。</description>
+      <pubDate>Mon, 12 Oct 2026 20:04:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-c19a7c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《笑忘录》是米兰·昆德拉流亡法国后用法语写就的长篇小说，以一九六八年布拉格之春后捷克知识分子的命运为切口，将极权体制下系统性的人物抹除、记忆擦写与个体内心的自我审查，编织进七篇相互呼应的篇章。小说追问一个根本问题：当权力能够涂改照片、删除名字、销毁情书，人还能凭借什么证明自己存在？昆德拉的答案是：不要笑，不要忘，要在橡皮擦落下的地方，继续做一块拒绝消失的白斑。</itunes:summary>
+      <itunes:duration>00:02:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-c19a7c.mp3" length="1200422" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
