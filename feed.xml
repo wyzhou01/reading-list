@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 19:42:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 19:48:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35254,6 +35254,17 @@
       <itunes:duration>00:04:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-03dc66.mp3" length="2053059" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《天崩地裂三百年：两晋南北朝（下部）》 · 完整版 · 天崩地裂三百年：两晋南北朝下部 · 完整讲读</title>
+      <description>本书以通俗讲史的笔法，把两晋南北朝三百年最被忽略、最被误读的大分裂时代，重新拼成一条完整的因果链：从参合陂的血色黎明，到拓跋焘饮马长江、刘裕北伐长安、尔朱荣河阴之变、陈庆之白袍传奇，最终到杨坚渡江灭陈。重点破解三个核心谜题：北魏凭什么碾压后燕、南朝为何有北伐之名却无北伐之实、寒门武人刘裕如何终结门阀政治。读完本书，你会看清一个核心结论：三百年乱世不是无意义的内耗，而是中华民族在血肉中完成的一次大融合与大重组——是这段血火交织的「合」字，奠定了隋唐大一统的精神底色，也留下了读懂中国之所以是中国的关键钥匙。</description>
+      <pubDate>Mon, 12 Oct 2026 19:48:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-fcb0df</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书以通俗讲史的笔法，把两晋南北朝三百年最被忽略、最被误读的大分裂时代，重新拼成一条完整的因果链：从参合陂的血色黎明，到拓跋焘饮马长江、刘裕北伐长安、尔朱荣河阴之变、陈庆之白袍传奇，最终到杨坚渡江灭陈。重点破解三个核心谜题：北魏凭什么碾压后燕、南朝为何有北伐之名却无北伐之实、寒门武人刘裕如何终结门阀政治。读完本书，你会看清一个核心结论：三百年乱世不是无意义的内耗，而是中华民族在血肉中完成的一次大融合与大重组——是这段血火交织的「合」字，奠定了隋唐大一统的精神底色，也留下了读懂中国之所以是中国的关键钥匙。</itunes:summary>
+      <itunes:duration>00:03:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-fcb0df.mp3" length="1723707" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
