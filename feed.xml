@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 02:52:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 03:01:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33992,6 +33992,17 @@
       <itunes:duration>00:21:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-c586ca.mp3" length="20702253" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《孤独的克里雅》 · 完整版 · 孤独的克里雅 · 完整讲读</title>
+      <description>《孤独的克里雅》是一个破产的环球骑行者八千里路的自述。他在二零一二年五月，从西藏界山达坂出发，单人单车翻越克里雅山口，用十三天时间走通克里雅古道，成为继杜一之后第二个成功走完这条路线的中国人。书中既写羌塘无人区的苍凉、月色、藏羚羊与狂风，也写破产的窘迫、边防证被宰、行李被甩、被列车员当众扯衣领的屈辱。一边是河南老乡、藏族警察、不知名旅客塞过来的五十块钱；另一边是答应好的车费、欠账不还、临阵加价。作者用这本书记下了一次用命换来的徒步，也记下了人性最复杂、最赤裸的那一面。</description>
+      <pubDate>Mon, 12 Oct 2026 03:01:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-28c829</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《孤独的克里雅》是一个破产的环球骑行者八千里路的自述。他在二零一二年五月，从西藏界山达坂出发，单人单车翻越克里雅山口，用十三天时间走通克里雅古道，成为继杜一之后第二个成功走完这条路线的中国人。书中既写羌塘无人区的苍凉、月色、藏羚羊与狂风，也写破产的窘迫、边防证被宰、行李被甩、被列车员当众扯衣领的屈辱。一边是河南老乡、藏族警察、不知名旅客塞过来的五十块钱；另一边是答应好的车费、欠账不还、临阵加价。作者用这本书记下了一次用命换来的徒步，也记下了人性最复杂、最赤裸的那一面。</itunes:summary>
+      <itunes:duration>00:15:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-28c829.mp3" length="14928429" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
