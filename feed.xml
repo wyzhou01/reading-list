@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 17:37:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 17:39:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34935,6 +34935,17 @@
       <itunes:duration>00:06:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-8b78e6.mp3" length="3132230" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我们一无所有》 · 完整版 · 我们一无所有 · 完整讲读</title>
+      <description>《我们一无所有》是美国作家安东尼·马拉的短篇集，以九代人的碎片故事缝合出一段被审查与战争反复碾压的俄罗斯当代史。故事从一九三七年大清洗时期的画家兼审查员罗曼开始，他坐在地下几百米深的隧道里用喷笔涂去被标记者的面孔，却偷偷把弟弟沃斯卡的肖像藏进每一张被允许存在的照片背景中。横跨基洛夫格勒的劳改营岁月、车臣战火、二〇〇〇年代的寡头时代，直至外太空临终独白，每一个故事都在追问同一个问题：在极权与暴力面前，艺术能否保存真实？记忆能否跨越时代？马拉的答案藏在原子与卡带里：审查可以涂掉一张脸，却涂不掉组成肉身的粒子；背叛或许能换一张通行证，但弟弟蹩脚的哼唱，能陪伴宇航员飘到太阳系的尽头。这本书提醒读者，抵抗不必站在街头，它可以藏在审查员自己的喷笔里，藏在每一处被命令「涂掉」的地方偷偷「画上」。</description>
+      <pubDate>Mon, 12 Oct 2026 17:39:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-db52af</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我们一无所有》是美国作家安东尼·马拉的短篇集，以九代人的碎片故事缝合出一段被审查与战争反复碾压的俄罗斯当代史。故事从一九三七年大清洗时期的画家兼审查员罗曼开始，他坐在地下几百米深的隧道里用喷笔涂去被标记者的面孔，却偷偷把弟弟沃斯卡的肖像藏进每一张被允许存在的照片背景中。横跨基洛夫格勒的劳改营岁月、车臣战火、二〇〇〇年代的寡头时代，直至外太空临终独白，每一个故事都在追问同一个问题：在极权与暴力面前，艺术能否保存真实？记忆能否跨越时代？马拉的答案藏在原子与卡带里：审查可以涂掉一张脸，却涂不掉组成肉身的粒子；背叛或许能换一张通行证，但弟弟蹩脚的哼唱，能陪伴宇航员飘到太阳系的尽头。这本书提醒读者，抵抗不必站在街头，它可以藏在审查员自己的喷笔里，藏在每一处被命令「涂掉」的地方偷偷「画上」。</itunes:summary>
+      <itunes:duration>00:03:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-db52af.mp3" length="1564465" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
