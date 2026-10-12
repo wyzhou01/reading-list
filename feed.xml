@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 09:40:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 09:51:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34410,6 +34410,17 @@
       <itunes:duration>00:03:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-119c99.mp3" length="1584109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《欢乐颂：第一季》 · 完整版 · 欢乐颂：第一季 · 完整讲读</title>
+      <description>《欢乐颂第一季》是阿耐写的都市女性群像小说，讲述了海市欢乐颂小区二十二楼五位女性——归国精英安迪、资深HR樊胜美、小职员邱莹莹与关雎尔、富二代曲筱绡——在阶层、原生家庭、职场与情感中的挣扎与互助。她们各自背负不同的锁链，却在合租屋的薄墙之内，成为彼此的镜子与伞。小说没有玛丽苏，没有金手指，只有大都市里五个女孩一边崩溃、一边自愈的真实困局。它告诉我们：女性的安全感不来自任何单一支点，而来自多线押注；真正的友谊不是彼此透明，而是彼此独立后再靠近；阶层跨越不是一蹴而就，而是一辈子的长跑。</description>
+      <pubDate>Mon, 12 Oct 2026 09:51:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-c23684</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《欢乐颂第一季》是阿耐写的都市女性群像小说，讲述了海市欢乐颂小区二十二楼五位女性——归国精英安迪、资深HR樊胜美、小职员邱莹莹与关雎尔、富二代曲筱绡——在阶层、原生家庭、职场与情感中的挣扎与互助。她们各自背负不同的锁链，却在合租屋的薄墙之内，成为彼此的镜子与伞。小说没有玛丽苏，没有金手指，只有大都市里五个女孩一边崩溃、一边自愈的真实困局。它告诉我们：女性的安全感不来自任何单一支点，而来自多线押注；真正的友谊不是彼此透明，而是彼此独立后再靠近；阶层跨越不是一蹴而就，而是一辈子的长跑。</itunes:summary>
+      <itunes:duration>00:06:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-c23684.mp3" length="2994721" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
