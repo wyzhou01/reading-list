@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 18:52:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 18:55:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35122,6 +35122,17 @@
       <itunes:duration>00:03:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-281e31.mp3" length="1745023" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大河小说三部曲：李劼人文集（暴风雨前·死水微澜·大波）》 · 完整版 · 大河小说三部曲·李劼人文集_暴风雨前_死水微澜_大波(上下册)(套装共4册)_-_李劼人_八 · 完整讲读</title>
+      <description>《大河小说三部曲》是李劼人用二十年时间写就的四川近代史诗，从甲午到辛亥，以三部连续长篇——《死水微澜》《暴风雨前》《大波》——再现了成都及川西坝子二十年间教民与袍哥的相激相荡、半官半绅家庭的分裂、维新到保路的思想激荡，以及袍哥会与保路运动如何将清朝连根拔起。李劼人用法文译过福楼拜，当过成都副市长，可他最看重的，是把甲午到辛亥这段历史，一段一段、一个人一个人、一顿饭一顿饭地钉死，写出近代中国的毛细血管。郭沫若誉之为【小说的近代史】【小说的华阳国志】——它不是主义的小说，是饭碗的小说，是袍哥开山、洋教设堂、士绅算盘一起翻炒的市井巨著。读懂三部曲，等于读懂了近代中国内陆社会最真实的一次断裂。</description>
+      <pubDate>Mon, 12 Oct 2026 18:55:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-498a73</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大河小说三部曲》是李劼人用二十年时间写就的四川近代史诗，从甲午到辛亥，以三部连续长篇——《死水微澜》《暴风雨前》《大波》——再现了成都及川西坝子二十年间教民与袍哥的相激相荡、半官半绅家庭的分裂、维新到保路的思想激荡，以及袍哥会与保路运动如何将清朝连根拔起。李劼人用法文译过福楼拜，当过成都副市长，可他最看重的，是把甲午到辛亥这段历史，一段一段、一个人一个人、一顿饭一顿饭地钉死，写出近代中国的毛细血管。郭沫若誉之为【小说的近代史】【小说的华阳国志】——它不是主义的小说，是饭碗的小说，是袍哥开山、洋教设堂、士绅算盘一起翻炒的市井巨著。读懂三部曲，等于读懂了近代中国内陆社会最真实的一次断裂。</itunes:summary>
+      <itunes:duration>00:05:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-498a73.mp3" length="2578016" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
