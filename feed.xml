@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 12:03:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 12:06:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34594,6 +34594,17 @@
       <itunes:duration>00:03:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-6a997c.mp3" length="1581183" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《追问》 · 完整版 · 生命的追问_张海迪 · 完整讲读</title>
+      <description>《生命的追问》是张海迪用文学写给命运的回答。她五岁高位截瘫，一生大多在病榻上度过，却自学了大学课程和多门外语，写下数百万字作品。这本散文集由二十多篇篇目组成，她以明亮的笔调回忆童年——隔离室里撵进大公鸡的女孩儿、爬楼顶的淘气小丫头、吹着口哨和苏联歌曲的少女、用彩色铅笔画出的花书包；她写母亲的清贫与体面：缝在衣兜里的钱、玻璃瓶里的清蒸带鱼、一枚普通的发卡；她写少女时代的精神之恋：苏联的斯维尔德洛夫、罗马尼亚的小提琴家波隆贝斯库，写到丈夫用一份解密档案让偶像轰然倒塌；她写与先生两个独立灵魂的相互支撑，写什么是自我、什么是体面、什么是文学。她不是在展览苦难，而是在追问——一个被禁锢的身体，如何依然长出对世界丰沛的爱、热烈的好奇与不灭的尊严。</description>
+      <pubDate>Mon, 12 Oct 2026 02:35:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-9e7758</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《生命的追问》是张海迪用文学写给命运的回答。她五岁高位截瘫，一生大多在病榻上度过，却自学了大学课程和多门外语，写下数百万字作品。这本散文集由二十多篇篇目组成，她以明亮的笔调回忆童年——隔离室里撵进大公鸡的女孩儿、爬楼顶的淘气小丫头、吹着口哨和苏联歌曲的少女、用彩色铅笔画出的花书包；她写母亲的清贫与体面：缝在衣兜里的钱、玻璃瓶里的清蒸带鱼、一枚普通的发卡；她写少女时代的精神之恋：苏联的斯维尔德洛夫、罗马尼亚的小提琴家波隆贝斯库，写到丈夫用一份解密档案让偶像轰然倒塌；她写与先生两个独立灵魂的相互支撑，写什么是自我、什么是体面、什么是文学。她不是在展览苦难，而是在追问——一个被禁锢的身体，如何依然长出对世界丰沛的爱、热烈的好奇与不灭的尊严。</itunes:summary>
+      <itunes:duration>00:29:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-9e7758.mp3" length="28524333" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
