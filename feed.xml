@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 00:15:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 00:22:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33805,6 +33805,17 @@
       <itunes:duration>00:17:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-78650e.mp3" length="17166765" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《好食集》 · 完整版 · 好食集 · 完整讲读</title>
+      <description>《好食集》是韩梅梅写给所有在异乡漂泊过的人的味觉家书。她用五十多种普通食物——云南的米、四川的辣椒、南锣鼓巷的杏仁豆腐、阳朔的新疆抓饭、外婆家门口那棵比她还大十几岁的樱桃树——回答一个朴素的问题：在超市什么都能买到的今天，我们为什么依然会为一碟普通的杏仁豆腐而动容。全书不教做菜、不评馆子、不炫耀走过的地方，只是用一碗粥、一碟醋、一袋没人听说过牌子的米，提醒读者：你以为你只是想一口吃食，其实你想的是再也回不去的那个人、那段日子、那袋被扛了一个半小时下山的新米。食物在我们生命里承担的，从来不只是营养，是证据。</description>
+      <pubDate>Mon, 12 Oct 2026 00:22:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-2c0554</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《好食集》是韩梅梅写给所有在异乡漂泊过的人的味觉家书。她用五十多种普通食物——云南的米、四川的辣椒、南锣鼓巷的杏仁豆腐、阳朔的新疆抓饭、外婆家门口那棵比她还大十几岁的樱桃树——回答一个朴素的问题：在超市什么都能买到的今天，我们为什么依然会为一碟普通的杏仁豆腐而动容。全书不教做菜、不评馆子、不炫耀走过的地方，只是用一碗粥、一碟醋、一袋没人听说过牌子的米，提醒读者：你以为你只是想一口吃食，其实你想的是再也回不去的那个人、那段日子、那袋被扛了一个半小时下山的新米。食物在我们生命里承担的，从来不只是营养，是证据。</itunes:summary>
+      <itunes:duration>00:19:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-2c0554.mp3" length="18604461" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
