@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 16:36:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 16:42:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34836,6 +34836,17 @@
       <itunes:duration>00:03:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-917a15.mp3" length="1889219" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《他们在岛屿生活（中国故事）》 · 完整版 · 他们在岛屿生活（中国故事）_-_房慧真 · 完整讲读</title>
+      <description>《他们在岛屿生活》是台湾资深记者房慧真所写的一批扎根岛屿的文化人物群像。书中收录了侯孝贤用顺势颠覆电影、林怀民用三十年身体训练长出云门的国家颜色、蔡明亮孤独坚持作者电影、周伶芬笔下山城咖啡屋里两个小学同学四十年后重逢的刺痛故事，以及朱天心一边喂猫一边写作、在坐而言与起而行之间长期拉锯的现场。这不是旅游书，而是一份关于创作者在有限资源与被误读的窄路里，仍然把生命磨成自己相信样子的工作日志。</description>
+      <pubDate>Mon, 12 Oct 2026 16:42:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-b4f872</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《他们在岛屿生活》是台湾资深记者房慧真所写的一批扎根岛屿的文化人物群像。书中收录了侯孝贤用顺势颠覆电影、林怀民用三十年身体训练长出云门的国家颜色、蔡明亮孤独坚持作者电影、周伶芬笔下山城咖啡屋里两个小学同学四十年后重逢的刺痛故事，以及朱天心一边喂猫一边写作、在坐而言与起而行之间长期拉锯的现场。这不是旅游书，而是一份关于创作者在有限资源与被误读的窄路里，仍然把生命磨成自己相信样子的工作日志。</itunes:summary>
+      <itunes:duration>00:02:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-b4f872.mp3" length="1431554" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
