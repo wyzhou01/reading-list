@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 07:48:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 07:58:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34256,6 +34256,17 @@
       <itunes:duration>00:03:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-99bd97.mp3" length="1622561" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《窄门》 · 完整版 · 窄门（果麦版） · 完整讲读</title>
+      <description>《窄门》是法国作家纪德的半自传体中篇，借一对表姐弟的恋情，探讨爱情与完美能否共存。少年杰罗姆与表姐阿莉莎彼此深爱，却将对方神化。阿莉莎为配得上他想象中的自己，放弃尘世幸福；杰罗姆为配得上她，苦读自律却永不出手。纪德借此追问：当理想化成为爱情的燃料，结局为何总是错过？窄门困死的不是追求完美的人，而是拒绝降临人间的人。</description>
+      <pubDate>Mon, 12 Oct 2026 07:58:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-086314</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《窄门》是法国作家纪德的半自传体中篇，借一对表姐弟的恋情，探讨爱情与完美能否共存。少年杰罗姆与表姐阿莉莎彼此深爱，却将对方神化。阿莉莎为配得上他想象中的自己，放弃尘世幸福；杰罗姆为配得上她，苦读自律却永不出手。纪德借此追问：当理想化成为爱情的燃料，结局为何总是错过？窄门困死的不是追求完美的人，而是拒绝降临人间的人。</itunes:summary>
+      <itunes:duration>00:07:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-086314.mp3" length="3649245" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
