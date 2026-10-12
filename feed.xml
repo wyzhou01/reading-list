@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 07:31:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 07:39:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34234,6 +34234,17 @@
       <itunes:duration>00:05:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-c4d4ed.mp3" length="2552938" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《无法回家的人》 · 完整版 · 无法回家的人（中国故事）_-_杨磊 · 完整讲读</title>
+      <description>本书讲述了一个重庆少年谭司令在1969年响应&quot;上山下乡&quot;号召，越境参加缅共游击队，从青涩知青蜕变为革命军人谭凯旋的人生轨迹。他带着《共产党宣言》跨过界河，参加&quot;红色知青旅&quot;，在缅北浴血奋战数十年，最终在2006年死于枪伤——那个叫谭凯旋的战士终于不再想家。一个关于理想、信仰、流亡与无法归乡的故事。</description>
+      <pubDate>Mon, 12 Oct 2026 07:39:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-fe173e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书讲述了一个重庆少年谭司令在1969年响应&quot;上山下乡&quot;号召，越境参加缅共游击队，从青涩知青蜕变为革命军人谭凯旋的人生轨迹。他带着《共产党宣言》跨过界河，参加&quot;红色知青旅&quot;，在缅北浴血奋战数十年，最终在2006年死于枪伤——那个叫谭凯旋的战士终于不再想家。一个关于理想、信仰、流亡与无法归乡的故事。</itunes:summary>
+      <itunes:duration>00:04:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-fe173e.mp3" length="2025892" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
