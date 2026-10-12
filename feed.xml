@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 19:30:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 19:35:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35232,6 +35232,17 @@
       <itunes:duration>00:03:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-bd482a.mp3" length="1734574" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《如何把产品打造成有生命的品牌：跟广告鬼才叶明桂学品牌的技术与艺术》 · 完整版 · 如何把产品打造成有生命的品牌 · 完整讲读</title>
+      <description>《如何把产品打造成有生命的品牌》是台湾奥美前策略长叶明桂三十年方法论的结晶。书中以左岸咖啡馆、全联福利中心、台湾高铁等本土经典案例，拆解品牌从产品到有生命体的全过程：好策略源于解决具体的商业课题，传播必须为产品注入溢价；好品牌必须有清晰的个性与风格，再用一致的纪律持续浇灌；好广告是科学与艺术的焊接，既要策略的纪律，也要创意的魔法。作者直面数字时代对广告的质疑，强调品牌内涵的清晰才是一切整合的起点。这是一本写给品牌从业者、广告人、商人与父母的实战手册，也是一位老兵对【品牌】这件事最朴素的信仰。</description>
+      <pubDate>Mon, 12 Oct 2026 19:34:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-5618e3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《如何把产品打造成有生命的品牌》是台湾奥美前策略长叶明桂三十年方法论的结晶。书中以左岸咖啡馆、全联福利中心、台湾高铁等本土经典案例，拆解品牌从产品到有生命体的全过程：好策略源于解决具体的商业课题，传播必须为产品注入溢价；好品牌必须有清晰的个性与风格，再用一致的纪律持续浇灌；好广告是科学与艺术的焊接，既要策略的纪律，也要创意的魔法。作者直面数字时代对广告的质疑，强调品牌内涵的清晰才是一切整合的起点。这是一本写给品牌从业者、广告人、商人与父母的实战手册，也是一位老兵对【品牌】这件事最朴素的信仰。</itunes:summary>
+      <itunes:duration>00:02:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-5618e3.mp3" length="1126026" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
