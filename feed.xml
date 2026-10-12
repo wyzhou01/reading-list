@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 15:04:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 15:17:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34715,6 +34715,17 @@
       <itunes:duration>00:08:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-5078c3.mp3" length="4114016" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《修道士》 · 完整版 · 修道士 · 完整讲读</title>
+      <description>《修道士》是英国作家马修·格雷戈里·刘易斯十九岁时写下的哥特式惊世之作，讲述马德里卡普琴斯修道院院长安布罗斯被压抑的欲望如何在封闭的高墙内一步步膨胀、扭曲、爆发，最终犯下弑母、淫妹、出卖灵魂等骇人罪行的全过程。小说以浮士德式契约、地下墓穴、血性修女等经典意象，深刻揭示了宗教禁欲主义对人性的摧残：当一个人被禁止爱、被禁止恨、被禁止成为正常人，那些被压抑到极致的情欲，最终会撕碎所有伪善的圣衣，把【圣人】变成比魔鬼更可怕的恶魔。</description>
+      <pubDate>Mon, 12 Oct 2026 15:17:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-4314cc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《修道士》是英国作家马修·格雷戈里·刘易斯十九岁时写下的哥特式惊世之作，讲述马德里卡普琴斯修道院院长安布罗斯被压抑的欲望如何在封闭的高墙内一步步膨胀、扭曲、爆发，最终犯下弑母、淫妹、出卖灵魂等骇人罪行的全过程。小说以浮士德式契约、地下墓穴、血性修女等经典意象，深刻揭示了宗教禁欲主义对人性的摧残：当一个人被禁止爱、被禁止恨、被禁止成为正常人，那些被压抑到极致的情欲，最终会撕碎所有伪善的圣衣，把【圣人】变成比魔鬼更可怕的恶魔。</itunes:summary>
+      <itunes:duration>00:08:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-4314cc.mp3" length="4118613" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
