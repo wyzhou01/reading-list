@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Sun, 11 Oct 2026 23:54:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 00:02:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33772,6 +33772,17 @@
       <itunes:duration>00:25:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-b2245c.mp3" length="24143277" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《真相推理师：嬗变》 · 完整版 · 真相推理师：嬗变 · 完整讲读</title>
+      <description>《真相推理师:嬗变》是呼延云二〇一七年推出的硬核推理代表作,以N市接连爆发的模仿开膛手杰克的连环命案为主线,在割乳、灌硫酸、折断指骨的极端残害背后,抛出一个更深的问题:当凶手把警方当成对手,主动透露下一个猎物的位置,当整座城市在恐慌中自我催眠,他真正想完成的,究竟是一场杀戮,还是一次对人性嬗变的盛大实验?呼延云借林香茗、刘思缈、蕾蓉、郭小芬四个绝不投降的灵魂,给出了他的答案——绝望中的咆哮,比所有的欢笑和掌声,都更接近人生的本真。这是一本写给所有拒绝在黑暗中闭上眼睛的人的书,也是华语原创推理里,最接近十九世纪那颗反抗之心的作品。</description>
+      <pubDate>Mon, 12 Oct 2026 00:02:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-10eece</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《真相推理师:嬗变》是呼延云二〇一七年推出的硬核推理代表作,以N市接连爆发的模仿开膛手杰克的连环命案为主线,在割乳、灌硫酸、折断指骨的极端残害背后,抛出一个更深的问题:当凶手把警方当成对手,主动透露下一个猎物的位置,当整座城市在恐慌中自我催眠,他真正想完成的,究竟是一场杀戮,还是一次对人性嬗变的盛大实验?呼延云借林香茗、刘思缈、蕾蓉、郭小芬四个绝不投降的灵魂,给出了他的答案——绝望中的咆哮,比所有的欢笑和掌声,都更接近人生的本真。这是一本写给所有拒绝在黑暗中闭上眼睛的人的书,也是华语原创推理里,最接近十九世纪那颗反抗之心的作品。</itunes:summary>
+      <itunes:duration>00:18:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-10eece.mp3" length="17380269" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
