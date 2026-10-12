@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 17:44:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 17:46:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34957,6 +34957,17 @@
       <itunes:duration>00:02:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-1cc3f6.mp3" length="975560" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《圈层效应：理解消费主力95后的商业逻辑》 · 完整版 · 圈层效应 · 完整讲读</title>
+      <description>本书提出一个尖锐命题：九五后带来的不是一代人，而是一套新行为模式。技术碾平了年龄壁垒，年龄包容性、在线化、低技术门槛、财富影响力下降、文化跨界、创意思维——六种【圈层效应】正在重塑每一个组织的运作方式。当五个世代挤进同一间办公室，代际隔阂就不再是隔阂，而是必须被打破的巴别塔。理解并接受Z世代，意味着你将能够应对有史以来年龄跨度最大的人群，建立后世代组织，重新分配财富影响力，并用跨界的教育与文化连接所有世代。谁先读懂，谁就拿到未来商业的通行证。</description>
+      <pubDate>Mon, 12 Oct 2026 17:46:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-583e2a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书提出一个尖锐命题：九五后带来的不是一代人，而是一套新行为模式。技术碾平了年龄壁垒，年龄包容性、在线化、低技术门槛、财富影响力下降、文化跨界、创意思维——六种【圈层效应】正在重塑每一个组织的运作方式。当五个世代挤进同一间办公室，代际隔阂就不再是隔阂，而是必须被打破的巴别塔。理解并接受Z世代，意味着你将能够应对有史以来年龄跨度最大的人群，建立后世代组织，重新分配财富影响力，并用跨界的教育与文化连接所有世代。谁先读懂，谁就拿到未来商业的通行证。</itunes:summary>
+      <itunes:duration>00:05:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-583e2a.mp3" length="2797026" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
