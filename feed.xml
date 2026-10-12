@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 09:14:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 09:23:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34377,6 +34377,17 @@
       <itunes:duration>00:05:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-663924.mp3" length="2764426" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《解读希特勒》 · 完整版 · 解读希特勒 · 完整讲读</title>
+      <description>《解读希特勒》是德国政治评论家塞巴斯蒂安·哈夫纳于一九七八年出版的经典历史小书，用生涯、成就、成功、错误、失策、罪行、背叛七个关键词，以普通人的常识与逻辑，拆解这位二十世纪最大独裁者的真实骨架。本书既不神化也不妖魔化希特勒，而是冷静还原其作为政治赌徒的崛起逻辑、对德意志国家传统的吞噬、战争末期对本国人民的屠杀，以及战后德国集体失忆的道德隐患。哈夫纳的笔法克制而锋利，是一面让纳粹幽灵原形毕露的照妖镜，更是一剂让所有现代人保持清醒的预防针。</description>
+      <pubDate>Mon, 12 Oct 2026 09:23:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-7aa008</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《解读希特勒》是德国政治评论家塞巴斯蒂安·哈夫纳于一九七八年出版的经典历史小书，用生涯、成就、成功、错误、失策、罪行、背叛七个关键词，以普通人的常识与逻辑，拆解这位二十世纪最大独裁者的真实骨架。本书既不神化也不妖魔化希特勒，而是冷静还原其作为政治赌徒的崛起逻辑、对德意志国家传统的吞噬、战争末期对本国人民的屠杀，以及战后德国集体失忆的道德隐患。哈夫纳的笔法克制而锋利，是一面让纳粹幽灵原形毕露的照妖镜，更是一剂让所有现代人保持清醒的预防针。</itunes:summary>
+      <itunes:duration>00:05:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-7aa008.mp3" length="2842584" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
