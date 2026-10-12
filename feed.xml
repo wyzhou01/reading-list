@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 12:43:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 14:26:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34660,6 +34660,17 @@
       <itunes:duration>00:05:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-53570a.mp3" length="2421281" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大漠谣》 · 完整版 · 大漠谣 · 完整讲读</title>
+      <description>《大漠谣》是桐华继《步步惊心》之后的转型之作，以汉武帝时期霍去病、卫青北击匈奴为背景，讲述被狼群养大的女孩玉谨在汉匈两大文明的夹缝中长大，与少年将军霍去病、左谷蠡王伊稚斜、轮椅医者孟西漠之间交织的爱恨与理想。小说借一段跨越民族的爱情与友情，叩问个体命运与历史大势的碰撞、自由与归属的永恒追问，呈现一个不属于任何阵营的人，如何在阵营的刀锋下护住心里那点不肯熄灭的东西。</description>
+      <pubDate>Mon, 12 Oct 2026 14:26:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-476640</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大漠谣》是桐华继《步步惊心》之后的转型之作，以汉武帝时期霍去病、卫青北击匈奴为背景，讲述被狼群养大的女孩玉谨在汉匈两大文明的夹缝中长大，与少年将军霍去病、左谷蠡王伊稚斜、轮椅医者孟西漠之间交织的爱恨与理想。小说借一段跨越民族的爱情与友情，叩问个体命运与历史大势的碰撞、自由与归属的永恒追问，呈现一个不属于任何阵营的人，如何在阵营的刀锋下护住心里那点不肯熄灭的东西。</itunes:summary>
+      <itunes:duration>00:02:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-476640.mp3" length="1306584" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
