@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 17:46:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 17:50:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34968,6 +34968,17 @@
       <itunes:duration>00:05:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-583e2a.mp3" length="2797026" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《花醉三千》 · 完整版 · 花醉三千_-_素子花殇 · 完整讲读</title>
+      <description>《花醉三千》讲述中渊九公主蔚景在大婚之夜被未婚夫锦弦误杀七姐姐，被迫冒充姐姐远嫁云漠，在敌国步步危机中与乐师凌澜相遇相知。凌澜一路识破她的身份却选择守护，她却在灼华岛躲藏两年不敢面对。最终凌澜在桃花林里用童年梨树的往事将她找回，两人放下复仇与愧疚，选择宽恕与相守。素子花殇借替嫁与错杀的外壳，写尽乱世之中，爱与宽恕如何成为救赎一个人最深的因果。</description>
+      <pubDate>Mon, 12 Oct 2026 17:50:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-3550a2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《花醉三千》讲述中渊九公主蔚景在大婚之夜被未婚夫锦弦误杀七姐姐，被迫冒充姐姐远嫁云漠，在敌国步步危机中与乐师凌澜相遇相知。凌澜一路识破她的身份却选择守护，她却在灼华岛躲藏两年不敢面对。最终凌澜在桃花林里用童年梨树的往事将她找回，两人放下复仇与愧疚，选择宽恕与相守。素子花殇借替嫁与错杀的外壳，写尽乱世之中，爱与宽恕如何成为救赎一个人最深的因果。</itunes:summary>
+      <itunes:duration>00:03:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-3550a2.mp3" length="1693614" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
