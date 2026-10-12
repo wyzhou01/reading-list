@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 02:35:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 02:44:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -33970,6 +33970,17 @@
       <itunes:duration>00:29:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-9e7758.mp3" length="28524333" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《莱伯维茨的赞歌》 · 完整版 · 莱伯维茨的赞歌 · 完整讲读</title>
+      <description>在核战争毁灭文明数百年后的荒芜未来，一座天主教修道院的修士们以抄写经书、保管废墟中残存的科技文献的方式守护着人类文明的火种。全书由三个跨越数百年的故事组成：从修士弗朗西斯意外发现圣人莱伯维茨的庇护遗物开始，到中古时代修道院的繁荣与神圣化，再到遥远未来太空时代人类重返核毁灭的悲剧循环——以莱伯维茨之名书写的赞歌，最终成为人类逃往星空时最后的祈祷。</description>
+      <pubDate>Mon, 12 Oct 2026 02:44:36 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-548771</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>在核战争毁灭文明数百年后的荒芜未来，一座天主教修道院的修士们以抄写经书、保管废墟中残存的科技文献的方式守护着人类文明的火种。全书由三个跨越数百年的故事组成：从修士弗朗西斯意外发现圣人莱伯维茨的庇护遗物开始，到中古时代修道院的繁荣与神圣化，再到遥远未来太空时代人类重返核毁灭的悲剧循环——以莱伯维茨之名书写的赞歌，最终成为人类逃往星空时最后的祈祷。</itunes:summary>
+      <itunes:duration>00:22:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-548771.mp3" length="21900717" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
