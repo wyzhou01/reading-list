@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 18:29:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 18:33:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35045,6 +35045,17 @@
       <itunes:duration>00:04:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-cfe33e.mp3" length="2207704" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《解说疾病的人》 · 完整版 · 解说疾病的人(1) · 完整讲读</title>
+      <description>普利策奖得主裘帕·拉希莉的短篇小说集《解说疾病的人》，以九个克制而精准的故事，写尽印度离散族群在跨洋迁徙中的归属之困。开篇《停电时分》里一对丧子的印度移民夫妻，在波士顿每晚停电一小时的黑暗中，借着十支生日蜡烛的微光，向彼此坦白从未说出口的秘密，重新做爱，却在灯亮时分道扬镳。《柏哲达先生来搭伙》用一个蹭饭的陌生男人，拆穿新婚夫妇美国梦的表皮。《解说疾病的人》里的印度导游带着美国游客参观故国名胜，却对自己的传统一无所知，是一则关于翻译者自身无法被翻译的寓言。《第三块大陆，最后的家园》则是一封横跨三十年、跨越三大洲的家书，写尽所有漂泊者共同的命题：从哪里来？属于哪里？又将往哪里去？拉希莉写的不是异域传奇，而是翻译——把丧子的绝望翻译成沉默，把妻子的疏离翻译成加班，把整整一代人的乡愁翻译成灯泡下的那声坦白。翻开这本书，你会发现：最难翻译的不是语言，而是你我在同一张床上，却再也认不出彼此。</description>
+      <pubDate>Mon, 12 Oct 2026 18:33:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-74e244</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>普利策奖得主裘帕·拉希莉的短篇小说集《解说疾病的人》，以九个克制而精准的故事，写尽印度离散族群在跨洋迁徙中的归属之困。开篇《停电时分》里一对丧子的印度移民夫妻，在波士顿每晚停电一小时的黑暗中，借着十支生日蜡烛的微光，向彼此坦白从未说出口的秘密，重新做爱，却在灯亮时分道扬镳。《柏哲达先生来搭伙》用一个蹭饭的陌生男人，拆穿新婚夫妇美国梦的表皮。《解说疾病的人》里的印度导游带着美国游客参观故国名胜，却对自己的传统一无所知，是一则关于翻译者自身无法被翻译的寓言。《第三块大陆，最后的家园》则是一封横跨三十年、跨越三大洲的家书，写尽所有漂泊者共同的命题：从哪里来？属于哪里？又将往哪里去？拉希莉写的不是异域传奇，而是翻译——把丧子的绝望翻译成沉默，把妻子的疏离翻译成加班，把整整一代人的乡愁翻译成灯泡下的那声坦白。翻开这本书，你会发现：最难翻译的不是语言，而是你我在同一张床上，却再也认不出彼此。</itunes:summary>
+      <itunes:duration>00:02:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-74e244.mp3" length="1348380" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
