@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 20:26:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 20:31:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35309,6 +35309,17 @@
       <itunes:duration>00:04:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-b52051.mp3" length="1924328" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《法医专家第一季：昆虫尸语》 · 完整版 · 法医专家第一季：昆虫尸语 · 完整讲读</title>
+      <description>《法医专家第一季：昆虫尸语》是国内首批以法医昆虫学为主题的推理小说,作者王文杰以法医天才沈建国与徒弟靳池为主角,用十一宗离奇命案展示嗜尸性昆虫如何替尸体开口:从一九九四年南明市南山公墓的无头碎尸案,到墙内封干尸、人彘酷刑、火葬场碎肉、湖中无头尸、粪池人头、变异虫人尸,再到贯穿全书的幕后人NASA。尸体上的蛆虫、尸蝇、白腹皮蠹、葬甲虫,既是死亡时钟,也是第一现场的指认者,更是能让凶手原形毕露的隐形证人。它提醒读者:每一具尸体都不会真正沉默,只等一群愿意俯身贴近的译者。</description>
+      <pubDate>Mon, 12 Oct 2026 20:31:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-8a927a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《法医专家第一季：昆虫尸语》是国内首批以法医昆虫学为主题的推理小说,作者王文杰以法医天才沈建国与徒弟靳池为主角,用十一宗离奇命案展示嗜尸性昆虫如何替尸体开口:从一九九四年南明市南山公墓的无头碎尸案,到墙内封干尸、人彘酷刑、火葬场碎肉、湖中无头尸、粪池人头、变异虫人尸,再到贯穿全书的幕后人NASA。尸体上的蛆虫、尸蝇、白腹皮蠹、葬甲虫,既是死亡时钟,也是第一现场的指认者,更是能让凶手原形毕露的隐形证人。它提醒读者:每一具尸体都不会真正沉默,只等一群愿意俯身贴近的译者。</itunes:summary>
+      <itunes:duration>00:02:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-8a927a.mp3" length="1285268" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
