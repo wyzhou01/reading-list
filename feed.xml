@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 19:14:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 19:18:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35188,6 +35188,17 @@
       <itunes:duration>00:06:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-1a4788.mp3" length="3054489" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《素书全鉴（第2版）》 · 完整版 · 素书全鉴(第2版）_(国学全鉴系列) · 完整讲读</title>
+      <description>《素书》相传为秦末隐士黄石公所著，全文仅一千三百六十字，分为原始、正道、求人之志、本德宗道、遵义、安礼六章。张良在下邳桥上三试黄石公，得此奇书，凭其一二成帝王之师，辅佐刘邦定天下四百年。本书逐章解译原文，融合宋代张商英的注解与清代王氏的点评，结合大量历史典故如曾子一日三省、信陵君礼聘侯嬴、董宣强项令执法等，阐释道、德、仁、义、礼一体之根本，识人用人之韬略，修身去欲之功夫，赏罚分明之领导之术，顺应世道之应变智慧。书中每一句皆切中要害，字字珠玑，不仅可用于治国安邦，更能指导普通人的立身、处世、齐家，是一部浓缩了中国传统谋略与人生哲学精髓的经典。读懂三五句，足以看清人心；读透十之一二，足以立身成名。</description>
+      <pubDate>Mon, 12 Oct 2026 19:18:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-712924</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《素书》相传为秦末隐士黄石公所著，全文仅一千三百六十字，分为原始、正道、求人之志、本德宗道、遵义、安礼六章。张良在下邳桥上三试黄石公，得此奇书，凭其一二成帝王之师，辅佐刘邦定天下四百年。本书逐章解译原文，融合宋代张商英的注解与清代王氏的点评，结合大量历史典故如曾子一日三省、信陵君礼聘侯嬴、董宣强项令执法等，阐释道、德、仁、义、礼一体之根本，识人用人之韬略，修身去欲之功夫，赏罚分明之领导之术，顺应世道之应变智慧。书中每一句皆切中要害，字字珠玑，不仅可用于治国安邦，更能指导普通人的立身、处世、齐家，是一部浓缩了中国传统谋略与人生哲学精髓的经典。读懂三五句，足以看清人心；读透十之一二，足以立身成名。</itunes:summary>
+      <itunes:duration>00:07:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-712924.mp3" length="3435668" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
