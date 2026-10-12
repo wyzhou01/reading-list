@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 20:31:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 23:19:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35320,6 +35320,17 @@
       <itunes:duration>00:02:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-8a927a.mp3" length="1285268" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《印加帝国三部曲（全三册）》 · 完整版 · 印加帝国三部曲（全三册） · 完整讲读</title>
+      <description>本书以印加帝国被征服的真实历史为骨，以法国作家安东尼·B·丹尼尔严谨考据为肌，讲述拥有四万大军的庞大帝国如何在内战、自恃与神性错位中崩溃。一百七十名西班牙骑兵靠着兄弟阋墙的渔翁之利、太阳神信仰的致命傲慢，以及黄金语法的不可通约，生擒国王、屠戮广场。而一个拥有蓝眼睛的混血女孩安娜玛雅，从奇里瓜诺村庄的血泊中走向西班牙囚徒贾伯晔，用一句带我走，把自己活成了连接两个世界的唯一桥梁。三部曲最终在马丘比丘之巅给出答案：太阳沉没了，但星辰亮起；国王被斩首了，但头颅日渐光彩焕发。文明的火种，从不藏在王座里，它藏在被两个世界抛弃的人的眼睛里。</description>
+      <pubDate>Mon, 12 Oct 2026 23:19:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-c06fd6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书以印加帝国被征服的真实历史为骨，以法国作家安东尼·B·丹尼尔严谨考据为肌，讲述拥有四万大军的庞大帝国如何在内战、自恃与神性错位中崩溃。一百七十名西班牙骑兵靠着兄弟阋墙的渔翁之利、太阳神信仰的致命傲慢，以及黄金语法的不可通约，生擒国王、屠戮广场。而一个拥有蓝眼睛的混血女孩安娜玛雅，从奇里瓜诺村庄的血泊中走向西班牙囚徒贾伯晔，用一句带我走，把自己活成了连接两个世界的唯一桥梁。三部曲最终在马丘比丘之巅给出答案：太阳沉没了，但星辰亮起；国王被斩首了，但头颅日渐光彩焕发。文明的火种，从不藏在王座里，它藏在被两个世界抛弃的人的眼睛里。</itunes:summary>
+      <itunes:duration>00:02:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-c06fd6.mp3" length="1054555" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
