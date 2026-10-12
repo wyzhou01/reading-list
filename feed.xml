@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 06:23:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 06:30:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34157,6 +34157,17 @@
       <itunes:duration>00:03:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-0e7e80.mp3" length="1534790" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《邮差总敲两次门》 · 完整版 · 邮差总敲两次门 · 完整讲读</title>
+      <description>《邮差总敲两次门》是美国硬汉派犯罪小说开山祖师詹姆斯·凯恩的成名作，写于一九三四年。小说以一个流浪汉弗兰克·钱伯斯的自述，讲述了他来到一家希腊人开的小酒馆，勾引老板娘科拉，二人合谋杀死希腊丈夫，又在法庭上侥幸脱罪，最终却因科拉车祸身亡、留下致命条子而被送上绞架的故事。凯恩不审判道德，他只让你看见：当欲望烧过理智，法律、爱情、自由，全都成了灰烬。邮差敲了两次门——第一次弗兰克没把信送到，第二次他也没能逃脱回执。</description>
+      <pubDate>Mon, 12 Oct 2026 06:30:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-7399da</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《邮差总敲两次门》是美国硬汉派犯罪小说开山祖师詹姆斯·凯恩的成名作，写于一九三四年。小说以一个流浪汉弗兰克·钱伯斯的自述，讲述了他来到一家希腊人开的小酒馆，勾引老板娘科拉，二人合谋杀死希腊丈夫，又在法庭上侥幸脱罪，最终却因科拉车祸身亡、留下致命条子而被送上绞架的故事。凯恩不审判道德，他只让你看见：当欲望烧过理智，法律、爱情、自由，全都成了灰烬。邮差敲了两次门——第一次弗兰克没把信送到，第二次他也没能逃脱回执。</itunes:summary>
+      <itunes:duration>00:03:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-7399da.mp3" length="1607515" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
