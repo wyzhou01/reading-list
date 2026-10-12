@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 18:39:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 18:42:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35078,6 +35078,17 @@
       <itunes:duration>00:03:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-f640da.mp3" length="1865813" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《罗马帝国衰亡史（D.M.洛节编本）下册》 · 完整版 · 罗马帝国衰亡史（D.M._洛节编本）（下册）_(汉译世界学术名著丛书)_-_爱德华·吉本 · 完整讲读</title>
+      <description>《罗马帝国衰亡史》下册讲述罗马帝国从公元四一〇年阿拉里克洗劫罗马，到一四五三年君士坦丁堡陷落的一千多年衰亡史。爱德华·吉本以英国启蒙史学家的冷峻笔法解剖这具庞大躯体：从内部腐败、军事自毁、精神失守，到基督教神学内战对帝国精力的消耗，再到东西方教会分裂与蛮族入侵的交叉冲击，最后到古典文明在中世纪修道院缮写室里的隐伏、文艺复兴前夕的破土重光。这部巨著不仅是写一个帝国的死亡，更是一部文明如何变形、如何重生的沉思录。</description>
+      <pubDate>Mon, 12 Oct 2026 18:42:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-9a0cb1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《罗马帝国衰亡史》下册讲述罗马帝国从公元四一〇年阿拉里克洗劫罗马，到一四五三年君士坦丁堡陷落的一千多年衰亡史。爱德华·吉本以英国启蒙史学家的冷峻笔法解剖这具庞大躯体：从内部腐败、军事自毁、精神失守，到基督教神学内战对帝国精力的消耗，再到东西方教会分裂与蛮族入侵的交叉冲击，最后到古典文明在中世纪修道院缮写室里的隐伏、文艺复兴前夕的破土重光。这部巨著不仅是写一个帝国的死亡，更是一部文明如何变形、如何重生的沉思录。</itunes:summary>
+      <itunes:duration>00:03:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-9a0cb1.mp3" length="1518907" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
