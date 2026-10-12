@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 18:22:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 18:27:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35023,6 +35023,17 @@
       <itunes:duration>00:08:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-a7cb87.mp3" length="3864912" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《郝鹏飞极简派健身》 · 完整版 · 郝鹏飞极简派健身 · 完整讲读</title>
+      <description>《郝鹏飞极简派健身》是一本写给普通上班族的健身指南。作者郝鹏飞以美国运动医学会华人最高分获得者身份，提出“每天半小时、以阻力训练为主、纯天然饮食、训练后拉伸、安全第一”的极简健身体系。本书拆解了肌肉与脂肪的科学、动作的最少必要原则、二十四小时禁食法、三类疼痛的识别，以及如何在忙碌生活中用最少时间获得最大身材改变。核心理念是：健身没有捷径，但弯路可以绕开，普通人只需掌握最简单、最高效的方法，就能在健康、魅力与人生掌控感上实现全方位提升。</description>
+      <pubDate>Mon, 12 Oct 2026 18:27:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-b56ee3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《郝鹏飞极简派健身》是一本写给普通上班族的健身指南。作者郝鹏飞以美国运动医学会华人最高分获得者身份，提出“每天半小时、以阻力训练为主、纯天然饮食、训练后拉伸、安全第一”的极简健身体系。本书拆解了肌肉与脂肪的科学、动作的最少必要原则、二十四小时禁食法、三类疼痛的识别，以及如何在忙碌生活中用最少时间获得最大身材改变。核心理念是：健身没有捷径，但弯路可以绕开，普通人只需掌握最简单、最高效的方法，就能在健康、魅力与人生掌控感上实现全方位提升。</itunes:summary>
+      <itunes:duration>00:03:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-b56ee3.mp3" length="1596230" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
