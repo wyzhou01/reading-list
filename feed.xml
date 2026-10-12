@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 17:25:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 17:26:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34902,6 +34902,17 @@
       <itunes:duration>00:03:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-bb942f.mp3" length="1688181" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《联邦论：美国宪法评述》 · 完整版 · 联邦论：美国宪法评述 · 完整讲读</title>
+      <description>《联邦论》是美国建国元勋汉密尔顿、麦迪逊、杰伊以普布利乌斯笔名发表的八十五篇政论合集,系统阐释了一七八七年美国宪法的设计逻辑。全书围绕联邦与邦权的划分、共和制能否支撑广土众民的国家、三权分立的相互制衡、军权与财权的统一、司法独立对立法权的守护六大核心议题,论证了一个分权制衡的联邦共和国何以可能、为何必要。两百多年来,这部经典深刻塑造了现代宪政话语,至今仍是理解美国制度、反思权力本性、思考人类政治文明不可绕开的原点。</description>
+      <pubDate>Mon, 12 Oct 2026 17:26:46 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-1b706f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《联邦论》是美国建国元勋汉密尔顿、麦迪逊、杰伊以普布利乌斯笔名发表的八十五篇政论合集,系统阐释了一七八七年美国宪法的设计逻辑。全书围绕联邦与邦权的划分、共和制能否支撑广土众民的国家、三权分立的相互制衡、军权与财权的统一、司法独立对立法权的守护六大核心议题,论证了一个分权制衡的联邦共和国何以可能、为何必要。两百多年来,这部经典深刻塑造了现代宪政话语,至今仍是理解美国制度、反思权力本性、思考人类政治文明不可绕开的原点。</itunes:summary>
+      <itunes:duration>00:05:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-1b706f.mp3" length="2454718" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
