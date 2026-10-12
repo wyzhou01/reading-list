@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 19:24:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 19:30:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35221,6 +35221,17 @@
       <itunes:duration>00:03:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-457170.mp3" length="1517235" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《危机经济学》 · 完整版 · 危机经济学 · 完整讲读</title>
+      <description>《危机经济学》是【末日博士】鲁比尼与合著者米姆对全球金融危机的系统性反思。他们用一本书回答一个核心问题:危机究竟是碰运气的黑天鹅,还是写进资本主义基因里的白天鹅?答案是后者。本书回顾了从17世纪郁金香泡沫到2008年全球金融危机的历史,提炼出五步标准化剧本:杠杆堆积、资产泡沫、影子银行扩张、触发事件、死亡螺旋。作者用整整一章解剖影子银行的灰色地带,用一章解剖【大而不倒】的道德风险,用一章解剖货币与财政政策在危机中的局限,再用一章讨论人民币与国际货币体系的未来。读懂这本书,你获得的不是水晶球,而是一双能在繁荣喧嚣中识别预警灯的眼睛——这或许是我们这个时代,普通人在系统性风险面前最可贵的装备。</description>
+      <pubDate>Mon, 12 Oct 2026 19:30:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-bd482a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《危机经济学》是【末日博士】鲁比尼与合著者米姆对全球金融危机的系统性反思。他们用一本书回答一个核心问题:危机究竟是碰运气的黑天鹅,还是写进资本主义基因里的白天鹅?答案是后者。本书回顾了从17世纪郁金香泡沫到2008年全球金融危机的历史,提炼出五步标准化剧本:杠杆堆积、资产泡沫、影子银行扩张、触发事件、死亡螺旋。作者用整整一章解剖影子银行的灰色地带,用一章解剖【大而不倒】的道德风险,用一章解剖货币与财政政策在危机中的局限,再用一章讨论人民币与国际货币体系的未来。读懂这本书,你获得的不是水晶球,而是一双能在繁荣喧嚣中识别预警灯的眼睛——这或许是我们这个时代,普通人在系统性风险面前最可贵的装备。</itunes:summary>
+      <itunes:duration>00:03:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-bd482a.mp3" length="1734574" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
