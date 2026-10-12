@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 06:30:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 06:38:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -34168,6 +34168,17 @@
       <itunes:duration>00:03:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-7399da.mp3" length="1607515" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《管理十诫》 · 完整版 · 管理十诫 · 完整讲读</title>
+      <description>《管理十诫》是可口可乐公司前总裁唐纳德·基奥从六十余年商海沉浮中提炼出的避坑指南。十诫——不愿冒险、思维僵化、自我封闭、目空一切、漠视道德、不用心思考、完全信赖专家、官僚主义盛行、信息不畅、恐惧未来——看似十种独立病灶，本质上指向同一根源：领导者的个性失明。基奥借可口可乐的真实案例，向正在高歌猛进的管理者敲响警钟：失败比成功更值得研究，避免错误远比寻找秘诀更重要。</description>
+      <pubDate>Mon, 12 Oct 2026 06:38:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261011-episode-20261011-c3c522</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《管理十诫》是可口可乐公司前总裁唐纳德·基奥从六十余年商海沉浮中提炼出的避坑指南。十诫——不愿冒险、思维僵化、自我封闭、目空一切、漠视道德、不用心思考、完全信赖专家、官僚主义盛行、信息不畅、恐惧未来——看似十种独立病灶，本质上指向同一根源：领导者的个性失明。基奥借可口可乐的真实案例，向正在高歌猛进的管理者敲响警钟：失败比成功更值得研究，避免错误远比寻找秘诀更重要。</itunes:summary>
+      <itunes:duration>00:04:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261011/episode-20261011-c3c522.mp3" length="1947315" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
