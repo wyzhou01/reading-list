@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 18:55:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 18:56:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35133,6 +35133,17 @@
       <itunes:duration>00:05:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-498a73.mp3" length="2578016" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《鸦雀无声：双生镇杀人事件》 · 完整版 · 鸦雀无声：双生镇杀人事件 · 完整讲读</title>
+      <description>落魄私家侦探段一，受周家当家人周彬轩之托，带着十万元重金来到双生镇，调查周岳生的大舅哥叶国立在寿宴夜被砸死后脑勺命案。随着调查深入，段一发现这个镇子上几乎人人都是双胞胎的【周家】，代代相传着一则恐怖的【诅咒】：若哪一代生的不是双胞胎，灾祸便会降临。叶国立、刑警大队长贾继光、镇长先后死于非命，作案手法竟都与家族中的某段往事微妙呼应。在一段百年前的宿命中，隐藏着诅咒的起源；而真正推动这些命案的，并非咒语显灵，而是人心深处的恐惧、执念与代际之间扭曲的【保护欲】。当真相大白——周家兄弟周宝文、周宝武及被藏匿多年的三弟周宝理，以替母复仇之名，连杀三人——周家上下才骤然觉醒：所谓诅咒，其实从未显灵过，它只等着人亲手把它做成真的。</description>
+      <pubDate>Mon, 12 Oct 2026 18:56:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-94fb97</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>落魄私家侦探段一，受周家当家人周彬轩之托，带着十万元重金来到双生镇，调查周岳生的大舅哥叶国立在寿宴夜被砸死后脑勺命案。随着调查深入，段一发现这个镇子上几乎人人都是双胞胎的【周家】，代代相传着一则恐怖的【诅咒】：若哪一代生的不是双胞胎，灾祸便会降临。叶国立、刑警大队长贾继光、镇长先后死于非命，作案手法竟都与家族中的某段往事微妙呼应。在一段百年前的宿命中，隐藏着诅咒的起源；而真正推动这些命案的，并非咒语显灵，而是人心深处的恐惧、执念与代际之间扭曲的【保护欲】。当真相大白——周家兄弟周宝文、周宝武及被藏匿多年的三弟周宝理，以替母复仇之名，连杀三人——周家上下才骤然觉醒：所谓诅咒，其实从未显灵过，它只等着人亲手把它做成真的。</itunes:summary>
+      <itunes:duration>00:01:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-94fb97.mp3" length="865219" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
