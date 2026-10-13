@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 19:34:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 19:39:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36453,6 +36453,17 @@
       <itunes:duration>00:04:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-b87d91.mp3" length="1944390" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《辣道至简：老干妈陶华碧的经营智慧》 · 完整版 · 辣道至简：老干妈陶华碧的经营智慧 · 完整讲读</title>
+      <description>《辣道至简：老干妈陶华碧的经营智慧》拆解了一位不识字农村妇女如何把一瓶辣椒酱卖到全世界的底层逻辑：不碰广告的极致专注、真材实料的产品护城河、把员工当家人的土办法管理、家族企业走向全球化的进化路径。在所有鼓吹模式创新与资本叙事的今天，老干妈的逆袭证明：最笨的方法，往往也是最难被打败的方法。本书不是英雄的赞歌，而是一个普通人如何在最窄的路上，走出最远距离的注脚。</description>
+      <pubDate>Tue, 13 Oct 2026 19:39:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-067f7f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《辣道至简：老干妈陶华碧的经营智慧》拆解了一位不识字农村妇女如何把一瓶辣椒酱卖到全世界的底层逻辑：不碰广告的极致专注、真材实料的产品护城河、把员工当家人的土办法管理、家族企业走向全球化的进化路径。在所有鼓吹模式创新与资本叙事的今天，老干妈的逆袭证明：最笨的方法，往往也是最难被打败的方法。本书不是英雄的赞歌，而是一个普通人如何在最窄的路上，走出最远距离的注脚。</itunes:summary>
+      <itunes:duration>00:02:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-067f7f.mp3" length="1350052" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
