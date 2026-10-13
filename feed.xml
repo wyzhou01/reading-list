@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 01:52:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 02:04:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35540,6 +35540,17 @@
       <itunes:duration>00:05:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-ee51a4.mp3" length="2411668" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我不为奴》 · 完整版 · 我不为奴 · 完整讲读</title>
+      <description>十六世纪中叶，西非少年马杜在独自猎杀一头猎豹后，被松巴人俘获、辗转卖到英国奴隶贩子约翰·霍金斯船队，卷入人类历史上最肮脏的跨大西洋奴隶贸易。本书以马杜与英国少年水手汤姆的跨族友谊为线索，串起货仓苦役、圣胡安乌鲁亚海战、农布雷·德迪奥斯突袭等真实历史事件，写出一个奴隶之子如何从【我】走向【我们】、从不甘被奴役到在密林深处自己当家做主的成人史。作者蒂姆·维卡里坦言，当年的非洲奴隶没留下一个字，今天这本书替他们把血泪说给你听。</description>
+      <pubDate>Tue, 13 Oct 2026 02:04:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-e7f74c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>十六世纪中叶，西非少年马杜在独自猎杀一头猎豹后，被松巴人俘获、辗转卖到英国奴隶贩子约翰·霍金斯船队，卷入人类历史上最肮脏的跨大西洋奴隶贸易。本书以马杜与英国少年水手汤姆的跨族友谊为线索，串起货仓苦役、圣胡安乌鲁亚海战、农布雷·德迪奥斯突袭等真实历史事件，写出一个奴隶之子如何从【我】走向【我们】、从不甘被奴役到在密林深处自己当家做主的成人史。作者蒂姆·维卡里坦言，当年的非洲奴隶没留下一个字，今天这本书替他们把血泪说给你听。</itunes:summary>
+      <itunes:duration>00:09:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-e7f74c.mp3" length="4655273" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
