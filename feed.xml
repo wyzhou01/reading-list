@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 18:46:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 18:54:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36387,6 +36387,17 @@
       <itunes:duration>00:06:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-170947.mp3" length="3138081" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《秘密金鱼》 · 完整版 · 秘密金鱼 · 完整讲读</title>
+      <description>本书收录美国当代作家大卫·米恩斯的十五个短篇，以中西部为背景，写尽偶然性、创伤与衰败。从被闪电击中八次的尼克·凯利，到沼泽里喉管被割开的两千年古尸，再到被工业化农场碾碎、自甘麻木的农家青年，米恩斯用黑色幽默、神话隐喻与冷峻笔触，把美国腹地写成一个巨大的未完成式。三大核心洞察：米恩斯写的是偶然性如何被神话化、雷击如何承担政治账单、创伤如何沉淀为身体疾病。理发店成为记忆的中枢，雷声则成为资本与天谴的合谋。一部关于不甘心的人和他们不肯收场的故事的中西部寓言集。</description>
+      <pubDate>Tue, 13 Oct 2026 18:54:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-730150</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书收录美国当代作家大卫·米恩斯的十五个短篇，以中西部为背景，写尽偶然性、创伤与衰败。从被闪电击中八次的尼克·凯利，到沼泽里喉管被割开的两千年古尸，再到被工业化农场碾碎、自甘麻木的农家青年，米恩斯用黑色幽默、神话隐喻与冷峻笔触，把美国腹地写成一个巨大的未完成式。三大核心洞察：米恩斯写的是偶然性如何被神话化、雷击如何承担政治账单、创伤如何沉淀为身体疾病。理发店成为记忆的中枢，雷声则成为资本与天谴的合谋。一部关于不甘心的人和他们不肯收场的故事的中西部寓言集。</itunes:summary>
+      <itunes:duration>00:05:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-730150.mp3" length="2524517" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
