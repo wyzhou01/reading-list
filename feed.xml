@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 12:56:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 13:02:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36200,6 +36200,17 @@
       <itunes:duration>00:06:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-284262.mp3" length="3250094" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《国粹：人文传承书》 · 完整版 · 国粹：人文传承书 · 完整讲读</title>
+      <description>《国粹：人文传承书》是当代散文大家王充闾的读史心得集。全书以【读史即读人，读人重在通心】为主线，从黄帝陵的古柏起笔，串联起道家智者、士君子、文人心、性情生活家、贤母、隐士等历史人物的群像，借助【古今对话、中外比较、生命体验】的方式，重新打捞中华人文传统的精神内核。作者既示范了一种不灌输、不堆砌的读史方法，也回答了一个当代命题：传承不是搬来摆看的物件，而是接过来那口支撑一切不散不倒的心气。</description>
+      <pubDate>Tue, 13 Oct 2026 13:02:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-dd4fd6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《国粹：人文传承书》是当代散文大家王充闾的读史心得集。全书以【读史即读人，读人重在通心】为主线，从黄帝陵的古柏起笔，串联起道家智者、士君子、文人心、性情生活家、贤母、隐士等历史人物的群像，借助【古今对话、中外比较、生命体验】的方式，重新打捞中华人文传统的精神内核。作者既示范了一种不灌输、不堆砌的读史方法，也回答了一个当代命题：传承不是搬来摆看的物件，而是接过来那口支撑一切不散不倒的心气。</itunes:summary>
+      <itunes:duration>00:02:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-dd4fd6.mp3" length="1154865" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
