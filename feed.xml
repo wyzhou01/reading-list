@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 10:08:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 10:16:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35958,6 +35958,17 @@
       <itunes:duration>00:03:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-78b67d.mp3" length="1566555" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《空洞之眼》 · 完整版 · 空洞之眼 · 完整讲读</title>
+      <description>《空洞之眼》是美国作家 T·M·比德尔贝克创作的末日虫怪小说。九月的周六早上，中产作家保罗在自家草坪上目睹邻居拉尔夫吐出混着黑色脓液和蠕虫的血，拉尔夫之妻凯瑟琳也以同样方式死于家中厨房——这是席卷全球的温血虫怪灾难的第一个病例。警察鲍比中士警告保罗：【离人群越远越好】。保罗一家与十几名幸存者逃入山中木屋，惨烈的防御战中小屋焚毁，最终只剩十七人徒步向西北方向的西蒙堡进发。比德尔贝克以电台播音员的笔触，用经典老歌的节奏，把中产阶级日常世界被瞬间撕碎的反差、温血虫怪的科学恐怖、绝望中仍要抱持希望的微光，三块拼图拼成了一首令人后脊发凉的末日挽歌。</description>
+      <pubDate>Tue, 13 Oct 2026 10:16:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-135b7a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《空洞之眼》是美国作家 T·M·比德尔贝克创作的末日虫怪小说。九月的周六早上，中产作家保罗在自家草坪上目睹邻居拉尔夫吐出混着黑色脓液和蠕虫的血，拉尔夫之妻凯瑟琳也以同样方式死于家中厨房——这是席卷全球的温血虫怪灾难的第一个病例。警察鲍比中士警告保罗：【离人群越远越好】。保罗一家与十几名幸存者逃入山中木屋，惨烈的防御战中小屋焚毁，最终只剩十七人徒步向西北方向的西蒙堡进发。比德尔贝克以电台播音员的笔触，用经典老歌的节奏，把中产阶级日常世界被瞬间撕碎的反差、温血虫怪的科学恐怖、绝望中仍要抱持希望的微光，三块拼图拼成了一首令人后脊发凉的末日挽歌。</itunes:summary>
+      <itunes:duration>00:05:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-135b7a.mp3" length="2497768" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
