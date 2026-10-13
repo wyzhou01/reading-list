@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 04:06:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 04:13:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35716,6 +35716,17 @@
       <itunes:duration>00:04:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-24dd2a.mp3" length="2386591" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《桥梁史话》 · 完整版 · 大家小书：桥梁史话（精）_(大家小书精装本) · 完整讲读</title>
+      <description>《桥梁史话》是茅以升写给所有人的科普散文集。他以清丽文笔, 从赵州桥的敞肩拱讲到钱塘江大桥的【一建一炸一复】, 从古石拱里的被动压力讲到桥的永恒运动, 从颐和园玉带桥的柔美讲到白令海峡大桥的远眺。一千三百年的古桥能扛现代重车, 靠的不是蛮力, 而是整体作用的智慧; 真正伟大的桥, 是有桥恍同无桥。这本书, 不只在讲桥, 而是在讲一个民族, 如何在山河破碎处, 把天堑变成通途。</description>
+      <pubDate>Tue, 13 Oct 2026 04:13:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-887cb0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《桥梁史话》是茅以升写给所有人的科普散文集。他以清丽文笔, 从赵州桥的敞肩拱讲到钱塘江大桥的【一建一炸一复】, 从古石拱里的被动压力讲到桥的永恒运动, 从颐和园玉带桥的柔美讲到白令海峡大桥的远眺。一千三百年的古桥能扛现代重车, 靠的不是蛮力, 而是整体作用的智慧; 真正伟大的桥, 是有桥恍同无桥。这本书, 不只在讲桥, 而是在讲一个民族, 如何在山河破碎处, 把天堑变成通途。</itunes:summary>
+      <itunes:duration>00:02:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-887cb0.mp3" length="1251413" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
