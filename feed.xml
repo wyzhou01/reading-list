@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Mon, 12 Oct 2026 23:59:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 00:04:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35386,6 +35386,17 @@
       <itunes:duration>00:03:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-75ac35.mp3" length="1919312" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《时间的针脚》 · 完整版 · 时间的针脚 · 完整讲读</title>
+      <description>《时间的针脚》是西班牙作家玛丽亚·杜埃尼亚斯二零一二年的现象级历史小说。一个马德里裁缝的女儿希拉，因一台打字机与一个英国情报官相遇，被裹挟进二战前夕地中海情报战的漩涡。本书以极细的笔触，把宏大战争史诗拉回到一个普通女人的私人日记，讲述她在得土安的成衣铺、伦敦的密电码、柏林的伪装之间，如何从被动的棋子成长为真正的棋手，更借此致敬所有在历史背面、无人知晓却真实活过的无名之人。</description>
+      <pubDate>Tue, 13 Oct 2026 00:04:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-3e735a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《时间的针脚》是西班牙作家玛丽亚·杜埃尼亚斯二零一二年的现象级历史小说。一个马德里裁缝的女儿希拉，因一台打字机与一个英国情报官相遇，被裹挟进二战前夕地中海情报战的漩涡。本书以极细的笔触，把宏大战争史诗拉回到一个普通女人的私人日记，讲述她在得土安的成衣铺、伦敦的密电码、柏林的伪装之间，如何从被动的棋子成长为真正的棋手，更借此致敬所有在历史背面、无人知晓却真实活过的无名之人。</itunes:summary>
+      <itunes:duration>00:02:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-3e735a.mp3" length="1226754" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
