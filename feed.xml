@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 02:04:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 02:10:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35551,6 +35551,17 @@
       <itunes:duration>00:09:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-e7f74c.mp3" length="4655273" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我是女兵，也是女人》 · 完整版 · 我是女兵，也是女人 · 完整讲读</title>
+      <description>白俄罗斯作家阿列克谢耶维奇历时七年、走遍全国，采访数百名二战苏联女兵的纪实文学巨作。百万苏联女性曾走上战场，她们当过狙击手、坦克手、飞行员、游击队员，在最残酷的死亡面前体验着孤独、恐惧、爱情、欲望与母性。本书以口述实录的形式，让那些被历史遗忘的女性亲口讲述自己的战争——不是英雄史诗，而是被战争碾碎又重新拼凑的普通人的真相：当女性卷入战争，她们失去的不只是辫子和裙子，而是作为&apos;女性&apos;本身。</description>
+      <pubDate>Tue, 13 Oct 2026 02:10:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-f0ff5e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>白俄罗斯作家阿列克谢耶维奇历时七年、走遍全国，采访数百名二战苏联女兵的纪实文学巨作。百万苏联女性曾走上战场，她们当过狙击手、坦克手、飞行员、游击队员，在最残酷的死亡面前体验着孤独、恐惧、爱情、欲望与母性。本书以口述实录的形式，让那些被历史遗忘的女性亲口讲述自己的战争——不是英雄史诗，而是被战争碾碎又重新拼凑的普通人的真相：当女性卷入战争，她们失去的不只是辫子和裙子，而是作为&apos;女性&apos;本身。</itunes:summary>
+      <itunes:duration>00:03:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-f0ff5e.mp3" length="1780968" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
