@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 10:50:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 10:58:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36013,6 +36013,17 @@
       <itunes:duration>00:03:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-d9fd26.mp3" length="1528520" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《伟大是熬出来的》 · 完整版 · 伟大是熬出来的 · 完整讲读</title>
+      <description>《伟大是熬出来的是冯仑写给年轻人的人生方法论。这位九二派企业家代表、中央党校前讲师、万通地产创始人，在书中系统拆解了年轻人撞上的所有硬墙——买房、择业、婚恋、朋友、择友、面子、沟通自由，并详述其核心药方：不争才是最大的争，想当爷先当孙子，熬得住的才配得上伟大。全书以熬为线索，把时间、关系、软实力三件事拧成一股绳，揭示长期主义与延迟满足的复利逻辑。在经济下行、机会稀缺的时代，这本书的方法论比任何风口学都更经得起时间检验。</description>
+      <pubDate>Tue, 13 Oct 2026 10:58:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-3dfb9a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《伟大是熬出来的是冯仑写给年轻人的人生方法论。这位九二派企业家代表、中央党校前讲师、万通地产创始人，在书中系统拆解了年轻人撞上的所有硬墙——买房、择业、婚恋、朋友、择友、面子、沟通自由，并详述其核心药方：不争才是最大的争，想当爷先当孙子，熬得住的才配得上伟大。全书以熬为线索，把时间、关系、软实力三件事拧成一股绳，揭示长期主义与延迟满足的复利逻辑。在经济下行、机会稀缺的时代，这本书的方法论比任何风口学都更经得起时间检验。</itunes:summary>
+      <itunes:duration>00:05:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-3dfb9a.mp3" length="2435492" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
