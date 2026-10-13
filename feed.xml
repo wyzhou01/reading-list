@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 11:28:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 11:37:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36068,6 +36068,17 @@
       <itunes:duration>00:03:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-a25ba3.mp3" length="1706571" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《赫尔辛基罗卡曼迪欧家族背后的真相》 · 完整版 · 赫尔辛基罗卡曼迪欧家族背后的真相 · 完整讲读</title>
+      <description>《赫尔辛基罗卡曼迪欧家族背后的真相》是扬·马特尔一九九三年结集的四个短篇，写死亡、离别与一段回不去的旧时光——以及人如何用编造一个故事的方式，活下去。一个十九岁的室友为染上艾滋病毒的朋友虚构了一个芬兰家族；一个士兵在异国的夜里用想象搭起庇护所；一个儿子陪父亲走完最后一段路；一位万物有灵论的老祖母把声音嵌进镜子的银面。马特尔用这本书回答了一个核心命题：当真实无法承受，人不会停下，而是会用想象去重新创造它，然后拥抱它。故事的根本在于情感，而写作，是人类最古老的生存技能。</description>
+      <pubDate>Tue, 13 Oct 2026 11:37:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-579ad9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《赫尔辛基罗卡曼迪欧家族背后的真相》是扬·马特尔一九九三年结集的四个短篇，写死亡、离别与一段回不去的旧时光——以及人如何用编造一个故事的方式，活下去。一个十九岁的室友为染上艾滋病毒的朋友虚构了一个芬兰家族；一个士兵在异国的夜里用想象搭起庇护所；一个儿子陪父亲走完最后一段路；一位万物有灵论的老祖母把声音嵌进镜子的银面。马特尔用这本书回答了一个核心命题：当真实无法承受，人不会停下，而是会用想象去重新创造它，然后拥抱它。故事的根本在于情感，而写作，是人类最古老的生存技能。</itunes:summary>
+      <itunes:duration>00:06:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-579ad9.mp3" length="3036517" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
