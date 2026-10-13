@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 08:57:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 09:04:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35859,6 +35859,17 @@
       <itunes:duration>00:03:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-4d18cb.mp3" length="1653908" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《哈佛读书札记》 · 完整版 · 哈佛读书札记 · 完整讲读</title>
+      <description>《哈佛读书札记》是赵一凡1986至1996年于《读书》连载专栏文章的结集，涵盖美国文化批评与欧美新学赏析两大系列。全书以哈佛课堂为底色，系统评点贝尔、米尔斯、钱德勒等二十余位欧美学界名流，梳理从清教传统、荒野基因、管理革命到后现代主义的美国文化思想脉络。作者借鉴钱锺书式循环阐释法，以【鸟之两翼、剪之双刃】为方法论自觉，叩问【欧化还是汉化】这一文化交流的根本难题，为八十年代的中国读者描画出一幅波澜壮阔的二十世纪西方文明的精神地图，也留下一位归国留学生三十年的精神自画像。</description>
+      <pubDate>Tue, 13 Oct 2026 09:04:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-2a1c92</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《哈佛读书札记》是赵一凡1986至1996年于《读书》连载专栏文章的结集，涵盖美国文化批评与欧美新学赏析两大系列。全书以哈佛课堂为底色，系统评点贝尔、米尔斯、钱德勒等二十余位欧美学界名流，梳理从清教传统、荒野基因、管理革命到后现代主义的美国文化思想脉络。作者借鉴钱锺书式循环阐释法，以【鸟之两翼、剪之双刃】为方法论自觉，叩问【欧化还是汉化】这一文化交流的根本难题，为八十年代的中国读者描画出一幅波澜壮阔的二十世纪西方文明的精神地图，也留下一位归国留学生三十年的精神自画像。</itunes:summary>
+      <itunes:duration>00:02:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-2a1c92.mp3" length="1280253" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
