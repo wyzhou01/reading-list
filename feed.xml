@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 08:21:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 08:29:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35804,6 +35804,17 @@
       <itunes:duration>00:03:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-f9fbb8.mp3" length="1512220" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《智能的结构》 · 完整版 · 智能的结构 · 完整讲读</title>
+      <description>《智能的结构》是哈佛心理学家加德纳的代表作。他结合脑科学、发展心理学、人类学与艺术研究，提出人类至少拥有八种相互独立的智能：语言、音乐、逻辑-数学、空间、身体-动觉、人际、内省与博物学。这本书打破智商测试的单一标尺，重新定义【聪明】的边界，也深刻影响了全球数十年的教育改革。</description>
+      <pubDate>Tue, 13 Oct 2026 08:29:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-7c6232</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《智能的结构》是哈佛心理学家加德纳的代表作。他结合脑科学、发展心理学、人类学与艺术研究，提出人类至少拥有八种相互独立的智能：语言、音乐、逻辑-数学、空间、身体-动觉、人际、内省与博物学。这本书打破智商测试的单一标尺，重新定义【聪明】的边界，也深刻影响了全球数十年的教育改革。</itunes:summary>
+      <itunes:duration>00:03:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-7c6232.mp3" length="1589124" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
