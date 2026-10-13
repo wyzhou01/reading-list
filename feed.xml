@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 22:47:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 22:53:41 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36486,6 +36486,17 @@
       <itunes:duration>00:03:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-4881d2.mp3" length="1793089" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《沙丘3：沙丘之子》 · 完整版 · 沙丘3：沙丘之子 · 完整讲读</title>
+      <description>《沙丘之子》是赫伯特沙丘系列的第三部，讲述救世主穆阿迪布去世九年后，他的双胞胎子女雷托与甘尼玛在祖母杰西卡、姑姑厄莉娅与旧贵族法拉肯的角力中，被迫做出一个不可逆的选择——为了带领人类渡过即将到来的克拉里兹克大饥荒，雷托选择放弃人类形态，把自己一点一点改造成沙虫，让自己活三千年，活成神权统治本身。小说以预知与自由意志的终极悖论为核心，拷问每一个继承神位的子女：当看见了自己将变成什么，还能不能选择不变？答案是不行，那就只能让自己变得彻底不可逆。全书以神权、家族、背叛与集体意识的代价为主题，写透了人类在面对灭绝危机时最深的恐惧与最极端的救赎。</description>
+      <pubDate>Tue, 13 Oct 2026 22:53:36 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-ab082a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《沙丘之子》是赫伯特沙丘系列的第三部，讲述救世主穆阿迪布去世九年后，他的双胞胎子女雷托与甘尼玛在祖母杰西卡、姑姑厄莉娅与旧贵族法拉肯的角力中，被迫做出一个不可逆的选择——为了带领人类渡过即将到来的克拉里兹克大饥荒，雷托选择放弃人类形态，把自己一点一点改造成沙虫，让自己活三千年，活成神权统治本身。小说以预知与自由意志的终极悖论为核心，拷问每一个继承神位的子女：当看见了自己将变成什么，还能不能选择不变？答案是不行，那就只能让自己变得彻底不可逆。全书以神权、家族、背叛与集体意识的代价为主题，写透了人类在面对灭绝危机时最深的恐惧与最极端的救赎。</itunes:summary>
+      <itunes:duration>00:04:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-ab082a.mp3" length="2195583" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
