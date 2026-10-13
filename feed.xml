@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 02:51:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 03:03:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35617,6 +35617,17 @@
       <itunes:duration>00:01:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-89395e.mp3" length="923315" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中国式管理行为》 · 完整版 · 中国式管理行为 · 完整讲读</title>
+      <description>《中国式管理行为》不是教你怎么对付中国人，而是帮你看懂中国人。曾仕强用半个世纪的观察指出：西方管理是【二构成一】，凡事求标准化，靠制衡；中国管理是【一内涵二】，求圆满重于是非，靠太极。一杯茶的【随便】背后，是主人在掂量彼此的分量；一个太极的圆里，藏着中国人说【不】的时候其实在说【要】的全部密码。全书用几百个真实片段串成中国人管理的三大特性——不执着、不受管、爱讲理，拆穿了圆通与圆滑、随机应变与投机取巧之间那层共同的包装。最后回到一句话：管理不是管人，是安人；不是制衡，是持中致和。</description>
+      <pubDate>Tue, 13 Oct 2026 03:03:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-240cc3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《中国式管理行为》不是教你怎么对付中国人，而是帮你看懂中国人。曾仕强用半个世纪的观察指出：西方管理是【二构成一】，凡事求标准化，靠制衡；中国管理是【一内涵二】，求圆满重于是非，靠太极。一杯茶的【随便】背后，是主人在掂量彼此的分量；一个太极的圆里，藏着中国人说【不】的时候其实在说【要】的全部密码。全书用几百个真实片段串成中国人管理的三大特性——不执着、不受管、爱讲理，拆穿了圆通与圆滑、随机应变与投机取巧之间那层共同的包装。最后回到一句话：管理不是管人，是安人；不是制衡，是持中致和。</itunes:summary>
+      <itunes:duration>00:02:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-240cc3.mp3" length="1371368" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
