@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 13:02:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 13:09:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36211,6 +36211,17 @@
       <itunes:duration>00:02:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-dd4fd6.mp3" length="1154865" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中国赌金者：327事件始末》 · 完整版 · 中国赌金者：327事件始末 · 完整讲读</title>
+      <description>《中国赌金者：327事件始末》是陆一用二十年时间考证、还原一九九五年二月二十三日327国债期货事件历史真相的金融史专著。本书以亲历者视角，对比数千份档案与十多位当事人访谈，逐帧还原这场改变中国证券市场走向的《黑色八分钟》。它揭示了违规的边界、监管的真空、行政之手的扩张，以及中国资本市场如何从地方分权走向中央集权的底层转折。327事件没有真正意义上的赢家，但它以今天的体量、今天的规则、今天的权力结构，永远地留在了中国金融的DNA里。</description>
+      <pubDate>Tue, 13 Oct 2026 13:09:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-7bbce1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《中国赌金者：327事件始末》是陆一用二十年时间考证、还原一九九五年二月二十三日327国债期货事件历史真相的金融史专著。本书以亲历者视角，对比数千份档案与十多位当事人访谈，逐帧还原这场改变中国证券市场走向的《黑色八分钟》。它揭示了违规的边界、监管的真空、行政之手的扩张，以及中国资本市场如何从地方分权走向中央集权的底层转折。327事件没有真正意义上的赢家，但它以今天的体量、今天的规则、今天的权力结构，永远地留在了中国金融的DNA里。</itunes:summary>
+      <itunes:duration>00:03:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-7bbce1.mp3" length="1771355" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
