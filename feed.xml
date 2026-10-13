@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 17:50:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 18:06:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36321,6 +36321,17 @@
       <itunes:duration>00:05:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-b436dc.mp3" length="2650741" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《认知天性》 · 完整版 · 认知天性 · 完整讲读</title>
+      <description>《认知天性》是三位美国认知科学家合写的学习指南。核心洞见颠覆常识：轻松学习是无效的，真正持久的学习需要合意困难——检索练习、间隔练习、穿插练习。三位作者用半个世纪的实验数据证明：考试不是考核而是学习手段，反复阅读是最浪费时间的策略，先忘旧事才能欲求新知，知识必须从零散事实升级为心智模型才能迁移。本书不是给懒人开的药方，而是给愿意【适度为难自己】的终身学习者的地图。</description>
+      <pubDate>Tue, 13 Oct 2026 18:05:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-901e0a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《认知天性》是三位美国认知科学家合写的学习指南。核心洞见颠覆常识：轻松学习是无效的，真正持久的学习需要合意困难——检索练习、间隔练习、穿插练习。三位作者用半个世纪的实验数据证明：考试不是考核而是学习手段，反复阅读是最浪费时间的策略，先忘旧事才能欲求新知，知识必须从零散事实升级为心智模型才能迁移。本书不是给懒人开的药方，而是给愿意【适度为难自己】的终身学习者的地图。</itunes:summary>
+      <itunes:duration>00:06:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-901e0a.mp3" length="3219583" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
