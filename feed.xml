@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 23:46:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 23:55:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36585,6 +36585,17 @@
       <itunes:duration>00:04:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-8e745a.mp3" length="2369036" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《幸存者回忆录》 · 完整版 · 幸存者回忆录 · 完整讲读</title>
+      <description>《幸存者回忆录》是多丽丝·莱辛一九七四年出版的预言式幻想小说。一位中年女性叙述者突然收养了一个来历不明的十二岁女孩艾米莉，与她相依为命的还有一条猫脸的黄狗雨果。彼时整座城市正在无声无息地死去，超市空空荡荡，街头团伙越来越像匪徒，而当局还在装作日子照旧。叙述者的客厅里有一面会自动打开的墙，墙后是另一个世界——空荡荡的、需要粉刷、代表内心深处的镜像空间。艾米莉逐渐融入青年领袖杰拉尔德的帮派，从叙述者的家中出走；当杰拉尔德无法约束从地铁下涌出的野蛮孩子时，刚刚搭起的秩序土崩瓦解。最终，那面墙在最危急的时刻打开，把艾米莉和雨果带入了另一个属于内心的世界。莱辛用近乎童话的口吻写文明的崩塌、忠诚与责任感的真实重量、青春期女孩在废墟里的求生，以及预言式灾难书写对每一个当代人的意义。这是一面你迟早要穿过的墙。</description>
+      <pubDate>Tue, 13 Oct 2026 23:55:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-c87df0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《幸存者回忆录》是多丽丝·莱辛一九七四年出版的预言式幻想小说。一位中年女性叙述者突然收养了一个来历不明的十二岁女孩艾米莉，与她相依为命的还有一条猫脸的黄狗雨果。彼时整座城市正在无声无息地死去，超市空空荡荡，街头团伙越来越像匪徒，而当局还在装作日子照旧。叙述者的客厅里有一面会自动打开的墙，墙后是另一个世界——空荡荡的、需要粉刷、代表内心深处的镜像空间。艾米莉逐渐融入青年领袖杰拉尔德的帮派，从叙述者的家中出走；当杰拉尔德无法约束从地铁下涌出的野蛮孩子时，刚刚搭起的秩序土崩瓦解。最终，那面墙在最危急的时刻打开，把艾米莉和雨果带入了另一个属于内心的世界。莱辛用近乎童话的口吻写文明的崩塌、忠诚与责任感的真实重量、青春期女孩在废墟里的求生，以及预言式灾难书写对每一个当代人的意义。这是一面你迟早要穿过的墙。</itunes:summary>
+      <itunes:duration>00:05:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-c87df0.mp3" length="2752305" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
