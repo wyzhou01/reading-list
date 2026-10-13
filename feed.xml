@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 11:59:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 12:09:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36123,6 +36123,17 @@
       <itunes:duration>00:04:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-211c06.mp3" length="2123694" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《超预测：预见未来的艺术和科学》 · 完整版 · 超预测：遇见未来的艺术和科学（图文精编版） · 完整讲读</title>
+      <description>《超预测》用二十年的实证数据证明，普通人经过系统训练完全可以比肩甚至超越顶级专家的预测能力。书中拆解了超级预测家的四大特征、可复制的预测方法论——费米估算、基准率、对立假设与持续更新——以及团队协作的十诫。无论你是投资者、管理者还是普通决策者，掌握这套思维习惯，都能让你在不确定的世界里，做出更冷静、更准确的判断。</description>
+      <pubDate>Tue, 13 Oct 2026 12:09:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-eb3f79</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《超预测》用二十年的实证数据证明，普通人经过系统训练完全可以比肩甚至超越顶级专家的预测能力。书中拆解了超级预测家的四大特征、可复制的预测方法论——费米估算、基准率、对立假设与持续更新——以及团队协作的十诫。无论你是投资者、管理者还是普通决策者，掌握这套思维习惯，都能让你在不确定的世界里，做出更冷静、更准确的判断。</itunes:summary>
+      <itunes:duration>00:05:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-eb3f79.mp3" length="2846764" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
