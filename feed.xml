@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 17:42:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 17:50:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36310,6 +36310,17 @@
       <itunes:duration>00:04:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-713157.mp3" length="2384501" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《褐色鸟群》 · 完整版 · 褐色鸟群_-_格非 · 完整讲读</title>
+      <description>《褐色鸟群》是格非上世纪八九十年代中短篇小说的代表合集，被视为中国先锋文学最重要的标本之一。本书围绕记忆与遗忘的辩证、不可靠叙事与时间折叠、现实与梦境虚构的边界消融、孤独个体与神秘女性的相遇这四大主题展开。代表作《追忆乌攸先生》以一个端午节的清晨为起点，让乌攸先生的死因在不同叙述者口中反复改写，舌头、镜子、三角刀等意象交织成一组关于失语与反抗的拓扑学。《迷舟》以北伐战争为背景，写萧在回乡侦察途中陷入一个关于神秘女性杏的不可抵达之谜。《褐色鸟群》同名短篇则在镜中自我与镜像的错位里，探问记忆的真实边界。全书以悬置的真相、折叠的时间、镜像的女性，共同构筑了一座永不竣工的叙事迷宫。</description>
+      <pubDate>Tue, 13 Oct 2026 17:50:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-b436dc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《褐色鸟群》是格非上世纪八九十年代中短篇小说的代表合集，被视为中国先锋文学最重要的标本之一。本书围绕记忆与遗忘的辩证、不可靠叙事与时间折叠、现实与梦境虚构的边界消融、孤独个体与神秘女性的相遇这四大主题展开。代表作《追忆乌攸先生》以一个端午节的清晨为起点，让乌攸先生的死因在不同叙述者口中反复改写，舌头、镜子、三角刀等意象交织成一组关于失语与反抗的拓扑学。《迷舟》以北伐战争为背景，写萧在回乡侦察途中陷入一个关于神秘女性杏的不可抵达之谜。《褐色鸟群》同名短篇则在镜中自我与镜像的错位里，探问记忆的真实边界。全书以悬置的真相、折叠的时间、镜像的女性，共同构筑了一座永不竣工的叙事迷宫。</itunes:summary>
+      <itunes:duration>00:05:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-b436dc.mp3" length="2650741" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
