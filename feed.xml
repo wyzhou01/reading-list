@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 08:37:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 08:44:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35826,6 +35826,17 @@
       <itunes:duration>00:05:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-8c8f0d.mp3" length="2440507" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《多数人死于贪婪》 · 完整版 · 多数人死于贪婪 · 完整讲读</title>
+      <description>《多数人死于贪婪》借一个普通小职员的视角，穿梭于路易威登、万宝龙、宾利、迪奥等二十一个顶级品牌之间，揭开现代消费主义那层镀金的糖衣。作者用道家哲学的利刃追问：当九成资源都被用于传播与营销，当所有的努力只是把零变成一再变回零，当文明以掠夺为常态——人类究竟在奔向何处？这不是一本反消费主义的檄文，而是一张递向整个文明的账单：你要那么多，可又有什么意义？答案藏在那颗被遗落的明珠里——复归于婴儿，复归于朴。</description>
+      <pubDate>Tue, 13 Oct 2026 08:44:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-345308</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《多数人死于贪婪》借一个普通小职员的视角，穿梭于路易威登、万宝龙、宾利、迪奥等二十一个顶级品牌之间，揭开现代消费主义那层镀金的糖衣。作者用道家哲学的利刃追问：当九成资源都被用于传播与营销，当所有的努力只是把零变成一再变回零，当文明以掠夺为常态——人类究竟在奔向何处？这不是一本反消费主义的檄文，而是一张递向整个文明的账单：你要那么多，可又有什么意义？答案藏在那颗被遗落的明珠里——复归于婴儿，复归于朴。</itunes:summary>
+      <itunes:duration>00:03:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-345308.mp3" length="1661849" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
