@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 03:43:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 03:48:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35683,6 +35683,17 @@
       <itunes:duration>00:04:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-cd84f1.mp3" length="2377813" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大越狱》 · 完整版 · 大越狱 · 完整讲读</title>
+      <description>一九四一年春，苏州沦陷区。皖南事变突围的新四军干部被押进日伪宪兵队的野川所魔窟监狱，十五名抗日志士在零下、缺粮、刑讯和随时被暗杀的极端绝境中，被逼上集体越狱之路。电池厂技师孟松胤用化学物理知识破解日军的金属探测仪与探雷器，乡下硬汉老鲁用低于居里点锻打的四氧化三铁扁铁撬开木铺板，众人以【苦肉计】骗过玻璃窗外的巡逻枪兵。最终在铆焊车间用氧气—乙炔火焰枪烧穿水泥墙，借电瓶叉车堵门、煤油碎木点爆氧气瓶炸塌整座工场，泅渡太湖奔赴自由。一部用知识当武器、用谋略对暴政的抗日集体绝地反击之作。</description>
+      <pubDate>Tue, 13 Oct 2026 03:48:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-15bcfe</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九四一年春，苏州沦陷区。皖南事变突围的新四军干部被押进日伪宪兵队的野川所魔窟监狱，十五名抗日志士在零下、缺粮、刑讯和随时被暗杀的极端绝境中，被逼上集体越狱之路。电池厂技师孟松胤用化学物理知识破解日军的金属探测仪与探雷器，乡下硬汉老鲁用低于居里点锻打的四氧化三铁扁铁撬开木铺板，众人以【苦肉计】骗过玻璃窗外的巡逻枪兵。最终在铆焊车间用氧气—乙炔火焰枪烧穿水泥墙，借电瓶叉车堵门、煤油碎木点爆氧气瓶炸塌整座工场，泅渡太湖奔赴自由。一部用知识当武器、用谋略对暴政的抗日集体绝地反击之作。</itunes:summary>
+      <itunes:duration>00:02:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-15bcfe.mp3" length="1115577" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
