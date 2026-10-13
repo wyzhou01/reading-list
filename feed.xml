@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 22:53:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 23:00:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36497,6 +36497,17 @@
       <itunes:duration>00:04:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-ab082a.mp3" length="2195583" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《烟雾弥漫你的眼：我在火葬场学到的生命》 · 完整版 · 烟雾弥漫你的眼：我在火葬场学到的生命（美国2015年黑马热销书） · 完整讲读</title>
+      <description>《烟雾弥漫你的眼》是美国女孩凯特琳·道蒂在加州西风火葬场头六年的亲历记录。她从一个毫无经验的中世纪历史专业毕业生，成长为能在炉膛边耙出禅意的火化工。这本书揭开了殡葬业的神秘面纱，写出了尸体的真实模样、死亡的荒诞与尊严，也写出了活着的人如何在一个被不锈钢门和行政表格隔绝的世界里告别亲人。她用六年的时间明白了一件事：死亡不是惩罚，而是对美好生活的回报。这本书是写给整个时代的一封公开信，告诉我们不要蒙上眼睛，去直视死亡，反而能照亮我们怎么活。</description>
+      <pubDate>Tue, 13 Oct 2026 23:00:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-81f755</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《烟雾弥漫你的眼》是美国女孩凯特琳·道蒂在加州西风火葬场头六年的亲历记录。她从一个毫无经验的中世纪历史专业毕业生，成长为能在炉膛边耙出禅意的火化工。这本书揭开了殡葬业的神秘面纱，写出了尸体的真实模样、死亡的荒诞与尊严，也写出了活着的人如何在一个被不锈钢门和行政表格隔绝的世界里告别亲人。她用六年的时间明白了一件事：死亡不是惩罚，而是对美好生活的回报。这本书是写给整个时代的一封公开信，告诉我们不要蒙上眼睛，去直视死亡，反而能照亮我们怎么活。</itunes:summary>
+      <itunes:duration>00:04:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-81f755.mp3" length="2281683" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
