@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 13:33:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 13:40:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36255,6 +36255,17 @@
       <itunes:duration>00:02:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-ac0155.mp3" length="1252249" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《黑箱社会》 · 完整版 · 黑箱社会 · 完整讲读</title>
+      <description>《黑箱社会》是美国法学教授弗兰克·帕斯奎尔对当代金融与互联网巨头数据霸权的系统性揭秘。本书以信誉评分、搜索排序、金融算法三大领域为切口，揭示企业如何在海量数据中制造单向镜，让普通公民既无法查阅也无法质疑那些主宰自己生活的秘密机制。帕斯奎尔指出，黑箱并非技术天然属性，而是被刻意维护的保密文化与制度设计；只有通过严格监管、要求算法透明、将公共选择权归还公民，才能打破这种不对称，重建一个可被了解的社会。</description>
+      <pubDate>Tue, 13 Oct 2026 13:40:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-62a509</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《黑箱社会》是美国法学教授弗兰克·帕斯奎尔对当代金融与互联网巨头数据霸权的系统性揭秘。本书以信誉评分、搜索排序、金融算法三大领域为切口，揭示企业如何在海量数据中制造单向镜，让普通公民既无法查阅也无法质疑那些主宰自己生活的秘密机制。帕斯奎尔指出，黑箱并非技术天然属性，而是被刻意维护的保密文化与制度设计；只有通过严格监管、要求算法透明、将公共选择权归还公民，才能打破这种不对称，重建一个可被了解的社会。</itunes:summary>
+      <itunes:duration>00:04:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-62a509.mp3" length="2091511" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
