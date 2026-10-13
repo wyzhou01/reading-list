@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 02:36:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 02:44:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35595,6 +35595,17 @@
       <itunes:duration>00:03:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-db7f23.mp3" length="1606679" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《河洛真数》 · 完整版 · 河洛真数 · 完整讲读</title>
+      <description>《河洛真数》是宋初陈抟、邵雍一脉象数易学的集大成之作。本期用三十分钟拆解五块核心拼图：河图洛书定数、八卦相荡成卦、元堂锁点定锚、以诗断卦、先天换后天。它将《易经》从哲学变成一套推命操作系统，把出生时刻拆解为数、卦、时、诗、变五位一体的预测框架，并于明万历年间由隐士李学诗整理成书传世。孔子所谓【不知命无以为君子】，正是此书的精神底色。</description>
+      <pubDate>Tue, 13 Oct 2026 02:44:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-16ecad</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《河洛真数》是宋初陈抟、邵雍一脉象数易学的集大成之作。本期用三十分钟拆解五块核心拼图：河图洛书定数、八卦相荡成卦、元堂锁点定锚、以诗断卦、先天换后天。它将《易经》从哲学变成一套推命操作系统，把出生时刻拆解为数、卦、时、诗、变五位一体的预测框架，并于明万历年间由隐士李学诗整理成书传世。孔子所谓【不知命无以为君子】，正是此书的精神底色。</itunes:summary>
+      <itunes:duration>00:04:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-16ecad.mp3" length="2355662" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
