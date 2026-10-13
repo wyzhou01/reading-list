@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 18:19:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 18:28:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36354,6 +36354,17 @@
       <itunes:duration>00:05:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-f4ad99.mp3" length="2502783" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《侠隐》 · 完整版 · 侠隐 · 完整讲读</title>
+      <description>《侠隐》是张北海创作的长篇小说，以一九三六年至三七年的北平为背景，讲述了一个关于复仇与时代落幕的故事。主人公李天然从美国归来，为寻找师门血仇的凶手，走进了这座即将沦陷的古都。张北海凭借丰富的史料和想象力，重建了一个已经消逝的老北平，从胡同深处到四合院中，从饮食风物到人情世故，无不栩栩如生。小说在武侠故事的外壳下，深入探讨了侠义精神在现代语境下的存亡问题，以及个人恩仇与家国巨变之间的张力。最终，李天然完成了复仇，却也目睹了北平的沦陷和时代的终结。侠隐二字，既是主人公的代号，也是对侠义精神在历史洪流中隐入暗夜的隐喻。整部作品是作者对故土的深情回望，更是对一个时代终结的庄重纪念。</description>
+      <pubDate>Tue, 13 Oct 2026 18:28:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-1edec6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《侠隐》是张北海创作的长篇小说，以一九三六年至三七年的北平为背景，讲述了一个关于复仇与时代落幕的故事。主人公李天然从美国归来，为寻找师门血仇的凶手，走进了这座即将沦陷的古都。张北海凭借丰富的史料和想象力，重建了一个已经消逝的老北平，从胡同深处到四合院中，从饮食风物到人情世故，无不栩栩如生。小说在武侠故事的外壳下，深入探讨了侠义精神在现代语境下的存亡问题，以及个人恩仇与家国巨变之间的张力。最终，李天然完成了复仇，却也目睹了北平的沦陷和时代的终结。侠隐二字，既是主人公的代号，也是对侠义精神在历史洪流中隐入暗夜的隐喻。整部作品是作者对故土的深情回望，更是对一个时代终结的庄重纪念。</itunes:summary>
+      <itunes:duration>00:04:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-1edec6.mp3" length="1941046" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
