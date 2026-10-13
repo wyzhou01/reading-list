@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 12:48:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 12:56:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36189,6 +36189,17 @@
       <itunes:duration>00:04:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-63161c.mp3" length="2259531" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《威胁》 · 完整版 · 威胁 · 完整讲读</title>
+      <description>山顶少女艾瑟琳与青梅竹马阿杜雷偷下山，撞上一堵两百九十二年前先祖用树干与金属线匆匆缠起的大墙，墙上用好几种古老语言写着【墙后致命危险，擅入者死】。山的另一头，爱尔兰老人麦奇病得只剩一口气，除夕夜指着远处石塔说，他最后的心愿，是再上去站一回。一只松鼠认认真真地把刻着艾瑟琳名字的橡子一颗颗藏进树洞——先祖逃上山时，把来不及带走的记忆托付给了松鼠。两百九十二年过去，人忘了，松鼠还在等。《威胁》用一个刻字的橡子、一堵烂掉的墙、一个想爬山的老人，把禁忌、归乡、记忆、流放、人类与他者的关系，全都压进了山顶的一座石头塔里。山顶与山底从来不是两个世界，是同一种恐惧的两个投影。真正的威胁，从来不在墙外，在墙里，在每一个用祖训替自己偷懒的瞬间。</description>
+      <pubDate>Tue, 13 Oct 2026 12:56:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-284262</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>山顶少女艾瑟琳与青梅竹马阿杜雷偷下山，撞上一堵两百九十二年前先祖用树干与金属线匆匆缠起的大墙，墙上用好几种古老语言写着【墙后致命危险，擅入者死】。山的另一头，爱尔兰老人麦奇病得只剩一口气，除夕夜指着远处石塔说，他最后的心愿，是再上去站一回。一只松鼠认认真真地把刻着艾瑟琳名字的橡子一颗颗藏进树洞——先祖逃上山时，把来不及带走的记忆托付给了松鼠。两百九十二年过去，人忘了，松鼠还在等。《威胁》用一个刻字的橡子、一堵烂掉的墙、一个想爬山的老人，把禁忌、归乡、记忆、流放、人类与他者的关系，全都压进了山顶的一座石头塔里。山顶与山底从来不是两个世界，是同一种恐惧的两个投影。真正的威胁，从来不在墙外，在墙里，在每一个用祖训替自己偷懒的瞬间。</itunes:summary>
+      <itunes:duration>00:06:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-284262.mp3" length="3250094" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
