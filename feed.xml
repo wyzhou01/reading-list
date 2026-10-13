@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 09:42:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 09:49:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35925,6 +35925,17 @@
       <itunes:duration>00:03:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-6d48cd.mp3" length="1803537" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《曾许诺（全二册）》 · 完整版 · 曾许诺（全二册） · 完整讲读</title>
+      <description>桐华《曾许诺》是一部以上古大荒为舞台的神话爱情史诗。神农、轩辕、高辛三族鼎立，九夷贱民出身的蚩尤与高辛王姬西陵珩相遇相恋，却因家国天下的重负一次次分离。诺言一点一点被兑水，誓言的【永】最终变成了回忆的【曾】。全书借《山海经》的壳，写诺言与命运的无常，写【世间并无双全法】的家国两难，写一个女子在桃花落尽的春天里独自守住一场再也无法兑现的诺言。</description>
+      <pubDate>Tue, 13 Oct 2026 09:49:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-8f82d0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>桐华《曾许诺》是一部以上古大荒为舞台的神话爱情史诗。神农、轩辕、高辛三族鼎立，九夷贱民出身的蚩尤与高辛王姬西陵珩相遇相恋，却因家国天下的重负一次次分离。诺言一点一点被兑水，誓言的【永】最终变成了回忆的【曾】。全书借《山海经》的壳，写诺言与命运的无常，写【世间并无双全法】的家国两难，写一个女子在桃花落尽的春天里独自守住一场再也无法兑现的诺言。</itunes:summary>
+      <itunes:duration>00:03:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-8f82d0.mp3" length="1751711" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
