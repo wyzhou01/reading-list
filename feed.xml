@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 23:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 23:07:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36508,6 +36508,17 @@
       <itunes:duration>00:04:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-81f755.mp3" length="2281683" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《翻译的技巧》 · 完整版 · 翻译的技巧 · 完整讲读</title>
+      <description>本书是钱歌川先生于一九七二年在南洋大学定稿的翻译课讲义，全书分三编：第一编由语法入手，详解英文五种基本句型，作为汉译英的造句工具；第二编梳理一百三十四条英文惯用法与疑难句法，按 it、名词、as、动词、不定词、动名词、否定词等十二大类逐条剖析，并附汉译示范；第三编进入段落篇章实战，先辨析英文类似句与常易译错文句，再以郑板桥家书、《为学》《画蛇添足》《黔之驴》等二十篇中英对照素材训练综合翻译，附录精选威廉·普洛默、杜雷尔、塞林格、艾里斯·默多克、卡波特、鲍德温、斯泰伦等十六位当代名家的代表作摘译。钱老的核心主张是【由语法入手，造句先行，然后才谈翻译】，把翻译从一项依赖语感的艺术，还原为一门可以拆解、可以批量化训练的手艺。译文言文须先化古为今再由今入洋，译现代英文则须先辨句型再下笔——这本书既是中文写作者跨越中式英文陷阱的训练手册，也是半个世纪以来华语世界最扎实、最系统的翻译入门读本。</description>
+      <pubDate>Tue, 13 Oct 2026 23:07:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-7824ca</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是钱歌川先生于一九七二年在南洋大学定稿的翻译课讲义，全书分三编：第一编由语法入手，详解英文五种基本句型，作为汉译英的造句工具；第二编梳理一百三十四条英文惯用法与疑难句法，按 it、名词、as、动词、不定词、动名词、否定词等十二大类逐条剖析，并附汉译示范；第三编进入段落篇章实战，先辨析英文类似句与常易译错文句，再以郑板桥家书、《为学》《画蛇添足》《黔之驴》等二十篇中英对照素材训练综合翻译，附录精选威廉·普洛默、杜雷尔、塞林格、艾里斯·默多克、卡波特、鲍德温、斯泰伦等十六位当代名家的代表作摘译。钱老的核心主张是【由语法入手，造句先行，然后才谈翻译】，把翻译从一项依赖语感的艺术，还原为一门可以拆解、可以批量化训练的手艺。译文言文须先化古为今再由今入洋，译现代英文则须先辨句型再下笔——这本书既是中文写作者跨越中式英文陷阱的训练手册，也是半个世纪以来华语世界最扎实、最系统的翻译入门读本。</itunes:summary>
+      <itunes:duration>00:03:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-7824ca.mp3" length="1815658" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
