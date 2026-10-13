@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 03:58:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 04:06:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35705,6 +35705,17 @@
       <itunes:duration>00:03:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-1c0294.mp3" length="1860380" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《计算机与人脑》 · 完整版 · 计算机与人脑_(科学素养文库·科学元典丛书)_-_冯·诺伊曼(Neumann.J.V) · 完整讲读</title>
+      <description>《计算机与人脑》是数学家冯·诺伊曼在生命最后阶段写下的未竟遗作，一九五八年出版。这位亲手设计出现代计算机内部架构的天才，拿自己造出的精密数字机器，与一公斤重的人脑逐项比对，得出六十年后依然振聋发聩的结论：人脑比元件数量大却运行缓慢，靠高度并行碾压深度劣势；神经系统使用的记数系统不是数字的，而是统计的；人脑的语言根本不是数学的语言。本书横跨计算机结构、神经生理学、形式语言、统计记数、混合数字与模拟系统，是理解人工智能与认知科学绕不过去的原点。</description>
+      <pubDate>Tue, 13 Oct 2026 04:06:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-24dd2a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《计算机与人脑》是数学家冯·诺伊曼在生命最后阶段写下的未竟遗作，一九五八年出版。这位亲手设计出现代计算机内部架构的天才，拿自己造出的精密数字机器，与一公斤重的人脑逐项比对，得出六十年后依然振聋发聩的结论：人脑比元件数量大却运行缓慢，靠高度并行碾压深度劣势；神经系统使用的记数系统不是数字的，而是统计的；人脑的语言根本不是数学的语言。本书横跨计算机结构、神经生理学、形式语言、统计记数、混合数字与模拟系统，是理解人工智能与认知科学绕不过去的原点。</itunes:summary>
+      <itunes:duration>00:04:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-24dd2a.mp3" length="2386591" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
