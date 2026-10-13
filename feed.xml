@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 10:28:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 10:37:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35980,6 +35980,17 @@
       <itunes:duration>00:07:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-761261.mp3" length="3398052" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《毕飞宇文集》 · 完整版 · 毕飞宇文集 · 完整讲读</title>
+      <description>《毕飞宇文集》是茅盾文学奖得主毕飞宇的小说精选集，收录《哺乳期的女人》《青衣》《玉米》《推拿》等代表作品。书中每一个故事，都贴着肉写，从断桥镇七岁男孩对着哺乳母亲咬下的那一口，到青衣筱燕秋为【一个嫦娥手势】燃尽的嗓子，到王家庄玉米地里长出来的权力算计，再到南京一群盲人推拿师用手指说出的尊严与爱。毕飞宇像外科医生一样冷峻切开身体、性别、欲望与权力，写出中国乡土与都市暗处那些被折叠起来的人。他不讲励志，他只让你照见自己——你家里有没有一个不肯输的妈？你身上有没有一个不在场的爸？你会不会也只是一个【不会陪】的成年人？这本文集，是当代中国人最疼的一面镜子。</description>
+      <pubDate>Tue, 13 Oct 2026 10:37:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-143b1e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《毕飞宇文集》是茅盾文学奖得主毕飞宇的小说精选集，收录《哺乳期的女人》《青衣》《玉米》《推拿》等代表作品。书中每一个故事，都贴着肉写，从断桥镇七岁男孩对着哺乳母亲咬下的那一口，到青衣筱燕秋为【一个嫦娥手势】燃尽的嗓子，到王家庄玉米地里长出来的权力算计，再到南京一群盲人推拿师用手指说出的尊严与爱。毕飞宇像外科医生一样冷峻切开身体、性别、欲望与权力，写出中国乡土与都市暗处那些被折叠起来的人。他不讲励志，他只让你照见自己——你家里有没有一个不肯输的妈？你身上有没有一个不在场的爸？你会不会也只是一个【不会陪】的成年人？这本文集，是当代中国人最疼的一面镜子。</itunes:summary>
+      <itunes:duration>00:05:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-143b1e.mp3" length="2608109" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
