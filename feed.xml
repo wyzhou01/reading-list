@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 03:48:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 03:58:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35694,6 +35694,17 @@
       <itunes:duration>00:02:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-15bcfe.mp3" length="1115577" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《江苏社科名家文库·茅家琦卷》 · 完整版 · 江苏社科名家文库·茅家琦卷 · 完整讲读</title>
+      <description>茅家琦，江苏盐城人，一九二七年生，南京大学历史系教授，江苏社科名家。他师从太平天国史宗师罗尔纲，以实证功夫与思辨精神治学六十载。青年时期因替忠王李秀成辩护而遭受政治迫害，匡亚明校长九字赠言“不要紧张，再写文章”支撑他走过半个世纪。他从太平天国史拓展至台湾史研究，完成新中国成立后首部当代台湾史专著；晚年以《咏史一百一十二首》将实证史学与诗意表达融为一体。其学术人生诠释了实证功夫是史学的骨骼、思辨精神是史学的气脉、人文精神是史学的灵魂这一治学真谛。</description>
+      <pubDate>Tue, 13 Oct 2026 03:58:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-1c0294</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>茅家琦，江苏盐城人，一九二七年生，南京大学历史系教授，江苏社科名家。他师从太平天国史宗师罗尔纲，以实证功夫与思辨精神治学六十载。青年时期因替忠王李秀成辩护而遭受政治迫害，匡亚明校长九字赠言“不要紧张，再写文章”支撑他走过半个世纪。他从太平天国史拓展至台湾史研究，完成新中国成立后首部当代台湾史专著；晚年以《咏史一百一十二首》将实证史学与诗意表达融为一体。其学术人生诠释了实证功夫是史学的骨骼、思辨精神是史学的气脉、人文精神是史学的灵魂这一治学真谛。</itunes:summary>
+      <itunes:duration>00:03:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-1c0294.mp3" length="1860380" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
