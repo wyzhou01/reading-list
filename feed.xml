@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 19:12:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 19:20:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36420,6 +36420,17 @@
       <itunes:duration>00:08:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-13ceb8.mp3" length="3856135" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《论世间苦难》 · 完整版 · 论世间苦难_-_阿图尔叔本华 · 完整讲读</title>
+      <description>叔本华以悲观的哲学视角剖析人类存在的本质：他认为意志是世界的本源，欲望永无止境，满足只是短暂的否定性休止，因此痛苦才是人生的肯定性常态。本书收录其随笔与箴言，从苦难、虚无、自在之物、意志的肯定与否定，到死亡、自杀、女性与独立思考，集中阐述了其意志哲学的核心命题，并以冷峻笔触揭示生命的本质是一场赎罪。</description>
+      <pubDate>Tue, 13 Oct 2026 19:20:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-b2f463</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>叔本华以悲观的哲学视角剖析人类存在的本质：他认为意志是世界的本源，欲望永无止境，满足只是短暂的否定性休止，因此痛苦才是人生的肯定性常态。本书收录其随笔与箴言，从苦难、虚无、自在之物、意志的肯定与否定，到死亡、自杀、女性与独立思考，集中阐述了其意志哲学的核心命题，并以冷峻笔触揭示生命的本质是一场赎罪。</itunes:summary>
+      <itunes:duration>00:05:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-b2f463.mp3" length="2723466" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
