@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 00:38:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 00:44:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35452,6 +35452,17 @@
       <itunes:duration>00:02:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-b860b5.mp3" length="1266878" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我脑袋里的怪东西》 · 完整版 · 我脑袋里的怪东西_-_[土耳其]_奥尔罕·帕慕克 · 完整讲读</title>
+      <description>奥尔罕·帕慕克笔下的小贩麦夫鲁特，一九五七年生于安纳托利亚的贫瘠村庄，十二岁来到伊斯坦布尔，一九八二年抢亲时妻子被姐姐掉了包，五十年间在政变、城镇化、贫富撕裂与库尔德迁徙的浪潮中挑担为生。他在被城市反复吐出时从未哀悼，只是穿上妻子织的咖啡色毛衣、围上蓝围裙，去寻觅还能容纳扁担的新街。这部写给伊斯坦布尔的长信，最终浓缩为一个属于所有现代都市人的命题——每个人脑袋里都住着一头既不属于那个时间也不属于那个空间的怪东西，关键不在于杀死它，而在于带着它继续走下去。</description>
+      <pubDate>Tue, 13 Oct 2026 00:44:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-6b2861</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>奥尔罕·帕慕克笔下的小贩麦夫鲁特，一九五七年生于安纳托利亚的贫瘠村庄，十二岁来到伊斯坦布尔，一九八二年抢亲时妻子被姐姐掉了包，五十年间在政变、城镇化、贫富撕裂与库尔德迁徙的浪潮中挑担为生。他在被城市反复吐出时从未哀悼，只是穿上妻子织的咖啡色毛衣、围上蓝围裙，去寻觅还能容纳扁担的新街。这部写给伊斯坦布尔的长信，最终浓缩为一个属于所有现代都市人的命题——每个人脑袋里都住着一头既不属于那个时间也不属于那个空间的怪东西，关键不在于杀死它，而在于带着它继续走下去。</itunes:summary>
+      <itunes:duration>00:02:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-6b2861.mp3" length="1093007" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
