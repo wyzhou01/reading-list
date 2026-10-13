@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 10:01:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 10:08:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35947,6 +35947,17 @@
       <itunes:duration>00:02:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-819ece.mp3" length="1403969" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《论财富的分配》 · 完整版 · 论财富的分配_(汉译世界学术名著丛书)_-_理查德·琼斯 · 完整讲读</title>
+      <description>《论财富的分配》是十九世纪英国经济学家乔治·拉姆赛写于1836年的分配论著作。他在书中把社会切成工人、雇主、资本家、地主四大阶级,把资本切成可变与不变两块,把利润切成利息与企业利润两瓣,并用冷静到近乎残酷的古典经济学语言,一步步逼近了一个石破天惊的结论——资本家总是用较少的物化劳动去换取较多的活劳动,这部分被无偿占有的活劳动余额,构成了剩余价值的真正来源。这一观察比马克思正式提出剩余价值理论还要早几十年。拉姆赛还花了全书近三分之一的篇幅讨论地产分割与长子继承权,论证制度安排如何深刻影响一个社会的阶层结构和资本积累速度。这本被资产阶级经济学界刻意湮没的小书,在初版138年后才被重见天日,成为经济学说史上一个被长期低估、却极富洞察力的思想坐标。</description>
+      <pubDate>Tue, 13 Oct 2026 10:08:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-78b67d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《论财富的分配》是十九世纪英国经济学家乔治·拉姆赛写于1836年的分配论著作。他在书中把社会切成工人、雇主、资本家、地主四大阶级,把资本切成可变与不变两块,把利润切成利息与企业利润两瓣,并用冷静到近乎残酷的古典经济学语言,一步步逼近了一个石破天惊的结论——资本家总是用较少的物化劳动去换取较多的活劳动,这部分被无偿占有的活劳动余额,构成了剩余价值的真正来源。这一观察比马克思正式提出剩余价值理论还要早几十年。拉姆赛还花了全书近三分之一的篇幅讨论地产分割与长子继承权,论证制度安排如何深刻影响一个社会的阶层结构和资本积累速度。这本被资产阶级经济学界刻意湮没的小书,在初版138年后才被重见天日,成为经济学说史上一个被长期低估、却极富洞察力的思想坐标。</itunes:summary>
+      <itunes:duration>00:03:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-78b67d.mp3" length="1566555" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
