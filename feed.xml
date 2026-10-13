@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 02:10:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 02:20:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35562,6 +35562,17 @@
       <itunes:duration>00:03:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-f0ff5e.mp3" length="1780968" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《纪德集(03)梵蒂冈的地窖》 · 完整版 · 纪德集(03)梵蒂冈的地窖 · 完整讲读</title>
+      <description>纪德的《梵蒂冈的地窖》是一部反结构、反英雄、反深度的小说奇作。主角拉夫卡迪奥在罗马街头被陌生女孩一句话点拨，便拿起手枪去刺杀教皇，全程【无动机】、无内疚、无后效，被纪德命名为【纯粹行动】，是对传统小说【因果律】与【起承转合】的彻底反叛。本书用看似零散的拼图结构——昂蒂姆的【无深度】人格、朱利尤斯的【骗子小说】、乌斯克鲁斯的【拐卖意象】——一层层剥开现代人精神无根、写作伦理可疑、自我无法被定义的多重困境。读这本书不会让你【懂】什么，只会让你【看见】现代人用以自我包装的一切【乌斯克鲁斯式的易碎品箱】，并怀疑自己是否也活在别人精心包装的梦里。</description>
+      <pubDate>Tue, 13 Oct 2026 02:20:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-cba466</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>纪德的《梵蒂冈的地窖》是一部反结构、反英雄、反深度的小说奇作。主角拉夫卡迪奥在罗马街头被陌生女孩一句话点拨，便拿起手枪去刺杀教皇，全程【无动机】、无内疚、无后效，被纪德命名为【纯粹行动】，是对传统小说【因果律】与【起承转合】的彻底反叛。本书用看似零散的拼图结构——昂蒂姆的【无深度】人格、朱利尤斯的【骗子小说】、乌斯克鲁斯的【拐卖意象】——一层层剥开现代人精神无根、写作伦理可疑、自我无法被定义的多重困境。读这本书不会让你【懂】什么，只会让你【看见】现代人用以自我包装的一切【乌斯克鲁斯式的易碎品箱】，并怀疑自己是否也活在别人精心包装的梦里。</itunes:summary>
+      <itunes:duration>00:03:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-cba466.mp3" length="1619635" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
