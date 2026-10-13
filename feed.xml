@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 11:22:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 11:28:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36057,6 +36057,17 @@
       <itunes:duration>00:02:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-acf76d.mp3" length="1417761" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《沃兹传：与苹果一起疯狂》 · 完整版 · 沃兹传：与苹果一起疯狂 · 完整讲读</title>
+      <description>这是一本由苹果公司真正技术心脏史蒂夫·沃兹尼亚克亲笔撰写的工程师自传。从四岁被父亲领进电子学世界，到十一岁在街区间架设对讲网络，到十三岁造出加减法机器，再到车库里焊出改变世界的 Apple I 与 Apple II，沃兹用工程师的笔法回望一生。书中既写出了硅谷车库文化的草根本质，也写出了与乔布斯并肩十年后主动选择退出的清醒；既记录了父亲教给他的诚信与工程伦理，也记录了那些被誉为极客童年的恶作剧哲学。在一个把成功等同于融资额与曝光度的年代，沃兹留下了一种属于工程师的幸福范式：被允许用一整个晚上只为改掉一个微小的设计缺陷，本身就是技术能带给人的最高奖赏。</description>
+      <pubDate>Tue, 13 Oct 2026 11:28:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-a25ba3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>这是一本由苹果公司真正技术心脏史蒂夫·沃兹尼亚克亲笔撰写的工程师自传。从四岁被父亲领进电子学世界，到十一岁在街区间架设对讲网络，到十三岁造出加减法机器，再到车库里焊出改变世界的 Apple I 与 Apple II，沃兹用工程师的笔法回望一生。书中既写出了硅谷车库文化的草根本质，也写出了与乔布斯并肩十年后主动选择退出的清醒；既记录了父亲教给他的诚信与工程伦理，也记录了那些被誉为极客童年的恶作剧哲学。在一个把成功等同于融资额与曝光度的年代，沃兹留下了一种属于工程师的幸福范式：被允许用一整个晚上只为改掉一个微小的设计缺陷，本身就是技术能带给人的最高奖赏。</itunes:summary>
+      <itunes:duration>00:03:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-a25ba3.mp3" length="1706571" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
