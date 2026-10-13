@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 09:19:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 09:28:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35892,6 +35892,17 @@
       <itunes:duration>00:04:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-711b82.mp3" length="2198091" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《四川方言与文化》 · 完整版 · 四川方言与文化_(方言与文化丛书) · 完整讲读</title>
+      <description>《四川方言与文化》是且志宇先生以文艺学博士的视角跨界方言研究的成果。本书以四川方言的两大分区——岷江以东的湖广话与岷江以西保留古入声的南路话——为骨架，揭开了百分之九十的人说的四川话其实不是四川本来的话这一被遮蔽的真相：元末明初与清初两次湖广填四川，让湖北湖南移民的语言覆盖了成渝，覆盖了岷江以东；真正的蜀语本枝，是南路话，是李实《蜀语》记录下的那种语言。从螳螂三儿的两千年音讹链条，到浇水香料的使动用法活化石，从胡曾嘲笑蜀人语不正却被时间翻案的唐诗，到一九四四年重庆献九鼎仪式上一句方言搅黄国家典礼的闹剧，本书以摆龙门阵的姿态，剥现出四川方言所承载的古往今来层层叠压的文化地层。</description>
+      <pubDate>Tue, 13 Oct 2026 09:28:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-9ab9c6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《四川方言与文化》是且志宇先生以文艺学博士的视角跨界方言研究的成果。本书以四川方言的两大分区——岷江以东的湖广话与岷江以西保留古入声的南路话——为骨架，揭开了百分之九十的人说的四川话其实不是四川本来的话这一被遮蔽的真相：元末明初与清初两次湖广填四川，让湖北湖南移民的语言覆盖了成渝，覆盖了岷江以东；真正的蜀语本枝，是南路话，是李实《蜀语》记录下的那种语言。从螳螂三儿的两千年音讹链条，到浇水香料的使动用法活化石，从胡曾嘲笑蜀人语不正却被时间翻案的唐诗，到一九四四年重庆献九鼎仪式上一句方言搅黄国家典礼的闹剧，本书以摆龙门阵的姿态，剥现出四川方言所承载的古往今来层层叠压的文化地层。</itunes:summary>
+      <itunes:duration>00:05:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-9ab9c6.mp3" length="2614796" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
