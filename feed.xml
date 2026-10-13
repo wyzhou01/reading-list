@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 00:50:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 01:00:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35474,6 +35474,17 @@
       <itunes:duration>00:04:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-2aab2e.mp3" length="1961108" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《拉维尔斯坦》 · 完整版 · 拉维尔斯坦 · 完整讲读</title>
+      <description>《拉维尔斯坦》是索尔·贝娄最后一部长篇。八十四岁的他，把笔锋对准了亡友阿兰·布鲁姆的化身——一个保守派政治学家，死于艾滋病，死前把最私密的遗稿托付给自由派老友。贝娄借这场悼念，写出两个政治立场几乎处处对立的人，如何靠三十年共读柏拉图、亚里士多德、洛克这些【过时的】【原文】，撑住了一段超越立场的友谊。一边是保守派对精神秩序近乎执拗的捍卫，一边是自由派对肉身欲望与隐秘私生活的诚实清算。贝娄在书里把【保守派最动人的那一面】【知识分子友谊的真正支点】【替朋友再活一次的写作伦理】这三件事，写得克制而锋利。读这本书，你不会找到任何政治答案，你只会找到一种近乎过时的坚持——只要还愿意在书桌前坐下来读一本【没用】的书，你就还没被这个时代真正收编。</description>
+      <pubDate>Tue, 13 Oct 2026 01:00:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-6d7376</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《拉维尔斯坦》是索尔·贝娄最后一部长篇。八十四岁的他，把笔锋对准了亡友阿兰·布鲁姆的化身——一个保守派政治学家，死于艾滋病，死前把最私密的遗稿托付给自由派老友。贝娄借这场悼念，写出两个政治立场几乎处处对立的人，如何靠三十年共读柏拉图、亚里士多德、洛克这些【过时的】【原文】，撑住了一段超越立场的友谊。一边是保守派对精神秩序近乎执拗的捍卫，一边是自由派对肉身欲望与隐秘私生活的诚实清算。贝娄在书里把【保守派最动人的那一面】【知识分子友谊的真正支点】【替朋友再活一次的写作伦理】这三件事，写得克制而锋利。读这本书，你不会找到任何政治答案，你只会找到一种近乎过时的坚持——只要还愿意在书桌前坐下来读一本【没用】的书，你就还没被这个时代真正收编。</itunes:summary>
+      <itunes:duration>00:07:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-6d7376.mp3" length="3680174" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
