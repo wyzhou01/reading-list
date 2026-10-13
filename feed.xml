@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 17:11:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 17:24:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36277,6 +36277,17 @@
       <itunes:duration>00:04:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-6f3445.mp3" length="2128292" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《进入黎明的漫长旅程》 · 完整版 · 进入黎明的漫长旅程 · 完整讲读</title>
+      <description>《进入黎明的漫长旅程》是跨界电影人唐棣二零一六年出版的短篇小说集，收录十六篇小说加一篇创作日记。本书以电影思维进入小说，把文字变成一帧一帧可以播放的画面，写一群在城市与小镇边缘游荡的人——他们欠着房租、拖着稿子、揣着卖不出去的长篇，喝酒、做爱、撒谎、回忆，把生活过成了一部没人喊卡的默片。从同学会到咖啡馆，从海边到放映间，唐棣用破碎却有序的叙事，把边缘人最隐秘的孤独、被艺术与生活反复撕扯的疲惫，全部翻了出来。这是一本献给所有正在漂泊、正在写、正在拍、正在把日子过下去的人的书。</description>
+      <pubDate>Tue, 13 Oct 2026 17:24:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-450f68</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《进入黎明的漫长旅程》是跨界电影人唐棣二零一六年出版的短篇小说集，收录十六篇小说加一篇创作日记。本书以电影思维进入小说，把文字变成一帧一帧可以播放的画面，写一群在城市与小镇边缘游荡的人——他们欠着房租、拖着稿子、揣着卖不出去的长篇，喝酒、做爱、撒谎、回忆，把生活过成了一部没人喊卡的默片。从同学会到咖啡馆，从海边到放映间，唐棣用破碎却有序的叙事，把边缘人最隐秘的孤独、被艺术与生活反复撕扯的疲惫，全部翻了出来。这是一本献给所有正在漂泊、正在写、正在拍、正在把日子过下去的人的书。</itunes:summary>
+      <itunes:duration>00:07:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-450f68.mp3" length="3557712" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
