@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 03:35:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 03:43:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35672,6 +35672,17 @@
       <itunes:duration>00:04:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-cec548.mp3" length="2318045" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《勾阑醉：戏话·戏画》 · 完整版 · 勾阑醉：戏话•戏画 · 完整讲读</title>
+      <description>《勾阑醉：戏话·戏画》是沐斋以戏论道、以画捕神的中国戏曲精神笔记。上篇戏话精选六十出昆曲京剧经典折子，从《琵琶记》赵五娘到《牡丹亭》杜丽娘，从《桃花扇》李香君到《曹操与杨修》，剖析孝道、士人风骨、至情至性等中国人精神底色；下篇戏画以水墨捕捉舞台神彩，让笔墨里有锣鼓、有人物、有呼吸。作者自认外行，却以痴心一头扎进戏曲，认真地热闹了一回，召唤新士人主义在当下重续传统。</description>
+      <pubDate>Tue, 13 Oct 2026 03:43:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-cd84f1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《勾阑醉：戏话·戏画》是沐斋以戏论道、以画捕神的中国戏曲精神笔记。上篇戏话精选六十出昆曲京剧经典折子，从《琵琶记》赵五娘到《牡丹亭》杜丽娘，从《桃花扇》李香君到《曹操与杨修》，剖析孝道、士人风骨、至情至性等中国人精神底色；下篇戏画以水墨捕捉舞台神彩，让笔墨里有锣鼓、有人物、有呼吸。作者自认外行，却以痴心一头扎进戏曲，认真地热闹了一回，召唤新士人主义在当下重续传统。</itunes:summary>
+      <itunes:duration>00:04:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-cd84f1.mp3" length="2377813" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
