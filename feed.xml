@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 12:09:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 12:15:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36134,6 +36134,17 @@
       <itunes:duration>00:05:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-eb3f79.mp3" length="2846764" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《如何实现有效社交：做一个高段位的沟通者》 · 完整版 · 如何实现有效社交(1) · 完整讲读</title>
+      <description>在信息爆炸、注意力稀缺的时代，百分之九十的沟通失败都不在嘴上，而在开口之前。《如何实现有效社交》作者凯伦·伯格凭借三十年沟通培训经验，提出高段位沟通者的五维能力框架：先用 WIIFM 表格潜入对方大脑，搞清楚这关对方什么事；再用信息地图根据现代人记忆特点科学组织语言，让关键信息可被记住；接着用视觉化策略调动形象、声音、身体语言，让说服不止于嘴巴；同时养成视觉联想、呼吸训练、摄像训练、形象管理、目光接触、开场白、完美演示这七个可刻意练习的习惯；最后掌握应对冲突与媒体提问的搭桥技巧，无论局面多失控都能把话题拉回预定轨道。本书用 NASA 飞行员、白宫政治家、好莱坞作家的真实案例告诉你：所有高段位的沟通者，都不是天生的，他们是在一个又一个小习惯的累积中，把自己磨成了别人眼中那个天生会说话的人。</description>
+      <pubDate>Tue, 13 Oct 2026 12:14:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-edf5aa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>在信息爆炸、注意力稀缺的时代，百分之九十的沟通失败都不在嘴上，而在开口之前。《如何实现有效社交》作者凯伦·伯格凭借三十年沟通培训经验，提出高段位沟通者的五维能力框架：先用 WIIFM 表格潜入对方大脑，搞清楚这关对方什么事；再用信息地图根据现代人记忆特点科学组织语言，让关键信息可被记住；接着用视觉化策略调动形象、声音、身体语言，让说服不止于嘴巴；同时养成视觉联想、呼吸训练、摄像训练、形象管理、目光接触、开场白、完美演示这七个可刻意练习的习惯；最后掌握应对冲突与媒体提问的搭桥技巧，无论局面多失控都能把话题拉回预定轨道。本书用 NASA 飞行员、白宫政治家、好莱坞作家的真实案例告诉你：所有高段位的沟通者，都不是天生的，他们是在一个又一个小习惯的累积中，把自己磨成了别人眼中那个天生会说话的人。</itunes:summary>
+      <itunes:duration>00:02:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-edf5aa.mp3" length="1315361" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
