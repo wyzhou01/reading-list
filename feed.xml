@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 13:40:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 17:11:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36266,6 +36266,17 @@
       <itunes:duration>00:04:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-62a509.mp3" length="2091511" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《重返巴格达》 · 完整版 · 重返巴格达 · 完整讲读</title>
+      <description>《重返巴格达》是新华社摄影记者唐师曾于海湾战争十周年之际，携妻子持私人护照重返伊拉克的现场记录。他以莱卡镜头与朴素文字，记述长期制裁下伊拉克平民的真实苦难——断药的母亲、防空洞里的冤魂、贫铀弹的贻害、哭泣的底格里斯河；并以中国记者的独立视角，审视萨达姆政权、石油换食品、中伊外交与文明古国命运。在西方媒体垄断的叙事里，他用双脚与良知，为真理留下了一份独立的证词，也为新闻理想这一古老职业，写下了属于中国的注脚。</description>
+      <pubDate>Tue, 13 Oct 2026 17:11:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-6f3445</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《重返巴格达》是新华社摄影记者唐师曾于海湾战争十周年之际，携妻子持私人护照重返伊拉克的现场记录。他以莱卡镜头与朴素文字，记述长期制裁下伊拉克平民的真实苦难——断药的母亲、防空洞里的冤魂、贫铀弹的贻害、哭泣的底格里斯河；并以中国记者的独立视角，审视萨达姆政权、石油换食品、中伊外交与文明古国命运。在西方媒体垄断的叙事里，他用双脚与良知，为真理留下了一份独立的证词，也为新闻理想这一古老职业，写下了属于中国的注脚。</itunes:summary>
+      <itunes:duration>00:04:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-6f3445.mp3" length="2128292" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
