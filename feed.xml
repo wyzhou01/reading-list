@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 23:07:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 23:13:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36519,6 +36519,17 @@
       <itunes:duration>00:03:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-7824ca.mp3" length="1815658" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《亿万：围剿华尔街大白鲨》 · 完整版 · 亿万：围剿华尔街大白鲨 · 完整讲读</title>
+      <description>《亿万：围剿华尔街大白鲨》记录了联邦检察官普里特·巴拉拉的办公室耗时十余年，把对冲基金之王史蒂文·科恩从神坛拉下来的过程。从一场对冲基金经理拉吉·拉贾拉特南的电话窃听开始，专案组顺藤摸瓜，发现一条通向科恩的秘密通道——前赛克资本研究员与内线医生的隐秘情报链。为保住这条线，赛克资本设计出一套独特而狡黠的合规体系：不留录音、轮岗剥离、让研究员与交易结果隔离，让创始人永远「不知道」内幕的存在。作者借这本书，展示了华尔街对冲基金行业靠着百分之二管理费加百分之二十业绩费的收费结构，把「黑色优势」从道德问题变成行业生存机制；同时，也讲述了联邦调查局、美国证券交易委员会与联邦检察官如何用电话记录比对、内线证人策反等笨功夫，一层一层拆穿这道防御。这不是一部简单的犯罪故事，而是一张金融行业、信息权力与司法博弈的全景图。</description>
+      <pubDate>Tue, 13 Oct 2026 23:13:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-dbf2ff</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《亿万：围剿华尔街大白鲨》记录了联邦检察官普里特·巴拉拉的办公室耗时十余年，把对冲基金之王史蒂文·科恩从神坛拉下来的过程。从一场对冲基金经理拉吉·拉贾拉特南的电话窃听开始，专案组顺藤摸瓜，发现一条通向科恩的秘密通道——前赛克资本研究员与内线医生的隐秘情报链。为保住这条线，赛克资本设计出一套独特而狡黠的合规体系：不留录音、轮岗剥离、让研究员与交易结果隔离，让创始人永远「不知道」内幕的存在。作者借这本书，展示了华尔街对冲基金行业靠着百分之二管理费加百分之二十业绩费的收费结构，把「黑色优势」从道德问题变成行业生存机制；同时，也讲述了联邦调查局、美国证券交易委员会与联邦检察官如何用电话记录比对、内线证人策反等笨功夫，一层一层拆穿这道防御。这不是一部简单的犯罪故事，而是一张金融行业、信息权力与司法博弈的全景图。</itunes:summary>
+      <itunes:duration>00:04:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-dbf2ff.mp3" length="1971557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
