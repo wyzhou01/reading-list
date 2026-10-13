@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 18:38:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 18:46:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36376,6 +36376,17 @@
       <itunes:duration>00:06:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-88916c.mp3" length="3332432" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《底特律往事》 · 完整版 · 底特律往事 · 完整讲读</title>
+      <description>《底特律往事》全景记录了2005到2009年间通用、福特、克莱斯勒三大美国汽车巨头从巅峰跌入破产深渊的完整过程。作者弗拉斯科以多年贴身采访，揭示出底特律衰亡的三重底层机制：医保年金吞噬制造业现金流、组织记忆拒绝新能源、劳资零和博弈耗尽战略想象力。最终，通用和克莱斯勒在政府救助下借破产重生，福特凭借穆拉利提前减负的资产负债表独自撑过风暴，新任克莱斯勒掌门人马尔基翁内用一句让它沉下去吧开启废墟上的重建。一部关于传统制造业如何在能源转型与全球化压力下崩盘与重生的警示录。</description>
+      <pubDate>Tue, 13 Oct 2026 18:46:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-170947</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《底特律往事》全景记录了2005到2009年间通用、福特、克莱斯勒三大美国汽车巨头从巅峰跌入破产深渊的完整过程。作者弗拉斯科以多年贴身采访，揭示出底特律衰亡的三重底层机制：医保年金吞噬制造业现金流、组织记忆拒绝新能源、劳资零和博弈耗尽战略想象力。最终，通用和克莱斯勒在政府救助下借破产重生，福特凭借穆拉利提前减负的资产负债表独自撑过风暴，新任克莱斯勒掌门人马尔基翁内用一句让它沉下去吧开启废墟上的重建。一部关于传统制造业如何在能源转型与全球化压力下崩盘与重生的警示录。</itunes:summary>
+      <itunes:duration>00:06:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-170947.mp3" length="3138081" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
