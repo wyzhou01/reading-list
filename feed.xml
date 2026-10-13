@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 09:11:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 09:19:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35881,6 +35881,17 @@
       <itunes:duration>00:03:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-07697f.mp3" length="1842408" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《燃烧的岛群》 · 完整版 · 燃烧的岛群 · 完整讲读</title>
+      <description>《燃烧的岛群》是宋宜昌1985年出版的中国全景式太平洋战争纪实长卷，从麦克阿瑟1942年3月从科雷吉多尔仓皇出逃切入，前后串联偷袭珍珠港、东南亚沦陷、岛屿逐岛血战，到密苏里号签字、最后落在朝鲜风云。作者把麦克阿瑟与彭德怀写成一对跨越百年的「滑铁卢式」对位：麦克阿瑟从墨尔本逃出，最终败于长津湖；击败他的是只读过两年私塾的湖南人。本书追问开放性问题——究竟谁是强者——并把誓言的代价、战略的负担、军人的命运留给读者去写。</description>
+      <pubDate>Tue, 13 Oct 2026 09:19:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-711b82</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《燃烧的岛群》是宋宜昌1985年出版的中国全景式太平洋战争纪实长卷，从麦克阿瑟1942年3月从科雷吉多尔仓皇出逃切入，前后串联偷袭珍珠港、东南亚沦陷、岛屿逐岛血战，到密苏里号签字、最后落在朝鲜风云。作者把麦克阿瑟与彭德怀写成一对跨越百年的「滑铁卢式」对位：麦克阿瑟从墨尔本逃出，最终败于长津湖；击败他的是只读过两年私塾的湖南人。本书追问开放性问题——究竟谁是强者——并把誓言的代价、战略的负担、军人的命运留给读者去写。</itunes:summary>
+      <itunes:duration>00:04:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-711b82.mp3" length="2198091" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
