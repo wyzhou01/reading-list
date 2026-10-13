@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 04:27:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 04:34:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35749,6 +35749,17 @@
       <itunes:duration>00:04:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-00ae05.mp3" length="1938538" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《要事第一》 · 完整版 · 要事第一 · 完整讲读</title>
+      <description>《要事第一》是史蒂芬·柯维与梅里尔夫妇合著的时间管理经典，直指现代人最深的痛点——越努力越焦虑，越高效越空虚。全书提出【时钟与罗盘】的核心隐喻：时钟代表我们如何安排时间，罗盘代表我们真正认为重要的事；二者之间的差距，才是痛苦的根源。柯维进一步将事务分为四象限，呼吁把生活重心从【紧急】转向【重要】，进入以原则为中心的【第二象限】。书中给出可操作的程序：撰写使命宣言、平衡多重角色、设定以原则为基础的目标、进行一周的前瞻、在抉择时刻守诚信，并在相互依赖的关系中追求【协作增效】而非互相消耗。最终，柯维把【时间管理】升华为【个人领导力】——重要的不是更快，而是方向对；重要的不是做更多事，而是做对的事。时间不是被花掉，而是被投资；当我们以原则为中心生活，时间就成为朋友，平与力量皆在其中。</description>
+      <pubDate>Tue, 13 Oct 2026 04:34:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-859c2c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《要事第一》是史蒂芬·柯维与梅里尔夫妇合著的时间管理经典，直指现代人最深的痛点——越努力越焦虑，越高效越空虚。全书提出【时钟与罗盘】的核心隐喻：时钟代表我们如何安排时间，罗盘代表我们真正认为重要的事；二者之间的差距，才是痛苦的根源。柯维进一步将事务分为四象限，呼吁把生活重心从【紧急】转向【重要】，进入以原则为中心的【第二象限】。书中给出可操作的程序：撰写使命宣言、平衡多重角色、设定以原则为基础的目标、进行一周的前瞻、在抉择时刻守诚信，并在相互依赖的关系中追求【协作增效】而非互相消耗。最终，柯维把【时间管理】升华为【个人领导力】——重要的不是更快，而是方向对；重要的不是做更多事，而是做对的事。时间不是被花掉，而是被投资；当我们以原则为中心生活，时间就成为朋友，平与力量皆在其中。</itunes:summary>
+      <itunes:duration>00:03:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-859c2c.mp3" length="1553180" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
