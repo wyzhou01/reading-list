@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 18:12:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 18:19:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36343,6 +36343,17 @@
       <itunes:duration>00:03:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-308463.mp3" length="1537715" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《真幌站前狂骚曲》 · 完整版 · 真幌站前狂骚曲_-_[日]三浦紫苑 · 完整讲读</title>
+      <description>《真幌站前狂骚曲》是三浦紫苑真幌系列终章，讲述便利屋老板多田与搭档行天这对各怀伤痛的搭档，在东京西南那座不要求你伟大的虚构小城里，用一锅炖菜、一张旧沙发、三年蹭吃蹭住的纠缠，把彼此破烂的过往慢慢炖成活下去的理由。轻喜剧外壳下，是对忘却与记住、赖着不走与重新站直、伤口藏匿与被人托付的深刻书写——人不会因为被治好而站起来，人是因为有地方可以回来，才慢慢学会站直。</description>
+      <pubDate>Tue, 13 Oct 2026 18:19:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-f4ad99</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《真幌站前狂骚曲》是三浦紫苑真幌系列终章，讲述便利屋老板多田与搭档行天这对各怀伤痛的搭档，在东京西南那座不要求你伟大的虚构小城里，用一锅炖菜、一张旧沙发、三年蹭吃蹭住的纠缠，把彼此破烂的过往慢慢炖成活下去的理由。轻喜剧外壳下，是对忘却与记住、赖着不走与重新站直、伤口藏匿与被人托付的深刻书写——人不会因为被治好而站起来，人是因为有地方可以回来，才慢慢学会站直。</itunes:summary>
+      <itunes:duration>00:05:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-f4ad99.mp3" length="2502783" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
