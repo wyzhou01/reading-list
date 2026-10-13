@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 13:18:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 13:28:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36233,6 +36233,17 @@
       <itunes:duration>00:05:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-f59572.mp3" length="2661190" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《在唐诗里孤独漫步》 · 完整版 · 在唐诗里孤独漫步_-_夏昆 · 完整讲读</title>
+      <description>《在唐诗里孤独漫步》不是一本学术考据，而是一个中学语文教师用二十多年时间，重走唐诗三百年长路的散文笔记。从王绩的酒壶到李商隐的夕阳，作者透过三十多位诗人的命运告诉我们：唐诗之所以伟大，不是因为格律完美，而是因为那一代人在沉浮中真的相信，有一种东西比生死更永恒。本书是一首写给一个伟大时代的挽歌，也是一封写给每一个相信境界之人的邀请函。</description>
+      <pubDate>Tue, 13 Oct 2026 13:28:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-1501f7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《在唐诗里孤独漫步》不是一本学术考据，而是一个中学语文教师用二十多年时间，重走唐诗三百年长路的散文笔记。从王绩的酒壶到李商隐的夕阳，作者透过三十多位诗人的命运告诉我们：唐诗之所以伟大，不是因为格律完美，而是因为那一代人在沉浮中真的相信，有一种东西比生死更永恒。本书是一首写给一个伟大时代的挽歌，也是一封写给每一个相信境界之人的邀请函。</itunes:summary>
+      <itunes:duration>00:04:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-1501f7.mp3" length="2089840" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
