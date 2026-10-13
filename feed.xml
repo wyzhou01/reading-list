@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 00:12:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 00:21:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35408,6 +35408,17 @@
       <itunes:duration>00:05:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-1f4924.mp3" length="2783234" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《镜厅》 · 完整版 · 镜厅(1) · 完整讲读</title>
+      <description>《镜厅》用大萧条与二零零八年大衰退这两面互照的镜子，揭示了一个让人后背发凉的真相：人类从金融危机里只学到一半经验。我们防止了银行连环倒闭，却让银行有时间卷土重来、阻击改革；我们避免了以邻为壑的贸易战，却埋下下一场风暴的种子；我们设立了欧元区这种精密的货币制度，却锁死了政策的想象力。从金本位的幽灵，到温和胜利的反噬，再到国际协调的脆弱，埃森格林用百年金融史告诉我们：历史不会重演，但总会惊人地相似；而比失误更可怕的，是片面地吸取教训。</description>
+      <pubDate>Tue, 13 Oct 2026 00:21:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-cb71e0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《镜厅》用大萧条与二零零八年大衰退这两面互照的镜子，揭示了一个让人后背发凉的真相：人类从金融危机里只学到一半经验。我们防止了银行连环倒闭，却让银行有时间卷土重来、阻击改革；我们避免了以邻为壑的贸易战，却埋下下一场风暴的种子；我们设立了欧元区这种精密的货币制度，却锁死了政策的想象力。从金本位的幽灵，到温和胜利的反噬，再到国际协调的脆弱，埃森格林用百年金融史告诉我们：历史不会重演，但总会惊人地相似；而比失误更可怕的，是片面地吸取教训。</itunes:summary>
+      <itunes:duration>00:06:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-cb71e0.mp3" length="3266813" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
