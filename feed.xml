@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 18:06:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 18:12:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36332,6 +36332,17 @@
       <itunes:duration>00:06:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-901e0a.mp3" length="3219583" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我们都是食人族》 · 完整版 · 我们都是食人族(1) · 完整讲读</title>
+      <description>法国人类学家列维-斯特劳斯在一九八九至二零零零年间为意大利《共和报》撰写的十七篇专栏。文章始终以蒙田那句每个人都将不符合自己习惯的事称为野蛮为出发点，从一九五一年第戎大教堂前圣诞老人被焚的仪式、亚马逊雨林的食人信仰、欧洲疯牛病的餐桌恐惧，到十八世纪维柯的诗性智慧与二十世纪大爆炸宇宙论的对照，反复论证一个核心命题：所谓原始与文明之间，并不存在人们长久以来想象的那种鸿沟。他给出的方法论是民族志——远方照耀近处，近处也能照亮远方。野蛮不在地理的另一端，而在我们每一次划定可食与不可食、洁净与污秽、我族与他者边界的时候。这本书的最终关怀，是让我们在悬置判断之后重新站定，理解他人，也因此重新理解自己。</description>
+      <pubDate>Tue, 13 Oct 2026 18:12:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-308463</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>法国人类学家列维-斯特劳斯在一九八九至二零零零年间为意大利《共和报》撰写的十七篇专栏。文章始终以蒙田那句每个人都将不符合自己习惯的事称为野蛮为出发点，从一九五一年第戎大教堂前圣诞老人被焚的仪式、亚马逊雨林的食人信仰、欧洲疯牛病的餐桌恐惧，到十八世纪维柯的诗性智慧与二十世纪大爆炸宇宙论的对照，反复论证一个核心命题：所谓原始与文明之间，并不存在人们长久以来想象的那种鸿沟。他给出的方法论是民族志——远方照耀近处，近处也能照亮远方。野蛮不在地理的另一端，而在我们每一次划定可食与不可食、洁净与污秽、我族与他者边界的时候。这本书的最终关怀，是让我们在悬置判断之后重新站定，理解他人，也因此重新理解自己。</itunes:summary>
+      <itunes:duration>00:03:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-308463.mp3" length="1537715" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
