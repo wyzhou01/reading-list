@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 01:11:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 01:18:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35496,6 +35496,17 @@
       <itunes:duration>00:02:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-4a8153.mp3" length="1126862" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《罐头厂街》 · 完整版 · 罐头厂街 · 完整讲读</title>
+      <description>《罐头厂街》是诺贝尔文学奖得主斯坦贝克于一九四五年发表的短篇小说集，以加州蒙特利一条臭气熏天的破街为舞台，写一群被主流遗忘的边缘人——开妓院的老太太、睡在管道里的流浪汉、把祖父遗骨运回老家安葬的中国杂货店老板、正在波斯蒂考鼻赛里出售海洋标本的狂人医生——如何在粗糙的日常中建出温暖的精神互助共同体。本书用六块互相衔接的拼图，逐层为最烂的人正名、为最体面的人卸妆、为普通人立传、为孤独正名，最终落到那只孤独挖洞的地鼠身上，让读者看见：每座城市都有一条罐头厂街，每个人心里都住着一个提着柳条箱的中国老头，看见，就是这本书最昂贵的一份礼物。</description>
+      <pubDate>Tue, 13 Oct 2026 01:18:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-7966fc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《罐头厂街》是诺贝尔文学奖得主斯坦贝克于一九四五年发表的短篇小说集，以加州蒙特利一条臭气熏天的破街为舞台，写一群被主流遗忘的边缘人——开妓院的老太太、睡在管道里的流浪汉、把祖父遗骨运回老家安葬的中国杂货店老板、正在波斯蒂考鼻赛里出售海洋标本的狂人医生——如何在粗糙的日常中建出温暖的精神互助共同体。本书用六块互相衔接的拼图，逐层为最烂的人正名、为最体面的人卸妆、为普通人立传、为孤独正名，最终落到那只孤独挖洞的地鼠身上，让读者看见：每座城市都有一条罐头厂街，每个人心里都住着一个提着柳条箱的中国老头，看见，就是这本书最昂贵的一份礼物。</itunes:summary>
+      <itunes:duration>00:04:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-7966fc.mp3" length="2206868" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
