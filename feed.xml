@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 00:27:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 00:33:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35430,6 +35430,17 @@
       <itunes:duration>00:04:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-7d81bf.mp3" length="1946897" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《金融帝国风云录（共5册）》 · 完整版 · 金融帝国风云录（共5册） · 完整讲读</title>
+      <description>本书以2009年联邦调查局特工上门拜访前赛克资本分析师阿里·法尔为切口，全景式再现了一场历时十年、跨越数十亿美元的内幕交易调查。从拉吉·拉贾拉特南的帆船集团，到史蒂文·科恩掌舵的赛克资本，作者用数百次访谈和法庭卷宗，层层揭开对冲基金行业最隐秘的暗线——黑色优势：通过尚未公开却能撼动股价的内部情报，碾压市场、攫取暴利。书中既写出了这群顶尖交易员的贪婪与好胜，也写出了他们与监管者之间那场永不落幕的猫鼠博弈。最终，科恩用天价和解金买来了不起诉，赛克资本被罚18亿美元，却无一人入狱——这是华尔街最真实、也最冰冷的潜规则。</description>
+      <pubDate>Tue, 13 Oct 2026 00:33:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-2de2eb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书以2009年联邦调查局特工上门拜访前赛克资本分析师阿里·法尔为切口，全景式再现了一场历时十年、跨越数十亿美元的内幕交易调查。从拉吉·拉贾拉特南的帆船集团，到史蒂文·科恩掌舵的赛克资本，作者用数百次访谈和法庭卷宗，层层揭开对冲基金行业最隐秘的暗线——黑色优势：通过尚未公开却能撼动股价的内部情报，碾压市场、攫取暴利。书中既写出了这群顶尖交易员的贪婪与好胜，也写出了他们与监管者之间那场永不落幕的猫鼠博弈。最终，科恩用天价和解金买来了不起诉，赛克资本被罚18亿美元，却无一人入狱——这是华尔街最真实、也最冰冷的潜规则。</itunes:summary>
+      <itunes:duration>00:03:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-2de2eb.mp3" length="1561121" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
