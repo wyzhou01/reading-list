@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 12:33:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 12:39:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36167,6 +36167,17 @@
       <itunes:duration>00:03:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-8978f4.mp3" length="1858708" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《词曲概论》 · 完整版 · 词曲概论_-_龙榆生 · 完整讲读</title>
+      <description>龙榆生《词曲概论》：民国词学大家打通词与曲的经典教材。上编溯源流，从燕乐兴起讲到敦煌民间词，从温庭筠讲到柳永慢词、诸宫调、元杂剧、明清传奇；下编论法式，平仄四声与韵位疏密如何牵动情感呼吸。附录作者新体歌词三首与《创制新体乐歌之途径》，探索不依附西人而接续千年法度的新国乐之路。</description>
+      <pubDate>Tue, 13 Oct 2026 12:39:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-c355af</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>龙榆生《词曲概论》：民国词学大家打通词与曲的经典教材。上编溯源流，从燕乐兴起讲到敦煌民间词，从温庭筠讲到柳永慢词、诸宫调、元杂剧、明清传奇；下编论法式，平仄四声与韵位疏密如何牵动情感呼吸。附录作者新体歌词三首与《创制新体乐歌之途径》，探索不依附西人而接续千年法度的新国乐之路。</itunes:summary>
+      <itunes:duration>00:02:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-c355af.mp3" length="1436151" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
