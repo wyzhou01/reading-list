@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 12:39:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 12:48:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36178,6 +36178,17 @@
       <itunes:duration>00:02:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-c355af.mp3" length="1436151" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《纪德集(05)如果种子不死》 · 完整版 · 纪德集(05)如果种子不死 · 完整讲读</title>
+      <description>《如果种子不死》是法国作家、一九四七年诺贝尔文学奖得主安德烈·纪德的精神自传。他以近乎残酷的坦诚，回溯童年与青年时代如何在新教伦理、严苛母教与隐秘欲望之间挣扎求存。从啃咬堂姐肩膀的幼年，到夹在神圣与禁忌之间的双重生活，再到在鲁昂车厢偶遇惠特曼《草叶集》的破壁瞬间，他一路袒露如何在压抑中分裂、在阅读中觉醒、最终敢于承认自己的真实面目。本书既非忏悔录，也不是道德辩护，而是一个敏感灵魂如何挣破种皮、向着光生长的全过程。</description>
+      <pubDate>Tue, 13 Oct 2026 12:48:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-63161c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《如果种子不死》是法国作家、一九四七年诺贝尔文学奖得主安德烈·纪德的精神自传。他以近乎残酷的坦诚，回溯童年与青年时代如何在新教伦理、严苛母教与隐秘欲望之间挣扎求存。从啃咬堂姐肩膀的幼年，到夹在神圣与禁忌之间的双重生活，再到在鲁昂车厢偶遇惠特曼《草叶集》的破壁瞬间，他一路袒露如何在压抑中分裂、在阅读中觉醒、最终敢于承认自己的真实面目。本书既非忏悔录，也不是道德辩护，而是一个敏感灵魂如何挣破种皮、向着光生长的全过程。</itunes:summary>
+      <itunes:duration>00:04:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-63161c.mp3" length="2259531" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
