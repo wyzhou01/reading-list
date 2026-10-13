@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 01:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 01:11:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35485,6 +35485,17 @@
       <itunes:duration>00:07:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-6d7376.mp3" length="3680174" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《妹方》 · 完整版 · 妹方_-_张广天 · 完整讲读</title>
+      <description>《妹方》是张广天历时两年、横跨九座城市写就的精神迁徙记。它以一段跨国婚姻为切口，借着追索妹方万年迁徙的轨迹，叩问当代人的精神失所之困。全书颠覆【中华民族】的常识叙事，指出宋以后的中国早已是多民族文化共同体；批判将劳作与祭祀对立的现代性迷思，主张回到以文化认同为根的人生；区分相爱与相好，呼吁走出需求逻辑的亲密；并借行江搬空汤溪的举动，示范人如何带着故乡上路、驶抵心的归宿——人生两端的自由，不在壮年，而在靠近本心天意的两端。</description>
+      <pubDate>Tue, 13 Oct 2026 01:11:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-4a8153</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《妹方》是张广天历时两年、横跨九座城市写就的精神迁徙记。它以一段跨国婚姻为切口，借着追索妹方万年迁徙的轨迹，叩问当代人的精神失所之困。全书颠覆【中华民族】的常识叙事，指出宋以后的中国早已是多民族文化共同体；批判将劳作与祭祀对立的现代性迷思，主张回到以文化认同为根的人生；区分相爱与相好，呼吁走出需求逻辑的亲密；并借行江搬空汤溪的举动，示范人如何带着故乡上路、驶抵心的归宿——人生两端的自由，不在壮年，而在靠近本心天意的两端。</itunes:summary>
+      <itunes:duration>00:02:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-4a8153.mp3" length="1126862" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
