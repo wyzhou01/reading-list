@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 02:28:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 02:36:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35584,6 +35584,17 @@
       <itunes:duration>00:05:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-92d3b0.mp3" length="2671639" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《起风了》 · 完整版 · 起风了(宫崎骏收山之作原著小说) · 完整讲读</title>
+      <description>《起风了》是日本昭和天才作家掘辰雄在生命最后几年里写下的未竟之作。小说以一九三〇年代的轻井泽与信州为背景，讲述了一位年轻作家与他患肺结核的未婚妻节子之间短暂却深切的爱。全书以「纵有疾风起，人生不言弃」一句诗贯穿，透过两人在疗养院中相伴的日常、把「在一起」过成仪式的练习，以及主人公在节子离世后独居山中小屋、与亡者共处的冬天，最终在岁末的雪夜里，借一盏煤油灯的微光，写下了对这一生最温柔的领悟——我们以为只够照亮自己的光，其实比想象中照亮过的地方多得多。这不是一本爱情小说，而是一本关于如何在疾病与死亡面前，把日常活成庆典、把孤独过成共处的练习册。</description>
+      <pubDate>Tue, 13 Oct 2026 02:36:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-db7f23</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《起风了》是日本昭和天才作家掘辰雄在生命最后几年里写下的未竟之作。小说以一九三〇年代的轻井泽与信州为背景，讲述了一位年轻作家与他患肺结核的未婚妻节子之间短暂却深切的爱。全书以「纵有疾风起，人生不言弃」一句诗贯穿，透过两人在疗养院中相伴的日常、把「在一起」过成仪式的练习，以及主人公在节子离世后独居山中小屋、与亡者共处的冬天，最终在岁末的雪夜里，借一盏煤油灯的微光，写下了对这一生最温柔的领悟——我们以为只够照亮自己的光，其实比想象中照亮过的地方多得多。这不是一本爱情小说，而是一本关于如何在疾病与死亡面前，把日常活成庆典、把孤独过成共处的练习册。</itunes:summary>
+      <itunes:duration>00:03:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-db7f23.mp3" length="1606679" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
