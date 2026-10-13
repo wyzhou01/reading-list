@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 19:29:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 19:34:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36442,6 +36442,17 @@
       <itunes:duration>00:05:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-334d30.mp3" length="2734751" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《学习力：颠覆职场学习的高效方法》 · 完整版 · 学习力 · 完整讲读</title>
+      <description>《学习力》针对职场人学不会、学不快、学不深的普遍困境，提出了三大底层策略与五类上手技巧：功利性学习让你从工作需要出发，学完即用，绕过大脑的三大学习缺陷；搭框架帮你建立三层次的个人知识体系，让两年经验抵上十年；可迁移性则让你在任何新领域都能快速复用已有方法。三者不是并列的拼图，而是同一条学习链上的串联。配合搜索、阅读、理解、积累、应用五类技巧，作者用三个月成为运营总监的真实案例，演示了如何把这套体系综合运用起来。这本书的真正野心，是让你拥有一种可迁移的学习能力本身。</description>
+      <pubDate>Tue, 13 Oct 2026 19:34:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-b87d91</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《学习力》针对职场人学不会、学不快、学不深的普遍困境，提出了三大底层策略与五类上手技巧：功利性学习让你从工作需要出发，学完即用，绕过大脑的三大学习缺陷；搭框架帮你建立三层次的个人知识体系，让两年经验抵上十年；可迁移性则让你在任何新领域都能快速复用已有方法。三者不是并列的拼图，而是同一条学习链上的串联。配合搜索、阅读、理解、积累、应用五类技巧，作者用三个月成为运营总监的真实案例，演示了如何把这套体系综合运用起来。这本书的真正野心，是让你拥有一种可迁移的学习能力本身。</itunes:summary>
+      <itunes:duration>00:04:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-b87d91.mp3" length="1944390" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
