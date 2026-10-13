@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 10:37:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 10:44:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35991,6 +35991,17 @@
       <itunes:duration>00:05:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-143b1e.mp3" length="2608109" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《市民底层笔记》 · 完整版 · 市民底层笔记 · 完整讲读</title>
+      <description>《市民底层笔记》是古稀之年的上海市民张礼士写的一部弄堂回忆录。本书以上海虹口余庆坊第一条小弄为舞台，写了一帮弄堂小伙伴在大时代里的悲欢：阿桃的父亲做过旧警察被枪毙；慧春的爸爸因为给市委书记写了一封交心信被打成极右派发配白茅岭；冰春为了入团和亲爹大干龙宫——把父亲叫徐某某；锡贵一辈子不当官，看了一次世博会回来说不当官的享受高官待遇要折福。书里没有宏大叙事、没有控诉、只有【如实写来】——阿桃的爹被枪毙时子弹费还要家属出四角钱；国松妈妈等了二十年等来一张死亡通知书。一个女人在昏暗的灯光下说出【活着就好】这四个字，是整本书最重的注脚。作者在后记里写：【大时代的变迁是历史，小人物的往事也是历史。每个人如果能把自己的经历真实地记录下来，再有人把大家的记录汇集起来，那就能呈现一部现代史巨作。】这句话朴素得让人想哭。一条弄堂的风水坏在哪里？坏在它碰巧住进了上海，坏在上海碰巧是中国政治最敏感的城市之一，坏在这个城市碰巧经历了镇反、肃反、反右、文革——所有这些运动，都碾过了同一条弄堂里的同一批孩子。</description>
+      <pubDate>Tue, 13 Oct 2026 10:44:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-21577c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《市民底层笔记》是古稀之年的上海市民张礼士写的一部弄堂回忆录。本书以上海虹口余庆坊第一条小弄为舞台，写了一帮弄堂小伙伴在大时代里的悲欢：阿桃的父亲做过旧警察被枪毙；慧春的爸爸因为给市委书记写了一封交心信被打成极右派发配白茅岭；冰春为了入团和亲爹大干龙宫——把父亲叫徐某某；锡贵一辈子不当官，看了一次世博会回来说不当官的享受高官待遇要折福。书里没有宏大叙事、没有控诉、只有【如实写来】——阿桃的爹被枪毙时子弹费还要家属出四角钱；国松妈妈等了二十年等来一张死亡通知书。一个女人在昏暗的灯光下说出【活着就好】这四个字，是整本书最重的注脚。作者在后记里写：【大时代的变迁是历史，小人物的往事也是历史。每个人如果能把自己的经历真实地记录下来，再有人把大家的记录汇集起来，那就能呈现一部现代史巨作。】这句话朴素得让人想哭。一条弄堂的风水坏在哪里？坏在它碰巧住进了上海，坏在上海碰巧是中国政治最敏感的城市之一，坏在这个城市碰巧经历了镇反、肃反、反右、文革——所有这些运动，都碾过了同一条弄堂里的同一批孩子。</itunes:summary>
+      <itunes:duration>00:04:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-21577c.mp3" length="2130800" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
