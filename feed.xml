@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 02:44:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 02:51:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35606,6 +35606,17 @@
       <itunes:duration>00:04:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-16ecad.mp3" length="2355662" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《相约萨马拉》 · 完整版 · 相约萨马拉_-_约翰·奥哈拉 · 完整讲读</title>
+      <description>《相约萨马拉》是美国作家约翰·奥哈拉的处女作，描写了1930年大萧条时期宾夕法尼亚小镇吉布斯维尔的故事。医生之子朱利安·英格里斯在圣诞夜的舞会上，将一杯酒泼到了资助过他的恩人哈里·莱利脸上，随后在三天内因酗酒和自我毁灭而死。小说通过一个男人的堕落，深刻揭示了阶级壁垒、酒精崇拜、汽车符号与小镇社交排斥如何共同编织成一张窒息个体的大网。奥哈拉以冷静的现实主义笔触，记录了那个时代美国小镇的真实面貌，展现了在大萧条的经济寒冬中，个人的绝望与社会的冷漠如何相互强化，最终酿成不可挽回的悲剧。</description>
+      <pubDate>Tue, 13 Oct 2026 02:51:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-89395e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《相约萨马拉》是美国作家约翰·奥哈拉的处女作，描写了1930年大萧条时期宾夕法尼亚小镇吉布斯维尔的故事。医生之子朱利安·英格里斯在圣诞夜的舞会上，将一杯酒泼到了资助过他的恩人哈里·莱利脸上，随后在三天内因酗酒和自我毁灭而死。小说通过一个男人的堕落，深刻揭示了阶级壁垒、酒精崇拜、汽车符号与小镇社交排斥如何共同编织成一张窒息个体的大网。奥哈拉以冷静的现实主义笔触，记录了那个时代美国小镇的真实面貌，展现了在大萧条的经济寒冬中，个人的绝望与社会的冷漠如何相互强化，最终酿成不可挽回的悲剧。</itunes:summary>
+      <itunes:duration>00:01:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-89395e.mp3" length="923315" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
