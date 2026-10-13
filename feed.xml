@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 19:39:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 19:47:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36464,6 +36464,17 @@
       <itunes:duration>00:02:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-067f7f.mp3" length="1350052" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《楞严经》 · 完整版 · 楞严经 · 完整讲读</title>
+      <description>《楞严经》以禅定修习之【见、修、行、果】为框架。七处征心破【我执】,十番显见挖出本具【见性】,四科七大画清真心边界,二十五圆通铺开八万四千法门并特选耳根圆通,五十五阶位给修行人一张完整地图,五十阴魔提前警告每一层证悟时的岔路,世界相续揭示【心净则佛土净】——告诉你:成佛不在世界之外,就在你一念清净之中。首楞严大定,所谓一切事究竟坚固,不在你离开哪里,而在你何时认出自己的本来面目。</description>
+      <pubDate>Tue, 13 Oct 2026 19:47:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-18ff60</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《楞严经》以禅定修习之【见、修、行、果】为框架。七处征心破【我执】,十番显见挖出本具【见性】,四科七大画清真心边界,二十五圆通铺开八万四千法门并特选耳根圆通,五十五阶位给修行人一张完整地图,五十阴魔提前警告每一层证悟时的岔路,世界相续揭示【心净则佛土净】——告诉你:成佛不在世界之外,就在你一念清净之中。首楞严大定,所谓一切事究竟坚固,不在你离开哪里,而在你何时认出自己的本来面目。</itunes:summary>
+      <itunes:duration>00:05:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-18ff60.mp3" length="2629843" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
