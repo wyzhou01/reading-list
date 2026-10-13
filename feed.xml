@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 03:09:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 03:17:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35639,6 +35639,17 @@
       <itunes:duration>00:03:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-17dc14.mp3" length="1624233" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《坏小孩》 · 完整版 · 坏小孩 · 完整讲读</title>
+      <description>《坏小孩》是紫金陈【推理之王】系列第二部，写了一场完美谋杀被三个孩子偶然拍下后，原生家庭、校园霸凌、社会冷漠如何一步步将数学天才朱朝阳推向深渊的故事。它不只是一个犯罪故事，更是一封写给所有曾被看见、也曾忽略过孩子的成年人的提醒书——孩子变坏，从来不是突然的，是一根一根线被剪断后的结局。</description>
+      <pubDate>Tue, 13 Oct 2026 03:17:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-712102</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《坏小孩》是紫金陈【推理之王】系列第二部，写了一场完美谋杀被三个孩子偶然拍下后，原生家庭、校园霸凌、社会冷漠如何一步步将数学天才朱朝阳推向深渊的故事。它不只是一个犯罪故事，更是一封写给所有曾被看见、也曾忽略过孩子的成年人的提醒书——孩子变坏，从来不是突然的，是一根一根线被剪断后的结局。</itunes:summary>
+      <itunes:duration>00:04:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-712102.mp3" length="2189732" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
