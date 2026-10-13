@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 11:37:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 11:43:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36079,6 +36079,17 @@
       <itunes:duration>00:06:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-579ad9.mp3" length="3036517" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我们的后人类未来：生物技术革命的后果》 · 完整版 · 我们后人类的未来：生物科技革命的后果_(理想国译丛) · 完整讲读</title>
+      <description>本书是弗朗西斯·福山对自身【历史终结论】的修正之作。他警告，基因编辑、脑机接口、神经药物、寿命延展等生物技术，正在悄然改写人类肉身与心智，让人类滑向后人类的深渊。福山的论证建立在一根稳固的逻辑链上：人性是客观存在的自然事实，共享的人性构成了人人平等的权利根基，一旦生物技术分化了人类本性，权利与民主都将失去根基。他主张通过政治共同体——尤其是民主程序与国际协作——为技术划定红线，守护治疗与改进的边界，捍卫人之为人的尊严。这不是反科学的呐喊，而是一位政治学者面对人类历史上最大变量时，递出的冷静而坚定的预警。</description>
+      <pubDate>Tue, 13 Oct 2026 11:43:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-ba1b15</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是弗朗西斯·福山对自身【历史终结论】的修正之作。他警告，基因编辑、脑机接口、神经药物、寿命延展等生物技术，正在悄然改写人类肉身与心智，让人类滑向后人类的深渊。福山的论证建立在一根稳固的逻辑链上：人性是客观存在的自然事实，共享的人性构成了人人平等的权利根基，一旦生物技术分化了人类本性，权利与民主都将失去根基。他主张通过政治共同体——尤其是民主程序与国际协作——为技术划定红线，守护治疗与改进的边界，捍卫人之为人的尊严。这不是反科学的呐喊，而是一位政治学者面对人类历史上最大变量时，递出的冷静而坚定的预警。</itunes:summary>
+      <itunes:duration>00:03:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-ba1b15.mp3" length="1551508" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
