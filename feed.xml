@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 04:48:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 04:53:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35782,6 +35782,17 @@
       <itunes:duration>00:04:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-afc965.mp3" length="2208122" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《卡罗尔》 · 完整版 · 卡罗尔 · 完整讲读</title>
+      <description>一九四八年圣诞前夕,二十二岁的美国作家帕特里夏·海史密斯在纽约百货公司的洋娃娃柜台前,被一个穿皮草的金发女人击中,两小时写下八页纸,这部作品便是后来震惊美国文坛的女同文学经典《卡罗尔》。小说讲述十九岁的临时工特芮丝在百货公司偶遇正在为女儿挑选圣诞礼物的金发贵妇卡罗尔,二人跨越阶级、性别与世俗偏见的禁忌之爱由此展开。她们驾车横穿美国,却遭卡罗尔丈夫以【道德证据】诉至法庭,失去女儿的抚养权。故事的伟大之处在于,她们最终选择抛弃一切,只为继续相爱。这是一本让她们好好活到最后的小说,也是二十世纪中叶文学史上第一本为【异类】写下的快乐结局。</description>
+      <pubDate>Tue, 13 Oct 2026 04:53:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-638381</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九四八年圣诞前夕,二十二岁的美国作家帕特里夏·海史密斯在纽约百货公司的洋娃娃柜台前,被一个穿皮草的金发女人击中,两小时写下八页纸,这部作品便是后来震惊美国文坛的女同文学经典《卡罗尔》。小说讲述十九岁的临时工特芮丝在百货公司偶遇正在为女儿挑选圣诞礼物的金发贵妇卡罗尔,二人跨越阶级、性别与世俗偏见的禁忌之爱由此展开。她们驾车横穿美国,却遭卡罗尔丈夫以【道德证据】诉至法庭,失去女儿的抚养权。故事的伟大之处在于,她们最终选择抛弃一切,只为继续相爱。这是一本让她们好好活到最后的小说,也是二十世纪中叶文学史上第一本为【异类】写下的快乐结局。</itunes:summary>
+      <itunes:duration>00:02:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-638381.mp3" length="1366770" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
