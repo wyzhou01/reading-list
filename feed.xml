@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 11:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 11:52:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36101,6 +36101,17 @@
       <itunes:duration>00:03:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-db52af.mp3" length="1564465" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《击壤歌》 · 完整版 · 击壤歌 · 完整讲读</title>
+      <description>《击壤歌》是作家朱天心十七岁时写下的青春纪事，记录一九七零年代台北北一女中一群理想主义少女逃学游荡、读书观影、彼此发誓永不分离的“大观园“岁月。面对升学主义、身份政治与说不出名字的乡愁，她们以并着肩走路的方式，创造出撕裂世界里唯一的第三空间。胡兰成以李白相比，称其文字有少年人本真的浩然之气。这本书不教你考试，也不教你人生，它只是一群少女曾经如何认真地活过——这团火，至今仍在纸页里燃烧。</description>
+      <pubDate>Tue, 13 Oct 2026 11:52:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-499aa1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《击壤歌》是作家朱天心十七岁时写下的青春纪事，记录一九七零年代台北北一女中一群理想主义少女逃学游荡、读书观影、彼此发誓永不分离的“大观园“岁月。面对升学主义、身份政治与说不出名字的乡愁，她们以并着肩走路的方式，创造出撕裂世界里唯一的第三空间。胡兰成以李白相比，称其文字有少年人本真的浩然之气。这本书不教你考试，也不教你人生，它只是一群少女曾经如何认真地活过——这团火，至今仍在纸页里燃烧。</itunes:summary>
+      <itunes:duration>00:04:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-499aa1.mp3" length="2222751" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
