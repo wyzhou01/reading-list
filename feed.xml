@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 11:13:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 11:22:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36046,6 +36046,17 @@
       <itunes:duration>00:03:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-9a0cb1.mp3" length="1518907" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《人心至上：杜月笙》 · 完整版 · 人心至上：杜月笙 · 完整讲读</title>
+      <description>《人心至上：杜月笙》是一本以人性洞察为切口重读旧上海三大亨之一杜月笙的非虚构作品。作者雾满拦江把杜月笙从帮派秘闻里拖出来，放进社会与人性的坐标系重新审视。一个两岁丧母、五岁丧父、八岁被继母抛弃的孤儿，没读过书，却凭精准的人心判断穿过旧上海租界、军阀、洋人、帮会四股力量的绞杀，登上了草根人生的顶峰。本书的核心不是复盘他的发家史，而是提炼出他看人、看势、看阵营的通用方法论：把人分成四类、把交情当存款、把经济属性放在政治属性之前、把任何一个对手都当成正常人来合作。书里反复出现的一句话是：只要人性不变，人类社会的基本规律就不会变。本书就是一本以极端情境下的实战经验写出的人性导引手册，告诉你如何绕过人心的暗河，抵达人生的彼岸。</description>
+      <pubDate>Tue, 13 Oct 2026 11:22:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-acf76d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《人心至上：杜月笙》是一本以人性洞察为切口重读旧上海三大亨之一杜月笙的非虚构作品。作者雾满拦江把杜月笙从帮派秘闻里拖出来，放进社会与人性的坐标系重新审视。一个两岁丧母、五岁丧父、八岁被继母抛弃的孤儿，没读过书，却凭精准的人心判断穿过旧上海租界、军阀、洋人、帮会四股力量的绞杀，登上了草根人生的顶峰。本书的核心不是复盘他的发家史，而是提炼出他看人、看势、看阵营的通用方法论：把人分成四类、把交情当存款、把经济属性放在政治属性之前、把任何一个对手都当成正常人来合作。书里反复出现的一句话是：只要人性不变，人类社会的基本规律就不会变。本书就是一本以极端情境下的实战经验写出的人性导引手册，告诉你如何绕过人心的暗河，抵达人生的彼岸。</itunes:summary>
+      <itunes:duration>00:02:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-acf76d.mp3" length="1417761" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
