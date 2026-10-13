@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 08:44:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 08:50:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35837,6 +35837,17 @@
       <itunes:duration>00:03:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-345308.mp3" length="1661849" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《英雄不死》 · 完整版 · 英雄不死_-_冷海 · 完整讲读</title>
+      <description>《英雄不死》是冷海所著硬核抗战传奇，以一九三八年厦门为背景，讲述秦天散尽百万家产招募壮丁、其子秦飞宇在中山公园擂台上以追魂刀斩杀日本武士山口大郎、最终被日本特务枪杀的悲壮故事。书中的秦家父子、独行杀手丁如风、女教师蔡妮、血魂团兄弟张弩等人，在孤立无援、家国破碎的绝境中，以笃信、破界、不悔的骨气，做出了无愧于华夏的选择。冷海没有让任何一个角色悔过，只让一个八十岁的女人回到厦门，在拔地而起的高楼之间，找寻那个对她笑过的青年的骸骨。找不到，但她知道——英雄的骸骨，深深地埋葬在这片土地上。这本书写的不是一九三八年的武林往事，是每一个时代都需要重读的六个字：英雄，真的不死。</description>
+      <pubDate>Tue, 13 Oct 2026 08:50:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-ad4888</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《英雄不死》是冷海所著硬核抗战传奇，以一九三八年厦门为背景，讲述秦天散尽百万家产招募壮丁、其子秦飞宇在中山公园擂台上以追魂刀斩杀日本武士山口大郎、最终被日本特务枪杀的悲壮故事。书中的秦家父子、独行杀手丁如风、女教师蔡妮、血魂团兄弟张弩等人，在孤立无援、家国破碎的绝境中，以笃信、破界、不悔的骨气，做出了无愧于华夏的选择。冷海没有让任何一个角色悔过，只让一个八十岁的女人回到厦门，在拔地而起的高楼之间，找寻那个对她笑过的青年的骸骨。找不到，但她知道——英雄的骸骨，深深地埋葬在这片土地上。这本书写的不是一九三八年的武林往事，是每一个时代都需要重读的六个字：英雄，真的不死。</itunes:summary>
+      <itunes:duration>00:03:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-ad4888.mp3" length="1777206" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
