@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 17:24:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 17:35:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36288,6 +36288,17 @@
       <itunes:duration>00:07:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-450f68.mp3" length="3557712" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《秘书长3》 · 完整版 · 秘书长3 · 完整讲读</title>
+      <description>南州市长赵守春突发脑溢血倒下，市委副书记程一路临危受命，卷入省人大政府政协换届的政治漩涡。南州经济困局、官场人际关系、简韵的情感羁绊交织。程一路调任省里后，亲历齐鸣书记滞留法国不归、王浩被双规、林晓山案起诉等系列事件，最终被任命为南州市委书记。小说全景呈现中国地方官场生态与改革时代官员的命运抉择。</description>
+      <pubDate>Tue, 13 Oct 2026 17:35:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-d3bdf9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>南州市长赵守春突发脑溢血倒下，市委副书记程一路临危受命，卷入省人大政府政协换届的政治漩涡。南州经济困局、官场人际关系、简韵的情感羁绊交织。程一路调任省里后，亲历齐鸣书记滞留法国不归、王浩被双规、林晓山案起诉等系列事件，最终被任命为南州市委书记。小说全景呈现中国地方官场生态与改革时代官员的命运抉择。</itunes:summary>
+      <itunes:duration>00:08:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-d3bdf9.mp3" length="4234806" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
