@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 04:41:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 04:48:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35771,6 +35771,17 @@
       <itunes:duration>00:03:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-ac7e10.mp3" length="1603335" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《现实不似你所见》 · 完整版 · 现实不似你所见 · 完整讲读</title>
+      <description>意大利物理学家罗韦利以圈量子引力创建者身份，从公元前450年米利都的留基伯与德谟克利特讲起，穿越牛顿的绝对时空、爱因斯坦的弯曲几何、玻尔与海森堡的量子革命，最后抵达他毕生研究的圈量子引力前沿：空间由离散的量子微粒编织而成，时间在最小尺度上消失，世界的基本结构不是无穷，而是一群相互关联的量子事件在闪烁。本书不是一本确定性的书，而是一本面向未知去冒险的书，是一封寄给未来的邀请函。</description>
+      <pubDate>Tue, 13 Oct 2026 04:48:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-afc965</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>意大利物理学家罗韦利以圈量子引力创建者身份，从公元前450年米利都的留基伯与德谟克利特讲起，穿越牛顿的绝对时空、爱因斯坦的弯曲几何、玻尔与海森堡的量子革命，最后抵达他毕生研究的圈量子引力前沿：空间由离散的量子微粒编织而成，时间在最小尺度上消失，世界的基本结构不是无穷，而是一群相互关联的量子事件在闪烁。本书不是一本确定性的书，而是一本面向未知去冒险的书，是一封寄给未来的邀请函。</itunes:summary>
+      <itunes:duration>00:04:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-afc965.mp3" length="2208122" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
