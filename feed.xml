@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 11:08:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 11:13:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36035,6 +36035,17 @@
       <itunes:duration>00:07:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-d830a0.mp3" length="3433160" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《爱到绝处便逢生》 · 完整版 · 爱到绝处便逢生(1) · 完整讲读</title>
+      <description>《爱到绝便逢生》是心理咨询师卢悦写给中国三十岁以后女人的一份情感病理切片与重生指南。它剖开当下这场史无前例的情感大革命——出轨成社会病、传统道德崩塌、信仰真空、消费主义把情感商品化——揭示婚外情背后三类第三者游戏（找爸爸、内疚、离巢）、十二种危险婚姻模式背后的自我缺位真相。本书要戳破的，是那个从原生家庭一直贴到三十岁以后婚姻里的魔咒【我不值得被爱】。不教女人挽回婚姻，只教她们如何从那堆白骨上，长出自己的肉来。</description>
+      <pubDate>Tue, 13 Oct 2026 11:13:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-9a0cb1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《爱到绝便逢生》是心理咨询师卢悦写给中国三十岁以后女人的一份情感病理切片与重生指南。它剖开当下这场史无前例的情感大革命——出轨成社会病、传统道德崩塌、信仰真空、消费主义把情感商品化——揭示婚外情背后三类第三者游戏（找爸爸、内疚、离巢）、十二种危险婚姻模式背后的自我缺位真相。本书要戳破的，是那个从原生家庭一直贴到三十岁以后婚姻里的魔咒【我不值得被爱】。不教女人挽回婚姻，只教她们如何从那堆白骨上，长出自己的肉来。</itunes:summary>
+      <itunes:duration>00:03:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-9a0cb1.mp3" length="1518907" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
