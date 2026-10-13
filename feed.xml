@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 23:27:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 23:33:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36552,6 +36552,17 @@
       <itunes:duration>00:05:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-97500e.mp3" length="2713853" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《好战略，坏战略》 · 完整版 · 好战略，坏战略 · 完整讲读</title>
+      <description>《好战略，坏战略》是加州大学洛杉矶分校战略学教授理查德·鲁梅尔特写给每一位领导者与思考者的清醒之书。作者用雷曼兄弟的破产、苹果的绝地重生、特拉法尔加海战、次贷危机等丰富案例，揭示了一个被口号与愿景掩盖的事实：坏战略不是失误，而是普遍存在，根源在于从众心理与内在视角的合谋让组织拒绝正视真正障碍。好战略的实质是诊断、聚焦与连贯行动——发现关键问题、集中资源解决、在合适的方向上持续投入。本书的最大价值，是把战略从被滥用的时髦词汇还原为一项艰难却可学习的判断工作：承认难题，比宣布目标更难。</description>
+      <pubDate>Tue, 13 Oct 2026 23:33:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-7f9592</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《好战略，坏战略》是加州大学洛杉矶分校战略学教授理查德·鲁梅尔特写给每一位领导者与思考者的清醒之书。作者用雷曼兄弟的破产、苹果的绝地重生、特拉法尔加海战、次贷危机等丰富案例，揭示了一个被口号与愿景掩盖的事实：坏战略不是失误，而是普遍存在，根源在于从众心理与内在视角的合谋让组织拒绝正视真正障碍。好战略的实质是诊断、聚焦与连贯行动——发现关键问题、集中资源解决、在合适的方向上持续投入。本书的最大价值，是把战略从被滥用的时髦词汇还原为一项艰难却可学习的判断工作：承认难题，比宣布目标更难。</itunes:summary>
+      <itunes:duration>00:03:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-7f9592.mp3" length="1666865" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
