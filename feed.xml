@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 09:28:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 09:35:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35903,6 +35903,17 @@
       <itunes:duration>00:05:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-9ab9c6.mp3" length="2614796" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《蚂蚁金服》 · 完整版 · 蚂蚁金服 · 完整讲读</title>
+      <description>本书是国内首部蚂蚁金服传记,以第三方视角全景记录从支付宝诞生到蚂蚁金服成立的创业历程。作者通过大量高层访谈,还原了担保交易、快捷支付、余额宝、网商银行、芝麻信用、全球化等关键创新的决策过程与组织建设之道,展现了一家科技金融独角兽如何以技术和用户价值驱动,改变中国金融业面貌并走向世界。</description>
+      <pubDate>Tue, 13 Oct 2026 09:35:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-2d41df</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是国内首部蚂蚁金服传记,以第三方视角全景记录从支付宝诞生到蚂蚁金服成立的创业历程。作者通过大量高层访谈,还原了担保交易、快捷支付、余额宝、网商银行、芝麻信用、全球化等关键创新的决策过程与组织建设之道,展现了一家科技金融独角兽如何以技术和用户价值驱动,改变中国金融业面貌并走向世界。</itunes:summary>
+      <itunes:duration>00:03:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-2d41df.mp3" length="1740426" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
