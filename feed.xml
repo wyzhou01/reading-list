@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 09:35:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 09:42:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35914,6 +35914,17 @@
       <itunes:duration>00:03:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-2d41df.mp3" length="1740426" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《明•冤：毛文龙、袁崇焕与明末中国的历史走向》 · 完整版 · 明•冤 · 完整讲读</title>
+      <description>本书通过对《满文老档》、东江塘报等原始史料的重新梳理，系统还原明末辽东名将毛文龙及其东江抗金体系的真实历史面貌。书中指出，毛文龙之死不仅是个人冤案，更是明朝辽东战略的关键转折点，其背后牵涉袁崇焕议和路线、崇祯皇帝性格缺陷、东江民心瓦解及红夷大炮技术外流等一系列深层因果。作者借此案反思明末战略抉择的历史教训，并提示读者以敌方档案为镜，重新审视那些被主流叙事抹黑的历史人物。</description>
+      <pubDate>Tue, 13 Oct 2026 09:42:36 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-6d48cd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书通过对《满文老档》、东江塘报等原始史料的重新梳理，系统还原明末辽东名将毛文龙及其东江抗金体系的真实历史面貌。书中指出，毛文龙之死不仅是个人冤案，更是明朝辽东战略的关键转折点，其背后牵涉袁崇焕议和路线、崇祯皇帝性格缺陷、东江民心瓦解及红夷大炮技术外流等一系列深层因果。作者借此案反思明末战略抉择的历史教训，并提示读者以敌方档案为镜，重新审视那些被主流叙事抹黑的历史人物。</itunes:summary>
+      <itunes:duration>00:03:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-6d48cd.mp3" length="1803537" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
