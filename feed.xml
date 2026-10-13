@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 04:20:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 04:27:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35738,6 +35738,17 @@
       <itunes:duration>00:04:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-ee3e5f.mp3" length="2244484" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《有意识的社交：12种塑造有效人脉的处世技巧》 · 完整版 · 有意识的社交：12种塑造有效人脉的处世技巧_-_肯·塔克 · 完整讲读</title>
+      <description>本书作者肯·塔克是一位资深总裁指导，多年致力于帮助领导者处理人际关系困局。他在书中提出一个核心判断：社交不是被动结果，而是主动打造的产品。全书围绕这条主线展开：首先，社交像产品一样需要被设计，而设计的起点是看清自己这个设计师；其次，所有改变都要落到具体行为上，因为行为方式决定人际关系的生死；再次，每一次与他人的互动都是关系关节点，关节点无时不有，决定关系走向；此外，行为需要被清晰意图牵引，否则就是漂浮的零散动作；最后，人际关系是一面镜子，所有反馈最终都会照回自己。当读者能把社交从背景噪音调成主动频道，从无意识的参与者变成有意识的创造者，【有意识的社交】这套系统才算真正运转起来。</description>
+      <pubDate>Tue, 13 Oct 2026 04:27:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-00ae05</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书作者肯·塔克是一位资深总裁指导，多年致力于帮助领导者处理人际关系困局。他在书中提出一个核心判断：社交不是被动结果，而是主动打造的产品。全书围绕这条主线展开：首先，社交像产品一样需要被设计，而设计的起点是看清自己这个设计师；其次，所有改变都要落到具体行为上，因为行为方式决定人际关系的生死；再次，每一次与他人的互动都是关系关节点，关节点无时不有，决定关系走向；此外，行为需要被清晰意图牵引，否则就是漂浮的零散动作；最后，人际关系是一面镜子，所有反馈最终都会照回自己。当读者能把社交从背景噪音调成主动频道，从无意识的参与者变成有意识的创造者，【有意识的社交】这套系统才算真正运转起来。</itunes:summary>
+      <itunes:duration>00:04:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-00ae05.mp3" length="1938538" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
