@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 23:39:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 23:46:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36574,6 +36574,17 @@
       <itunes:duration>00:04:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-ad0d70.mp3" length="1944390" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中国建筑常识》 · 完整版 · 中国建筑常识 · 完整讲读</title>
+      <description>《中国建筑常识》是林徽因写给同胞的一次冷静的科普与情感对话。她从建筑本体出发,系统讲清中国建筑【独立演进两千年】的体系——以木构架构制为骨架,以屋顶曲线、斗栱、台基、彩画为特色,以【结构即装饰】为审美底线;再以北京为案例,讲一座伟大古城的【整体规划】与中轴线智慧;最后带你走进云冈石窟和敦煌壁画,告诉你中国建筑怎样【吸收外来,化为己有】。这不是一本猎奇的书,而是一位拖着病体走过山西荒野的女学者,替老祖宗的房子、替每一座还没被拆掉的古寺古塔,讨的一封公开信。</description>
+      <pubDate>Tue, 13 Oct 2026 23:46:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-8e745a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《中国建筑常识》是林徽因写给同胞的一次冷静的科普与情感对话。她从建筑本体出发,系统讲清中国建筑【独立演进两千年】的体系——以木构架构制为骨架,以屋顶曲线、斗栱、台基、彩画为特色,以【结构即装饰】为审美底线;再以北京为案例,讲一座伟大古城的【整体规划】与中轴线智慧;最后带你走进云冈石窟和敦煌壁画,告诉你中国建筑怎样【吸收外来,化为己有】。这不是一本猎奇的书,而是一位拖着病体走过山西荒野的女学者,替老祖宗的房子、替每一座还没被拆掉的古寺古塔,讨的一封公开信。</itunes:summary>
+      <itunes:duration>00:04:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-8e745a.mp3" length="2369036" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
