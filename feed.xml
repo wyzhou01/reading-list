@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 03:28:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 03:35:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35661,6 +35661,17 @@
       <itunes:duration>00:07:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-73b94e.mp3" length="3734091" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《如何阅读一本文学书》 · 完整版 · 如何阅读一本文学书 · 完整讲读</title>
+      <description>《如何阅读一本文学书》是美国密歇根大学文学教授托马斯·福斯特写给普通读者的入门指南。书中提出区分普通读者与文学读者的三个关键词：记忆、象征、模式。福斯特以二十六个章节系统介绍了文学阅读的核心母题：每一次旅程都是追寻、吃饭常常是圣餐、吸血鬼象征疾病与夺取、季节暗喻人生阶段、心脏代表情感与勇气、地理与疾病也都有符号意义。他用大量经典小说、诗歌、戏剧与流行电影做例子，教读者辨认那些藏在面包、咳嗽、雨雪、心脏下方的暗线。最终，这本书想告诉读者：世间只有一个故事，那就是闯入者来到门口，人要如何回应。当你学会辨认这些暗线，你就不再只是被故事击中的人，而是能看见故事结构的人。</description>
+      <pubDate>Tue, 13 Oct 2026 03:35:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-cec548</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《如何阅读一本文学书》是美国密歇根大学文学教授托马斯·福斯特写给普通读者的入门指南。书中提出区分普通读者与文学读者的三个关键词：记忆、象征、模式。福斯特以二十六个章节系统介绍了文学阅读的核心母题：每一次旅程都是追寻、吃饭常常是圣餐、吸血鬼象征疾病与夺取、季节暗喻人生阶段、心脏代表情感与勇气、地理与疾病也都有符号意义。他用大量经典小说、诗歌、戏剧与流行电影做例子，教读者辨认那些藏在面包、咳嗽、雨雪、心脏下方的暗线。最终，这本书想告诉读者：世间只有一个故事，那就是闯入者来到门口，人要如何回应。当你学会辨认这些暗线，你就不再只是被故事击中的人，而是能看见故事结构的人。</itunes:summary>
+      <itunes:duration>00:04:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-cec548.mp3" length="2318045" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
