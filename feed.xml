@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 01:38:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 01:52:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35529,6 +35529,17 @@
       <itunes:duration>00:04:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-d0c8c4.mp3" length="2339361" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《清初贰臣词人研究》 · 完整版 · 清初贰臣词人研究 · 完整讲读</title>
+      <description>《清初贰臣词人研究》是刘萱对明清易代之际这一特殊士人群体的系统学术考察。全书以十八位贰臣词人为样本，紧扣『混乱的身份认同』这一核心命题，从咏史怀古、悼亡赠妓、词坛唱和、南北地理、跨朝代比较等多个维度，揭示贰臣词如何以生命为代价酿出清词中兴的独特风格，剖析士人在道德与生存之间的精神绝唱。</description>
+      <pubDate>Tue, 13 Oct 2026 01:52:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-ee51a4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《清初贰臣词人研究》是刘萱对明清易代之际这一特殊士人群体的系统学术考察。全书以十八位贰臣词人为样本，紧扣『混乱的身份认同』这一核心命题，从咏史怀古、悼亡赠妓、词坛唱和、南北地理、跨朝代比较等多个维度，揭示贰臣词如何以生命为代价酿出清词中兴的独特风格，剖析士人在道德与生存之间的精神绝唱。</itunes:summary>
+      <itunes:duration>00:05:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-ee51a4.mp3" length="2411668" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
