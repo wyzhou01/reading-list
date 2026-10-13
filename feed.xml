@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 18:28:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 18:38:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36365,6 +36365,17 @@
       <itunes:duration>00:04:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-1edec6.mp3" length="1941046" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我在天堂那五年》 · 完整版 · 我在天堂那五年 · 完整讲读</title>
+      <description>《我在天堂那五年》是施利姆对一段跨越六十余年年龄差距的友谊的深情回忆。三十一岁那年，他在故乡一座有百五十年历史的本笃会修道院里，遇见了八十七岁、独自经营陶瓷小店六十年的奥古斯丁修女。在每周一次的探访中，修女用陶艺的语言教会他：苦难与喜乐本是同一件事、年岁是被生活打磨过的智慧、每一个看似卑微的人都可能成为他人的光使。修女离世后，她签在陶罐底部的缩写【SJC】并未入土，而是随着这本书继续在近五百万读者手中传递——提醒每个人：你身上还有许多奇妙的天赋，正等待你去发掘。</description>
+      <pubDate>Tue, 13 Oct 2026 18:38:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-88916c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我在天堂那五年》是施利姆对一段跨越六十余年年龄差距的友谊的深情回忆。三十一岁那年，他在故乡一座有百五十年历史的本笃会修道院里，遇见了八十七岁、独自经营陶瓷小店六十年的奥古斯丁修女。在每周一次的探访中，修女用陶艺的语言教会他：苦难与喜乐本是同一件事、年岁是被生活打磨过的智慧、每一个看似卑微的人都可能成为他人的光使。修女离世后，她签在陶罐底部的缩写【SJC】并未入土，而是随着这本书继续在近五百万读者手中传递——提醒每个人：你身上还有许多奇妙的天赋，正等待你去发掘。</itunes:summary>
+      <itunes:duration>00:06:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-88916c.mp3" length="3332432" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
