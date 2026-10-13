@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 19:47:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 22:47:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36475,6 +36475,17 @@
       <itunes:duration>00:05:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-18ff60.mp3" length="2629843" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《幽灵》 · 完整版 · 北欧悬疑小说天王尤·奈斯博_作品精选(共3部） · 完整讲读</title>
+      <description>《幽灵》是挪威悬疑天王尤·奈斯博的代表作。警察哈利·霍勒从泰国戒毒所归来，发现养子欧雷克在戒毒所身中枪伤。追寻代号【幽灵】的毒枭过程中，他撕开奥斯陆光鲜外表下的溃烂——海洛因泛滥、议员受贿、警界黑幕与俄罗斯犯罪网络的国家级共谋。奈斯博用一只母鼠的本能切开整座城市，写瘾与代偿、写父爱与创伤、写一个人在毒瘾、复仇与体制共谋之间，能否重新长出一颗【穿了盔甲的心】。这不是一部爽感悬疑，而是一面让读者照见自己制度性麻木的镜子。</description>
+      <pubDate>Tue, 13 Oct 2026 22:47:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-4881d2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《幽灵》是挪威悬疑天王尤·奈斯博的代表作。警察哈利·霍勒从泰国戒毒所归来，发现养子欧雷克在戒毒所身中枪伤。追寻代号【幽灵】的毒枭过程中，他撕开奥斯陆光鲜外表下的溃烂——海洛因泛滥、议员受贿、警界黑幕与俄罗斯犯罪网络的国家级共谋。奈斯博用一只母鼠的本能切开整座城市，写瘾与代偿、写父爱与创伤、写一个人在毒瘾、复仇与体制共谋之间，能否重新长出一颗【穿了盔甲的心】。这不是一部爽感悬疑，而是一面让读者照见自己制度性麻木的镜子。</itunes:summary>
+      <itunes:duration>00:03:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-4881d2.mp3" length="1793089" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
