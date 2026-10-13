@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 01:18:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 01:30:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35507,6 +35507,17 @@
       <itunes:duration>00:04:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-7966fc.mp3" length="2206868" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《系紧兜裆布（长声闲话）》 · 完整版 · 长声闲话：系紧兜裆布_(长生闲话) · 完整讲读</title>
+      <description>《系紧兜裆布》是旅日作家李长声的随笔集，以中国视角拆解日本的表里与迷思。全书从国号、年号、天皇到语言、道歉，从绳文弥生的二元起源到现代的政治失言，追问&quot;日本人从哪里来&quot;与&quot;日本到底是什么&quot;两大主题。李长声不背书、不鸡汤，而是把日本人自己也常说却不明说的常识层层掀开，以&quot;冷冷看，闲闲说&quot;的姿态完成了一次文化祛魅。书中揭示了单一民族神话的建构、道歉文化的现代困境、表与里的辩证张力，以及工作狂与隐逸传统的两极撕裂等核心议题，为中文读者提供了一种俯视日本历史与社会的独特方法论。</description>
+      <pubDate>Tue, 13 Oct 2026 01:30:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-afbac5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《系紧兜裆布》是旅日作家李长声的随笔集，以中国视角拆解日本的表里与迷思。全书从国号、年号、天皇到语言、道歉，从绳文弥生的二元起源到现代的政治失言，追问&quot;日本人从哪里来&quot;与&quot;日本到底是什么&quot;两大主题。李长声不背书、不鸡汤，而是把日本人自己也常说却不明说的常识层层掀开，以&quot;冷冷看，闲闲说&quot;的姿态完成了一次文化祛魅。书中揭示了单一民族神话的建构、道歉文化的现代困境、表与里的辩证张力，以及工作狂与隐逸传统的两极撕裂等核心议题，为中文读者提供了一种俯视日本历史与社会的独特方法论。</itunes:summary>
+      <itunes:duration>00:04:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-afbac5.mp3" length="2205196" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
