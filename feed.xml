@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 00:04:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 00:12:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35397,6 +35397,17 @@
       <itunes:duration>00:02:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-3e735a.mp3" length="1226754" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我不是来演讲的》 · 完整版 · 我不是来演讲的_-_加西亚·马尔克斯 · 完整讲读</title>
+      <description>《我不是来演讲的》收录加西亚·马尔克斯从1944到2007年的十二篇演讲稿。表面上是一个害怕登台的作家在不同时代、不同场合的发言实录，本质则是一部关于写作、孤独、母语与身份认同的沉思录。马尔克斯借诺贝尔奖、罗慕洛·加列戈斯奖等场合，反复追问：拉丁美洲的孤独从何而来，一种语言如何承载一个大陆的记忆，文学的木匠活为何比灵感更重要。从十七岁拒绝登台，到八十岁面对国王，他用半个多世纪，把演讲这件令他恐惧的事，变成了他交付灵魂的地方。</description>
+      <pubDate>Tue, 13 Oct 2026 00:12:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-1f4924</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我不是来演讲的》收录加西亚·马尔克斯从1944到2007年的十二篇演讲稿。表面上是一个害怕登台的作家在不同时代、不同场合的发言实录，本质则是一部关于写作、孤独、母语与身份认同的沉思录。马尔克斯借诺贝尔奖、罗慕洛·加列戈斯奖等场合，反复追问：拉丁美洲的孤独从何而来，一种语言如何承载一个大陆的记忆，文学的木匠活为何比灵感更重要。从十七岁拒绝登台，到八十岁面对国王，他用半个多世纪，把演讲这件令他恐惧的事，变成了他交付灵魂的地方。</itunes:summary>
+      <itunes:duration>00:05:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-1f4924.mp3" length="2783234" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
