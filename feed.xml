@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 17:35:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 17:42:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36299,6 +36299,17 @@
       <itunes:duration>00:08:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-d3bdf9.mp3" length="4234806" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《荷尔德林诗的阐释》 · 完整版 · 荷尔德林诗的阐释_(中国现象学文库·现象学原典译丛) · 完整讲读</title>
+      <description>海德格尔在这本小书里，跨越诗人与思想家的鸿沟，对荷尔德林的几首代表作展开了长达十年的深度对话。他把《返乡》解读为一场返回本源的精神跋涉，把天、地、光、明看作统一的三方对澄明之境的共同守护，把思与诗的关系界定为对存在之真理的互释互照。在一个诸神远逝、神性失语的时代，他借这位诗人中的诗人向我们发问：在技术喧嚣的包围中，我们是否还保有倾听的耳朵？在意义稀薄的世界里，我们是否还守护着那份澄明的忧心？返乡从来不是地理意义上的回家，而是在本源近旁的再次启程。</description>
+      <pubDate>Tue, 13 Oct 2026 17:42:46 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-713157</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>海德格尔在这本小书里，跨越诗人与思想家的鸿沟，对荷尔德林的几首代表作展开了长达十年的深度对话。他把《返乡》解读为一场返回本源的精神跋涉，把天、地、光、明看作统一的三方对澄明之境的共同守护，把思与诗的关系界定为对存在之真理的互释互照。在一个诸神远逝、神性失语的时代，他借这位诗人中的诗人向我们发问：在技术喧嚣的包围中，我们是否还保有倾听的耳朵？在意义稀薄的世界里，我们是否还守护着那份澄明的忧心？返乡从来不是地理意义上的回家，而是在本源近旁的再次启程。</itunes:summary>
+      <itunes:duration>00:04:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-713157.mp3" length="2384501" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
