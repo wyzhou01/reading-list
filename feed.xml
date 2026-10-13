@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 13:28:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 13:33:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36244,6 +36244,17 @@
       <itunes:duration>00:04:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-1501f7.mp3" length="2089840" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《自在独行》 · 完整版 · 自在独行 · 完整讲读</title>
+      <description>《自在独行》是贾平凹的散文经典，发行超百万册。他用朴拙的笔，写陕南商州的纺车声、祠堂小学、父亲的坟、母亲的那一巴掌，写一棵被冰雹砸趴却倔强开花的小桃树，写一只把石子磨成珍珠的丑陋贝。书里不讲方法，只讲血肉；不教独处，只把孤独掰开给你看。在喧嚣的时代，这本书教我们一种向内走、自足自在的精神生活：把命运强塞的苦，一点点磨成珍珠；把喧闹过后的日子，过出真正的重量。</description>
+      <pubDate>Tue, 13 Oct 2026 13:33:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-ac0155</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《自在独行》是贾平凹的散文经典，发行超百万册。他用朴拙的笔，写陕南商州的纺车声、祠堂小学、父亲的坟、母亲的那一巴掌，写一棵被冰雹砸趴却倔强开花的小桃树，写一只把石子磨成珍珠的丑陋贝。书里不讲方法，只讲血肉；不教独处，只把孤独掰开给你看。在喧嚣的时代，这本书教我们一种向内走、自足自在的精神生活：把命运强塞的苦，一点点磨成珍珠；把喧闹过后的日子，过出真正的重量。</itunes:summary>
+      <itunes:duration>00:02:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-ac0155.mp3" length="1252249" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
