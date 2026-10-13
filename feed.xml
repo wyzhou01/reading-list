@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 19:20:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 19:29:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36431,6 +36431,17 @@
       <itunes:duration>00:05:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-b2f463.mp3" length="2723466" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《使馆楼》 · 完整版 · 使馆楼（中英双语） · 完整讲读</title>
+      <description>《使馆楼》是英国作家扎迪·史密斯二〇一三年出版的长篇小说，以伦敦西北郊威尔斯登为背景，通过一群普通移民与本地人的日常群像，揭示历史幽灵如何在二十一世纪的伦敦街头继续运行。一个非法女佣每周一冒用雇主会员卡去游泳，路过柬埔寨大使馆时总会停下五分钟，凝视那道飞过八英尺高红砖墙的羽毛球弧线——她凝视的从来不是建筑本身，而是那段她一知半解的血腥历史。小说把波尔布特时代柬埔寨的连根拔起，与当代非洲女孩被产业链从故土剥离的非法生存，平移进同一条伦敦街道，让读者看见种族灭绝的证物如何与鸡尾酒和烤羊腿摆在同一条街上出售。</description>
+      <pubDate>Tue, 13 Oct 2026 19:29:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-334d30</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《使馆楼》是英国作家扎迪·史密斯二〇一三年出版的长篇小说，以伦敦西北郊威尔斯登为背景，通过一群普通移民与本地人的日常群像，揭示历史幽灵如何在二十一世纪的伦敦街头继续运行。一个非法女佣每周一冒用雇主会员卡去游泳，路过柬埔寨大使馆时总会停下五分钟，凝视那道飞过八英尺高红砖墙的羽毛球弧线——她凝视的从来不是建筑本身，而是那段她一知半解的血腥历史。小说把波尔布特时代柬埔寨的连根拔起，与当代非洲女孩被产业链从故土剥离的非法生存，平移进同一条伦敦街道，让读者看见种族灭绝的证物如何与鸡尾酒和烤羊腿摆在同一条街上出售。</itunes:summary>
+      <itunes:duration>00:05:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-334d30.mp3" length="2734751" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
