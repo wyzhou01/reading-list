@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 12:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 12:26:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36145,6 +36145,17 @@
       <itunes:duration>00:02:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-edf5aa.mp3" length="1315361" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《马雁散文集》 · 完整版 · 马雁散文集_-_马雁_著___秦晓宇_编选 · 完整讲读</title>
+      <description>本书是已故青年诗人马雁的散文遗作，由挚友秦晓宇编选，分谈经典与谈柴米油盐两辑。她以读书抵抗虚无，以爱抵抗孤独，以日常抵抗抽象——把每一秒钟都活成知道自己在活着的微光。这是一份关于过法尊严的证明。</description>
+      <pubDate>Tue, 13 Oct 2026 12:26:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-0df331</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是已故青年诗人马雁的散文遗作，由挚友秦晓宇编选，分谈经典与谈柴米油盐两辑。她以读书抵抗虚无，以爱抵抗孤独，以日常抵抗抽象——把每一秒钟都活成知道自己在活着的微光。这是一份关于过法尊严的证明。</itunes:summary>
+      <itunes:duration>00:08:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-0df331.mp3" length="4224357" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
