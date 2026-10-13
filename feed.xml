@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 10:58:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 11:08:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36024,6 +36024,17 @@
       <itunes:duration>00:05:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-3dfb9a.mp3" length="2435492" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《末日巨塔：基地组织与&apos;9·11&apos;之路》 · 完整版 · 末日巨塔：基地组织与“9·11”之路 · 完整讲读</title>
+      <description>本书以《纽约客》记者十年深度调查，追溯基地组织从库特卜的思想萌芽、反苏圣战的组织锻造，到本·拉登用家族财富与全球网络将其推向巅峰的全过程，重点还原了美国情报体系如何在官僚傲慢与部门割据中，对一场迫在眉睫的灾难集体装睡，最终导致 9·11 的三千条人命。劳伦斯·赖斯提醒我们：极端主义从来不是凭空出现的怪物，而是任何失能社会内部的一面镜子。</description>
+      <pubDate>Tue, 13 Oct 2026 11:07:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-d830a0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书以《纽约客》记者十年深度调查，追溯基地组织从库特卜的思想萌芽、反苏圣战的组织锻造，到本·拉登用家族财富与全球网络将其推向巅峰的全过程，重点还原了美国情报体系如何在官僚傲慢与部门割据中，对一场迫在眉睫的灾难集体装睡，最终导致 9·11 的三千条人命。劳伦斯·赖斯提醒我们：极端主义从来不是凭空出现的怪物，而是任何失能社会内部的一面镜子。</itunes:summary>
+      <itunes:duration>00:07:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-d830a0.mp3" length="3433160" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
