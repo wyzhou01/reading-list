@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 19:02:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 19:12:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36409,6 +36409,17 @@
       <itunes:duration>00:06:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-afb157.mp3" length="3142679" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《牛虻》 · 完整版 · 牛虻（译文名著精选） · 完整讲读</title>
+      <description>十九岁的意大利少年阿瑟跪在亡母空房间里等了一整夜，终于得到天主的答复——把自己的一生献给意大利，把奥地利人驱逐出去，让祖国成为共和国。可几个月后的同一个雨夜，他被青梅竹马的琼玛当作叛徒挨了一记耳光，又从最敬爱的蒙塔奈利神父口中得知自己是私生子。信仰、爱情、父亲三根柱子同一天塌尽。他假死脱身，流浪南美十三年，挨过鞭子、断过腿，最终以【牛虻】之名回到意大利，组织武装，准备起义。最后被捕，面对生父蒙塔奈利的劝降，他拒绝画押，从容走向刑场。这部由流亡伦敦的波兰革命者伏尼契在一八九七年写就的长篇小说，借十九世纪三十年代意大利青年党的故事，撕开了所有献身者都会撞上的那道墙——你为信仰而死，信仰却先把你活活碾碎；之后追问了一个更痛的问题——一个被打碎的人，是怎么重新站起来的？代价，又是什么？</description>
+      <pubDate>Tue, 13 Oct 2026 19:12:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-13ceb8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>十九岁的意大利少年阿瑟跪在亡母空房间里等了一整夜，终于得到天主的答复——把自己的一生献给意大利，把奥地利人驱逐出去，让祖国成为共和国。可几个月后的同一个雨夜，他被青梅竹马的琼玛当作叛徒挨了一记耳光，又从最敬爱的蒙塔奈利神父口中得知自己是私生子。信仰、爱情、父亲三根柱子同一天塌尽。他假死脱身，流浪南美十三年，挨过鞭子、断过腿，最终以【牛虻】之名回到意大利，组织武装，准备起义。最后被捕，面对生父蒙塔奈利的劝降，他拒绝画押，从容走向刑场。这部由流亡伦敦的波兰革命者伏尼契在一八九七年写就的长篇小说，借十九世纪三十年代意大利青年党的故事，撕开了所有献身者都会撞上的那道墙——你为信仰而死，信仰却先把你活活碾碎；之后追问了一个更痛的问题——一个被打碎的人，是怎么重新站起来的？代价，又是什么？</itunes:summary>
+      <itunes:duration>00:08:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-13ceb8.mp3" length="3856135" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
