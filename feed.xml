@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 01:30:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 01:38:05 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35518,6 +35518,17 @@
       <itunes:duration>00:04:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-afbac5.mp3" length="2205196" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《族长的秋天》 · 完整版 · 族长的秋天_-_加西亚·马尔克斯 · 完整讲读</title>
+      <description>《族长的秋天》是加西亚·马尔克斯一九七五年写下的独裁者独白。一个统治国家上百年的老人，死后数周才被兀鹫啄烂的脸和母牛踩碎的地毯暴露。全书不分章节，以一段反复折叠的内心独白，剥开权力的幻觉：消失、分身、失爱、失声、虚假、肮脏。替身帕特里希奥·阿拉贡内斯让他在镜中看见另一个自己，母亲本蒂希翁·阿尔瓦拉多是他永远得不到的一声应答，一头爬上阳台的母牛是权力屋檐的最终预言。书里没有英雄，只有一个被权力吞噬、又反过来吞噬权力的孤独老头，临死前才明白人不是在生活，而是在苟活。这不是一本反独裁的政治寓言，这是一本写给所有人心里的那一点点小独裁者的清醒剂。</description>
+      <pubDate>Tue, 13 Oct 2026 01:38:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-d0c8c4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《族长的秋天》是加西亚·马尔克斯一九七五年写下的独裁者独白。一个统治国家上百年的老人，死后数周才被兀鹫啄烂的脸和母牛踩碎的地毯暴露。全书不分章节，以一段反复折叠的内心独白，剥开权力的幻觉：消失、分身、失爱、失声、虚假、肮脏。替身帕特里希奥·阿拉贡内斯让他在镜中看见另一个自己，母亲本蒂希翁·阿尔瓦拉多是他永远得不到的一声应答，一头爬上阳台的母牛是权力屋檐的最终预言。书里没有英雄，只有一个被权力吞噬、又反过来吞噬权力的孤独老头，临死前才明白人不是在生活，而是在苟活。这不是一本反独裁的政治寓言，这是一本写给所有人心里的那一点点小独裁者的清醒剂。</itunes:summary>
+      <itunes:duration>00:04:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-d0c8c4.mp3" length="2339361" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
