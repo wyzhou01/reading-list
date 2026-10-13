@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 00:44:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 00:50:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35463,6 +35463,17 @@
       <itunes:duration>00:02:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-6b2861.mp3" length="1093007" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《有一类战犯叫参谋》 · 完整版 · 有一类战犯叫参谋 · 完整讲读</title>
+      <description>本书聚焦日本陆军参谋制度的战争责任：明治建军以来，统帅权独立与军政军令二元化让参谋脱离文官政府、直属天皇，陆军大学校这条流水线源源不断地生产出只懂战术、不懂政治社会的参谋精英。二十八名甲级战犯中有十八名当过参谋，比例近三分之二，揭示了幕僚群体才是那场战争真正的发动机。战后参谋群体化整为零进入政界、商界乃至境外战场的去向，更提醒读者：反思战争，核心不在个别战犯，而在制度本身。</description>
+      <pubDate>Tue, 13 Oct 2026 00:50:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-2aab2e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书聚焦日本陆军参谋制度的战争责任：明治建军以来，统帅权独立与军政军令二元化让参谋脱离文官政府、直属天皇，陆军大学校这条流水线源源不断地生产出只懂战术、不懂政治社会的参谋精英。二十八名甲级战犯中有十八名当过参谋，比例近三分之二，揭示了幕僚群体才是那场战争真正的发动机。战后参谋群体化整为零进入政界、商界乃至境外战场的去向，更提醒读者：反思战争，核心不在个别战犯，而在制度本身。</itunes:summary>
+      <itunes:duration>00:04:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-2aab2e.mp3" length="1961108" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
