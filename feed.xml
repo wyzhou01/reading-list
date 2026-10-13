@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 00:33:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 00:38:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35441,6 +35441,17 @@
       <itunes:duration>00:03:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-2de2eb.mp3" length="1561121" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《最初物語》 · 完整版 · 最初物語 · 完整讲读</title>
+      <description>《最初物語》是宮部美雪以江戶深川為舞臺的短篇推理集，由捕吏茂七與兩名手下系吉、權三串起七則奇案：裸身浮屍、流浪兒凍死、千兩鰹魚與棄嬰暗夜。書中沒有真正的反派，只有被生活壓彎、卻仍試圖互相托住的市井小人物。宮部以溫柔筆觸呈現江戶底層的經濟學——窮人沒有餘裕悲傷，能做一場美夢再死，已是難得的溫柔。讀者將在這七樁奇案背後，看見小人物最貴重的資產：願意為彼此多做一點的善意。</description>
+      <pubDate>Tue, 13 Oct 2026 00:38:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-b860b5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《最初物語》是宮部美雪以江戶深川為舞臺的短篇推理集，由捕吏茂七與兩名手下系吉、權三串起七則奇案：裸身浮屍、流浪兒凍死、千兩鰹魚與棄嬰暗夜。書中沒有真正的反派，只有被生活壓彎、卻仍試圖互相托住的市井小人物。宮部以溫柔筆觸呈現江戶底層的經濟學——窮人沒有餘裕悲傷，能做一場美夢再死，已是難得的溫柔。讀者將在這七樁奇案背後，看見小人物最貴重的資產：願意為彼此多做一點的善意。</itunes:summary>
+      <itunes:duration>00:02:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-b860b5.mp3" length="1266878" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
