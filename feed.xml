@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 00:21:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 00:27:56 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35419,6 +35419,17 @@
       <itunes:duration>00:06:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-cb71e0.mp3" length="3266813" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《洛阳伽蓝记》 · 完整版 · 洛阳伽蓝记_-_杨炫之（北魏） · 完整讲读</title>
+      <description>《洛阳伽蓝记》是北魏杨衒之重访洛阳劫余之作,借城内、城东、城南、城西、城北五卷、一寺一条之体例,既记录一千三百六十七座佛寺的旧名与方位,亦穿插人物逸事、音乐歌舞、园林建筑、西行求法等世情风貌,以拓跋别史之姿,志一座帝京从盛到崩的沧桑。</description>
+      <pubDate>Tue, 13 Oct 2026 00:27:52 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-7d81bf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《洛阳伽蓝记》是北魏杨衒之重访洛阳劫余之作,借城内、城东、城南、城西、城北五卷、一寺一条之体例,既记录一千三百六十七座佛寺的旧名与方位,亦穿插人物逸事、音乐歌舞、园林建筑、西行求法等世情风貌,以拓跋别史之姿,志一座帝京从盛到崩的沧桑。</itunes:summary>
+      <itunes:duration>00:04:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-7d81bf.mp3" length="1946897" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
