@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 02:20:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 02:28:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35573,6 +35573,17 @@
       <itunes:duration>00:03:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-cba466.mp3" length="1619635" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《破狱》 · 完整版 · 破狱 · 完整讲读</title>
+      <description>《破狱》是日本战后派作家吉村昭的长篇代表作，以一九四三年至一九七八年间一个无期徒刑犯佐久间清太郎与看押他的两代行刑官樱井均、铃江笔下的静默博弈为主线，借战时体制与战后重建之间的张力，拷问一个冷峻的问题：在战争把人变成野兽的年代，一个把人当人对待的看守，能不能真的瓦解一个越狱者的意志？全书档案扎实、克制冷静，既非英雄叙事也非反体制寓言，而是一部关于二十世纪日本行刑史与一个普通人命运的群像小说。</description>
+      <pubDate>Tue, 13 Oct 2026 02:28:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-92d3b0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《破狱》是日本战后派作家吉村昭的长篇代表作，以一九四三年至一九七八年间一个无期徒刑犯佐久间清太郎与看押他的两代行刑官樱井均、铃江笔下的静默博弈为主线，借战时体制与战后重建之间的张力，拷问一个冷峻的问题：在战争把人变成野兽的年代，一个把人当人对待的看守，能不能真的瓦解一个越狱者的意志？全书档案扎实、克制冷静，既非英雄叙事也非反体制寓言，而是一部关于二十世纪日本行刑史与一个普通人命运的群像小说。</itunes:summary>
+      <itunes:duration>00:05:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-92d3b0.mp3" length="2671639" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
