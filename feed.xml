@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 03:17:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 03:28:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35650,6 +35650,17 @@
       <itunes:duration>00:04:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-712102.mp3" length="2189732" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《姜饼人》 · 完整版 · 姜饼人 · 完整讲读</title>
+      <description>《姜饼人》是爱尔兰作家唐利维一九五零年的长篇处女作，讲述二战后一个美国老兵与一个爱尔兰放浪同学在都柏林和巴尔斯凯墩的流浪生活。小说用意识流、情色与荒诞的笔法，写出了两个无家可归的边缘人在赊账、酗酒、追女人、谈哲学之间维持漂浮的全部代价；他们看得见光，却跳不过去，只能永远站在黑与亮的临界线上，那个永远跑不掉的姜饼小人，最终把睡觉的床变成了最后的战场。</description>
+      <pubDate>Tue, 13 Oct 2026 03:28:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-73b94e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《姜饼人》是爱尔兰作家唐利维一九五零年的长篇处女作，讲述二战后一个美国老兵与一个爱尔兰放浪同学在都柏林和巴尔斯凯墩的流浪生活。小说用意识流、情色与荒诞的笔法，写出了两个无家可归的边缘人在赊账、酗酒、追女人、谈哲学之间维持漂浮的全部代价；他们看得见光，却跳不过去，只能永远站在黑与亮的临界线上，那个永远跑不掉的姜饼小人，最终把睡觉的床变成了最后的战场。</itunes:summary>
+      <itunes:duration>00:07:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-73b94e.mp3" length="3734091" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
