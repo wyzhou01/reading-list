@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 10:44:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 10:50:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36002,6 +36002,17 @@
       <itunes:duration>00:04:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-21577c.mp3" length="2130800" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《极简海洋文明史：航海与世界历史5000年》 · 完整版 · 极简海洋文明史：航海与世界历史5000年 · 完整讲读</title>
+      <description>《极简海洋文明史》以五千年航海史为线索，揭示一个核心判断：一个文明的伟大程度，不在于城墙有多高，而在于它织出的航海网络有多广。从芦苇筏子、方帆、三角帆，到蒸汽明轮、螺旋桨铁甲舰，每一次造船工艺的跳跃，都在重写全球权力版图。本书拆解了五个层面的相互作用：航海技术如何决定谁能走得远，贸易网络如何决定谁赚得多，航海帝国如何决定谁统治谁，宗教与文化如何随船跨海传播，食物与疾病又如何随航线重塑人类食谱与免疫版图。索萨的结论是：海洋从未是中性的舞台，谁先把船开出去，谁就提前锁定三百年输赢；谁先把疾病、蔗糖、黑奴和传教士送上船，谁就同时定义了红利与代价。五千年海洋史，本质是一部动力外包史，也是一部赢家的故事。</description>
+      <pubDate>Tue, 13 Oct 2026 10:50:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-d9fd26</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《极简海洋文明史》以五千年航海史为线索，揭示一个核心判断：一个文明的伟大程度，不在于城墙有多高，而在于它织出的航海网络有多广。从芦苇筏子、方帆、三角帆，到蒸汽明轮、螺旋桨铁甲舰，每一次造船工艺的跳跃，都在重写全球权力版图。本书拆解了五个层面的相互作用：航海技术如何决定谁能走得远，贸易网络如何决定谁赚得多，航海帝国如何决定谁统治谁，宗教与文化如何随船跨海传播，食物与疾病又如何随航线重塑人类食谱与免疫版图。索萨的结论是：海洋从未是中性的舞台，谁先把船开出去，谁就提前锁定三百年输赢；谁先把疾病、蔗糖、黑奴和传教士送上船，谁就同时定义了红利与代价。五千年海洋史，本质是一部动力外包史，也是一部赢家的故事。</itunes:summary>
+      <itunes:duration>00:03:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-d9fd26.mp3" length="1528520" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
