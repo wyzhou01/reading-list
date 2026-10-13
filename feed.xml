@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 04:34:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 04:41:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35760,6 +35760,17 @@
       <itunes:duration>00:03:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-859c2c.mp3" length="1553180" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《寡人很孤独：资治通鉴里的权力游戏》 · 完整版 · 寡人很孤独：资治通鉴里的权力游戏 · 完整讲读</title>
+      <description>本书以司马光《资治通鉴》周纪部分为蓝本，用段子手的人话重新解读战国二百年的权力博弈。从智宣子选继承人的经典决策讲起，穿插田氏代齐、吴起商鞅变法、孙膑庞涓斗法、苏秦张仪合纵连横、长平之战等核心事件，拆解战国乱世中选人、蛋糕、代价、变法、联盟、决战六块拼图。河伯用诙谐的笔法告诉读者：在那个没有规则、人人都是棋子的丛林里，光哥说的才德之辨其实只是表面，真正决定胜负的是实力、谋略和时机。读《资治通鉴》不是为了学权谋，而是学一种乱世中的清醒。</description>
+      <pubDate>Tue, 13 Oct 2026 04:41:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-ac7e10</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书以司马光《资治通鉴》周纪部分为蓝本，用段子手的人话重新解读战国二百年的权力博弈。从智宣子选继承人的经典决策讲起，穿插田氏代齐、吴起商鞅变法、孙膑庞涓斗法、苏秦张仪合纵连横、长平之战等核心事件，拆解战国乱世中选人、蛋糕、代价、变法、联盟、决战六块拼图。河伯用诙谐的笔法告诉读者：在那个没有规则、人人都是棋子的丛林里，光哥说的才德之辨其实只是表面，真正决定胜负的是实力、谋略和时机。读《资治通鉴》不是为了学权谋，而是学一种乱世中的清醒。</itunes:summary>
+      <itunes:duration>00:03:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-ac7e10.mp3" length="1603335" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
