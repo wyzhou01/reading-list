@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 11:52:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 11:59:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36112,6 +36112,17 @@
       <itunes:duration>00:04:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-499aa1.mp3" length="2222751" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《原始分类》 · 完整版 · 原始分类_(汉译世界学术名著丛书)_-_爱弥尔·涂尔干_&amp;_马塞尔·莫斯 · 完整讲读</title>
+      <description>本书是法国社会学年鉴派奠基人涂尔干与人类学家莫斯合著的经典。两位作者横跨澳洲、美洲、亚洲多种文化，系统考察了图腾、胞族、方位、神祇、星象等最原初的分类体系，并提出一个颠覆性命题：人类的分类能力并非个体理性的天赋，而是社会结构的投射。最粗陋的氏族—胞族图腾，恰恰是范畴与逻辑的原型。月亮属于阴性胞族、雨属于乌鸦氏族，并非出于神秘感应，而是因为社会本身就已经被分割成了阵营与等级。空间方位、颜色、季节、动植物乃至神祇，在人类原初的认知里皆为社会的化身。涂尔干由此提炼出【集体表征】这一核心概念：被群体共同分享并对个体构成约束的认知体系，其权威性远超任何个人。本书既是社会学的奠基之作，也是认知考古的范例，至今仍深刻地影响着人类学与文化研究。</description>
+      <pubDate>Tue, 13 Oct 2026 11:59:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-211c06</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是法国社会学年鉴派奠基人涂尔干与人类学家莫斯合著的经典。两位作者横跨澳洲、美洲、亚洲多种文化，系统考察了图腾、胞族、方位、神祇、星象等最原初的分类体系，并提出一个颠覆性命题：人类的分类能力并非个体理性的天赋，而是社会结构的投射。最粗陋的氏族—胞族图腾，恰恰是范畴与逻辑的原型。月亮属于阴性胞族、雨属于乌鸦氏族，并非出于神秘感应，而是因为社会本身就已经被分割成了阵营与等级。空间方位、颜色、季节、动植物乃至神祇，在人类原初的认知里皆为社会的化身。涂尔干由此提炼出【集体表征】这一核心概念：被群体共同分享并对个体构成约束的认知体系，其权威性远超任何个人。本书既是社会学的奠基之作，也是认知考古的范例，至今仍深刻地影响着人类学与文化研究。</itunes:summary>
+      <itunes:duration>00:04:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-211c06.mp3" length="2123694" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
