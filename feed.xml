@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 04:53:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 08:21:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35793,6 +35793,17 @@
       <itunes:duration>00:02:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-638381.mp3" length="1366770" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《制度·言论·心态——《明清之际士大夫研究》续编》 · 完整版 · 制度言论心态：《明清之际士大夫研究》续编_(学术史丛书) · 完整讲读</title>
+      <description>赵园三十年追问明清易代之际士大夫的精神世界，这部续编将镜头从思想史拉到制度、言论、心态的更细肌理。她绕开理学窄框架，打捞谈兵、游幕、井田、文质等被正统思想史弃置的边角材料，呈现一个众声喧哗的时代。作者最看重的不是制度如何框住人，而是三者在士人心中摩擦时渗出的温度——既保全材料的毛边与牵丝，也保留其时人物彼此矛盾的本来面目。</description>
+      <pubDate>Tue, 13 Oct 2026 08:21:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-f9fbb8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>赵园三十年追问明清易代之际士大夫的精神世界，这部续编将镜头从思想史拉到制度、言论、心态的更细肌理。她绕开理学窄框架，打捞谈兵、游幕、井田、文质等被正统思想史弃置的边角材料，呈现一个众声喧哗的时代。作者最看重的不是制度如何框住人，而是三者在士人心中摩擦时渗出的温度——既保全材料的毛边与牵丝，也保留其时人物彼此矛盾的本来面目。</itunes:summary>
+      <itunes:duration>00:03:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-f9fbb8.mp3" length="1512220" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
