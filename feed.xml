@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 04:13:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 04:20:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35727,6 +35727,17 @@
       <itunes:duration>00:02:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-887cb0.mp3" length="1251413" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《医学的真相》 · 完整版 · 医学的真相 · 完整讲读</title>
+      <description>《医学的真相》是哥伦比亚大学癌症医师悉多达·穆克吉写给所有人的临床思维课。他用三条法则揭示医学的本质:敏锐的直觉比单一检查更有效,因为诊断本质上是一场概率游戏;不同人对相同药物反应不同,因为个体差异无法被群体规律完全覆盖;看似有益的方案可能有害,因为直觉上的因果幻觉常常误导判断。这三条法则的共同指向,是在信息不完备时如何思考、如何决策、如何保持谦逊。穆克吉提醒读者,医学是【最年轻的科学】,也是【最人性化的科学】——它的不确定性,恰恰是它值得敬畏的理由。</description>
+      <pubDate>Tue, 13 Oct 2026 04:20:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261012-episode-20261012-ee3e5f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《医学的真相》是哥伦比亚大学癌症医师悉多达·穆克吉写给所有人的临床思维课。他用三条法则揭示医学的本质:敏锐的直觉比单一检查更有效,因为诊断本质上是一场概率游戏;不同人对相同药物反应不同,因为个体差异无法被群体规律完全覆盖;看似有益的方案可能有害,因为直觉上的因果幻觉常常误导判断。这三条法则的共同指向,是在信息不完备时如何思考、如何决策、如何保持谦逊。穆克吉提醒读者,医学是【最年轻的科学】,也是【最人性化的科学】——它的不确定性,恰恰是它值得敬畏的理由。</itunes:summary>
+      <itunes:duration>00:04:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261012/episode-20261012-ee3e5f.mp3" length="2244484" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
