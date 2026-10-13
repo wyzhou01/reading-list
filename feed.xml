@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 10:16:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 10:28:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -35969,6 +35969,17 @@
       <itunes:duration>00:05:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-135b7a.mp3" length="2497768" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《时间之墟》 · 完整版 · 时间之墟 · 完整讲读</title>
+      <description>《时间之墟》是宝树二零一三年震动华语科幻的长篇，借《土拨鼠日》的个人循环放大为全人类每日失忆的极端设定，讲述了男主韩方和女主艾薇在一千六百万年永恒循环里的精神史诗。全书用六块拼图拆解这道命题：虚无是诱惑、短视是绞肉机、爱是复利、责任是心跳、时间会塌缩成晶体、文明会腐烂成筛子。当记忆每日清零、未来被彻底抹掉，人靠什么撑下去？答案不是希望，希望太理性；答案是更古老、更不讲理、更没法被打败的六样东西。合上书回头看，它不是科幻，是镜子：每一个现代人都住在某种程度的时间晶体里，区别只是那块晶体是一千六百万年，还是你的一天。</description>
+      <pubDate>Tue, 13 Oct 2026 10:27:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-761261</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《时间之墟》是宝树二零一三年震动华语科幻的长篇，借《土拨鼠日》的个人循环放大为全人类每日失忆的极端设定，讲述了男主韩方和女主艾薇在一千六百万年永恒循环里的精神史诗。全书用六块拼图拆解这道命题：虚无是诱惑、短视是绞肉机、爱是复利、责任是心跳、时间会塌缩成晶体、文明会腐烂成筛子。当记忆每日清零、未来被彻底抹掉，人靠什么撑下去？答案不是希望，希望太理性；答案是更古老、更不讲理、更没法被打败的六样东西。合上书回头看，它不是科幻，是镜子：每一个现代人都住在某种程度的时间晶体里，区别只是那块晶体是一千六百万年，还是你的一天。</itunes:summary>
+      <itunes:duration>00:07:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-761261.mp3" length="3398052" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
