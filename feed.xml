@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 23:13:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 23:19:45 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36530,6 +36530,17 @@
       <itunes:duration>00:04:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-dbf2ff.mp3" length="1971557" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《写作课（中国故事）》 · 完整版 · 写作课（中国故事）_-_张伟 · 完整讲读</title>
+      <description>《写作课》是中国非虚构写作者张伟编选的一部随笔集，把福楼拜星期天课堂上的红纱毯、麦克菲批改学生稿件的左撇子铅笔、李海鹏为《人物》杂志写下的改版词、布鲁诺·舒尔茨关于童年圣经的隐喻、芥川龙之介与卡夫卡的临终书单，统统装进同一本书。表面看它是一本讲怎么写非虚构的方法手册，本质上它追问的是：在万物皆可被遗忘的时代里，观察者究竟该如何凭借一瞥之力穿透世界之上的黑帘子，又该如何凭借笔下的字，把每一个被报道者、每一段被遮蔽的生活，从遗忘里捞回来。</description>
+      <pubDate>Tue, 13 Oct 2026 23:19:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-248c31</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《写作课》是中国非虚构写作者张伟编选的一部随笔集，把福楼拜星期天课堂上的红纱毯、麦克菲批改学生稿件的左撇子铅笔、李海鹏为《人物》杂志写下的改版词、布鲁诺·舒尔茨关于童年圣经的隐喻、芥川龙之介与卡夫卡的临终书单，统统装进同一本书。表面看它是一本讲怎么写非虚构的方法手册，本质上它追问的是：在万物皆可被遗忘的时代里，观察者究竟该如何凭借一瞥之力穿透世界之上的黑帘子，又该如何凭借笔下的字，把每一个被报道者、每一段被遮蔽的生活，从遗忘里捞回来。</itunes:summary>
+      <itunes:duration>00:04:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-248c31.mp3" length="2162564" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
