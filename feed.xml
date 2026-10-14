@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 17:30:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 17:31:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37663,6 +37663,17 @@
       <itunes:duration>00:02:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-c8a0c1.mp3" length="1300315" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《暗物质与恐龙》 · 完整版 · 暗物质与恐龙 · 完整讲读</title>
+      <description>哈佛理论物理学家丽莎·兰道尔在《暗物质与恐龙》中,把宇宙演化、太阳系结构、生命灭绝与暗物质这四条看似不相关的线索拧成一根绳:六千六百万年前导致恐龙灭绝的那颗彗星,或许是被银河系中间一片看不见的暗物质盘的引力甩出轨道,最终撞上地球。本书以侦探小说的笔法,带读者穿越大爆炸、星系形成、奥尔特云、生命大灭绝、粒子对撞机,从宇宙的尺度重新理解人类的存在。兰道尔并不掩饰她的假说尚未被证实,却示范了科学家如何用多重证据交叉验证、如何在推翻旧答案后重新出发——科学不是静态的真理集合,而是一段又一段向未知逼近的旅程。今天地球上之所以有人类,本身就是宇宙一系列不可思议关联的产物。</description>
+      <pubDate>Wed, 14 Oct 2026 17:31:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-067d3b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>哈佛理论物理学家丽莎·兰道尔在《暗物质与恐龙》中,把宇宙演化、太阳系结构、生命灭绝与暗物质这四条看似不相关的线索拧成一根绳:六千六百万年前导致恐龙灭绝的那颗彗星,或许是被银河系中间一片看不见的暗物质盘的引力甩出轨道,最终撞上地球。本书以侦探小说的笔法,带读者穿越大爆炸、星系形成、奥尔特云、生命大灭绝、粒子对撞机,从宇宙的尺度重新理解人类的存在。兰道尔并不掩饰她的假说尚未被证实,却示范了科学家如何用多重证据交叉验证、如何在推翻旧答案后重新出发——科学不是静态的真理集合,而是一段又一段向未知逼近的旅程。今天地球上之所以有人类,本身就是宇宙一系列不可思议关联的产物。</itunes:summary>
+      <itunes:duration>00:05:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-067d3b.mp3" length="2783652" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
