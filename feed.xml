@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 04:42:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 04:47:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36937,6 +36937,17 @@
       <itunes:duration>00:02:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-f62b07.mp3" length="1239711" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《春秋战国（全三册）》 · 完整版 · 春秋战国（全三册） · 完整讲读</title>
+      <description>《春秋战国》全三册, 把五百年乱世写成了生死赌局。齐襄公深夜被宠妾刺杀, 周礼从此挡不住身边的剑; 管仲尊贤尚功, 把齐国变成天下首霸; 晋文公退避三舍, 用十九年流亡换来城濮大捷; 楚庄王绝缨海量, 一鸣惊人。战国更狠——商鞅徙木立信、孙膑减灶诱敌、张仪拆散合纵、白起长平坑杀四十万。当六国全部同时犯错, 秦王政摘下最后的果子。但这本书不只是历史, 更是一部组织行为学——它告诉我们: 乱世出英雄没错, 但英雄能不能赢, 取决于他有没有留下让人走了也能运转的制度; 赢家不一定是对的, 真正的高手, 是看清规则、然后用规则, 并在赢了之后主动修改规则。</description>
+      <pubDate>Wed, 14 Oct 2026 04:47:46 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-66c01f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《春秋战国》全三册, 把五百年乱世写成了生死赌局。齐襄公深夜被宠妾刺杀, 周礼从此挡不住身边的剑; 管仲尊贤尚功, 把齐国变成天下首霸; 晋文公退避三舍, 用十九年流亡换来城濮大捷; 楚庄王绝缨海量, 一鸣惊人。战国更狠——商鞅徙木立信、孙膑减灶诱敌、张仪拆散合纵、白起长平坑杀四十万。当六国全部同时犯错, 秦王政摘下最后的果子。但这本书不只是历史, 更是一部组织行为学——它告诉我们: 乱世出英雄没错, 但英雄能不能赢, 取决于他有没有留下让人走了也能运转的制度; 赢家不一定是对的, 真正的高手, 是看清规则、然后用规则, 并在赢了之后主动修改规则。</itunes:summary>
+      <itunes:duration>00:03:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-66c01f.mp3" length="1469588" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
