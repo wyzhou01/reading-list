@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 03:47:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 03:53:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36860,6 +36860,17 @@
       <itunes:duration>00:02:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-2db595.mp3" length="1260191" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《鼠疫》 · 完整版 · 鼠疫_(译文名著精选) · 完整讲读</title>
+      <description>《鼠疫》是阿尔贝·加缪于一九四七年出版的长篇小说,讲述北非城市阿赫兰突然爆发鼠疫后被封城,以医生里厄为代表的一批人如何面对这场灾难并坚持行动的故事。这本书看似是首只瘟疫的小说,实质是首只在荒诞命运面前讨论反抗姿态的寓言——加缪用一座被封死的城市,逼出了四种人:在第一线救人的里厄、在第二线记事的塔鲁、在灾难里挣扎的柯塔尔、在日常里坚持删改公文的小公务员格朗。这本书的核心,从来不是&quot;正义必胜&quot;,而是&quot;在灾难还没降下来的时候,你是否愿意先练习做一个值得赞赏的人&quot;。</description>
+      <pubDate>Wed, 14 Oct 2026 03:53:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-f09640</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《鼠疫》是阿尔贝·加缪于一九四七年出版的长篇小说,讲述北非城市阿赫兰突然爆发鼠疫后被封城,以医生里厄为代表的一批人如何面对这场灾难并坚持行动的故事。这本书看似是首只瘟疫的小说,实质是首只在荒诞命运面前讨论反抗姿态的寓言——加缪用一座被封死的城市,逼出了四种人:在第一线救人的里厄、在第二线记事的塔鲁、在灾难里挣扎的柯塔尔、在日常里坚持删改公文的小公务员格朗。这本书的核心,从来不是&quot;正义必胜&quot;,而是&quot;在灾难还没降下来的时候,你是否愿意先练习做一个值得赞赏的人&quot;。</itunes:summary>
+      <itunes:duration>00:03:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-f09640.mp3" length="1461229" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
