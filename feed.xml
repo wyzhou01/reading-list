@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 01:00:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 01:23:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36673,6 +36673,17 @@
       <itunes:duration>00:04:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-71b1cc.mp3" length="1939374" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《魏晋南北朝社会生活史》 · 完整版 · 魏晋南北朝社会生活史 · 完整讲读</title>
+      <description>这是一本由中国社会科学院历史所学者朱大渭领衔撰写的中国古代社会生活史专著，也是中国第一部系统论述魏晋南北朝三百年间普通人衣食住行、婚丧嫁娶、节日信仰与民族融合的奠基之作。书里以翔实的文献与考古资料，打捞出衣冠、饮食、宫苑、车船、婚俗、丧礼、节日、宗教、医药、娱乐的细节，更设有专章呈现匈奴、氐、羌、鲜卑等少数民族的物质与精神生活。从公元五百四十八年侯景之乱屠城的惨烈，到北魏孝文帝汉化改革的开放，从《齐民要术》里上百种菜肴的精细，到《洛阳伽蓝记》里西域商队穿梭的繁华，本书回答的核心问题是：在长期分裂战乱、王朝更迭的近四百年里，中国普通人究竟穿什么、吃什么、住什么、怎么结婚、怎么埋葬，又如何在乱与变中，活出了中国古代最开放、最多元、最具生命力的三百年。读完之后你会发现，文明的活力往往诞生于乱与变的夹缝里。</description>
+      <pubDate>Wed, 14 Oct 2026 01:23:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-8070cd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>这是一本由中国社会科学院历史所学者朱大渭领衔撰写的中国古代社会生活史专著，也是中国第一部系统论述魏晋南北朝三百年间普通人衣食住行、婚丧嫁娶、节日信仰与民族融合的奠基之作。书里以翔实的文献与考古资料，打捞出衣冠、饮食、宫苑、车船、婚俗、丧礼、节日、宗教、医药、娱乐的细节，更设有专章呈现匈奴、氐、羌、鲜卑等少数民族的物质与精神生活。从公元五百四十八年侯景之乱屠城的惨烈，到北魏孝文帝汉化改革的开放，从《齐民要术》里上百种菜肴的精细，到《洛阳伽蓝记》里西域商队穿梭的繁华，本书回答的核心问题是：在长期分裂战乱、王朝更迭的近四百年里，中国普通人究竟穿什么、吃什么、住什么、怎么结婚、怎么埋葬，又如何在乱与变中，活出了中国古代最开放、最多元、最具生命力的三百年。读完之后你会发现，文明的活力往往诞生于乱与变的夹缝里。</itunes:summary>
+      <itunes:duration>00:19:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-8070cd.mp3" length="9241121" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
