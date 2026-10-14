@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 03:11:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 03:18:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36805,6 +36805,17 @@
       <itunes:duration>00:04:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-f56250.mp3" length="2099453" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《九州·暗月将临》 · 完整版 · 九州·暗月将临 · 完整讲读</title>
+      <description>《暗月将临》是九州世界中暗月六族书的第一部，以自序里那位自比磨刀匠人的作者的口吻，缓缓铺开一个草原少年云胡不归如何在十三四岁便以天罗之身屠戮越州河络哨兵，又如何改名龙噙者，从草原质子一步步走向天启帝王之座的故事。作者自陈兴趣难超三天，却为磨出这部配得上指环王体量的中文史诗，耗费了十一年笨拙光阴，把草蛇灰线伏于火环城的工匠、洞穴深处的火炉嬷嬷与六位年少将星之间，借一份西征前无人看重的名单预言一整个时代的面貌，借西征之战写尽磨砺与灾厄本就是同一块粗坯的两面，最终走向那场无人能避的暗月灾纪。</description>
+      <pubDate>Wed, 14 Oct 2026 03:18:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-e8b543</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《暗月将临》是九州世界中暗月六族书的第一部，以自序里那位自比磨刀匠人的作者的口吻，缓缓铺开一个草原少年云胡不归如何在十三四岁便以天罗之身屠戮越州河络哨兵，又如何改名龙噙者，从草原质子一步步走向天启帝王之座的故事。作者自陈兴趣难超三天，却为磨出这部配得上指环王体量的中文史诗，耗费了十一年笨拙光阴，把草蛇灰线伏于火环城的工匠、洞穴深处的火炉嬷嬷与六位年少将星之间，借一份西征前无人看重的名单预言一整个时代的面貌，借西征之战写尽磨砺与灾厄本就是同一块粗坯的两面，最终走向那场无人能避的暗月灾纪。</itunes:summary>
+      <itunes:duration>00:04:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-e8b543.mp3" length="2102796" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
