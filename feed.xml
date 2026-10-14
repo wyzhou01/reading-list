@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 08:15:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 08:24:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37135,6 +37135,17 @@
       <itunes:duration>00:02:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-0f24c0.mp3" length="1294045" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《背包十年》 · 完整版 · 背包十年 · 完整讲读</title>
+      <description>《背包十年》是职业旅行者小鹏用十年青春写就的一部流浪史诗。从二零零一年借来的旧背包开始，他辞掉外企工作，掏空家底，租阅欧洲，穿越印度，拍摄非洲，睡过机场，睡过街头，睡过撒哈拉的星空，也睡过马尔代夫的水上屋。他用十年青春验证了一件事：在中国，年轻真的可以不止一种活法。孤独是自由的另一个名字，穷从来不是限制，旅行最终是回到自己的那条小路。书中所有的成长、所有的眼泪、所有的崩溃、所有的重新出发，都是为了年华老去时不鄙视自己。</description>
+      <pubDate>Wed, 14 Oct 2026 08:24:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-9e080b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《背包十年》是职业旅行者小鹏用十年青春写就的一部流浪史诗。从二零零一年借来的旧背包开始，他辞掉外企工作，掏空家底，租阅欧洲，穿越印度，拍摄非洲，睡过机场，睡过街头，睡过撒哈拉的星空，也睡过马尔代夫的水上屋。他用十年青春验证了一件事：在中国，年轻真的可以不止一种活法。孤独是自由的另一个名字，穷从来不是限制，旅行最终是回到自己的那条小路。书中所有的成长、所有的眼泪、所有的崩溃、所有的重新出发，都是为了年华老去时不鄙视自己。</itunes:summary>
+      <itunes:duration>00:04:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-9e080b.mp3" length="1933941" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
