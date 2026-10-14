@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 02:52:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 03:00:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36783,6 +36783,17 @@
       <itunes:duration>00:02:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-a9b0ae.mp3" length="1406894" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《荣氏百年：中国商业第一家族》 · 完整版 · 荣氏百年：中国商业第一家族 · 完整讲读</title>
+      <description>本书完整还原荣家三代人跨越一百三十年的命运浮沉：从清末钱庄学徒起步，荣宗敬、荣德生兄弟成为面粉大王与棉纱大王；乱世中荣毅仁成为第一号红色资本家并创办中信集团；荣智健将中信泰富推上巅峰，又因澳元杠杆合约巨亏一百五十五亿港元黯然出局。透过这个家族，我们看到中国近现代商业的全部主线，也看到一个永恒命题：财富的创造容易，传承却需要跨越代际、周期与制度的多重考验。</description>
+      <pubDate>Wed, 14 Oct 2026 03:00:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-66ff35</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书完整还原荣家三代人跨越一百三十年的命运浮沉：从清末钱庄学徒起步，荣宗敬、荣德生兄弟成为面粉大王与棉纱大王；乱世中荣毅仁成为第一号红色资本家并创办中信集团；荣智健将中信泰富推上巅峰，又因澳元杠杆合约巨亏一百五十五亿港元黯然出局。透过这个家族，我们看到中国近现代商业的全部主线，也看到一个永恒命题：财富的创造容易，传承却需要跨越代际、周期与制度的多重考验。</itunes:summary>
+      <itunes:duration>00:04:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-66ff35.mp3" length="1926000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
