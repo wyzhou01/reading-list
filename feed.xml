@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 17:40:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 17:48:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37685,6 +37685,17 @@
       <itunes:duration>00:06:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-470dfa.mp3" length="3101301" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《时间旅行者的妻子》 · 完整版 · 时间旅行者的妻子_-_尼芬格 · 完整讲读</title>
+      <description>《时间旅行者的妻子》是奥德丽·尼芬格的科幻爱情长篇。图书管理员亨利患有慢性时间错位症，会不受控地穿梭于过去与未来，每次出现都赤裸裸、一无所有。妻子克莱尔用一生等待他，而亨利则永远不知道下一秒身在何处。这本书表面是科幻设定，骨子里讲的是：当时间成了最大的第三者，爱还能不能赢？尼芬格没有给出答案，但用亨利那封遗书里的最后一句【我爱你，永永远远，时间没有什么了不起。】，给出了一份诚实的投降书——爱不能赢过时间，但人依然可以选择去爱。这是一本关于缺席与在场、记忆与瞬间、自由意志与命运的书，也是一本关于【如何在不完整里完整地活着】的书。</description>
+      <pubDate>Wed, 14 Oct 2026 17:48:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-c0f1eb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《时间旅行者的妻子》是奥德丽·尼芬格的科幻爱情长篇。图书管理员亨利患有慢性时间错位症，会不受控地穿梭于过去与未来，每次出现都赤裸裸、一无所有。妻子克莱尔用一生等待他，而亨利则永远不知道下一秒身在何处。这本书表面是科幻设定，骨子里讲的是：当时间成了最大的第三者，爱还能不能赢？尼芬格没有给出答案，但用亨利那封遗书里的最后一句【我爱你，永永远远，时间没有什么了不起。】，给出了一份诚实的投降书——爱不能赢过时间，但人依然可以选择去爱。这是一本关于缺席与在场、记忆与瞬间、自由意志与命运的书，也是一本关于【如何在不完整里完整地活着】的书。</itunes:summary>
+      <itunes:duration>00:05:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-c0f1eb.mp3" length="2729735" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
