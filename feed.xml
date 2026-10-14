@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 17:01:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 17:09:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37608,6 +37608,17 @@
       <itunes:duration>00:03:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-f942a2.mp3" length="1552344" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《太阳底下的新鲜事》 · 完整版 · 太阳底下的新鲜事 · 完整讲读</title>
+      <description>《太阳底下的新鲜事》是环境史学家约翰·麦克尼尔对二十世纪环境巨变的全景式回顾。他用岩石圈、大气圈、水文圈、生物圈四重维度揭示：二十世纪人类使用能源的总量是之前一千年的十倍，二氧化碳排放增长十三倍，水用量增长九倍。这一切并非源于战争或革命，而是化石燃料、人口爆炸与消费主义三股力量的合奏。麦克尼尔用『老鼠与鲨鱼』的隐喻警告：把文明赌在『环境永远稳定』前提上的社会，一旦环境改变，调整将极为艰难。他在致中国读者中明确指出，未来全球环境决策的重心将从伦敦、华盛顿转向北京，中国正处在能否跳出西方化石燃料老路的窗口期。这本书既是一份冷静的诊断书，也是一张提醒人类主动改变自己的处方笺。</description>
+      <pubDate>Wed, 14 Oct 2026 17:09:36 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-4e4c9a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《太阳底下的新鲜事》是环境史学家约翰·麦克尼尔对二十世纪环境巨变的全景式回顾。他用岩石圈、大气圈、水文圈、生物圈四重维度揭示：二十世纪人类使用能源的总量是之前一千年的十倍，二氧化碳排放增长十三倍，水用量增长九倍。这一切并非源于战争或革命，而是化石燃料、人口爆炸与消费主义三股力量的合奏。麦克尼尔用『老鼠与鲨鱼』的隐喻警告：把文明赌在『环境永远稳定』前提上的社会，一旦环境改变，调整将极为艰难。他在致中国读者中明确指出，未来全球环境决策的重心将从伦敦、华盛顿转向北京，中国正处在能否跳出西方化石燃料老路的窗口期。这本书既是一份冷静的诊断书，也是一张提醒人类主动改变自己的处方笺。</itunes:summary>
+      <itunes:duration>00:05:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-4e4c9a.mp3" length="2713017" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
