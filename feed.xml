@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 06:38:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 06:46:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37025,6 +37025,17 @@
       <itunes:duration>00:10:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-484d4b.mp3" length="4953696" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《简单的逻辑学》 · 完整版 · 简单的逻辑学 · 完整讲读</title>
+      <description>《简单的逻辑学》是美国哲学教授麦克伦尼写给普通读者的逻辑学入门书。他以一篇关于冰激凌价格的典型逻辑混乱评论开篇，示范了【结论先行、论证缺席】的常见病，进而搭建起一座由五个章节组成的思想实验室：第一章是准备，讲解事实、观念与语言的关系；第二章是原理，确立逻辑推理的基本法则；第三章是工艺，演示如何构建有效的论证；第四、五章是诊断书，剖析非逻辑思维的根源与几十种典型谬误。麦克伦尼反复强调，逻辑学期待的从来不是理论家，而是实践者——在日常对话、阅读、决策中，能够停一停、问一句【你这么说，依据是什么】的普通人。这本书不长，却是一座可以反复回去的思想基础设施。</description>
+      <pubDate>Wed, 14 Oct 2026 06:46:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-a7993c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《简单的逻辑学》是美国哲学教授麦克伦尼写给普通读者的逻辑学入门书。他以一篇关于冰激凌价格的典型逻辑混乱评论开篇，示范了【结论先行、论证缺席】的常见病，进而搭建起一座由五个章节组成的思想实验室：第一章是准备，讲解事实、观念与语言的关系；第二章是原理，确立逻辑推理的基本法则；第三章是工艺，演示如何构建有效的论证；第四、五章是诊断书，剖析非逻辑思维的根源与几十种典型谬误。麦克伦尼反复强调，逻辑学期待的从来不是理论家，而是实践者——在日常对话、阅读、决策中，能够停一停、问一句【你这么说，依据是什么】的普通人。这本书不长，却是一座可以反复回去的思想基础设施。</itunes:summary>
+      <itunes:duration>00:05:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-a7993c.mp3" length="2835479" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
