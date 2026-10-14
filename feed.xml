@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 04:13:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 04:23:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36893,6 +36893,17 @@
       <itunes:duration>00:04:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-4c952a.mp3" length="2234871" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我给故宫修文物》 · 完整版 · 我给故宫修文物 · 完整讲读</title>
+      <description>《我给故宫修文物》是纪录片《我在故宫修文物》的同名图书，由导演萧寒主编，作家绿妖执笔，以口述实录的形式记录了故宫西三所文保科技部六间修复室里十余位顶级修复师的工作与人生。书中既有钟表修复师王津与那座乾隆时期魔术钟跨越百年的对话，也有青铜器修复师王有亮把春秋青铜卣从一百多片碎瓷里一点一点拼回去的手艺，还有裱画室、摹画室、木器室、漆器室诸位匠人的师徒传承。从清宫造办处到今日故宫，这群人是传统中国四大阶层里唯一传承有序的工，是一群一辈子只做一件事的匠人。在一个万物皆可快的时代里，他们用近乎固执的慢，诠释了什么叫择一事终一生。</description>
+      <pubDate>Wed, 14 Oct 2026 04:23:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-0147a2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我给故宫修文物》是纪录片《我在故宫修文物》的同名图书，由导演萧寒主编，作家绿妖执笔，以口述实录的形式记录了故宫西三所文保科技部六间修复室里十余位顶级修复师的工作与人生。书中既有钟表修复师王津与那座乾隆时期魔术钟跨越百年的对话，也有青铜器修复师王有亮把春秋青铜卣从一百多片碎瓷里一点一点拼回去的手艺，还有裱画室、摹画室、木器室、漆器室诸位匠人的师徒传承。从清宫造办处到今日故宫，这群人是传统中国四大阶层里唯一传承有序的工，是一群一辈子只做一件事的匠人。在一个万物皆可快的时代里，他们用近乎固执的慢，诠释了什么叫择一事终一生。</itunes:summary>
+      <itunes:duration>00:02:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-0147a2.mp3" length="1373875" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
