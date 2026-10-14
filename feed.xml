@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 14:46:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 14:56:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37432,6 +37432,17 @@
       <itunes:duration>00:05:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-ec08ee.mp3" length="2760246" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《伪装成独白的爱情》 · 完整版 · 伪装成独白的爱情 · 完整讲读</title>
+      <description>《伪装成独白的爱情》是马洛伊写于一九四五年二战刚结束时的中篇小说。一个离过婚的中年女人在冬天的甜品店里撞见前夫正给金发女服务员打包橘皮蜜饯，前夫手里那只棕色鳄鱼皮钱包是十年前她送给他的。她对着永远不可能真正交心的女友讲了一场独白，把整段婚姻重新讲了一遍——讲她从未真正理解的丈夫，讲她叫拉扎尔的作家朋友如何闯进他们的家、把她丈夫的灵魂整个带走，讲她的孩子死于猩红热，讲她为什么宁可诅咒他生病也不肯承认她还爱他。可是她不知道的是，她以为安全倾诉的独白里，她的【见证人】一直站在甜品店门口听完了她全部的真话。这本书用一个甜品店的场景，写出了所有【不肯认输】的女人最深的痛：她们宁可独自把婚再结一遍，也不肯在对方面前承认【我还爱你】。</description>
+      <pubDate>Wed, 14 Oct 2026 14:56:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-9101c9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《伪装成独白的爱情》是马洛伊写于一九四五年二战刚结束时的中篇小说。一个离过婚的中年女人在冬天的甜品店里撞见前夫正给金发女服务员打包橘皮蜜饯，前夫手里那只棕色鳄鱼皮钱包是十年前她送给他的。她对着永远不可能真正交心的女友讲了一场独白，把整段婚姻重新讲了一遍——讲她从未真正理解的丈夫，讲她叫拉扎尔的作家朋友如何闯进他们的家、把她丈夫的灵魂整个带走，讲她的孩子死于猩红热，讲她为什么宁可诅咒他生病也不肯承认她还爱他。可是她不知道的是，她以为安全倾诉的独白里，她的【见证人】一直站在甜品店门口听完了她全部的真话。这本书用一个甜品店的场景，写出了所有【不肯认输】的女人最深的痛：她们宁可独自把婚再结一遍，也不肯在对方面前承认【我还爱你】。</itunes:summary>
+      <itunes:duration>00:07:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-9101c9.mp3" length="3496272" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
