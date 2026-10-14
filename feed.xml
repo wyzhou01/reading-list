@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 13:32:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 13:39:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37322,6 +37322,17 @@
       <itunes:duration>00:04:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-7d87d1.mp3" length="2324315" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《追时间的人——信息过载时代的知识解决方案》 · 完整版 · 追时间的人：信息过载时代的知识解决方案 · 完整讲读</title>
+      <description>《追时间的人：信息过载时代的知识解决方案》由安人心智科学总监阳志平主编，汇集十四位认知科学、进化心理学、神经科学、谈判学等领域的华人专家，呈现十四个被忽视的隐形维度。德韦克的思维模式告诉我们智力可以成长；吴宝沛的进化视角提醒我们择偶的真正主角是性格；戴俊毅在马普所研究的时间与决策，帮我们在未来、当下、过去之间重建坐标系；王崇巍的谈判三问，把对方的隐形眼镜先摘下来。这本书不是又一摞知识清单，而是一次诚实的提醒：在信息过载的时代，最稀缺的不是更多知识，而是能帮你看见自我盲点的信任过滤器。在开智这个实践社区里，一群追时间的人彼此提问、彼此打磨，让十年后的自己，站在现在看得见的源头。</description>
+      <pubDate>Mon, 12 Oct 2026 15:04:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-dcc8d5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《追时间的人：信息过载时代的知识解决方案》由安人心智科学总监阳志平主编，汇集十四位认知科学、进化心理学、神经科学、谈判学等领域的华人专家，呈现十四个被忽视的隐形维度。德韦克的思维模式告诉我们智力可以成长；吴宝沛的进化视角提醒我们择偶的真正主角是性格；戴俊毅在马普所研究的时间与决策，帮我们在未来、当下、过去之间重建坐标系；王崇巍的谈判三问，把对方的隐形眼镜先摘下来。这本书不是又一摞知识清单，而是一次诚实的提醒：在信息过载的时代，最稀缺的不是更多知识，而是能帮你看见自我盲点的信任过滤器。在开智这个实践社区里，一群追时间的人彼此提问、彼此打磨，让十年后的自己，站在现在看得见的源头。</itunes:summary>
+      <itunes:duration>00:03:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-dcc8d5.mp3" length="1787655" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
