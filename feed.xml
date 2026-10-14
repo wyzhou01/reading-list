@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 16:18:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 16:24:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37553,6 +37553,17 @@
       <itunes:duration>00:05:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-04b04d.mp3" length="2819596" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《牛津通识读本：马基雅维里》 · 完整版 · 牛津通识读本：马基雅维里（中文版） · 完整讲读</title>
+      <description>昆廷·斯金纳这本小书，是把马基雅维里从五百年污名中打捞出来的一次重要努力。他回到十六世纪初佛罗伦萨的真实语境，重读《君主论》与《论李维》，论证这两本看似方向相反的著作其实围绕同一个核心：国家如何在乱世中建立、如何避免腐朽、如何在时运与德性的拉扯中维持长久的自由。马基雅维里主张一种冷峻的政治理性，要求建国者在道德话术与残酷现实之间保有当机立断的能力，同时把这份判断力转化为可延续的制度与公民传统。读完本书，会发现马基雅维里既不是人们口中的邪恶导师，也不是被浪漫化的共和英雄，而是一位在地缘压力、内政分裂与时局剧变中思考国家命运的战略家。</description>
+      <pubDate>Wed, 14 Oct 2026 16:24:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-394303</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>昆廷·斯金纳这本小书，是把马基雅维里从五百年污名中打捞出来的一次重要努力。他回到十六世纪初佛罗伦萨的真实语境，重读《君主论》与《论李维》，论证这两本看似方向相反的著作其实围绕同一个核心：国家如何在乱世中建立、如何避免腐朽、如何在时运与德性的拉扯中维持长久的自由。马基雅维里主张一种冷峻的政治理性，要求建国者在道德话术与残酷现实之间保有当机立断的能力，同时把这份判断力转化为可延续的制度与公民传统。读完本书，会发现马基雅维里既不是人们口中的邪恶导师，也不是被浪漫化的共和英雄，而是一位在地缘压力、内政分裂与时局剧变中思考国家命运的战略家。</itunes:summary>
+      <itunes:duration>00:04:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-394303.mp3" length="2106558" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
