@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 18:26:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 18:32:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37762,6 +37762,17 @@
       <itunes:duration>00:05:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-b136a1.mp3" length="2493170" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《不可不知的世界5000年灾难记录·神奇现象·可怕巧合（套装三册）》 · 完整版 · 不可不知的世界5000年灾难记录_不可不知的世界5000年可怕巧合_不可不知的世界5000年神 · 完整讲读</title>
+      <description>《不可不知的世界五千年灾难记录》、《神奇现象》与《可怕巧合》这套三册合集，把人类五千年的天灾人祸、自然未解之谜与极端偶然事件，编成一份写给普通读者的概率世界生存手册。环航800号班机、切尔诺贝利核灾难、兴登堡号飞艇爆炸，揭示出技术从不消灭风险，只把风险藏进更不起眼的零件里；乔治湖、听命湖、圣泉、二十亿年前的海洋生物体，揭示出每个看似神奇的现象背后，都藏着一个科学尚未抵达的空白；哈雷彗星与马克·吐温的同年同死、双胞胎同日同命、肯尼迪与林肯的百年遥望，揭示出巧合并非命运签名，而是概率世界的日常提醒。三册合在一起，最终拼出的，是同一个答案：人类从来不是世界的主宰，只是在不确定世界里学习与偶然共处的学生。</description>
+      <pubDate>Wed, 14 Oct 2026 18:32:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-3d9c9f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《不可不知的世界五千年灾难记录》、《神奇现象》与《可怕巧合》这套三册合集，把人类五千年的天灾人祸、自然未解之谜与极端偶然事件，编成一份写给普通读者的概率世界生存手册。环航800号班机、切尔诺贝利核灾难、兴登堡号飞艇爆炸，揭示出技术从不消灭风险，只把风险藏进更不起眼的零件里；乔治湖、听命湖、圣泉、二十亿年前的海洋生物体，揭示出每个看似神奇的现象背后，都藏着一个科学尚未抵达的空白；哈雷彗星与马克·吐温的同年同死、双胞胎同日同命、肯尼迪与林肯的百年遥望，揭示出巧合并非命运签名，而是概率世界的日常提醒。三册合在一起，最终拼出的，是同一个答案：人类从来不是世界的主宰，只是在不确定世界里学习与偶然共处的学生。</itunes:summary>
+      <itunes:duration>00:03:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-3d9c9f.mp3" length="1919730" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
