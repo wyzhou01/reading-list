@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 14:01:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 14:07:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37366,6 +37366,17 @@
       <itunes:duration>00:05:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-34aecd.mp3" length="2761918" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《疯长》 · 完整版 · 疯长 · 完整讲读</title>
+      <description>《疯长》把创业公司的增长拆成三段可复制的引擎:前提条件决定能不能起步, 催化剂决定起步后能跑多快, 关键要素决定能不能不坠落。作者肖恩·阿美拉蒂对照研究脸谱网与交友网、优步与来福、麦当劳与白色城堡等二十家公司, 提出一个让人后背发凉的结论:找到市场匹配只是拿到入场券, 从入场到起飞还需要一种叫逃逸速度的能力。这不是抽象的概念, 而是可以被拆解、被学习、被反复打磨的工程系统。读完这本书, 你会知道好想法只是起点, 真正的护城河, 藏在创始人愿景与高素质团队、数据与原则、可借用的平台与可优化的算法之间。</description>
+      <pubDate>Wed, 14 Oct 2026 14:07:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-0f2181</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《疯长》把创业公司的增长拆成三段可复制的引擎:前提条件决定能不能起步, 催化剂决定起步后能跑多快, 关键要素决定能不能不坠落。作者肖恩·阿美拉蒂对照研究脸谱网与交友网、优步与来福、麦当劳与白色城堡等二十家公司, 提出一个让人后背发凉的结论:找到市场匹配只是拿到入场券, 从入场到起飞还需要一种叫逃逸速度的能力。这不是抽象的概念, 而是可以被拆解、被学习、被反复打磨的工程系统。读完这本书, 你会知道好想法只是起点, 真正的护城河, 藏在创始人愿景与高素质团队、数据与原则、可借用的平台与可优化的算法之间。</itunes:summary>
+      <itunes:duration>00:03:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-0f2181.mp3" length="1444929" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
