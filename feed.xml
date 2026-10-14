@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 17:59:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 18:04:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37718,6 +37718,17 @@
       <itunes:duration>00:03:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-859123.mp3" length="1772609" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《古代女生的衣，古代男生的帽·十五言喪無文集》 · 完整版 · 古代女生的衣，古代男生的帽·十五言喪無文集_(果壳·十五言系列) · 完整讲读</title>
+      <description>《古代女生的衣，古代男生的帽》是十五言作者喪無的文史考据文集，以吐槽古装剧为切入点，拆解中国古代服饰背后的生产技术与权力逻辑。全书从布幅制度、植物染料、纺织技术到裤子演变、冠帽制度，证明所谓飘逸华美的古装，本质上是一部由织机、染料、税收和礼制共同书写的中国史。汉朝女子的郁金衣闻着香，代价是千万女性被焊死在织机前；男人的冠冕看着堂皇，反面是社会身份一旦歪斜脑袋就要搬家。这本书不教穿搭，专门教人一眼看穿电视剧里每一件戏服背后的血汗账单。</description>
+      <pubDate>Wed, 14 Oct 2026 18:04:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-38f928</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《古代女生的衣，古代男生的帽》是十五言作者喪無的文史考据文集，以吐槽古装剧为切入点，拆解中国古代服饰背后的生产技术与权力逻辑。全书从布幅制度、植物染料、纺织技术到裤子演变、冠帽制度，证明所谓飘逸华美的古装，本质上是一部由织机、染料、税收和礼制共同书写的中国史。汉朝女子的郁金衣闻着香，代价是千万女性被焊死在织机前；男人的冠冕看着堂皇，反面是社会身份一旦歪斜脑袋就要搬家。这本书不教穿搭，专门教人一眼看穿电视剧里每一件戏服背后的血汗账单。</itunes:summary>
+      <itunes:duration>00:03:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-38f928.mp3" length="1752964" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
