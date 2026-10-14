@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 00:03:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 00:16:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36607,6 +36607,17 @@
       <itunes:duration>00:04:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-865c49.mp3" length="2226094" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《困顿与突围：变化世界中的中东政治》 · 完整版 · 困顿与突围 · 完整讲读</title>
+      <description>《困顿与突围》由长期深耕中东政治的田文林撰写，把阿拉伯文原典与西方战略文件反复比对，揭示中东乱局的深层逻辑：当民族解放的革命能量耗尽，民粹主义的口号往往被权力悄悄兑换成威权统治；没有政党的政体必然是保守的，它只能朝更僵化的方向滑落；国有化和私有化都是险棋，土耳其和伊朗的教训触目惊心；西方推销的民主化常产出更大碎片化，利比亚和叙利亚已是血腥注脚。本书真正要回答的，是所有后发国家绕不开的命题——当一个国家用人民的名义砸碎了旧制度，它靠什么才能真正立起来？这也是中东给所有现代化道路上的国家留下的警钟。</description>
+      <pubDate>Wed, 14 Oct 2026 00:16:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-ddc45f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《困顿与突围》由长期深耕中东政治的田文林撰写，把阿拉伯文原典与西方战略文件反复比对，揭示中东乱局的深层逻辑：当民族解放的革命能量耗尽，民粹主义的口号往往被权力悄悄兑换成威权统治；没有政党的政体必然是保守的，它只能朝更僵化的方向滑落；国有化和私有化都是险棋，土耳其和伊朗的教训触目惊心；西方推销的民主化常产出更大碎片化，利比亚和叙利亚已是血腥注脚。本书真正要回答的，是所有后发国家绕不开的命题——当一个国家用人民的名义砸碎了旧制度，它靠什么才能真正立起来？这也是中东给所有现代化道路上的国家留下的警钟。</itunes:summary>
+      <itunes:duration>00:10:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-ddc45f.mp3" length="5154734" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
