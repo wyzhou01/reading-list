@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 00:16:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 00:23:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36618,6 +36618,17 @@
       <itunes:duration>00:10:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-ddc45f.mp3" length="5154734" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《卡耐基攻心话术》 · 完整版 · 卡耐基攻心话术 · 完整讲读</title>
+      <description>本期《好好读书》拆解《卡耐基攻心话术》，为你提炼这位二十世纪人际关系大师的核心智慧。卡耐基认为，说服的胜负从不在嘴皮，而在人心——了解人性是说服的起点，善用人性的优点能争取良性互动，巧妙驾驭人性的弱点则能不动声色地改变对方，而一切表达的本意就是让人愿意靠近你。本书通过六块拼图讲透攻心：共鸣胜过雄辩，赞美激发善意，倾听打开心门，示弱卸下防线，具体建议让人无法拖延，戏剧化让事实烙印心底，暗示让对方以为这是他自己的主意。学会把人放在心里，才能一句话打开对方心门。</description>
+      <pubDate>Wed, 14 Oct 2026 00:23:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-8fc0e3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期《好好读书》拆解《卡耐基攻心话术》，为你提炼这位二十世纪人际关系大师的核心智慧。卡耐基认为，说服的胜负从不在嘴皮，而在人心——了解人性是说服的起点，善用人性的优点能争取良性互动，巧妙驾驭人性的弱点则能不动声色地改变对方，而一切表达的本意就是让人愿意靠近你。本书通过六块拼图讲透攻心：共鸣胜过雄辩，赞美激发善意，倾听打开心门，示弱卸下防线，具体建议让人无法拖延，戏剧化让事实烙印心底，暗示让对方以为这是他自己的主意。学会把人放在心里，才能一句话打开对方心门。</itunes:summary>
+      <itunes:duration>00:05:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-8fc0e3.mp3" length="2565059" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
