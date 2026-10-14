@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 13:24:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 13:32:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37311,6 +37311,17 @@
       <itunes:duration>00:04:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-06e3ce.mp3" length="2350646" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《小逻辑》 · 完整版 · 小逻辑_(汉译世界学术名著丛书)_-_黑格尔 · 完整讲读</title>
+      <description>《小逻辑》是黑格尔晚年的代表作，也是其整个哲学体系的骨架。它不是形式逻辑的规则手册，而是研究概念如何自我发育的逻辑学。从最空的存在起步，经过本质的中转，最终抵达具体概念这一活的整体；范畴不是固定的抽屉，而是思维自己走路的关节。辩证法不是方法论的三招两式，而是逻辑本身的命脉：一切都像一个吐出来再吞回来的活物，从朴素的有开始，最终走回包含一切、再次起步的具体理念。</description>
+      <pubDate>Wed, 14 Oct 2026 13:32:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-7d87d1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《小逻辑》是黑格尔晚年的代表作，也是其整个哲学体系的骨架。它不是形式逻辑的规则手册，而是研究概念如何自我发育的逻辑学。从最空的存在起步，经过本质的中转，最终抵达具体概念这一活的整体；范畴不是固定的抽屉，而是思维自己走路的关节。辩证法不是方法论的三招两式，而是逻辑本身的命脉：一切都像一个吐出来再吞回来的活物，从朴素的有开始，最终走回包含一切、再次起步的具体理念。</itunes:summary>
+      <itunes:duration>00:04:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-7d87d1.mp3" length="2324315" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
