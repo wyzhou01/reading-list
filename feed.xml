@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 05:57:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 06:03:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36970,6 +36970,17 @@
       <itunes:duration>00:04:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-306080.mp3" length="2353154" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《历史文化的全息图像：论红楼梦》 · 完整版 · 历史文化的全息图像论红楼梦（精装增订版） · 完整讲读</title>
+      <description>本书以审美取代伦理作为解读《红楼梦》的根本视角，跳出红学窠臼，不做考据，只问存在。从灵、梦、情的三维结构出发，论证《红楼梦》承接《山海经》始源神话，回返中国式文艺复兴的源头，并与但丁、歌德、塞万提斯、莎士比亚等西方经典形成惊人对称。一九九八九年，李劼在牢房中同时读完海德格尔《存在与时间》与《红楼梦》，由此发现曹雪芹与海德格尔的相通——审美，在两者不约而同地成了引导人类前行的存在女神。</description>
+      <pubDate>Wed, 14 Oct 2026 06:03:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-5924d1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书以审美取代伦理作为解读《红楼梦》的根本视角，跳出红学窠臼，不做考据，只问存在。从灵、梦、情的三维结构出发，论证《红楼梦》承接《山海经》始源神话，回返中国式文艺复兴的源头，并与但丁、歌德、塞万提斯、莎士比亚等西方经典形成惊人对称。一九九八九年，李劼在牢房中同时读完海德格尔《存在与时间》与《红楼梦》，由此发现曹雪芹与海德格尔的相通——审美，在两者不约而同地成了引导人类前行的存在女神。</itunes:summary>
+      <itunes:duration>00:03:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-5924d1.mp3" length="1882114" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
