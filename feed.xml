@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 04:31:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 04:37:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36915,6 +36915,17 @@
       <itunes:duration>00:05:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-3399ff.mp3" length="2573000" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《火星编年史》 · 完整版 · 火星编年史 · 完整讲读</title>
+      <description>《火星编年史》是布拉德伯里于一九五〇年写就的短篇集，以二十多个彼此呼应的故事，串起人类殖民火星的全过程。它表面上写外星开拓，实则写冷战阴影下的文化乡愁与童年消逝：火箭之夏掀开序幕，伊拉的梦境泄露火星人对地球的先知，Ttt太太拒不开门道出殖民的暴烈，百万年的野餐里父亲带着孩子逃离被自毁的地球，最终在运河的倒影中重新认出自己。布拉德伯里用诗意的笔触，把殖民与反殖民的报应、把童谣与战争的永恒对峙，熔铸成一面耐人寻味的心理镜像——你永远不可能到他乡，除非你先学会不再践踏故乡。</description>
+      <pubDate>Wed, 14 Oct 2026 04:37:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-85d973</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《火星编年史》是布拉德伯里于一九五〇年写就的短篇集，以二十多个彼此呼应的故事，串起人类殖民火星的全过程。它表面上写外星开拓，实则写冷战阴影下的文化乡愁与童年消逝：火箭之夏掀开序幕，伊拉的梦境泄露火星人对地球的先知，Ttt太太拒不开门道出殖民的暴烈，百万年的野餐里父亲带着孩子逃离被自毁的地球，最终在运河的倒影中重新认出自己。布拉德伯里用诗意的笔触，把殖民与反殖民的报应、把童谣与战争的永恒对峙，熔铸成一面耐人寻味的心理镜像——你永远不可能到他乡，除非你先学会不再践踏故乡。</itunes:summary>
+      <itunes:duration>00:03:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-85d973.mp3" length="1493830" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
