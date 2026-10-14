@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 06:09:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 06:15:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36992,6 +36992,17 @@
       <itunes:duration>00:01:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-d831de.mp3" length="957170" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《日本沉没》 · 完整版 · 日本沉没(无删减典藏版)(日本推理作家协会赏-星云赏日本长篇组双冠王。狂销400万册的 · 完整讲读</title>
+      <description>一九七三年，小松左京写下《日本沉没》，预言日本将在数年内沉入海底，引发一亿两千万人集体迁徙。本书不仅是一部灾难科幻，更是一部关于国家机器失灵、科学理性与人文情感角力的寓言。从首相官邸到深海潜艇，从地质学家到普通列车乘客，小松左京用冷静笔触描绘了当故土消亡时，人类如何面对最终的告别。半世纪后，本书因地震、海平面上升等现实议题持续引发共鸣，成为理解日本民族命运与现代国家脆弱性的必读之作。</description>
+      <pubDate>Wed, 14 Oct 2026 06:15:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-562f31</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九七三年，小松左京写下《日本沉没》，预言日本将在数年内沉入海底，引发一亿两千万人集体迁徙。本书不仅是一部灾难科幻，更是一部关于国家机器失灵、科学理性与人文情感角力的寓言。从首相官邸到深海潜艇，从地质学家到普通列车乘客，小松左京用冷静笔触描绘了当故土消亡时，人类如何面对最终的告别。半世纪后，本书因地震、海平面上升等现实议题持续引发共鸣，成为理解日本民族命运与现代国家脆弱性的必读之作。</itunes:summary>
+      <itunes:duration>00:03:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-562f31.mp3" length="1746695" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
