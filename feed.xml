@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 23:49:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 23:55:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37883,6 +37883,17 @@
       <itunes:duration>00:05:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-1ad386.mp3" length="2852197" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大历史的边角料》 · 完整版 · 大历史的边角料 · 完整讲读</title>
+      <description>本书是张鸣的历史随笔集，以义和团、林则徐澳门之行、近代教育转型、戏剧里的权力密码等被正史忽略的边角料为切口，揭示一个核心命题：我们以为记得的历史，从来不是天然长成的样子，而是被不同时代、不同立场的话语反复改写、反复唤醒、反复遗忘的产物。从义和团药方在非典时期的复活，到王大点日记里冷漠的看客样本，再到林则徐在澳门三天的具体观察，张鸣用戏谑而克制的笔法追问——历史是谁在替我们记，又是为了什么在记。当宏大叙事遮蔽了现场，那些散落在缝隙里的边角料，往往才是理解一个民族真实心智的入口。</description>
+      <pubDate>Wed, 14 Oct 2026 23:55:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-6445b9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是张鸣的历史随笔集，以义和团、林则徐澳门之行、近代教育转型、戏剧里的权力密码等被正史忽略的边角料为切口，揭示一个核心命题：我们以为记得的历史，从来不是天然长成的样子，而是被不同时代、不同立场的话语反复改写、反复唤醒、反复遗忘的产物。从义和团药方在非典时期的复活，到王大点日记里冷漠的看客样本，再到林则徐在澳门三天的具体观察，张鸣用戏谑而克制的笔法追问——历史是谁在替我们记，又是为了什么在记。当宏大叙事遮蔽了现场，那些散落在缝隙里的边角料，往往才是理解一个民族真实心智的入口。</itunes:summary>
+      <itunes:duration>00:04:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-6445b9.mp3" length="1976155" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
