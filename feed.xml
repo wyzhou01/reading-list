@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 14:21:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 14:29:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37399,6 +37399,17 @@
       <itunes:duration>00:03:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-a71ed3.mp3" length="1767593" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《晚清最后十八年3：从甲午战争到辛亥革命（第3部）》 · 完整版 · 晚清最后十八年3 · 完整讲读</title>
+      <description>《晚清最后十八年3》聚焦1903至1906年日俄战争与清末立宪改革，黄治军以精密叙事拆解日本何以弱胜强：明治日本以十年备战的反向复利、容错试错的制度、以弱胜强的战术创新，在旅顺、奉天、对马海战连挫俄国；大清朝廷则在这场战争冲击下被迫启动立宪，由袁世凯操盘五大臣出洋、设立责任内阁，最终因触及皇权底线而被慈禧叫停，新一轮党争与革命暗流汹涌，千年帝制走向终局的倒计时已然启动。</description>
+      <pubDate>Wed, 14 Oct 2026 14:29:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-978963</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《晚清最后十八年3》聚焦1903至1906年日俄战争与清末立宪改革，黄治军以精密叙事拆解日本何以弱胜强：明治日本以十年备战的反向复利、容错试错的制度、以弱胜强的战术创新，在旅顺、奉天、对马海战连挫俄国；大清朝廷则在这场战争冲击下被迫启动立宪，由袁世凯操盘五大臣出洋、设立责任内阁，最终因触及皇权底线而被慈禧叫停，新一轮党争与革命暗流汹涌，千年帝制走向终局的倒计时已然启动。</itunes:summary>
+      <itunes:duration>00:04:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-978963.mp3" length="2246574" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
