@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 09:13:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 09:20:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37190,6 +37190,17 @@
       <itunes:duration>00:18:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-0411d0.mp3" length="8850747" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《唐代文化（中）》 · 完整版 · 唐代文化（中） · 完整讲读</title>
+      <description>《唐代文化》中卷跳出唐诗框架，系统揭示盛世背后的三股暗流：道教文学、乐舞、绘画与养生塑造了李唐的精神底色；孔颖达《五经正义》与啖助一脉新春秋学整理并撼动了千年经学；俗讲变文与寺学悲田让佛寺成为唐代社会的实际托底者；诞生、冠笄、婚嫁、丧葬与岁时节日则把朝廷礼仪翻译成了浸透烟火气的民间生活。读懂宗教、学术、礼俗这三张看不见的网，才算真正看懂盛唐。</description>
+      <pubDate>Wed, 14 Oct 2026 09:20:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-f5cc79</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《唐代文化》中卷跳出唐诗框架，系统揭示盛世背后的三股暗流：道教文学、乐舞、绘画与养生塑造了李唐的精神底色；孔颖达《五经正义》与啖助一脉新春秋学整理并撼动了千年经学；俗讲变文与寺学悲田让佛寺成为唐代社会的实际托底者；诞生、冠笄、婚嫁、丧葬与岁时节日则把朝廷礼仪翻译成了浸透烟火气的民间生活。读懂宗教、学术、礼俗这三张看不见的网，才算真正看懂盛唐。</itunes:summary>
+      <itunes:duration>00:04:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-f5cc79.mp3" length="2029235" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
