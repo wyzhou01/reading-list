@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 15:20:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 15:26:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37476,6 +37476,17 @@
       <itunes:duration>00:03:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-9e2a36.mp3" length="1794760" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《婚姻的意义》 · 完整版 · 婚姻的意义 · 完整讲读</title>
+      <description>《婚姻的意义》是纽约牧师提摩太·凯勒与妻子凯西合著的一部婚姻经典。全书以《以弗所书》5章为核心，反驳把婚姻当作满足个人欲望的合同的文化叙事，揭示婚姻是一男一女、一生一世的庄严盟约，其真正使命是映照基督与教会的舍己之爱，并在差异中彼此服侍、塑造灵魂、服务社会。凯勒结合自身三十七年婚姻、数十年都市牧会经验和社会学研究，论证婚姻比同居、单身更利于幸福、经济与品格成熟；爱是动词不是感觉，浪漫需要盟约来持续；婚姻的危机本质上是公共品格危机。本书适合已婚者、未婚者与怀疑者，被无数人视为关于婚姻最深刻、最清醒的现实主义著作。</description>
+      <pubDate>Wed, 14 Oct 2026 15:26:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-ea4f25</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《婚姻的意义》是纽约牧师提摩太·凯勒与妻子凯西合著的一部婚姻经典。全书以《以弗所书》5章为核心，反驳把婚姻当作满足个人欲望的合同的文化叙事，揭示婚姻是一男一女、一生一世的庄严盟约，其真正使命是映照基督与教会的舍己之爱，并在差异中彼此服侍、塑造灵魂、服务社会。凯勒结合自身三十七年婚姻、数十年都市牧会经验和社会学研究，论证婚姻比同居、单身更利于幸福、经济与品格成熟；爱是动词不是感觉，浪漫需要盟约来持续；婚姻的危机本质上是公共品格危机。本书适合已婚者、未婚者与怀疑者，被无数人视为关于婚姻最深刻、最清醒的现实主义著作。</itunes:summary>
+      <itunes:duration>00:03:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-ea4f25.mp3" length="1655580" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
