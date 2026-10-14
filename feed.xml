@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 12:53:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 13:00:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37267,6 +37267,17 @@
       <itunes:duration>00:08:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-6ad04e.mp3" length="3944324" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《必须牺牲卡米尔》 · 完整版 · 必须牺牲卡米尔 · 完整讲读</title>
+      <description>《必须牺牲卡米尔》是法国作家皮耶尔·勒迈特范霍文三部曲的终章。五十岁的巴黎警察卡米尔身高一米四五，爱上了女人安妮。一支漏墨的钢笔、一扇五秒钟之差的门、一场厕所里的偶遇——偶然与必然交织，将两人卷入珠宝店劫案。卡米尔在屏幕上看完了安妮被殴打、被拖行、被枪击的全程。警察的理性在爱面前崩塌，他选择一路走到底，用牺牲作为对命运最后的回答。</description>
+      <pubDate>Wed, 14 Oct 2026 13:00:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-0404c3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《必须牺牲卡米尔》是法国作家皮耶尔·勒迈特范霍文三部曲的终章。五十岁的巴黎警察卡米尔身高一米四五，爱上了女人安妮。一支漏墨的钢笔、一扇五秒钟之差的门、一场厕所里的偶遇——偶然与必然交织，将两人卷入珠宝店劫案。卡米尔在屏幕上看完了安妮被殴打、被拖行、被枪击的全程。警察的理性在爱面前崩塌，他选择一路走到底，用牺牲作为对命运最后的回答。</itunes:summary>
+      <itunes:duration>00:03:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-0404c3.mp3" length="1782640" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
