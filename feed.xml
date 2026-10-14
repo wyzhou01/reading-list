@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 03:25:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 03:32:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36827,6 +36827,17 @@
       <itunes:duration>00:03:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-79f152.mp3" length="1618800" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《徐老虎与白寡妇》 · 完整版 · 高阳_-_徐老虎与白寡妇 · 完整讲读</title>
+      <description>高阳《徐老虎与白寡妇》以一八九五年前后两江盐政为背景,拆解晚清最离奇的一桩官匪公案:三十出头的白寡妇执掌长江沿岸最大私盐帝国,徐老虎替她掌管打手,两江总督刘坤一为凑《马关条约》巨额赔款,被迫借刀杀人,启用被白寡妇亲手扳倒的三品参将李振标,反过来剿她。本书层层揭开官匪互为人质的灰色秩序:朝廷剿匪则伤王法,纵容盐枭则伤国本;白寡妇的真正厉害不是狠而是示弱,李振标的为难是所有中层执行者的共同死结,徐老虎之死揭开了江湖伦理与现代国家机器的根本冲突。卿本佳人,奈何作贼——这一声叹,问的不是某个枭雄,问的是让所有人都不得不作贼的系统本身。</description>
+      <pubDate>Wed, 14 Oct 2026 03:32:06 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-8b5c75</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>高阳《徐老虎与白寡妇》以一八九五年前后两江盐政为背景,拆解晚清最离奇的一桩官匪公案:三十出头的白寡妇执掌长江沿岸最大私盐帝国,徐老虎替她掌管打手,两江总督刘坤一为凑《马关条约》巨额赔款,被迫借刀杀人,启用被白寡妇亲手扳倒的三品参将李振标,反过来剿她。本书层层揭开官匪互为人质的灰色秩序:朝廷剿匪则伤王法,纵容盐枭则伤国本;白寡妇的真正厉害不是狠而是示弱,李振标的为难是所有中层执行者的共同死结,徐老虎之死揭开了江湖伦理与现代国家机器的根本冲突。卿本佳人,奈何作贼——这一声叹,问的不是某个枭雄,问的是让所有人都不得不作贼的系统本身。</itunes:summary>
+      <itunes:duration>00:03:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-8b5c75.mp3" length="1633846" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
