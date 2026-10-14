@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 12:30:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 12:36:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37234,6 +37234,17 @@
       <itunes:duration>00:04:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-a9d700.mp3" length="1971557" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《莫雷尔的发明》 · 完整版 · 莫雷尔的发明_-_卡萨雷斯 · 完整讲读</title>
+      <description>《莫雷尔的发明》是阿根廷作家阿道夫·比奥伊·卡萨雷斯一九四零年的代表作，博尔赫斯亲笔作序并盛赞【用完美二字评价并不过分】。小说讲述一个逃亡者躲进太平洋神秘孤岛，发现莫雷尔发明的机器正在无声循环播放一群人一周前的全部生活，他爱上影像里名叫福斯蒂妮的女人，却发现莫雷尔正是为把她永远囚禁在自己的注视中而杀死了她。最后逃亡者取代莫雷尔，录下自己与众人相处的一周，让自己的形象永远陪伴她，而肉体则在孤独中慢慢烂死在沼泽边。这不是科幻小说，而是一则关于时间、占有与永恒之爱的疯狂寓言——卡萨雷斯用这台不可能的机器，照出每个时代里那些愿意为爱按下暂停键的人。</description>
+      <pubDate>Wed, 14 Oct 2026 12:36:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-9f734e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《莫雷尔的发明》是阿根廷作家阿道夫·比奥伊·卡萨雷斯一九四零年的代表作，博尔赫斯亲笔作序并盛赞【用完美二字评价并不过分】。小说讲述一个逃亡者躲进太平洋神秘孤岛，发现莫雷尔发明的机器正在无声循环播放一群人一周前的全部生活，他爱上影像里名叫福斯蒂妮的女人，却发现莫雷尔正是为把她永远囚禁在自己的注视中而杀死了她。最后逃亡者取代莫雷尔，录下自己与众人相处的一周，让自己的形象永远陪伴她，而肉体则在孤独中慢慢烂死在沼泽边。这不是科幻小说，而是一则关于时间、占有与永恒之爱的疯狂寓言——卡萨雷斯用这台不可能的机器，照出每个时代里那些愿意为爱按下暂停键的人。</itunes:summary>
+      <itunes:duration>00:03:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-9f734e.mp3" length="1458721" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
