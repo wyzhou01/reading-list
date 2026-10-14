@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 04:37:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 04:42:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36926,6 +36926,17 @@
       <itunes:duration>00:03:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-85d973.mp3" length="1493830" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《泰戈尔抒情诗选（译文名著精选）》 · 完整版 · 泰戈尔抒情诗选（译文名著精选） · 完整讲读</title>
+      <description>《泰戈尔抒情诗选（译文名著精选）》由吴岩先生自一九八六年精心编选译出，涵盖了泰戈尔前期至晚期最具代表性的抒情诗作。本书以《园丁集》的人生与爱情抒情为重点，辅以《飞鸟集》睿智的哲理小诗、《吉檀迦利》深沉的神性吟唱，以及泰戈尔晚年直面殖民压迫、战争与生死的政治抒情。读者可通过本书领悟泰戈尔以印度古代梵我合一哲学为底色、以人为本的泛神论思想，领会其『让对立面互相成就』的和谐与韵律观；并最终看见，这位诺贝尔文学奖得主如何在破碎的二十世纪，写出一种近乎奢侈的温柔。</description>
+      <pubDate>Wed, 14 Oct 2026 04:42:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-f62b07</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《泰戈尔抒情诗选（译文名著精选）》由吴岩先生自一九八六年精心编选译出，涵盖了泰戈尔前期至晚期最具代表性的抒情诗作。本书以《园丁集》的人生与爱情抒情为重点，辅以《飞鸟集》睿智的哲理小诗、《吉檀迦利》深沉的神性吟唱，以及泰戈尔晚年直面殖民压迫、战争与生死的政治抒情。读者可通过本书领悟泰戈尔以印度古代梵我合一哲学为底色、以人为本的泛神论思想，领会其『让对立面互相成就』的和谐与韵律观；并最终看见，这位诺贝尔文学奖得主如何在破碎的二十世纪，写出一种近乎奢侈的温柔。</itunes:summary>
+      <itunes:duration>00:02:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-f62b07.mp3" length="1239711" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
