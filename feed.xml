@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 16:38:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 16:55:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37586,6 +37586,17 @@
       <itunes:duration>00:04:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-193972.mp3" length="2115335" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《樱花秘密基地》 · 完整版 · 樱花秘密基地 · 完整讲读</title>
+      <description>《樱花秘密基地》是日本作家朱川湊人的代表短篇集，收录六个发生在昭和年代东京下町的故事。书中的主角大多是失去所爱、被生活压弯的普通人：在卡车里度过童年的四个少年，在地铁里撞见恐怖传闻的上班族，在相册里翻出光阴流逝的老人，以及一个与养子相依为命的粗犷男人。他们失去所爱，被生活压弯，却总在某个瞬间笨拙地伸出手去，护住身边最后一点温暖。这是一本写给所有再也回不去的旧日時光的情书。</description>
+      <pubDate>Wed, 14 Oct 2026 16:55:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-e05ff9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《樱花秘密基地》是日本作家朱川湊人的代表短篇集，收录六个发生在昭和年代东京下町的故事。书中的主角大多是失去所爱、被生活压弯的普通人：在卡车里度过童年的四个少年，在地铁里撞见恐怖传闻的上班族，在相册里翻出光阴流逝的老人，以及一个与养子相依为命的粗犷男人。他们失去所爱，被生活压弯，却总在某个瞬间笨拙地伸出手去，护住身边最后一点温暖。这是一本写给所有再也回不去的旧日時光的情书。</itunes:summary>
+      <itunes:duration>00:05:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-e05ff9.mp3" length="2419609" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
