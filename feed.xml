@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 15:12:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 15:20:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37465,6 +37465,17 @@
       <itunes:duration>00:06:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-b75d14.mp3" length="2888142" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我有个好故事，就要你一碗酒》 · 完整版 · 我有个好故事，就要你一碗酒_ · 完整讲读</title>
+      <description>《我有个好故事，就要你一碗酒》是金融圈打工程序员李淳二十五岁至二十九岁间在社交网络上写下的故事集。马伯庸作序评价其以众生之眼平视众生，不提炼，不升华，只静静地看。全书没有主角，只有驻外华为工程师翻海龟、富二代在工地画图、失恋男人注销前任酒店会员卡等一个个活生生的人。他把孤独写成市井，把兄弟写成生死，把读者当成可以交换灵魂的兄弟。怂是这本书的第一生产力，平视是这本书的最高姿态，而那碗酒，是你我之间最古老的契约。</description>
+      <pubDate>Wed, 14 Oct 2026 15:20:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-9e2a36</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我有个好故事，就要你一碗酒》是金融圈打工程序员李淳二十五岁至二十九岁间在社交网络上写下的故事集。马伯庸作序评价其以众生之眼平视众生，不提炼，不升华，只静静地看。全书没有主角，只有驻外华为工程师翻海龟、富二代在工地画图、失恋男人注销前任酒店会员卡等一个个活生生的人。他把孤独写成市井，把兄弟写成生死，把读者当成可以交换灵魂的兄弟。怂是这本书的第一生产力，平视是这本书的最高姿态，而那碗酒，是你我之间最古老的契约。</itunes:summary>
+      <itunes:duration>00:03:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-9e2a36.mp3" length="1794760" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
