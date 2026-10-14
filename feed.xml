@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 01:48:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 01:58:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36717,6 +36717,17 @@
       <itunes:duration>00:03:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-714bd7.mp3" length="1820256" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《江苏社科名家文库·张宪文卷》 · 完整版 · 江苏社科名家文库·张宪文卷 · 完整讲读</title>
+      <description>本书是首届江苏社科名家、南京大学历史学院教授张宪文的学术自传。从一九四二年山东泰安家中被日寇闯入的童年记忆讲起，回顾他如何从体操运动员误入历史之门，在民国史、抗日战争史、南京大屠杀史三大领域深耕六十余年。全书重点呈现以他为首的一百一十人团队历时十年、跨越七国搜集四千余万字史料，最终编纂《南京大屠杀史料集》七十二卷的学术工程，以及由此推动国家公祭设立的历程。一位历史学家用一生回答:史学究竟该以何种方式为民族留证。</description>
+      <pubDate>Wed, 14 Oct 2026 01:58:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-d88397</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是首届江苏社科名家、南京大学历史学院教授张宪文的学术自传。从一九四二年山东泰安家中被日寇闯入的童年记忆讲起，回顾他如何从体操运动员误入历史之门，在民国史、抗日战争史、南京大屠杀史三大领域深耕六十余年。全书重点呈现以他为首的一百一十人团队历时十年、跨越七国搜集四千余万字史料，最终编纂《南京大屠杀史料集》七十二卷的学术工程，以及由此推动国家公祭设立的历程。一位历史学家用一生回答:史学究竟该以何种方式为民族留证。</itunes:summary>
+      <itunes:duration>00:07:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-d88397.mp3" length="3606613" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
