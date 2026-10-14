@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 16:00:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 16:09:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37542,6 +37542,17 @@
       <itunes:duration>00:03:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-6e402e.mp3" length="1841154" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《群山之巅》 · 完整版 · 群山之巅 · 完整讲读</title>
+      <description>《群山之巅》是迟子建二零一四年的苍凉之作，以中国北方龙盏镇为舞台，写一群卑微的人在群山之间挣扎求生的故事。屠夫辛七杂用凸透镜取天火点烟，养子辛欣来却用闲置的斩马刀斩杀了养母；法警安平三十多年处决了四十多个死刑犯，自己的侏儒女儿却被逃兵之子奸污；九十岁的辛开溜一辈子背着逃兵的污名，连亲生儿子都不信他。当火葬新规、死刑执行方式改变等时代震荡袭来，旧伦理崩塌，新秩序未立，一群被历史和命运亏欠过的小人物，在爱与痛、罪与罚之间，活成了自己的英雄。迟子建用倒叙缝合当下与历史，写出了中国乡村最暗的褶皱里，那些不曾被表彰却依然挺立的灵魂。</description>
+      <pubDate>Wed, 14 Oct 2026 16:09:38 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-04b04d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《群山之巅》是迟子建二零一四年的苍凉之作，以中国北方龙盏镇为舞台，写一群卑微的人在群山之间挣扎求生的故事。屠夫辛七杂用凸透镜取天火点烟，养子辛欣来却用闲置的斩马刀斩杀了养母；法警安平三十多年处决了四十多个死刑犯，自己的侏儒女儿却被逃兵之子奸污；九十岁的辛开溜一辈子背着逃兵的污名，连亲生儿子都不信他。当火葬新规、死刑执行方式改变等时代震荡袭来，旧伦理崩塌，新秩序未立，一群被历史和命运亏欠过的小人物，在爱与痛、罪与罚之间，活成了自己的英雄。迟子建用倒叙缝合当下与历史，写出了中国乡村最暗的褶皱里，那些不曾被表彰却依然挺立的灵魂。</itunes:summary>
+      <itunes:duration>00:05:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-04b04d.mp3" length="2819596" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
