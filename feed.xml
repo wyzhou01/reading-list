@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 13:46:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 13:52:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37344,6 +37344,17 @@
       <itunes:duration>00:04:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-c5ce05.mp3" length="2047626" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《来自12个星球的敌人》 · 完整版 · 来自12个星球的敌人 · 完整讲读</title>
+      <description>七十五岁生日那天，老人佩里先给亡妻上了坟，再签下一份再也回不了地球的合同——用十年战场换一具年轻的身体。斯卡尔齐以冷静笔触解剖衰老、死亡、身份与忠诚：当人类平均寿命逼近九十，多出的全是带病的暮年，与其困在地球等死，不如把后半生卖给殖民防卫军。离开前他与儿子和解、与旧人生告别；踏出豆杆轿厢时，他被法律宣告死亡，而远处十几个外星种族正等着他。这是一本披着太空甲胄的中年之书，写给每一个正与人生做最后清账的成年人。</description>
+      <pubDate>Wed, 14 Oct 2026 13:52:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-2fc9d1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>七十五岁生日那天，老人佩里先给亡妻上了坟，再签下一份再也回不了地球的合同——用十年战场换一具年轻的身体。斯卡尔齐以冷静笔触解剖衰老、死亡、身份与忠诚：当人类平均寿命逼近九十，多出的全是带病的暮年，与其困在地球等死，不如把后半生卖给殖民防卫军。离开前他与儿子和解、与旧人生告别；踏出豆杆轿厢时，他被法律宣告死亡，而远处十几个外星种族正等着他。这是一本披着太空甲胄的中年之书，写给每一个正与人生做最后清账的成年人。</itunes:summary>
+      <itunes:duration>00:02:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-2fc9d1.mp3" length="1440331" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
