@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 04:47:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 04:54:09 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36948,6 +36948,17 @@
       <itunes:duration>00:03:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-66c01f.mp3" length="1469588" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中国社会各阶层分析》 · 完整版 · 中国社会各阶层分析 · 完整讲读</title>
+      <description>梁晓声在《中国社会各阶层分析》中，用镜头逐一审视资产者、买办、中产、知识分子、城市贫民、农民、农民工与黑灰社会，给时代拍下一张分层 X 光片，回答的不是谁富谁穷，而是一个社会把人分成这么多层之后，人文与良知还能不能在每一层活下去。他用《刘文学》《千万不要忘记》《雷锋日记》等作品，揭开 1949 年后十七年与文革十年中文学失去贫穷、失去同情、失去自省的真相；又用毛毛虫凯蒂、《苦儿流浪记》、谷文昌的故事，告诉我们补课之路漫长且补课所需；与三个敌人技术主义、商业主义、官僚主义对峙。他给这一代中国人最重的嘱托是：唯其难，故当持久化之——这条人文的河流，断过一次，不能再断第二次。</description>
+      <pubDate>Wed, 14 Oct 2026 04:54:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-186f46</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>梁晓声在《中国社会各阶层分析》中，用镜头逐一审视资产者、买办、中产、知识分子、城市贫民、农民、农民工与黑灰社会，给时代拍下一张分层 X 光片，回答的不是谁富谁穷，而是一个社会把人分成这么多层之后，人文与良知还能不能在每一层活下去。他用《刘文学》《千万不要忘记》《雷锋日记》等作品，揭开 1949 年后十七年与文革十年中文学失去贫穷、失去同情、失去自省的真相；又用毛毛虫凯蒂、《苦儿流浪记》、谷文昌的故事，告诉我们补课之路漫长且补课所需；与三个敌人技术主义、商业主义、官僚主义对峙。他给这一代中国人最重的嘱托是：唯其难，故当持久化之——这条人文的河流，断过一次，不能再断第二次。</itunes:summary>
+      <itunes:duration>00:03:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-186f46.mp3" length="1712422" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
