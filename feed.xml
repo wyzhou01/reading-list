@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 17:53:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 17:59:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37707,6 +37707,17 @@
       <itunes:duration>00:02:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-e93240.mp3" length="1185794" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《茨威格集(01)一个陌生女人的来信》 · 完整版 · 茨威格集(01)一个陌生女人的来信 · 完整讲读</title>
+      <description>本书收录了茨威格在二十世纪两次大战之间完成的多篇心理小说，以《一个陌生女人的来信》为代表作。一个十三岁的维也纳少女偶然撞见邻家作家的书房，便把自己的一生交付给了这一眼。她从不开口求认领，只在作家生日时送去一束白玫瑰。直至她死去，一封长信才将这段暗恋完整摊开。茨威格以极端的第一人称视角与精确到极致的心理描摹，写出了激情如何在不对等的阶级结构里自我燃烧、又如何被中产阶级的体面所绞杀。这不仅是一份爱情的解剖报告，也是一位即将告别世界的作家，对一个行将毁灭的文明的最后凝视。</description>
+      <pubDate>Wed, 14 Oct 2026 17:59:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-859123</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书收录了茨威格在二十世纪两次大战之间完成的多篇心理小说，以《一个陌生女人的来信》为代表作。一个十三岁的维也纳少女偶然撞见邻家作家的书房，便把自己的一生交付给了这一眼。她从不开口求认领，只在作家生日时送去一束白玫瑰。直至她死去，一封长信才将这段暗恋完整摊开。茨威格以极端的第一人称视角与精确到极致的心理描摹，写出了激情如何在不对等的阶级结构里自我燃烧、又如何被中产阶级的体面所绞杀。这不仅是一份爱情的解剖报告，也是一位即将告别世界的作家，对一个行将毁灭的文明的最后凝视。</itunes:summary>
+      <itunes:duration>00:03:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-859123.mp3" length="1772609" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
