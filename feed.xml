@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 06:46:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 06:54:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37036,6 +37036,17 @@
       <itunes:duration>00:05:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-a7993c.mp3" length="2835479" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我不喜欢这世界，我只喜欢你》 · 完整版 · 我不喜欢这世界，我只喜欢你_-_乔一 · 完整讲读</title>
+      <description>《我不喜欢这世界，我只喜欢你》是乔一写下的一部不到两百页的爱情随笔，讲述她与摩羯座男生F君从高中同桌到婚后相伴的故事。她曾因手术背部失去知觉，F君在课堂尴尬时替她写下答案；她鼓起勇气发出的生日祝福，只换来客套的两个字，多年后却在他旧诺基亚的短信草稿箱里，发现几十条没发出去的『我好想你』。这本书不写爱情有多浪漫，而写当世界什么都善变，眼前这个人，为什么值得你相信永远——答案是那些沉默的深夜、被看见的脆弱、堵车时突如其来的我爱你、还有那句『要一起走到九十岁才算真正的美满，现在还不算』。</description>
+      <pubDate>Wed, 14 Oct 2026 06:54:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-fe51f7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我不喜欢这世界，我只喜欢你》是乔一写下的一部不到两百页的爱情随笔，讲述她与摩羯座男生F君从高中同桌到婚后相伴的故事。她曾因手术背部失去知觉，F君在课堂尴尬时替她写下答案；她鼓起勇气发出的生日祝福，只换来客套的两个字，多年后却在他旧诺基亚的短信草稿箱里，发现几十条没发出去的『我好想你』。这本书不写爱情有多浪漫，而写当世界什么都善变，眼前这个人，为什么值得你相信永远——答案是那些沉默的深夜、被看见的脆弱、堵车时突如其来的我爱你、还有那句『要一起走到九十岁才算真正的美满，现在还不算』。</itunes:summary>
+      <itunes:duration>00:03:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-fe51f7.mp3" length="1760488" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
