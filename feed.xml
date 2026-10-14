@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 18:04:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 18:12:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37729,6 +37729,17 @@
       <itunes:duration>00:03:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-38f928.mp3" length="1752964" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《终结的感觉》 · 完整版 · 终结的感觉_-_（英）朱利安巴恩斯 · 完整讲读</title>
+      <description>《终结的感觉》是一部关于记忆、悔恨与责任的小说。退休老人托尼忽然收到旧日女友母亲的遗产与一卷旧日同学的日记，被迫重审自己以为早已盖章的青春。巴恩斯借一个英国中产男人的六十年人生账单，逼问每一个读者：你以为你记得的，真的是发生过的事吗？全书最锋利的一刀，不是记忆会骗人——而是记忆骗你的时候，你总在签字同意。</description>
+      <pubDate>Wed, 14 Oct 2026 18:12:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-551b42</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《终结的感觉》是一部关于记忆、悔恨与责任的小说。退休老人托尼忽然收到旧日女友母亲的遗产与一卷旧日同学的日记，被迫重审自己以为早已盖章的青春。巴恩斯借一个英国中产男人的六十年人生账单，逼问每一个读者：你以为你记得的，真的是发生过的事吗？全书最锋利的一刀，不是记忆会骗人——而是记忆骗你的时候，你总在签字同意。</itunes:summary>
+      <itunes:duration>00:05:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-551b42.mp3" length="2804968" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
