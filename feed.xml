@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 17:31:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 17:40:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37674,6 +37674,17 @@
       <itunes:duration>00:05:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-067d3b.mp3" length="2783652" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《焚书之书》 · 完整版 · 焚书之书 · 完整讲读</title>
+      <description>《焚书之书》是一份长达二十三章的悼词，也是一份长达二十三章的反叛名单。德国作家魏德曼追踪了一九三三年五月十日纳粹焚书之夜那份一百三十一个名字的黑名单，找回了被历史抹去的九十年沉默。书中讲述了流亡者在布拉格咖啡馆里的写作、被禁作家如何把【被焚】变成广告、那些连墓碑都没有留下的无名作家。火可以烧掉纸，但烧不掉句子；可以流放一个人，但流放不了他的声音。九十年的沉默之后，这本书把火堆，重新点燃。</description>
+      <pubDate>Wed, 14 Oct 2026 17:40:40 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-470dfa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《焚书之书》是一份长达二十三章的悼词，也是一份长达二十三章的反叛名单。德国作家魏德曼追踪了一九三三年五月十日纳粹焚书之夜那份一百三十一个名字的黑名单，找回了被历史抹去的九十年沉默。书中讲述了流亡者在布拉格咖啡馆里的写作、被禁作家如何把【被焚】变成广告、那些连墓碑都没有留下的无名作家。火可以烧掉纸，但烧不掉句子；可以流放一个人，但流放不了他的声音。九十年的沉默之后，这本书把火堆，重新点燃。</itunes:summary>
+      <itunes:duration>00:06:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-470dfa.mp3" length="3101301" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
