@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 19:37:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 23:49:30 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37872,6 +37872,17 @@
       <itunes:duration>00:05:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-0b026c.mp3" length="2515322" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《尤利西斯》 · 完整版 · 尤利西斯_-_[爱尔兰]詹姆斯·乔伊斯著_金隄（译者） · 完整讲读</title>
+      <description>1904年6月16日一天之内，都柏林小市民 Leopold Bloom 在城中游荡、吃饭、闲逛、思索，与青年艺术家 Stephen Dedalus 相遇。意识流手法细致刻画日常意识、感官、回忆与内心独白；以荷马《奥德赛》结构为隐形骨架，融合犹太—爱尔兰双重身份、现代生活的卑微与崇高，被誉为二十世纪最伟大的英语小说。</description>
+      <pubDate>Wed, 14 Oct 2026 23:49:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-1ad386</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>1904年6月16日一天之内，都柏林小市民 Leopold Bloom 在城中游荡、吃饭、闲逛、思索，与青年艺术家 Stephen Dedalus 相遇。意识流手法细致刻画日常意识、感官、回忆与内心独白；以荷马《奥德赛》结构为隐形骨架，融合犹太—爱尔兰双重身份、现代生活的卑微与崇高，被誉为二十世纪最伟大的英语小说。</itunes:summary>
+      <itunes:duration>00:05:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-1ad386.mp3" length="2852197" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
