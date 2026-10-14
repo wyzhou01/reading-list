@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 03:53:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 04:01:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36871,6 +36871,17 @@
       <itunes:duration>00:03:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-f09640.mp3" length="1461229" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《霍布斯鲍姆自传：趣味横生的20世纪》 · 完整版 · 霍布斯鲍姆自传(1) · 完整讲读</title>
+      <description>《霍布斯鲍姆自传》是一位终生不渝却非典型的共产主义历史学家，在七十七岁那年对所处时代的坦然交代。霍布斯鲍姆选择以一张一九二二年维也纳的老照片为楔子，借两个家庭七十年间离散又重逢的故事，串起自己从亚历山大港到维也纳、柏林、剑桥、伦敦的二十世纪人生。全书拒绝忏悔、拒绝辩解，转而以历史学家的客观冷静，去处理法西斯主义、斯大林主义、殖民体系瓦解与冷战等重大事件。书中既有对童年集邮与通货膨胀的微观回忆，也有对美利坚帝国前景的反事实演练；它既是《极端的年代》的对照面，也是一位历史学家在理想幻灭后，最诚实的姿态示范。</description>
+      <pubDate>Wed, 14 Oct 2026 04:01:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-017882</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《霍布斯鲍姆自传》是一位终生不渝却非典型的共产主义历史学家，在七十七岁那年对所处时代的坦然交代。霍布斯鲍姆选择以一张一九二二年维也纳的老照片为楔子，借两个家庭七十年间离散又重逢的故事，串起自己从亚历山大港到维也纳、柏林、剑桥、伦敦的二十世纪人生。全书拒绝忏悔、拒绝辩解，转而以历史学家的客观冷静，去处理法西斯主义、斯大林主义、殖民体系瓦解与冷战等重大事件。书中既有对童年集邮与通货膨胀的微观回忆，也有对美利坚帝国前景的反事实演练；它既是《极端的年代》的对照面，也是一位历史学家在理想幻灭后，最诚实的姿态示范。</itunes:summary>
+      <itunes:duration>00:02:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-017882.mp3" length="1247652" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
