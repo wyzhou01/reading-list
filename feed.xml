@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 12:36:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 12:42:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37245,6 +37245,17 @@
       <itunes:duration>00:03:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-9f734e.mp3" length="1458721" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《美国博物馆：创新者和先驱》 · 完整版 · 美国博物馆：创新者和先驱 · 完整讲读</title>
+      <description>本书由美国博物馆协会前主席、博物馆学先驱爱德华·亚历山大撰写，回顾十三位美国博物馆奠基者如何将私人收藏改造为公共教育机构。从奥斯本打造自然历史博物馆典范，到埃克利开创生境群展、肯特推动艺术博物馆标准化、巴尔将现代艺术引入殿堂，再到思韦茨、阿普尔顿、奥本海默、盖洛普、基纳德、科菲、萨金特、霍纳迪、萨克斯等人在历史保护、科学普及、儿童教育、社区服务、植物园、动物园和人才培养上的开拓，亚历山大揭示了一条贯穿始终的信念：博物馆的价值不在藏品之多，而在能否成为每一个走进教室的人都可以被平等对待的课堂。这是一部写给所有关心公共文化的读者的美国博物馆精神奠基史。</description>
+      <pubDate>Wed, 14 Oct 2026 12:42:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-c87f75</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书由美国博物馆协会前主席、博物馆学先驱爱德华·亚历山大撰写，回顾十三位美国博物馆奠基者如何将私人收藏改造为公共教育机构。从奥斯本打造自然历史博物馆典范，到埃克利开创生境群展、肯特推动艺术博物馆标准化、巴尔将现代艺术引入殿堂，再到思韦茨、阿普尔顿、奥本海默、盖洛普、基纳德、科菲、萨金特、霍纳迪、萨克斯等人在历史保护、科学普及、儿童教育、社区服务、植物园、动物园和人才培养上的开拓，亚历山大揭示了一条贯穿始终的信念：博物馆的价值不在藏品之多，而在能否成为每一个走进教室的人都可以被平等对待的课堂。这是一部写给所有关心公共文化的读者的美国博物馆精神奠基史。</itunes:summary>
+      <itunes:duration>00:03:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-c87f75.mp3" length="1708243" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
