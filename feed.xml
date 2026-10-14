@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 18:45:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 18:51:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37795,6 +37795,17 @@
       <itunes:duration>00:03:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-bb0e8e.mp3" length="1701137" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《时机管理》 · 完整版 · 时机管理：完美时机的隐秘模式 · 完整讲读</title>
+      <description>《时机管理》揭示了一个被严重低估的真相：何时做某件事，往往比如何做更重要。作者丹尼尔·平克汇集七百多项跨学科研究，证明时机不是直觉，而是一门可学习的规律：日内节律决定一天的最佳安排，项目节律决定起点、中点与终点的心理塑造力，群体同步决定归属感与意义感。掌握时机科学，你就能更聪明地工作，更充实地生活。</description>
+      <pubDate>Wed, 14 Oct 2026 18:51:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-3fe3fc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《时机管理》揭示了一个被严重低估的真相：何时做某件事，往往比如何做更重要。作者丹尼尔·平克汇集七百多项跨学科研究，证明时机不是直觉，而是一门可学习的规律：日内节律决定一天的最佳安排，项目节律决定起点、中点与终点的心理塑造力，群体同步决定归属感与意义感。掌握时机科学，你就能更聪明地工作，更充实地生活。</itunes:summary>
+      <itunes:duration>00:04:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-3fe3fc.mp3" length="2013771" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
