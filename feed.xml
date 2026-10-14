@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 17:22:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 17:25:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37641,6 +37641,17 @@
       <itunes:duration>00:03:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-ecbb34.mp3" length="1502607" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《行走在非洲丛林》 · 完整版 · 行走在非洲丛林 · 完整讲读</title>
+      <description>《行走在非洲丛林》是史怀哲一九一三至一九一七年间在加蓬兰巴雷内亲手建医院、做手术、埋葬病人的第一手记录。这位哲学与神学双博士、一九五二年诺贝尔和平奖得主，从欧洲音乐厅的聚光灯下走入赤道丛林，只为回答一个问题——白人对非洲到底欠下多少债，又该如何用一生去偿还。本书以冷静的笔触记录了殖民掠夺、奴隶贸易、烈酒与疾病对非洲的摧残，更以鸡舍里的手术刀重新定义了【文明】二字：在史怀哲看来，文明不是知识的炫耀，而是把所拥有的东西去减轻另一个生命的痛苦；对非洲的援助不是慈善，而是赎罪；医学最深的人道底色，不是同情，而是从共同的痛苦中领悟出来的兄弟之情。</description>
+      <pubDate>Wed, 14 Oct 2026 17:24:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-a3d68e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《行走在非洲丛林》是史怀哲一九一三至一九一七年间在加蓬兰巴雷内亲手建医院、做手术、埋葬病人的第一手记录。这位哲学与神学双博士、一九五二年诺贝尔和平奖得主，从欧洲音乐厅的聚光灯下走入赤道丛林，只为回答一个问题——白人对非洲到底欠下多少债，又该如何用一生去偿还。本书以冷静的笔触记录了殖民掠夺、奴隶贸易、烈酒与疾病对非洲的摧残，更以鸡舍里的手术刀重新定义了【文明】二字：在史怀哲看来，文明不是知识的炫耀，而是把所拥有的东西去减轻另一个生命的痛苦；对非洲的援助不是慈善，而是赎罪；医学最深的人道底色，不是同情，而是从共同的痛苦中领悟出来的兄弟之情。</itunes:summary>
+      <itunes:duration>00:07:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-a3d68e.mp3" length="3459492" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
