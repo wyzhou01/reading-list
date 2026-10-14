@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 01:58:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 02:11:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36728,6 +36728,17 @@
       <itunes:duration>00:07:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-d88397.mp3" length="3606613" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《缤纷的生命》 · 完整版 · 缤纷的生命 · 完整讲读</title>
+      <description>《缤纷的生命》是哈佛生物学家爱德华·威尔逊写给大众的生物多样性宣言。他用亲历的亚马孙田野与一生积累的数据证明：地球上已命名的物种仅约一百九十万，未知种类却可能多达五百万至五千万。理解这些尚未被命名的生命，是人类自救的关键。书中揭示了生物多样性在基因、物种、生态系统三个层次上的不可替代价值，分析了生境破坏、气候变化、入侵物种、过度利用与人口压力五大威胁，并提出亲生物性的概念：人类对自然的亲近，是写在我们基因深处的本能，我们并不是自然的主人，而是自然进化的孩子。挽救缤纷的生命，归根到底是挽救人类自身意义的根基。</description>
+      <pubDate>Wed, 14 Oct 2026 02:11:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-9d1e0e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《缤纷的生命》是哈佛生物学家爱德华·威尔逊写给大众的生物多样性宣言。他用亲历的亚马孙田野与一生积累的数据证明：地球上已命名的物种仅约一百九十万，未知种类却可能多达五百万至五千万。理解这些尚未被命名的生命，是人类自救的关键。书中揭示了生物多样性在基因、物种、生态系统三个层次上的不可替代价值，分析了生境破坏、气候变化、入侵物种、过度利用与人口压力五大威胁，并提出亲生物性的概念：人类对自然的亲近，是写在我们基因深处的本能，我们并不是自然的主人，而是自然进化的孩子。挽救缤纷的生命，归根到底是挽救人类自身意义的根基。</itunes:summary>
+      <itunes:duration>00:03:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-9d1e0e.mp3" length="1916386" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
