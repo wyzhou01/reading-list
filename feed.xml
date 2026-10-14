@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 06:25:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 06:38:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37014,6 +37014,17 @@
       <itunes:duration>00:04:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-24220d.mp3" length="2082734" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《非洲常识》 · 完整版 · 非洲常识 · 完整讲读</title>
+      <description>《非洲常识》以问答体例，把非洲切成文化、交通、经济、生活、旅游、教育、政治、历史、地理、人口、科技十一个切面。作者吕夏乔不试图对非洲做任何形而上的定义，只用两百四十四千字的篇幅，粗线条勾勒这块大陆的不同侧面。序言里有一句话奠定了全书基调：哪一个侧面都不能代表非洲，但哪一个侧面都是非洲。翻开这本书，你会看到真正的非洲——它既有原始的鼓声，也有现代的手机支付；既有被直线切碎的国家，也有正在缝合的大陆；既有全球最高的出生率，也有全球最年轻的人口；既有金字塔的辉煌，也有光伏的希望。这本书告诉你，认识非洲不是用一个侧面去以偏概全，而是用多个侧面去拼出一幅完整的图景。</description>
+      <pubDate>Wed, 14 Oct 2026 06:38:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-484d4b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《非洲常识》以问答体例，把非洲切成文化、交通、经济、生活、旅游、教育、政治、历史、地理、人口、科技十一个切面。作者吕夏乔不试图对非洲做任何形而上的定义，只用两百四十四千字的篇幅，粗线条勾勒这块大陆的不同侧面。序言里有一句话奠定了全书基调：哪一个侧面都不能代表非洲，但哪一个侧面都是非洲。翻开这本书，你会看到真正的非洲——它既有原始的鼓声，也有现代的手机支付；既有被直线切碎的国家，也有正在缝合的大陆；既有全球最高的出生率，也有全球最年轻的人口；既有金字塔的辉煌，也有光伏的希望。这本书告诉你，认识非洲不是用一个侧面去以偏概全，而是用多个侧面去拼出一幅完整的图景。</itunes:summary>
+      <itunes:duration>00:10:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-484d4b.mp3" length="4953696" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
