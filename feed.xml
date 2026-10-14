@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 08:31:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 08:42:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37157,6 +37157,17 @@
       <itunes:duration>00:02:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-bf8117.mp3" length="1350052" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《刺局2》 · 完整版 · 刺局2 · 完整讲读</title>
+      <description>五代十国乱世，离恨谷顶尖刺客齐君元率六人组接下高难度刺活——刺杀南唐使队中身份不明的刺标。面对三百护卫、七辆真假难辨的马车与多国秘行组织的夹击，齐君元以山水意境设连环刺局，将众人杀技编织为一击必杀的杀阵，展开一场以少胜多、在移动中取人性命的极限刺杀。</description>
+      <pubDate>Wed, 14 Oct 2026 08:42:46 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-87b343</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>五代十国乱世，离恨谷顶尖刺客齐君元率六人组接下高难度刺活——刺杀南唐使队中身份不明的刺标。面对三百护卫、七辆真假难辨的马车与多国秘行组织的夹击，齐君元以山水意境设连环刺局，将众人杀技编织为一击必杀的杀阵，展开一场以少胜多、在移动中取人性命的极限刺杀。</itunes:summary>
+      <itunes:duration>00:04:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-87b343.mp3" length="2018786" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
