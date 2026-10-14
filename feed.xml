@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 08:06:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 08:15:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37124,6 +37124,17 @@
       <itunes:duration>00:03:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-90f30d.mp3" length="1576168" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《重播》 · 完整版 · 重播 · 完整讲读</title>
+      <description>雷蒙德·钱德勒的《重播》以一桩南加州小城的勒索命案为外壳，冷峻切开冷战时期美国小镇的腐烂肌理：赌场、黑金、警局、律师，所有人都被同一根绳子拴着。私家侦探马洛拒绝封口费、拒绝被收编、拒绝为任何人开枪，只为守住一间没人的公寓、一通从巴黎打来的电话。孤独不是病，是他唯一付得起的尊严；铁石之心不是冷，是他在这套系统里活下来的唯一形状。</description>
+      <pubDate>Wed, 14 Oct 2026 08:15:41 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-0f24c0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>雷蒙德·钱德勒的《重播》以一桩南加州小城的勒索命案为外壳，冷峻切开冷战时期美国小镇的腐烂肌理：赌场、黑金、警局、律师，所有人都被同一根绳子拴着。私家侦探马洛拒绝封口费、拒绝被收编、拒绝为任何人开枪，只为守住一间没人的公寓、一通从巴黎打来的电话。孤独不是病，是他唯一付得起的尊严；铁石之心不是冷，是他在这套系统里活下来的唯一形状。</itunes:summary>
+      <itunes:duration>00:02:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-0f24c0.mp3" length="1294045" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
