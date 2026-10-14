@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 06:03:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 06:09:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36981,6 +36981,17 @@
       <itunes:duration>00:03:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-5924d1.mp3" length="1882114" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《社会学与人类学》 · 完整版 · 社会学与人类学_(大学译丛) · 完整讲读</title>
+      <description>《社会学与人类学》是法国民族学之父马塞尔·莫斯的论文精选集。全书以【完整的社会事实】为核心命题，横跨礼物交换、巫术玛纳、人格范畴与身体技术等多个领域，论证了一个核心洞见：社会事实不是局部的拼贴，而是大于部分之和的流动整体；前现代的礼物之灵、互惠原则与今天的市场理性并非断裂，而是同一张关系网的两副面孔；身体、心灵与精神从来未曾真正分离，重新看见它们之间的连接，就是重新找回人的整全。</description>
+      <pubDate>Wed, 14 Oct 2026 06:09:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-d831de</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《社会学与人类学》是法国民族学之父马塞尔·莫斯的论文精选集。全书以【完整的社会事实】为核心命题，横跨礼物交换、巫术玛纳、人格范畴与身体技术等多个领域，论证了一个核心洞见：社会事实不是局部的拼贴，而是大于部分之和的流动整体；前现代的礼物之灵、互惠原则与今天的市场理性并非断裂，而是同一张关系网的两副面孔；身体、心灵与精神从来未曾真正分离，重新看见它们之间的连接，就是重新找回人的整全。</itunes:summary>
+      <itunes:duration>00:01:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-d831de.mp3" length="957170" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
