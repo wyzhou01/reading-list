@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 08:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 08:06:48 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37113,6 +37113,17 @@
       <itunes:duration>00:04:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-311491.mp3" length="2094019" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《边陲鬼屋》 · 完整版 · 边陲鬼屋 · 完整讲读</title>
+      <description>一九零七年，英国作家威廉·贺普·霍奇森写下《边陲鬼屋》：一位隐居在爱尔兰西部鬼屋中的老人，在烛火变成猩红的午夜被神秘力量拽出身体，飘过夜空，亲眼看着地球缩成蓝色小球，随后坠入一片死寂的暗红色荒原。数百万年后，他独自站在一栋被搬到异星竞技场中央的翡翠色房子里，亲历地球被猪怪袭击、轨道崩溃、最终被一颗死去的太阳捕获。小说以一本被层层转交、字迹残缺的手稿为载体，将哥特文学、克苏鲁式宇宙恐怖与爱伦·坡式的孤独沉思融为一体，叩问一个残酷的命题——当人类文明彻底消失、当你成为宇宙中唯一的生命，时间还有没有意义。一百多年过去，这本潮湿发霉的手稿依然在等待一个愿意一读一行去辨认的读者。</description>
+      <pubDate>Wed, 14 Oct 2026 08:06:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-90f30d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九零七年，英国作家威廉·贺普·霍奇森写下《边陲鬼屋》：一位隐居在爱尔兰西部鬼屋中的老人，在烛火变成猩红的午夜被神秘力量拽出身体，飘过夜空，亲眼看着地球缩成蓝色小球，随后坠入一片死寂的暗红色荒原。数百万年后，他独自站在一栋被搬到异星竞技场中央的翡翠色房子里，亲历地球被猪怪袭击、轨道崩溃、最终被一颗死去的太阳捕获。小说以一本被层层转交、字迹残缺的手稿为载体，将哥特文学、克苏鲁式宇宙恐怖与爱伦·坡式的孤独沉思融为一体，叩问一个残酷的命题——当人类文明彻底消失、当你成为宇宙中唯一的生命，时间还有没有意义。一百多年过去，这本潮湿发霉的手稿依然在等待一个愿意一读一行去辨认的读者。</itunes:summary>
+      <itunes:duration>00:03:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-90f30d.mp3" length="1576168" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
