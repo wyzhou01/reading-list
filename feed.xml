@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 00:53:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 01:00:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36662,6 +36662,17 @@
       <itunes:duration>00:04:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-9101c6.mp3" length="2138741" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《生命之轮》 · 完整版 · 生命之轮 · 完整讲读</title>
+      <description>《生命之轮》是美国濒死研究先驱库伯勒-罗斯的自传遗作。她以两磅重的早产婴儿身份降生，却用一辈子把死亡从恐惧变成可以对话的对象。这本书以她八十余年的亲身经历告诉读者：人生是学校，苦难是教材，死亡并不存在，它只是从这一世过渡到另一种存在的方式，而贯穿这一切的唯一主线，是无私的爱。</description>
+      <pubDate>Wed, 14 Oct 2026 01:00:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-71b1cc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《生命之轮》是美国濒死研究先驱库伯勒-罗斯的自传遗作。她以两磅重的早产婴儿身份降生，却用一辈子把死亡从恐惧变成可以对话的对象。这本书以她八十余年的亲身经历告诉读者：人生是学校，苦难是教材，死亡并不存在，它只是从这一世过渡到另一种存在的方式，而贯穿这一切的唯一主线，是无私的爱。</itunes:summary>
+      <itunes:duration>00:04:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-71b1cc.mp3" length="1939374" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
