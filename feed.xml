@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 13:16:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 13:24:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37300,6 +37300,17 @@
       <itunes:duration>00:03:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-67392f.mp3" length="1530610" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《新欧洲 旧欧洲：中国学者的欧洲人文之旅》 · 完整版 · 新欧洲_旧欧洲：中国学者的欧洲人文之旅（中国故事）_-_周宁 · 完整讲读</title>
+      <description>《新欧洲_旧欧洲：中国学者的欧洲人文之旅》是厦门大学周宁教授的欧洲田野笔记。二〇一二年夏天，他走访了被中国集体忽略的中欧版图——波兰与希腊，一个躲过全球金融危机的欧洲中心，一个陷于主权债务危机的文明源头。周宁用东方视角重新打量波兰的【中央之国幻觉】与希腊的【流放哲学】，破除了中国人【波兰是穷亲戚】【希腊人懒】两个顽固误区。波兰的勤奋告诉我们【要得多就要做得多】，希腊的智慧则提醒我们【不要匆忙赶路】。这本书最终落脚在一个朴素问题上——我们以为我们懂欧洲，其实我们连欧洲版图都没拼全；我们以为我们懂得发展，其实我们连 GDP 与幸福的关系都没想清楚。新欧洲与旧欧洲，原来都是中国自己的镜子。</description>
+      <pubDate>Wed, 14 Oct 2026 13:24:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-06e3ce</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《新欧洲_旧欧洲：中国学者的欧洲人文之旅》是厦门大学周宁教授的欧洲田野笔记。二〇一二年夏天，他走访了被中国集体忽略的中欧版图——波兰与希腊，一个躲过全球金融危机的欧洲中心，一个陷于主权债务危机的文明源头。周宁用东方视角重新打量波兰的【中央之国幻觉】与希腊的【流放哲学】，破除了中国人【波兰是穷亲戚】【希腊人懒】两个顽固误区。波兰的勤奋告诉我们【要得多就要做得多】，希腊的智慧则提醒我们【不要匆忙赶路】。这本书最终落脚在一个朴素问题上——我们以为我们懂欧洲，其实我们连欧洲版图都没拼全；我们以为我们懂得发展，其实我们连 GDP 与幸福的关系都没想清楚。新欧洲与旧欧洲，原来都是中国自己的镜子。</itunes:summary>
+      <itunes:duration>00:04:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-06e3ce.mp3" length="2350646" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
