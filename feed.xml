@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 17:25:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 17:30:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37652,6 +37652,17 @@
       <itunes:duration>00:07:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-a3d68e.mp3" length="3459492" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《活在汉朝不容易(1)》 · 完整版 · 活在汉朝不容易(1) · 完整讲读</title>
+      <description>《活在汉朝不容易》以《史记》《汉书》为底本，冷眼重审西汉两百年。书中不歌颂大汉，而是解剖帝王、权臣、后宫三类人物的命运起伏：萧何必须自污才能存活，汉文帝一边节俭一边赐铜山给宠臣，王莽杀光亲子以至于绝后，气候在暗中塑造了半数国运。作者想戳破的是：两千年过去，技术狂飙突进，可人性的进化，始终是个问号。</description>
+      <pubDate>Wed, 14 Oct 2026 17:30:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-c8a0c1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《活在汉朝不容易》以《史记》《汉书》为底本，冷眼重审西汉两百年。书中不歌颂大汉，而是解剖帝王、权臣、后宫三类人物的命运起伏：萧何必须自污才能存活，汉文帝一边节俭一边赐铜山给宠臣，王莽杀光亲子以至于绝后，气候在暗中塑造了半数国运。作者想戳破的是：两千年过去，技术狂飙突进，可人性的进化，始终是个问号。</itunes:summary>
+      <itunes:duration>00:02:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-c8a0c1.mp3" length="1300315" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
