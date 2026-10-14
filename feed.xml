@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 03:18:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 03:25:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36816,6 +36816,17 @@
       <itunes:duration>00:04:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-e8b543.mp3" length="2102796" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大汉王朝的扩张：虽远必诛》 · 完整版 · 大汉王朝的扩张：虽远必诛_-_醉罢君山 · 完整讲读</title>
+      <description>本书以时间为轴,从公元前二零零年冒顿、双十一岁弑父起兵写起,到公元220年曹丕东汉上书结束,全景式再现了大汉王朝四百年的铁血征程。作者醉罢君山以史实为骨、故事为肉,把汉匈百年战争、张博凿空西域、班超定远万里、马援南征交趾、耿恭疏勒城坚守这些重大历史事件,串联成一条完整的叙事链。书中既有白登之围的窒息、汉武帝北伐的弓马、张博西行的孤独,也有马援铜柱的悲怆、东汉羌战的沉重、帝国崩溃的悲鸣。作者最终想传达的主题是:【犯强汉者,虽远必诛——这不是刑罚的问题,是信念的问题】。汉代之所以伟大,不是因为它疆域辽阔、国力强盛,而是因为它在面对北方强敌、面对未知世界、面对帝国崩溃时,那种永不服输、永不放弃、永不退缩的开拓精神。这种精神,是大汉王朝留给我们最珍贵的无形遗产,也是中华民族历经五千年而生生不息的根本原因。</description>
+      <pubDate>Wed, 14 Oct 2026 03:25:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-79f152</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书以时间为轴,从公元前二零零年冒顿、双十一岁弑父起兵写起,到公元220年曹丕东汉上书结束,全景式再现了大汉王朝四百年的铁血征程。作者醉罢君山以史实为骨、故事为肉,把汉匈百年战争、张博凿空西域、班超定远万里、马援南征交趾、耿恭疏勒城坚守这些重大历史事件,串联成一条完整的叙事链。书中既有白登之围的窒息、汉武帝北伐的弓马、张博西行的孤独,也有马援铜柱的悲怆、东汉羌战的沉重、帝国崩溃的悲鸣。作者最终想传达的主题是:【犯强汉者,虽远必诛——这不是刑罚的问题,是信念的问题】。汉代之所以伟大,不是因为它疆域辽阔、国力强盛,而是因为它在面对北方强敌、面对未知世界、面对帝国崩溃时,那种永不服输、永不放弃、永不退缩的开拓精神。这种精神,是大汉王朝留给我们最珍贵的无形遗产,也是中华民族历经五千年而生生不息的根本原因。</itunes:summary>
+      <itunes:duration>00:03:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-79f152.mp3" length="1618800" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
