@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 15:49:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 15:55:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37520,6 +37520,17 @@
       <itunes:duration>00:03:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-e9e626.mp3" length="1830705" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中外文艺论丛（上下）》 · 完整版 · 中外文艺论丛（上下） · 完整讲读</title>
+      <description>《中外文艺论丛》由深耕美学三十余年的易存国编著，分上下两编。上编以非物质文化遗产为视角，对中国艺术研究进行方法论重建，批判西方话语焦虑、精英贵族视角与实践失衡，提出生态、历史、人类、民俗四重视野融合，重塑词与物的分类学，并辩证重写中国艺术源流。下编从艺术哲学、科学视角系统梳理西方艺术理论三十三个核心命题，涵盖模仿、理念、情感、符号、灵韵等议题，并以阿多诺否定性美学专论作结，叩问艺术在当代的生存权利。全书跨越中西，对艺术本体进行双重追问，是一部兼具学科反思与理论梳理的厚重之作。</description>
+      <pubDate>Wed, 14 Oct 2026 15:55:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-dbc228</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《中外文艺论丛》由深耕美学三十余年的易存国编著，分上下两编。上编以非物质文化遗产为视角，对中国艺术研究进行方法论重建，批判西方话语焦虑、精英贵族视角与实践失衡，提出生态、历史、人类、民俗四重视野融合，重塑词与物的分类学，并辩证重写中国艺术源流。下编从艺术哲学、科学视角系统梳理西方艺术理论三十三个核心命题，涵盖模仿、理念、情感、符号、灵韵等议题，并以阿多诺否定性美学专论作结，叩问艺术在当代的生存权利。全书跨越中西，对艺术本体进行双重追问，是一部兼具学科反思与理论梳理的厚重之作。</itunes:summary>
+      <itunes:duration>00:02:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-dbc228.mp3" length="1235531" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
