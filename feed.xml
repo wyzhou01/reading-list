@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 18:12:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 18:18:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37740,6 +37740,17 @@
       <itunes:duration>00:05:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-551b42.mp3" length="2804968" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《从众危机：量化投资与金融浩劫》 · 完整版 · 从众危机 · 完整讲读</title>
+      <description>《从众危机》深度复盘了1998年长期资本管理公司倒闭与2008年金融危机这两次几乎如出一辙的金融浩劫,揭示了一个被反复忽视的真相:系统性风险并非源自神秘的黑天鹅,而源于交易员们自己在同一时间、以相似的模型、相似的策略、相邻的赛道聚集,再用几十倍的杠杆放大了任何一次小颠簸。当所有人都觉得安全的时候,恰恰是市场最脆弱的时刻;当所有人都在分散的时候,真正分散的可能并不存在。这本书用大量独家访谈和真实数据,带我们看清这场集体幻觉如何一步步酿成,也提醒我们:在面对任何一种被所有人追捧的【好点子】时,保持一点点清醒的怀疑,可能就是我们能给自己最珍贵的一份保护。</description>
+      <pubDate>Wed, 14 Oct 2026 18:18:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-284b38</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《从众危机》深度复盘了1998年长期资本管理公司倒闭与2008年金融危机这两次几乎如出一辙的金融浩劫,揭示了一个被反复忽视的真相:系统性风险并非源自神秘的黑天鹅,而源于交易员们自己在同一时间、以相似的模型、相似的策略、相邻的赛道聚集,再用几十倍的杠杆放大了任何一次小颠簸。当所有人都觉得安全的时候,恰恰是市场最脆弱的时刻;当所有人都在分散的时候,真正分散的可能并不存在。这本书用大量独家访谈和真实数据,带我们看清这场集体幻觉如何一步步酿成,也提醒我们:在面对任何一种被所有人追捧的【好点子】时,保持一点点清醒的怀疑,可能就是我们能给自己最珍贵的一份保护。</itunes:summary>
+      <itunes:duration>00:03:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-284b38.mp3" length="1837810" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
