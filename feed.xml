@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 14:56:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 15:03:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37443,6 +37443,17 @@
       <itunes:duration>00:07:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-9101c9.mp3" length="3496272" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《基因魔剪》 · 完整版 · 基因魔剪 · 完整讲读</title>
+      <description>《基因魔剪》是NHK深度报道团队围绕基因组编辑技术撰写的纪实报告。全书从京都大学木下政人助教团队改造真鲷的实证案例切入，揭示CRISPR-Cas 9等基因编辑工具如何把原本需要数百年的品种改良压缩到几年时间，并在农业、畜牧业、医疗和生物制造领域引发连锁反应。书中系统梳理了第三代基因编辑技术CRISPR-Cas 9的诞生机制与中美日三国的竞争格局，详细介绍了针对HIV、癌症、肌营养不良症等疑难杂症的临床进展，并重点探讨了人类受精卵编辑所引发的伦理争议与社会迷惘。最终呈现出一场关乎工具、伦理与产业权力的全方位技术革命全景。</description>
+      <pubDate>Wed, 14 Oct 2026 15:03:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-bfec0f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《基因魔剪》是NHK深度报道团队围绕基因组编辑技术撰写的纪实报告。全书从京都大学木下政人助教团队改造真鲷的实证案例切入，揭示CRISPR-Cas 9等基因编辑工具如何把原本需要数百年的品种改良压缩到几年时间，并在农业、畜牧业、医疗和生物制造领域引发连锁反应。书中系统梳理了第三代基因编辑技术CRISPR-Cas 9的诞生机制与中美日三国的竞争格局，详细介绍了针对HIV、癌症、肌营养不良症等疑难杂症的临床进展，并重点探讨了人类受精卵编辑所引发的伦理争议与社会迷惘。最终呈现出一场关乎工具、伦理与产业权力的全方位技术革命全景。</itunes:summary>
+      <itunes:duration>00:04:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-bfec0f.mp3" length="2120351" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
