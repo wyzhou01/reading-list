@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 13:52:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 14:01:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37355,6 +37355,17 @@
       <itunes:duration>00:02:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-2fc9d1.mp3" length="1440331" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《好学校》 · 完整版 · 好学校_-_理查德·耶茨 · 完整讲读</title>
+      <description>《好学校》是理查德·耶茨的半自传体小说，借多塞特中学这所精英男校，拆解了战后美国精英教育的全部幻象。一九四一年的某场婚礼上，一个付不起学费的十五岁男孩被一个嚼三明治的有钱女人随口送进了这所标榜【为绅士阶层的孩子们】的学校，从此开启了他糟糕透顶却意义重大的青春期。多塞特把最耀眼的男孩送去燃烧，把边缘人留下来写一辈子平庸的日子；它教会孩子如何穿体面校服、如何不讨亲热、如何在莱克星顿大道上假惺惺地嘻嘻哈哈——唯独漏掉了一样，教父亲对儿子把爱说出口。耶茨用冷到近乎外科手术的笔，写下一个无法被爱的男孩如何在【坏学校】里找到【好学校】，写下父亲那台永远调不准的收音机，最后在跋里承认：那里是一所好学校，而且至今对我有重要的意义。</description>
+      <pubDate>Wed, 14 Oct 2026 14:01:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-34aecd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《好学校》是理查德·耶茨的半自传体小说，借多塞特中学这所精英男校，拆解了战后美国精英教育的全部幻象。一九四一年的某场婚礼上，一个付不起学费的十五岁男孩被一个嚼三明治的有钱女人随口送进了这所标榜【为绅士阶层的孩子们】的学校，从此开启了他糟糕透顶却意义重大的青春期。多塞特把最耀眼的男孩送去燃烧，把边缘人留下来写一辈子平庸的日子；它教会孩子如何穿体面校服、如何不讨亲热、如何在莱克星顿大道上假惺惺地嘻嘻哈哈——唯独漏掉了一样，教父亲对儿子把爱说出口。耶茨用冷到近乎外科手术的笔，写下一个无法被爱的男孩如何在【坏学校】里找到【好学校】，写下父亲那台永远调不准的收音机，最后在跋里承认：那里是一所好学校，而且至今对我有重要的意义。</itunes:summary>
+      <itunes:duration>00:05:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-34aecd.mp3" length="2761918" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
