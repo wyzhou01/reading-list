@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 15:03:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 15:12:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37454,6 +37454,17 @@
       <itunes:duration>00:04:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-bfec0f.mp3" length="2120351" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《嫌疑者的救赎》 · 完整版 · 嫌疑者的救赎 · 完整讲读</title>
+      <description>一九八七年瑞典海岸的春潮夜，一个怀孕的女人被活埋在沙滩里溺亡，腹中胎儿被剖出后由别的家庭领养。二十四年后，长大成人的奥莉维亚·朗宁在警校课业里偶然选中了这起悬案，一步步揭开自己的生母、生父与养父三代人之间的沉默螺旋。小说同时追踪一群在城市边缘靠卖杂志为生的流浪汉被殴打、录影、上传的系统性暴力，最终把救赎的答案从法庭搬到了深夜的海滩上：真相不必被宣判，但必须被陪伴；秘密不必永远藏起来，但要在潮水涨起之前被所有人一起看见。</description>
+      <pubDate>Wed, 14 Oct 2026 15:12:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-b75d14</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九八七年瑞典海岸的春潮夜，一个怀孕的女人被活埋在沙滩里溺亡，腹中胎儿被剖出后由别的家庭领养。二十四年后，长大成人的奥莉维亚·朗宁在警校课业里偶然选中了这起悬案，一步步揭开自己的生母、生父与养父三代人之间的沉默螺旋。小说同时追踪一群在城市边缘靠卖杂志为生的流浪汉被殴打、录影、上传的系统性暴力，最终把救赎的答案从法庭搬到了深夜的海滩上：真相不必被宣判，但必须被陪伴；秘密不必永远藏起来，但要在潮水涨起之前被所有人一起看见。</itunes:summary>
+      <itunes:duration>00:06:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-b75d14.mp3" length="2888142" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
