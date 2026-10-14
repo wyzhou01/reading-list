@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 15:26:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 15:35:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37487,6 +37487,17 @@
       <itunes:duration>00:03:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-ea4f25.mp3" length="1655580" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《荷马3000年》 · 完整版 · 荷马3000年 · 完整讲读</title>
+      <description>《荷马3000年》是英国作家亚当·尼科尔森写给荷马史诗的一封长信。尼科尔森大胆提出：《伊利亚特》与《奥德赛》并非公元前8世纪的产物，而是诞生于公元前两千年前后青铜时代晚期的剧烈碰撞——黑海北边欧亚草原上的半游牧战士，与地中海东部发达的宫廷文明，两种世界在爱琴海两岸迎头相撞，由此孕育出欧洲文明的最初形态。所谓碰撞，刻进了《伊利亚特》；所谓融合，回响在《奥德赛》里。希腊黑暗时代里，宫廷歌手带着记忆南迁，把一首首古老的诗篇撒落到爱琴海岸的岛屿之上。荷马不是一个名字，而是一个被代代吟诵、不断添枝加叶的活的传统。荷马的伟大在于他拒绝美化，也拒绝廉价——他直面人的不完美，却让人在裂缝里辨认出自己。他告诉我们，文明真正的瑰宝，是那些被讲述得足够久、足够动人的故事。诗是带翅膀的文字，文明是带记忆的人群。</description>
+      <pubDate>Wed, 14 Oct 2026 15:34:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-1aa48e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《荷马3000年》是英国作家亚当·尼科尔森写给荷马史诗的一封长信。尼科尔森大胆提出：《伊利亚特》与《奥德赛》并非公元前8世纪的产物，而是诞生于公元前两千年前后青铜时代晚期的剧烈碰撞——黑海北边欧亚草原上的半游牧战士，与地中海东部发达的宫廷文明，两种世界在爱琴海两岸迎头相撞，由此孕育出欧洲文明的最初形态。所谓碰撞，刻进了《伊利亚特》；所谓融合，回响在《奥德赛》里。希腊黑暗时代里，宫廷歌手带着记忆南迁，把一首首古老的诗篇撒落到爱琴海岸的岛屿之上。荷马不是一个名字，而是一个被代代吟诵、不断添枝加叶的活的传统。荷马的伟大在于他拒绝美化，也拒绝廉价——他直面人的不完美，却让人在裂缝里辨认出自己。他告诉我们，文明真正的瑰宝，是那些被讲述得足够久、足够动人的故事。诗是带翅膀的文字，文明是带记忆的人群。</itunes:summary>
+      <itunes:duration>00:04:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-1aa48e.mp3" length="2137905" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
