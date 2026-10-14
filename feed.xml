@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 01:23:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 01:31:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36684,6 +36684,17 @@
       <itunes:duration>00:19:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-8070cd.mp3" length="9241121" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《尼尔斯骑鹅旅行记》 · 完整版 · 尼尔斯骑鹅旅行记_-_塞尔玛·拉格洛夫 · 完整讲读</title>
+      <description>《尼尔斯骑鹅旅行记》是瑞典女作家塞尔玛·拉格洛夫写给孩子的长篇童话，也是她获得一九零九年诺贝尔文学奖的代表作。一个十四岁、调皮捣蛋的瑞典男孩尼尔斯因为捉弄家传小精灵，被施法变成拇指大的小人。他骑上自家一只年轻雄鹅，跟随大雁群横越瑞典全境，从斯科讷一路飞到最北的拉普兰，再返回家乡。一路上他学会了听懂鸟语、承担责任、照顾同伴，也亲眼看到瑞典的山河、矿场、民间传说与各族群的生活。变回人形的代价是再也听不懂大雁说话，他用一场克制的告别结束了这段旅行。童话外壳之下，这本书写的是被处境逼出来的专注、用八个月指尖攥出来的善意、那些永远关掉的频道，以及怎样体面地先一步离开一段回不去的关系。</description>
+      <pubDate>Wed, 14 Oct 2026 01:31:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-2f2870</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《尼尔斯骑鹅旅行记》是瑞典女作家塞尔玛·拉格洛夫写给孩子的长篇童话，也是她获得一九零九年诺贝尔文学奖的代表作。一个十四岁、调皮捣蛋的瑞典男孩尼尔斯因为捉弄家传小精灵，被施法变成拇指大的小人。他骑上自家一只年轻雄鹅，跟随大雁群横越瑞典全境，从斯科讷一路飞到最北的拉普兰，再返回家乡。一路上他学会了听懂鸟语、承担责任、照顾同伴，也亲眼看到瑞典的山河、矿场、民间传说与各族群的生活。变回人形的代价是再也听不懂大雁说话，他用一场克制的告别结束了这段旅行。童话外壳之下，这本书写的是被处境逼出来的专注、用八个月指尖攥出来的善意、那些永远关掉的频道，以及怎样体面地先一步离开一段回不去的关系。</itunes:summary>
+      <itunes:duration>00:04:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-2f2870.mp3" length="2066016" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
