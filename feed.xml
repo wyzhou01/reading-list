@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 00:46:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 00:53:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36651,6 +36651,17 @@
       <itunes:duration>00:03:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-4157fa.mp3" length="1801866" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《眉清目秀的日子：一个女人的咖啡时光》 · 完整版 · 眉清目秀的日子：一个女人的咖啡时光 · 完整讲读</title>
+      <description>本书是作者子沫十余年泡咖啡馆经历的散文集。围绕武汉及各地三十余家个性咖啡馆，以一杯咖啡为入口，写女性如何从琐碎日常中活出简静、自由与美。书中谈生活选择、内心修炼、独自出行、阅读与无用之趣，呈现一种&apos;不为外部标准所动、按自己心意过小日子&apos;的女性生活美学。</description>
+      <pubDate>Wed, 14 Oct 2026 00:53:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-9101c6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是作者子沫十余年泡咖啡馆经历的散文集。围绕武汉及各地三十余家个性咖啡馆，以一杯咖啡为入口，写女性如何从琐碎日常中活出简静、自由与美。书中谈生活选择、内心修炼、独自出行、阅读与无用之趣，呈现一种&apos;不为外部标准所动、按自己心意过小日子&apos;的女性生活美学。</itunes:summary>
+      <itunes:duration>00:04:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-9101c6.mp3" length="2138741" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
