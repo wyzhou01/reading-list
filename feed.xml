@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 02:46:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 02:52:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36772,6 +36772,17 @@
       <itunes:duration>00:09:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-4ecb54.mp3" length="4356432" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《卸下心头重担》 · 完整版 · 卸下心头重担(1) · 完整讲读</title>
+      <description>《卸下心头重担》是斯里兰卡高僧阿鲁老和尚写给现代都市人的一份清醒处方。佛陀两千五百年前的开示，被翻译成六个朴素真相：人生的痛苦源于徒劳而非外物，知足才能常乐，真正的自爱是不伤害自己的自守，世间的幸福总是与痛苦结伴而行，一切成败皆源自内心，而活在当下、把「现在」缩到最短的瞬间，是唯一通往解脱的路。书末的《每天都是好日子经》只有十六句，却浓缩了全部答案——今天该做的事今天做完，谁都不能保证明天一定会到来。愿每个听完这本书的人，都能在睡前轻轻说出那句：今天是个好日子。</description>
+      <pubDate>Wed, 14 Oct 2026 02:52:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-a9b0ae</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《卸下心头重担》是斯里兰卡高僧阿鲁老和尚写给现代都市人的一份清醒处方。佛陀两千五百年前的开示，被翻译成六个朴素真相：人生的痛苦源于徒劳而非外物，知足才能常乐，真正的自爱是不伤害自己的自守，世间的幸福总是与痛苦结伴而行，一切成败皆源自内心，而活在当下、把「现在」缩到最短的瞬间，是唯一通往解脱的路。书末的《每天都是好日子经》只有十六句，却浓缩了全部答案——今天该做的事今天做完，谁都不能保证明天一定会到来。愿每个听完这本书的人，都能在睡前轻轻说出那句：今天是个好日子。</itunes:summary>
+      <itunes:duration>00:02:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-a9b0ae.mp3" length="1406894" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
