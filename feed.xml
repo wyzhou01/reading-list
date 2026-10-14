@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 15:44:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 15:49:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37509,6 +37509,17 @@
       <itunes:duration>00:05:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-5df3d8.mp3" length="2681252" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《判断力批判（上册）》 · 完整版 · 判断力批判（上册）_(汉译世界学术名著丛书)_-_康德 · 完整讲读</title>
+      <description>《判断力批判》是康德哲学大厦的封顶之作。一七九〇年，六十六岁的康德面对自己哲学体系最深的裂缝——自然因果与自由意志之间不可通约的鸿沟，提出判断力作为第三种先验能力充当桥梁。上卷系统论述审美判断力的先验原理，分析美与崇高的四个契机，区分自由美与依附美、数学崇高与力学崇高，并提出自然合目的性原理。下卷探讨有机体的内在目的与道德的类比。本书完成康德三大批判的体系闭环，让自然与自由在判断力中重新相认，为后世美学、生态哲学与目的论思维留下深远遗产。</description>
+      <pubDate>Wed, 14 Oct 2026 15:49:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-e9e626</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《判断力批判》是康德哲学大厦的封顶之作。一七九〇年，六十六岁的康德面对自己哲学体系最深的裂缝——自然因果与自由意志之间不可通约的鸿沟，提出判断力作为第三种先验能力充当桥梁。上卷系统论述审美判断力的先验原理，分析美与崇高的四个契机，区分自由美与依附美、数学崇高与力学崇高，并提出自然合目的性原理。下卷探讨有机体的内在目的与道德的类比。本书完成康德三大批判的体系闭环，让自然与自由在判断力中重新相认，为后世美学、生态哲学与目的论思维留下深远遗产。</itunes:summary>
+      <itunes:duration>00:03:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-e9e626.mp3" length="1830705" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
