@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 00:40:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 00:46:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36640,6 +36640,17 @@
       <itunes:duration>00:15:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-4335e2.mp3" length="7496142" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《南十字星共和国：俄国象征派小说选》 · 完整版 · 南十字星共和国(1) · 完整讲读</title>
+      <description>本书收录费·索洛古勃、瓦·勃留索夫、安德列·别雷三位俄国象征派小说家的代表作品。在十九世纪末二十世纪初的俄国，他们把日常器皿、街灯、雨夜、孤母、少年、亡父，全部叠印上另一重神秘世界的暗号：一只手影能撕成命运之网，一尊大理石头像能在深夜走出博物馆，一座南半球的小共和国能吞掉整支俄国舰队。平凡即神秘，琐碎即深渊，物物相印，处处皆为入口。本书既是一份进入俄国象征派艺术森林的导游图，也是一场关于个体如何在光与影、神圣与荒诞、死亡与彼岸之间挣扎前行的精神实验。</description>
+      <pubDate>Wed, 14 Oct 2026 00:46:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-4157fa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书收录费·索洛古勃、瓦·勃留索夫、安德列·别雷三位俄国象征派小说家的代表作品。在十九世纪末二十世纪初的俄国，他们把日常器皿、街灯、雨夜、孤母、少年、亡父，全部叠印上另一重神秘世界的暗号：一只手影能撕成命运之网，一尊大理石头像能在深夜走出博物馆，一座南半球的小共和国能吞掉整支俄国舰队。平凡即神秘，琐碎即深渊，物物相印，处处皆为入口。本书既是一份进入俄国象征派艺术森林的导游图，也是一场关于个体如何在光与影、神圣与荒诞、死亡与彼岸之间挣扎前行的精神实验。</itunes:summary>
+      <itunes:duration>00:03:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-4157fa.mp3" length="1801866" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
