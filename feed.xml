@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 00:23:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 00:40:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36629,6 +36629,17 @@
       <itunes:duration>00:05:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-8fc0e3.mp3" length="2565059" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《以幽默的方式过一生》 · 完整版 · 以幽默的方式过一生 · 完整讲读</title>
+      <description>本书是琢磨先生以二十四篇杂文回应生活拧巴时刻的诚意之作。全文以幽默为刃，拆解了选择、开始、对错、放下、善意、比较、遗憾七大人生命题，告诉你：人生没有最优解，只有你认领之后愿意走到底的那个版本；爱，就是希望你好；以幽默的方式过一生，就是哪怕被生活刺了一身，也能拍拍土，笑着站起来。</description>
+      <pubDate>Wed, 14 Oct 2026 00:40:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-4335e2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是琢磨先生以二十四篇杂文回应生活拧巴时刻的诚意之作。全文以幽默为刃，拆解了选择、开始、对错、放下、善意、比较、遗憾七大人生命题，告诉你：人生没有最优解，只有你认领之后愿意走到底的那个版本；爱，就是希望你好；以幽默的方式过一生，就是哪怕被生活刺了一身，也能拍拍土，笑着站起来。</itunes:summary>
+      <itunes:duration>00:15:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-4335e2.mp3" length="7496142" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
