@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 08:50:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 09:13:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37179,6 +37179,17 @@
       <itunes:duration>00:04:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-f385c2.mp3" length="2080644" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《脑洞经济学：人人都要有的经济学思维》 · 完整版 · 脑洞经济学(1) · 完整讲读</title>
+      <description>《脑洞经济学》不是一本教人赚钱的书，而是一副让人看清世界的新眼镜。温义飞用经济学的决策思维，把相亲、择偶、整容、出轨、养娃、买可乐、买机票、辞职这些日常琐事，拆解成成本、收益、激励、博弈的方程式。读完后你会发现，单身、贫穷、被算法算计、被同伴碾压，背后都藏着同一套冷酷的逻辑。经济学不会替你做选择，但它会让你看清，每一步选择背后的代价，从此活得清醒一点，勇敢一点。</description>
+      <pubDate>Wed, 14 Oct 2026 09:12:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-0411d0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《脑洞经济学》不是一本教人赚钱的书，而是一副让人看清世界的新眼镜。温义飞用经济学的决策思维，把相亲、择偶、整容、出轨、养娃、买可乐、买机票、辞职这些日常琐事，拆解成成本、收益、激励、博弈的方程式。读完后你会发现，单身、贫穷、被算法算计、被同伴碾压，背后都藏着同一套冷酷的逻辑。经济学不会替你做选择，但它会让你看清，每一步选择背后的代价，从此活得清醒一点，勇敢一点。</itunes:summary>
+      <itunes:duration>00:18:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-0411d0.mp3" length="8850747" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
