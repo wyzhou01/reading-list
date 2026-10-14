@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 03:41:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 03:47:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36849,6 +36849,17 @@
       <itunes:duration>00:06:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-2be62d.mp3" length="3136409" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《经济学常识1000问（超值金版）》 · 完整版 · 经济学常识1000问（超值金版） · 完整讲读</title>
+      <description>《经济学常识一千问》把上千个名词装进一问一答,从货币、博弈、消费到理财、税收、外贸,像一部生活词典。本期节目把它拆成七块拼图:从咖啡馆倒闭讲起,经由囚徒困境、价格歧视、劣币驱逐良币,最后落到个人理财的笨功夫。书里没有预测明天的涨跌,只提供一张看懂世界的地图——让你在每一次签字、每一次点击之前,多停三秒钟,少交一次智商税。</description>
+      <pubDate>Wed, 14 Oct 2026 03:47:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-2db595</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《经济学常识一千问》把上千个名词装进一问一答,从货币、博弈、消费到理财、税收、外贸,像一部生活词典。本期节目把它拆成七块拼图:从咖啡馆倒闭讲起,经由囚徒困境、价格歧视、劣币驱逐良币,最后落到个人理财的笨功夫。书里没有预测明天的涨跌,只提供一张看懂世界的地图——让你在每一次签字、每一次点击之前,多停三秒钟,少交一次智商税。</itunes:summary>
+      <itunes:duration>00:02:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-2db595.mp3" length="1260191" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
