@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 02:30:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 02:46:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36761,6 +36761,17 @@
       <itunes:duration>00:05:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-9e4018.mp3" length="2453882" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《心的力量》 · 完整版 · 心的力量 · 完整讲读</title>
+      <description>《心的力量》是连续创办十三家企业的实战派赵章山写就的一本心力操作系统读本。全书以心智模式、思想之力、大爱之力、内心之力、实干之力六大板块，层层递进地拆解了心力运作的底层逻辑，提出心之宏力来源于意念、世界是内心世界的呈现、良心必须以行动落地、身心合一方能持久发力、一万小时刻意练习方能将心力转化为能力等核心命题。书中既有对归罪于外、墨守成规、局限思考、心态不正四大心智顽石的剖析，也有对大格局、大梦想、大思想的拆解，还有对良心、舍得、慈善、知行合一等中华传统心力的现代转译，最终落到一万小时定律与立即行动的具体刻度上，是一本兼具东方智慧与现代管理学框架的身心修炼指南。</description>
+      <pubDate>Wed, 14 Oct 2026 02:46:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-4ecb54</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《心的力量》是连续创办十三家企业的实战派赵章山写就的一本心力操作系统读本。全书以心智模式、思想之力、大爱之力、内心之力、实干之力六大板块，层层递进地拆解了心力运作的底层逻辑，提出心之宏力来源于意念、世界是内心世界的呈现、良心必须以行动落地、身心合一方能持久发力、一万小时刻意练习方能将心力转化为能力等核心命题。书中既有对归罪于外、墨守成规、局限思考、心态不正四大心智顽石的剖析，也有对大格局、大梦想、大思想的拆解，还有对良心、舍得、慈善、知行合一等中华传统心力的现代转译，最终落到一万小时定律与立即行动的具体刻度上，是一本兼具东方智慧与现代管理学框架的身心修炼指南。</itunes:summary>
+      <itunes:duration>00:09:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-4ecb54.mp3" length="4356432" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
