@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 14:37:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 14:46:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37421,6 +37421,17 @@
       <itunes:duration>00:05:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-7c55b5.mp3" length="2485229" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大中东行纪》 · 完整版 · 大中东行纪 · 完整讲读</title>
+      <description>《大中东行纪》是香港学者张信刚2010至2011年间走遍三十一个大中东国家的旅行与思考记录。2010年突尼斯小贩自焚引发阿拉伯之变后,作者将原本连载的三十九篇游记增补修订为四十五篇,试图回答一个核心问题:这片人类文明的摇篮,为何始终困在神与人、油与火、帝国坟场与现代陷阱之间?书中梳理了大中东一千四百年的农耕与游牧冲突、伊斯兰世界的世俗与宗教张力、奥斯曼与波斯帝国遗产、西方殖民划定的国界痼疾,并以三十一篇游记呈现希腊、伊朗、土耳其、以色列等国的真实面貌。作者最终留下三条道路的开放判断,提醒读者:理解大中东,答案不在新闻里,在宗教里;不在地图上,在沙漠里;不在数据里,在那一千四百年的尘埃里。</description>
+      <pubDate>Wed, 14 Oct 2026 14:46:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-ec08ee</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大中东行纪》是香港学者张信刚2010至2011年间走遍三十一个大中东国家的旅行与思考记录。2010年突尼斯小贩自焚引发阿拉伯之变后,作者将原本连载的三十九篇游记增补修订为四十五篇,试图回答一个核心问题:这片人类文明的摇篮,为何始终困在神与人、油与火、帝国坟场与现代陷阱之间?书中梳理了大中东一千四百年的农耕与游牧冲突、伊斯兰世界的世俗与宗教张力、奥斯曼与波斯帝国遗产、西方殖民划定的国界痼疾,并以三十一篇游记呈现希腊、伊朗、土耳其、以色列等国的真实面貌。作者最终留下三条道路的开放判断,提醒读者:理解大中东,答案不在新闻里,在宗教里;不在地图上,在沙漠里;不在数据里,在那一千四百年的尘埃里。</itunes:summary>
+      <itunes:duration>00:05:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-ec08ee.mp3" length="2760246" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
