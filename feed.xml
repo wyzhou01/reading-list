@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 14:29:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 14:37:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37410,6 +37410,17 @@
       <itunes:duration>00:04:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-978963.mp3" length="2246574" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《枪的合众国》 · 完整版 · 枪的合众国 · 完整讲读</title>
+      <description>本书不是又一本讨论美国枪支政策的论战书, 而是一部把枪支议题从宪法和边疆的叙事里搬回商业史档案的工业史。耶鲁历史学家帕梅拉·哈格泡在康涅狄格州纽黑文市温彻斯特连发武器公司的账册、销售函件和内部备忘录里多年, 重新讲述了美国枪支文化的真正起点: 它不是民兵传统或西部神话的天然产物, 而是十九世纪商人在关税保护、量产技术、环球贸易与情感营销中一步步制造出来的普通商品。从奥利弗·温彻斯特从衬衫商人转型枪支巨头, 到其遗孀莎拉在加州建造永不停工的【神秘屋】, 再到二十世纪初【枪迷】身份的诞生与产业话语的固化, 哈格用尘封档案证明: 枪支的【例外主义】是被制造出来的幻象, 真正的塑造者是流水线、广告和销售函件。当她讲完故事, 神圣的天赋权利叙事被还原成了一份普通的工业史。它的主角不是宪法与边疆, 而是别针一样实在的产品、铁铲一样普通的逻辑、肥皂一样普遍的营销手段。枪支从来不是美国身份的天然象征, 枪支是十九世纪商人在订单、关税、量产与营销中, 一颗一颗被改造成身份的。本书为你提供了一把重新打开美国枪支议题的钥匙, 也提供了重新审视商业与道德边界的清醒视角。</description>
+      <pubDate>Wed, 14 Oct 2026 14:37:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-7c55b5</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书不是又一本讨论美国枪支政策的论战书, 而是一部把枪支议题从宪法和边疆的叙事里搬回商业史档案的工业史。耶鲁历史学家帕梅拉·哈格泡在康涅狄格州纽黑文市温彻斯特连发武器公司的账册、销售函件和内部备忘录里多年, 重新讲述了美国枪支文化的真正起点: 它不是民兵传统或西部神话的天然产物, 而是十九世纪商人在关税保护、量产技术、环球贸易与情感营销中一步步制造出来的普通商品。从奥利弗·温彻斯特从衬衫商人转型枪支巨头, 到其遗孀莎拉在加州建造永不停工的【神秘屋】, 再到二十世纪初【枪迷】身份的诞生与产业话语的固化, 哈格用尘封档案证明: 枪支的【例外主义】是被制造出来的幻象, 真正的塑造者是流水线、广告和销售函件。当她讲完故事, 神圣的天赋权利叙事被还原成了一份普通的工业史。它的主角不是宪法与边疆, 而是别针一样实在的产品、铁铲一样普通的逻辑、肥皂一样普遍的营销手段。枪支从来不是美国身份的天然象征, 枪支是十九世纪商人在订单、关税、量产与营销中, 一颗一颗被改造成身份的。本书为你提供了一把重新打开美国枪支议题的钥匙, 也提供了重新审视商业与道德边界的清醒视角。</itunes:summary>
+      <itunes:duration>00:05:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-7c55b5.mp3" length="2485229" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
