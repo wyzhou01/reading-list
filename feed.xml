@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 01:31:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 01:39:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36695,6 +36695,17 @@
       <itunes:duration>00:04:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-2f2870.mp3" length="2066016" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《24格每秒天堂》 · 完整版 · 潘海天_-_24格每秒天堂 · 完整讲读</title>
+      <description>潘海天的《二十四格每秒天堂》讲述了小职员路夜在生日夜晚被讨债人追逃,意外躲进脑感电影院,经历一段虚拟杀手人生后,获得了重新面对现实生活的勇气。书名巧妙设置悬念:每个看电影的人,都是用每秒24格胶片,在上帝视角里短暂地活成另一个人;而这个【另一个人】一旦回到现实,就再也不是原来那个连电梯都不敢多待的男孩。潘海天用科幻的外壳,讲透了梦境与现实的边界崩塌,讲透了小人物在系统碾压下的反抗,也讲透了勇气是被梦境喂大、被自己一格一格攒出来的真相。这是一份给每个打工人的【觉醒手册】——读完它,你会知道,所谓成熟,不需要一整夜的雨,只需要三秒钟、七十二格、一次不再逃避的选择。</description>
+      <pubDate>Wed, 14 Oct 2026 01:39:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-7ad248</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>潘海天的《二十四格每秒天堂》讲述了小职员路夜在生日夜晚被讨债人追逃,意外躲进脑感电影院,经历一段虚拟杀手人生后,获得了重新面对现实生活的勇气。书名巧妙设置悬念:每个看电影的人,都是用每秒24格胶片,在上帝视角里短暂地活成另一个人;而这个【另一个人】一旦回到现实,就再也不是原来那个连电梯都不敢多待的男孩。潘海天用科幻的外壳,讲透了梦境与现实的边界崩塌,讲透了小人物在系统碾压下的反抗,也讲透了勇气是被梦境喂大、被自己一格一格攒出来的真相。这是一份给每个打工人的【觉醒手册】——读完它,你会知道,所谓成熟,不需要一整夜的雨,只需要三秒钟、七十二格、一次不再逃避的选择。</itunes:summary>
+      <itunes:duration>00:04:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-7ad248.mp3" length="2128292" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
