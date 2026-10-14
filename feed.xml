@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 07:44:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 07:52:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37091,6 +37091,17 @@
       <itunes:duration>00:06:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-999b4a.mp3" length="2933699" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《夜莺书店》 · 完整版 · 夜莺书店 · 完整讲读</title>
+      <description>《夜莺书店》是英国作家维罗妮卡·亨利写给独立书店的一封情书。一九八三年的寒冬，单亲父亲朱利叶斯·南丁格尔用一辆五英镑买来的婴儿车，推着女儿，走进牛津郡一座没有书店的小镇匹斯布鲁克。他把一间曾被嫌弃为垃圾店的空铺子翻修成夜莺书店，独自守了三十年，用糖小鼠、半杯放凉的咖啡、和对每一本书的了然于心，喂饱了几代人的孤独。三十三年后的一个凌晨，女儿艾米莉亚从香港飞回来，守在乡村医院送父亲最后一口气。她对临终的父亲许下一个承诺——书店绝不关门一天。她接手的不只是一栋楼，而是一摞没拆的信封、一把落灰的大提琴、一群每周四准时推门进来的老人，以及一颗需要她继续跳动的心脏。在电商碾压、连锁书店倒闭、人人都刷手机的年代，这本书用一个英国小镇的故事回答了一个被反复追问的问题——我们为什么还需要一家小镇书店？因为没有书店的镇子，就是少了颗心脏。</description>
+      <pubDate>Wed, 14 Oct 2026 07:51:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-7bcc70</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《夜莺书店》是英国作家维罗妮卡·亨利写给独立书店的一封情书。一九八三年的寒冬，单亲父亲朱利叶斯·南丁格尔用一辆五英镑买来的婴儿车，推着女儿，走进牛津郡一座没有书店的小镇匹斯布鲁克。他把一间曾被嫌弃为垃圾店的空铺子翻修成夜莺书店，独自守了三十年，用糖小鼠、半杯放凉的咖啡、和对每一本书的了然于心，喂饱了几代人的孤独。三十三年后的一个凌晨，女儿艾米莉亚从香港飞回来，守在乡村医院送父亲最后一口气。她对临终的父亲许下一个承诺——书店绝不关门一天。她接手的不只是一栋楼，而是一摞没拆的信封、一把落灰的大提琴、一群每周四准时推门进来的老人，以及一颗需要她继续跳动的心脏。在电商碾压、连锁书店倒闭、人人都刷手机的年代，这本书用一个英国小镇的故事回答了一个被反复追问的问题——我们为什么还需要一家小镇书店？因为没有书店的镇子，就是少了颗心脏。</itunes:summary>
+      <itunes:duration>00:04:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-7bcc70.mp3" length="1955675" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
