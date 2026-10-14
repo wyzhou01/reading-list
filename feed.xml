@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 19:04:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 19:14:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37828,6 +37828,17 @@
       <itunes:duration>00:06:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-52ec46.mp3" length="3210806" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《北回归线》 · 完整版 · 北回归线 · 完整讲读</title>
+      <description>这是亨利·米勒1930年代流亡巴黎时写下的自传体小说，以回忆录的形式追忆他在巴黎与几位作家、艺术家朋友度过的一段穷困、放浪、肆意妄为的日子。书里没有连贯情节，没有成形人物，有的是从工作、交谈、宴饮、嫖妓等琐碎场景中迸发出的浓烈思想、跳跃式联想和长篇怪诞议论。整本书像一场白日梦，嬉笑怒骂间解构西方文明的虚伪，向往在毁灭中获得新生的艺术自由。</description>
+      <pubDate>Wed, 14 Oct 2026 19:14:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-abfafb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>这是亨利·米勒1930年代流亡巴黎时写下的自传体小说，以回忆录的形式追忆他在巴黎与几位作家、艺术家朋友度过的一段穷困、放浪、肆意妄为的日子。书里没有连贯情节，没有成形人物，有的是从工作、交谈、宴饮、嫖妓等琐碎场景中迸发出的浓烈思想、跳跃式联想和长篇怪诞议论。整本书像一场白日梦，嬉笑怒骂间解构西方文明的虚伪，向往在毁灭中获得新生的艺术自由。</itunes:summary>
+      <itunes:duration>00:04:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-abfafb.mp3" length="2337271" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
