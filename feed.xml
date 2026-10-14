@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 02:21:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 02:30:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36750,6 +36750,17 @@
       <itunes:duration>00:04:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-d15c7f.mp3" length="2050969" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《名利场》 · 完整版 · 名利场（译文名著典藏） · 完整讲读</title>
+      <description>英国摄政时期至维多利亚前期，两个出身悬殊的年轻女性离开寄宿女校后在伦敦上流社会摸爬滚打的人生轨迹。善良软弱的富家小姐爱米莉亚与聪明自私的孤女瑞蓓卡，分别嫁给青年军官乔治和罗登，滑铁卢战役后一个丧夫穷困、一个飞黄腾达，十年间命运数次反转，最终殊途同归。全书以辛辣讽刺的笔调，揭穿名利场中人人翻脸的虚荣与虚空。</description>
+      <pubDate>Wed, 14 Oct 2026 02:30:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-9e4018</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>英国摄政时期至维多利亚前期，两个出身悬殊的年轻女性离开寄宿女校后在伦敦上流社会摸爬滚打的人生轨迹。善良软弱的富家小姐爱米莉亚与聪明自私的孤女瑞蓓卡，分别嫁给青年军官乔治和罗登，滑铁卢战役后一个丧夫穷困、一个飞黄腾达，十年间命运数次反转，最终殊途同归。全书以辛辣讽刺的笔调，揭穿名利场中人人翻脸的虚荣与虚空。</itunes:summary>
+      <itunes:duration>00:05:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-9e4018.mp3" length="2453882" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
