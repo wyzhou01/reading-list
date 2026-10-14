@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 19:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 19:37:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37861,6 +37861,17 @@
       <itunes:duration>00:04:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-f304d8.mp3" length="2171342" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《苏州河，黎明来敲门：1843年以来的上海叙事》 · 完整版 · 苏州河，黎明来敲门：1843年以来的上海叙事 · 完整讲读</title>
+      <description>《苏州河，黎明来敲门》是王唯铭【上海往事三部曲】的第二部，以苏州河为线索，写一八四三年开埠至二十一世纪一百七十年的上海近代史。全书采用非虚构口述史写法，以河滨大楼少女张秀兰与少男陆杰瑞的成长为引子，沿河两岸梳理传教士、海派实业家、犹太难民、本土童工的故事，把推土机碾压下的近代记忆一砖一瓦抢救出来。书中提出三大核心洞察：河流是城市基因，中西文明是孪生兄弟，个体口述是文明最后的备份；并进一步揭示苏州河能孕育近代中国黎明的深层原因——时间折叠、桥梁作为器官、非废墟的废墟。这是一本写给所有想知道自己从哪里来、往哪里去的中国城市人的书。</description>
+      <pubDate>Wed, 14 Oct 2026 19:37:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-0b026c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《苏州河，黎明来敲门》是王唯铭【上海往事三部曲】的第二部，以苏州河为线索，写一八四三年开埠至二十一世纪一百七十年的上海近代史。全书采用非虚构口述史写法，以河滨大楼少女张秀兰与少男陆杰瑞的成长为引子，沿河两岸梳理传教士、海派实业家、犹太难民、本土童工的故事，把推土机碾压下的近代记忆一砖一瓦抢救出来。书中提出三大核心洞察：河流是城市基因，中西文明是孪生兄弟，个体口述是文明最后的备份；并进一步揭示苏州河能孕育近代中国黎明的深层原因——时间折叠、桥梁作为器官、非废墟的废墟。这是一本写给所有想知道自己从哪里来、往哪里去的中国城市人的书。</itunes:summary>
+      <itunes:duration>00:05:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-0b026c.mp3" length="2515322" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
