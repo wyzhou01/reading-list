@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 03:32:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 03:41:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36838,6 +36838,17 @@
       <itunes:duration>00:03:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-8b5c75.mp3" length="1633846" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《回荡的钟摆》 · 完整版 · 回荡的钟摆 · 完整讲读</title>
+      <description>《回荡的钟摆》是许小年对中国经济转型与观念现代化的深度思考。他将中国改革开放四十年划分为两个阶段: 前半段的【亚当·斯密模式】依靠市场机制和民间活力实现了高速增长, 后半段的【凯恩斯模式】则因政府过度干预而积累了大量债务、过剩产能与金融风险。书中批判了以四万亿为代表的刺激性宏观政策, 指出短期繁荣的代价是长期的系统性失衡, 主张回归供给侧改革, 重启市场化制度创新。在企业层面, 作者提醒传统行业警惕【互联网思维】的神话, 强调创新才是穿越经济寒冬的本钱。在思想层面, 他呼吁观念现代化, 主张以【理性个人主义】取代信仰真空, 警惕民族主义与民粹主义的合流。全书以冷静的经济学分析, 串联起制度、创新与价值三重建构, 指向同一个结论: 没有什么救世主, 中国的出路在于市场, 在于制度, 在于每一个普通人的自由与创造。</description>
+      <pubDate>Wed, 14 Oct 2026 03:41:27 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-2be62d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《回荡的钟摆》是许小年对中国经济转型与观念现代化的深度思考。他将中国改革开放四十年划分为两个阶段: 前半段的【亚当·斯密模式】依靠市场机制和民间活力实现了高速增长, 后半段的【凯恩斯模式】则因政府过度干预而积累了大量债务、过剩产能与金融风险。书中批判了以四万亿为代表的刺激性宏观政策, 指出短期繁荣的代价是长期的系统性失衡, 主张回归供给侧改革, 重启市场化制度创新。在企业层面, 作者提醒传统行业警惕【互联网思维】的神话, 强调创新才是穿越经济寒冬的本钱。在思想层面, 他呼吁观念现代化, 主张以【理性个人主义】取代信仰真空, 警惕民族主义与民粹主义的合流。全书以冷静的经济学分析, 串联起制度、创新与价值三重建构, 指向同一个结论: 没有什么救世主, 中国的出路在于市场, 在于制度, 在于每一个普通人的自由与创造。</itunes:summary>
+      <itunes:duration>00:06:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-2be62d.mp3" length="3136409" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
