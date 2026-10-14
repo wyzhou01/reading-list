@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 14:14:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 14:21:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37388,6 +37388,17 @@
       <itunes:duration>00:03:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-b8f86e.mp3" length="1501771" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《温暖的力量（中国故事）》 · 完整版 · 温暖的力量（中国故事）_-_马家辉 · 完整讲读</title>
+      <description>《温暖的力量》是一本由马家辉主编的中国故事集,收录曹寇、北村、雷颐、张绍刚、徐贲等十余位作家的散文与小说。它直面高速发展时代中国人内心的焦虑与精神荒芜:动辄暴怒、随时冷漠、垃圾情绪蔓延、人人活成孤岛。全书以一个将军弑子弑妻的开篇故事切入,借京剧《汾河湾》的古老母题,追问当硬件全部升级,我们能否把软件也重装一次。书中探讨温柔的源头是慈悲,借点中国式的生活智慧,在黑暗时代仍然期待启明。它不提供答案,只提供一种可能——在垃圾情绪和如果鸦片把我们彻底淹没之前,重新学习温柔,重新学习慈悲,在心里留一颗不被踩灭的火种。</description>
+      <pubDate>Wed, 14 Oct 2026 14:21:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-a71ed3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《温暖的力量》是一本由马家辉主编的中国故事集,收录曹寇、北村、雷颐、张绍刚、徐贲等十余位作家的散文与小说。它直面高速发展时代中国人内心的焦虑与精神荒芜:动辄暴怒、随时冷漠、垃圾情绪蔓延、人人活成孤岛。全书以一个将军弑子弑妻的开篇故事切入,借京剧《汾河湾》的古老母题,追问当硬件全部升级,我们能否把软件也重装一次。书中探讨温柔的源头是慈悲,借点中国式的生活智慧,在黑暗时代仍然期待启明。它不提供答案,只提供一种可能——在垃圾情绪和如果鸦片把我们彻底淹没之前,重新学习温柔,重新学习慈悲,在心里留一颗不被踩灭的火种。</itunes:summary>
+      <itunes:duration>00:03:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-a71ed3.mp3" length="1767593" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
