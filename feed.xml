@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 14:07:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 14:14:49 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37377,6 +37377,17 @@
       <itunes:duration>00:03:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-0f2181.mp3" length="1444929" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我是谁：意象对话解读自我》 · 完整版 · 我是谁_意象对话解读自我_-_朱建军 · 完整讲读</title>
+      <description>本书是中国本土心理咨询师朱建军所著的意象对话疗法奠基之作。核心观点是:潜意识以画面为语言,情结通过意象显形,因此绕过语言防御直抵深层人格最有效的方式,是与来访者共同进入意象世界,通过修改意象来修改心理现实。全书分理论篇与操作篇,既有催眠、梦、艺术家思维与精神病思维同质性的理论奠基,也有从起始意象到反复强化的完整操作流程,并详谈了该疗法在儿童、神经症、性心理、婚姻等领域的使用与危险。最后朱建军提出意象对话的最高形态——学会与自己说话,使读者重新获得用画面思考、用内在对话疗愈自己的能力。</description>
+      <pubDate>Wed, 14 Oct 2026 14:14:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-b8f86e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是中国本土心理咨询师朱建军所著的意象对话疗法奠基之作。核心观点是:潜意识以画面为语言,情结通过意象显形,因此绕过语言防御直抵深层人格最有效的方式,是与来访者共同进入意象世界,通过修改意象来修改心理现实。全书分理论篇与操作篇,既有催眠、梦、艺术家思维与精神病思维同质性的理论奠基,也有从起始意象到反复强化的完整操作流程,并详谈了该疗法在儿童、神经症、性心理、婚姻等领域的使用与危险。最后朱建军提出意象对话的最高形态——学会与自己说话,使读者重新获得用画面思考、用内在对话疗愈自己的能力。</itunes:summary>
+      <itunes:duration>00:03:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-b8f86e.mp3" length="1501771" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
