@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 06:54:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 07:01:35 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37047,6 +37047,17 @@
       <itunes:duration>00:03:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-fe51f7.mp3" length="1760488" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《莎士比亚喜剧五种》 · 完整版 · 莎士比亚喜剧五种_(译文名著精选)_-_威廉·莎士比亚_(William_Shakespeare) · 完整讲读</title>
+      <description>本书收录莎士比亚五部经典喜剧：《仲夏夜之梦》借古希腊背景歌颂爱情与婚姻自主，《温莎的风流娘儿们》以日常琐事讽刺包办婚姻的荒谬，《捕风捉影》塑造白特丽丝与班尼迪一对欢喜冤家，宣告反禁欲主义的胜利，《威尼斯商人》借法庭与契约批判资本主义原始积累的血污，《暴风雨》以殖民荒岛的寓言质问文明与权力的本质。五部戏合在一起，呈现莎士比亚从情节喜剧到性格喜剧的艺术革命，也呈现文艺复兴时期人文主义者反封建、反禁欲、反压迫的乐观而锐利的反叛精神。</description>
+      <pubDate>Wed, 14 Oct 2026 07:01:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-6bd28f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书收录莎士比亚五部经典喜剧：《仲夏夜之梦》借古希腊背景歌颂爱情与婚姻自主，《温莎的风流娘儿们》以日常琐事讽刺包办婚姻的荒谬，《捕风捉影》塑造白特丽丝与班尼迪一对欢喜冤家，宣告反禁欲主义的胜利，《威尼斯商人》借法庭与契约批判资本主义原始积累的血污，《暴风雨》以殖民荒岛的寓言质问文明与权力的本质。五部戏合在一起，呈现莎士比亚从情节喜剧到性格喜剧的艺术革命，也呈现文艺复兴时期人文主义者反封建、反禁欲、反压迫的乐观而锐利的反叛精神。</itunes:summary>
+      <itunes:duration>00:02:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-6bd28f.mp3" length="1385160" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
