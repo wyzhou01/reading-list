@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 17:09:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 17:14:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37619,6 +37619,17 @@
       <itunes:duration>00:05:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-4e4c9a.mp3" length="2713017" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《朗读者》 · 完整版 · 朗读者_-_[德]_本哈德·施林克 · 完整讲读</title>
+      <description>十五岁的少年米夏偶遇有轨电车售票员汉娜，两人陷入一段秘密恋情，米夏为汉娜朗读文学经典。汉娜神秘消失后，米夏在大学期间作为法庭旁听生再次见到汉娜——她正作为纳粹时期集中营看守受审。米夏发现汉娜隐瞒了一个比战争罪更深的秘密：她是文盲，这个秘密驱使了她的所有选择，包括接受不属于自己的指控。沉默与爱、罪责与羞耻、代际之间的道德遗产，在一段朗读声中抵达悲悯。</description>
+      <pubDate>Wed, 14 Oct 2026 17:14:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-4336bd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>十五岁的少年米夏偶遇有轨电车售票员汉娜，两人陷入一段秘密恋情，米夏为汉娜朗读文学经典。汉娜神秘消失后，米夏在大学期间作为法庭旁听生再次见到汉娜——她正作为纳粹时期集中营看守受审。米夏发现汉娜隐瞒了一个比战争罪更深的秘密：她是文盲，这个秘密驱使了她的所有选择，包括接受不属于自己的指控。沉默与爱、罪责与羞耻、代际之间的道德遗产，在一段朗读声中抵达悲悯。</itunes:summary>
+      <itunes:duration>00:05:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-4336bd.mp3" length="2594734" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
