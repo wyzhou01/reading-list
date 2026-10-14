@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 12:23:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 12:30:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37223,6 +37223,17 @@
       <itunes:duration>00:04:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-ddedb0.mp3" length="2069777" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《像爱丽丝的小镇》 · 完整版 · 像爱丽丝的小镇 · 完整讲读</title>
+      <description>英国作家内维尔·舒特的代表作《像爱丽丝的小镇》，以二战为背景，讲述英国姑娘琴在马来亚被俘后，历经两年半的苦难跋涉幸存下来，战争结束又继承巨额遗产，却选择重返马来亚报恩并最终扎根澳洲荒原，与澳洲战俘乔共同将一处废弃小镇建设成繁荣家园的故事。全书透过一位伦敦老律师诺尔的回忆视角，舒展出一幅普通人在战争绝境与荒原开拓中凭坚韧、诚信与双手重建生活、回报恩情的群像画卷，是对人性尊严最朴素也最深沉的礼赞。</description>
+      <pubDate>Wed, 14 Oct 2026 12:30:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-a9d700</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>英国作家内维尔·舒特的代表作《像爱丽丝的小镇》，以二战为背景，讲述英国姑娘琴在马来亚被俘后，历经两年半的苦难跋涉幸存下来，战争结束又继承巨额遗产，却选择重返马来亚报恩并最终扎根澳洲荒原，与澳洲战俘乔共同将一处废弃小镇建设成繁荣家园的故事。全书透过一位伦敦老律师诺尔的回忆视角，舒展出一幅普通人在战争绝境与荒原开拓中凭坚韧、诚信与双手重建生活、回报恩情的群像画卷，是对人性尊严最朴素也最深沉的礼赞。</itunes:summary>
+      <itunes:duration>00:04:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-a9d700.mp3" length="1971557" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
