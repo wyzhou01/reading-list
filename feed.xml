@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 09:20:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 12:15:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37201,6 +37201,17 @@
       <itunes:duration>00:04:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-f5cc79.mp3" length="2029235" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《给青年小说家的信》 · 完整版 · 给青年小说家的信 · 完整讲读</title>
+      <description>《给青年小说家的信》是诺贝尔文学奖得主略萨晚年的书信体文集。这位拉美文学爆炸的旗手用十二封信，把文学抱负的胚胎、手艺的解剖、技法的清单一一摊开。第一封信追溯绦虫的童年起源——对现实的不满与反抗；第二封信借卡托布勒帕斯之喻解释小说家如何从自身汲取营养；第三到第十一封信逐一拆解说服力、风格、视角、时间、现实层面、结构飞跃、中国套盒、隐藏材料、连通管等小说技法。略萨反复强调的是：技法是牢不可破的整体，分开解剖必然得到一具尸体。这本书适合所有愿意把手艺练到底的人。</description>
+      <pubDate>Wed, 14 Oct 2026 12:15:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-d7ac65</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《给青年小说家的信》是诺贝尔文学奖得主略萨晚年的书信体文集。这位拉美文学爆炸的旗手用十二封信，把文学抱负的胚胎、手艺的解剖、技法的清单一一摊开。第一封信追溯绦虫的童年起源——对现实的不满与反抗；第二封信借卡托布勒帕斯之喻解释小说家如何从自身汲取营养；第三到第十一封信逐一拆解说服力、风格、视角、时间、现实层面、结构飞跃、中国套盒、隐藏材料、连通管等小说技法。略萨反复强调的是：技法是牢不可破的整体，分开解剖必然得到一具尸体。这本书适合所有愿意把手艺练到底的人。</itunes:summary>
+      <itunes:duration>00:05:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-d7ac65.mp3" length="2735586" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
