@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 17:16:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 17:22:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37630,6 +37630,17 @@
       <itunes:duration>00:05:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-4336bd.mp3" length="2594734" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《妩媚航班》 · 完整版 · 妩媚航班 · 完整讲读</title>
+      <description>《妩媚航班》是 80 后作家笛安二零零三至二零一三年十年中短篇小说精选集，收录十三部作品，从《姐姐的丛林》到《威廉姆斯之墓》，贯穿【被凝视、被捆住、无处可逃】的母题。笛安笔下没有救赎，只有被纳什均衡吞没的同谋、被死亡浪漫化所欺骗的亡者、被亲情与宿命死死缠住的灵魂。她借福克纳式的宿命深情，写尽青春的毁灭、北方的雪、巴黎的暗房与无人等候的渡口，是华语文学最具辨识度的冷冽声音之一。</description>
+      <pubDate>Wed, 14 Oct 2026 17:22:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-ecbb34</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《妩媚航班》是 80 后作家笛安二零零三至二零一三年十年中短篇小说精选集，收录十三部作品，从《姐姐的丛林》到《威廉姆斯之墓》，贯穿【被凝视、被捆住、无处可逃】的母题。笛安笔下没有救赎，只有被纳什均衡吞没的同谋、被死亡浪漫化所欺骗的亡者、被亲情与宿命死死缠住的灵魂。她借福克纳式的宿命深情，写尽青春的毁灭、北方的雪、巴黎的暗房与无人等候的渡口，是华语文学最具辨识度的冷冽声音之一。</itunes:summary>
+      <itunes:duration>00:03:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-ecbb34.mp3" length="1502607" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
