@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 13:00:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 13:10:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37278,6 +37278,17 @@
       <itunes:duration>00:03:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-0404c3.mp3" length="1782640" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《琥珀恋人》 · 完整版 · 琥珀恋人 · 完整讲读</title>
+      <description>《琥珀恋人》是茶韵悠悠二零一六年出版的长篇言情，以豪门婚姻与女性独立为核心。女主角欧阳明月十九岁嫁入顶级豪门罗家，婚后七年被当作花瓶收藏，丈夫罗长风心里另有所爱，她最终放弃赡养费、只带两只旧行李箱离开。二十六岁一无所有时，她凭在罗家被酒精腐蚀换来的葡萄酒手艺回到江南白手起家，遇到愿陪她把痛苦酿成酒的男人简秋。十五年后她戴上了简秋在拍卖会上重金拍下的钻石项链《明月心》，从一只被嫌弃的嫁妆箱活成了一块再也不会被捏碎的琥珀。</description>
+      <pubDate>Wed, 14 Oct 2026 13:09:56 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-84300a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《琥珀恋人》是茶韵悠悠二零一六年出版的长篇言情，以豪门婚姻与女性独立为核心。女主角欧阳明月十九岁嫁入顶级豪门罗家，婚后七年被当作花瓶收藏，丈夫罗长风心里另有所爱，她最终放弃赡养费、只带两只旧行李箱离开。二十六岁一无所有时，她凭在罗家被酒精腐蚀换来的葡萄酒手艺回到江南白手起家，遇到愿陪她把痛苦酿成酒的男人简秋。十五年后她戴上了简秋在拍卖会上重金拍下的钻石项链《明月心》，从一只被嫌弃的嫁妆箱活成了一块再也不会被捏碎的琥珀。</itunes:summary>
+      <itunes:duration>00:04:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-84300a.mp3" length="2357751" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
