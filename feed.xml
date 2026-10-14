@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 08:24:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 08:31:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37146,6 +37146,17 @@
       <itunes:duration>00:04:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-9e080b.mp3" length="1933941" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《致敬变革者（中国故事）》 · 完整版 · 致敬变革者_(中国故事) · 完整讲读</title>
+      <description>本书由十位来自家具、地产、汽车、科技、财经等领域的变革者共同写就。他们用十年、二十年、三十年的人生，回答了变革时代最值得注意的四个命题：革自己的命、把差异化做成活下去的姿态、和时间做对手、要留一块能传下去的地基。这本书不只是在致敬十位变革者，它还在致敬一种活法——用企业的肉身，承载个人扛不起的命题。</description>
+      <pubDate>Wed, 14 Oct 2026 08:31:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-bf8117</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书由十位来自家具、地产、汽车、科技、财经等领域的变革者共同写就。他们用十年、二十年、三十年的人生，回答了变革时代最值得注意的四个命题：革自己的命、把差异化做成活下去的姿态、和时间做对手、要留一块能传下去的地基。这本书不只是在致敬十位变革者，它还在致敬一种活法——用企业的肉身，承载个人扛不起的命题。</itunes:summary>
+      <itunes:duration>00:02:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-bf8117.mp3" length="1350052" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
