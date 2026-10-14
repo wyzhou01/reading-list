@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 17:48:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 17:53:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37696,6 +37696,17 @@
       <itunes:duration>00:05:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-c0f1eb.mp3" length="2729735" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《十问：霍金沉思录》 · 完整版 · 十问：霍金沉思录 · 完整讲读</title>
+      <description>《十问：霍金沉思录》是史蒂芬·霍金在二零一八年离世前后留下的最后遗作。这位二十一岁就被宣判死刑的渐冻症患者，用一根能动的手指和冰冷的机器音，向人类回答了十个终极问题——上帝存不存在？宇宙如何开始？黑洞里是什么？时间旅行可能吗？外星人存在吗？人工智能会不会超越我们？霍金用黑洞辐射和信息丢失悖论撬动上帝命题，用无边界宇宙替代第一推动，用量子涨落解释宇宙的自发创生，用平庸原理论证外星智慧的存在但警告主动联络的危险。他一生的核心洞见是：科学可以回答宗教留下的疑问，宇宙从虚无中自发生成，不需要上帝之手。这本书没有堆砌方程，只有最朴素的好奇与最硬核的思辨，是霍金留给人类的一份关于宇宙、时间和文明的最终答卷。</description>
+      <pubDate>Wed, 14 Oct 2026 17:53:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-e93240</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《十问：霍金沉思录》是史蒂芬·霍金在二零一八年离世前后留下的最后遗作。这位二十一岁就被宣判死刑的渐冻症患者，用一根能动的手指和冰冷的机器音，向人类回答了十个终极问题——上帝存不存在？宇宙如何开始？黑洞里是什么？时间旅行可能吗？外星人存在吗？人工智能会不会超越我们？霍金用黑洞辐射和信息丢失悖论撬动上帝命题，用无边界宇宙替代第一推动，用量子涨落解释宇宙的自发创生，用平庸原理论证外星智慧的存在但警告主动联络的危险。他一生的核心洞见是：科学可以回答宗教留下的疑问，宇宙从虚无中自发生成，不需要上帝之手。这本书没有堆砌方程，只有最朴素的好奇与最硬核的思辨，是霍金留给人类的一份关于宇宙、时间和文明的最终答卷。</itunes:summary>
+      <itunes:duration>00:02:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-e93240.mp3" length="1185794" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
