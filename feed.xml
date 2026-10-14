@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 13:39:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 13:46:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37333,6 +37333,17 @@
       <itunes:duration>00:03:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-dcc8d5.mp3" length="1787655" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《丰饶之海之三：晓寺》 · 完整版 · 丰饶之海之三：晓寺_-_三岛由纪夫_陈德文译 · 完整讲读</title>
+      <description>三岛由纪夫《丰饶之海》第三卷《晓寺》，把舞台从东京推向曼谷、加尔各答与御殿场。四十七岁的律师本多作为旁观者亲历三场火：清显死于痨病、勋死于神风连式的刀、金茜死于御殿场的烛火与眼镜蛇。本卷借阿赖耶识、唯识与转世之辩，撕开一个残忍的命题——若没有不死的灵魂，轮回的主体究竟落在何处？答案藏在本多无意识凝视的赤富士与冬富士之间：他一辈子只负责装下别人的晚霞，最终自己也成了下一把火的燃料。</description>
+      <pubDate>Wed, 14 Oct 2026 13:46:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-c5ce05</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>三岛由纪夫《丰饶之海》第三卷《晓寺》，把舞台从东京推向曼谷、加尔各答与御殿场。四十七岁的律师本多作为旁观者亲历三场火：清显死于痨病、勋死于神风连式的刀、金茜死于御殿场的烛火与眼镜蛇。本卷借阿赖耶识、唯识与转世之辩，撕开一个残忍的命题——若没有不死的灵魂，轮回的主体究竟落在何处？答案藏在本多无意识凝视的赤富士与冬富士之间：他一辈子只负责装下别人的晚霞，最终自己也成了下一把火的燃料。</itunes:summary>
+      <itunes:duration>00:04:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-c5ce05.mp3" length="2047626" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
