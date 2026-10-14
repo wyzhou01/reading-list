@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 07:52:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 08:00:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37102,6 +37102,17 @@
       <itunes:duration>00:04:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-7bcc70.mp3" length="1955675" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《时间的女儿》 · 完整版 · 时间的女儿_-_八月长安 · 完整讲读</title>
+      <description>八月长安散文集《时间的女儿》横跨十五年与十五岁的自己，回望从黑龙江哈尔滨到北大、从月光下的海到午夜航班舷窗的三十年诚实旅程。围绕虚荣与诚实的拉扯、青春期较劲与和解、时间流逝与自我和解、追星暗恋执念等主题，坦诚书写童年学琴的功利美育创伤、少女时期与红球鞋的暗战、对流星许愿的荒唐与浪漫、辞职学画书的法拍不出来的挫败感。诚实不是一件容易的事，从闭着眼跑到睁大眼看，这条路很长，长到要用三十年才能走完。但海尔波普还没有走远。</description>
+      <pubDate>Wed, 14 Oct 2026 08:00:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-311491</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>八月长安散文集《时间的女儿》横跨十五年与十五岁的自己，回望从黑龙江哈尔滨到北大、从月光下的海到午夜航班舷窗的三十年诚实旅程。围绕虚荣与诚实的拉扯、青春期较劲与和解、时间流逝与自我和解、追星暗恋执念等主题，坦诚书写童年学琴的功利美育创伤、少女时期与红球鞋的暗战、对流星许愿的荒唐与浪漫、辞职学画书的法拍不出来的挫败感。诚实不是一件容易的事，从闭着眼跑到睁大眼看，这条路很长，长到要用三十年才能走完。但海尔波普还没有走远。</itunes:summary>
+      <itunes:duration>00:04:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-311491.mp3" length="2094019" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
