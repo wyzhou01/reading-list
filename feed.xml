@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 07:23:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 07:30:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37069,6 +37069,17 @@
       <itunes:duration>00:03:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-4e5f85.mp3" length="1845751" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《科幻世界·译文版（2017年第二期）》 · 完整版 · 科幻世界·译文版（2017年第二期）_-_科幻世界 · 完整讲读</title>
+      <description>本期科幻世界译文版以《棋圣与棋圣》开篇，把阿法狗的进化史写成冷峻寓言——从学徒到神明，技术奇点已经降临。短篇《顽皮的白骨》切入赛博底城，一颗会思考的头颅挣脱同族看护四处游荡。长篇《兰诃玛城屠贼记》回身古典，让复仇者提着燃烧的火袋杀进盗贼工会。三条主线共同追问：当造物挣脱造物主，秩序究竟由谁来守护。</description>
+      <pubDate>Wed, 14 Oct 2026 07:30:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-695648</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期科幻世界译文版以《棋圣与棋圣》开篇，把阿法狗的进化史写成冷峻寓言——从学徒到神明，技术奇点已经降临。短篇《顽皮的白骨》切入赛博底城，一颗会思考的头颅挣脱同族看护四处游荡。长篇《兰诃玛城屠贼记》回身古典，让复仇者提着燃烧的火袋杀进盗贼工会。三条主线共同追问：当造物挣脱造物主，秩序究竟由谁来守护。</itunes:summary>
+      <itunes:duration>00:03:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-695648.mp3" length="1914715" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
