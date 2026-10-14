@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 02:11:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 02:21:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36739,6 +36739,17 @@
       <itunes:duration>00:03:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-9d1e0e.mp3" length="1916386" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《棋手之劫（中国故事）》 · 完整版 · 棋手之劫_(中国故事)_-_关军 · 完整讲读</title>
+      <description>关军的《棋手之劫》收录两篇深度特写——上篇《消不尽的劫》还原棋手钱宇平一九九一年临阵弃权、最终精神崩溃的真实轨迹, 下篇《个人赛》剖开象棋棋后诸宸在多哈亚运会期间承受的国籍转换争议与双重舆论围剿.全书通过两个天才运动员的命运, 追问一个沉重的命题: 当一盘棋承载的不只是输赢, 而是整个时代与民族的期待, 棋手如何自处? 关军以克制而诚实的笔触, 写出了天才陨落与身份撕裂背后, 个体在集体期待与自我寻找之间被迫承受的全部重量.</description>
+      <pubDate>Wed, 14 Oct 2026 02:21:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-d15c7f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>关军的《棋手之劫》收录两篇深度特写——上篇《消不尽的劫》还原棋手钱宇平一九九一年临阵弃权、最终精神崩溃的真实轨迹, 下篇《个人赛》剖开象棋棋后诸宸在多哈亚运会期间承受的国籍转换争议与双重舆论围剿.全书通过两个天才运动员的命运, 追问一个沉重的命题: 当一盘棋承载的不只是输赢, 而是整个时代与民族的期待, 棋手如何自处? 关军以克制而诚实的笔触, 写出了天才陨落与身份撕裂背后, 个体在集体期待与自我寻找之间被迫承受的全部重量.</itunes:summary>
+      <itunes:duration>00:04:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-d15c7f.mp3" length="2050969" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
