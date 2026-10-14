@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 16:55:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 17:01:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37597,6 +37597,17 @@
       <itunes:duration>00:05:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-e05ff9.mp3" length="2419609" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《控梦东京》 · 完整版 · 控梦东京 · 完整讲读</title>
+      <description>《控梦东京》是青年作者汤在十八至二十岁间写就的处女作，由《控梦大赛》决赛的梦中博弈、《丈夫杀死过你》的反转独幕剧、《人类最后的首领》的末日寓言，以及《东方蒸汽帝国》的架空宫廷剧四个故事拼合而成。全书围绕【梦境与现实的边界】展开：当梦境可录制、可评分、可作证据，三年前【血红少女案】的嫌疑人林澈被迫在全球直播中做梦，而控梦者独奕与少年探员汤借这一契机，追查那桩无解的悬案。小说将本格推理、哲学追问与东方蒸汽朋克熔铸在一起，最终逼出那个古典而锋利的命题：【你确信自己不是在做梦吗？】</description>
+      <pubDate>Wed, 14 Oct 2026 17:01:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-f942a2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《控梦东京》是青年作者汤在十八至二十岁间写就的处女作，由《控梦大赛》决赛的梦中博弈、《丈夫杀死过你》的反转独幕剧、《人类最后的首领》的末日寓言，以及《东方蒸汽帝国》的架空宫廷剧四个故事拼合而成。全书围绕【梦境与现实的边界】展开：当梦境可录制、可评分、可作证据，三年前【血红少女案】的嫌疑人林澈被迫在全球直播中做梦，而控梦者独奕与少年探员汤借这一契机，追查那桩无解的悬案。小说将本格推理、哲学追问与东方蒸汽朋克熔铸在一起，最终逼出那个古典而锋利的命题：【你确信自己不是在做梦吗？】</itunes:summary>
+      <itunes:duration>00:03:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-f942a2.mp3" length="1552344" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
