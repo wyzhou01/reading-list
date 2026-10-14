@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 16:32:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 16:38:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37575,6 +37575,17 @@
       <itunes:duration>00:04:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-fd093b.mp3" length="2083570" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《潜伏归来》 · 完整版 · 潜伏归来_-_凤凰书品 · 完整讲读</title>
+      <description>《潜伏归来》是凤凰卫视出版中心整理的口述历史集，记录了十位隐蔽战线亲历者的真实故事。从打入国民党心脏的最高情报官吴石、女特工朱谌之在台北马场町的壮烈牺牲，到驾机起义、潜伏柬埔寨、随侍溥仪、狱中度过的无名岁月，每一段记忆都来自当事人或其后代第一次完整曝光。书中既有信仰的力量，也有叛变带来的惨痛代价；既有家国大义，也有身后几十年离散的家庭。这是一份关于隐蔽战线真实代价的沉重档案，也是一份关于归来与被记住的承诺。</description>
+      <pubDate>Wed, 14 Oct 2026 16:38:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-193972</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《潜伏归来》是凤凰卫视出版中心整理的口述历史集，记录了十位隐蔽战线亲历者的真实故事。从打入国民党心脏的最高情报官吴石、女特工朱谌之在台北马场町的壮烈牺牲，到驾机起义、潜伏柬埔寨、随侍溥仪、狱中度过的无名岁月，每一段记忆都来自当事人或其后代第一次完整曝光。书中既有信仰的力量，也有叛变带来的惨痛代价；既有家国大义，也有身后几十年离散的家庭。这是一份关于隐蔽战线真实代价的沉重档案，也是一份关于归来与被记住的承诺。</itunes:summary>
+      <itunes:duration>00:04:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-193972.mp3" length="2115335" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
