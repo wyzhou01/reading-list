@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 04:23:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 04:31:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36904,6 +36904,17 @@
       <itunes:duration>00:02:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-0147a2.mp3" length="1373875" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《猎人们》 · 完整版 · 猎人们 · 完整讲读</title>
+      <description>《猎人们》是台湾作家朱天心书写她与家人二十余年来与街猫、流浪猫共处的非虚构作品。书里每一只猫都有姓名与性格：花生、纳莉、麻瓜、辛辛……它们是顶尖猎手，是孤傲的女皇，是不肯向人低头的野性灵魂。围绕这些猫的故事，朱天心展开了一场关于城市生命伦理的静悄悄革命——说服台北市政府以 T N R（捕捉、绝育、放回）取代捕捉扑杀，让流浪族群自然凋零。这本书不只是写猫，更是借猫之眼看人：一个人如何对待弱者，即如何对待下一代；同理心不是天赋，是可以练习的结果；一个国家的强盛与道德，端看它如何对待其他生灵。</description>
+      <pubDate>Wed, 14 Oct 2026 04:31:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-3399ff</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《猎人们》是台湾作家朱天心书写她与家人二十余年来与街猫、流浪猫共处的非虚构作品。书里每一只猫都有姓名与性格：花生、纳莉、麻瓜、辛辛……它们是顶尖猎手，是孤傲的女皇，是不肯向人低头的野性灵魂。围绕这些猫的故事，朱天心展开了一场关于城市生命伦理的静悄悄革命——说服台北市政府以 T N R（捕捉、绝育、放回）取代捕捉扑杀，让流浪族群自然凋零。这本书不只是写猫，更是借猫之眼看人：一个人如何对待弱者，即如何对待下一代；同理心不是天赋，是可以练习的结果；一个国家的强盛与道德，端看它如何对待其他生灵。</itunes:summary>
+      <itunes:duration>00:05:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-3399ff.mp3" length="2573000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
