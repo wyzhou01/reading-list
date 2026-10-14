@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 13:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 13:16:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37289,6 +37289,17 @@
       <itunes:duration>00:04:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-84300a.mp3" length="2357751" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《冷山》 · 完整版 · 冷山 · 完整讲读</title>
+      <description>《冷山》是美国南方作家查尔斯·弗雷泽的第一部长篇，写于一八六四年美国内战末尾，却不是一本战史——它只写一个叫英曼的南军伤兵，从彼得斯堡郊外的医院一路翻山回到北卡罗来纳西部的冷山脚下，找他那个叫艾达的女人。书里没有名将调度，只有战场遗下的梦魇、苍蝇和一块像桃核的弹片；同时冷山这一头，艾达从一位只会弹琴的城里女人，学会劈柴、挤奶、跟一位邻居老太太交换鸡蛋和种子。两人分别在自己那一端，把被战争碾过的生活再重新种一遍。弗雷泽真正想回答的，从来不是战争如何结束，而是人从战场上活着回来之后，还能不能重新活一次。</description>
+      <pubDate>Wed, 14 Oct 2026 13:15:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-67392f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《冷山》是美国南方作家查尔斯·弗雷泽的第一部长篇，写于一八六四年美国内战末尾，却不是一本战史——它只写一个叫英曼的南军伤兵，从彼得斯堡郊外的医院一路翻山回到北卡罗来纳西部的冷山脚下，找他那个叫艾达的女人。书里没有名将调度，只有战场遗下的梦魇、苍蝇和一块像桃核的弹片；同时冷山这一头，艾达从一位只会弹琴的城里女人，学会劈柴、挤奶、跟一位邻居老太太交换鸡蛋和种子。两人分别在自己那一端，把被战争碾过的生活再重新种一遍。弗雷泽真正想回答的，从来不是战争如何结束，而是人从战场上活着回来之后，还能不能重新活一次。</itunes:summary>
+      <itunes:duration>00:03:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-67392f.mp3" length="1530610" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
