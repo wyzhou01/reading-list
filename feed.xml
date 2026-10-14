@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 18:39:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 18:45:21 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37784,6 +37784,17 @@
       <itunes:duration>00:03:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-ea2a1e.mp3" length="1867485" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《脱轨》 · 完整版 · 脱轨（网络版）_-_Priest【雨浪】（豆瓣7.3） · 完整讲读</title>
+      <description>脱轨讲述了富家女江晓媛因一场意外被抛入平行时空，从身无分文的打工妹重新开始，在泥潭里一点一点撕掉靠家世堆起的优越感，最终靠下笨功夫重新站起来的故事。作者 Priest 用穿越的外壳，写的是身份被清零后，一个人如何从依附走向独立、从脆弱走向能扛事。作品最终落点朴素但有力：所有外在的附加值都会撤走，能陪你熬过那一天重来的，只有你自己一天一天长出来的内核。</description>
+      <pubDate>Wed, 14 Oct 2026 18:45:17 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-bb0e8e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>脱轨讲述了富家女江晓媛因一场意外被抛入平行时空，从身无分文的打工妹重新开始，在泥潭里一点一点撕掉靠家世堆起的优越感，最终靠下笨功夫重新站起来的故事。作者 Priest 用穿越的外壳，写的是身份被清零后，一个人如何从依附走向独立、从脆弱走向能扛事。作品最终落点朴素但有力：所有外在的附加值都会撤走，能陪你熬过那一天重来的，只有你自己一天一天长出来的内核。</itunes:summary>
+      <itunes:duration>00:03:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-bb0e8e.mp3" length="1701137" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
