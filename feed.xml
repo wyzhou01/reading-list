@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 03:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 03:11:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36794,6 +36794,17 @@
       <itunes:duration>00:04:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-66ff35.mp3" length="1926000" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《莲与荷的文化史：古典诗歌中的植物名研究》 · 完整版 · 莲与荷的文化史：古典诗歌中的植物名研究_--日本唐代文学研究十家 · 完整讲读</title>
+      <description>日本学者市川桃子穷三十年之力，从《诗经》一路追到十九世纪维也纳，考察了中国古典诗歌中表示【莲花】的五种诗语【莲花】【芙蓉】【荷花】【菡萏】【藕花】的语义变迁，以及乐府诗《采莲曲》从江南水乡飞跃到马勒交响曲《大地之歌》的过程。她揭示了一个核心秘密——一个民族如何看花，决定了它如何看世界、看自己；而美与精神，永远可以穿越所有的边界，到达所有被感动的人。</description>
+      <pubDate>Wed, 14 Oct 2026 03:11:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-f56250</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>日本学者市川桃子穷三十年之力，从《诗经》一路追到十九世纪维也纳，考察了中国古典诗歌中表示【莲花】的五种诗语【莲花】【芙蓉】【荷花】【菡萏】【藕花】的语义变迁，以及乐府诗《采莲曲》从江南水乡飞跃到马勒交响曲《大地之歌》的过程。她揭示了一个核心秘密——一个民族如何看花，决定了它如何看世界、看自己；而美与精神，永远可以穿越所有的边界，到达所有被感动的人。</itunes:summary>
+      <itunes:duration>00:04:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-f56250.mp3" length="2099453" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
