@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 06:15:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 06:25:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37003,6 +37003,17 @@
       <itunes:duration>00:03:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-562f31.mp3" length="1746695" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《迁就与限制：美国政教关系研究》 · 完整版 · 迁就与限制 · 完整讲读</title>
+      <description>《迁就与限制》是董江阳关于美国政教关系的系统性研究，从殖民地时期一直写到当代。全书以「分离论」与「迁就论」两条线索的拉锯为主轴，梳理了三百多年间宪法宗教条款如何在立法、行政和司法三大场域被解释、被推翻和被重写。作者既回溯了罗杰·威廉斯、麦迪逊、杰斐逊等关键人物的思想实验，也细致剖析了【舍伯特测验】【莱蒙测验】【史密斯案】与「牧师例外」等司法标准的演变。最终指出：美国政教试验的最大教训，不是「分离」或「迁就」哪个更对，而是任何一种简化为非此即彼的方案都注定要失败；真正能跑通的，是一条不断自我修正的中间路线。</description>
+      <pubDate>Wed, 14 Oct 2026 06:25:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-24220d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《迁就与限制》是董江阳关于美国政教关系的系统性研究，从殖民地时期一直写到当代。全书以「分离论」与「迁就论」两条线索的拉锯为主轴，梳理了三百多年间宪法宗教条款如何在立法、行政和司法三大场域被解释、被推翻和被重写。作者既回溯了罗杰·威廉斯、麦迪逊、杰斐逊等关键人物的思想实验，也细致剖析了【舍伯特测验】【莱蒙测验】【史密斯案】与「牧师例外」等司法标准的演变。最终指出：美国政教试验的最大教训，不是「分离」或「迁就」哪个更对，而是任何一种简化为非此即彼的方案都注定要失败；真正能跑通的，是一条不断自我修正的中间路线。</itunes:summary>
+      <itunes:duration>00:04:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-24220d.mp3" length="2082734" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
