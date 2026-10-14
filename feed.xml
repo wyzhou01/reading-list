@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 18:32:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 18:39:02 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37773,6 +37773,17 @@
       <itunes:duration>00:03:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-3d9c9f.mp3" length="1919730" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《怨灵》 · 完整版 · 怨灵 · 完整讲读</title>
+      <description>《怨灵》是红娘子二零一四年出版的一部公路恐怖悬疑小说。七个素不相识的网友拼车出游，途中目睹车祸后集体逃离，又在深山大雾中陷入服务站的循环往复。在恐惧、猜忌、贪欲与妒火的不断催化下，七人从沉默旁观一步步走向互相倾轧。红娘子借灵异外壳，写下了一堂关于人性弱点的审判课：恐惧从来不是凭空出现的，遗忘也从来不是真的放下。当沈傲在尾声踩下那脚不该踩的油门，被撞翻的红色轿车里那个穿红衣的女人，才真正从怨灵变回了活人。</description>
+      <pubDate>Wed, 14 Oct 2026 18:38:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-ea2a1e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《怨灵》是红娘子二零一四年出版的一部公路恐怖悬疑小说。七个素不相识的网友拼车出游，途中目睹车祸后集体逃离，又在深山大雾中陷入服务站的循环往复。在恐惧、猜忌、贪欲与妒火的不断催化下，七人从沉默旁观一步步走向互相倾轧。红娘子借灵异外壳，写下了一堂关于人性弱点的审判课：恐惧从来不是凭空出现的，遗忘也从来不是真的放下。当沈傲在尾声踩下那脚不该踩的油门，被撞翻的红色轿车里那个穿红衣的女人，才真正从怨灵变回了活人。</itunes:summary>
+      <itunes:duration>00:03:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-ea2a1e.mp3" length="1867485" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
