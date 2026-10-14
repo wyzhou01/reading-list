@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 07:30:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 07:44:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37080,6 +37080,17 @@
       <itunes:duration>00:03:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-695648.mp3" length="1914715" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《智慧政府：大数据治国时代的来临》 · 完整版 · 智慧政府(1) · 完整讲读</title>
+      <description>本书系统阐述了大数据时代背景下政府治理模式的根本变革。作者指出，大数据将催生&apos;第二序改变&apos;，通过数据化、物联化、智能化搭建智慧平台，重塑政府的决策方式、公共服务和社会管理模式。书中结合国内外大量案例，从大数据思维、城市治理、交通、医疗、反腐、应急等多个维度，描绘了智慧政府的全景图，并探讨了大数据上升为国家战略的实现路径、挑战与风险。</description>
+      <pubDate>Wed, 14 Oct 2026 07:44:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-999b4a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书系统阐述了大数据时代背景下政府治理模式的根本变革。作者指出，大数据将催生&apos;第二序改变&apos;，通过数据化、物联化、智能化搭建智慧平台，重塑政府的决策方式、公共服务和社会管理模式。书中结合国内外大量案例，从大数据思维、城市治理、交通、医疗、反腐、应急等多个维度，描绘了智慧政府的全景图，并探讨了大数据上升为国家战略的实现路径、挑战与风险。</itunes:summary>
+      <itunes:duration>00:06:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-999b4a.mp3" length="2933699" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
