@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Tue, 13 Oct 2026 23:55:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 00:03:27 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36596,6 +36596,17 @@
       <itunes:duration>00:05:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-c87df0.mp3" length="2752305" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《虚拟人》 · 完整版 · 虚拟人(机器人与人工智能书系) · 完整讲读</title>
+      <description>本书提出一个大胆命题：人类意识可以被数字化复制，从而诞生出有情感、有记忆、有自我意识的思维克隆人。作者通过介绍BINA48机器人、被誉为可穿戴设备之父的史蒂夫·曼等人的研究进展，论证思维文件与思维软件技术的可行性，并系统探讨其对身份认同、法律权利、宗教伦理与家庭结构带来的颠覆性冲击。书中呼吁读者为即将到来的数字永生时代做好思想与制度准备，因为思维克隆人将不再是科幻，而是一个我们这代人必须面对的现实选项。</description>
+      <pubDate>Wed, 14 Oct 2026 00:03:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-865c49</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书提出一个大胆命题：人类意识可以被数字化复制，从而诞生出有情感、有记忆、有自我意识的思维克隆人。作者通过介绍BINA48机器人、被誉为可穿戴设备之父的史蒂夫·曼等人的研究进展，论证思维文件与思维软件技术的可行性，并系统探讨其对身份认同、法律权利、宗教伦理与家庭结构带来的颠覆性冲击。书中呼吁读者为即将到来的数字永生时代做好思想与制度准备，因为思维克隆人将不再是科幻，而是一个我们这代人必须面对的现实选项。</itunes:summary>
+      <itunes:duration>00:04:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-865c49.mp3" length="2226094" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
