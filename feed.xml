@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 18:51:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 18:55:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37806,6 +37806,17 @@
       <itunes:duration>00:04:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-3fe3fc.mp3" length="2013771" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《花的圆舞曲》 · 完整版 · 花的圆舞曲_-_[日]川端康成 · 完整讲读</title>
+      <description>《花的圆舞曲》是川端康成在一九六一年前后写下的五篇中短篇小说集。一个父亲用一张自己的旧照片，冒充一个陌生女孩的生父；一条叫四六的狼狗，被训练成维护贞节的看家狗，最终却咬伤了给它起名的旧主人；一个男人瞒着女友，独自远行请求她多年未见的父亲同意婚事，十年后那封多余的情书终于救回了三个人。一个名叫莉拉子的女人，在浅草的十天里订婚又毁婚五次，最终和一个学生私奔到九州，留下一屋子寻找她的男人和一把插在榻榻米上的短刀。一个失眠的男人，在梦里借来一只年轻姑娘的右胳膊安在自己肩上，终于获得了有生以来最安稳的一觉，却在梦醒的瞬间把它从肩上扯下，像抱起正在冷却的婴儿那样死死搂在怀里。川端的笔冷得像玻璃，所有情感都被压到最低温度，却让你在字里行间感到窒息般的心疼。这本书讲的从来不是日本，是人——是每一个必须靠借来的温度、虚妄的身份、临时的忠诚，撑过失眠之夜的孤独者。</description>
+      <pubDate>Wed, 14 Oct 2026 18:55:24 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-93392f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《花的圆舞曲》是川端康成在一九六一年前后写下的五篇中短篇小说集。一个父亲用一张自己的旧照片，冒充一个陌生女孩的生父；一条叫四六的狼狗，被训练成维护贞节的看家狗，最终却咬伤了给它起名的旧主人；一个男人瞒着女友，独自远行请求她多年未见的父亲同意婚事，十年后那封多余的情书终于救回了三个人。一个名叫莉拉子的女人，在浅草的十天里订婚又毁婚五次，最终和一个学生私奔到九州，留下一屋子寻找她的男人和一把插在榻榻米上的短刀。一个失眠的男人，在梦里借来一只年轻姑娘的右胳膊安在自己肩上，终于获得了有生以来最安稳的一觉，却在梦醒的瞬间把它从肩上扯下，像抱起正在冷却的婴儿那样死死搂在怀里。川端的笔冷得像玻璃，所有情感都被压到最低温度，却让你在字里行间感到窒息般的心疼。这本书讲的从来不是日本，是人——是每一个必须靠借来的温度、虚妄的身份、临时的忠诚，撑过失眠之夜的孤独者。</itunes:summary>
+      <itunes:duration>00:01:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-93392f.mp3" length="797928" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
