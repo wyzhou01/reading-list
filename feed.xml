@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 12:42:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 12:53:46 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37256,6 +37256,17 @@
       <itunes:duration>00:03:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-c87f75.mp3" length="1708243" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《佛罗伦萨之夜》 · 完整版 · 佛罗伦萨之夜（译文经典） · 完整讲读</title>
+      <description>本书收录德国十九世纪诗人海涅的四部散文作品:《巴赫拉赫的拉比》《佛罗伦萨之夜》《冯·施纳贝莱沃普斯基先生回忆录》与舞剧脚本《浮士德博士》。创作时间跨度从一八二〇年代中期至一八五一年,正值海涅被祖国永久流放、被普鲁士查禁著作的人生阶段。四部作品分别指向犹太民族的流散命运、流亡者的爱情与孤独、东欧青年的成长以及德意志精神的现代重写,共同构成一位敏感诗人被时代逼成流亡者后的精神自传。海涅以文学而非论文的方式完成哲学式的批判,用小说、舞剧、回忆录的形式处理信仰、肉身、艺术、政治等重大主题,把一个流亡者最深的三场失败,写成了人类共有的三面镜子。</description>
+      <pubDate>Wed, 14 Oct 2026 12:53:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-6ad04e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书收录德国十九世纪诗人海涅的四部散文作品:《巴赫拉赫的拉比》《佛罗伦萨之夜》《冯·施纳贝莱沃普斯基先生回忆录》与舞剧脚本《浮士德博士》。创作时间跨度从一八二〇年代中期至一八五一年,正值海涅被祖国永久流放、被普鲁士查禁著作的人生阶段。四部作品分别指向犹太民族的流散命运、流亡者的爱情与孤独、东欧青年的成长以及德意志精神的现代重写,共同构成一位敏感诗人被时代逼成流亡者后的精神自传。海涅以文学而非论文的方式完成哲学式的批判,用小说、舞剧、回忆录的形式处理信仰、肉身、艺术、政治等重大主题,把一个流亡者最深的三场失败,写成了人类共有的三面镜子。</itunes:summary>
+      <itunes:duration>00:08:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-6ad04e.mp3" length="3944324" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
