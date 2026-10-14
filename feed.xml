@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 07:01:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 07:23:19 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37058,6 +37058,17 @@
       <itunes:duration>00:02:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-6bd28f.mp3" length="1385160" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《邻人：波兰小镇耶德瓦布内中犹太群体的灭亡》 · 完整版 · 邻人：波兰小镇耶德瓦布内中犹太群体的灭亡 · 完整讲读</title>
+      <description>《邻人》是普林斯顿大学教授扬·格罗斯对1941年7月10日波兰小镇耶德瓦布内屠杀的史学拷问：占人口一半的波兰居民，将另一半一千六百名犹太人赶入谷仓活活烧死。八个盖世太保开完会即离开，刽子手全是本地人。作者用庭审口供、幸存者证词与德方影像证明：纳粹只是许可证发放者，动手的是邻居自己。斯大林时期的告密文化先撕裂了社会肌理，纳粹再释放信号，本地人按积怨清单接管屠杀。作恶之后，小镇照常运转了三代人，靠一层难堪的沉默封存记忆。本书颠覆了大屠杀叙事中波兰人只是旁观者的主流看法，提出一个让每个现代读者都无法豁免的追问：当秩序真空降临，邻人之间的怨愤如何在一夜之间变成集体谋杀。</description>
+      <pubDate>Wed, 14 Oct 2026 07:23:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-4e5f85</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《邻人》是普林斯顿大学教授扬·格罗斯对1941年7月10日波兰小镇耶德瓦布内屠杀的史学拷问：占人口一半的波兰居民，将另一半一千六百名犹太人赶入谷仓活活烧死。八个盖世太保开完会即离开，刽子手全是本地人。作者用庭审口供、幸存者证词与德方影像证明：纳粹只是许可证发放者，动手的是邻居自己。斯大林时期的告密文化先撕裂了社会肌理，纳粹再释放信号，本地人按积怨清单接管屠杀。作恶之后，小镇照常运转了三代人，靠一层难堪的沉默封存记忆。本书颠覆了大屠杀叙事中波兰人只是旁观者的主流看法，提出一个让每个现代读者都无法豁免的追问：当秩序真空降临，邻人之间的怨愤如何在一夜之间变成集体谋杀。</itunes:summary>
+      <itunes:duration>00:03:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-4e5f85.mp3" length="1845751" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
