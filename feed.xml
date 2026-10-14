@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 19:14:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 19:23:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37839,6 +37839,17 @@
       <itunes:duration>00:04:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-abfafb.mp3" length="2337271" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《树之生命木之心(天地人三卷)》 · 完整版 · 树之生命木之心(天地人三卷) · 完整讲读</title>
+      <description>《树之生命木之心》是日本非虚构大家盐野米松用二十年跟拍法隆寺最后一代宫廷木匠西冈常一与独徒小川三夫写下的匠人告白。一棵树活着的时候有山林那条命,倒下后还有屋檐下那条命;一座寺庙要立一千年,靠的不是木头,是木匠代代慢炖的工夫——认得每一片木屑的脾性,在徒弟手底下磨十年,等树苗两百年长成才能拆旧殿立新堂。这本书讲的,是【慢】在【快】时代里,如何还立得住。</description>
+      <pubDate>Wed, 14 Oct 2026 19:23:21 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-19b5f4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《树之生命木之心》是日本非虚构大家盐野米松用二十年跟拍法隆寺最后一代宫廷木匠西冈常一与独徒小川三夫写下的匠人告白。一棵树活着的时候有山林那条命,倒下后还有屋檐下那条命;一座寺庙要立一千年,靠的不是木头,是木匠代代慢炖的工夫——认得每一片木屑的脾性,在徒弟手底下磨十年,等树苗两百年长成才能拆旧殿立新堂。这本书讲的,是【慢】在【快】时代里,如何还立得住。</itunes:summary>
+      <itunes:duration>00:05:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-19b5f4.mp3" length="2503619" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
