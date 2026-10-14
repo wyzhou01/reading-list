@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 18:55:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 19:04:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37817,6 +37817,17 @@
       <itunes:duration>00:01:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-93392f.mp3" length="797928" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《流行的国际主义》 · 完整版 · 流行的国际主义 · 完整讲读</title>
+      <description>诺贝尔经济学奖得主克鲁格曼以九十年代小石城的一次演讲为引子，揭示【竞争力】这一概念在公众讨论中的虚假性：贸易逆差本质是国内储蓄与投资的会计镜像，亚洲奇迹背后是资源动员而非效率神话，真正塑造就业与城市命运的，是技术变革与本地化进程，而非任何跨国竞赛。读完本书，你将获得一种识别伪经济学话语的能力，不再被【国家间竞争】的惊悚叙事所裹挟。</description>
+      <pubDate>Wed, 14 Oct 2026 19:04:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-52ec46</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>诺贝尔经济学奖得主克鲁格曼以九十年代小石城的一次演讲为引子，揭示【竞争力】这一概念在公众讨论中的虚假性：贸易逆差本质是国内储蓄与投资的会计镜像，亚洲奇迹背后是资源动员而非效率神话，真正塑造就业与城市命运的，是技术变革与本地化进程，而非任何跨国竞赛。读完本书，你将获得一种识别伪经济学话语的能力，不再被【国家间竞争】的惊悚叙事所裹挟。</itunes:summary>
+      <itunes:duration>00:06:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-52ec46.mp3" length="3210806" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
