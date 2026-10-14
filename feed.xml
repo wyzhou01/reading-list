@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 04:01:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 04:13:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -36882,6 +36882,17 @@
       <itunes:duration>00:02:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-017882.mp3" length="1247652" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《庸人治国》 · 完整版 · 庸人治国 · 完整讲读</title>
+      <description>《庸人治国》是苗棣教授剖析明末大太监魏忠贤专权乱政的通俗史作。一个大字不识的赌徒，如何靠着巴结皇帝奶母客氏与皇帝乳母身份上位，把持天启朝政三年，把大明王朝的最后一点元气耗尽？本书以袁崇焕的冤案、方震孺的冤狱、苏州民变、《三朝要典》等真实历史事件为切口，揭示了宦官专权、特务恐怖、合法性论证、造神工程、体制性腐败等晚明政治的核心病灶，并最终指向一个尖锐的命题——忠臣之忠是为天下，忠仆之忠是为一人；当一个时代只剩下忠仆之忠时，这个时代就再也无药可救。</description>
+      <pubDate>Wed, 14 Oct 2026 04:12:58 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261013-episode-20261013-4c952a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《庸人治国》是苗棣教授剖析明末大太监魏忠贤专权乱政的通俗史作。一个大字不识的赌徒，如何靠着巴结皇帝奶母客氏与皇帝乳母身份上位，把持天启朝政三年，把大明王朝的最后一点元气耗尽？本书以袁崇焕的冤案、方震孺的冤狱、苏州民变、《三朝要典》等真实历史事件为切口，揭示了宦官专权、特务恐怖、合法性论证、造神工程、体制性腐败等晚明政治的核心病灶，并最终指向一个尖锐的命题——忠臣之忠是为天下，忠仆之忠是为一人；当一个时代只剩下忠仆之忠时，这个时代就再也无药可救。</itunes:summary>
+      <itunes:duration>00:04:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261013/episode-20261013-4c952a.mp3" length="2234871" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
