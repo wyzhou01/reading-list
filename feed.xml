@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 19:23:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 19:30:04 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37850,6 +37850,17 @@
       <itunes:duration>00:05:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-19b5f4.mp3" length="2503619" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《曾国藩的正面与侧面》 · 完整版 · 曾国藩的正面与侧面 · 完整讲读</title>
+      <description>《曾国藩的正面与侧面》是张宏杰献给曾国藩诞辰两百周年的诚意之作。他抛开了成功学的宏大叙事，从家书、日记、账本等第一手材料中打捞出一个立体、笨拙、纠结却咬牙前行的真实的人：五次耻辱中的精神脱胎换骨，与左宗棠一生的恩怨纠葛，京官工资条与陋规制度，迷信天命与精神自洽。一个资质平平的湖南人，靠【打脱牙和血吞】的笨拙功夫，撑起一个王朝最后的脊梁。</description>
+      <pubDate>Wed, 14 Oct 2026 19:30:00 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-f304d8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《曾国藩的正面与侧面》是张宏杰献给曾国藩诞辰两百周年的诚意之作。他抛开了成功学的宏大叙事，从家书、日记、账本等第一手材料中打捞出一个立体、笨拙、纠结却咬牙前行的真实的人：五次耻辱中的精神脱胎换骨，与左宗棠一生的恩怨纠葛，京官工资条与陋规制度，迷信天命与精神自洽。一个资质平平的湖南人，靠【打脱牙和血吞】的笨拙功夫，撑起一个王朝最后的脊梁。</itunes:summary>
+      <itunes:duration>00:04:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-f304d8.mp3" length="2171342" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
