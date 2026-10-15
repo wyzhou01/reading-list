@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 01:24:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 01:39:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38026,6 +38026,17 @@
       <itunes:duration>00:03:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-b99fdf.mp3" length="1747531" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《温州两家人》 · 完整版 · 温州两家人 · 完整讲读</title>
+      <description>《温州两家人》是作家李涛写温州商人全球闯荡的长篇小说。故事以侯三寿与黄瑞诚这对既是兄弟又是对手的温州老板为主角，从二零零三年侯三寿在纽约机场被误认作恐怖分子的荒诞开场，写到两人在中美贸易摩擦与全球金融危机中接连破产、出走非洲、历经生死，最后在媒体见面会上喊出温商最大的财富是诚信。书中既写出了海外华人被同胞算计的暗面，也写出了竞争对手之间打完一拳再拥抱的兄弟情，更写出了诚信从一句口号变成可以兑现的资产的全部代价。这本书不是又一个温商翻身的神话，而是一群生意人用破产、流亡和差点死在货舱里的亲身经历，把诚信这两个字重新写进账本的艰难过程。</description>
+      <pubDate>Thu, 15 Oct 2026 01:39:29 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-9968dc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《温州两家人》是作家李涛写温州商人全球闯荡的长篇小说。故事以侯三寿与黄瑞诚这对既是兄弟又是对手的温州老板为主角，从二零零三年侯三寿在纽约机场被误认作恐怖分子的荒诞开场，写到两人在中美贸易摩擦与全球金融危机中接连破产、出走非洲、历经生死，最后在媒体见面会上喊出温商最大的财富是诚信。书中既写出了海外华人被同胞算计的暗面，也写出了竞争对手之间打完一拳再拥抱的兄弟情，更写出了诚信从一句口号变成可以兑现的资产的全部代价。这本书不是又一个温商翻身的神话，而是一群生意人用破产、流亡和差点死在货舱里的亲身经历，把诚信这两个字重新写进账本的艰难过程。</itunes:summary>
+      <itunes:duration>00:09:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-9968dc.mp3" length="4537826" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
