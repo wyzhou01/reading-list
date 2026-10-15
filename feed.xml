@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 05:30:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 05:36:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38356,6 +38356,17 @@
       <itunes:duration>00:10:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-5ae4f8.mp3" length="4836249" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《九州·戏中人》 · 完整版 · 九州·戏中人v1.0_-_唐缺 · 完整讲读</title>
+      <description>《九州·戏中人》是九州系列作家唐缺的一本科幻实验小说。一个玩了十五年游戏的中国宅男黄小路，被同学李彬留下的一张神秘光盘拖进名为九州的虚拟世界，却发现这里的死亡会直接带走现实世界的清醒。在通关过程中，他借由角色吕归尘与依马德重新感受到了疼痛、勇气、爱与遗憾，也与另一个真实玩家林霁月并肩走上了抵抗九州最大阴谋的冒险。一个写游戏如何杀人的故事，最终讲的是，一个人怎样在最不像自己的地方，重新看见自己。</description>
+      <pubDate>Thu, 15 Oct 2026 05:36:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-f96b6f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《九州·戏中人》是九州系列作家唐缺的一本科幻实验小说。一个玩了十五年游戏的中国宅男黄小路，被同学李彬留下的一张神秘光盘拖进名为九州的虚拟世界，却发现这里的死亡会直接带走现实世界的清醒。在通关过程中，他借由角色吕归尘与依马德重新感受到了疼痛、勇气、爱与遗憾，也与另一个真实玩家林霁月并肩走上了抵抗九州最大阴谋的冒险。一个写游戏如何杀人的故事，最终讲的是，一个人怎样在最不像自己的地方，重新看见自己。</itunes:summary>
+      <itunes:duration>00:03:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-f96b6f.mp3" length="1627577" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
