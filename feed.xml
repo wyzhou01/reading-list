@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 06:50:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 07:02:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38433,6 +38433,17 @@
       <itunes:duration>00:06:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-7c9482.mp3" length="2901934" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《不负如来不负卿1》 · 完整版 · 不负如来不负卿1 · 完整讲读</title>
+      <description>《不负如来不负卿1》写一个二十一世纪的历史系女研究生艾晴，被推进一台破机器穿越到秦代西域沙漠，饿到快死时遇见了少年鸠摩罗什。她教他汉字，他教她龟兹文，两个人在丝绸之路上交换彼此的母语。她亲眼见证了他成为一代译经大师的过程，也见证了他在战乱与佛法之间被撕裂的一生。她用五十章的拼命，换来了八个字——「不负如来不负卿」。这八个字，不是情话，是她整个人生的答案：人生最大的负，不是负了别人，是负了自己；人生最大的敢，不是敢了别人，是敢了自己。</description>
+      <pubDate>Thu, 15 Oct 2026 07:01:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261015-episode-20261015-b21d2d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《不负如来不负卿1》写一个二十一世纪的历史系女研究生艾晴，被推进一台破机器穿越到秦代西域沙漠，饿到快死时遇见了少年鸠摩罗什。她教他汉字，他教她龟兹文，两个人在丝绸之路上交换彼此的母语。她亲眼见证了他成为一代译经大师的过程，也见证了他在战乱与佛法之间被撕裂的一生。她用五十章的拼命，换来了八个字——「不负如来不负卿」。这八个字，不是情话，是她整个人生的答案：人生最大的负，不是负了别人，是负了自己；人生最大的敢，不是敢了别人，是敢了自己。</itunes:summary>
+      <itunes:duration>00:06:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261015/episode-20261015-b21d2d.mp3" length="3077895" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
