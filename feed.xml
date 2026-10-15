@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 00:55:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 01:01:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37982,6 +37982,17 @@
       <itunes:duration>00:07:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-d41d57.mp3" length="3452386" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大势将至，未来已来》 · 完整版 · 大势将至，未来已来 · 完整讲读</title>
+      <description>《大势将至，未来已来》是调查记者王鹏创办新媒体《摩登中产》后的思考结晶。他用十二个章节，记录新中产在阶层固化、AI巨浪、城市迁徙与命运抉择里的真实故事：从玉树地震夜路上的救命泉水，到画蛋高考的代际隐喻，从斗兽场里的全年龄搏杀，到2040年的星际大航海。书里没有贩卖焦虑，也没有兜售成功学，只有一个核心信念——命运永远会预留一眼泉，前提是你愿意在密林里、在高原深夜里、在被算法围困的年代里，依然相信水声。它是一封写给所有普通人的长信，告诉你：阶层真正的护城河，不是财富，而是意义；生命最好的传承，不是奢华，而是浪费在美好事物上的权利。</description>
+      <pubDate>Thu, 15 Oct 2026 01:01:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-f73a34</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大势将至，未来已来》是调查记者王鹏创办新媒体《摩登中产》后的思考结晶。他用十二个章节，记录新中产在阶层固化、AI巨浪、城市迁徙与命运抉择里的真实故事：从玉树地震夜路上的救命泉水，到画蛋高考的代际隐喻，从斗兽场里的全年龄搏杀，到2040年的星际大航海。书里没有贩卖焦虑，也没有兜售成功学，只有一个核心信念——命运永远会预留一眼泉，前提是你愿意在密林里、在高原深夜里、在被算法围困的年代里，依然相信水声。它是一封写给所有普通人的长信，告诉你：阶层真正的护城河，不是财富，而是意义；生命最好的传承，不是奢华，而是浪费在美好事物上的权利。</itunes:summary>
+      <itunes:duration>00:02:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-f73a34.mp3" length="1233023" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
