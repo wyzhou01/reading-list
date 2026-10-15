@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 05:18:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 05:30:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38345,6 +38345,17 @@
       <itunes:duration>00:03:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-1e15b7.mp3" length="1476275" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《高窗》 · 完整版 · 高窗 · 完整讲读</title>
+      <description>《高窗》是雷蒙德·钱德勒一九四二年写出的冷硬派代表作。故事从帕萨迪纳一幢大宅子讲起——富孀默多克夫人怀疑自己的儿媳妇偷了一枚稀有的布拉什样币，请来私家侦探马洛。这枚失踪的金币背后，还压着一桩一九三零年的旧命案——第二任丈夫遗产的真正来源，是把第一任丈夫从窗口推下去的旧照。全家上下，从老太太、儿子、儿媳、秘书、到敲诈者瓦尼尔，每个人都被这套『不许提起』的旧钱家训压着。马洛在夹缝中做调查，最终用一套『不进不出』的程序，给所有人的罪与债排了一次队。本书是把资本主义下人性的异化、一张支票买不断的个体尊严，以及表象与真相的彻底撕裂，写得最干净的一本小说。</description>
+      <pubDate>Thu, 15 Oct 2026 05:30:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-5ae4f8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《高窗》是雷蒙德·钱德勒一九四二年写出的冷硬派代表作。故事从帕萨迪纳一幢大宅子讲起——富孀默多克夫人怀疑自己的儿媳妇偷了一枚稀有的布拉什样币，请来私家侦探马洛。这枚失踪的金币背后，还压着一桩一九三零年的旧命案——第二任丈夫遗产的真正来源，是把第一任丈夫从窗口推下去的旧照。全家上下，从老太太、儿子、儿媳、秘书、到敲诈者瓦尼尔，每个人都被这套『不许提起』的旧钱家训压着。马洛在夹缝中做调查，最终用一套『不进不出』的程序，给所有人的罪与债排了一次队。本书是把资本主义下人性的异化、一张支票买不断的个体尊严，以及表象与真相的彻底撕裂，写得最干净的一本小说。</itunes:summary>
+      <itunes:duration>00:10:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-5ae4f8.mp3" length="4836249" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
