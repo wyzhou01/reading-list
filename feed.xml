@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 01:17:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 01:24:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38015,6 +38015,17 @@
       <itunes:duration>00:03:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-a1d89f.mp3" length="1457885" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《风闻有你》 · 完整版 · 风闻有你_-_【美】琼妮厄尔克森多田（joni_Eareckson_Tada）_&amp;amp;amp;_史蒂夫埃斯提（steve · 完整讲读</title>
+      <description>《风闻有你》是美国截瘫作家琼妮·厄尔克森·多田与属灵导师史蒂夫·埃斯提合著的苦难神学经典。一位十七岁摔断颈椎、在轮椅上度过半个世纪的女性，用她四十年的生命回答那个最难的问题——上帝为什么允许苦难发生？全书提出六块核心拼图：我们处境相同所以能彼此安慰；苦难让我们彼此建造而非孤岛；苦难让上帝得荣耀而非难堪；软弱是上帝能力的展厅；上帝彰显大能不是在我们健全时，是在我们被推到无能的角落；忍耐是把事工做完而非把苦难熬完；医治是要满足于自己的剧本而非要求上帝改写。书中最颠覆的判断是——琼妮说，瘫痪是她的岗位，也是上帝彰显大能的车间。这本书不卖惨，不画饼，只把苦难这块拼图最关键的那几块，一块一块翻给你看。</description>
+      <pubDate>Thu, 15 Oct 2026 01:24:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-b99fdf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《风闻有你》是美国截瘫作家琼妮·厄尔克森·多田与属灵导师史蒂夫·埃斯提合著的苦难神学经典。一位十七岁摔断颈椎、在轮椅上度过半个世纪的女性，用她四十年的生命回答那个最难的问题——上帝为什么允许苦难发生？全书提出六块核心拼图：我们处境相同所以能彼此安慰；苦难让我们彼此建造而非孤岛；苦难让上帝得荣耀而非难堪；软弱是上帝能力的展厅；上帝彰显大能不是在我们健全时，是在我们被推到无能的角落；忍耐是把事工做完而非把苦难熬完；医治是要满足于自己的剧本而非要求上帝改写。书中最颠覆的判断是——琼妮说，瘫痪是她的岗位，也是上帝彰显大能的车间。这本书不卖惨，不画饼，只把苦难这块拼图最关键的那几块，一块一块翻给你看。</itunes:summary>
+      <itunes:duration>00:03:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-b99fdf.mp3" length="1747531" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
