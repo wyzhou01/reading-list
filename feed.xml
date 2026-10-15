@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 01:45:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 01:52:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38048,6 +38048,17 @@
       <itunes:duration>00:01:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-8497b4.mp3" length="920390" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《竞争的艺术》 · 完整版 · 竞争的艺术 · 完整讲读</title>
+      <description>《竞争的艺术》是2016年澳大利亚艺评人斯密的代表著作,同年由江苏凤凰文艺出版社推出中文版。全书以弗洛伊德与培根、马奈与德加、马蒂斯与毕加索、波洛克与德·库宁这四对男性艺术家的关系为主线,重新审视现代艺术史的塑造机制。斯密认为,真正改变审美的杰作,极少诞生于孤胆天才的独白,而几乎都来自两个男人互相折磨又互相激发的张力。这种竞争本质上是一种&quot;借对方为镜子看清自己&quot;的亲密关系,既非传统意义上的胜负,也非简单的友谊,而是创作者&quot;寻找自我声音&quot;过程中不可回避的精神结构。书中既写出了每对宿敌之间的致敬、模仿与反叛,也不回避关系破裂带来的创痛,最终把&quot;竞争&quot;从一个修辞还原为现代性的核心机制——在祛魅之后的世界里,艺术标准如何通过同行之间的对峙被重新建立。</description>
+      <pubDate>Thu, 15 Oct 2026 01:52:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-336fc8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《竞争的艺术》是2016年澳大利亚艺评人斯密的代表著作,同年由江苏凤凰文艺出版社推出中文版。全书以弗洛伊德与培根、马奈与德加、马蒂斯与毕加索、波洛克与德·库宁这四对男性艺术家的关系为主线,重新审视现代艺术史的塑造机制。斯密认为,真正改变审美的杰作,极少诞生于孤胆天才的独白,而几乎都来自两个男人互相折磨又互相激发的张力。这种竞争本质上是一种&quot;借对方为镜子看清自己&quot;的亲密关系,既非传统意义上的胜负,也非简单的友谊,而是创作者&quot;寻找自我声音&quot;过程中不可回避的精神结构。书中既写出了每对宿敌之间的致敬、模仿与反叛,也不回避关系破裂带来的创痛,最终把&quot;竞争&quot;从一个修辞还原为现代性的核心机制——在祛魅之后的世界里,艺术标准如何通过同行之间的对峙被重新建立。</itunes:summary>
+      <itunes:duration>00:04:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-336fc8.mp3" length="2102796" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
