@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 00:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 00:08:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37905,6 +37905,17 @@
       <itunes:duration>00:04:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-a99fb1.mp3" length="2096527" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《走神的艺术与科学》 · 完整版 · 走神的艺术与科学 · 完整讲读</title>
+      <description>本书为&apos;走神&apos;正名，提出大脑在集中精力与走神之间的切换是生理常态，并非过错。作者以认知科学为基础，论述走神如何驱动记忆重组、精神时间旅行、心理理论、叙事能力、梦境与幻觉乃至创造力，指出走神是人类独有的适应性能力，是文明与想象力的源泉。</description>
+      <pubDate>Thu, 15 Oct 2026 00:08:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-9d028d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书为&apos;走神&apos;正名，提出大脑在集中精力与走神之间的切换是生理常态，并非过错。作者以认知科学为基础，论述走神如何驱动记忆重组、精神时间旅行、心理理论、叙事能力、梦境与幻觉乃至创造力，指出走神是人类独有的适应性能力，是文明与想象力的源泉。</itunes:summary>
+      <itunes:duration>00:03:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-9d028d.mp3" length="1785147" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
