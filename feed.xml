@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 00:13:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 00:20:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37927,6 +37927,17 @@
       <itunes:duration>00:02:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-cc2849.mp3" length="1171583" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《劲敌》 · 完整版 · 劲敌 · 完整讲读</title>
+      <description>《劲敌》是美国作家凯瑟琳·李的一部悬疑小说，二零一六年由纤阅科技引进中文版。故事讲述坐轮椅的天才分析师雷蒙德，在偷取网络竞赛对手【死亡画师】笔记本电脑时撞见其尸体，由此卷入一场跨越虚拟与现实的致命博弈。他的前导师斯洛文斯基窃走了他的心理剖析研究，并把它改造成引诱变态参赛者的猎杀游戏；最终雷蒙德本人也走上同一条路。当一个人的心智能力远远抛离周围的人，他与社会之间会发生什么？本书以一场价值千万的寻宝大赛为外壳，剖开天才与疯子、虚拟与真实、复仇与自毁之间那条危险的界线。</description>
+      <pubDate>Thu, 15 Oct 2026 00:20:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-b32f2f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《劲敌》是美国作家凯瑟琳·李的一部悬疑小说，二零一六年由纤阅科技引进中文版。故事讲述坐轮椅的天才分析师雷蒙德，在偷取网络竞赛对手【死亡画师】笔记本电脑时撞见其尸体，由此卷入一场跨越虚拟与现实的致命博弈。他的前导师斯洛文斯基窃走了他的心理剖析研究，并把它改造成引诱变态参赛者的猎杀游戏；最终雷蒙德本人也走上同一条路。当一个人的心智能力远远抛离周围的人，他与社会之间会发生什么？本书以一场价值千万的寻宝大赛为外壳，剖开天才与疯子、虚拟与真实、复仇与自毁之间那条危险的界线。</itunes:summary>
+      <itunes:duration>00:05:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-b32f2f.mp3" length="2453046" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
