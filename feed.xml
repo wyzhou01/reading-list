@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 05:53:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 06:03:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38378,6 +38378,17 @@
       <itunes:duration>00:05:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-e87f9f.mp3" length="2431312" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《家守绮谭》 · 完整版 · 家守绮谭_-_梨木香步 · 完整讲读</title>
+      <description>《家守绮谭》是日本作家梨木香步最具代表性的庭院怪谈集。一个穷得写不出文章的作家，搬进亡友留下的老宅看门。一夜风雨中，溺死在湖里的亡友从画轴里划船出来，请他每天午后给院里一棵暗恋自己的百日红树读书。一只会摇尾巴的流浪狗五郎由此赖上他，会送炖鸡肉上门的邻家太太、会派他去送河童回家的山寺和尚也陆续加入这张小小的网。在日复一日读树、喂狗、看萤火的日子里，作家慢慢找回了活下去的勇气。梨木香步借庭院里草木虫鱼的呼吸，回答了一个朴素的时代问题：人活到失语之后，靠什么把自己重新养回来？答案是——一只会摇尾巴的狗，一棵会吃醋的树，和一个愿意在玄关悄悄放鱼骨的邻居。</description>
+      <pubDate>Thu, 15 Oct 2026 06:03:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-c6ddd4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《家守绮谭》是日本作家梨木香步最具代表性的庭院怪谈集。一个穷得写不出文章的作家，搬进亡友留下的老宅看门。一夜风雨中，溺死在湖里的亡友从画轴里划船出来，请他每天午后给院里一棵暗恋自己的百日红树读书。一只会摇尾巴的流浪狗五郎由此赖上他，会送炖鸡肉上门的邻家太太、会派他去送河童回家的山寺和尚也陆续加入这张小小的网。在日复一日读树、喂狗、看萤火的日子里，作家慢慢找回了活下去的勇气。梨木香步借庭院里草木虫鱼的呼吸，回答了一个朴素的时代问题：人活到失语之后，靠什么把自己重新养回来？答案是——一只会摇尾巴的狗，一棵会吃醋的树，和一个愿意在玄关悄悄放鱼骨的邻居。</itunes:summary>
+      <itunes:duration>00:04:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-c6ddd4.mp3" length="1979498" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
