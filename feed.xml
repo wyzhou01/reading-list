@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 06:36:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 06:50:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38422,6 +38422,17 @@
       <itunes:duration>00:05:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-10955d.mp3" length="2402473" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《顾准历史笔记》 · 完整版 · 顾准历史笔记_-_顾准 · 完整讲读</title>
+      <description>《顾准历史笔记》是上世纪中国独立思想者顾准在劳改岁月中写就的读书笔记。他用阶级分析重读希腊城邦史、明清经济史与先秦诸子，逐一拆解郭沫若、范文澜等主流史学的乐观叙事，重新追问中国两千多年专制主义的结构性根源。顾准指出，中国的小国林立最终走向郡县制大帝国的合并之路，希腊则走向多中心的城邦同盟之路；这种方向性的分歧，源自二者军事制度、宗教权威、商业结构、阶级结构的根本差异。明中叶商品经济的繁荣只是专制主义下的畸形发展，资本最终被政治上层吸取，未能转化为工业资本。东方专制主义到明代已穷途末路，在儒法道佛杂糅的理教控制下摸索不出新路，只有外部力量才能撬动这扇封死的铁门。</description>
+      <pubDate>Thu, 15 Oct 2026 06:50:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-7c9482</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《顾准历史笔记》是上世纪中国独立思想者顾准在劳改岁月中写就的读书笔记。他用阶级分析重读希腊城邦史、明清经济史与先秦诸子，逐一拆解郭沫若、范文澜等主流史学的乐观叙事，重新追问中国两千多年专制主义的结构性根源。顾准指出，中国的小国林立最终走向郡县制大帝国的合并之路，希腊则走向多中心的城邦同盟之路；这种方向性的分歧，源自二者军事制度、宗教权威、商业结构、阶级结构的根本差异。明中叶商品经济的繁荣只是专制主义下的畸形发展，资本最终被政治上层吸取，未能转化为工业资本。东方专制主义到明代已穷途末路，在儒法道佛杂糅的理教控制下摸索不出新路，只有外部力量才能撬动这扇封死的铁门。</itunes:summary>
+      <itunes:duration>00:06:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-7c9482.mp3" length="2901934" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
