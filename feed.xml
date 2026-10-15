@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 01:01:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 01:10:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37993,6 +37993,17 @@
       <itunes:duration>00:02:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-f73a34.mp3" length="1233023" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《不可容忍的巴辛顿》 · 完整版 · 不可容忍的巴辛顿·译言古登堡计划_-_[英]赫克托休芒罗 · 完整讲读</title>
+      <description>《不可容忍的巴辛顿》是英国作家毛姆一九零五年写下的冷峻长篇。伦敦贵妇弗兰切斯卡把客厅里收藏的费密尔青铜、德累斯顿细瓷、波斯地毯等宝贝当作自己的灵魂，却因惧怕失去这一切，用密密的网把儿子科摩斯一步步送上不归路的非洲，最终电报传来的那一刻，客厅里腾不出一个角落给死去的儿子。毛姆用最克制的口吻，写了一个不打算被爱的女收藏家，如何神不知鬼不觉地把全部被爱的人一个个送上不归路的全过程。</description>
+      <pubDate>Thu, 15 Oct 2026 01:10:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-5cdfc0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《不可容忍的巴辛顿》是英国作家毛姆一九零五年写下的冷峻长篇。伦敦贵妇弗兰切斯卡把客厅里收藏的费密尔青铜、德累斯顿细瓷、波斯地毯等宝贝当作自己的灵魂，却因惧怕失去这一切，用密密的网把儿子科摩斯一步步送上不归路的非洲，最终电报传来的那一刻，客厅里腾不出一个角落给死去的儿子。毛姆用最克制的口吻，写了一个不打算被爱的女收藏家，如何神不知鬼不觉地把全部被爱的人一个个送上不归路的全过程。</itunes:summary>
+      <itunes:duration>00:05:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-5cdfc0.mp3" length="2868915" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
