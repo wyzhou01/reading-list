@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 02:31:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 02:40:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38114,6 +38114,17 @@
       <itunes:duration>00:06:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-1a2531.mp3" length="3238809" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《京华烟云》 · 完整版 · 京华烟云 · 完整讲读</title>
+      <description>《京华烟云》是林语堂一九三八至一九三九年间用英文写就的长篇小说，以北京姚家、曾家、牛家三户人家的兴衰为线索，写了从庚子之变到抗战西迁四十年间的中国故事。主角姚木兰从十岁逃难的女儿，到一只父亲传给女儿、再传下去的这双手，抱起别人的婴儿，嚼起民族延续的命。本书不是反日宣传，是写一种活法：道家的活法。一个女人一辈子的起落告诉读者，真正的勇敢不是跟全世界对着干，是在全世界都在乱的时候，还能把自己的日子过下去。</description>
+      <pubDate>Thu, 15 Oct 2026 02:40:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-3c1770</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《京华烟云》是林语堂一九三八至一九三九年间用英文写就的长篇小说，以北京姚家、曾家、牛家三户人家的兴衰为线索，写了从庚子之变到抗战西迁四十年间的中国故事。主角姚木兰从十岁逃难的女儿，到一只父亲传给女儿、再传下去的这双手，抱起别人的婴儿，嚼起民族延续的命。本书不是反日宣传，是写一种活法：道家的活法。一个女人一辈子的起落告诉读者，真正的勇敢不是跟全世界对着干，是在全世界都在乱的时候，还能把自己的日子过下去。</itunes:summary>
+      <itunes:duration>00:04:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-3c1770.mp3" length="2277085" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
