@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 04:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 04:16:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38246,6 +38246,17 @@
       <itunes:duration>00:11:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-5cbfa1.mp3" length="5317738" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《不必读书目》 · 完整版 · 不必读书目_-_刀尔登 · 完整讲读</title>
+      <description>《不必读书目》是当代罕见的隐士型写作者刀尔登（邱小刚）的一本随笔集，以四十余篇【不读】专栏文字，对《山海经》《老子》《论语》《孟子》《左传》《公羊传》《徐霞客游记》《二十四诗品》《儒林外史》等经典与流行观念，进行了一次系统的拆神话。他从《山海经》的离谱考据切入，追问读人为什么要读古书、传统究竟是从过去传下来的还是我们从过去接过来的；他拆解了对时间的崇拜、对道德的系统化想象、对读书的功利化期待；他借徐霞客【无所为而为】的出游，提出读书的第四种可能——为读书而读书。他真正在做的，是把几千年读歪了的经典，重新摆回原处；提醒我们，神话的代价由买单的人承担，不是念经的人。这本五万字的小书，骨子里是一份关于【怀疑自己】与【不必非这样读】的人生处方——不必读，即必读。</description>
+      <pubDate>Thu, 15 Oct 2026 04:16:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-6e4bd2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《不必读书目》是当代罕见的隐士型写作者刀尔登（邱小刚）的一本随笔集，以四十余篇【不读】专栏文字，对《山海经》《老子》《论语》《孟子》《左传》《公羊传》《徐霞客游记》《二十四诗品》《儒林外史》等经典与流行观念，进行了一次系统的拆神话。他从《山海经》的离谱考据切入，追问读人为什么要读古书、传统究竟是从过去传下来的还是我们从过去接过来的；他拆解了对时间的崇拜、对道德的系统化想象、对读书的功利化期待；他借徐霞客【无所为而为】的出游，提出读书的第四种可能——为读书而读书。他真正在做的，是把几千年读歪了的经典，重新摆回原处；提醒我们，神话的代价由买单的人承担，不是念经的人。这本五万字的小书，骨子里是一份关于【怀疑自己】与【不必非这样读】的人生处方——不必读，即必读。</itunes:summary>
+      <itunes:duration>00:03:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-6e4bd2.mp3" length="1546075" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
