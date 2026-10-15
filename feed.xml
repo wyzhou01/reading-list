@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 03:50:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 03:55:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38224,6 +38224,17 @@
       <itunes:duration>00:02:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-bf60e9.mp3" length="1380145" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《诚实的手艺》 · 完整版 · 诚实的手艺_-_美帆 · 完整讲读</title>
+      <description>《诚实的手艺》是日本记者美帆用五年时间走访日本各地手艺工坊写下的现场记录，从北海道爱奴族的木雕、京都西阵织的老铺，到冲绳芭蕉布的织女，呈现出百年老铺与匠人的真实处境。在机器量产与算法加速的时代，这本书以诚实而克制的笔触，回应了柳宗悦一百年前开启的民艺运动的核心提问：手艺，能否以诚实的姿态活下去。</description>
+      <pubDate>Thu, 15 Oct 2026 03:55:26 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-f62b07</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《诚实的手艺》是日本记者美帆用五年时间走访日本各地手艺工坊写下的现场记录，从北海道爱奴族的木雕、京都西阵织的老铺，到冲绳芭蕉布的织女，呈现出百年老铺与匠人的真实处境。在机器量产与算法加速的时代，这本书以诚实而克制的笔触，回应了柳宗悦一百年前开启的民艺运动的核心提问：手艺，能否以诚实的姿态活下去。</itunes:summary>
+      <itunes:duration>00:02:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-f62b07.mp3" length="1239711" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
