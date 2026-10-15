@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 05:36:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 05:53:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38367,6 +38367,17 @@
       <itunes:duration>00:03:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-f96b6f.mp3" length="1627577" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《长相思（全三册）》 · 完整版 · 长相思（全三册） · 完整讲读</title>
+      <description>桐华《长相思》以小夭被弃流离、化名玟小六藏身清水镇为主线，写尽乱世之中四个人的四种爱：涂山璟的『听』、相柳的『不说』、颛顼的『不敢要』、小夭的『不强求』，归根结底都在回答那十六个字——有力自保、有人相依、有处可去。这不是一场权谋盛宴，是写给每一个在乱世中被错付过、却依然愿意相信爱的人的，最深的情话。</description>
+      <pubDate>Thu, 15 Oct 2026 05:53:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-e87f9f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>桐华《长相思》以小夭被弃流离、化名玟小六藏身清水镇为主线，写尽乱世之中四个人的四种爱：涂山璟的『听』、相柳的『不说』、颛顼的『不敢要』、小夭的『不强求』，归根结底都在回答那十六个字——有力自保、有人相依、有处可去。这不是一场权谋盛宴，是写给每一个在乱世中被错付过、却依然愿意相信爱的人的，最深的情话。</itunes:summary>
+      <itunes:duration>00:05:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-e87f9f.mp3" length="2431312" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
