@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 01:52:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 01:59:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38059,6 +38059,17 @@
       <itunes:duration>00:04:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-336fc8.mp3" length="2102796" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《美妙的新世界》 · 完整版 · 美妙的新世界(1) · 完整讲读</title>
+      <description>一九三二年出版的【美妙的新世界】，用七十九个字的篇幅写出一个让消费主义、娱乐、药物、标准化的人类生产【全面胜利】的未来。在那个世界里，痛苦被【唆麻】糖丸修理，莎士比亚被改造为历史，个人的灵魂被拆解为可替换的产品。赫胥黎在序言里反复提出警告：真正革命的革命不在外部世界而在人的灵魂；乌托邦距离我们比想象中更近；让人热爱奴役才是新世界最大的项目。这本书警告我们警惕【让人热爱奴役的产业】，警惕那些要【把你修好】的机制——你有痛苦与不快乐的权利，那是你作为人的最后防线。</description>
+      <pubDate>Thu, 15 Oct 2026 01:59:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-cd7cdb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>一九三二年出版的【美妙的新世界】，用七十九个字的篇幅写出一个让消费主义、娱乐、药物、标准化的人类生产【全面胜利】的未来。在那个世界里，痛苦被【唆麻】糖丸修理，莎士比亚被改造为历史，个人的灵魂被拆解为可替换的产品。赫胥黎在序言里反复提出警告：真正革命的革命不在外部世界而在人的灵魂；乌托邦距离我们比想象中更近；让人热爱奴役才是新世界最大的项目。这本书警告我们警惕【让人热爱奴役的产业】，警惕那些要【把你修好】的机制——你有痛苦与不快乐的权利，那是你作为人的最后防线。</itunes:summary>
+      <itunes:duration>00:03:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-cd7cdb.mp3" length="1744187" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
