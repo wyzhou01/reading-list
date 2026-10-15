@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 02:06:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 02:12:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38081,6 +38081,17 @@
       <itunes:duration>00:04:36</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-400738.mp3" length="2213137" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《敦刻尔克》 · 完整版 · 敦刻尔克_-_沃尔特·劳德 · 完整讲读</title>
+      <description>《敦刻尔克》是美国海军历史学家沃尔特·劳德以亲历者口述与档案为基础写就的二战经典。他还原了一九四〇年五月二十四日至六月四日那场九天大撤退的全貌：法军高层误判德军主攻方向、抛弃无线电导致百万大军通信瘫痪；英国远征军总司令戈特违抗巴黎命令，在三天前就秘密筹划朝敦刻尔克撤退；海军中将拉姆齐以惊人的调度效率在九十六小时内打通海峡生命线；码头工会、渔民、私人船主驾驶小船横渡海峡，救出三十三万八千名士兵。劳德笔下的敦刻尔克，不是胜利的凯歌，而是绝境中人类随机应变、彼此协作的纪念碑——它告诉我们，决定战争走向的从来不是将军的锦囊，而是普通人在恐惧与疲惫中依然选择把该做的事做完。</description>
+      <pubDate>Thu, 15 Oct 2026 02:12:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-eb3caa</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《敦刻尔克》是美国海军历史学家沃尔特·劳德以亲历者口述与档案为基础写就的二战经典。他还原了一九四〇年五月二十四日至六月四日那场九天大撤退的全貌：法军高层误判德军主攻方向、抛弃无线电导致百万大军通信瘫痪；英国远征军总司令戈特违抗巴黎命令，在三天前就秘密筹划朝敦刻尔克撤退；海军中将拉姆齐以惊人的调度效率在九十六小时内打通海峡生命线；码头工会、渔民、私人船主驾驶小船横渡海峡，救出三十三万八千名士兵。劳德笔下的敦刻尔克，不是胜利的凯歌，而是绝境中人类随机应变、彼此协作的纪念碑——它告诉我们，决定战争走向的从来不是将军的锦囊，而是普通人在恐惧与疲惫中依然选择把该做的事做完。</itunes:summary>
+      <itunes:duration>00:02:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-eb3caa.mp3" length="1281089" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
