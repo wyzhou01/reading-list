@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 00:28:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 00:32:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37949,6 +37949,17 @@
       <itunes:duration>00:05:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-1921f3.mp3" length="2515322" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《塔西佗 历史》 · 完整版 · 塔西佗历史_(汉译世界学术名著丛书)_-_塔西佗 · 完整讲读</title>
+      <description>公元六十九年, 罗马帝国在不到十二个月里换了四个皇帝, 元老院沦为应声虫, 告密者发家致富, 卡披托里乌姆神殿在战火中化为灰烬。亲历这场浩劫的塔西佗用《历史》一书留下了第一手记录。他不歌颂胜利者, 只追问一件事: 共和外衣之下, 究竟是个什么样的专政? 四个皇帝画像归一, 告密、军队、虚荣、贪婪——每一个人性弱点都被他用白描的笔法钉在耻辱柱上。这部写于公元一世纪的史著, 不仅是理解罗马帝国盛衰的钥匙, 更是两千年来每一个面对权力腐败的读者, 都不应该错过的一面镜子。</description>
+      <pubDate>Thu, 15 Oct 2026 00:32:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-fe28bf</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>公元六十九年, 罗马帝国在不到十二个月里换了四个皇帝, 元老院沦为应声虫, 告密者发家致富, 卡披托里乌姆神殿在战火中化为灰烬。亲历这场浩劫的塔西佗用《历史》一书留下了第一手记录。他不歌颂胜利者, 只追问一件事: 共和外衣之下, 究竟是个什么样的专政? 四个皇帝画像归一, 告密、军队、虚荣、贪婪——每一个人性弱点都被他用白描的笔法钉在耻辱柱上。这部写于公元一世纪的史著, 不仅是理解罗马帝国盛衰的钥匙, 更是两千年来每一个面对权力腐败的读者, 都不应该错过的一面镜子。</itunes:summary>
+      <itunes:duration>00:02:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-fe28bf.mp3" length="1092171" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
