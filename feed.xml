@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 03:32:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 03:37:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38191,6 +38191,17 @@
       <itunes:duration>00:04:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-f26d7e.mp3" length="2112409" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《骑兵》 · 完整版 · 骑兵 · 完整讲读</title>
+      <description>《骑兵》是苏童以南方小城香椿树街为画布的短篇集, 收有《骑兵》《白雪猪头》《手》《狐狸》等代表作。作家用温柔的笔触剖开旧时代的市井与暗影: 一个罗圈腿男孩左林, 在嘲笑声中把棉被摞成马背, 让傻子当骏马, 梦想成为一名骑兵; 他的父亲最终在雨夜里, 把傻子扛上自己的背, 替儿子完成了这场笨拙而狂欢的梦。书里没有英雄, 只有一个个被命运压弯、却拼命想挺直身子的小人物。残缺的腿、消失的猪头、被揪红的耳朵, 荒诞与疼痛并置, 温柔又苍凉。它写尽市井小人物的命运与尊严, 怀旧与旧时代的消逝, 以及童年视角下暴力与温情并存的真相。</description>
+      <pubDate>Thu, 15 Oct 2026 03:37:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-db52af</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《骑兵》是苏童以南方小城香椿树街为画布的短篇集, 收有《骑兵》《白雪猪头》《手》《狐狸》等代表作。作家用温柔的笔触剖开旧时代的市井与暗影: 一个罗圈腿男孩左林, 在嘲笑声中把棉被摞成马背, 让傻子当骏马, 梦想成为一名骑兵; 他的父亲最终在雨夜里, 把傻子扛上自己的背, 替儿子完成了这场笨拙而狂欢的梦。书里没有英雄, 只有一个个被命运压弯、却拼命想挺直身子的小人物。残缺的腿、消失的猪头、被揪红的耳朵, 荒诞与疼痛并置, 温柔又苍凉。它写尽市井小人物的命运与尊严, 怀旧与旧时代的消逝, 以及童年视角下暴力与温情并存的真相。</itunes:summary>
+      <itunes:duration>00:03:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-db52af.mp3" length="1564465" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
