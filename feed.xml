@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 03:15:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 03:23:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38169,6 +38169,17 @@
       <itunes:duration>00:06:11</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-f4a45f.mp3" length="2972987" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《大唐悬疑录：兰亭序密码》 · 完整版 · 大唐悬疑录：兰亭序密码 · 完整讲读</title>
+      <description>《大唐悬疑录：兰亭序密码》以唐宪宗元和十年为背景，把《兰亭序》真迹埋藏地这一千年悬案，揉进了大唐削藩、宰相遇刺、百岁老僧暴毙三重谜团。女主角裴玄静在叔父裴度、朝臣武元衡、神秘郎中崔淼之间穿行，最终逼近真相，却也亲历盛唐由盛转衰的必然。小说借一卷字帖写尽皇权意识形态的运作、看穿谎言之后依然选择守护的忠诚，以及谜中人注定纠缠的宿命，是历史悬疑外壳下的一部成人寓言。</description>
+      <pubDate>Thu, 15 Oct 2026 03:23:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-4f1328</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大唐悬疑录：兰亭序密码》以唐宪宗元和十年为背景，把《兰亭序》真迹埋藏地这一千年悬案，揉进了大唐削藩、宰相遇刺、百岁老僧暴毙三重谜团。女主角裴玄静在叔父裴度、朝臣武元衡、神秘郎中崔淼之间穿行，最终逼近真相，却也亲历盛唐由盛转衰的必然。小说借一卷字帖写尽皇权意识形态的运作、看穿谎言之后依然选择守护的忠诚，以及谜中人注定纠缠的宿命，是历史悬疑外壳下的一部成人寓言。</itunes:summary>
+      <itunes:duration>00:03:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-4f1328.mp3" length="1853275" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
