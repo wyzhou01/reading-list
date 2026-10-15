@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 01:10:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 01:17:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38004,6 +38004,17 @@
       <itunes:duration>00:05:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-5cdfc0.mp3" length="2868915" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《清明上河图密码》 · 完整版 · 清明上河图密码 · 完整讲读</title>
+      <description>北宋宣和三年清明，一艘载有二十五人的梅船在汴河虹桥下被白雾吞没，凭空消失。船中飘出白衣道士，撒花撒银帛，银帛上八个大字【天地清明，道君神圣】被人添笔改成【天地不清明，道君欺神圣】。书讼摊主赵不尤、义弟墨儿、左军巡使顾震、枢密院令史古德信，四人联手追查，牵出紫衣客案、东水八子案、《士子图》案——辽、宋、金、高丽四方暗手环环相扣。冶文彪以《清明上河图》为底本，用六年时间写下这部六卷巨著，揭示盛世表象下大宋士林溃败、天下崩塌的深层隐痛。</description>
+      <pubDate>Thu, 15 Oct 2026 01:17:33 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-a1d89f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>北宋宣和三年清明，一艘载有二十五人的梅船在汴河虹桥下被白雾吞没，凭空消失。船中飘出白衣道士，撒花撒银帛，银帛上八个大字【天地清明，道君神圣】被人添笔改成【天地不清明，道君欺神圣】。书讼摊主赵不尤、义弟墨儿、左军巡使顾震、枢密院令史古德信，四人联手追查，牵出紫衣客案、东水八子案、《士子图》案——辽、宋、金、高丽四方暗手环环相扣。冶文彪以《清明上河图》为底本，用六年时间写下这部六卷巨著，揭示盛世表象下大宋士林溃败、天下崩塌的深层隐痛。</itunes:summary>
+      <itunes:duration>00:03:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-a1d89f.mp3" length="1457885" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
