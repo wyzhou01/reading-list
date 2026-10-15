@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 07:23:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 07:27:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -18,12 +18,6 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Arts">
       <itunes:category text="Books"/>
-    </itunes:category>
-    <itunes:category text="Education">
-      <itunes:category text="Self-Improvement"/>
-    </itunes:category>
-    <itunes:category text="Society &amp; Culture">
-      <itunes:category text="Philosophy"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/reading-list/cover.jpg"/>
     <item>
@@ -38472,6 +38466,17 @@
       <itunes:duration>00:06:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261015/episode-20261015-4d322e.mp3" length="2907368" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我最想要的记忆魔法书》 · 完整版 · 我最想要的记忆魔法书 · 完整讲读</title>
+      <description>《我最想要的记忆魔法书》是世界记忆冠军多米尼克·奥布莱恩的实战手记。他曾被教师当众断言【这辈子完了】，三十岁才起步，靠联想与想象两块底层引擎，结合链条法和路径记忆法，在二十五年里拿下八次世界冠军。本书系统拆解了记忆力训练的全链路：它是一项可以后天练强的肌肉，速度是稳定训练的复利产物，路径场景让技巧可迁移到学习与生活，而记忆训练的真正终点，是一次彻底的身份重塑。翻开这本书，你收获的不只是记一副牌的本领，更是一套重新组织生活、重新相信自己大脑的工具箱。</description>
+      <pubDate>Thu, 15 Oct 2026 07:27:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261015-episode-20261015-dd7777</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我最想要的记忆魔法书》是世界记忆冠军多米尼克·奥布莱恩的实战手记。他曾被教师当众断言【这辈子完了】，三十岁才起步，靠联想与想象两块底层引擎，结合链条法和路径记忆法，在二十五年里拿下八次世界冠军。本书系统拆解了记忆力训练的全链路：它是一项可以后天练强的肌肉，速度是稳定训练的复利产物，路径场景让技巧可迁移到学习与生活，而记忆训练的真正终点，是一次彻底的身份重塑。翻开这本书，你收获的不只是记一副牌的本领，更是一套重新组织生活、重新相信自己大脑的工具箱。</itunes:summary>
+      <itunes:duration>00:02:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261015/episode-20261015-dd7777.mp3" length="1293209" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
