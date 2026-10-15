@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 00:20:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 00:28:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37938,6 +37938,17 @@
       <itunes:duration>00:05:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-b32f2f.mp3" length="2453046" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《不情愿的大师：德国与新欧洲》 · 完整版 · 不情愿的大师：德国与新欧洲 · 完整讲读</title>
+      <description>《不情愿的大师：德国与新欧洲》以一位英国学者对德国古典音乐与文化的热爱为引子，重新审视德国从条顿堡森林到战后重建、从纳粹浩劫到欧元危机的漫长历程。作者指出，没有任何一个国家比德国对欧洲更为重要：从巴赫、瓦格纳到康德、黑格尔，德国贡献了人类最辉煌的思想，也跌进了第三帝国最深的深渊；过去六十年里，德国以罕见的诚实直面历史，成为新欧洲不得不倚重的领导者。本书逐章剖解德国应对欧元区危机、难民潮、俄乌冲突、新冠疫情的真实答卷，指出德国并非主动谋求霸权，而是被历史、地缘、经济和欧盟机制推到了舞台中央，正是这种【不情愿却必须承担】的处境，构成了理解今天德国乃至整个欧洲的关键入口。</description>
+      <pubDate>Thu, 15 Oct 2026 00:28:04 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-1921f3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《不情愿的大师：德国与新欧洲》以一位英国学者对德国古典音乐与文化的热爱为引子，重新审视德国从条顿堡森林到战后重建、从纳粹浩劫到欧元危机的漫长历程。作者指出，没有任何一个国家比德国对欧洲更为重要：从巴赫、瓦格纳到康德、黑格尔，德国贡献了人类最辉煌的思想，也跌进了第三帝国最深的深渊；过去六十年里，德国以罕见的诚实直面历史，成为新欧洲不得不倚重的领导者。本书逐章剖解德国应对欧元区危机、难民潮、俄乌冲突、新冠疫情的真实答卷，指出德国并非主动谋求霸权，而是被历史、地缘、经济和欧盟机制推到了舞台中央，正是这种【不情愿却必须承担】的处境，构成了理解今天德国乃至整个欧洲的关键入口。</itunes:summary>
+      <itunes:duration>00:05:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-1921f3.mp3" length="2515322" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
