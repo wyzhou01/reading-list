@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 03:05:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 03:15:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38158,6 +38158,17 @@
       <itunes:duration>00:07:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-f9f757.mp3" length="3396380" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《牛津通识读本：笛卡尔》 · 完整版 · 牛津通识读本：笛卡尔（中文版） · 完整讲读</title>
+      <description>笛卡尔是近代哲学的奠基者，也是【我思故我在】这句名言的提出者。牛津通识读本《笛卡尔》由英国哲学家汤姆·索雷尔撰写，以清晰笔触梳理了这位十七世纪思想家的核心遗产：普遍怀疑的方法、心体二元论的切割、上帝作为形而上学根基、以及他用数学重塑物理学的雄心。书中呈现了一个被教会围剿、一边逃命一边写作的哲学家形象，更呈现出他对我们今天如何对待知识、如何面对权威、如何在意见分裂的时代寻找共同起点的深远启示。</description>
+      <pubDate>Thu, 15 Oct 2026 03:15:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-f4a45f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>笛卡尔是近代哲学的奠基者，也是【我思故我在】这句名言的提出者。牛津通识读本《笛卡尔》由英国哲学家汤姆·索雷尔撰写，以清晰笔触梳理了这位十七世纪思想家的核心遗产：普遍怀疑的方法、心体二元论的切割、上帝作为形而上学根基、以及他用数学重塑物理学的雄心。书中呈现了一个被教会围剿、一边逃命一边写作的哲学家形象，更呈现出他对我们今天如何对待知识、如何面对权威、如何在意见分裂的时代寻找共同起点的深远启示。</itunes:summary>
+      <itunes:duration>00:06:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-f4a45f.mp3" length="2972987" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
