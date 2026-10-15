@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 05:02:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 05:12:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38323,6 +38323,17 @@
       <itunes:duration>00:05:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-2e2b9d.mp3" length="2459315" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《我们连孤独都不曾拥有》 · 完整版 · 我们连孤独都不曾拥有 · 完整讲读</title>
+      <description>《我们连孤独都不曾拥有》是七毛于二〇一七年出版的一部短篇小说集，写了一群在二十一世纪初中国大城市漂泊的普通年轻人：她们租隔断间，吃白饭配榨菜，谈半路夭折的爱情，回正在塌缩的故乡，参加只剩几分钟的追悼，被早高峰的地铁挤成臃肿的沙丁鱼。全书以狠、穷、空三个底色打底，在死亡、故乡、庸碌三件事上，写下了这一代人的精神逃亡史。</description>
+      <pubDate>Thu, 15 Oct 2026 05:12:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-d071fe</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我们连孤独都不曾拥有》是七毛于二〇一七年出版的一部短篇小说集，写了一群在二十一世纪初中国大城市漂泊的普通年轻人：她们租隔断间，吃白饭配榨菜，谈半路夭折的爱情，回正在塌缩的故乡，参加只剩几分钟的追悼，被早高峰的地铁挤成臃肿的沙丁鱼。全书以狠、穷、空三个底色打底，在死亡、故乡、庸碌三件事上，写下了这一代人的精神逃亡史。</itunes:summary>
+      <itunes:duration>00:06:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-d071fe.mp3" length="3036099" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
