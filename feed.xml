@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 04:36:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 04:42:43 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38290,6 +38290,17 @@
       <itunes:duration>00:04:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-6e2d69.mp3" length="2060164" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《曹操残梦》 · 完整版 · 曹操残梦 · 完整讲读</title>
+      <description>本书是旅日华人作家陈舜臣三国系列的终章，以诗风变迁为线索，讲述曹魏三代帝王如何在名士阶层崛起与皇权衰落的结构性博弈中一步步走向倾覆。作者借《短歌行》到《洛神赋》的风格断裂，揭示古代让位于中世纪的时代氛围转变，并通过对红珠、曹宙等史书夹缝中普通人的描写，托出乱世里『人都能活下去』的希望之光——历史从不曾真正断裂，它只是换了一种更接近普通人生活的方式继续流淌。</description>
+      <pubDate>Thu, 15 Oct 2026 04:42:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-c72340</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是旅日华人作家陈舜臣三国系列的终章，以诗风变迁为线索，讲述曹魏三代帝王如何在名士阶层崛起与皇权衰落的结构性博弈中一步步走向倾覆。作者借《短歌行》到《洛神赋》的风格断裂，揭示古代让位于中世纪的时代氛围转变，并通过对红珠、曹宙等史书夹缝中普通人的描写，托出乱世里『人都能活下去』的希望之光——历史从不曾真正断裂，它只是换了一种更接近普通人生活的方式继续流淌。</itunes:summary>
+      <itunes:duration>00:03:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-c72340.mp3" length="1916386" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
