@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 03:37:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 03:45:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38202,6 +38202,17 @@
       <itunes:duration>00:03:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-db52af.mp3" length="1564465" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《逝者请闭眼》 · 完整版 · 逝者请闭眼 · 完整讲读</title>
+      <description>【逝者请闭眼】是一部以上海浦东为背景的女性视角都市悬疑小说。武汉基层派出所女警甘婧辞掉铁饭碗，独闯上海陆家嘴，只为追查一年前发小唐红果儿坠亡之谜。她潜入果儿生前工作的纳士动漫公司，一边应付职场中以闲聊形态完成普适化筛选的窒息感，一边在错综复杂的人际关系中慢慢拼凑真相。本书不只追问一桩死亡真相，更撕开外乡人在繁华背后的窒息感、职场中的灰色倾轧，以及一代年轻女性如何在纸醉金迷中完成自我救赎。</description>
+      <pubDate>Thu, 15 Oct 2026 03:44:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-6f651a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>【逝者请闭眼】是一部以上海浦东为背景的女性视角都市悬疑小说。武汉基层派出所女警甘婧辞掉铁饭碗，独闯上海陆家嘴，只为追查一年前发小唐红果儿坠亡之谜。她潜入果儿生前工作的纳士动漫公司，一边应付职场中以闲聊形态完成普适化筛选的窒息感，一边在错综复杂的人际关系中慢慢拼凑真相。本书不只追问一桩死亡真相，更撕开外乡人在繁华背后的窒息感、职场中的灰色倾轧，以及一代年轻女性如何在纸醉金迷中完成自我救赎。</itunes:summary>
+      <itunes:duration>00:03:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-6f651a.mp3" length="1674806" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
