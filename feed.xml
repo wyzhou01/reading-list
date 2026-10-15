@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 02:21:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 02:31:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38103,6 +38103,17 @@
       <itunes:duration>00:06:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-e17bbd.mp3" length="3097121" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《搏击俱乐部》 · 完整版 · 搏击俱乐部 · 完整讲读</title>
+      <description>《搏击俱乐部》是查克·帕拉纽克一九九六年出版的长篇小说。故事讲述一名长期失眠的年轻白领，在互助小组中遇见制造肥皂、卖炸药、自由搏击的泰勒·德顿，两人创立地下搏击俱乐部，并逐步演变成反消费、反秩序的破坏工程。最后叙事者发现泰勒是自己分裂出的人格，并在帕克-莫里斯大厦爆破现场完成自我重塑。本书是写给每一个被消费主义喂成空心、被剥夺了哭泣能力的现代人的一份止痛药。本期《好好读书》一口气吃透这本。</description>
+      <pubDate>Thu, 15 Oct 2026 02:31:11 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-1a2531</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《搏击俱乐部》是查克·帕拉纽克一九九六年出版的长篇小说。故事讲述一名长期失眠的年轻白领，在互助小组中遇见制造肥皂、卖炸药、自由搏击的泰勒·德顿，两人创立地下搏击俱乐部，并逐步演变成反消费、反秩序的破坏工程。最后叙事者发现泰勒是自己分裂出的人格，并在帕克-莫里斯大厦爆破现场完成自我重塑。本书是写给每一个被消费主义喂成空心、被剥夺了哭泣能力的现代人的一份止痛药。本期《好好读书》一口气吃透这本。</itunes:summary>
+      <itunes:duration>00:06:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-1a2531.mp3" length="3238809" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
