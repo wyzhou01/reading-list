@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 01:59:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 02:06:47 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38070,6 +38070,17 @@
       <itunes:duration>00:03:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-cd7cdb.mp3" length="1744187" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《海上尘天影》 · 完整版 · 海上尘天影(简体版) · 完整讲读</title>
+      <description>《海上尘天影》是晚清邹弢为名妓苏韵兰所作的六十回奇书。他痴等十一年、写下五十六封情书，书成之日苏韵兰已嫁作商人妇，他将原名《尘天影》含愤改为《断肠碑》。原著借女娲补天神话框架，写二十七位花仙因同情精卫填海而降临晚清上海，化作名妓才女名士公子，在青楼与良家之间做出各自抉择——全书以神话为皮、正史为骨、痴情为血，以十二部神祠殖民女子命运，借苏韵兰之薄情写天下痴情之断肠。三个字，是写给自己的；一断肠，是写给她的；二断肠，是写给天下痴情人的；三断肠。</description>
+      <pubDate>Thu, 15 Oct 2026 02:06:43 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-400738</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《海上尘天影》是晚清邹弢为名妓苏韵兰所作的六十回奇书。他痴等十一年、写下五十六封情书，书成之日苏韵兰已嫁作商人妇，他将原名《尘天影》含愤改为《断肠碑》。原著借女娲补天神话框架，写二十七位花仙因同情精卫填海而降临晚清上海，化作名妓才女名士公子，在青楼与良家之间做出各自抉择——全书以神话为皮、正史为骨、痴情为血，以十二部神祠殖民女子命运，借苏韵兰之薄情写天下痴情之断肠。三个字，是写给自己的；一断肠，是写给她的；二断肠，是写给天下痴情人的；三断肠。</itunes:summary>
+      <itunes:duration>00:04:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-400738.mp3" length="2213137" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
