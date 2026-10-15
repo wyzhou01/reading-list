@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 04:29:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 04:36:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38279,6 +38279,17 @@
       <itunes:duration>00:03:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-d0d213.mp3" length="1443675" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《市长秘书》 · 完整版 · 市长秘书_-_Wang_Xiao_Fang · 完整讲读</title>
+      <description>本书以原东州市常务副市长张国昌的秘书雷默的视角，讲述官场生态与政治漩涡。前半部聚焦张国昌注射死刑、李国藩落马等高层权斗，雷默辞职后迷失；后半部转入新市长薛元清主政下的招商引资博弈，雷默下海经商，在影视圈打拼，并与丑儿等女性发生情感纠葛。最终丑儿因非典去世，雷默独自飞往西藏寻找灵魂归宿，完成从官场秘书到精神自由人的蜕变。</description>
+      <pubDate>Thu, 15 Oct 2026 04:36:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-6e2d69</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书以原东州市常务副市长张国昌的秘书雷默的视角，讲述官场生态与政治漩涡。前半部聚焦张国昌注射死刑、李国藩落马等高层权斗，雷默辞职后迷失；后半部转入新市长薛元清主政下的招商引资博弈，雷默下海经商，在影视圈打拼，并与丑儿等女性发生情感纠葛。最终丑儿因非典去世，雷默独自飞往西藏寻找灵魂归宿，完成从官场秘书到精神自由人的蜕变。</itunes:summary>
+      <itunes:duration>00:04:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-6e2d69.mp3" length="2060164" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
