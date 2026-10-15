@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 06:16:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 06:22:51 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38400,6 +38400,17 @@
       <itunes:duration>00:06:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-67aec7.mp3" length="3228360" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《魔法师：学徒》 · 完整版 · 魔法师：学徒 · 完整讲读</title>
+      <description>《魔法师：学徒》是雷蒙德·E·费斯特一九八二年写就的西方奇幻开山之作，讲述十三岁厨房小厮帕格在暴风雨中被神秘魔法师库甘救下，从此踏入一座远超想象的世界：他面对的不仅是魔法与剑术，更是三百年帝国的命运、种族之间的偏见、以及一个少年在师徒传承中必须完成的成长觉醒。费斯特用一本写给边缘人的史诗，回答了每一个成年人心里那块发痒的地方——当世界塌下来，你到底要活成谁。</description>
+      <pubDate>Thu, 15 Oct 2026 06:22:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-8c99cc</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《魔法师：学徒》是雷蒙德·E·费斯特一九八二年写就的西方奇幻开山之作，讲述十三岁厨房小厮帕格在暴风雨中被神秘魔法师库甘救下，从此踏入一座远超想象的世界：他面对的不仅是魔法与剑术，更是三百年帝国的命运、种族之间的偏见、以及一个少年在师徒传承中必须完成的成长觉醒。费斯特用一本写给边缘人的史诗，回答了每一个成年人心里那块发痒的地方——当世界塌下来，你到底要活成谁。</itunes:summary>
+      <itunes:duration>00:03:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-8c99cc.mp3" length="1464155" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
