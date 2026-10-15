@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 00:43:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 00:55:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37971,6 +37971,17 @@
       <itunes:duration>00:08:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-e3771b.mp3" length="4103567" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《狄更斯集(06)圣诞故事集》 · 完整版 · 狄更斯集(06)圣诞故事集 · 完整讲读</title>
+      <description>《圣诞故事集》是狄更斯于一八四三至一八四八年间写就的五部中篇：《圣诞颂歌》《教堂钟声》《炉边蟋蟀》《人生的战斗》《着魔的人》。工业革命造就了血汗工厂、童工与贫富撕裂，一位经济学家请狄更斯为穷人呼吁立法，他交出的不是政论，而是五个圣诞故事。狄更斯用鬼魂、梦境与童话的外壳，装进了十九世纪英国最锋利的社会批判：守财奴史刻鲁挤在一夜之间看见了童年的自己、穷人的炉火和自己的死；脚夫托比在除夕的噩梦里看尽富人的伪善与穷人的互救；老皮瑞彬格用一生贫穷护住一炉火，却被玩具商的精明算计一再羞辱；姐妹格蕾丝与玛丽安用六年流亡，成全彼此的牺牲；化学家雷德劳求得一忘，却差点让所有人心变铁石。狄更斯不审判穷人，他审判的是日子过得去、良心却过不去的人。他用文学守住了工业革命年代里最脆弱的一道底线：人可以穷，但不可以看不见人。</description>
+      <pubDate>Thu, 15 Oct 2026 00:55:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-d41d57</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《圣诞故事集》是狄更斯于一八四三至一八四八年间写就的五部中篇：《圣诞颂歌》《教堂钟声》《炉边蟋蟀》《人生的战斗》《着魔的人》。工业革命造就了血汗工厂、童工与贫富撕裂，一位经济学家请狄更斯为穷人呼吁立法，他交出的不是政论，而是五个圣诞故事。狄更斯用鬼魂、梦境与童话的外壳，装进了十九世纪英国最锋利的社会批判：守财奴史刻鲁挤在一夜之间看见了童年的自己、穷人的炉火和自己的死；脚夫托比在除夕的噩梦里看尽富人的伪善与穷人的互救；老皮瑞彬格用一生贫穷护住一炉火，却被玩具商的精明算计一再羞辱；姐妹格蕾丝与玛丽安用六年流亡，成全彼此的牺牲；化学家雷德劳求得一忘，却差点让所有人心变铁石。狄更斯不审判穷人，他审判的是日子过得去、良心却过不去的人。他用文学守住了工业革命年代里最脆弱的一道底线：人可以穷，但不可以看不见人。</itunes:summary>
+      <itunes:duration>00:07:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-d41d57.mp3" length="3452386" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
