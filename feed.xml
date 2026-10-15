@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 00:32:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 00:43:38 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37960,6 +37960,17 @@
       <itunes:duration>00:02:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-fe28bf.mp3" length="1092171" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《真相推理师：幸存》 · 完整版 · 真相推理师：幸存 · 完整讲读</title>
+      <description>《真相推理师·幸存》是呼延云在健康类媒体从事十年新闻采编之后写下的一部暴风雪山庄式推理小说。内蒙古草原深处的湖畔楼旅店里一夜之间暴死六人，唯一幸存的白衣女子却连自己的名字都记不起来。毕业于犯罪现场勘察专业的女警刘思缈，在与世隔绝的冰封湖畔，一边复原密室杀人现场，一边切开中国人最深层的病——对迷信的盲从、对伪科学的轻信、对孤独的无法抵御，以及世代循环、至死不悟的愚昧。六具冷透的尸体不是命案的结尾，而是一面照妖镜，照出的是被气功神医收割的老人、被会议营销掏空的患者、被伪科学话术围猎的家庭，以及那个明知是假却依然站台背书的所谓专家。呼延云借这桩诡谲的草原密室命案，替一个古老而顽固的病号群体开出了一份遗嘱——真相从来不是稀缺的，怀疑才是；真正的幸存，不是逃脱凶手的追杀，而是重新能够怀疑。</description>
+      <pubDate>Thu, 15 Oct 2026 00:43:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-e3771b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《真相推理师·幸存》是呼延云在健康类媒体从事十年新闻采编之后写下的一部暴风雪山庄式推理小说。内蒙古草原深处的湖畔楼旅店里一夜之间暴死六人，唯一幸存的白衣女子却连自己的名字都记不起来。毕业于犯罪现场勘察专业的女警刘思缈，在与世隔绝的冰封湖畔，一边复原密室杀人现场，一边切开中国人最深层的病——对迷信的盲从、对伪科学的轻信、对孤独的无法抵御，以及世代循环、至死不悟的愚昧。六具冷透的尸体不是命案的结尾，而是一面照妖镜，照出的是被气功神医收割的老人、被会议营销掏空的患者、被伪科学话术围猎的家庭，以及那个明知是假却依然站台背书的所谓专家。呼延云借这桩诡谲的草原密室命案，替一个古老而顽固的病号群体开出了一份遗嘱——真相从来不是稀缺的，怀疑才是；真正的幸存，不是逃脱凶手的追杀，而是重新能够怀疑。</itunes:summary>
+      <itunes:duration>00:08:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-e3771b.mp3" length="4103567" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
