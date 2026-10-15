@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 03:23:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 03:32:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38180,6 +38180,17 @@
       <itunes:duration>00:03:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-4f1328.mp3" length="1853275" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《权力是靠不住的：美国政治文化探析》 · 完整版 · 权力是靠不住的：美国政治文化探析 · 完整讲读</title>
+      <description>本书以【权力是靠不住的】为核心命题，系统剖析美国政治文化的底层逻辑。美国是建立在理念而非民族之上的国家，其政治文化的核心是：对权力保持深刻警惕，对公民权利坚决捍卫，对公民义务高度强调，对社会自治充分信任。书中拆解了限权、自争、自治三块拼图，并延伸到公民结社、言论自由、联邦制三件具体制度，揭示这套文化如何在现实中运转、付出了哪些代价、又有哪些局限。最终，作者提醒读者：理解美国政治文化的意义在于认识美国、理解美国，而非成为美国；研究他国政治，应避免情绪化，以理性的眼光借鉴其经验，反思自身的道路。</description>
+      <pubDate>Thu, 15 Oct 2026 03:32:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-f26d7e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书以【权力是靠不住的】为核心命题，系统剖析美国政治文化的底层逻辑。美国是建立在理念而非民族之上的国家，其政治文化的核心是：对权力保持深刻警惕，对公民权利坚决捍卫，对公民义务高度强调，对社会自治充分信任。书中拆解了限权、自争、自治三块拼图，并延伸到公民结社、言论自由、联邦制三件具体制度，揭示这套文化如何在现实中运转、付出了哪些代价、又有哪些局限。最终，作者提醒读者：理解美国政治文化的意义在于认识美国、理解美国，而非成为美国；研究他国政治，应避免情绪化，以理性的眼光借鉴其经验，反思自身的道路。</itunes:summary>
+      <itunes:duration>00:04:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-f26d7e.mp3" length="2112409" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
