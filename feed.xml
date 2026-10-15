@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 03:45:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 03:50:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38213,6 +38213,17 @@
       <itunes:duration>00:03:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-6f651a.mp3" length="1674806" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《纸人》 · 完整版 · 纸人_-_周德东 · 完整讲读</title>
+      <description>《纸人》是周德东一九九几年创作的本土民俗恐怖代表作。滨市出租车司机张清兆，在阴雨夜拉了一个穿灰色雨衣的乘客，乘客下车瞬间消失。次日火葬场停尸房里，一具三年前被撞死在王家十字的无名男尸，手里紧攥着他昨夜找给乘客的钞票。三年前另有一起事故肇事王涓被轧成腹女。十块伪钞勾出三年前冤案，潘萄这个脸型诡异女人卷入更深的漩涡。伞问、张浅相继登场，身份错位、脸型混淆、纸活儿复活，人被一步步抽空成纸人。读这本书，你会在最普通的深夜里，摸到那个一直没在根部的自己。</description>
+      <pubDate>Thu, 15 Oct 2026 03:50:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-bf60e9</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《纸人》是周德东一九九几年创作的本土民俗恐怖代表作。滨市出租车司机张清兆，在阴雨夜拉了一个穿灰色雨衣的乘客，乘客下车瞬间消失。次日火葬场停尸房里，一具三年前被撞死在王家十字的无名男尸，手里紧攥着他昨夜找给乘客的钞票。三年前另有一起事故肇事王涓被轧成腹女。十块伪钞勾出三年前冤案，潘萄这个脸型诡异女人卷入更深的漩涡。伞问、张浅相继登场，身份错位、脸型混淆、纸活儿复活，人被一步步抽空成纸人。读这本书，你会在最普通的深夜里，摸到那个一直没在根部的自己。</itunes:summary>
+      <itunes:duration>00:02:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-bf60e9.mp3" length="1380145" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
