@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 04:24:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 04:29:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38268,6 +38268,17 @@
       <itunes:duration>00:04:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-017707.mp3" length="2397040" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《美国独行：西方世界的末日》 · 完整版 · 美国独行：西方世界的末日 · 完整讲读</title>
+      <description>本书是加拿大资深评论员马克·斯坦恩对西方文明人口危机的系统预警。作者以联合国人口数据为手术刀，剖开欧洲的低生育率陷阱、北美的文化渗透与美国的孤立化趋势，断言西方精英正以多元主义和福利制度亲手瓦解自身的文明根基，穆斯林世界将成最大受益方。在欧洲人口将大幅萎缩、穆斯林移民加速填补空白的背景下，本书呼吁美国摆脱对欧洲盟友的幻想，回归以家庭和信仰为基石的国家重建。</description>
+      <pubDate>Thu, 15 Oct 2026 04:29:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-d0d213</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是加拿大资深评论员马克·斯坦恩对西方文明人口危机的系统预警。作者以联合国人口数据为手术刀，剖开欧洲的低生育率陷阱、北美的文化渗透与美国的孤立化趋势，断言西方精英正以多元主义和福利制度亲手瓦解自身的文明根基，穆斯林世界将成最大受益方。在欧洲人口将大幅萎缩、穆斯林移民加速填补空白的背景下，本书呼吁美国摆脱对欧洲盟友的幻想，回归以家庭和信仰为基石的国家重建。</itunes:summary>
+      <itunes:duration>00:03:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-d0d213.mp3" length="1443675" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
