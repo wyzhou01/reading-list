@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Wed, 14 Oct 2026 23:55:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 00:02:12 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -37894,6 +37894,17 @@
       <itunes:duration>00:04:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-6445b9.mp3" length="1976155" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《海都物语》 · 完整版 · 海都物语 · 完整讲读</title>
+      <description>《海都物语》是旅居意大利数十年的日本历史作家盐野七生，为威尼斯共和国写下的一部千年传记。本书以芦苇沼泽中诞生的难民小国为起点，讲述这个没有任何资源的国家，如何凭借对潮汐的理解、对海洋的熟稔、对契约的坚守、对共和制的捍卫，建立起一个延续千年的海上商业帝国。从公元452年神父指示难民迁居潟湖，到1797年拿破仑逼迫威尼斯共和国投降，这片芦苇荡里走出的民族，用船、契约、金狮旗和水务行政官，在地中海舞台上创造了一整套全新的国家治理范式。盐野七生以冷静通透的笔触，剖析了威尼斯立国、强盛、鼎盛、衰亡的全过程，更借古喻今，向每一个读者追问：什么样的制度才能让一个组织穿越周期？什么样的信仰才能让一代代人愿意为共同的未来持续付出？答案就藏在那片潟湖的潮起潮落之间。</description>
+      <pubDate>Thu, 15 Oct 2026 00:02:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-a99fb1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《海都物语》是旅居意大利数十年的日本历史作家盐野七生，为威尼斯共和国写下的一部千年传记。本书以芦苇沼泽中诞生的难民小国为起点，讲述这个没有任何资源的国家，如何凭借对潮汐的理解、对海洋的熟稔、对契约的坚守、对共和制的捍卫，建立起一个延续千年的海上商业帝国。从公元452年神父指示难民迁居潟湖，到1797年拿破仑逼迫威尼斯共和国投降，这片芦苇荡里走出的民族，用船、契约、金狮旗和水务行政官，在地中海舞台上创造了一整套全新的国家治理范式。盐野七生以冷静通透的笔触，剖析了威尼斯立国、强盛、鼎盛、衰亡的全过程，更借古喻今，向每一个读者追问：什么样的制度才能让一个组织穿越周期？什么样的信仰才能让一代代人愿意为共同的未来持续付出？答案就藏在那片潟湖的潮起潮落之间。</itunes:summary>
+      <itunes:duration>00:04:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-a99fb1.mp3" length="2096527" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
