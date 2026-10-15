@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 07:09:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 07:21:22 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38455,6 +38455,17 @@
       <itunes:duration>00:03:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261015/episode-20261015-8ef451.mp3" length="1869993" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《苇间风》 · 完整版 · 苇间风v1.0_-_铁扇公子 · 完整讲读</title>
+      <description>《苇间风》是铁扇公子笔下一部聚焦寄养少女与高门学长甜恋的作品。十五岁的天才学霸明屹，正代表中国参加国际数学奥林匹克竞赛；十五岁的失怙孤女乔皙，刚以寄养之名借住进明家。门第的巨大差距、原生家庭的破碎创伤、少年之间不敢开口的暗恋与守护，在一栋小洋楼里悄然上演。明屹不会做数学之外的题，于是他用自己最笨拙的方式——一枚贴身戴了十几年的小花生玉坠、一本包好书皮的诗集——去守护一个不敢接受爱的女孩。而乔皙也在他的不动声色里，慢慢学会相信自己【配得上】被人郑重对待。这不仅是一个关于暗恋与守护的甜恋故事，更是一封写给所有【寄人篱下】过的孩子的情书——告诉他们：你值得被爱，不需要任何理由。</description>
+      <pubDate>Thu, 15 Oct 2026 07:21:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261015-episode-20261015-4d322e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《苇间风》是铁扇公子笔下一部聚焦寄养少女与高门学长甜恋的作品。十五岁的天才学霸明屹，正代表中国参加国际数学奥林匹克竞赛；十五岁的失怙孤女乔皙，刚以寄养之名借住进明家。门第的巨大差距、原生家庭的破碎创伤、少年之间不敢开口的暗恋与守护，在一栋小洋楼里悄然上演。明屹不会做数学之外的题，于是他用自己最笨拙的方式——一枚贴身戴了十几年的小花生玉坠、一本包好书皮的诗集——去守护一个不敢接受爱的女孩。而乔皙也在他的不动声色里，慢慢学会相信自己【配得上】被人郑重对待。这不仅是一个关于暗恋与守护的甜恋故事，更是一封写给所有【寄人篱下】过的孩子的情书——告诉他们：你值得被爱，不需要任何理由。</itunes:summary>
+      <itunes:duration>00:06:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261015/episode-20261015-4d322e.mp3" length="2907368" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
