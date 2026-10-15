@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 07:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 07:09:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38444,6 +38444,17 @@
       <itunes:duration>00:06:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261015/episode-20261015-b21d2d.mp3" length="3077895" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中华经典名著全本全注全译丛书：坛经》 · 完整版 · 中华经典名著全本全注全译丛书：坛经 · 完整讲读</title>
+      <description>《坛经》是中国禅宗六祖惠能的言教集结，也是中国佛教史上唯一被称为【经】的本土著作。它用一个岭南砍柴少年的顿悟，推翻了佛教千年以来向外的求法路径，确立了一条全新的向内之路。这本书的核心只有一个动作：【见自本性】。佛不在经卷里、不在寺院里、不在他求里，就在你当下的每一个念里。惠能用菩提本无树这首偈、明镜亦非台的四句破执、自性能佛的一句话立宗，把成佛这桩事，从一座山、一个师、一辈子千辛万苦的路上，请回了你正端着的那一碗饭里。这本书读完后，你会发现，它不是教你做了一件事，而是帮你认了一个从未离开过你的亲人——那个一辈子和你一起吃饭、一起走路、一起扛事、也从来没有真正离开过你的，自性。</description>
+      <pubDate>Thu, 15 Oct 2026 07:09:51 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261015-episode-20261015-8ef451</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《坛经》是中国禅宗六祖惠能的言教集结，也是中国佛教史上唯一被称为【经】的本土著作。它用一个岭南砍柴少年的顿悟，推翻了佛教千年以来向外的求法路径，确立了一条全新的向内之路。这本书的核心只有一个动作：【见自本性】。佛不在经卷里、不在寺院里、不在他求里，就在你当下的每一个念里。惠能用菩提本无树这首偈、明镜亦非台的四句破执、自性能佛的一句话立宗，把成佛这桩事，从一座山、一个师、一辈子千辛万苦的路上，请回了你正端着的那一碗饭里。这本书读完后，你会发现，它不是教你做了一件事，而是帮你认了一个从未离开过你的亲人——那个一辈子和你一起吃饭、一起走路、一起扛事、也从来没有真正离开过你的，自性。</itunes:summary>
+      <itunes:duration>00:03:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261015/episode-20261015-8ef451.mp3" length="1869993" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
