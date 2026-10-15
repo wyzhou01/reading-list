@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 02:54:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 03:05:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38147,6 +38147,17 @@
       <itunes:duration>00:04:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-ace0bc.mp3" length="2078555" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《哲学史讲演录（第三卷）》 · 完整版 · 哲学史讲演录(第3卷)_(汉译世界学术名著丛书)_-_黑格尔 · 完整讲读</title>
+      <description>本书为黑格尔晚年整理总结的西方哲学史讲演录第三卷，接续前两卷的早期希腊哲学，直入智者派与苏格拉底的冲突，再展开柏拉图与亚里士多德两大体系。黑格尔的野心是要让每一个概念在历史中自我实现，让希腊精神从客观走向主观，再走向精神自身的自由。他从普罗泰戈拉的普罗米修斯神话说起，重新估量为智者派的贡献、为苏格拉底的转向、柏拉图的理念王国、亚里士多德的实体论。智者派是希腊教养的播种者，是把概念从神谕拉回人间、从权威拉向反思的先驱；苏格拉底则把哲学从人间拉向内心，从教人辩论转向追问灵魂；柏拉图把苏格拉底的内在性发挥为客观的理念王国，使主观的精神变为客观的精神；亚里士多德则在柏拉图上把理念论发展为实体论，建立起形而上学的大厦。整个第三卷展现的就是黑格尔意义上的英雄谱，从智者派到亚里士多德，从教养的播种到形而上学的完成，从主体性的觉醒到精神自身的自由。</description>
+      <pubDate>Thu, 15 Oct 2026 03:05:30 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-f9f757</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书为黑格尔晚年整理总结的西方哲学史讲演录第三卷，接续前两卷的早期希腊哲学，直入智者派与苏格拉底的冲突，再展开柏拉图与亚里士多德两大体系。黑格尔的野心是要让每一个概念在历史中自我实现，让希腊精神从客观走向主观，再走向精神自身的自由。他从普罗泰戈拉的普罗米修斯神话说起，重新估量为智者派的贡献、为苏格拉底的转向、柏拉图的理念王国、亚里士多德的实体论。智者派是希腊教养的播种者，是把概念从神谕拉回人间、从权威拉向反思的先驱；苏格拉底则把哲学从人间拉向内心，从教人辩论转向追问灵魂；柏拉图把苏格拉底的内在性发挥为客观的理念王国，使主观的精神变为客观的精神；亚里士多德则在柏拉图上把理念论发展为实体论，建立起形而上学的大厦。整个第三卷展现的就是黑格尔意义上的英雄谱，从智者派到亚里士多德，从教养的播种到形而上学的完成，从主体性的觉醒到精神自身的自由。</itunes:summary>
+      <itunes:duration>00:07:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-f9f757.mp3" length="3396380" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
