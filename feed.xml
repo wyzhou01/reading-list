@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 06:03:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 06:16:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38389,6 +38389,17 @@
       <itunes:duration>00:04:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-c6ddd4.mp3" length="1979498" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《白朗宁夫人爱情十四行诗诗集》 · 完整版 · 白朗宁夫人爱情十四行诗诗集 · 完整讲读</title>
+      <description>《白朗宁夫人爱情十四行诗诗集》是英国女诗人伊丽莎白·巴莱特在被医生判定命悬一线、卧床六年后，与小她六岁的诗人罗伯特·白朗宁通信、相恋、私奔到意大利期间写下的四十四首十四行组诗。诗集以『死亡』与『爱情』同时登场的瞬间起笔，经由身份落差、上帝否决、骨灰坛摊牌、双重心跳签约、重新自我定价等十二道关卡，最终把爱情从死亡的阴影里拽出来。译者方平在序言中点明核心：爱情战胜死亡不是童话专利，曾在现实中真实发生过一次。这组诗写的是一个濒死女人自己掀开骨灰坛盖、自己给苦命重新命名、自己从病床上爬起来的过程——王子只是被她允许站在边上的人。</description>
+      <pubDate>Thu, 15 Oct 2026 06:16:14 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-67aec7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《白朗宁夫人爱情十四行诗诗集》是英国女诗人伊丽莎白·巴莱特在被医生判定命悬一线、卧床六年后，与小她六岁的诗人罗伯特·白朗宁通信、相恋、私奔到意大利期间写下的四十四首十四行组诗。诗集以『死亡』与『爱情』同时登场的瞬间起笔，经由身份落差、上帝否决、骨灰坛摊牌、双重心跳签约、重新自我定价等十二道关卡，最终把爱情从死亡的阴影里拽出来。译者方平在序言中点明核心：爱情战胜死亡不是童话专利，曾在现实中真实发生过一次。这组诗写的是一个濒死女人自己掀开骨灰坛盖、自己给苦命重新命名、自己从病床上爬起来的过程——王子只是被她允许站在边上的人。</itunes:summary>
+      <itunes:duration>00:06:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-67aec7.mp3" length="3228360" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
