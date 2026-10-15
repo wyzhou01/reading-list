@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 04:42:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 04:49:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38301,6 +38301,17 @@
       <itunes:duration>00:03:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-c72340.mp3" length="1916386" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《古史新探》 · 完整版 · 古史新探_(杨宽著作集) · 完整讲读</title>
+      <description>《古史新探》是杨宽先生西周史研究的代表论文集。本书以【礼】为钥匙,贯穿农业生产、奴隶制生产关系、井田与村社、乡遂与宗法、古礼政治功能等多个维度,系统论证了西周春秋社会是【保留村社残余的奴隶制社会】这一核心命题。杨宽强调以社会物质基础与跨文化比较方法重建古史,既承继古史辨派的怀疑精神,又吸纳释古派的实证方法,对古史分期、中国奴隶制社会特点等重大议题作出了标志性回应,对理解中国早期文明的结构与延续机制,具有奠基性的学术价值。</description>
+      <pubDate>Thu, 15 Oct 2026 04:49:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-d7e04b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《古史新探》是杨宽先生西周史研究的代表论文集。本书以【礼】为钥匙,贯穿农业生产、奴隶制生产关系、井田与村社、乡遂与宗法、古礼政治功能等多个维度,系统论证了西周春秋社会是【保留村社残余的奴隶制社会】这一核心命题。杨宽强调以社会物质基础与跨文化比较方法重建古史,既承继古史辨派的怀疑精神,又吸纳释古派的实证方法,对古史分期、中国奴隶制社会特点等重大议题作出了标志性回应,对理解中国早期文明的结构与延续机制,具有奠基性的学术价值。</itunes:summary>
+      <itunes:duration>00:04:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-d7e04b.mp3" length="2157131" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
