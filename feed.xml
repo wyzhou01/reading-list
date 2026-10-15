@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 02:40:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 02:46:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38125,6 +38125,17 @@
       <itunes:duration>00:04:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-3c1770.mp3" length="2277085" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《莉莉和章鱼》 · 完整版 · 莉莉和章鱼 · 完整讲读</title>
+      <description>《莉莉和章鱼》表面是一个四十二岁男人和十二岁腊肠狗莉莉与一只章鱼搏斗的奇幻故事，章鱼实为脑瘤与死亡的隐喻。小说借这场不可能赢的战役，写出每一个中年人都在面对的功课：爱过、失去、被迫重新打开自己。一次失败的治疗、一段结束的恋情、一只终将离开的狗——三个拼图合起来，才是一只完整的章鱼。</description>
+      <pubDate>Thu, 15 Oct 2026 02:46:07 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-ec12a6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《莉莉和章鱼》表面是一个四十二岁男人和十二岁腊肠狗莉莉与一只章鱼搏斗的奇幻故事，章鱼实为脑瘤与死亡的隐喻。小说借这场不可能赢的战役，写出每一个中年人都在面对的功课：爱过、失去、被迫重新打开自己。一次失败的治疗、一段结束的恋情、一只终将离开的狗——三个拼图合起来，才是一只完整的章鱼。</itunes:summary>
+      <itunes:duration>00:03:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-ec12a6.mp3" length="1532282" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
