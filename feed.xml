@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 01:39:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 01:45:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38037,6 +38037,17 @@
       <itunes:duration>00:09:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-9968dc.mp3" length="4537826" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《芈月传》 · 完整版 · 芈月传 · 完整讲读</title>
+      <description>《芈月传》是蒋胜男写就的一部先秦女性政治传奇，以兵马俑归属之谜开篇，虚实交织地讲述了中国历史上第一位太后——楚女芈月从楚国陪嫁媵侍、到执掌秦国四十一年铁腕霸主的波澜一生。战国大争之世，她既是政治棋局的棋子，也是改写规则的人：废人殉以陶俑代、容义渠以安北疆、栽培千古一帝的祖父，奠定秦一统天下的煌煌霸业。这不仅是一段九死一生的宫斗史诗，更是一位女性用四十一年的时间，把自己活成国家制度、活成两千年女性政治血脉起点的历程。</description>
+      <pubDate>Thu, 15 Oct 2026 01:45:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-8497b4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《芈月传》是蒋胜男写就的一部先秦女性政治传奇，以兵马俑归属之谜开篇，虚实交织地讲述了中国历史上第一位太后——楚女芈月从楚国陪嫁媵侍、到执掌秦国四十一年铁腕霸主的波澜一生。战国大争之世，她既是政治棋局的棋子，也是改写规则的人：废人殉以陶俑代、容义渠以安北疆、栽培千古一帝的祖父，奠定秦一统天下的煌煌霸业。这不仅是一段九死一生的宫斗史诗，更是一位女性用四十一年的时间，把自己活成国家制度、活成两千年女性政治血脉起点的历程。</itunes:summary>
+      <itunes:duration>00:01:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-8497b4.mp3" length="920390" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
