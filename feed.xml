@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 03:55:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 04:10:03 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38235,6 +38235,17 @@
       <itunes:duration>00:02:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-f62b07.mp3" length="1239711" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《斯居戴里小姐：霍夫曼中短篇小说选》 · 完整版 · 霍夫曼集(02)·斯居戴里小姐_霍夫曼中短篇小说选 · 完整讲读</title>
+      <description>《斯居戴里小姐：霍夫曼中短篇小说选》收录德国浪漫派怪杰E.T.A.霍夫曼的十二篇代表作。霍夫曼白天是普鲁士的法官，夜里是哥特故事与音乐怪谈的制造者。在一八零九年的柏林，他用荒诞、超现实和黑色幽默，为被庸俗社会挤压的艺术家、被嘲讽的疯狂、被驱逐的童话正名。从《骑士格鲁克》里深夜密室中凭空弹奏空五线谱的作曲家，到《除夕之夜的离奇经历》里逃进暴风雨夜的敏感者，再到《金宝瓶》中与魔鬼交易的小学徒，霍夫曼让每一个戴上面具的灵魂，都能在密室、地窖、镜子的最深处，藏好一首没人听过的歌。面具是盔甲，面具下藏着齐声。这是浪漫派对工业革命最终的反驳，也是霍夫曼留给每一个拒绝签收庸俗快乐配额的灵魂的，最后一份返聘合同。</description>
+      <pubDate>Thu, 15 Oct 2026 04:09:59 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-5cbfa1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《斯居戴里小姐：霍夫曼中短篇小说选》收录德国浪漫派怪杰E.T.A.霍夫曼的十二篇代表作。霍夫曼白天是普鲁士的法官，夜里是哥特故事与音乐怪谈的制造者。在一八零九年的柏林，他用荒诞、超现实和黑色幽默，为被庸俗社会挤压的艺术家、被嘲讽的疯狂、被驱逐的童话正名。从《骑士格鲁克》里深夜密室中凭空弹奏空五线谱的作曲家，到《除夕之夜的离奇经历》里逃进暴风雨夜的敏感者，再到《金宝瓶》中与魔鬼交易的小学徒，霍夫曼让每一个戴上面具的灵魂，都能在密室、地窖、镜子的最深处，藏好一首没人听过的歌。面具是盔甲，面具下藏着齐声。这是浪漫派对工业革命最终的反驳，也是霍夫曼留给每一个拒绝签收庸俗快乐配额的灵魂的，最后一份返聘合同。</itunes:summary>
+      <itunes:duration>00:11:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-5cbfa1.mp3" length="5317738" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
