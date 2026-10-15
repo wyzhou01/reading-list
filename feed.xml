@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 02:12:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 02:21:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38092,6 +38092,17 @@
       <itunes:duration>00:02:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-eb3caa.mp3" length="1281089" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《牛津通识读本：克尔凯郭尔》 · 完整版 · 牛津通识读本：克尔凯郭尔(中文版) · 完整讲读</title>
+      <description>本书以平易之笔，带领读者走进十九世纪丹麦哲人克尔凯郭尔的精神世界。他以一己之力对抗黑格尔主义的理性霸权，主张真实的存在不在概念体系里，而在每一个孤独个体的具体抉择中。他剖开焦虑与绝望这两种现代人最熟悉的精神状态，指出它们不是病，而是人之为人的前提；并以亚伯拉罕献祭的故事，揭示信仰是一种不能被论证、却需要人孤注一掷的飞跃。这本书不只是哲学史的入门，更是今天每个在效率与算法夹缝中寻找自己的人，都能用得上的诚实之书。</description>
+      <pubDate>Thu, 15 Oct 2026 02:21:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-e17bbd</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书以平易之笔，带领读者走进十九世纪丹麦哲人克尔凯郭尔的精神世界。他以一己之力对抗黑格尔主义的理性霸权，主张真实的存在不在概念体系里，而在每一个孤独个体的具体抉择中。他剖开焦虑与绝望这两种现代人最熟悉的精神状态，指出它们不是病，而是人之为人的前提；并以亚伯拉罕献祭的故事，揭示信仰是一种不能被论证、却需要人孤注一掷的飞跃。这本书不只是哲学史的入门，更是今天每个在效率与算法夹缝中寻找自己的人，都能用得上的诚实之书。</itunes:summary>
+      <itunes:duration>00:06:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-e17bbd.mp3" length="3097121" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
