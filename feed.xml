@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 05:12:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 05:18:26 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38334,6 +38334,17 @@
       <itunes:duration>00:06:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-d071fe.mp3" length="3036099" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《中国兵史》 · 完整版 · 中国兵史(1) · 完整讲读</title>
+      <description>雷海宗《中国兵史》,是清华史学派一部以兵的&apos;精神&apos;为线索的文化诊断书。他透过春秋贵族文武双全、战国全民皆兵、秦代缴械与征发流民、汉初良家子从军、汉武帝独尊儒术后文德压制武德、东汉无兵之文化成形的历史脉络,提出一个惊人判断:中华文化病了,病根在文武分离。战国以上,贵族男子人人当兵、文武兼备;秦汉以降,良家子弟耻于从军,兵民对立,文人只知明哲保身,武将只知割据称雄。他借淝水之战喻正在进行中的抗战,提出中国文化第二周之末的当务之急,是恢复征兵制、让知识阶级不再免役、让每个国民文武双全,以涤尽二千年无兵之文化的虚伪污浊,孕育第三周文化。这本书,不是一个军事史读本,而是一份关于民族文化精神基本问题的诊断书。</description>
+      <pubDate>Thu, 15 Oct 2026 05:18:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-1e15b7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>雷海宗《中国兵史》,是清华史学派一部以兵的&apos;精神&apos;为线索的文化诊断书。他透过春秋贵族文武双全、战国全民皆兵、秦代缴械与征发流民、汉初良家子从军、汉武帝独尊儒术后文德压制武德、东汉无兵之文化成形的历史脉络,提出一个惊人判断:中华文化病了,病根在文武分离。战国以上,贵族男子人人当兵、文武兼备;秦汉以降,良家子弟耻于从军,兵民对立,文人只知明哲保身,武将只知割据称雄。他借淝水之战喻正在进行中的抗战,提出中国文化第二周之末的当务之急,是恢复征兵制、让知识阶级不再免役、让每个国民文武双全,以涤尽二千年无兵之文化的虚伪污浊,孕育第三周文化。这本书,不是一个军事史读本,而是一份关于民族文化精神基本问题的诊断书。</itunes:summary>
+      <itunes:duration>00:03:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-1e15b7.mp3" length="1476275" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
