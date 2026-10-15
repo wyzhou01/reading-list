@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</description>
-    <lastBuildDate>Thu, 15 Oct 2026 04:49:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 05:02:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>一档 AI 讲书 + 评论的播客节目。每本/每集讲一本书的某个章节或主题：客观解读 + 评论延伸。内容由 AI 辅助整理。</itunes:summary>
@@ -38312,6 +38312,17 @@
       <itunes:duration>00:04:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-d7e04b.mp3" length="2157131" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《遗忘者》 · 完整版 · 遗忘者 · 完整讲读</title>
+      <description>《遗忘者》是法医秦明系列众生卷第二季，由在职法医秦明所著。本书以十桩被遗忘的命案为线索，聚焦封建恶俗与男尊女卑思想对女性的结构性伤害：被囚禁十几年的姐姐、生日当天永远失去母亲的十三岁男孩、被向三妹推了一把再被大货车撞死的许医生。秦明借法医之眼，为被遗忘的女性开口——女性能顶半边天，她们不应该被遗忘。</description>
+      <pubDate>Thu, 15 Oct 2026 05:02:25 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261014-episode-20261014-2e2b9d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《遗忘者》是法医秦明系列众生卷第二季，由在职法医秦明所著。本书以十桩被遗忘的命案为线索，聚焦封建恶俗与男尊女卑思想对女性的结构性伤害：被囚禁十几年的姐姐、生日当天永远失去母亲的十三岁男孩、被向三妹推了一把再被大货车撞死的许医生。秦明借法医之眼，为被遗忘的女性开口——女性能顶半边天，她们不应该被遗忘。</itunes:summary>
+      <itunes:duration>00:05:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261014/episode-20261014-2e2b9d.mp3" length="2459315" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
