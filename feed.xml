@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Fri, 16 Oct 2026 12:11:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 12:16:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -68020,6 +68020,25 @@
       <itunes:duration>00:20:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261016/episode-20261016-4307e3.mp3" length="19640493" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《祖鲁法则：如何选择成长股》 · 完整版 · 祖鲁法则：如何选择成长股 · 完整讲读</title>
+      <description>《祖鲁法则》以量化筛选为核心，向个人投资者完整传授了一套可落地的成长股投资框架。从市盈率增长比率、现金流、相对强度，到董事交易、财务状况，七大标准彼此勾连，硬卡底线、软加筛选，既给出可复制的工具，也给出不被市场噪音摆布的纪律主张。复利无法被替代，但通过这套可执行的方法，散户完全可以在小型成长股这一狭窄战场上，与机构对弈并赢得长期超额收益。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Fri, 16 Oct 2026 12:16:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261016-episode-20261016-dc6a6a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《祖鲁法则》以量化筛选为核心，向个人投资者完整传授了一套可落地的成长股投资框架。从市盈率增长比率、现金流、相对强度，到董事交易、财务状况，七大标准彼此勾连，硬卡底线、软加筛选，既给出可复制的工具，也给出不被市场噪音摆布的纪律主张。复利无法被替代，但通过这套可执行的方法，散户完全可以在小型成长股这一狭窄战场上，与机构对弈并赢得长期超额收益。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:21:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261016/episode-20261016-dc6a6a.mp3" length="20347437" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
