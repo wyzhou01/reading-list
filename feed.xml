@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Fri, 16 Oct 2026 07:09:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 07:16:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -67621,6 +67621,25 @@
       <itunes:duration>00:25:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261016/episode-20261016-150160.mp3" length="24755757" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《眼睛游戏》 · 完整版 · 埃利亚斯·卡内蒂自传三部曲之三：眼睛游戏 · 完整讲读</title>
+      <description>本书是诺贝尔文学奖得主卡内蒂自传三部曲的终章，以一九三三年秋天他在维也纳迟到的毕希纳阅读为切口，呈现一个二十六岁青年在焚书焦虑之后，被一本黄封面的《沃伊采克》电击，从而摧毁了此前的一切创作计划，并孕育出戏剧《婚礼》的精神复活现场。全书以高度凝视的眼睛游戏、延迟的相遇作为命运、维也纳知识圈的高密度精神碰撞、对群体与权力的终身凝视为核心主题，是一部关于毁灭与重生、自我谴责与无辜、推迟与相遇的精神自画像。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Fri, 16 Oct 2026 07:16:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261016-episode-20261016-b18e9f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是诺贝尔文学奖得主卡内蒂自传三部曲的终章，以一九三三年秋天他在维也纳迟到的毕希纳阅读为切口，呈现一个二十六岁青年在焚书焦虑之后，被一本黄封面的《沃伊采克》电击，从而摧毁了此前的一切创作计划，并孕育出戏剧《婚礼》的精神复活现场。全书以高度凝视的眼睛游戏、延迟的相遇作为命运、维也纳知识圈的高密度精神碰撞、对群体与权力的终身凝视为核心主题，是一部关于毁灭与重生、自我谴责与无辜、推迟与相遇的精神自画像。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:24:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261016/episode-20261016-b18e9f.mp3" length="23801901" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
