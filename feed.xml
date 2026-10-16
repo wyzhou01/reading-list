@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Fri, 16 Oct 2026 17:09:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 17:13:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -68856,6 +68856,25 @@
       <itunes:duration>00:16:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261016/episode-20261016-919032.mp3" length="16095021" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《沟通力就是执行力》 · 完整版 · 沟通力就是执行力 · 完整讲读</title>
+      <description>赵伟在《沟通力就是执行力》中提出一个反常识判断：团队执行力差的根源，往往不在执行，而在沟通。全书十一章系统拆解沟通如何贯穿战略制定到目标达成的每一个环节——从凝聚力培育、文化氛围、因人而异的分工，到民主机制、扁平架构、工具选择，再到说服与倾听、目标管理与榜样力量。作者用大量企业管理案例证明：信息衰减、信息谬误、信息孤岛是执行力的隐形杀手，而顺畅的沟通链才能把战略意图转化为实际成果。对于中基层管理者而言，这本书提供了一个实用视角：与其追着员工要执行力，不如先修通沟通这条链路。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Fri, 16 Oct 2026 17:13:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261016-episode-20261016-fbbfd6</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>赵伟在《沟通力就是执行力》中提出一个反常识判断：团队执行力差的根源，往往不在执行，而在沟通。全书十一章系统拆解沟通如何贯穿战略制定到目标达成的每一个环节——从凝聚力培育、文化氛围、因人而异的分工，到民主机制、扁平架构、工具选择，再到说服与倾听、目标管理与榜样力量。作者用大量企业管理案例证明：信息衰减、信息谬误、信息孤岛是执行力的隐形杀手，而顺畅的沟通链才能把战略意图转化为实际成果。对于中基层管理者而言，这本书提供了一个实用视角：与其追着员工要执行力，不如先修通沟通这条链路。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:23:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261016/episode-20261016-fbbfd6.mp3" length="22134957" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
