@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Fri, 16 Oct 2026 12:33:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 12:38:58 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -68077,6 +68077,25 @@
       <itunes:duration>00:23:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261016/episode-20261016-ca82dc.mp3" length="22196781" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《哥伦比亚中国文学史》 · 完整版 · 哥伦比亚中国文学史 · 完整讲读</title>
+      <description>本期《好好读书》拆解梅维恒主编的《哥伦比亚中国文学史》。这本书是西方学界最完整的一部中国文学通史，二百多万字、五十五章，从上古神话一路讲到二十一世纪初。它的核心贡献是彻底改写了单一文类的中国文学叙事：把文言与白话拉成两条平行的河，把儒释道并列为塑造文学的四股精神力量，把少数民族与周边汉文化圈纳入同一张网，并证明文类之间从来不存在铁的边界。在西方学者眼里，中国文学的活力来自它的复数性——多源、多层、多声、多族。中国文学史不是一棵老树，而是一片永远在更新苗圃的森林。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Fri, 16 Oct 2026 12:38:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261016-episode-20261016-40947b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本期《好好读书》拆解梅维恒主编的《哥伦比亚中国文学史》。这本书是西方学界最完整的一部中国文学通史，二百多万字、五十五章，从上古神话一路讲到二十一世纪初。它的核心贡献是彻底改写了单一文类的中国文学叙事：把文言与白话拉成两条平行的河，把儒释道并列为塑造文学的四股精神力量，把少数民族与周边汉文化圈纳入同一张网，并证明文类之间从来不存在铁的边界。在西方学者眼里，中国文学的活力来自它的复数性——多源、多层、多声、多族。中国文学史不是一棵老树，而是一片永远在更新苗圃的森林。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:22:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261016/episode-20261016-40947b.mp3" length="21844269" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
