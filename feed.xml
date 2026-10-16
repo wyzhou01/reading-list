@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Fri, 16 Oct 2026 19:34:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 19:40:44 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -69673,6 +69673,25 @@
       <itunes:duration>00:25:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261016/episode-20261016-11ca5e.mp3" length="24402093" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《世界哲学简史》 · 完整版 · 世界哲学简史 · 完整讲读</title>
+      <description>《世界哲学简史》是美国哲学家所罗门与希金斯写给普通读者的全球哲学巡礼。它打破欧洲中心主义的写法，把泰勒斯、佛陀、孔子、老子、苏格拉底、柏拉图、康德、甘地、福柯并肩放在同一张地图上，呈现轴心时代以来东西方哲人对[世界是什么][我们该如何活]这两个问题的并行追问。书中既有理性主义的希腊路线，也有神秘主义的印度智慧与重情重礼的儒家道家；既追踪了从笛卡尔到康德的现代主体性转向，也展示了二十世纪存在主义、后现代主义、女权主义对[理性主体]的拆解。它不仅是一部哲学史，更是一份关于【如何思考、如何倾听、如何拒绝被轻易说服】的精神手册。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Fri, 16 Oct 2026 19:40:39 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261016-episode-20261016-42a900</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《世界哲学简史》是美国哲学家所罗门与希金斯写给普通读者的全球哲学巡礼。它打破欧洲中心主义的写法，把泰勒斯、佛陀、孔子、老子、苏格拉底、柏拉图、康德、甘地、福柯并肩放在同一张地图上，呈现轴心时代以来东西方哲人对[世界是什么][我们该如何活]这两个问题的并行追问。书中既有理性主义的希腊路线，也有神秘主义的印度智慧与重情重礼的儒家道家；既追踪了从笛卡尔到康德的现代主体性转向，也展示了二十世纪存在主义、后现代主义、女权主义对[理性主体]的拆解。它不仅是一部哲学史，更是一份关于【如何思考、如何倾听、如何拒绝被轻易说服】的精神手册。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:24:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261016/episode-20261016-42a900.mp3" length="23053485" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
