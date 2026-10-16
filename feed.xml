@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Fri, 16 Oct 2026 19:40:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 19:47:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -69692,6 +69692,25 @@
       <itunes:duration>00:24:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261016/episode-20261016-42a900.mp3" length="23053485" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《台湾这些年所知道的祖国》 · 完整版 · 台湾这些年所知道的祖国 · 完整讲读</title>
+      <description>本书是台湾作家廖信忠以口述史方式写就的两岸民间记忆。从一九四四年被日本殖民体制送上南洋战场的台籍青年林水源，到温泉池里八十多岁仍能吟出李白的昆伯，再到金门前线与大担姑娘相恋的曾树森，作者用一个个被战争与禁令反复撕裂的小人物故事，串起台湾人对祖国认知的曲折心路：从皇民到亡国奴，从被欺骗到被遗忘，从挥手致意到相爱结婚。廖信忠提醒读者，两岸的真正距离不是海峡，而是被几代人建构起来的他者想象。这本书既是个人史，也是大时代最诚实的注脚。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Fri, 16 Oct 2026 19:47:13 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261016-episode-20261016-9f5c0c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书是台湾作家廖信忠以口述史方式写就的两岸民间记忆。从一九四四年被日本殖民体制送上南洋战场的台籍青年林水源，到温泉池里八十多岁仍能吟出李白的昆伯，再到金门前线与大担姑娘相恋的曾树森，作者用一个个被战争与禁令反复撕裂的小人物故事，串起台湾人对祖国认知的曲折心路：从皇民到亡国奴，从被欺骗到被遗忘，从挥手致意到相爱结婚。廖信忠提醒读者，两岸的真正距离不是海峡，而是被几代人建构起来的他者想象。这本书既是个人史，也是大时代最诚实的注脚。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:24:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261016/episode-20261016-9f5c0c.mp3" length="23134893" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
