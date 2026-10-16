@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Fri, 16 Oct 2026 22:17:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 22:24:40 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -70191,6 +70191,25 @@
       <itunes:duration>00:25:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261016/episode-20261016-3dff1b.mp3" length="24387885" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《湛庐文化医学人文系列：《最好的告别》+《最好的抉择》》 · 完整版 · 湛庐文化医学人文系列两本（最好的告别+最好的抉择） · 完整讲读</title>
+      <description>《最好的告别》与《最好的抉择》是哈佛外科医生阿图·葛文德两本医学人文著作。前者直面衰老与死亡,指出现代医学把临终医学化,反而让人死得更惨,提出辅助生活、共同决策等替代方案;后者聚焦看病决策,揭示医生与病人对治疗目标存在根本错位,倡导以病人人生目标为核心的共同决策模式。两本书合在一起,只回答一件事——医学是为人服务的,人不能反过来被医学的流程吞噬。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Fri, 16 Oct 2026 22:24:35 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261016-episode-20261016-a112a7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《最好的告别》与《最好的抉择》是哈佛外科医生阿图·葛文德两本医学人文著作。前者直面衰老与死亡,指出现代医学把临终医学化,反而让人死得更惨,提出辅助生活、共同决策等替代方案;后者聚焦看病决策,揭示医生与病人对治疗目标存在根本错位,倡导以病人人生目标为核心的共同决策模式。两本书合在一起,只回答一件事——医学是为人服务的,人不能反过来被医学的流程吞噬。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:27:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261016/episode-20261016-a112a7.mp3" length="26425005" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
