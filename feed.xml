@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Fri, 16 Oct 2026 03:22:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 03:29:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -66918,6 +66918,25 @@
       <itunes:duration>00:22:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261015/episode-20261015-2770d0.mp3" length="21404973" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《试论疲倦》 · 完整版 · 试论疲倦 · 完整讲读</title>
+      <description>彼得·汉德克的《试论疲倦》以反小说的笔法重新审视疲倦，把它从症状改写为感知的入口。书中穿梭于童年教堂的恐惧、脱粒棚午后的群体疲倦、失眠的孤立与两性关系中的沉默裂变，逐渐勾勒出一种可以被居住的疲倦伦理：人不必消灭疲倦，而要穿过它。汉德克用夹叙夹议的内心独白，让文字本身慢下来，与读者的呼吸同步。这是一部关于如何重新看见世界的练习册。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Fri, 16 Oct 2026 03:29:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261015-episode-20261015-3c7cb4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>彼得·汉德克的《试论疲倦》以反小说的笔法重新审视疲倦，把它从症状改写为感知的入口。书中穿梭于童年教堂的恐惧、脱粒棚午后的群体疲倦、失眠的孤立与两性关系中的沉默裂变，逐渐勾勒出一种可以被居住的疲倦伦理：人不必消灭疲倦，而要穿过它。汉德克用夹叙夹议的内心独白，让文字本身慢下来，与读者的呼吸同步。这是一部关于如何重新看见世界的练习册。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:27:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261015/episode-20261015-3c7cb4.mp3" length="26062893" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
