@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Fri, 16 Oct 2026 18:14:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 18:19:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -69274,6 +69274,25 @@
       <itunes:duration>00:15:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261016/episode-20261016-ac6b10.mp3" length="14945709" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《隐性逻辑：教你快速切换思考方式》 · 完整版 · 隐性逻辑：教你快速切换思考方式 · 完整讲读</title>
+      <description>德国认知科学家卡尔·诺顿在《隐性逻辑》中拆解了大脑惯用的二十一种思考模本，指出聪明人频繁犯错，不是因为知识不够，而是因为他们从未意识到自己正在套用一套简陋的思考框架。全书从工作记忆的生理机制讲起，逐一拆解归纳法谬误、框架效应、可得性启发、基本归因错误等认知陷阱，并给出具体训练方案：慢三秒、散步类比、写下反例，最终交付的是一套可操作的模本切换能力。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Fri, 16 Oct 2026 18:19:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261016-episode-20261016-27a722</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>德国认知科学家卡尔·诺顿在《隐性逻辑》中拆解了大脑惯用的二十一种思考模本，指出聪明人频繁犯错，不是因为知识不够，而是因为他们从未意识到自己正在套用一套简陋的思考框架。全书从工作记忆的生理机制讲起，逐一拆解归纳法谬误、框架效应、可得性启发、基本归因错误等认知陷阱，并给出具体训练方案：慢三秒、散步类比、写下反例，最终交付的是一套可操作的模本切换能力。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:21:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261016/episode-20261016-27a722.mp3" length="21023277" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
