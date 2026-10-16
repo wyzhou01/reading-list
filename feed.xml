@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Fri, 16 Oct 2026 06:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 06:55:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -67564,6 +67564,25 @@
       <itunes:duration>00:30:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261015/episode-20261015-6e30d4.mp3" length="29462061" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《易中天品三国》 · 完整版 · 易中天品三国 · 完整讲读</title>
+      <description>《易中天品三国》以平民视角与近代方法穿透《三国演义》的迷雾，把曹操、诸葛亮、关羽、周瑜等被文学化和民间信仰层层包裹的人物，逐一还原为有血有肉的普通人。全书以历史形象、文学形象、民间形象三种面孔的拆解为主线，贯穿魏蜀吴三分归一统的完整脉络，用故事说人物，用人物说历史，用历史说文化，用文化说人性——既为被骂了一千多年的曹操翻案，也为被神化的诸葛亮祛魅，更在关羽的成神之路中读出中国民间信仰的心理结构。这是一部让三国重新回到人间的作品，也是一堂写给所有读史者的姿态训练课。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Fri, 16 Oct 2026 06:55:48 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261015-episode-20261015-b820b3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《易中天品三国》以平民视角与近代方法穿透《三国演义》的迷雾，把曹操、诸葛亮、关羽、周瑜等被文学化和民间信仰层层包裹的人物，逐一还原为有血有肉的普通人。全书以历史形象、文学形象、民间形象三种面孔的拆解为主线，贯穿魏蜀吴三分归一统的完整脉络，用故事说人物，用人物说历史，用历史说文化，用文化说人性——既为被骂了一千多年的曹操翻案，也为被神化的诸葛亮祛魅，更在关羽的成神之路中读出中国民间信仰的心理结构。这是一部让三国重新回到人间的作品，也是一堂写给所有读史者的姿态训练课。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:27:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261015/episode-20261015-b820b3.mp3" length="26333613" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
