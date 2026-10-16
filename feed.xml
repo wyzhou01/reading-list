@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Fri, 16 Oct 2026 22:12:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 22:17:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -70172,6 +70172,25 @@
       <itunes:duration>00:23:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261016/episode-20261016-812129.mp3" length="22213293" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《学会提问（原书第10版）》 · 完整版 · 学会提问（第十版） · 完整讲读</title>
+      <description>在信息轰炸、算法喂养、权威话术密布的当代，【会点头】几乎成了一种本能，【会怀疑】反倒成了稀缺能力。《学会提问（第十版）》这本畅销三十年的批判性思维经典，把这种稀缺能力拆解成六个可操作的拼图：论题是靶心，理由是弹药，假设是藏在枪膛里的弹壳，证据是桥墩，替代原因是隐藏的岔路，被省略的信息是沉默的真相。掌握这套工具，你不再需要永远正确，只需要多问一句【凭什么】——提问权就是思考权，思考权就是不被任何人替你做主的权利。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Fri, 16 Oct 2026 22:17:46 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261016-episode-20261016-3dff1b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>在信息轰炸、算法喂养、权威话术密布的当代，【会点头】几乎成了一种本能，【会怀疑】反倒成了稀缺能力。《学会提问（第十版）》这本畅销三十年的批判性思维经典，把这种稀缺能力拆解成六个可操作的拼图：论题是靶心，理由是弹药，假设是藏在枪膛里的弹壳，证据是桥墩，替代原因是隐藏的岔路，被省略的信息是沉默的真相。掌握这套工具，你不再需要永远正确，只需要多问一句【凭什么】——提问权就是思考权，思考权就是不被任何人替你做主的权利。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:25:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261016/episode-20261016-3dff1b.mp3" length="24387885" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
