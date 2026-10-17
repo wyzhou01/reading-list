@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Sat, 17 Oct 2026 06:29:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 06:35:14 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -63685,6 +63685,25 @@
       <itunes:duration>00:16:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261016/episode-20261016-b0efc8.mp3" length="16229421" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《明日的田园城市》 · 完整版 · 明日的田园城市_(汉译世界学术名著丛书)_-_埃比尼泽·霍华德 · 完整讲读</title>
+      <description>《明日的田园城市》是十九世纪末英国速记员埃比尼泽·霍华德提出的城乡改革方案。他用三磁铁图论证城乡磁力合一，主张以人口与用地受控、地租归公的田园城市为节点，组成被永久农业带分隔的社会城市网络，由此取代无序扩张的大都会。本书是二十世纪新城运动、绿带规划与反大城市化思想的共同源头，核心议题不是工程意义上的城市规划，而是城市背后的土地制度与社会改革。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Sat, 17 Oct 2026 06:35:09 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261016-episode-20261016-53e71d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《明日的田园城市》是十九世纪末英国速记员埃比尼泽·霍华德提出的城乡改革方案。他用三磁铁图论证城乡磁力合一，主张以人口与用地受控、地租归公的田园城市为节点，组成被永久农业带分隔的社会城市网络，由此取代无序扩张的大都会。本书是二十世纪新城运动、绿带规划与反大城市化思想的共同源头，核心议题不是工程意义上的城市规划，而是城市背后的土地制度与社会改革。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:22:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261016/episode-20261016-53e71d.mp3" length="22016301" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
