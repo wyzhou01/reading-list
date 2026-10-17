@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Sat, 17 Oct 2026 12:15:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 12:21:07 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -64369,6 +64369,25 @@
       <itunes:duration>00:25:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261017/episode-20261017-62d224.mp3" length="24829101" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《校勘学释例》 · 完整版 · 校勘学释例 · 完整讲读</title>
+      <description>《校勘学释例》是陈垣先生以沈刻《元典章》一万两千余条错误为样本，提炼出的中国校勘学方法论。全书以【对校法】为入口，以四十二条误例为疏释工具，以【对校、本校、他校、理校】四级证据阶梯为判准，反复申明【例不是证】的铁则，为后世立下科学校勘学的范本。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Sat, 17 Oct 2026 12:21:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261017-episode-20261017-3c8761</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《校勘学释例》是陈垣先生以沈刻《元典章》一万两千余条错误为样本，提炼出的中国校勘学方法论。全书以【对校法】为入口，以四十二条误例为疏释工具，以【对校、本校、他校、理校】四级证据阶梯为判准，反复申明【例不是证】的铁则，为后世立下科学校勘学的范本。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:19:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261017/episode-20261017-3c8761.mp3" length="18779949" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
