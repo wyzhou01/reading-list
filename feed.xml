@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Sat, 17 Oct 2026 14:05:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 14:09:50 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -64635,6 +64635,25 @@
       <itunes:duration>00:25:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261017/episode-20261017-b0f35d.mp3" length="24117165" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《科学哲学十讲》 · 完整版 · 科学哲学十讲 · 完整讲读</title>
+      <description>《科学哲学十讲》以维也纳学派、波普尔、库恩、拉卡托斯、费耶阿本德为线索，系统梳理了科学哲学一百年的核心争论：科学如何划界、方法是否存在、科学如何进步、权威是否可破。作者郑毓信最终呼吁一种【反思基础上的前进】——科学哲学既不应自封为科学的立法者，也不应被后现代彻底解构，而应扮演【启发者】与【对话者】的角色。当下，重建科学哲学的开放性、回到科学实践本身，正是我们对抗认知傲慢、重获思想自由的关键一步。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Sat, 17 Oct 2026 14:09:45 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261017-episode-20261017-508808</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《科学哲学十讲》以维也纳学派、波普尔、库恩、拉卡托斯、费耶阿本德为线索，系统梳理了科学哲学一百年的核心争论：科学如何划界、方法是否存在、科学如何进步、权威是否可破。作者郑毓信最终呼吁一种【反思基础上的前进】——科学哲学既不应自封为科学的立法者，也不应被后现代彻底解构，而应扮演【启发者】与【对话者】的角色。当下，重建科学哲学的开放性、回到科学实践本身，正是我们对抗认知傲慢、重获思想自由的关键一步。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:18:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261017/episode-20261017-508808.mp3" length="18236589" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
