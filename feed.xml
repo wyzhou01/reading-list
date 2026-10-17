@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Sat, 17 Oct 2026 11:47:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 11:51:54 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -64274,6 +64274,25 @@
       <itunes:duration>00:24:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261017/episode-20261017-cd24c1.mp3" length="23545005" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《有效学习》 · 完整版 · 有效学习 · 完整讲读</title>
+      <description>《有效学习》是一部用最新认知科学重新定义学习的手册，作者伯泽尔以自身从学习障碍到常春藤的亲身经历切入，颠覆了“天生聪明、反复阅读、视觉听觉风格”等根深蒂固的错误观念，提出六步学习法：先赋予所学价值感，再设定清晰目标，接着通过刻意练习打磨技能，将知识投入实践，最后融会贯通并持续反思。本书最终指向一个朴素而有力的结论：在信息廉价、答案泛滥的时代，学会如何学习，才是普通人真正的终极生存技能。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Sat, 17 Oct 2026 11:51:49 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261017-episode-20261017-5dd0ea</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《有效学习》是一部用最新认知科学重新定义学习的手册，作者伯泽尔以自身从学习障碍到常春藤的亲身经历切入，颠覆了“天生聪明、反复阅读、视觉听觉风格”等根深蒂固的错误观念，提出六步学习法：先赋予所学价值感，再设定清晰目标，接着通过刻意练习打磨技能，将知识投入实践，最后融会贯通并持续反思。本书最终指向一个朴素而有力的结论：在信息廉价、答案泛滥的时代，学会如何学习，才是普通人真正的终极生存技能。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:14:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261017/episode-20261017-5dd0ea.mp3" length="14044077" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
