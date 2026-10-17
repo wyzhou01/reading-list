@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Sat, 17 Oct 2026 02:54:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 02:59:13 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -63020,6 +63020,25 @@
       <itunes:duration>00:22:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261016/episode-20261016-1c2a45.mp3" length="21764397" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《小乌龟投资智慧：如何在投资中以弱胜强》 · 完整版 · 小乌龟投资智慧 · 完整讲读</title>
+      <description>本书用证据主义剖析个人投资者三大认知陷阱:过度自信、成本黑洞与缺乏长期坚持,继而拆解股票、债券、基金、大宗商品与对冲基金等大类资产的特性,指出被动指数化是普通投资者的最优策略;最后落到全球资产配置与再平衡的实操框架,传递以控制成本、有效系统、长期坚持为核心的乌龟式投资哲学。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Sat, 17 Oct 2026 02:59:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261016-episode-20261016-dfea9a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本书用证据主义剖析个人投资者三大认知陷阱:过度自信、成本黑洞与缺乏长期坚持,继而拆解股票、债券、基金、大宗商品与对冲基金等大类资产的特性,指出被动指数化是普通投资者的最优策略;最后落到全球资产配置与再平衡的实操框架,传递以控制成本、有效系统、长期坚持为核心的乌龟式投资哲学。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:21:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261016/episode-20261016-dfea9a.mp3" length="20740653" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
