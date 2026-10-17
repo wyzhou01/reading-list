@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Sat, 17 Oct 2026 05:45:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 05:48:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -63590,6 +63590,25 @@
       <itunes:duration>00:27:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261016/episode-20261016-6992cc.mp3" length="26756013" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《生活中的行为心理学》 · 完整版 · 行为心理学 · 完整讲读</title>
+      <description>《行为心理学》是约翰·华生行为主义理论的系统总结。本书以【刺激—反应】公式为核心，把心理学从飘忽不定的意识研究中解放出来，转而研究可直接观测的行为本身。华生主张人格是习惯系统的产物，情绪、思维、言语都可以被还原为条件反射，从而提出了极端的环境决定论。本书既是行为心理学诞生的宣言，也是二十世纪最具影响力的心理学著作之一，今天再读它，依然能帮助我们用一把新的手术刀，重新审视自己每一天的选择与习惯。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Sun, 04 Oct 2026 03:51:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261016-episode-20261016-0d72d0</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《行为心理学》是约翰·华生行为主义理论的系统总结。本书以【刺激—反应】公式为核心，把心理学从飘忽不定的意识研究中解放出来，转而研究可直接观测的行为本身。华生主张人格是习惯系统的产物，情绪、思维、言语都可以被还原为条件反射，从而提出了极端的环境决定论。本书既是行为心理学诞生的宣言，也是二十世纪最具影响力的心理学著作之一，今天再读它，依然能帮助我们用一把新的手术刀，重新审视自己每一天的选择与习惯。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:13:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261016/episode-20261016-0d72d0.mp3" length="12661677" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
