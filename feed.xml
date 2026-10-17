@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Sat, 17 Oct 2026 02:25:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 02:30:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -62925,6 +62925,25 @@
       <itunes:duration>00:33:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261016/episode-20261016-507027.mp3" length="32078253" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《理性乐观派：一部人类经济进步史》 · 完整版 · 理性乐观派：一部人类经济进步史-【英】里德利（Ridley,M.） · 完整讲读</title>
+      <description>《理性乐观派》是英国科学记者马特·里德利在二零零八年金融危机之后写成的反驳之作。他用考古证据、人口数据、能源账本和芯片定律说明，人类繁荣的真正引擎不是更聪明的大脑，而是大脑之间的交换与分工。从手斧到鼠标，从狩猎队到全球供应链，从马尔萨斯陷阱到收益递增曲线，他向读者证明：只要思想还在互相交配、彼此重组，贫穷、疾病、气候危机都不是文明的终点。读这本书不会让你盲目乐观，却会让你重新相信，开放、互信、协作的网络，才是人类走得越来越远的原因。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Sat, 17 Oct 2026 02:30:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261016-episode-20261016-60ab46</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《理性乐观派》是英国科学记者马特·里德利在二零零八年金融危机之后写成的反驳之作。他用考古证据、人口数据、能源账本和芯片定律说明，人类繁荣的真正引擎不是更聪明的大脑，而是大脑之间的交换与分工。从手斧到鼠标，从狩猎队到全球供应链，从马尔萨斯陷阱到收益递增曲线，他向读者证明：只要思想还在互相交配、彼此重组，贫穷、疾病、气候危机都不是文明的终点。读这本书不会让你盲目乐观，却会让你重新相信，开放、互信、协作的网络，才是人类走得越来越远的原因。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:21:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261016/episode-20261016-60ab46.mp3" length="20631597" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
