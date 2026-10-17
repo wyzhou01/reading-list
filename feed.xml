@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Sat, 17 Oct 2026 13:31:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 13:41:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -64540,6 +64540,25 @@
       <itunes:duration>00:25:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261017/episode-20261017-2b5287.mp3" length="24895917" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《完美末日》 · 完整版 · 完美末日 · 完整讲读</title>
+      <description>《完美末日》是国内硬科幻代表作家刘洋的早期短篇集，收录十五篇从最基础物理与数学公理出发的推演之作。这位本科物理、硕士凝聚态物理出身的写作者，把单晶硅的位错、动量守恒、霍金辐射的量子孤波等硬核设定，揉进了研究生评优落选的憋屈、十五岁装卸工阿伟拯救十三万人的自我和解、洞房花烛夜红盖头下的量子纠缠塌缩——硬科幻的硬，从来不只是公式。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Sat, 17 Oct 2026 13:41:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261017-episode-20261017-9f4a31</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《完美末日》是国内硬科幻代表作家刘洋的早期短篇集，收录十五篇从最基础物理与数学公理出发的推演之作。这位本科物理、硕士凝聚态物理出身的写作者，把单晶硅的位错、动量守恒、霍金辐射的量子孤波等硬核设定，揉进了研究生评优落选的憋屈、十五岁装卸工阿伟拯救十三万人的自我和解、洞房花烛夜红盖头下的量子纠缠塌缩——硬科幻的硬，从来不只是公式。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:30:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261017/episode-20261017-9f4a31.mp3" length="29024301" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
