@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Sat, 17 Oct 2026 19:03:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 19:08:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -65623,6 +65623,25 @@
       <itunes:duration>00:26:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261017/episode-20261017-2ca845.mp3" length="25847469" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《科学与方法》 · 完整版 · 科学与方法_(汉译世界学术名著丛书)_-_昂利·彭加勒 · 完整讲读</title>
+      <description>《科学与方法》是十九世纪到二十世纪之交法国哲人科学家彭加勒在1908年留下的科学方法论经典。彭加勒以亲历者身份, 系统回答了三个根本问题: 科学家面对无穷涌入的事实, 如何凭直觉挑选出多产的事实; 数学发明的心理机制中, 直觉与无意识如何促成灵感; 基本原理里为何藏着人类精神的自由约定。这本小书横跨数学、物理、天文, 把圣戈塔尔德山口那种跨学科的视野, 嵌在了《事实的选择》《数学创造》《偶然性》这些章节里, 兼有冷静的逻辑边界、克制的哲学反思与温热的人文肖像。一百年过去, 它仍然在提醒每一个读者: 科学不是一套冰冷程序, 而是一种同时依赖直觉、约定与勇气的人类活动。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Sat, 17 Oct 2026 19:07:55 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261017-episode-20261017-f68b27</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《科学与方法》是十九世纪到二十世纪之交法国哲人科学家彭加勒在1908年留下的科学方法论经典。彭加勒以亲历者身份, 系统回答了三个根本问题: 科学家面对无穷涌入的事实, 如何凭直觉挑选出多产的事实; 数学发明的心理机制中, 直觉与无意识如何促成灵感; 基本原理里为何藏着人类精神的自由约定。这本小书横跨数学、物理、天文, 把圣戈塔尔德山口那种跨学科的视野, 嵌在了《事实的选择》《数学创造》《偶然性》这些章节里, 兼有冷静的逻辑边界、克制的哲学反思与温热的人文肖像。一百年过去, 它仍然在提醒每一个读者: 科学不是一套冰冷程序, 而是一种同时依赖直觉、约定与勇气的人类活动。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:21:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261017/episode-20261017-f68b27.mp3" length="20574381" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
