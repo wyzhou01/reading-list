@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Sat, 17 Oct 2026 16:24:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 16:30:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -65091,6 +65091,25 @@
       <itunes:duration>00:26:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261017/episode-20261017-a6252d.mp3" length="25864749" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>好好读书 · 《软技能：代码之外的生存指南》 · 完整版 · 软技能：代码之外的生存指南_-_约翰·森梅兹 · 完整讲读</title>
+      <description>《软技能：代码之外的生存指南》是美国资深工程师约翰·森梅兹写给程序员的非技术类生存手册。书中围绕职业、自我营销、学习、生产力、理财、健身、精神七大主题，系统讲解了程序员从雇员到自由职业者再到创业者的进阶路径、个人品牌的打造方法、十步学习法与定额工作法等生产力工具、三十三岁退休的财务自由路线以及书呆子也能拥有的健身方案。核心观点是：写代码只是程序员生活的一半，职业谈判、自我营销、理财规划、身体管理与精神建设同样不可或缺。本书不堆砌理论，全是可立刻落地的行动建议，适合每一位希望摆脱单线程人生的技术从业者。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Sat, 17 Oct 2026 16:30:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261017-episode-20261017-595d45</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《软技能：代码之外的生存指南》是美国资深工程师约翰·森梅兹写给程序员的非技术类生存手册。书中围绕职业、自我营销、学习、生产力、理财、健身、精神七大主题，系统讲解了程序员从雇员到自由职业者再到创业者的进阶路径、个人品牌的打造方法、十步学习法与定额工作法等生产力工具、三十三岁退休的财务自由路线以及书呆子也能拥有的健身方案。核心观点是：写代码只是程序员生活的一半，职业谈判、自我营销、理财规划、身体管理与精神建设同样不可或缺。本书不堆砌理论，全是可立刻落地的行动建议，适合每一位希望摆脱单线程人生的技术从业者。
+
+---
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:29:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261017/episode-20261017-595d45.mp3" length="27888813" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
