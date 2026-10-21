@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Wed, 21 Oct 2026 13:31:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 13:38:15 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -98107,6 +98107,31 @@
       <itunes:duration>00:30:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261021/episode-20261021-daeccc.mp3" length="29625261" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>《极简科学史》· 完整精读</title>
+      <description>《极简科学史》以希波克拉底、培根、牛顿、达尔文、孟德尔、温伯格等科学史上的代表性著述为线索，讲述西方科学如何从古希腊自然哲学逐步形成观察、论证、实验与修正的方法。作者不把科学写成正确答案的年表，也不把科学家塑造成永远正确的英雄，而强调理论会在反例、失败和新工具面前改变。地质学、生物学与宇宙学的发展表明，真实、渐变、遗传、放射性与大爆炸等认识，都是由证据逐步逼出的解释。理解这些历史条件、争议与不确定性，才能把科学当作一套持续自我纠错、公开承担理由的判断方式，而非权威给出的终点。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Wed, 21 Oct 2026 13:38:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261021-episode-20261021-c09e2a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《极简科学史》以希波克拉底、培根、牛顿、达尔文、孟德尔、温伯格等科学史上的代表性著述为线索，讲述西方科学如何从古希腊自然哲学逐步形成观察、论证、实验与修正的方法。作者不把科学写成正确答案的年表，也不把科学家塑造成永远正确的英雄，而强调理论会在反例、失败和新工具面前改变。地质学、生物学与宇宙学的发展表明，真实、渐变、遗传、放射性与大爆炸等认识，都是由证据逐步逼出的解释。理解这些历史条件、争议与不确定性，才能把科学当作一套持续自我纠错、公开承担理由的判断方式，而非权威给出的终点。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:25:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261021/episode-20261021-c09e2a.mp3" length="24035373" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
