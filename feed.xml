@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Wed, 21 Oct 2026 18:09:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 18:15:33 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -99132,6 +99132,31 @@
       <itunes:duration>00:27:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261021/episode-20261021-1235d6.mp3" length="26436909" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>《大牛市・股殇系列（全两册）》· 完整精读</title>
+      <description>《大牛市・股殇》以四千八百万国债失窃为入口，写尽中国证券市场从柜台交易走向机构化、衍生品化的制度变迁。赵爱国、张松海、孙超等人的经历交织着国债回购、期货炒单、坐庄资金、ETF套利和股指期货，也呈现客户需求、利益诱惑、组织扩张与人性弱点如何被牛市同时放大。作者借人物命运追问：财富能否长期凌驾于规则之上，纪律、敬畏与边界才是穿越周期真正可靠的力量。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Wed, 21 Oct 2026 18:15:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261021-episode-20261021-21a85c</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大牛市・股殇》以四千八百万国债失窃为入口，写尽中国证券市场从柜台交易走向机构化、衍生品化的制度变迁。赵爱国、张松海、孙超等人的经历交织着国债回购、期货炒单、坐庄资金、ETF套利和股指期货，也呈现客户需求、利益诱惑、组织扩张与人性弱点如何被牛市同时放大。作者借人物命运追问：财富能否长期凌驾于规则之上，纪律、敬畏与边界才是穿越周期真正可靠的力量。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:26:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261021/episode-20261021-21a85c.mp3" length="25844013" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
