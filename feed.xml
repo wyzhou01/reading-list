@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Wed, 21 Oct 2026 06:17:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 06:23:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -96807,6 +96807,31 @@
       <itunes:duration>00:30:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261020/episode-20261020-d92318.mp3" length="29438637" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>《你的生存本能正在杀死你（修订版）》· 完整精读</title>
+      <description>《你的生存本能正在杀死你》从心身医学角度解释焦虑、失眠、恐慌、暴食、拖延与慢性疼痛的共同机制：大脑往往把轻微不适或不确定感误判为真实危险，生存本能因而长期过度活跃。技术进步与舒适生活让人更难适应挫折，不适阈值持续下降，习惯又会反复强化旧的应激回路。作者通过临床案例说明，改变并非单纯压抑情绪，而是辨认警报、理解习惯，并用有边界、可重复的不适训练建立新的神经路径。真正的目标不是消灭恐惧，也不是纵容痛苦，而是在压力中保持稳定，在变化中保有恢复力与选择权。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Wed, 21 Oct 2026 06:23:32 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261020-episode-20261020-d133f2</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《你的生存本能正在杀死你》从心身医学角度解释焦虑、失眠、恐慌、暴食、拖延与慢性疼痛的共同机制：大脑往往把轻微不适或不确定感误判为真实危险，生存本能因而长期过度活跃。技术进步与舒适生活让人更难适应挫折，不适阈值持续下降，习惯又会反复强化旧的应激回路。作者通过临床案例说明，改变并非单纯压抑情绪，而是辨认警报、理解习惯，并用有边界、可重复的不适训练建立新的神经路径。真正的目标不是消灭恐惧，也不是纵容痛苦，而是在压力中保持稳定，在变化中保有恢复力与选择权。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:25:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261020/episode-20261020-d133f2.mp3" length="24050733" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
