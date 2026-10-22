@@ -804,7 +804,16 @@ def audit(target_book=None, verbose=False, json_output=False):
                 local_title = btm.strip_ep_suffix((loc.get('book_name') or '').strip())
                 if not feed_book or not local_title:
                     continue
-                if not btm.titles_compatible(feed_book, local_title):
+                # archive 目录名 (去掉日期前缀) 才是"这段音频到底是哪本书"的可靠标识:
+                #   meta.json 的 title 存的是 book_safe (文件��名), 跟 feed 的 book_title
+                #   (书名) 写法可能不同 → 只比 meta 会误报 (实测 114 里 69 个是假的).
+                # 判定: meta title 和 dir core **都**对不上, 才是真的错音频.
+                arc_dir = loc.get('arc_dir', '') or ''
+                m_dir = re.search(r'^\d{4}-\d{2}-\d{2}-(.+)$', arc_dir)
+                dir_core = m_dir.group(1) if m_dir else ''
+                meta_bad = not btm.titles_compatible(feed_book, local_title)
+                dir_bad = bool(dir_core) and not btm.titles_compatible(feed_book, dir_core)
+                if meta_bad and dir_bad:
                     wrong_audio.append({
                         'type': 'wrong_audio',
                         'sha': sha,

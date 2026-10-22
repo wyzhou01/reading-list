@@ -71,8 +71,11 @@ def build_local_sha_index():
             title = btm.strip_ep_suffix(json.loads(meta.read_text(encoding="utf-8")).get("title", ""))
         except Exception:
             continue
-        if title:
-            out[_sha6(mp3)] = (d.name, title)
+        if not title:
+            continue
+        # 目录名去掉日期前缀 = 这段音频对应的书名 (比 meta 里的 book_safe 可靠)
+        m = re.match(r"^\d{4}-\d{2}-\d{2}-(.+)$", d.name)
+        out[_sha6(mp3)] = (d.name, title, m.group(1) if m else "")
     return out
 
 
@@ -119,12 +122,19 @@ def analyze():
         local = sha2.get(sha)
         if not local:
             continue
-        _dirname, audio_book = local
+        _dirname, audio_book, dir_core = local
         for fb in titles:
-            if not fb or btm.titles_compatible(fb, audio_book):
+            if not fb:
+                continue
+            # meta title 存的是 book_safe (文件名), feed 用的是 book_title (书名),
+            # 两者写法可能不同 → 只比 meta 会误报 (实测 114 里 69 个是假的).
+            # 判定: meta title 和 dir core **都**对不上, 才是真的错音频.
+            meta_bad = not btm.titles_compatible(fb, audio_book)
+            dir_bad = bool(dir_core) and not btm.titles_compatible(fb, dir_core)
+            if not (meta_bad and dir_bad):
                 continue
             rec = {"feed_book": fb, "audio_book": audio_book, "sha": sha,
-                   "arc_dir": local[0]}
+                   "arc_dir": local[0], "dir_core": dir_core}
             if btm.same_work(fb, audio_book):
                 same.append(rec)
             else:
