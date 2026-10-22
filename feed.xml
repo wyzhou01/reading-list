@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Thu, 22 Oct 2026 16:02:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 16:09:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -101732,6 +101732,31 @@
       <itunes:duration>00:38:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261022/episode-20261022-aed8a2.mp3" length="36732717" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>《虚拟现实：万象的新开端》· 完整精读</title>
+      <description>《虚拟现实：万象的新开端》以虚拟现实先驱杰伦·拉尼尔的亲历为主线，回顾从实验室原型到产业应用的历程。书中指出，VR并非更昂贵的显示器或游戏设备，而是通过身体感知、化身和触觉反馈重建人与世界的因果关系，并由此改变心理、文化和社会关系。其商业成败也不只取决于硬件价格，而在于能否提供可编辑的环境、多人协商与现实生产力。当虚拟自由从个人表达走向共同创造，VR才真正成为扩展人类主体性的新媒介。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Thu, 22 Oct 2026 16:09:01 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261022-episode-20261022-99d4a8</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《虚拟现实：万象的新开端》以虚拟现实先驱杰伦·拉尼尔的亲历为主线，回顾从实验室原型到产业应用的历程。书中指出，VR并非更昂贵的显示器或游戏设备，而是通过身体感知、化身和触觉反馈重建人与世界的因果关系，并由此改变心理、文化和社会关系。其商业成败也不只取决于硬件价格，而在于能否提供可编辑的环境、多人协商与现实生产力。当虚拟自由从个人表达走向共同创造，VR才真正成为扩展人类主体性的新媒介。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:22:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261022/episode-20261022-99d4a8.mp3" length="22040877" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
