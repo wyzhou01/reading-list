@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Thu, 22 Oct 2026 07:53:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 08:00:42 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -100357,6 +100357,31 @@
       <itunes:duration>00:22:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261022/episode-20261022-339b87.mp3" length="21936429" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>《写作这门手艺》· 完整精读</title>
+      <description>《写作这门手艺》源自约翰·麦克菲在《纽约客》发表的八篇写作过程文章，记录非虚构写作从兴趣、材料到成稿的真实路径。书中以进程、结构、编辑、参照系、检验点、第四稿与省略为线索，说明素材充足并不等于文章容易完成。写作需要先确定主题与材料，再用结构组织事件链，通过重写调整参照系，持续核实事实，并敢于舍弃不服务于中心问题的信息。第四稿不是润色，而是重新判断文章的方向与边界。写作因此是一种持续推进、反复修改并承担取舍后果的实践过程。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Thu, 22 Oct 2026 08:00:37 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261022-episode-20261022-386dce</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《写作这门手艺》源自约翰·麦克菲在《纽约客》发表的八篇写作过程文章，记录非虚构写作从兴趣、材料到成稿的真实路径。书中以进程、结构、编辑、参照系、检验点、第四稿与省略为线索，说明素材充足并不等于文章容易完成。写作需要先确定主题与材料，再用结构组织事件链，通过重写调整参照系，持续核实事实，并敢于舍弃不服务于中心问题的信息。第四稿不是润色，而是重新判断文章的方向与边界。写作因此是一种持续推进、反复修改并承担取舍后果的实践过程。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:22:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261022/episode-20261022-386dce.mp3" length="21783213" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
