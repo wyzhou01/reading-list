@@ -120,6 +120,8 @@ def add_episode(args):
             replaced = True
             break
         if not replaced:
+            # origin (HEAD) 版本: insert(0, ep) — 新条目置顶 (feed 按最新在前)
+            # 本地旧版本是 append(ep) — 会让新条目沉到底部, 与线上 feed 排序不一致.
             existing.insert(0, ep)
     else:
         existing.insert(0, ep)

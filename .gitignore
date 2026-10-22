@@ -18,3 +18,9 @@ processed_books.json
 # books/ 是 symlink → ~/Desktop/openclaw/books (2026-06-09 改)
 books
 books/*
+
+# 2026-10-22: 跨进程写锁 + 原子写临时文件 (并发安全)
+.seen_books.lock
+.processed_books.lock
+.seen_books.json.tmp.*
+.processed_books.json.tmp.*

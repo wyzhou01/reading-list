@@ -32,6 +32,8 @@ single_book_pipeline.py — 好好读书 · 一书一集版
   Release Asset: v<date> release
   feed.xml: 加 1 期 (title 含"完整版"区别分集)
 """
+import contextlib
+import fcntl
 import json
 import os
 import re
@@ -53,6 +55,7 @@ sys.path.insert(0, str(SCRIPT_DIR))
 import generate  # 复用 M3 call_minimax
 import tts
 import cover as cover_mod  # 复用封面生成
+import book_title_match as btm  # 2026-10-22: 书名匹配 (与 rl_audit 共用)
 import rl_publisher as pub
 
 # 加载 .env
@@ -119,6 +122,13 @@ def get_archive_dir(book_safe, book_name):
         if not matched and book_name_normalized and book_name_normalized == dir_core_normalized:
             matched = True
         if matched:
+            # 2026-10-22 fix: 命中后再校验该目录里的 meta.json 书名确实是同一本书.
+            # 旧规则只比"去标点后互相包含", 《半生为人》会命中《半生》目录 →
+            # 复用别人 mp3 → 发布错音频. 这里用 meta 标题做二次确认.
+            mt = btm._meta_title_of(d) if hasattr(btm, "_meta_title_of") else None
+            if mt and not btm.titles_compatible(book_name, mt):
+                print(f"   🛡️  跳过 archive 目录 {d.name} (里面是《{mt}》, 不是《{book_name}》)")
+                continue
             matches.append(d)
     if matches:
         # 选最新的
@@ -155,6 +165,10 @@ def run_single_phase2(extracted_txt):
     if not struct_file.exists():
         raise FileNotFoundError(f"book_structure.json 不存在, 先跑 phase1")
     structure = json.loads(struct_file.read_text(encoding="utf-8"))
+    # 2026-08-07 防御: M3 phase1 偶尔返回 None/str 而非 list, ', '.join() 会 TypeError
+    _ct = structure.get('core_themes')
+    if not isinstance(_ct, list):
+        structure['core_themes'] = []
 
     # 检查 output_mode
     if structure.get("output_mode") != "single_book":
@@ -177,6 +191,7 @@ def run_single_phase2(extracted_txt):
 - 不拆多集, 一次性讲完一本书
 
 # 朗读硬约束 (TTS 工程, 严格遵守)
+- 引号硬约束: 正文里绝对不要出现英文双引号 " 或中文弯引号 “ ”. 引用专有名词 / 制度名 / 原文一律用中文书名号《》或方括号【】, 否则会破坏外层 JSON 导致解析失败 (实测必踩)
 - 数字必须用汉字: 30% → 百分之三十; 5GB → 五个 G
 - 年份必须拆位: 2026 年 → 二零二六年
 - 英文术语必须拆字母或拼读: AI → A I; M3 → M 三; edge-tts → edge tts
@@ -212,7 +227,7 @@ def run_single_phase2(extracted_txt):
 【只输出 JSON】"""
 
     print(f"📝 段 1/3: opening + book_bg...", file=sys.stderr, flush=True)
-    head_raw = generate.call_minimax(head_prompt, model="MiniMax-M3", max_tokens=16000)
+    head_raw = generate.call_minimax(head_prompt, model="MiniMax-M3.1-Flash", max_tokens=16000, effort="medium")
     head_data = generate.extract_json(head_raw)
     sections_1 = head_data.get("sections", {})
 
@@ -231,6 +246,7 @@ book_bg: {sections_1.get('book_bg', '')}
 - 段末必须显式写"接下来..." (为下一段转场)
 
 # 朗读硬约束 (同上)
+- 引号硬约束: 正文里绝对不要出现英文双引号 " 或中文弯引号 “ ”. 引用专有名词 / 制度名 / 原文一律用中文书名号《》或方括号【】, 否则会破坏外层 JSON 导致解析失败 (实测必踩)
 - 数字 / 年份 / 英文必须按前段的同样规则转写
 - 段间停顿 + 节奏控制 同上
 - 短句 1 句 1 行, 每段 50-80 字
@@ -255,7 +271,7 @@ book_bg: {sections_1.get('book_bg', '')}
 ```"""
 
     print(f"📝 段 2/3: themes_mid (3 个核心洞察)...", file=sys.stderr, flush=True)
-    mid_raw = generate.call_minimax(mid_prompt, model="MiniMax-M3", max_tokens=16000)
+    mid_raw = generate.call_minimax(mid_prompt, model="MiniMax-M3.1-Flash", max_tokens=16000, effort="medium")
     mid_data = generate.extract_json(mid_raw)
     sections_2 = mid_data.get("sections", {})
 
@@ -273,11 +289,13 @@ themes_mid 末尾 (用作衔接): "...{mid_tail}..."
 
 # 你的任务
 - 写 3 个核心洞察 (接前 3 块拼图, 共 2200-3500 字)
-- commentary (600-1100 字): M3 偏见 + 含义 + 1-2 个今天就能用的行动
+- commentary (600-1100 字): 指出关于这个话题最常见的认知偏见 + 现实启示 + 1-2 个今天就能用的微行动
 - closing (200-400 字): 一句金句 + 收束
 - 段间用自然过渡, 不重复"接下来" (前段已用)
+- 严禁在正文中出现“M3”、“M三”、“模型”等内部提示词字样
 
 # 朗读硬约束 (同上)
+- 引号硬约束: 正文里绝对不要出现英文双引号 " 或中文弯引号 “ ”. 引用专有名词 / 制度名 / 原文一律用中文书名号《》或方括号【】, 否则会破坏外层 JSON 导致解析失败 (实测必踩)
 - 数字 / 年份 / 英文必须按前段的同样规则转写
 - 【只输出 JSON】
 
@@ -294,7 +312,7 @@ themes_mid 末尾 (用作衔接): "...{mid_tail}..."
 {{
   "sections": {{
     "themes_tail": "3 个核心洞察 (后 3 块拼图, 共 2200-3500 字)",
-    "commentary": "评论延伸 (600-1100 字, M3 偏见 + 含义 + 1-2 个今天就能用的行动)",
+    "commentary": "评论延伸 (600-1100 字, 常见认知偏见 + 现实含义 + 1-2 个今天就能用的微行动)",
     "closing": "收束 (200-400 字, 一句金句 + 总结全书 + 收尾)"
   }},
   "summary": "本书 200 字摘要 (用于 RSS description)"
@@ -302,7 +320,7 @@ themes_mid 末尾 (用作衔接): "...{mid_tail}..."
 ```"""
 
     print(f"📝 段 3/3: themes_tail + commentary + closing...", file=sys.stderr, flush=True)
-    tail_raw = generate.call_minimax(tail_prompt, model="MiniMax-M3", max_tokens=16000)
+    tail_raw = generate.call_minimax(tail_prompt, model="MiniMax-M3.1-Flash", max_tokens=16000, effort="medium")
     tail_data = generate.extract_json(tail_raw)
     sections_3 = tail_data.get("sections", {})
 
@@ -368,18 +386,32 @@ def run_single_tts(book_safe, max_chars=220):
     ep_dir.mkdir(parents=True, exist_ok=True)
     out_mp3 = ep_dir / "episode-final.mp3"
 
-    if out_mp3.exists() and out_mp3.stat().st_size > 1_000_000:  # > 1MB 视为已存在
-        print(f"⏭️  episode_1 (一书一集) mp3 已存在: {out_mp3} ({out_mp3.stat().st_size/1024/1024:.1f}MB), 跳过")
-        return str(out_mp3)
-
-    # 段续跑标记
     seg_done_file = ep_dir / "seg_done.json"
+    seg_state = {"completed": [], "failed": []}
     if seg_done_file.exists():
-        seg_state = json.loads(seg_done_file.read_text(encoding="utf-8"))
-        print(f"  ↻ 段续跑: 已完成 {len(seg_state.get('completed', []))} 段, 跳过")
+        try:
+            seg_state = json.loads(seg_done_file.read_text(encoding="utf-8"))
+        except Exception:
+            seg_state = {"completed": [], "failed": []}
+
+    has_failed = len(seg_state.get("failed", [])) > 0
+    if out_mp3.exists():
+        sz = out_mp3.stat().st_size
+        if sz >= 10_000_000 and not has_failed:
+            print(f"⏭️  episode_1 (一书一集) mp3 已存在: {out_mp3} ({sz/1024/1024:.1f}MB), 跳过")
+            return str(out_mp3)
+        else:
+            print(f"⚠️ 检测到历史残留异常/过短/含失败段音频 ({sz/1024/1024:.1f}MB, failed: {len(seg_state.get('failed', []))}), 自动清除并重新合成...")
+            try:
+                out_mp3.unlink(missing_ok=True)
+                if seg_done_file.exists():
+                    seg_done_file.unlink(missing_ok=True)
+            except Exception:
+                pass
+            seg_state = {"completed": [], "failed": []}
     else:
-        seg_state = {"completed": [], "failed": []}
-        seg_done_file.write_text(json.dumps(seg_state, ensure_ascii=False), encoding="utf-8")
+        if not seg_done_file.exists():
+            seg_done_file.write_text(json.dumps(seg_state, ensure_ascii=False), encoding="utf-8")
 
     # 复用 tts.split_into_segments (参数 max_chars)
     text = txt.read_text(encoding="utf-8")
@@ -472,9 +504,19 @@ def run_single_tts(book_safe, max_chars=220):
     # 写最终 seg_done.json
     seg_done_file.write_text(json.dumps(seg_state, ensure_ascii=False), encoding="utf-8")
 
+    failed_cnt = len(seg_state.get("failed", []))
+    if failed_cnt > 0:
+        fail_ratio = failed_cnt / max(1, n)
+        if fail_ratio > 0.05 or failed_cnt >= 3:
+            raise RuntimeError(f"TTS 合成失败段数过多: {failed_cnt}/{n} ({fail_ratio*100:.1f}%), 触发熔断保护，拒绝导出静音音频!")
+
     combined.export(str(out_mp3), format="mp3", bitrate="128k")
     size_mb = out_mp3.stat().st_size / 1024 / 1024
     duration_sec = len(combined) / 1000
+
+    if duration_sec < 600 or size_mb < 3.0:
+        raise RuntimeError(f"导出的音频时长过短或体积异常: {duration_sec:.1f}s, {size_mb:.2f}MB, 触发质量防护拦截!")
+
     print(f"💾 合并输出: {out_mp3} ({size_mb:.1f}MB, ~{duration_sec/60:.1f} 分钟)")
     return str(out_mp3)
 
@@ -564,7 +606,7 @@ def run_single_publish(book_safe, mp3_path, book_name, duration_sec):
     try:
         pub.add_episode_simple(
             mp3_path=str(mp3_path),
-            title=f"好好读书 · 《{book_title}》 · 完整版 · {meta.get('title', '')}",
+            title=f"《{book_title}》· 完整精读",
             description=meta.get("summary", ""),
             duration_sec=duration_sec,
             pub_date=meta.get("pub_date", datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00")),
@@ -640,6 +682,7 @@ def run_full(book_safe):
 
 # ============ Path-aware 包装函数 (避免与分集版冲突) ============
 PROCESSED_BOOKS_FILE = REPO / "processed_books.json"
+PROCESSED_BOOKS_LOCK = REPO / ".processed_books.lock"  # 2026-10-22: 跨进程写锁
 
 
 def _book_key(s: str) -> str:
@@ -651,30 +694,79 @@ def _book_key(s: str) -> str:
     return s.replace(" ", "_").replace("/", "_").replace("\\", "_")
 
 
+def _read_json_retry(path, retries=5):
+    """读 JSON 文件, 容忍并发写导致的"写了一半"的瞬间 (2026-10-22 fix).
+
+    多个 daily_pick / single_book_pipeline 实例共享 processed_books.json,
+    非原子写会让读方撞上截断窗口 → JSONDecodeError → 整个进程死.
+    """
+    last_err = None
+    for attempt in range(retries):
+        try:
+            return json.loads(path.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, UnicodeDecodeError) as e:
+            last_err = e
+            time.sleep(0.2 * (attempt + 1))
+    raise last_err
+
+
+def _write_json_atomic(path, data):
+    """原子写 JSON 文件 (tmp + os.replace) — 2026-10-22 fix.
+
+    os.replace 是 POSIX 原子操作 → 并发读者永远看到完整文件.
+    tmp 名必须每次唯一 (mkstemp), 否则同进程内并发写会写进同一个 tmp → 内容交错损坏.
+    """
+    import tempfile
+    path.parent.mkdir(parents=True, exist_ok=True)
+    fd, tmp = tempfile.mkstemp(dir=str(path.parent), prefix=path.name + ".tmp.")
+    try:
+        with os.fdopen(fd, "w", encoding="utf-8") as f:
+            f.write(json.dumps(data, ensure_ascii=False, indent=2))
+        os.replace(tmp, path)
+    finally:
+        try:
+            if os.path.exists(tmp):
+                os.unlink(tmp)
+        except OSError:
+            pass
+
+
+@contextlib.contextmanager
+def _file_lock(lock_path):
+    """跨进程文件锁 (fcntl.flock), 保护 processed_books.json 的 read-modify-write."""
+    lock_path.parent.mkdir(parents=True, exist_ok=True)
+    with open(lock_path, "a+") as lf:
+        fcntl.flock(lf.fileno(), fcntl.LOCK_EX)
+        try:
+            yield
+        finally:
+            fcntl.flock(lf.fileno(), fcntl.LOCK_UN)
+
+
 def _record_processed_book(book_safe, book_name, duration_sec):
     """2026-06-08: 记录已处理书到 processed_books.json (书池进度)
 
     别依赖 catalog.json (过期, 还是 6/7 集分集数据).
+
+    2026-10-22 fix: 原子写 + 读重试 (并发多实例共享此文件).
     """
-    PROCESSED_BOOKS_FILE.parent.mkdir(parents=True, exist_ok=True)
-    if PROCESSED_BOOKS_FILE.exists():
-        data = json.loads(PROCESSED_BOOKS_FILE.read_text(encoding="utf-8"))
-    else:
-        data = {"version": "1.0", "books": {}}
-    # 2026-06-09 修: 用 _book_key 归一化, 跟 list_unprocessed_books 对齐
-    key = _book_key(book_safe)
-    data["books"][key] = {
-        "book_name": book_name,
-        "duration_sec": duration_sec,
-        "processed_at": now_iso(),
-        "mode": "single_book",
-        "_orig_key": book_safe,
-    }
-    data["last_updated"] = now_iso()
-    PROCESSED_BOOKS_FILE.write_text(
-        json.dumps(data, ensure_ascii=False, indent=2),
-        encoding="utf-8",
-    )
+    with _file_lock(PROCESSED_BOOKS_LOCK):
+        PROCESSED_BOOKS_FILE.parent.mkdir(parents=True, exist_ok=True)
+        if PROCESSED_BOOKS_FILE.exists():
+            data = _read_json_retry(PROCESSED_BOOKS_FILE)
+        else:
+            data = {"version": "1.0", "books": {}}
+        # 2026-06-09 修: 用 _book_key 归一化, 跟 list_unprocessed_books 对齐
+        key = _book_key(book_safe)
+        data["books"][key] = {
+            "book_name": book_name,
+            "duration_sec": duration_sec,
+            "processed_at": now_iso(),
+            "mode": "single_book",
+            "_orig_key": book_safe,
+        }
+        data["last_updated"] = now_iso()
+        _write_json_atomic(PROCESSED_BOOKS_FILE, data)
 
 
 def list_processed_books():
@@ -683,7 +775,7 @@ def list_processed_books():
     """
     if not PROCESSED_BOOKS_FILE.exists():
         return []
-    data = json.loads(PROCESSED_BOOKS_FILE.read_text(encoding="utf-8"))
+    data = _read_json_retry(PROCESSED_BOOKS_FILE)
     items = list(data.get("books", {}).items())
     items.sort(key=lambda kv: kv[1].get("processed_at", ""), reverse=True)
     return items
@@ -697,7 +789,7 @@ def list_unprocessed_books():
         return []
     processed = set()
     if PROCESSED_BOOKS_FILE.exists():
-        d = json.loads(PROCESSED_BOOKS_FILE.read_text(encoding="utf-8"))
+        d = _read_json_retry(PROCESSED_BOOKS_FILE)
         # 2026-06-09 修: 兼容旧 key (无 _orig_key 归一化) — 同时把旧 key 也归一化纳入集合
         for raw_key in d.get("books", {}).keys():
             processed.add(_book_key(raw_key))
@@ -715,25 +807,38 @@ def _run_single_phase2_to_paths(extracted_txt, out_json_path, out_txt_path):
     if not struct_file.exists():
         raise FileNotFoundError(f"book_structure.json 不存在, 先跑 phase1")
     structure = json.loads(struct_file.read_text(encoding="utf-8"))
+    # 2026-08-07 防御: 同 run_single_phase2 — M3 phase1 偶尔返回 None
+    _ct = structure.get('core_themes')
+    if not isinstance(_ct, list):
+        structure['core_themes'] = []
 
     snippet = text[:12000]
     if len(text) > 12000:
         snippet += "\n\n[... 中间省略 ...]\n\n" + text[-3000:]
 
+    def _get_secs(data, expected_keys):
+        if not isinstance(data, dict):
+            return {}
+        secs = data.get("sections")
+        if isinstance(secs, dict) and any(secs.get(k) for k in expected_keys):
+            return secs
+        return {k: data[k] for k in expected_keys if k in data}
+
     # 复用 run_single_phase2 的 3 段 prompt, 但写到 out_*_path
-    # 2026-06-08: 完整复用逻辑 (从 run_single_phase2 copy 出来, 避免与分集版 ep1.json 冲突)
-    head_prompt = f"""你是《好好读书》播客的撰稿人。今天要为一档"AI 讲书"节目, 写一本 90-120 分钟完整讲读的**开场 + 全书背景**部分.
+    # 2026-10-11 优化: 压缩前奏铺垫至 90 秒内 (300-450字), 禁目录式报菜名与百科履历, 根除 M3 偏见词泄露
+    head_prompt = f"""你是《好好读书》播客的撰稿人。今天要为一档"AI 讲书"节目, 写一期约 30 分钟深度精读的**极速抓人开场 + 核心背景**部分.
 
 # 节目定位
-- 这是一档"一口气读完一本书"的播客节目 (一书一集, 90-120 分钟)
-- 听众: 想要"听完能用 / 听完整本书"的人
+- 这是一档"一口气吃透一本书"的深度精读节目 (一书一集, 约 30 分钟, 严禁在文稿中自称九十分钟或一百二十分钟)
+- 听众: 讨厌冗长铺垫、想要"前 30 秒就被抓住、直接听干货与核心故事"的人
 - 节目名: 《好好读书》
-- 不拆多集, 一次性讲完一本书
+- 黄金前奏铁律: 开场 + 背景总字数严格控制在 300-450 字以内 (朗读不超过 90 秒), 绝不拖泥带水!
 
 # 朗读硬约束 (TTS 工程, 严格遵守)
+- 引号硬约束: 正文里绝对不要出现英文双引号 " 或中文弯引号 “ ”. 引用专有名词 / 制度名 / 原文一律用中文书名号《》或方括号【】, 否则会破坏外层 JSON 导致解析失败 (实测必踩)
 - 数字必须用汉字: 30% → 百分之三十; 5GB → 五个 G
 - 年份必须拆位: 2026 年 → 二零二六年
-- 英文术语必须拆字母或拼读: AI → A I; M3 → M 三; edge-tts → edge tts
+- 英文术语必须拆字母或拼读: AI → A I; GDP → G D P; edge-tts → edge tts
 - 长句拆短: 每句不超过 50 字
 - 避免: 咱们 / 你猜 / 对吧 / 然后呢 / 嗯 / 啊 等聊天体
 - 不要: 表情 / Markdown / 链接 / 停顿标签
@@ -756,8 +861,8 @@ def _run_single_phase2_to_paths(extracted_txt, out_json_path, out_txt_path):
 ```json
 {{
   "sections": {{
-    "opening": "开场 (200-400 字, 用一个反问 / 生活场景 / 关键数据把听众拽进, 然后点出本书 1 句话中心思想, 预告会讲哪些核心洞察)",
-    "book_bg": "全书背景 (400-700 字, 作者介绍 + 写作时代背景 + 这本书在领域内的地位 + 为什么今天仍值得读)"
+    "opening": "极速开场 (150-220 字, 直接用一个最具反差感的故事瞬间、生活痛点或颠覆性事实切入, 一句话刺破本书最核心命题。严禁排比罗列『你会听到…你还会听到…』目录预告, 严禁虚报『九十分钟/一百二十分钟』时长)",
+    "book_bg": "极简背景 (150-230 字, 只用两三句话点出作者最关键的身份锚点与本书要解决的核心时代痛点, 立即自然过渡到第一个核心洞察。严禁像背百度百科一样罗列作者毕业院校、履历年份或『本书分为A到E五部分』等章节目录)"
   }},
   "_phase": "head_done"
 }}
@@ -766,11 +871,11 @@ def _run_single_phase2_to_paths(extracted_txt, out_json_path, out_txt_path):
 【只输出 JSON】"""
 
     print(f"📝 段 1/3: opening + book_bg...", flush=True)
-    head_raw = generate.call_minimax(head_prompt, model="MiniMax-M3", max_tokens=32000)
+    head_raw = generate.call_minimax(head_prompt, model="MiniMax-M3.1-Flash", max_tokens=32000, effort="medium")
     head_data = generate.extract_json(head_raw)
-    sections_1 = head_data.get("sections", {})
+    sections_1 = _get_secs(head_data, ["opening", "book_bg"])
 
-    mid_prompt = f"""继续为《{book_title}》写主体洞察的前 3 个核心观点 (90 分钟完整讲读的主体).
+    mid_prompt = f"""继续为《{book_title}》写主体洞察的前 3 个核心观点 (深度精读的正片主体).
 
 # 已写完的"开场 + 背景"
 opening: {sections_1.get('opening', '')}
@@ -778,12 +883,13 @@ book_bg: {sections_1.get('book_bg', '')}
 
 # 你的任务
 - 写 3 个核心洞察, 每个 700-1100 字
-- 每个洞察: 故事化叙述 + 关键数据 + 引用 2-3 句原文 + 含义
+- 每个洞察: 故事化叙述 + 关键数据 + 引用 2-3 句原文 + 含义 (不要写『洞察一：』等生硬标题前缀, 直接用自然语言开启)
 - 这 3 个洞察是全书最核心的"前 3 块拼图"
 - 段间用自然过渡: "接下来" / "问题是" / "有意思的是" / "说到这里"
 - 段末必须显式写"接下来..." (为下一段转场)
 
 # 朗读硬约束 (同上)
+- 引号硬约束: 正文里绝对不要出现英文双引号 " 或中文弯引号 “ ”. 引用专有名词 / 制度名 / 原文一律用中文书名号《》或方括号【】, 否则会破坏外层 JSON 导致解析失败 (实测必踩)
 - 数字 / 年份 / 英文必须按前段的同样规则转写
 - 段间停顿 + 节奏控制 同上
 - 短句 1 句 1 行, 每段 50-80 字
@@ -808,9 +914,9 @@ book_bg: {sections_1.get('book_bg', '')}
 ```"""
 
     print(f"📝 段 2/3: themes_mid (3 个核心洞察)...", flush=True)
-    mid_raw = generate.call_minimax(mid_prompt, model="MiniMax-M3", max_tokens=32000)
+    mid_raw = generate.call_minimax(mid_prompt, model="MiniMax-M3.1-Flash", max_tokens=32000, effort="medium")
     mid_data = generate.extract_json(mid_raw)
-    sections_2 = mid_data.get("sections", {})
+    sections_2 = _get_secs(mid_data, ["themes_mid"])
 
     mid_text = sections_2.get("themes_mid", "")
     mid_tail = mid_text[-200:] if mid_text else ""
@@ -824,11 +930,12 @@ themes_mid 末尾 (用作衔接): "...{mid_tail}..."
 
 # 你的任务
 - 写 3 个核心洞察 (接前 3 块拼图, 共 2200-3500 字)
-- commentary (600-1100 字): M3 偏见 + 含义 + 1-2 个今天就能用的行动
+- commentary (600-1100 字): 破除读者常见认知误区 + 深层现实启示 + 1-2 个今天就能用的具体行动 (注意: 正文中绝对禁止出现『M3』『M三』『模型』等内部提示词字眼)
 - closing (200-400 字): 一句金句 + 收束
 - 段间用自然过渡, 不重复"接下来" (前段已用)
 
 # 朗读硬约束 (同上)
+- 引号硬约束: 正文里绝对不要出现英文双引号 " 或中文弯引号 “ ”. 引用专有名词 / 制度名 / 原文一律用中文书名号《》或方括号【】, 否则会破坏外层 JSON 导致解析失败 (实测必踩)
 - 数字 / 年份 / 英文必须按前段的同样规则转写
 - 【只输出 JSON】
 
@@ -845,7 +952,7 @@ themes_mid 末尾 (用作衔接): "...{mid_tail}..."
 {{
   "sections": {{
     "themes_tail": "3 个核心洞察 (后 3 块拼图, 共 2200-3500 字)",
-    "commentary": "评论延伸 (600-1100 字, M3 偏见 + 含义 + 1-2 个今天就能用的行动)",
+    "commentary": "评论延伸 (600-1100 字, 破除读者常见认知误区 + 深层现实启示 + 1-2 个今天就能用的具体行动)",
     "closing": "收束 (200-400 字, 一句金句 + 总结全书 + 收尾)"
   }},
   "summary": "本书 200 字摘要 (用于 RSS description)"
@@ -853,9 +960,9 @@ themes_mid 末尾 (用作衔接): "...{mid_tail}..."
 ```"""
 
     print(f"📝 段 3/3: themes_tail + commentary + closing...", flush=True)
-    tail_raw = generate.call_minimax(tail_prompt, model="MiniMax-M3", max_tokens=32000)
+    tail_raw = generate.call_minimax(tail_prompt, model="MiniMax-M3.1-Flash", max_tokens=32000, effort="medium")
     tail_data = generate.extract_json(tail_raw)
-    sections_3 = tail_data.get("sections", {})
+    sections_3 = _get_secs(tail_data, ["themes_tail", "commentary", "closing"])
 
     # 合并
     all_sections = {}
@@ -903,17 +1010,32 @@ def _run_single_tts_to_path(book_safe, txt_path, max_chars=220):
     ep_dir.mkdir(parents=True, exist_ok=True)
     out_mp3 = ep_dir / "episode-final.mp3"
 
-    if out_mp3.exists() and out_mp3.stat().st_size > 1_000_000:
-        print(f"⏭️  single episode mp3 已存在 ({out_mp3.stat().st_size/1024/1024:.1f}MB), 跳过")
-        return str(out_mp3)
-
     seg_done_file = ep_dir / "seg_done.json"
+    seg_state = {"completed": [], "failed": []}
     if seg_done_file.exists():
-        seg_state = json.loads(seg_done_file.read_text(encoding="utf-8"))
-        print(f"  ↻ 段续跑: 已完成 {len(seg_state.get('completed', []))} 段, 跳过")
+        try:
+            seg_state = json.loads(seg_done_file.read_text(encoding="utf-8"))
+        except Exception:
+            seg_state = {"completed": [], "failed": []}
+
+    has_failed = len(seg_state.get("failed", [])) > 0
+    if out_mp3.exists():
+        sz = out_mp3.stat().st_size
+        if sz >= 10_000_000 and not has_failed:
+            print(f"⏭️  single episode mp3 已存在 ({sz/1024/1024:.1f}MB), 跳过")
+            return str(out_mp3)
+        else:
+            print(f"⚠️ 检测到历史残留异常/过短/含失败段音频 ({sz/1024/1024:.1f}MB, failed: {len(seg_state.get('failed', []))}), 自动清除并重新合成...")
+            try:
+                out_mp3.unlink(missing_ok=True)
+                if seg_done_file.exists():
+                    seg_done_file.unlink(missing_ok=True)
+            except Exception:
+                pass
+            seg_state = {"completed": [], "failed": []}
     else:
-        seg_state = {"completed": [], "failed": []}
-        seg_done_file.write_text(json.dumps(seg_state, ensure_ascii=False), encoding="utf-8")
+        if not seg_done_file.exists():
+            seg_done_file.write_text(json.dumps(seg_state, ensure_ascii=False), encoding="utf-8")
 
     text = Path(txt_path).read_text(encoding="utf-8")
     segments = tts.split_into_segments(text, max_chars=max_chars)
@@ -986,9 +1108,20 @@ def _run_single_tts_to_path(book_safe, txt_path, max_chars=220):
             raise RuntimeError(f"段 {i} 异常")
 
     seg_done_file.write_text(json.dumps(seg_state, ensure_ascii=False), encoding="utf-8")
+
+    failed_cnt = len(seg_state.get("failed", []))
+    if failed_cnt > 0:
+        fail_ratio = failed_cnt / max(1, n)
+        if fail_ratio > 0.05 or failed_cnt >= 3:
+            raise RuntimeError(f"TTS 合成失败段数过多: {failed_cnt}/{n} ({fail_ratio*100:.1f}%), 触发熔断保护，拒绝导出静音音频!")
+
     combined.export(str(out_mp3), format="mp3", bitrate="128k")
     size_mb = out_mp3.stat().st_size / 1024 / 1024
     duration_sec = len(combined) / 1000
+
+    if duration_sec < 600 or size_mb < 3.0:
+        raise RuntimeError(f"导出的音频时长过短或体积异常: {duration_sec:.1f}s, {size_mb:.2f}MB, 触发质量防护拦截!")
+
     print(f"💾 合并输出: {out_mp3} ({size_mb:.1f}MB, ~{duration_sec/60:.1f} 分钟)")
     return str(out_mp3)
 

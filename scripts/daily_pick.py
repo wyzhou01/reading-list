@@ -24,6 +24,7 @@ import hashlib
 import json
 import os
 import random
+import re
 import subprocess
 import sys
 import tempfile
@@ -107,18 +108,6 @@ def match_prio_candidate(p_item: dict, pool: list):
     return None
 
 
-def load_processed_keys() -> set:
-    """processed_books.json 里所有已产出书的 L1 归一化 key 集合."""
-    proc_file = REPO / "processed_books.json"
-    keys = set()
-    if proc_file.exists():
-        try:
-            d = json.loads(proc_file.read_text(encoding="utf-8"))
-            for k in d.get("books", {}).keys():
-                keys.add(book_key(k))
-        except Exception:
-            pass
-    return keys
 # 2026-10-22: 并发选书互斥 (claim)
 # 历史上多次出现"孤儿 daily_pick --count 100"跟本 cron 的 --count 20 同时跑,
 # 两边各选各的 → 同一本书被跑两遍 (浪费算力 + 撞 feed).
@@ -134,11 +123,64 @@ SINGLE_PIPELINE = REPO / "scripts" / "single_book_pipeline.py"
 L2_SAMPLE_CHARS = 500
 
 
-# ==================== L1 文件名归一化 (复用 _book_key) ====================
+# ==================== L1 文件名归一化与核心书名提取 ====================
 def book_key(s: str) -> str:
     if not s:
         return ""
     return s.replace(" ", "_").replace("/", "_").replace("\\", "_")
+
+
+def normalize_title_core(s: str) -> str:
+    """提取归一化核心书名：剥离后缀、扩展名、作者信息、版次括号、纯标点与多余空格.
+    保证 '思考，快与慢' / '思考，快与慢 - 丹尼尔·卡尼曼' / '思考，快与慢_-_丹尼尔·卡尼曼'
+    均归一化为同一核心书名 '思考快与慢'，杜绝不同 key 格式差异导致的漏判重跑 (2026-11-16 第四十八单加固).
+    """
+    if not s:
+        return ""
+    s = re.sub(r'\.(epub|mobi|azw3|pdf|txt)$', '', str(s), flags=re.I)
+    orig_s = s
+    for splitter in ['_-_', ' - ', ' -- ', '——']:
+        if splitter in s:
+            s = s.split(splitter)[0]
+    s_no_brackets = re.sub(r'[\(（\[【].*?[\)）\]】]', '', s)
+    if len(s_no_brackets.strip()) >= 2:
+        s = s_no_brackets
+    else:
+        m = re.match(r'^[\[【\(（](.*?)[\]】\)）]', orig_s)
+        if m:
+            inner = m.group(1)
+            inner = re.sub(r'[\(（\[【].*?[\)）\]】]', '', inner)
+            if inner.strip():
+                s = inner
+    parts = s.strip().split()
+    if len(parts) > 1 and len(parts[0]) >= 2:
+        s = parts[0]
+    s = re.sub(r'[\s\W_]+', '', s)
+    return s.strip()
+
+
+def load_processed_keys() -> set:
+    """processed_books.json 里所有已产出书的归一化 key 集合 (含原 key、book_name 以及 core 核心书名)."""
+    proc_file = REPO / "processed_books.json"
+    keys = set()
+    if proc_file.exists():
+        try:
+            d = json.loads(proc_file.read_text(encoding="utf-8"))
+            for k, info in d.get("books", {}).items():
+                keys.add(book_key(k))
+                core_k = normalize_title_core(k)
+                if core_k:
+                    keys.add(core_k)
+                if isinstance(info, dict):
+                    bname = info.get("book_name", "")
+                    if bname:
+                        keys.add(book_key(bname))
+                        core_bn = normalize_title_core(bname)
+                        if core_bn:
+                            keys.add(core_bn)
+        except Exception:
+            pass
+    return keys
 
 
 # ==================== L2 内容标识 (开头 + 结尾 N 字) ====================
@@ -430,8 +472,7 @@ SENSITIVE_TEXT_PATTERNS = [
     # 性侵/严重越界违规
     "性侵", "强奸", "性骚扰", "诱奸",
     # 极高敏古代禁毁文学 (保留金瓶梅，解封红楼梦等常规名著)
-    "金瓶梅",
-]
+    "金瓶梅",]
 
 
 def is_sensitive_book(book_safe: str, text_snippet: str = "") -> tuple[bool, str]:
@@ -764,6 +805,8 @@ def report_tg(text: str):
         try:
             env = os.environ.copy()
             # 2026-10-22 fix: 分块推送以防止超过 Telegram 4096 字符限制
+            # (2026-08-06 的 "移除 mihomo 7897 默认值" 已在 notify_curl.sh 内部处理,
+            #  分块不改变代理行为, 两者不冲突)
             chunks = []
             cur_chunk = []
             cur_len = 0
