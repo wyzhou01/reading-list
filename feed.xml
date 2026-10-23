@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Fri, 23 Oct 2026 06:32:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 06:37:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -105282,6 +105282,31 @@
       <itunes:duration>00:29:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261022/episode-20261022-52448a.mp3" length="28785837" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>《尼克·亚当斯故事集》· 完整精读</title>
+      <description>《尼克·亚当斯故事集》以海明威早年的成长经验为原型，讲述尼克从密歇根少年成长为士兵、丈夫、父亲与作家的过程。北方森林让他认识恐惧、死亡与自然，战争使他发现勇敢也可能受恐惧和命令支配，亲密关系让他面对爱、欲望、失落与和解，写作则帮助他保存记忆并修正判断。六个部分依照人生次序展开，使零散短篇连成一部成长叙事：勇气不是感觉不到危险，而是在失去与创伤之后，仍能看清具体的人，承担有限而真实的选择。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Fri, 23 Oct 2026 06:37:15 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261022-episode-20261022-1c6a30</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《尼克·亚当斯故事集》以海明威早年的成长经验为原型，讲述尼克从密歇根少年成长为士兵、丈夫、父亲与作家的过程。北方森林让他认识恐惧、死亡与自然，战争使他发现勇敢也可能受恐惧和命令支配，亲密关系让他面对爱、欲望、失落与和解，写作则帮助他保存记忆并修正判断。六个部分依照人生次序展开，使零散短篇连成一部成长叙事：勇气不是感觉不到危险，而是在失去与创伤之后，仍能看清具体的人，承担有限而真实的选择。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:19:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261022/episode-20261022-1c6a30.mp3" length="18546093" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
