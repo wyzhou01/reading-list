@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Fri, 23 Oct 2026 10:50:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 10:56:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -106182,6 +106182,31 @@
       <itunes:duration>00:25:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261023/episode-20261023-753967.mp3" length="24404397" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>《暗网》· 完整精读</title>
+      <description>《暗网》通过参与引战群组、自残论坛、极端政治圈和色情直播等网络亚文化，揭示匿名与连接如何共同塑造当代生活。匿名既保护举报者、少数群体和受监控者，也降低施害成本，使羞辱、猎杀与极端化更易扩散。线上社群能够提供现实缺失的归属，却也可能把孤独、羞耻和敌意组织成危险共同体。面对这些现象，作者拒绝在全面匿名与彻底实名之间二选一，主张以分层保护、可追责机制和现实救助共同构建伦理边界，理解技术、制度与人的责任如何共同塑造网络空间。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Fri, 23 Oct 2026 10:56:02 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261023-episode-20261023-d2ab68</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《暗网》通过参与引战群组、自残论坛、极端政治圈和色情直播等网络亚文化，揭示匿名与连接如何共同塑造当代生活。匿名既保护举报者、少数群体和受监控者，也降低施害成本，使羞辱、猎杀与极端化更易扩散。线上社群能够提供现实缺失的归属，却也可能把孤独、羞耻和敌意组织成危险共同体。面对这些现象，作者拒绝在全面匿名与彻底实名之间二选一，主张以分层保护、可追责机制和现实救助共同构建伦理边界，理解技术、制度与人的责任如何共同塑造网络空间。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:25:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261023/episode-20261023-d2ab68.mp3" length="24178989" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
