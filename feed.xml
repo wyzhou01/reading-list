@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Fri, 23 Oct 2026 15:38:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 15:45:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -107132,6 +107132,31 @@
       <itunes:duration>00:32:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261023/episode-20261023-43eac3.mp3" length="30895917" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>《牛津通识读本：缤纷的语言学》· 完整精读</title>
+      <description>《缤纷的语言学》从语言的结构、变化、语族、方言与语音出发，重新审视人类如何用语言组织意义。英语与法语的鸟并非简单共享一个预成概念；纳瓦霍语对母亲的界定也显示，词汇与文化经验不可分离。书中把语言视为由语音、词汇、句法和意义相互组成的系统，并通过历史比较重建分化与接触的路径。声音并非意义的透明容器，它与身体、语调、手势和听觉共同作用；语言又会参与塑造注意、记忆与推理，却并非封闭思维的牢笼。理解语言，最终是为了摆脱母语提供的单一视角，以更开放的态度理解人类共同而多样的认知世界。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Fri, 23 Oct 2026 15:44:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261023-episode-20261023-a3d271</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《缤纷的语言学》从语言的结构、变化、语族、方言与语音出发，重新审视人类如何用语言组织意义。英语与法语的鸟并非简单共享一个预成概念；纳瓦霍语对母亲的界定也显示，词汇与文化经验不可分离。书中把语言视为由语音、词汇、句法和意义相互组成的系统，并通过历史比较重建分化与接触的路径。声音并非意义的透明容器，它与身体、语调、手势和听觉共同作用；语言又会参与塑造注意、记忆与推理，却并非封闭思维的牢笼。理解语言，最终是为了摆脱母语提供的单一视角，以更开放的态度理解人类共同而多样的认知世界。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:27:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261023/episode-20261023-a3d271.mp3" length="26017581" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
