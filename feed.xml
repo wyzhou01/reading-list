@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Fri, 23 Oct 2026 05:27:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 05:43:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -105082,6 +105082,31 @@
       <itunes:duration>00:21:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261022/episode-20261022-56c3ac.mp3" length="20358957" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>《消失的微生物》· 完整精读</title>
+      <description>感染病医生马丁·布莱泽在《消失的微生物》中指出，人类不是孤立的身体，而是由自身细胞与微生物共同构成的超级生物体。抗生素滥用、剖宫产、配方奶喂养和现代生活正在破坏菌群多样性，推动耐药菌扩散，并可能增加肥胖、过敏、哮喘、糖尿病等疾病的风险。本书并未将现代疾病归结为单一原因，而是借幽门螺杆菌等案例说明共生与致病可以相互转化。真正需要的不是拒绝药物，而是精准使用、减少不必要的暴露，并从医疗、农业和社会层面保护微生物生态。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Fri, 23 Oct 2026 05:43:16 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261022-episode-20261022-bbf880</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>感染病医生马丁·布莱泽在《消失的微生物》中指出，人类不是孤立的身体，而是由自身细胞与微生物共同构成的超级生物体。抗生素滥用、剖宫产、配方奶喂养和现代生活正在破坏菌群多样性，推动耐药菌扩散，并可能增加肥胖、过敏、哮喘、糖尿病等疾病的风险。本书并未将现代疾病归结为单一原因，而是借幽门螺杆菌等案例说明共生与致病可以相互转化。真正需要的不是拒绝药物，而是精准使用、减少不必要的暴露，并从医疗、农业和社会层面保护微生物生态。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:34:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261022/episode-20261022-bbf880.mp3" length="32847789" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
