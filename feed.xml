@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Fri, 23 Oct 2026 00:45:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 00:51:16 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -104107,6 +104107,31 @@
       <itunes:duration>00:30:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261022/episode-20261022-5ea534.mp3" length="28833837" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>《怪异行为心理学》· 完整精读</title>
+      <description>《怪异行为心理学》由精神科医生朱迪·福斯特与米歇尔·乔共同完成，结合临床经验与商务咨询视角，解释职场中各类怪异行为背后的性格特质、心理需求与认知困难。书中反对轻易给人贴标签，也反对把问题简单归咎于恶意，而是教读者区分偶发失误与人格模式，通过清晰反馈、及时边界、坦诚沟通和必要的专业介入改善团队关系。理解行为的原因，是为了改变互动方式；维护边界，也是为了让每个人都更有尊严地参与工作。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Fri, 23 Oct 2026 00:51:12 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261022-episode-20261022-865a83</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《怪异行为心理学》由精神科医生朱迪·福斯特与米歇尔·乔共同完成，结合临床经验与商务咨询视角，解释职场中各类怪异行为背后的性格特质、心理需求与认知困难。书中反对轻易给人贴标签，也反对把问题简单归咎于恶意，而是教读者区分偶发失误与人格模式，通过清晰反馈、及时边界、坦诚沟通和必要的专业介入改善团队关系。理解行为的原因，是为了改变互动方式；维护边界，也是为了让每个人都更有尊严地参与工作。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:23:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261022/episode-20261022-865a83.mp3" length="22414893" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
