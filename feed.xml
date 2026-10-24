@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Sat, 24 Oct 2026 19:01:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 19:05:00 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -112732,6 +112732,31 @@
       <itunes:duration>00:25:26</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261024/episode-20261024-484d29.mp3" length="24420525" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>《艰难时世》· 完整精读</title>
+      <description>《艰难时世》以科克敦为舞台，串联起议员格雷戈林、银行家庞德贝、孤女西丝、纺织工斯蒂芬与露易莎等不同阶层人物。小说以只认事实的课堂为起点，揭示功利主义如何进入教育、家庭、工业与劳资关系，将人降格为数字、马力与可交换的筹码。西丝保留的想象与爱、露易莎迟来的自我觉醒、斯蒂芬在压迫中的仁慈，共同构成对冷酷秩序的回应。狄更斯没有把希望寄托于权威悔悟，而将其交给每个读者：只有重新看见具体的人，以想象、爱情和责任修复关系，人才能在被计算之后仍保有尊严。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Sat, 24 Oct 2026 19:04:53 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261024-episode-20261024-27cc9a</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《艰难时世》以科克敦为舞台，串联起议员格雷戈林、银行家庞德贝、孤女西丝、纺织工斯蒂芬与露易莎等不同阶层人物。小说以只认事实的课堂为起点，揭示功利主义如何进入教育、家庭、工业与劳资关系，将人降格为数字、马力与可交换的筹码。西丝保留的想象与爱、露易莎迟来的自我觉醒、斯蒂芬在压迫中的仁慈，共同构成对冷酷秩序的回应。狄更斯没有把希望寄托于权威悔悟，而将其交给每个读者：只有重新看见具体的人，以想象、爱情和责任修复关系，人才能在被计算之后仍保有尊严。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:27:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261024/episode-20261024-27cc9a.mp3" length="26526765" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
