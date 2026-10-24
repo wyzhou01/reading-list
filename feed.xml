@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Sat, 24 Oct 2026 13:24:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 13:30:24 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -111457,6 +111457,31 @@
       <itunes:duration>00:27:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261024/episode-20261024-a0eaa3.mp3" length="26021421" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>《形而上学导论》· 完整精读</title>
+      <description>《形而上学导论》以在者为何存在这一首要问题为入口，考察西方形而上学如何追问在者整体，又如何在形成、表象、思与应当中逐渐遗忘在本身。全书区分在者与在，指出现代科学和技术的强大并非问题之所在，真正的危险在于把现成在场当作全部真相。追问在最终返回此在：人不是万物中心，而是让在得以显现并承担存在问题的所在。通过追问无与等待任务，海德格尔为思想保存了超出功利尺度、拒绝被时代遮蔽的空间。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Sat, 24 Oct 2026 13:30:19 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261024-episode-20261024-a6ebc7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《形而上学导论》以在者为何存在这一首要问题为入口，考察西方形而上学如何追问在者整体，又如何在形成、表象、思与应当中逐渐遗忘在本身。全书区分在者与在，指出现代科学和技术的强大并非问题之所在，真正的危险在于把现成在场当作全部真相。追问在最终返回此在：人不是万物中心，而是让在得以显现并承担存在问题的所在。通过追问无与等待任务，海德格尔为思想保存了超出功利尺度、拒绝被时代遮蔽的空间。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:23:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261024/episode-20261024-a6ebc7.mp3" length="22315821" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
