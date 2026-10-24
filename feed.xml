@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Sat, 24 Oct 2026 03:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 03:06:10 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -109407,6 +109407,31 @@
       <itunes:duration>00:24:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261023/episode-20261023-336d9a.mp3" length="23314605" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>《还原真实的美联储》· 完整精读</title>
+      <description>《还原真实的美联储》从美联储的双重制度结构、股东性质与决策制衡出发，逐层拆解利率政策、公开市场操作、金融危机救助和量化宽松的传导机制，并结合次贷危机、欧洲债务危机、全球失衡与大而不能倒问题，说明美元主导地位如何影响世界经济。作者不替美联储辩护，而是以制度事实、经济数据和可检验的分析框架，取代关于罗斯柴尔德家族操控美元的阴谋论。理解美联储，最终是为了看清权力如何运作、代价如何分配，以及一个社会如何在依赖金融稳定的同时保有监督与纠错的能力。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Sat, 24 Oct 2026 03:06:05 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261023-episode-20261023-ae44e7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《还原真实的美联储》从美联储的双重制度结构、股东性质与决策制衡出发，逐层拆解利率政策、公开市场操作、金融危机救助和量化宽松的传导机制，并结合次贷危机、欧洲债务危机、全球失衡与大而不能倒问题，说明美元主导地位如何影响世界经济。作者不替美联储辩护，而是以制度事实、经济数据和可检验的分析框架，取代关于罗斯柴尔德家族操控美元的阴谋论。理解美联储，最终是为了看清权力如何运作、代价如何分配，以及一个社会如何在依赖金融稳定的同时保有监督与纠错的能力。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:28:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261023/episode-20261023-ae44e7.mp3" length="27747117" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
