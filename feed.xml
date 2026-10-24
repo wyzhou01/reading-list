@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Sat, 24 Oct 2026 17:51:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 17:56:59 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -112182,6 +112182,31 @@
       <itunes:duration>00:23:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261024/episode-20261024-44169a.mp3" length="22091181" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>《柔软的宇宙》· 完整精读</title>
+      <description>《柔软的宇宙》以光与以太问题为入口，串联双缝干涉、电磁学、相对论、黑洞、宇宙膨胀、暴胀与引力波，展现现代物理学如何由实验、推理和争论一步步长成。作者既讲科学发现，也讲科学家的性格、利益、迟疑与失误，说明伟大理论并非天才凭空降临，而是旧知识被新证据逼出重生的过程。读这本书，既能理解相对论为何改变人类对空间、时间和引力的认识，也能获得一种面对未知的方法：尊重事实，公开假设，持续检验，并允许自己被证据纠正。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Sat, 24 Oct 2026 17:56:54 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261024-episode-20261024-e28ba1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《柔软的宇宙》以光与以太问题为入口，串联双缝干涉、电磁学、相对论、黑洞、宇宙膨胀、暴胀与引力波，展现现代物理学如何由实验、推理和争论一步步长成。作者既讲科学发现，也讲科学家的性格、利益、迟疑与失误，说明伟大理论并非天才凭空降临，而是旧知识被新证据逼出重生的过程。读这本书，既能理解相对论为何改变人类对空间、时间和引力的认识，也能获得一种面对未知的方法：尊重事实，公开假设，持续检验，并允许自己被证据纠正。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:20:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261024/episode-20261024-e28ba1.mp3" length="19693101" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
