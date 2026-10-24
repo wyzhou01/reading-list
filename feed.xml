@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Sat, 24 Oct 2026 05:31:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 05:37:23 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -110082,6 +110082,31 @@
       <itunes:duration>00:26:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261023/episode-20261023-c4f7dd.mp3" length="25410477" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>《我只知道人是什么》· 完整精读</title>
+      <description>《我只知道人是什么》是余华关于人性、文学与真实的重要随笔。他从耶路撒冷大屠杀纪念馆的波兰农民写起，指出人在历史、偏见和制度划分出的我们与他们之间，仍保存着共同的经验与选择。全书通过电影、写作、阅读、记忆和翻译，讨论文学如何抵达被遮蔽的真实：它不抹平差异，也不让身份成为判断的终点。余华最终把共同人性落实为一种观看方法，即在判断任何群体之前先看见具体的人，并以写作与阅读抵抗偏见对现实的垄断。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Sat, 24 Oct 2026 05:37:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261023-episode-20261023-87e034</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《我只知道人是什么》是余华关于人性、文学与真实的重要随笔。他从耶路撒冷大屠杀纪念馆的波兰农民写起，指出人在历史、偏见和制度划分出的我们与他们之间，仍保存着共同的经验与选择。全书通过电影、写作、阅读、记忆和翻译，讨论文学如何抵达被遮蔽的真实：它不抹平差异，也不让身份成为判断的终点。余华最终把共同人性落实为一种观看方法，即在判断任何群体之前先看见具体的人，并以写作与阅读抵抗偏见对现实的垄断。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:25:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261023/episode-20261023-87e034.mp3" length="24066861" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
