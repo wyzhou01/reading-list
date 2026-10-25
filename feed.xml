@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Sun, 25 Oct 2026 00:05:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 00:09:34 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -114057,6 +114057,31 @@
       <itunes:duration>00:21:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261024/episode-20261024-1569c6.mp3" length="20757549" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>《区块链革命》· 完整精读</title>
+      <description>《区块链革命》从比特币背后的分布式账本出发，解释区块链如何把信用从银行等中心中介转移到可验证、可追溯的共同协议中。全书围绕网络化、透明、安全、隐私、包容与治理等设计原则，展望价值互联网对金融、企业、供应链、政府民主与文化产业的改造。同时，它强调区块链并非万能：代码无法替代法律与责任，自动化不能消除错误，开放协议也可能形成新的垄断。真正的革命不只在速度、成本和代币价格，更在重新设计信任、分配权力，并建立安全、包容且可问责的下一代治理体系。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Sun, 25 Oct 2026 00:09:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261024-episode-20261024-024975</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《区块链革命》从比特币背后的分布式账本出发，解释区块链如何把信用从银行等中心中介转移到可验证、可追溯的共同协议中。全书围绕网络化、透明、安全、隐私、包容与治理等设计原则，展望价值互联网对金融、企业、供应链、政府民主与文化产业的改造。同时，它强调区块链并非万能：代码无法替代法律与责任，自动化不能消除错误，开放协议也可能形成新的垄断。真正的革命不只在速度、成本和代币价格，更在重新设计信任、分配权力，并建立安全、包容且可问责的下一代治理体系。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:21:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261024/episode-20261024-024975.mp3" length="20166957" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
