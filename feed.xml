@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Sun, 25 Oct 2026 09:08:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 09:22:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -124106,6 +124106,33 @@
       <itunes:duration>00:25:38</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261025/episode-20261025-ea81e6.mp3" length="24615597" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>《美国法律故事：辛普森何以逍遥法外？》· 完整精读</title>
+      <description>前洛杉矶资深检察官文森特·布廖西复盘辛普森案，以控方视角揭示无罪判决的五重原因：案件信息被媒体和辩方切割，管辖法院变更改变陪审团结构，法官纵容辩方利用种族议题，控方在血液证据、福尔曼作证和交叉询问上接连失误，最终总结陈词未能组织出清晰证明。全书并非替悬案寻找凶手，而是追问强证据为何会败给失序程序，并警示人们：程序正义若缺乏证据、克制与责任，可能让实质不公披上合法外衣。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</description>
+      <pubDate>Sun, 25 Oct 2026 09:22:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261025-episode-20261025-8e09be</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>前洛杉矶资深检察官文森特·布廖西复盘辛普森案，以控方视角揭示无罪判决的五重原因：案件信息被媒体和辩方切割，管辖法院变更改变陪审团结构，法官纵容辩方利用种族议题，控方在血液证据、福尔曼作证和交叉询问上接连失误，最终总结陈词未能组织出清晰证明。全书并非替悬案寻找凶手，而是追问强证据为何会败给失序程序，并警示人们：程序正义若缺乏证据、克制与责任，可能让实质不公披上合法外衣。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</itunes:summary>
+      <itunes:duration>00:35:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261025/episode-20261025-8e09be.mp3" length="33652653" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
