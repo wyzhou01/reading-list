@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Sun, 25 Oct 2026 00:09:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 00:16:36 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -114082,6 +114082,31 @@
       <itunes:duration>00:21:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261024/episode-20261024-024975.mp3" length="20166957" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>《大众经济学》· 完整精读</title>
+      <description>《大众经济学》以两位同龄女孩的成长经验为线索，重新解释国家贫富分化的根源。帕萨·达斯古普塔指出，资本和自然资源只是表层，制度才决定资源能否转化为合作与创造。社区与信任降低交易成本，市场通过价格协调分散资源，技术、家庭企业和民主福利把制度能力转化为长期发展，而生态边界与成果共享则检验增长的可持续性。全书的核心主张是：真正的发展，不只是产出增加，更是普通人拥有更多能力、选择和尊严。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</description>
+      <pubDate>Sun, 25 Oct 2026 00:16:31 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261024-episode-20261024-d60999</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《大众经济学》以两位同龄女孩的成长经验为线索，重新解释国家贫富分化的根源。帕萨·达斯古普塔指出，资本和自然资源只是表层，制度才决定资源能否转化为合作与创造。社区与信任降低交易成本，市场通过价格协调分散资源，技术、家庭企业和民主福利把制度能力转化为长期发展，而生态边界与成果共享则检验增长的可持续性。全书的核心主张是：真正的发展，不只是产出增加，更是普通人拥有更多能力、选择和尊严。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎前往 YouTube 搜索关注：好好读书（@haohaodushu）</itunes:summary>
+      <itunes:duration>00:24:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261024/episode-20261024-d60999.mp3" length="23891373" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
