@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Sun, 25 Oct 2026 18:43:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 18:50:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -124916,6 +124916,33 @@
       <itunes:duration>00:22:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261025/episode-20261025-16c743.mp3" length="21946413" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>《逻辑大全》· 完整精读</title>
+      <description>《逻辑大全》是奥卡姆逻辑与哲学思想的重要著作。本书主要讨论词项理论与命题理论：区分词项的内涵、外延及不同意义，考察范畴词与助范畴词、假设与指代、词项歧义；继而分析命题结构、否定、系词、模态、未来偶然命题、不可解命题，以及时间、地点和联结词造成的歧义。全书最重要的方法，是先辨明一句话究竟在说什么、怎样组合、在何种条件下成立，再讨论其真假。奥卡姆留下的并非僵硬的推理公式，而是一套结构审查的思维纪律。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</description>
+      <pubDate>Sun, 25 Oct 2026 18:50:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261025-episode-20261025-cafe87</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《逻辑大全》是奥卡姆逻辑与哲学思想的重要著作。本书主要讨论词项理论与命题理论：区分词项的内涵、外延及不同意义，考察范畴词与助范畴词、假设与指代、词项歧义；继而分析命题结构、否定、系词、模态、未来偶然命题、不可解命题，以及时间、地点和联结词造成的歧义。全书最重要的方法，是先辨明一句话究竟在说什么、怎样组合、在何种条件下成立，再讨论其真假。奥卡姆留下的并非僵硬的推理公式，而是一套结构审查的思维纪律。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</itunes:summary>
+      <itunes:duration>00:27:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261025/episode-20261025-cafe87.mp3" length="26718765" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
