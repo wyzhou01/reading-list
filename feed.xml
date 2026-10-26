@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Mon, 26 Oct 2026 18:33:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 18:38:25 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -125402,6 +125402,33 @@
       <itunes:duration>00:24:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261026/episode-20261026-7e5cd2.mp3" length="23800365" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>《变化的位面》· 完整精读</title>
+      <description>席达·杜利普因航班延误发现位面转换法，自此可在不同文明间自由移动。《变化的位面》借十余个异质位面的寓言故事，呈现旅行、翻译与相遇中的误解：基因技术制造新生命，也制造歧视与灾难；阿苏努人的沉默提醒人们，沟通不等于言说；沉浸式技术则可能模糊现实与虚拟，并以系统名义掩饰伤害。全书追问技术、语言与秩序如何塑造认知，并指出抵达陌生世界并非终点，真正的理解在于放下傲慢，允许他者改变自己。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</description>
+      <pubDate>Mon, 26 Oct 2026 18:38:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261026-episode-20261026-3d1b5d</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>席达·杜利普因航班延误发现位面转换法，自此可在不同文明间自由移动。《变化的位面》借十余个异质位面的寓言故事，呈现旅行、翻译与相遇中的误解：基因技术制造新生命，也制造歧视与灾难；阿苏努人的沉默提醒人们，沟通不等于言说；沉浸式技术则可能模糊现实与虚拟，并以系统名义掩饰伤害。全书追问技术、语言与秩序如何塑造认知，并指出抵达陌生世界并非终点，真正的理解在于放下傲慢，允许他者改变自己。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</itunes:summary>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261026/episode-20261026-3d1b5d.mp3" length="14405421" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
