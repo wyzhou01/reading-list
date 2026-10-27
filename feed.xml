@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Tue, 27 Oct 2026 19:29:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 19:36:08 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -126023,6 +126023,33 @@
       <itunes:duration>00:29:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261027/episode-20261027-4248e0.mp3" length="28526637" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>《未来50年》· 完整精读</title>
+      <description>《未来五十年》汇集二十五位科学家的原创文章，从宇宙学、基因编辑、人工智能、脑科学、心理学和复杂性研究等方向，描绘未来可能发生的改变。书中最有价值的并非具体预言，而是对科学认识方式的更新：未来取决于问题质量、技术条件、社会制度与公共选择。技术深入身体和意识之后，人类需要的不只是更强能力，更是理解证据、识别边界、讨论风险并共同承担后果的判断力。面对加速变化的世界，真正稀缺的不是答案，而是持续学习、审慎想象和参与未来塑造的能力。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</description>
+      <pubDate>Tue, 27 Oct 2026 19:36:03 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261027-episode-20261027-b909f3</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《未来五十年》汇集二十五位科学家的原创文章，从宇宙学、基因编辑、人工智能、脑科学、心理学和复杂性研究等方向，描绘未来可能发生的改变。书中最有价值的并非具体预言，而是对科学认识方式的更新：未来取决于问题质量、技术条件、社会制度与公共选择。技术深入身体和意识之后，人类需要的不只是更强能力，更是理解证据、识别边界、讨论风险并共同承担后果的判断力。面对加速变化的世界，真正稀缺的不是答案，而是持续学习、审慎想象和参与未来塑造的能力。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</itunes:summary>
+      <itunes:duration>00:21:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261027/episode-20261027-b909f3.mp3" length="20534061" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
