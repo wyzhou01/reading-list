@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Fri, 30 Oct 2026 17:44:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 17:49:57 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -26,6 +26,33 @@
       <itunes:category text="Philosophy"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/reading-list/cover.jpg"/>
+    <item>
+      <title>《查理·芒格的原则》· 完整精读</title>
+      <description>《查理·芒格的原则》从价值投资、心理偏差与多学科思维出发，说明普通人如何改善决策质量。芒格强调独立思考、控制情绪、持续学习和核查清单，主张先理解企业再判断股票，以护城河评估竞争优势，以安全边际保护自己，并用进入、退出和太难三个篮子处理能力边界。长期收益不依赖每次判断正确，而来自持续避免大错，把有限精力留给少数高确定性机会。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</description>
+      <pubDate>Fri, 30 Oct 2026 17:49:47 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261030-episode-20261030-56f61f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《查理·芒格的原则》从价值投资、心理偏差与多学科思维出发，说明普通人如何改善决策质量。芒格强调独立思考、控制情绪、持续学习和核查清单，主张先理解企业再判断股票，以护城河评估竞争优势，以安全边际保护自己，并用进入、退出和太难三个篮子处理能力边界。长期收益不依赖每次判断正确，而来自持续避免大错，把有限精力留给少数高确定性机会。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</itunes:summary>
+      <itunes:duration>00:23:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261030/episode-20261030-56f61f.mp3" length="22682925" type="audio/mpeg"/>
+    </item>
     <item>
       <title>《牛津通识精选·学科系列》· 完整精读</title>
       <description>本系列汇集十部面向大众的学科入门读物，依次介绍心理学、经济学、伦理学、文学理论、考古学、数学、社会学、佛学、政治哲学与语言学。各册从基本概念、历史背景与典型问题出发，展示不同学科如何观察和解释人类、社会与自然世界，并引导读者辨析直觉、证据与方法之间的差别，在理解专业知识的同时形成跨学科视角。
@@ -8098,33 +8125,6 @@
       <itunes:duration>00:20:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261022/episode-20261022-822b5a.mp3" length="20118957" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>《中华经典诗话：诗镜总论》· 完整精读</title>
-      <description>《诗镜总论》是明末诗论家陆时雍为《古诗镜》《唐诗镜》所作的选诗宗旨，也是理解其诗学体系的钥匙。陆时雍以真、情、韵为核心，反对人为过求与刻意经营，认为诗歌应从自然感发中形成神韵，使情意、意象、声律与转折相互带动，达到言尽而意不尽的境界。全书纵论《诗经》、楚骚、汉魏六朝及唐诗，借具体诗体、诗派、诗人和名句，展示中国古典诗歌在不同时代的声口与流变。它既是一本古诗选本的批评纲要，也是一套关于生命表达、自然节奏与审美距离的诗学宣言。
-
----
-💬【今日读书会 · 互动话题】
-读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
-
-🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
-📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
-🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</description>
-      <pubDate>Thu, 22 Oct 2026 15:09:31 +0000</pubDate>
-      <guid isPermaLink="false">reading-list-vv20261022-episode-20261022-cf4d1b</guid>
-      <itunes:author>好好读书组</itunes:author>
-      <itunes:summary>《诗镜总论》是明末诗论家陆时雍为《古诗镜》《唐诗镜》所作的选诗宗旨，也是理解其诗学体系的钥匙。陆时雍以真、情、韵为核心，反对人为过求与刻意经营，认为诗歌应从自然感发中形成神韵，使情意、意象、声律与转折相互带动，达到言尽而意不尽的境界。全书纵论《诗经》、楚骚、汉魏六朝及唐诗，借具体诗体、诗派、诗人和名句，展示中国古典诗歌在不同时代的声口与流变。它既是一本古诗选本的批评纲要，也是一套关于生命表达、自然节奏与审美距离的诗学宣言。
-
----
-💬【今日读书会 · 互动话题】
-读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
-
-🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
-📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
-🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</itunes:summary>
-      <itunes:duration>00:28:27</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261022/episode-20261022-cf4d1b.mp3" length="27329325" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
