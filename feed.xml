@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Fri, 30 Oct 2026 17:36:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 17:44:01 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -26,6 +26,33 @@
       <itunes:category text="Philosophy"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/reading-list/cover.jpg"/>
+    <item>
+      <title>《牛津通识精选·学科系列》· 完整精读</title>
+      <description>本系列汇集十部面向大众的学科入门读物，依次介绍心理学、经济学、伦理学、文学理论、考古学、数学、社会学、佛学、政治哲学与语言学。各册从基本概念、历史背景与典型问题出发，展示不同学科如何观察和解释人类、社会与自然世界，并引导读者辨析直觉、证据与方法之间的差别，在理解专业知识的同时形成跨学科视角。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</description>
+      <pubDate>Fri, 30 Oct 2026 17:43:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261030-episode-20261030-645b7f</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>本系列汇集十部面向大众的学科入门读物，依次介绍心理学、经济学、伦理学、文学理论、考古学、数学、社会学、佛学、政治哲学与语言学。各册从基本概念、历史背景与典型问题出发，展示不同学科如何观察和解释人类、社会与自然世界，并引导读者辨析直觉、证据与方法之间的差别，在理解专业知识的同时形成跨学科视角。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</itunes:summary>
+      <itunes:duration>00:26:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261030/episode-20261030-645b7f.mp3" length="25501869" type="audio/mpeg"/>
+    </item>
     <item>
       <title>《彭德怀自传》· 完整精读</title>
       <description>《彭德怀自传》以彭德怀亲口讲述的童年贫困、湘军与红军经历、战争选择及晚年思考为线索，呈现他从赤贫少年成长为革命领导人的生命轨迹。全书并非单纯的功业传奇，而是一份关于苦难、组织、忠诚与权力的自我审查。他始终反对压迫和浮夸，努力维护士兵权益并坚持群众路线；面对一九五九年的经济失衡，他既承认建设成就，也直陈比例失调与执行中的错误。书中最重要的追问是：个人良知能否抵抗时代狂热，说真话的勇气能否转化为可持续的纠错机制，以及革命者掌权后如何不辜负最初的受难记忆。
@@ -8098,33 +8125,6 @@
       <itunes:duration>00:28:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261022/episode-20261022-cf4d1b.mp3" length="27329325" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>《楠木向北》· 完整精读</title>
-      <description>女网红童笙死于酒店，头皮被割开，十二条死蛇紧嵌伤口，案件因美杜莎般的仪式感进入连环犯罪轨道。刑警南慕与队长陆祈追查现场留下的密码，逐步牵出旧案、心理学谜题以及深埋多年的创伤记忆。凶手借受害者的身体完成审判，也借死亡传递执念；调查者越接近真相，越发现自己同样被过去牵动。《楠木向北》真正追问的不是谁该受罚，而是人在理解伤口之后，能否停止复制伤害，让亡者以不再重复死亡的方式归来。
-
----
-💬【今日读书会 · 互动话题】
-读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
-
-🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
-📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
-🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</description>
-      <pubDate>Thu, 22 Oct 2026 14:52:19 +0000</pubDate>
-      <guid isPermaLink="false">reading-list-vv20261022-episode-20261022-df1ac6</guid>
-      <itunes:author>好好读书组</itunes:author>
-      <itunes:summary>女网红童笙死于酒店，头皮被割开，十二条死蛇紧嵌伤口，案件因美杜莎般的仪式感进入连环犯罪轨道。刑警南慕与队长陆祈追查现场留下的密码，逐步牵出旧案、心理学谜题以及深埋多年的创伤记忆。凶手借受害者的身体完成审判，也借死亡传递执念；调查者越接近真相，越发现自己同样被过去牵动。《楠木向北》真正追问的不是谁该受罚，而是人在理解伤口之后，能否停止复制伤害，让亡者以不再重复死亡的方式归来。
-
----
-💬【今日读书会 · 互动话题】
-读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
-
-🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
-📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
-🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</itunes:summary>
-      <itunes:duration>00:24:16</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261022/episode-20261022-df1ac6.mp3" length="23305773" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
