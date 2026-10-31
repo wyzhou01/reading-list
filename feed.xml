@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Sat, 31 Oct 2026 17:53:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 18:00:37 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -26,6 +26,33 @@
       <itunes:category text="Philosophy"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/reading-list/cover.jpg"/>
+    <item>
+      <title>《人间喜剧（读客版）》· 完整精读</title>
+      <description>《人间喜剧》精选集以巴尔扎克式的现实主义笔力，描绘十九世纪法国从巴黎上流社会、资产者家庭、商界文坛到外省城镇的众生相。金钱怎样支配婚姻，亲情如何被利益侵蚀，野心怎样在制度和欲望中反复碰壁，构成全书最深的线索。高老头的父女惨剧、葛朗台家的财富牢笼、贝姨与邦斯舅舅的悲喜图景，以及《幻灭》中新闻、文学和商业世界的沉浮，共同组成一幅社会全景。这里没有孤立的奇闻，每个人都在时代这台机器里寻找生存、爱情、尊严与自我证明。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</description>
+      <pubDate>Sat, 31 Oct 2026 18:00:28 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261031-episode-20261031-5cd793</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《人间喜剧》精选集以巴尔扎克式的现实主义笔力，描绘十九世纪法国从巴黎上流社会、资产者家庭、商界文坛到外省城镇的众生相。金钱怎样支配婚姻，亲情如何被利益侵蚀，野心怎样在制度和欲望中反复碰壁，构成全书最深的线索。高老头的父女惨剧、葛朗台家的财富牢笼、贝姨与邦斯舅舅的悲喜图景，以及《幻灭》中新闻、文学和商业世界的沉浮，共同组成一幅社会全景。这里没有孤立的奇闻，每个人都在时代这台机器里寻找生存、爱情、尊严与自我证明。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</itunes:summary>
+      <itunes:duration>00:27:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261031/episode-20261031-5cd793.mp3" length="26166189" type="audio/mpeg"/>
+    </item>
     <item>
       <title>《病毒来袭》· 完整精读</title>
       <description>《病毒来袭》是病毒学家内森·沃尔夫的全球防疫警报书。以泰国六岁男孩卡坦感染致命禽流感并死亡为起点，作者追溯雅典瘟疫、黑死病、天花征服、艾滋病溯源等历史脉络，揭示人类狩猎、畜牧、城市化与全球交通如何压缩人与动物的距离，把病毒推入快车道。全书提出真正的防线不在疫情爆发后的救治，而在爆发之前的监测：全球监测网络、大数据与生态位预测、病毒治疗病毒，以及媒体与公众的理性协作。它要破除的，是人类对安全的幻觉。
@@ -8098,33 +8125,6 @@
       <itunes:duration>00:25:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261022/episode-20261022-02983f.mp3" length="24683181" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>《谁说了算：自由意志的心理学解读》· 完整精读</title>
-      <description>《谁说了算：自由意志的心理学解读》从裂脑实验、神经发育与意识研究出发，重新审视自我与自由意志。作者认为，大脑并非由一个居于中央的自我发号施令，自我更像整合信息并为行动构造理由的解释器；与此同时，思想、社会规范与承诺又会反过来约束大脑。脑科学能够解释行为的成因，却不能直接取消道德与法律责任。责任应依据理解能力、控制程度、行为后果与修复意愿来判断。理解自由意志的机制，最终是为了在科学解释、个人责任和社会治理之间建立更清醒、更公正的关系。
-
----
-💬【今日读书会 · 互动话题】
-读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
-
-🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
-📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
-🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</description>
-      <pubDate>Thu, 22 Oct 2026 18:13:30 +0000</pubDate>
-      <guid isPermaLink="false">reading-list-vv20261022-episode-20261022-bd0e0e</guid>
-      <itunes:author>好好读书组</itunes:author>
-      <itunes:summary>《谁说了算：自由意志的心理学解读》从裂脑实验、神经发育与意识研究出发，重新审视自我与自由意志。作者认为，大脑并非由一个居于中央的自我发号施令，自我更像整合信息并为行动构造理由的解释器；与此同时，思想、社会规范与承诺又会反过来约束大脑。脑科学能够解释行为的成因，却不能直接取消道德与法律责任。责任应依据理解能力、控制程度、行为后果与修复意愿来判断。理解自由意志的机制，最终是为了在科学解释、个人责任和社会治理之间建立更清醒、更公正的关系。
-
----
-💬【今日读书会 · 互动话题】
-读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
-
-🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
-📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
-🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</itunes:summary>
-      <itunes:duration>00:19:15</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261022/episode-20261022-bd0e0e.mp3" length="18493101" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
