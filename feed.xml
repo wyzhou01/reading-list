@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Sun, 01 Nov 2026 18:47:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 18:54:32 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -26,6 +26,33 @@
       <itunes:category text="Philosophy"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/reading-list/cover.jpg"/>
+    <item>
+      <title>《敲响密室之门》· 完整精读</title>
+      <description>《敲响密室之门》收录青崎有吾多起本格推理短篇。片无冰雨负责追索动机，御殿场倒理负责拆解手法，两人以互补方式破解密室、诡计与身份错位构成的案件。书中真正关键的线索往往藏在地毯、漆粉、画板、硬币等日常物件中，而看似最醒目的异常也可能只是凶手安排的误导。作品既展示精密机关的趣味，也揭示动机与手法如何彼此掩护，以及不同能力交换问题后，普通人如何参与逼近真相。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</description>
+      <pubDate>Sun, 01 Nov 2026 18:54:23 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261101-episode-20261101-13bbc4</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《敲响密室之门》收录青崎有吾多起本格推理短篇。片无冰雨负责追索动机，御殿场倒理负责拆解手法，两人以互补方式破解密室、诡计与身份错位构成的案件。书中真正关键的线索往往藏在地毯、漆粉、画板、硬币等日常物件中，而看似最醒目的异常也可能只是凶手安排的误导。作品既展示精密机关的趣味，也揭示动机与手法如何彼此掩护，以及不同能力交换问题后，普通人如何参与逼近真相。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</itunes:summary>
+      <itunes:duration>00:22:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261101/episode-20261101-13bbc4.mp3" length="21614253" type="audio/mpeg"/>
+    </item>
     <item>
       <title>《可能与不可能的边界：P/NP问题趣史》· 完整精读</title>
       <description>《可能与不可能的边界：P_NP问题趣史》以寻找巧克力金券为引子，讲述P与NP问题从冷战背景中诞生的历史。库克、莱文与卡普揭示NP完全性，让旅行推销员、逻辑可满足性和众多现实任务显露出共同结构。面对无法普遍快速求解的困难，人类发展出蛮力搜索、启发式、近似、分解、抽样与专用硬件，也在密码学、量子计算和人工智能中重新评估创造、验证、隐私与自动化。P与NP虽未解决，它却提供了一把理解计算能力与工程取舍的尺子：承认边界，不是放弃可能，而是让每一次突破更有依据、更有责任。
@@ -8098,33 +8125,6 @@
       <itunes:duration>00:21:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261022/episode-20261022-088816.mp3" length="20671533" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>《假如岁月足够长》· 完整精读</title>
-      <description>《假如岁月足够长》以东京墨田区Y镇为舞台，收入六个彼此呼应又可独立阅读的中短篇。堀源二郎与有田国政从童年走到暮年，在细工花簪、运河手艺和邻里往来中面对死亡与衰老；旧收音机、学童调查、花卉与暴风雨、“平成无责任男”等故事，则把时代变化落在普通人的选择上。作品借Y镇水路与四季流转，写亲情、邻里、传统和现代化之间的张力：人会老、店铺会变、河流仍向前，但共同生活留下的温度让岁月拥有回声。
-
----
-💬【今日读书会 · 互动话题】
-读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
-
-🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
-📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
-🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</description>
-      <pubDate>Thu, 22 Oct 2026 19:37:49 +0000</pubDate>
-      <guid isPermaLink="false">reading-list-vv20261022-episode-20261022-b035ce</guid>
-      <itunes:author>好好读书组</itunes:author>
-      <itunes:summary>《假如岁月足够长》以东京墨田区Y镇为舞台，收入六个彼此呼应又可独立阅读的中短篇。堀源二郎与有田国政从童年走到暮年，在细工花簪、运河手艺和邻里往来中面对死亡与衰老；旧收音机、学童调查、花卉与暴风雨、“平成无责任男”等故事，则把时代变化落在普通人的选择上。作品借Y镇水路与四季流转，写亲情、邻里、传统和现代化之间的张力：人会老、店铺会变、河流仍向前，但共同生活留下的温度让岁月拥有回声。
-
----
-💬【今日读书会 · 互动话题】
-读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
-
-🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
-📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
-🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</itunes:summary>
-      <itunes:duration>00:28:45</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261022/episode-20261022-b035ce.mp3" length="27610797" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
