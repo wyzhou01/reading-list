@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Mon, 02 Nov 2026 19:36:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 19:43:17 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -26,6 +26,33 @@
       <itunes:category text="Philosophy"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/reading-list/cover.jpg"/>
+    <item>
+      <title>《猎豹》· 完整精读</title>
+      <description>《猎豹：全二册》以挪威与香港两起女尸案为线索，串联年轻警探卡雅与离职老警探哈利的追捕过程。凶手借网络信息、制度漏洞、债务关系和社会恐惧接近猎物，暴力背后既有连环犯罪者的操控，也有警务、媒体与日常生活中的结构盲区。小说追问人在恐惧、欲望、孤独与爱恨之间如何守住判断，并以警察的追踪和救赎，呈现普通人如何在制度与阴影之间争取尊严与生存。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</description>
+      <pubDate>Mon, 02 Nov 2026 19:43:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261102-episode-20261102-622c23</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《猎豹：全二册》以挪威与香港两起女尸案为线索，串联年轻警探卡雅与离职老警探哈利的追捕过程。凶手借网络信息、制度漏洞、债务关系和社会恐惧接近猎物，暴力背后既有连环犯罪者的操控，也有警务、媒体与日常生活中的结构盲区。小说追问人在恐惧、欲望、孤独与爱恨之间如何守住判断，并以警察的追踪和救赎，呈现普通人如何在制度与阴影之间争取尊严与生存。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</itunes:summary>
+      <itunes:duration>00:20:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261102/episode-20261102-622c23.mp3" length="19742253" type="audio/mpeg"/>
+    </item>
     <item>
       <title>《中医祖传的那点儿东西1》· 完整精读</title>
       <description>本书通过钱乙、黄元御、张景岳、吴鞠通四位古代名医的人生与行医经历，串联儿科、脾胃、望诊、温病等中医理论的形成过程。既有他们求学、成名、济世和晚年际遇的传奇故事，也有医案、诊法与经典方剂的临床心得。作者借古人之事讲述大医精诚、审证求因和治病先治心的职业精神，并结合母亲肾病、夏季低烧、三仁汤等临证案例，展示传统中医如何辨证施治。
@@ -8098,33 +8125,6 @@
       <itunes:duration>00:23:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261022/episode-20261022-26fd03.mp3" length="22998189" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>《秦史稿》· 完整精读</title>
-      <description>《秦史稿》以秦人起源为起点，追踪秦国从部族共同体到诸侯国、再到统一王朝的完整转型，揭示商鞅变法如何借军功、户籍、县制与法律重塑国家，使秦获得兼并六国的高效组织能力，也把高额赋役和严刑重罚嵌入社会。统一之后，帝国以更强的中央集权治理广阔疆域，却未能同步建立矛盾缓冲与纠错机制，最终使强大的国家能力被起义者反向利用。书中结合传世文献、秦简、考古文物与遗址互证年代与制度，也提醒读者：强组织若失去社会承载与真实反馈，胜利越迅速，断裂也可能越彻底。
-
----
-💬【今日读书会 · 互动话题】
-读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
-
-🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
-📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
-🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</description>
-      <pubDate>Thu, 22 Oct 2026 21:21:50 +0000</pubDate>
-      <guid isPermaLink="false">reading-list-vv20261022-episode-20261022-8b38eb</guid>
-      <itunes:author>好好读书组</itunes:author>
-      <itunes:summary>《秦史稿》以秦人起源为起点，追踪秦国从部族共同体到诸侯国、再到统一王朝的完整转型，揭示商鞅变法如何借军功、户籍、县制与法律重塑国家，使秦获得兼并六国的高效组织能力，也把高额赋役和严刑重罚嵌入社会。统一之后，帝国以更强的中央集权治理广阔疆域，却未能同步建立矛盾缓冲与纠错机制，最终使强大的国家能力被起义者反向利用。书中结合传世文献、秦简、考古文物与遗址互证年代与制度，也提醒读者：强组织若失去社会承载与真实反馈，胜利越迅速，断裂也可能越彻底。
-
----
-💬【今日读书会 · 互动话题】
-读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
-
-🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
-📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
-🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</itunes:summary>
-      <itunes:duration>00:22:59</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261022/episode-20261022-8b38eb.mp3" length="22077357" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
