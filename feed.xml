@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Mon, 02 Nov 2026 19:50:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 20:01:31 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -26,6 +26,33 @@
       <itunes:category text="Philosophy"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/reading-list/cover.jpg"/>
+    <item>
+      <title>《混在美国名校》· 完整精读</title>
+      <description>《混在美国名校》以九十年代留美学生的真实经历为底色，讲述郑卫等青年在美国名校求学、创业、恋爱与漂泊的故事。郑卫聪明敏捷，却把聪明用于逃课、投机和游戏，直到婚姻破裂、濒临退学，才被迫正视逃避责任的后果。在异乡生活的压力和朋友们相互扶持下，他重新认识自己，把天赋转化为学习与生存的能力，最终获得事业与爱情。作品呈现了一代青年面对文化差异、身份重塑和人生选择时的真实困境，也说明真正的成长，是从聪明地周旋走向勇敢地承担。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</description>
+      <pubDate>Mon, 02 Nov 2026 20:01:22 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261102-episode-20261102-69bbe1</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《混在美国名校》以九十年代留美学生的真实经历为底色，讲述郑卫等青年在美国名校求学、创业、恋爱与漂泊的故事。郑卫聪明敏捷，却把聪明用于逃课、投机和游戏，直到婚姻破裂、濒临退学，才被迫正视逃避责任的后果。在异乡生活的压力和朋友们相互扶持下，他重新认识自己，把天赋转化为学习与生存的能力，最终获得事业与爱情。作品呈现了一代青年面对文化差异、身份重塑和人生选择时的真实困境，也说明真正的成长，是从聪明地周旋走向勇敢地承担。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</itunes:summary>
+      <itunes:duration>00:25:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261102/episode-20261102-69bbe1.mp3" length="24072237" type="audio/mpeg"/>
+    </item>
     <item>
       <title>《人面桃花》· 完整精读</title>
       <description>《人面桃花》以清末民初至一九五二年的普济乡村为舞台，追踪陆秀米从封闭宅院走入革命、战争与新社会的半生。父亲陆侃因桃源图而发疯并失踪，革命者张季元的到来又令秀米看见理想与爱情的双重诱惑，却很快面对失败与死亡。此后，她经历逃亡、监禁、离散、重逢与失去，在韩六消失、旧日小岛荒废之后重新理解自己的过去。全书借一段跨越近半个世纪的生命史，追问个人能否左右历史，又能否在宏大变革中守住亲情、爱情与普通人的姓名。
@@ -8098,33 +8125,6 @@
       <itunes:duration>00:22:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261022/episode-20261022-0e7037.mp3" length="21758253" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>《日本！日本！：中日历史上的历次死磕》· 完整精读</title>
-      <description>《日本！日本！：中日历史上的历次死磕》从白江口海战写到甲午战争，追问战争背后的地缘压力、国家能力与个人选择。日本因岛屿生存焦虑和大陆资源产生扩张动力，中国则因边疆秩序与安全回应。书中呈现刘仁轨、戚继光、李如松、邓世昌、丁汝昌、李鸿章等人物的抉择，也揭示个人勇气无法替代财政、技术与制度。贯穿全书的判断是：战争并非民族天性的简单爆发，胜败也不只取决于战场英雄，而取决于国家能否学习、改革并组织起可持续的现代能力。
-
----
-💬【今日读书会 · 互动话题】
-读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
-
-🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
-📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
-🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</description>
-      <pubDate>Thu, 22 Oct 2026 21:32:10 +0000</pubDate>
-      <guid isPermaLink="false">reading-list-vv20261022-episode-20261022-0a53db</guid>
-      <itunes:author>好好读书组</itunes:author>
-      <itunes:summary>《日本！日本！：中日历史上的历次死磕》从白江口海战写到甲午战争，追问战争背后的地缘压力、国家能力与个人选择。日本因岛屿生存焦虑和大陆资源产生扩张动力，中国则因边疆秩序与安全回应。书中呈现刘仁轨、戚继光、李如松、邓世昌、丁汝昌、李鸿章等人物的抉择，也揭示个人勇气无法替代财政、技术与制度。贯穿全书的判断是：战争并非民族天性的简单爆发，胜败也不只取决于战场英雄，而取决于国家能否学习、改革并组织起可持续的现代能力。
-
----
-💬【今日读书会 · 互动话题】
-读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
-
-🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
-📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
-🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</itunes:summary>
-      <itunes:duration>00:23:35</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261022/episode-20261022-0a53db.mp3" length="22644141" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
