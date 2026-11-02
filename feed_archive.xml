@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Mon, 02 Nov 2026 19:36:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 19:43:11 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -26,6 +26,33 @@
       <itunes:category text="Philosophy"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/reading-list/cover.jpg"/>
+    <item>
+      <title>《秦史稿》· 完整精读</title>
+      <description>《秦史稿》以秦人起源为起点，追踪秦国从部族共同体到诸侯国、再到统一王朝的完整转型，揭示商鞅变法如何借军功、户籍、县制与法律重塑国家，使秦获得兼并六国的高效组织能力，也把高额赋役和严刑重罚嵌入社会。统一之后，帝国以更强的中央集权治理广阔疆域，却未能同步建立矛盾缓冲与纠错机制，最终使强大的国家能力被起义者反向利用。书中结合传世文献、秦简、考古文物与遗址互证年代与制度，也提醒读者：强组织若失去社会承载与真实反馈，胜利越迅速，断裂也可能越彻底。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</description>
+      <pubDate>Thu, 22 Oct 2026 21:21:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261022-episode-20261022-8b38eb</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《秦史稿》以秦人起源为起点，追踪秦国从部族共同体到诸侯国、再到统一王朝的完整转型，揭示商鞅变法如何借军功、户籍、县制与法律重塑国家，使秦获得兼并六国的高效组织能力，也把高额赋役和严刑重罚嵌入社会。统一之后，帝国以更强的中央集权治理广阔疆域，却未能同步建立矛盾缓冲与纠错机制，最终使强大的国家能力被起义者反向利用。书中结合传世文献、秦简、考古文物与遗址互证年代与制度，也提醒读者：强组织若失去社会承载与真实反馈，胜利越迅速，断裂也可能越彻底。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</itunes:summary>
+      <itunes:duration>00:22:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261022/episode-20261022-8b38eb.mp3" length="22077357" type="audio/mpeg"/>
+    </item>
     <item>
       <title>《寻找香格里拉》· 完整精读</title>
       <description>《寻找香格里拉》以王崴的镜头深入云南高原，记录唐卡画师、东巴造纸人、雪山牧牛人和尼西黑陶匠人的日常生活。书中呈现的不只是精湛手艺，更是技艺背后漫长的学习、有限的收入、代际协作，以及人与自然、土地和家乡之间的依存。面对教育普及、旅游扩张与人口流动，传承的难题不是简单保存旧物，而是让唐卡仍有信仰与市场，让东巴纸继续书写与学习，让黑陶回到日常，让牧业仍有可持续的未来。传统并非静止的过去，而是一种在变化中保持尊严、关系与生长可能的生活。
