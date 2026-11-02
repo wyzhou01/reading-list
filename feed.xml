@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Mon, 02 Nov 2026 19:14:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 19:21:52 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -26,6 +26,33 @@
       <itunes:category text="Philosophy"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/reading-list/cover.jpg"/>
+    <item>
+      <title>《鱼王》· 完整精读</title>
+      <description>《鱼王》以叶尼塞河与泰梅尔半岛的严酷生活为背景，通过捕鱼、偷猎、筑路、战争、童年与故乡回忆，写人在自然面前被逼出的善恶。作品既追踪人与河流、鱼群和动物关系的失衡，也揭示现代化如何改变村落生活与人的尊严。阿斯塔菲耶夫以自白式叙事让个人经验抵达普遍生命，最终追问：当人不再敬畏自然、他人与劳动，它还能不能保有作为人的尺度？
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</description>
+      <pubDate>Mon, 02 Nov 2026 19:21:42 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261102-episode-20261102-f30f75</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《鱼王》以叶尼塞河与泰梅尔半岛的严酷生活为背景，通过捕鱼、偷猎、筑路、战争、童年与故乡回忆，写人在自然面前被逼出的善恶。作品既追踪人与河流、鱼群和动物关系的失衡，也揭示现代化如何改变村落生活与人的尊严。阿斯塔菲耶夫以自白式叙事让个人经验抵达普遍生命，最终追问：当人不再敬畏自然、他人与劳动，它还能不能保有作为人的尺度？
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</itunes:summary>
+      <itunes:duration>00:25:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261102/episode-20261102-f30f75.mp3" length="24955437" type="audio/mpeg"/>
+    </item>
     <item>
       <title>《皇极经世书》· 完整精读</title>
       <description>《皇极经世书》以元、会、运、世建立宇宙与历史的周期尺度，观察从帝尧至五代末的治乱兴亡。全书虽重象数推演，落脚点却始终是义理与人事：天下由治入乱，往往源于私欲膨胀、边界失守、制度失衡与上下不信。它由修身、齐家推至治国，强调才力、智识与德器不可偏废，圣人贵在未然而防。阅读此书，不是为命运寻找借口，而是学习以长周期视野观察现实，以道义修正欲望，以制度容纳变化，并在危机尚可处理时主动行动。
@@ -8098,33 +8125,6 @@
       <itunes:duration>00:24:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261022/episode-20261022-06a67c.mp3" length="23849517" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>《如果没有今天，明天会不会有昨天？》· 完整精读</title>
-      <description>《如果没有今天，明天会不会有昨天？》以思想实验为入口，系统讨论幸福、知识、道德、自由、心智与自我。电车难题揭示功利计算与权利尊严的冲突，缸中之脑追问经验能否证明现实，忒修斯之船追问不断变化中的身份如何延续。博萨尔特借此强调，哲学的价值不在提供标准答案，而在澄清概念、检验直觉、比较论证。读懂这些实验，便是学会审视自己为何相信、为何选择，以及什么证据能够改变判断。
-
----
-💬【今日读书会 · 互动话题】
-读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
-
-🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
-📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
-🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</description>
-      <pubDate>Thu, 22 Oct 2026 20:19:58 +0000</pubDate>
-      <guid isPermaLink="false">reading-list-vv20261022-episode-20261022-9ecb8d</guid>
-      <itunes:author>好好读书组</itunes:author>
-      <itunes:summary>《如果没有今天，明天会不会有昨天？》以思想实验为入口，系统讨论幸福、知识、道德、自由、心智与自我。电车难题揭示功利计算与权利尊严的冲突，缸中之脑追问经验能否证明现实，忒修斯之船追问不断变化中的身份如何延续。博萨尔特借此强调，哲学的价值不在提供标准答案，而在澄清概念、检验直觉、比较论证。读懂这些实验，便是学会审视自己为何相信、为何选择，以及什么证据能够改变判断。
-
----
-💬【今日读书会 · 互动话题】
-读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
-
-🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
-📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
-🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</itunes:summary>
-      <itunes:duration>00:20:27</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261022/episode-20261022-9ecb8d.mp3" length="19646253" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
