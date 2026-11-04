@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Wed, 04 Nov 2026 17:42:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 17:50:20 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -26,6 +26,33 @@
       <itunes:category text="Philosophy"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/reading-list/cover.jpg"/>
+    <item>
+      <title>《决断力》· 完整精读</title>
+      <description>《决断力》指出，好决定很少来自天赋或灵光乍现，更需要一套可重复的决策流程。面对选择时，先扩大选项空间，区分已投入的沉没成本与未来的继续成本；分析时主动寻找反证，并用基准率和失败预演抵抗过度自信；行动前拉开与短期情绪的距离，澄清核心目标，比较机会成本，在合适时机采取行动。流程无法消除未知与运气，却能减少视野狭窄、证实偏误、情绪绑架和成本错算，让个人与组织在复杂环境中持续做出更可靠的选择。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</description>
+      <pubDate>Wed, 04 Nov 2026 17:50:10 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261104-episode-20261104-f37d41</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《决断力》指出，好决定很少来自天赋或灵光乍现，更需要一套可重复的决策流程。面对选择时，先扩大选项空间，区分已投入的沉没成本与未来的继续成本；分析时主动寻找反证，并用基准率和失败预演抵抗过度自信；行动前拉开与短期情绪的距离，澄清核心目标，比较机会成本，在合适时机采取行动。流程无法消除未知与运气，却能减少视野狭窄、证实偏误、情绪绑架和成本错算，让个人与组织在复杂环境中持续做出更可靠的选择。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</itunes:summary>
+      <itunes:duration>00:22:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261104/episode-20261104-f37d41.mp3" length="21722157" type="audio/mpeg"/>
+    </item>
     <item>
       <title>《给孩子讲量子力学》· 完整精读</title>
       <description>《给孩子讲量子力学》从牛顿力学切入，以故事和实验带领读者走进量子世界，解释电子为何没有固定轨道、原子为何保持稳定，以及不确定性如何划定人类能够认识的边界。全书进一步串联激光、核能、医学、半导体与量子计算等技术，并讨论量子计算、人类大脑和自由意志等科学想象。它让孩子看见日常世界背后的微观规则，也提醒成年人保持证据意识与好奇心：理解世界不必从公式开始，可以从一个问题开始。
@@ -8098,33 +8125,6 @@
       <itunes:duration>00:25:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261022/episode-20261022-c58301.mp3" length="24847533" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>《罗曼蒂克消亡史》· 完整精读</title>
-      <description>《罗曼蒂克消亡史》以七个短篇串起人鱼、女演员、演员、边缘青年与逝者的命运，书写身体如何先被观看、再被定价，表演如何成为生存手段，也如何成为新的牢笼。爱情、友情与成名梦想曾替边缘人物创造短暂身份，却无法替他们支付房租、病痛、风险和死亡。程耳以冷峻而复杂的叙述追问：当幻象破裂，被遗漏的人怎样继续生活，又该由谁记住他们。
-
----
-💬【今日读书会 · 互动话题】
-读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
-
-🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
-📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
-🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</description>
-      <pubDate>Thu, 22 Oct 2026 23:47:48 +0000</pubDate>
-      <guid isPermaLink="false">reading-list-vv20261022-episode-20261022-2bcdf5</guid>
-      <itunes:author>好好读书组</itunes:author>
-      <itunes:summary>《罗曼蒂克消亡史》以七个短篇串起人鱼、女演员、演员、边缘青年与逝者的命运，书写身体如何先被观看、再被定价，表演如何成为生存手段，也如何成为新的牢笼。爱情、友情与成名梦想曾替边缘人物创造短暂身份，却无法替他们支付房租、病痛、风险和死亡。程耳以冷峻而复杂的叙述追问：当幻象破裂，被遗漏的人怎样继续生活，又该由谁记住他们。
-
----
-💬【今日读书会 · 互动话题】
-读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
-
-🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
-📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
-🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</itunes:summary>
-      <itunes:duration>00:22:38</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261022/episode-20261022-2bcdf5.mp3" length="21733677" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
