@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Wed, 04 Nov 2026 18:32:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 18:39:06 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -26,6 +26,33 @@
       <itunes:category text="Philosophy"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/reading-list/cover.jpg"/>
+    <item>
+      <title>《宪法学说（修订译本）》· 完整精读</title>
+      <description>《宪法学说（修订译本）》以魏玛宪政危机为背景，系统讨论宪法的本质、制宪权、法治国、基本权利、议会制与联邦制。施米特指出，宪法不只是法律条文，而是人民决定共同体生存形式的政治决断；民主也不能被缩减为程序与多数。议会在政党纷争中可能瘫痪，国家又必须保有行动能力，因此总统紧急权、议会解散和宪法秩序必须被重新理解。围绕这些议题，本书既揭示了民主制度的脆弱性，也提醒人们警惕不受约束的权力，并展示了一部宪法如何在政治决断、权利保障与国家行动之间寻求持久平衡。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</description>
+      <pubDate>Wed, 04 Nov 2026 18:38:57 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261104-episode-20261104-501a52</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《宪法学说（修订译本）》以魏玛宪政危机为背景，系统讨论宪法的本质、制宪权、法治国、基本权利、议会制与联邦制。施米特指出，宪法不只是法律条文，而是人民决定共同体生存形式的政治决断；民主也不能被缩减为程序与多数。议会在政党纷争中可能瘫痪，国家又必须保有行动能力，因此总统紧急权、议会解散和宪法秩序必须被重新理解。围绕这些议题，本书既揭示了民主制度的脆弱性，也提醒人们警惕不受约束的权力，并展示了一部宪法如何在政治决断、权利保障与国家行动之间寻求持久平衡。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</itunes:summary>
+      <itunes:duration>00:24:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261104/episode-20261104-501a52.mp3" length="23522733" type="audio/mpeg"/>
+    </item>
     <item>
       <title>《非赚不可》· 完整精读</title>
       <description>《非赚不可》通过二十位雪球投资者的实战经历，呈现普通投资者建立投资体系的方法：从安全边际出发，识别价格与企业价值之间的扭曲；限定能力圈，研究好生意、成长质量、财务状况和现金流；再以仓位管理、纪律与长期持有约束错误，让一次正确逐步转化为可重复的复利。本书不承诺必胜公式，而是强调先保证生存，再争取收益。
@@ -8098,33 +8125,6 @@
       <itunes:duration>00:23:20</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261022/episode-20261022-865a83.mp3" length="22414893" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>《事实即颠覆：无以名之的十年的政治写作》· 完整精读</title>
-      <description>《事实即颠覆》汇集蒂莫西·加顿艾什二〇〇〇年至二〇〇九年的政治评论。全书以伊拉克战争中的误判为自我检验，考察东欧革命的后续转型、欧洲身份与穆斯林融入、恐怖主义及反恐、美国霸权与全球秩序，并反思事实、叙事、偶然性和个人行动的关系。作者承认自由主义并非价值中立，而是以人的尊严和制度约束为前提，在证据面前持续修正判断。十年之所以无以名之，正因转型、战争、恐袭与权力重组同时挤压着人们的认知。全书最终指向一种成熟的政治能力：既不把立场伪装成事实，也不因理想放弃对现实的追问。
-
----
-💬【今日读书会 · 互动话题】
-读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
-
-🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
-📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
-🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</description>
-      <pubDate>Fri, 23 Oct 2026 00:45:48 +0000</pubDate>
-      <guid isPermaLink="false">reading-list-vv20261022-episode-20261022-5ea534</guid>
-      <itunes:author>好好读书组</itunes:author>
-      <itunes:summary>《事实即颠覆》汇集蒂莫西·加顿艾什二〇〇〇年至二〇〇九年的政治评论。全书以伊拉克战争中的误判为自我检验，考察东欧革命的后续转型、欧洲身份与穆斯林融入、恐怖主义及反恐、美国霸权与全球秩序，并反思事实、叙事、偶然性和个人行动的关系。作者承认自由主义并非价值中立，而是以人的尊严和制度约束为前提，在证据面前持续修正判断。十年之所以无以名之，正因转型、战争、恐袭与权力重组同时挤压着人们的认知。全书最终指向一种成熟的政治能力：既不把立场伪装成事实，也不因理想放弃对现实的追问。
-
----
-💬【今日读书会 · 互动话题】
-读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
-
-🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
-📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
-🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</itunes:summary>
-      <itunes:duration>00:30:02</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261022/episode-20261022-5ea534.mp3" length="28833837" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
