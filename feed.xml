@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Thu, 05 Nov 2026 18:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 18:09:53 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -26,6 +26,33 @@
       <itunes:category text="Philosophy"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/reading-list/cover.jpg"/>
+    <item>
+      <title>《MongoDB实战》· 完整精读</title>
+      <description>《MongoDB实战》由MongoDB早期开发者凯尔·班克著，面向应用开发者与DBA，系统讲解文档数据建模、查询与聚合、索引与查询优化、副本集与故障转移、分片键选择，以及部署监控与性能调优，并附多语言驱动、二进制数据、空间索引等实践附录。全书以真实客户部署经验为底色，指出MongoDB适合互联网应用的高读写与水平扩展，但并非银弹：文档自由需要以索引、复制和分片策略来兑现，而副本集不等于备份、分片键一旦定下便极难更改。读完本书，读者既能动手构建电商式应用，也能理解如何把数据模型、访问路径与集群拓扑匹配起来。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</description>
+      <pubDate>Thu, 05 Nov 2026 18:09:44 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261105-episode-20261105-ec9a1b</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《MongoDB实战》由MongoDB早期开发者凯尔·班克著，面向应用开发者与DBA，系统讲解文档数据建模、查询与聚合、索引与查询优化、副本集与故障转移、分片键选择，以及部署监控与性能调优，并附多语言驱动、二进制数据、空间索引等实践附录。全书以真实客户部署经验为底色，指出MongoDB适合互联网应用的高读写与水平扩展，但并非银弹：文档自由需要以索引、复制和分片策略来兑现，而副本集不等于备份、分片键一旦定下便极难更改。读完本书，读者既能动手构建电商式应用，也能理解如何把数据模型、访问路径与集群拓扑匹配起来。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</itunes:summary>
+      <itunes:duration>00:25:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261105/episode-20261105-ec9a1b.mp3" length="24052653" type="audio/mpeg"/>
+    </item>
     <item>
       <title>《牛津通识读本：国际移民》· 完整精读</title>
       <description>《国际移民》从全球视野考察人口跨境流动的历史、规模与治理困境。作者区分移民、难民、寻求庇护者和非常规移民，反对以恐惧和标签简化问题，并将移民置于全球化、发展与人权的链条中。移民为经济和文化注入活力，也带来歧视、剥削、身份冲突及公共服务压力。科泽认为，国家无法也不应消除人口流动，而应通过来源国、过境国与目的地国的责任分担，拓宽安全合法渠道，打击人口贩运，保障移民权利，并以就业、教育和反歧视政策推动有尊严的融合。
@@ -8098,33 +8125,6 @@
       <itunes:duration>00:26:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261022/episode-20261022-e7f180.mp3" length="25339437" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>《我还是想你，妈妈》· 完整精读</title>
-      <description>《我还是想你，妈妈》通过白俄罗斯及其他地区儿童的口述，记录伟大卫国战争中的离散、饥饿、恐惧、死亡与等待。孩子们失去父母、姓名和童年，却也在陌生人的照料、伙伴的互助与自身的坚韧中继续成长。作品追问的不只是战争如何获胜，更是一个孩子在历史成为废墟之后，如何保存自我、亲情与尊严；炮声停止之后，失去仍可能跟随一生。
-
----
-💬【今日读书会 · 互动话题】
-读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
-
-🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
-📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
-🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</description>
-      <pubDate>Fri, 23 Oct 2026 02:18:18 +0000</pubDate>
-      <guid isPermaLink="false">reading-list-vv20261022-episode-20261022-2da49f</guid>
-      <itunes:author>好好读书组</itunes:author>
-      <itunes:summary>《我还是想你，妈妈》通过白俄罗斯及其他地区儿童的口述，记录伟大卫国战争中的离散、饥饿、恐惧、死亡与等待。孩子们失去父母、姓名和童年，却也在陌生人的照料、伙伴的互助与自身的坚韧中继续成长。作品追问的不只是战争如何获胜，更是一个孩子在历史成为废墟之后，如何保存自我、亲情与尊严；炮声停止之后，失去仍可能跟随一生。
-
----
-💬【今日读书会 · 互动话题】
-读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
-
-🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
-📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
-🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</itunes:summary>
-      <itunes:duration>00:18:55</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261022/episode-20261022-2da49f.mp3" length="18164397" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
