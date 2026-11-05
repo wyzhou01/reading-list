@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Thu, 05 Nov 2026 17:47:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 17:55:28 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -26,6 +26,33 @@
       <itunes:category text="Philosophy"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/reading-list/cover.jpg"/>
+    <item>
+      <title>《面朝大海 春暖花开》· 完整精读</title>
+      <description>《面朝大海，春暖花开》以海子的诗歌与赏析为入口，呈现一个理想主义诗人如何在土地、村庄、麦地、身体、爱情、死亡与黑夜之间寻找精神支点。海子既以故乡赋予生命以根，也以孤独暴露现代人的内在荒凉；既在爱情与自然中确认尊严，也在死亡意识里追问有限生命的价值。全书最终指向一种超越个人悲欢的生命理想：正视黑夜，仍保存希望；扎根土地，也面向辽阔世界；不把理想当作廉价安慰，而把它落实为对日常、劳动与彼此相爱的持续确认。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</description>
+      <pubDate>Thu, 05 Nov 2026 17:55:18 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261105-episode-20261105-296e3e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《面朝大海，春暖花开》以海子的诗歌与赏析为入口，呈现一个理想主义诗人如何在土地、村庄、麦地、身体、爱情、死亡与黑夜之间寻找精神支点。海子既以故乡赋予生命以根，也以孤独暴露现代人的内在荒凉；既在爱情与自然中确认尊严，也在死亡意识里追问有限生命的价值。全书最终指向一种超越个人悲欢的生命理想：正视黑夜，仍保存希望；扎根土地，也面向辽阔世界；不把理想当作廉价安慰，而把它落实为对日常、劳动与彼此相爱的持续确认。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</itunes:summary>
+      <itunes:duration>00:29:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261105/episode-20261105-296e3e.mp3" length="28480941" type="audio/mpeg"/>
+    </item>
     <item>
       <title>《美德伦理学》· 完整精读</title>
       <description>《美德伦理学》主张，道德不应只以规则或结果来衡量，还应考察人的动机、品格、情感与行动理由。赫斯特豪斯以新亚里士多德主义为中心，说明美德不是表面行为倾向，而是使人持续变善的稳定品质；它需要实践智慧，也会在悲剧性选择中要求人承担责任。美德的最终指向不是外在奖赏，而是人的繁荣，即在真实关系、正义生活与自我完善中实现生命的好。凭借人的理性动物身份，美德伦理既为道德客观性保留根据，也把道德教育、共同生活与个人成长重新连接到了一起。
@@ -8098,33 +8125,6 @@
       <itunes:duration>00:25:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261022/episode-20261022-243102.mp3" length="24139053" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>《流年错》· 完整精读</title>
-      <description>《流年错》以八十年代小镇泉塘为背景，讲述顽劣任性的张尘舞与王浩、阿千、小牛、马龙等人共同成长。作品借童年欺负、友情误会、恋爱纠葛与家庭介入，写出少年如何把喜欢误作伤害、把依赖伪装成掌控。宋从限意外离世后，朋友们坠入失去，也被迫学习告别、承担与重新生活。小说最终追问：当错误无法撤销，人能否不再用旧伤定义自己，并在流年已逝之后，仍选择一种不再伤害他人的生活。
-
----
-💬【今日读书会 · 互动话题】
-读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
-
-🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
-📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
-🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</description>
-      <pubDate>Fri, 23 Oct 2026 02:07:02 +0000</pubDate>
-      <guid isPermaLink="false">reading-list-vv20261022-episode-20261022-1d68a8</guid>
-      <itunes:author>好好读书组</itunes:author>
-      <itunes:summary>《流年错》以八十年代小镇泉塘为背景，讲述顽劣任性的张尘舞与王浩、阿千、小牛、马龙等人共同成长。作品借童年欺负、友情误会、恋爱纠葛与家庭介入，写出少年如何把喜欢误作伤害、把依赖伪装成掌控。宋从限意外离世后，朋友们坠入失去，也被迫学习告别、承担与重新生活。小说最终追问：当错误无法撤销，人能否不再用旧伤定义自己，并在流年已逝之后，仍选择一种不再伤害他人的生活。
-
----
-💬【今日读书会 · 互动话题】
-读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
-
-🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
-📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
-🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</itunes:summary>
-      <itunes:duration>00:31:05</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261022/episode-20261022-1d68a8.mp3" length="29854125" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
