@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Sat, 07 Nov 2026 17:31:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 19:07:29 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -26,6 +26,33 @@
       <itunes:category text="Philosophy"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/reading-list/cover.jpg"/>
+    <item>
+      <title>《夜幕降临》· 完整精读</title>
+      <description>天才少年本凭借改写量子力学理论，成为技术所最珍贵的研究核心，并亲手实现近乎无限的能源技术。然而，当实验室成果即将引发世界巨变时，武装人员突然闯入，研究团队惨遭灭门，本也坠入失控的蓝色光域。灾难后，他被迫逃亡，逐渐看清知识、资本与权力如何共同把自己变成争夺对象。与之同行的人，也因恐惧、归属与利益作出不同选择。故事融合末世、求生、科技伦理与少年成长，追问当天才被豢养、成果被接管、秩序彻底崩塌，知识应由谁负责，人又凭什么保有自由与拒绝命令的权利。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</description>
+      <pubDate>Sat, 07 Nov 2026 19:07:20 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261107-episode-20261107-78bd1e</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>天才少年本凭借改写量子力学理论，成为技术所最珍贵的研究核心，并亲手实现近乎无限的能源技术。然而，当实验室成果即将引发世界巨变时，武装人员突然闯入，研究团队惨遭灭门，本也坠入失控的蓝色光域。灾难后，他被迫逃亡，逐渐看清知识、资本与权力如何共同把自己变成争夺对象。与之同行的人，也因恐惧、归属与利益作出不同选择。故事融合末世、求生、科技伦理与少年成长，追问当天才被豢养、成果被接管、秩序彻底崩塌，知识应由谁负责，人又凭什么保有自由与拒绝命令的权利。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</itunes:summary>
+      <itunes:duration>00:22:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261107/episode-20261107-78bd1e.mp3" length="21916077" type="audio/mpeg"/>
+    </item>
     <item>
       <title>《第四扇门》· 完整精读</title>
       <description>舞台魔术师亚瑟·怀特死于近乎封闭的房间，儿子亨利随后卷入一连串自杀、袭击与失踪事件。医生侦探阿兰德·图威斯特因失忆作家罗纳德·鲍尔斯的一部小说追查旧案，却发现书中人物与情节几乎都真实存在。随着档案照片与失忆真相重叠，案件最终突破密室、身份与记忆的层层伪装，显露怀特家族控制与反控制、父子依存与伤害，以及真相、沉默和责任之间无法切断的联系。
@@ -8098,33 +8125,6 @@
       <itunes:duration>00:29:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261022/episode-20261022-52448a.mp3" length="28785837" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>《九黎传说》· 完整精读</title>
-      <description>失忆青年金爵循着爷爷留下的线索进入苗疆，在祭祀纹、九尾紫凤与阿鼻寨秘迹间追查身世，却发现紫蛊并非单纯凶物，爷爷、巫公、黎雪妖与张之凡也都各有隐瞒。随着蚩尤墓、天机城和轮回之门开启，金爵逐渐发现九黎血脉正是各方争夺的钥匙，而失忆更像封存创伤与旧债的保护机制。前世的他曾倒在轮回门前，今生又被推向同一命运。唯有摆脱血统、复仇与强者安排的逻辑，他才能把重复伤害的轮回改写为循环救赎，夺回选择人生的权利。
-
----
-💬【今日读书会 · 互动话题】
-读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
-
-🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
-📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
-🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</description>
-      <pubDate>Fri, 23 Oct 2026 06:24:55 +0000</pubDate>
-      <guid isPermaLink="false">reading-list-vv20261022-episode-20261022-3e129e</guid>
-      <itunes:author>好好读书组</itunes:author>
-      <itunes:summary>失忆青年金爵循着爷爷留下的线索进入苗疆，在祭祀纹、九尾紫凤与阿鼻寨秘迹间追查身世，却发现紫蛊并非单纯凶物，爷爷、巫公、黎雪妖与张之凡也都各有隐瞒。随着蚩尤墓、天机城和轮回之门开启，金爵逐渐发现九黎血脉正是各方争夺的钥匙，而失忆更像封存创伤与旧债的保护机制。前世的他曾倒在轮回门前，今生又被推向同一命运。唯有摆脱血统、复仇与强者安排的逻辑，他才能把重复伤害的轮回改写为循环救赎，夺回选择人生的权利。
-
----
-💬【今日读书会 · 互动话题】
-读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
-
-🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
-📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
-🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</itunes:summary>
-      <itunes:duration>00:24:52</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261022/episode-20261022-3e129e.mp3" length="23884845" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
