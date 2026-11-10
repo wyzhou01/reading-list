@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Tue, 10 Nov 2026 18:13:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 18:23:18 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -26,6 +26,33 @@
       <itunes:category text="Philosophy"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/reading-list/cover.jpg"/>
+    <item>
+      <title>《林语堂自传》· 完整精读</title>
+      <description>《林语堂自传》以故乡山水、家庭温情和闽南乡村生活为底色，呈现林语堂从教会学校走向欧美、从教授和官场转向自由作家的生命旅程。他反思教育制度，讨论中西文明的冲突与融合，追问宗教信仰、幽默写作、晚年生活及个人自由。透过家庭经验、读书思考和不断转身，他逐渐形成独立的人格：以简朴的眼光面对世界，以写作承接矛盾，以幽默恢复生活的尺度，并始终拒绝让任何职位定义自己。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</description>
+      <pubDate>Tue, 10 Nov 2026 18:23:08 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261110-episode-20261110-b18666</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:summary>《林语堂自传》以故乡山水、家庭温情和闽南乡村生活为底色，呈现林语堂从教会学校走向欧美、从教授和官场转向自由作家的生命旅程。他反思教育制度，讨论中西文明的冲突与融合，追问宗教信仰、幽默写作、晚年生活及个人自由。透过家庭经验、读书思考和不断转身，他逐渐形成独立的人格：以简朴的眼光面对世界，以写作承接矛盾，以幽默恢复生活的尺度，并始终拒绝让任何职位定义自己。
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</itunes:summary>
+      <itunes:duration>00:25:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261110/episode-20261110-b18666.mp3" length="24469293" type="audio/mpeg"/>
+    </item>
     <item>
       <title>《苹果首席设计师：乔纳森传》· 完整精读</title>
       <description>《苹果首席设计师：乔纳森传》通过两百多位苹果员工与离职者的讲述，呈现乔纳森·艾夫从英国工业设计教育走向苹果首席设计师的历程。书中拆解iMac、iPod、iPhone与iPad背后的理念、原型、材料和制造，也呈现他与乔布斯及跨学科团队的合作方式。全书的核心并非个人天才神话，而是苹果如何以用户体验为尺度，把设计贯穿产品全流程，并在高度保密与创始人控制中形成独特而持续的组织方法。
@@ -8098,33 +8125,6 @@
       <itunes:duration>00:27:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261023/episode-20261023-0889f3.mp3" length="26419629" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>《痴人说梦记》· 完整精读</title>
-      <description>《痴人说梦记》以贾守拙等乡民的经历为线索，借梦境、海外冒险和仙人岛乌托邦，讽刺晚清官场腐败、捐税盘剥与党祸，追问教育、实业、男女平权、国家主权和制度改革。小说借乡民视角呈现传统士人与普通百姓在时代转型中的命运，揭示旧制度如何把人逼入梦境，也展示现代国家可能提供的公共生活。作品最终不把希望寄托于仙岛奇观，而追问铁路、机器、学校与新制度究竟属于谁、由谁管理、让谁受益，以及普通人能否从被支配者成为真正的社会主体。
-
----
-💬【今日读书会 · 互动话题】
-读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
-
-🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
-📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
-🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</description>
-      <pubDate>Fri, 23 Oct 2026 11:24:09 +0000</pubDate>
-      <guid isPermaLink="false">reading-list-vv20261023-episode-20261023-349fb6</guid>
-      <itunes:author>好好读书组</itunes:author>
-      <itunes:summary>《痴人说梦记》以贾守拙等乡民的经历为线索，借梦境、海外冒险和仙人岛乌托邦，讽刺晚清官场腐败、捐税盘剥与党祸，追问教育、实业、男女平权、国家主权和制度改革。小说借乡民视角呈现传统士人与普通百姓在时代转型中的命运，揭示旧制度如何把人逼入梦境，也展示现代国家可能提供的公共生活。作品最终不把希望寄托于仙岛奇观，而追问铁路、机器、学校与新制度究竟属于谁、由谁管理、让谁受益，以及普通人能否从被支配者成为真正的社会主体。
-
----
-💬【今日读书会 · 互动话题】
-读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
-
-🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
-📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
-🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</itunes:summary>
-      <itunes:duration>00:25:26</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261023/episode-20261023-349fb6.mp3" length="24425517" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
