@@ -36,16 +36,16 @@ def add_episode(args):
     print(f"📤 上传音频: {mp3.name} ({mp3.stat().st_size/1024:.1f} KB)")
     via = getattr(args, "via_release", False)
 
+    # 2026-10-02 fix (Phase 2): user/repo 用 _rl_publish_core 模块常量 (来自 git remote)
+    # 不读 GITHUB_PODCAST_USER/REPO env — 那两个变量与 _resolve_repo_from_git_remote 冲突时,env 会被忽略
+    user = core.OWNER
+    repo_name = core.REPO_NAME
     if via:
         kind, tag, fname, size_bytes, asset_url = upload_mp3(mp3, args.title, via_release=True)
-        user = os.environ["GITHUB_PODCAST_USER"]
-        repo_name = os.environ["GITHUB_PODCAST_REPO"]
         audio_url = f"https://github.com/{user}/{repo_name}/releases/download/{tag}/{fname}"
         slug = f"v{tag}-{fname.replace('.mp3','')}"
     else:
         kind, remote_path, fname, size_bytes, asset_url = upload_mp3(mp3, args.title, via_release=False)
-        user = os.environ["GITHUB_PODCAST_USER"]
-        repo_name = os.environ["GITHUB_PODCAST_REPO"]
         audio_url = f"https://{user}.github.io/{repo_name}/episodes/{fname}"
         slug = fname.replace(".mp3", "")
 
@@ -74,7 +74,14 @@ def add_episode(args):
         return name
     book_key = _book_key(args.title)
     book_complete_suffix = "· 完整版 ·"
-    is_republish = book_complete_suffix in args.title  # 完整版重跑是“修复”，不是新书
+    # 2026-10-22 fix: 一书一集版的标题是 "《书名》· 完整精读", 不是 "· 完整版 ·".
+    # 原来的 is_republish 只认 "· 完整版 ·" → 一书一集重跑永远走 append 分支 →
+    # feed 里出现同一本书的两条 entry (实测已有 70 个重复标题).
+    # 现在: 一书一集重跑也走"替换"分支, 且只替换**同格式**的旧 entry
+    # (避免把 7 集版的 "· 完整版 ·" entry 换成 1 集版的).
+    single_book_suffix = "· 完整精读"
+    is_single_book = args.title.rstrip().endswith(single_book_suffix)
+    is_republish = (book_complete_suffix in args.title) or is_single_book
 
     ep = {
         "title": args.title,
@@ -93,26 +100,48 @@ def add_episode(args):
     # 2026-06-11: 重跑同一本书时 sha6 变 → guid 变 → 上面检查不跳
     # 补充检查: 同 book_key 且是完整版重跑 → 替换旧 entry
     if is_republish and book_key:
+        replaced = False
         for i, e in enumerate(existing):
-            if _book_key(e.get('title','')) == book_key and book_complete_suffix in e.get('title',''):
-                old_pub = e.get('pub_date_rfc822','')
-                print(f'   ↻ 重跑替换: {e["title"][:50]}... (旧 sha={e["audio_url"].split("-")[-1].replace(".mp3","")}, 新 sha={fname.split("-")[-1].replace(".mp3","")})')
-                existing[i] = ep
-                break
-        else:
-            existing.append(ep)
+            e_title = e.get('title', '')
+            if _book_key(e_title) != book_key:
+                continue
+            # 只替换同格式的旧 entry:
+            #   一书一集 ("· 完整精读")  ↔ 一书一集 ("· 完整精读")
+            #   7 集版   ("· 完整版 ·")  ↔ 7 集版   ("· 完整版 ·")
+            if is_single_book:
+                same_format = e_title.rstrip().endswith(single_book_suffix)
+            else:
+                same_format = book_complete_suffix in e_title
+            if not same_format:
+                continue
+            old_pub = e.get('pub_date_rfc822','')
+            print(f'   ↻ 重跑替换: {e_title[:50]}... (旧 sha={e["audio_url"].split("-")[-1].replace(".mp3","")}, 新 sha={fname.split("-")[-1].replace(".mp3","")})')
+            existing[i] = ep
+            replaced = True
+            break
+        if not replaced:
+            existing.insert(0, ep)
     else:
-        existing.append(ep)
+        existing.insert(0, ep)
+
+    # 2026-11-12 (第二十九单): 彻底废除 300 期截断与溢出归档，单 feed 瘦身全量滚动模式（>4569 期，<10MB）
+    print(f"   ✓ 单 feed 瘦身全量模式：全量滚动入库，当前累计 {len(existing)} 期")
 
     print(f"📝 更新 feed.xml ({len(existing)} 期)")
     new_xml = build_rss_xml(existing)
+    # 同步写本地 feed.xml (如果存在)
+    local_feed = core.LOCAL_FEED_PATH
+    if local_feed.exists():
+        local_feed.write_text(new_xml, encoding="utf-8")
     old_sha = get_file_sha("feed.xml")
     gh_put_file("feed.xml", new_xml.encode("utf-8"),
                 f"feed: {ep['title']}" + (" (update)" if old_sha else " (new)"),
                 sha=old_sha)
     print(f"   ✓ feed.xml 已 push")
     print(f"   ✓ 音频: {audio_url}")
-    print(f"   ✓ RSS:  https://{os.environ['GITHUB_PODCAST_USER']}.github.io/{os.environ['GITHUB_PODCAST_REPO']}/feed.xml")
+    gh_u = os.environ.get('GITHUB_PODCAST_USER', 'wyzhou01')
+    gh_r = os.environ.get('GITHUB_PODCAST_REPO', 'reading-list')
+    print(f"   ✓ RSS:  https://{gh_u}.github.io/{gh_r}/feed.xml")
 
 
 def add_episode_simple(mp3_path, title, description, duration_sec, pub_date,
