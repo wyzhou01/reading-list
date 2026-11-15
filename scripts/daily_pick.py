@@ -472,7 +472,8 @@ SENSITIVE_TEXT_PATTERNS = [
     # 性侵/严重越界违规
     "性侵", "强奸", "性骚扰", "诱奸",
     # 极高敏古代禁毁文学 (保留金瓶梅，解封红楼梦等常规名著)
-    "金瓶梅",]
+    "金瓶梅",
+]
 
 
 def is_sensitive_book(book_safe: str, text_snippet: str = "") -> tuple[bool, str]:
