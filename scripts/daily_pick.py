@@ -512,6 +512,9 @@ def scan_books(include_l2=True) -> list:
         if v.get("l3"):
             seen_l3.add(v["l3"])
 
+    # 预加载 processed_books.json 归一化集合 (支持 core 核心书名去重)
+    proc_keys = load_processed_keys()
+
     candidates = []
     files = sorted(BOOKS.iterdir(), key=lambda p: p.stat().st_mtime)  # mtime 升序 = 先入先排
     for f in files:
@@ -597,21 +600,18 @@ def scan_books(include_l2=True) -> list:
                 print(f"  ⏭️  {f.name}: L3 sha 命中, 跳过")
                 continue
 
-            # 检查 processed_books.json (历史记录)
-            proc_file = REPO / "processed_books.json"
-            if proc_file.exists():
-                try:
-                    d = json.loads(proc_file.read_text(encoding="utf-8"))
-                    for k in d.get("books", {}).keys():
-                        if book_key(k) == bs:
-                            print(f"  ⏭️  {f.name}: 已在 processed_books.json, 跳过")
-                            break
-                    else:
-                        candidates.append({"path": f, "book_safe": bs, "l2": l2, "l3": l3})
-                except Exception:
-                    candidates.append({"path": f, "book_safe": bs, "l2": l2, "l3": l3})
-            else:
-                candidates.append({"path": f, "book_safe": bs, "l2": l2, "l3": l3})
+            # 检查 processed_books.json (历史记录，支持 core 核心书名多格式判重)
+            cand_check_keys = {
+                bs,
+                book_key(f.stem),
+                normalize_title_core(f.stem),
+                normalize_title_core(bs)
+            }
+            cand_check_keys.discard("")
+            if cand_check_keys & proc_keys:
+                print(f"  ⏭️  {f.name}: 已在 processed_books.json, 跳过")
+                continue
+            candidates.append({"path": f, "book_safe": bs, "l2": l2, "l3": l3})
         else:
             candidates.append({"path": f, "book_safe": bs, "l2": "", "l3": "", "is_remake": True})
 
@@ -957,7 +957,14 @@ def main():
                     matched_cand = match_prio_candidate(p_item, pool)
                     if matched_cand is None:
                         continue
-                    if (book_key(matched_cand["book_safe"]) in proc_keys
+                    cand_check_keys = {
+                        book_key(matched_cand["book_safe"]),
+                        normalize_title_core(matched_cand["book_safe"]),
+                        normalize_title_core(matched_cand["path"].stem),
+                        normalize_title_core(p_item.get("title", ""))
+                    }
+                    cand_check_keys.discard("")
+                    if (cand_check_keys & proc_keys
                             and not matched_cand.get("is_remake")):
                         continue
                     if matched_cand not in prio_picked:
