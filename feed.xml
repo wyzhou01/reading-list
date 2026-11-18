@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Wed, 18 Nov 2026 21:22:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 21:23:39 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -26,6 +26,33 @@
       <itunes:category text="Philosophy"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/reading-list/cover.jpg"/>
+    <item>
+      <title>《思维方式》· 完整精读</title>
+      <description>🎬 想要3小时无间断主题合集和字幕版？请在 YouTube 搜索「好好读书 合集」订阅收听！
+
+《思维方式》以九篇讲演展现一种开放而生成性的思想方法。怀特海从日常经验中的重要性、概念与表达出发，反对把思想理解为封闭体系，指出任何事实都处于与整体世界相联系的视域之中。存在不是静止实体，而是材料、形式与结果不断转化的过程；自然与生命也不能被截然分割，生命把物理活动提升为具有方向、价值和创造能力的整体。抽象能够扩展意识，也可能割裂经验，理性化则促使分离的概念重新建立联系。哲学以承认无知为前提，审查字典、常识与科学中的隐含前提，扩展概念的意义范围，使知识继续面对现实与未来。全书最终把大学和文明理解为创造未来的场所：保存成果，却不把成果变成边界；解释世界，却始终为新的发现保留空间。
+
+⏱️ 本期核心章节时间戳：
+00:00 导读与开场冲突：《思维方式》
+01:17 核心洞察上篇：从日常经验中收集哲学概念，并保持思想的开放性
+07:25 核心洞察下篇：意识、表达、理解与思维过程的生成结构
+20:22 现实映射：自然、生命、文明与宇宙中的创造性和过程性
+23:19 全书终章：《思维方式》认知升华与精神回响
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</description>
+      <pubDate>Wed, 18 Nov 2026 21:23:34 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261118-episode-20261118-f1ed02</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:duration>00:24:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261118/episode-20261118-f1ed02.mp3" length="35568788" type="audio/mpeg"/>
+    </item>
     <item>
       <title>《吃的美德》· 完整精读</title>
       <description>🎬 想要3小时无间断主题合集和字幕版？请在 YouTube 搜索「好好读书 合集」订阅收听！
