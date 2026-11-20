@@ -7,7 +7,7 @@
     <language>zh-cn</language>
     <copyright>© 2026 好好读书</copyright>
     <description>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</description>
-    <lastBuildDate>Fri, 20 Nov 2026 21:21:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 21:28:55 +0000</lastBuildDate>
     <generator>tm-podcast-publisher/1.0</generator>
     <itunes:author>好好读书组</itunes:author>
     <itunes:summary>好好读书 | 陪伴你的深度认知与精神栖息地。一本一集 · 深度精读 · 30分钟吃透经典。在信息碎片化的时代，我们坚持做深度、系统、有洞察的好书拆解。客观提炼底层逻辑，延伸现实思考，帮你建立高维认知框架，告别盲目内耗。精选认知觉醒、商业思维、历史风云与世界经典。戴上耳机，陪你一年深度读透数百本好书。更多动态图解视频版，欢迎在 YouTube 搜索关注【好好读书】。</itunes:summary>
@@ -26,6 +26,33 @@
       <itunes:category text="Philosophy"/>
     </itunes:category>
     <itunes:image href="https://wyzhou01.github.io/reading-list/cover.jpg"/>
+    <item>
+      <title>《上帝的手术刀：基因编辑简史》· 完整精读</title>
+      <description>🎬 想要3小时无间断主题合集和字幕版？请在 YouTube 搜索「好好读书 合集」订阅收听！
+
+《上帝的手术刀》回顾遗传学与分子生物学如何从孟德尔、DNA双螺旋一路走向基因治疗与CRISPR基因编辑。书中不仅解释科学家如何发现并改造可编程切割工具，也追溯噬菌体免疫、专利争夺、临床递送、个体化治疗和胚胎伦理背后的真实难题。核心追问是：当人类能够精准改写生命蓝图，谁来决定应当修改什么、哪些风险可以接受，以及科学进步应由谁承担后果。本书最终把技术突破与治理边界放在一起，指出真正的进步不仅是剪得更准，也包括让不可逆的选择经得起公开审查与长期追踪。
+
+⏱️ 本期核心章节时间戳：
+00:00 导读与开场冲突：《上帝的手术刀》
+01:12 核心洞察上篇：遗传学与分子生物学的发展历程
+08:56 核心洞察下篇：基因编辑工具的演进与应用
+19:49 现实映射：科学突破中的挫折、风险与责任
+23:22 全书终章：《上帝的手术刀》认知升华与精神回响
+
+---
+💬【今日读书会 · 互动话题】
+读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。
+
+🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！
+📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu
+🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ</description>
+      <pubDate>Fri, 20 Nov 2026 21:28:50 +0000</pubDate>
+      <guid isPermaLink="false">reading-list-vv20261120-episode-20261120-cb26e7</guid>
+      <itunes:author>好好读书组</itunes:author>
+      <itunes:duration>00:24:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://github.com/wyzhou01/reading-list/releases/download/v20261120/episode-20261120-cb26e7.mp3" length="35437758" type="audio/mpeg"/>
+    </item>
     <item>
       <title>《你凭什么做好互联网》· 完整精读</title>
       <description>🎬 想要3小时无间断主题合集和字幕版？请在 YouTube 搜索「好好读书 合集」订阅收听！
