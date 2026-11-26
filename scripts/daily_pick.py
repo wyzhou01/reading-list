@@ -13,8 +13,8 @@ daily_pick.py — 每日 00:15 自动选 N 本未处理书 + 跑通 publish
   - processed_books.json     — 已有, 记录已成功
   - .seen_books.json         — 新增, 记录所有看过 (L2/L3 标识 + 失败次数 + 跳过原因)
 
-调度: cron ebook-daily-pick 00:15 Asia/Shanghai
-  --count N: 一次跑 N 本 (默认 1, B 方案 2)
+调度: cron ebook-daily-pick 05:00 & 10:00 Asia/Shanghai (贴合 MiniMax 5小时重置窗口排班)
+  --count N: 一次跑 N 本 (默认 1, B 方案 2, 精编方案 3)
 """
 import argparse
 import contextlib
@@ -405,10 +405,13 @@ def claimed_by_others() -> set:
     return {bs for bs, v in claims.items() if int(v.get("pid", -1)) != os.getpid()}
 
 
-def record_seen(book_safe: str, l2: str, l3: str, result: str, reason: str = ""):
+def record_seen(book_safe: str, l2: str, l3: str, result: str, reason: str = "",
+                fail_category: str = "", permanent: bool = False):
     """result: success / failed / skipped
 
     2026-10-22 fix: 整个 read-modify-write 放进跨进程锁, 防丢更新.
+    2026-11-26 fix: 支持 fail_category / permanent — 1026 硬内容拒直接永久失败,
+    不再占"明日重试"额度 (failed_count 抬到 2, 与既有永久跳过语义一致).
     """
     with _file_lock(SEEN_LOCK):
         seen = load_seen()
@@ -440,6 +443,12 @@ def record_seen(book_safe: str, l2: str, l3: str, result: str, reason: str = "")
                 entry["result"] = "failed"
                 entry["failed_count"] = entry.get("failed_count", 0) + 1
                 entry["reason"] = reason
+        if fail_category:
+            seen["books"][key]["fail_category"] = fail_category
+        if permanent:
+            entry = seen["books"][key]
+            entry["permanent"] = True
+            entry["failed_count"] = max(2, entry.get("failed_count", 1))
         save_seen(seen)
 
 
@@ -490,6 +499,35 @@ def is_sensitive_book(book_safe: str, text_snippet: str = "") -> tuple[bool, str
     return False, ""
 
 
+# 2026-11-26: MiniMax 硬内容拒 (1026 new_sensitive) 标记.
+# 2026-06-19 CHANGELOG 记过 "sensitive fast-fail" (PERMANENT_FAIL_KEYWORDS), 后被重构丢失.
+# 日志里 "内容审核拒 (sensitive x3), 确认真拒" = M3.1/M3/M2.7 三级全拒 (硬拒), 重试无意义.
+# 实测 5091 本 success 书日志含该串的 = 0 本, 45 本含该串的书无一后来成功 → 零假阳性.
+# 注意: 不能用 "status_code=1026" —— image-01 封面生成也报这个码, 但它是可恢复的
+# (attempt 1/3 失败 → 5s 后重试 → 成功, 书照常发布). 实测 9 本书因此被误判.
+# 只认 LLM 正文生成的硬拒标记.
+PERMANENT_FAIL_MARKERS = (
+    "内容审核拒",            # generate.py: M3.1/M3/M2.7 三级全拒后打印
+    "new_sensitive (1026)",  # LLM 接口返回体
+)
+
+
+def log_has_permanent_fail(log_path) -> bool:
+    """日志里有没有硬拒标记 (1026 内容审核拒) → 该书永久失败, 不值得重试."""
+    try:
+        txt = Path(log_path).read_text(encoding="utf-8", errors="ignore")
+    except Exception:
+        return False
+    return any(m in txt for m in PERMANENT_FAIL_MARKERS)
+
+
+def _is_retryable_entry(entry: dict) -> bool:
+    """failed 且 fc<2 且未 permanent → 属"明日重试"池, 不该被 dedup 永久挡住."""
+    return (entry.get("result") == "failed"
+            and entry.get("failed_count", 0) < 2
+            and not entry.get("permanent"))
+
+
 # ==================== .seen_books.json 读写 ====================
 def scan_books(include_l2=True) -> list:
     """返回未处理候选 list[{path, book_safe, l2, l3}]
@@ -502,11 +540,27 @@ def scan_books(include_l2=True) -> list:
     seen = load_seen()
 
     # 收集已处理的 L1/L2/L3 集合
+    # 2026-11-26 fix: failed 且 fc<2 且未 permanent 的书 = "明日重试" 池.
+    # 以前它们和 success 书一起进阻塞集合 → L1/L2/L3 全挡死, 永远选不回来,
+    # TG 报告承诺的 "明日重试 (1/2)" 从来没兑现过 (337 本全是空头支票).
+    # 现在分层: 硬阻塞集合 (seen_*) 只放真正不用再跑的;
+    # 重试池 (retry_*) 用软阻塞 —— 同内容只放 1 本进候选池, 防重复排产.
     seen_l1 = set()
     seen_l2 = set()
     seen_l3 = set()
+    retry_l1 = set()
+    retry_l2 = set()
+    retry_l3 = set()
     for k, v in seen["books"].items():
-        seen_l1.add(book_key(k))
+        bk = book_key(k)
+        if _is_retryable_entry(v):
+            retry_l1.add(bk)
+            if v.get("l2"):
+                retry_l2.add(v["l2"])
+            if v.get("l3"):
+                retry_l3.add(v["l3"])
+            continue
+        seen_l1.add(bk)
         if v.get("l2"):
             seen_l2.add(v["l2"])
         if v.get("l3"):
@@ -563,12 +617,17 @@ def scan_books(include_l2=True) -> list:
             # L1 命中
             if bs in seen_l1:
                 continue
+            # 重试池命中 → 这本就是要重试的书, 放行 (但标记出来, 供 L2/L3 软阻塞用)
+            is_retry_book = bs in retry_l1
 
             # L2 标识 (可跳过)
             if include_l2:
                 l2 = l2_signature(f)
-                # L2 提取后再做一次内容敏感词 precheck (要 pass 后)
-                is_sens2, sens_reason2 = is_sensitive_book(bs, l2)
+                # 2026-11-26 fix: 内容 precheck 必须喂"正文", 不是 l2 哈希串.
+                # 以前写的是 is_sensitive_book(bs, l2) → 拿 "TXT:xxx" 去匹配敏感词,
+                # 永远匹配不上 → L2 内容 precheck 从上线起就没生效过,
+                # 敏感书 (如《中日之间》含"原子弹") 全靠 API 1026 才兜住, 白烧一次 quota.
+                is_sens2, sens_reason2 = is_sensitive_book(bs, _extract_text_quick(f))
                 if is_sens2:
                     existing = seen["books"].get(bs)
                     if not (existing and existing.get("permanent") and existing.get("fail_category") == "sensitive"):
@@ -591,6 +650,10 @@ def scan_books(include_l2=True) -> list:
                 if l2 in seen_l2:
                     print(f"  ⏭️  {f.name}: L2 命中 ({l2}), 内容已处理过, 跳过")
                     continue
+                # 重试池软阻塞: 同内容已有另一本在重试池, 本轮不重复排产
+                if not is_retry_book and l2 in retry_l2:
+                    print(f"  ⏭️  {f.name}: L2 命中重试池 ({l2}), 同内容已排产, 跳过")
+                    continue
             else:
                 l2 = ""  # 不计算
 
@@ -598,6 +661,9 @@ def scan_books(include_l2=True) -> list:
             l3 = l3_sha256(f)
             if l3 and l3 in seen_l3:
                 print(f"  ⏭️  {f.name}: L3 sha 命中, 跳过")
+                continue
+            if l3 and not is_retry_book and l3 in retry_l3:
+                print(f"  ⏭️  {f.name}: L3 sha 命中重试池, 同内容已排产, 跳过")
                 continue
 
             # 检查 processed_books.json (历史记录，支持 core 核心书名多格式判重)
@@ -779,6 +845,10 @@ def run_one(book: dict) -> tuple[bool, str]:
                 return True, ""
             else:
                 reason = f"exit={r.returncode}, log={log_file}"
+                # 2026-11-26: 1026 硬内容拒 (M3.1/M3/M2.7 三级全拒) → attempt 2 是浪费.
+                if log_has_permanent_fail(log_file):
+                    print(f"  ⛔  attempt {attempt} 硬内容拒 (1026), 跳过 attempt 2, 直接永久失败")
+                    return False, f"permanent_fail: MiniMax 内容审核拒 (1026 new_sensitive), log={log_file}"
                 print(f"  ❌  attempt {attempt} failed: {reason}")
         except subprocess.TimeoutExpired:
             reason = f"timeout 90min, log={log_file}"
@@ -1018,8 +1088,12 @@ def main():
         success, reason = run_one(book)
         # 2026-11-15: SKIP_DONE = pipeline 空跑 (已处理过), 不算成功也不算失败.
         is_skip = reason.startswith("SKIP_DONE")
+        # 2026-11-26: 1026 硬拒 → 永久失败, 不再走"明日重试"
+        is_permanent = reason.startswith("permanent_fail:")
         record_seen(book["book_safe"], book["l2"], book["l3"],
-                    "success" if success else ("skipped" if is_skip else "failed"), reason)
+                    "success" if success else ("skipped" if is_skip else "failed"), reason,
+                    fail_category="sensitive" if is_permanent else "",
+                    permanent=is_permanent)
         results.append((book, success, reason))
         # 2026-07-04 Fix 3: 每本 publish 完后, sleep 5 + Pages deploy wait.
         # 避免连续 commit 触发 Pages deploy race condition.
