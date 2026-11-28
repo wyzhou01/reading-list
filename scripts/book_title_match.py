@@ -110,6 +110,42 @@ def _vol_token(t):
     return None
 
 
+# 2026-11-27 第四十九单: "短书名" 劫持 "长书名" 的子串误判.
+# 实测事故: 《好好说话》(学诚法师) 命中 archive 目录
+# 《好好说话：新鲜有趣的话术精进技巧》(奇葩说团队) → 复用别人的 mp3 + meta,
+# 把"学诚法师版"的音频挂在"奇葩说版"的摘要/pubDate 下发布 (元数据串台).
+#
+# 为什么不能用"前缀相同就算同一本": 很多正当的写法就是
+# 《深度思考》→《深度思考：不断逼近问题的本质》(同一本, meta 里存了简称).
+# 所以只有当**短名 = 长名的严格前缀 + 冒号 + 实质副标题**时, 才判定为不同书.
+#
+# 注意方向性 (ours=短, theirs=长):
+#   短 → 长  = 不同书 (要拦: 《好好说话》vs《好好说话：新鲜有趣的话术精进技巧》)
+#   长 → 短  = 同一本 (放行: 《深度思考：不断逼近问题的本质》vs《深度思考》)
+# 只在"ours 是 theirs 的严格前缀"时拦, 反向不动, 避免误伤正当的简称写法.
+_SUBTITLE_SEP = ("\uff1a", ":", "\u00b7")
+
+
+def is_short_title_hijack(ours, theirs) -> bool:
+    """ours 是 theirs 的"短版书名" (短名 + 冒号 + 实质副标题) → 是不同书.
+
+    《好好说话》 vs 《好好说话：新鲜有趣的话术精进技巧》 → True (不同书)
+    《深度思考》 vs 《深度思考：不断逼近问题的本质》     → True (不同书, 见上方说明)
+    《深度思考：不断逼近问题的本质》 vs 《深度思考》     → False (方向相反, 同一本)
+    """
+    o = (ours or "").strip()
+    t = (theirs or "").strip()
+    if not o or not t or len(t) <= len(o) or not t.startswith(o):
+        return False
+    rem = t[len(o):].lstrip()
+    if not rem:
+        return False
+    if rem[0] not in _SUBTITLE_SEP:
+        return False
+    # 冒号后面必须有实质内容 (>= 3 字), 否则是标点噪声
+    return len(rem[1:].strip()) >= 3
+
+
 def titles_compatible(ours, theirs):
     """判断两个书名是否指同一本书.
 
