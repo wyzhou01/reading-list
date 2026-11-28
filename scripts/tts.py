@@ -73,8 +73,12 @@ def _is_unsafe_for_tts(text):
     2026-06-11 审计发现: 1-2 字符的标点段 (如 "——", ">", "。", "  ")
     触发 NoAudioReceived / 0 bytes,导致 2s 静音 fallback。
     修复: 把这类段合并到上一段(无上一段则合并到下一段),并保留原停顿。
+    2026-11-18 修复: 豁免方括号包围的控制指令标记 (如 [SUBSCRIBE_BRIDGE_8S]),
+    防止控制标记被误当成纯标点合并到上一段, 导致 TTS 朗读代码占位符且桥段音频挂载失效。
     """
     stripped = text.strip()
+    if stripped.startswith("[") and stripped.endswith("]"):
+        return False
     if len(stripped) < 3:
         return True
     # 全是标点/空白
@@ -83,11 +87,11 @@ def _is_unsafe_for_tts(text):
     return False
 
 
-def split_into_segments(text, max_chars=150):
+def split_into_segments(text, max_chars=220):
     """把整集文本切成 segments (按段 + 句号, 每段 <= max_chars)
 
     优化 (v3 几乎连续):
-    - max_chars 80 -> 150, 减少"碎段感"
+    - max_chars 80 -> 150 (06-11), 150 -> 220 (08-29, 减少 TTS 段数 30%+ 不影响质量)
     - 段首/段末/句间停顿智能分级 (阿迈耳朵选 D 后)
     - 长段先按"\\n\\n"切, 再按"。！？；"切, 再按"，"切
     - 2026-06-11: 合并 edge-tts 拒收的短/纯标点段到上一段
@@ -178,7 +182,7 @@ def run(script_txt, output_path, voice="zh-CN-XiaoxiaoNeural",
     # 预处理
     text = re.sub(r"(\d{4})年", lambda m: "".join("零一二三四五六七八九"[int(d)] for d in m.group(1)) + "年", text)
     text = re.sub(r"(\d{1,3})%", lambda m: "百分之" + "".join("零一二三四五六七八九"[int(d)] for d in m.group(1)) if int(m.group(1)) < 1000 else m.group(0), text)
-    segments = split_into_segments(text, max_chars=150)
+    segments = split_into_segments(text, max_chars=220)
     n = len(segments)
     print(f"🎤 TTS 合成 (v3 几乎连续): {script_txt}")
     print(f"   文本: {len(text)} 字, 切 {n} 段, 音色: {voice}, 语速: {rate}, 音调: {pitch}")
@@ -271,7 +275,7 @@ def main():
     text = re.sub(r"(\d{1,3})%", lambda m: "百分之" + "".join("零一二三四五六七八九"[int(d)] for d in m.group(1)) if int(m.group(1)) < 1000 else m.group(0), text)
 
     # 切 segments
-    segments = split_into_segments(text, max_chars=150)
+    segments = split_into_segments(text, max_chars=220)
     n = len(segments)
     print(f"🎤 TTS 合成 (v3 几乎连续): {args.script_txt}")
     print(f"   文本: {len(text)} 字, 切 {n} 段")

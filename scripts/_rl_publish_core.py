@@ -497,21 +497,28 @@ def build_rss_xml(episodes):
         ]
         # 描述去重与互动/跨平台闭环（彻底防止重复追加并激活小宇宙评论）
         raw_desc = ep.get("description", "")
-        # 鲁棒剥离旧 footer 或任何互动引导块（防止重复循环堆叠）
-        clean_desc = re.split(r'\n*---\s*\n*(?:💬【今日读书会|🎧 欢迎订阅|📺 观看动态图解)', raw_desc)[0].strip()
 
-        FOOTER = (
-            '---\n'
-            '💬【今日读书会 · 互动话题】\n'
-            '读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。\n\n'
-            '🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！\n'
-            '📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu\n'
-            '🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ'
-        )
-        if teaser and f"👉 {teaser}" not in clean_desc:
-            clean_desc = f'{clean_desc}\n\n👉 {teaser}'
-        desc_with_teaser = f'{clean_desc}\n\n{FOOTER}'
-        ep_lines.append(f'      <description>{_x(desc_with_teaser)}</description>')
+        # 2026-11-14 第四十二单: 存量历史已发布集子一集都不许动，保持现有原文字符，GUID 和 enclosure 绝对不变
+        if ep.get("is_existing"):
+            ep_lines.append(f'      <description>{_x(raw_desc)}</description>')
+        else:
+            # 2026-11-14 第四十二单: 新集生效 — shownotes 第一行置顶导流文案
+            HEAD_BANNER = "🎬 想要3小时无间断主题合集和字幕版？请在 YouTube 搜索「好好读书 合集」订阅收听！\n\n"
+            clean_desc = re.split(r'\n*---\s*\n*(?:💬【今日读书会|🎧 欢迎订阅|📺 观看动态图解)', raw_desc)[0].strip()
+            clean_desc = f"{HEAD_BANNER}{clean_desc}"
+
+            FOOTER = (
+                '---\n'
+                '💬【今日读书会 · 互动话题】\n'
+                '读完本书，哪一句话最击中你的内心？你在现实中是否也有类似共鸣？欢迎在评论区留下你的思考与摘抄。\n\n'
+                '🎧 欢迎订阅【好好读书】，每天 30 分钟吃透一本好书！\n'
+                '📺 观看动态图解视频版与3小时沉浸大合集，欢迎点击访问 YouTube 官方频道：https://www.youtube.com/@haohaodushu\n'
+                '🎬 3小时无广告深度精读连播合辑：https://youtu.be/mvoaL9W59XQ'
+            )
+            if teaser and f"👉 {teaser}" not in clean_desc:
+                clean_desc = f'{clean_desc}\n\n👉 {teaser}'
+            desc_with_teaser = f'{clean_desc}\n\n{FOOTER}'
+            ep_lines.append(f'      <description>{_x(desc_with_teaser)}</description>')
         ep_lines.extend([
             f'      <pubDate>{ep["pub_date_rfc822"]}</pubDate>',
             f'      <guid isPermaLink="false">{_x(ep["guid"])}</guid>',
@@ -565,6 +572,7 @@ def list_existing_episodes():
             "duration_str": dur_el.text if dur_el is not None else "00:00:00",
             "size_bytes": int(enc_el.get("length", "0")),
             "audio_url": enc_el.get("url", ""),
+            "is_existing": True,
         })
     return existing, existing_guids
 

@@ -42,25 +42,305 @@ from urllib import request, error
 REPO_ROOT = Path(__file__).resolve().parent.parent
 load_env = None  # 2026-06-08: 兼容旧代码, 但实际不用
 
+# 进程级多厂商熔断状态表: {provider_name: cooldown_until_timestamp}
+_CIRCUIT_BREAKER = {}
+ALERT_402_FILE = REPO_ROOT / "state" / "minimax_402_alert.json"
 
-def call_minimax(prompt, model="MiniMax-M3", max_tokens=8000, timeout=600, thinking_disabled=True, retries=5):
-    """调用 M3，带 retry（针对 429/500/502/503/504 + 指数退避）
+def trigger_402_watchdog(provider: str, reason: str):
+    """记录 402 计费熔断状态至文件，供 daily_pick 等调度器联动控速与告警"""
+    try:
+        ALERT_402_FILE.parent.mkdir(parents=True, exist_ok=True)
+        data = {
+            "provider": provider,
+            "reason": reason,
+            "status": "triggered",
+            "timestamp": time.time(),
+            "time_str": datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M:%S BJT"),
+            "cooldown_until": time.time() + 6 * 3600,
+        }
+        ALERT_402_FILE.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+        print(f"🔒 402 看门狗警报已持久化写入: {ALERT_402_FILE}", file=sys.stderr)
+    except Exception as e:
+        print(f"⚠️ 记录 402 看门狗状态失败: {e}", file=sys.stderr)
 
-    注意：M3 服务端有概率性 500（与 prompt 长度无关），需要多次重试
-    2026-06-09: M3 的 sensitive 是非确定性 (今天观察到 16140 字符的 prompt
-      5 次调用有 2 次过 3 次拒, 同样 prompt 不变). 所以 sensitive 也要 retry,
-      不再短路 raise. 3 次后还 sensitive 才是真拒.
-    2026-06-09 增: 3 次 sensitive 后自动 fallback 到 M2.7 (MEMORY promoted pattern:
-      主备冗余 > 单一最优). M2.7 仍拒才 raise.
+import html
+import subprocess
+import time
+from datetime import datetime, timezone, timedelta
+
+# 当前处理书籍名称 (用于告警上下文追溯)
+_CURRENT_BOOK_TITLE = ""
+# 近期已发告警缓存，防止重试或级联报错导致短时间内重复刷屏
+_RECENT_ALERTS = {}
+
+def set_current_book_title(title: str):
+    """设置当前正在处理的书名"""
+    global _CURRENT_BOOK_TITLE
+    if title:
+        _CURRENT_BOOK_TITLE = title
+
+def _resolve_book_title(prompt_or_messages=None) -> str:
+    """提取或推断当前书名，优先全局设定，其次正则解析 prompt 内容"""
+    global _CURRENT_BOOK_TITLE
+    if _CURRENT_BOOK_TITLE:
+        return _CURRENT_BOOK_TITLE
+    
+    text = ""
+    if isinstance(prompt_or_messages, str):
+        text = prompt_or_messages
+    elif isinstance(prompt_or_messages, list) and prompt_or_messages:
+        text = str(prompt_or_messages[-1].get("content", ""))
+    
+    if text:
+        m = re.search(r"(?:书名[：:]\s*|为《|写《)([^》\n\r]+)", text)
+        if m:
+            extracted = m.group(1).strip()
+            if extracted:
+                return extracted
+    return "未知书籍"
+
+def send_tg_alert(message: str, chat_id: str = "299246410") -> bool:
+    """复用 reading-list TG 通道发送告警 (通过 curl 调用 Telegram Bot API)"""
+    _load_openclaw_env()
+    bot_token = os.environ.get("TG_BOT_TOKEN") or os.environ.get("TELEGRAM_BOT_TOKEN", "")
+    if not bot_token:
+        env_file = Path.home() / ".openclaw" / ".env"
+        if env_file.exists():
+            for line in env_file.read_text(encoding="utf-8").splitlines():
+                if line.startswith("TG_BOT_TOKEN=") or line.startswith("TELEGRAM_BOT_TOKEN="):
+                    bot_token = line.split("=", 1)[1].strip().strip('"').strip("'")
+                    break
+    if not bot_token:
+        print("  ⚠️  TG_BOT_TOKEN / TELEGRAM_BOT_TOKEN 未配置，跳过 TG 发送", file=sys.stderr)
+        return False
+    
+    url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
+    body = {
+        "chat_id": chat_id,
+        "text": message,
+        "parse_mode": "HTML",
+        "disable_web_page_preview": True,
+    }
+    try:
+        r = subprocess.run(
+            [
+                "curl", "-sS", "--max-time", "20", "-X", "POST",
+                "-H", "Content-Type: application/json",
+                "--data-binary", json.dumps(body),
+                url,
+            ],
+            capture_output=True,
+            text=True,
+            timeout=25,
+        )
+        if r.returncode != 0:
+            print(f"  ⚠️  TG 告警发送失败 (rc={r.returncode}): {r.stderr[:200]}", file=sys.stderr)
+            return False
+        elif '"ok":true' not in r.stdout:
+            print(f"  ⚠️  TG 告警接口返回非 ok: {r.stdout[:200]}", file=sys.stderr)
+            return False
+        else:
+            print(f"  ✓ TG 告警已送达 {chat_id}")
+            return True
+    except Exception as e:
+        print(f"  ⚠️  TG 发送异常: {e}", file=sys.stderr)
+        return False
+
+def send_generation_alert(book_title: str = "", reason: str = "", is_test: bool = False) -> bool:
+    """上游生成失败 TG 告警
+    内容包含: 书名、失败原因、时间
+    """
+    if not book_title:
+        book_title = _resolve_book_title()
+        
+    now_ts = time.time()
+    dedup_key = f"{book_title}:{reason[:60]}"
+    if not is_test and dedup_key in _RECENT_ALERTS and (now_ts - _RECENT_ALERTS[dedup_key] < 120):
+        return False
+    _RECENT_ALERTS[dedup_key] = now_ts
+
+    BJT = timezone(timedelta(hours=8))
+    now_str = datetime.now(BJT).strftime("%Y-%m-%d %H:%M:%S BJT")
+    
+    prefix = "🧪 <b>【测试告警·请忽略】</b>" if is_test else "🚨 <b>【好好读书·上游生成失败告警】</b>"
+    msg = (
+        f"{prefix}\n"
+        f"━━━━━━━━━━━━━━━━━━\n"
+        f"📖 <b>书名</b>: {html.escape(str(book_title))}\n"
+        f"⚠️ <b>失败原因</b>: {html.escape(str(reason))}\n"
+        f"🕒 <b>时间</b>: {now_str}\n"
+        f"━━━━━━━━━━━━━━━━━━\n"
+        f"请及时排查上游生成服务状态与 API 额度。"
+    )
+    return send_tg_alert(msg)
+
+def _load_openclaw_env():
+    """安全预载 ~/.openclaw/.env 环境变量，获取多厂商备用 API 密钥"""
+    env_file = Path.home() / ".openclaw" / ".env"
+    if env_file.exists():
+        try:
+            for line in env_file.read_text(encoding="utf-8").splitlines():
+                line = line.strip()
+                if line and not line.startswith("#") and "=" in line:
+                    k, v = line.split("=", 1)
+                    k = k.strip()
+                    v = v.strip().strip('"').strip("'")
+                    if k not in os.environ:
+                        os.environ[k] = v
+        except Exception:
+            pass
+
+def seconds_until_minimax_reset() -> int:
+    """计算距离下一个 MiniMax 5小时重置窗口 (00:00, 05:00, 10:00, 15:00, 20:00 BJT) 的等待秒数"""
+    from datetime import datetime, timezone, timedelta
+    BJT = timezone(timedelta(hours=8))
+    now = datetime.now(BJT)
+    reset_hours = [0, 5, 10, 15, 20, 24]
+    for h in reset_hours:
+        if h > now.hour or (h == now.hour and now.minute == 0 and now.second == 0):
+            target = now.replace(hour=h % 24, minute=0, second=0, microsecond=0)
+            if h == 24:
+                target += timedelta(days=1)
+            wait_sec = (target - now).total_seconds()
+            return max(int(wait_sec) + 15, 60)
+    return 1800
+
+
+def call_llm_with_failover(prompt_or_messages, max_tokens: int = 4096, temperature: float = 0.5, timeout: int = 90) -> str:
+    """多厂商高可用容灾网关 (DeepSeek-V3 -> DashScope / Qwen -> Claude 3.5 Haiku)
+    带进程级熔断保护：一旦某厂商返回 402 (余额耗尽) 或 billing 配额触顶，立即熔断 6 小时并自动降级到下一厂商。
     """
     import time
-    key = os.environ["MINIMAX_API_KEY"]
+    _load_openclaw_env()
+    now_ts = time.time()
+    errors = []
+
+    if isinstance(prompt_or_messages, str):
+        messages = [{"role": "user", "content": prompt_or_messages}]
+    else:
+        messages = prompt_or_messages
+
+    providers = [
+        {
+            "name": "DeepSeek-V3",
+            "url": "https://api.deepseek.com/chat/completions",
+            "model": "deepseek-chat",
+            "api_key": os.environ.get("DEEPSEEK_API_KEY", ""),
+        },
+        {
+            "name": "DashScope-Qwen",
+            "url": "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions",
+            "model": "qwen-plus",
+            "api_key": os.environ.get("DASHSCOPE_API_KEY", ""),
+        },
+        {
+            "name": "Claude-3.5-Haiku",
+            "url": "https://openrouter.ai/api/v1/chat/completions",
+            "model": "anthropic/claude-3.5-haiku",
+            "api_key": os.environ.get("OPENROUTER_API_KEY") or os.environ.get("ANTHROPIC_API_KEY", ""),
+        },
+    ]
+
+    for prov in providers:
+        pname = prov["name"]
+        key = prov["api_key"]
+        if not key:
+            continue  # 未配置 Key 的厂商跳过
+
+        if _CIRCUIT_BREAKER.get(pname, 0) > now_ts:
+            remain = int(_CIRCUIT_BREAKER[pname] - now_ts)
+            print(f"⏳ 厂商 {pname} 处于 402 计费熔断保护期 (剩余 {remain}s)，跳过", file=sys.stderr)
+            continue
+
+        print(f"🔄 [多厂商容灾网关] 路由切流至备用厂商: {pname} ({prov['model']})...", file=sys.stderr)
+        # DeepSeek 与 Claude 3.5 Haiku 等标准接口单次生成最大限制为 8192 tokens，防止 16000 触发 400 Bad Request
+        effective_max_tokens = min(max_tokens, 8192)
+        for attempt in range(2):
+            try:
+                body = {
+                    "model": prov["model"],
+                    "messages": messages,
+                    "max_tokens": effective_max_tokens,
+                    "temperature": temperature,
+                }
+                req = request.Request(
+                    prov["url"],
+                    data=json.dumps(body).encode("utf-8"),
+                    headers={
+                        "Authorization": f"Bearer {key}",
+                        "Content-Type": "application/json",
+                    },
+                    method="POST",
+                )
+                with request.urlopen(req, timeout=timeout) as resp:
+                    resp_data = json.loads(resp.read().decode("utf-8"))
+                    content = resp_data["choices"][0]["message"]["content"]
+                    print(f"✅ [多厂商容灾网关] {pname} 成功返回响应！", file=sys.stderr)
+                    return content
+            except error.HTTPError as e:
+                err_text = ""
+                try:
+                    err_text = e.read().decode("utf-8", errors="ignore")
+                except Exception:
+                    err_text = str(e.reason)
+
+                # HTTP 402 或账单配额耗尽：立即熔断该厂商 6 小时 (兼容中英文账单/额度错误关键词)
+                is_billing_err = (
+                    e.code == 402 or
+                    any(k in err_text.lower() for k in ("billing", "insufficient", "quota", "balance", "exhausted", "overdue", "unpaid")) or
+                    any(k in err_text for k in ("余额", "欠费", "额度不足", "充值"))
+                )
+                if is_billing_err:
+                    _CIRCUIT_BREAKER[pname] = time.time() + 6 * 3600
+                    msg = f"{pname}: HTTP {e.code} Billing/Quota Exhausted (熔断 6 小时)"
+                    print(f"🚨 {msg}", file=sys.stderr)
+                    errors.append(msg)
+                    send_generation_alert(_resolve_book_title(messages), f"备用厂商 {pname} 触发 402 计费熔断: {msg}")
+                    break
+
+                # HTTP 429 或 5xx：指数退避重试 1 次后切流
+                if e.code in (429, 500, 502, 503, 504) and attempt < 1:
+                    time.sleep(3 * (attempt + 1))
+                    continue
+
+                errors.append(f"{pname}: HTTP {e.code} {err_text[:120]}")
+                break
+            except Exception as e:
+                errors.append(f"{pname}: Network/Parsing Error {e}")
+                time.sleep(2)
+
+    err_summary = f"所有 LLM 容灾厂商均调用失败或未配置 Key! 追踪信息: {' | '.join(errors)}"
+    send_generation_alert(_resolve_book_title(messages), err_summary)
+    raise RuntimeError(err_summary)
+
+
+def call_minimax(prompt, model="MiniMax-M3.1-Flash", max_tokens=8000, timeout=600, thinking_disabled=True, effort="medium", retries=5):
+    """调用 MiniMax，带 retry（针对 429/500/502/503/504 + 指数退避）
+    2026-10-19 升级到 MiniMax-M3.1-Flash: 采用 output_config.effort 控制。
+    2026-10-24 增加 5h 周期限额 (2067) 智能守候机制，平稳跨越重置窗口不丢任务。
+    2026-11-11 增加多厂商容灾集成：遭遇 HTTP 402/账单耗尽时熔断 6 小时并自动无缝切入容灾网关。
+    """
+    import time
+    _load_openclaw_env()
+    now_ts = time.time()
+    if _CIRCUIT_BREAKER.get("MiniMax", 0) > now_ts:
+        remain = int(_CIRCUIT_BREAKER["MiniMax"] - now_ts)
+        print(f"⚠️ MiniMax 处于 402 计费熔断状态 (剩余 {remain}s)，直接切换至多厂商容灾网关...", file=sys.stderr)
+        return call_llm_with_failover(prompt, max_tokens=max_tokens)
+
+    key = os.environ.get("MINIMAX_API_KEY", "")
+    if not key:
+        print("⚠️ 未检测到 MINIMAX_API_KEY，直接路由至多厂商容灾网关...", file=sys.stderr)
+        return call_llm_with_failover(prompt, max_tokens=max_tokens)
+
     body = {
         "model": model,
         "max_tokens": max_tokens,
         "messages": [{"role": "user", "content": prompt}],
     }
-    if thinking_disabled:
+    if "M3.1" in model:
+        body["output_config"] = {"effort": effort}
+    elif thinking_disabled:
         body["thinking"] = {"type": "disabled"}
     last_err = None
     sensitive_count = 0  # 2026-06-09: 跟踪连续 sensitive 次数, 3 次才确定真拒
@@ -82,6 +362,13 @@ def call_minimax(prompt, model="MiniMax-M3", max_tokens=8000, timeout=600, think
             for block in resp.get("content", []):
                 if block.get("type") == "text":
                     content += block.get("text", "")
+            # 2026-09-30: MiniMax 对未知模型名会静默回退 M3 (实测: model="NOT-EXIST" → resp.model="MiniMax-M3", HTTP 200, 无 error).
+            # 不校验会导致 M3.1 悄悄降级成 M3, 质量无声下降且日志看不出. 必须显式校验.
+            resp_model = resp.get("model", "")
+            if resp_model and resp_model != model:
+                msg = f"模型静默降级: 请求 {model} → 实际返回 {resp_model} (MiniMax 对未知模型名静默回退 M3). 拒绝静默使用."
+                print(f"🚨 {msg}", file=sys.stderr, flush=True)
+                raise RuntimeError(msg)
             if attempt > 0:
                 print(f"✅ 第 {attempt+1} 次重试成功", file=sys.stderr)
             return content
@@ -96,21 +383,54 @@ def call_minimax(prompt, model="MiniMax-M3", max_tokens=8000, timeout=600, think
                 # 3 次连续 sensitive 才视为真拒 (避免误杀)
                 sensitive_count += 1
                 if sensitive_count >= 3 or attempt >= retries:
-                    # 2026-06-09: 3 次 sensitive 后 fallback 到 M2.7 (激进题材如《激荡三十年》走主备)
-                    if model == "MiniMax-M3" and os.environ.get("MINIMAX_FALLBACK_M27", "1") == "1":
+                    # 2026-10-19: M3.1 降级到 M3 (主备冗余), M3 再降级到 M2.7
+                    if "M3.1" in model and os.environ.get("MINIMAX_FALLBACK_M3", "1") == "1":
+                        print(f"⚠️ M3.1 sensitive x{sensitive_count} — fallback M3 (主备冗余)", file=sys.stderr)
+                        return call_minimax(prompt, model="MiniMax-M3", max_tokens=max_tokens, timeout=timeout, thinking_disabled=True, retries=2)
+                    elif model == "MiniMax-M3" and os.environ.get("MINIMAX_FALLBACK_M27", "1") == "1":
                         print(f"⚠️ M3 sensitive x{sensitive_count} — fallback M2.7 (主备冗余)", file=sys.stderr)
                         return call_minimax(prompt, model="MiniMax-M2.7", max_tokens=max_tokens, timeout=timeout, thinking_disabled=False, retries=2)
-                    print(f"⚠️ M3 内容审核拒 (sensitive x{sensitive_count}), 确认真拒", file=sys.stderr)
+                    print(f"⚠️ 内容审核拒 (sensitive x{sensitive_count}), 确认真拒", file=sys.stderr)
                     raise
                 print(f"⚠️ M3 sensitive (第 {sensitive_count} 次, 启发式, 重试中)", file=sys.stderr)
                 time.sleep(10)  # 短退避
                 continue
             print(f"⚠️ HTTPError {e.code} (attempt {attempt+1}/{retries+1}): {e.reason}", file=sys.stderr)
-            if e.code in (429, 500, 502, 503, 504) and attempt < retries:
-                wait = 8 * (attempt + 1)
-                print(f"   退避 {wait}s 后重试...", file=sys.stderr)
-                time.sleep(wait)
+            is_billing_err = (
+                e.code == 402 or
+                any(k in err_body.lower() for k in ("billing", "insufficient", "quota", "balance", "exhausted", "overdue", "unpaid")) or
+                any(k in err_body for k in ("余额", "欠费", "额度不足", "充值"))
+            )
+            if is_billing_err:
+                _CIRCUIT_BREAKER["MiniMax"] = time.time() + 6 * 3600
+                reason_msg = f"MiniMax HTTP {e.code} 余额耗尽/配额触顶 (已触发 6 小时进程熔断)"
+                print(f"🚨 {reason_msg}，切入容灾网关...", file=sys.stderr)
+                trigger_402_watchdog("MiniMax", reason_msg)
+                send_generation_alert(_resolve_book_title(prompt), reason_msg)
+                try:
+                    return call_llm_with_failover(prompt, max_tokens=max_tokens)
+                except Exception as fe:
+                    print(f"❌ 容灾切流亦失败: {fe}", file=sys.stderr)
+                raise
+            # 2026-11-18 强化: 遵循 MiniMax Token Plan 5小时重置窗口 (00:00, 05:00, 10:00, 15:00, 20:00 BJT)
+            # 撞 429 严禁反复盲目重试浪费算力与并发，直接对齐至下一个重置点唤醒续产
+            if e.code == 429:
+                wait_sec = seconds_until_minimax_reset()
+                print(f"⏳ [MiniMax 5h重置窗口守护] 检测到 HTTP 429 (Token Plan限流/额度触顶)，停止盲目重试，对齐至下一重置点唤醒 (等待 {wait_sec/60:.1f} 分钟)...", file=sys.stderr, flush=True)
+                time.sleep(wait_sec)
                 continue
+            if e.code in (500, 502, 503, 504):
+                if attempt < retries:
+                    wait = 8 * (attempt + 1)
+                    print(f"   退避 {wait}s 后重试...", file=sys.stderr)
+                    time.sleep(wait)
+                    continue
+                else:
+                    print(f"⚠️ MiniMax 重试耗尽 (code={e.code})，尝试容灾切流...", file=sys.stderr)
+                    try:
+                        return call_llm_with_failover(prompt, max_tokens=max_tokens)
+                    except Exception:
+                        pass
             raise
         except Exception as e:
             last_err = e
@@ -126,6 +446,9 @@ def call_minimax(prompt, model="MiniMax-M3", max_tokens=8000, timeout=600, think
 
 def tts_friendly_preprocess(text):
     """TTS 朗读前预处理（不完美，AI prompt 里也要约束）"""
+    # 2026-10-11 兜底清洗: 彻底过滤历史 prompt 词泄露 'M3 偏见' / 'M三偏见' 及生硬标题头 '洞察一：'
+    text = re.sub(r"M\s*[3三]\s*偏见", "常见认知偏见", text, flags=re.IGNORECASE)
+    text = re.sub(r"(?m)^\s*洞察[一二三四五六七八九十\d]+[：:——\-\s]*", "", text)
     text = re.sub(r"(\d{4})年", lambda m: "".join("零一二三四五六七八九"[int(d)] for d in m.group(1)) + "年", text)
     def num_to_cn(n):
         cn_map = "零一二三四五六七八九"
@@ -161,6 +484,11 @@ def _repair_unbalanced_quotes_in_json(raw):
     return cur
 
 
+def _clean_trailing_commas(s: str) -> str:
+    """2026-11-11 fix: 清洗 JSON 对象或数组末尾的多余逗号，例如: {"a": 1, } -> {"a": 1}, [1, 2, ] -> [1, 2]"""
+    return re.sub(r",\s*([\]}])", r"\1", s)
+
+
 def extract_json(content):
     # 2026-06-07 修复: M3 thinking:disabled 可能不彻底, 主动剥掉 <think>...</think> 块
     content = re.sub(r"<think>[\s\S]*?</think>", "", content)
@@ -171,11 +499,20 @@ def extract_json(content):
     try:
         return json.loads(raw)
     except json.JSONDecodeError as e:
+        # 2026-11-11 fix: 尝试尾逗号清洗 (Trailing Comma Cleaning)
+        try:
+            return json.loads(_clean_trailing_commas(raw))
+        except json.JSONDecodeError:
+            pass
+
         # 2026-06-09 修: M3 中文场景会在字符串里输出未转义半角双引号, 先转为中文引号
         print(f"⚠️ JSON 解析失败 (try repair): {e}", file=sys.stderr)
         try:
             fixed = _repair_unbalanced_quotes_in_json(raw)
-            return json.loads(fixed)
+            try:
+                return json.loads(fixed)
+            except json.JSONDecodeError:
+                return json.loads(_clean_trailing_commas(fixed))
         except json.JSONDecodeError:
             pass
         for trim_suffix in ["}", "]", "}", "\n", ""]:
@@ -185,6 +522,7 @@ def extract_json(content):
                     repaired = trimmed + (trim_suffix if trim_suffix else "}")
                 else:
                     repaired = trimmed
+                repaired = _clean_trailing_commas(repaired)
                 quote_count = repaired.count('"') - repaired.count('\\"')
                 if quote_count % 2 != 0:
                     repaired += '"'
@@ -378,6 +716,7 @@ def run_phase1(extracted_txt):
     """阶段 1: 生成本书结构 + 分集方案"""
     f = Path(extracted_txt)
     book_title = f.parent.name
+    set_current_book_title(book_title)
     text = f.read_text(encoding="utf-8")
 
     print(f"📖 阶段 1: 生成本书结构 + 分集方案")
@@ -385,15 +724,15 @@ def run_phase1(extracted_txt):
     print(f"   字数: {len(text)}")
 
     prompt = build_phase1_prompt(book_title, text)
-    print(f"🤖 调用 M3...")
+    print(f"🤖 调用 MiniMax-M3.1-Flash...")
     # 2026-06-09: 7 集书的 episodes 列表可能超 32000 token 截断, 失败时用 64000 重试
     try:
-        raw = call_minimax(prompt, model="MiniMax-M3", max_tokens=32000)
+        raw = call_minimax(prompt, model="MiniMax-M3.1-Flash", max_tokens=32000, effort="medium")
         data = extract_json(raw)
     except RuntimeError as e:
         if "JSON 解析失败" in str(e):
             print(f"⚠️ JSON 截断/损坏, 用 max_tokens=64000 重试", flush=True)
-            raw = call_minimax(prompt, model="MiniMax-M3", max_tokens=64000)
+            raw = call_minimax(prompt, model="MiniMax-M3.1-Flash", max_tokens=64000, effort="medium")
             data = extract_json(raw)
             print(f"  ✓ 64000 token 重试成功", flush=True)
         else:
@@ -413,6 +752,7 @@ def run_phase2(extracted_txt, episode_no):
     f = Path(extracted_txt)
     text = f.read_text(encoding="utf-8")
     book_title = f.parent.name
+    set_current_book_title(book_title)
 
     struct_path = f.parent / "book_structure.json"
     if not struct_path.exists():
@@ -433,7 +773,7 @@ def run_phase2(extracted_txt, episode_no):
 
     prompt = build_phase2_prompt(book_title, text, structure, episode_no, prior_summaries)
     print(f"📝 阶段 2: 写第 {episode_no} 集 (单段)")
-    raw = call_minimax(prompt, model="MiniMax-M3", max_tokens=16000)
+    raw = call_minimax(prompt, model="MiniMax-M3.1-Flash", max_tokens=16000, effort="medium")
     data = extract_json(raw)
 
     out = f.parent / f"episode_{episode_no}.json"
@@ -458,6 +798,7 @@ def run_phase2_split(extracted_txt, episode_no):
     f = Path(extracted_txt)
     text = f.read_text(encoding="utf-8")
     book_title = f.parent.name
+    set_current_book_title(book_title)
 
     struct_path = f.parent / "book_structure.json"
     if not struct_path.exists():
@@ -577,7 +918,7 @@ background: {ep.get("_background", "")}
 """
     
     print(f"📝 头段: position + background...", file=sys.stderr)
-    head_raw = call_minimax(head_prompt, model="MiniMax-M3", max_tokens=16000)
+    head_raw = call_minimax(head_prompt, model="MiniMax-M3.1-Flash", max_tokens=16000, effort="medium")
     head_data = extract_json(head_raw)
     
     # 合并
@@ -593,7 +934,7 @@ background: {ep.get("_background", "")}
     # 把已写的位置传过去 (用 .update 替换 ep 里临时字段)
     ep_with_pos = {**ep, "_position": sections.get("position", ""), "_background": sections.get("background", "")}
     tail_prompt_final = tail_prompt.format(ep=ep_with_pos, book_title=book_title, episode_no=episode_no)
-    tail_raw = call_minimax(tail_prompt_final, model="MiniMax-M3", max_tokens=16000)
+    tail_raw = call_minimax(tail_prompt_final, model="MiniMax-M3.1-Flash", max_tokens=16000, effort="medium")
     tail_data = extract_json(tail_raw)
     ep_data["sections"].update(tail_data.get("sections", {}))
     
@@ -619,15 +960,20 @@ def main():
     parser.add_argument("--mode", choices=["single", "split"], default="single", help="阶段 2 拆段模式")
     args = parser.parse_args()
     
-    if args.phase == 1:
-        run_phase1(args.extracted_txt)
-    elif args.phase == 2:
-        if args.mode == "split":
-            run_phase2_split(args.extracted_txt, args.episode)
+    try:
+        if args.phase == 1:
+            run_phase1(args.extracted_txt)
+        elif args.phase == 2:
+            if args.mode == "split":
+                run_phase2_split(args.extracted_txt, args.episode)
+            else:
+                run_phase2(args.extracted_txt, args.episode)
         else:
-            run_phase2(args.extracted_txt, args.episode)
-    else:
-        print(f"❌ 未知 --phase: {args.phase}")
+            print(f"❌ 未知 --phase: {args.phase}")
+    except Exception as e:
+        book_title = Path(args.extracted_txt).parent.name if args.extracted_txt else ""
+        send_generation_alert(book_title, f"生成异常中断 (phase {args.phase}): {e}")
+        raise
 
 
 if __name__ == "__main__":
